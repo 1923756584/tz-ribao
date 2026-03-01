@@ -1,0 +1,4 @@
+node_modules/
+hugo/public/
+.DS_Store
+*.log
