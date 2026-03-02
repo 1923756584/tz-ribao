@@ -11,7 +11,30 @@ const config = require('./config');
 
 const parser = new Parser();
 
-// 翻译函数（使用 LibreTranslate 公共 API）
+// 翻译函数（使用 MyMemory 免费 API）
+async function translate(text) {
+  if (!text || text.trim() === '') return text;
+  
+  // 如果已经是中文，直接返回
+  const chineseRegex = /[\u4e00-\u9fa5]/;
+  if (chineseRegex.test(text)) return text;
+  
+  try {
+    const encodedText = encodeURIComponent(text.slice(0, 500));
+    const response = await fetch(`https://api.mymemory.translated.net/get?q=${encodedText}&langpair=en|zh-CN`);
+    
+    if (response.ok) {
+      const data = await response.json();
+      if (data.responseStatus === 200 && data.responseData.translatedText) {
+        return data.responseData.translatedText;
+      }
+    }
+  } catch (err) {
+    // 翻译失败，使用原文
+  }
+  
+  return text;
+}
 async function translate(text) {
   if (!text || text.trim() === '') return text;
   
