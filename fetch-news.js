@@ -251,6 +251,11 @@ function highlightKeywords(text) {
     // 中国AI公司
     'DeepSeek', '智谱', 'Moonshot', '阶跃', '零一', '百川', '零一万物'
   ];
+  
+  let result = text;
+  
+  for (const kw of boldKeywords) {
+    const regex = new RegExp(`(?<!\*\*)${kw}(?!\*\*)`, 'gi');
     result = result.replace(regex, `**${kw}**`);
   }
   
