@@ -5,29 +5,49 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ .Title }}</title>
     <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 800px; margin: 50px auto; padding: 20px; }
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 800px; margin: 50px auto; padding: 20px; background: #f5f5f5; }
         h1 { color: #333; }
-        .article { margin: 20px 0; padding: 15px; border: 1px solid #eee; border-radius: 8px; }
-        .article h2 { margin-top: 0; }
-        .article a { color: #0066cc; text-decoration: none; }
-        .article a:hover { text-decoration: underline; }
-        .date { color: #666; font-size: 0.9em; }
+        .header { text-align: center; margin-bottom: 40px; }
+        .header h1 { font-size: 2.5em; margin-bottom: 10px; }
+        .header p { color: #666; }
+        .article { margin: 20px 0; padding: 20px; background: white; border: 1px solid #eee; border-radius: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        .article h2 { margin-top: 0; font-size: 1.3em; }
+        .article h2 a { color: #0066cc; text-decoration: none; }
+        .article h2 a:hover { text-decoration: underline; }
+        .article-meta { color: #888; font-size: 0.85em; margin-bottom: 10px; }
+        .article-content { line-height: 1.8; color: #444; }
+        .article-content h3 { font-size: 1.1em; margin: 20px 0 10px; color: #333; }
+        .article-content a { color: #0066cc; }
+        .article-content a:hover { text-decoration: underline; }
+        .article-content strong { color: #333; }
+        .category-tag { display: inline-block; background: #e8f4ff; color: #0066cc; padding: 2px 8px; border-radius: 4px; font-size: 0.8em; margin-right: 10px; }
+        .footer { text-align: center; margin-top: 40px; padding: 20px; color: #888; }
+        .footer a { color: #0066cc; }
     </style>
 </head>
 <body>
-    <h1>{{ .Title }}</h1>
-    <p>每日AI资讯聚合</p>
+    <div class="header">
+        <h1>🤖 TZ日报</h1>
+        <p>每日AI资讯聚合</p>
+    </div>
     
-    {{ range where .Site.RegularPages "Section" "" }}
+    {{ $pages := where .Site.RegularPages "Section" "2026-03" }}
+    {{ if eq (len $pages) 0 }}
+        {{ $pages = where .Site.Pages "Kind" "page" }}
+    {{ end }}
+    
+    {{ range sort $pages "Date" "desc" }}
     <div class="article">
         <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-        <p class="date">{{ .Date.Format "2006-01-02" }}</p>
-        <p>{{ .Summary }}</p>
+        <p class="article-meta">📅 {{ .Date.Format "2006年1月2日" }}</p>
+        <div class="article-content">
+            {{ .Content | htmlUnescape | safeHTML }}
+        </div>
     </div>
     {{ end }}
     
-    <footer>
-        <p><a href="/2026-03/">查看往期日报</a></p>
-    </footer>
+    <div class="footer">
+        <p><a href="/2026-03/">📚 查看往期日报</a></p>
+    </div>
 </body>
 </html>
