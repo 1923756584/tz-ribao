@@ -7,23 +7,18 @@ on:
     - cron: '0 23 * * *'
   # 支持手动触发
   workflow_dispatch:
+
 permissions:
   contents: write
   pages: write
-  idtoken: write
-permissions:
-  contents: write
+  id-token: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       pages: write
-      idtoken: write
-    
-    steps:
-  fetch-and-deploy:
-    runs-on: ubuntu-latest
+      id-token: write
     
     steps:
       - name: Checkout
@@ -61,15 +56,8 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       pages: write
+      id-token: write
     
     steps:
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
-        run: |
-          npm run build
-          
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./hugo/public
