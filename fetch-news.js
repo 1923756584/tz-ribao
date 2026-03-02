@@ -148,7 +148,18 @@ async function fetchNews() {
   fs.writeFileSync(path.join(__dirname, 'latest.md'), markdown);
   console.log(`✅ 已生成: latest.md\n`);
   
-  console.log('🎉 完成！');
+  // 确保生成了内容
+  if (filtered.length > 0) {
+    console.log('🎉 完成！');
+    process.exit(0);
+  } else {
+    console.log('⚠️ 未获取到任何新闻');
+    process.exit(1);
+  }
 }
 
-fetchNews().catch(console.error);
+// 使用 Promise 处理避免未捕获的 rejection
+fetchNews().catch(err => {
+  console.error('❌ 严重错误:', err.message);
+  process.exit(1);
+});
