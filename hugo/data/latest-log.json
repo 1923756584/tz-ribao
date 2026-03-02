@@ -1,0 +1,22 @@
+{
+  "timestamp": "2026-03-02T20:05:28.866Z",
+  "articlesCount": 20,
+  "sourcesCount": 2,
+  "categories": [
+    {
+      "category": "AI产品",
+      "count": 20,
+      "displayName": "AI产品"
+    }
+  ],
+  "topSources": [
+    [
+      "OpenAI Blog",
+      10
+    ],
+    [
+      "Google AI Blog",
+      10
+    ]
+  ]
+}

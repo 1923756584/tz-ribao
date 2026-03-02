@@ -158,20 +158,34 @@ async function translateBatch(texts) {
   return results;
 }
 
+const isGitHubActions = process.env.CI === 'true' || process.env.GITHUB_ACTIONS === 'true';
+
+
 // 智能摘要生成
 async function generateSmartSummary(item) {
+  // GitHub Actions 中不调用外部 API，直接使用 RSS 内容
+  if (isGitHubActions) {
+    const content = item.contentSnippet || item.content || "";
+    if (content) {
+      const cleanContent = content.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
+      return cleanContent.slice(0, 200) + (cleanContent.length > 200 ? "..." : "");
+    }
+    return item.title || "";
+  }
+
+  // 本地环境尝试使用 Jina AI 获取完整摘要
   if (item.link) {
     const jinaSummary = await generateSummaryWithJina(item.link);
     if (jinaSummary) return jinaSummary;
   }
 
-  const content = item.contentSnippet || item.content || '';
+  const content = item.contentSnippet || item.content || "";
   if (content) {
-    const cleanContent = content.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
-    return cleanContent.slice(0, 200) + (cleanContent.length > 200 ? '...' : '');
+    const cleanContent = content.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
+    return cleanContent.slice(0, 200) + (cleanContent.length > 200 ? "..." : "");
   }
 
-  return item.title || '';
+  return item.title || "";
 }
 
 // 计算AI重要性分数
@@ -255,7 +269,7 @@ function highlightKeywords(text) {
   let result = text;
   
   for (const kw of boldKeywords) {
-    const regex = new RegExp(`(?<!\*\*)${kw}(?!\*\*)`, 'gi');
+    const regex = new RegExp(`(?<!\\*\\*)${kw}(?!\\*\\*)`, 'gi');
     result = result.replace(regex, `**${kw}**`);
   }
   
