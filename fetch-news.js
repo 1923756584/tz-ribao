@@ -1,82 +1,22 @@
 /**
  * TZ日报 - 新闻抓取脚本
  * 功能：从 RSS 源抓取新闻，生成 Markdown 文件
- * 支持中英文翻译
  */
 
 const Parser = require('rss-parser');
 const fs = require('fs');
 const path = require('path');
 const config = require('./config');
-const fetch = require('node-fetch');
 
 const parser = new Parser();
-const fs = require('fs');
-const path = require('path');
-const config = require('./config');
-
-const parser = new Parser();
-
-// 翻译函数（使用 MyMemory 免费 API）
-async function translate(text) {
-  if (!text || text.trim() === '') return text;
-  
-  // 如果已经是中文，直接返回
-  const chineseRegex = /[\u4e00-\u9fa5]/;
-  if (chineseRegex.test(text)) return text;
-  
-  try {
-    const encodedText = encodeURIComponent(text.slice(0, 500));
-    const response = await fetch(`https://api.mymemory.translated.net/get?q=${encodedText}&langpair=en|zh-CN`);
-    
-    if (response.ok) {
-      const data = await response.json();
-      if (data.responseStatus === 200 && data.responseData.translatedText) {
-        return data.responseData.translatedText;
-      }
-    }
-  } catch (err) {
-    // 翻译失败，使用原文
-  }
-  
-  return text;
-}
-async function translate(text) {
-  if (!text || text.trim() === '') return text;
-  
-  // 如果已经是中文，直接返回
-  const chineseRegex = /[\u4e00-\u9fa5]/;
-  if (chineseRegex.test(text)) return text;
-  
-  try {
-    const response = await fetch('https://libretranslate.com/translate', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        q: text.slice(0, 500), // 限制长度
-        source: 'en',
-        target: 'zh'
-      })
-    });
-    
-    if (response.ok) {
-      const data = await response.json();
-      return data.translatedText || text;
-    }
-  } catch (err) {
-    // 翻译失败，使用原文
-  }
-  
-  return text;
-}
 
 // 获取今天的日期
 function getToday() {
   const now = new Date();
   return {
-    full: now.toISOString().slice(0, 10),           // 2026-03-01
-    month: now.toISOString().slice(0, 7),            // 2026-03
-    day: now.toISOString().slice(8, 10),             // 01
+    full: now.toISOString().slice(0, 10),
+    month: now.toISOString().slice(0, 7),
+    day: now.toISOString().slice(8, 10),
     chinese: `${now.getFullYear()}年${now.getMonth() + 1}月${now.getDate()}日`,
     fileName: now.toISOString().slice(0, 10).replace(/-/g, '')
   };
@@ -99,7 +39,7 @@ function filterNews(items) {
   
   return items.filter(item => {
     const title = item.title || '';
-    const content = item.contentSnippet || '';
+    const content = item.contentSnippet || item.content || '';
     const text = title + ' ' + content;
     
     // 排除关键词
@@ -121,7 +61,7 @@ function filterNews(items) {
 }
 
 // 生成 Markdown 内容
-function generateMarkdown(articles, translatedTitles) {
+function generateMarkdown(articles) {
   const date = getToday();
   const now = new Date();
   
@@ -138,19 +78,22 @@ function generateMarkdown(articles, translatedTitles) {
   
   // 按分类整理
   const categories = {};
-  articles.forEach((article, index) => {
+  articles.forEach(article => {
     const cat = article.category || '其他';
     if (!categories[cat]) categories[cat] = [];
-    categories[cat].push({ ...article, translatedTitle: translatedTitles[index] });
+    categories[cat].push(article);
   });
+  
+  // 分类名称映射
+  const categoryNames = config.categoryNames || {};
   
   // 输出分类
   for (const [cat, items] of Object.entries(categories)) {
-    md += `## ${cat}\n\n`;
+    const displayName = categoryNames[cat] || cat;
+    md += `## ${displayName}\n\n`;
     items.forEach(item => {
-      const title = item.translatedTitle || item.title;
       md += `### ${item.source}\n`;
-      md += `**${title}**\n\n`;
+      md += `**${item.title}**\n\n`;
       if (item.content) {
         md += `${item.content.slice(0, 300)}...\n\n`;
       }
@@ -197,23 +140,9 @@ async function fetchNews() {
   
   console.log(`📊 共获取 ${filtered.length} 条新闻\n`);
   
-  // 翻译标题
-  console.log('🌐 翻译标题为中文...\n');
-  const titles = filtered.map(a => a.title);
-  const translatedTitles = await Promise.all(
-    titles.map(async (title, i) => {
-      const translated = await translate(title);
-      if ((i + 1) % 5 === 0) {
-        console.log(`   翻译进度: ${i + 1}/${titles.length}`);
-      }
-      return translated;
-    })
-  );
-  console.log('   翻译完成!\n');
-  
   // 生成内容
   const date = getToday();
-  const markdown = generateMarkdown(filtered, translatedTitles);
+  const markdown = generateMarkdown(filtered);
   
   // 输出到 hugo content 目录
   const outputDir = path.join(__dirname, 'hugo', 'content', date.month);

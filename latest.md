@@ -1,30 +1,38 @@
+---
+title: "2026年3月2日 - TZ日报"
+date: 2026-03-02T07:19:12.477Z
+draft: false
+---
+
 # 2026年3月2日 - TZ日报
 
 > 每日AI资讯聚合 | 更新时间：2026年3月2日
 
 ---
 
-## AI新闻
+## 🔥 AI新闻
+
+### Hacker News
+**Evolving descriptive text of mental content from human brain activity**
+
+Article URL: https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts
+Comments URL: https://news.ycombinator.com/item?id=47214250
+Points: 14
+# Comments: 4...
+
+[原文链接](https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts)
+
+---
 
 ### Hacker News
 **If AI writes code, should the session be part of the commit?**
 
 Article URL: https://github.com/mandel-macaque/memento
 Comments URL: https://news.ycombinator.com/item?id=47212355
-Points: 51
-# Comments: 81...
+Points: 157
+# Comments: 171...
 
 [原文链接](https://github.com/mandel-macaque/memento)
-
----
-
-### Hacker News
-**Show HN: Logira – eBPF runtime auditing for AI agent runs**
-
-I started using Claude Code (claude --dangerously-skip-permissions) and Codex (codex --yolo) and realized I had no reliable way to know what they actually did. The agent's own output tells you a story, but it's the agent's story.
-logira records exec, file, and network events at the OS level via eBPF...
-
-[原文链接](https://github.com/melonattacker/logira)
 
 ---
 
@@ -33,26 +41,14 @@ logira records exec, file, and network events at the OS level via eBPF...
 
 Article URL: https://github.com/AlexsJones/llmfit
 Comments URL: https://news.ycombinator.com/item?id=47211830
-Points: 43
-# Comments: 5...
+Points: 95
+# Comments: 23...
 
 [原文链接](https://github.com/AlexsJones/llmfit)
 
 ---
 
-### Hacker News
-**WebMCP is available for early preview**
-
-Article URL: https://developer.chrome.com/blog/webmcp-epp
-Comments URL: https://news.ycombinator.com/item?id=47211249
-Points: 201
-# Comments: 124...
-
-[原文链接](https://developer.chrome.com/blog/webmcp-epp)
-
----
-
-## 学术
+## 📄 学术论文
 
 ### Arxiv AI
 **DARE-bench: Evaluating Modeling and Instruction Fidelity of LLMs in Data Science**
@@ -96,14 +92,16 @@ Points: 201
 
 ---
 
-### Arxiv CV
-**Uncertainty Quantification for Multimodal Large Language Models with Incoherence-adjusted Semantic Volume**
+## 🚀 前沿动态
 
-[原文链接](https://arxiv.org/abs/2602.24195v1)
+### OpenAI
+**Our agreement with the Department of War**
+
+Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments....
+
+[原文链接](https://openai.com/index/our-agreement-with-the-department-of-war)
 
 ---
-
-## 前沿
 
 ### OpenAI
 **Joint Statement from OpenAI and Microsoft**
@@ -142,6 +140,15 @@ Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, m
 ---
 
 ### OpenAI
+**An update on our mental health-related work**
+
+OpenAI shares updates on its mental health safety work, including parental controls, trusted contacts, improved distress detection, and recent litigation developments....
+
+[原文链接](https://openai.com/index/update-on-mental-health-related-work)
+
+---
+
+### OpenAI
 **Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting **
 
 OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews....
@@ -168,68 +175,21 @@ Our latest threat report examines how malicious actors combine AI models with we
 
 ---
 
+### OpenAI
+**Arvind KC appointed Chief People Officer**
+
+OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI....
+
+[原文链接](https://openai.com/index/arvind-kc-chief-people-officer)
+
+---
+
 ### Google AI
 **Google and the Massachusetts AI Hub are launching a new AI training initiative for the Commonwealth.**
 
 Google is partnering with the Massachusetts AI Hub to provide every Baystater with no-cost access to Google’s AI training....
 
 [原文链接](https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/)
-
----
-
-### Google AI
-**Get more context and understand translations more deeply with new AI-powered updates in Translate.**
-
-New alternatives, “understand” and “ask” buttons in Google Translate help you navigate the complexities of natural language....
-
-[原文链接](https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/)
-
----
-
-### Google AI
-**“No technology has me dreaming bigger than AI”**
-
-Sundar Pichai gave remarks at the opening ceremony of the AI Impact Summit. Read a transcript of his speech....
-
-[原文链接](https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/)
-
----
-
-### Google AI
-**AI Impact Summit 2026**
-
-A look at the partnerships and investments Google announced at the AI Impact Summit 2026....
-
-[原文链接](https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/)
-
----
-
-### Google AI
-**AI Impact Summit 2026: How we’re partnering to make AI work for everyone**
-
-An overview of Google’s new global partnerships and funding announcements at the AI Impact Summit in India....
-
-[原文链接](https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/)
-
----
-
-## 科技
-
-### TechCrunch
-**Google looks to tackle longstanding RCS spam in India — but not alone**
-
-Google is integrating carrier-level filtering into RCS in India through a partnership with Airtel to strengthen protections against spam....
-
-[原文链接](https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/)
-
----
-
-### TechCrunch
-**Investors spill what they aren’t looking for anymore in AI SaaS companies**
-
-TechCrunch spoke with VCs to learn what investors aren't looking for in AI SaaS startups anymore....
-
-[原文链接](https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/)
 
 ---
 
