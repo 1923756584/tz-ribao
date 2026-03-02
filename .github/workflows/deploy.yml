@@ -1,10 +1,11 @@
-# TZ日报 - 每日自动更新
-name: Daily Update
+# TZ日报 - 网站部署
+name: Deploy Site
 
 on:
-  # 每天 23:00 自动执行
-  schedule:
-    - cron: '0 23 * * *'
+  # 每次推送时运行
+  push:
+    branches:
+      - main
   # 支持手动触发
   workflow_dispatch:
 
