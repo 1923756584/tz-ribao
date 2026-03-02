@@ -1,28 +1,9 @@
 baseURL = 'https://1923756584.github.io/tz-ribao/'
 languageCode = 'zh-cn'
 title = 'TZ日报'
-
-[params]
-  author = "TZ"
-  description = "每日AI资讯聚合"
-  
-  [[params.menu]]
-    name = "首页"
-    url = "/"
-    weight = 1
-  [[params.menu]]
-    name = "关于"
-    url = "/about"
-    weight = 2
-
-[outputs]
-  home = ["HTML", "RSS"]
-languageCode = 'zh-cn'
-title = 'TZ日报'
 theme = 'hugo-notepadium'
 
 [params]
-  # 主题配置
   author = "TZ"
   description = "每日AI资讯聚合"
   
@@ -47,6 +28,5 @@ theme = 'hugo-notepadium'
   highlightjs = true
   highlightjsTheme = "github-dark"
 
-# 启用 RSS
 [outputs]
   home = ["HTML", "RSS"]
