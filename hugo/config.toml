@@ -1,7 +1,6 @@
 baseURL = 'https://1923756584.github.io/tz-ribao/'
 languageCode = 'zh-cn'
 title = 'TZ日报'
-theme = 'hugo-notepadium'
 
 [params]
   author = "TZ"
