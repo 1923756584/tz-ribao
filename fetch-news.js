@@ -63,6 +63,18 @@ function filterNews(items) {
 // 生成 Markdown 内容
 function generateMarkdown(articles) {
   const date = getToday();
+  const now = new Date();
+  
+  // Hugo front matter
+  let md = `---\n`;
+  md += `title: "${date.chinese} - TZ日报"\n`;
+  md += `date: ${now.toISOString()}\n`;
+  md += `draft: false\n`;
+  md += `---\n\n`;
+  
+  md += `# ${date.chinese} - TZ日报\n\n`;
+function generateMarkdown(articles) {
+  const date = getToday();
   
   let md = `# ${date.chinese} - TZ日报\n\n`;
   md += `> 每日AI资讯聚合 | 更新时间：${date.chinese}\n\n`;
