@@ -8,6 +8,12 @@ const Parser = require('rss-parser');
 const fs = require('fs');
 const path = require('path');
 const config = require('./config');
+const fetch = require('node-fetch');
+
+const parser = new Parser();
+const fs = require('fs');
+const path = require('path');
+const config = require('./config');
 
 const parser = new Parser();
 
