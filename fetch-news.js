@@ -1,6 +1,7 @@
 /**
  * TZ日报 - 新闻抓取脚本
  * 功能：从 RSS 源抓取新闻，生成 Markdown 文件
+ * 自动翻译为中文
  */
 
 const Parser = require('rss-parser');
@@ -10,13 +11,116 @@ const config = require('./config');
 
 const parser = new Parser();
 
+// 翻译函数 - 使用多个备用 API
+async function translate(text) {
+  if (!text || text.trim() === '') return text;
+  
+  // 如果已经是中文，直接返回
+  const chineseRegex = /[\u4e00-\u9fa5]/;
+  if (chineseRegex.test(text)) return text;
+  
+  // 限制文本长度
+  const truncated = text.slice(0, 800);
+  
+  // 尝试多个翻译 API
+  const apis = [
+    // MyMemory API
+    async () => {
+      const encodedText = encodeURIComponent(truncated);
+      const response = await fetch(`https://api.mymemory.translated.net/get?q=${encodedText}&langpair=en|zh-CN`);
+      if (response.ok) {
+        const data = await response.json();
+        if (data.responseStatus === 200 && data.responseData.translatedText) {
+          return data.responseData.translatedText;
+        }
+      }
+      return null;
+    },
+    // LibreTranslate (公共实例)
+    async () => {
+      const response = await fetch('https://libretranslate.com/translate', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ q: truncated, source: 'en', target: 'zh' })
+      });
+      if (response.ok) {
+        const data = await response.json();
+        if (data.translatedText) return data.translatedText;
+      }
+      return null;
+    },
+    // DeepL 备用 (可能需要 API key)
+    async () => {
+      // 尝试使用 DeepL 免费 API
+      const response = await fetch('https://api-free.deepl.com/v2/translate', {
+        method: 'POST',
+        headers: { 
+          'Content-Type': 'application/x-www-form-urlencoded',
+          'Authorization': 'DeepL-Auth-Key free' 
+        },
+        body: `text=${encodeURIComponent(truncated)}&source_lang=EN&target_lang=ZH`
+      });
+      if (response.ok) {
+        const data = await response.json();
+        if (data.translations && data.translations[0]) {
+          return data.translations[0].text;
+        }
+      }
+      return null;
+    }
+  ];
+  
+  // 依次尝试每个 API
+  for (const apiFn of apis) {
+    try {
+      const result = await apiFn();
+      if (result) return result;
+    } catch (e) {
+      // 继续尝试下一个 API
+    }
+  }
+  
+  // 所有 API 都失败，返回原文
+  return text;
+}
+
+// 批量翻译 - 带缓存和进度
+async function translateBatch(texts) {
+  const results = [];
+  for (let i = 0; i < texts.length; i++) {
+    const text = texts[i];
+    if (!text || text.trim() === '') {
+      results.push(text);
+      continue;
+    }
+    
+    // 检查是否已经是中文
+    const chineseRegex = /[\u4e00-\u9fa5]/;
+    if (chineseRegex.test(text)) {
+      results.push(text);
+      continue;
+    }
+    
+    const translated = await translate(text);
+    results.push(translated);
+    
+    // 每翻译 3 条输出一次进度
+    if ((i + 1) % 3 === 0) {
+      console.log(`   翻译进度: ${i + 1}/${texts.length}`);
+    }
+    
+    // 避免请求过快
+    await new Promise(r => setTimeout(r, 300));
+  }
+  return results;
+}
+
 // 获取今天的日期
 function getToday() {
   const now = new Date();
   return {
     full: now.toISOString().slice(0, 10),
     month: now.toISOString().slice(0, 7),
-    day: now.toISOString().slice(8, 10),
     chinese: `${now.getFullYear()}年${now.getMonth() + 1}月${now.getDate()}日`,
     fileName: now.toISOString().slice(0, 10).replace(/-/g, '')
   };
@@ -49,7 +153,7 @@ function filterNews(items) {
       }
     }
     
-    // 包含关键词（如果没有配置则全部通过）
+    // 包含关键词
     if (!filterKeywords || filterKeywords.length === 0) return true;
     
     for (const kw of filterKeywords) {
@@ -60,8 +164,17 @@ function filterNews(items) {
   });
 }
 
+// 简化文本 - 移除 Markdown 格式，保留核心内容
+function simplifyText(text) {
+  if (!text) return '';
+  // 移除多余空白
+  text = text.replace(/\s+/g, ' ').trim();
+  // 截取前 200 字符
+  return text.slice(0, 200);
+}
+
 // 生成 Markdown 内容
-function generateMarkdown(articles) {
+function generateMarkdown(articles, translatedTitles, translatedContents) {
   const date = getToday();
   const now = new Date();
   
@@ -78,10 +191,14 @@ function generateMarkdown(articles) {
   
   // 按分类整理
   const categories = {};
-  articles.forEach(article => {
+  articles.forEach((article, index) => {
     const cat = article.category || '其他';
     if (!categories[cat]) categories[cat] = [];
-    categories[cat].push(article);
+    categories[cat].push({
+      ...article,
+      translatedTitle: translatedTitles[index],
+      translatedContent: translatedContents[index]
+    });
   });
   
   // 分类名称映射
@@ -92,10 +209,13 @@ function generateMarkdown(articles) {
     const displayName = categoryNames[cat] || cat;
     md += `## ${displayName}\n\n`;
     items.forEach(item => {
+      const title = item.translatedTitle || item.title;
+      const content = item.translatedContent || simplifyText(item.content);
+      
       md += `### ${item.source}\n`;
-      md += `**${item.title}**\n\n`;
-      if (item.content) {
-        md += `${item.content.slice(0, 300)}...\n\n`;
+      md += `**${title}**\n\n`;
+      if (content) {
+        md += `${content}\n\n`;
       }
       md += `[原文链接](${item.link})\n\n`;
       md += `---\n\n`;
@@ -140,9 +260,21 @@ async function fetchNews() {
   
   console.log(`📊 共获取 ${filtered.length} 条新闻\n`);
   
+  // 翻译标题
+  console.log('🌐 翻译标题...\n');
+  const titles = filtered.map(a => a.title);
+  const translatedTitles = await translateBatch(titles);
+  console.log('   标题翻译完成!\n');
+  
+  // 翻译内容摘要
+  console.log('🌐 翻译内容...\n');
+  const contents = filtered.map(a => simplifyText(a.content));
+  const translatedContents = await translateBatch(contents);
+  console.log('   内容翻译完成!\n');
+  
   // 生成内容
   const date = getToday();
-  const markdown = generateMarkdown(filtered);
+  const markdown = generateMarkdown(filtered, translatedTitles, translatedContents);
   
   // 输出到 hugo content 目录
   const outputDir = path.join(__dirname, 'hugo', 'content', date.month);
@@ -157,7 +289,7 @@ async function fetchNews() {
   fs.writeFileSync(outputFile, markdown);
   console.log(`✅ 已生成: ${outputFile}\n`);
   
-  // 同时输出一份到根目录（方便查看）
+  // 同时输出一份到根目录
   fs.writeFileSync(path.join(__dirname, 'latest.md'), markdown);
   console.log(`✅ 已生成: latest.md\n`);
   
