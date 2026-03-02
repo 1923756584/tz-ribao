@@ -19,6 +19,9 @@ module.exports = {
     { name: '极客公园', url: 'https://www.geekpark.net/rss/', category: '中文' },
     { name: '机核', url: 'https://www.gcores.com/rss/', category: '中文' },
     { name: 'Solidot', url: 'https://www.solidot.org/index.rss', category: '中文' },
+    { name: 'V2EX', url: 'https://www.v2ex.com/index.xml', category: '中文' },
+    { name: '阮一峰博客', url: 'https://www.ruanyifeng.com/blog/atom.xml', category: '中文' },
+    { name: '美团技术', url: 'https://tech.meituan.com/feed/', category: '中文' },
     
     // ===== AI 新闻 =====
     { name: 'Hacker News', url: 'https://hnrss.org/frontpage', category: 'AI新闻' },
@@ -28,12 +31,15 @@ module.exports = {
     { name: 'Arxiv AI', url: 'http://export.arxiv.org/api/query?search_query=cat:cs.AI&sortBy=submittedDate&sortOrder=descending&max_results=10', category: '学术' },
     { name: 'Arxiv ML', url: 'http://export.arxiv.org/api/query?search_query=cat:cs.LG&sortBy=submittedDate&sortOrder=descending&max_results=10', category: '学术' },
     
-    // ===== 大厂博客 =====
+    // ===== 大厂AI博客 =====
     { name: 'OpenAI', url: 'https://openai.com/blog/rss.xml', category: '前沿' },
     { name: 'Google AI', url: 'https://blog.google/technology/ai/rss', category: '前沿' },
     { name: 'Microsoft AI', url: 'https://blogs.microsoft.com/ai/feed/', category: '前沿' },
-    { name: 'MIT News AI', url: 'https://news.mit.edu/rss/topic/artificial-intelligence2', category: '学术' },
     { name: 'Anthropic', url: 'https://www.anthropic.com/feed', category: '前沿' },
+    { name: 'Meta AI', url: 'https://ai.meta.com/feed/', category: '前沿' },
+    { name: 'NVIDIA', url: 'https://blogs.nvidia.com/feed/', category: '前沿' },
+    { name: 'Hugging Face', url: 'https://huggingface.co/blog/feed.xml', category: '前沿' },
+    { name: 'MIT News AI', url: 'https://news.mit.edu/rss/topic/artificial-intelligence2', category: '学术' },
     
     // ===== 科技新闻 =====
     { name: 'TechCrunch', url: 'https://techcrunch.com/feed/', category: '科技' },
@@ -45,10 +51,10 @@ module.exports = {
   ],
 
   // 每天抓取多少条新闻
-  maxItems: 30,
+  maxItems: 35,
 
   // 过滤关键词
-  filterKeywords: ['AI', 'LLM', 'GPT', 'Claude', 'machine learning', 'deep learning', 'model', 'agent', 'OpenAI', 'Google', 'Microsoft', 'Anthropic', '人工智能', '大模型', 'AIGC', 'ChatGPT', '智能体'],
+  filterKeywords: ['AI', 'LLM', 'GPT', 'Claude', 'machine learning', 'deep learning', 'model', 'agent', 'OpenAI', 'Google', 'Microsoft', 'Anthropic', 'Meta', 'Nvidia', '人工智能', '大模型', 'AIGC', 'ChatGPT', '智能体', 'Hugging Face'],
   
   // 排除关键词
   excludeKeywords: ['Porn', 'casino', '广告', '招聘', '求职', '兼职'],
