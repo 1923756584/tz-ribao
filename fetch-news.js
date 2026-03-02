@@ -1,6 +1,7 @@
 /**
  * TZ日报 - 新闻抓取脚本
  * 功能：从 RSS 源抓取新闻，生成 Markdown 文件
+ * 支持中英文翻译
  */
 
 const Parser = require('rss-parser');
@@ -9,6 +10,36 @@ const path = require('path');
 const config = require('./config');
 
 const parser = new Parser();
+
+// 翻译函数（使用 LibreTranslate 公共 API）
+async function translate(text) {
+  if (!text || text.trim() === '') return text;
+  
+  // 如果已经是中文，直接返回
+  const chineseRegex = /[\u4e00-\u9fa5]/;
+  if (chineseRegex.test(text)) return text;
+  
+  try {
+    const response = await fetch('https://libretranslate.com/translate', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        q: text.slice(0, 500), // 限制长度
+        source: 'en',
+        target: 'zh'
+      })
+    });
+    
+    if (response.ok) {
+      const data = await response.json();
+      return data.translatedText || text;
+    }
+  } catch (err) {
+    // 翻译失败，使用原文
+  }
+  
+  return text;
+}
 
 // 获取今天的日期
 function getToday() {
@@ -61,7 +92,7 @@ function filterNews(items) {
 }
 
 // 生成 Markdown 内容
-function generateMarkdown(articles) {
+function generateMarkdown(articles, translatedTitles) {
   const date = getToday();
   const now = new Date();
   
@@ -73,27 +104,24 @@ function generateMarkdown(articles) {
   md += `---\n\n`;
   
   md += `# ${date.chinese} - TZ日报\n\n`;
-function generateMarkdown(articles) {
-  const date = getToday();
-  
-  let md = `# ${date.chinese} - TZ日报\n\n`;
   md += `> 每日AI资讯聚合 | 更新时间：${date.chinese}\n\n`;
   md += `---\n\n`;
   
   // 按分类整理
   const categories = {};
-  articles.forEach(article => {
+  articles.forEach((article, index) => {
     const cat = article.category || '其他';
     if (!categories[cat]) categories[cat] = [];
-    categories[cat].push(article);
+    categories[cat].push({ ...article, translatedTitle: translatedTitles[index] });
   });
   
   // 输出分类
   for (const [cat, items] of Object.entries(categories)) {
     md += `## ${cat}\n\n`;
     items.forEach(item => {
+      const title = item.translatedTitle || item.title;
       md += `### ${item.source}\n`;
-      md += `**${item.title}**\n\n`;
+      md += `**${title}**\n\n`;
       if (item.content) {
         md += `${item.content.slice(0, 300)}...\n\n`;
       }
@@ -111,14 +139,15 @@ async function fetchNews() {
   
   const allArticles = [];
   
+  // 抓取所有 RSS 源
   for (const source of config.sources) {
     try {
-      console.log(`📥 抓取: ${source.name}...`);
+      console.log(`📡 抓取: ${source.name}...`);
       const feed = await parser.parseURL(source.url);
       
-      const items = (feed.items || []).slice(0, 10).map(item => ({
-        title: item.title,
-        link: item.link,
+      const items = feed.items.slice(0, 10).map(item => ({
+        title: item.title || '',
+        link: item.link || '',
         content: item.contentSnippet || item.content || '',
         pubDate: item.pubDate,
         source: source.name,
@@ -139,9 +168,23 @@ async function fetchNews() {
   
   console.log(`📊 共获取 ${filtered.length} 条新闻\n`);
   
+  // 翻译标题
+  console.log('🌐 翻译标题为中文...\n');
+  const titles = filtered.map(a => a.title);
+  const translatedTitles = await Promise.all(
+    titles.map(async (title, i) => {
+      const translated = await translate(title);
+      if ((i + 1) % 5 === 0) {
+        console.log(`   翻译进度: ${i + 1}/${titles.length}`);
+      }
+      return translated;
+    })
+  );
+  console.log('   翻译完成!\n');
+  
   // 生成内容
   const date = getToday();
-  const markdown = generateMarkdown(filtered);
+  const markdown = generateMarkdown(filtered, translatedTitles);
   
   // 输出到 hugo content 目录
   const outputDir = path.join(__dirname, 'hugo', 'content', date.month);
@@ -170,8 +213,8 @@ async function fetchNews() {
   }
 }
 
-// 使用 Promise 处理避免未捕获的 rejection
+// 执行
 fetchNews().catch(err => {
-  console.error('❌ 严重错误:', err.message);
+  console.error('❌ 错误:', err);
   process.exit(1);
 });
