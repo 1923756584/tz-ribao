@@ -1,0 +1,154 @@
+{{ define "main" }}
+  <div class="page-404 min-h-screen flex items-center justify-center px-6 py-12">
+    <div class="max-w-2xl w-full text-center">
+      <!-- 404图标 -->
+      <div class="mb-8">
+        <svg class="mx-auto h-32 w-auto text-primary-pink" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-2h2v2zm0-4h-2V7h2v6z"/>
+        </svg>
+      </div>
+      
+      <!-- 标题 -->
+      <h1 class="text-8xl md:text-9xl font-bold gradient-text mb-4">
+        404
+      </h1>
+      
+      <!-- 副标题 -->
+      <h2 class="text-3xl md:text-4xl font-semibold text-white mb-4">
+        {{ .Site.Params.error.subtitle404 | default "Oops! 这个页面可能已经被AI接管了..." }}
+      </h2>
+      
+      <!-- 描述文字 -->
+      <p class="text-lg text-gray-300 mb-8 max-w-md mx-auto">
+        {{ .Site.Params.error.description404 | default "不如回首页看看今天的AI资讯？" }}
+      </p>
+      
+      <!-- 推荐内容 -->
+      <div class="bg-dark-card border border-border-color rounded-xl p-6 mb-8">
+        <h3 class="text-xl font-semibold text-white mb-4">🤖 今日推荐</h3>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 text-left">
+          <a href="{{ .Site.BaseURL }}" class="block p-4 rounded-lg bg-gradient-to-r from-primary-pink/20 to-primary-purple/20 hover:from-primary-pink/30 hover:to-primary-purple/30 transition-all duration-300 border border-border-color">
+            <div class="flex items-center mb-2">
+              <span class="text-2xl mr-3">📰</span>
+              <span class="font-medium text-white">最新日报</span>
+            </div>
+            <p class="text-sm text-gray-300">查看今日AI资讯汇总</p>
+          </a>
+          <a href="{{ .Site.BaseURL }}/tags/AI%E4%BA%A7%E5%93%81" class="block p-4 rounded-lg bg-gradient-to-r from-primary-cyan/20 to-primary-purple/20 hover:from-primary-cyan/30 hover:to-primary-purple/30 transition-all duration-300 border border-border-color">
+            <div class="flex items-center mb-2">
+              <span class="text-2xl mr-3">🚀</span>
+              <span class="font-medium text-white">产品更新</span>
+            </div>
+            <p class="text-sm text-gray-300">AI产品最新动态</p>
+          </a>
+        </div>
+      </div>
+      
+      <!-- 按钮 -->
+      <a href="{{ .Site.BaseURL }}" class="inline-flex items-center px-8 py-3 rounded-full bg-gradient-to-r from-primary-pink to-primary-purple text-white font-semibold hover:from-primary-pink hover:to-primary-purple transition-all duration-300 shadow-lg hover:shadow-xl transform hover:-translate-y-1">
+        <svg class="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20">
+          <path d="M10.707 2.293a1 1 0 00-1.414 0l-7 7a1 1 0 001.414 1.414L4 10.414V17a1 1 0 001 1h2a1 1 0 001-1v-2a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 001 1h2a1 1 0 001-1v-6.586l.293.293a1 1 0 001.414-1.414l-7-7z"/>
+        </svg>
+        {{ .Site.Params.error.buttonText404 | default "返回首页" }}
+      </a>
+      
+      <!-- 搜索建议 -->
+      <div class="mt-8">
+        <p class="text-gray-400 text-sm mb-4">或者搜索您感兴趣的内容...</p>
+        <div class="hextra-search-wrapper relative max-w-md mx-auto">
+          <input 
+            type="search" 
+            placeholder="搜索AI资讯..." 
+            class="w-full px-4 py-2 rounded-lg border border-border-color bg-dark-card text-white focus:outline-none focus:ring-2 focus:ring-primary-pink focus:border-transparent"
+            id="error-page-search"
+          >
+        </div>
+      </div>
+      
+      <!-- 一些有趣的AI小知识 -->
+      <div class="mt-12 text-left bg-dark-card border border-border-color rounded-xl p-6">
+        <h3 class="text-xl font-semibold text-white mb-3 text-center">💡 AI小知识</h3>
+        <div class="text-sm text-gray-300 space-y-2" id="ai-facts">
+          <p class="flex items-start">
+            <span class="text-primary-pink mr-2">•</span>
+            <span>神经网络的概念最早可以追溯到20世纪40年代，由神经科学家W. S. McCulloch和数学家W. Pitts提出。</span>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 添加一些互动JavaScript -->
+  <script>
+    // AI小知识轮播
+    const aiFacts = [
+      "神经网络的概念最早可以追溯到20世纪40年代，由神经科学家W. S. McCulloch和数学家W. Pitts提出。",
+      "深度学习这个名字源于多层神经网络，"深度"指的是网络的层数。",
+      "GPT中的"P"代表"Pre-trained"（预训练），这是其强大能力的关键。",
+      "现代AI模型参数量达到了数千亿级别，堪比人脑神经元连接数量。",
+      "AI不仅能识别图像，还能生成从未存在过的逼真图像。",
+      "Transformer架构是自然语言处理的革命性突破，也是当前大模型的基础。",
+      "AI可以通过"迁移学习"将一项任务学到的知识应用到另一项任务中。",
+      "强化学习让AI能够像人类一样通过试错来学习新技能。"
+    ];
+    
+    let currentFact = 0;
+    function rotateFacts() {
+      const factsElement = document.getElementById('ai-facts');
+      if (factsElement) {
+        currentFact = (currentFact + 1) % aiFacts.length;
+        factsElement.innerHTML = `
+          <p class="flex items-start">
+            <span class="text-primary-pink mr-2">•</span>
+            <span>${aiFacts[currentFact]}</span>
+          </p>
+        `;
+      }
+    }
+    
+    setInterval(rotateFacts, 4000);
+    
+    // 搜索功能
+    const searchInput = document.getElementById('error-page-search');
+    if (searchInput) {
+      searchInput.addEventListener('keypress', function(e) {
+        if (e.key === 'Enter') {
+          const query = this.value.trim();
+          if (query) {
+            window.location.href = `{{ .Site.BaseURL }}?s=${encodeURIComponent(query)}`;
+          }
+        }
+      });
+    }
+  </script>
+
+  <style>
+    /* 自定义404样式 */
+    .page-404 {
+      min-height: 100vh;
+      background: linear-gradient(135deg, var(--dark-bg) 0%, #121214 50%, var(--dark-bg) 100%);
+      color: var(--text-primary);
+    }
+    
+    .gradient-text {
+      background: linear-gradient(45deg, var(--neon-pink) 0%, var(--neon-purple) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      text-shadow: 0 0 30px rgba(255, 42, 109, 0.3);
+    }
+    
+    /* 确保CSS变量存在 */
+    :root {
+      --primary-pink: #ff6b9d;
+      --primary-purple: #9d4edd;
+      --neon-pink: #ff2a6d;
+      --neon-purple: #d16aff;
+      --dark-bg: #0c0c0d;
+      --dark-card: #161618;
+      --text-primary: #f8f9fa;
+      --text-secondary: #a0a0a5;
+      --border-color: #28282d;
+      --primary-cyan: #4cc9f0;
+    }
+  </style>
+{{ end }}

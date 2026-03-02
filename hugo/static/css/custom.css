@@ -1,0 +1,383 @@
+/**
+ * TZ日报 - 自定义主题样式 v2.0
+ * 粉黑色调 + 高级平面设计风格
+ */
+
+:root {
+  --primary-pink: #ff6b9d;
+  --primary-purple: #9d4edd;
+  --accent-cyan: #4cc9f0;
+  --neon-pink: #ff2a6d;
+  --neon-purple: #d16aff;
+  --dark-bg: #0c0c0d;
+  --dark-card: #161618;
+  --dark-card-hover: #1e1e21;
+  --text-primary: #f8f9fa;
+  --text-secondary: #a0a0a5;
+  --border-color: #28282d;
+  --shadow-pink: 0 4px 16px rgba(255, 107, 157, 0.2);
+  --shadow-purple: 0 4px 16px rgba(157, 78, 221, 0.2);
+}
+
+/* 全局背景 */
+body {
+  background: linear-gradient(135deg, var(--dark-bg) 0%, #121214 100%);
+  color: var(--text-primary);
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* 导航栏 - 玻璃拟态效果 */
+.hextra-nav-container {
+  background: rgba(12, 12, 13, 0.8) !important;
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border-color);
+}
+
+/* Logo和标题 */
+.hextra-nav-container a:hover {
+  color: var(--primary-pink) !important;
+  transition: color 0.3s ease;
+}
+
+/* 搜索框 - 霓虹效果 */
+.hextra-search-input {
+  background: var(--dark-card) !important;
+  border: 1px solid var(--border-color) !important;
+  border-radius: 12px !important;
+  color: var(--text-primary) !important;
+}
+
+.hextra-search-input:focus {
+  border-color: var(--primary-pink) !important;
+  box-shadow: 0 0 0 3px rgba(255, 107, 157, 0.2) !important;
+}
+
+/* 侧边栏 - 卡片设计 */
+.hextra-sidebar-container {
+  background: var(--dark-card) !important;
+  border-right: 1px solid var(--border-color);
+}
+
+/* 侧边栏项目 - 悬停效果 */
+.hextra-sidebar-container a {
+  border-radius: 8px !important;
+  margin: 2px 8px;
+  padding: 8px 12px !important;
+  transition: all 0.2s ease;
+}
+
+.hextra-sidebar-container a:hover {
+  background: rgba(255, 107, 157, 0.1) !important;
+  color: var(--primary-pink) !important;
+}
+
+.hextra-sidebar-container .open > a {
+  color: var(--primary-pink) !important;
+  background: rgba(157, 78, 221, 0.1) !important;
+}
+
+/* 主内容区 - 玻璃卡片 */
+.hextra-content {
+  background: rgba(22, 22, 24, 0.6) !important;
+  backdrop-filter: blur(8px);
+  border-radius: 16px !important;
+  margin: 16px;
+  padding: 24px !important;
+  border: 1px solid var(--border-color);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+}
+
+/* 标题 - 渐变效果 */
+h1, h2, h3, h4, h5, h6 {
+  background: linear-gradient(90deg, var(--primary-pink) 0%, var(--primary-purple) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-weight: 700 !important;
+}
+
+h1 {
+  font-size: 2.5rem !important;
+  margin-bottom: 1rem !important;
+}
+
+h1::after {
+  content: '';
+  display: block;
+  width: 80px;
+  height: 4px;
+  background: linear-gradient(90deg, var(--primary-pink) 0%, var(--primary-purple) 100%);
+  border-radius: 2px;
+  margin-top: 8px;
+}
+
+/* 文章列表 - 悬浮卡片 */
+article {
+  background: var(--dark-card) !important;
+  border: 1px solid var(--border-color) !important;
+  border-radius: 12px !important;
+  padding: 20px !important;
+  margin-bottom: 16px !important;
+  transition: all 0.3s ease;
+}
+
+article:hover {
+  transform: translateY(-4px);
+  background: var(--dark-card-hover) !important;
+  border-color: var(--primary-purple) !important;
+  box-shadow: var(--shadow-purple);
+}
+
+/* 链接 - 霓虹效果 */
+article a,
+.hextra-toc a,
+article h3 a {
+  color: var(--text-primary) !important;
+  text-decoration: none !important;
+  position: relative;
+}
+
+article a:hover,
+.hextra-toc a:hover {
+  color: var(--primary-pink) !important;
+}
+
+article a::after,
+.hextra-toc a::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: var(--primary-pink);
+  transition: width 0.3s ease;
+}
+
+article a:hover::after,
+.hextra-toc a:hover::after {
+  width: 100%;
+}
+
+/* 目录 - 玻璃卡片 */
+.hextra-toc {
+  background: rgba(22, 22, 24, 0.8) !important;
+  backdrop-filter: blur(8px);
+  border: 1px solid var(--border-color) !important;
+  border-radius: 12px !important;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+.hextra-toc li a {
+  color: var(--text-secondary) !important;
+}
+
+.hextra-toc li a:hover {
+  color: var(--primary-pink) !important;
+}
+
+.hextra-toc li.active a {
+  color: var(--primary-purple) !important;
+  background: rgba(157, 78, 221, 0.1) !important;
+}
+
+/* 分割线 - 霓虹渐变 */
+hr,
+article + hr {
+  height: 1px !important;
+  background: linear-gradient(90deg, var(--primary-pink) 0%, var(--primary-purple) 100%) !important;
+  border: none !important;
+  margin: 32px 0 !important;
+}
+
+/* 代码块 - 霓虹边框 */
+pre {
+  background: #000 !important;
+  border: 1px solid var(--neon-pink) !important;
+  border-radius: 8px !important;
+  box-shadow: 0 0 16px rgba(255, 42, 109, 0.2) !important;
+}
+
+/* 引用块 - 粉紫渐变 */
+blockquote {
+  border-left: 4px solid var(--primary-pink) !important;
+  background: linear-gradient(90deg, rgba(255, 107, 157, 0.1) 0%, transparent 100%) !important;
+  color: var(--text-primary) !important;
+  border-radius: 0 8px 8px 0 !important;
+}
+
+/* 强调文本 - 霓虹色 */
+strong {
+  color: var(--primary-cyan) !important;
+  font-weight: 600 !important;
+}
+
+em {
+  color: var(--primary-pink) !important;
+  font-style: italic !important;
+}
+
+/* 列表项 - 自定义符号 */
+ul li::marker {
+  color: var(--primary-purple);
+}
+
+/* 按钮 - 霓虹按钮 */
+.hextra-sidebar-container button {
+  background: linear-gradient(45deg, var(--primary-pink) 0%, var(--primary-purple) 100%) !important;
+  border: none !important;
+  border-radius: 8px !important;
+  color: white !important;
+  font-weight: 600 !important;
+  transition: all 0.3s ease !important;
+}
+
+.hextra-sidebar-container button:hover {
+  transform: translateY(-2px) !important;
+  box-shadow: var(--shadow-pink) !important;
+}
+
+/* 移动端菜单 - 玻璃效果 */
+.hextra-sidebar-mobile {
+  background: rgba(12, 12, 13, 0.95) !important;
+  backdrop-filter: blur(16px) !important;
+  border-top: 1px solid var(--border-color);
+}
+
+/* 滚动条 - 粉紫色 */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--dark-bg);
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(var(--primary-pink), var(--primary-purple));
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--primary-pink);
+}
+
+/* 页脚 - 玻璃效果 */
+footer {
+  background: rgba(22, 22, 24, 0.8) !important;
+  backdrop-filter: blur(12px);
+  border-top: 1px solid var(--border-color);
+  color: var(--text-secondary) !important;
+}
+
+/* 标签云/分类 - 霓虹标签 */
+.taxonomy-tags a {
+  background: rgba(255, 107, 157, 0.1) !important;
+  border: 1px solid var(--primary-pink) !important;
+  border-radius: 20px !important;
+  color: var(--primary-pink) !important;
+  padding: 4px 12px !important;
+  margin: 4px !important;
+  transition: all 0.2s ease;
+}
+
+.taxonomy-tags a:hover {
+  background: var(--primary-pink) !important;
+  color: white !important;
+  box-shadow: var(--shadow-pink);
+}
+
+/* 404页面 - 霓虹标题 */
+.page-404 h1 {
+  font-size: 8rem !important;
+  background: linear-gradient(45deg, var(--neon-pink) 0%, var(--neon-purple) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 0 30px rgba(255, 42, 109, 0.5);
+}
+
+/* 加载动画 */
+@keyframes neonPulse {
+  0%, 100% {
+    opacity: 1;
+    text-shadow: 0 0 10px var(--primary-pink);
+  }
+  50% {
+    opacity: 0.8;
+    text-shadow: 0 0 20px var(--primary-pink), 0 0 30px var(--primary-purple);
+  }
+}
+
+.neon-text {
+  animation: neonPulse 2s ease-in-out infinite;
+}
+
+/* 响应式优化 */
+@media (max-width: 768px) {
+  .hextra-content {
+    margin: 8px !important;
+    padding: 16px !important;
+  }
+  
+  h1 {
+    font-size: 2rem !important;
+  }
+}
+
+/* 打印模式 */
+@media print {
+  .hextra-nav-container,
+  .hextra-sidebar-container {
+    display: none !important;
+  }
+  
+  .hextra-content {
+    background: white !important;
+    color: black !important;
+    border: none !important;
+    box-shadow: none !important;
+  }
+}
+
+/* 暗色模式开关动画 */
+.hextra-nav-container button[aria-label="Theme"] {
+  transition: transform 0.3s ease;
+}
+
+.hextra-nav-container button[aria-label="Theme"]:hover {
+  transform: rotate(180deg);
+}
+
+/* 渐变背景动画 */
+@keyframes gradientShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+body {
+  background: linear-gradient(135deg, var(--dark-bg) 0%, #121214 50%, var(--dark-bg) 100%);
+  background-size: 400% 400%;
+  animation: gradientShift 20s ease infinite;
+}
+
+/* 为TZ日报特制的动画效果 */
+.tz-daily-badge {
+  display: inline-block;
+  background: linear-gradient(45deg, var(--primary-pink), var(--primary-purple));
+  color: white !important;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+  margin-left: 8px;
+  box-shadow: 0 2px 8px rgba(255, 107, 157, 0.3);
+}
+
+.tz-highlight {
+  background: linear-gradient(120deg, rgba(255, 107, 157, 0.2) 0%, transparent 100%);
+  border-left: 4px solid var(--primary-pink);
+  padding: 12px;
+  border-radius: 0 8px 8px 0;
+  margin: 16px 0;
+}
