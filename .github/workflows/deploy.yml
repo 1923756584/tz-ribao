@@ -43,15 +43,11 @@ jobs:
         with:
           hugo-version: '0.123.0'
 
-      - name: Fetch News
-        run: |
-          npm run fetch
+      # - name: Fetch News
+      #   run: |
+      #     npm run fetch
 
-      - name: Build Site
-        run: |
-          npm run build
 
-      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
