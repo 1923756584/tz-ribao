@@ -10,6 +10,9 @@
         .header { text-align: center; margin-bottom: 40px; }
         .header h1 { font-size: 2.5em; margin-bottom: 10px; }
         .header p { color: #666; }
+        .translate-bar { text-align: center; margin-bottom: 20px; padding: 10px; background: #fff; border-radius: 8px; }
+        .translate-bar a { color: #0066cc; text-decoration: none; padding: 5px 10px; }
+        .translate-bar a:hover { text-decoration: underline; }
         .article { margin: 20px 0; padding: 20px; background: white; border: 1px solid #eee; border-radius: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
         .article h2 { margin-top: 0; font-size: 1.3em; }
         .article h2 a { color: #0066cc; text-decoration: none; }
@@ -24,11 +27,22 @@
         .footer { text-align: center; margin-top: 40px; padding: 20px; color: #888; }
         .footer a { color: #0066cc; }
     </style>
+    <!-- Google Translate -->
+    <script type="text/javascript">
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({pageLanguage: 'zh-CN', includedLanguages: 'en,zh-CN', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+    }
+    </script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 </head>
 <body>
     <div class="header">
         <h1>🤖 TZ日报</h1>
         <p>每日AI资讯聚合</p>
+    </div>
+    
+    <div class="translate-bar" id="google_translate_element">
+        <a href="javascript:void(0)" onclick="document.getElementById('goog-gt-tt').style.display='block';">🌐 点击翻译成中文</a>
     </div>
     
     {{ $pages := where .Site.RegularPages "Section" "2026-03" }}
