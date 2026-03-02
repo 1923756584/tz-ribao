@@ -10,7 +10,29 @@ module.exports = {
     url: 'https://1923756584.github.io/tz-ribao'
   },
 
-  // RSS 源列表 - 稳定可用
+  // RSS 源列表
+  sources: [
+    // AI 新闻
+    { name: 'Hacker News', url: 'https://hnrss.org/frontpage', category: 'AI新闻' },
+    { name: 'Hacker News AI', url: 'https://hnrss.org/newest?q=AI', category: 'AI新闻' },
+    
+    // 学术论文
+    { name: 'Arxiv AI', url: 'http://export.arxiv.org/api/query?search_query=cat:cs.AI&sortBy=submittedDate&sortOrder=descending&max_results=10', category: '学术' },
+    { name: 'Arxiv ML', url: 'http://export.arxiv.org/api/query?search_query=cat:cs.LG&sortBy=submittedDate&sortOrder=descending&max_results=10', category: '学术' },
+    
+    // 大厂博客
+    { name: 'OpenAI', url: 'https://openai.com/blog/rss.xml', category: '前沿' },
+    { name: 'Google AI', url: 'https://blog.google/technology/ai/rss', category: '前沿' },
+    { name: 'Microsoft AI', url: 'https://blogs.microsoft.com/ai/feed/', category: '前沿' },
+    { name: 'MIT News AI', url: 'https://news.mit.edu/rss/topic/artificial-intelligence2', category: '学术' },
+    
+    // 科技新闻
+    { name: 'TechCrunch', url: 'https://techcrunch.com/feed/', category: '科技' },
+    { name: 'The Verge', url: 'https://www.theverge.com/rss/index.xml', category: '科技' },
+    
+    // 开源
+    { name: 'GitHub Blog', url: 'https://github.blog/feed/', category: '开源' },
+  ],
   sources: [
     // 中文源 - 36氪
     { name: '36氪', url: 'https://www.36kr.com/feed/', category: '中文' },
