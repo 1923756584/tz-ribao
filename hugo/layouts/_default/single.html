@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }} - TZ日报</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 800px; margin: 50px auto; padding: 20px; }
+        h1 { color: #333; }
+        .article { margin: 20px 0; padding: 15px; border: 1px solid #eee; border-radius: 8px; }
+        .source { color: #0066cc; font-weight: bold; }
+        .date { color: #666; font-size: 0.9em; }
+        a { color: #0066cc; }
+    </style>
+</head>
+<body>
+    <h1>{{ .Title }}</h1>
+    <p><a href="/">返回首页</a></p>
+    
+    {{ .Content }}
+    
+    <footer>
+        <p><a href="/2026-03/">查看往期日报</a></p>
+    </footer>
+</body>
+</html>
