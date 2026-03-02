@@ -3,24 +3,15 @@ languageCode = 'zh-cn'
 title = 'TZ日报'
 theme = 'hextra'
 
-# 基础配置
-baseURL = 'https://1923756584.github.io/tz-ribao/'
-languageCode = 'zh-cn'
-title = 'TZ日报'
-theme = 'hextra'
-
 # 网站元数据
 [params]
   author = "TZ"
   description = "每日AI资讯聚合 - 聚焦AI产品更新与前沿动态"
-  logo = "/images/logo.png"
-  logoDark = "/images/logo-dark.png"
   
-  # 启用自定义CSS
-  customCSS = ["/css/custom.css"]
-  
-  # 主题色 (HEXTRA配置)
-  theme = "dark"  # 默认暗色模式
+  # 主题配置
+  theme = "dark"
+  themeToggle = true
+  defaultAppearance = "dark"
   
   # GitHub链接
   displayName = "TZ日报"
@@ -30,10 +21,7 @@ theme = 'hextra'
   # 侧边栏配置
   displaySidebar = true
   sidebarCollapsible = true
-  sidebarTheme = "color"
-  
-  # 编辑链接
-  editURL = "https://github.com/1923756584/tz-ribao/edit/main/content/"
+  sidebarTitle = "历史日报"
   
   # 其他功能
   breadcrumb = true
@@ -42,121 +30,82 @@ theme = 'hextra'
   
   # 网站图标
   favicon = "/favicon.ico"
-  faviconSVG = "/favicon.svg"
   
-  # 开启暗色模式切换
-  themeToggle = true
-  defaultAppearance = "dark"  # 默认为暗色模式
-  author = "TZ"
-  description = "每日AI资讯聚合"
-  
-  # 主题颜色
-  themeColor = "#0070f3"
-  
-  # 左侧边栏标题
-  sidebarTitle = "历史日报"
-  
-  # 自定义 CSS
-  customCSS = ["css/custom.css"]
+  # 自定义CSS
+  customCSS = ["/css/custom.css"]
 
 # 导航菜单
 [[menu.main]]
-  name = "首页"
+  name = "✨ 首页"
   url = "/"
-  weight = 10
+  weight = 1
 
 [[menu.main]]
-  name = "今日日报"
-  url = "/latest/"
-  weight = 20
+  name = "📅 历史归档"
+  url = "/2026-03/"
+  weight = 2
 
 [[menu.main]]
-  name = "RSS订阅"
-  url = "/index.xml"
-  weight = 30
-
-[[menu.main]]
-  name = "关于"
+  name = "ℹ️ 关于"
   url = "/about/"
-  weight = 40
+  weight = 3
 
-# 副菜单（右侧）
-[[menu.secondary]]
-  name = "GitHub"
-  url = "https://github.com/1923756584/tz-ribao"
-  weight = 10
-  target = "_blank"
+# 侧边栏菜单
+[[menu.sidebar]]
+  name = "2026年3月"
+  url = "/2026-03/"
+  weight = 1
+  
+[[menu.sidebar]]
+  name = "2026年2月"
+  url = "/2026-02/"
+  weight = 2
+  
+[[menu.sidebar]]
+  name = "2026年1月"
+  url = "/2026-01/"
+  weight = 3
 
 # 页脚菜单
 [[menu.footer]]
   name = "RSS订阅"
   url = "/index.xml"
-  weight = 10
+  weight = 1
 
 [[menu.footer]]
   name = "GitHub"
   url = "https://github.com/1923756584/tz-ribao"
-  weight = 20
-
-[[menu.footer]]
-  name = "反馈问题"
-  url = "https://github.com/1923756584/tz-ribao/issues"
-  weight = 30
+  weight = 2
+  target = "_blank"
 
 # 输出格式
 [outputs]
-  home = ["HTML", "RSS"]  # 主页同时生成HTML和RSS
-
-# 标记处理
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true  # 允许原始HTML
-  [markup.highlight]
-    style = 'github-dark'  # 代码高亮主题
-  
-# RSS配置
-[outputFormats.RSS]
-  mediatype = "application/rss+xml"
-  baseName = "index"
-  isPlainText = false
-  
-# 隐私配置 (用于Google Analytics等)
-[privacy]
-  [privacy.googleAnalytics]
-    anonymizeIP = true
-    disable = false
-    respectDoNotTrack = true
-    useSessionStorage = false
-  
-# 404页面配置
-[params.error]
-  title404 = "404 - 页面未找到"
-  subtitle404 = "Oops! 这个页面可能已经被AI接管了..."
-  description404 = "不如回首页看看今天的AI资讯？"
-  buttonText404 = "返回首页"
-  
-# 日期格式
-[params.format]
-  date = "2006-01-02"
-  dateMonth = "2006年01月"
-  dateFull = "2006年01月02日"
-[menu]
-  [[menu.main]]
-    name = "首页"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    name = "关于"
-    url = "/about"
-    weight = 2
-
-[outputs]
   home = ["HTML", "RSS"]
 
+# 标记处理
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
   [markup.highlight]
     style = 'github-dark'
+
+# 日期格式
+[params.format]
+  date = "2006-01-02"
+  dateMonth = "2006年01月"
+  dateFull = "2006年01月02日"
+
+# 隐私配置
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = true
+    respectDoNotTrack = true
+
+# 404页面配置
+[params.error]
+  title404 = "404 - 页面未找到"
+  subtitle404 = "Oops! 这个页面可能已经被AI接管了..."
+  description404 = "不如回首页看看今天的AI资讯？"
+  buttonText404 = "返回首页"

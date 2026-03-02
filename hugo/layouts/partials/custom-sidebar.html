@@ -1,0 +1,176 @@
+{{/* TZ日报 - 自定义侧边栏 */}}
+<aside class="tz-sidebar">
+  <div class="tz-sidebar-header">
+    <h3>📅 历史日报</h3>
+  </div>
+  
+  <div class="tz-sidebar-content">
+    {{/* 获取所有月份目录 */}}
+    {{ $sections := where .Site.Pages "Kind" "section" }}
+    {{ $monthSections := where $sections "Section" "in" (slice "2026-03" "2026-02" "2026-01" "2025-12" "2025-11" "2025-10") }}
+    
+    {{ range $monthSections.ByDate.Reverse }}
+      {{ $month := .Title }}
+      {{ $pages := .Pages }}
+      
+      <div class="tz-month-group">
+        <button class="tz-month-toggle" onclick="toggleMonth(this)">
+          <span class="tz-month-icon">📁</span>
+          <span class="tz-month-name">{{ $month }}</span>
+          <span class="tz-month-count">({{ len $pages }})</span>
+          <span class="tz-toggle-icon">▼</span>
+        </button>
+        
+        <div class="tz-day-list" style="display: none;">
+          {{ range $pages.ByDate.Reverse }}
+            {{ $day := .Date.Format "02日" }}
+            <a href="{{ .RelPermalink }}" class="tz-day-link">
+              <span class="tz-day-icon">📄</span>
+              {{ $day }}
+            </a>
+          {{ end }}
+        </div>
+      </div>
+    {{ end }}
+  </div>
+</aside>
+
+<style>
+.tz-sidebar {
+  position: sticky;
+  top: 80px;
+  width: 280px;
+  max-height: calc(100vh - 100px);
+  overflow-y: auto;
+  background: var(--glass-bg, rgba(22, 22, 22, 0.7));
+  backdrop-filter: blur(10px);
+  border: 1px solid var(--glass-border, rgba(255, 255, 255, 0.1));
+  border-radius: 16px;
+  padding: 20px;
+}
+
+.tz-sidebar-header h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 16px;
+  color: var(--accent, #ff69b4);
+}
+
+.tz-month-group {
+  margin-bottom: 8px;
+}
+
+.tz-month-toggle {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 12px;
+  background: rgba(255, 105, 180, 0.1);
+  border: 1px solid transparent;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  color: var(--text-primary, #fff);
+  font-size: 0.9rem;
+}
+
+.tz-month-toggle:hover {
+  background: rgba(255, 105, 180, 0.2);
+  border-color: var(--accent, #ff69b4);
+}
+
+.tz-month-toggle.active {
+  background: rgba(255, 105, 180, 0.15);
+  border-color: var(--accent, #ff69b4);
+}
+
+.tz-month-toggle.active .tz-toggle-icon {
+  transform: rotate(180deg);
+}
+
+.tz-month-icon {
+  font-size: 1rem;
+}
+
+.tz-month-name {
+  font-weight: 600;
+  flex: 1;
+}
+
+.tz-month-count {
+  font-size: 0.75rem;
+  color: var(--text-secondary, #a0a0a0);
+}
+
+.tz-toggle-icon {
+  font-size: 0.75rem;
+  transition: transform 0.3s ease;
+}
+
+.tz-day-list {
+  margin-left: 24px;
+  margin-top: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.tz-day-link {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 12px;
+  color: var(--text-secondary, #a0a0a0);
+  border-radius: 6px;
+  font-size: 0.85rem;
+  transition: all 0.2s ease;
+}
+
+.tz-day-link:hover {
+  background: rgba(255, 105, 180, 0.1);
+  color: var(--accent, #ff69b4);
+}
+
+.tz-day-icon {
+  font-size: 0.75rem;
+  opacity: 0.5;
+}
+
+@media (max-width: 1200px) {
+  .tz-sidebar {
+    display: none;
+  }
+}
+</style>
+
+<script>
+function toggleMonth(button) {
+  const dayList = button.nextElementSibling;
+  const isActive = button.classList.contains('active');
+  
+  if (isActive) {
+    button.classList.remove('active');
+    dayList.style.display = 'none';
+  } else {
+    button.classList.add('active');
+    dayList.style.display = 'block';
+  }
+}
+
+// 默认展开当前月份
+document.addEventListener('DOMContentLoaded', function() {
+  const currentMonth = new Date().toISOString().slice(0, 7);
+  const monthGroups = document.querySelectorAll('.tz-month-group');
+  
+  monthGroups.forEach(group => {
+    const monthName = group.querySelector('.tz-month-name').textContent;
+    if (monthName === currentMonth || monthName.includes('2026-03')) {
+      const button = group.querySelector('.tz-month-toggle');
+      const dayList = group.querySelector('.tz-day-list');
+      button.classList.add('active');
+      dayList.style.display = 'block';
+    }
+  });
+});
+</script>
