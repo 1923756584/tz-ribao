@@ -21,6 +21,34 @@ module.exports = {
     { name: 'Arxiv ML', url: 'http://export.arxiv.org/api/query?search_query=cat:cs.LG&sortBy=submittedDate&sortOrder=descending&max_results=15', category: '学术' },
     { name: 'Arxiv CV', url: 'http://export.arxiv.org/api/query?search_query=cat:cs.CV&sortBy=submittedDate&sortOrder=descending&max_results=10', category: '学术' },
     
+    // 大厂博客 - 使用可靠的 RSS 源
+    { name: 'Google Research', url: 'https://research.google/blog/rss', category: '前沿' },
+    { name: 'Microsoft Research', url: 'https://www.microsoft.com/en-us/research/feed/', category: '前沿' },
+    { name: 'MIT News AI', url: 'https://news.mit.edu/rss/topic/artificial-intelligence2', category: '学术' },
+    
+    // 科技新闻
+    { name: 'TechCrunch', url: 'https://techcrunch.com/feed/', category: '科技' },
+    { name: 'The Verge', url: 'https://www.theverge.com/rss/index.xml', category: '科技' },
+    { name: 'Wired AI', url: 'https://www.wired.com/feed/tag/ai/latest/rss', category: '科技' },
+    { name: 'Ars Technica', url: 'https://feeds.arstechnica.com/arstechnica/technology-lab', category: '科技' },
+    
+    // AI 博客
+    { name: 'Towards Data Science', url: 'https://towardsdatascience.com/feed', category: '技术' },
+    { name: 'Machine Learning Mastery', url: 'https://machinelearningmastery.com/blog/feed/', category: '技术' },
+    
+    // 开源
+    { name: 'GitHub Blog', url: 'https://github.blog/feed/', category: '开源' },
+  ],
+  sources: [
+    // AI 新闻
+    { name: 'Hacker News', url: 'https://hnrss.org/frontpage', category: 'AI新闻' },
+    { name: 'Hacker News AI', url: 'https://hnrss.org/newest?q=AI', category: 'AI新闻' },
+    
+    // 学术论文 (Arxiv) - AI/ML/CV
+    { name: 'Arxiv AI', url: 'http://export.arxiv.org/api/query?search_query=cat:cs.AI&sortBy=submittedDate&sortOrder=descending&max_results=15', category: '学术' },
+    { name: 'Arxiv ML', url: 'http://export.arxiv.org/api/query?search_query=cat:cs.LG&sortBy=submittedDate&sortOrder=descending&max_results=15', category: '学术' },
+    { name: 'Arxiv CV', url: 'http://export.arxiv.org/api/query?search_query=cat:cs.CV&sortBy=submittedDate&sortOrder=descending&max_results=10', category: '学术' },
+    
     // 大厂博客
     { name: 'OpenAI', url: 'https://openai.com/blog/rss.xml', category: '前沿' },
     { name: 'Google AI', url: 'https://blog.google/technology/ai/rss', category: '前沿' },
