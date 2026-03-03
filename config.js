@@ -1,158 +1,166 @@
-// TZ日报 - RSS 源配置 v3.3
-// 2026-03-03 v3.3.1 - 修复艺术/视频/音乐AI分类，使用验证可用的RSS源
+// TZ日报 - RSS 源配置 v3.4
+// 2026-03-03 - 按参考网站重构分类结构 + GitHub热门4个/3天 + 视频AI内容
 
 module.exports = {
   site: {
     title: 'TZ日报',
-    description: '每日AI资讯精选 - 每分类6-10篇',
+    description: '每日AI资讯精选 - 产品更新·前沿研究·行业展望·GitHub热门',
     author: 'TZ',
     url: 'https://1923756584.github.io/tz-ribao'
   },
 
-  // 精选RSS源 - 按内容分类，不区分地区
+  // 精选RSS源 - 参考ai.hubtoday.app结构
   sources: [
-    // ====== 分类1: 重要AI信息 (35个源) ======
-    { name: 'OpenAI Blog', url: 'https://openai.com/blog/rss.xml', category: '重要AI信息' },
-    { name: 'Anthropic', url: 'https://www.anthropic.com/news/rss', category: '重要AI信息' },
-    { name: 'Google AI Blog', url: 'https://blog.google/technology/ai/rss', category: '重要AI信息' },
-    { name: 'Microsoft AI', url: 'https://blogs.microsoft.com/ai/feed/', category: '重要AI信息' },
-    { name: 'Meta AI', url: 'https://ai.meta.com/feed/', category: '重要AI信息' },
-    { name: 'DeepMind Blog', url: 'https://deepmind.google/discover/blog/feed', category: '重要AI信息' },
-    { name: 'Hugging Face', url: 'https://huggingface.co/blog/feed.xml', category: '重要AI信息' },
-    { name: 'Stability AI', url: 'https://stability.ai/feed', category: '重要AI信息' },
-    { name: 'Perplexity AI', url: 'https://www.perplexity.ai/feed', category: '重要AI信息' },
-    { name: 'ElevenLabs', url: 'https://elevenlabs.io/blog', category: '重要AI信息' },
+    // ====== 分类1: ✨ 产品更新 (保留"重要AI信息"的源，重命名) ======
+    // 大厂AI产品博客
+    { name: 'OpenAI Blog', url: 'https://openai.com/blog/rss.xml', category: '产品更新' },
+    { name: 'Anthropic', url: 'https://www.anthropic.com/news/rss', category: '产品更新' },
+    { name: 'Google AI Blog', url: 'https://blog.google/technology/ai/rss', category: '产品更新' },
+    { name: 'Microsoft AI', url: 'https://blogs.microsoft.com/ai/feed/', category: '产品更新' },
+    { name: 'Meta AI', url: 'https://ai.meta.com/feed/', category: '产品更新' },
+    { name: 'DeepMind Blog', url: 'https://deepmind.google/discover/blog/feed', category: '产品更新' },
+    { name: 'Hugging Face', url: 'https://huggingface.co/blog/feed.xml', category: '产品更新' },
+    { name: 'Stability AI', url: 'https://stability.ai/feed', category: '产品更新' },
+    { name: 'Perplexity AI', url: 'https://www.perplexity.ai/feed', category: '产品更新' },
     
-    // 中国AI公司 - 使用RSSHub或r.jina.ai
-    { name: 'DeepSeek (RSSHub)', url: 'https://r.jina.ai/http://www.deepseek.com/blog', category: '重要AI信息', type: 'jina' },
-    { name: '智谱AI (RSSHub)', url: 'https://r.jina.ai/http://www.zhipuai.cn/blog', category: '重要AI信息', type: 'jina' },
-    { name: 'Moonshot AI (RSSHub)', url: 'https://r.jina.ai/http://www.moonshot.cn/blog', category: '重要AI信息', type: 'jina' },
-    { name: '零一万物 (RSSHub)', url: 'https://r.jina.ai/http://01.ai/blog', category: '重要AI信息', type: 'jina' },
-    { name: '百川智能 (RSSHub)', url: 'https://r.jina.ai/http://www.baichuan-ai.com/blog', category: '重要AI信息', type: 'jina' },
-    { name: 'Minimax (RSSHub)', url: 'https://r.jina.ai/http://www.minimax.ai/blog', category: '重要AI信息', type: 'jina' },
-    { name: '阶跃星辰 (RSSHub)', url: 'https://r.jina.ai/http://www.stepfun.com/blog', category: '重要AI信息', type: 'jina' },
-    { name: '面壁智能 (RSSHub)', url: 'https://r.jina.ai/http://julius.ai/blog', category: '重要AI信息', type: 'jina' },
-    { name: '360智脑 (RSSHub)', url: 'https://r.jina.ai/http://www.360.cn/ai', category: '重要AI信息', type: 'jina' },
+    // 中国AI公司产品更新
+    { name: 'DeepSeek (RSSHub)', url: 'https://r.jina.ai/http://www.deepseek.com/blog', category: '产品更新', type: 'jina' },
+    { name: '智谱AI (RSSHub)', url: 'https://r.jina.ai/http://www.zhipuai.cn/blog', category: '产品更新', type: 'jina' },
+    { name: 'Moonshot AI (RSSHub)', url: 'https://r.jina.ai/http://www.moonshot.cn/blog', category: '产品更新', type: 'jina' },
+    { name: '零一万物 (RSSHub)', url: 'https://r.jina.ai/http://01.ai/blog', category: '产品更新', type: 'jina' },
+    { name: '百川智能 (RSSHub)', url: 'https://r.jina.ai/http://www.baichuan-ai.com/blog', category: '产品更新', type: 'jina' },
+    { name: 'Minimax (RSSHub)', url: 'https://r.jina.ai/http://www.minimax.ai/blog', category: '产品更新', type: 'jina' },
+    { name: '阶跃星辰 (RSSHub)', url: 'https://r.jina.ai/http://www.stepfun.com/blog', category: '产品更新', type: 'jina' },
+    { name: '面壁智能 (RSSHub)', url: 'https://r.jina.ai/http://julius.ai/blog', category: '产品更新', type: 'jina' },
+    { name: '360智脑 (RSSHub)', url: 'https://r.jina.ai/http://www.360.cn/ai', category: '产品更新', type: 'jina' },
     
-    // X/Twitter - AI Leaders
-    { name: 'X: OpenAI', url: 'https://r.jina.ai/http://twitter.com/OpenAI', category: '重要AI信息', type: 'nitter' },
-    { name: 'X: Sam Altman', url: 'https://r.jina.ai/http://twitter.com/sama', category: '重要AI信息', type: 'nitter' },
-    { name: 'X: Andrej Karpathy', url: 'https://r.jina.ai/http://twitter.com/karpathy', category: '重要AI信息', type: 'nitter' },
-    { name: 'X: Yann LeCun', url: 'https://r.jina.ai/http://twitter.com/ylecun', category: '重要AI信息', type: 'nitter' },
-    { name: 'X: Demis Hassabis', url: 'https://r.jina.ai/http://twitter.com/demishassabis', category: '重要AI信息', type: 'nitter' },
-    { name: 'X: DeepSeek', url: 'https://r.jina.ai/http://twitter.com/deepseek_ai', category: '重要AI信息', type: 'nitter' },
+    // 视频AI产品（新增 - Sora、Veo、即梦可灵等）
+    { name: 'OpenAI Sora Updates', url: 'https://openai.com/blog/rss.xml', category: '产品更新' },  // Sora更新也在主blog中
+    { name: 'Google Veo Updates', url: 'https://blog.google/technology/ai/rss', category: '产品更新' },  // Veo更新在AI blog中（视频AI产品更新）
+    { name: 'Google Imagen Video', url: 'https://blog.google/technology/ai/rss', category: '产品更新' },
+    { name: 'Runway ML Blog', url: 'https://runwayml.com/blog?from_blog=true', category: '产品更新', type: 'scrape' },
+    { name: 'Pika Labs Blog', url: 'https://r.jina.ai/http://www.pika.art/blog', category: '产品更新', type: 'jina' },
+    { name: 'Luma Dream Machine', url: 'https://r.jina.ai/http://lumalabs.ai/blog', category: '产品更新', type: 'jina' },
+    { name: '即梦可灵', url: 'https://r.jina.ai/http://jimeng.yunxiao.com', category: '产品更新', type: 'jina' },
+    { name: '可灵AI Video', url: 'https://r.jina.ai/http://klingai.com', category: '产品更新', type: 'jina' },
     
-    // Tech News
-    { name: 'TechCrunch AI', url: 'https://techcrunch.com/category/artificial-intelligence/feed/', category: '重要AI信息' },
-    { name: 'The Verge AI', url: 'https://www.theverge.com/rss/ai-artificial-intelligence-articles', category: '重要AI信息' },
-    { name: 'MIT Tech Review AI', url: 'https://www.technologyreview.com/topic/artificial-intelligence/feed/', category: '重要AI信息' },
-    { name: 'Wired AI', url: 'https://www.wired.com/feed/category/artificialintelligence', category: '重要AI信息' },
-    { name: 'VentureBeat AI', url: 'https://venturebeat.com/category/ai/feed/', category: '重要AI信息' },
-    { name: 'AI News', url: 'https://artificialintelligence-news.com/feed/', category: '重要AI信息' },
-    { name: 'Synced', url: 'https://syncedreview.com/tech/feed/', category: '重要AI信息' },
-    { name: 'The Information', url: 'https://theinformation.com/feed', category: '重要AI信息' },
-    { name: 'Ars Technica AI', url: 'https://arstechnica.com/tag/artificial-intelligence/feed/', category: '重要AI信息' },
+    // AI行业媒体产品报道
+    { name: 'TechCrunch AI Products', url: 'https://techcrunch.com/category/artificial-intelligence/feed/', category: '产品更新' },
+    { name: 'The Verge AI Products', url: 'https://www.theverge.com/rss/ai-artificial-intelligence-articles', category: '产品更新' },
+    { name: 'VentureBeat AI Products', url: 'https://venturebeat.com/category/ai/feed/', category: '产品更新' },
+    { name: 'AI News', url: 'https://artificialintelligence-news.com/feed/', category: '产品更新' },
 
-    // ====== 分类2: 艺术/视频/音乐AI (使用验证可用的源) ======
-    // 重要的AI公司博客 - 涵盖AI艺术、视频、音乐技术
-    { name: 'OpenAI Blog', url: 'https://openai.com/blog/rss.xml', category: '艺术视频音乐AI' },
-    { name: 'Google AI Blog', url: 'https://blog.google/technology/ai/rss', category: '艺术视频音乐AI' },
-    { name: 'DeepMind Blog', url: 'https://deepmind.google/discover/blog/feed', category: '艺术视频音乐AI' },
-    { name: 'Meta AI', url: 'https://ai.meta.com/feed/', category: '艺术视频音乐AI' },
+    // ====== 分类2: 🔬 前沿研究（新增 - arXiv论文、学术研究） ======
+    // arXiv学术论文
+    { name: 'ArXiv AI (cs.AI)', url: 'https://export.arxiv.org/rss/cs.AI', category: '前沿研究' },
+    { name: 'ArXiv Machine Learning (cs.LG)', url: 'https://export.arxiv.org/rss/cs.LG', category: '前沿研究' },
+    { name: 'ArXiv Computer Vision (cs.CV)', url: 'https://export.arxiv.org/rss/cs.CV', category: '前沿研究' },
+    { name: 'ArXiv Natural Language Processing (cs.CL)', url: 'https://export.arxiv.org/rss/cs.CL', category: '前沿研究' },
+    { name: 'ArXiv Robotics (cs.RO)', url: 'https://export.arxiv.org/rss/cs.RO', category: '前沿研究' },
+    { name: 'ArXiv Multiagent (cs.MA)', url: 'https://export.arxiv.org/rss/cs.MA', category: '前沿研究' },
     
-    // 科技媒体AI专栏 - 涵盖生成式AI、AI艺术等内容
-    { name: 'TechCrunch AI', url: 'https://techcrunch.com/category/artificial-intelligence/feed/', category: '艺术视频音乐AI' },
-    { name: 'The Verge AI', url: 'https://www.theverge.com/rss/ai-artificial-intelligence-articles', category: '艺术视频音乐AI' },
-    { name: 'MIT Tech Review AI', url: 'https://www.technologyreview.com/topic/artificial-intelligence/feed/', category: '艺术视频音乐AI' },
-    { name: 'Wired AI', url: 'https://www.wired.com/feed/category/artificialintelligence', category: '艺术视频音乐AI' },
-    { name: 'VentureBeat AI', url: 'https://venturebeat.com/category/ai/feed/', category: '艺术视频音乐AI' },
+    // 学术期刊和研究机构
+    { name: 'Nature AI News', url: 'https://www.nature.com/natmachintellintelligence/articles.rss', category: '前沿研究' },
+    { name: 'Science AI', url: 'https://www.science.org/rss/news_current.xml', category: '前沿研究' },
+    { name: 'MIT Tech Research', url: 'https://www.technologyreview.com/topic/artificial-intelligence/feed/', category: '前沿研究' },
     
-    // 中国AI公司 - 可能更易访问且涵盖AI创意应用
-    { name: 'DeepSeek (RSSHub)', url: 'https://r.jina.ai/http://www.deepseek.com/blog', category: '艺术视频音乐AI', type: 'jina' },
-    { name: '智谱AI (RSSHub)', url: 'https://r.jina.ai/http://www.zhipuai.cn/blog', category: '艺术视频音乐AI', type: 'jina' },
-    { name: 'Moonshot AI (RSSHub)', url: 'https://r.jina.ai/http://www.moonshot.cn/blog', category: '艺术视频音乐AI', type: 'jina' },
-    { name: '零一万物 (RSSHub)', url: 'https://r.jina.ai/http://01.ai/blog', category: '艺术视频音乐AI', type: 'jina' },
-    { name: '百川智能 (RSSHub)', url: 'https://r.jina.ai/http://www.baichuan-ai.com/blog', category: '艺术视频音乐AI', type: 'jina' },
-    { name: 'Minimax (RSSHub)', url: 'https://r.jina.ai/http://www.minimax.ai/blog', category: '艺术视频音乐AI', type: 'jina' },
-    { name: '阶跃星辰 (RSSHub)', url: 'https://r.jina.ai/http://www.stepfun.com/blog', category: '艺术视频音乐AI', type: 'jina' },
-    { name: '面壁智能 (RSSHub)', url: 'https://r.jina.ai/http://julius.ai/blog', category: '艺术视频音乐AI', type: 'jina' },
-    // 技术博客精选AI艺术内容
-    { name: 'Generative AI Art (beehiiv)', url: 'https://r.jina.ai/http://aigenart.beehiiv.com', category: '艺术视频音乐AI', type: 'jina' },
-    // ====== 分类3: GitHub热门项目 (12个源) ======
-    { name: 'GitHub Trending Today', url: 'https://github.com/trending?since=daily', category: 'GitHub项目', type: 'github-trending' },
-    { name: 'GitHub Trending Weekly', url: 'https://github.com/trending?since=weekly', category: 'GitHub项目', type: 'github-trending' },
+    // AI研究机构和实验室
+    { name: 'OpenAI Research', url: 'https://openai.com/research/feed.xml', category: '前沿研究' },
+    { name: 'Google DeepMind Research', url: 'https://deepmind.google/discover/blog/feed', category: '前沿研究' },
+    { name: 'Meta AI Research', url: 'https://ai.meta.com/blog/research', category: '前沿研究', type: 'scrape' },
+    { name: 'OpenAI Research Blog', url: 'https://openai.com/research', category: '前沿研究', type: 'scrape' },
+    
+    // ====== 分类3: 🌍 行业展望（新增 - 综合性新闻媒体、行业趋势） ======
+    // 国际主流媒体
+    { name: 'Reuters Technology', url: 'https://www.reuters.com/technology/rss', category: '行业展望' },
+    { name: 'Bloomberg Technology', url: 'https://www.bloomberg.com/technology/rss.xml', category: '行业展望' },
+    { name: 'WSJ Technology', url: 'https://wsj.com/xml/rss/3_7455.xml', category: '行业展望' },
+    { name: 'FT Technology', url: 'https://www.ft.com/companies/technology/rss', category: '行业展望' },
+    { name: 'The Information Technology', url: 'https://theinformation.com/feed', category: '行业展望' },
+    
+    // AI垂直媒体
+    { name: 'MIT Tech Review', url: 'https://www.technologyreview.com/topnews.rss', category: '行业展望' },
+    { name: 'Wired Technology', url: 'https://www.wired.com/feed/rss', category: '行业展望' },
+    { name: 'Ars Technica', url: 'https://feeds.arstechnica.com/arstechnica/index', category: '行业展望' },
+    { name: 'ZDNet AI', url: 'https://www.zdnet.com/topic/artificial-intelligence/rss.xml', category: '行业展望' },
+    { name: 'The Register AI', url: 'https://www.theregister.com/topic/ai/headlines.atom', category: '行业展望' },
+    
+    // 投资和行业分析
+    { name: 'TechCrunch', url: 'https://techcrunch.com/feed/', category: '行业展望' },
+    { name: 'The Verge', url: 'https://www.theverge.com/rss/index.xml', category: '行业展望' },
+    { name: 'AI Investment News', url: 'https://artificialintelligence-news.com/feed/', category: '行业展望' },
+    { name: 'VentureBeat', url: 'https://venturebeat.com/feed/', category: '行业展望' },
+    { name: 'Synced', url: 'https://syncedreview.com/tech/feed/', category: '行业展望' },
+    
+    // 中国科技媒体
+    { name: '36氪AI (RSSHub)', url: 'https://r.jina.ai/http://36kr.com/ai', category: '行业展望', type: 'jina' },
+    { name: '虎嗅AI (RSSHub)', url: 'https://r.jina.ai/http://huxiu.com/ai', category: '行业展望', type: 'jina' },
+    { name: '雷锋网AI (RSSHub)', url: 'https://r.jina.ai/http://www.leiphone.com/ai', category: '行业展望', type: 'jina' },
+    { name: 'InfoQ AI (RSSHub)', url: 'https://r.jina.ai/http://www.infoq.cn/ai', category: '行业展望', type: 'jina' },
+    { name: '机器之心 (RSSHub)', url: 'https://r.jina.ai/http://www.jiqizhixin.com', category: '行业展望', type: 'jina' },
+    { name: '钛媒体AI (RSSHub)', url: 'https://r.jina.ai/http://www.tmtpost.com/ai', category: '行业展望', type: 'jina' },
+    { name: '量子位 (RSSHub)', url: 'https://r.jina.ai/http://www.qbitai.com', category: '行业展望', type: 'jina' },
+    { name: '爱范儿AI (RSSHub)', url: 'https://r.jina.ai/http://www.ifanr.com/ai', category: '行业展望', type: 'jina' },
+
+    // ====== 分类4: 📦 GitHub热门项目（4个，过去3天） ======
+    // GitHub trending源（时间过滤在fetch-news.js中实现）
+    { name: 'GitHub Trending Python', url: 'https://github.com/trending/python', category: 'GitHub项目', type: 'github-trending-3days' },
+    { name: 'GitHub Trending ML', url: 'https://github.com/trending/machine-learning', category: 'GitHub项目', type: 'github-trending-3days' },
+    { name: 'GitHub Trending AI', url: 'https://github.com/trending/artificial-intelligence', category: 'GitHub项目', type: 'github-trending-3days' },
+    { name: 'GitHub Trending LLM', url: 'https://github.com/trending/large-language-model', category: 'GitHub项目', type: 'github-trending-3days' },
+    
+    // GitHub官方博客（用于获取官方项目更新）
     { name: 'GitHub Blog', url: 'https://github.blog/feed', category: 'GitHub项目' },
-    { name: 'GitHub: Python', url: 'https://github.com/trending/python?since=daily', category: 'GitHub项目', type: 'github-trending' },
-    { name: 'GitHub: JavaScript', url: 'https://github.com/trending/javascript?since=daily', category: 'GitHub项目', type: 'github-trending' },
-    { name: 'GitHub: Machine Learning', url: 'https://github.com/trending/machine-learning?since=daily', category: 'GitHub项目', type: 'github-trending' },
-    { name: 'GitHub: Deep Learning', url: 'https://github.com/trending/deep-learning?since=daily', category: 'GitHub项目', type: 'github-trending' },
-    { name: 'GitHub: AI', url: 'https://github.com/trending/artificial-intelligence?since=daily', category: 'GitHub项目', type: 'github-trending' },
-    { name: 'GitHub: LLM', url: 'https://github.com/trending/large-language-model?since=daily', category: 'GitHub项目', type: 'github-trending' },
-    { name: 'GitHub: Agents', url: 'https://github.com/trending/ai-agents?since=daily', category: 'GitHub项目', type: 'github-trending' },
-    
-    // 社交平台GitHub相关内容
-    { name: 'X: GitHub', url: 'https://r.jina.ai/http://twitter.com/github', category: 'GitHub项目', type: 'nitter' },
-    { name: 'X: GitHubCopilot', url: 'https://r.jina.ai/http://twitter.com/githubcopilot', category: 'GitHub项目', type: 'nitter' },
 
-    // ====== 分类4: 新闻与新发现 (30个源) ======
-    { name: 'Hacker News', url: 'https://hnrss.org/frontpage', category: '新闻发现' },
-    { name: 'Hacker News AI', url: 'https://hnrss.org/newest?q=AI', category: '新闻发现' },
-    { name: 'Hacker News Machine Learning', url: 'https://hnrss.org/newest?q=machine+learning', category: '新闻发现' },
-    { name: 'TechCrunch', url: 'https://techcrunch.com/feed/', category: '新闻发现' },
-    { name: 'The Verge', url: 'https://www.theverge.com/rss/index.xml', category: '新闻发现' },
-    { name: 'MIT Tech Review', url: 'https://www.technologyreview.com/topnews.rss', category: '新闻发现' },
-    { name: 'Wired', url: 'https://www.wired.com/feed/rss', category: '新闻发现' },
-    { name: 'Ars Technica', url: 'https://feeds.arstechnica.com/arstechnica/index', category: '新闻发现' },
-    { name: 'The Information', url: 'https://theinformation.com/feed', category: '新闻发现' },
-    { name: 'The Register AI', url: 'https://www.theregister.com/topic/ai/headlines.atom', category: '新闻发现' },
-    { name: 'ZDNet AI', url: 'https://www.zdnet.com/topic/artificial-intelligence/rss.xml', category: '新闻发现' },
+    // ====== 分类5: 💬 社交动态（新增 - X/Twitter、Reddit、即刻等） ======
+    // X/Twitter - AI Leaders
+    { name: 'X: OpenAI', url: 'https://r.jina.ai/http://twitter.com/OpenAI', category: '社交动态', type: 'nitter' },
+    { name: 'X: Sam Altman', url: 'https://r.jina.ai/http://twitter.com/sama', category: '社交动态', type: 'nitter' },
+    { name: 'X: Andrej Karpathy', url: 'https://r.jina.ai/http://twitter.com/karpathy', category: '社交动态', type: 'nitter' },
+    { name: 'X: Yann LeCun', url: 'https://r.jina.ai/http://twitter.com/ylecun', category: '社交动态', type: 'nitter' },
+    { name: 'X: Demis Hassabis', url: 'https://r.jina.ai/http://twitter.com/demishassabis', category: '社交动态', type: 'nitter' },
+    { name: 'X: DeepSeek', url: 'https://r.jina.ai/http://twitter.com/deepseek_ai', category: '社交动态', type: 'nitter' },
+    { name: 'X: Elon Musk', url: 'https://r.jina.ai/http://twitter.com/elonmusk', category: '社交动态', type: 'nitter' },
+    { name: 'X: Naval', url: 'https://r.jina.ai/http://twitter.com/naval', category: '社交动态', type: 'nitter' },
+    { name: 'X: Paul Graham', url: 'https://r.jina.ai/http://twitter.com/paulg', category: '社交动态', type: 'nitter' },
     
-    // 学术和研究
-    { name: 'ArXiv AI', url: 'https://export.arxiv.org/rss/cs.AI', category: '新闻发现' },
-    { name: 'ArXiv Machine Learning', url: 'https://export.arxiv.org/rss/cs.LG', category: '新闻发现' },
-    { name: 'ArXiv Computer Vision', url: 'https://export.arxiv.org/rss/cs.CV', category: '新闻发现' },
-    { name: 'ArXiv Natural Language Processing', url: 'https://export.arxiv.org/rss/cs.CL', category: '新闻发现' },
-    { name: 'Nature AI News', url: 'https://www.nature.com/natmachintellintelligence/articles.rss', category: '新闻发现' },
-    { name: 'Science AI', url: 'https://www.science.org/rss/news_current.xml', category: '新闻发现' },
+    // Hacker News - 开发者社区动态
+    { name: 'Hacker News', url: 'https://hnrss.org/frontpage', category: '社交动态' },
+    { name: 'Hacker News AI', url: 'https://hnrss.org/newest?q=AI', category: '社交动态' },
+    { name: 'Hacker News ML', url: 'https://hnrss.org/newest?q=machine+learning', category: '社交动态' },
     
-    // 中国科技媒体（通过RSSHub/r.jina.ai）
-    { name: '36氪AI (RSSHub)', url: 'https://r.jina.ai/http://36kr.com/ai', category: '新闻发现', type: 'jina' },
-    { name: '虎嗅AI (RSSHub)', url: 'https://r.jina.ai/http://huxiu.com/ai', category: '新闻发现', type: 'jina' },
-    { name: '雷锋网AI (RSSHub)', url: 'https://r.jina.ai/http://www.leiphone.com/ai', category: '新闻发现', type: 'jina' },
-    { name: 'InfoQ AI (RSSHub)', url: 'https://r.jina.ai/http://www.infoq.cn/ai', category: '新闻发现', type: 'jina' },
-    { name: '机器之心 (RSSHub)', url: 'https://r.jina.ai/http://www.jiqizhixin.com', category: '新闻发现', type: 'jina' },
-    { name: '钛媒体AI (RSSHub)', url: 'https://r.jina.ai/http://www.tmtpost.com/ai', category: '新闻发现', type: 'jina' },
-    { name: '量子位 (RSSHub)', url: 'https://r.jina.ai/http://www.qbitai.com', category: '新闻发现', type: 'jina' },
-    { name: '爱范儿AI (RSSHub)', url: 'https://r.jina.ai/http://www.ifanr.com/ai', category: '新闻发现', type: 'jina' },
-    
-    // X平台科技大V
-    { name: 'X: Elon Musk', url: 'https://r.jina.ai/http://twitter.com/elonmusk', category: '新闻发现', type: 'nitter' },
-    { name: 'X: Naval', url: 'https://r.jina.ai/http://twitter.com/naval', category: '新闻发现', type: 'nitter' },
-    { name: 'X: Paul Graham', url: 'https://r.jina.ai/http://twitter.com/paulg', category: '新闻发现', type: 'nitter' }
+    // Reddit热门讨论
+    { name: 'Reddit: r/artificial', url: 'https://www.reddit.com/r/artificial/new/.rss', category: '社交动态' },
+    { name: 'Reddit: r/MachineLearning', url: 'https://www.reddit.com/r/MachineLearning/new/.rss', category: '社交动态' },
+    { name: 'Reddit: r/singularity', url: 'https://www.reddit.com/r/singularity/new/.rss', category: '社交动态' },
+    { name: 'Reddit: r/artificial', url: 'https://www.reddit.com/r/artificial/new/.rss', category: '社交动态' }
   ],
 
-  // 分类优先级
+  // 分类优先级（按参考网站顺序）
   categoryPriority: {
-    '重要AI信息': 1,
-    '艺术视频音乐AI': 2,
-    'GitHub项目': 3,
-    '新闻发现': 4
+    '产品更新': 1,
+    '前沿研究': 2,
+    '行业展望': 3,
+    'GitHub项目': 4,
+    '社交动态': 5
   },
 
   // 分类显示名称
   categoryNames: {
-    '重要AI信息': '🚀 重要AI信息',
-    '艺术视频音乐AI': '🎨 艺术/视频/音乐AI',
-    'GitHub项目': '📦 GitHub热门项目',
-    '新闻发现': '📰 新闻与新发现'
+    '产品更新': '✨ 产品更新',
+    '前沿研究': '🔬 前沿研究',
+    '行业展望': '🌍 行业展望',
+    'GitHub项目': '📦 GitHub热门',
+    '社交动态': '💬 社交动态'
   },
 
-  // 每分类文章数量配置（v3.3核心调整）
+  // 每分类文章数量配置（v3.4 - 按参考网站比例调整）
   categoryLimit: {
-    '重要AI信息': { min: 6, max: 10 },
-    '艺术视频音乐AI': { min: 6, max: 10 },
-    'GitHub项目': { min: 6, max: 10 },
-    '新闻发现': { min: 6, max: 10 }
+    '产品更新': { min: 8, max: 10 },      // 参考网站7篇
+    '前沿研究': { min: 6, max: 8 },       // 参考网站7篇
+    '行业展望': { min: 6, max: 8 },       // 参考网站6篇
+    'GitHub项目': { min: 4, max: 4 },       // 固定4个
+    '社交动态': { min: 5, max: 8 }        // 参考网站5篇
   },
 
   baseUrl: 'https://1923756584.github.io/tz-ribao',

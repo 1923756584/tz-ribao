@@ -1,5 +1,5 @@
 /**
- * TZ日报 - 新闻抓取脚本 v3.0
+ * TZ日报 - 新闻抓取脚本 v3.4
  * 功能：从 RSS 源抓取新闻，生成 Markdown 文件，自动翻译为中文
  * 特性：支持X平台、增强错误处理、智能摘要、超时重试、图片提取、智能高亮
  */
@@ -485,41 +485,67 @@ function generateMarkdown(articles, translatedTitles, translatedContents, today)
   return md;
 }
 
-// 获取GitHub热门仓库
+// 获取GitHub热门仓库（只显示过去3天内的4个项目）
 async function fetchGitHubTrending() {
   const ghTrending = [];
-  const languages = ['python', 'javascript', 'machine-learning', 'deep-learning', 'llm', 'agents'];
+  // 使用时间过滤参数：只搜索过去3天内更新或创建的项目
+  const threeDaysAgo = new Date(Date.now() - 3 * 24 * 60 * 60 * 1000).toISOString().split('T')[0];
+  console.log(`📅 GitHub Trending时间过滤: ${threeDaysAgo} 之后`);
   
-  for (const lang of languages) {
+  const languages = [
+    { name: 'Python', lang: 'python' },
+    { name: 'Machine Learning', lang: 'machine-learning' },
+    { name: 'Artificial Intelligence', lang: 'artificial-intelligence' },
+    { name: 'LLM', lang: 'large-language-model' },
+    { name: 'Agents', lang: 'ai-agents' }
+  ];
+  
+  for (const topic of languages) {
     try {
-      // 使用GitHub API获取trending repositories
-      const apiUrl = `https://api.github.com/search/repositories?q=topic:${lang}+language:${lang}&sort=stars&order=desc&per_page=5`;
+      // 使用GitHub Search API，添加时间过滤：pushed:>=3 days ago
+      const apiUrl = `https://api.github.com/search/repositories?q=topic:${topic.lang}+pushed:>=${threeDaysAgo}&sort=stars&order=desc&per_page=8`;
       const response = await fetchWithTimeout(apiUrl, {}, 30000);
       
       if (response.ok) {
         const repos = await response.json();
+        console.log(`   ${topic.name}: 找到 ${repos.items?.length || 0} 个项目`);
         
         for (const repo of repos.items || []) {
           ghTrending.push({
-            title: `${repo.name}: ${repo.description || '热门AI项目'}`,
+            title: `${repo.name}: ${repo.description || '🔥 热门AI项目 (3天内)'}`,
             link: repo.html_url,
-            content: `⭐ ${repo.stargazers_count.toLocaleString()} star · ${repo.language || 'N/A'} · ${repo.description || ''}`,
-            pubDate: repo.created_at || new Date().toISOString(),
-            source: 'GitHub Trending',
+            content: `⭐ ${repo.stargazers_count.toLocaleString()} star · ${repo.language || 'N/A'} · ${repo.description || '无描述'}`,
+            pubDate: repo.pushed_at || new Date().toISOString(),
+            source: `GitHub Trending (${topic.name})`,
             category: 'GitHub项目',
-            aiScore: repo.stargazers_count / 1000,
+            aiScore: repo.stargazers_count / 200,  // 过去3天内的项目，适当增强AI分数
             imageUrl: repo.owner?.avatar_url || null
           });
         }
       }
     } catch (err) {
-      console.log(`GitHub Trending (${lang})失败: ${err.message}`);
+      console.log(`GitHub Trending (${topic.name})失败: ${err.message}`);
+    }
+    
+    // 只需要20个项目就够了（categoryLimit会限制到4个）
+    if (ghTrending.length >= 20) {
+      console.log(`   已收集足够项目 (${ghTrending.length}), 停止获取`);
+      break;
     }
     
     await new Promise(r => setTimeout(r, 1000)); // 避免速率限制
   }
   
-  return ghTrending;
+  // 按stars排序，取前12个（categoryLimit会限制到4个）
+  ghTrending.sort((a, b) => {
+    const extractStars = (content) => parseInt(content.match(/\d[\d,]*/star/)?.[0]?.replace(/,/g, '') || '0');
+    const aStars = extractStars(a.content) || 0;
+    const bStars = extractStars(b.content) || 0;
+    return bStars - aStars;
+  });
+  
+  console.log(`📦 GitHub Trending总计: ${ghTrending.length} 个项目`);
+  return ghTrending.slice(0, 12);  // 返回前12个，categoryLimit会限制到4个
 }
 
 // 日志记录
