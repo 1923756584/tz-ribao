@@ -109,3 +109,6 @@ theme = 'hextra'
   subtitle404 = "Oops! 这个页面可能已经被AI接管了..."
   description404 = "不如回首页看看今天的AI资讯？"
   buttonText404 = "返回首页"
+
+# Force cache invalidation - 2026-03-03T19:30:00Z
+
