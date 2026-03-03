@@ -1,12 +1,12 @@
 ---
 title: "2026年3月3日 - TZ日报"
-date: 2026-03-03T13:50:24.094Z
+date: 2026-03-03T14:40:23.289Z
 draft: false
 ---
 
 # 2026年3月3日 - TZ日报
 
-> 📊 今日汇总 30 条 · 🕐 2026/3/3 13:50:24
+> 📊 今日汇总 30 条 · 🕐 2026/3/3 14:40:23
 
 ---
 
@@ -129,7 +129,7 @@ Nous Research如何构建一个任何人都可以复制的AI编码模型NousCode
 
 **[system-design-primer ：学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。](https://github.com/donnemartin/system-design-primer)**
 
-⭐ 337,156星· Python ·学习如何设计大型系统为系统设计面试做准备
+⭐ 337,159星·蟒蛇·学习如何设计大型系统为系统设计面试做准备
 
 📅 2017-02-26T16:15:28Z
 
@@ -140,7 +140,7 @@ Nous Research如何构建一个任何人都可以复制的AI编码模型NousCode
 
 **[awesome-python ：令人敬畏的Python框架、库、软件和资源的自以为是的列表。](https://github.com/vinta/awesome-python)**
 
-⭐ 285,342星· Python ·令人敬畏的Python框架、库、软件和资源的自以为是的列表
+⭐ 285,350星· Python ·令人敬畏的Python框架、库、软件和资源的自以为是的列表
 
 📅 2014-06-27T21:00:06Z
 
@@ -151,7 +151,7 @@ Nous Research如何构建一个任何人都可以复制的AI编码模型NousCode
 
 **[react ： Web和本机用户界面的库。](https://github.com/facebook/react)**
 
-⭐ 243,492星· JavaScript · Web和本机用户界面库。
+⭐ 243,494星· JavaScript · Web和本机用户界面库。
 
 📅 2013-05-24T16:15:54Z
 
@@ -195,7 +195,7 @@ Nous Research如何构建一个任何人都可以复制的AI编码模型NousCode
 
 **[AutoGPT ： AutoGPT是每个人都可以使用和构建的可访问AI的愿景。我们的使命是提供工具，让您专注于重要的事情。](https://github.com/Significant-Gravitas/AutoGPT)**
 
-⭐ 182,182星· Python · Auto**GPT**是每个人都能使用和构建可访问AI的愿景我们的使命是提供工具，以便您可以专注于**重要**的事情
+⭐ 182,183星· Python · Auto**GPT**是每个人都能使用和构建可访问AI的愿景我们的使命是提供工具，以便您可以专注于**重要**的事情
 
 📅 2023-03-16T09:21:07Z
 
@@ -206,7 +206,7 @@ Nous Research如何构建一个任何人都可以复制的AI编码模型NousCode
 
 **[ollama ：开始使用Kimi-K2.5、GLM-5、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma和其他型号。](https://github.com/ollama/ollama)**
 
-⭐ 163,930星·去·使用Kimi-K25、GLM-5、MiniMax、**DeepSeek**、**GPT**-oss、Qwen、Gemma等型号开始运行
+⭐ 163,934星·去·使用Kimi-K25、GLM-5、MiniMax、**DeepSeek**、**GPT**-oss、Qwen、Gemma等型号开始运行
 
 📅 2023-06-26T19:39:32Z
 
@@ -247,15 +247,6 @@ Nous Research如何构建一个任何人都可以复制的AI编码模型NousCode
 
 ---
 
-### Hacker News AI
-**[Show HN ：开源AI Agent运行时（ YAML-first ）](https://github.com/NikoSokratous/agentctl)**
-
-yaml – declarative agent config name: support_agent model: provider: **Anthropic** name: **Claude**-3-5-sonnet context_assembly: enabled: true embeddings: provider: **OpenAI** model: text-embedding-3-small providers: - type: knowledge config: sources: ["name == "file_delete" action: deny CLI – run and inspect Create and run an agent agentctl agent create researcher --goal "Research AI safety" --llm **GPT**-4 agentctl agent run researcher agentctl runs watch Manage policies agentctl policy list agentctl policy activate security-policy 1
-
-📅 Tue, 03 Mar 2026 13:31:20 +0000
-
----
-
 ### The Verge
 ![大型Google Home更新让Gemini能够描述实时摄像头提要](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2025-05-22-at-11.35.57%E2%80%AFAM.png.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
@@ -264,17 +255,6 @@ yaml – declarative agent config name: support_agent model: provider: **Anthrop
 |图片：谷歌**Google** Home首席执行官Anish Kattukaran宣布了对智能家居平台的几项**更新**，这些**更新**修复了一长串烦恼和特质家庭版双子座现在也在使用**更新**的型号，这一变化应该会有所改善……阅读The Verge的完整故事
 
 📅 2026-03-03T09:55:29.000Z
-
----
-
-### The Verge
-![苹果可能会使用谷歌服务器为其升级后的AI Siri存储数据](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25697396/STK071_APPLE_M.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[苹果可能会使用谷歌服务器为其升级后的AI Siri存储数据](https://www.theverge.com/tech/887802/apple-ai-siri-google-servers)**
-
-苹果早在1月份就已经宣布，谷歌的**Gemini** AI机型将有助于为去年推迟的Siri**升级**版提供动力最初的合作公告称， “下一代苹果基础机型将基于谷歌的**Gemini**机型和云技术
-
-📅 2026-03-02T20:22:33.000Z
 
 ---
 
@@ -297,38 +277,58 @@ yaml – declarative agent config name: support_agent model: provider: **Anthrop
 ---
 
 ### Hacker News
-**[被盗的Gemini API密钥在48小时内达到$ 82,000](https://llmhorrors.com/all/gemini-stolen-api-key-82k/)**
+**[自2024年以来，互联网顶级科技出版物失去了58%的谷歌流量](https://growtika.com/blog/tech-media-collapse)**
 
-文章网址： https://llmhorrorscom/all/**Gemini**-stolen-api-key-82k/评论网址： https://**new**s
+文章网址： https://growtikacom/blog/tech-media-collapse评论网址： https://**new**s
 
-📅 Tue, 03 Mar 2026 12:41:17 +0000
-
----
-
-### Hacker News AI
-**[Show HN ：持久代理框架– Claude Code上的自我纠正AI代理](https://www.roryteehan.com/writing/i-built-an-ai-agent-that-writes-its-own-rules)**
-
-文章网址： https://wwwcom/writing/i-built-an-ai-agent-that-writes-its-own-rules评论网址： https://**new**s
-
-📅 Tue, 03 Mar 2026 13:34:08 +0000
+📅 Tue, 03 Mar 2026 13:45:33 +0000
 
 ---
 
-### Hacker News AI
-**[显示HN ： MCP服务器，为AI代理的每次Web提取添加时间戳](https://github.com/PrinceGabriel-lgtm/freshcontext-mcp)**
+### Hacker News
+**[克劳德的周期：克劳德作品4.6解决了Don Knuth提出的问题[pdf]](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf)**
 
-附带7个工具： GitHub repo提取黑客新闻情绪
+edu/~ knuth/papers/**Claude**-cyclespdf评论网址： https://**new**s
 
-📅 Tue, 03 Mar 2026 13:17:53 +0000
+📅 Tue, 03 Mar 2026 10:57:42 +0000
+
+---
+
+### The Verge
+![与谷歌和三星不同，小米认为相机硬件是第一位的](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/leica-leitzphone-xiaomi-17-ultra-07.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[与谷歌和三星不同，小米认为相机硬件是第一位的](https://www.theverge.com/tech/888082/xiaomi-unlike-google-and-samsung-thinks-camera-hardware-comes-first)**
+
+小米新款徕卡Leitzphone有新的硬件技巧，包括连续变焦和LOFIC传感器小米逆势而上：它并没有真正谈论AI那么多
+
+📅 2026-03-03T14:34:29.000Z
+
+---
+
+### MIT Tech Review
+**[下载：声称可以阻止闪电的初创公司，以及OpenAI与五角大楼的交易](https://www.technologyreview.com/2026/03/03/1133900/the-download-the-startup-that-says-it-can-stop-lightning-and-inside-openais-pentagon-deal/)**
+
+这是今天的“下载”版本，我们的工作日通讯，提供每日剂量的技术世界正在发生的事情这家初创公司声称它可以阻止闪电并防止灾难性的野火初创公司Skyward Wildfire表示，它可以通过阻止点燃它们的雷击来防止灾难性的火灾
+
+📅 Tue, 03 Mar 2026 13:30:00 +0000
 
 ---
 
 ### MIT Tech Review
 **[下载：人工智能如何撼动围棋，以及网络安全之谜](https://www.technologyreview.com/2026/02/27/1133754/the-download-how-ai-is-shaking-up-go-and-a-cybersecurity-mystery/)**
 
-这是今天的The Download版本，我们的工作日时事通讯，提供有关技术世界每日发生的事情**Google** DeepMind的人工智能计划
+这是今天的“下载”版本，我们的工作日通讯，提供每日剂量的技术世界正在发生的事情这家初创公司声称它可以阻止闪电并防止灾难性的野火初创公司Skyward Wildfire表示，它可以通过阻止点燃它们的雷击来防止灾难性的火灾
 
 📅 Fri, 27 Feb 2026 13:10:00 +0000
+
+---
+
+### Ars Technica
+**[通过开发人员验证，谷歌的Apple envy威胁要拆除Android的开放遗产](https://arstechnica.com/gadgets/2026/03/with-developer-verification-googles-apple-envy-threatens-to-dismantle-androids-open-legacy/)**
+
+随着**Google**准备以安全的名义锁定Android应用程序分发，问题仍然存在。
+
+📅 Tue, 03 Mar 2026 12:00:30 +0000
 
 ---
 
