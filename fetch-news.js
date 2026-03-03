@@ -538,7 +538,7 @@ async function fetchGitHubTrending() {
   
   // 按stars排序，取前12个（categoryLimit会限制到4个）
   ghTrending.sort((a, b) => {
-    const extractStars = (content) => parseInt(content.match(/\d[\d,]*/star/)?.[0]?.replace(/,/g, '') || '0');
+    const extractStars = (content) => parseInt(content.match(/\d[\d,.k]*\s*star/i)?.[0]?.replace(/,/g, '')?.replace(/k/i, '000') || '0');
     const aStars = extractStars(a.content) || 0;
     const bStars = extractStars(b.content) || 0;
     return bStars - aStars;
