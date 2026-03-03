@@ -416,18 +416,7 @@ function generateMarkdown(articles, translatedTitles, translatedContents, today)
   md += `---\n\n`;
 
   md += `# ${today.chinese} - TZ日报\n\n`;
-  const regionCount = {
-    '中国': articles.filter(a => a.region === '中国').length,
-    '美国': articles.filter(a => a.region === '美国').length,
-    '国际': articles.filter(a => a.region === '国际').length
-  };
-
-  const regionStr = Object.entries(regionCount)
-    .filter(([_, count]) => count > 0)
-    .map(([region, count]) => `${region} ${count}条`)
-    .join(' · ');
-
-  md += `> 📊 今日汇总 ${articles.length} 条 (${regionStr}) | 🕐 ${now.toLocaleString('zh-CN')}\n\n`;
+  md += `> 📊 今日汇总 ${articles.length} 条 · 🕐 ${now.toLocaleString('zh-CN')}\n\n`;
   md += `---\n\n`;
 
   const categoryStats = {};
@@ -496,6 +485,43 @@ function generateMarkdown(articles, translatedTitles, translatedContents, today)
   return md;
 }
 
+// 获取GitHub热门仓库
+async function fetchGitHubTrending() {
+  const ghTrending = [];
+  const languages = ['python', 'javascript', 'machine-learning', 'deep-learning', 'llm', 'agents'];
+  
+  for (const lang of languages) {
+    try {
+      // 使用GitHub API获取trending repositories
+      const apiUrl = `https://api.github.com/search/repositories?q=topic:${lang}+language:${lang}&sort=stars&order=desc&per_page=5`;
+      const response = await fetchWithTimeout(apiUrl, {}, 30000);
+      
+      if (response.ok) {
+        const repos = await response.json();
+        
+        for (const repo of repos.items || []) {
+          ghTrending.push({
+            title: `${repo.name}: ${repo.description || '热门AI项目'}`,
+            link: repo.html_url,
+            content: `⭐ ${repo.stargazers_count.toLocaleString()} star · ${repo.language || 'N/A'} · ${repo.description || ''}`,
+            pubDate: repo.created_at || new Date().toISOString(),
+            source: 'GitHub Trending',
+            category: 'GitHub项目',
+            aiScore: repo.stargazers_count / 1000,
+            imageUrl: repo.owner?.avatar_url || null
+          });
+        }
+      }
+    } catch (err) {
+      console.log(`GitHub Trending (${lang})失败: ${err.message}`);
+    }
+    
+    await new Promise(r => setTimeout(r, 1000)); // 避免速率限制
+  }
+  
+  return ghTrending;
+}
+
 // 日志记录
 function log(level, message) {
   const timestamp = new Date().toISOString();
@@ -503,8 +529,8 @@ function log(level, message) {
   console.log(`[${timestamp}] ${prefix} ${message}`);
 }
 
-// 按分类和地域平衡选择文章
-function selectArticlesByCategory(articles, categoryPriority, categoryLimit, totalRange) {
+// 按分类选择文章（简化版 - 不再考虑地域平衡）
+function selectArticlesByCategory(articles, categoryPriority, categoryLimit) {
   const byCategory = {};
   articles.forEach(art => {
     const cat = art.category || '其他';
@@ -512,6 +538,7 @@ function selectArticlesByCategory(articles, categoryPriority, categoryLimit, tot
     byCategory[cat].push(art);
   });
 
+  // 每个分类按AI分数降序排序
   Object.keys(byCategory).forEach(cat => {
     byCategory[cat].sort((a, b) => (b.aiScore || 0) - (a.aiScore || 0));
   });
@@ -521,71 +548,28 @@ function selectArticlesByCategory(articles, categoryPriority, categoryLimit, tot
     .sort((a, b) => a[1] - b[1])
     .map(([name]) => name);
 
+  // 按分类优先级顺序选择每分类6-10篇
   for (const cat of orderedCategories) {
     if (!byCategory[cat]) continue;
 
-    const limit = categoryLimit[cat] || { min: 1, max: 2 };
+    const limit = categoryLimit[cat] || { min: 6, max: 10 };
     const available = byCategory[cat];
 
-    const regionSelection = ensureRegionBalance(available, limit.max);
+    // 直接按AI分数选择前N篇，不区分地区
+    const topArticles = available.slice(0, limit.max);
 
-    const uniqueSelection = regionSelection.filter(art => {
+    // 去重（可能是跨分类的重复文章）
+    const uniqueArticles = topArticles.filter(art => {
       const key = art.link || art.title;
       return !selectedArticles.some(selected => 
         (selected.link || selected.title) === key
       );
     });
 
-    selectedArticles.push(...uniqueSelection);
-  }
-
-  if (selectedArticles.length > totalRange.max) {
-    selectedArticles.forEach(art => {
-      art.finalScore = (art.aiScore || 0) + 
-        (Object.keys(categoryPriority).length - (categoryPriority[art.category] || 10)) * 10;
-    });
-    selectedArticles.sort((a, b) => b.finalScore - a.finalScore);
-    return selectedArticles.slice(0, totalRange.max);
-  }
-
-  if (selectedArticles.length < totalRange.min) {
-    log('warn', `⚠️ 文章数量: ${selectedArticles.length}/${totalRange.min}`);
+    selectedArticles.push(...uniqueArticles);
   }
 
   return selectedArticles;
-}
-
-// 确保地域平衡
-function ensureRegionBalance(articles, maxCount) {
-  if (articles.length <= maxCount) return articles;
-
-  const byRegion = { '中国': [], '美国': [], '国际': [] };
-  articles.forEach(art => {
-    const region = art.region || '国际';
-    if (byRegion[region]) {
-      byRegion[region].push(art);
-    } else {
-      byRegion['国际'].push(art);
-    }
-  });
-
-  const selected = [];
-  const regions = ['中国', '美国', '国际'];
-  
-  regions.forEach(region => {
-    if (byRegion[region].length > 0 && selected.length < maxCount) {
-      selected.push(byRegion[region][0]);
-    }
-  });
-
-  const remaining = maxCount - selected.length;
-  if (remaining > 0) {
-    const allRemaining = articles.filter(art => !selected.includes(art))
-      .sort((a, b) => (b.aiScore || 0) - (a.aiScore || 0));
-    selected.push(...allRemaining.slice(0, remaining));
-  }
-
-  return selected;
 }
 
 
@@ -633,7 +617,6 @@ async function fetchNews() {
 
       items.forEach(item => {
         item.aiScore = calculateAIScore(item);
-        item.region = source.region || '国际';
       });
 
       allArticles.push(...items);
@@ -646,23 +629,26 @@ async function fetchNews() {
     await new Promise(r => setTimeout(r, 500));
   }
 
-  let filtered = deduplicate(allArticles);
-  filtered = filterNews(filtered);
+  // 获取GitHub热门项目
+  log('info', '📦 获取GitHub热门项目...');
+  const ghTrending = await fetchGitHubTrending();
+  allArticles.push(...ghTrending);
+  log('info', ` ✅ GitHub热门项目: ${ghTrending.length} 个`);
 
-  // 按分类和地域平衡选择6-10篇文章
+  let filtered = deduplicate(allArticles);
+
+  // 按分类选择每分类6-10篇文章（v3.3）
   const categoryLimit = config.categoryLimit || {
-    '重要AI信息': { min: 3, max: 4 },
-    '艺术类AI': { min: 1, max: 2 },
-    'GitHub项目': { min: 1, max: 2 },
-    '新闻发现': { min: 1, max: 2 }
+    '重要AI信息': { min: 6, max: 10 },
+    '艺术视频音乐AI': { min: 6, max: 10 },
+    'GitHub项目': { min: 6, max: 10 },
+    '新闻发现': { min: 6, max: 10 }
   };
-  const totalRange = config.totalArticleRange || { min: 6, max: 10 };
 
   filtered = selectArticlesByCategory(
     filtered,
     config.categoryPriority,
-    categoryLimit,
-    totalRange
+    categoryLimit
   );
 
   log('info', `📊 共获取 ${filtered.length} 条新闻 (来自 ${new Set(filtered.map(f => f.source)).size} 个源)`);

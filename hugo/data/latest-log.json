@@ -1,22 +1,49 @@
 {
-  "timestamp": "2026-03-02T20:05:28.866Z",
-  "articlesCount": 20,
-  "sourcesCount": 2,
+  "timestamp": "2026-03-03T12:40:54.029Z",
+  "articlesCount": 10,
+  "sourcesCount": 5,
   "categories": [
     {
-      "category": "AI产品",
-      "count": 20,
-      "displayName": "AI产品"
+      "category": "重要AI信息",
+      "count": 4,
+      "displayName": "🚀 重要AI信息"
+    },
+    {
+      "category": "艺术类AI",
+      "count": 2,
+      "displayName": "🎨 艺术/视频/音乐AI"
+    },
+    {
+      "category": "GitHub项目",
+      "count": 2,
+      "displayName": "📦 GitHub热门项目"
+    },
+    {
+      "category": "新闻发现",
+      "count": 2,
+      "displayName": "📰 新闻与新发现"
     }
   ],
   "topSources": [
     [
       "OpenAI Blog",
-      10
+      4
     ],
     [
-      "Google AI Blog",
-      10
+      "VentureBeat AI",
+      2
+    ],
+    [
+      "GitHub Blog",
+      2
+    ],
+    [
+      "MIT Tech Review AI",
+      1
+    ],
+    [
+      "Synced Review",
+      1
     ]
   ]
 }
