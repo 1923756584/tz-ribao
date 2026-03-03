@@ -31,11 +31,9 @@ module.exports = {
     { name: 'ElevenLabs', url: 'https://elevenlabs.io/blog', category: 'AI产品' },
     { name: 'Perplexity AI', url: 'https://www.perplexity.ai/feed', category: 'AI产品' },
 
-    // Tier 2: 视频与艺术AI（8个源，第2优先级）
-    { name: 'Midjourney Updates', url: 'https://releasebot.io/updates/midjourney/feed', category: '视频与艺术AI' },
-    { name: 'AI Art Feedspot', url: 'https://rss.feedspot.com/ai_art_rss_feeds/feed', category: '视频与艺术AI' },
-    { name: 'Stability AI', url: 'https://stability.ai/feed', category: '视频与艺术AI' },
-
+    // Tier 2: 视频与艺术AI（AI新闻聚合源）
+    { name: 'VentureBeat AI', url: 'https://venturebeat.com/category/ai/feed/', category: '视频与艺术AI' },
+    { name: 'The Verge AI', url: 'https://www.theverge.com/rss/ai-artificial-intelligence-articles', category: '视频与艺术AI' },
     // Tier 3: AI新闻 & 行业动态
     { name: 'TechCrunch AI', url: 'https://techcrunch.com/category/artificial-intelligence/feed/', category: 'AI新闻' },
     { name: 'MIT Tech Review AI', url: 'https://www.technologyreview.com/topic/artificial-intelligence/feed/', category: 'AI新闻' },
