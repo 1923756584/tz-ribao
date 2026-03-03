@@ -12,7 +12,7 @@ module.exports = {
   sources: [
     // Tier 1: AI产品更新 / 大模型（20个源）
     { name: 'OpenAI Blog', url: 'https://openai.com/blog/rss.xml', category: 'AI产品' },
-    { name: 'Anthropic', url: 'https://www.anthropic.com/feed', category: 'AI产品' },
+    { name: 'Anthropic', url: 'https://www.anthropic.com/news/rss', category: 'AI产品' },
     { name: 'Google AI Blog', url: 'https://blog.google/technology/ai/rss', category: 'AI产品' },
     { name: 'Microsoft AI', url: 'https://blogs.microsoft.com/ai/feed/', category: 'AI产品' },
     { name: 'Meta AI', url: 'https://ai.meta.com/feed/', category: 'AI产品' },
@@ -59,7 +59,7 @@ module.exports = {
     // Tier 5: 产品平台 & 开源
     { name: 'Product Hunt AI', url: 'https://www.producthunt.com/topics/artificial-intelligence/rss', category: '产品发布' },
     { name: 'GitHub Blog', url: 'https://github.blog/feed', category: '开源' },
-    { name: 'DeepMind Blog', url: 'https://deepmind.google/blog/', category: 'AI新闻' }
+    { name: 'DeepMind Blog', url: 'https://deepmind.google/discover/blog/feed', category: 'AI新闻' }
   ],
 
   categoryPriority: {
