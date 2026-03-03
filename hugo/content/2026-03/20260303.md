@@ -1,12 +1,12 @@
 ---
 title: "2026年3月3日 - TZ日报"
-date: 2026-03-03T12:40:53.976Z
+date: 2026-03-03T12:45:13.428Z
 draft: false
 ---
 
 # 2026年3月3日 - TZ日报
 
-> 📊 今日汇总 10 条 (美国 7条 · 国际 3条) | 🕐 2026/3/3 20:40:53
+> 📊 今日汇总 10 条 (美国 6条 · 国际 4条) | 🕐 2026/3/3 12:45:13
 
 ---
 
@@ -30,6 +30,15 @@ draft: false
 
 ---
 
+### Hugging Face
+**[Codex和Claude提供的全方位定制内核](https://huggingface.co/blog/custom-cuda-kernels-agent-skills)**
+
+Codex和**Claude**提供的全方位定制内核
+
+📅 Fri, 13 Feb 2026 00:00:00 GMT
+
+---
+
 ### OpenAI Blog
 **[我们与陆军部的协议](https://openai.com/index/our-agreement-with-the-department-of-war)**
 
@@ -43,15 +52,6 @@ draft: false
 **[OpenAI和亚马逊宣布战略合作伙伴关系](https://openai.com/index/amazon-partnership)**
 
 **OpenAI**和亚马逊宣布建立战略合作伙伴关系，将**OpenAI**的Frontier平台引入AWS扩展的人工智能基础设施
-
-📅 Fri, 27 Feb 2026 05:30:00 GMT
-
----
-
-### OpenAI Blog
-**[为所有人扩展人工智能](https://openai.com/index/scaling-ai-for-everyone)**
-
-今天，我们宣布以$ 7,300B的预估值投资$ 110B ，其中包括SoftBank的$ 300B ， NVIDIA的$ 300B和Amazon的$ 500B
 
 📅 Fri, 27 Feb 2026 05:30:00 GMT
 
