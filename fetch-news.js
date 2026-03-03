@@ -161,31 +161,109 @@ async function translateBatch(texts) {
 const isGitHubActions = process.env.CI === 'true' || process.env.GITHUB_ACTIONS === 'true';
 
 
+// 智能精华提取 - 提取关键句，而不是截断
+function extractEssentialSentences(text, maxSentences = 3) {
+  if (!text || text.trim() === '') return '';
+
+  // 清理文本
+  const cleanText = text.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+
+  // 按句子拆分（支持中文和英文标点）
+  const sentences = cleanText
+    .split(/([。！？.!?])/)
+    .filter(s => s.trim() && s.length > 5)
+    .map(s => s.trim());
+
+  // 句子太长，按从句继续拆分
+  let refinedSentences = [];
+  for (const sent of sentences) {
+    if (sent.length > 150) {
+      // 按逗号拆分
+      const subSentences = sent.split(/([，,])/)
+        .filter(s => s.trim() && s.length > 3)
+        .map(s => s.trim());
+      refinedSentences.push(...subSentences);
+    } else {
+      refinedSentences.push(sent);
+    }
+  }
+
+  if (refinedSentences.length <= maxSentences) return refinedSentences.join('');
+
+  // 对每个句子计算重要分数
+  const weightedSentences = refinedSentences.map((sent, index) => {
+    let score = 0;
+    const lowerSent = sent.toLowerCase();
+
+    // 1. 包含关键词汇的加分
+    const importantKeywords = [
+      // AI/科技
+      '发布', '推出', '上线', '更新', '升级', '开源', '突破', '首发', '宣布', '展示',
+      'launch', 'release', 'announce', 'update', 'new', 'breakthrough', 'first', 'major',
+      // 公司/产品
+      'gpt', 'claude', 'gemini', 'openai', 'anthropic', 'google', 'microsoft', 'meta',
+      'deepseek', 'chatgpt', 'model', 'ai', 'gpt', 'claude',
+      // 艺术/视频
+      '视频', '图像', '音乐', '生成', '创造', '艺术', 'design', 'create', 'generate',
+      // GitHub/开源
+      'github', '开源', '项目', '代码', 'repository', 'open source'
+    ];
+
+    for (const kw of importantKeywords) {
+      if (lowerSent.includes(kw)) {
+        score += 2;
+      }
+    }
+
+    // 2. 句子长度适中加分（20-100个字符最佳）
+    const len = lowerSent.length;
+    if (len >= 20 && len <= 100) {
+      score += 1;
+    } else if (len > 100) {
+      score -= 0.5; // 太长
+    } else if (len < 10) {
+      score -= 1; // 太短
+    }
+
+    // 3. 句子位置分数（前3句和最后1句稍高）
+    const relPos = index / refinedSentences.length;
+    if (relPos < 0.3 || relPos > 0.8) {
+      score += 0.5;
+    }
+
+    // 4. 以大写字母或数字开头的句子（英文）
+    if (/^[A-Z0-9]/.test(sent)) {
+      score += 0.3;
+    }
+
+    return { sentence: sent, score, index };
+  });
+
+  // 按分数排序，取前maxSentences个
+  weightedSentences.sort((a, b) => b.score - a.score);
+  const topSentences = weightedSentences
+    .slice(0, maxSentences)
+    .sort((a, b) => a.index - b.index) // 保持原文顺序
+    .map(item => item.sentence);
+
+  return topSentences.join('');
+}
+
 // 智能摘要生成
 async function generateSmartSummary(item) {
-  // GitHub Actions 中不调用外部 API，直接使用 RSS 内容
-  if (isGitHubActions) {
-    const content = item.contentSnippet || item.content || "";
-    if (content) {
-      const cleanContent = content.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
-      return cleanContent.slice(0, 200) + (cleanContent.length > 200 ? "..." : "");
-    }
-    return item.title || "";
-  }
-
-  // 本地环境尝试使用 Jina AI 获取完整摘要
-  if (item.link) {
-    const jinaSummary = await generateSummaryWithJina(item.link);
-    if (jinaSummary) return jinaSummary;
-  }
-
   const content = item.contentSnippet || item.content || "";
-  if (content) {
-    const cleanContent = content.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
-    return cleanContent.slice(0, 200) + (cleanContent.length > 200 ? "..." : "");
-  }
+  if (!content) return item.title || "";
 
-  return item.title || "";
+  // 清理HTML标签和多余空格
+  const cleanContent = content.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
+
+  // 如果内容很短，直接返回
+  if (cleanContent.length <= 100) return cleanContent;
+
+  // 提取精华句子（2-3句）
+  const essence = extractEssentialSentences(cleanContent, 2);
+
+  return essence || cleanContent.slice(0, 150) + '...';
 }
 
 // 计算AI重要性分数
@@ -338,7 +416,18 @@ function generateMarkdown(articles, translatedTitles, translatedContents, today)
   md += `---\n\n`;
 
   md += `# ${today.chinese} - TZ日报\n\n`;
-  md += `> 📊 今日汇总 ${articles.length} 条 | 📡 ${articles.filter(a => a.category === 'AI产品').length} 个产品更新 | 🕐 ${now.toLocaleString('zh-CN')}\n\n`;
+  const regionCount = {
+    '中国': articles.filter(a => a.region === '中国').length,
+    '美国': articles.filter(a => a.region === '美国').length,
+    '国际': articles.filter(a => a.region === '国际').length
+  };
+
+  const regionStr = Object.entries(regionCount)
+    .filter(([_, count]) => count > 0)
+    .map(([region, count]) => `${region} ${count}条`)
+    .join(' · ');
+
+  md += `> 📊 今日汇总 ${articles.length} 条 (${regionStr}) | 🕐 ${now.toLocaleString('zh-CN')}\n\n`;
   md += `---\n\n`;
 
   const categoryStats = {};
@@ -414,6 +503,92 @@ function log(level, message) {
   console.log(`[${timestamp}] ${prefix} ${message}`);
 }
 
+// 按分类和地域平衡选择文章
+function selectArticlesByCategory(articles, categoryPriority, categoryLimit, totalRange) {
+  const byCategory = {};
+  articles.forEach(art => {
+    const cat = art.category || '其他';
+    if (!byCategory[cat]) byCategory[cat] = [];
+    byCategory[cat].push(art);
+  });
+
+  Object.keys(byCategory).forEach(cat => {
+    byCategory[cat].sort((a, b) => (b.aiScore || 0) - (a.aiScore || 0));
+  });
+
+  const selectedArticles = [];
+  const orderedCategories = Object.entries(categoryPriority)
+    .sort((a, b) => a[1] - b[1])
+    .map(([name]) => name);
+
+  for (const cat of orderedCategories) {
+    if (!byCategory[cat]) continue;
+
+    const limit = categoryLimit[cat] || { min: 1, max: 2 };
+    const available = byCategory[cat];
+
+    const regionSelection = ensureRegionBalance(available, limit.max);
+
+    const uniqueSelection = regionSelection.filter(art => {
+      const key = art.link || art.title;
+      return !selectedArticles.some(selected => 
+        (selected.link || selected.title) === key
+      );
+    });
+
+    selectedArticles.push(...uniqueSelection);
+  }
+
+  if (selectedArticles.length > totalRange.max) {
+    selectedArticles.forEach(art => {
+      art.finalScore = (art.aiScore || 0) + 
+        (Object.keys(categoryPriority).length - (categoryPriority[art.category] || 10)) * 10;
+    });
+    selectedArticles.sort((a, b) => b.finalScore - a.finalScore);
+    return selectedArticles.slice(0, totalRange.max);
+  }
+
+  if (selectedArticles.length < totalRange.min) {
+    log('warn', `⚠️ 文章数量: ${selectedArticles.length}/${totalRange.min}`);
+  }
+
+  return selectedArticles;
+}
+
+// 确保地域平衡
+function ensureRegionBalance(articles, maxCount) {
+  if (articles.length <= maxCount) return articles;
+
+  const byRegion = { '中国': [], '美国': [], '国际': [] };
+  articles.forEach(art => {
+    const region = art.region || '国际';
+    if (byRegion[region]) {
+      byRegion[region].push(art);
+    } else {
+      byRegion['国际'].push(art);
+    }
+  });
+
+  const selected = [];
+  const regions = ['中国', '美国', '国际'];
+  
+  regions.forEach(region => {
+    if (byRegion[region].length > 0 && selected.length < maxCount) {
+      selected.push(byRegion[region][0]);
+    }
+  });
+
+  const remaining = maxCount - selected.length;
+  if (remaining > 0) {
+    const allRemaining = articles.filter(art => !selected.includes(art))
+      .sort((a, b) => (b.aiScore || 0) - (a.aiScore || 0));
+    selected.push(...allRemaining.slice(0, remaining));
+  }
+
+  return selected;
+}
+
+
 // 主函数
 async function fetchNews() {
   log('info', '🚀 开始抓取新闻 (v3.0)...');
@@ -458,6 +633,7 @@ async function fetchNews() {
 
       items.forEach(item => {
         item.aiScore = calculateAIScore(item);
+        item.region = source.region || '国际';
       });
 
       allArticles.push(...items);
@@ -473,9 +649,21 @@ async function fetchNews() {
   let filtered = deduplicate(allArticles);
   filtered = filterNews(filtered);
 
-  filtered.sort((a, b) => (b.aiScore || 0) - (a.aiScore || 0));
+  // 按分类和地域平衡选择6-10篇文章
+  const categoryLimit = config.categoryLimit || {
+    '重要AI信息': { min: 3, max: 4 },
+    '艺术类AI': { min: 1, max: 2 },
+    'GitHub项目': { min: 1, max: 2 },
+    '新闻发现': { min: 1, max: 2 }
+  };
+  const totalRange = config.totalArticleRange || { min: 6, max: 10 };
 
-  filtered = filtered.slice(0, config.maxItems || 60);
+  filtered = selectArticlesByCategory(
+    filtered,
+    config.categoryPriority,
+    categoryLimit,
+    totalRange
+  );
 
   log('info', `📊 共获取 ${filtered.length} 条新闻 (来自 ${new Set(filtered.map(f => f.source)).size} 个源)`);
 
