@@ -32,12 +32,9 @@ module.exports = {
     { name: 'Perplexity AI', url: 'https://www.perplexity.ai/feed', category: 'AI产品' },
 
     // Tier 2: 视频与艺术AI（8个源，第2优先级）
-    { name: 'Midjourney', url: 'https://midjourney.com/feed', category: '视频与艺术AI' },
-    { name: 'Runway ML', url: 'https://runwayml.com/feed', category: '视频与艺术AI' },
-    { name: 'Suno AI', url: 'https://suno.com/feed', category: '视频与艺术AI' },
-    { name: 'Udio AI', url: 'https://www.udio.com/feed', category: '视频与艺术AI' },
-    { name: 'AIVA Music AI', url: 'https://www.aiva.ai/feed', category: '视频与艺术AI' },
-    { name: 'Ideogram', url: 'https://ideogram.ai/feed', category: '视频与艺术AI' },
+    { name: 'Midjourney Updates', url: 'https://releasebot.io/updates/midjourney/feed', category: '视频与艺术AI' },
+    { name: 'AI Art Feedspot', url: 'https://rss.feedspot.com/ai_art_rss_feeds/feed', category: '视频与艺术AI' },
+    { name: 'Stability AI', url: 'https://stability.ai/feed', category: '视频与艺术AI' },
 
     // Tier 3: AI新闻 & 行业动态
     { name: 'TechCrunch AI', url: 'https://techcrunch.com/category/artificial-intelligence/feed/', category: 'AI新闻' },
