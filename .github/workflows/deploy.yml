@@ -58,9 +58,19 @@ jobs:
             echo "没有新的新闻内容跳过提交"
           fi
         continue-on-error: true
+      - name: Remove Theme Workflows (Prevent Deployment Conflicts)
+        run: |
+          # 删除主题内置的工作流文件，防止与根项目部署工作流冲突
+          rm -f hugo/themes/hextra/.github/workflows/pages.yml || true
+          echo "Theme workflows removed to prevent deployment conflicts"
+
       - name: Build Site
         run: |
+          # Clear Hugo cache to force complete rebuild
+          rm -rf hugo/resources/_gen/ hugo/public/ || true
           npm run build
+          # Clear Hugo cache to force complete rebuild
+          rm -rf hugo/resources/_gen/ hugo/public/ || true
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
