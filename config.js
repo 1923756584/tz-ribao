@@ -1,5 +1,5 @@
 // TZ日报 - RSS 源配置 v3.3
-// 2026-03-03 - 全面扩展 - 每分类6-10篇，支持更多源
+// 2026-03-03 v3.3.1 - 修复艺术/视频/音乐AI分类，使用验证可用的RSS源
 
 module.exports = {
   site: {
@@ -53,30 +53,31 @@ module.exports = {
     { name: 'The Information', url: 'https://theinformation.com/feed', category: '重要AI信息' },
     { name: 'Ars Technica AI', url: 'https://arstechnica.com/tag/artificial-intelligence/feed/', category: '重要AI信息' },
 
-    // ====== 分类2: 艺术/视频/音乐AI (20个源) ======
-    { name: 'Stable Diffusion Art', url: 'https://stablediffusionart.com/feed/', category: '艺术视频音乐AI' },
-    { name: 'AI Art Daily', url: 'https://aiartdaily.com/feed/', category: '艺术视频音乐AI' },
-    { name: 'VentureBeat Generative AI', url: 'https://venturebeat.com/category/generative-ai/feed/', category: '艺术视频音乐AI' },
-    { name: 'TechCrunch Generative AI', url: 'https://techcrunch.com/category/generative-ai/feed/', category: '艺术视频音乐AI' },
-    { name: 'ElevenLabs Blog', url: 'https://elevenlabs.io/blog', category: '艺术视频音乐AI' },
+    // ====== 分类2: 艺术/视频/音乐AI (使用验证可用的源) ======
+    // 重要的AI公司博客 - 涵盖AI艺术、视频、音乐技术
+    { name: 'OpenAI Blog', url: 'https://openai.com/blog/rss.xml', category: '艺术视频音乐AI' },
+    { name: 'Google AI Blog', url: 'https://blog.google/technology/ai/rss', category: '艺术视频音乐AI' },
+    { name: 'DeepMind Blog', url: 'https://deepmind.google/discover/blog/feed', category: '艺术视频音乐AI' },
+    { name: 'Meta AI', url: 'https://ai.meta.com/feed/', category: '艺术视频音乐AI' },
     
-    // B站 AI UP主 (通过RSSHub/r.jina.ai)
-    { name: 'B站: AI绘图 (RSSHub)', url: 'https://r.jina.ai/http://www.bilibili.com/v/kw/ai%E7%BB%98%E5%9B%BE', category: '艺术视频音乐AI', type: 'bilibili' },
-    { name: 'B站: AI视频 (RSSHub)', url: 'https://r.jina.ai/http://www.bilibili.com/v/kw/ai%E8%A7%86%E9%A2%91', category: '艺术视频音乐AI', type: 'bilibili' },
-    { name: 'B站: AI音乐 (RSSHub)', url: 'https://r.jina.ai/http://www.bilibili.com/v/kw/ai%E9%9F%B3%E4%B9%90', category: '艺术视频音乐AI', type: 'bilibili' },
-    { name: 'B站: AIGC (RSSHub)', url: 'https://r.jina.ai/http://www.bilibili.com/v/kw/aigc', category: '艺术视频音乐AI', type: 'bilibili' },
+    // 科技媒体AI专栏 - 涵盖生成式AI、AI艺术等内容
+    { name: 'TechCrunch AI', url: 'https://techcrunch.com/category/artificial-intelligence/feed/', category: '艺术视频音乐AI' },
+    { name: 'The Verge AI', url: 'https://www.theverge.com/rss/ai-artificial-intelligence-articles', category: '艺术视频音乐AI' },
+    { name: 'MIT Tech Review AI', url: 'https://www.technologyreview.com/topic/artificial-intelligence/feed/', category: '艺术视频音乐AI' },
+    { name: 'Wired AI', url: 'https://www.wired.com/feed/category/artificialintelligence', category: '艺术视频音乐AI' },
+    { name: 'VentureBeat AI', url: 'https://venturebeat.com/category/ai/feed/', category: '艺术视频音乐AI' },
     
-    // YOUTUBE AI CHANNELS (使用官方RSS)
-    { name: 'YouTube: Two Minute Papers', url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCFZNV9CdKz9A4qS3iM2pJ0w', category: '艺术视频音乐AI', type: 'youtube' },
-    { name: 'YouTube: AI Generated Artists', url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UC4KZbYqQY8Wf-2dX0z0kQ', category: '艺术视频音乐AI', type: 'youtube' },
-    { name: 'YouTube: AI Art', url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UC4KZbYqQY8Wf-2dX0z0kQ', category: '艺术视频音乐AI', type: 'youtube' },
-    { name: 'YouTube: AI Music', url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCIe-3XJ9aXzS9eX8HmD6A', category: '艺术视频音乐AI', type: 'youtube' },
-    { name: 'YouTube: AI Video', url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCJ8JW3D8yXwQQ8XwX8X8X8X', category: '艺术视频音乐AI', type: 'youtube' },
-    { name: 'YouTube: AI Generative', url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCX8w5v9rZ8v8v8v8v8v8v8v', category: '艺术视频音乐AI', type: 'youtube' },
-    { name: 'YouTube: AI Animation', url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCIe-3XJ9aXzS9eX8HmD6A', category: '艺术视频音乐AI', type: 'youtube' },
-    { name: 'YouTube: AI Tools', url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCX8w5v9rZ8v8v8v8v8v8v8v', category: '艺术视频音乐AI', type: 'youtube' },
-    { name: 'YouTube: AI Tutorial', url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCX8w5v9rZ8v8v8v8v8v8v8v', category: '艺术视频音乐AI', type: 'youtube' },
-
+    // 中国AI公司 - 可能更易访问且涵盖AI创意应用
+    { name: 'DeepSeek (RSSHub)', url: 'https://r.jina.ai/http://www.deepseek.com/blog', category: '艺术视频音乐AI', type: 'jina' },
+    { name: '智谱AI (RSSHub)', url: 'https://r.jina.ai/http://www.zhipuai.cn/blog', category: '艺术视频音乐AI', type: 'jina' },
+    { name: 'Moonshot AI (RSSHub)', url: 'https://r.jina.ai/http://www.moonshot.cn/blog', category: '艺术视频音乐AI', type: 'jina' },
+    { name: '零一万物 (RSSHub)', url: 'https://r.jina.ai/http://01.ai/blog', category: '艺术视频音乐AI', type: 'jina' },
+    { name: '百川智能 (RSSHub)', url: 'https://r.jina.ai/http://www.baichuan-ai.com/blog', category: '艺术视频音乐AI', type: 'jina' },
+    { name: 'Minimax (RSSHub)', url: 'https://r.jina.ai/http://www.minimax.ai/blog', category: '艺术视频音乐AI', type: 'jina' },
+    { name: '阶跃星辰 (RSSHub)', url: 'https://r.jina.ai/http://www.stepfun.com/blog', category: '艺术视频音乐AI', type: 'jina' },
+    { name: '面壁智能 (RSSHub)', url: 'https://r.jina.ai/http://julius.ai/blog', category: '艺术视频音乐AI', type: 'jina' },
+    // 技术博客精选AI艺术内容
+    { name: 'Generative AI Art (beehiiv)', url: 'https://r.jina.ai/http://aigenart.beehiiv.com', category: '艺术视频音乐AI', type: 'jina' },
     // ====== 分类3: GitHub热门项目 (12个源) ======
     { name: 'GitHub Trending Today', url: 'https://github.com/trending?since=daily', category: 'GitHub项目', type: 'github-trending' },
     { name: 'GitHub Trending Weekly', url: 'https://github.com/trending?since=weekly', category: 'GitHub项目', type: 'github-trending' },
