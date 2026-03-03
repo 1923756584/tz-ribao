@@ -18,3 +18,4 @@ title: TZ日报
 {{ range .Site.RegularPages.GroupByDate "2006-01" "desc" }}
 - [{{ .Key }}](/{{ .Key }}/)
 {{ end }}
+# CDN Flush - 1772517283
