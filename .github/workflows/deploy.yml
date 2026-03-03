@@ -46,7 +46,18 @@ jobs:
       - name: Fetch News
         run: |
           npm run fetch
-
+          # 检查是否有新文件需要提交
+          if [ -n "$(git status --porcelain hugo/content/)" ]; then
+            echo "发现更新的新闻文件，提交到仓库..."
+            git config user.name 'github-actions[bot]'
+            git config user.email 'github-actions[bot]@users.noreply.github.com'
+            git add hugo/content/ latest.md
+            git commit -m "chore: 更新AI资讯 - $(date +'%Y-%m-%d %H:%M')" || true
+            git push origin main || true
+          else
+            echo "没有新的新闻内容跳过提交"
+          fi
+        continue-on-error: true
       - name: Build Site
         run: |
           npm run build
