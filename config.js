@@ -104,13 +104,14 @@ module.exports = {
 
     // ====== 分类4: 📦 GitHub热门项目（4个，过去3天） ======
     // GitHub trending源（时间过滤在fetch-news.js中实现）
-    { name: 'GitHub Trending Python', url: 'https://github.com/trending/python', category: 'GitHub项目', type: 'github-trending-3days' },
-    { name: 'GitHub Trending ML', url: 'https://github.com/trending/machine-learning', category: 'GitHub项目', type: 'github-trending-3days' },
-    { name: 'GitHub Trending AI', url: 'https://github.com/trending/artificial-intelligence', category: 'GitHub项目', type: 'github-trending-3days' },
-    { name: 'GitHub Trending LLM', url: 'https://github.com/trending/large-language-model', category: 'GitHub项目', type: 'github-trending-3days' },
+    { name: 'GitHub Trending Python', url: 'https://github.com/trending/python', category: 'GitH hot', type: 'github-trending-3days' },
+    { name: 'GitHub Trending ML', url: 'https://github.com/trending/machine-learning', category: 'GitH hot', type: 'github-trending-3days' },
+    { name: 'GitHub Trending AI', url: 'https://github.com/trending/artificial-intelligence', category: 'GitH hot', type: 'github-trending-3days' },
+    { name: 'GitHub Trending LLM', url: 'https://github.com/trending/large-language-model', category: 'GitH hot', type: 'github-trending-3days' },
     
     // GitHub官方博客（用于获取官方项目更新）
-    { name: 'GitHub Blog', url: 'https://github.blog/feed', category: 'GitHub项目' },
+    // GitHub官方博客（用于获取官方产品更新）
+    { name: 'GitHub Blog', url: 'https://github.blog/feed', category: '产品更新' },
 
     // ====== 分类5: 💬 社交动态（新增 - X/Twitter、Reddit、即刻等） ======
     // X/Twitter - AI Leaders
@@ -141,6 +142,12 @@ module.exports = {
     '产品更新': 1,
     '前沿研究': 2,
     '行业展望': 3,
+    'GitH hot': 4,
+    '社交动态': 5
+  },
+    '产品更新': 1,
+    '前沿研究': 2,
+    '行业展望': 3,
     'GitHub项目': 4,
     '社交动态': 5
   },
@@ -150,11 +157,25 @@ module.exports = {
     '产品更新': '✨ 产品更新',
     '前沿研究': '🔬 前沿研究',
     '行业展望': '🌍 行业展望',
+    'GitH hot': '📦 GitHub热门',
+    '社交动态': '💬 社交动态'
+  },
+  categoryNames: {
+    '产品更新': '✨ 产品更新',
+    '前沿研究': '🔬 前沿研究',
+    '行业展望': '🌍 行业展望',
     'GitHub项目': '📦 GitHub热门',
     '社交动态': '💬 社交动态'
   },
 
   // 每分类文章数量配置（v3.4 - 按参考网站比例调整）
+  categoryLimit: {
+    '产品更新': { min: 8, max: 10 },      // 参考网站7篇
+    '前沿研究': { min: 6, max: 8 },       // 参考网站7篇
+    '行业展望': { min: 6, max: 8 },       // 参考网站6篇
+    'GitH hot': { min: 4, max: 4 },       // 固定4个
+    '社交动态': { min: 5, max: 8 }        // 参考网站5篇
+  },
   categoryLimit: {
     '产品更新': { min: 8, max: 10 },      // 参考网站7篇
     '前沿研究': { min: 6, max: 8 },       // 参考网站7篇
