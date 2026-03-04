@@ -1,12 +1,12 @@
 ---
 title: "2026年3月4日 - TZ日报"
-date: 2026-03-04T06:41:48.790Z
+date: 2026-03-04T08:31:38.113Z
 draft: false
 ---
 
 # 2026年3月4日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/3/4 06:41:48
+> 📊 今日汇总 38 条 · 🕐 2026/3/4 08:31:38
 
 ---
 
@@ -288,50 +288,85 @@ Nous Research如何构建一个任何人都可以复制的AI编码模型NousCode
 
 ## 📦 GitHub热门
 
-### GitHub Blog
-**[我们如何在GitHub Enterprise Server中重建高可用性搜索架构](https://github.blog/engineering/architecture-optimization/how-we-rebuilt-the-search-architecture-for-high-availability-in-github-enterprise-server/)**
+### GitHub Active (AI/ML)
+![scikit-learn-intelex ： Scikit-learn扩展是加速Scikit-learn应用程序的无缝方式](https://avatars.githubusercontent.com/u/144704571?v=4)
 
-以下是我们如何为GHES客户提供更好、更快、更具弹性的搜索体验文章我们如何在GitHub Enterprise Server中重建高可用性搜索架构**首次**出现在GitHub博客上
+**[scikit-learn-intelex ： Scikit-learn扩展是加速Scikit-learn应用程序的无缝方式](https://github.com/uxlfoundation/scikit-learn-intelex)**
 
-📅 Tue, 03 Mar 2026 18:45:09 +0000
+⭐ 1,332星· 184叉· Python · Scikit-learn扩展是加速Scikit-learn应用程序的无缝方式
 
----
-
-### GitHub Blog
-**[参加或主持您附近的GitHub Copilot开发者日活动](https://github.blog/ai-and-ml/github-copilot/join-or-host-a-github-copilot-dev-days-event-near-you/)**
-
-GitHub Copilot Dev Days是一个全球动手系列文章加入或主持您附近的GitHub Copilot Dev Days活动**首次**出现在GitHub博客上
-
-📅 Tue, 03 Mar 2026 16:55:00 +0000
+📅 2026-03-04T08:30:36Z
 
 ---
 
-### GitHub Blog
-**[面向初学者的GitHub ： GitHub问题和项目入门](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-issues-and-projects/)**
+### GitHub New (New AI)
+![药物🆕 审查-情绪分析：使用TF-IDF、Word2Vec和微调的BERT进行二进制和多类分类，对16万多篇药物审查进行端到端情绪分析。](https://avatars.githubusercontent.com/u/115773260?v=4)
 
-了解如何通过此分步教程更有效地组织和协作初学者帖子GitHub ： GitHub问题和项目入门**首次**出现在GitHub博客上
+**[药物🆕 审查-情绪分析：使用TF-IDF、Word2Vec和微调的BERT进行二进制和多类分类，对16万多篇药物审查进行端到端情绪分析。](https://github.com/ErdemYavuz55/drug-review-sentiment-analysis)**
 
-📅 Mon, 02 Mar 2026 17:00:00 +0000
+⭐ 9 star (新项目) · Jupyter Notebook · End-to-end sentiment analysis pipeline on 160K+ drug reviews using TF-IDFand fine-tuned BERT for binary and multi-class classification
+
+📅 2026-03-01T08:20:56Z
 
 ---
 
-### GitHub Blog
-**[从创意到拉取请求：使用GitHub Copilot CLI构建的实用指南](https://github.blog/ai-and-ml/github-copilot/from-idea-to-pull-request-a-practical-guide-to-building-with-github-copilot-cli/)**
+### GitHub New (New AI)
+![🆕 Zikkaron ：受生物启发的Claude Code持久记忆引擎。26个认知子系统、18个MCP工具、Hopfield网络、预测编码、因果发现、后继表示，所有这些都通过SQLite在本地运行。](https://avatars.githubusercontent.com/u/82947308?v=4)
 
-使用GitHub Copilot CLI从意图到可审核更改的实践指南，以及该工作如何自然地流入IDE和GitHub从想法到拉取请求：使用GitHub Copilot CLI构建的实用指南首先出现在GitHub博客上
+**[🆕 Zikkaron ：受生物启发的Claude Code持久记忆引擎。26个认知子系统、18个MCP工具、Hopfield网络、预测编码、因果发现、后继表示，所有这些都通过SQLite在本地运行。](https://github.com/amanhij/Zikkaron)**
 
-📅 Fri, 27 Feb 2026 16:00:00 +0000
+⭐ 4 star (新项目) · Python · Biologically-inspired persistent memory engine for **Claude** Code26 cognitive subsystems
+
+📅 2026-03-02T09:23:14Z
+
+---
+
+### GitHub New (New AI)
+![🆕 obsidian-networks ：无需编写训练代码即可构建真实的ML模型上传您的数据集+描述您的目标→AI生成现成的TensorFlow/Keras代码+模型—无需ML经验。](https://avatars.githubusercontent.com/u/29680202?v=4)
+
+**[🆕 obsidian-networks ：无需编写训练代码即可构建真实的ML模型上传您的数据集+描述您的目标→AI生成现成的TensorFlow/Keras代码+模型—无需ML经验。](https://github.com/sup3rus3r/obsidian-networks)**
+
+⭐ 3 star (新项目) · TypeScript · Build real ML models without writing training code Upload your dataset + describe your goal → AI generates ready-to-train TensorFlow/Keras code + models — No ML experience required
+
+📅 2026-03-03T19:15:30Z
 
 ---
 
 ## 💬 社交动态
 
 ### Hacker News AI
-**[Pixel主屏幕获得自定义图标，但谷歌将它们锁定在AI上](https://9to5google.com/2026/03/03/pixel-homescreens-are-getting-custom-icons-but-googles-keeping-them-locked-to-ai/)**
+**[所有顶级AI模型集中在一个地方– GPT、Claude、Gemini、Grok](https://www.chatgoat.ai/en)**
 
-文章网址： https://9to5**Google**com/2026/03/03/pixel-homescreens-are-getting-custom-icons-but-**Google**s-keeping-them-locked-to-ai/评论网址： https://**new**s
+文章网址： https://wwwai/en评论网址： https://**new**s
 
-📅 Wed, 04 Mar 2026 04:25:15 +0000
+📅 Wed, 04 Mar 2026 07:37:34 +0000
+
+---
+
+### Hacker News AI
+**[Show HN ： Armalo AI –代理网络基础设施](https://news.ycombinator.com/item?id=47244042)**
+
+问题每周都有一个关于AI代理删除生产数据库的新故事资金在交易创建时锁定，只有在满足经过验证的交付条件时才会释放
+
+📅 Wed, 04 Mar 2026 06:53:02 +0000
+
+---
+
+### Hacker News AI
+**[Show HN: Nova –编写、修复和发送代码的人工智能终端](https://news.ycombinator.com/item?id=47244492)**
+
+我们今天**推出**NOVA (https://novaYou chat, get a snippet, paste it in, run it, hit an error, go back to Chat**GPT**, explain the error, get a fix, paste again
+
+📅 Wed, 04 Mar 2026 08:02:51 +0000
+
+---
+
+### Hacker News AI
+**[Show HN ： PulseWatch -采用可视化选择器的人工智能网站变更监控](https://pulsewatch.watch)**
+
+它使用**GPT**-4o来分析页面屏幕截图并建议跟踪内容—只需指向并单击当某些内容发生变化时，您将获得简单的语言摘要，而不是原始的差异
+
+📅 Wed, 04 Mar 2026 07:10:01 +0000
 
 ---
 
@@ -340,7 +375,7 @@ GitHub Copilot Dev Days是一个全球动手系列文章加入或主持您附近
 
 Title: twitter.com
 
-📅 2026-03-04T06:40:46.237Z
+📅 2026-03-04T08:30:31.291Z
 
 ---
 
@@ -349,7 +384,7 @@ Title: twitter.com
 
 网址来源： http://twitter.com/paulg
 
-📅 2026-03-04T06:40:46.237Z
+📅 2026-03-04T08:30:31.291Z
 
 ---
 
@@ -358,7 +393,7 @@ Title: twitter.com
 
 警告：目标URL返回错误500 ：内部服务器错误
 
-📅 2026-03-04T06:40:46.237Z
+📅 2026-03-04T08:30:31.291Z
 
 ---
 
@@ -367,34 +402,7 @@ Title: twitter.com
 
 Markdown 内容
 
-📅 2026-03-04T06:40:46.237Z
-
----
-
-### X: Paul Graham
-**[此页面无法正常工作](https://r.jina.ai/http://twitter.com/paulg)**
-
-此页面无法正常工作
-
-📅 2026-03-04T06:40:46.237Z
-
----
-
-### Hacker News
-**[代理工程模式](https://simonwillison.net/guides/agentic-engineering-patterns/)**
-
-文章网址： https://simonwillisonnet/guides/agentic-engineering-patterns/评论网址： https://**new**s
-
-📅 Wed, 04 Mar 2026 05:00:37 +0000
-
----
-
-### Hacker News
-**[完全在GPU上运行的CPU](https://github.com/robertcprice/nCPU)**
-
-文章网址： https://githubcom/robertcprice/nCPU评论网址： https://**new**s
-
-📅 Wed, 04 Mar 2026 04:30:32 +0000
+📅 2026-03-04T08:30:31.291Z
 
 ---
 
