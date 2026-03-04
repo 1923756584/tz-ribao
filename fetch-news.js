@@ -485,66 +485,121 @@ function generateMarkdown(articles, translatedTitles, translatedContents, today)
   return md;
 }
 
-// 获取GitHub热门仓库（只显示过去3天内的4个项目）
 async function fetchGitHubTrending() {
   const ghTrending = [];
-  // 使用时间过滤参数：只搜索过去3天内更新或创建的项目
+  const today = new Date();
   const threeDaysAgo = new Date(Date.now() - 3 * 24 * 60 * 60 * 1000).toISOString().split('T')[0];
-  console.log(`📅 GitHub Trending时间过滤: ${threeDaysAgo} 之后`);
-  
-  const languages = [
+  const sevenDaysAgo = new Date(Date.now() - 7 * 24 * 60 * 60 * 1000).toISOString().split('T')[0];
+  console.log(`📅 GitHub Trending: 查询过去7天内活跃项目 + 3天内新项目`);
+
+  // 策略1：查询最近7天内更新/创建的活跃项目，按最新更新排序
+  const activeTopics = [
+    { name: 'AI/ML', lang: 'machine-learning' },
     { name: 'Python', lang: 'python' },
-    { name: 'Machine Learning', lang: 'machine-learning' },
-    { name: 'Artificial Intelligence', lang: 'artificial-intelligence' },
-    { name: 'LLM', lang: 'large-language-model' },
-    { name: 'Agents', lang: 'ai-agents' }
+    { name: 'JavaScript', lang: 'javascript' },
+    { name: 'Open Source', lang: 'open-source' }
   ];
-  
-  for (const topic of languages) {
+
+  for (const topic of activeTopics) {
     try {
-      // 使用GitHub Search API，添加时间过滤：pushed:>=3 days ago
-      const apiUrl = `https://api.github.com/search/repositories?q=topic:${topic.lang}+pushed:>=${threeDaysAgo}&sort=stars&order=desc&per_page=8`;
-      const response = await fetchWithTimeout(apiUrl, {}, 30000);
-      
+      // 按最近更新时间排序，取最近7天活跃的项目
+      const apiUrl = `https://api.github.com/search/repositories?q=topic:${topic.lang}+pushed:>=${sevenDaysAgo}&sort=updated&order=desc&per_page=10`;
+      const response = await fetchWithTimeout(apiUrl, {}, 15000);
+
       if (response.ok) {
         const repos = await response.json();
-        console.log(`   ${topic.name}: 找到 ${repos.items?.length || 0} 个项目`);
-        
+        console.log(`   ${topic.name}: 找到 ${repos.items?.length || 0} 个活跃项目`);
+
         for (const repo of repos.items || []) {
+          // 计算活跃度分数：结合 star数、fork数、最近更新时间
+          const daysSinceUpdate = (new Date() - new Date(repo.pushed_at)) / (1000 * 60 * 60 * 24);
+          const recentActivityWeight = Math.max(0, 1 - daysSinceUpdate / 7); // 最近7天权重高
+          const popularityScore = (repo.stargazers_count * 0.01 + repo.forks_count * 0.02) * recentActivityWeight;
+
           ghTrending.push({
-            title: `${repo.name}: ${repo.description || '🔥 热门AI项目 (3天内)'}`,
+            title: `${repo.name}: ${repo.description || '🔥 近期活跃项目'}`,
             link: repo.html_url,
-            content: `⭐ ${repo.stargazers_count.toLocaleString()} star · ${repo.language || 'N/A'} · ${repo.description || '无描述'}`,
+            content: `⭐ ${repo.stargazers_count.toLocaleString()} star · ${repo.forks_count} fork · ${repo.language || 'N/A'} · ${repo.description || '无描述'}`,
             pubDate: repo.pushed_at || new Date().toISOString(),
-            source: `GitHub Trending (${topic.name})`,
-            category: 'GitHub项目',
-            aiScore: repo.stargazers_count / 200,  // 过去3天内的项目，适当增强AI分数
-            imageUrl: repo.owner?.avatar_url || null
+            source: `GitHub Active (${topic.name})`,
+            category: 'GitH hot',
+            aiScore: popularityScore * 10,
+            imageUrl: repo.owner?.avatar_url || null,
+            pushedAt: repo.pushed_at,
+            popularityScore: popularityScore  // 用于排序
           });
         }
       }
     } catch (err) {
-      console.log(`GitHub Trending (${topic.name})失败: ${err.message}`);
+      console.log(`GitHub Active (${topic.name})失败: ${err.message}`);
     }
-    
-    // 只需要20个项目就够了（categoryLimit会限制到4个）
+
     if (ghTrending.length >= 20) {
       console.log(`   已收集足够项目 (${ghTrending.length}), 停止获取`);
       break;
     }
-    
-    await new Promise(r => setTimeout(r, 1000)); // 避免速率限制
+
+    await new Promise(r => setTimeout(r, 1000));
   }
-  
-  // 按stars排序，取前12个（categoryLimit会限制到4个）
+
+  // 策略2：查询最近3天内创建的新项目（有趣的新东西）
+  const newTopics = [
+    { name: 'New AI', lang: 'artificial-intelligence' },
+    { name: 'New DevTools', lang: 'developer-tools' }
+  ];
+
+  for (const topic of newTopics) {
+    if (ghTrending.length >= 25) break;
+
+    try {
+      // 查询最近3天内创建的新项目
+      const apiUrl = `https://api.github.com/search/repositories?q=topic:${topic.lang}+created:>=${threeDaysAgo}&sort=created&order=desc&per_page=8`;
+      const response = await fetchWithTimeout(apiUrl, {}, 15000);
+
+      if (response.ok) {
+        const repos = await response.json();
+        console.log(`   ${topic.name} (新项目): 找到 ${repos.items?.length || 0} 个`);
+
+        for (const repo of repos.items || []) {
+          // 新项目给予额外权重
+          const newNodeScore = 50 + (repo.stargazers_count * 0.1);
+
+          ghTrending.push({
+            title: `🆕 ${repo.name}: ${repo.description || '新项目'}`,
+            link: repo.html_url,
+            content: `⭐ ${repo.stargazers_count} star (新项目) · ${repo.language || 'N/A'} · ${repo.description || '无描述'}`,
+            pubDate: repo.created_at || new Date().toISOString(),
+            source: `GitHub New (${topic.name})`,
+            category: 'GitH hot',
+            aiScore: newNodeScore,
+            imageUrl: repo.owner?.avatar_url || null,
+            pushedAt: repo.pushed_at,
+            createdAt: repo.created_at,
+            popularityScore: newNodeScore
+          });
+        }
+      }
+    } catch (err) {
+      console.log(`GitHub New (${topic.name})失败: ${err.message}`);
+    }
+
+    await new Promise(r => setTimeout(r, 1000));
+  }
+
+  // 按活跃度分数排序（结合近期性和受欢迎程度），优先显示新项目和近期活跃项目
   ghTrending.sort((a, b) => {
-    const extractStars = (content) => parseInt(content.match(/\d[\d,.k]*\s*star/i)?.[0]?.replace(/,/g, '')?.replace(/k/i, '000') || '0');
-    const aStars = extractStars(a.content) || 0;
-    const bStars = extractStars(b.content) || 0;
-    return bStars - aStars;
+    // 优先级：新项目 > 近期活跃项目
+    if (a.createdAt && !b.createdAt) return -1;
+    if (!a.createdAt && b.createdAt) return 1;
+    if (a.createdAt && b.createdAt) {
+      return new Date(b.createdAt) - new Date(a.createdAt);
+    }
+
+    // 如果都是老项目，按活跃度分数排序
+    return (b.popularityScore || 0) - (a.popularityScore || 0);
   });
-  
-  console.log(`📦 GitHub Trending总计: ${ghTrending.length} 个项目`);
+
+  console.log(`📦 GitHub Trending总计: ${ghTrending.length} 个项目（${ghTrending.filter(x => x.createdAt).length} 个新项目）`);
   return ghTrending.slice(0, 12);  // 返回前12个，categoryLimit会限制到4个
 }
 
