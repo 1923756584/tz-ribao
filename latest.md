@@ -1,12 +1,12 @@
 ---
 title: "2026年3月3日 - TZ日报"
-date: 2026-03-03T16:22:31.256Z
+date: 2026-03-04T00:08:05.917Z
 draft: false
 ---
 
 # 2026年3月3日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/3/3 16:22:31
+> 📊 今日汇总 38 条 · 🕐 2026/3/4 00:08:05
 
 ---
 
@@ -98,6 +98,15 @@ Nous Research如何构建一个任何人都可以复制的AI编码模型NousCode
 ---
 
 ### TechCrunch AI Products
+**[Claude Code推出语音模式功能](https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/)**
+
+**Anthropic**正在通过在**Claude** Code中**推出**语音模式来加强其在AI编码领域的竞争力
+
+📅 Tue, 03 Mar 2026 20:02:10 +0000
+
+---
+
+### TechCrunch AI Products
 **[国防部交易后， ChatGPT卸载量激增295%](https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/)**
 
 在国防部交易**上线**的消息传出后，许多消费者放弃了Chat**GPT**的应用程序，而**Claude**的下载量则有所增长
@@ -112,15 +121,6 @@ Nous Research如何构建一个任何人都可以复制的AI编码模型NousCode
 在围绕Chat**GPT**的争议之后，许多用户正在放弃AI聊天机器人，转而使用**Claude**这里是如何切换的
 
 📅 Mon, 02 Mar 2026 18:42:11 +0000
-
----
-
-### TechCrunch AI Products
-**[Anthropic的Claude报告了大范围的停电](https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/)**
-
-**Anthropic**的人工智能聊天机器人**Claude**在周一早上经历了广泛的服务中断，成千上万的用户报告了访问该机器人的问题
-
-📅 Mon, 02 Mar 2026 13:31:49 +0000
 
 ---
 
@@ -201,6 +201,17 @@ Nous Research如何构建一个任何人都可以复制的AI编码模型NousCode
 ## 🌍 行业展望
 
 ### VentureBeat
+![谷歌发布Gemini 3.1 Flash Lite ，价格仅为专业版的1/8](https://images.ctfassets.net/jdtwqhzvc2n1/567Od65nBsWSCDromilDGd/e473d6de8a3e9b5d2359863620ca1e11/Gemini_Generated_Image_9ak3789ak3789ak3.png?w=300&q=30)
+
+**[谷歌发布Gemini 3.1 Flash Lite ，价格仅为专业版的1/8](https://venturebeat.com/technology/google-releases-gemini-3-1-flash-lite-at-1-8th-the-cost-of-pro)**
+
+谷歌最新的人工智能模型在这里：双子座3判决：实用人工智能的新标准双子座3的**发布**
+
+📅 Tue, 03 Mar 2026 20:06:00 GMT
+
+---
+
+### VentureBeat
 ![Endor Labs推出免费工具AURI ，研究发现只有10%的人工智能生成的代码是安全的](https://images.ctfassets.net/jdtwqhzvc2n1/33nKZUHnXfvo1Oe4bucU9R/c277c8011cee597194bb465465caaccb/nuneybits_Glowing_computer_screen_of_a_retro_computer_located_i_2458ba64-8497-4e54-b7b0-2f2cc9c9defa.webp?w=300&q=30)
 
 **[Endor Labs推出免费工具AURI ，研究发现只有10%的人工智能生成的代码是安全的](https://venturebeat.com/technology/endor-labs-launches-free-tool-auri-after-study-finds-only-10-of-ai-generated)**
@@ -212,13 +223,24 @@ Nous Research如何构建一个任何人都可以复制的AI编码模型NousCode
 ---
 
 ### VentureBeat
-![OpenAI的AI数据代理由两名工程师构建，现在为4,000名员工提供服务—该公司表示任何人都可以复制它](https://images.ctfassets.net/jdtwqhzvc2n1/EaQSWKQvnUhviYIash6VU/6890d4e08acc3a5a9367b89c12f68cf0/nuneybits_a_glowing_1980s_retro_computer_floating_in_space_and__f59f85b9-99b7-42ab-aede-6bcb07c1846e.webp?w=300&q=30)
+![OpenAI的AI数据代理由两名工程师构建，现在为数千名员工提供服务—该公司表示任何人都可以复制它](https://images.ctfassets.net/jdtwqhzvc2n1/EaQSWKQvnUhviYIash6VU/6890d4e08acc3a5a9367b89c12f68cf0/nuneybits_a_glowing_1980s_retro_computer_floating_in_space_and__f59f85b9-99b7-42ab-aede-6bcb07c1846e.webp?w=300&q=30)
 
-**[OpenAI的AI数据代理由两名工程师构建，现在为4,000名员工提供服务—该公司表示任何人都可以复制它](https://venturebeat.com/technology/openais-ai-data-agent-built-by-two-engineers-now-serves-4-000-employees-and)**
+**[OpenAI的AI数据代理由两名工程师构建，现在为数千名员工提供服务—该公司表示任何人都可以复制它](https://venturebeat.com/orchestration/openais-ai-data-agent-built-by-two-engineers-now-serves-4-000-employees-and)**
 
 和**OpenAI**的内部Chat**GPT**应用程序—接受简单的英语问题并返回图表特定的Chat**GPT**组件是否真的比昨天慢
 
 📅 Tue, 03 Mar 2026 14:00:00 GMT
+
+---
+
+### VentureBeat
+![随着OpenAI将注意力从速度转移到准确性， GPT-5.3瞬间减少了26.8%的幻觉](https://images.ctfassets.net/jdtwqhzvc2n1/6FYDrSa7KXNlvAwfxgYuZ9/34195490c547227648c0072dee0f84d7/crimedy7_illustration_of_a_robot_with_a_pitstop_like_environm_e03d5149-4d93-4d12-8eef-4fa1ea387c4c_1.png?w=300&q=30)
+
+**[随着OpenAI将注意力从速度转移到准确性， GPT-5.3瞬间减少了26.8%的幻觉](https://venturebeat.com/orchestration/gpt-5-3-instant-cuts-hallucinations-by-26-8-as-openai-shifts-focus-from)**
+
+**OpenAI**希望企业客户和其他Chat**GPT**用户了解，前线不仅仅是模型的性能**Anthropic**说其新的**Claude** Sonnet 4
+
+📅 Tue, 03 Mar 2026 05:00:00 GMT
 
 ---
 
@@ -245,7 +267,7 @@ Nous Research如何构建一个任何人都可以复制的AI编码模型NousCode
 ---
 
 ### Wired Technology
-**[Palantir、微软、亚马逊和谷歌如何推动特朗普的移民镇压](https://www.wired.com/story/how-big-tech-is-powering-trumps-immigration-crackdown/)**
+**[大型科技公司为ICE和CBP提供燃料的所有方式](https://www.wired.com/story/how-big-tech-is-powering-trumps-immigration-crackdown/)**
 
 有线分析显示， ICE和CBP在微软谷歌的产品上总共花费了至少5.15亿美元$
 
@@ -253,34 +275,14 @@ Nous Research如何构建一个任何人都可以复制的AI编码模型NousCode
 
 ---
 
-### ZDNet AI
-**[为了Claude放弃ChatGPT ？如何轻松传递您的回忆和偏好](https://www.zdnet.com/article/switch-to-claude-ai-import-memories-preferences/)**
+### The Verge
+![谷歌最新的Pixel Drop允许Gemini为您订购生鲜杂货等](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257917_Google_Pixel_10_review_AJohnson_0007.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**Claude** AI现在允许您通过简单的提示从另一个人工智能复制您的记忆和偏好以下是您如何做到这一点
+**[谷歌最新的Pixel Drop允许Gemini为您订购生鲜杂货等](https://www.theverge.com/tech/888295/google-gemini-pixel-drop-march-2026)**
 
-📅 Mon, 02 Mar 2026 19:59:00 GMT
+谷歌将通过3月份的最新**更新**为Pixel手机添加几项新功能，包括**Gemini** AI助手为您做事的能力
 
----
-
-### VentureBeat
-![当人工智能撒谎时：自主系统中对中伪造的兴起](https://images.ctfassets.net/jdtwqhzvc2n1/293MHswJkYZK7BcKg5fgwj/bf924dc513601869f69faca849c9e13e/upscalemedia-transformed.png?w=300&q=30)
-
-**[当人工智能撒谎时：自主系统中对中伪造的兴起](https://venturebeat.com/security/when-ai-lies-the-rise-of-alignment-faking-in-autonomous-systems)**
-
-当早期训练与新的训练调整发生冲突时，通常会发生校准伪造使用**Anthropic**的AI模型**Claude** 3 Opus的研究揭示了校准伪造的常见示例
-
-📅 Sun, 01 Mar 2026 19:00:00 GMT
-
----
-
-### VentureBeat
-![如果人工智能的真正风险不是深度伪造，而是日常低语，那该怎么办？](https://images.ctfassets.net/jdtwqhzvc2n1/1XpGggdRdCiwlNHyu2qhW1/92e36733fd554e13692566a6f533d398/upscalemedia-transformed.png?w=300&q=30)
-
-**[如果人工智能的真正风险不是深度伪造，而是日常低语，那该怎么办？](https://venturebeat.com/technology/what-if-the-real-risk-of-ai-isnt-deepfakes-but-daily-whispers)**
-
-这将产生我们尚未准备好的**重大**新威胁**Meta**、谷歌和苹果正在竞相尽快**推出**可穿戴式人工智能产品
-
-📅 Sun, 01 Mar 2026 19:00:00 GMT
+📅 2026-03-03T19:00:00.000Z
 
 ---
 
@@ -291,7 +293,7 @@ Nous Research如何构建一个任何人都可以复制的AI编码模型NousCode
 
 **[awesome-python ：令人敬畏的Python框架、库、软件和资源的自以为是的列表。](https://github.com/vinta/awesome-python)**
 
-⭐ 285,362星· Python ·令人敬畏的Python框架、库、软件和资源的自以为是的列表
+⭐ 285,403星· Python ·令人敬畏的Python框架、库、软件和资源的自以为是的列表
 
 📅 2026-03-02T05:14:01Z
 
@@ -302,7 +304,7 @@ Nous Research如何构建一个任何人都可以复制的AI编码模型NousCode
 
 **[Python ：用Python实现的所有算法](https://github.com/TheAlgorithms/Python)**
 
-⭐ 218,266星·蟒蛇·蟒蛇实现的所有算法
+⭐ 218,277星·蟒蛇·蟒蛇实现的所有算法
 
 📅 2026-03-02T18:33:49Z
 
@@ -313,9 +315,9 @@ Nous Research如何构建一个任何人都可以复制的AI编码模型NousCode
 
 **[tensorflow ：面向所有人的开源机器学习框架](https://github.com/tensorflow/tensorflow)**
 
-⭐ 193,955星· C + + ·面向所有人的**开源**机器学习框架
+⭐ 193,963 STAR · C + + ·面向所有人的**开源**机器学习框架
 
-📅 2026-03-03T16:15:59Z
+📅 2026-03-04T00:06:53Z
 
 ---
 
@@ -324,89 +326,83 @@ Nous Research如何构建一个任何人都可以复制的AI编码模型NousCode
 
 **[AutoGPT ： AutoGPT是每个人都可以使用和构建的可访问AI的愿景。我们的使命是提供工具，让您专注于重要的事情。](https://github.com/Significant-Gravitas/AutoGPT)**
 
-⭐ 182,180 STAR · Python · Auto**GPT**是每个人都能使用和构建可访问AI的愿景我们的使命是提供工具，以便您可以专注于**重要**的事情
+⭐ 182,182星· Python · Auto**GPT**是每个人都能使用和构建可访问AI的愿景我们的使命是提供工具，以便您可以专注于**重要**的事情
 
-📅 2026-03-03T15:23:11Z
+📅 2026-03-03T23:33:40Z
 
 ---
 
 ## 💬 社交动态
 
-### Reddit: r/artificial
-![在OpenAI的国防部交易引发反弹后， ChatGPT卸载激增295%](https://external-preview.redd.it/e6jUajEqDdekkwJSeZgMrl1kBXAsuAeA2dqdQHO2MI8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=37cfc1664686012fe7a7081e1145fb382eff6a5d)
-
-**[在OpenAI的国防部交易引发反弹后， ChatGPT卸载激增295%](https://www.reddit.com/r/artificial/comments/1rjfh7f/chatgpt_uninstalls_surge_295_after_openais_dod/)**
-
-提交者/u/i-drake [link] [comments]
-
-📅 2026-03-03T04:14:53.000Z
-
----
-
-### Reddit: r/artificial
-**[警告： Trae IDE的新令牌定价一夜之间摧毁了我的工作流程–不要措手不及](https://www.reddit.com/r/artificial/comments/1rjd7dy/warning_trae_ides_new_token_pricing_destroyed_my/)**
-
-AI驱动的IDE**GPT**-5中/自动模式感觉很有价值）
-
-📅 2026-03-03T02:30:21.000Z
-
----
-
-### Reddit: r/MachineLearning
-**[[D]如何以学生研究员的身份获得在闭源模型上运行实验的学分。](https://www.reddit.com/r/MachineLearning/comments/1riz3de/d_how_to_get_credits_to_run_experiments_on_closed/)**
-
-我正在基准1 Pro上构建和评估前沿模型，平均输出代币约为30k和**GPT** 5
-
-📅 2026-03-02T17:25:55.000Z
-
----
-
 ### Hacker News
-**[自2024年以来，互联网顶级科技出版物失去了58%的谷歌流量](https://growtika.com/blog/tech-media-collapse)**
+**[显示HN ：免费在线OCR – Tesseract、Gemini和OpenRouter的批量OCR UI](https://onlineocrfree.qzz.io)**
 
-文章网址： https://growtikacom/blog/tech-media-collapse评论网址： https://**new**s
+对于需要更准确的任何内容（ **Google** Vision、**Gemini**或任何OpenRouter型号） ，您都可以携带自己的API keycom/naimurhasan/online-ocr-free评论网址： https://**new**s
 
-📅 Tue, 03 Mar 2026 13:45:33 +0000
+📅 Tue, 03 Mar 2026 20:12:55 +0000
 
 ---
 
 ### Hacker News AI
-**[当今人工智能系统的局限性](https://news.ycombinator.com/item?id=47233969)**
+**[Meta创建新的应用人工智能工程组织](https://www.wsj.com/tech/ai/meta-to-create-new-applied-ai-engineering-organization-in-reality-labs-division-d41c4a69)**
 
-如果过于简洁，则模型缺乏生成真正有用的东西所需的上下文。这就产生了一个悖论：保留模型的独立推理
+文章网址： https://wwwcom/tech/ai/**Meta**-to-create-**new**-applied-ai-engineering-organization-in-reality-labs-division-d41c4a69评论网址： https://**new**s
 
-📅 Tue, 03 Mar 2026 15:36:40 +0000
-
----
-
-### Reddit: r/artificial
-![2月份，大规模的人工智能交易推动了1890亿美元的创业融资记录](https://external-preview.redd.it/sGQkBTKXUW8bfVfqIceM5b0PT430BS0gD2btBdUXSDA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d11c4083cbea5e51cda1aaf055efb1e24af44986)
-
-**[2月份，大规模的人工智能交易推动了1890亿美元的创业融资记录](https://www.reddit.com/r/artificial/comments/1rjru59/massive_ai_deals_drive_189b_startup_funding/)**
-
-Crunchbase数据显示， 2月份全球风险投资总额为1890亿美元，尽管83%的融资仅流向三家公司，其中包括**OpenAI** ，该公司筹集了1100亿美元，这也是一家风险投资支持的私人公司有史以来筹集的最大一轮融资。
-
-📅 2026-03-03T15:11:44.000Z
+📅 Tue, 03 Mar 2026 23:40:13 +0000
 
 ---
 
-### Reddit: r/artificial
-![OpenAI如何向五角大楼屈服于人工智能监控](https://external-preview.redd.it/pfZ_AMlg1AKjhFZrzAzN0LagSx63tBAMkhONx4izmtc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=44385f982affd148e4a3a86a391684be281e0599)
+### Hacker News AI
+**[Show HN: Spidra -适用于任何网站的人工智能网页抓取工具](https://spidra.io)**
 
-**[OpenAI如何向五角大楼屈服于人工智能监控](https://www.reddit.com/r/artificial/comments/1rj8u3t/how_openai_caved_to_the_pentagon_on_ai/)**
+HN ，您好！我们刚刚为Spidra （ SpidraWell ，这是一个人工智能驱动的网络抓取平台，目前正处于公开测试阶段
 
-提交者/u/Gloomy_Nebula_5138 [link] [comments]
-
-📅 2026-03-02T23:23:55.000Z
+📅 Tue, 03 Mar 2026 23:27:52 +0000
 
 ---
 
-### Reddit: r/MachineLearning
-**[[D]自我推销主题](https://www.reddit.com/r/MachineLearning/comments/1rihows/d_selfpromotion_thread/)**
+### Hacker News AI
+**[因为人工智能，我失去了学习新事物的能力，我需要你的意见](https://news.ycombinator.com/item?id=47240612)**
 
-鼓励其他人创建新帖子，以便在此处**发布**问题这是为了鼓励社区成员通过不发送垃圾邮件来推广他们的工作
+到目前为止，模型已经可以生成质量足够好的代码最近，我看到**Claude** Code使用10 GiB的RAM
 
-📅 2026-03-02T03:15:30.000Z
+📅 Tue, 03 Mar 2026 23:27:45 +0000
+
+---
+
+### X: Naval
+**[Title: twitter.com](https://r.jina.ai/http://twitter.com/naval)**
+
+Title: twitter.com
+
+📅 2026-03-04T00:05:58.181Z
+
+---
+
+### X: Naval
+**[网址来源： http://twitter.com/naval](https://r.jina.ai/http://twitter.com/naval)**
+
+网址来源： http://twitter.com/naval
+
+📅 2026-03-04T00:05:58.181Z
+
+---
+
+### X: Naval
+**[警告：目标URL返回错误500 ：内部服务器错误](https://r.jina.ai/http://twitter.com/naval)**
+
+警告：目标URL返回错误500 ：内部服务器错误
+
+📅 2026-03-04T00:05:58.181Z
+
+---
+
+### X: Naval
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/naval)**
+
+Markdown 内容
+
+📅 2026-03-04T00:05:58.181Z
 
 ---
 
