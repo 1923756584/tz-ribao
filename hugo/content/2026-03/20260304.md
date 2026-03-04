@@ -1,12 +1,12 @@
 ---
 title: "2026年3月4日 - TZ日报"
-date: 2026-03-04T08:31:38.113Z
+date: 2026-03-04T09:13:09.671Z
 draft: false
 ---
 
 # 2026年3月4日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/3/4 08:31:38
+> 📊 今日汇总 38 条 · 🕐 2026/3/4 09:13:09
 
 ---
 
@@ -289,13 +289,13 @@ Nous Research如何构建一个任何人都可以复制的AI编码模型NousCode
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![scikit-learn-intelex ： Scikit-learn扩展是加速Scikit-learn应用程序的无缝方式](https://avatars.githubusercontent.com/u/144704571?v=4)
+![Paddle: PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）](https://avatars.githubusercontent.com/u/23534030?v=4)
 
-**[scikit-learn-intelex ： Scikit-learn扩展是加速Scikit-learn应用程序的无缝方式](https://github.com/uxlfoundation/scikit-learn-intelex)**
+**[Paddle: PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）](https://github.com/PaddlePaddle/Paddle)**
 
-⭐ 1,332星· 184叉· Python · Scikit-learn扩展是加速Scikit-learn应用程序的无缝方式
+733 star · 5966 fork · C++ · PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 
-📅 2026-03-04T08:30:36Z
+📅 2026-03-04T09:12:07Z
 
 ---
 
@@ -311,6 +311,17 @@ Nous Research如何构建一个任何人都可以复制的AI编码模型NousCode
 ---
 
 ### GitHub New (New AI)
+![🆕 awesome-poker-ai ：人工智能扑克资源的精选列表：研究论文、开源工具、机器人、求解器和策略指南](https://avatars.githubusercontent.com/u/157960717?v=4)
+
+**[🆕 awesome-poker-ai ：人工智能扑克资源的精选列表：研究论文、开源工具、机器人、求解器和策略指南](https://github.com/PokerBotAI/awesome-poker-ai)**
+
+⭐ 8 star (新项目) · N/A · A curated list of AI poker resources: research papers, open-source tools, bots, solvers, and strategy guides
+
+📅 2026-03-01T12:50:00Z
+
+---
+
+### GitHub New (New AI)
 ![🆕 Zikkaron ：受生物启发的Claude Code持久记忆引擎。26个认知子系统、18个MCP工具、Hopfield网络、预测编码、因果发现、后继表示，所有这些都通过SQLite在本地运行。](https://avatars.githubusercontent.com/u/82947308?v=4)
 
 **[🆕 Zikkaron ：受生物启发的Claude Code持久记忆引擎。26个认知子系统、18个MCP工具、Hopfield网络、预测编码、因果发现、后继表示，所有这些都通过SQLite在本地运行。](https://github.com/amanhij/Zikkaron)**
@@ -318,17 +329,6 @@ Nous Research如何构建一个任何人都可以复制的AI编码模型NousCode
 ⭐ 4 star (新项目) · Python · Biologically-inspired persistent memory engine for **Claude** Code26 cognitive subsystems
 
 📅 2026-03-02T09:23:14Z
-
----
-
-### GitHub New (New AI)
-![🆕 obsidian-networks ：无需编写训练代码即可构建真实的ML模型上传您的数据集+描述您的目标→AI生成现成的TensorFlow/Keras代码+模型—无需ML经验。](https://avatars.githubusercontent.com/u/29680202?v=4)
-
-**[🆕 obsidian-networks ：无需编写训练代码即可构建真实的ML模型上传您的数据集+描述您的目标→AI生成现成的TensorFlow/Keras代码+模型—无需ML经验。](https://github.com/sup3rus3r/obsidian-networks)**
-
-⭐ 3 star (新项目) · TypeScript · Build real ML models without writing training code Upload your dataset + describe your goal → AI generates ready-to-train TensorFlow/Keras code + models — No ML experience required
-
-📅 2026-03-03T19:15:30Z
 
 ---
 
@@ -340,15 +340,6 @@ Nous Research如何构建一个任何人都可以复制的AI编码模型NousCode
 文章网址： https://wwwai/en评论网址： https://**new**s
 
 📅 Wed, 04 Mar 2026 07:37:34 +0000
-
----
-
-### Hacker News AI
-**[Show HN ： Armalo AI –代理网络基础设施](https://news.ycombinator.com/item?id=47244042)**
-
-问题每周都有一个关于AI代理删除生产数据库的新故事资金在交易创建时锁定，只有在满足经过验证的交付条件时才会释放
-
-📅 Wed, 04 Mar 2026 06:53:02 +0000
 
 ---
 
@@ -370,39 +361,48 @@ Nous Research如何构建一个任何人都可以复制的AI编码模型NousCode
 
 ---
 
-### X: Paul Graham
-**[Title: twitter.com](https://r.jina.ai/http://twitter.com/paulg)**
+### Hacker News
+**[RFC 9849. TLS加密客户端Hello](https://www.rfc-editor.org/rfc/rfc9849.html)**
 
-Title: twitter.com
+文章网址： https://wwwhtml评论网址： https://**new**s
 
-📅 2026-03-04T08:30:31.291Z
-
----
-
-### X: Paul Graham
-**[网址来源： http://twitter.com/paulg](https://r.jina.ai/http://twitter.com/paulg)**
-
-网址来源： http://twitter.com/paulg
-
-📅 2026-03-04T08:30:31.291Z
+📅 Wed, 04 Mar 2026 07:25:24 +0000
 
 ---
 
-### X: Paul Graham
-**[警告：目标URL返回错误500 ：内部服务器错误](https://r.jina.ai/http://twitter.com/paulg)**
+### Hacker News
+**[更好的Postgres JIT](https://github.com/vladich/pg_jitter)**
 
-警告：目标URL返回错误500 ：内部服务器错误
+文章网址： https://githubcom/vladich/pg_jitter评论网址： https://**new**s
 
-📅 2026-03-04T08:30:31.291Z
+📅 Wed, 04 Mar 2026 06:17:10 +0000
 
 ---
 
-### X: Paul Graham
-**[Markdown 内容](https://r.jina.ai/http://twitter.com/paulg)**
+### Hacker News
+**[代理工程模式](https://simonwillison.net/guides/agentic-engineering-patterns/)**
 
-Markdown 内容
+文章网址： https://simonwillisonnet/guides/agentic-engineering-patterns/评论网址： https://**new**s
 
-📅 2026-03-04T08:30:31.291Z
+📅 Wed, 04 Mar 2026 05:00:37 +0000
+
+---
+
+### Hacker News
+**[完全在GPU上运行的CPU](https://github.com/robertcprice/nCPU)**
+
+文章网址： https://githubcom/robertcprice/nCPU评论网址： https://**new**s
+
+📅 Wed, 04 Mar 2026 04:30:32 +0000
+
+---
+
+### Hacker News
+**[无限期读书俱乐部中断](https://whatever.scalzi.com/2026/03/03/indefinite-book-club-hiatus/)**
+
+文章网址： https://whatevercom/2026/03/03/indefinite-book-club-hiatus/评论网址： https://**new**s
+
+📅 Wed, 04 Mar 2026 04:25:20 +0000
 
 ---
 
