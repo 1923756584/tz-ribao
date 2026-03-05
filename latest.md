@@ -1,12 +1,12 @@
 ---
 title: "2026年3月4日 - TZ日报"
-date: 2026-03-04T09:13:09.671Z
+date: 2026-03-05T00:09:18.210Z
 draft: false
 ---
 
 # 2026年3月4日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/3/4 09:13:09
+> 📊 今日汇总 38 条 · 🕐 2026/3/5 00:09:18
 
 ---
 
@@ -88,6 +88,15 @@ Nous Research如何构建一个任何人都可以复制的AI编码模型NousCode
 
 ---
 
+### TechCrunch AI Products
+**[一家初创公司致力于提供更可靠的人工智能答案：众包聊天机器人](https://techcrunch.com/2026/03/04/one-startups-pitch-to-provide-more-reliable-ai-answers-crowdsource-the-chatbots/)**
+
+CollectivIQ希望通过向用户显示从Chat**GPT**Claude中提取信息的回复，为用户提供更准确的人工智能查询答案
+
+📅 Wed, 04 Mar 2026 14:00:00 +0000
+
+---
+
 ### OpenAI Blog
 **[OpenAI和微软的联合声明](https://openai.com/index/continuing-microsoft-partnership)**
 
@@ -98,29 +107,20 @@ Nous Research如何构建一个任何人都可以复制的AI编码模型NousCode
 ---
 
 ### TechCrunch AI Products
-**[Claude Code推出语音模式功能](https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/)**
+**[报告称， Anthropic首席执行官Dario Amodei称OpenAI围绕军事协议的信息是“直接的谎言”](https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/)**
 
-**Anthropic**正在通过在**Claude** Code中**推出**语音模式来加强其在AI编码领域的竞争力
+**Anthropic**放弃了与五角大楼在人工智能安全分歧方面的合同--然后， **OpenAI**突然
 
-📅 Tue, 03 Mar 2026 20:02:10 +0000
-
----
-
-### TechCrunch AI Products
-**[国防部交易后， ChatGPT卸载量激增295%](https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/)**
-
-在国防部交易**上线**的消息传出后，许多消费者放弃了Chat**GPT**的应用程序，而**Claude**的下载量则有所增长
-
-📅 Tue, 03 Mar 2026 00:03:37 +0000
+📅 Wed, 04 Mar 2026 22:40:05 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[用户正在放弃ChatGPT以换取Claude —以下是如何进行切换](https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/)**
+**[谷歌搜索向所有美国用户推出AI模式的双子座画布](https://techcrunch.com/2026/03/04/https-techcrunch-com-2026-03-04-google-search-rolls-out-geminis-canvas-in-ai-mode-to-all-us-users/)**
 
-在围绕Chat**GPT**的争议之后，许多用户正在放弃AI聊天机器人，转而使用**Claude**这里是如何切换的
+AI模式下的画布向用户提供英文版，用于创建计划、项目、应用程序等
 
-📅 Mon, 02 Mar 2026 18:42:11 +0000
+📅 Wed, 04 Mar 2026 18:50:58 +0000
 
 ---
 
@@ -212,13 +212,13 @@ Nous Research如何构建一个任何人都可以复制的AI编码模型NousCode
 ---
 
 ### VentureBeat
-![Endor Labs推出免费工具AURI ，研究发现只有10%的人工智能生成的代码是安全的](https://images.ctfassets.net/jdtwqhzvc2n1/33nKZUHnXfvo1Oe4bucU9R/c277c8011cee597194bb465465caaccb/nuneybits_Glowing_computer_screen_of_a_retro_computer_located_i_2458ba64-8497-4e54-b7b0-2f2cc9c9defa.webp?w=300&q=30)
+![微软构建了Phi-4-reasoning-vision-15B ，以了解何时思考，何时思考是浪费时间](https://images.ctfassets.net/jdtwqhzvc2n1/54I9lNIIzOf8iWtl92qs9t/ee559650445aaed2be0e8849d81cfae9/nuneybits_Vector_art_of_the_iconic_Microsoft_logo_shown_very_sm_cabc6238-0d0a-4d55-9c93-b9ef8c7a2cd1.webp?w=300&q=30)
 
-**[Endor Labs推出免费工具AURI ，研究发现只有10%的人工智能生成的代码是安全的](https://venturebeat.com/technology/endor-labs-launches-free-tool-auri-after-study-finds-only-10-of-ai-generated)**
+**[微软构建了Phi-4-reasoning-vision-15B ，以了解何时思考，何时思考是浪费时间](https://venturebeat.com/technology/microsoft-built-phi-4-reasoning-vision-15b-to-know-when-to-think-and-when)**
 
-不断发展的威胁情报对于生成新代码的人工智能模型来说不容易获得即使是人工智能模型提供商本身也在进入竞争： **Anthropic**最近宣布了一款内置于**Claude**中的代码安全产品
+“微软如何在五分之一的数据上训练竞争视觉模型也许**发布**中最引人注目的说法是，与竞争对手相比，该模型所需的训练数据非常少。该模型现已在Microsoft Foundry、HuggingFace和GitHub上提供
 
-📅 Tue, 03 Mar 2026 13:30:00 GMT
+📅 Wed, 04 Mar 2026 19:50:00 GMT
 
 ---
 
@@ -229,7 +229,7 @@ Nous Research如何构建一个任何人都可以复制的AI编码模型NousCode
 
 5个小型模型系列--伊隆·马斯克（ Elon Musk ）因其“令人印象深刻的智能密度”而受到公众称赞的**发布**--该项目的技术架构师和其他几名Qwen团队成员在不明确的情况下退出了公司Qwen的开放重量模型中的“开放”可能成为次要优先事项--类似于我们在**Meta**去年春天**发布**令人失望的Llama 4 AI模型后看到的**Meta**
 
-📅 Wed, 04 Mar 2026 00:25:00 GMT
+📅 Wed, 04 Mar 2026 00:32:00 GMT
 
 ---
 
@@ -244,165 +244,163 @@ Nous Research如何构建一个任何人都可以复制的AI编码模型NousCode
 
 ---
 
-### VentureBeat
-![随着OpenAI将注意力从速度转移到准确性， GPT-5.3瞬间减少了26.8%的幻觉](https://images.ctfassets.net/jdtwqhzvc2n1/6FYDrSa7KXNlvAwfxgYuZ9/34195490c547227648c0072dee0f84d7/crimedy7_illustration_of_a_robot_with_a_pitstop_like_environm_e03d5149-4d93-4d12-8eef-4fa1ea387c4c_1.png?w=300&q=30)
+### Ars Technica
+**[诉讼：谷歌双子座派人执行暴力任务，设置自杀“倒计时”](https://arstechnica.com/tech-policy/2026/03/lawsuit-google-gemini-sent-man-on-violent-missions-set-suicide-countdown/)**
 
-**[随着OpenAI将注意力从速度转移到准确性， GPT-5.3瞬间减少了26.8%的幻觉](https://venturebeat.com/orchestration/gpt-5-3-instant-cuts-hallucinations-by-26-8-as-openai-shifts-focus-from)**
+据称，双子座称人为“丈夫” ，说他们可能会死在一起。
 
-**OpenAI**希望企业客户和其他Chat**GPT**用户了解，前线不仅仅是模型的性能**Anthropic**说其新的**Claude** Sonnet 4
-
-📅 Tue, 03 Mar 2026 05:00:00 GMT
+📅 Wed, 04 Mar 2026 20:29:14 +0000
 
 ---
 
-### VentureBeat
-![阿里巴巴的小型开源Qwen3.5-9B击败OpenAI的gpt-oss-120B ，可以在标准笔记本电脑上运行](https://images.ctfassets.net/jdtwqhzvc2n1/64vofI6ULdNoHrnB23LYPM/46453c49138fcd7baa986afb2272411b/Gemini_Generated_Image_94n91t94n91t94n9.png?w=300&q=30)
+### ZDNet AI
+**[如何从ChatGPT切换到Claude ：轻松传输您的回忆和设置](https://www.zdnet.com/article/switch-to-claude-ai-import-memories-preferences/)**
 
-**[阿里巴巴的小型开源Qwen3.5-9B击败OpenAI的gpt-oss-120B ，可以在标准笔记本电脑上运行](https://venturebeat.com/technology/alibabas-small-open-source-qwen3-5-9b-beats-openais-gpt-oss-120b-and-can-run)**
+**Claude** AI现在允许您通过简单的提示从另一个人工智能复制您的记忆和偏好您还可以了解人工智能知道的关于您的所有信息
 
-竞争对手**OpenAI**在关键的第三方基准（包括多语言知识和研究生级推理）方面的开放源代码**GPT**-oss-120B。从这个角度来看，研究人员还赞扬了基本模型与指令版本的**发布**
-
-📅 Mon, 02 Mar 2026 19:42:00 GMT
+📅 Wed, 04 Mar 2026 18:30:00 GMT
 
 ---
 
-### VentureBeat
-![Intuit认为其40年的小型企业数据可以超过SaaSpocalypse](https://images.ctfassets.net/jdtwqhzvc2n1/6rlm4w3OTWpmO2GUL0d2aJ/41543179ef08d089795f7ed3d94a9aa3/SaaS.png?w=300&q=30)
+### The Verge
+![以下是Google对其降低费用的应用体验和游戏升级计划的描述](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23999604/acastro_STK460_googlePlay_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[Intuit认为其40年的小型企业数据可以超过SaaSpocalypse](https://venturebeat.com/infrastructure/intuit-is-betting-its-40-years-of-small-business-data-can-outlast-the)**
+**[以下是Google对其降低费用的应用体验和游戏升级计划的描述](https://www.theverge.com/tech/889538/google-apps-experience-games-level-up-program)**
 
-包括Adobe和IBM--后者经历了一天内最大的跌幅（约400亿美元） ， **Anthropic**宣布**Claude**现在可以读取**Claude** Cowork等AI助手和OpenClaw等**开源**工具
+谷歌取消了其30 ％的应用商店费用其中之一是神秘的新“元宇宙浏览器”类别，其细节已被编辑
 
-📅 Mon, 02 Mar 2026 21:00:00 GMT
+📅 2026-03-04T22:31:48.000Z
 
 ---
 
-### Wired Technology
-**[大型科技公司为ICE和CBP提供燃料的所有方式](https://www.wired.com/story/how-big-tech-is-powering-trumps-immigration-crackdown/)**
+### The Verge
+![Epic和谷歌签署了一项特别协议，推出一类新的“元宇宙”应用程序](https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK186_TIM_SWEENEY_CVIRGINIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-有线分析显示， ICE和CBP在微软谷歌的产品上总共花费了至少5.15亿美元$
+**[Epic和谷歌签署了一项特别协议，推出一类新的“元宇宙”应用程序](https://www.theverge.com/tech/889526/epic-games-google-deal-metaverse-apps)**
 
-📅 Tue, 03 Mar 2026 11:30:00 +0000
+Getty Images Epic Games和谷歌正在埋葬斧头这两家公司还就他们称之为“元宇宙浏览器”的一类新应用程序达成了协议
+
+📅 2026-03-04T21:49:16.000Z
 
 ---
 
 ## 📦 GitHub热门
 
+### GitHub Active (Python)
+![hive ：不断发展的结果驱动型代理开发框架](https://avatars.githubusercontent.com/u/262650699?v=4)
+
+**[hive ：不断发展的结果驱动型代理开发框架](https://github.com/aden-hive/hive)**
+
+⭐ 8764星· 5060分叉· Python ·不断发展的结果驱动代理开发框架
+
+📅 2026-03-05T00:08:03Z
+
+---
+
 ### GitHub Active (AI/ML)
-![Paddle: PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）](https://avatars.githubusercontent.com/u/23534030?v=4)
+![tensorZero ： TensorZero是一个用于工业级LLM应用的开源堆栈。它统一了LLM网关、可观察性、优化、评估和实验。](https://avatars.githubusercontent.com/u/148420822?v=4)
 
-**[Paddle: PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）](https://github.com/PaddlePaddle/Paddle)**
+**[tensorZero ： TensorZero是一个用于工业级LLM应用的开源堆栈。它统一了LLM网关、可观察性、优化、评估和实验。](https://github.com/tensorzero/tensorzero)**
 
-733 star · 5966 fork · C++ · PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架深度学习&机器学习高性能单机、分布式训练和跨平台部署）
+⭐ 11,036 STAR · 773 FORK · Rust · TensorZero是一个用于工业级LLM应用的**开源**堆栈，它统一了LLM网关、可观察性、优化、评估和实验
 
-📅 2026-03-04T09:12:07Z
-
----
-
-### GitHub New (New AI)
-![药物🆕 审查-情绪分析：使用TF-IDF、Word2Vec和微调的BERT进行二进制和多类分类，对16万多篇药物审查进行端到端情绪分析。](https://avatars.githubusercontent.com/u/115773260?v=4)
-
-**[药物🆕 审查-情绪分析：使用TF-IDF、Word2Vec和微调的BERT进行二进制和多类分类，对16万多篇药物审查进行端到端情绪分析。](https://github.com/ErdemYavuz55/drug-review-sentiment-analysis)**
-
-⭐ 9 star (新项目) · Jupyter Notebook · End-to-end sentiment analysis pipeline on 160K+ drug reviews using TF-IDFand fine-tuned BERT for binary and multi-class classification
-
-📅 2026-03-01T08:20:56Z
+📅 2026-03-05T00:08:01Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 awesome-poker-ai ：人工智能扑克资源的精选列表：研究论文、开源工具、机器人、求解器和策略指南](https://avatars.githubusercontent.com/u/157960717?v=4)
+### GitHub Active (Python)
+![课程：此存储库包含Techtonica的课程， Techtonica是针对低收入女性和非二元性别成年人的技术培训计划。](https://avatars.githubusercontent.com/u/19865942?v=4)
 
-**[🆕 awesome-poker-ai ：人工智能扑克资源的精选列表：研究论文、开源工具、机器人、求解器和策略指南](https://github.com/PokerBotAI/awesome-poker-ai)**
+**[课程：此存储库包含Techtonica的课程， Techtonica是针对低收入女性和非二元性别成年人的技术培训计划。](https://github.com/Techtonica/curriculum)**
 
-⭐ 8 star (新项目) · N/A · A curated list of AI poker resources: research papers, open-source tools, bots, solvers, and strategy guides
+⭐ 653星· 529叉· JavaScript ·此存储库包含Techtonicaa技术培训课程，面向低收入女性和非二元性别成年人
 
-📅 2026-03-01T12:50:00Z
+📅 2026-03-05T00:08:07Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 Zikkaron ：受生物启发的Claude Code持久记忆引擎。26个认知子系统、18个MCP工具、Hopfield网络、预测编码、因果发现、后继表示，所有这些都通过SQLite在本地运行。](https://avatars.githubusercontent.com/u/82947308?v=4)
+### GitHub Active (AI/ML)
+![modal-examples ：使用Modal构建的程序示例](https://avatars.githubusercontent.com/u/88658467?v=4)
 
-**[🆕 Zikkaron ：受生物启发的Claude Code持久记忆引擎。26个认知子系统、18个MCP工具、Hopfield网络、预测编码、因果发现、后继表示，所有这些都通过SQLite在本地运行。](https://github.com/amanhij/Zikkaron)**
+**[modal-examples ：使用Modal构建的程序示例](https://github.com/modal-labs/modal-examples)**
 
-⭐ 4 star (新项目) · Python · Biologically-inspired persistent memory engine for **Claude** Code26 cognitive subsystems
+⭐ 1124星· 288叉· Python ·使用Modal构建的程序示例
 
-📅 2026-03-02T09:23:14Z
+📅 2026-03-05T00:06:14Z
 
 ---
 
 ## 💬 社交动态
 
 ### Hacker News AI
-**[所有顶级AI模型集中在一个地方– GPT、Claude、Gemini、Grok](https://www.chatgoat.ai/en)**
+**[Show HN ： MoatRadar –通过沃伦·巴菲特的原理进行的人工智能投资研究](https://www.moatradar.com/?promo=HACKERNEWS)**
 
-文章网址： https://wwwai/en评论网址： https://**new**s
+我在过去几天使用**Claude**和大量vibe codingjs服务器（无框架）构建了它• Vanilla JS前端•用于研究/合成的**GPT**-4o •实时价格数据• Stripe + **Google** OAuth •托管在Railway上这仍然是一个实验，我很好奇这个想法是否真的对其他投资者有意义
 
-📅 Wed, 04 Mar 2026 07:37:34 +0000
-
----
-
-### Hacker News AI
-**[Show HN: Nova –编写、修复和发送代码的人工智能终端](https://news.ycombinator.com/item?id=47244492)**
-
-我们今天**推出**NOVA (https://novaYou chat, get a snippet, paste it in, run it, hit an error, go back to Chat**GPT**, explain the error, get a fix, paste again
-
-📅 Wed, 04 Mar 2026 08:02:51 +0000
+📅 Wed, 04 Mar 2026 23:25:53 +0000
 
 ---
 
 ### Hacker News AI
-**[Show HN ： PulseWatch -采用可视化选择器的人工智能网站变更监控](https://pulsewatch.watch)**
+**[奥特曼承认OpenAI无法控制五角大楼对人工智能的使用](https://www.theguardian.com/technology/2026/mar/04/sam-altman-openai-pentagon)**
 
-它使用**GPT**-4o来分析页面屏幕截图并建议跟踪内容—只需指向并单击当某些内容发生变化时，您将获得简单的语言摘要，而不是原始的差异
+文章网址： https://wwwcom/technology/2026/mar/04/sam-altman-**OpenAI**-pentagon评论网址： https://**new**s
 
-📅 Wed, 04 Mar 2026 07:10:01 +0000
-
----
-
-### Hacker News
-**[RFC 9849. TLS加密客户端Hello](https://www.rfc-editor.org/rfc/rfc9849.html)**
-
-文章网址： https://wwwhtml评论网址： https://**new**s
-
-📅 Wed, 04 Mar 2026 07:25:24 +0000
+📅 Wed, 04 Mar 2026 23:44:49 +0000
 
 ---
 
-### Hacker News
-**[更好的Postgres JIT](https://github.com/vladich/pg_jitter)**
+### Hacker News AI
+**[JSE ：人工智能代理的结构表达协议](https://news.ycombinator.com/item?id=47255567)**
 
-文章网址： https://githubcom/vladich/pg_jitter评论网址： https://**new**s
+The motivation is simple: Modern AI models can reliably generate JSON--- ### Design constraints The format tries to satisfy a few practical goals: * Always valid JSON * Easy for LLMs to generate * Close to S-expression semantics * Extensible for **Meta**data * Lightweight enough to embed in prompts or API responses --- ### Example use cases Some areas where this might be useful: AI orchestration systems Agent communication protocols Structured reasoning traces Prompt-embedded DSLs Cross-model communication formats --- ### Spec and repo Early spec and examples are here: https://github
 
-📅 Wed, 04 Mar 2026 06:17:10 +0000
-
----
-
-### Hacker News
-**[代理工程模式](https://simonwillison.net/guides/agentic-engineering-patterns/)**
-
-文章网址： https://simonwillisonnet/guides/agentic-engineering-patterns/评论网址： https://**new**s
-
-📅 Wed, 04 Mar 2026 05:00:37 +0000
+📅 Wed, 04 Mar 2026 23:41:43 +0000
 
 ---
 
-### Hacker News
-**[完全在GPU上运行的CPU](https://github.com/robertcprice/nCPU)**
+### Hacker News AI
+**[显示HN ： Kvlar – AI代理工具调用的开源防火墙](https://github.com/kvlar-io/kvlar)**
 
-文章网址： https://githubcom/robertcprice/nCPU评论网址： https://**new**s
+**Claude** Desktop具有基本的批准/拒绝功能，但它是按呼叫进行的，没有持久性规则，没有自动化，也没有审核trailkvlar init --template postgres #策划策略（ 11个规则） kvlar wrap #将代理注入**Claude** Desktop kvlar test -f策略
 
-📅 Wed, 04 Mar 2026 04:30:32 +0000
+📅 Wed, 04 Mar 2026 23:16:30 +0000
 
 ---
 
-### Hacker News
-**[无限期读书俱乐部中断](https://whatever.scalzi.com/2026/03/03/indefinite-book-club-hiatus/)**
+### X: Demis Hassabis
+**[Title: twitter.com](https://r.jina.ai/http://twitter.com/demishassabis)**
 
-文章网址： https://whatevercom/2026/03/03/indefinite-book-club-hiatus/评论网址： https://**new**s
+Title: twitter.com
 
-📅 Wed, 04 Mar 2026 04:25:20 +0000
+📅 2026-03-05T00:04:00.934Z
+
+---
+
+### X: Demis Hassabis
+**[网址来源： http://twitter.com/demishassabis](https://r.jina.ai/http://twitter.com/demishassabis)**
+
+网址来源： http://twitter.com/demishassabis
+
+📅 2026-03-05T00:04:00.934Z
+
+---
+
+### X: Demis Hassabis
+**[警告：目标URL返回错误500 ：内部服务器错误](https://r.jina.ai/http://twitter.com/demishassabis)**
+
+警告：目标URL返回错误500 ：内部服务器错误
+
+📅 2026-03-05T00:04:00.934Z
+
+---
+
+### X: Demis Hassabis
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/demishassabis)**
+
+Markdown 内容
+
+📅 2026-03-05T00:04:00.934Z
 
 ---
 
