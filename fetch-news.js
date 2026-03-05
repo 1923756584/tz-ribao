@@ -9,6 +9,21 @@ const fs = require('fs');
 const path = require('path');
 const config = require('./config');
 
+// 日期过滤：只保留最近7天的文章
+const MAX_ARTICLE_AGE_DAYS = 7;
+function isArticleRecent(pubDate) {
+  if (!pubDate) return true; // 没有日期的文章保留
+  try {
+    const articleDate = new Date(pubDate);
+    const now = new Date();
+    const daysDiff = (now - articleDate) / (1000 * 60 * 60 * 24);
+    return daysDiff <= MAX_ARTICLE_AGE_DAYS;
+  } catch (e) {
+    return true; // 日期解析失败时保留
+  }
+}
+
+
 // 创建带超时和重试功能的fetch包装器
 async function fetchWithTimeout(url, options = {}, timeout = 30000) {
   const controller = new AbortController();
@@ -694,6 +709,12 @@ async function fetchNews() {
           aiScore: 0,
           imageUrl: extractImage(item)
         }));
+        // 日期过滤：只保留最近7天的文章
+        const beforeFilter = items.length;
+        items = items.filter(item => isArticleRecent(item.pubDate));
+        const afterFilter = items.length;
+        if (beforeFilter !== afterFilter) {
+        }
       }
 
       items.forEach(item => {
