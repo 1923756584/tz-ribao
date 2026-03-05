@@ -111,3 +111,4 @@ A: 检查 config.js 中的 URL 是否正确，有些网站可能需要代理。
 有问题请提 Issue！
 # Test
 test: 手动触发工作流测试 2026年 3月 6日 星期五 00时12分16秒 CST
+force refresh 2026年 3月 6日 星期五 00时29分08秒 CST
