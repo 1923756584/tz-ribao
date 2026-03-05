@@ -10,7 +10,8 @@ const path = require('path');
 const config = require('./config');
 
 // 日期过滤：只保留最近7天的文章
-const MAX_ARTICLE_AGE_DAYS = 7;
+// 日期过滤：只保留当天(最近24小时)的文章
+const MAX_ARTICLE_AGE_DAYS = 1;
 function isArticleRecent(pubDate) {
   if (!pubDate) return true; // 没有日期的文章保留
   try {
