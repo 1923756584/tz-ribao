@@ -1,12 +1,12 @@
 ---
 title: "2026年3月6日 - TZ日报"
-date: 2026-03-06T05:06:10.841Z
+date: 2026-03-06T16:16:54.690Z
 draft: false
 ---
 
 # 2026年3月6日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/3/6 05:06:10
+> 📊 今日汇总 38 条 · 🕐 2026/3/6 16:16:54
 
 ---
 
@@ -59,6 +59,15 @@ Alphabet旗下的Intrinsic构建人工智能模型和软件，旨在使工业机
 ---
 
 ### OpenAI Blog
+**[Balyasny Asset Management如何构建用于投资的人工智能研究引擎](https://openai.com/index/balyasny-asset-management)**
+
+了解Balyasny如何利用**GPT**-54、严格的模型评估和代理工作流程构建人工智能研究系统，以大规模转变投资分析
+
+📅 Fri, 06 Mar 2026 07:00:00 GMT
+
+---
+
+### OpenAI Blog
 **[推理模型难以控制自己的思维链，这很好](https://openai.com/index/reasoning-models-chain-of-thought-controllability)**
 
 **OpenAI**引入了CoT-Control ，并发现推理模型难以控制其思维链，以加强可监控性作为人工智能安全保障
@@ -94,15 +103,6 @@ Alphabet旗下的Intrinsic构建人工智能模型和软件，旨在使工业机
 
 ---
 
-### OpenAI Blog
-**[了解人工智能和学习成果](https://openai.com/index/understanding-ai-and-learning-outcomes)**
-
-**OpenAI**引入了学习成果测量套件，以评估人工智能在不同教育环境中对学生学习的影响
-
-📅 Wed, 04 Mar 2026 00:00:00 GMT
-
----
-
 ### Google AI Blog
 ![我们在2月份宣布的最新人工智能新闻](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail_mPCqgRv.max-600x600.format-webp.webp)
 
@@ -117,74 +117,74 @@ Alphabet旗下的Intrinsic构建人工智能模型和软件，旨在使工业机
 ## 🔬 前沿研究
 
 ### ArXiv Natural Language Processing (cs.CL)
-**[在开放式任务中，语言模型目标选择不同于人类](https://arxiv.org/abs/2603.03295)**
+**[解开LLM的人类偏好：使用HUMAINE框架进行人口统计学意识评估](https://arxiv.org/abs/2603.04409)**
 
-03295v1公告类型：新摘要：随着大型语言模型（ LLM ）集成到人类决策中跨越四个最先进的模型（ **GPT**-5 ， **Gemini** 2
+04409v1公告类型：新摘要：大型语言模型的评估面临**重大**挑战\ textbf {(1)}我们建立了明确的性能层次结构，其中\ texttt {**Google**/**Gemini**-2
 
-📅 Thu, 05 Mar 2026 00:00:00 -0500
-
----
-
-### ArXiv Computer Vision (cs.CV)
-**[PhyPrompt ：基于强化学习的提示，用于物理上合理的文本到视频生成](https://arxiv.org/abs/2603.03505)**
-
-03505v1公告类型：新摘要：尽管视觉质量高，但最先进的文本到视频（ T2V ）生成器经常违反物理定律PhyPrompt性能优于**GPT**-4o （ +3
-
-📅 Thu, 05 Mar 2026 00:00:00 -0500
+📅 Fri, 06 Mar 2026 00:00:00 -0500
 
 ---
 
 ### ArXiv Multiagent (cs.MA)
-**[语境环境在语言模型中引发评估意识](https://arxiv.org/abs/2603.03824)**
+**[混合供应商多代理LLM能否改善临床诊断？](https://arxiv.org/abs/2603.04421)**
 
-5-Haiku、**GPT**-4o-mini和Llama-3Code的生成表现出依赖于模型的阻力： **Claude**仅降解0
+04421v1公告类型： CROSS摘要：多智能体大型语言模型（ LLM ）系统已成为一种有前景的临床诊断方法5-Pro和**Claude**-4
 
-📅 Thu, 05 Mar 2026 00:00:00 -0500
-
----
-
-### ArXiv AI (cs.AI)
-**[价值冲突下编码代理的不对称目标漂移](https://arxiv.org/abs/2603.03456)**
-
-03456v1公告类型：新摘要：代理编码代理越来越多地自主、大规模、长时间地部署使用此框架，我们演示了**GPT**-5 mini、Haiku 4
-
-📅 Thu, 05 Mar 2026 00:00:00 -0500
+📅 Fri, 06 Mar 2026 00:00:00 -0500
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[MAGE ：面向策略探索和利用的语言代理元强化学习](https://arxiv.org/abs/2603.03680)**
+**[使用视觉+语言模型预测项目难度](https://arxiv.org/abs/2603.04670)**
 
-03680v1公告类型：新摘要：大型语言模型（ LLM ）代理在学习任务方面表现出非凡的熟练程度代码可在https://github上找到
+04670v1公告类型：新摘要：本项目考察大型语言模型（ LLM ）的能力，以确定数据可视化素养测试项目的难度我们使用**GPT**-4
 
-📅 Thu, 05 Mar 2026 00:00:00 -0500
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[AOI ：将失败的轨迹转化为自主云诊断的训练信号](https://arxiv.org/abs/2603.03378)**
-
-03378v1公告类型：新摘要：大型语言模型（ LLM ）代理为自动化站点可靠性工程（ SRE ）提供了一种有前途的数据驱动方法，在63个未知故障类型的待定任务上平均为9% @ 1 ，超过了**Claude** Sonnet 4
-
-📅 Thu, 05 Mar 2026 00:00:00 -0500
+📅 Fri, 06 Mar 2026 00:00:00 -0500
 
 ---
 
 ### ArXiv Machine Learning (cs.LG)
-**[一半的非线性被浪费：测量和重新分配变压器的MLP预算](https://arxiv.org/abs/2603.03459)**
+**[瘦键，全值：通过低维注意力选择降低KV缓存](https://arxiv.org/abs/2603.04427)**
 
-在**GPT**-2中以< 1%的困惑成本实现25-56%的线性路由在**GPT**-2中大， 36层中有11层通过选通跳过基线，没有层超过3层
+04427v1公告类型： **new**摘要：标准变压器注意对查询使用相同的维度（ 5 ） ~ **GPT**-2的训练后SVD压缩
 
-📅 Thu, 05 Mar 2026 00:00:00 -0500
+📅 Fri, 06 Mar 2026 00:00:00 -0500
+
+---
+
+### ArXiv Machine Learning (cs.LG)
+**[提示下方的座席内存：边缘设备上多座席LLM推断的持续Q4 KV缓存](https://arxiv.org/abs/2603.04428)**
+
+04428v1公告类型：新摘要：边缘设备上的多代理LLM系统面临内存管理问题：设备RAM太小，无法同时容纳每个代理的KV缓存没有持久性，每次驱逐都会强制通过模型进行完全重新填充-- 15
+
+📅 Fri, 06 Mar 2026 00:00:00 -0500
 
 ---
 
 ### ArXiv Computer Vision (cs.CV)
-**[mHC-HSI ：用于高光谱图像分类的聚类引导超连接Mamba](https://arxiv.org/abs/2603.03418)**
+**[PinPoint ：使用显式阴性、多图像查询和释义测试评估合成图像检索](https://arxiv.org/abs/2603.04598)**
 
-03418v1公告类型：新摘要： Recently**DeepSeek**发明了流形约束超连接（ mHC ）方法，与深度学习模型中的传统残差连接相比有显著改进\ cite {xie2026mhc}
+04598v1公告类型：新摘要：合成图像检索（ CIR ）已取得**重大**进展4%的查询） ，以及（ 5 ）用于公平性评估的人口统计元数据
 
-📅 Thu, 05 Mar 2026 00:00:00 -0500
+📅 Fri, 06 Mar 2026 00:00:00 -0500
+
+---
+
+### ArXiv AI (cs.AI)
+**[SkillNet ：创建、评估和连接AI技能](https://arxiv.org/abs/2603.04448)**
+
+04448v1公告类型：新摘要：当前AI智能体可以灵活调用工具并执行复杂的任务为了克服这一限制，我们引入了SkillNet ，这是一个开放的基础设施，旨在大规模创建、评估和组织AI技能
+
+📅 Fri, 06 Mar 2026 00:00:00 -0500
+
+---
+
+### ArXiv AI (cs.AI)
+**[能力阈值和制造拓扑：具体化的智能如何触发经济地理学中的阶段性转变](https://arxiv.org/abs/2603.04457)**
+
+04457v1公告类型：新摘要：自1913年亨利·福特（ Henry Ford ）搬迁装配线以来，制造业的基本拓扑结构尚未经历范式层面的转变上个世纪的每一项**重大**创新，从丰田生产系统到工业4
+
+📅 Fri, 06 Mar 2026 00:00:00 -0500
 
 ---
 
@@ -223,15 +223,6 @@ Alphabet旗下的Intrinsic构建人工智能模型和软件，旨在使工业机
 
 ---
 
-### Wired Technology
-**[OpenAI已禁止军事用途。五角大楼无论如何都通过微软对其模型进行了测试](https://www.wired.com/story/openai-defense-department-ban-military-use-microsoft/)**
-
-消息人士称，在Chat**GPT**制造商解除对军事应用的禁令之前，国防部对微软的**OpenAI**技术进行了试验
-
-📅 Thu, 05 Mar 2026 22:00:00 +0000
-
----
-
 ### VentureBeat
 ![Google Workspace CLI将Gmail、文档、工作表等功能整合到AI代理的通用界面中](https://images.ctfassets.net/jdtwqhzvc2n1/5Pd1hMlQFI3vMI2ORlph74/1c5d62789664fb28c393470e9a88fd45/Gemini_Generated_Image_7y3gd67y3gd67y3g.png?w=300&q=30)
 
@@ -243,23 +234,12 @@ Alphabet旗下的Intrinsic构建人工智能模型和软件，旨在使工业机
 
 ---
 
-### Ars Technica
-**[OpenAI推出具有更多知识工作能力的GPT-5.4](https://arstechnica.com/ai/2026/03/openai-introduces-gpt-5-4-with-more-knowledge-work-capability/)**
+### ZDNet AI
+**[厌倦了微软和谷歌？这个全新的欧洲办公套件是一个私人的开源替代品](https://www.zdnet.com/article/europe-open-source-office-suite-alternative-to-microsoft-google/)**
 
-**更新**是在用户对该公司与五角大楼的交易进行反弹之际**发布**的。
+这款欧洲云办公套件基于**开源**软件构建，旨在让您的数据不受Microsoft 365和**Google** Workspace
 
-📅 Thu, 05 Mar 2026 20:55:25 +0000
-
----
-
-### The Verge
-![五角大楼正式将Anthropic标记为供应链风险](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2263863571.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[五角大楼正式将Anthropic标记为供应链风险](https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk)**
-
-国防部已正式将**Anthropic**标记为“供应链风险” **Anthropic**的人工智能计划
-
-📅 2026-03-05T23:02:22.000Z
+📅 Fri, 06 Mar 2026 13:39:00 GMT
 
 ---
 
@@ -274,38 +254,45 @@ Alphabet旗下的Intrinsic构建人工智能模型和软件，旨在使工业机
 
 ---
 
+### MIT Tech Review
+**[下载：人工智能中重要的10件事，以及Anthropic起诉五角大楼的计划](https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/)**
+
+这是今天的The Download版本，我们的工作日时事通讯，提供有关技术世界正在发生的事情的每日剂量即将**推出**：我们现在在人工智能中**重要**的10件事多年来
+
+📅 Fri, 06 Mar 2026 13:10:00 +0000
+
+---
+
+### Ars Technica
+**[工作人员报告观看雷朋元素拍摄的人们使用卫生间的镜头](https://arstechnica.com/gadgets/2026/03/workers-report-watching-ray-ban-meta-shot-footage-of-people-using-the-bathroom/)**
+
+**Meta**被指控“隐瞒事实”智能玻璃用户的隐私。
+
+📅 Thu, 05 Mar 2026 23:36:04 +0000
+
+---
+
 ## 📦 GitHub热门
 
-### GitHub Active (Python)
-![cupy ：适用于GPU的NumPy和SciPy](https://avatars.githubusercontent.com/u/23187665?v=4)
-
-**[cupy ：适用于GPU的NumPy和SciPy](https://github.com/cupy/cupy)**
-
-⭐ 10819星· 995叉· Python · NumPy & SciPy显卡
-
-📅 2026-03-06T05:04:15Z
-
----
-
 ### GitHub Active (AI/ML)
-![BentoML ：为人工智能应用程序和模型提供服务的最简单方法-构建模型推断API、作业队列、LLM应用程序、多模型管道等！](https://avatars.githubusercontent.com/u/49176046?v=4)
+![onnxruntime ： ONNX运行时：跨平台、高性能机器学习推理和训练加速器](https://avatars.githubusercontent.com/u/6154722?v=4)
 
-**[BentoML ：为人工智能应用程序和模型提供服务的最简单方法-构建模型推断API、作业队列、LLM应用程序、多模型管道等！](https://github.com/bentoml/BentoML)**
+**[onnxruntime ： ONNX运行时：跨平台、高性能机器学习推理和训练加速器](https://github.com/microsoft/onnxruntime)**
 
-491星· 916分叉· Python ·提供人工智能应用和模型的最简单方式-构建模型推断API多模型管道
+⭐ 19,455星· 3742叉· C + + · ONNX运行时：跨平台、高性能机器学习推理和训练加速器
 
-📅 2026-03-06T05:05:00Z
+📅 2026-03-06T16:14:05Z
 
 ---
 
 ### GitHub Active (Python)
-![intentkit ： IntentKit是一个开源、自托管的云代理集群，可为您管理人工智能代理的协作团队。](https://avatars.githubusercontent.com/u/156485526?v=4)
+![rerun ：用于记录、存储、查询和可视化多模式和多速率数据的开源SDK](https://avatars.githubusercontent.com/u/99407368?v=4)
 
-**[intentkit ： IntentKit是一个开源、自托管的云代理集群，可为您管理人工智能代理的协作团队。](https://github.com/crestalnetwork/intentkit)**
+**[rerun ：用于记录、存储、查询和可视化多模式和多速率数据的开源SDK](https://github.com/rerun-io/rerun)**
 
-⭐ 6,489星· 699分叉· Python · IntentKit是一个**开源**、自托管的云代理集群，为您管理人工智能代理的协作团队
+⭐ 10,288星· 678分叉· Rust ·一个用于记录、存储、查询和可视化多模式和多速率数据的**开源**SDK
 
-📅 2026-03-06T05:04:45Z
+📅 2026-03-06T16:14:34Z
 
 ---
 
@@ -320,77 +307,88 @@ Alphabet旗下的Intrinsic构建人工智能模型和软件，旨在使工业机
 
 ---
 
+### GitHub New (New AI)
+![🆕 IdeaOverflow ： NirMa Hackamined '26](https://avatars.githubusercontent.com/u/173024745?v=4)
+
+**[🆕 IdeaOverflow ： NirMa Hackamined '26](https://github.com/DeepLumiere/IdeaOverflow)**
+
+⭐ 6 star (新项目) · HTML · NirMa Hackamined'26
+
+📅 2026-03-05T02:27:52Z
+
+---
+
 ## 💬 社交动态
 
 ### Hacker News AI
-**[Show HN: Agent-pulse –向客户分发AI代理事件的本地网关](https://github.com/SantiagoBobrik/agent-pulse)**
+**[Show HN: Codaholiq ， GitHub存储库的人工智能自动化](https://github.com/Njuelle/Codaholiq)**
 
-我希望**Claude** Code在完成任务时通知我的ESP32 **Claude** Code和**Gemini** CLI今天支持， OpenCode和Codex CLI正在进行中
+我最近**开源**了它： https://githubsuch ： -拉取请求打开-推送到分支-问题创建- cron计划-手动触发每个自动化定义： -触发器- AI提供商或模型（ **Claude** Code
 
-📅 Fri, 06 Mar 2026 03:50:48 +0000
-
----
-
-### Hacker News AI
-**[Show HN ： AI Benchy – AI基准和比较](https://aibenchy.com/)**
-
-特别是在模型页面上： https://aibenchycom/model/**Google**-**Gemini**-3-flash-preview-med
-
-📅 Fri, 06 Mar 2026 05:02:16 +0000
-
----
-
-### Hacker News
-**[与战争部的关系如何](https://www.anthropic.com/news/where-stand-department-war)**
-
-文章网址： https://wwwcom/**new**s/where-stand-department-war评论网址： https://**new**s
-
-📅 Fri, 06 Mar 2026 00:40:41 +0000
-
----
-
-### Hacker News
-**[人工智能的劳动力市场影响：新措施和早期证据](https://www.anthropic.com/research/labor-market-impacts)**
-
-文章网址： https://wwwcom/research/labor-market-impacts评论网址： https://**new**s
-
-📅 Thu, 05 Mar 2026 22:55:01 +0000
+📅 Fri, 06 Mar 2026 16:08:16 +0000
 
 ---
 
 ### Hacker News AI
-**[Google专利：将搜索者发送到您网站上的AI生成页面](https://www.seroundtable.com/google-patent-ai-generated-pages-search-41010.html)**
+**[Anthropic的人工智能入侵了Firefox浏览器。它发现了很多虫子](https://www.wsj.com/tech/ai/send-us-more-anthropics-claude-sniffs-out-bevy-of-bugs-c6822075)**
 
-com/**Google**-patent-ai-generated-pages-search-41010html评论网址： https://**new**s
+文章网址： https://wwwcom/tech/ai/send-us-more-**Anthropic**s-**Claude**-sniffs-out-bevy-of-bugs-c6822075评论网址： https://**new**s
 
-📅 Fri, 06 Mar 2026 04:12:36 +0000
+📅 Fri, 06 Mar 2026 15:35:42 +0000
 
 ---
 
-### X: Paul Graham
-**[Title: twitter.com](https://r.jina.ai/http://twitter.com/paulg)**
+### X: OpenAI
+**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+网址来源： http://twitter.com/**OpenAI**
+
+📅 2026-03-06T16:09:30.137Z
+
+---
+
+### Hacker News
+**[与Anthropic的Red Team一起强化Firefox](https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/)**
+
+文章网址： https://blogorg/en/firefox/hardening-firefox-**Anthropic**-red-team/评论网址： https://**new**s
+
+📅 Fri, 06 Mar 2026 11:53:18 +0000
+
+---
+
+### Hacker News AI
+**[人性：人工智能的劳动力市场影响[pdf]](https://cdn.sanity.io/files/4zrzovbb/website/dc7bcd0224644fce97cecb7f9e68dcd8434b35f1.pdf)**
+
+文章网址： https://cdnpdf评论网址： https://**new**s
+
+📅 Fri, 06 Mar 2026 15:37:06 +0000
+
+---
+
+### X: OpenAI
+**[Title: twitter.com](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 Title: twitter.com
 
-📅 2026-03-06T05:05:06.050Z
+📅 2026-03-06T16:09:30.137Z
 
 ---
 
-### X: Paul Graham
-**[网址来源： http://twitter.com/paulg](https://r.jina.ai/http://twitter.com/paulg)**
-
-网址来源： http://twitter.com/paulg
-
-📅 2026-03-06T05:05:06.050Z
-
----
-
-### X: Paul Graham
-**[警告：目标URL返回错误500 ：内部服务器错误](https://r.jina.ai/http://twitter.com/paulg)**
+### X: OpenAI
+**[警告：目标URL返回错误500 ：内部服务器错误](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 警告：目标URL返回错误500 ：内部服务器错误
 
-📅 2026-03-06T05:05:06.050Z
+📅 2026-03-06T16:09:30.137Z
+
+---
+
+### X: OpenAI
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Markdown 内容
+
+📅 2026-03-06T16:09:30.137Z
 
 ---
 
