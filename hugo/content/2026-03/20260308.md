@@ -1,12 +1,12 @@
 ---
 title: "2026年3月8日 - TZ日报"
-date: 2026-03-08T16:00:08.742Z
+date: 2026-03-09T00:01:28.541Z
 draft: false
 ---
 
 # 2026年3月8日 - TZ日报
 
-> 📊 今日汇总 32 条 · 🕐 2026/3/8 16:00:08
+> 📊 今日汇总 32 条 · 🕐 2026/3/9 00:01:28
 
 ---
 
@@ -41,15 +41,6 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[人类与五角大楼， SaaSpocalypse ，以及为什么比赛是好的，实际上](https://techcrunch.com/podcast/anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competitions-is-good-actually/)**
-
-五角大楼已正式将**Anthropic**指定为供应链风险，此前两家公司未能就军方应对其AI模型拥有多少控制权达成一致。随着**Anthropic** 2亿美元的合同破裂，国防部转向**OpenAI** ，后者接受并观看了Chat**GPT**卸载激增295%
-
-📅 Fri, 06 Mar 2026 18:01:38 +0000
-
----
-
-### TechCrunch AI Products
 **[OpenAI再次延迟ChatGPT的“成人模式”](https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/)**
 
 该功能将允许经过验证的成年用户访问色情内容和其他成人内容，该功能已从12月推迟
@@ -64,15 +55,6 @@ draft: false
 在最近与Mozilla的安全合作伙伴关系中， **Anthropic**在Firefox中发现了22个独立的漏洞—其中14个被归类为“高严重性”
 
 📅 Fri, 06 Mar 2026 19:00:22 +0000
-
----
-
-### TechCrunch AI Products
-**[五角大楼交易失败后，克劳德的消费者增长激增仍在继续](https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/)**
-
-**Claude**的应用程序现在比Chat**GPT**看到更多的新安装，并且正在增加其每日活跃用户。
-
-📅 Fri, 06 Mar 2026 17:56:07 +0000
 
 ---
 
@@ -94,14 +76,12 @@ DESCRIPT使用**OpenAI**模型来扩展多语言视频配音优化翻译的含�
 
 ---
 
-### Google AI Blog
-![我们在2月份宣布的最新人工智能新闻](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail_mPCqgRv.max-600x600.format-webp.webp)
+### TechCrunch AI Products
+**[五角大楼的人类争议会吓跑初创企业远离国防工作吗？](https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/)**
 
-**[我们在2月份宣布的最新人工智能新闻](https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/)**
+在TechCrunch的Equity播客的最新一集中，我们讨论了这一争议对其他寻求与联邦政府合作的初创公司意味着什么
 
-以下是2026年2月以来谷歌最新的人工智能**更新**
-
-📅 Thu, 05 Mar 2026 16:30:00 +0000
+📅 Sun, 08 Mar 2026 20:14:42 +0000
 
 ---
 
@@ -111,6 +91,24 @@ DESCRIPT使用**OpenAI**模型来扩展多语言视频配音优化翻译的含�
 亲人类宣言是在上周的五角大楼-人类对峙之前敲定的，但两起事件的碰撞并没有让任何人失望
 
 📅 Sun, 08 Mar 2026 06:05:26 +0000
+
+---
+
+### TechCrunch AI Products
+**[谷歌刚刚向Sundar Pichai提供了6.92亿美元的薪酬待遇](https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/)**
+
+其中大部分与业绩挂钩，包括与Waymo及其无人机交付企业Wing相关的新股激励措施
+
+📅 Sun, 08 Mar 2026 00:20:10 +0000
+
+---
+
+### TechCrunch AI Products
+**[OpenAI硬件高管Caitlin Kalinowski辞职以回应五角大楼的交易](https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/)**
+
+硬件高管Caitlin Kalinowski今天宣布，为了回应**OpenAI**与国防部达成的有争议的协议，她辞去了领导公司机器人团队的职务
+
+📅 Sat, 07 Mar 2026 20:44:25 +0000
 
 ---
 
@@ -135,17 +133,6 @@ DESCRIPT使用**OpenAI**模型来扩展多语言视频配音优化翻译的含�
 ---
 
 ## 🌍 行业展望
-
-### VentureBeat
-![OpenAI推出带有本机计算机使用模式的GPT-5.4 ， Microsoft Excel的财务插件， Google表格](https://images.ctfassets.net/jdtwqhzvc2n1/7gCGOQwpwVqoiYYxNjmHUr/c5592b27e579e176b853eb1e356e52fe/ChatGPT_Image_Mar_5__2026__11_22_33_AM.png?w=300&q=30)
-
-**[OpenAI推出带有本机计算机使用模式的GPT-5.4 ， Microsoft Excel的财务插件， Google表格](https://venturebeat.com/technology/openai-launches-gpt-5-4-with-native-computer-use-mode-financial-plugins-for)**
-
-就在**OpenAI**为ChatGPT**推出**一种新的底层AI模型的两天后，该模型被称为**GPT**-5 **OpenAI** ，用于Microsoft Excel和**Google** Sheets以及**GPT**-5
-
-📅 Thu, 05 Mar 2026 18:00:00 GMT
-
----
 
 ### VentureBeat
 ![Anthropic推出Claude Marketplace ，为企业提供Replit、GitLab、Harvey等Claude工具](https://images.ctfassets.net/jdtwqhzvc2n1/7jdBc17XcbJ5k1KaI35l6d/399d82b5b47cc3980d8cb3f37432ec57/nuneybits_Vector_art_of_a_robot_marketplace_store_robots_in_bus_f138a55a-decc-41ca-b036-664d5c6e7234.webp?w=300&q=30)
@@ -218,6 +205,15 @@ DESCRIPT使用**OpenAI**模型来扩展多语言视频配音优化翻译的含�
 
 ---
 
+### ZDNet AI
+**[摩托罗拉Razr Fold动手：以引人注目的方式击败三星和谷歌Pixel](https://www.zdnet.com/article/motorola-razr-fold-hands-on-mwc-2026/)**
+
+在MWC 2026上，摩托罗拉透露了有关其首款可折叠手机到平板电脑的更多信息，情况看起来很有希望
+
+📅 Sat, 07 Mar 2026 14:00:46 GMT
+
+---
+
 ## 📦 GitHub热门
 
 ### GitHub New (New AI)
@@ -225,20 +221,9 @@ DESCRIPT使用**OpenAI**模型来扩展多语言视频配音优化翻译的含�
 
 **[🆕 awesome-ai-agents-2026 ： 2026年🤖最全面的人工智能代理、框架和工具列表。300多个资源· 20多个类别·每月更新。](https://github.com/caramaschiHG/awesome-ai-agents-2026)**
 
-⭐ 19 star (新项目) · N/A · 🤖 The most comprehensive list of AI agents, frameworks & tools in 2026300+ resources · 20+ categories · **update**d monthly
+⭐ 20 star (新项目) · N/A · 🤖 The most comprehensive list of AI agents, frameworks & tools in 2026300+ resources · 20+ categories · **update**d monthly
 
 📅 2026-03-07T13:21:09Z
-
----
-
-### GitHub New (New AI)
-![🆕 ideaoverflow: NirMa Hackamined '26](https://avatars.githubusercontent.com/u/173024745?v=4)
-
-**[🆕 ideaoverflow: NirMa Hackamined '26](https://github.com/DeepLumiere/ideaoverflow)**
-
-⭐ 6 star (新项目) · HTML · NirMa Hackamined'26
-
-📅 2026-03-05T02:27:52Z
 
 ---
 
@@ -247,7 +232,7 @@ DESCRIPT使用**OpenAI**模型来扩展多语言视频配音优化翻译的含�
 
 **[🆕 ai-agent-landscape ： AI代理、代理框架和面向开发人员的代理工具的精心策划的目录。](https://github.com/ginhooser-cyber/ai-agent-landscape)**
 
-⭐ 3 star (新项目) · N/A · A curated, opinionated directory of AI agents, agent frameworks, and developer-facing agent tools
+⭐ 4 star (新项目) · N/A · A curated, opinionated directory of AI agents, agent frameworks, and developer-facing agent tools
 
 📅 2026-03-08T10:06:20Z
 
@@ -264,77 +249,88 @@ DESCRIPT使用**OpenAI**模型来扩展多语言视频配音优化翻译的含�
 
 ---
 
+### GitHub New (New AI)
+![🆕 free-ai-ml-apis ：人工智能和机器学习项目的免费API](https://avatars.githubusercontent.com/u/240033673?v=4)
+
+**[🆕 free-ai-ml-apis ：人工智能和机器学习项目的免费API](https://github.com/CipherSingularity/free-ai-ml-apis)**
+
+⭐ 2 star (新项目) · JavaScript · Free APIs for AI and ML Projects
+
+📅 2026-03-06T10:19:57Z
+
+---
+
 ## 💬 社交动态
 
 ### Hacker News AI
-**[Anthropic的计算优势：为什么硅战略正在成为AI护城河](https://www.datagravity.dev/p/anthropics-compute-advantage-why)**
+**[Show HN: Wa-agent –在WhatsApp上构建AI代理的框架](https://github.com/ibrahimhajjaj/wa-agent)**
 
-文章网址： https://wwwdev/p/**Anthropic**s-compute-advantage-why评论网址： https://**new**s
+它将Vercel AI SDK用于代理循环（带有多步工具使用的generateText ） ，将Baileys用于WhatsAppSupports **Anthropic**、**OpenAI**或Ollama用于本地模型
 
-📅 Sun, 08 Mar 2026 15:03:44 +0000
+📅 Sun, 08 Mar 2026 23:40:23 +0000
 
 ---
 
-### X: Paul Graham
-**[Title: twitter.com](https://r.jina.ai/http://twitter.com/paulg)**
+### Hacker News AI
+**[Show HN ： Engram —人工智能代理的大脑启发上下文数据库](https://github.com/softmaxdata/engram)**
+
+HN ，您好！我一直在开发Engram ，这是一个用于AI代理和LLM会话的持久上下文层，从Chat**GPT**开始，在**Claude**继续） Repo: https://github
+
+📅 Sun, 08 Mar 2026 22:42:15 +0000
+
+---
+
+### X: Andrej Karpathy
+**[Title: twitter.com](https://r.jina.ai/http://twitter.com/karpathy)**
 
 Title: twitter.com
 
-📅 2026-03-08T15:59:18.550Z
+📅 2026-03-08T23:54:20.706Z
 
 ---
 
-### X: Paul Graham
-**[网址来源： http://twitter.com/paulg](https://r.jina.ai/http://twitter.com/paulg)**
+### X: Andrej Karpathy
+**[网址来源： http://twitter.com/karpathy](https://r.jina.ai/http://twitter.com/karpathy)**
 
-网址来源： http://twitter.com/paulg
+网址来源： http://twitter.com/karpathy
 
-📅 2026-03-08T15:59:18.550Z
+📅 2026-03-08T23:54:20.706Z
 
 ---
 
-### X: Paul Graham
-**[警告：目标URL返回错误500 ：内部服务器错误](https://r.jina.ai/http://twitter.com/paulg)**
+### X: Andrej Karpathy
+**[警告：目标URL返回错误500 ：内部服务器错误](https://r.jina.ai/http://twitter.com/karpathy)**
 
 警告：目标URL返回错误500 ：内部服务器错误
 
-📅 2026-03-08T15:59:18.550Z
+📅 2026-03-08T23:54:20.706Z
 
 ---
 
-### X: Paul Graham
-**[Markdown 内容](https://r.jina.ai/http://twitter.com/paulg)**
+### X: Andrej Karpathy
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/karpathy)**
 
 Markdown 内容
 
-📅 2026-03-08T15:59:18.550Z
+📅 2026-03-08T23:54:20.706Z
 
 ---
 
-### X: Paul Graham
-**[此页面无法正常工作](https://r.jina.ai/http://twitter.com/paulg)**
+### X: Andrej Karpathy
+**[此页面无法正常工作](https://r.jina.ai/http://twitter.com/karpathy)**
 
 此页面无法正常工作
 
-📅 2026-03-08T15:59:18.550Z
+📅 2026-03-08T23:54:20.706Z
 
 ---
 
 ### Hacker News
-**[FrameBook](https://fb.edoo.gg)**
+**[美以联盟的形成与解体](https://egyptianstreets.com/2026/03/06/the-making-and-unraveling-of-the-american-israeli-alliance/)**
 
-文章网址： https://fbgg评论网址： https://**new**s
+文章网址： https://egyptianstreetscom/2026/03/06/the making-and-unraveling-of-the-american-israeli-aliance/评论网址： https://**new**s
 
-📅 Sun, 08 Mar 2026 15:21:09 +0000
-
----
-
-### Hacker News
-**[LibreOffice ：要求欧盟委员会遵守自己的指导方针](https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/)**
-
-文章网址： https://blogorg/blog/2026/03/05/cra-guidances/评论网址： https://**new**s
-
-📅 Sun, 08 Mar 2026 14:09:09 +0000
+📅 Sun, 08 Mar 2026 22:54:20 +0000
 
 ---
 
