@@ -1,12 +1,12 @@
 ---
 title: "2026年3月10日 - TZ日报"
-date: 2026-03-10T17:48:56.069Z
+date: 2026-03-11T00:06:02.035Z
 draft: false
 ---
 
 # 2026年3月10日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/3/10 17:48:56
+> 📊 今日汇总 38 条 · 🕐 2026/3/11 00:06:02
 
 ---
 
@@ -33,15 +33,6 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[Google在文档、表格、幻灯片和云端硬盘中推出新的Gemini功能](https://techcrunch.com/2026/03/10/google-rolls-out-new-gemini-capabilities-to-docs-sheets-slides-and-drive/)**
-
-新功能背后的理念是让应用更加个性化，能够帮助用户在平台内更快地完成任务
-
-📅 Tue, 10 Mar 2026 13:00:00 +0000
-
----
-
 ### OpenAI Blog
 **[在ChatGPT中学习数学和科学的新方法](https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt)**
 
@@ -57,6 +48,24 @@ Chat**GPT**引入数学和科学的交互式可视化解释，帮助学生实时
 **OpenAI**正在收购Promptfoo ，这是一个人工智能安全平台，可帮助企业在开发过程中识别和修复人工智能系统中的漏洞
 
 📅 Mon, 09 Mar 2026 10:00:00 GMT
+
+---
+
+### Hugging Face
+**[NVIDIA如何为人工智能构建开放数据](https://huggingface.co/blog/nvidia/open-data-for-ai)**
+
+NVIDIA如何为人工智能构建开放数据
+
+📅 Tue, 10 Mar 2026 19:49:28 GMT
+
+---
+
+### TechCrunch AI Products
+**[ChatGPT现在可以创建交互式视觉效果，帮助您理解数学和科学概念](https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/)**
+
+用户现在可以直接参与交互式视觉效果，而不仅仅是阅读说明或查看静态图表
+
+📅 Tue, 10 Mar 2026 17:51:25 +0000
 
 ---
 
@@ -88,29 +97,20 @@ Chat**GPT**引入数学和科学的交互式可视化解释，帮助学生实时
 ---
 
 ### AI News
-**[ABB ：物理AI模拟确保工厂自动化ROI](https://www.artificialintelligence-news.com/news/abb-physical-ai-simulation-secures-factory-automation-roi/)**
+**[ABB ：物理AI模拟提高了工厂自动化的投资回报率](https://www.artificialintelligence-news.com/news/abb-physical-ai-simulation-secures-factory-automation-roi/)**
 
-核心问题是数字培训模型与实际工厂车间的差距和[…]后ABB ：物理AI模拟确保工厂自动化ROI**首次**出现在AI新闻
+核心问题是数字培训模型与实际工厂车间之间的差距， […]后ABB ：物理AI模拟提高了工厂自动化的投资回报率**首次**出现在人工智能新闻
 
 📅 Tue, 10 Mar 2026 17:22:41 +0000
 
 ---
 
-### DeepMind Blog
-**[从游戏到生物学及其他领域： AlphaGo的10年影响力](https://deepmind.google/blog/10-years-of-alphago/)**
+### OpenAI Blog
+**[改善前沿法学硕士的教学层次结构](https://openai.com/index/instruction-hierarchy-challenge)**
 
-AlphaGo成立十年来，我们探索它如何促进科学发现并为通往AGI的道路铺平道路
+IH-Challenge训练模型以优先考虑可信指令改进指令层次结构
 
-📅 Mon, 09 Mar 2026 13:52:36 +0000
-
----
-
-### Hugging Face
-**[推出Hugging Face Hub上的存储桶](https://huggingface.co/blog/storage-buckets)**
-
-**推出**Hugging Face Hub上的存储桶
-
-📅 Tue, 10 Mar 2026 00:00:00 GMT
+📅 Tue, 10 Mar 2026 11:00:00 GMT
 
 ---
 
@@ -195,7 +195,7 @@ AlphaGo成立十年来，我们探索它如何促进科学发现并为通往AGI�
 
 **[OpenAI通过交互式学习工具升级ChatGPT ，作为诉讼和五角大楼的反作用](https://venturebeat.com/data/openai-upgrades-chatgpt-with-interactive-learning-tools-as-lawsuits-and)**
 
-**OpenAI** on Monday **launch**ed a set of interactive visual tools inside Chat**GPT** that let users manipulate mathematical and scientific formulas in real time — a genuinely impressive education feature that also serves as the company's most direct attempt yet to change the subject during the worst ten days of its corporate life**OpenAI** has been sued by the family of a 12-year-old mass shooting victim who alleges the company k**new** the attacker was planning violence through Chat**GPT**; lost its head of robotics over a Pentagon deal that triggered a near-300% spike in app uninstalls; watched more than 30 of its own employees file a legal brief supporting rival **Anthropic** against the U
+**OpenAI** on Tuesday **launch**ed a set of interactive visual tools inside Chat**GPT** that let users manipulate mathematical and scientific formulas in real time — a genuinely impressive education feature that landed in the middle of the most turbulent stretch of the company's corporate life**OpenAI** has been sued by the family of a 12-year-old mass shooting victim who alleges the company k**new** the attacker was planning violence through Chat**GPT**; lost its head of robotics over a Pentagon deal that triggered a near-300% spike in app uninstalls; watched more than 30 of its own employees file a legal brief supporting rival **Anthropic** against the U
 
 📅 Tue, 10 Mar 2026 17:00:00 GMT
 
@@ -220,17 +220,6 @@ AI领导者今天宣布对其嵌入到**Google** Workspace （包括DriveNot jus
 **Anthropic**和**OpenAI**独立**发布**了基于推理的漏洞扫描仪**Anthropic**和**OpenAI**如何从不同的架构中得出相同的结论**Anthropic**于2月5日**发布**了其零日研究，同时**发布**了**Claude** Opus 4
 
 📅 Tue, 10 Mar 2026 17:00:00 GMT
-
----
-
-### VentureBeat
-![Anthropic为Claude Code推出Code Review ，因为它起诉五角大楼黑名单并与微软合作](https://images.ctfassets.net/jdtwqhzvc2n1/7CvqbLmP86nNznfKP8OvKe/56fccfeba85626c91019f1f89c1a91e7/nuneybits_Vector_art_of_a_retro_terminal_screen_displaying_casc_e2160c2e-6fda-43ba-855b-3d2f025dccdd.webp?w=300&q=30)
-
-**[Anthropic为Claude Code推出Code Review ，因为它起诉五角大楼黑名单并与微软合作](https://venturebeat.com/technology/anthropic-rolls-out-code-review-for-claude-code-as-it-sues-over-pentagon)**
-
-虽然微软宣布了一项新的合作伙伴关系，将**Claude**嵌入其Microsoft 365 Copilot平台“世界上**最强**大的三家科技公司公开重申他们致力于分发**Anthropic**的模型—在公司起诉联邦政府的同一天—告诉企业客户一些关于市场对**Claude**的技术价值和供应链风险指定的法律持久性的评估的**重要**信息
-
-📅 Mon, 09 Mar 2026 19:00:00 GMT
 
 ---
 
@@ -274,6 +263,15 @@ AI领导者今天宣布对其嵌入到**Google** Workspace （包括DriveNot jus
 
 ---
 
+### MIT Tech Review
+**[下载：人工智能在伊朗战争中的作用，以及不断升级的法律斗争](https://www.technologyreview.com/2026/03/10/1134077/the-download-ai-iran-war-theater-anthropic-sues-us/)**
+
+这是今天的“下载”版本，这是我们的工作日通讯，提供每日剂量的技术世界正在发生的事情人工智能如何将伊朗冲突变成战场伊朗冲突中人工智能的大部分焦点都集中在像克劳德这样的模型上，帮助美国军方决定在哪里……
+
+📅 Tue, 10 Mar 2026 12:55:32 +0000
+
+---
+
 ## 📦 GitHub热门
 
 ### GitHub New (New AI)
@@ -281,20 +279,9 @@ AI领导者今天宣布对其嵌入到**Google** Workspace （包括DriveNot jus
 
 **[🆕 RusTorch ： RusTorch是在Rust中重新构想的生产级深度学习框架。它将您喜爱的PyTorch的可用性与Rust的性能、安全性和并发性保证相结合。告别GIL锁定、GC暂停和运行时错误。向RusTorch问好。](https://github.com/Genius-apple/RusTorch)**
 
-⭐ 72 star (新项目) · Rust · RusTorch is a production-grade deep learning framework re-imagined in RustSay goodbye to GIL locks, GC pauses, and runtime errors
+⭐ 73 star (新项目) · Rust · RusTorch is a production-grade deep learning framework re-imagined in RustSay goodbye to GIL locks, GC pauses, and runtime errors
 
 📅 2026-03-08T06:26:12Z
-
----
-
-### GitHub New (New AI)
-![🆕 awesome-ai-agents-2026 ： 2026年🤖最全面的人工智能代理、框架和工具列表。300多个资源· 20多个类别·每月更新。](https://avatars.githubusercontent.com/u/156044967?v=4)
-
-**[🆕 awesome-ai-agents-2026 ： 2026年🤖最全面的人工智能代理、框架和工具列表。300多个资源· 20多个类别·每月更新。](https://github.com/caramaschiHG/awesome-ai-agents-2026)**
-
-⭐ 41 star (新项目) · N/A · 🤖 The most comprehensive list of AI agents, frameworks & tools in 2026300+ resources · 20+ categories · **update**d monthly
-
-📅 2026-03-07T13:21:09Z
 
 ---
 
@@ -314,83 +301,94 @@ AI领导者今天宣布对其嵌入到**Google** Workspace （包括DriveNot jus
 
 **[LLM🆕 注射器：用于LLM快速注射测试的打嗝套件扩展](https://github.com/anmolksachan/LLMInjector)**
 
-⭐ 2 star (新项目) · Python · Burp Suite Extension for LLM Prompt Injection Testing
+⭐ 5 star (新项目) · Python · Burp Suite Extension for LLM Prompt Injection Testing
 
 📅 2026-03-10T05:35:01Z
+
+---
+
+### GitHub New (New AI)
+![🆕 NovaCloud-AuraTech ： Plataforma SaaS B2B para almacenamiento seguro en la nube con previsualización inteligente de documentos mediante IA。Arquitectura serverless sin bases de datos tradicionales。](https://avatars.githubusercontent.com/u/126440030?v=4)
+
+**[🆕 NovaCloud-AuraTech ： Plataforma SaaS B2B para almacenamiento seguro en la nube con previsualización inteligente de documentos mediante IA。Arquitectura serverless sin bases de datos tradicionales。](https://github.com/Elteclass/NovaCloud-AuraTech)**
+
+⭐ 3 star (新项目) · N/A · Plataforma SaaS B2B para almacenamiento seguro en la nube con previsualización inteligente de documentos mediante IAArquitectura serverless sin bases de datos tradicionales
+
+📅 2026-03-08T17:54:58Z
 
 ---
 
 ## 💬 社交动态
 
 ### Hacker News
-**[Show HN ： RunAnwhere - Apple Silicon上更快的人工智能推断](https://github.com/RunanywhereAI/rcli)**
+**[在我睡觉时运行的代理](https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep)**
 
-要开始： BREW点击RunanywhereAI/rcli https://github我们直接进入**Meta**l
+**Claude**codecampcom/p/i-m-building-agents-that-run-while-i-sleep评论网址： https://**new**s
 
-📅 Tue, 10 Mar 2026 17:14:52 +0000
-
----
-
-### Hacker News
-**[Microsoft Copilot更新劫持默认浏览器链接](https://reclaimthenet.org/microsoft-copilot-update-hijacks-default-browser-links)**
-
-文章网址： https://reclaimthenetorg/microsoft-copilot-**update**-hijacks-default-browser-links评论网址： https://**new**s
-
-📅 Tue, 10 Mar 2026 17:04:38 +0000
+📅 Tue, 10 Mar 2026 19:09:46 +0000
 
 ---
 
-### Hacker News
-**[我使用Claude Code构建了一种编程语言](https://ankursethi.com/blog/programming-language-claude-code/)**
+### Hacker News AI
+**[Anthropic给出了人工智能收入幻觉的教训](https://www.reuters.com/commentary/breakingviews/anthropic-gives-lesson-ai-revenue-hallucination-2026-03-10/)**
 
-文章网址： https://ankursethicom/blog/programming-language-**Claude**-code/评论网址： https://**new**s
+文章网址： https://wwwcom/commentary/breakingviews/**Anthropic**-gives-lesson-ai-revenue-hallucination-2026-03-10/评论网址： https://**new**s
 
-📅 Tue, 10 Mar 2026 16:37:29 +0000
-
----
-
-### Hacker News
-**[$ 3 ChromeOS Flex stick将复活旧和过时的电脑](https://9to5google.com/2026/03/10/this-3-chromeos-stick-will-revive-old-and-outdated-computers/)**
-
-文章网址： https://9to5**Google**com/2026/03/10/this-3-chromeos-stick-will-revive old-and-outdated-computers/评论网址： https://**new**s
-
-📅 Tue, 10 Mar 2026 16:24:26 +0000
+📅 Tue, 10 Mar 2026 23:30:28 +0000
 
 ---
 
-### Hacker News
-**[Meta收购Moltbook](https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network)**
+### Hacker News AI
+**[我使用聊天提示植根于Meta AI的基础设施](https://netguard24-7.com/blog/meta-ai-root)**
 
-com/business/**Meta**-acquires-ai-agent-soci评论网址： https://**new**s
+文章网址： https://netguard24-7com/blog/**Meta**-ai-root评论网址： https://**new**s
 
-📅 Tue, 10 Mar 2026 14:38:06 +0000
-
----
-
-### Hacker News
-**[启动HN ： Didit (YC W26) – Stripe身份验证](https://news.ycombinator.com/item?id=47324296)**
-
-我们建立了自己的身份验证和生物识别AI模型，从分类和欺诈检测到几乎所有语言的OCR模型。评论网址： https://**new**s
-
-📅 Tue, 10 Mar 2026 15:08:05 +0000
+📅 Tue, 10 Mar 2026 23:07:35 +0000
 
 ---
 
-### Hacker News
-**[亚马逊正在举行关于人工智能破坏其系统的强制性会议](https://twitter.com/lukolejnik/status/2031257644724342957)**
+### X: Elon Musk
+**[Title: twitter.com](https://r.jina.ai/http://twitter.com/elonmusk)**
 
-文章网址： https://twittercom/lukolejnik/status/2031257644724342957评论网址： https://**new**s
+Title: twitter.com
 
-📅 Tue, 10 Mar 2026 15:01:35 +0000
+📅 2026-03-11T00:02:55.225Z
 
 ---
 
-### Hacker News
-**[Debian决定不对人工智能生成的贡献做出决定](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)**
+### X: Elon Musk
+**[网址来源： http://twitter.com/elonmusk](https://r.jina.ai/http://twitter.com/elonmusk)**
 
-文章网址： https://lwnnet/SubscriberLink/1061544/125f911834966dd0/评论网址： https://**new**s
+网址来源： http://twitter.com/elonmusk
 
-📅 Tue, 10 Mar 2026 14:53:13 +0000
+📅 2026-03-11T00:02:55.225Z
+
+---
+
+### X: Elon Musk
+**[警告：目标URL返回错误500 ：内部服务器错误](https://r.jina.ai/http://twitter.com/elonmusk)**
+
+警告：目标URL返回错误500 ：内部服务器错误
+
+📅 2026-03-11T00:02:55.225Z
+
+---
+
+### X: Elon Musk
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/elonmusk)**
+
+Markdown 内容
+
+📅 2026-03-11T00:02:55.225Z
+
+---
+
+### X: Elon Musk
+**[此页面无法正常工作](https://r.jina.ai/http://twitter.com/elonmusk)**
+
+此页面无法正常工作
+
+📅 2026-03-11T00:02:55.225Z
 
 ---
 
