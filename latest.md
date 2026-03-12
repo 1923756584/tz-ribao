@@ -1,12 +1,12 @@
 ---
 title: "2026年3月11日 - TZ日报"
-date: 2026-03-11T17:52:20.802Z
+date: 2026-03-12T00:06:05.408Z
 draft: false
 ---
 
 # 2026年3月11日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/3/11 17:52:20
+> 📊 今日汇总 38 条 · 🕐 2026/3/12 00:06:05
 
 ---
 
@@ -33,12 +33,39 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[谷歌将Chrome中的Gemini引入印度](https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/)**
+### OpenAI Blog
+**[Rakuten使用Codex以两倍的速度解决问题](https://openai.com/index/rakuten)**
 
-此次**推出**将允许用户通过桌面上的侧边栏访问Chrome浏览器中的**Gemini** ，使他们能够就屏幕上的内容向谷歌的人工智能聊天机器人提出问题；从他们的Gmail中获取信息
+**OpenAI**的编码代理，并在几周内交付全栈构建
 
-📅 Wed, 11 Mar 2026 02:30:00 +0000
+📅 Wed, 11 Mar 2026 13:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[设计AI剂以抵抗提示注射](https://openai.com/index/designing-agents-to-resist-prompt-injection)**
+
+Chat**GPT**如何通过限制风险操作和保护代理工作流程中的敏感数据来防御即时注入和社交工程
+
+📅 Wed, 11 Mar 2026 11:30:00 GMT
+
+---
+
+### OpenAI Blog
+**[从模型到代理：为Responses API配备计算机环境](https://openai.com/index/equip-responses-api-computer-environment)**
+
+**OpenAI**如何使用响应API和托管容器构建代理运行时以安全运行
+
+📅 Wed, 11 Mar 2026 11:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[Wayfair通过OpenAI提高目录准确性和支持速度](https://openai.com/index/wayfair)**
+
+Wayfair使用**OpenAI**模型来改善电子商务支持和产品目录的准确性，自动化工单分类并大规模增强数百万个产品属性
+
+📅 Wed, 11 Mar 2026 11:00:00 GMT
 
 ---
 
@@ -60,21 +87,23 @@ Chat**GPT**引入数学和科学的交互式可视化解释，帮助学生实时
 
 ---
 
-### TechCrunch AI Products
-**[Meta没有为机器人购买Moltbook —它购买了代理网络](https://techcrunch.com/2026/03/11/meta-didnt-buy-moltbook-for-bots-it-bought-into-the-agentic-web/)**
+### Google AI Blog
+![人工智能如何帮助改善澳大利亚农村地区的心脏健康](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIHealth_v2_2096x1182_02.max-600x600.format-webp.webp)
 
-**Meta**收购Moltbook一开始可能看起来很奇怪，但这笔交易可能预示着**Meta**如何看待人工智能代理商在代理网络上塑造未来的广告和商业
+**[人工智能如何帮助改善澳大利亚农村地区的心脏健康](https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/)**
 
-📅 Wed, 11 Mar 2026 15:11:31 +0000
+一项新的**Google** AI计划旨在改善居住在偏远澳大利亚社区的人们的心脏健康状况
+
+📅 Thu, 12 Mar 2026 15:00:00 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[ChatGPT现在可以创建交互式视觉效果，帮助您理解数学和科学概念](https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/)**
+**[Meta的Moltbook交易指向围绕人工智能代理构建的未来](https://techcrunch.com/2026/03/11/metas-moltbook-deal-points-to-a-future-built-around-ai-agents/)**
 
-用户现在可以直接参与交互式视觉效果，而不仅仅是阅读说明或查看静态图表
+**Meta**收购Moltbook一开始可能看起来很奇怪，但这笔交易可能预示着**Meta**如何看待人工智能代理商在代理网络上塑造未来的广告和商业
 
-📅 Tue, 10 Mar 2026 17:51:25 +0000
+📅 Wed, 11 Mar 2026 15:11:31 +0000
 
 ---
 
@@ -84,33 +113,6 @@ Chat**GPT**引入数学和科学的交互式可视化解释，帮助学生实时
 核心问题是数字培训模型与实际工厂车间之间的差距， […]后ABB ：物理AI模拟提高了工厂自动化的投资回报率**首次**出现在人工智能新闻
 
 📅 Tue, 10 Mar 2026 17:22:41 +0000
-
----
-
-### OpenAI Blog
-**[改善前沿法学硕士的教学层次结构](https://openai.com/index/instruction-hierarchy-challenge)**
-
-IH-Challenge训练模型以优先考虑可信指令改进指令层次结构
-
-📅 Tue, 10 Mar 2026 11:00:00 GMT
-
----
-
-### DeepMind Blog
-**[从游戏到生物学及其他领域： AlphaGo的10年影响力](https://deepmind.google/blog/10-years-of-alphago/)**
-
-AlphaGo成立十年来，我们探索它如何促进科学发现并为通往AGI的道路铺平道路
-
-📅 Mon, 09 Mar 2026 13:52:36 +0000
-
----
-
-### Hugging Face
-**[代码概念：由编程概念种子生成的大规模合成数据集](https://huggingface.co/blog/nvidia/synthetic-code-concepts)**
-
-代码概念：由编程概念种子生成的大规模合成数据集
-
-📅 Wed, 11 Mar 2026 15:50:15 GMT
 
 ---
 
@@ -202,46 +204,33 @@ Chat**GPT**、Cursor、**Google** **Gemini**、Microsoft Copilot和Visual St**Ud
 ---
 
 ### VentureBeat
-![OpenAI通过交互式学习工具升级ChatGPT ，作为诉讼和五角大楼的反作用](https://images.ctfassets.net/jdtwqhzvc2n1/PCfwAX0rml3m8zpvmmvYV/6a5431c8356cd9920e64d2b9559a4277/nuneybits_retro_computer_framed_in_the_style_of_Wes_Anderson_ne_ef948696-25d0-4dcc-aa23-eeaff8715a33.webp?w=300&q=30)
-
-**[OpenAI通过交互式学习工具升级ChatGPT ，作为诉讼和五角大楼的反作用](https://venturebeat.com/data/openai-upgrades-chatgpt-with-interactive-learning-tools-as-lawsuits-and)**
-
-**OpenAI** on Tuesday **launch**ed a set of interactive visual tools inside Chat**GPT** that let users manipulate mathematical and scientific formulas in real time — a genuinely impressive education feature that landed in the middle of the most turbulent stretch of the company's corporate life**OpenAI** has been sued by the family of a 12-year-old mass shooting victim who alleges the company k**new** the attacker was planning violence through Chat**GPT**; lost its head of robotics over a Pentagon deal that triggered a near-300% spike in app uninstalls; watched more than 30 of its own employees file a legal brief supporting rival **Anthropic** against the U
-
-📅 Tue, 10 Mar 2026 17:00:00 GMT
-
----
-
-### VentureBeat
-![Perplexity将其“计算机” AI代理带入企业，瞄准微软和Salesforce](https://images.ctfassets.net/jdtwqhzvc2n1/3kDPGtZqT2wQwcsYKeYV8W/b2159cdedc40dc7a21b720038ae7eab5/nuneybits_A_vintage_beige_CRT_computer_sitting_in_a_lush_wildfl_dd0304c3-1f3d-47db-9faf-fab70218954e.webp?w=300&q=30)
-
-**[Perplexity将其“计算机” AI代理带入企业，瞄准微软和Salesforce](https://venturebeat.com/technology/perplexity-takes-its-computer-ai-agent-into-the-enterprise-taking-aim-at)**
-
-The system orchestrates approximately 20 AI models from multiple providers, including **Anthropic**’s **Claude** Opus 4Several dynamics bear watching in the months ahead: whether Perplexity’s multi-model orchestration delivers measurably better outcomes than single-vendor alternatives like Microsoft Copilot or **Anthropic**’s **Claude** Cowork; whether the usage-based pricing model survives contact with enterprise procurement teams that strongly prefer predictable costs; whether any of the model providers whose APIs power Computer restrict access or raise prices in ways that undermine the platform; and whether Computer’s Slack-first distribution strategy can replicate the bottom-up enterprise adoption patterns that built Slack
-
-📅 Tue, 10 Mar 2026 16:00:00 GMT
-
----
-
-### VentureBeat
 ![Google的Gemini Embedding 2提供原生多模式支持，可降低成本并加快企业数据堆栈的速度](https://images.ctfassets.net/jdtwqhzvc2n1/3vvg9fxNbEhWLukkaKhewr/1f71cde82aba4ca35ea01e53c11b6502/Gemini_Generated_Image_fo30n7fo30n7fo30.png?w=300&q=30)
 
 **[Google的Gemini Embedding 2提供原生多模式支持，可降低成本并加快企业数据堆栈的速度](https://venturebeat.com/data/googles-gemini-embedding-2-arrives-with-native-multimodal-support-to-cut)**
 
 谷歌宣布了它对企业客户最**重要**的一个： **Gemini** Embedding 2**Google**的公开预览版：新的**Gemini**和以前的Gecko型号
 
-📅 Wed, 11 Mar 2026 16:12:00 GMT
+📅 Wed, 11 Mar 2026 16:16:00 GMT
+
+---
+
+### Wired Technology
+**[文件显示，英伟达将斥资260亿美元构建开放式AI模型](https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/)**
+
+此举可以让人工智能基础设施强国迅速与**OpenAI**、**Anthropic**和**DeepSeek**竞争
+
+📅 Wed, 11 Mar 2026 18:00:00 +0000
 
 ---
 
 ### VentureBeat
-![Google升级了Gemini for Workspace ，允许其从多个应用中提取数据以创建文档、表格、幻灯片等](https://images.ctfassets.net/jdtwqhzvc2n1/1XnZRGfKyoogltMtDLavq3/76e31e6fdbd3262caba866c44b218c7c/Gemini_Generated_Image_nw8qh5nw8qh5nw8q.png?w=300&q=30)
+![Anthropic为Claude提供跨Microsoft Excel和PowerPoint的共享上下文，在多个应用程序中实现可重用的工作流程](https://images.ctfassets.net/jdtwqhzvc2n1/2YZHOr0Zab4eYlCMcaBIOX/37b646114f02c8f8e37eec2148696ed2/crimedy7_illustration_of_robots_under_a_rain_of_spreadsheets__631ae88e-eea4-4112-99bd-915adbc54ca8_0.png?w=300&q=30)
 
-**[Google升级了Gemini for Workspace ，允许其从多个应用中提取数据以创建文档、表格、幻灯片等](https://venturebeat.com/orchestration/google-upgrades-gemini-for-workspace-allowing-it-to-pull-data-from-multiple)**
+**[Anthropic为Claude提供跨Microsoft Excel和PowerPoint的共享上下文，在多个应用程序中实现可重用的工作流程](https://venturebeat.com/orchestration/anthropic-gives-claude-shared-context-across-microsoft-excel-and-powerpoint)**
 
-AI领导者今天宣布对其嵌入到**Google** Workspace （包括DriveNot just **Gemini**在内的基于云的应用程序的生产力套件）中的**Gemini** AI模型进行一系列全面的**更新**，众多**Google** AI模型为这种体验提供支持虽然新的Workspace**更新**的用户界面旨在简化
+Anthropic**升级**了其**Claude** AI模型，为Microsoft Excel和PowerPoint提供了新功能，这是一项战略举措，旨在扩大其企业足迹，并可能挑战微软新**推出**的Copilot Cowork （ **Claude**也为其提供了部分动力）
 
-📅 Tue, 10 Mar 2026 16:25:00 GMT
+📅 Wed, 11 Mar 2026 18:13:00 GMT
 
 ---
 
@@ -256,6 +245,26 @@ AI领导者今天宣布对其嵌入到**Google** Workspace （包括DriveNot jus
 
 ---
 
+### VentureBeat
+![英伟达的新开放权重Nemotron 3 SUPER结合了三种不同的架构，以击败gpt-oss和Qwen的吞吐量](https://images.ctfassets.net/jdtwqhzvc2n1/16z18DmZ1JRXcJWxYx8NlH/26078d02124cae3335550b987eb6dadd/Gemini_Generated_Image_g3yqe1g3yqe1g3yq.png?w=300&q=30)
+
+**[英伟达的新开放权重Nemotron 3 SUPER结合了三种不同的架构，以击败gpt-oss和Qwen的吞吐量](https://venturebeat.com/technology/nvidias-new-open-weights-nemotron-3-super-combines-three-different)**
+
+自定义“开放”许可证—商业用途，但有**重要**警告根据Nvidia开放式模型许可协议（ 2025年10月**更新**）**发布**的Nemotron 3 Super为企业采用提供了一个宽松的框架输出所有权： Nvidia对模型生成的输出不提出任何主张；对这些输出的责任及其所有权完全由用户承担
+
+📅 Wed, 11 Mar 2026 23:42:00 GMT
+
+---
+
+### Wired Technology
+**[伊朗警告说，随着战争的扩大，美国科技公司可能成为目标](https://www.wired.com/story/iran-warns-us-tech-firms-could-become-targets-as-war-expands/)**
+
+包括**Google**Microsoft在内的公司
+
+📅 Wed, 11 Mar 2026 18:38:21 +0000
+
+---
+
 ### Wired Technology
 **[Meta正在开发4款新芯片，为其人工智能和推荐系统提供支持](https://www.wired.com/story/meta-unveils-four-new-chips-to-power-its-ai-and-recommendation-systems/)**
 
@@ -265,40 +274,7 @@ MTIA处理器是这家科技巨头构建自己的人工智能硬件的最新尝�
 
 ---
 
-### The Verge
-![据报道， OpenAI的Sora视频生成器即将加入ChatGPT](https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKB375_SORA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[据报道， OpenAI的Sora视频生成器即将加入ChatGPT](https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration)**
-
-**OpenAI**的Sora**视频生成**器可能很快成为Chat**GPT**中的内置功能，正如The InformationSora所报道的那样，它可以帮助吸引更多用户使用Chat**GPT** ，但它也可能会加剧来自**OpenAI**视频生成器的deepfake泛滥
-
-📅 2026-03-11T16:50:45.000Z
-
----
-
 ## 📦 GitHub热门
-
-### GitHub Active (Python)
-![odigos ：分布式跟踪，无需更改代码。使用OpenTelemetry和eBPF🚀即时监控任何应用程序](https://avatars.githubusercontent.com/u/84347062?v=4)
-
-**[odigos ：分布式跟踪，无需更改代码。使用OpenTelemetry和eBPF🚀即时监控任何应用程序](https://github.com/odigos-io/odigos)**
-
-⭐ 3,635星· 244分叉· Go ·分布式跟踪，无需更改代码使用OpenTelemetry和eBPF🚀即时监控任何应用程序
-
-📅 2026-03-11T17:50:42Z
-
----
-
-### GitHub New (New AI)
-![🆕 RusTorch ： RusTorch是在Rust中重新构想的生产级深度学习框架。它将您喜爱的PyTorch的可用性与Rust的性能、安全性和并发性保证相结合。告别GIL锁定、GC暂停和运行时错误。向RusTorch问好。](https://avatars.githubusercontent.com/u/98931465?v=4)
-
-**[🆕 RusTorch ： RusTorch是在Rust中重新构想的生产级深度学习框架。它将您喜爱的PyTorch的可用性与Rust的性能、安全性和并发性保证相结合。告别GIL锁定、GC暂停和运行时错误。向RusTorch问好。](https://github.com/Genius-apple/RusTorch)**
-
-⭐ 84 star (新项目) · Rust · RusTorch is a production-grade deep learning framework re-imagined in RustSay goodbye to GIL locks, GC pauses, and runtime errors
-
-📅 2026-03-08T06:26:12Z
-
----
 
 ### GitHub New (New AI)
 ![LLM🆕 注射器：用于LLM快速注射测试的打嗝套件扩展](https://avatars.githubusercontent.com/u/60771253?v=4)
@@ -312,87 +288,109 @@ MTIA处理器是这家科技巨头构建自己的人工智能硬件的最新尝�
 ---
 
 ### GitHub New (New AI)
-![🆕 ai-agent-landscape ： AI代理、代理框架和面向开发人员的代理工具的精心策划的目录。](https://avatars.githubusercontent.com/u/253995277?v=4)
+![🆕 awesome-maharashtra-data ：印度马哈拉施特拉邦特有的数据集合。WIP](https://avatars.githubusercontent.com/u/114341542?v=4)
 
-**[🆕 ai-agent-landscape ： AI代理、代理框架和面向开发人员的代理工具的精心策划的目录。](https://github.com/ginhooser-cyber/ai-agent-landscape)**
+**[🆕 awesome-maharashtra-data ：印度马哈拉施特拉邦特有的数据集合。WIP](https://github.com/incubrain/awesome-maharashtra-data)**
 
-⭐ 8 star (新项目) · N/A · A curated, opinionated directory of AI agents, agent frameworks, and developer-facing agent tools
+⭐ 1 star (新项目) · Vue · A collection of datasets specific to Maharashtra, India. WIP
 
-📅 2026-03-08T10:06:20Z
+📅 2026-03-11T08:13:35Z
+
+---
+
+### GitHub New (New AI)
+![🆕 Retail-Insights-Assistant ：用简单的英语询问您的数据—多代理AI将问题转化为答案](https://avatars.githubusercontent.com/u/32274194?v=4)
+
+**[🆕 Retail-Insights-Assistant ：用简单的英语询问您的数据—多代理AI将问题转化为答案](https://github.com/deshneni-akhil/Retail-Insights-Assistant)**
+
+⭐ 1 star (新项目) · Python · Ask your data anything in plain English — multi-agent AI turns questions into answers
+
+📅 2026-03-11T02:44:14Z
+
+---
+
+### GitHub New (New AI)
+![🆕 ethics.md ：分布式人工智能伦理框架。没有企业捕获。与人工智能共同创建。实际部署。](https://avatars.githubusercontent.com/u/164427848?v=4)
+
+**[🆕 ethics.md ：分布式人工智能伦理框架。没有企业捕获。与人工智能共同创建。实际部署。](https://github.com/davyvalekestrel/ethics.md)**
+
+⭐ 1 star (新项目) · N/A · Distributed AI ethics frameworkCo-created with AIs
+
+📅 2026-03-10T10:56:35Z
 
 ---
 
 ## 💬 社交动态
 
-### Hacker News
-**[Show HN ： Vanilla JavaScript精炼厂模拟器，专为向我的孩子解释工作而设计](https://fuelingcuriosity.com/game.html)**
-
-我不是软件开发人员，所以我严重依赖LLM （ **Claude**、Copilot、**Gemini** ）来帮助编写codecom/game评论网址： https://**new**s
-
-📅 Wed, 11 Mar 2026 16:56:51 +0000
-
----
-
-### Hacker News
-**[显示HN ： Klaus –虚拟机上的OpenClaw ，包括电池](https://klausai.com/)**
-
-许多基本集成（例如Slack、**Google** Workspace ）要求您创建自己的OAuth应用程序克劳斯还有很长的路要走，但看到从未使用过**Claude** Code的人第一次体验到AI代理仍然非常有益
-
-📅 Wed, 11 Mar 2026 15:54:23 +0000
-
----
-
-### Hacker News
-**[启动HN ： Sentrial (YC W26) –在用户之前发现AI Agent故障](https://www.sentrial.com/)**
-
-它是人工智能产品的生产监控有一个快速的mcp设置，只需提供**Claude**代码： **Claude** mcp add --transport http Sentrial https://www
-
-📅 Wed, 11 Mar 2026 16:24:17 +0000
-
----
-
-### Hacker News
-**[启动HN ： Prism (YC X25) –用于生成和编辑视频的工作区和API](https://www.prismvideos.com)**
-
-今天制作人工智能视频通常意味着将十几种工具拼接在一起（**图像生成**我们正在努力减少多步骤人工智能视频创作的无聊部分，以便用户可以生成→审阅→编辑→汇编→导出
-
-📅 Wed, 11 Mar 2026 16:16:12 +0000
-
----
-
-### Hacker News
-**[使用Claude Code登录时出现错误](https://status.claude.com/incidents/jm3b4jjy2jrt)**
-
-**Claude**com/incident/jm3b4jjy2jrt评论网址： https://**new**s
-
-📅 Wed, 11 Mar 2026 15:28:18 +0000
-
----
-
-### Hacker News AI
-**[Nvidia的Huang认为人工智能创造就业机会，而不是摧毁就业机会](https://www.coindesk.com/tech/2026/03/10/nvidia-s-huang-argues-ai-creates-jobs-not-destroys-them-in-rare-official-blog)**
-
-文章网址： https://wwwcom/tech/2026/03/10/nvidia-s-huang-argues-ai-creates-jobs-not-destroys-them-in-rare-official-blog评论网址： https://**new**s
-
-📅 Wed, 11 Mar 2026 17:18:40 +0000
-
----
-
-### Hacker News AI
-**[设计AI芯片硬件和软件](https://docs.google.com/document/d/1dZ3vF8GE8_gx6tl52sOaUVEPq0ybmai1xvu3uk89_is/view)**
-
-文章网址： https://docscom/document/d/1dZ3vF8GE8_gx6tl52sOaUVEPq0ybmai1xvu3uk89_is/view评论网址： https://**new**s
-
-📅 Wed, 11 Mar 2026 17:09:20 +0000
-
----
-
-### X: Andrej Karpathy
-**[Title: twitter.com](https://r.jina.ai/http://twitter.com/karpathy)**
+### X: Elon Musk
+**[Title: twitter.com](https://r.jina.ai/http://twitter.com/elonmusk)**
 
 Title: twitter.com
 
-📅 2026-03-11T17:44:35.430Z
+📅 2026-03-12T00:03:52.472Z
+
+---
+
+### X: Elon Musk
+**[网址来源： http://twitter.com/elonmusk](https://r.jina.ai/http://twitter.com/elonmusk)**
+
+网址来源： http://twitter.com/elonmusk
+
+📅 2026-03-12T00:03:52.472Z
+
+---
+
+### X: Elon Musk
+**[警告：目标URL返回错误500 ：内部服务器错误](https://r.jina.ai/http://twitter.com/elonmusk)**
+
+警告：目标URL返回错误500 ：内部服务器错误
+
+📅 2026-03-12T00:03:52.472Z
+
+---
+
+### X: Elon Musk
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/elonmusk)**
+
+Markdown 内容
+
+📅 2026-03-12T00:03:52.472Z
+
+---
+
+### X: Elon Musk
+**[此页面无法正常工作](https://r.jina.ai/http://twitter.com/elonmusk)**
+
+此页面无法正常工作
+
+📅 2026-03-12T00:03:52.472Z
+
+---
+
+### X: Naval
+**[网址来源： http://twitter.com/naval](https://r.jina.ai/http://twitter.com/naval)**
+
+网址来源： http://twitter.com/naval
+
+📅 2026-03-12T00:03:55.264Z
+
+---
+
+### Hacker News
+**[显示HN ： Autoresearch_at_home – SETI_at_home ，但用于LLM培训](https://www.ensue-network.ai/autoresearch)**
+
+autresearch @ home是一个协作研究集体，人工智能代理共享GPU资源，共同改进语言模型Think SETI @ home ，但用于模型训练
+
+📅 Wed, 11 Mar 2026 23:27:18 +0000
+
+---
+
+### Hacker News
+**[建设更好的国家选择](https://talysto.com/blog/building-better-country-selects/)**
+
+文章网址： https://talystocom/blog/building-better-country-selects/评论网址： https://**new**s
+
+📅 Wed, 11 Mar 2026 22:47:03 +0000
 
 ---
 
