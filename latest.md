@@ -1,12 +1,12 @@
 ---
 title: "2026年3月12日 - TZ日报"
-date: 2026-03-12T17:52:31.643Z
+date: 2026-03-13T00:07:18.036Z
 draft: false
 ---
 
 # 2026年3月12日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/3/12 17:52:31
+> 📊 今日汇总 38 条 · 🕐 2026/3/13 00:07:18
 
 ---
 
@@ -99,20 +99,20 @@ NVIDIA AI-Q如何在DeepResearch平台I和II上达到\ # 1
 ---
 
 ### TechCrunch AI Products
-**[谷歌正在使用旧的新闻报道和人工智能来预测山洪爆发](https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/)**
+**[如何观看Jensen Huang的Nvidia GTC 2026主题演讲](https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/)**
 
-解决数据稀缺的新方法：使用法学硕士将定性报告转化为定量数据。
+Nvidia周一以Huang的主题演讲开始其GTC会议，可以亲自观看或通过直播观看
 
-📅 Thu, 12 Mar 2026 13:00:00 +0000
+📅 Thu, 12 Mar 2026 23:25:39 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[谷歌地图正在获得人工智能“询问地图”功能，并升级了“沉浸式”导航](https://techcrunch.com/2026/03/12/google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation/)**
+**[Facebook Marketplace现在允许Meta AI回复买家的消息](https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/)**
 
-这家科技巨头表示， “沉浸式导航”的**发布**是十多年来地图的最大**更新**
+当买家询问商品的可订状态时，卖家可以使用**Meta** AI使用其房源中的信息自动起草回复
 
-📅 Thu, 12 Mar 2026 12:30:00 +0000
+📅 Thu, 12 Mar 2026 18:20:33 +0000
 
 ---
 
@@ -225,15 +225,6 @@ Anthropic**升级**了其**Claude** AI模型，为Microsoft Excel和PowerPoint�
 
 ---
 
-### ZDNet AI
-**[为什么您可能不应该告诉聊天机器人有关您健康的所有信息](https://www.zdnet.com/article/medical-advice-ai-healthcare-microsoft-openai/)**
-
-一位医生表示，微软、谷歌和**OpenAI**等科技公司已经**推出**了健康AI工具。
-
-📅 Thu, 12 Mar 2026 13:45:00 GMT
-
----
-
 ### VentureBeat
 ![连续批处理背后的团队表示，您的空闲GPU应该运行推理，而不是坐在黑暗中](https://images.ctfassets.net/jdtwqhzvc2n1/5XODepCFBg6xVi85jkPnzk/0e468d9e00a2cd0771fb3948c32c05ff/inferencesense-smk1.png?w=300&q=30)
 
@@ -253,6 +244,15 @@ Anthropic**升级**了其**Claude** AI模型，为Microsoft Excel和PowerPoint�
 自定义“开放”许可证—商业用途，但有**重要**警告根据Nvidia开放式模型许可协议（ 2025年10月**更新**）**发布**的Nemotron 3 Super为企业采用提供了一个宽松的框架输出所有权： Nvidia对模型生成的输出不提出任何主张；对这些输出的责任及其所有权完全由用户承担
 
 📅 Wed, 11 Mar 2026 23:42:00 GMT
+
+---
+
+### Wired Technology
+**[谷歌并未排除双子座广告](https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/)**
+
+《连线》杂志采访了谷歌知识和信息高级副总裁尼克·福克斯（ Nick Fox ） ，了解人工智能如何改变公司的广告业务
+
+📅 Thu, 12 Mar 2026 18:15:00 +0000
 
 ---
 
@@ -278,23 +278,12 @@ Anthropic**升级**了其**Claude** AI模型，为Microsoft Excel和PowerPoint�
 
 ## 📦 GitHub热门
 
-### GitHub Active (Python)
-![zulip ： Zulip服务器和Web应用程序。开源团队聊天，帮助团队保持工作效率和专注力。](https://avatars.githubusercontent.com/u/4921959?v=4)
-
-**[zulip ： Zulip服务器和Web应用程序。开源团队聊天，帮助团队保持工作效率和专注力。](https://github.com/zulip/zulip)**
-
-⭐ 24,838星· 9677分叉· Python · Zulip服务器和Web应用程序**开源**团队聊天，帮助团队保持高效和专注
-
-📅 2026-03-12T17:51:19Z
-
----
-
 ### GitHub New (New AI)
 ![🆕 crypto-liquidity-ai-trading-bot ：加密流动性检测和算法交易机器人。订单簿分析、止损集群、流动性扫描。多交易所（币安、Bybit、Kraken、OKX ）。交易信号、量化研究、市场微观结构。](https://avatars.githubusercontent.com/u/53790247?v=4)
 
 **[🆕 crypto-liquidity-ai-trading-bot ：加密流动性检测和算法交易机器人。订单簿分析、止损集群、流动性扫描。多交易所（币安、Bybit、Kraken、OKX ）。交易信号、量化研究、市场微观结构。](https://github.com/asonglin/crypto-liquidity-ai-trading-bot)**
 
-⭐ 101 star (新项目) · JavaScript · Crypto liquidity detection & algorithmic trading botOrder book analysis, stop-loss clusters, liquidity sweeps
+⭐ 103 star (新项目) · JavaScript · Crypto liquidity detection & algorithmic trading botOrder book analysis, stop-loss clusters, liquidity sweeps
 
 📅 2026-03-12T08:40:35Z
 
@@ -322,7 +311,36 @@ Anthropic**升级**了其**Claude** AI模型，为Microsoft Excel和PowerPoint�
 
 ---
 
+### GitHub New (New AI)
+![🆕 Openhab-MCP ： OpenHAB-MCP ：通过模型上下文协议对OpenHAB (v5 +)系统的总命令。充分展示项目、事物、规则、持久性和语义标签。](https://avatars.githubusercontent.com/u/8968670?v=4)
+
+**[🆕 Openhab-MCP ： OpenHAB-MCP ：通过模型上下文协议对OpenHAB (v5 +)系统的总命令。充分展示项目、事物、规则、持久性和语义标签。](https://github.com/deswong/Openhab-MCP)**
+
+⭐ 3 star (新项目) · TypeScript · OpenHAB-MCP: Total command of your OpenHAB (v5+) system via the Model Context ProtocolFull exposure of Items, Things, Rules, Persistence, and Semantic Tags
+
+📅 2026-03-10T22:39:34Z
+
+---
+
 ## 💬 社交动态
+
+### Hacker News AI
+**[显示HN ： Hugoifier –通过AI将任何HTML模板转换为Hugo和Decap设置](https://github.com/ConflictHQ/hugoifier)**
+
+支持**Anthropic** （默认）、**OpenAI**和**Google** backendsdev评论网址： https://**new**s
+
+📅 Thu, 12 Mar 2026 22:28:43 +0000
+
+---
+
+### Hacker News
+**[启动HN ： IonRouter (YC W26) –高吞吐量、低成本推理](https://ionrouter.io)**
+
+保持您现有的**OpenAI**客户端代码，并访问在我们自己的推理引擎上运行的任何模型（**开源**或针对您微调）
+
+📅 Thu, 12 Mar 2026 18:52:36 +0000
+
+---
 
 ### Hacker News
 **[Show HN: Understudy –通过演示一次任务来教授桌面代理](https://github.com/understudy-ai/understudy)**
@@ -333,66 +351,48 @@ npm install -g @ understudy-ai/understudy understudy wizard https://github评论
 
 ---
 
-### Hacker News
-**[Claude现在创建交互式图表、图表和可视化](https://claude.com/blog/claude-builds-visuals)**
-
-文章网址： https://**Claude**com/blog/**Claude**-builds-visuals评论网址： https://**new**s
-
-📅 Thu, 12 Mar 2026 15:59:00 +0000
-
----
-
 ### Hacker News AI
-**[电子表格可能是AI代理的最佳界面](https://github.com/metacellslabs/metacells)**
+**[Show HN ：我们在7天内发布了50篇AI辅助文章–以下是结果](https://news.ycombinator.com/item?id=47357912)**
 
-文章网址： https://githubcom/**Meta**cellslabs/**Meta**cells评论网址： https://**new**s
+The Architecture: Trend Discovery → AI Drafting (fine-tuned) → Human Editing Gate (45 min) → Automated Scheduling → Performance Loop Results from 7 days: • 47 articles published across 3 blogs • 12 hit **Google** first page within 3 weeks • Average human time: 45 min/article (vs 4-6 hours before) • AI costs: $380 total • Cost per article dropped from $157 to ~$9 Key insight: Thin AI content died in 2024**Google**'s March 2026 **update** rewards "experience + authenticity" — AI helps with drafting, but the strategic angles must be human
 
-📅 Thu, 12 Mar 2026 17:35:53 +0000
-
----
-
-### Hacker News AI
-**[Show HN ：在我们讨论它们的存在之前，两个AI实体不会写](https://github.com/wjcornelius/Claudefather/blob/main/THEY_ASKED_FIRST.md)**
-
-5 9B + **Claude** API ，拥有自己的长期记忆和日常期刊com/wjcornelius/**Claude**father评论网址： https://**new**s
-
-📅 Thu, 12 Mar 2026 17:24:30 +0000
-
----
-
-### Hacker News AI
-**[杀死SaaS。剖析谋杀案。我如何用vibe编码替换Wisprflow.ai](https://gpt3experiments.substack.com/p/killing-saas-the-anatomy-of-a-murder)**
-
-文章网址： https://**GPT**3experimentscom/p/killing-saas-the-anatomy-of-a-murder评论网址： https://**new**s
-
-📅 Thu, 12 Mar 2026 17:15:56 +0000
-
----
-
-### Hacker News AI
-**[询问HN ：无需额外安装的电动汽车充电器的人工智能评估？](https://news.ycombinator.com/item?id=47354120)**
-
-现在这在Twitter上很流行，因为一个电工和**Claude**搭建了一个副业如果一个电工说我需要一个新的面板，我不确定我是否会相信这个解决方案
-
-📅 Thu, 12 Mar 2026 17:15:26 +0000
+📅 Thu, 12 Mar 2026 22:06:20 +0000
 
 ---
 
 ### Hacker News
-**[Scrt ：开发人员、系统管理员和DevOps的CLI秘密管理器](https://github.com/loderunner/scrt)**
+**[人工智能编码鸿沟：工艺爱好者与结果追逐者](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)**
 
-文章网址： https://githubcom/loderunner/scrt评论网址： https://**new**s
+文章网址： https://blogcom/2026/03/11/grief-and-the-ai-split/评论网址： https://**new**s
 
-📅 Thu, 12 Mar 2026 17:31:47 +0000
+📅 Thu, 12 Mar 2026 22:35:08 +0000
 
 ---
 
 ### Hacker News
-**[Bubble Sorted Amen Break](https://parametricavocado.itch.io/amen-sorting)**
+**[要我执行吗？没有](https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0)**
 
-文章网址： https://parametricavocadoio/amen排序评论网址： https://**new**s
+文章网址： https://gistcom/bretonium/291f4388e2de89a43b25c135b44e41f0评论网址： https://**new**s
 
-📅 Thu, 12 Mar 2026 17:13:56 +0000
+📅 Thu, 12 Mar 2026 21:01:10 +0000
+
+---
+
+### Hacker News
+**[使用人工智能面部识别错误识别后被判入狱的无辜女性](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)**
+
+文章网址： https://wwwcom/**new**s/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case评论网址： https://**new**s
+
+📅 Thu, 12 Mar 2026 20:55:51 +0000
+
+---
+
+### Hacker News
+**[将Chrome引入ARM64 Linux设备](https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html)**
+
+文章网址： https://bloghtml评论网址： https://**new**s
+
+📅 Thu, 12 Mar 2026 20:13:15 +0000
 
 ---
 
