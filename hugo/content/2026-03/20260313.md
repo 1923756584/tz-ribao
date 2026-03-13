@@ -1,12 +1,12 @@
 ---
 title: "2026年3月13日 - TZ日报"
-date: 2026-03-13T15:52:30.024Z
+date: 2026-03-13T23:40:26.731Z
 draft: false
 ---
 
 # 2026年3月13日 - TZ日报
 
-> 📊 今日汇总 34 条 · 🕐 2026/3/13 15:52:30
+> 📊 今日汇总 38 条 · 🕐 2026/3/13 23:40:26
 
 ---
 
@@ -15,6 +15,7 @@ draft: false
 - **产品更新**: 10 条
 - **前沿研究**: 8 条
 - **行业展望**: 8 条
+- **GitHub热门**: 4 条
 - **社交动态**: 8 条
 
 ---
@@ -40,18 +41,18 @@ Chat**GPT**如何通过限制风险操作和保护代理工作流程中的敏感
 ---
 
 ### OpenAI Blog
-**[从模型到代理：为Responses API配备计算机环境](https://openai.com/index/equip-responses-api-computer-environment)**
+**[Wayfair通过OpenAI提高目录准确性和支持速度](https://openai.com/index/wayfair)**
 
-**OpenAI**如何使用响应API和托管容器构建代理运行时以安全运行
+Wayfair使用**OpenAI**模型来改善电子商务支持和产品目录的准确性，自动化工单分类并大规模增强数百万个产品属性
 
 📅 Wed, 11 Mar 2026 11:00:00 GMT
 
 ---
 
 ### OpenAI Blog
-**[Wayfair通过OpenAI提高目录准确性和支持速度](https://openai.com/index/wayfair)**
+**[从模型到代理：为Responses API配备计算机环境](https://openai.com/index/equip-responses-api-computer-environment)**
 
-Wayfair使用**OpenAI**模型来改善电子商务支持和产品目录的准确性，自动化工单分类并大规模增强数百万个产品属性
+**OpenAI**如何使用响应API和托管容器构建代理运行时以安全运行
 
 📅 Wed, 11 Mar 2026 11:00:00 GMT
 
@@ -68,6 +69,24 @@ Wayfair使用**OpenAI**模型来改善电子商务支持和产品目录的准确
 
 ---
 
+### Hugging Face
+**[超越语义相似性：介绍NVIDIA NeMo Retriever的可通用代理检索管道](https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval)**
+
+超越语义相似性：介绍NVIDIA NeMo Retriever的可通用代理检索管道
+
+📅 Fri, 13 Mar 2026 20:00:00 GMT
+
+---
+
+### TechCrunch AI Products
+**[一位风险投资人称之为“十年交易”的$ 32B收购](https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/)**
+
+根据Index Ventures合伙人Shardul Shah的说法，网络安全初创公司Wiz “处于三大顺风的中心：人工智能、云和安全支出”这些顺风推动了刚刚成为历史上最大的风险投资支持收购--谷歌320亿美元的交易
+
+📅 Fri, 13 Mar 2026 16:20:23 +0000
+
+---
+
 ### TechCrunch AI Products
 **[如何观看Jensen Huang的Nvidia GTC 2026主题演讲](https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/)**
 
@@ -78,38 +97,20 @@ Wayfair使用**OpenAI**模型来改善电子商务支持和产品目录的准确
 ---
 
 ### TechCrunch AI Products
-**[Facebook Marketplace现在允许Meta AI回复买家的消息](https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/)**
+**[Nyne由父子二人组创立，为人工智能代理提供他们缺少的人类背景](https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/)**
 
-当买家询问商品的可订状态时，卖家可以使用**Meta** AI使用其房源中的信息自动起草回复
+这家数据基础设施初创公司筹集了5300万美元的种子资金，由Wischoff Ventures和South Park Commons领投
 
-📅 Thu, 12 Mar 2026 18:20:33 +0000
-
----
-
-### AI News
-**[ABB ：物理AI模拟提高了工厂自动化的投资回报率](https://www.artificialintelligence-news.com/news/abb-physical-ai-simulation-secures-factory-automation-roi/)**
-
-核心问题是数字培训模型与实际工厂车间之间的差距， […]后ABB ：物理AI模拟提高了工厂自动化的投资回报率**首次**出现在人工智能新闻
-
-📅 Tue, 10 Mar 2026 17:22:41 +0000
-
----
-
-### Hugging Face
-**[构建像数据科学家一样思考的代理：我们如何通过可重用工具生成在DABStep上获得第一名](https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place)**
-
-构建像数据科学家一样思考的代理：我们如何通过可重用工具生成在DABStep上获得第一名
-
-📅 Fri, 13 Mar 2026 01:02:47 GMT
+📅 Fri, 13 Mar 2026 21:37:01 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[孔雀扩展到人工智能驱动的视频、移动优先的直播体育和游戏](https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/)**
+**[史蒂文斯皮尔伯格说，他在任何电影中“从未使用过人工智能”](https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/)**
 
-Peacock正在押注新的人工智能视频体验、垂直剪辑和手机游戏，以帮助其增长
+在SXSW ，史蒂文·斯皮尔伯格（ Steven Spielberg ）表示，人工智能在许多领域都有用，但在电影和电视写作中取代创意人物方面却没有用
 
-📅 Fri, 13 Mar 2026 14:00:00 +0000
+📅 Fri, 13 Mar 2026 19:47:58 +0000
 
 ---
 
@@ -244,17 +245,6 @@ Anthropic**升级**了其**Claude** AI模型，为Microsoft Excel和PowerPoint�
 
 ---
 
-### The Verge
-![Pixel Buds Pro 2是170 $可以买到的最好的无线耳机](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25640459/DSC_0133.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[Pixel Buds Pro 2是170 $可以买到的最好的无线耳机](https://www.theverge.com/gadgets/894392/google-pixel-buds-pro-2-deal-sale)**
-
-我从2021年**发布**的Pixel A系列耳机**升级**到Pixel Buds Pro 2如果您计划很快**升级**，该型号刚刚恢复到有史以来的最低价格$ 169
-
-📅 2026-03-13T15:16:58.000Z
-
----
-
 ### MIT Tech Review
 **[下载：人工智能如何用于军事目标，以及五角大楼对克劳德的战争](https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/)**
 
@@ -273,79 +263,132 @@ Anthropic**升级**了其**Claude** AI模型，为Microsoft Excel和PowerPoint�
 
 ---
 
+### Ars Technica
+**[Google Fiber将出售给私募股权公司并与有线电视公司合并](https://arstechnica.com/tech-policy/2026/03/google-fiber-will-be-sold-to-private-equity-firm-and-merge-with-cable-company/)**
+
+GFiber和Astound将与Alphabet合并，将多数股权出售给Stonepeak。
+
+📅 Fri, 13 Mar 2026 20:57:54 +0000
+
+---
+
+## 📦 GitHub热门
+
+### GitHub Active (Python)
+![zulip ： Zulip服务器和Web应用程序。开源团队聊天，帮助团队保持工作效率和专注力。](https://avatars.githubusercontent.com/u/4921959?v=4)
+
+**[zulip ： Zulip服务器和Web应用程序。开源团队聊天，帮助团队保持工作效率和专注力。](https://github.com/zulip/zulip)**
+
+⭐ 24,846星· 9680分叉· Python · Zulip服务器和Web应用程序**开源**团队聊天，帮助团队保持高效和专注
+
+📅 2026-03-13T23:38:48Z
+
+---
+
+### GitHub Active (AI/ML)
+![TradingView-Machine-Learning-GUI ：使用此项目的高级止损/止损利润生成器开始您的交易之旅，增强您的TradingView策略。利用sklearn的机器学习算法进行卓越的策略优化，最大限度地发挥您的交易潜力。](https://avatars.githubusercontent.com/u/59729477?v=4)
+
+**[TradingView-Machine-Learning-GUI ：使用此项目的高级止损/止损利润生成器开始您的交易之旅，增强您的TradingView策略。利用sklearn的机器学习算法进行卓越的策略优化，最大限度地发挥您的交易潜力。](https://github.com/TreborNamor/TradingView-Machine-Learning-GUI)**
+
+⭐ 905星· 248分叉· HTML ·使用此项目的高级止损/止盈策略开始您的交易旅程，提高您的TradingView策略
+
+📅 2026-03-13T23:38:26Z
+
+---
+
+### GitHub New (New AI)
+![🆕 crypto-liquidity-ai-trading-bot ：加密流动性检测和算法交易机器人。订单簿分析、止损集群、流动性扫描。多交易所（币安、Bybit、Kraken、OKX ）。交易信号、量化研究、市场微观结构。](https://avatars.githubusercontent.com/u/53790247?v=4)
+
+**[🆕 crypto-liquidity-ai-trading-bot ：加密流动性检测和算法交易机器人。订单簿分析、止损集群、流动性扫描。多交易所（币安、Bybit、Kraken、OKX ）。交易信号、量化研究、市场微观结构。](https://github.com/asonglin/crypto-liquidity-ai-trading-bot)**
+
+⭐ 104 star (新项目) · JavaScript · Crypto liquidity detection & algorithmic trading botOrder book analysis, stop-loss clusters, liquidity sweeps
+
+📅 2026-03-12T08:40:35Z
+
+---
+
+### GitHub New (New AI)
+![LLM🆕 注射器：用于LLM快速注射测试的打嗝套件扩展](https://avatars.githubusercontent.com/u/60771253?v=4)
+
+**[LLM🆕 注射器：用于LLM快速注射测试的打嗝套件扩展](https://github.com/anmolksachan/LLMInjector)**
+
+⭐ 23 star (新项目) · Python · Burp Suite Extension for LLM Prompt Injection Testing
+
+📅 2026-03-10T05:35:01Z
+
+---
+
 ## 💬 社交动态
 
 ### Hacker News
-**[启动HN ： Spine Swarm (YC S23) –在视觉画布上协作的人工智能代理](https://www.getspine.ai/)**
+**[显示HN ：上下文网关–在到达LLM之前压缩代理上下文](https://github.com/Compresr-ai/Context-Gateway)**
 
-Chat**GPT**是一个爆炸的演示，聊天被作为默认界面存在，而不是因为它是正确的抽象每个块都是我们对人工智能模型的抽象
+我们构建了一个位于编码代理之间的**开源**代理（ **Claude** Code、OpenClaw等）长上下文基准测试始终显示，随着上下文的增长，准确率急剧下降（ **OpenAI**的**GPT**-5
 
-📅 Fri, 13 Mar 2026 13:22:40 +0000
-
----
-
-### Hacker News AI
-**[显示HN ： UberSKILLS –用于培养人工智能客服代表技能的开源工作台](https://github.com/uberskillsdev/uberskills)**
-
-md文件）是可重用的指令集，教授代码代理（如**Claude** Code、GitHub Copilot、Cursor和Windsurf ）如何通过实时验证执行特定任务和文件模板-多模型测试-针对OpenRouter上的任何模型测试您的技能（ **Claude**
-
-📅 Fri, 13 Mar 2026 15:16:46 +0000
-
----
-
-### Reddit: r/MachineLearning
-**[[P]可视化验证作为LLM代码生成的反馈循环](https://www.reddit.com/r/MachineLearning/comments/1rrzwp9/p_visual_verification_as_a_feedback_loop_for_llm/)**
-
-我构建了一个自主流水线，该流水线从文本提示生成可玩的Godot游戏，但精确的参考覆盖了GDScript与模型预期的差异（实例化()上的类型推断失败，因为它返回Variant
-
-📅 2026-03-12T19:06:11.000Z
-
----
-
-### Reddit: r/singularity
-**[ChatGPT Plus与Claude Pro的数学，编码和研究—值得为学生升级$ 20 ？](https://www.reddit.com/r/singularity/comments/1rsoglf/chatgpt_plus_vs_claude_pro_for_math_coding/)**
-
-在过去的几年里， Chat**GPT**基本上成为了我的主要学习伙伴在过去的几个月里，我一直在使用Chat**GPT** Go计划
-
-📅 2026-03-13T14:14:02.000Z
-
----
-
-### Reddit: r/singularity
-![美团开源LongCat-Image-Edit-Turbo ，这是一种蒸馏图像编辑模型，仅需8个推理步骤即可实现开源SOTA](https://preview.redd.it/inbne327hsog1.jpg?width=140&amp;height=39&amp;auto=webp&amp;s=338dbec49244af5b75a36d9ef73761d62647ccf7)
-
-**[美团开源LongCat-Image-Edit-Turbo ，这是一种蒸馏图像编辑模型，仅需8个推理步骤即可实现开源SOTA](https://www.reddit.com/r/singularity/comments/1rsjmr9/meituan_open_sources_longcatimageeditturbo_a/)**
-
-50 （**开源**SOTA ，接近顶级闭源模型） ，在GEdit-Bench上，它达到了7另一个训练有素的中国**开源**模型超出其重量级的例子
-
-📅 2026-03-13T10:26:26.000Z
-
----
-
-### X: OpenAI
-**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-网址来源： http://twitter.com/**OpenAI**
-
-📅 2026-03-13T15:45:34.384Z
+📅 Fri, 13 Mar 2026 17:58:22 +0000
 
 ---
 
 ### Hacker News AI
-**[Show HN ：为AI代理执行确定性安全性的3行包装器](https://news.ycombinator.com/item?id=47365599)**
+**[谷歌正在使用旧的新闻报道和人工智能来预测山洪爆发](https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/)**
 
-错误配置的提示或幻觉可能会导致专员导航到网络钓鱼域名目前的标准修复方法是「LLM-as-a-judge」-事后拍摄屏幕截图，并询问**GPT**-4 ：「这项工作是否成功，是否安全
+文章网址： https://techcrunchcom/2026/03/12/**Google**-is-using-old-**new**s-reports-and-ai-to-predict-flash-floods/评论网址： https://**new**s
 
-📅 Fri, 13 Mar 2026 15:14:40 +0000
+📅 Fri, 13 Mar 2026 22:48:37 +0000
 
 ---
 
-### Hacker News AI
-**[Anthropic在2026年选举之前为团体推动人工智能法规提供2000万$](https://www.cnbc.com/2026/02/12/anthropic-gives-20-million-to-group-pushing-for-ai-regulations-.html)**
+### X: Paul Graham
+**[Title: twitter.com](https://r.jina.ai/http://twitter.com/paulg)**
 
-com/2026/02/12/**Anthropic**-gives-20-million-to-group-pushing-for-ai-regulations-html评论网址： https://**new**s
+Title: twitter.com
 
-📅 Fri, 13 Mar 2026 14:52:58 +0000
+📅 2026-03-13T23:39:23.848Z
+
+---
+
+### X: Paul Graham
+**[网址来源： http://twitter.com/paulg](https://r.jina.ai/http://twitter.com/paulg)**
+
+网址来源： http://twitter.com/paulg
+
+📅 2026-03-13T23:39:23.848Z
+
+---
+
+### X: Paul Graham
+**[警告：目标URL返回错误500 ：内部服务器错误](https://r.jina.ai/http://twitter.com/paulg)**
+
+警告：目标URL返回错误500 ：内部服务器错误
+
+📅 2026-03-13T23:39:23.848Z
+
+---
+
+### X: Paul Graham
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/paulg)**
+
+Markdown 内容
+
+📅 2026-03-13T23:39:23.848Z
+
+---
+
+### X: Paul Graham
+**[此页面无法正常工作](https://r.jina.ai/http://twitter.com/paulg)**
+
+此页面无法正常工作
+
+📅 2026-03-13T23:39:23.848Z
+
+---
+
+### Hacker News
+**[我恳求你遵守克罗克的规则，即使你对我很粗鲁](https://lr0.org/blog/p/crocker/)**
+
+文章网址： https://lr0org/blog/p/crocker/评论网址： https://**new**s
+
+📅 Fri, 13 Mar 2026 23:14:37 +0000
 
 ---
 
