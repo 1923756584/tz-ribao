@@ -1,12 +1,12 @@
 ---
 title: "2026年3月14日 - TZ日报"
-date: 2026-03-14T15:39:17.077Z
+date: 2026-03-14T23:39:39.366Z
 draft: false
 ---
 
 # 2026年3月14日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/3/14 15:39:17
+> 📊 今日汇总 38 条 · 🕐 2026/3/14 23:39:39
 
 ---
 
@@ -43,11 +43,29 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[一位风险投资人称之为“十年交易”的$ 32B收购](https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/)**
+**[据报道， Meta正在考虑可能影响公司20%股权的裁员](https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/)**
 
-根据Index Ventures合伙人Shardul Shah的说法，网络安全初创公司Wiz “处于三大顺风的中心：人工智能、云和安全支出”这些顺风推动了刚刚成为历史上最大的风险投资支持收购--谷歌320亿美元的交易
+这些裁员可以帮助Facebook的母公司抵消其在人工智能基础设施方面的激进支出，以及与人工智能相关的收购和招聘
 
-📅 Fri, 13 Mar 2026 16:20:23 +0000
+📅 Sat, 14 Mar 2026 16:28:42 +0000
+
+---
+
+### TechCrunch AI Products
+**[如何使用新的ChatGPT应用集成，包括DoorDash、Spotify、优步等](https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/)**
+
+了解如何直接在Chat**GPT**中使用Spotify、Canva、Figma、Expedia和其他应用程序。
+
+📅 Sat, 14 Mar 2026 13:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[美国陆军宣布与Anduril签订价值高达200亿美元的合同](https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/)**
+
+陆军将其描述为一个单一的企业合同，合并了120多个单独的“采购行动”
+
+📅 Sat, 14 Mar 2026 20:47:47 +0000
 
 ---
 
@@ -93,24 +111,6 @@ draft: false
 人工智能行业不断涌现新闻般的**重大**收购
 
 📅 Fri, 13 Mar 2026 19:38:11 +0000
-
----
-
-### TechCrunch AI Products
-**[NanoClaw创始人狂野的六周，促成了与Docker的交易](https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/)**
-
-Gavriel Cohen正在实现**开源**开发人员的梦想，因为他的项目在几周内就获得了赞誉并与Docker建立了合作伙伴关系
-
-📅 Fri, 13 Mar 2026 17:09:59 +0000
-
----
-
-### TechCrunch AI Products
-**[Spotify将允许您编辑您的口味配置文件以控制您的推荐](https://techcrunch.com/2026/03/13/spotify-will-let-you-edit-your-taste-profile-to-control-your-recommendations/)**
-
-编辑口味个人资料时，您将影响个性化播放列表，如“每周发现”、“推荐”和“包装”
-
-📅 Fri, 13 Mar 2026 17:04:12 +0000
 
 ---
 
@@ -191,17 +191,6 @@ Gavriel Cohen正在实现**开源**开发人员的梦想，因为他的项目在
 ## 🌍 行业展望
 
 ### VentureBeat
-![Google的Gemini Embedding 2提供原生多模式支持，可降低成本并加快企业数据堆栈的速度](https://images.ctfassets.net/jdtwqhzvc2n1/3vvg9fxNbEhWLukkaKhewr/1f71cde82aba4ca35ea01e53c11b6502/Gemini_Generated_Image_fo30n7fo30n7fo30.png?w=300&q=30)
-
-**[Google的Gemini Embedding 2提供原生多模式支持，可降低成本并加快企业数据堆栈的速度](https://venturebeat.com/data/googles-gemini-embedding-2-arrives-with-native-multimodal-support-to-cut)**
-
-谷歌宣布了它对企业客户最**重要**的一个： **Gemini** Embedding 2**Google**的公开预览版：新的**Gemini**和以前的Gecko型号
-
-📅 Wed, 11 Mar 2026 16:16:00 GMT
-
----
-
-### VentureBeat
 ![Y Combinator支持的Random Labs推出Slate V1 ，声称拥有第一个“swarm-native”编码代理](https://images.ctfassets.net/jdtwqhzvc2n1/5wrN5vDRIVeyBLrCcNGV2o/440a899f23a0b3eea19896bdf81c87f8/Gemini_Generated_Image_sdydoasdydoasdyd.png?w=300&q=30)
 
 **[Y Combinator支持的Random Labs推出Slate V1 ，声称拥有第一个“swarm-native”编码代理](https://venturebeat.com/orchestration/y-combinator-backed-random-labs-launches-slate-v1-claiming-the-first-swarm)**
@@ -209,17 +198,6 @@ Gavriel Cohen正在实现**开源**开发人员的梦想，因为他的项目在
 开发人员可以让**Claude** Sonnet协调复杂的重构，而**GPT**-5Random Labs最近宣布，下周将**发布**对**OpenAI**的Codex和**Anthropic**的**Claude** Code的直接支持
 
 📅 Fri, 13 Mar 2026 00:00:00 GMT
-
----
-
-### VentureBeat
-![Anthropic为Claude提供跨Microsoft Excel和PowerPoint的共享上下文，在多个应用程序中实现可重用的工作流程](https://images.ctfassets.net/jdtwqhzvc2n1/2YZHOr0Zab4eYlCMcaBIOX/37b646114f02c8f8e37eec2148696ed2/crimedy7_illustration_of_robots_under_a_rain_of_spreadsheets__631ae88e-eea4-4112-99bd-915adbc54ca8_0.png?w=300&q=30)
-
-**[Anthropic为Claude提供跨Microsoft Excel和PowerPoint的共享上下文，在多个应用程序中实现可重用的工作流程](https://venturebeat.com/orchestration/anthropic-gives-claude-shared-context-across-microsoft-excel-and-powerpoint)**
-
-Anthropic**升级**了其**Claude** AI模型，为Microsoft Excel和PowerPoint提供了新功能，这是一项战略举措，旨在扩大其企业足迹，并可能挑战微软新**推出**的Copilot Cowork （ **Claude**也为其提供了部分动力）
-
-📅 Wed, 11 Mar 2026 18:13:00 GMT
 
 ---
 
@@ -254,6 +232,17 @@ Anthropic**升级**了其**Claude** AI模型，为Microsoft Excel和PowerPoint�
 
 ---
 
+### The Verge
+![Hulu、Disney Plus和Pixel Watch 4是本周最优惠的价格之一](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK061_hulu_03.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[Hulu、Disney Plus和Pixel Watch 4是本周最优惠的价格之一](https://www.theverge.com/gadgets/894699/hulu-disney-plus-subscription-oscars-google-pixel-watch-4-deal-sale)**
+
+**Google** Pixel Watch 4降至新的低价您还可以使用Raise-to-Talk手势与**Google** **Gemini**进行免提通话，这在您外出奔跑时很有帮助
+
+📅 2026-03-14T15:46:28.000Z
+
+---
+
 ### MIT Tech Review
 **[下载：人工智能如何用于军事目标，以及五角大楼对克劳德的战争](https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/)**
 
@@ -272,18 +261,16 @@ GFiber和Astound将与Alphabet合并，将多数股权出售给Stonepeak。
 
 ---
 
-## 📦 GitHub热门
+### ZDNet AI
+**[我为什么使用苹果和谷歌的密码管理器，而不介意混乱](https://www.zdnet.com/article/why-i-use-apples-and-googles-password-managers/)**
 
-### GitHub Active (AI/ML)
-![screenpipe ： screenpipe将您的计算机转变为个人人工智能，了解您所做的一切。记录。搜索。自动化。所有本地，所有私人，所有您的。](https://avatars.githubusercontent.com/u/259178917?v=4)
+密码管理器非常适合保护您的信息安全，并不是每个人都需要一个花哨的密码管理器，原因如下
 
-**[screenpipe ： screenpipe将您的计算机转变为个人人工智能，了解您所做的一切。记录。搜索。自动化。所有本地，所有私人，所有您的。](https://github.com/screenpipe/screenpipe)**
-
-⭐ 17,220星· 1460叉· Rust · screenpipe将您的计算机转变为个人人工智能，它知道您所做的一切，所有本地，所有私人，所有您的
-
-📅 2026-03-14T15:37:40Z
+📅 Sat, 14 Mar 2026 11:00:58 GMT
 
 ---
+
+## 📦 GitHub热门
 
 ### GitHub New (New AI)
 ![🆕 crypto-liquidity-ai-trading-bot ：加密流动性检测和算法交易机器人。订单簿分析、止损集群、流动性扫描。多交易所（币安、Bybit、Kraken、OKX ）。交易信号、量化研究、市场微观结构。](https://avatars.githubusercontent.com/u/53790247?v=4)
@@ -318,77 +305,88 @@ GFiber和Astound将与Alphabet合并，将多数股权出售给Stonepeak。
 
 ---
 
+### GitHub New (New AI)
+![🆕 FRAE ： FRAE-S ：流体共振优势估计—稳定的Navier-Stokes启发的参与者-批评者强化学习优势估计器](https://avatars.githubusercontent.com/u/162272415?v=4)
+
+**[🆕 FRAE ： FRAE-S ：流体共振优势估计—稳定的Navier-Stokes启发的参与者-批评者强化学习优势估计器](https://github.com/Devanik21/FRAE)**
+
+⭐ 2 star (新项目) · Jupyter Notebook · FRAE-S: Fluid Resonance Advantage Estimation — Stable A Navier-Stokes Inspired Advantage Estimator for Actor-Critic Reinforcement Learning
+
+📅 2026-03-13T14:02:17Z
+
+---
+
 ## 💬 社交动态
 
+### Hacker News
+**[Anthropic向Claude合作伙伴网络投资$ 1亿](https://www.anthropic.com/news/claude-partner-network)**
+
+文章网址： https://wwwcom/**new**s/**Claude**-partner-network评论网址： https://**new**s
+
+📅 Sat, 14 Mar 2026 21:23:42 +0000
+
+---
+
+### Hacker News
+**[Claude 2026年3月使用促销](https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion)**
+
+**Claude**com/en/articles/14063676-**Claude**-march-2026-usage-promotion评论网址： https://**new**s
+
+📅 Sat, 14 Mar 2026 20:08:54 +0000
+
+---
+
 ### Hacker News AI
-**[科技巨头的人工智能雄心如何助长借贷热潮](https://www.bloomberg.com/news/articles/2026-03-12/how-amazon-meta-and-google-are-fueling-a-big-tech-borrowing-boom-for-ai)**
+**[德黑兰劫持AI](https://www.dailymail.co.uk/debate/article-15640991/ChatGPT-Islamic-terrorist-propaganda.html)**
 
-文章网址： https://wwwcom/**new**s/articles/2026-03-12/how-amazon-**Meta**-and-**Google**-are-fueling-a-big-tech-borrowing-boom-for-ai评论网址： https://**new**s
+uk/debate/article-15640991/Chat**GPT**-Islamic-terrorist-propagandahtml评论网址： https://**new**s
 
-📅 Sat, 14 Mar 2026 14:52:46 +0000
-
----
-
-### X: DeepSeek
-**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
-
-网址来源： http://twitter.com/**DeepSeek**_ai
-
-📅 2026-03-14T15:36:11.731Z
+📅 Sat, 14 Mar 2026 23:24:41 +0000
 
 ---
 
-### Hacker News AI
-**[元数据权衡20 ％的劳动力裁员以抵消人工智能基础设施成本：报告](https://www.foxbusiness.com/technology/meta-eyes-massive-20-workforce-cut-ai-infrastructure-costs-continue-soar-across-operations-report)**
+### Hacker News
+**[污染的声音：耳机含有ING激素干扰化学物质](https://arnika.org/en/news/the-sound-of-contamination-all-analysed-headphones-on-the-central-european-market-found-to-contain-hormone-disrupting-chemicals)**
 
-文章网址： https://wwwcom/technology/**Meta**-eyes-massive-20-workforce-cut-ai-infrastructure-costs-continue-soar-across-operations-report评论网址： https://**new**s
+文章网址： https://arnikaorg/en/**new**s/the-sound-of-contamination-all-analysed-headphones-on-the-central-european-market-found-to-contain-hormone-disrupting-chemicals评论网址： https://**new**s
 
-📅 Sat, 14 Mar 2026 14:43:44 +0000
-
----
-
-### X: DeepSeek
-**[Title: twitter.com](https://r.jina.ai/http://twitter.com/deepseek_ai)**
-
-Title: twitter.com
-
-📅 2026-03-14T15:36:11.731Z
+📅 Sat, 14 Mar 2026 23:00:05 +0000
 
 ---
 
-### X: DeepSeek
-**[警告：目标URL返回错误500 ：内部服务器错误](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+### Hacker News
+**[Ageless Linux。法律要求我们询问您的年龄。我们不会](https://agelesslinux.org/)**
 
-警告：目标URL返回错误500 ：内部服务器错误
+文章网址： https://agelesslinuxorg/评论网址： https://**new**s
 
-📅 2026-03-14T15:36:11.731Z
-
----
-
-### X: DeepSeek
-**[Markdown 内容](https://r.jina.ai/http://twitter.com/deepseek_ai)**
-
-Markdown 内容
-
-📅 2026-03-14T15:36:11.731Z
+📅 Sat, 14 Mar 2026 22:10:26 +0000
 
 ---
 
-### X: DeepSeek
-**[此页面无法正常工作](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+### Hacker News
+**[Steam上OpenTTD分发的更改](https://www.openttd.org/news/2026/03/14/steam-changes)**
 
-此页面无法正常工作
+文章网址： https://wwworg/**new**s/2026/03/14/steam-changes评论网址： https://**new**s
 
-📅 2026-03-14T15:36:11.731Z
+📅 Sat, 14 Mar 2026 22:04:48 +0000
 
 ---
 
-### X: Paul Graham
-**[网址来源： http://twitter.com/paulg](https://r.jina.ai/http://twitter.com/paulg)**
+### Hacker News
+**[学习创意编码](https://stigmollerhansen.dk/resume/learning-creative-coding/)**
 
-网址来源： http://twitter.com/paulg
+文章网址： https://stigmollerhansendk/resume/learning-creative-coding/评论网址： https://**new**s
 
-📅 2026-03-14T15:38:20.306Z
+📅 Sat, 14 Mar 2026 22:02:48 +0000
+
+---
+
+### Hacker News
+**[Show HN: Han –用Rust编写的韩语编程语言](https://github.com/xodn348/han)**
+
+关于语言设计、编译器架构或韩语关键词选择的反馈非常欢迎com/xodn348/han评论网址： https://**new**s
+
+📅 Sat, 14 Mar 2026 21:27:33 +0000
 
 ---
 
