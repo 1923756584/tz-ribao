@@ -1,19 +1,19 @@
 ---
 title: "2026年3月15日 - TZ日报"
-date: 2026-03-15T15:40:15.391Z
+date: 2026-03-15T23:39:44.445Z
 draft: false
 ---
 
 # 2026年3月15日 - TZ日报
 
-> 📊 今日汇总 36 条 · 🕐 2026/3/15 15:40:15
+> 📊 今日汇总 35 条 · 🕐 2026/3/15 23:39:44
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 6 条
+- **前沿研究**: 5 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -28,6 +28,15 @@ draft: false
 超越语义相似性：介绍NVIDIA NeMo Retriever的可通用代理检索管道
 
 📅 Fri, 13 Mar 2026 20:00:00 GMT
+
+---
+
+### TechCrunch AI Products
+**[WIZ投资者解开谷歌$ 320亿的收购](https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/)**
+
+Index Ventures的Shardul Shah带领我们完成了谷歌有史以来最大的收购。
+
+📅 Sun, 15 Mar 2026 15:30:33 +0000
 
 ---
 
@@ -50,6 +59,24 @@ draft: false
 ---
 
 ### TechCrunch AI Products
+**[据报道， ByteDance暂停了其Seedance 2.0视频生成器的全球发布](https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/)**
+
+据报道，该公司正在推迟**推出**，因为其工程师和律师正在努力避免进一步的法律问题
+
+📅 Sun, 15 Mar 2026 21:01:51 +0000
+
+---
+
+### TechCrunch AI Products
+**[人工智能精神病案例背后的律师警告大规模伤亡风险](https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/)**
+
+多年来，人工智能聊天机器人一直与自杀有关现在，一位律师表示，它们也出现在大规模伤亡案件中，而且这项技术的发展速度快于保障措施
+
+📅 Sun, 15 Mar 2026 18:49:32 +0000
+
+---
+
+### TechCrunch AI Products
 **[美国陆军宣布与Anduril签订价值高达200亿美元的合同](https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/)**
 
 陆军将其描述为一个单一的企业合同，合并了120多个单独的“采购行动”
@@ -68,15 +95,6 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[人工智能精神病案例背后的律师警告大规模伤亡风险](https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/)**
-
-多年来，人工智能聊天机器人一直与自杀有关现在，一位律师表示，它们也出现在大规模伤亡案件中，而且这项技术的发展速度快于保障措施
-
-📅 Sat, 14 Mar 2026 00:01:02 +0000
-
----
-
-### TechCrunch AI Products
 **[Nyne由父子二人组创立，为人工智能代理提供他们缺少的人类背景](https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/)**
 
 这家数据基础设施初创公司筹集了5300万美元的种子资金，由Wischoff Ventures和South Park Commons领投
@@ -91,24 +109,6 @@ draft: false
 在SXSW ，史蒂文·斯皮尔伯格（ Steven Spielberg ）表示，人工智能在许多领域都有用，但在电影和电视写作中取代创意人物方面却没有用
 
 📅 Fri, 13 Mar 2026 19:47:58 +0000
-
----
-
-### TechCrunch AI Products
-**[今年最大的人工智能故事（到目前为止）](https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/)**
-
-人工智能行业不断涌现新闻般的**重大**收购
-
-📅 Fri, 13 Mar 2026 19:38:11 +0000
-
----
-
-### TechCrunch AI Products
-**[NanoClaw创始人狂野的六周，促成了与Docker的交易](https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/)**
-
-Gavriel Cohen正在实现**开源**开发人员的梦想，因为他的项目在几周内就获得了赞誉并与Docker建立了合作伙伴关系
-
-📅 Fri, 13 Mar 2026 17:09:59 +0000
 
 ---
 
@@ -159,15 +159,6 @@ Gavriel Cohen正在实现**开源**开发人员的梦想，因为他的项目在
 
 ---
 
-### MIT Tech Research
-**[一位国防官员透露了人工智能聊天机器人如何用于定位决策](https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/)**
-
-美国军方可能会使用生成式人工智能系统对目标列表进行排名并提出建议--这些建议将由人类审查--关于首先攻击哪些目标。当五角大楼面临罢工审查时，关于军方如何使用人工智能聊天机器人的披露来了……
-
-📅 Thu, 12 Mar 2026 22:23:34 +0000
-
----
-
 ## 🌍 行业展望
 
 ### VentureBeat
@@ -190,17 +181,6 @@ Gavriel Cohen正在实现**开源**开发人员的梦想，因为他的项目在
 
 ---
 
-### The Verge
-![Hulu、Disney Plus和Pixel Watch 4是本周最优惠的价格之一](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK061_hulu_03.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[Hulu、Disney Plus和Pixel Watch 4是本周最优惠的价格之一](https://www.theverge.com/gadgets/894699/hulu-disney-plus-subscription-oscars-google-pixel-watch-4-deal-sale)**
-
-**Google** Pixel Watch 4降至新的低价您还可以使用Raise-to-Talk手势与**Google** **Gemini**进行免提通话，这在您外出奔跑时很有帮助
-
-📅 2026-03-14T15:46:28.000Z
-
----
-
 ### MIT Tech Review
 **[下载：人工智能如何用于军事目标，以及五角大楼对克劳德的战争](https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/)**
 
@@ -220,11 +200,20 @@ GFiber和Astound将与Alphabet合并，将多数股权出售给Stonepeak。
 ---
 
 ### ZDNet AI
-**[我为什么使用苹果和谷歌的密码管理器，而不介意混乱](https://www.zdnet.com/article/why-i-use-apples-and-googles-password-managers/)**
+**[微软对个人电脑的未来是正确的-它只是用MacBook Neo来证明这一点](https://www.zdnet.com/article/macbook-neo-microsoft-surface-rt-right-idea-wrong-execution/)**
 
-密码管理器非常适合保护您的信息安全，并不是每个人都需要一个花哨的密码管理器，原因如下
+苹果廉价笔记本电脑的成功与微软14年前的Surface RT故障有很大关系
 
-📅 Sat, 14 Mar 2026 11:00:58 GMT
+📅 Sun, 15 Mar 2026 23:26:00 GMT
+
+---
+
+### ZDNet AI
+**[我不再寻找“完美”的密码管理器--我是如何拥抱混乱的](https://www.zdnet.com/article/why-i-use-apples-and-googles-password-managers/)**
+
+这就是为什么我同时使用苹果和谷歌的密码管理器，不要介意。
+
+📅 Sun, 15 Mar 2026 23:03:00 GMT
 
 ---
 
@@ -297,74 +286,74 @@ GFiber和Astound将与Alphabet合并，将多数股权出售给Stonepeak。
 ## 💬 社交动态
 
 ### Hacker News
-**[显示HN ： Signet –通过卫星和天气数据进行自主野火跟踪](https://signet.watch)**
+**[显示HN ：使用ChatGPT帐户免费访问OpenAI API](https://github.com/EvanZhouDev/openai-oauth)**
 
-LANDFIRE燃料模型评论网址： https://**new**s
+文章网址： https://githubcom/EvanZhouDev/**OpenAI**-oauth评论网址： https://**new**s
 
-📅 Sun, 15 Mar 2026 12:01:00 +0000
-
----
-
-### Hacker News AI
-**[StatGPT ：向人工智能询问统计数据的危险](https://conversableeconomist.com/2026/03/13/statgpt-the-dangers-of-asking-ai-about-statistics/)**
-
-文章网址： https://conversableeconomistcom/2026/03/13/stat**GPT**-the-dangers-of-asking-ai-about-statistics/评论网址： https://**new**s
-
-📅 Sun, 15 Mar 2026 15:02:25 +0000
+📅 Sun, 15 Mar 2026 21:29:52 +0000
 
 ---
 
-### Hacker News AI
-**[Mikk –你的人工智能编写了代码，但不知道什么会中断](https://news.ycombinator.com/item?id=47387807)**
+### Hacker News
+**[加拿大的C-22法案要求对加拿大人进行大规模元数据监控](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/)**
 
-1000行AI codejson ，比原始源代码小约60% - **Claude**
+ca/DocumentViewer/en/45-1/bill/C-22/first-r评论网址： https://**new**s
 
-📅 Sun, 15 Mar 2026 14:38:08 +0000
-
----
-
-### Hacker News AI
-**[显示HN ： AntroCode-A零依赖，单文件本地AI客户端， 159个4D克隆](https://github.com/AntroMind/antrocode)**
-
-项目简介AntroCode是一个零依赖、单文件的本地AI客户端，专为**DeepSeek**等模型设计。该项目引起了开发人员的极大关注： GitHub Stars: 1来自过去4天# 217个GitHub用户克隆： 159个唯一克隆： 103个黑客新闻搜索： “**DeepSeek** UI”排名第1特别感谢HN社区--流量数据显示，虽然来自HN的访问者没有频繁浏览
-
-📅 Sun, 15 Mar 2026 14:33:42 +0000
+📅 Sun, 15 Mar 2026 21:22:16 +0000
 
 ---
 
-### X: Andrej Karpathy
-**[Title: twitter.com](https://r.jina.ai/http://twitter.com/karpathy)**
+### X: Demis Hassabis
+**[Title: twitter.com](https://r.jina.ai/http://twitter.com/demishassabis)**
 
 Title: twitter.com
 
-📅 2026-03-15T15:34:04.284Z
+📅 2026-03-15T23:34:37.901Z
 
 ---
 
-### X: Andrej Karpathy
-**[网址来源： http://twitter.com/karpathy](https://r.jina.ai/http://twitter.com/karpathy)**
+### X: Demis Hassabis
+**[网址来源： http://twitter.com/demishassabis](https://r.jina.ai/http://twitter.com/demishassabis)**
 
-网址来源： http://twitter.com/karpathy
+网址来源： http://twitter.com/demishassabis
 
-📅 2026-03-15T15:34:04.284Z
+📅 2026-03-15T23:34:37.901Z
 
 ---
 
-### X: Andrej Karpathy
-**[警告：目标URL返回错误500 ：内部服务器错误](https://r.jina.ai/http://twitter.com/karpathy)**
+### X: Demis Hassabis
+**[警告：目标URL返回错误500 ：内部服务器错误](https://r.jina.ai/http://twitter.com/demishassabis)**
 
 警告：目标URL返回错误500 ：内部服务器错误
 
-📅 2026-03-15T15:34:04.284Z
+📅 2026-03-15T23:34:37.901Z
 
 ---
 
-### X: Andrej Karpathy
-**[Markdown 内容](https://r.jina.ai/http://twitter.com/karpathy)**
+### X: Demis Hassabis
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/demishassabis)**
 
 Markdown 内容
 
-📅 2026-03-15T15:34:04.284Z
+📅 2026-03-15T23:34:37.902Z
+
+---
+
+### X: Demis Hassabis
+**[此页面无法正常工作](https://r.jina.ai/http://twitter.com/demishassabis)**
+
+此页面无法正常工作
+
+📅 2026-03-15T23:34:37.902Z
+
+---
+
+### Hacker News
+**[Show HN ：向已发布漏洞的红队人工智能代理展示开源游乐场](https://github.com/fabraix/playground)**
+
+我们为人工智能代理构建运行时安全性操场最初是作为我们用来测试自己的护栏的内部工具
+
+📅 Sun, 15 Mar 2026 22:29:46 +0000
 
 ---
 
