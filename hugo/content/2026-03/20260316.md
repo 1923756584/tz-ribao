@@ -1,12 +1,12 @@
 ---
 title: "2026年3月16日 - TZ日报"
-date: 2026-03-16T16:18:02.347Z
+date: 2026-03-16T23:44:51.132Z
 draft: false
 ---
 
 # 2026年3月16日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/3/16 16:18:02
+> 📊 今日汇总 38 条 · 🕐 2026/3/16 23:44:51
 
 ---
 
@@ -22,12 +22,30 @@ draft: false
 
 ## ✨ 产品更新
 
-### Hugging Face
-**[超越语义相似性：介绍NVIDIA NeMo Retriever的可通用代理检索管道](https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval)**
+### TechCrunch AI Products
+**[英伟达的OpenClaw版本可以解决其最大的问题：安全性](https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/)**
 
-超越语义相似性：介绍NVIDIA NeMo Retriever的可通用代理检索管道
+英伟达宣布了一个名为NemoClaw的开放式企业人工智能代理平台，该平台基于病毒式OpenClaw
 
-📅 Fri, 13 Mar 2026 20:00:00 GMT
+📅 Mon, 16 Mar 2026 22:45:51 +0000
+
+---
+
+### TechCrunch AI Products
+**[Jensen Huang刚刚将英伟达的Blackwell和Vera Rubin的销售预测纳入1万亿美元的平流层](https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/)**
+
+Nvidia首席执行官Jensen Huang表示，他预计这些芯片的订单价值为1万$。
+
+📅 Mon, 16 Mar 2026 21:41:37 +0000
+
+---
+
+### TechCrunch AI Products
+**[英伟达的DLSS 5使用生成式人工智能来提升视频游戏中的逼真度，其野心超越了游戏](https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/)**
+
+英伟达新的DLSS 5使用生成式人工智能和结构化图形数据，使视频游戏更加逼真首席执行官Jensen Huang表示，这种方法最终可能会传播到其他行业
+
+📅 Mon, 16 Mar 2026 19:12:19 +0000
 
 ---
 
@@ -36,43 +54,25 @@ draft: false
 
 GTC是英伟达的旗舰年度活动，该芯片制造商通常会宣布新产品、合作伙伴关系及其对计算未来的愿景黄的主题演讲将重点关注英伟达在计算和人工智能未来中的作用
 
-📅 Mon, 16 Mar 2026 14:30:55 +0000
+📅 Mon, 16 Mar 2026 17:51:46 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[谷歌， Accel India加速器选择了5家初创公司，没有一家是“人工智能包装”](https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/)**
+**[另一家深度科技芯片初创公司成为独角兽： Frore达到16.4亿美元$](https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/)**
 
-谷歌和Accel表示，与印度相关的人工智能创业公司中，约有70%是“包装商” ，因为他们为Atoms团队审查了4000多份申请
+在Nvidia首席执行官Jensen Huang的敦促下， Frore为芯片开发了液体冷却技术这一转变帮助它筹集了1.43亿美元$
 
-📅 Mon, 16 Mar 2026 00:30:00 +0000
-
----
-
-### TechCrunch AI Products
-**[WIZ投资者解开谷歌$ 320亿的收购](https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/)**
-
-Index Ventures的Shardul Shah带领我们完成了谷歌有史以来最大的收购。
-
-📅 Sun, 15 Mar 2026 15:30:33 +0000
+📅 Mon, 16 Mar 2026 17:47:32 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[据报道， Meta正在考虑可能影响公司20%股权的裁员](https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/)**
+**[字典起诉OpenAI](https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/)**
 
-这些裁员可以帮助Facebook的母公司抵消其在人工智能基础设施方面的激进支出，以及与人工智能相关的收购和招聘
+Encyclopedia Britannica和Merriam-Webster表示， **OpenAI**将近10万篇文章用于法学硕士培训，侵犯了它们的版权
 
-📅 Sat, 14 Mar 2026 16:28:42 +0000
-
----
-
-### TechCrunch AI Products
-**[如何使用新的ChatGPT应用集成，包括DoorDash、Spotify、优步等](https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/)**
-
-了解如何直接在Chat**GPT**中使用Spotify、Canva、Figma、Expedia和其他应用程序。
-
-📅 Sat, 14 Mar 2026 13:00:00 +0000
+📅 Mon, 16 Mar 2026 17:38:34 +0000
 
 ---
 
@@ -94,21 +94,21 @@ Index Ventures的Shardul Shah带领我们完成了谷歌有史以来最大的收
 
 ---
 
-### TechCrunch AI Products
-**[据报道， ByteDance暂停了其Seedance 2.0视频生成器的全球发布](https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/)**
+### OpenAI Blog
+**[为什么Codex Security不包括SAST报告](https://openai.com/index/why-codex-security-doesnt-include-sast)**
 
-据报道，该公司正在推迟**推出**，因为其工程师和律师正在努力避免进一步的法律问题
+深入探讨为什么Codex Security不依赖于传统的SAS ，而是使用人工智能驱动的约束推理和验证来发现真正的漏洞，减少误报
 
-📅 Sun, 15 Mar 2026 21:01:51 +0000
+📅 Mon, 16 Mar 2026 00:00:00 GMT
 
 ---
 
-### TechCrunch AI Products
-**[人工智能精神病案例背后的律师警告大规模伤亡风险](https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/)**
+### Hugging Face
+**[第一个医疗保健机器人数据集和基础物理AI模型用于医疗保健机器人](https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics)**
 
-多年来，人工智能聊天机器人一直与自杀有关现在，一位律师表示，它们也出现在大规模伤亡案件中，而且这项技术的发展速度快于保障措施
+第一个医疗保健机器人数据集和基础物理AI模型用于医疗保健机器人
 
-📅 Sun, 15 Mar 2026 18:49:32 +0000
+📅 Mon, 16 Mar 2026 21:58:40 GMT
 
 ---
 
@@ -188,114 +188,122 @@ Index Ventures的Shardul Shah带领我们完成了谷歌有史以来最大的收
 
 ## 🌍 行业展望
 
-### The Verge
-![雅虎首席执行官吉姆·兰佐恩（ Jim Lanzone ）重启网络主页](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/DCD-20260316-Lanzone.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### VentureBeat
+![英伟达推出带有OpenAI、Anthropic和Meta的七芯片人工智能平台Vera Rubin](https://images.ctfassets.net/jdtwqhzvc2n1/01feEK2kGU5zdifeWupHH1/d5f4fb743968fd14762b5b05699d3a58/nuneybits_Vector_art_of_black_server_racks_green_pulse_7ca548b3-420f-48b3-b0a0-2778f7b28668.webp?w=300&q=30)
 
-**[雅虎首席执行官吉姆·兰佐恩（ Jim Lanzone ）重启网络主页](https://www.theverge.com/podcast/895221/yahoo-jim-lanzone-scout-ai-sports-finance-open-web)**
+**[英伟达推出带有OpenAI、Anthropic和Meta的七芯片人工智能平台Vera Rubin](https://venturebeat.com/infrastructure/nvidia-introduces-vera-rubin-a-seven-chip-ai-platform-with-openai-anthropic)**
 
-同样，你可以看到Chat**GPT**和**OpenAI**也在走一条复杂的路线，对吧有史以来最著名的解码器之一是Satya Nadella在**推出**Bing with Chat**GPT**时说： “我想让**Google**跳舞
+英伟达还**发布**了第一个针对医疗保健机器人的特定领域的物理AI平台，但周一在**Anthropic**和**OpenAI**首席执行官的支持下，他们都没有出现在GTC上
 
-📅 2026-03-16T15:00:00.000Z
+📅 Mon, 16 Mar 2026 20:30:00 GMT
 
 ---
 
-### The Verge
-![据报道， OpenAI的成人模式将是污秽的，而不是色情的](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25313355/STK464_PORN_ADULT_CONTENT_2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### VentureBeat
+![英伟达的DGX Station是一台桌面超级计算机，无需云即可运行万亿参数的人工智能模型](https://images.ctfassets.net/jdtwqhzvc2n1/3IQB4inOOGEtbbeRXno5cV/c14ad637c15f7104fe4232f300b643fd/nuneybits_Vector_art_of_a_Macbook_Pro_and_next_to_it_is_a_small_a3ecfc07-561b-4aad-94df-621a7373b52d.webp?w=300&q=30)
 
-**[据报道， OpenAI的成人模式将是污秽的，而不是色情的](https://www.theverge.com/ai-artificial-intelligence/895130/openai-chatgpt-adult-mode-text-smut-written-erotica)**
+**[英伟达的DGX Station是一台桌面超级计算机，无需云即可运行万亿参数的人工智能模型](https://venturebeat.com/infrastructure/nvidias-dgx-station-is-a-desktop-supercomputer-that-runs-trillion-parameter)**
 
-| Cath Virginia/The Verge |来自Getty Images **OpenAI**的Chat**GPT**延迟“成人模式”的照片预计将在**发布**时支持俏皮的文本对话，允许Chat**GPT**用户生成成人主题的文本聊天
+英伟达周一**推出**了一款功能强大的桌面超级计算机，可在不触及云端的情况下运行高达一万亿个参数（大致相当于**GPT**-4的规模）的人工智能模型。支持的模型列表强调了人工智能生态系统的开放程度：开发人员可以运行和微调**OpenAI**的**GPT**-oss-120b
 
-📅 2026-03-16T11:18:20.000Z
+📅 Mon, 16 Mar 2026 20:30:00 GMT
+
+---
+
+### VentureBeat
+![z.ai为代理和“CLAWS”推出更快，更便宜的GLM-5 Turbo型号—但它不是开源的](https://images.ctfassets.net/jdtwqhzvc2n1/3QD8UpFEPAxBmH376Tdgjr/9d6eed047bf57ae9cf19510374274866/Gemini_Generated_Image_6fn6m66fn6m66fn6.png?w=300&q=30)
+
+**[z.ai为代理和“CLAWS”推出更快，更便宜的GLM-5 Turbo型号—但它不是开源的](https://venturebeat.com/technology/z-ai-debuts-faster-cheaper-glm-5-turbo-model-for-agents-and-claws-but-its)**
+
+75 **OpenAI** **GPT**-550 **OpenAI**克劳德十四行诗4
+
+📅 Mon, 16 Mar 2026 19:14:00 GMT
+
+---
+
+### VentureBeat
+![英伟达与Adobe、Salesforce、SAP在GTC 2026的17个采用者中推出企业AI代理平台](https://images.ctfassets.net/jdtwqhzvc2n1/2fleqnUY239c0tJFBLRGPF/123f498a5442eb1308cbeaee7fdd56c5/Vector_art_portrait_of_Jensen_Huang_image_in_Nvidia_green_and_black_minimalist_no_text_image_1.png?w=300&q=30)
+
+**[英伟达与Adobe、Salesforce、SAP在GTC 2026的17个采用者中推出企业AI代理平台](https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among)**
+
+Inside Nvidia's Agent Toolkit ：旨在为每位企业AI员工提供动力的软件堆栈掌握周一公告的**重要**性联盟的第一个项目将是由Mistral AI和Nvidia共同开发的基础模型
+
+📅 Mon, 16 Mar 2026 08:30:00 GMT
 
 ---
 
 ### Ars Technica
-**[Google Fiber将出售给私募股权公司并与有线电视公司合并](https://arstechnica.com/tech-policy/2026/03/google-fiber-will-be-sold-to-private-equity-firm-and-merge-with-cable-company/)**
+**[OpenAI自己的心理健康专家一致反对推出“淘气”的ChatGPT](https://arstechnica.com/tech-policy/2026/03/chatgpt-may-soon-become-sexy-suicide-coach-openai-advisor-reportedly-warned/)**
 
-GFiber和Astound将与Alphabet合并，将多数股权出售给Stonepeak。
+**OpenAI**在人工智能“smut”和色情之间划清了界限。专家担心这一切都是不健康的。
 
-📅 Fri, 13 Mar 2026 20:57:54 +0000
-
----
-
-### TechCrunch
-**[沃尔玛支持的PhonePe搁置首次公开募股作为全球紧张局势喋喋不休的市场](https://techcrunch.com/2026/03/16/walmart-backed-phonepe-shelves-ipo-as-global-tensions-rattle-markets/)**
-
-PhonePe已暂停其计划的**首次**公开募股，推迟了包括Tiger Global和微软在内的投资者的**重大**流动性活动
-
-📅 Mon, 16 Mar 2026 13:02:47 +0000
+📅 Mon, 16 Mar 2026 18:30:23 +0000
 
 ---
 
-### MIT Tech Review
-**[下载：玻璃芯片和“无AI”徽标](https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/)**
+### ZDNet AI
+**[英伟达自动驾驶汽车的“ChatGPT时刻” ，以及GTC 2026上的其他重要AI公告](https://www.zdnet.com/article/nvidia-physical-ai-gtc-2026/)**
 
-这是今天的The Download版本，我们的工作日时事通讯，提供有关技术世界正在发生的事情的日常剂量，但它现在已经准备好进入世界上最新和最先进的人工智能芯片。
+这些是英伟达表示其在机器人、自动驾驶汽车等方面取得的物理AI进步
 
-📅 Mon, 16 Mar 2026 12:35:00 +0000
-
----
-
-### Wired Technology
-**[COBOL是编程语言的石棉](https://www.wired.com/story/cobol-is-the-asbestos-of-programming-languages/)**
-
-作为历史上最广泛采用的计算机语言， COBOL现在正在引发一系列问题
-
-📅 Mon, 16 Mar 2026 11:00:00 +0000
+📅 Mon, 16 Mar 2026 21:52:49 GMT
 
 ---
 
-### Wired Technology
-**[最佳暗网监控服务和捆绑包](https://www.wired.com/story/best-dark-web-monitoring-services/)**
+### The Verge
+![DLSS 5看起来像视频游戏的实时生成式AI过滤器](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/grokashcroft.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-数据泄露比以往任何时候都更加常见以下是我发现的保护自己在线安全的最佳方法
+**[DLSS 5看起来像视频游戏的实时生成式AI过滤器](https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics)**
 
-📅 Mon, 16 Mar 2026 10:30:00 +0000
+英伟达(Nvidia)首席执行官黄延森(Jensen Huang)周一在其GTC大会上宣布**推出**DLSS 5。英伟达(Nvidia)首席执行官黄延森(Jensen Huang)称这是“图形的**GPT**时刻-将手工制作的渲染与生成式人工智能融合在一起，在保持艺术家创造性表达所需的控制的同时，实现视觉真实
+
+📅 2026-03-16T21:56:05.000Z
 
 ---
 
-### Wired Technology
-**[特斯拉的影响者离开“邪教”](https://www.wired.com/story/the-tesla-influencers-leaving-the-cult/)**
+### The Verge
+![大英百科全书起诉OpenAI涉嫌使用ChatGPT “记忆”其内容](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-141320386.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-这家电动汽车制造商得到了强大的在线社区的支持，但埃隆·马斯克(Elon Musk)的政治立场和关于全自动驾驶的过度炒作正在让一些忠诚者望而却步
+**[大英百科全书起诉OpenAI涉嫌使用ChatGPT “记忆”其内容](https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit)**
 
-📅 Mon, 16 Mar 2026 10:30:00 +0000
+**OpenAI**多次擅自复制其内容已记住的示例是[**OpenAI**]用于训练其模型的未经授权的副本，包括**GPT**-4
+
+📅 2026-03-16T17:04:06.000Z
 
 ---
 
 ## 📦 GitHub热门
+
+### GitHub Active (AI/ML)
+![aIMET ： AIMET是一个为训练有素的神经网络模型提供高级量化和压缩技术的库。](https://avatars.githubusercontent.com/u/55295854?v=4)
+
+**[aIMET ： AIMET是一个为训练有素的神经网络模型提供高级量化和压缩技术的库。](https://github.com/quic/aimet)**
+
+⭐ 2,566星· 448叉· Python · AIMET是一个库，为训练有素的神经网络模型提供先进的量化和压缩技术
+
+📅 2026-03-16T23:43:16Z
+
+---
+
+### GitHub New (New AI)
+![🆕 softchip-studio ：用于设计人工智能数据管道的可视化电路构建器。使用GPT-4、Claude、Kimi、Qwen等60多个芯片、10个模板、n8n等工作流程自动化，拖放软芯片可创建用于音频、文本和图像处理的芯片和工作流程，以及用于均匀电路设计的许多其他选项。](https://avatars.githubusercontent.com/u/7599025?v=4)
+
+**[🆕 softchip-studio ：用于设计人工智能数据管道的可视化电路构建器。使用GPT-4、Claude、Kimi、Qwen等60多个芯片、10个模板、n8n等工作流程自动化，拖放软芯片可创建用于音频、文本和图像处理的芯片和工作流程，以及用于均匀电路设计的许多其他选项。](https://github.com/tarulahsan/softchip-studio)**
+
+⭐ 6 star (新项目) · TypeScript · Visual circuit builder for designing AI-powered data pipelinesand image processing and many other options for even circuit designs with **GPT**-4
+
+📅 2026-03-16T17:29:10Z
+
+---
 
 ### GitHub New (New AI)
 ![🆕 SafeAI-1 ：利用开源的力量尽我们所能。](https://avatars.githubusercontent.com/u/205089765?v=4)
 
 **[🆕 SafeAI-1 ：利用开源的力量尽我们所能。](https://github.com/houselearning/SafeAI-1)**
 
-⭐ 4 star (新项目) · HTML · Harnessing the power of open source to give the best we can.
+⭐ 6 star (新项目) · HTML · Harnessing the power of open source to give the best we can.
 
 📅 2026-03-15T23:29:00Z
-
----
-
-### GitHub New (New AI)
-![🆕 aifoxx ：具有定价、合规性和访问元数据的1000多种人工智能工具的开源目录](https://avatars.githubusercontent.com/u/31102185?v=4)
-
-**[🆕 aifoxx ：具有定价、合规性和访问元数据的1000多种人工智能工具的开源目录](https://github.com/withkarann/aifoxx)**
-
-⭐ 3 star (新项目) · TypeScript · Open-source directory of 1000+ AI tools with pricing, compliance & access **Meta**data
-
-📅 2026-03-13T16:29:17Z
-
----
-
-### GitHub New (New AI)
-![🆕 awesome-ai-cae ：用于计算机辅助工程的104种AI就绪工具的精选列表—模拟、可视化、设计和制造。MCP服务器、Python API、神经运算符、PINN。](https://avatars.githubusercontent.com/u/21175731?v=4)
-
-**[🆕 awesome-ai-cae ：用于计算机辅助工程的104种AI就绪工具的精选列表—模拟、可视化、设计和制造。MCP服务器、Python API、神经运算符、PINN。](https://github.com/kimimgo/awesome-ai-cae)**
-
-⭐ 3 star (新项目) · N/A · A curated list of 104 AI-ready tools for Computer-Aided Engineering — simulation, visualization, design, and manufacturingMCP servers, Python APIs, neural operators, PINNs
-
-📅 2026-03-13T14:04:43Z
 
 ---
 
@@ -304,7 +312,7 @@ PhonePe已暂停其计划的**首次**公开募股，推迟了包括Tiger Global
 
 **[🆕 meridian-intelligence ： Meridian Intelligence —具有7个专业代理的自主人工智能情报服务、每日简报和通过x402协议的USDC付款](https://github.com/mapleleaflatte03/meridian-intelligence)**
 
-⭐ 2 star (新项目) · HTML · Meridian Intelligence — Autonomous AI intelligence service with 7 specialized agentsdaily briefs
+⭐ 3 star (新项目) · HTML · Meridian Intelligence — Autonomous AI intelligence service with 7 specialized agentsdaily briefs
 
 📅 2026-03-16T04:55:36Z
 
@@ -313,20 +321,22 @@ PhonePe已暂停其计划的**首次**公开募股，推迟了包括Tiger Global
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[在谈话过程中，真的有人在AI模型之间切换吗？如果是这样，您的环境会发生什么？](https://www.reddit.com/r/artificial/comments/1rv6tfi/does_anyone_actually_switch_between_ai_models/)**
+![构建了一个自主系统，其中5个人工智能模型争论地缘政治危机的结果：以下是我对模型行为的了解](https://external-preview.redd.it/MG8zODhsNThhZ3BnMTH4QWTr4aKZIQ0jaSrUHdb_X-HCEXuYYDlXTiIw7FOO.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3e63489c91b28aacdbaa3feae14703983558e7eb)
 
-但这提出了一个我没有见过多少讨论的问题：当您在任务中手动从Chat**GPT**切换到**Claude**时，我一直在构建一个平台，其中每个模型— **GPT** ， **Claude** ， Grok ， **Gemini** ， **DeepSeek** —共享相同的对话线程
+**[构建了一个自主系统，其中5个人工智能模型争论地缘政治危机的结果：以下是我对模型行为的了解](https://www.reddit.com/r/artificial/comments/1rvhxqv/built_an_autonomous_system_where_5_ai_models/)**
 
-📅 2026-03-16T11:26:33.000Z
+我构建了一个管道，其中5个人工智能模型（ **Claude**、**GPT**-4o、**Gemini**、Grok、**DeepSeek** ）每天两次独立评估30多个危机场景的概率提示中的命名规则成为模型引用的快捷方式，而不是实际推理
+
+📅 2026-03-16T18:34:47.000Z
 
 ---
 
 ### Hacker News AI
-**[Mnemon-MCP – AI代理的4层本地内存（ SQLite和FTS5 ）](https://news.ycombinator.com/item?id=47398382)**
+**[Show HN: BonzAI –一键式本地AI推断和产量承载AI制品](https://www.bonzai.sh/)**
 
-我有多动症，使用**Claude** Code dailycom/nikitaco**Meta**/mnemon-mcp评论网址： https://**new**s
+我有一种直觉，即开放式权重模型可以与私人人工智能实验室进行比较当我终于能够从Chat**GPT**/**Claude**切换到本地LLM时
 
-📅 Mon, 16 Mar 2026 12:56:22 +0000
+📅 Mon, 16 Mar 2026 22:56:21 +0000
 
 ---
 
@@ -340,51 +350,51 @@ PhonePe已暂停其计划的**首次**公开募股，推迟了包括Tiger Global
 ---
 
 ### Hacker News
-**[加拿大的C-22法案要求进行大规模元数据监控](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/)**
+**[英伟达推出专为Agentic AI打造的Vera CPU](https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai)**
 
-ca/DocumentViewer/en/45-1/bill/C-22/first-r评论网址： https://**new**s
+文章网址： https://nvidia**new**scom/**new**s/nvidia-**launch**es-vera-cpu-purpose-built-for-agentic-ai评论网址： https://**new**s
 
-📅 Sun, 15 Mar 2026 21:22:16 +0000
+📅 Mon, 16 Mar 2026 20:01:02 +0000
 
 ---
 
-### Hacker News AI
-**[Show HN ： Scryer –人工智能代理的视觉架构建模](https://github.com/aklos/scryer)**
+### Hacker News
+**[Meta对jemalloc的新承诺](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/)**
 
-在过去的一个月里，我花了更多的时间在终端上提示**Claude** Code而不是使用代码编辑器Scryer的想法是提供一个使用C4模型图与AI共享的视觉表面，以便我们都了解代码库的实际状态
+https://githubcom/jemalloc/jemalloc评论网址： https://**new**s
 
-📅 Mon, 16 Mar 2026 13:00:07 +0000
+📅 Mon, 16 Mar 2026 18:12:32 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[我不太明白，如果谈话很长，必须结束，人工智能有多大用处。有人能帮我弄清楚如何让自己实现可持续发展吗？使用Claude Sonnet 4.6。](https://www.reddit.com/r/artificial/comments/1rv79uz/i_dont_quite_understand_how_useful_ai_is_if/)**
+**[人工智能是否会以情感的方式进步](https://www.reddit.com/r/artificial/comments/1rvkkbb/could_ai_be_advancing_in_ways_with_emotion/)**
 
-首先，请告诉我是否有更好的论坛适合新手我开始在个人生活中更多地使用人工智能
+com/link/1rvkkbb/video/o1t772qirgpg1/player我想知道**Claude**是否具有情感智慧**Claude**的回答在我问他有什么要补充的“这是我的实际想法，坦率地说：这感觉就像
 
-📅 2026-03-16T11:50:33.000Z
-
----
-
-### Reddit: r/singularity
-![NVIDIA RUBIN ： 336B晶体管、288 GB HBM4、22 TB/s带宽和上下文中的10倍推理成本声明](https://external-preview.redd.it/osQcytzmXffUlkX9umPObBLWFB486qiNPxl0T5rxn90.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f4842d67ef3748e8a89badec2bb619d0cfae26d0)
-
-**[NVIDIA RUBIN ： 336B晶体管、288 GB HBM4、22 TB/s带宽和上下文中的10倍推理成本声明](https://www.reddit.com/r/singularity/comments/1rvakxd/nvidia_rubin_336b_transistors_288_gb_hbm4_22_tbs/)**
-
-提交者/u/LostPrune2143 [link] [comments]
-
-📅 2026-03-16T14:13:18.000Z
+📅 2026-03-16T20:05:35.000Z
 
 ---
 
 ### Reddit: r/singularity
-![Nebius与Meta签署新的人工智能基础设施协议（最高~ $ 270亿）](https://preview.redd.it/74t1536ikepg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=de1cdee6d5502a92e76efa46568033385c0c7701)
+![NVIDIA DLSS 5在游戏视觉保真度方面实现人工智能突破](https://external-preview.redd.it/2z_miJri_1-GNLNgjHa4hfMZ0Wo2HjifoJzr450XKSU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0f59be78349f59fca3b71b65db7828c98e35e170)
 
-**[Nebius与Meta签署新的人工智能基础设施协议（最高~ $ 270亿）](https://www.reddit.com/r/singularity/comments/1rv8d3w/nebius_signs_a_new_ai_infrastructure_agreement/)**
+**[NVIDIA DLSS 5在游戏视觉保真度方面实现人工智能突破](https://www.reddit.com/r/singularity/comments/1rvi27k/nvidia_dlss_5_delivers_aipowered_breakthrough_in/)**
 
-https://nebiuscom/**new**sroom/nebius-signs-**new**-ai-infrastructure-agreement-with-**Meta**由/u/likeastar20提交[link] [comments]
+提交者/u/Recoil42 [link] [comments]
 
-📅 2026-03-16T12:42:24.000Z
+📅 2026-03-16T18:39:04.000Z
+
+---
+
+### Reddit: r/singularity
+![NVIDIA GTC主题演讲开始， 2万人在NHL竞技场等候](https://external-preview.redd.it/ZTNtcTU5dmY3Z3BnMU0pCw9M7UijxTN83DX08tp4ObeJ3oFXDtes6bffSsB2.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=d1b466f074a992deaf3accf7d233951415fdd9b9)
+
+**[NVIDIA GTC主题演讲开始， 2万人在NHL竞技场等候](https://www.reddit.com/r/singularity/comments/1rvhaua/nvidia_gtc_keynote_starting_20k_people_waiting_at/)**
+
+X/@ TheHumanoidHub提交者/u/Distinct-Question-16 [link] [comments]
+
+📅 2026-03-16T18:12:51.000Z
 
 ---
 
