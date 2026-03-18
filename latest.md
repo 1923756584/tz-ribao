@@ -1,12 +1,12 @@
 ---
 title: "2026年3月18日 - TZ日报"
-date: 2026-03-18T16:14:18.539Z
+date: 2026-03-18T23:34:56.902Z
 draft: false
 ---
 
 # 2026年3月18日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/3/18 16:14:18
+> 📊 今日汇总 38 条 · 🕐 2026/3/18 23:34:56
 
 ---
 
@@ -23,20 +23,20 @@ draft: false
 ## ✨ 产品更新
 
 ### TechCrunch AI Products
-**[为什么Garry Tan的Claude Code设置得到了如此多的关注和憎恨](https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/)**
+**[Google Workspace中值得使用的Gemini-powered功能](https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/)**
 
-成千上万的人正在尝试Garry Tan的**Claude** Code设置，该设置已在GitHub上共享每个人都有自己的观点：即使是**Claude**、Chat**GPT**和**Gemini**
+从总结电子邮件、起草内容、组织数据和跟踪会议，以下是**Google** Workspace中的所有最佳**Gemini**功能
 
-📅 Tue, 17 Mar 2026 20:50:04 +0000
+📅 Wed, 18 Mar 2026 16:43:18 +0000
 
 ---
 
-### TechCrunch AI Products
-**[Mistral押注“构建自己的人工智能” ，因为它需要企业中的OpenAI和Anthropic](https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/)**
+### OpenAI Blog
+**[OpenAI日本宣布日本青少年安全蓝图，将青少年安全放在首位](https://openai.com/index/japan-teen-safety-blueprint)**
 
-Mistral Forge允许企业在自己的数据挑战性竞争对手上从头开始训练定制的人工智能模型，这些竞争对手依赖于基于微调和检索的方法
+**OpenAI** Japan宣布日本青少年安全蓝图和使用生成式人工智能的青少年福祉保障措施
 
-📅 Tue, 17 Mar 2026 21:00:00 +0000
+📅 Tue, 17 Mar 2026 10:00:00 GMT
 
 ---
 
@@ -81,6 +81,15 @@ Mistral Forge允许企业在自己的数据挑战性竞争对手上从头开始�
 ---
 
 ### TechCrunch AI Products
+**[英伟达正在悄悄建立一个价值数十亿美元的庞然大物，以与其芯片业务竞争](https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/)**
+
+英伟达(Nvidia)的网络业务上季度收入达110亿美元($ 110亿美元) ，尽管其大张旗鼓的表现远低于芯片和游戏
+
+📅 Wed, 18 Mar 2026 20:01:19 +0000
+
+---
+
+### TechCrunch AI Products
 **[微软聘请红杉支持的人工智能协作平台Cove团队](https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/)**
 
 人工智能协作初创公司Cove在其团队加入微软后即将关闭，服务将于4月1日结束，客户数据集将被删除
@@ -89,30 +98,21 @@ Mistral Forge允许企业在自己的数据挑战性竞争对手上从头开始�
 
 ---
 
-### TechCrunch AI Products
-**[国防部表示， Anthropic的“红线”使其成为“对国家安全的不可接受的风险”](https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/)**
+### AI News
+**[NTT DATA和NVIDIA将企业人工智能工厂推向生产规模](https://www.artificialintelligence-news.com/news/ntt-data-nvidia-enterprise-ai-factories-production/)**
 
-国防部表示，对**Anthropic**可能在“作战行动”期间“试图禁用其技术”的担忧，证实了其将人工智能公司标记为供应链风险的决定
+生产就绪的人工智能扩展模式[…]后NTT DATA和NVIDIA将企业人工智能工厂带入生产规模**首次**出现在人工智能新闻
 
-📅 Wed, 18 Mar 2026 13:40:43 +0000
-
----
-
-### TechCrunch AI Products
-**[报告称，五角大楼正在开发人类的替代品](https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/)**
-
-在他们戏剧性的分手之后，看起来人类和五角大楼似乎并没有重新走到一起
-
-📅 Tue, 17 Mar 2026 18:20:15 +0000
+📅 Mon, 16 Mar 2026 12:00:00 +0000
 
 ---
 
-### TechCrunch AI Products
-**[Google的个人智能功能正在扩展到所有美国用户](https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/)**
+### AI News
+**[OpenAI的前沿将AI代理置于SaaS无法承受的战斗中](https://www.artificialintelligence-news.com/news/openai-frontier-enterprise-ai-agents-saas/)**
 
-个人智能让**Google**的人工智能助手能够利用您的**Google**生态系统，例如Gmail和**Google**相册
+当**OpenAI**在2月份**推出**Frontier时，该公告被描述为企业AI代理和内部的平台[…] **OpenAI**的Frontier后将AI代理置于SaaS无法承受的战斗中**首次**出现在AI新闻上
 
-📅 Tue, 17 Mar 2026 16:00:00 +0000
+📅 Mon, 16 Mar 2026 10:00:00 +0000
 
 ---
 
@@ -204,6 +204,17 @@ Mistral Forge允许企业在自己的数据挑战性竞争对手上从头开始�
 ---
 
 ### VentureBeat
+![新的MiniMax M2.7专有AI模型是“自我进化”的，可以执行30-50%的强化学习研究工作流程](https://images.ctfassets.net/jdtwqhzvc2n1/7yZajSp7oZtdo0LS8zJURB/563cbad89b03903c36ca77f3d08d78db/Gemini_Generated_Image_hszkp8hszkp8hszk.png?w=300&q=30)
+
+**[新的MiniMax M2.7专有AI模型是“自我进化”的，可以执行30-50%的强化学习研究工作流程](https://venturebeat.com/technology/new-minimax-m2-7-proprietary-ai-model-is-self-evolving-and-can-perform-30-50)**
+
+7今天—一个新的专有LLM ，旨在为AI代理提供良好的功能，并作为第三方线束和工具的后端，如**OpenAI** ， **Google**和**Anthropic**等**Claude** Codeleaders多年来一直在做
+
+📅 Wed, 18 Mar 2026 18:47:00 GMT
+
+---
+
+### VentureBeat
 ![开源Mamba 3超越Transformer架构，语言建模改善近4% ，延迟降低](https://images.ctfassets.net/jdtwqhzvc2n1/2MuXgfNrfR9DrYiF8EKgcE/bca5055283452b33f7f15aeabfd6a298/Gemini_Generated_Image_2qcm7c2qcm7c2qcm.png?w=300&q=30)
 
 **[开源Mamba 3超越Transformer架构，语言建模改善近4% ，延迟降低](https://venturebeat.com/technology/open-source-mamba-3-arrives-to-surpass-transformer-architecture-with-nearly)**
@@ -214,14 +225,12 @@ Mistral Forge允许企业在自己的数据挑战性竞争对手上从头开始�
 
 ---
 
-### The Verge
-![您现在可以获得的最佳早期亚马逊大春季促销优惠](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268405_The_best_deals_from_Amazons_Big_Spring_Sale_event3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### Wired Technology
+**[为什么沃尔玛和OpenAI正在撼动他们的代理购物交易](https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/)**
 
-**[您现在可以获得的最佳早期亚马逊大春季促销优惠](https://www.theverge.com/gadgets/895635/best-amazon-big-spring-sale-early-deals-2026)**
+在**OpenAI**的即时结账功能不足后，沃尔玛将其Sparky聊天机器人直接嵌入到Chat**GPT**和**Google** **Gemini**中
 
-较新的XM6在两方面都有改进，采用可折叠设计，但当您可以在百思买找到99 $ 599的折扣时， XM5仍然是一项很好的投资。较新的Ecovacs Deebot X9 Pro Omni也可从亚马逊购买
-
-📅 2026-03-18T15:52:39.000Z
+📅 Wed, 18 Mar 2026 18:01:18 +0000
 
 ---
 
@@ -257,57 +266,35 @@ Mistral Forge允许企业在自己的数据挑战性竞争对手上从头开始�
 ---
 
 ### Ars Technica
-**[游戏玩家对DLSS 5的生成式AI发光反应极其厌恶](https://arstechnica.com/gaming/2026/03/gamers-react-with-overwhelming-disgust-to-dlss-5s-generative-ai-glow-ups/)**
+**[联邦网络专家称微软的云是“一堆狗屎” ，无论如何都批准了它](https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/)**
 
-英伟达的下一代帧代技术不仅仅是**升级**，而且不是很好。
+微软的一款产品获得批准，尽管多年来一直担心其安全性。
 
-📅 Tue, 17 Mar 2026 16:29:16 +0000
-
----
-
-### The Verge
-![英伟达已经失去了与游戏玩家的情节](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nvidia-dlss-5-geforce-rtx-resident-evil-requiem-comparison-001-on.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[英伟达已经失去了与游戏玩家的情节](https://www.theverge.com/games/895753/nvidia-dlss-5-slop-face-fake-frames)**
-
-英伟达本可以将其新的DLSS 5实时照明技术进行营销，以使未来的下一代游戏看起来更好“无论其工作原理如何，该技术都以AI过滤器的形式呈现，试图优化每个人和每个人......阅读The Verge的完整故事
-
-📅 2026-03-18T13:00:00.000Z
+📅 Wed, 18 Mar 2026 17:36:40 +0000
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![tensorflow ：面向所有人的开源机器学习框架](https://avatars.githubusercontent.com/u/15658638?v=4)
+![pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://avatars.githubusercontent.com/u/21003710?v=4)
 
-**[tensorflow ：面向所有人的开源机器学习框架](https://github.com/tensorflow/tensorflow)**
+**[pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://github.com/pytorch/pytorch)**
 
-⭐ 194,200星· 75255分叉· C + + ·面向所有人的**开源**机器学习框架
+⭐ 98,361星· 27247叉· Python ·具有强大GPU加速的Python中的张量和动态神经网络
 
-📅 2026-03-18T16:11:04Z
-
----
-
-### GitHub Active (AI/ML)
-![变压器：🤗变压器：用于文本、视觉、音频和多模态模型中最先进的机器学习模型的模型定义框架，用于推理和训练。](https://avatars.githubusercontent.com/u/25720743?v=4)
-
-**[变压器：🤗变压器：用于文本、视觉、音频和多模态模型中最先进的机器学习模型的模型定义框架，用于推理和训练。](https://github.com/huggingface/transformers)**
-
-和用于推断和训练的多模态模型
-
-📅 2026-03-18T16:13:01Z
+📅 2026-03-18T23:33:59Z
 
 ---
 
 ### GitHub Active (AI/ML)
-![显然：显然是一个开源的ML和LLM可观察性框架。评估、测试和监控任何AI驱动的系统或数据管道。从表格数据到Gen AI。100多个指标。](https://avatars.githubusercontent.com/u/75031056?v=4)
+![模块化：模块化平台（包括MAX和Mojo ）](https://avatars.githubusercontent.com/u/150859076?v=4)
 
-**[显然：显然是一个开源的ML和LLM可观察性框架。评估、测试和监控任何AI驱动的系统或数据管道。从表格数据到Gen AI。100多个指标。](https://github.com/evidentlyai/evidently)**
+**[模块化：模块化平台（包括MAX和Mojo ）](https://github.com/modular/modular)**
 
-评估、测试和监控任何AI驱动的系统或数据管道从表格数据到Gen AI
+⭐ 25745星· 2782叉·魔佐·模块化平台（含MAX和魔佐）
 
-📅 2026-03-18T16:11:46Z
+📅 2026-03-18T23:34:00Z
 
 ---
 
@@ -322,14 +309,61 @@ Mistral Forge允许企业在自己的数据挑战性竞争对手上从头开始�
 
 ---
 
+### GitHub New (New AI)
+![🆕 SafeAI-1 ：利用开源的力量尽我们所能。](https://avatars.githubusercontent.com/u/205089765?v=4)
+
+**[🆕 SafeAI-1 ：利用开源的力量尽我们所能。](https://github.com/houselearning/SafeAI-1)**
+
+⭐ 6 star (新项目) · HTML · Harnessing the power of open source to give the best we can.
+
+📅 2026-03-15T23:29:00Z
+
+---
+
 ## 💬 社交动态
+
+### Reddit: r/MachineLearning
+**[[P] Weber Electrodynamic Optimizer + SDR Hardware Entropy for Autonomous ML Research （ karpathy分叉/自动搜索）](https://www.reddit.com/r/MachineLearning/comments/1rxh7xs/p_weber_electrodynamic_optimizer_sdr_hardware/)**
+
+训练脚本在启动时获取8个字节，然后回退到ospy ，使用**Claude**、**GPT**-4o或**Gemini**的工具调用来包装实验循环
+
+📅 2026-03-18T21:39:21.000Z
+
+---
+
+### Reddit: r/artificial
+**[如果您正在使用ChatGPT ，您可能需要一个AI策略。[我不会推广]](https://www.reddit.com/r/artificial/comments/1rx8hfr/if_you_are_using_chatgpt_you_would_probably_want/)**
+
+如果没有规则，最终会有人将客户数据、财务数据或专有代码粘贴到Chat**GPT**中，以节省时间规则，以便在必须向客户披露人工智能生成的内容时使用
+
+📅 2026-03-18T16:23:40.000Z
+
+---
+
+### Reddit: r/artificial
+**[人工智能、入侵技术与战士之道](https://www.reddit.com/r/artificial/comments/1rwxr19/ai_invasive_technology_and_the_way_of_the_warrior/)**
+
+纵观历史，**重大**的技术变革重塑了人类文明-通过chat**GPT**描述视频“nitty grittys ordeal -将机器思维与身体感官联系起来”
+
+📅 2026-03-18T08:01:52.000Z
+
+---
+
+### Reddit: r/MachineLearning
+**[[R]极限数独作为约束满意度基准，本机解决，无需工具或CoT或解决方案回溯](https://www.reddit.com/r/MachineLearning/comments/1rx9qn4/r_extreme_sudoku_as_a_constraintsatisfaction/)**
+
+根据他们的数据，领先的LLM （ O3 ‑ mini、**DeepSeek** R1、**Claude** 34%的准确率，没有思维链痕迹或显式解决方案回溯
+
+📅 2026-03-18T17:09:09.000Z
+
+---
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-03-18T16:11:09.425Z
+📅 2026-03-18T23:32:14.472Z
 
 ---
 
@@ -338,61 +372,25 @@ Mistral Forge允许企业在自己的数据挑战性竞争对手上从头开始�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-03-18T16:12:28.293Z
+📅 2026-03-18T23:33:33.141Z
 
 ---
 
 ### Hacker News
-**[Meta将于6月15日关闭VR Horizon Worlds访问权限](https://www.engadget.com/ar-vr/meta-will-shut-down-vr-horizon-worlds-access-in-june-222028919.html)**
+**[发布Claude fuck ups的网站](https://claudedidwhat.wtf)**
 
-com/ar-vr/**Meta**-will-shut-down-vr-horizon-worlds-access-in-june-222028919html评论网址： https://**new**s
+文章网址： https://**Claude**didwhatwtf评论网址： https://**new**s
 
-📅 Wed, 18 Mar 2026 15:43:38 +0000
+📅 Wed, 18 Mar 2026 23:08:14 +0000
 
 ---
 
 ### Hacker News
-**[联邦网络专家称微软云为“一堆狗屎” ，但批准了它](https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government)**
+**[如果重新生成，保修无效](https://nearzero.software/p/warranty-void-if-regenerated)**
 
-文章网址： https://wwworg/article/microsoft-cloud-fedramp-cybersecurity-government评论网址： https://**new**s
+作为一个实验，我开始要求**Claude**用一个小说故事向我解释事情，结果非常好。评论网址： https://**new**s
 
-📅 Wed, 18 Mar 2026 14:14:02 +0000
-
----
-
-### Hacker News ML
-**[利用机器学习改善乳腺癌筛查工作流程](https://research.google/blog/improving-breast-cancer-screening-workflows-with-machine-learning/)**
-
-文章网址： https://research**Google**/blog/improving-breast-cancer-screening-workflows-with-machine-learning/评论网址： https://**new**s
-
-📅 Wed, 18 Mar 2026 00:44:03 +0000
-
----
-
-### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Title: 520: Web服务器返回未知错误
-
-📅 2026-03-18T16:11:09.425Z
-
----
-
-### X: OpenAI
-**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-警告：目标URL返回错误520 ：
-
-📅 2026-03-18T16:11:09.425Z
-
----
-
-### X: OpenAI
-**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Markdown 内容
-
-📅 2026-03-18T16:11:09.425Z
+📅 Wed, 18 Mar 2026 20:45:54 +0000
 
 ---
 
