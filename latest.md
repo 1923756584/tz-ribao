@@ -1,12 +1,12 @@
 ---
 title: "2026年3月19日 - TZ日报"
-date: 2026-03-19T16:01:09.464Z
+date: 2026-03-19T23:34:52.198Z
 draft: false
 ---
 
 # 2026年3月19日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/3/19 16:01:09
+> 📊 今日汇总 38 条 · 🕐 2026/3/19 23:34:52
 
 ---
 
@@ -25,18 +25,18 @@ draft: false
 ### TechCrunch AI Products
 **[Multiverse Computing将其压缩的人工智能模型推向主流](https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/)**
 
-在压缩了包括**OpenAI**Multiverse Computing在内的主要人工智能实验室的模型后，我们**推出**了一款展示其压缩模型功能的应用程序和一款使它们更广泛可用的API
+在压缩主要人工智能实验室的模型后， Multiverse Computing**推出**了一个展示其压缩模型功能的应用程序和一个使其更广泛可用的API
 
 📅 Thu, 19 Mar 2026 08:00:00 +0000
 
 ---
 
-### TechCrunch AI Products
-**[Google Workspace中值得使用的Gemini-powered功能](https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/)**
+### OpenAI Blog
+**[我们如何监控内部编码代理是否未对齐](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment)**
 
-从总结电子邮件、起草内容、组织数据和跟踪会议，以下是**Google** Workspace中的所有最佳**Gemini**功能
+**OpenAI**如何使用思维链监控来研究内部编码代理中的错位-分析真实世界的部署以检测风险并加强人工智能安全保障
 
-📅 Wed, 18 Mar 2026 16:43:18 +0000
+📅 Thu, 19 Mar 2026 10:00:00 GMT
 
 ---
 
@@ -99,20 +99,20 @@ draft: false
 ---
 
 ### TechCrunch AI Products
+**[Meta推出新的人工智能内容实施系统，同时减少对第三方供应商的依赖](https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/)**
+
+**Meta**认为，这些人工智能系统可以更准确地检测更多违规行为，更好地防止诈骗
+
+📅 Thu, 19 Mar 2026 17:24:13 +0000
+
+---
+
+### TechCrunch AI Products
 **[Meta在使用流氓AI代理时遇到问题](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/)**
 
 流氓AI代理无意中将**Meta**公司和用户数据泄露给无权查看的工程师
 
 📅 Wed, 18 Mar 2026 23:42:46 +0000
-
----
-
-### TechCrunch AI Products
-**[英伟达正在悄悄建立一个价值数十亿美元的庞然大物，以与其芯片业务竞争](https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/)**
-
-英伟达(Nvidia)的网络业务上季度收入达110亿美元($ 110亿美元) ，尽管其大张旗鼓的表现远低于芯片和游戏
-
-📅 Wed, 18 Mar 2026 20:01:19 +0000
 
 ---
 
@@ -193,17 +193,6 @@ draft: false
 ## 🌍 行业展望
 
 ### VentureBeat
-![Mistral AI推出Forge ，帮助公司构建专有的AI模型，挑战云巨头](https://images.ctfassets.net/jdtwqhzvc2n1/4TvXdOwVTUgTDCioxZUcYC/cd8c6de13db530abc6a2ba91175dc5b4/nuneybits_Vector_art_of_a_Forge_made_of_computer_code_in_the_co_e81353af-4d23-4b20-853d-84fad8cc9b3f.webp?w=300&q=30)
-
-**[Mistral AI推出Forge ，帮助公司构建专有的AI模型，挑战云巨头](https://venturebeat.com/infrastructure/mistral-ai-launches-forge-to-help-companies-build-proprietary-ai-models)**
-
-该联盟的第一个项目是由Mistral AI和NvidiaAmazon Bedrock、Microsoft Azure AI Foundry和**Google** Cloud Vertex AI共同开发的基础模型，均提供模型培训和定制功能
-
-📅 Tue, 17 Mar 2026 21:00:00 GMT
-
----
-
-### VentureBeat
 ![小米以接近GPT-5.2、Opus 4.6性能的全新MiMo-V2-Pro LLM惊艳亮相，成本仅为GPT-5.2和Opus 4.6的一小部分](https://images.ctfassets.net/jdtwqhzvc2n1/2HCPXa9wmUn3GxH2G23n1k/a1081f11043cf47149b1d3533186679d/Gemini_Generated_Image_ovvcbfovvcbfovvc.png?w=300&q=30)
 
 **[小米以接近GPT-5.2、Opus 4.6性能的全新MiMo-V2-Pro LLM惊艳亮相，成本仅为GPT-5.2和Opus 4.6的一小部分](https://venturebeat.com/technology/xiaomi-stuns-with-new-mimo-v2-pro-llm-nearing-gpt-5-2-opus-4-6-performance)**
@@ -226,6 +215,17 @@ draft: false
 ---
 
 ### VentureBeat
+![光标的新编码模型Composer 2在这里：它击败了Claude Opus 4.6 ，但仍然落后于GPT-5.4](https://images.ctfassets.net/jdtwqhzvc2n1/7CRPJPhCwXh9FXWrar90y5/c67c894ea0fbe9af868238b62f1b32b5/ChatGPT_Image_Mar_19__2026__04_06_03_PM.png?w=300&q=30)
+
+**[光标的新编码模型Composer 2在这里：它击败了Claude Opus 4.6 ，但仍然落后于GPT-5.4](https://venturebeat.com/technology/cursors-new-coding-model-composer-2-is-here-it-beats-claude-opus-4-6-but)**
+
+基准收益是巨大的，即使**GPT**-5**OpenAI**和**Anthropic**不再仅仅通过第三方产品销售模型；他们还提供自己的编码接口
+
+📅 Thu, 19 Mar 2026 20:31:00 GMT
+
+---
+
+### VentureBeat
 ![开源Mamba 3超越Transformer架构，语言建模改善近4% ，延迟降低](https://images.ctfassets.net/jdtwqhzvc2n1/2MuXgfNrfR9DrYiF8EKgcE/bca5055283452b33f7f15aeabfd6a298/Gemini_Generated_Image_2qcm7c2qcm7c2qcm.png?w=300&q=30)
 
 **[开源Mamba 3超越Transformer架构，语言建模改善近4% ，延迟降低](https://venturebeat.com/technology/open-source-mamba-3-arrives-to-surpass-transformer-architecture-with-nearly)**
@@ -236,36 +236,32 @@ draft: false
 
 ---
 
-### The Verge
-![派拉蒙的$ 1100亿华纳兄弟赌博](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/DCD_0319.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### Wired Technology
+**[“不可思议的山谷” ：英伟达的“人工智能超级碗”、特斯拉的失望和Meta的VR元宇宙“关闭”](https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/)**
 
-**[派拉蒙的$ 1100亿华纳兄弟赌博](https://www.theverge.com/podcast/896694/paramount-warner-bros-discovery-david-ellison-netflix-deal-merger)**
+在这一集中，我们将深入了解英伟达的年度开发者大会，以及首席执行官Jensen Huang对公司未来的看法
 
-其余的绝大多数资金来自大卫·埃里森的亿万富翁父亲拉里·埃里森这是我认为在这次谈话中会多次出现的人工智能的第一笔
-
-📅 2026-03-19T14:00:00.000Z
+📅 Thu, 19 Mar 2026 21:43:56 +0000
 
 ---
 
-### The Verge
-![Nothing Phone 4A Pro评论：那种旗舰感觉](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-pro-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### Wired Technology
+**[ChatGPT的“成人模式”可能引发亲密监控的新时代](https://www.wired.com/story/chatgpt-adult-mode-new-era-of-intimate-surveillance/)**
 
-**[Nothing Phone 4A Pro评论：那种旗舰感觉](https://www.theverge.com/tech/896626/nothing-phone-4a-pro-review-design-specs-battery-camera)**
+**OpenAI**计划允许与Chat**GPT**A人机交互专家进行性短信，以警告隐私噩梦
 
-首席执行官Carl Pei表示， Nothing今年不会**发布**旗舰手机，这在很大程度上得益于新的金属设计
-
-📅 2026-03-19T13:00:00.000Z
+📅 Thu, 19 Mar 2026 16:06:49 +0000
 
 ---
 
 ### VentureBeat
-![英伟达释放“利爪” ： NemoClaw为接管人工智能的代理平台带来安全性和扩展性](https://images.ctfassets.net/jdtwqhzvc2n1/6g0TY4IIzzdII3HUQzogRU/f4318bdd98411cb0fdfd9191fb5c2125/Gemini_Generated_Image_bdsrvubdsrvubdsr.png?w=300&q=30)
+![Meta的流氓AI代理通过了每个身份检查—企业IAM中的四个差距解释了原因](https://images.ctfassets.net/jdtwqhzvc2n1/6mU6gDy1sRfRCuDpkbhsK7/b5010735714e37a63de5edf000917340/hero_meta_story.jpg?w=300&q=30)
 
-**[英伟达释放“利爪” ： NemoClaw为接管人工智能的代理平台带来安全性和扩展性](https://venturebeat.com/technology/nvidia-lets-its-claws-out-nemoclaw-brings-security-scale-to-the-agent)**
+**[Meta的流氓AI代理通过了每个身份检查—企业IAM中的四个差距解释了原因](https://venturebeat.com/security/meta-rogue-ai-agent-confused-deputy-iam-identity-governance-matrix)**
 
-“**Claude** Code和OpenClaw引发了智能体拐点—将人工智能扩展到生成和推理到行动中OpenShell内置的智能体也可以使用包括**Claude** Code在内的编码代理不断获得新技能
+3月18日的**Meta**曝光尚未在法医层面公开解释CVE-2026-27826和CVE-2026-27825在2月下旬通过SSRF和通过模型上下文协议（ MCP ）设计创建的信任边界的任意文件写入击中mcp-atlassian
 
-📅 Tue, 17 Mar 2026 15:03:00 GMT
+📅 Thu, 19 Mar 2026 19:20:00 GMT
 
 ---
 
@@ -285,7 +281,7 @@ draft: false
 
 **[🆕 NanoResearch: 🦞+🔬: NanoResearch:自主人工智能研究助理](https://github.com/OpenRaiser/NanoResearch)**
 
-⭐ 77 star (新项目) · Python · 🦞+🔬: NanoResearch: The Autonomous AI Research Assistant
+⭐ 82 star (新项目) · Python · 🦞+🔬: NanoResearch: The Autonomous AI Research Assistant
 
 📅 2026-03-17T10:20:31Z
 
@@ -296,7 +292,7 @@ draft: false
 
 **[🆕 SparkVSR ： SparkVSR ：通过稀疏关键帧传播实现交互式视频超分辨率](https://github.com/taco-group/SparkVSR)**
 
-⭐ 38 star (新项目) · Python · SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation
+⭐ 40 star (新项目) · Python · SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation
 
 📅 2026-03-16T20:51:01Z
 
@@ -331,7 +327,7 @@ draft: false
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-03-19T15:57:42.272Z
+📅 2026-03-19T23:31:45.830Z
 
 ---
 
@@ -340,34 +336,43 @@ draft: false
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-03-19T15:59:00.731Z
+📅 2026-03-19T23:33:05.618Z
 
 ---
 
 ### Hacker News
-**[Astral加入OpenAI](https://astral.sh/blog/openai)**
+**[Android开发者验证：平衡开放性和选择性与安全性](https://android-developers.googleblog.com/2026/03/android-developer-verification.html)**
 
-https://**OpenAI**com/index/**OpenAI**-to-acquire-astral/评论网址： https://**new**s
+**Google**bloghtml评论网址： https://**new**s
 
-📅 Thu, 19 Mar 2026 13:05:50 +0000
+📅 Thu, 19 Mar 2026 20:19:59 +0000
+
+---
+
+### Hacker News
+**[Anthropic对OpenCode采取法律行动](https://github.com/anomalyco/opencode/pull/18186)**
+
+文章网址： https://githubcom/anomalyco/opencode/pull/18186评论网址： https://**new**s
+
+📅 Thu, 19 Mar 2026 19:37:26 +0000
 
 ---
 
 ### Hacker News AI
-**[使用Google AI Studio制作Vibe代码](https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/)**
+**[我与人工智能特工克劳德–参议员伯尼·桑德斯（ Bernie Sanders](https://www.youtube.com/watch?v=h3AtWdeu_G0)**
 
-文章网址： https://blog**Google**/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-**Google**-ai-st**Udio**/评论网址： https://**new**s
+文章网址： https://wwwv = h3AtWdeu_G0评论网址： https://**new**s
 
-📅 Thu, 19 Mar 2026 15:42:29 +0000
+📅 Thu, 19 Mar 2026 22:48:12 +0000
 
 ---
 
 ### Hacker News AI
-**[只需点击一下，即可直接从浏览器查看网站的人工智能可见性](https://chromewebstore.google.com/detail/llm-check-ai-readiness-vi/oalgfkbijifcmkbibinfoppkmhckjjcj)**
+**[对于天主教思想家来说，五角大楼的人工智能要求侵犯了“人类尊严”](https://www.washingtonpost.com/nation/2026/03/19/anthropic-war-ai-catholic-church/)**
 
-文章网址： https://chromewebstorecom/detail/llm-check-ai-readiness-vi/oalgfkbijifcmkbibinfoppkmhckjjcj评论网址： https://**new**s
+文章网址： https://wwwcom/nation/2026/03/19/**Anthropic**-war-ai-catholic-church/评论网址： https://**new**s
 
-📅 Thu, 19 Mar 2026 15:18:50 +0000
+📅 Thu, 19 Mar 2026 22:39:41 +0000
 
 ---
 
@@ -385,16 +390,7 @@ https://**OpenAI**com/index/**OpenAI**-to-acquire-astral/评论网址： https:/
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-03-19T15:57:42.272Z
-
----
-
-### X: OpenAI
-**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-警告：目标URL返回错误520 ：
-
-📅 2026-03-19T15:57:42.272Z
+📅 2026-03-19T23:31:45.830Z
 
 ---
 
