@@ -1,12 +1,12 @@
 ---
 title: "2026年3月20日 - TZ日报"
-date: 2026-03-20T15:48:29.881Z
+date: 2026-03-20T23:33:36.154Z
 draft: false
 ---
 
 # 2026年3月20日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/3/20 15:48:29
+> 📊 今日汇总 38 条 · 🕐 2026/3/20 23:33:36
 
 ---
 
@@ -21,15 +21,6 @@ draft: false
 ---
 
 ## ✨ 产品更新
-
-### TechCrunch AI Products
-**[Multiverse Computing将其压缩的人工智能模型推向主流](https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/)**
-
-在压缩主要人工智能实验室的模型后， Multiverse Computing**推出**了一个展示其压缩模型功能的应用程序和一个使其更广泛可用的API
-
-📅 Thu, 19 Mar 2026 08:00:00 +0000
-
----
 
 ### OpenAI Blog
 **[我们如何监控内部编码代理是否未对齐](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment)**
@@ -49,25 +40,30 @@ draft: false
 
 ---
 
-### Google AI Blog
-![将个人智能的力量带给更多人](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Header_gl7r1il.max-600x600.format-webp.webp)
+### TechCrunch AI Products
+**[微软在Windows上回滚部分Copilot AI膨胀](https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/)**
 
-**[将个人智能的力量带给更多人](https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/)**
+该公司正在减少Windows上的Copilot入口点，从照片、小部件、记事本和其他应用程序开始
 
-我们正在将个人智能扩展到搜索中的AI模式、**Gemini**应用和Chrome中的**Gemini**。
-
-📅 Tue, 17 Mar 2026 16:00:00 +0000
+📅 Fri, 20 Mar 2026 20:53:09 +0000
 
 ---
 
-### Google AI Blog
-![我们在人工智能时代对开源安全的最新投资](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/25367___BRS___Aspen_Security_Fo.max-600x600.format-webp_J9uPoFt.webp)
+### TechCrunch AI Products
+**[Nvidia GTC发生了什么： NemoClaw、Robot Olaf和1万亿美元的赌注](https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/)**
 
-**[我们在人工智能时代对开源安全的最新投资](https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/)**
+预计到2027年人工智能芯片销售额将达到1万亿美元$很难错过的信息：英伟达[…]
 
-谷歌正在进行新的投资，开发新的工具和开发代码安全性，以提高**开源**安全性
+📅 Fri, 20 Mar 2026 20:02:35 +0000
 
-📅 Tue, 17 Mar 2026 16:00:00 +0000
+---
+
+### TechCrunch AI Products
+**[英伟达有OpenClaw策略，你呢？ ](https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/)**
+
+预计到2027年人工智能芯片销售额将达到1万亿美元$很难错过的信息：英伟达[…]
+
+📅 Fri, 20 Mar 2026 19:48:38 +0000
 
 ---
 
@@ -80,15 +76,6 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[Meta在使用流氓AI代理时遇到问题](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/)**
-
-流氓AI代理无意中将**Meta**公司和用户数据泄露给无权查看的工程师
-
-📅 Wed, 18 Mar 2026 23:42:46 +0000
-
----
-
 ### AI News
 **[NVIDIA希望企业AI代理能够更安全地部署](https://www.artificialintelligence-news.com/news/nvidia-agent-toolkit-enterprise-ai-agents/)**
 
@@ -98,12 +85,12 @@ NVIDIA Agent Toolkit于3月16日在圣何塞举行的GTC 2026上**发布**，是
 
 ---
 
-### DeepMind Blog
-**[衡量AGI的进展：认知框架](https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/)**
+### Hugging Face
+**[在一天内构建特定于域的嵌入模型](https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune)**
 
-我们正在引入一个框架来衡量AGI的进展，并启动Kaggle黑客马拉松来构建相关的评估
+在一天内构建特定于域的嵌入模型
 
-📅 Tue, 17 Mar 2026 16:03:47 +0000
+📅 Fri, 20 Mar 2026 19:38:16 GMT
 
 ---
 
@@ -116,6 +103,15 @@ Mellea 0.4.0 +花岗岩库**发布**的新功能
 
 ---
 
+### TechCrunch AI Products
+**[WordPress.com现在允许人工智能代理撰写和发布帖子等](https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/)**
+
+WordPresscom上的新AI代理可以降低**发布**障碍，同时增加网络上的机器生成内容
+
+📅 Fri, 20 Mar 2026 16:43:09 +0000
+
+---
+
 ## 🔬 前沿研究
 
 ### ArXiv Natural Language Processing (cs.CL)
@@ -124,15 +120,6 @@ Mellea 0.4.0 +花岗岩库**发布**的新功能
 18014v1公告类型：新摘要：当前LLM的结构化输出显示零星错误CONSTRUCT检测各种LLM （包括**Gemini** 3和**GPT**-5 ）的错误，其精度/召回率明显高于其他评分方法
 
 📅 Fri, 20 Mar 2026 00:00:00 -0400
-
----
-
-### MIT Tech Research
-**[国防部官员说，五角大楼正在计划让人工智能公司对机密数据进行培训](https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/)**
-
-像**Anthropic**的**Claude**这样的人工智能模型已经被用于回答分类环境中的问题；应用程序包括分析伊朗的目标，但允许模型在……上进行训练
-
-📅 Tue, 17 Mar 2026 22:30:46 +0000
 
 ---
 
@@ -190,27 +177,25 @@ Mellea 0.4.0 +花岗岩库**发布**的新功能
 
 ---
 
-## 🌍 行业展望
+### MIT Tech Research
+**[OpenAI正在全力打造一个全自动的研究人员](https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/)**
 
-### VentureBeat
-![小米以接近GPT-5.2、Opus 4.6性能的全新MiMo-V2-Pro LLM惊艳亮相，成本仅为GPT-5.2和Opus 4.6的一小部分](https://images.ctfassets.net/jdtwqhzvc2n1/2HCPXa9wmUn3GxH2G23n1k/a1081f11043cf47149b1d3533186679d/Gemini_Generated_Image_ovvcbfovvcbfovvc.png?w=300&q=30)
+**OpenAI**正在重新调整其研究工作重点，并将其资源投入到一项新的**重大**挑战中**OpenAI**表示，这一新的...
 
-**[小米以接近GPT-5.2、Opus 4.6性能的全新MiMo-V2-Pro LLM惊艳亮相，成本仅为GPT-5.2和Opus 4.6的一小部分](https://venturebeat.com/technology/xiaomi-stuns-with-new-mimo-v2-pro-llm-nearing-gpt-5-2-opus-4-6-performance)**
-
-虽然它仍然落后于西方的“最大努力”模型，如**Claude** Sonnet 450 **OpenAI** **Claude** Sonnet 4
-
-📅 Wed, 18 Mar 2026 23:55:00 GMT
+📅 Fri, 20 Mar 2026 11:57:16 +0000
 
 ---
 
+## 🌍 行业展望
+
 ### VentureBeat
-![新的MiniMax M2.7专有AI模型是“自我进化”的，可以执行30-50%的强化学习研究工作流程](https://images.ctfassets.net/jdtwqhzvc2n1/7yZajSp7oZtdo0LS8zJURB/563cbad89b03903c36ca77f3d08d78db/Gemini_Generated_Image_hszkp8hszkp8hszk.png?w=300&q=30)
+![Scale AI推出Voice Showdown ，这是语音AI的首个真实世界基准—对于一些顶级机型来说，结果令人羞愧](https://images.ctfassets.net/jdtwqhzvc2n1/5Aoh7Kr0KEA1qkUcBHmU2/c7bb3f5c69b6271011b3363540d40996/Gemini_Generated_Image_8crymu8crymu8cry.png?w=300&q=30)
 
-**[新的MiniMax M2.7专有AI模型是“自我进化”的，可以执行30-50%的强化学习研究工作流程](https://venturebeat.com/technology/new-minimax-m2-7-proprietary-ai-model-is-self-evolving-and-can-perform-30-50)**
+**[Scale AI推出Voice Showdown ，这是语音AI的首个真实世界基准—对于一些顶级机型来说，结果令人羞愧](https://venturebeat.com/data/scale-ai-launches-voice-showdown-the-first-real-world-benchmark-for-voice-ai)**
 
-7今天—一个新的专有LLM ，旨在为AI代理提供良好的功能，并作为第三方线束和工具的后端，如**OpenAI** ， **Google**和**Anthropic**等**Claude** Codeleaders多年来一直在做
+每个主要的人工智能实验室--**OpenAI**、**Google** DeepMind、**Anthropic**、xAI--都在竞相**推出**能够进行自然、实时对话的语音模型截至3月18日，每个企业决策者都应该关注Voice Showdown的11个前沿模型，这些模型在52个模型—语音对中进行了评估
 
-📅 Wed, 18 Mar 2026 18:47:00 GMT
+📅 Fri, 20 Mar 2026 16:23:00 GMT
 
 ---
 
@@ -219,9 +204,20 @@ Mellea 0.4.0 +花岗岩库**发布**的新功能
 
 **[光标的新编码模型Composer 2在这里：它击败了Claude Opus 4.6 ，但仍然落后于GPT-5.4](https://venturebeat.com/technology/cursors-new-coding-model-composer-2-is-here-it-beats-claude-opus-4-6-but)**
 
-基准收益是巨大的，即使**GPT**-5**OpenAI**和**Anthropic**不再仅仅通过第三方产品销售模型；他们还提供自己的编码接口
+一种新的内部编码模型现在可以在其代理AI编码环境中使用，这是中国**开源**模型Kimi K2**OpenAI**和**Anthropic**的微调变体，不再仅仅通过第三方产品销售模型；他们还提供自己的编码接口
 
 📅 Thu, 19 Mar 2026 20:31:00 GMT
+
+---
+
+### VentureBeat
+![Mistral的Small 4将推理、视觉和编码整合到一个模型中，成本仅为推理成本的一小部分](https://images.ctfassets.net/jdtwqhzvc2n1/71wSj9ixss2ipTXMmtaiRE/b39963266e65012efcbb06a20701ba29/crimedy7_illustration_of_small_robots_building_a_tall_buildin_362e883b-f1a0-4032-8390-41f733af2faa_2.png?w=300&q=30)
+
+**[Mistral的Small 4将推理、视觉和编码整合到一个模型中，成本仅为推理成本的一小部分](https://venturebeat.com/technology/mistrals-small-4-consolidates-reasoning-vision-and-coding-into-one-model-at)**
+
+Small 4进入了一个拥挤的小型模型领域，包括Qwen和**Claude** Haiku ，它们在推理成本和基准性能方面具有竞争力。Mistral Small 4能够在LCR中击败**OpenAI**的**GPT**-OSS 120B
+
+📅 Fri, 20 Mar 2026 04:00:00 GMT
 
 ---
 
@@ -236,14 +232,23 @@ Mellea 0.4.0 +花岗岩库**发布**的新功能
 
 ---
 
-### The Verge
-![2026年亚马逊大春季促销：所有最新优惠](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268405_The_best_deals_from_Amazons_Big_Spring_Sale_event.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### ZDNet AI
+**[OpenAI传闻中的“超级应用”最终可以解决我在ChatGPT上最大的问题之一](https://www.zdnet.com/article/openai-superapp-merges-chatgpt-codex-atlas-together/)**
 
-**[2026年亚马逊大春季促销：所有最新优惠](https://www.theverge.com/gadgets/897580/amazon-big-spring-sale-2026-deals-news)**
+评论：据报道， **OpenAI**希望为所有内容提供一个应用程序，我很乐意为您服务。
 
-but we’ll also be highlighting **new**er**Google**’s battery-powered Nest Doorbell is $40 off right now Microsoft’s go-to Xbox controller is selling at its best price of the year Hoto’s powerful PixelDrive electric screwdriver is 25 percent off Kasa’s Matter-compatible smart plugs are on sale for $11 a pop The Beats St**Udio** Pro are nearly $200 off ahead of Amazon’s big spring sale Antigravity’s 360-degree drone is 20 percent off ahead of its next feature drop Several Sonos a**Udio** products got their first 2026 discounts Ecovacs’ Deebot X8 and X9 Pro Omni robovacs are nearly 50 percent off Amazon’s Fire TV Stick 4K Max and 4K Plus sticks are up to 50 percent off Amazon’s welcoming spring with a deal event starting March 25th
+📅 Fri, 20 Mar 2026 18:12:00 GMT
 
-📅 2026-03-20T13:00:00.000Z
+---
+
+### VentureBeat
+![人工智能学习理解物理世界的三种方式](https://images.ctfassets.net/jdtwqhzvc2n1/6uRIArWx4IfKizK1Zy2Plj/145eb916451c49f60f70526b62e4a882/World_models.jpg?w=300&q=30)
+
+**[人工智能学习理解物理世界的三种方式](https://venturebeat.com/technology/three-ways-ai-is-learning-to-understand-the-physical-world)**
+
+这种限制正在推动投资者转向世界模式， AMI实验室筹集了$ 1**Google** DeepMind首席执行官Demis Hassabis在另一次采访中回应了这种观点，指出当今的人工智能模型存在“锯齿状智能”
+
+📅 Fri, 20 Mar 2026 20:30:00 GMT
 
 ---
 
@@ -267,47 +272,16 @@ but we’ll also be highlighting **new**er**Google**’s battery-powered Nest Do
 
 ---
 
-### Wired Technology
-**[Instagram DM元数据杀死端到端加密背后的危险](https://www.wired.com/story/the-danger-behind-metas-decision-to-kill-end-to-end-encrypted-instagram-dms/)**
-
-**Meta**指责用户没有选择隐私保护功能专家们担心此举可能是全球**首个**落入端到端加密技术的主要多米诺骨牌
-
-📅 Fri, 20 Mar 2026 10:00:00 +0000
-
----
-
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![tensorflow ：面向所有人的开源机器学习框架](https://avatars.githubusercontent.com/u/15658638?v=4)
+![executorch ：适用于PyTorch的移动、嵌入式和边缘设备上的AI](https://avatars.githubusercontent.com/u/21003710?v=4)
 
-**[tensorflow ：面向所有人的开源机器学习框架](https://github.com/tensorflow/tensorflow)**
+**[executorch ：适用于PyTorch的移动、嵌入式和边缘设备上的AI](https://github.com/pytorch/executorch)**
 
-⭐ 194,264星· 75259叉· C + + ·面向所有人的**开源**机器学习框架
+⭐ 4408星· 886叉· Python ·适用于PyTorch的移动、嵌入式和边缘设备AI
 
-📅 2026-03-20T15:46:45Z
-
----
-
-### GitHub Active (AI/ML)
-![physicsnemo ：使用最先进的Physics-ML方法构建、训练和微调深度学习模型的开源深度学习框架](https://avatars.githubusercontent.com/u/1728152?v=4)
-
-**[physicsnemo ：使用最先进的Physics-ML方法构建、训练和微调深度学习模型的开源深度学习框架](https://github.com/NVIDIA/physicsnemo)**
-
-568星· 612叉· Python ·使用最先进的物理-ML方法构建和微调深度学习模型的**开源**深度学习框架
-
-📅 2026-03-20T15:46:59Z
-
----
-
-### GitHub Active (AI/ML)
-![scikit-learn-intelex ： Scikit-learn扩展是加速Scikit-learn应用程序的无缝方式](https://avatars.githubusercontent.com/u/144704571?v=4)
-
-**[scikit-learn-intelex ： Scikit-learn扩展是加速Scikit-learn应用程序的无缝方式](https://github.com/uxlfoundation/scikit-learn-intelex)**
-
-⭐ 1334星· 185叉· Python · Scikit-learn扩展是加速Scikit-learn应用程序的无缝方式
-
-📅 2026-03-20T15:46:51Z
+📅 2026-03-20T23:32:10Z
 
 ---
 
@@ -316,9 +290,31 @@ but we’ll also be highlighting **new**er**Google**’s battery-powered Nest Do
 
 **[🆕 NanoResearch: 🦞+🔬: NanoResearch:自主人工智能研究助理](https://github.com/OpenRaiser/NanoResearch)**
 
-⭐ 116 star (新项目) · Python · 🦞+🔬: NanoResearch: The Autonomous AI Research Assistant
+⭐ 122 star (新项目) · Python · 🦞+🔬: NanoResearch: The Autonomous AI Research Assistant
 
 📅 2026-03-17T10:20:31Z
+
+---
+
+### GitHub New (New AI)
+![🆕 SafeAI家庭作业导师-0.0.96 ： SafeAI家庭作业导师（约9600万参数）](https://avatars.githubusercontent.com/u/205089765?v=4)
+
+**[🆕 SafeAI家庭作业导师-0.0.96 ： SafeAI家庭作业导师（约9600万参数）](https://github.com/houselearning/SafeAI-Homework-Tutor-0.0.96)**
+
+⭐ 6 star (新项目) · Python · The SafeAI Homework Tutor (~96 million params)
+
+📅 2026-03-17T11:17:55Z
+
+---
+
+### GitHub New (New AI)
+![🆕 web-mcp-playground ：现代Web系统开发策略（ 2025-2027 ）的综合指南和技术游乐场。探索AI-First设计、面向代理架构、边缘计算和Web模型上下文协议(WebMCP)的融合。](https://avatars.githubusercontent.com/u/28940736?v=4)
+
+**[🆕 web-mcp-playground ：现代Web系统开发策略（ 2025-2027 ）的综合指南和技术游乐场。探索AI-First设计、面向代理架构、边缘计算和Web模型上下文协议(WebMCP)的融合。](https://github.com/quang-pham-dev/web-mcp-playground)**
+
+⭐ 5 star (新项目) · HTML · A comprehensive guide and technical playground for Modern Web System Development Strategies (2025-2027)Exploring the convergence of AI-First design, Agent-Oriented Architecture, Edge Computing, and the Web Model Context Protocol (WebMCP)
+
+📅 2026-03-17T02:45:47Z
 
 ---
 
@@ -329,7 +325,7 @@ but we’ll also be highlighting **new**er**Google**’s battery-powered Nest Do
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-03-20T15:45:22.671Z
+📅 2026-03-20T23:30:33.126Z
 
 ---
 
@@ -338,16 +334,7 @@ but we’ll also be highlighting **new**er**Google**’s battery-powered Nest Do
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-03-20T15:46:41.170Z
-
----
-
-### Hacker News AI
-**[谷歌用AI版本取代“10个蓝色链接”中的新闻头条](https://www.techbuzz.ai/articles/google-quietly-replaces-news-headlines-with-ai-versions)**
-
-文章网址： https://wwwai/articles/**Google**-quietly-replaces-**new**s-headlines-with-ai-versions评论网址： https://**new**s
-
-📅 Fri, 20 Mar 2026 15:39:02 +0000
+📅 2026-03-20T23:31:53.244Z
 
 ---
 
@@ -365,7 +352,7 @@ but we’ll also be highlighting **new**er**Google**’s battery-powered Nest Do
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-03-20T15:45:22.671Z
+📅 2026-03-20T23:30:33.126Z
 
 ---
 
@@ -374,7 +361,7 @@ Title: 520: Web服务器返回未知错误
 
 警告：目标URL返回错误520 ：
 
-📅 2026-03-20T15:45:22.671Z
+📅 2026-03-20T23:30:33.126Z
 
 ---
 
@@ -383,7 +370,7 @@ Title: 520: Web服务器返回未知错误
 
 Markdown 内容
 
-📅 2026-03-20T15:45:22.671Z
+📅 2026-03-20T23:30:33.126Z
 
 ---
 
@@ -392,7 +379,16 @@ Markdown 内容
 
 # twitter.com | 520 ： Web服务器返回未知错误
 
-📅 2026-03-20T15:45:22.671Z
+📅 2026-03-20T23:30:33.126Z
+
+---
+
+### X: Sam Altman
+**[网址来源： http://twitter.com/sama](https://r.jina.ai/http://twitter.com/sama)**
+
+网址来源： http://twitter.com/sama
+
+📅 2026-03-20T23:30:49.361Z
 
 ---
 
