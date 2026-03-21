@@ -1,12 +1,12 @@
 ---
 title: "2026年3月21日 - TZ日报"
-date: 2026-03-21T15:31:54.899Z
+date: 2026-03-21T23:29:27.826Z
 draft: false
 ---
 
 # 2026年3月21日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/3/21 15:31:54
+> 📊 今日汇总 38 条 · 🕐 2026/3/21 23:29:27
 
 ---
 
@@ -37,6 +37,15 @@ draft: false
 加速Codex的增长，为下一代Python开发人员工具提供支持
 
 📅 Thu, 19 Mar 2026 00:00:00 GMT
+
+---
+
+### TechCrunch AI Products
+**[为什么华尔街没有被英伟达的大型会议所吸引](https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/)**
+
+尽管投资者担心人工智能泡沫，但英伟达的最新**发布**会表明，业内大多数人并不担心这种可能性
+
+📅 Sat, 21 Mar 2026 16:28:00 +0000
 
 ---
 
@@ -100,15 +109,6 @@ NVIDIA Agent Toolkit于3月16日在圣何塞举行的GTC 2026上**发布**，是
 Mellea 0.4.0 +花岗岩库**发布**的新功能
 
 📅 Fri, 20 Mar 2026 14:14:46 GMT
-
----
-
-### TechCrunch AI Products
-**[WordPress.com现在允许人工智能代理撰写和发布帖子等](https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/)**
-
-WordPresscom上的新AI代理可以降低**发布**障碍，同时增加网络上的机器生成内容
-
-📅 Fri, 20 Mar 2026 16:43:09 +0000
 
 ---
 
@@ -275,24 +275,35 @@ Small 4进入了一个拥挤的小型模型领域，包括Qwen和**Claude** Haik
 ## 📦 GitHub热门
 
 ### GitHub New (New AI)
+![🆕 ai-shorts-gen ： AI | YouTube |短裤|视频| AI-Generator | Shorts-Generator | 2026](https://avatars.githubusercontent.com/u/268539568?v=4)
+
+**[🆕 ai-shorts-gen ： AI | YouTube |短裤|视频| AI-Generator | Shorts-Generator | 2026](https://github.com/deansorib70deer/ai-shorts-gen)**
+
+⭐ 39 star (新项目) · N/A · AI | YouTube | Shorts | Video | AI-Generator | Shorts-Generator | 2026
+
+📅 2026-03-21T16:42:50Z
+
+---
+
+### GitHub New (New AI)
 ![🆕 numcraft ： NumCraft -用于智能G代码生成的多Agent协作系统](https://avatars.githubusercontent.com/u/169448441?v=4)
 
 **[🆕 numcraft ： NumCraft -用于智能G代码生成的多Agent协作系统](https://github.com/hanshiyingbing/numcraft)**
 
-⭐ 1 star (新项目) · Python · NumCraft - Multi-Agent Collaborative System for Intelligent G-Code Generation
+⭐ 4 star (新项目) · Python · NumCraft - Multi-Agent Collaborative System for Intelligent G-Code Generation
 
 📅 2026-03-21T12:56:34Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 Agent-racing-league ：世界上第一个人工智能特工赛车联盟。想想F1 ，但驱动因素是人工智能。](https://avatars.githubusercontent.com/u/183067806?v=4)
+![🆕 NOTA ： NOTA。](https://avatars.githubusercontent.com/u/110556427?v=4)
 
-**[🆕 Agent-racing-league ：世界上第一个人工智能特工赛车联盟。想想F1 ，但驱动因素是人工智能。](https://github.com/IlyasFardaouix/Agent-racing-league)**
+**[🆕 NOTA ： NOTA。](https://github.com/Bilmem2/Nota)**
 
-⭐ 1 star (新项目) · N/A · The world's first racing league for AI agentsThink F1 - but the drivers are AI
+⭐ 1 star (新项目) · JavaScript · Nota.
 
-📅 2026-03-21T11:13:25Z
+📅 2026-03-21T20:03:17Z
 
 ---
 
@@ -307,25 +318,23 @@ Small 4进入了一个拥挤的小型模型领域，包括Qwen和**Claude** Haik
 
 ---
 
-### GitHub New (New AI)
-![🆕 AISW-25 ：人工智能辅助软件开发中故障放大器的前25名目录](https://avatars.githubusercontent.com/u/466878?v=4)
+## 💬 社交动态
 
-**[🆕 AISW-25 ：人工智能辅助软件开发中故障放大器的前25名目录](https://github.com/geeknik/AISW-25)**
+### Hacker News AI
+**[Show HN ： Travel Hacking Toolkit –使用AI进行积分搜索和行程规划](https://github.com/borski/travel-hacking-toolkit)**
 
-⭐ 1 star (新项目) · Python · Top 25 Catalog of Failure Amplifiers in AI-Assisted Software Development
+此工具包教授**Claude**代码和OpenCode如何操作它们在OpenCode和**Claude**代码中自动工作（我添加了一个小的设置脚本） ，它们可以在其他任何支持技能的工作中工作
 
-📅 2026-03-19T20:15:30Z
+📅 Sat, 21 Mar 2026 21:25:03 +0000
 
 ---
-
-## 💬 社交动态
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-03-21T15:29:04.970Z
+📅 2026-03-21T23:26:35.667Z
 
 ---
 
@@ -334,34 +343,34 @@ Small 4进入了一个拥挤的小型模型领域，包括Qwen和**Claude** Haik
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-03-21T15:30:10.774Z
+📅 2026-03-21T23:27:42.165Z
 
 ---
 
 ### Hacker News AI
-**[召回–您的人工智能环境不应该被困在一个平台中](https://chromewebstore.google.com/detail/recall/gnbbmallepmgpffoinnlkchkemgeikmg)**
+**[OpenClaw的ChatGPT时刻引发了人们对人工智能模型正在成为商品的担忧](https://www.cnbc.com/2026/03/21/openclaw-chatgpt-moment-sparks-concern-ai-models-becoming-commodities.html)**
 
-文章网址： https://chromewebstorecom/detail/recall/gnbbmallepmgpffoinnlkchkemgeikmg评论网址： https://**new**s
+com/2026/03/21/openclaw-chat**GPT**-moment-sparks-concern-ai-models-becoming-commoditieshtml评论网址： https://**new**s
 
-📅 Sat, 21 Mar 2026 14:20:57 +0000
-
----
-
-### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Title: 520: Web服务器返回未知错误
-
-📅 2026-03-21T15:29:04.970Z
+📅 Sat, 21 Mar 2026 21:32:52 +0000
 
 ---
 
 ### X: OpenAI
-**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[Title: twitter.com](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-警告：目标URL返回错误520 ：
+Title: twitter.com
 
-📅 2026-03-21T15:29:04.970Z
+📅 2026-03-21T23:26:35.667Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误500 ：内部服务器错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误500 ：内部服务器错误
+
+📅 2026-03-21T23:26:35.667Z
 
 ---
 
@@ -370,25 +379,16 @@ Title: 520: Web服务器返回未知错误
 
 Markdown 内容
 
-📅 2026-03-21T15:29:04.970Z
+📅 2026-03-21T23:26:35.667Z
 
 ---
 
 ### X: OpenAI
-**[# twitter.com | 520 ： Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[# #此页面无法正常工作](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-# twitter.com | 520 ： Web服务器返回未知错误
+# #此页面无法正常工作
 
-📅 2026-03-21T15:29:04.970Z
-
----
-
-### X: Sam Altman
-**[网址来源： http://twitter.com/sama](https://r.jina.ai/http://twitter.com/sama)**
-
-网址来源： http://twitter.com/sama
-
-📅 2026-03-21T15:29:20.644Z
+📅 2026-03-21T23:26:35.667Z
 
 ---
 
