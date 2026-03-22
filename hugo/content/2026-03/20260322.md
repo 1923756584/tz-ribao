@@ -1,12 +1,12 @@
 ---
 title: "2026年3月22日 - TZ日报"
-date: 2026-03-22T15:33:04.149Z
+date: 2026-03-22T23:31:12.053Z
 draft: false
 ---
 
 # 2026年3月22日 - TZ日报
 
-> 📊 今日汇总 35 条 · 🕐 2026/3/22 15:33:04
+> 📊 今日汇总 35 条 · 🕐 2026/3/22 23:31:12
 
 ---
 
@@ -28,6 +28,15 @@ draft: false
 在亚马逊宣布对**OpenAI**进行500亿美元投资后不久， AWS邀请我参观了交易核心的芯片实验室
 
 📅 Sun, 22 Mar 2026 12:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[你想建造一个机器人雪人吗？](https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/)**
+
+在Equity播客的最新一集中，我们回顾了首席执行官Jensen Huang的GTC主题演讲，并讨论了这对Nvidia的未来意味着什么
+
+📅 Sun, 22 Mar 2026 19:45:07 +0000
 
 ---
 
@@ -58,24 +67,6 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[Nvidia GTC发生了什么： NemoClaw、Robot Olaf和1万亿美元的赌注](https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/)**
-
-预计到2027年人工智能芯片销售额将达到1万亿美元$很难错过的信息：英伟达[…]
-
-📅 Fri, 20 Mar 2026 20:02:35 +0000
-
----
-
-### TechCrunch AI Products
-**[英伟达有OpenClaw策略，你呢？ ](https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/)**
-
-预计到2027年人工智能芯片销售额将达到1万亿美元$很难错过的信息：英伟达[…]
-
-📅 Fri, 20 Mar 2026 19:48:38 +0000
-
----
-
 ### Hugging Face
 **[在一天内构建特定于域的嵌入模型](https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune)**
 
@@ -95,20 +86,29 @@ Mellea 0.4.0 +花岗岩库**发布**的新功能
 ---
 
 ### TechCrunch AI Products
+**[Cursor承认其新的编码模型建立在Moonshot AI的Kimi之上](https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/)**
+
+建立在中国模式之上，现在感觉特别令人担忧。
+
+📅 Sun, 22 Mar 2026 18:41:09 +0000
+
+---
+
+### TechCrunch AI Products
+**[埃隆·马斯克公布SpaceX和特斯拉的芯片制造计划](https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/)**
+
+埃隆·马斯克（ Elon Musk ）最近概述了特斯拉和SpaceX进行芯片制造合作的雄心勃勃的计划—但他有过度承诺的历史
+
+📅 Sun, 22 Mar 2026 16:20:00 +0000
+
+---
+
+### TechCrunch AI Products
 **[深入调查被指控误导客户的“虚假合规”](https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/)**
 
 一篇匿名Substack帖子指责合规初创公司Delve “错误地”说服“数百名客户他们遵守”隐私和安全法规
 
 📅 Sun, 22 Mar 2026 14:43:51 +0000
-
----
-
-### TechCrunch AI Products
-**[AI代币是新的签约奖金还是仅仅是开展业务的成本？](https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/)**
-
-也许代币真的会成为工程补偿的第四大支柱，但工程师们可能想在接受这是一个直接的胜利之前坚持到底
-
-📅 Sun, 22 Mar 2026 06:20:43 +0000
 
 ---
 
@@ -173,17 +173,6 @@ Blue Ghost数据表明，美国宇航局不断增长的商业月球计划可以�
 ---
 
 ### VentureBeat
-![光标的新编码模型Composer 2在这里：它击败了Claude Opus 4.6 ，但仍然落后于GPT-5.4](https://images.ctfassets.net/jdtwqhzvc2n1/7CRPJPhCwXh9FXWrar90y5/c67c894ea0fbe9af868238b62f1b32b5/ChatGPT_Image_Mar_19__2026__04_06_03_PM.png?w=300&q=30)
-
-**[光标的新编码模型Composer 2在这里：它击败了Claude Opus 4.6 ，但仍然落后于GPT-5.4](https://venturebeat.com/technology/cursors-new-coding-model-composer-2-is-here-it-beats-claude-opus-4-6-but)**
-
-一种新的内部编码模型现在可以在其代理AI编码环境中使用，这是中国**开源**模型Kimi K2**OpenAI**和**Anthropic**的微调变体，不再仅仅通过第三方产品销售模型；他们还提供自己的编码接口
-
-📅 Thu, 19 Mar 2026 20:31:00 GMT
-
----
-
-### VentureBeat
 ![Mistral的Small 4将推理、视觉和编码整合到一个模型中，成本仅为推理成本的一小部分](https://images.ctfassets.net/jdtwqhzvc2n1/71wSj9ixss2ipTXMmtaiRE/b39963266e65012efcbb06a20701ba29/crimedy7_illustration_of_small_robots_building_a_tall_buildin_362e883b-f1a0-4032-8390-41f733af2faa_2.png?w=300&q=30)
 
 **[Mistral的Small 4将推理、视觉和编码整合到一个模型中，成本仅为推理成本的一小部分](https://venturebeat.com/technology/mistrals-small-4-consolidates-reasoning-vision-and-coding-into-one-model-at)**
@@ -205,6 +194,28 @@ Small 4进入了一个拥挤的小型模型领域，包括Qwen和**Claude** Haik
 
 ---
 
+### The Verge
+![您可以从亚马逊大春季促销中获得的最佳优惠](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268405_The_best_deals_from_Amazons_Big_Spring_Sale_event3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[您可以从亚马逊大春季促销中获得的最佳优惠](https://www.theverge.com/gadgets/895635/best-amazon-big-spring-sale-early-deals-2026)**
+
+AirPods Pro 3最近**发布**的AirPods Pro 3采用了全新设计，改进了适应性3月22日：**更新**以反映当前定价/可用性和几项新优惠
+
+📅 2026-03-22T16:42:01.000Z
+
+---
+
+### VentureBeat
+![您认为多面手已经死了--在“氛围工作”时代，他们比以往任何时候都更重要](https://images.ctfassets.net/jdtwqhzvc2n1/3xrlIxdF4stMunUA8DvaqF/4e2d7737e1d037c7a8d8ae230481ceab/AI_generalist.png?w=300&q=30)
+
+**[您认为多面手已经死了--在“氛围工作”时代，他们比以往任何时候都更重要](https://venturebeat.com/technology/you-thought-the-generalist-was-dead-in-the-vibe-work-era-theyre-more)**
+
+如果你需要一个新的图形，你等待一个设计师，这可能解释了Chat**GPT**面值后被烧伤的聪明人的数量
+
+📅 Sun, 22 Mar 2026 19:00:00 GMT
+
+---
+
 ### VentureBeat
 ![人工智能学习理解物理世界的三种方式](https://images.ctfassets.net/jdtwqhzvc2n1/6uRIArWx4IfKizK1Zy2Plj/145eb916451c49f60f70526b62e4a882/World_models.jpg?w=300&q=30)
 
@@ -213,17 +224,6 @@ Small 4进入了一个拥挤的小型模型领域，包括Qwen和**Claude** Haik
 这种限制正在推动投资者转向世界模式， AMI实验室筹集了$ 1**Google** DeepMind首席执行官Demis Hassabis在另一次采访中回应了这种观点，指出当今的人工智能模型存在“锯齿状智能”
 
 📅 Fri, 20 Mar 2026 20:30:00 GMT
-
----
-
-### VentureBeat
-![Meta的流氓AI代理通过了每个身份检查—企业IAM中的四个差距解释了原因](https://images.ctfassets.net/jdtwqhzvc2n1/6mU6gDy1sRfRCuDpkbhsK7/b5010735714e37a63de5edf000917340/hero_meta_story.jpg?w=300&q=30)
-
-**[Meta的流氓AI代理通过了每个身份检查—企业IAM中的四个差距解释了原因](https://venturebeat.com/security/meta-rogue-ai-agent-confused-deputy-iam-identity-governance-matrix)**
-
-3月18日的**Meta**曝光尚未在法医层面公开解释CVE-2026-27826和CVE-2026-27825在2月下旬通过SSRF和通过模型上下文协议（ MCP ）设计创建的信任边界的任意文件写入击中mcp-atlassian
-
-📅 Thu, 19 Mar 2026 19:20:00 GMT
 
 ---
 
@@ -248,6 +248,17 @@ Small 4进入了一个拥挤的小型模型领域，包括Qwen和**Claude** Haik
 ## 📦 GitHub热门
 
 ### GitHub New (New AI)
+![🆕 Album-Formula-Ai-2026-Update: Album | Formula | Ai | Photo | Artivicial Intelligence | Creative | Tools | Generation |](https://avatars.githubusercontent.com/u/268555220?v=4)
+
+**[🆕 Album-Formula-Ai-2026-Update: Album | Formula | Ai | Photo | Artivicial Intelligence | Creative | Tools | Generation |](https://github.com/pharaongayd/Album-Formula-Ai-2026-Update)**
+
+⭐ 40 star (新项目) · N/A · Album | Formula | Ai | Photo | Artivicial Intelligence | Creative | Tools | Generation |
+
+📅 2026-03-22T10:48:58Z
+
+---
+
+### GitHub New (New AI)
 ![🆕 ai-shorts-gen ： AI | YouTube |短裤|视频| AI-Generator | Shorts-Generator | 2026](https://avatars.githubusercontent.com/u/268539568?v=4)
 
 **[🆕 ai-shorts-gen ： AI | YouTube |短裤|视频| AI-Generator | Shorts-Generator | 2026](https://github.com/deansorib70deer/ai-shorts-gen)**
@@ -263,31 +274,20 @@ Small 4进入了一个拥挤的小型模型领域，包括Qwen和**Claude** Haik
 
 **[🆕 numcraft ： NumCraft -用于智能G代码生成的多Agent协作系统](https://github.com/hanshiyingbing/numcraft)**
 
-⭐ 10 star (新项目) · Python · NumCraft - Multi-Agent Collaborative System for Intelligent G-Code Generation
+⭐ 13 star (新项目) · Python · NumCraft - Multi-Agent Collaborative System for Intelligent G-Code Generation
 
 📅 2026-03-21T12:56:34Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 Agent-racing-league ：世界上第一个人工智能特工赛车联盟。想想F1 ，但驱动因素是人工智能。](https://avatars.githubusercontent.com/u/183067806?v=4)
+![🆕 AttendX-Ai-Attendance-Management-System ：基于面部识别的考勤管理系统，具有单独的学生和管理门户、Firebase Firestore后端和Excel数据导出](https://avatars.githubusercontent.com/u/218029664?v=4)
 
-**[🆕 Agent-racing-league ：世界上第一个人工智能特工赛车联盟。想想F1 ，但驱动因素是人工智能。](https://github.com/IlyasFardaouix/Agent-racing-league)**
+**[🆕 AttendX-Ai-Attendance-Management-System ：基于面部识别的考勤管理系统，具有单独的学生和管理门户、Firebase Firestore后端和Excel数据导出](https://github.com/Rajsharma7798/AttendX-Ai-Attendance-Management-System)**
 
-⭐ 2 star (新项目) · N/A · The world's first racing league for AI agentsThink F1 - but the drivers are AI
+⭐ 2 star (新项目) · CSS · A facial-recognition-based attendance management system with separate Student and Admin portalsFirebase Firestore backend
 
-📅 2026-03-21T11:13:25Z
-
----
-
-### GitHub New (New AI)
-![🆕 AISW-25 ：人工智能辅助软件开发中故障放大器的前25名目录](https://avatars.githubusercontent.com/u/466878?v=4)
-
-**[🆕 AISW-25 ：人工智能辅助软件开发中故障放大器的前25名目录](https://github.com/geeknik/AISW-25)**
-
-⭐ 2 star (新项目) · Python · Top 25 Catalog of Failure Amplifiers in AI-Assisted Software Development
-
-📅 2026-03-19T20:15:30Z
+📅 2026-03-22T07:02:50Z
 
 ---
 
@@ -298,7 +298,7 @@ Small 4进入了一个拥挤的小型模型领域，包括Qwen和**Claude** Haik
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-03-22T15:30:11.721Z
+📅 2026-03-22T23:29:03.891Z
 
 ---
 
@@ -307,34 +307,34 @@ Small 4进入了一个拥挤的小型模型领域，包括Qwen和**Claude** Haik
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-03-22T15:31:17.214Z
+📅 2026-03-22T23:29:57.833Z
 
 ---
 
 ### Hacker News
-**[与LLM一起在7天内逼迫我的算法无知](http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1)**
+**[将Claude教给QA移动应用程序](https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html)**
 
-文章网址： http://blogpl/my-**Google**-recruitment-journey-part-1评论网址： https://**new**s
+com/ai/zabriskie/development/android/ios/2026/03/22/teaching-**Claude**-to-qa-a-mobile-apphtml评论网址： https://**new**s
 
-📅 Sun, 22 Mar 2026 12:23:04 +0000
-
----
-
-### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Title: 520: Web服务器返回未知错误
-
-📅 2026-03-22T15:30:11.721Z
+📅 Sun, 22 Mar 2026 19:04:00 +0000
 
 ---
 
 ### X: OpenAI
-**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[Title: twitter.com](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-警告：目标URL返回错误520 ：
+Title: twitter.com
 
-📅 2026-03-22T15:30:11.721Z
+📅 2026-03-22T23:29:03.891Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误500 ：内部服务器错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误500 ：内部服务器错误
+
+📅 2026-03-22T23:29:03.891Z
 
 ---
 
@@ -343,25 +343,25 @@ Title: 520: Web服务器返回未知错误
 
 Markdown 内容
 
-📅 2026-03-22T15:30:11.721Z
+📅 2026-03-22T23:29:03.891Z
 
 ---
 
 ### X: OpenAI
-**[# twitter.com | 520 ： Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[# #此页面无法正常工作](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-# twitter.com | 520 ： Web服务器返回未知错误
+# #此页面无法正常工作
 
-📅 2026-03-22T15:30:11.721Z
+📅 2026-03-22T23:29:03.891Z
 
 ---
 
 ### X: Sam Altman
-**[Title: twitter.com](https://r.jina.ai/http://twitter.com/sama)**
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/sama)**
 
-Title: twitter.com
+Title: 520: Web服务器返回未知错误
 
-📅 2026-03-22T15:30:14.455Z
+📅 2026-03-22T23:29:19.635Z
 
 ---
 
