@@ -1,12 +1,12 @@
 ---
 title: "2026年3月23日 - TZ日报"
-date: 2026-03-23T16:06:16.323Z
+date: 2026-03-23T23:38:15.277Z
 draft: false
 ---
 
 # 2026年3月23日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/3/23 16:06:16
+> 📊 今日汇总 38 条 · 🕐 2026/3/23 23:38:15
 
 ---
 
@@ -23,27 +23,36 @@ draft: false
 ## ✨ 产品更新
 
 ### TechCrunch AI Products
-**[独家参观亚马逊的Trainium实验室，这款芯片战胜了Anthropic、OpenAI ，甚至苹果 ](https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/)**
+**[伯尼·桑德斯（ Bernie Sanders ）的“AI ’gotcha’”视频失败，但模因很棒](https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/)**
 
-在亚马逊宣布对**OpenAI**进行500亿美元投资后不久， AWS邀请我参观了交易核心的芯片实验室
+伯尼·桑德斯（ Bernie Sanders ）认为他欺骗克劳德（ **Claude** ）揭露了人工智能行业的秘密，但他实际上只是揭露了聊天机器人可以变得多么令人愉快
 
-📅 Sun, 22 Mar 2026 12:00:00 +0000
+📅 Mon, 23 Mar 2026 20:15:59 +0000
+
+---
+
+### TechCrunch AI Products
+**[初创公司Gimlet Labs正在以令人惊讶的优雅方式解决人工智能推断瓶颈](https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/)**
+
+Gimlet Labs刚刚为技术筹集了8000万美元的A轮融资，让人工智能同时在NVIDIA、AMD、英特尔、ARM、Cerebras和d-Matrix芯片上运行
+
+📅 Mon, 23 Mar 2026 16:00:00 +0000
 
 ---
 
 ### TechCrunch AI Products
 **[伊丽莎白·沃伦（ Elizabeth Warren ）称五角大楼禁止人类“报复”的决定](https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/)**
 
-马萨诸塞州参议员伊丽莎白·沃伦（ Elizabeth Warren ）将国防部将“人类”标记为“供应链风险”的决定等同于报复，理由是五角大楼可能只是终止了与人工智能实验室的合同
+马萨诸塞州参议员伊丽莎白·沃伦（ Elizabeth Warren ）将国防部将人类标记为“供应链风险”的决定等同于报复，理由是五角大楼可能只是终止了与人工智能实验室的合同
 
 📅 Mon, 23 Mar 2026 15:22:57 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[Sam Altman支持的融合初创公司Helion与OpenAI会谈](https://techcrunch.com/2026/03/23/sam-altman-backed-fusion-startup-helion-in-talks-with-openai/)**
+**[Sam Altman支持的融合初创公司Helion洽谈向OpenAI出售电力](https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/)**
 
-据报道， Helion正在谈判一项协议，将其12.5%的电力输出出售给**OpenAI**。
+**OpenAI**首席执行官Sam Altman将辞去Helion的董事会主席职务5 ％的电力输出到**OpenAI**
 
 📅 Mon, 23 Mar 2026 15:03:36 +0000
 
@@ -67,12 +76,30 @@ draft: false
 
 ---
 
-### Hugging Face
-**[在一天内构建特定于域的嵌入模型](https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune)**
+### TechCrunch AI Products
+**[Air Street以2.32亿美元的资金成为欧洲最大的独立风险投资公司之一](https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/)**
 
-在一天内构建特定于域的嵌入模型
+伦敦的Air Street Capital筹集了大量资金III ，专注于支持早期欧洲和北美人工智能公司
 
-📅 Fri, 20 Mar 2026 19:38:16 GMT
+📅 Mon, 23 Mar 2026 22:36:39 +0000
+
+---
+
+### TechCrunch AI Products
+**[Vibe编码初创公司Lovable正在寻求收购](https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/)**
+
+Lovable的创始人表示，这家快速增长的vibe-coding初创公司正在寻找初创公司和团队加入其公司
+
+📅 Mon, 23 Mar 2026 18:22:04 +0000
+
+---
+
+### TechCrunch AI Products
+**[苹果为WWDC 2026设定6月日期，戏弄“人工智能进步”](https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/)**
+
+苹果将在6月8日的一周内举办下一届全球开发者大会该公司预计将宣布Siri的重大**更新**，提供先进的人工智能功能
+
+📅 Mon, 23 Mar 2026 18:00:45 +0000
 
 ---
 
@@ -82,33 +109,6 @@ draft: false
 Littlebird正在构建一种人工智能，可以实时读取您的屏幕，无需依赖屏幕截图即可捕捉上下文
 
 📅 Mon, 23 Mar 2026 16:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[Cursor承认其新的编码模型建立在Moonshot AI的Kimi之上](https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/)**
-
-建立在中国模式之上，现在感觉特别令人担忧。
-
-📅 Sun, 22 Mar 2026 18:41:09 +0000
-
----
-
-### TechCrunch AI Products
-**[埃隆·马斯克公布SpaceX和特斯拉的芯片制造计划](https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/)**
-
-埃隆·马斯克（ Elon Musk ）最近概述了特斯拉和SpaceX进行芯片制造合作的雄心勃勃的计划—但他有过度承诺的历史
-
-📅 Sun, 22 Mar 2026 16:20:00 +0000
-
----
-
-### TechCrunch AI Products
-**[深入调查被指控误导客户的“虚假合规”](https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/)**
-
-一篇匿名Substack帖子指责合规初创公司Delve “错误地”说服“数百名客户他们遵守”隐私和安全法规
-
-📅 Sun, 22 Mar 2026 14:43:51 +0000
 
 ---
 
@@ -188,36 +188,36 @@ Littlebird正在构建一种人工智能，可以实时读取您的屏幕，无�
 
 ## 🌍 行业展望
 
-### The Verge
-![面对冒充我的人工智能公司的首席执行官](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/DCD-Shishir-Mehotra.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### VentureBeat
+![Cursor的Composer 2是秘密建立在中国人工智能模型上的，它暴露了西方开源人工智能的一个更深层次的问题](https://images.ctfassets.net/jdtwqhzvc2n1/7a8n1bmDAmuV6id2deROfO/c65ac1fa10f0402f07033fde6c788fe7/Gemini_Generated_Image_vch07ovch07ovch0.png?w=300&q=30)
 
-**[面对冒充我的人工智能公司的首席执行官](https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation)**
+**[Cursor的Composer 2是秘密建立在中国人工智能模型上的，它暴露了西方开源人工智能的一个更深层次的问题](https://venturebeat.com/technology/cursors-composer-2-was-secretly-built-on-a-chinese-ai-model-and-it-exposes-a)**
 
-因此，如果您来到**Claude**或**Gemini**或Chat**GPT**并说我个人对应该发生的事情的看法是，我应该来Chat**GPT**或**Gemini**或**Claude** ，我应该证明我是纽约时报的订阅者
+虽然**GPT**-oss-120b是西方**开源**的巨大成就，提供了与o4-mini-等专有模型相媲美的推理能力，但它基本上是一种稀疏的专家混合（ MoE ）模型，仅激活了5**OpenAI**的模型，并根据数十年的学术研究和互联网规模的数据进行了培训
 
-📅 2026-03-23T13:30:00.000Z
+📅 Mon, 23 Mar 2026 04:00:00 GMT
 
 ---
 
 ### VentureBeat
-![Scale AI推出Voice Showdown ，这是语音AI的首个真实世界基准—对于一些顶级机型来说，结果令人羞愧](https://images.ctfassets.net/jdtwqhzvc2n1/5Aoh7Kr0KEA1qkUcBHmU2/c7bb3f5c69b6271011b3363540d40996/Gemini_Generated_Image_8crymu8crymu8cry.png?w=300&q=30)
+![Luma AI推出Uni-1 ，该模型超越谷歌和OpenAI ，同时成本降低高达30 ％](https://images.ctfassets.net/jdtwqhzvc2n1/2WIIZJiZwpNn2JtQgzC25a/603225c9ce69b6cb98016a1c5dc43ad4/Screenshot_2026-03-23_at_1.13.43â__PM.png?w=300&q=30)
 
-**[Scale AI推出Voice Showdown ，这是语音AI的首个真实世界基准—对于一些顶级机型来说，结果令人羞愧](https://venturebeat.com/data/scale-ai-launches-voice-showdown-the-first-real-world-benchmark-for-voice-ai)**
+**[Luma AI推出Uni-1 ，该模型超越谷歌和OpenAI ，同时成本降低高达30 ％](https://venturebeat.com/technology/luma-ai-launches-uni-1-a-model-that-outscores-google-and-openai-while)**
 
-每个主要的人工智能实验室--**OpenAI**、**Google** DeepMind、**Anthropic**、xAI--都在竞相**推出**能够进行自然、实时对话的语音模型截至3月18日，每个企业决策者都应该关注Voice Showdown的11个前沿模型，这些模型在52个模型—语音对中进行了评估
+公开**发布**的Uni-1 —不仅在图像质量上与谷歌竞争，而且从根本上重新思考人工智能应该如何首先创建图像Uni-1在谷歌的Nano Banana 2和**OpenAI**的**GPT** Image 1中名列前茅
 
-📅 Fri, 20 Mar 2026 16:23:00 GMT
+📅 Mon, 23 Mar 2026 08:00:00 GMT
 
 ---
 
-### The Verge
-![您可以从亚马逊大春季促销中获得的最佳优惠](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268405_The_best_deals_from_Amazons_Big_Spring_Sale_event3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### VentureBeat
+![将人工智能代理演示与实际部署分开的三个学科](https://images.ctfassets.net/jdtwqhzvc2n1/2dOARvl2FiQcSlFYjiW5kv/35e33899a22a4a743fb556ebb6f0e0e9/Agent_thinking.png?w=300&q=30)
 
-**[您可以从亚马逊大春季促销中获得的最佳优惠](https://www.theverge.com/gadgets/895635/best-amazon-big-spring-sale-early-deals-2026)**
+**[将人工智能代理演示与实际部署分开的三个学科](https://venturebeat.com/orchestration/the-three-disciplines-separating-ai-agent-demos-from-real-world-deployment)**
 
-AirPods Pro 3最近**发布**的AirPods Pro 3采用了全新设计，改进了适应性3月22日：**更新**以反映当前定价/可用性和几项新优惠
+此模型通常不需要自定义再培训或新的基础模型无论企业使用什么模型（ **GPT**
 
-📅 2026-03-22T16:42:01.000Z
+📅 Mon, 23 Mar 2026 16:00:00 GMT
 
 ---
 
@@ -228,18 +228,18 @@ AirPods Pro 3最近**发布**的AirPods Pro 3采用了全新设计，改进了�
 
 如果你需要一个新的图形，你等待一个设计师，这可能解释了Chat**GPT**面值后被烧伤的聪明人的数量
 
-📅 Sun, 22 Mar 2026 19:00:00 GMT
+📅 Mon, 23 Mar 2026 19:00:00 GMT
 
 ---
 
 ### VentureBeat
-![人工智能学习理解物理世界的三种方式](https://images.ctfassets.net/jdtwqhzvc2n1/6uRIArWx4IfKizK1Zy2Plj/145eb916451c49f60f70526b62e4a882/World_models.jpg?w=300&q=30)
+![英伟达的Nemotron-Cascade 2凭借3B活动参数赢得数学和编码金牌—其培训后配方现已开源](https://images.ctfassets.net/jdtwqhzvc2n1/20yzKv5Ku7l9Arjz45XFYf/98ea78e203ff12c58372b0046d925b2d/nvidia_nemotron-cascade2.png?w=300&q=30)
 
-**[人工智能学习理解物理世界的三种方式](https://venturebeat.com/technology/three-ways-ai-is-learning-to-understand-the-physical-world)**
+**[英伟达的Nemotron-Cascade 2凭借3B活动参数赢得数学和编码金牌—其培训后配方现已开源](https://venturebeat.com/orchestration/nvidias-nemotron-cascade-2-wins-math-and-coding-gold-medals-with-3b-active)**
 
-这种限制正在推动投资者转向世界模式， AMI实验室筹集了$ 1**Google** DeepMind首席执行官Demis Hassabis在另一次采访中回应了这种观点，指出当今的人工智能模型存在“锯齿状智能”
+英伟达的最新版本直接挑战了这种规模假设，其背后的培训方案对企业AI团队来说可能比模型本身更**重要**开放权重模型的Cascade RL训练后管道
 
-📅 Fri, 20 Mar 2026 20:30:00 GMT
+📅 Mon, 23 Mar 2026 11:30:00 GMT
 
 ---
 
@@ -253,20 +253,22 @@ AirPods Pro 3最近**发布**的AirPods Pro 3采用了全新设计，改进了�
 ---
 
 ### Ars Technica
-**[微软一直坚持认为它坚定地致力于Windows 11的质量](https://arstechnica.com/gadgets/2026/03/microsoft-keeps-insisting-that-its-deeply-committed-to-the-quality-of-windows-11/)**
+**[英伟达首席执行官试图解释为什么DLSS 5不仅仅是“AI SLOP”](https://arstechnica.com/gaming/2026/03/nvidia-ceo-tries-to-explain-why-dlss-5-isnt-just-ai-slop/)**
 
-“减少不必要的Copilot入口点”是Microsoft的行动项目之一。
+如果游戏开发者不喜欢它， “他们可以决定不使用它，你知道吗？”
 
-📅 Fri, 20 Mar 2026 21:26:50 +0000
+📅 Mon, 23 Mar 2026 21:19:51 +0000
 
 ---
 
-### TechCrunch
-**[初创公司Gimlet Labs正在以令人惊讶的优雅方式解决人工智能推断瓶颈](https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/)**
+### The Verge
+![适合儿童的Fitbit Ace价格为100 $ ，与其最优惠的价格相匹配](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25563415/Fitbit_Ace_LTE_Lifestyle_Press_Image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-Gimlet Labs刚刚为技术筹集了8000万美元的A轮融资，让人工智能同时在NVIDIA、AMD、英特尔、ARM、Cerebras和d-Matrix芯片上运行
+**[适合儿童的Fitbit Ace价格为100 $ ，与其最优惠的价格相匹配](https://www.theverge.com/gadgets/899134/fitbit-ace-amazon-big-spring-sale-2026-deal)**
 
-📅 Mon, 23 Mar 2026 16:00:00 +0000
+Fitbit Ace LTE将锻炼变成了儿童游戏，在零售商的大春季促销之前，它将在亚马逊的多家零售商处销售95 （折扣$ 80 ）
+
+📅 2026-03-23T21:10:28.000Z
 
 ---
 
@@ -277,7 +279,7 @@ Gimlet Labs刚刚为技术筹集了8000万美元的A轮融资，让人工智能�
 
 **[🆕 Album-Formula-Ai-2026-Update: Album | Formula | Ai | Photo | Artivicial Intelligence | Creative | Tools | Generation |](https://github.com/pharaongayd/Album-Formula-Ai-2026-Update)**
 
-⭐ 40 star (新项目) · N/A · Album | Formula | Ai | Photo | Artivicial Intelligence | Creative | Tools | Generation |
+⭐ 41 star (新项目) · N/A · Album | Formula | Ai | Photo | Artivicial Intelligence | Creative | Tools | Generation |
 
 📅 2026-03-22T10:48:58Z
 
@@ -299,7 +301,7 @@ Gimlet Labs刚刚为技术筹集了8000万美元的A轮融资，让人工智能�
 
 **[🆕 numcraft ： NumCraft -用于智能G代码生成的多Agent协作系统](https://github.com/hanshiyingbing/numcraft)**
 
-⭐ 14 star (新项目) · Python · NumCraft - Multi-Agent Collaborative System for Intelligent G-Code Generation
+⭐ 15 star (新项目) · Python · NumCraft - Multi-Agent Collaborative System for Intelligent G-Code Generation
 
 📅 2026-03-21T12:56:34Z
 
@@ -318,12 +320,21 @@ Gimlet Labs刚刚为技术筹集了8000万美元的A轮融资，让人工智能�
 
 ## 💬 社交动态
 
+### Hacker News AI
+**[欢迎来到AI代理军备竞赛](https://www.axios.com/2026/03/23/openclaw-agents-nvidia-anthropic-perplexity)**
+
+文章网址： https://wwwcom/2026/03/23/openclaw-agents-nvidia-**Anthropic**-perplexity评论网址： https://**new**s
+
+📅 Mon, 23 Mar 2026 22:31:16 +0000
+
+---
+
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-03-23T16:03:22.883Z
+📅 2026-03-23T23:34:59.960Z
 
 ---
 
@@ -332,61 +343,52 @@ Gimlet Labs刚刚为技术筹集了8000万美元的A轮融资，让人工智能�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-03-23T16:04:28.522Z
+📅 2026-03-23T23:36:18.445Z
+
+---
+
+### Hacker News
+**[英伟达首席执行官Jensen Huang表示“我认为我们已经实现了AGI”](https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi)**
+
+文章网址： https://wwwcom/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi评论网址： https://**new**s
+
+📅 Mon, 23 Mar 2026 22:24:09 +0000
+
+---
+
+### Hacker News
+**[Chat GPT 5.2无法解释德语单词“geschniegelt”](https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/)**
+
+文章网址： https://oldcom/r/Chat**GPT**/comments/1r4goxh/chat_**GPT**_52_cannot_explain_the_word_geschniegelt/评论网址： https://**new**s
+
+📅 Mon, 23 Mar 2026 21:47:42 +0000
+
+---
+
+### Hacker News
+**[Claude密码备忘单](https://cc.storyfox.cz)**
+
+文章网址： https://cccz评论网址： https://**new**s
+
+📅 Mon, 23 Mar 2026 21:44:20 +0000
+
+---
+
+### Hacker News
+**[如何利用Claude Code提高工作效率](https://neilkakkar.com/productive-with-claude-code.html)**
+
+com/productive-with-**Claude**-codehtml评论网址： https://**new**s
+
+📅 Mon, 23 Mar 2026 20:49:10 +0000
 
 ---
 
 ### Hacker News AI
-**[Chat Archiver保存到PC AI聊天–使用ChatGPT/其他（ PyQt5 ，开源）](https://gitlab.com/LucLab1/chat-archiver)**
+**[受过鸟鸣训练的人工智能可以识别鲸鱼的叫声](https://spectrum.ieee.org/foundation-models-google-birds-whales)**
 
-文章网址： https://gitlabcom/LucLab1/chat-archiver评论网址： https://**new**s
+文章网址： https://spectrumorg/foundation-models-**Google**-birds-whales评论网址： https://**new**s
 
-📅 Mon, 23 Mar 2026 15:20:51 +0000
-
----
-
-### Hacker News AI
-**[参谋长](https://github.com/mimurchison/claude-chief-of-staff)**
-
-文章网址： https://githubcom/mimurchison/**Claude**-chief-of-staff评论网址： https://**new**s
-
-📅 Mon, 23 Mar 2026 15:16:27 +0000
-
----
-
-### X: OpenAI
-**[Title: twitter.com](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Title: twitter.com
-
-📅 2026-03-23T16:03:22.883Z
-
----
-
-### X: OpenAI
-**[警告：目标URL返回错误500 ：内部服务器错误](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-警告：目标URL返回错误500 ：内部服务器错误
-
-📅 2026-03-23T16:03:22.883Z
-
----
-
-### X: OpenAI
-**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Markdown 内容
-
-📅 2026-03-23T16:03:22.883Z
-
----
-
-### X: OpenAI
-**[# #此页面无法正常工作](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-# #此页面无法正常工作
-
-📅 2026-03-23T16:03:22.883Z
+📅 Mon, 23 Mar 2026 23:23:11 +0000
 
 ---
 
