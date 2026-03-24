@@ -1,12 +1,12 @@
 ---
 title: "2026年3月24日 - TZ日报"
-date: 2026-03-24T16:13:48.557Z
+date: 2026-03-24T23:37:04.989Z
 draft: false
 ---
 
 # 2026年3月24日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/3/24 16:13:48
+> 📊 今日汇总 38 条 · 🕐 2026/3/24 23:37:04
 
 ---
 
@@ -23,11 +23,38 @@ draft: false
 ## ✨ 产品更新
 
 ### OpenAI Blog
-**[在ChatGPT中推动产品发现](https://openai.com/index/powering-product-discovery-in-chatgpt)**
+**[帮助开发人员为青少年打造更安全的人工智能体验](https://openai.com/index/teen-safety-policies-gpt-oss-safeguard)**
 
-Chat**GPT**引入了由Agentic Commerce协议提供支持的富有视觉沉浸感的购物体验
+**OpenAI**为使用**GPT**-oss-safeguard的开发人员**发布**基于提示的青少年安全策略，帮助降低人工智能系统中特定于年龄的风险
 
-📅 Tue, 24 Mar 2026 09:00:00 GMT
+📅 Tue, 24 Mar 2026 11:00:00 GMT
+
+---
+
+### TechCrunch AI Products
+**[Anthropic让Claude Code拥有更多控制权，但却让它始终处于束缚状态](https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/)**
+
+**Anthropic**针对**Claude** Code的全新自动模式让人工智能以更少的批准执行任务，反映出更广泛地转向更自主的工具，通过内置的保障措施平衡速度与安全
+
+📅 Tue, 24 Mar 2026 21:00:30 +0000
+
+---
+
+### TechCrunch AI Products
+**[OpenAI让ChatGPT更像亚马逊的计划进展不顺利](https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/)**
+
+**OpenAI**表示，它正在摆脱即时结账，即时结账允许用户直接通过Chat**GPT**界面购买商品
+
+📅 Tue, 24 Mar 2026 19:27:56 +0000
+
+---
+
+### TechCrunch AI Products
+**[Google TV的全新双子座功能可让粉丝随时了解体育团队的最新动态等](https://techcrunch.com/2026/03/24/google-tv-new-gemini-features-keep-fans-updated-on-sports-teams-deep-dives-visual-answers/)**
+
+您的**Google** TV将提供三项双子座功能，包括视觉响应、深度潜水和运动简报
+
+📅 Tue, 24 Mar 2026 19:12:11 +0000
 
 ---
 
@@ -40,39 +67,30 @@ Chat**GPT**引入了由Agentic Commerce协议提供支持的富有视觉沉浸�
 
 ---
 
-### TechCrunch AI Products
-**[Agile Robots成为与Google DeepMind合作的最新机器人公司](https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/)**
+### OpenAI Blog
+**[在ChatGPT中推动产品发现](https://openai.com/index/powering-product-discovery-in-chatgpt)**
 
-Agile Robots将**Google** DeepMind的机器人基础模型整合到其机器人中，同时为人工智能研究实验室收集数据
+Chat**GPT**引入了由Agentic Commerce协议提供支持的富有视觉沉浸感的购物体验
 
-📅 Tue, 24 Mar 2026 12:05:00 +0000
-
----
-
-### TechCrunch AI Products
-**[伯尼·桑德斯（ Bernie Sanders ）的“AI ’gotcha’”视频失败，但模因很棒](https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/)**
-
-伯尼·桑德斯（ Bernie Sanders ）认为他欺骗克劳德（ **Claude** ）揭露了人工智能行业的秘密，但他实际上只是揭露了聊天机器人可以变得多么令人愉快
-
-📅 Mon, 23 Mar 2026 20:15:59 +0000
+📅 Tue, 24 Mar 2026 09:00:00 GMT
 
 ---
 
 ### TechCrunch AI Products
-**[初创公司Gimlet Labs正在以令人惊讶的优雅方式解决人工智能推断瓶颈](https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/)**
+**[ARM正在发布其35年历史上的第一款内部芯片](https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/)**
 
-Gimlet Labs刚刚为技术筹集了8000万美元的A轮融资，让人工智能同时在NVIDIA、AMD、英特尔、ARM、Cerebras和d-Matrix芯片上运行
+ARM**首次**生产自己的CPU它开发了带有**Meta**的CPU ，这也是芯片的第一个客户
 
-📅 Mon, 23 Mar 2026 16:00:00 +0000
+📅 Tue, 24 Mar 2026 19:48:54 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[伊丽莎白·沃伦（ Elizabeth Warren ）称五角大楼禁止人类“报复”的决定](https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/)**
+**[OpenAI添加开源工具，帮助开发人员构建青少年安全](https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/)**
 
-马萨诸塞州参议员伊丽莎白·沃伦（ Elizabeth Warren ）将国防部将人类标记为“供应链风险”的决定等同于报复，理由是五角大楼可能只是终止了与人工智能实验室的合同
+开发人员可以使用这些策略来巩固他们构建的内容，而不是从头开始研究如何为青少年提供更安全的人工智能
 
-📅 Mon, 23 Mar 2026 15:22:57 +0000
+📅 Tue, 24 Mar 2026 18:41:34 +0000
 
 ---
 
@@ -91,24 +109,6 @@ Gimlet Labs刚刚为技术筹集了8000万美元的A轮融资，让人工智能�
 评估语音座席(EVA)的新框架
 
 📅 Tue, 24 Mar 2026 02:01:52 GMT
-
----
-
-### TechCrunch AI Products
-**[认识这位前苹果设计师，他在Hark构建了一个新的人工智能界面](https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/)**
-
-该公司表示，它将协同设计模型、硬件和接口，以提供“无缝的端到端个人智能产品
-
-📅 Tue, 24 Mar 2026 16:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[Mirage筹集了7500万美元，继续为其AI视频编辑应用程序Captions构建模型](https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/)**
-
-视频编辑应用程序Captions的制造商Mirage已从General Catalyst的客户价值基金（ CVF ）筹集了7500万美元的增长融资
-
-📅 Tue, 24 Mar 2026 13:00:00 +0000
 
 ---
 
@@ -189,6 +189,17 @@ Gimlet Labs刚刚为技术筹集了8000万美元的A轮融资，让人工智能�
 ## 🌍 行业展望
 
 ### VentureBeat
+![Anthropic的Claude现在可以控制您的Mac ，升级战斗以构建实际工作的人工智能代理](https://images.ctfassets.net/jdtwqhzvc2n1/6pKUpuFXpAqiUR5x0wZLWD/926372d4a092d0a8c957d2aaf11334b5/nuneybits_Vector_art_of_cobalt_Mac_ghost-cursor_in_burnt_orange_2d33f7ea-2b08-4424-8cce-ad1e4c539c0e.webp?w=300&q=30)
+
+**[Anthropic的Claude现在可以控制您的Mac ，升级战斗以构建实际工作的人工智能代理](https://venturebeat.com/technology/anthropics-claude-can-now-control-your-mac-escalating-the-fight-to-build-ai)**
+
+在**Claude**的电脑使用中： **Anthropic**的AI代理如何决定何时单击**Anthropic**训练**Claude**以避免参与股票交易
+
+📅 Tue, 24 Mar 2026 20:00:00 GMT
+
+---
+
+### VentureBeat
 ![Ai2发布了MolmoWeb ，这是一个开放式的可视化Web代理，具有30K的人类任务轨迹和完整的训练堆栈](https://images.ctfassets.net/jdtwqhzvc2n1/4pUUvcojDe8EOzTGx66QN2/9da033ebaefe7e31158933bdc91df65f/browser-agent-smk1.jpg?w=300&q=30)
 
 **[Ai2发布了MolmoWeb ，这是一个开放式的可视化Web代理，具有30K的人类任务轨迹和完整的训练堆栈](https://venturebeat.com/data/ai2-releases-molmoweb-an-open-weight-visual-web-agent-with-30k-human-task)**
@@ -207,6 +218,17 @@ Gimlet Labs刚刚为技术筹集了8000万美元的A轮融资，让人工智能�
 虽然许多人选择通过**OpenAI**或**Anthropic** API进行基于云的推理5 ，但**Anthropic**的**Claude**、**OpenAI**的**GPT**变体和本地模型通过Ollama运行
 
 📅 Tue, 24 Mar 2026 02:16:00 GMT
+
+---
+
+### VentureBeat
+![OpenAI正在关闭其强大的AI视频模型、应用和API Sora](https://images.ctfassets.net/jdtwqhzvc2n1/2dEwFNdOd4Uf698uIDeFAS/3ef7de3b64485733a3e978e5dfefe358/Gemini_Generated_Image_1bsv991bsv991bsv.png?w=300&q=30)
+
+**[OpenAI正在关闭其强大的AI视频模型、应用和API Sora](https://venturebeat.com/technology/openai-is-shutting-down-sora-its-powerful-ai-video-app)**
+
+Sora和Chat**GPT** Images预计将于2026年初开始使用迪士尼的多品牌授权角色生成以粉丝为灵感的视频”根据今天的新闻，此举是在**OpenAI**公开表示打算专注于构建一个“超级应用程序”，该应用程序将折叠其各种产品的部分或全部功能，包括聊天机器人Chat**GPT**
+
+📅 Tue, 24 Mar 2026 21:20:00 GMT
 
 ---
 
@@ -230,58 +252,45 @@ Gimlet Labs刚刚为技术筹集了8000万美元的A轮融资，让人工智能�
 
 ---
 
-### The Verge
-![Meta对儿童安全的考虑掌握在两个陪审团手中](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25263315/STK169_Zuckerberg_B_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### Wired Technology
+**[法官说，五角大楼“试图削弱”人类是令人不安的](https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/)**
 
-**[Meta对儿童安全的考虑掌握在两个陪审团手中](https://www.theverge.com/policy/899494/meta-new-mexico-los-angeles-kids-safety-jury-trial)**
+在周二的听证会上，一名地方法院法官质疑国防部将**Claude** AI开发人员标记为供应链风险的动机
 
-新墨西哥州陪审团在**Meta**被指控在其平台上为儿童掠夺者提供便利的审判中听取了终结辩论-该公司强烈否认了对公司的裁决……阅读The Verge的完整故事
-
-📅 2026-03-24T14:56:31.000Z
+📅 Tue, 24 Mar 2026 22:13:17 +0000
 
 ---
 
-### The Verge
-![Anthropic的Claude Code和Cowork可以控制您的计算机](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Anthropic-Claude-Code-Cowork-computer-control.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### Wired Technology
+**[ARM现在正在制造自己的芯片](https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/)**
 
-**[Anthropic的Claude Code和Cowork可以控制您的计算机](https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer)**
+这家芯片设计公司表示， **Meta**、**OpenAI**、Cerebras和Cloudflare是其新人工智能硬件的首批客户
 
-| **Anthropic** **Anthropic**的图片**更新**了**Claude** ，通过使用您的计算机自主执行其Code和Cowork AI工具中的任务这些新功能可作为**Claude** Pro和Max订阅者的研究预览
-
-📅 2026-03-24T13:32:23.000Z
-
----
-
-### VentureBeat
-![您认为多面手已经死了--在“氛围工作”时代，他们比以往任何时候都更重要](https://images.ctfassets.net/jdtwqhzvc2n1/3xrlIxdF4stMunUA8DvaqF/4e2d7737e1d037c7a8d8ae230481ceab/AI_generalist.png?w=300&q=30)
-
-**[您认为多面手已经死了--在“氛围工作”时代，他们比以往任何时候都更重要](https://venturebeat.com/technology/you-thought-the-generalist-was-dead-in-the-vibe-work-era-theyre-more)**
-
-如果你需要一个新的图形，你等待一个设计师，这可能解释了Chat**GPT**面值后被烧伤的聪明人的数量
-
-📅 Mon, 23 Mar 2026 19:00:00 GMT
-
----
-
-### Ars Technica
-**[英伟达首席执行官试图解释为什么DLSS 5不仅仅是“AI SLOP”](https://arstechnica.com/gaming/2026/03/nvidia-ceo-tries-to-explain-why-dlss-5-isnt-just-ai-slop/)**
-
-如果游戏开发者不喜欢它， “他们可以决定不使用它，你知道吗？”
-
-📅 Mon, 23 Mar 2026 21:19:51 +0000
+📅 Tue, 24 Mar 2026 17:00:00 +0000
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![cs249r_book ：机器学习系统](https://avatars.githubusercontent.com/u/47722602?v=4)
+![screenpipe ： screenpipe将您的计算机转变为个人人工智能，了解您所做的一切。记录。搜索。自动化。所有本地，所有私人，所有您的。](https://avatars.githubusercontent.com/u/259178917?v=4)
 
-**[cs249r_book ：机器学习系统](https://github.com/harvard-edge/cs249r_book)**
+**[screenpipe ： screenpipe将您的计算机转变为个人人工智能，了解您所做的一切。记录。搜索。自动化。所有本地，所有私人，所有您的。](https://github.com/screenpipe/screenpipe)**
 
-⭐ 22,906星· 2725叉· JavaScript ·机器学习系统
+⭐ 17,532星· 1507叉· Rust · screenpipe将您的计算机转变为个人人工智能，它知道您所做的一切，所有本地，所有私人，所有您的
 
-📅 2026-03-24T16:11:48Z
+📅 2026-03-24T23:33:59Z
+
+---
+
+### GitHub Active (AI/ML)
+![ComfyUI_frontend ： ComfyUI的官方前端实现](https://avatars.githubusercontent.com/u/166579949?v=4)
+
+**[ComfyUI_frontend ： ComfyUI的官方前端实现](https://github.com/Comfy-Org/ComfyUI_frontend)**
+
+⭐ 1718星· 529叉· TypeScript · ComfyUI官方前端实现
+
+📅 2026-03-24T23:35:04Z
 
 ---
 
@@ -307,63 +316,14 @@ Gimlet Labs刚刚为技术筹集了8000万美元的A轮融资，让人工智能�
 
 ---
 
-### GitHub New (New AI)
-![🆕 numcraft ： NumCraft -用于智能G代码生成的多Agent协作系统](https://avatars.githubusercontent.com/u/169448441?v=4)
-
-**[🆕 numcraft ： NumCraft -用于智能G代码生成的多Agent协作系统](https://github.com/hanshiyingbing/numcraft)**
-
-⭐ 21 star (新项目) · Python · NumCraft - Multi-Agent Collaborative System for Intelligent G-Code Generation
-
-📅 2026-03-21T12:56:34Z
-
----
-
 ## 💬 社交动态
 
-### Reddit: r/artificial
-**[三家公司在同一两周内出货了“桌面上的人工智能代理”。这不是巧合。](https://www.reddit.com/r/artificial/comments/1s2ddgb/three_companies_shipped_ai_agent_on_your_desktop/)**
+### Hacker News AI
+**[Show HN: Origin –人工智能代理的Git指责（跟踪哪个人工智能写了每一行）](https://getorigin.io)**
 
-3月16日： Meta**推出**Manus “My Computer” 3月23日： **Anthropic**为**Claude**提供电脑使用和调度
+Origin与**Claude** Code、Cursor、**Gemini**挂钩， CodexCLI是**开源**的（ MIT ） ： github
 
-📅 2026-03-24T13:12:00.000Z
-
----
-
-### Reddit: r/singularity
-![双子座3.1如何处于SWE-bench的顶端？](https://preview.redd.it/b05nl28nbzqg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b7f191ef09c1c2194154af5a5febaff0b2c87aeb)
-
-**[双子座3.1如何处于SWE-bench的顶端？](https://www.reddit.com/r/singularity/comments/1s2b8ue/how_is_gemini_31_at_the_top_of_swebench/)**
-
-根据我的个人经验，它远不如**Claude** Opus 46或**GPT** 5那样可靠或强大
-
-📅 2026-03-24T11:34:18.000Z
-
----
-
-### Reddit: r/artificial
-**[情报、机构和人工智能的人类意志](https://www.reddit.com/r/artificial/comments/1s2h85a/intelligence_agency_and_the_human_will_of_ai/)**
-
-而Hitzig偏离**OpenAI**T的核心论点是，人工智能并没有制定自己的目标，
-
-📅 2026-03-24T15:37:17.000Z
-
----
-
-### Reddit: r/MachineLearning
-**[[R]检测便宜，学习路由：为什么基于拒绝的对齐评估失败（ arXiv 2603.18280 ）](https://www.reddit.com/r/MachineLearning/comments/1s1j4tr/r_detection_is_cheap_routing_is_learned_why/)**
-
-设置：来自五个实验室的九个开放权重模型（ Qwen/阿里巴巴， **DeepSeek** ， GLM/Zhipu ， PHI/Microsoft ，加上Yi进行方向分析）跨模型传输失败（余弦0
-
-📅 2026-03-23T14:55:48.000Z
-
----
-
-### Reddit: r/singularity
-**[Anthropic与专业分析哲学家接触，评估模型的推理能力](https://www.reddit.com/r/singularity/comments/1s25mky/anthropic_in_contact_with_professional_analytic/)**
-
-宗教和形而上学博学哲学家解释了他的道德疑虑，他几天前被**Anthropic**接近，以评估他们的模型推理能力，由/u/Trolulz提交[link] [comments]
-
-📅 2026-03-24T05:58:02.000Z
+📅 Tue, 24 Mar 2026 22:15:33 +0000
 
 ---
 
@@ -372,7 +332,7 @@ Gimlet Labs刚刚为技术筹集了8000万美元的A轮融资，让人工智能�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-03-24T16:10:33.125Z
+📅 2026-03-24T23:34:22.366Z
 
 ---
 
@@ -381,16 +341,52 @@ Gimlet Labs刚刚为技术筹集了8000万美元的A轮融资，让人工智能�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-03-24T16:11:51.536Z
+📅 2026-03-24T23:35:27.791Z
 
 ---
 
 ### Hacker News
-**[Show HN ： Gemini现在可以原生嵌入视频，所以我构建了亚秒视频搜索](https://github.com/ssrajadh/sentrysearch)**
+**[陪审团认定Meta对其平台上的儿童性剥削案件负有责任](https://www.cnn.com/2026/03/24/tech/meta-new-mexico-trial-jury-deliberation)**
 
-**Gemini** Embedding 2可以将原始视频直接投影到GitHub README上的textDemo视频旁边的768维矢量空间中
+文章网址： https://wwwcom/2026/03/24/tech/**Meta**-**new**-mexico-trial-jury-deliberation评论网址： https://**new**s
 
-📅 Tue, 24 Mar 2026 14:58:27 +0000
+📅 Tue, 24 Mar 2026 21:54:27 +0000
+
+---
+
+### Hacker News
+**[我们要和Sora说再见了](https://twitter.com/soraofficialapp/status/2036532795984715896)**
+
+com/business/digital/**OpenAI**-sh评论网址： https://**new**s
+
+📅 Tue, 24 Mar 2026 20:01:05 +0000
+
+---
+
+### Hacker News AI
+**[Bleep –本地AI DLP代理，在到达ChatGPT之前捕获秘密](https://www.bleep-it.com)**
+
+文章网址： https://wwwcom评论网址： https://**new**s
+
+📅 Tue, 24 Mar 2026 23:31:21 +0000
+
+---
+
+### Hacker News AI
+**[OpenAI在短短六个月后关闭了AI视频生成器Sora](https://www.theguardian.com/technology/2026/mar/24/openai-ai-video-sora)**
+
+文章网址： https://wwwcom/technology/2026/mar/24/**OpenAI**-ai-video-sora评论网址： https://**new**s
+
+📅 Tue, 24 Mar 2026 23:15:16 +0000
+
+---
+
+### Hacker News AI
+**[Show HN ： Palettepoint.com ，配备12万多个精选调色板的人工智能调色板生成器](https://palettepoint.com)**
+
+对话是持久的，因此您可以像在Chat**GPT**中一样优化结果（ “使其更静音” ， “添加蓝绿色口音” ）图库中还有12万多个调色板，从照片中提取并由人工智能生成
+
+📅 Tue, 24 Mar 2026 22:18:32 +0000
 
 ---
 
