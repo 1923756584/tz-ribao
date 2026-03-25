@@ -1,12 +1,12 @@
 ---
 title: "2026年3月25日 - TZ日报"
-date: 2026-03-25T16:16:22.920Z
+date: 2026-03-25T23:40:36.554Z
 draft: false
 ---
 
 # 2026年3月25日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/3/25 16:16:22
+> 📊 今日汇总 38 条 · 🕐 2026/3/25 23:40:36
 
 ---
 
@@ -31,12 +31,41 @@ draft: false
 
 ---
 
+### Google AI Blog
+![使用我们最新的音乐生成模型Lyria 3构建](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BuildWithLyria3_social.max-600x600.format-webp.webp)
+
+**[使用我们最新的音乐生成模型Lyria 3构建](https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/)**
+
+Lyria 3现在可以通过**Gemini** API进行付费预览，也可以在**Google** AI St**Udio**中进行测试。
+
+📅 Wed, 25 Mar 2026 16:00:00 +0000
+
+---
+
 ### TechCrunch AI Products
-**[Anthropic让Claude Code拥有更多控制权，但却让它始终处于束缚状态](https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/)**
+**[谷歌推出Lyria 3 Pro音乐生成模型](https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/)**
 
-**Anthropic**针对**Claude** Code的全新自动模式让人工智能以更少的批准执行任务，反映出更广泛地转向更自主的工具，通过内置的保障措施平衡速度与安全
+谷歌**推出**Lyria 3 Proan**升级**版音乐模型，生成时间更长
 
-📅 Tue, 24 Mar 2026 21:00:30 +0000
+📅 Wed, 25 Mar 2026 16:37:43 +0000
+
+---
+
+### OpenAI Blog
+**[在我们对模型规格的方法中](https://openai.com/index/our-approach-to-the-model-spec)**
+
+了解随着人工智能系统的发展， **OpenAI**的模型规范如何作为模型行为和问责制的公共框架
+
+📅 Wed, 25 Mar 2026 10:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[OpenAI安全漏洞赏金计划简介](https://openai.com/index/safety-bug-bounty)**
+
+OpenAI**推出**安全漏洞赏金计划，以识别人工智能滥用和安全风险，包括代理漏洞
+
+📅 Wed, 25 Mar 2026 00:00:00 GMT
 
 ---
 
@@ -79,38 +108,11 @@ Chat**GPT**引入了由Agentic Commerce协议提供支持的富有视觉沉浸�
 ---
 
 ### TechCrunch AI Products
-**[Meta推出新举措以支持创业，推动人工智能的采用](https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/)**
+**[人工智能公司表示，人工智能技能差距已经到来，电力用户正在向前发展](https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/)**
 
-**Meta**首席执行官马克·扎克伯格（ Mark Zuckerberg ）在给员工的一份备忘录中表示，小企业一直是公司商业模式的**重要**组成部分，该公司希望在该领域做得更多
+**Anthropic**发现人工智能尚未取代工作，但早期数据显示，随着经验丰富的用户获得优势，不平等现象日益严重
 
-📅 Wed, 25 Mar 2026 14:45:20 +0000
-
----
-
-### TechCrunch AI Products
-**[Meta转向人工智能，让Instagram和Facebook上的购物更轻松](https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/)**
-
-**Meta**正在使用生成式人工智能，在消费者在其应用程序中购物时向他们提供更多的产品和品牌信息
-
-📅 Wed, 25 Mar 2026 14:16:17 +0000
-
----
-
-### TechCrunch AI Products
-**[OpenAI的Sora是您手机上最令人毛骨悚然的应用程序—现在它正在关闭](https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/)**
-
-尽管底层的Sora 2视频和音频生成模型令人印象深刻，但人们对纯人工智能的社交Feed没有持续的兴趣
-
-📅 Tue, 24 Mar 2026 23:57:55 +0000
-
----
-
-### OpenAI Blog
-**[与Sora一起安全地创作](https://openai.com/index/creating-with-sora-safely)**
-
-为了应对最先进的视频模式和新的社交创造平台带来的新型安全挑战，我们的方法以具体的保护措施为基础
-
-📅 Mon, 23 Mar 2026 00:00:00 GMT
+📅 Wed, 25 Mar 2026 21:44:13 +0000
 
 ---
 
@@ -202,28 +204,6 @@ Chat**GPT**引入了由Agentic Commerce协议提供支持的富有视觉沉浸�
 ---
 
 ### VentureBeat
-![Ai2发布了MolmoWeb ，这是一个开放式的可视化Web代理，具有30K的人类任务轨迹和完整的训练堆栈](https://images.ctfassets.net/jdtwqhzvc2n1/4pUUvcojDe8EOzTGx66QN2/9da033ebaefe7e31158933bdc91df65f/browser-agent-smk1.jpg?w=300&q=30)
-
-**[Ai2发布了MolmoWeb ，这是一个开放式的可视化Web代理，具有30K的人类任务轨迹和完整的训练堆栈](https://venturebeat.com/data/ai2-releases-molmoweb-an-open-weight-visual-web-agent-with-30k-human-task)**
-
-**OpenAI** Operator、**Anthropic**的计算机使用API和**Google**的**Gemini**计算机使用都属于这一类根据Ai2 ，它还优于基于**GPT**-4o构建的基于API的旧代理，具有可访问性树和屏幕截图输入
-
-📅 Tue, 24 Mar 2026 15:00:00 GMT
-
----
-
-### VentureBeat
-![DeerFlow 2.0是什么？关于这个强大的本地人工智能代理编排器，企业应该了解什么？](https://images.ctfassets.net/jdtwqhzvc2n1/5IQCy92vQXSUJ3kRisi1jj/34e4ab33f39a44680f396a99158358da/Gemini_Generated_Image_kgpxhykgpxhykgpx.png?w=300&q=30)
-
-**[DeerFlow 2.0是什么？关于这个强大的本地人工智能代理编排器，企业应该了解什么？](https://venturebeat.com/orchestration/what-is-deerflow-and-what-should-enterprises-know-about-this-new-local-ai)**
-
-虽然许多人选择通过**OpenAI**或**Anthropic** API进行基于云的推理5 ，但**Anthropic**的**Claude**、**OpenAI**的**GPT**变体和本地模型通过Ollama运行
-
-📅 Tue, 24 Mar 2026 02:16:00 GMT
-
----
-
-### VentureBeat
 ![OpenAI正在关闭其强大的AI视频模型、应用和API Sora](https://images.ctfassets.net/jdtwqhzvc2n1/2dEwFNdOd4Uf698uIDeFAS/3ef7de3b64485733a3e978e5dfefe358/Gemini_Generated_Image_1bsv991bsv991bsv.png?w=300&q=30)
 
 **[OpenAI正在关闭其强大的AI视频模型、应用和API Sora](https://venturebeat.com/technology/openai-is-shutting-down-sora-its-powerful-ai-video-app)**
@@ -234,14 +214,14 @@ Sora和Chat**GPT** Images预计将于2026年初开始与迪士尼的多品牌授
 
 ---
 
-### The Verge
-![马克·扎克伯格（ Mark Zuckerberg ）和黄延森（ Jensen Huang ）是特朗普新“技术小组](https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_2_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### VentureBeat
+![谷歌新的TurboQuant算法将AI内存速度提高了8倍，将成本降低了50%或更多](https://images.ctfassets.net/jdtwqhzvc2n1/2WVKlEGnFpAcW5sMnTTA6c/d7c0e846054b2ee271fcbc37a53dbe23/Gemini_Generated_Image_uvfgr3uvfgr3uvfg.png?w=300&q=30)
 
-**[马克·扎克伯格（ Mark Zuckerberg ）和黄延森（ Jensen Huang ）是特朗普新“技术小组](https://www.theverge.com/policy/900340/trump-tech-panel-mark-zuckerberg-jensen-huang)**
+**[谷歌新的TurboQuant算法将AI内存速度提高了8倍，将成本降低了50%或更多](https://venturebeat.com/infrastructure/googles-new-turboquant-algorithm-speeds-up-ai-memory-8x-cutting-costs-by-50)**
 
-Getty Images **Meta**首席执行官Mark Zuckerberg甲骨文首席技术官兼执行主席Larry Ellison
+提供免培训的解决方案，在不牺牲智能的情况下缩小模型尺寸@ **Google**Research的原始公告产生了大量的参与度，
 
-📅 2026-03-25T14:41:21.000Z
+📅 Wed, 25 Mar 2026 19:27:00 GMT
 
 ---
 
@@ -274,7 +254,49 @@ Getty Images **Meta**首席执行官Mark Zuckerberg甲骨文首席技术官兼�
 
 ---
 
+### TechCrunch
+**[陪审团发现Meta和谷歌在具有里程碑意义的社交媒体成瘾试验中存在疏忽](https://techcrunch.com/2026/03/25/jury-finds-meta-and-youtube-negligent-in-landmark-social-media-addiction-trial/)**
+
+在审判中提出的证据使陪审团倾向于原告的一面，证明**Meta**了解其平台在青少年中的成瘾程度，并且正在积极研究这个问题，并利用其调查结果来提高年轻用户的参与度
+
+📅 Wed, 25 Mar 2026 17:50:36 +0000
+
+---
+
+### The Verge
+![我们从亚马逊大春季促销中找到的最佳优惠（到目前为止）](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268405_The_best_deals_from_Amazons_Big_Spring_Sale_event2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[我们从亚马逊大春季促销中找到的最佳优惠（到目前为止）](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals)**
+
+AirPods Pro 3最近**发布**的AirPods Pro 3采用了全新设计，提高了贴合度较新的XM6在两方面都有所改进，采用可折叠设计，但当您可以在销售时， XM5仍然是一笔巨大的投资
+
+📅 2026-03-25T21:58:00.000Z
+
+---
+
 ## 📦 GitHub热门
+
+### GitHub Active (Python)
+![浏览器使用：🌐使AI代理可以访问网站。轻松实现在线任务自动化。](https://avatars.githubusercontent.com/u/192012301?v=4)
+
+**[浏览器使用：🌐使AI代理可以访问网站。轻松实现在线任务自动化。](https://github.com/browser-use/browser-use)**
+
+⭐ 84,427星· 9782分叉· Python ·🌐让人工智能代理可以访问网站轻松在线自动化任务
+
+📅 2026-03-25T23:39:20Z
+
+---
+
+### GitHub New (New AI)
+![🆕 awesome-opensource-ai ：精心策划的最佳真正开源的人工智能项目、模型、工具和基础设施列表。](https://avatars.githubusercontent.com/u/204474669?v=4)
+
+**[🆕 awesome-opensource-ai ：精心策划的最佳真正开源的人工智能项目、模型、工具和基础设施列表。](https://github.com/alvinunreal/awesome-opensource-ai)**
+
+⭐ 65 star (新项目) · N/A · Curated list of the best truly open-source AI projects, models, tools, and infrastructure
+
+📅 2026-03-24T15:58:22Z
+
+---
 
 ### GitHub New (New AI)
 ![🆕 Album-Formula-Ai-2026-Update: Album | Formula | Ai | Photo | Artivicial Intelligence | Creative | Tools | Generation |](https://avatars.githubusercontent.com/u/268555220?v=4)
@@ -298,28 +320,6 @@ Getty Images **Meta**首席执行官Mark Zuckerberg甲骨文首席技术官兼�
 
 ---
 
-### GitHub New (New AI)
-![🆕 快速加权注意：实施快速加权注意](https://avatars.githubusercontent.com/u/108653?v=4)
-
-**[🆕 快速加权注意：实施快速加权注意](https://github.com/lucidrains/fast-weight-attention)**
-
-⭐ 6 star (新项目) · Python · Implementation of Fast Weight Attention
-
-📅 2026-03-25T14:08:20Z
-
----
-
-### GitHub New (New AI)
-![🆕 RIM-pytorch ：在Pytorch中实现循环独立机制](https://avatars.githubusercontent.com/u/108653?v=4)
-
-**[🆕 RIM-pytorch ：在Pytorch中实现循环独立机制](https://github.com/lucidrains/RIM-pytorch)**
-
-⭐ 4 star (新项目) · Python · Implementation of Recurrent Independent Mechanisms in Pytorch
-
-📅 2026-03-25T14:34:43Z
-
----
-
 ## 💬 社交动态
 
 ### X: OpenAI
@@ -327,7 +327,7 @@ Getty Images **Meta**首席执行官Mark Zuckerberg甲骨文首席技术官兼�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-03-25T16:12:57.363Z
+📅 2026-03-25T23:37:29.589Z
 
 ---
 
@@ -336,25 +336,25 @@ Getty Images **Meta**首席执行官Mark Zuckerberg甲骨文首席技术官兼�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-03-25T16:14:16.170Z
+📅 2026-03-25T23:38:47.904Z
 
 ---
 
 ### Hacker News
-**[从头开始在Swift中构建编码代理](https://github.com/ivan-magda/swift-claude-code)**
+**[Show HN ：用简单的英语自动化您的工作流程](https://www.operator23.com/)**
 
-文章网址： https://githubcom/ivan-magda/swift-**Claude**-code评论网址： https://**new**s
+**Google**云端硬盘及其他评论网址： https://**new**s
 
-📅 Wed, 25 Mar 2026 10:45:40 +0000
+📅 Wed, 25 Mar 2026 21:39:55 +0000
 
 ---
 
 ### Hacker News
-**[Meta因在儿童安全问题上误导用户而被告知支付3.75亿美元$](https://www.bbc.com/news/articles/cql75dn07n2o)**
+**[新西兰卫生部工作人员被告知停止使用ChatGPT撰写临床笔记](https://www.rnz.co.nz/news/national/590645/health-nz-staff-told-to-stop-using-chatgpt-to-write-clinical-notes)**
 
-文章网址： https://wwwcom/**new**s/articles/cql75dn07n2o评论网址： https://**new**s
+文章网址： https://wwwnz/**new**s/national/590645/health-nz-staff-told-to-stop-using-chat**GPT**-to-write-clinical-notes评论网址： https://**new**s
 
-📅 Wed, 25 Mar 2026 08:52:50 +0000
+📅 Wed, 25 Mar 2026 20:58:43 +0000
 
 ---
 
@@ -363,7 +363,7 @@ Getty Images **Meta**首席执行官Mark Zuckerberg甲骨文首席技术官兼�
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-03-25T16:12:57.363Z
+📅 2026-03-25T23:37:29.589Z
 
 ---
 
@@ -372,7 +372,7 @@ Title: 520: Web服务器返回未知错误
 
 警告：目标URL返回错误520 ：
 
-📅 2026-03-25T16:12:57.363Z
+📅 2026-03-25T23:37:29.589Z
 
 ---
 
@@ -381,7 +381,7 @@ Title: 520: Web服务器返回未知错误
 
 Markdown 内容
 
-📅 2026-03-25T16:12:57.363Z
+📅 2026-03-25T23:37:29.589Z
 
 ---
 
@@ -390,7 +390,7 @@ Markdown 内容
 
 # twitter.com | 520 ： Web服务器返回未知错误
 
-📅 2026-03-25T16:12:57.363Z
+📅 2026-03-25T23:37:29.589Z
 
 ---
 
