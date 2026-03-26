@@ -1,12 +1,12 @@
 ---
 title: "2026年3月26日 - TZ日报"
-date: 2026-03-26T16:17:31.498Z
+date: 2026-03-26T23:38:17.247Z
 draft: false
 ---
 
 # 2026年3月26日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/3/26 16:17:31
+> 📊 今日汇总 38 条 · 🕐 2026/3/26 23:38:17
 
 ---
 
@@ -53,6 +53,15 @@ Lyria 3现在可以通过**Gemini** API进行付费预览，也可以在**Google
 
 ---
 
+### TechCrunch AI Products
+**[OpenAI放弃了另一个支线任务： ChatGPT的色情模式](https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/)**
+
+这只是这家AI初创公司在过去一周内放弃的几个副项目中的最新一个。
+
+📅 Thu, 26 Mar 2026 18:34:02 +0000
+
+---
+
 ### OpenAI Blog
 **[在我们对模型规格的方法中](https://openai.com/index/our-approach-to-the-model-spec)**
 
@@ -72,18 +81,18 @@ OpenAI**推出**安全漏洞赏金计划，以识别人工智能滥用和安全�
 ---
 
 ### OpenAI Blog
-**[OpenAI基金会最新动态](https://openai.com/index/update-on-the-openai-foundation)**
+**[在ChatGPT中推动产品发现](https://openai.com/index/powering-product-discovery-in-chatgpt)**
 
-**OpenAI**基金会宣布计划至少投资10 $ 10亿用于治疗疾病、经济机会、人工智能弹性和社区计划
+Chat**GPT**引入了由Agentic Commerce协议提供支持的富有视觉沉浸感的购物体验
 
 📅 Tue, 24 Mar 2026 09:00:00 GMT
 
 ---
 
 ### OpenAI Blog
-**[在ChatGPT中推动产品发现](https://openai.com/index/powering-product-discovery-in-chatgpt)**
+**[OpenAI基金会最新动态](https://openai.com/index/update-on-the-openai-foundation)**
 
-Chat**GPT**引入了由Agentic Commerce协议提供支持的富有视觉沉浸感的购物体验
+**OpenAI**基金会宣布计划至少投资10 $ 10亿用于治疗疾病、经济机会、人工智能弹性和社区计划
 
 📅 Tue, 24 Mar 2026 09:00:00 GMT
 
@@ -108,15 +117,6 @@ Chat**GPT**引入了由Agentic Commerce协议提供支持的富有视觉沉浸�
 我们将Lyria 3引入专业人士每天工作和创作的工具中。
 
 📅 Wed, 25 Mar 2026 16:00:00 +0000
-
----
-
-### DeepMind Blog
-**[保护人们免受有害操纵](https://deepmind.google/blog/protecting-people-from-harmful-manipulation/)**
-
-谷歌DeepMind研究AI在金融和健康等领域的有害操纵风险，导致新的安全措施
-
-📅 Wed, 25 Mar 2026 16:46:20 +0000
 
 ---
 
@@ -196,14 +196,36 @@ Chat**GPT**引入了由Agentic Commerce协议提供支持的富有视觉沉浸�
 
 ## 🌍 行业展望
 
+### The Verge
+![据报道，苹果将允许其他人工智能聊天机器人插入Siri](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25698444/DSC08567_processed_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[据报道，苹果将允许其他人工智能聊天机器人插入Siri](https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27)**
+
+Siri目前已与**OpenAI**的Chat**GPT**集成，如**Google**的**Gemini**或**Anthropic**的**Claude**
+
+📅 2026-03-26T21:31:27.000Z
+
+---
+
 ### VentureBeat
-![Anthropic的Claude现在可以控制您的Mac ，升级战斗以构建实际工作的人工智能代理](https://images.ctfassets.net/jdtwqhzvc2n1/6pKUpuFXpAqiUR5x0wZLWD/926372d4a092d0a8c957d2aaf11334b5/nuneybits_Vector_art_of_cobalt_Mac_ghost-cursor_in_burnt_orange_2d33f7ea-2b08-4424-8cce-ad1e4c539c0e.webp?w=300&q=30)
+![Intercom经过后期训练的全新Fin Apex 1.0在客户服务解决方案中击败GPT-5.4和Claude Sonnet 4.6](https://images.ctfassets.net/jdtwqhzvc2n1/1m6rKtRFpu30IlvdBGT0uL/3a0c0efdce3d96ba7972bc29acfeea9b/Gemini_Generated_Image_.png?w=300&q=30)
 
-**[Anthropic的Claude现在可以控制您的Mac ，升级战斗以构建实际工作的人工智能代理](https://venturebeat.com/technology/anthropics-claude-can-now-control-your-mac-escalating-the-fight-to-build-ai)**
+**[Intercom经过后期训练的全新Fin Apex 1.0在客户服务解决方案中击败GPT-5.4和Claude Sonnet 4.6](https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6)**
 
-在**Claude**的电脑使用中： **Anthropic**的AI代理如何决定何时单击**Anthropic**训练**Claude**以避免参与股票交易
+专门构建的人工智能模型，该公司声称该模型在客户支持最**重要**的指标上优于**OpenAI**和**Anthropic**的领先前沿模型如果一家拥有15年历史的客户服务公司可以构建一个在其领域中优于**OpenAI**和**Anthropic**的模型
 
-📅 Tue, 24 Mar 2026 20:00:00 GMT
+📅 Thu, 26 Mar 2026 16:16:00 GMT
+
+---
+
+### The Verge
+![谷歌正在让将另一个人工智能的内存导入双子座变得更容易](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/stk414-chatbot-ai.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[谷歌正在让将另一个人工智能的内存导入双子座变得更容易](https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history)**
+
+**Anthropic**在本月早些时候**更新**了将另一个人工智能的内存复制到**Claude**的工具之后**Google** **Gemini**正在桌面上**推出**新的“导入内存”和“导入聊天记录”功能，可以帮助用户快速复制他们当前的人工智能已经知道的关于他们的所有内容
+
+📅 2026-03-26T21:44:37.000Z
 
 ---
 
@@ -247,36 +269,16 @@ Sora和Chat**GPT** Images预计将于2026年初开始与迪士尼的多品牌授
 
 提供免培训的解决方案，在不牺牲智能的情况下缩小模型尺寸@ **Google**Research的原始公告产生了大量的参与度，
 
-📅 Wed, 25 Mar 2026 19:27:00 GMT
-
----
-
-### The Verge
-![我们从亚马逊大春季促销中找到的最佳优惠（到目前为止）](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268405_The_best_deals_from_Amazons_Big_Spring_Sale_event2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[我们从亚马逊大春季促销中找到的最佳优惠（到目前为止）](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals)**
-
-AirPods Pro 3 AirPods Pro 3采用了全新设计，提高了贴合度较新的XM6在两方面都有所改进，采用可折叠设计，但当您可以找到它们时， XM5仍然是一项很好的投资
-
-📅 2026-03-26T15:01:59.000Z
+📅 Wed, 25 Mar 2026 19:35:00 GMT
 
 ---
 
 ### Ars Technica
-**[Meta ， YouTube必须向小时候迷上应用程序的女性支付300万美元$](https://arstechnica.com/tech-policy/2026/03/meta-youtube-must-pay-3m-to-woman-who-got-hooked-on-apps-as-a-child/)**
+**[Gemini 3.1 Flash Live的首次亮相可能会使您更难知道自己是否在和机器人交谈](https://arstechnica.com/ai/2026/03/the-debut-of-gemini-3-1-flash-live-could-make-it-harder-to-know-if-youre-talking-to-a-robot/)**
 
-**Meta**成为第二次儿童安全审判判决的最大输家。
+谷歌新的对话式音频人工智能今天正在搜索、双子座和开发人员工具中**推出**。
 
-📅 Wed, 25 Mar 2026 19:03:36 +0000
-
----
-
-### TechCrunch
-**[WhatsApp现在可以根据您的对话起草AI生成的回复](https://techcrunch.com/2026/03/26/whatsapp-can-now-draft-ai-generated-responses-based-on-your-conversations/)**
-
-**Meta**拥有的消息传递平台还**推出**了一种释放空间的方式，能够使用**Meta** AI修补照片等
-
-📅 Thu, 26 Mar 2026 13:00:00 +0000
+📅 Thu, 26 Mar 2026 17:44:07 +0000
 
 ---
 
@@ -287,7 +289,7 @@ AirPods Pro 3 AirPods Pro 3采用了全新设计，提高了贴合度较新的XM
 
 **[🆕 awesome-opensource-ai ：精心策划的最佳真正开源的人工智能项目、模型、工具和基础设施列表。](https://github.com/alvinunreal/awesome-opensource-ai)**
 
-⭐ 718 star (新项目) · N/A · Curated list of the best truly open-source AI projects, models, tools, and infrastructure
+⭐ 973 star (新项目) · N/A · Curated list of the best truly open-source AI projects, models, tools, and infrastructure
 
 📅 2026-03-24T15:58:22Z
 
@@ -328,21 +330,12 @@ AirPods Pro 3 AirPods Pro 3采用了全新设计，提高了贴合度较新的XM
 
 ## 💬 社交动态
 
-### Hacker News
-**[具有里程碑意义的洛杉矶陪审团裁决发现Instagram ， YouTube旨在让孩子上瘾](https://www.latimes.com/california/story/2026-03-25/social-media-lawsuit-trial-meta-google-verdict)**
-
-文章网址： https://wwwcom/california/story/2026-03-25/social-media-lawsuit-trial-**Meta**-**Google**-verdict评论网址： https://**new**s
-
-📅 Thu, 26 Mar 2026 12:15:33 +0000
-
----
-
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-03-26T16:14:16.913Z
+📅 2026-03-26T23:35:19.926Z
 
 ---
 
@@ -351,34 +344,25 @@ AirPods Pro 3 AirPods Pro 3采用了全新设计，提高了贴合度较新的XM
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-03-26T16:15:36.369Z
+📅 2026-03-26T23:36:38.518Z
 
 ---
 
 ### Hacker News
-**[Meta和YouTube在社交媒体成瘾试验中被发现玩忽职守](https://www.wsj.com/tech/personal-tech/meta-and-youtube-found-negligent-in-social-media-addiction-trial-35b2830d)**
+**[人性化分处理器更改](https://trust.anthropic.com)**
 
-文章网址： https://wwwcom/tech/personal-tech/**Meta**-and-youtube-found-negligent-in-social-media-addiction-trial-35b2830d评论网址： https://**new**s
+文章网址： https://trustcom评论网址： https://**new**s
 
-📅 Thu, 26 Mar 2026 14:35:40 +0000
-
----
-
-### Hacker News AI
-**[氛围物理：人工智能研究生](https://www.anthropic.com/research/vibe-physics)**
-
-文章网址： https://wwwcom/research/vibe-physics评论网址： https://**new**s
-
-📅 Thu, 26 Mar 2026 16:01:04 +0000
+📅 Thu, 26 Mar 2026 21:37:15 +0000
 
 ---
 
 ### Hacker News AI
-**[展示HN ： Claude的技能，通过与B2B供应商的人工智能代理商交谈来评估他们](https://github.com/salespeak-ai/buyer-eval-skill)**
+**[被Meta收购的人工智能公司的领导者被限制离开中国](https://www.wsj.com/tech/leaders-of-ai-firm-bought-by-meta-are-restricted-from-leaving-china-6b79da34)**
 
-当供应商有AI代理时， **Claude** （为买家工作）会直接询问它，然后检查其答案要安装，只需询问**Claude** Code ： “在GitHub上安装salespeak-ai的买家评估技能
+文章网址： https://wwwcom/tech/leaders-of-ai-firm-bought-by-**Meta**-are-restricted-from-leaving-china-6b79da34评论网址： https://**new**s
 
-📅 Thu, 26 Mar 2026 16:00:47 +0000
+📅 Thu, 26 Mar 2026 22:03:52 +0000
 
 ---
 
@@ -387,7 +371,7 @@ AirPods Pro 3 AirPods Pro 3采用了全新设计，提高了贴合度较新的XM
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-03-26T16:14:16.913Z
+📅 2026-03-26T23:35:19.926Z
 
 ---
 
@@ -396,7 +380,25 @@ Title: 520: Web服务器返回未知错误
 
 警告：目标URL返回错误520 ：
 
-📅 2026-03-26T16:14:16.913Z
+📅 2026-03-26T23:35:19.926Z
+
+---
+
+### X: OpenAI
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Markdown 内容
+
+📅 2026-03-26T23:35:19.926Z
+
+---
+
+### X: OpenAI
+**[# twitter.com | 520 ： Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+# twitter.com | 520 ： Web服务器返回未知错误
+
+📅 2026-03-26T23:35:19.926Z
 
 ---
 
