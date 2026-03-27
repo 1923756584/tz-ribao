@@ -1,12 +1,12 @@
 ---
 title: "2026年3月27日 - TZ日报"
-date: 2026-03-27T15:58:43.002Z
+date: 2026-03-27T23:37:25.923Z
 draft: false
 ---
 
 # 2026年3月27日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/3/27 15:58:43
+> 📊 今日汇总 38 条 · 🕐 2026/3/27 23:37:25
 
 ---
 
@@ -72,6 +72,15 @@ Lyria 3现在可以通过**Gemini** API进行付费预览，也可以在**Google
 ---
 
 ### OpenAI Blog
+**[STADLER重塑了一家拥有230年历史的公司的知识工作](https://openai.com/index/stadler)**
+
+了解STADLER如何使用Chat**GPT**转变650名员工的知识工作，节省时间并提高工作效率
+
+📅 Fri, 27 Mar 2026 22:00:00 GMT
+
+---
+
+### OpenAI Blog
 **[在我们对模型规格的方法中](https://openai.com/index/our-approach-to-the-model-spec)**
 
 了解随着人工智能系统的发展， **OpenAI**的模型规范如何作为模型行为和问责制的公共框架
@@ -108,15 +117,6 @@ OpenAI**推出**安全漏洞赏金计划，以识别人工智能滥用和安全�
 我们将Lyria 3引入专业人士每天工作和创作的工具中。
 
 📅 Wed, 25 Mar 2026 16:00:00 +0000
-
----
-
-### DeepMind Blog
-**[保护人们免受有害操纵](https://deepmind.google/blog/protecting-people-from-harmful-manipulation/)**
-
-谷歌DeepMind研究AI在金融和健康等领域的有害操纵风险，导致新的安全措施
-
-📅 Wed, 25 Mar 2026 16:46:20 +0000
 
 ---
 
@@ -196,6 +196,17 @@ OpenAI**推出**安全漏洞赏金计划，以识别人工智能滥用和安全�
 
 ## 🌍 行业展望
 
+### The Verge
+![数据中心、人工智能和能源领域的最新动态 ](https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_DATA_CENTER.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[数据中心、人工智能和能源领域的最新动态 ](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy)**
+
+Massive **new** data centers are the physical foundation for tech companies’ hopes and dreams for AISenators are pushing to find out how much electricity data centers actually use How the spiraling Iran conflict could affect data centers and electricity costs Seven tech giants signed Trump’s pledge to keep electricity costs from spiking around data centers Trump claims tech companies will sign deals next week to pay for their own power supply **Anthropic** says it’ll try to keep its data centers from raising electricity costs How an ‘icepocalypse’ raises more questions about **Meta**’s biggest data center project Microsoft wants to rewire data centers to save space **new** York is considering two bills to rein in the AI industry Elon Musk is merging SpaceX and xAI to build data centers in space — or so he says It’s a **new** heyday for gas thanks to data centers **Meta** is spending millions to convince people that data centers are cool and you like them The winter storm tested power grids straining to accommodate AI data centers **OpenAI** says its data centers will pay for their own energy and limit water usage Microsoft scrambles to quell fury around its **new** AI data centers Communities are rising up against data centers — and winning Billionaires want data centers everywhere
+
+📅 2026-03-27T18:35:53.000Z
+
+---
+
 ### VentureBeat
 ![Intercom经过后期训练的全新Fin Apex 1.0在客户服务解决方案中击败GPT-5.4和Claude Sonnet 4.6](https://images.ctfassets.net/jdtwqhzvc2n1/1m6rKtRFpu30IlvdBGT0uL/3a0c0efdce3d96ba7972bc29acfeea9b/Gemini_Generated_Image_.png?w=300&q=30)
 
@@ -215,17 +226,6 @@ OpenAI**推出**安全漏洞赏金计划，以识别人工智能滥用和安全�
 虽然**OpenAI**和**Anthropic**已经抓住了消费者的想象力，但该联盟的第一个项目将是由Mistral AI和Nvidia共同开发的基础模型
 
 📅 Thu, 26 Mar 2026 11:30:00 GMT
-
----
-
-### VentureBeat
-![OpenAI正在关闭其强大的AI视频模型、应用和API Sora](https://images.ctfassets.net/jdtwqhzvc2n1/2dEwFNdOd4Uf698uIDeFAS/3ef7de3b64485733a3e978e5dfefe358/Gemini_Generated_Image_1bsv991bsv991bsv.png?w=300&q=30)
-
-**[OpenAI正在关闭其强大的AI视频模型、应用和API Sora](https://venturebeat.com/technology/openai-is-shutting-down-sora-its-powerful-ai-video-app)**
-
-Sora和Chat**GPT** Images预计将于2026年初开始与迪士尼的多品牌授权角色一起制作以粉丝为灵感的视频。《好莱坞报道者》**首次**披露，由于**OpenAI**决定关闭Sora**OpenAI** ，迪士尼的交易现已被取消。Sora**OpenAI**公开表示打算专注于构建一款“超级应用” ，该应用将折叠其各种产品的部分或全部功能，包括聊天机器人Chat**GPT**
-
-📅 Tue, 24 Mar 2026 21:20:00 GMT
 
 ---
 
@@ -262,47 +262,32 @@ Sora和Chat**GPT** Images预计将于2026年初开始与迪士尼的多品牌授
 
 ---
 
-### The Verge
-![我们从亚马逊大春季促销中找到的最佳优惠（到目前为止）](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268405_The_best_deals_from_Amazons_Big_Spring_Sale_event2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### Ars Technica
+**[借助新的插件功能， OpenAI正式将Codex超越编码](https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/)**
 
-**[我们从亚马逊大春季促销中找到的最佳优惠（到目前为止）](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals)**
+事情发展得很快，竞争对手已经提供了类似的东西一段时间了。
 
-AirPods Pro 3 AirPods Pro 3采用了全新设计，提高了贴合度较新的XM6在两方面都有所改进，采用可折叠设计，但当您可以找到它们时， XM5仍然是一项很好的投资
-
-📅 2026-03-27T14:08:00.000Z
+📅 Fri, 27 Mar 2026 21:53:45 +0000
 
 ---
 
-### The Verge
-![Meta的法庭损失可能只是一个开始](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/VRG_VST_0327_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### Ars Technica
+**[法官说， Hegseth ，特朗普无权命令Anthropic被列入黑名单](https://arstechnica.com/tech-policy/2026/03/hegseth-trump-had-no-authority-to-order-anthropic-to-be-blacklisted-judge-says/)**
 
-**[Meta的法庭损失可能只是一个开始](https://www.theverge.com/podcast/902162/meta-youtube-kgm-court-ruling-vergecast)**
+“我不知道” ：战争部未能证明将人类列入黑名单是合理的。
 
-陪审团对平台做出裁决不是因为一些不好的视频，而是因为平台本身的设计和结构
-
-📅 2026-03-27T13:38:16.000Z
+📅 Fri, 27 Mar 2026 19:49:18 +0000
 
 ---
 
 ## 📦 GitHub热门
-
-### GitHub Active (AI/ML)
-![变压器：🤗变压器：用于文本、视觉、音频和多模态模型中最先进的机器学习模型的模型定义框架，用于推理和训练。](https://avatars.githubusercontent.com/u/25720743?v=4)
-
-**[变压器：🤗变压器：用于文本、视觉、音频和多模态模型中最先进的机器学习模型的模型定义框架，用于推理和训练。](https://github.com/huggingface/transformers)**
-
-和用于推断和训练的多模态模型
-
-📅 2026-03-27T15:57:14Z
-
----
 
 ### GitHub New (New AI)
 ![🆕 awesome-opensource-ai ：精心策划的最佳真正开源的人工智能项目、模型、工具和基础设施列表。](https://avatars.githubusercontent.com/u/204474669?v=4)
 
 **[🆕 awesome-opensource-ai ：精心策划的最佳真正开源的人工智能项目、模型、工具和基础设施列表。](https://github.com/alvinunreal/awesome-opensource-ai)**
 
-⭐ 1333 star (新项目) · N/A · Curated list of the best truly open-source AI projects, models, tools, and infrastructure
+⭐ 1449 star (新项目) · N/A · Curated list of the best truly open-source AI projects, models, tools, and infrastructure
 
 📅 2026-03-24T15:58:22Z
 
@@ -330,43 +315,76 @@ AirPods Pro 3 AirPods Pro 3采用了全新设计，提高了贴合度较新的XM
 
 ---
 
+### GitHub New (New AI)
+![🆕 awesome-ai-agents ：人工智能代理框架、工具、平台和资源的精选列表](https://avatars.githubusercontent.com/u/270677732?v=4)
+
+**[🆕 awesome-ai-agents ：人工智能代理框架、工具、平台和资源的精选列表](https://github.com/groovy-web/awesome-ai-agents)**
+
+⭐ 15 star (新项目) · N/A · A curated list of AI agent frameworks, tools, platforms, and resources
+
+📅 2026-03-24T17:25:34Z
+
+---
+
 ## 💬 社交动态
 
+### Hacker News AI
+**[Show HN: Hollow –人工智能代理的无服务器网络感知](https://artiqal.vercel.app/hollow)**
+
+适用于**Claude**、**GPT**、**Gemini**或任何支持HTTP工具调用的模型MCP服务器在三行配置中为**Claude** Desktop提供本机工具
+
+📅 Fri, 27 Mar 2026 23:22:58 +0000
+
+---
+
 ### Reddit: r/artificial
-**[荒谬。Anthropic的行为与OpenAI完全相同。](https://www.reddit.com/r/artificial/comments/1s4okij/ridiculous_anthropic_is_behaving_exactly_like/)**
+**[针对因安全问题而退出人工智能公司的人员的跟踪器](https://www.reddit.com/r/artificial/comments/1s5jop3/tracker_for_people_who_quit_ai_companies_due_to/)**
 
-当我按月付款时， **Claude**非常棒，直到我选择承诺每年订阅专业版。这是完全相同的诱饵和转换垃圾**OpenAI**用**GPT** 5拉
+找到这个网站，追踪因安全问题而离开**OpenAI**、**Google**、**Anthropic**和其他公司的研究人员和高管我喜欢人工智能，但确实希望看到法规
 
-📅 2026-03-27T00:10:09.000Z
-
----
-
-### Hacker News
-**[Anthropic的Claude在2026年第一季度失去了> 99%的正常运行时间](https://bsky.app/profile/teropa.bsky.social/post/3mi2dbt27m226)**
-
-文章网址： https://bskysocial/post/3mi2dbt27m226评论网址： https://**new**s
-
-📅 Fri, 27 Mar 2026 14:40:06 +0000
+📅 2026-03-27T23:04:50.000Z
 
 ---
 
 ### Reddit: r/singularity
-**[暗物质的数学替代方案： 10 ¹ ”缩放因子和通用滞后方程（ L = ω/(κ · α) ）](https://www.reddit.com/r/singularity/comments/1s53ark/a_mathematical_alternative_to_dark_matter_the/)**
+![新的法学硕士说服力基准：模特们试图在多轮对话中改变对方的立场。GPT-5.4 （高）是最强的说服者。Claude Opus 4.6 （高）排名第二。小米MiMo V2 Pro和Gemini 3.1 Pro Preview是最软的目标。](https://preview.redd.it/nznzk1jdbmrg1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=a9c58e1e0ae75c8b1197fc04628f77de2e8d9c04)
 
-数据：**开源**和公共领域完整文档、原始逻辑、Python模拟（ Universeorg/details/uneducated-theory No-Bollocks Caveat我通过多个高逻辑LLM （ Grok、**Claude**、**Gemini** ）进行了结构应力测试
+**[新的法学硕士说服力基准：模特们试图在多轮对话中改变对方的立场。GPT-5.4 （高）是最强的说服者。Claude Opus 4.6 （高）排名第二。小米MiMo V2 Pro和Gemini 3.1 Pro Preview是最软的目标。](https://www.reddit.com/r/singularity/comments/1s59uz7/new_llm_persuasion_benchmark_models_try_to_move/)**
 
-📅 2026-03-27T12:55:16.000Z
+更多信息（成绩单、模特档案、报价） ： https://githubcom/lechmazur/persuasion 15 models, 6,296 conversations, 15 topics
+
+📅 2026-03-27T16:57:23.000Z
 
 ---
 
-### Reddit: r/singularity
-![Gemini 3.1 Flash Live ： API中提供实时多模态，为Search Live提供支持](https://external-preview.redd.it/bHVzaWpwN29pa3JnMTRYdIQeOpHy2QopPNIb2YbaAnnaCwXCFNuPqxinT_PQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0d807c31f37199cae13902e5f84c73391b5f863b)
+### Reddit: r/artificial
+**[Claude.ai和openai.com重定向到anti-ai.ssvr.net ？](https://www.reddit.com/r/artificial/comments/1s5i6de/claudeai_and_openaicom_redirecting_to/)**
 
-**[Gemini 3.1 Flash Live ： API中提供实时多模态，为Search Live提供支持](https://www.reddit.com/r/singularity/comments/1s50q0g/gemini_31_flash_live_real_time_multimodality/)**
+导航至**Claude**ai或**OpenAI**
 
-**Gemini** 31 Flash Live ：/u/elemental-mind提交的谷歌最新AI音频模型[link] [comments]
+📅 2026-03-27T22:04:07.000Z
 
-📅 2026-03-27T10:51:48.000Z
+---
+
+### Reddit: r/artificial
+![认识Claude Mythos ：泄露的Anthropic帖子揭示了即将推出的强大模型](https://external-preview.redd.it/76MDQ7hsz3InEY57ZO1ntYyDrsVdHUfH2_fjFtPQlrE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d79439dc013168a1df47572109d09d05ecc59af3)
+
+**[认识Claude Mythos ：泄露的Anthropic帖子揭示了即将推出的强大模型](https://www.reddit.com/r/artificial/comments/1s5hejt/meet_claude_mythos_leaked_anthropic_post_reveals/)**
+
+提交者/u/boppinmule [link] [comments]
+
+📅 2026-03-27T21:35:26.000Z
+
+---
+
+### Reddit: r/MachineLearning
+![[R]对照实验：在自动超参数搜索过程中向LLM专员提供CS论文的访问权限，可将结果提高3.2%](https://preview.redd.it/gy27tgi95org1.png?width=140&amp;height=69&amp;auto=webp&amp;s=10630255f6204ae508bfd9bb9bcd1409224e12e5)
+
+**[[R]对照实验：在自动超参数搜索过程中向LLM专员提供CS论文的访问权限，可将结果提高3.2%](https://www.reddit.com/r/MachineLearning/comments/1s5jpgz/r_controlled_experiment_giving_an_llm_agent/)**
+
+**Claude** Code代理在TinyStories上优化约7M参数**GPT**-2通过访问，它检索了SQRT缩放规则，在第一次尝试时正确应用，然后再次成功减半至16K
+
+📅 2026-03-27T23:05:45.000Z
 
 ---
 
@@ -375,7 +393,7 @@ AirPods Pro 3 AirPods Pro 3采用了全新设计，提高了贴合度较新的XM
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-03-27T15:55:36.557Z
+📅 2026-03-27T23:34:17.597Z
 
 ---
 
@@ -384,25 +402,7 @@ AirPods Pro 3 AirPods Pro 3采用了全新设计，提高了贴合度较新的XM
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-03-27T15:56:55.336Z
-
----
-
-### Hacker News
-**[.claude/文件夹剖析](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder)**
-
-dailydoseofdscom/p/anatomy-of-the-**Claude**-folder评论网址： https://**new**s
-
-📅 Fri, 27 Mar 2026 14:35:45 +0000
-
----
-
-### Hacker News
-**[Microsoft内部人员正在努力删除强制性Microsoft帐户](https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup)**
-
-文章网址： https://wwwcom/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup评论网址： https://**new**s
-
-📅 Fri, 27 Mar 2026 13:54:35 +0000
+📅 2026-03-27T23:35:36.244Z
 
 ---
 
