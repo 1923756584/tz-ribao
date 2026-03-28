@@ -1,12 +1,12 @@
 ---
 title: "2026年3月28日 - TZ日报"
-date: 2026-03-28T15:36:48.643Z
+date: 2026-03-28T23:37:05.864Z
 draft: false
 ---
 
 # 2026年3月28日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/3/28 15:36:48
+> 📊 今日汇总 38 条 · 🕐 2026/3/28 23:37:05
 
 ---
 
@@ -33,17 +33,6 @@ draft: false
 
 ---
 
-### Google AI Blog
-![使用我们最新的音乐生成模型Lyria 3构建](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BuildWithLyria3_social.max-600x600.format-webp.webp)
-
-**[使用我们最新的音乐生成模型Lyria 3构建](https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/)**
-
-Lyria 3现在可以通过**Gemini** API进行付费预览，也可以在**Google** AI St**Udio**中进行测试。
-
-📅 Wed, 25 Mar 2026 16:00:00 +0000
-
----
-
 ### TechCrunch AI Products
 **[Anthropic在付费消费者中的受欢迎程度正在飙升](https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/)**
 
@@ -59,24 +48,6 @@ Lyria 3现在可以通过**Gemini** API进行付费预览，也可以在**Google
 当一位82岁的肯塔基州妇女从一家希望在她的土地上建立数据中心的人工智能公司获得2600万美元$时，她说，随着人工智能基础设施进一步延伸到现实世界，
 
 📅 Fri, 27 Mar 2026 13:30:00 +0000
-
----
-
-### TechCrunch AI Products
-**[您现在可以将您的聊天和个人信息从其他聊天机器人直接传输到Gemini](https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/)**
-
-谷歌正在**推出**“切换工具” ，正如听起来的那样，这将使其他聊天机器人的用户更容易切换到**Gemini**
-
-📅 Thu, 26 Mar 2026 23:47:56 +0000
-
----
-
-### TechCrunch AI Products
-**[OpenAI放弃了另一个支线任务： ChatGPT的色情模式](https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/)**
-
-这只是这家AI初创公司在过去一周内放弃的几个副项目中的最新一个。
-
-📅 Thu, 26 Mar 2026 18:34:02 +0000
 
 ---
 
@@ -100,23 +71,52 @@ Lyria 3现在可以通过**Gemini** API进行付费预览，也可以在**Google
 
 ---
 
-### Google AI Blog
-![Lyria 3 Pro ：在更多Google产品中创建更长的曲目](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria-3-Pro_thumbnail.max-600x600.format-webp.webp)
+### TechCrunch AI Products
+**[为什么软银的新$ 400亿贷款指向2026年OpenAI首次公开募股](https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/)**
 
-**[Lyria 3 Pro ：在更多Google产品中创建更长的曲目](https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/)**
+华尔街巨头摩根大通(JPMorgan)和高盛(Goldman Sachs)正在向这家日本企业集团提供为期12个月的无担保贷款
 
-我们将Lyria 3引入专业人士每天工作和创作的工具中。
-
-📅 Wed, 25 Mar 2026 16:00:00 +0000
+📅 Fri, 27 Mar 2026 21:44:45 +0000
 
 ---
 
-### DeepMind Blog
-**[保护人们免受有害操纵](https://deepmind.google/blog/protecting-people-from-harmful-manipulation/)**
+### TechCrunch AI Products
+**[风险投资机构正在将数十亿美元押注于人工智能的下一波浪潮，那么OpenAI为什么要杀死Sora呢？](https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/)**
 
-谷歌DeepMind研究AI在金融和健康等领域的有害操纵风险，导致新的安全措施
+当一位82岁的肯塔基州妇女从一家希望在她的土地上建立数据中心的人工智能公司获得2600万美元$时，她说，随着人工智能基础设施进一步延伸到现实世界，
 
-📅 Wed, 25 Mar 2026 16:46:20 +0000
+📅 Fri, 27 Mar 2026 15:40:19 +0000
+
+---
+
+### TechCrunch AI Products
+**[Anthropic因国防部传奇事件赢得针对特朗普政府的禁令](https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/)**
+
+一名联邦法官下令特朗普政府取消最近对这家人工智能公司的限制
+
+📅 Fri, 27 Mar 2026 01:18:38 +0000
+
+---
+
+### Google AI Blog
+![观看James Manyika与LL COOL J谈论人工智能和创造力。](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Approved_thumbnail_with_logo.max-600x600.format-webp.webp)
+
+**[观看James Manyika与LL COOL J谈论人工智能和创造力。](https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/)**
+
+在我们《科技与社会对话》系列的最新一集中， LL COOL J与James Manyika坐在一起
+
+📅 Thu, 26 Mar 2026 17:00:00 +0000
+
+---
+
+### Google AI Blog
+![Search Live正在全球范围内扩展](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Live_blog_header.max-600x600.format-webp.webp)
+
+**[Search Live正在全球范围内扩展](https://blog.google/products-and-platforms/products/search/search-live-global-expansion/)**
+
+我们正在全球范围内将搜索直播扩展到支持AI模式的所有语言和位置。
+
+📅 Thu, 26 Mar 2026 15:00:00 +0000
 
 ---
 
@@ -229,14 +229,14 @@ Lyria 3现在可以通过**Gemini** API进行付费预览，也可以在**Google
 
 ---
 
-### VentureBeat
-![谷歌新的TurboQuant算法将AI内存速度提高了8倍，将成本降低了50%或更多](https://images.ctfassets.net/jdtwqhzvc2n1/2WVKlEGnFpAcW5sMnTTA6c/d7c0e846054b2ee271fcbc37a53dbe23/Gemini_Generated_Image_uvfgr3uvfgr3uvfg.png?w=300&q=30)
+### The Verge
+![我们从亚马逊大春季促销中找到的最佳优惠（到目前为止）](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268405_The_best_deals_from_Amazons_Big_Spring_Sale_event2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[谷歌新的TurboQuant算法将AI内存速度提高了8倍，将成本降低了50%或更多](https://venturebeat.com/infrastructure/googles-new-turboquant-algorithm-speeds-up-ai-memory-8x-cutting-costs-by-50)**
+**[我们从亚马逊大春季促销中找到的最佳优惠（到目前为止）](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals)**
 
-提供免培训的解决方案，在不牺牲智能的情况下缩小模型尺寸@ **Google**Research的原始公告产生了大量的参与度，
+AirPods Pro 3 AirPods Pro 3采用了全新设计，改进了它们的贴合度AirPods 4 Apple的AirPods 4是该公司基本型号无线耳机的最新**更新**
 
-📅 Wed, 25 Mar 2026 19:35:00 GMT
+📅 2026-03-28T16:06:47.000Z
 
 ---
 
@@ -298,7 +298,7 @@ Lyria 3现在可以通过**Gemini** API进行付费预览，也可以在**Google
 
 **[🆕 TensorCEO: 计算机毕业设计、机器学习毕业设计、深度学习毕业设计、原创AI项目【源码+论文】](https://github.com/TensorCEO/TensorCEO)**
 
-⭐ 17 star (新项目) · N/A · 计算机毕业设计、机器学习毕业设计、深度学习毕业设计、原创AI项目【源码+论文】
+⭐ 20 star (新项目) · N/A · 计算机毕业设计、机器学习毕业设计、深度学习毕业设计、原创AI项目【源码+论文】
 
 📅 2026-03-27T02:33:26Z
 
@@ -328,77 +328,75 @@ Lyria 3现在可以通过**Gemini** API进行付费预览，也可以在**Google
 
 ## 💬 社交动态
 
-### Reddit: r/artificial
-**[我构建了一个集成了GPT-5.2、Grok 4、Claude 3.5、Gemini 3.1 Pro、Luma、Kling、ElevenLabs、OpenAI WebRTC和50多个具有共享持久内存的工具的单一平台-这是人工智能的未来还是我过度设计的混乱？](https://www.reddit.com/r/artificial/comments/1s60djl/i_built_a_single_platform_integrating_gpt52_grok/)**
+### Hacker News
+**[人类+人工智能+证明助理在高德纳的“克劳德循环”问题上的进一步工作](https://twitter.com/BoWang87/status/2037648937453232504)**
 
-我同时运行18个独立的API集成： - **OpenAI** （ **GPT**-5 Nano、**GPT**-52 Pro、**DALL-E** 3、WebRTC Realtime、带矢量存储的助理API ） - **Anthropic** （ **Claude** 3
+Knuth **Claude**的Cycles笔记**更新**：问题现已完全解决，由LLM提供- https://**new**sid = 47306926 - 2026年3月（ 2条评论） https://chat**GPT**
 
-📅 2026-03-28T13:29:16.000Z
-
----
-
-### Reddit: r/MachineLearning
-**[[D] Litellm供应链攻击及其对API密钥管理的意义](https://www.reddit.com/r/MachineLearning/comments/1s62taq/d_litellm_supply_chain_attack_and_what_it_means/)**
-
-这让我重新思考了如何管理**OpenAI**、**Anthropic**、**Google**、**DeepSeek**的模型API剃钥匙
-
-📅 2026-03-28T15:07:16.000Z
+📅 Sat, 28 Mar 2026 18:38:59 +0000
 
 ---
 
-### Reddit: r/artificial
-**[为日常工作寻找可靠的ChatGPT替代方案](https://www.reddit.com/r/artificial/comments/1s5v317/looking_for_a_solid_chatgpt_alternative_for_daily/)**
+### Hacker News AI
+**[为什么人工智能公司想要控制您的计算机](https://nymag.com/intelligencer/article/why-ai-agents-anthropic-claude-want-to-take-control-of-your-computer.html)**
 
-长期以来，我一直在为**Claude**安排单独的月度订阅对于任何试图简化设置而不是在浏览器窗口之间跳转的人来说，这是一个实用的Chat**GPT**替代方案
+com/intelligenceencer/article/why-ai-agents-**Anthropic**-**Claude**-want-to-take-control-of-your-computerhtml评论网址： https://**new**s
 
-📅 2026-03-28T08:43:11.000Z
-
----
-
-### Reddit: r/artificial
-**[针对因安全问题而退出人工智能公司的人员的跟踪器](https://www.reddit.com/r/artificial/comments/1s5jop3/tracker_for_people_who_quit_ai_companies_due_to/)**
-
-找到这个网站，追踪因安全问题而离开**OpenAI**、**Google**、**Anthropic**和其他公司的研究人员和高管我喜欢人工智能，但确实希望看到法规
-
-📅 2026-03-27T23:04:50.000Z
+📅 Sat, 28 Mar 2026 22:51:47 +0000
 
 ---
 
-### Reddit: r/singularity
-**[Anthropic Struggles -放弃PRO和MAX订户的企业美元。OpenAI盈利？我问Claude。这是它的答案。](https://www.reddit.com/r/singularity/comments/1s636fw/anthropic_struggles_abandons_pro_and_max/)**
+### X: OpenAI
+**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-Gizmodo **Anthropic**大约85%的收入来自商业客户--这与**OpenAI**的模式相反，但它需要**Anthropic**来留住您
+网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-03-28T15:21:28.000Z
-
----
-
-### Reddit: r/singularity
-**[Claude现在可以控制您的计算机， openclaw和zenmux在同一天更新](https://www.reddit.com/r/singularity/comments/1s62oms/claude_can_control_your_computer_now_openclaw_and/)**
-
-**Anthropic**刚刚放弃了claude**new**插件sdk、clawHub作为官方插件商店的计算机使用，他们现在自动映射**Claude**、codex和cursor的技能
-
-📅 2026-03-28T15:02:20.000Z
+📅 2026-03-28T23:34:00.071Z
 
 ---
 
-### Reddit: r/singularity
-![新的法学硕士说服力基准：模特们试图在多轮对话中改变对方的立场。GPT-5.4 （高）是最强的说服者。Claude Opus 4.6 （高）排名第二。小米MiMo V2 Pro和Gemini 3.1 Pro Preview是最软的目标。](https://preview.redd.it/nznzk1jdbmrg1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=a9c58e1e0ae75c8b1197fc04628f77de2e8d9c04)
+### X: DeepSeek
+**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
 
-**[新的法学硕士说服力基准：模特们试图在多轮对话中改变对方的立场。GPT-5.4 （高）是最强的说服者。Claude Opus 4.6 （高）排名第二。小米MiMo V2 Pro和Gemini 3.1 Pro Preview是最软的目标。](https://www.reddit.com/r/singularity/comments/1s59uz7/new_llm_persuasion_benchmark_models_try_to_move/)**
+网址来源： http://twitter.com/**DeepSeek**_ai
 
-更多信息（成绩单、模特档案、报价） ： https://githubcom/lechmazur/persuasion 15 models, 6,296 conversations, 15 topics
-
-📅 2026-03-27T16:57:23.000Z
+📅 2026-03-28T23:35:19.469Z
 
 ---
 
-### Reddit: r/MachineLearning
-**[[项目] PentaNet ：使用Native Pentanary超越BitNet {-2, -1, 0, 1, 2}量化（ 124M ，零乘数推断）](https://www.reddit.com/r/MachineLearning/comments/1s5l5l2/project_pentanet_pushing_beyond_bitnet_with/)**
+### Hacker News
+**[OpenAI未能履行承诺后， RAM价格暴跌](https://twitter.com/rdd147/status/2037956117620482417)**
 
-我想知道我们是否通过过度限制体重而在桌子上留下了太多的模特容量（显然实际上是幻觉，因为它是一个训练了20分钟的小模特
+文章网址： https://twittercom/rdd147/status/2037956117620482417评论网址： https://**new**s
 
-📅 2026-03-28T00:05:50.000Z
+📅 Sat, 28 Mar 2026 22:48:18 +0000
+
+---
+
+### Hacker News
+**[谷歌刚刚给了Android高级用户一个旁加载的胜利](https://www.androidauthority.com/android-sideload-carry-over-3652845/)**
+
+文章网址： https://wwwcom/android-sideload-carry-over-3652845/评论网址： https://**new**s
+
+📅 Sat, 28 Mar 2026 20:28:03 +0000
+
+---
+
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Title: 520: Web服务器返回未知错误
+
+📅 2026-03-28T23:34:00.071Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误520 ：
+
+📅 2026-03-28T23:34:00.071Z
 
 ---
 
