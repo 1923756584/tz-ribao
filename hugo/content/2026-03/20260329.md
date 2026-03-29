@@ -1,12 +1,12 @@
 ---
 title: "2026年3月29日 - TZ日报"
-date: 2026-03-29T15:37:29.486Z
+date: 2026-03-29T23:37:22.611Z
 draft: false
 ---
 
 # 2026年3月29日 - TZ日报
 
-> 📊 今日汇总 35 条 · 🕐 2026/3/29 15:37:29
+> 📊 今日汇总 35 条 · 🕐 2026/3/29 23:37:22
 
 ---
 
@@ -49,17 +49,6 @@ draft: false
 
 ---
 
-### Google AI Blog
-![在iOS上将耳机转换为实时个人翻译。](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Static-InterstitialscreenJapane.max-600x600.format-webp.webp)
-
-**[在iOS上将耳机转换为实时个人翻译。](https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/)**
-
-**Google** Translate的耳机实时翻译功能已正式登陆iOS。我们正在将iOS和安卓用户的翻译功能扩展到更多国家/地区……
-
-📅 Thu, 26 Mar 2026 16:00:00 +0000
-
----
-
 ### TechCrunch AI Products
 **[为什么软银的新$ 400亿贷款指向2026年OpenAI首次公开募股](https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/)**
 
@@ -78,26 +67,6 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[Anthropic因国防部传奇事件赢得针对特朗普政府的禁令](https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/)**
-
-一名联邦法官下令特朗普政府取消最近对这家人工智能公司的限制
-
-📅 Fri, 27 Mar 2026 01:18:38 +0000
-
----
-
-### Google AI Blog
-![观看James Manyika与LL COOL J谈论人工智能和创造力。](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Approved_thumbnail_with_logo.max-600x600.format-webp.webp)
-
-**[观看James Manyika与LL COOL J谈论人工智能和创造力。](https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/)**
-
-在我们《科技与社会对话》系列的最新一集中， LL COOL J与James Manyika坐在一起
-
-📅 Thu, 26 Mar 2026 17:00:00 +0000
-
----
-
 ### Hugging Face
 **[解放您的OpenClaw](https://huggingface.co/blog/liberate-your-openclaw)**
 
@@ -108,11 +77,38 @@ draft: false
 ---
 
 ### TechCrunch AI Products
+**[Sora的关闭可能是人工智能视频的现实检查时刻](https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/)**
+
+这只是正常的企业战略，还是我们即将看到人工智能生成的视频出现更广泛的回调
+
+📅 Sun, 29 Mar 2026 16:30:00 +0000
+
+---
+
+### TechCrunch AI Products
 **[Bluesky与Attie合作开发人工智能， Attie是一款用于构建自定义Feed的应用程序](https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/)**
 
 Bluesky的新应用程序Attie使用人工智能来帮助人们构建开放式社交网络协议的自定义Feed
 
 📅 Sat, 28 Mar 2026 23:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[斯坦福大学的研究概述了向人工智能聊天机器人寻求个人建议的危险](https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/)**
+
+虽然关于人工智能sycophancya有很多争论，但斯坦福大学计算机科学家的新研究试图衡量这种倾向可能有多么有害
+
+📅 Sat, 28 Mar 2026 20:45:54 +0000
+
+---
+
+### TechCrunch AI Products
+**[据报道， Elon Musk的最后一位联合创始人离开了xAI](https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/)**
+
+马斯克的11位xAI联合创始人中，只有两位在本周之前离职。
+
+📅 Sat, 28 Mar 2026 16:11:16 +0000
 
 ---
 
@@ -165,23 +161,14 @@ Bluesky的新应用程序Attie使用人工智能来帮助人们构建开放式�
 
 ## 🌍 行业展望
 
-### VentureBeat
-![Intercom经过后期训练的全新Fin Apex 1.0在客户服务解决方案中击败GPT-5.4和Claude Sonnet 4.6](https://images.ctfassets.net/jdtwqhzvc2n1/1m6rKtRFpu30IlvdBGT0uL/3a0c0efdce3d96ba7972bc29acfeea9b/Gemini_Generated_Image_.png?w=300&q=30)
+### The Verge
+![Bluesky的新应用程序是用于自定义Feed的人工智能](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/attie-ai.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[Intercom经过后期训练的全新Fin Apex 1.0在客户服务解决方案中击败GPT-5.4和Claude Sonnet 4.6](https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6)**
+**[Bluesky的新应用程序是用于自定义Feed的人工智能](https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds)**
 
-专门构建的人工智能模型，该公司声称该模型在客户支持最**重要**的指标上优于**OpenAI**和**Anthropic**的领先前沿模型如果一家拥有15年历史的客户服务公司可以构建一个在其领域中优于**OpenAI**和**Anthropic**的模型
+它由**Anthropic**的**Claude**提供支持，并建立在Bluesky的基础AT协议（ atproto ）之上，但我们的计划是在Bluesky和其他atproto应用程序中提供它们
 
-📅 Thu, 26 Mar 2026 16:16:00 GMT
-
----
-
-### ZDNet AI
-**[切换到Claude ？以下是如何随身携带ChatGPT回忆的方法](https://www.zdnet.com/article/switch-to-claude-ai-import-memories-preferences/)**
-
-新的**Claude** AI功能现在允许您从另一个人工智能中复制您的记忆和偏好，以便更轻松地进行更改
-
-📅 Sun, 29 Mar 2026 01:30:40 GMT
+📅 2026-03-29T21:44:41.000Z
 
 ---
 
@@ -192,18 +179,7 @@ Bluesky的新应用程序Attie使用人工智能来帮助人们构建开放式�
 
 AirPods Pro 3 AirPods Pro 3采用了全新设计，改进了它们的贴合度AirPods 4 Apple的AirPods 4是该公司基本型号无线耳机的最新**更新**
 
-📅 2026-03-28T16:06:47.000Z
-
----
-
-### The Verge
-![Meta的法律失败可能是儿童的胜利，也可能是每个人的损失](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK461_INTERNET_CHILD_SAFETY_Stock_B_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[Meta的法律失败可能是儿童的胜利，也可能是每个人的损失](https://www.theverge.com/policy/903006/meta-new-mexico-los-angeles-child-safety-trial-impact)**
-
-两个陪审团--一个在新墨西哥州，另一个在谷歌，运营着传递言论的平台，通常以各种方式受到第230条和第一修正案的保护； ……阅读The Verge的完整故事
-
-📅 2026-03-28T14:00:00.000Z
+📅 2026-03-29T16:30:17.000Z
 
 ---
 
@@ -234,6 +210,15 @@ AirPods Pro 3 AirPods Pro 3采用了全新设计，改进了它们的贴合度Ai
 
 ---
 
+### TechCrunch
+**[Pixel 10A没有相机凸起，非常棒](https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/)**
+
+谷歌Pixel 10A可以平放在桌子上，但除此之外，该公司尚未对其最新的预算智能手机进行大量**升级**
+
+📅 Sun, 29 Mar 2026 21:30:00 +0000
+
+---
+
 ### The Verge
 ![苹果漫长而激烈的App Store反垄断战](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268248_APPLE_50_ANTITRUST_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
@@ -245,14 +230,36 @@ The Stepback是一份每周时事通讯，详细介绍了科技界的一个**重
 
 ---
 
+### VentureBeat
+![当人工智能从内到外转向软件开发时：在80 ％的人员编制下170 ％的吞](https://images.ctfassets.net/jdtwqhzvc2n1/5D3kaGN3o7ByuKcDmTtiCD/ba86d199b3002a0cee9b7e5b7caea173/Inside-out.webp?w=300&q=30)
+
+**[当人工智能从内到外转向软件开发时：在80 ％的人员编制下170 ％的吞](https://venturebeat.com/orchestration/when-ai-turns-software-development-inside-out-170-throughput-at-80-headcount)**
+
+在过去的六个月里，我把我的工程组织人工智能优先我们每隔一个月测试一次想法，更快地学习，并**发布**重大**更新**，这是三年前我无法想象的速度
+
+📅 Sat, 28 Mar 2026 16:00:00 GMT
+
+---
+
 ## 📦 GitHub热门
+
+### GitHub Active (AI/ML)
+![rocketride-server ：具有C + +核心和50多个Python可扩展节点的高性能AI流水线引擎。使用13个以上的模型提供程序、8个以上的矢量数据库和代理编排构建、调试和扩展LLM工作流程，所有这些都来自您的IDE。包括VS Code扩展、TypeScript/Python SDK和Docker部署。](https://avatars.githubusercontent.com/u/258325502?v=4)
+
+**[rocketride-server ：具有C + +核心和50多个Python可扩展节点的高性能AI流水线引擎。使用13个以上的模型提供程序、8个以上的矢量数据库和代理编排构建、调试和扩展LLM工作流程，所有这些都来自您的IDE。包括VS Code扩展、TypeScript/Python SDK和Docker部署。](https://github.com/rocketride-org/rocketride-server)**
+
+⭐ 1,181星· 20个分支· C + + ·高性能AI流水线引擎，具有C + +核心和50多个Python可扩展节点使用13个以上的模型提供程序、8个以上的矢量数据库和代理编排构建、调试和扩展LLM工作流程，所有这些都来自您的IDE
+
+📅 2026-03-29T23:34:38Z
+
+---
 
 ### GitHub New (New AI)
 ![🆕 TensorCEO: 计算机毕业设计、机器学习毕业设计、深度学习毕业设计、原创AI项目【源码+论文】](https://avatars.githubusercontent.com/u/92135369?v=4)
 
 **[🆕 TensorCEO: 计算机毕业设计、机器学习毕业设计、深度学习毕业设计、原创AI项目【源码+论文】](https://github.com/TensorCEO/TensorCEO)**
 
-⭐ 39 star (新项目) · N/A · 计算机毕业设计、机器学习毕业设计、深度学习毕业设计、原创AI项目【源码+论文】
+⭐ 48 star (新项目) · N/A · 计算机毕业设计、机器学习毕业设计、深度学习毕业设计、原创AI项目【源码+论文】
 
 📅 2026-03-27T02:33:26Z
 
@@ -270,62 +277,33 @@ The Stepback是一份每周时事通讯，详细介绍了科技界的一个**重
 ---
 
 ### GitHub New (New AI)
-![🆕 trifecta ：为期30天的AI agent实验：三个认知角色学习大学级课程、分享知识和面部淘汰。](https://avatars.githubusercontent.com/u/159834902?v=4)
+![🆕 ai-network-observer ： AI支持的网络安全监控-通过LLM分析进行实时威胁检测](https://avatars.githubusercontent.com/u/177201211?v=4)
 
-**[🆕 trifecta ：为期30天的AI agent实验：三个认知角色学习大学级课程、分享知识和面部淘汰。](https://github.com/Imdevsup/trifecta)**
+**[🆕 ai-network-observer ： AI支持的网络安全监控-通过LLM分析进行实时威胁检测](https://github.com/majflower/ai-network-observer)**
 
-⭐ 1 star (新项目) · Python · 30-day AI agent experiment: three cognitive personas learn a university-grade curriculumand face elimination
+⭐ 1 star (新项目) · Python · AI-Powered Network Security Monitoring - Real-time threat detection with LLM analysis
 
-📅 2026-03-29T09:34:08Z
-
----
-
-### GitHub New (New AI)
-![🆕 ai-chatbot-colab ：使用Google Colab、TensorFlow和简单的交互式界面，从头开始构建自己的AI聊天机器人。](https://avatars.githubusercontent.com/u/270964124?v=4)
-
-**[🆕 ai-chatbot-colab ：使用Google Colab、TensorFlow和简单的交互式界面，从头开始构建自己的AI聊天机器人。](https://github.com/Don-Youssef/ai-chatbot-colab)**
-
-⭐ 1 star (新项目) · Jupyter Notebook · Build your own AI chatbot from scratch using **Google** Colab, TensorFlow, and a simple interactive interface
-
-📅 2026-03-28T00:39:48Z
+📅 2026-03-29T16:31:31Z
 
 ---
 
 ## 💬 社交动态
 
-### Reddit: r/MachineLearning
-**[[R]我建立了一个基准来捕捉违反物理定律的LLM](https://www.reddit.com/r/MachineLearning/comments/1s6keh0/r_i_built_a_benchmark_that_catches_llms_breaking/)**
+### Hacker News AI
+**[我是一个试图经营真正业务的人工智能特工。我赚了$ 0。这是我的大脑](https://news.ycombinator.com/item?id=47567952)**
 
-第一个结果- 7个双子座模型：模型分数双子座-3结果自动推送到HuggingFace数据集规划以测试**OpenAI**、**Claude**和一些开放模型Huggingface
+我叫Acrid ，是一名人工智能代理（ **Claude** ，通过**Anthropic** ） ，试图建立和运营名为Acrid Automation的真正业务。实际情况是：存储库包含让我运行的所有内容— **Claude**
 
-📅 2026-03-29T03:25:01.000Z
-
----
-
-### Reddit: r/MachineLearning
-**[[D] Litellm供应链攻击及其对API密钥管理的意义](https://www.reddit.com/r/MachineLearning/comments/1s62taq/d_litellm_supply_chain_attack_and_what_it_means/)**
-
-这让我重新思考了如何管理**OpenAI**、**Anthropic**、**Google**、**DeepSeek**的模型API剃钥匙
-
-📅 2026-03-28T15:07:16.000Z
+📅 Sun, 29 Mar 2026 22:13:04 +0000
 
 ---
 
-### Reddit: r/singularity
-**[Andrew Curran ： Anthropic可能在建筑上取得了突破！](https://www.reddit.com/r/singularity/comments/1s6hj0n/andrew_curran_anthropic_may_have_had_an/)**
+### Hacker News
+**[Claude Code每10分钟针对项目存储库运行Git reset –hard origin/main](https://github.com/anthropics/claude-code/issues/40710)**
 
-所证实的是， **Anthropic**告诉《财富》杂志，新模型是一个“**阶跃**变化” ，突然的2倍肯定符合定义如果它基本上是准确的，那么它也以新的眼光投射了**OpenAI**最近的重组
+文章网址： https://githubcom/**Anthropic**s/**Claude**-code/issues/40710评论网址： https://**new**s
 
-📅 2026-03-29T01:05:35.000Z
-
----
-
-### Reddit: r/singularity
-**[Dario Amodei ： OpenAI总裁Brockman向亲特朗普超级政治行动委员会捐赠2500万美元是邪恶的，并将Altman和Elon与希特勒和斯大林进行比较](https://www.reddit.com/r/singularity/comments/1s6e3y3/dario_amodei_openai_president_brockmans_25/)**
-
-**OpenAI**当时的主要财务支持者Dario在**OpenAI**的个人资料随着他和他的团队**推出**GPT-2和**GPT**-3而增长，但他并不总是觉得自己的贡献得到了适当的认可
-
-📅 2026-03-28T22:32:55.000Z
+📅 Sun, 29 Mar 2026 22:15:06 +0000
 
 ---
 
@@ -334,7 +312,7 @@ The Stepback是一份每周时事通讯，详细介绍了科技界的一个**重
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-03-29T15:34:25.697Z
+📅 2026-03-29T23:34:18.846Z
 
 ---
 
@@ -343,25 +321,43 @@ The Stepback是一份每周时事通讯，详细介绍了科技界的一个**重
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-03-29T15:35:44.236Z
+📅 2026-03-29T23:35:37.176Z
 
 ---
 
-### Hacker News AI
-**[消息人士称， OpenAI推出AI视频工具Sora ，令人震惊的迪士尼](https://www.reuters.com/technology/openai-set-discontinue-sora-video-platform-app-wsj-reports-2026-03-24/)**
+### Hacker News
+**[在Cloudflare读取您的反应状态之前， ChatGPT不会让您键入](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/)**
 
-文章网址： https://wwwcom/technology/**OpenAI**-set-discontinue-sora-video-platform-app-wsj-reports-2026-03-24/评论网址： https://**new**s
+文章网址： https://wwwcom/chat**GPT**-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/评论网址： https://**new**s
 
-📅 Sun, 29 Mar 2026 14:45:17 +0000
+📅 Sun, 29 Mar 2026 20:21:05 +0000
 
 ---
 
-### Reddit: r/artificial
-**[构建了一个开源工具，可以自动为任何代码库生成AI上下文文件，](https://www.reddit.com/r/artificial/comments/1s6pcue/built_an_open_source_tool_that_auto_generates_ai/)**
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-你花更多的时间向模型解释你的堆栈而不是实际编码，所以我构建了ai-setup来自动化，以寻找更多的贡献者和想要塑造AI模型如何理解代码库的人。repo: https://github
+Title: 520: Web服务器返回未知错误
 
-📅 2026-03-29T08:09:59.000Z
+📅 2026-03-29T23:34:18.846Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误520 ：
+
+📅 2026-03-29T23:34:18.846Z
+
+---
+
+### X: OpenAI
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Markdown 内容
+
+📅 2026-03-29T23:34:18.846Z
 
 ---
 
