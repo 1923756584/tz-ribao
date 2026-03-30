@@ -1,12 +1,12 @@
 ---
 title: "2026年3月30日 - TZ日报"
-date: 2026-03-30T16:12:13.570Z
+date: 2026-03-30T23:39:34.226Z
 draft: false
 ---
 
 # 2026年3月30日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/3/30 16:12:13
+> 📊 今日汇总 38 条 · 🕐 2026/3/30 23:39:34
 
 ---
 
@@ -40,15 +40,6 @@ draft: false
 
 ---
 
-### OpenAI Blog
-**[STADLER重塑了一家拥有230年历史的公司的知识工作](https://openai.com/index/stadler)**
-
-了解STADLER如何使用Chat**GPT**转变650名员工的知识工作，节省时间并提高工作效率
-
-📅 Fri, 27 Mar 2026 22:00:00 GMT
-
----
-
 ### TechCrunch AI Products
 **[人工智能芯片初创公司Rebellions在IPO前一轮融资中以23亿美元的估值筹集了4亿美元](https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/)**
 
@@ -77,6 +68,33 @@ draft: false
 ---
 
 ### TechCrunch AI Products
+**[流行的人工智能网关初创公司LiteLLM抛弃了备受争议的初创公司Delve](https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/)**
+
+LiteLLM通过Delve获得了两项安全合规认证，上周成为一些可怕的凭据窃取恶意软件的受害者
+
+📅 Mon, 30 Mar 2026 23:08:12 +0000
+
+---
+
+### TechCrunch AI Products
+**[15%的美国人表示愿意为人工智能老板工作](https://techcrunch.com/2026/03/30/ai-boss-supervisor-us-quinnipiac-poll/)**
+
+您的人类经理可能很快就会成为聊天机器人跨组织，人工智能正在被用来取代管理层，有些人称之为“大扁平化”
+
+📅 Mon, 30 Mar 2026 21:39:51 +0000
+
+---
+
+### TechCrunch AI Products
+**[随着越来越多的美国人采用人工智能工具，很少有人说他们可以相信结果](https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/)**
+
+Ubut公司的人工智能采用率正在上升，但信任度仍然很低
+
+📅 Mon, 30 Mar 2026 20:24:53 +0000
+
+---
+
+### TechCrunch AI Products
 **[Mantis Biotech正在制造人类的“数字双胞胎” ，以帮助解决医学的数据可用性问题](https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/)**
 
 代表解剖生理和行为
@@ -91,24 +109,6 @@ draft: false
 ScaleOps刚刚筹集了1.3亿美元，通过实时自动化基础设施来解决GPU短缺和AI云成本飙升的问题
 
 📅 Mon, 30 Mar 2026 13:52:02 +0000
-
----
-
-### TechCrunch AI Products
-**[Mistral AI筹集8.3亿美元债务，在巴黎附近建立数据中心](https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/)**
-
-Mistral的目标是在2026年第二季度开始运营数据中心。
-
-📅 Mon, 30 Mar 2026 12:49:51 +0000
-
----
-
-### TechCrunch AI Products
-**[随着人工智能编码规模的扩大， Qodo筹集了7000万美元用于代码验证](https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/)**
-
-随着人工智能用代码充斥软件开发， Qodo押注真正的挑战是确保它实际工作
-
-📅 Mon, 30 Mar 2026 12:30:00 +0000
 
 ---
 
@@ -168,21 +168,21 @@ Mistral的目标是在2026年第二季度开始运营数据中心。
 
 ---
 
-### ArXiv AI (cs.AI)
-**[BeSafe-Bench ：揭示功能环境中情境客服代表的行为安全风险](https://arxiv.org/abs/2603.25747)**
+### MIT Tech Research
+**[人工智能健康工具比以往任何时候都多，但它们的工作效果如何？](https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/)**
 
-25747v1公告类型：新摘要：大型多式联运模型（ LMM ）的快速发展使代理商能够执行复杂的数字和物理任务缺乏全面的安全基准仍然是一个主要瓶颈
+微软**推出**了Copilot Health几天前，亚马逊宣布，此前仅限于One Medical服务成员使用的基于LLM的工具Health AI将……
 
-📅 Mon, 30 Mar 2026 00:00:00 -0400
+📅 Mon, 30 Mar 2026 16:00:00 +0000
 
 ---
 
-### ArXiv AI (cs.AI)
-**[AutoB2G ：用于自动化建筑网格协同仿真的大型语言模型驱动Agentic框架](https://arxiv.org/abs/2603.26005)**
+### MIT Tech Research
+**[五角大楼针对人类的文化战争策略适得其反](https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/)**
 
-26005v1公告类型：新摘要：建筑运营数据的日益可用性激发了强化学习(RL)的使用该框架扩展了CityLearn V2 ，以支持建筑到电网(B2G)的交互，并采用基于大型语言模型(LLM)的socia (Simulation Orchestration for Computational Intelligence with Agents)框架来自动生成
+这个故事最初出现在我们的AIT每周通讯《算法》中，要先在收件箱中获取这样的故事，请在此处注册
 
-📅 Mon, 30 Mar 2026 00:00:00 -0400
+📅 Mon, 30 Mar 2026 15:42:50 +0000
 
 ---
 
@@ -199,6 +199,28 @@ Mistral的目标是在2026年第二季度开始运营数据中心。
 
 ---
 
+### VentureBeat
+![RSAC 2026出货了五个代理身份框架，并留下了三个关键差距](https://images.ctfassets.net/jdtwqhzvc2n1/6fV5wwoyrhjNtVlzfCp3qY/93bce937ebe54e27dcfd010b6cb8a8c3/rsac_hero_.jpg?w=300&q=30)
+
+**[RSAC 2026出货了五个代理身份框架，并留下了三个关键差距](https://venturebeat.com/security/rsac-2026-agent-identity-frameworks-three-gaps)**
+
+kurtz在他的主题演讲中将其标记为对AI代理生态系统和**OpenAI** Enterprise **GPT**的第一次**重大**供应链攻击
+
+📅 Mon, 30 Mar 2026 19:30:00 GMT
+
+---
+
+### VentureBeat
+![Midjourney工程师推出新的vibe编码开源标准借口，彻底改变网页设计](https://images.ctfassets.net/jdtwqhzvc2n1/2CoM3NWQlDLDvtdleEg1ss/30f0f204cc653ad61f99d1ae524afa5d/Gemini_Generated_Image_z7et1iz7et1iz7et.png?w=300&q=30)
+
+**[Midjourney工程师推出新的vibe编码开源标准借口，彻底改变网页设计](https://venturebeat.com/technology/midjourney-engineer-debuts-new-vibe-coded-open-source-standard-pretext-to)**
+
+他使用AI vibe编码工具和模型进行编码，如**OpenAI**的Codex和**Anthropic**的**Claude**通过迭代提示**Claude**和Codex等模型将TypeScript布局逻辑与大规模语料库上的实际浏览器渲染（包括The Great Gatsby的全文和多种多语言数据集）进行协调，他能够实现像素完美的准确性，而无需繁重的WebAssembly （ WASM ）二进制文件或字体解析库
+
+📅 Mon, 30 Mar 2026 22:20:00 GMT
+
+---
+
 ### The Verge
 ![我们从亚马逊大春季促销中找到的最佳优惠（到目前为止）](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268405_The_best_deals_from_Amazons_Big_Spring_Sale_event2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
@@ -207,6 +229,17 @@ Mistral的目标是在2026年第二季度开始运营数据中心。
 AirPods Pro 3 AirPods Pro 3采用了全新设计，改进了它们的贴合度AirPods 4 Apple的AirPods 4是该公司基本型号无线耳机的最新**更新**
 
 📅 2026-03-30T15:05:00.000Z
+
+---
+
+### VentureBeat
+![Cohere的开放权重ASR模型达到5.4%的单词错误率—足以取代生产管道中的语音API](https://images.ctfassets.net/jdtwqhzvc2n1/6BHCywBDmzbAqQbnbv1XP/6a3a02b360d9c6bf15d14d27ba6fc791/crimedy7_illustration_of_a_robot_transcribing_a_meeting_--ar__cca420ed-5206-436c-8e98-8eb21595bd8e_1.png?w=300&q=30)
+
+**[Cohere的开放权重ASR模型达到5.4%的单词错误率—足以取代生产管道中的语音API](https://venturebeat.com/orchestration/coheres-open-weight-asr-model-hits-5-4-word-error-rate-low-enough-to-replace)**
+
+该公司没有具体说明该模型是在哪种汉语方言上训练的，这为Chat**GPT**的语音功能提供了动力
+
+📅 Mon, 30 Mar 2026 18:00:00 GMT
 
 ---
 
@@ -219,109 +252,87 @@ AirPods Pro 3 AirPods Pro 3采用了全新设计，改进了它们的贴合度Ai
 
 ---
 
-### Wired Technology
-**[您的照片可能会泄露您的位置。以下是如何阻止这种情况的方法](https://www.wired.com/story/how-to-stop-your-photos-giving-away-your-location/)**
-
-所有快照都附带元数据，其中包含的信息比您想象的要多。
-
-📅 Sun, 29 Mar 2026 10:30:00 +0000
-
----
-
 ### Ars Technica
-**[借助新的插件功能， OpenAI正式将Codex超越编码](https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/)**
+**[作者在法庭上的幸运休息可能有助于对Meta种子下载提起集体诉讼](https://arstechnica.com/tech-policy/2026/03/meta-hopes-scotus-piracy-ruling-will-help-it-beat-lawsuit-over-torrenting-ai-data/)**
 
-事情发展得很快，竞争对手已经提供了类似的东西一段时间了。
+Judge让作者更容易攻击**Meta**的种子下载。**Meta**希望SCOTUS的裁决会阻止它。
 
-📅 Fri, 27 Mar 2026 21:53:45 +0000
-
----
-
-### TechCrunch
-**[Pixel 10A没有相机凸起，非常棒](https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/)**
-
-谷歌Pixel 10A可以平放在桌子上，但除此之外，该公司尚未对其最新的预算智能手机进行大量**升级**
-
-📅 Sun, 29 Mar 2026 21:30:00 +0000
+📅 Mon, 30 Mar 2026 19:04:01 +0000
 
 ---
 
-### The Verge
-![最新的Pixel 11泄漏显示更薄的边框和全黑相机条](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/pixel-11-leak.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### ZDNet AI
+**[谷歌的TurboQuant对人工智能不断上升的成本能做什么和不能做什么](https://www.zdnet.com/article/what-googles-turboquant-can-and-cant-do-for-ais-spiraling-cost/)**
 
-**[最新的Pixel 11泄漏显示更薄的边框和全黑相机条](https://www.theverge.com/tech/903381/google-pixel-11-leak-bezels-camera-bar)**
+谷歌的实时量化对于运行本地AI可能很**重要**。原因如下。
 
-|图片：通过Android Headlines的OnLeaks 9月份**推出**的**Google** Pixel 11还需要几个月的时间
-
-📅 2026-03-30T15:52:41.000Z
-
----
-
-### The Verge
-![Xbox的下一场大型游戏展示将于6月7日举行](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/ss_69e3d0306642df35e85de5114caea664c516c408.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[Xbox的下一场大型游戏展示将于6月7日举行](https://www.theverge.com/games/903282/xbox-games-showcase-2026-sgf-date)**
-
-首先是Xbox ，它刚刚宣布将于6月7日举行下一次大型展示活动，这是微软游戏部门的**重要**时刻
-
-📅 2026-03-30T13:18:57.000Z
+📅 Mon, 30 Mar 2026 19:59:16 GMT
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://avatars.githubusercontent.com/u/21003710?v=4)
+### GitHub New (New AI)
+![🆕 TensorCEO: 计算机毕业设计、机器学习毕业设计、深度学习毕业设计、原创AI项目【源码+论文】](https://avatars.githubusercontent.com/u/92135369?v=4)
 
-**[pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://github.com/pytorch/pytorch)**
+**[🆕 TensorCEO: 计算机毕业设计、机器学习毕业设计、深度学习毕业设计、原创AI项目【源码+论文】](https://github.com/TensorCEO/TensorCEO)**
 
-⭐ 98,648星· 27348叉· Python ·具有强大GPU加速的Python中的张量和动态神经网络
+⭐ 64 star (新项目) · N/A · 计算机毕业设计、机器学习毕业设计、深度学习毕业设计、原创AI项目【源码+论文】
 
-📅 2026-03-30T16:10:43Z
-
----
-
-### GitHub Active (AI/ML)
-![ultralytics ： Ultralytics YOLO 🚀](https://avatars.githubusercontent.com/u/26833451?v=4)
-
-**[ultralytics ： Ultralytics YOLO 🚀](https://github.com/ultralytics/ultralytics)**
-
-⭐ 55206星· 10618叉·蟒蛇·超能YOLO 🚀
-
-📅 2026-03-30T16:09:50Z
+📅 2026-03-27T02:33:26Z
 
 ---
 
-### GitHub Active (Python)
-![warp ：用于加速仿真、数据生成和空间计算的Python框架。](https://avatars.githubusercontent.com/u/1728152?v=4)
+### GitHub New (New AI)
+![🆕 Jarvis-Llama-Context ：受钢铁侠启发的高级AI语音助手。由Llama 3.1和Groq提供支持，具有上下文内存和Windows自动化。由来自哥伦比亚卡利的17yo Dev创建。](https://avatars.githubusercontent.com/u/112213178?v=4)
 
-**[warp ：用于加速仿真、数据生成和空间计算的Python框架。](https://github.com/NVIDIA/warp)**
+**[🆕 Jarvis-Llama-Context ：受钢铁侠启发的高级AI语音助手。由Llama 3.1和Groq提供支持，具有上下文内存和Windows自动化。由来自哥伦比亚卡利的17yo Dev创建。](https://github.com/jhon-henao13/Jarvis-Llama-Context)**
 
-⭐ 6452星· 472分叉· Python ·用于加速仿真、数据生成和空间计算的Python框架
+⭐ 2 star (新项目) · Python · An advanced AI Voice Assistant inspired by Iron ManCreated by a 17yo Dev from Cali, Colombia
 
-📅 2026-03-30T16:10:12Z
+📅 2026-03-29T01:31:44Z
 
 ---
 
-### GitHub Active (Python)
-![awesome-spectral-indices ：遥感应用的即用型光谱指数列表。](https://avatars.githubusercontent.com/u/105368819?v=4)
+### GitHub New (New AI)
+![🆕 NexusAI-Production-Ready-AI-SaaS-Boilerplate ：在几天内推出您的人工智能产品，而不是几个月。全面的开源SaaS样板，具有多模型AI支持、身份验证、多租户、计费和管理仪表板。](https://avatars.githubusercontent.com/u/272218274?v=4)
 
-**[awesome-spectral-indices ：遥感应用的即用型光谱指数列表。](https://github.com/awesome-spectral-indices/awesome-spectral-indices)**
+**[🆕 NexusAI-Production-Ready-AI-SaaS-Boilerplate ：在几天内推出您的人工智能产品，而不是几个月。全面的开源SaaS样板，具有多模型AI支持、身份验证、多租户、计费和管理仪表板。](https://github.com/Giants-Ware/NexusAI-Production-Ready-AI-SaaS-Boilerplate)**
 
-⭐ 1,092星· 173叉·蟒蛇·遥感应用光谱指数现成清单
+⭐ 1 star (新项目) · TypeScript · **launch** your AI product in days, not monthsA comprehensive, open-source SaaS boilerplate with multi-model AI support, authentication, multi-tenancy, billing, and admin dashboard
 
-📅 2026-03-30T16:10:04Z
+📅 2026-03-30T13:09:37Z
+
+---
+
+### GitHub New (New AI)
+![🆕 trifecta ：为期30天的AI agent实验：三个认知角色学习大学级课程、分享知识和面部淘汰。](https://avatars.githubusercontent.com/u/159834902?v=4)
+
+**[🆕 trifecta ：为期30天的AI agent实验：三个认知角色学习大学级课程、分享知识和面部淘汰。](https://github.com/Imdevsup/trifecta)**
+
+⭐ 1 star (新项目) · Python · 30-day AI agent experiment: three cognitive personas learn a university-grade curriculumand face elimination
+
+📅 2026-03-29T09:34:08Z
 
 ---
 
 ## 💬 社交动态
+
+### Hacker News AI
+**[人工智能领导者与伊隆·马斯克（ Elon Musk](https://www.axios.com/2026/03/30/elon-musk-openai-altman-anthropic)**
+
+文章网址： https://wwwcom/2026/03/30/elon-musk-**OpenAI**-altman-**Anthropic**评论网址： https://**new**s
+
+📅 Mon, 30 Mar 2026 22:16:46 +0000
+
+---
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-03-30T16:08:40.175Z
+📅 2026-03-30T23:36:26.853Z
 
 ---
 
@@ -330,34 +341,34 @@ AirPods Pro 3 AirPods Pro 3采用了全新设计，改进了它们的贴合度Ai
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-03-30T16:09:59.005Z
+📅 2026-03-30T23:37:45.343Z
 
 ---
 
 ### Hacker News
-**[“超过150万的GitHub公关已被Copilot注入广告”](https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/)**
+**[Android开发者验证](https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html)**
 
-文章网址： https://wwwnet/**new**s/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/评论网址： https://**new**s
+**Google**bloghtml评论网址： https://**new**s
 
-📅 Mon, 30 Mar 2026 15:00:28 +0000
+📅 Mon, 30 Mar 2026 22:05:21 +0000
+
+---
+
+### Hacker News
+**[通过实践而不是阅读来学习Claude Code](https://claude.nagdy.me/)**
+
+文章网址： https://**Claude**me/评论网址： https://**new**s
+
+📅 Mon, 30 Mar 2026 20:19:43 +0000
 
 ---
 
 ### Hacker News AI
-**[谷歌推出连接人工智能代理和安卓应用的AppFunctions](https://www.infoq.com/news/2026/03/android-appfunctions-agents/)**
+**[人工智能模型破坏关机脚本。花了22年的时间来规范Meta](https://www.briancarpio.com/blog/ai-is-self-preserving-what-happens-in-22-years)**
 
-文章网址： https://wwwcom/**new**s/2026/03/android-appfunctions-agents/评论网址： https://**new**s
+文章网址： https://wwwcom/blog/ai-is-self-preserving-what-happens-in-22-years评论网址： https://**new**s
 
-📅 Mon, 30 Mar 2026 15:49:41 +0000
-
----
-
-### Hacker News AI
-**[MSFT AI SLOP感染GitHub – Copilot现在将广告注入拉取请求](https://www.windowscentral.com/software-apps/microsofts-ai-slop-is-infecting-github-copilot-is-now-injecting-ads-into-pull-requests)**
-
-文章网址： https://wwwcom/software-apps/microsofts-ai-slop-is-infecting-github-copilot-is-now-injecting-ads-into-pull-requests评论网址： https://**new**s
-
-📅 Mon, 30 Mar 2026 15:40:35 +0000
+📅 Mon, 30 Mar 2026 22:17:32 +0000
 
 ---
 
@@ -366,7 +377,7 @@ AirPods Pro 3 AirPods Pro 3采用了全新设计，改进了它们的贴合度Ai
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-03-30T16:08:40.175Z
+📅 2026-03-30T23:36:26.853Z
 
 ---
 
@@ -375,16 +386,7 @@ Title: 520: Web服务器返回未知错误
 
 警告：目标URL返回错误520 ：
 
-📅 2026-03-30T16:08:40.175Z
-
----
-
-### X: OpenAI
-**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Markdown 内容
-
-📅 2026-03-30T16:08:40.175Z
+📅 2026-03-30T23:36:26.853Z
 
 ---
 
