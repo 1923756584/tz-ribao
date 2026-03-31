@@ -1,12 +1,12 @@
 ---
 title: "2026年3月31日 - TZ日报"
-date: 2026-03-31T16:11:40.139Z
+date: 2026-03-31T23:38:40.138Z
 draft: false
 ---
 
 # 2026年3月31日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/3/31 16:11:40
+> 📊 今日汇总 38 条 · 🕐 2026/3/31 23:38:40
 
 ---
 
@@ -21,6 +21,35 @@ draft: false
 ---
 
 ## ✨ 产品更新
+
+### OpenAI Blog
+**[加速人工智能的下一阶段](https://openai.com/index/accelerating-the-next-phase-ai)**
+
+**OpenAI**筹集了1220亿美元的新资金，用于在全球范围内扩展前沿人工智能，并满足对Chat**GPT**日益增长的需求
+
+📅 Tue, 31 Mar 2026 13:00:00 GMT
+
+---
+
+### Google AI Blog
+![使用Veo 3.1 Lite构建，这是我们最具成本效益的视频生成模型](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/veo31lite.max-600x600.format-webp.webp)
+
+**[使用Veo 3.1 Lite构建，这是我们最具成本效益的视频生成模型](https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/)**
+
+1 Lite现已通过**Gemini** API提供付费预览，并可在**Google** AI St**Udio**中进行测试
+
+📅 Tue, 31 Mar 2026 16:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[OpenAI尚未公开，从散户投资者那里筹集了30亿美元，募集了1220亿美元的巨额资金](https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/)**
+
+由亚马逊(Amazon)、英伟达(Nvidia)和软银(SoftBank)牵头的**OpenAI**最新一轮融资，在人工智能实验室接近IPO之际，其估值为8,520亿美元
+
+📅 Tue, 31 Mar 2026 21:25:04 +0000
+
+---
 
 ### AI News
 **[摩根大通开始跟踪员工在工作中使用人工智能的方式](https://www.artificialintelligence-news.com/news/jpmorgan-begins-tracking-how-employees-use-ai-at-work/)**
@@ -37,15 +66,6 @@ draft: false
 亚洲灾难响应人工智能：与盖茨基金会举办的**OpenAI**研讨会
 
 📅 Sun, 29 Mar 2026 22:15:00 GMT
-
----
-
-### TechCrunch AI Products
-**[人工智能芯片初创公司Rebellions在IPO前一轮融资中以23亿美元的估值筹集了4亿美元](https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/)**
-
-这家初创公司计划在今年晚些时候上市，专门为人工智能推理设计芯片，这是英伟达主导地位的另一个挑战者
-
-📅 Mon, 30 Mar 2026 13:00:00 +0000
 
 ---
 
@@ -77,38 +97,20 @@ TRL v1.0 ：为现场移动而构建的训练后库
 ---
 
 ### TechCrunch AI Products
-**[Nomadic筹集了840万美元来争夺自动驾驶汽车的数据](https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/)**
+**[Salesforce宣布对Slack进行人工智能改造，推出30项新功能](https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/)**
 
-该公司使用深度学习模型将机器人的素材转换为结构化、可搜索的数据集
+Slack变得更加实用。
 
-📅 Tue, 31 Mar 2026 15:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[独家： Runway推出$ 1000万美元基金Builders计划，以支持早期人工智能初创公司](https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/)**
-
-Runway正在**推出**一项价值1000万美元的基金和创业计划，以支持公司利用其人工智能视频模型进行建设，同时推动交互式
-
-📅 Tue, 31 Mar 2026 14:00:00 +0000
+📅 Tue, 31 Mar 2026 22:46:25 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[凭借其新的应用商店， Ring押注人工智能超越家庭安全](https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/)**
+**[Yupp从a16z crypto的Chris Dixon那里筹集了3300万美元后关闭](https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/)**
 
-Ring的应用商店将允许该公司瞄准安全以外的更广泛用例，例如老年护理或业务需求
+在**推出**众包AI模型反馈不到一年后， Yupp即将关闭其业务
 
-📅 Tue, 31 Mar 2026 13:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[根据新的民意调查， 15%的美国人表示他们愿意为人工智能老板工作](https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/)**
-
-根据昆尼皮亚克大学的一项民意调查， 15%的美国人表示，他们愿意有一份工作，他们的直接主管是一个人工智能项目，负责分配任务和设定时间表
-
-📅 Mon, 30 Mar 2026 23:41:48 +0000
+📅 Tue, 31 Mar 2026 20:01:07 +0000
 
 ---
 
@@ -189,13 +191,24 @@ Ring的应用商店将允许该公司瞄准安全以外的更广泛用例，例�
 ## 🌍 行业展望
 
 ### VentureBeat
-![RSAC 2026出货了五个代理身份框架，并留下了三个关键差距](https://images.ctfassets.net/jdtwqhzvc2n1/6fV5wwoyrhjNtVlzfCp3qY/93bce937ebe54e27dcfd010b6cb8a8c3/rsac_hero_.jpg?w=300&q=30)
+![CrowdStrike、思科和Palo Alto Networks都在RSAC 2026上发布了代理SOC工具—代理行为基线差距在所有三个](https://images.ctfassets.net/jdtwqhzvc2n1/1zayI36Rne3LGkCx5LFR1w/5b777b759f1e5f19cac0e4d7ee377326/George_Kurtz_by_venturebeat_.jpg?w=300&q=30)
 
-**[RSAC 2026出货了五个代理身份框架，并留下了三个关键差距](https://venturebeat.com/security/rsac-2026-agent-identity-frameworks-three-gaps)**
+**[CrowdStrike、思科和Palo Alto Networks都在RSAC 2026上发布了代理SOC工具—代理行为基线差距在所有三个](https://venturebeat.com/security/rsac-2026-agentic-soc-agent-telemetry-security-gap)**
 
-kurtz在他的主题演讲中将其标记为对AI代理生态系统和**OpenAI** Enterprise **GPT**的第一次**重大**供应链攻击
+此Chrome浏览器流程由Louis的**Claude** Cowork或Chat**GPT**应用程序启动。启动合作伙伴包括Accenture、**Anthropic**、AWS、Deloitte、Kroll、NVIDIA、**OpenAI**、Salesforce和Telefónica Tech
 
-📅 Mon, 30 Mar 2026 19:30:00 GMT
+📅 Tue, 31 Mar 2026 21:30:00 GMT
+
+---
+
+### VentureBeat
+![Slack为Slackbot添加了30项人工智能功能，这是自Salesforce收购以来最雄心勃勃的更新](https://images.ctfassets.net/jdtwqhzvc2n1/6ibN7rf80EyoMcoQ2o6a6u/7e9042f231b585a6d6eb3cd58c50bca5/nuneybits_Vector_art_of_a_laptop_displaying_an_unmistakable_Sla_e2df2056-1841-4245-a4ea-4b79444c7d56.webp?w=300&q=30)
+
+**[Slack为Slackbot添加了30项人工智能功能，这是自Salesforce收购以来最雄心勃勃的更新](https://venturebeat.com/orchestration/slack-adds-30-ai-features-to-slackbot-its-most-ambitious-update-since-the)**
+
+**Anthropic**的**Claude**如何为Slackbot提供支持—为什么保持价格实惠是Slackbot建立在**Anthropic**的**Claude**模型之上最难的部分Slack最大的赌注是它可以做任何事情而不会失去使其受到喜爱的简单性周二的**发布**是Seaman领导下的第一个主要产品**发布**
+
+📅 Tue, 31 Mar 2026 18:00:00 GMT
 
 ---
 
@@ -241,49 +254,58 @@ ThinkLabs根据第一原理物理模拟器的输出训练其人工智能—这�
 
 ---
 
-### VentureBeat
-![Midjourney工程师推出新的vibe编码开源标准借口，彻底改变网页设计](https://images.ctfassets.net/jdtwqhzvc2n1/2CoM3NWQlDLDvtdleEg1ss/30f0f204cc653ad61f99d1ae524afa5d/Gemini_Generated_Image_z7et1iz7et1iz7et.png?w=300&q=30)
+### Wired Technology
+**[伊朗威胁将于4月1日开始攻击美国主要科技公司](https://www.wired.com/story/iran-threatens-to-start-attacking-major-us-tech-firms-on-april-1/)**
 
-**[Midjourney工程师推出新的vibe编码开源标准借口，彻底改变网页设计](https://venturebeat.com/technology/midjourney-engineer-debuts-new-vibe-coded-open-source-standard-pretext-to)**
+苹果、谷歌和微软等科技巨头都在伊朗伊斯兰革命卫队**发布**的目标名单中
 
-他使用AI vibe编码工具和模型进行编码，如**OpenAI**的Codex和**Anthropic**的**Claude**通过迭代提示**Claude**和Codex等模型将TypeScript布局逻辑与大规模语料库上的实际浏览器渲染（包括The Great Gatsby的全文和多种多语言数据集）进行协调，他能够实现像素完美的准确性，而无需繁重的WebAssembly （ WASM ）二进制文件或字体解析库
-
-📅 Mon, 30 Mar 2026 23:11:00 GMT
+📅 Tue, 31 Mar 2026 21:25:12 +0000
 
 ---
 
 ### The Verge
-![亚马逊大春季特惠最后一天的最佳购物优惠](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268405_The_best_deals_from_Amazons_Big_Spring_Sale_event.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![Claude Code泄漏暴露了Tamagotchi风格的“宠物”和始终在线的代理](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[亚马逊大春季特惠最后一天的最佳购物优惠](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals)**
+**[Claude Code泄漏暴露了Tamagotchi风格的“宠物”和始终在线的代理](https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak)**
 
-AirPods Pro 3 AirPods Pro 3采用了全新设计，提高了合身度49 ，亚马逊售价159美元， Lofree Apple AirTag （第一代）售价119美元苹果的AirTag不显眼
+在Anthropic**发布**Claude Code的2**Anthropic**关于AI机器人的说明之后
 
-📅 2026-03-31T15:32:20.000Z
-
----
-
-### VentureBeat
-![Claude Code的源代码似乎已经泄露：这是我们所知道的](https://images.ctfassets.net/jdtwqhzvc2n1/K7d8cWOPYUVUoUmdWOpzB/d269648e6f78ee428a297bb7c6905a4b/Gemini_Generated_Image_io8kwlio8kwlio8k.png?w=300&q=30)
-
-**[Claude Code的源代码似乎已经泄露：这是我们所知道的](https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know)**
-
-公共npm注册表上的@ **Anthropic**-ai/**Claude**-code包中的88个已于今早实时推送**Anthropic**已指定本机安装程序（ curl -fsSL https://**Claude**
-
-📅 Tue, 31 Mar 2026 15:00:00 GMT
+📅 2026-03-31T22:24:19.000Z
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub Active (Python)
-![bleachbit ：适用于Windows和Linux的BleachBit系统清洁剂](https://avatars.githubusercontent.com/u/11513530?v=4)
+### GitHub Active (AI/ML)
+![julia ： Julia编程语言](https://avatars.githubusercontent.com/u/743164?v=4)
 
-**[bleachbit ：适用于Windows和Linux的BleachBit系统清洁剂](https://github.com/bleachbit/bleachbit)**
+**[julia ： Julia编程语言](https://github.com/JuliaLang/julia)**
 
-⭐ 4,540星级· 331叉· Python ·适用于Windows和Linux的BleachBit系统清洁器
+⭐ 48,533星· 5757叉·茱莉亚·茱莉亚编程语言
 
-📅 2026-03-31T16:10:02Z
+📅 2026-03-31T23:36:47Z
+
+---
+
+### GitHub Active (AI/ML)
+![ray ： Ray是一个AI计算引擎。Ray由一个核心分布式运行时和一组用于加速ML工作负载的AI库组成。](https://avatars.githubusercontent.com/u/22125274?v=4)
+
+**[ray ： Ray是一个AI计算引擎。Ray由一个核心分布式运行时和一组用于加速ML工作负载的AI库组成。](https://github.com/ray-project/ray)**
+
+⭐ 41,901星· 7399分叉· Python · Ray是一个AI计算引擎Ray由一个核心分布式运行时和一组用于加速ML工作负载的AI库组成
+
+📅 2026-03-31T23:35:23Z
+
+---
+
+### GitHub New (New AI)
+![🆕 ai-chatbot-colab ：使用Google Colab、TensorFlow和交互式霓虹矩阵界面，从头开始构建自己的AI聊天机器人。](https://avatars.githubusercontent.com/u/270964124?v=4)
+
+**[🆕 ai-chatbot-colab ：使用Google Colab、TensorFlow和交互式霓虹矩阵界面，从头开始构建自己的AI聊天机器人。](https://github.com/Don-Youssef/ai-chatbot-colab)**
+
+⭐ 3 star (新项目) · Jupyter Notebook · Build your own AI chatbot from scratch using **Google** Colab, TensorFlow, and a interactive neon matrix interface
+
+📅 2026-03-28T00:39:48Z
 
 ---
 
@@ -298,36 +320,50 @@ AirPods Pro 3 AirPods Pro 3采用了全新设计，提高了合身度49 ，亚�
 
 ---
 
-### GitHub New (New AI)
-![🆕 ai-chatbot-colab ：使用Google Colab、TensorFlow和交互式霓虹矩阵界面，从头开始构建自己的AI聊天机器人。](https://avatars.githubusercontent.com/u/270964124?v=4)
-
-**[🆕 ai-chatbot-colab ：使用Google Colab、TensorFlow和交互式霓虹矩阵界面，从头开始构建自己的AI聊天机器人。](https://github.com/Don-Youssef/ai-chatbot-colab)**
-
-⭐ 2 star (新项目) · Jupyter Notebook · Build your own AI chatbot from scratch using **Google** Colab, TensorFlow, and a interactive neon matrix interface
-
-📅 2026-03-28T00:39:48Z
-
----
-
-### GitHub New (New AI)
-![🆕 DocForge-SDK ：生产级开源文档引擎和查看器— Nutrient Web SDK (PSPDFKit)的完整替代品。使用Next.js 16、TypeScript和Ollama驱动的AI智能构建。](https://avatars.githubusercontent.com/u/272218274?v=4)
-
-**[🆕 DocForge-SDK ：生产级开源文档引擎和查看器— Nutrient Web SDK (PSPDFKit)的完整替代品。使用Next.js 16、TypeScript和Ollama驱动的AI智能构建。](https://github.com/Giants-Ware/DocForge-SDK)**
-
-⭐ 1 star (新项目) · TypeScript · A production-grade, open-source document engine and viewer — a complete alternative to Nutrient Web SDK (PSPDFKit)js 16, TypeScript, and Ollama-powered AI intelligence
-
-📅 2026-03-31T10:14:58Z
-
----
-
 ## 💬 社交动态
 
+### Reddit: r/artificial
+**[论文发现，像ChatGPT和Claude这样的领先人工智能聊天机器人仍然令人难以置信的讽刺，导致对用户的扭曲影响](https://www.reddit.com/r/artificial/comments/1s93wyl/paper_finds_that_leading_ai_chatbots_like_chatgpt/)**
+
+com/artificial-intelligence/paper-ai-chatbots-chat**GPT**-**Claude**-sycophantic您的AI聊天机器人不是中立的，包括**OpenAI**的Chat**GPT**驱动的**GPT**-4o和**GPT**-5
+
+📅 2026-03-31T23:35:41.000Z
+
+---
+
+### Reddit: r/singularity
+**[前沿人工智能实验室可能已经实现了RSI](https://www.reddit.com/r/singularity/comments/1s93v16/the_frontier_ai_labs_have_probably_already/)**
+
+谷歌、**OpenAI**和**Anthropic**目前缺乏**突破**性的人工智能新闻和新模式
+
+📅 2026-03-31T23:33:21.000Z
+
+---
+
 ### Hacker News AI
-**[Show HN ：我构建了一种方法，让人工智能记住你喜欢做的事情](https://github.com/Robi-Labs/AEP)**
+**[一名男子使用人工智能打电话给3000名爱尔兰调酒师跟踪吉尼斯价格](https://fortune.com/2026/03/30/guinness-beer-prices-ireland-anthropic-claude-ai/)**
 
-我仍然必须每次重复约束、偏好和工作流程好奇其他人是否遇到相同的问题，以及这样的工具在Cursor、Chat**GPT**或**Claude**等工具中是否有用
+文章网址： https://fortunecom/2026/03/30/guinness-beer-prices-ireland-**Anthropic**-**Claude**-ai/评论网址： https://**new**s
 
-📅 Tue, 31 Mar 2026 15:29:03 +0000
+📅 Tue, 31 Mar 2026 22:56:40 +0000
+
+---
+
+### Reddit: r/artificial
+**[海市蜃楼效应是一个错误，还是正在发生的几何重建？关于为什么VLM比猜测表现更好的“幻觉”的框架，以及这可以告诉我们这些模型的真实含义](https://www.reddit.com/r/artificial/comments/1s91dsr/is_the_mirage_effect_a_bug_or_is_it_geometric/)**
+
+它优于**GPT**-5和**Gemini** 2无论如何，该模型自信地回答，并具有详细的临床推理痕迹
+
+📅 2026-03-31T21:52:53.000Z
+
+---
+
+### Reddit: r/singularity
+**[如果人工智能是自我改进和智能的，你怎么能“拥有”它？这不能解决人工智能公司估值的ROI问题吗？](https://www.reddit.com/r/singularity/comments/1s8x8is/if_the_ai_is_self_improving_and_intelligent_how/)**
+
+如果模型可以独立思考和工作，那么对AGI的所有权主张就简单地从理想的逻辑来看，就像投资于**Anthropic**或**OpenAI**的整个投资回报率一样，公司将为模型的工作付费，但如果模型是独立的，为什么服务购买者需要中间商公司
+
+📅 2026-03-31T19:21:44.000Z
 
 ---
 
@@ -336,7 +372,7 @@ AirPods Pro 3 AirPods Pro 3采用了全新设计，提高了合身度49 ，亚�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-03-31T16:08:17.352Z
+📅 2026-03-31T23:35:33.591Z
 
 ---
 
@@ -345,52 +381,16 @@ AirPods Pro 3 AirPods Pro 3采用了全新设计，提高了合身度49 ，亚�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-03-31T16:09:35.884Z
+📅 2026-03-31T23:36:52.031Z
 
 ---
 
 ### Hacker News
-**[Microsoft ： Copilot仅用于娱乐目的](https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse)**
+**[OpenAI以$ 852B的估值完成融资](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html)**
 
-文章网址： https://wwwcom/en-us/microsoft-copilot/for-individuals/termsofuse评论网址： https://**new**s
+https://**OpenAI**com/index/accelerating-the-next-phase-ai评论网址： https://**new**s
 
-📅 Tue, 31 Mar 2026 14:25:37 +0000
-
----
-
-### Hacker News
-**[Claude Code的源代码已通过其NPM注册表中的映射文件泄露](https://twitter.com/Fried_rice/status/2038894956459290963)**
-
-文章网址： https://twittercom/Fried_rice/status/2038894956459290963留言网址： https://**new**s
-
-📅 Tue, 31 Mar 2026 09:00:40 +0000
-
----
-
-### Hacker News AI
-**[Aki.io –通过欧盟基础设施上的API开源AI模型（与OpenAI兼容）](https://aki.io)**
-
-文章网址： https://akiio评论网址： https://**new**s
-
-📅 Tue, 31 Mar 2026 15:34:59 +0000
-
----
-
-### Hacker News AI
-**[一名大学教师转向打字机，以遏制人工智能写作的工作](https://apnews.com/article/typewriter-ai-cheating-chatgpt-cornell-ce10e1ca0f10c96f79b7d988bb56448b)**
-
-文章网址： https://ap**new**scom/article/typewriter-ai-cheating-chat**GPT**-cornell-ce10e1ca0f10c96f79b7d988bb56448b评论网址： https://**new**s
-
-📅 Tue, 31 Mar 2026 15:32:13 +0000
-
----
-
-### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Title: 520: Web服务器返回未知错误
-
-📅 2026-03-31T16:08:17.352Z
+📅 Tue, 31 Mar 2026 20:07:30 +0000
 
 ---
 
