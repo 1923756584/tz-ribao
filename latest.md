@@ -1,12 +1,12 @@
 ---
 title: "2026年4月1日 - TZ日报"
-date: 2026-04-01T16:12:19.592Z
+date: 2026-04-01T23:40:54.710Z
 draft: false
 ---
 
 # 2026年4月1日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/4/1 16:12:19
+> 📊 今日汇总 38 条 · 🕐 2026/4/1 23:40:54
 
 ---
 
@@ -69,15 +69,6 @@ Gradient Labs使用**GPT**-41和**GPT**-5
 
 ---
 
-### OpenAI Blog
-**[帮助灾难响应团队在整个亚洲将人工智能转化为行动](https://openai.com/index/helping-disaster-response-teams-asia)**
-
-亚洲灾难响应人工智能：与盖茨基金会举办的**OpenAI**研讨会
-
-📅 Sun, 29 Mar 2026 22:15:00 GMT
-
----
-
 ### Google AI Blog
 ![我们正在创建新的卫星图像地图，以帮助保护巴西的森林。](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/bfc_keyword_before_after_white_.max-600x600.format-webp_QNQ8psB.webp)
 
@@ -101,20 +92,29 @@ Gradient Labs使用**GPT**-41和**GPT**-5
 ---
 
 ### TechCrunch AI Products
+**[Anthropic删除了数千个试图窃取其泄露的源代码的GitHub存储库—该公司称此举是一次意外](https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/)**
+
+**Anthropic**高管表示这是一起事故，并撤回了大部分删除通知。
+
+📅 Wed, 01 Apr 2026 22:12:13 +0000
+
+---
+
+### TechCrunch AI Products
+**[Meta的天然气狂欢可以为南达科他州提供动力](https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/)**
+
+**Meta**即将**推出**的Hyperion AI数据中心将由10个新的天然气工厂提供动力。
+
+📅 Wed, 01 Apr 2026 18:35:36 +0000
+
+---
+
+### TechCrunch AI Products
 **[Anthropic有一个月](https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/)**
 
 人类本周第二次在**Anthropic**笨手笨脚。
 
 📅 Tue, 31 Mar 2026 23:58:26 +0000
-
----
-
-### AI News
-**[AEO与GEO如何在2026年重塑人工智能驱动的品牌发现](https://www.artificialintelligence-news.com/news/how-aeo-vs-geo-reshapes-ai-driven-brand-discovery-in-2026/)**
-
-2025年3月879次谷歌搜索看到人工智能摘要的用户中有四分之一结束了他们的[…] 2026年AEO与GEO如何重塑人工智能驱动的品牌发现的帖子**首次**出现在人工智能新闻
-
-📅 Mon, 30 Mar 2026 11:57:11 +0000
 
 ---
 
@@ -201,7 +201,7 @@ Gradient Labs使用**GPT**-41和**GPT**-5
 
 此Chrome浏览器流程由Louis的**Claude** Cowork或Chat**GPT**应用程序启动。启动合作伙伴包括Accenture、**Anthropic**、AWS、Deloitte、Kroll、NVIDIA、**OpenAI**、Salesforce和Telefónica Tech
 
-📅 Tue, 31 Mar 2026 21:30:00 GMT
+📅 Wed, 01 Apr 2026 17:30:15 GMT
 
 ---
 
@@ -225,25 +225,30 @@ Gradient Labs使用**GPT**-41和**GPT**-5
 
 ---
 
-### The Verge
-![2026年亚马逊大春季促销：所有最新优惠](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268405_The_best_deals_from_Amazons_Big_Spring_Sale_event3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### Ars Technica
+**[英伟达推出针对PC游戏“编译着色器”等待时间的修补程序](https://arstechnica.com/gaming/2026/04/nvidias-new-app-lets-you-precompile-gaming-shaders-during-machine-idle-time/)**
 
-**[2026年亚马逊大春季促销：所有最新优惠](https://www.theverge.com/gadgets/897580/amazon-big-spring-sale-2026-deals-news)**
+微软、英特尔也在为这个问题制定自己的解决方案。
 
-So, we’re still highlighting the best that the remains of the sale has to offer000 off its original list price Anker’s Qi2 MagGo Power Bank is down to its best price in months **Google**’s battery-powered Nest Doorbell is $40 off right now Microsoft’s go-to Xbox controller is selling at its best price of the year Hoto’s powerful PixelDrive electric screwdriver is 25 percent off Kasa’s Matter-compatible smart plugs are on sale for $11 a pop The Beats St**Udio** Pro are nearly $200 off ahead of Amazon’s big spring sale Antigravity’s 360-degree drone is 20 percent off ahead of its next feature drop Several Sonos a**Udio** products got their first 2026 discounts Ecovacs’ Deebot X8 and X9 Pro Omni robovacs are nearly 50 percent off Amazon’s Fire TV Stick 4K Max and 4K Plus sticks are up to 50 percent off Amazon’s welcoming spring with a deal event starting March 25th
-
-📅 2026-04-01T14:44:38.000Z
+📅 Wed, 01 Apr 2026 20:46:48 +0000
 
 ---
 
-### The Verge
-![您仍然可以获得的最佳亚马逊大春季促销优惠](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268405_The_best_deals_from_Amazons_Big_Spring_Sale_event2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### Ars Technica
+**[以下是Claude Code泄露的源代码揭示了Anthropic的计划](https://arstechnica.com/ai/2026/04/heres-what-that-claude-code-source-leak-reveals-about-anthropics-plans/)**
 
-**[您仍然可以获得的最佳亚马逊大春季促销优惠](https://www.theverge.com/gadgets/905059/best-amazon-big-spring-sale-2026-deals-you-can-still-get)**
+一个顽强的特工，隐形的“卧底”模式，还有……一个名叫巴迪的虚拟助手？
 
-AirPods Pro 3 AirPods Pro 3采用全新设计，提升了体型购买地点： Lofree Apple AirTag （第一代）售价159美元119美元苹果AirTag不显眼
+📅 Wed, 01 Apr 2026 20:04:04 +0000
 
-📅 2026-04-01T14:41:22.000Z
+---
+
+### TechCrunch
+**[初创公司的资金打破了第一季度的所有记录](https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/)**
+
+创纪录的季度融资在很大程度上推动了**OpenAI**、**Anthropic**、xAI和Waymo的四笔大型交易，但它也表明了一个普遍热门的市场
+
+📅 Wed, 01 Apr 2026 20:25:28 +0000
 
 ---
 
@@ -254,7 +259,7 @@ AirPods Pro 3 AirPods Pro 3采用全新设计，提升了体型购买地点： L
 
 出现了一个新的摩擦点： “影子人工智能”或“自带人工智能（ BYOAI ）”危机和Crowdstrike都宣布了创建企业版OpenClaw的产品，带有护栏和代理安全治理
 
-📅 Wed, 01 Apr 2026 13:57:57 GMT
+📅 Wed, 01 Apr 2026 19:16:03 GMT
 
 ---
 
@@ -269,29 +274,7 @@ AirPods Pro 3 AirPods Pro 3采用全新设计，提升了体型购买地点： L
 
 ---
 
-### VentureBeat
-![OpenClaw有50万个实例，没有企业终止开关](https://images.ctfassets.net/jdtwqhzvc2n1/69DOQfhXlWgAm6BEb5yRWx/edd7628a720eecce0fbb34bb70e3a553/hero_openclaw_story_March_2026.png?w=300&q=30)
-
-**[OpenClaw有50万个实例，没有企业终止开关](https://venturebeat.com/security/openclaw-500000-instances-no-enterprise-kill-switch)**
-
-从Chat**GPT**到Copilot再到OpenClaw ，其客户群中有800个不同的人工智能应用程序，在企业端点上生成了约1.6亿个独特实例人群罢工首席执行官George Kurtz在他的RSAC 2026主题演讲中将其标记为对人工智能代理生态系统的第一次**重大**供应链攻击
-
-📅 Tue, 31 Mar 2026 18:15:00 GMT
-
----
-
 ## 📦 GitHub热门
-
-### GitHub Active (AI/ML)
-![气流： Apache气流-以编程方式创作、安排和监控工作流程的平台](https://avatars.githubusercontent.com/u/47359?v=4)
-
-**[气流： Apache气流-以编程方式创作、安排和监控工作流程的平台](https://github.com/apache/airflow)**
-
-⭐ 44,851星· 16787分叉· Python · Apache Airflow -一个以编程方式创作、安排和监控工作流程的平台
-
-📅 2026-04-01T16:10:17Z
-
----
 
 ### GitHub New (New AI)
 ![🆕 ai-就绪性评估：对6个能力领域和加权问题进行严格的循证评估，为领导者提供精确的成熟度评分、风险标记和优先转型路线图。](https://avatars.githubusercontent.com/u/39905262?v=4)
@@ -316,13 +299,24 @@ AirPods Pro 3 AirPods Pro 3采用全新设计，提升了体型购买地点： L
 ---
 
 ### GitHub New (New AI)
-![🆕 ArchonAI ：执政官—您的前沿AI架构师。6个自主专家代理并行审核您的代码库，将RAG +实时网络研究相结合，在不到60分钟的时间内提供完整的架构审查包，包括ADR、IaC骨架、风险登记册和引用的调查结果。](https://avatars.githubusercontent.com/u/25908037?v=4)
+![🆕 fhir-terminology-server-mcp-wrapper ：一种MCP服务器，将FHIR术语服务公开为结构化、AI和LLM友好的工具，旨在无缝连接到现有术语服务器。](https://avatars.githubusercontent.com/u/51798742?v=4)
 
-**[🆕 ArchonAI ：执政官—您的前沿AI架构师。6个自主专家代理并行审核您的代码库，将RAG +实时网络研究相结合，在不到60分钟的时间内提供完整的架构审查包，包括ADR、IaC骨架、风险登记册和引用的调查结果。](https://github.com/VenkataAnilKumar/ArchonAI)**
+**[🆕 fhir-terminology-server-mcp-wrapper ：一种MCP服务器，将FHIR术语服务公开为结构化、AI和LLM友好的工具，旨在无缝连接到现有术语服务器。](https://github.com/viniciusfinger/fhir-terminology-server-mcp-wrapper)**
 
-⭐ 1 star (新项目) · Python · ARCHON — Your Frontier AI Architect6 autonomous specialist agents audit your codebase in parallel
+⭐ 1 star (新项目) · Python · An MCP server that exposes FHIR Terminology services as structuredAI and LLM-friendly tools
 
-📅 2026-03-31T22:41:22Z
+📅 2026-04-01T00:47:01Z
+
+---
+
+### GitHub New (New AI)
+![🆕 DocForge-SDK ：生产级开源文档引擎和查看器— Nutrient Web SDK (PSPDFKit)的完整替代品。使用Next.js 16、TypeScript和Ollama驱动的AI智能构建。](https://avatars.githubusercontent.com/u/272218274?v=4)
+
+**[🆕 DocForge-SDK ：生产级开源文档引擎和查看器— Nutrient Web SDK (PSPDFKit)的完整替代品。使用Next.js 16、TypeScript和Ollama驱动的AI智能构建。](https://github.com/Giants-Ware/DocForge-SDK)**
+
+⭐ 1 star (新项目) · TypeScript · A production-grade, open-source document engine and viewer — a complete alternative to Nutrient Web SDK (PSPDFKit)js 16, TypeScript, and Ollama-powered AI intelligence
+
+📅 2026-03-31T10:14:58Z
 
 ---
 
@@ -333,7 +327,7 @@ AirPods Pro 3 AirPods Pro 3采用全新设计，提升了体型购买地点： L
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-04-01T16:08:45.983Z
+📅 2026-04-01T23:37:46.625Z
 
 ---
 
@@ -342,7 +336,16 @@ AirPods Pro 3 AirPods Pro 3采用全新设计，提升了体型购买地点： L
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-04-01T16:10:04.483Z
+📅 2026-04-01T23:39:05.059Z
+
+---
+
+### Hacker News AI
+**[混淆不是安全– AI可以对任何压缩的JavaScript代码进行解混淆](https://www.afterpack.dev/blog/claude-code-source-leak)**
+
+文章网址： https://wwwdev/blog/**Claude**-code-source-leak评论网址： https://**new**s
+
+📅 Wed, 01 Apr 2026 23:25:29 +0000
 
 ---
 
@@ -351,7 +354,7 @@ AirPods Pro 3 AirPods Pro 3采用全新设计，提升了体型购买地点： L
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-04-01T16:08:45.983Z
+📅 2026-04-01T23:37:46.625Z
 
 ---
 
@@ -360,7 +363,7 @@ Title: 520: Web服务器返回未知错误
 
 警告：目标URL返回错误520 ：
 
-📅 2026-04-01T16:08:45.983Z
+📅 2026-04-01T23:37:46.625Z
 
 ---
 
@@ -369,7 +372,7 @@ Title: 520: Web服务器返回未知错误
 
 Markdown 内容
 
-📅 2026-04-01T16:08:45.983Z
+📅 2026-04-01T23:37:46.625Z
 
 ---
 
@@ -378,7 +381,7 @@ Markdown 内容
 
 # twitter.com | 520 ： Web服务器返回未知错误
 
-📅 2026-04-01T16:08:45.983Z
+📅 2026-04-01T23:37:46.625Z
 
 ---
 
@@ -387,16 +390,7 @@ Markdown 内容
 
 网址来源： http://twitter.com/sama
 
-📅 2026-04-01T16:09:01.665Z
-
----
-
-### X: Andrej Karpathy
-**[网址来源： http://twitter.com/karpathy](https://r.jina.ai/http://twitter.com/karpathy)**
-
-网址来源： http://twitter.com/karpathy
-
-📅 2026-04-01T16:09:17.357Z
+📅 2026-04-01T23:38:02.302Z
 
 ---
 
