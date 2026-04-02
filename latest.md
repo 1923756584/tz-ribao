@@ -1,12 +1,12 @@
 ---
 title: "2026年4月2日 - TZ日报"
-date: 2026-04-02T16:06:53.233Z
+date: 2026-04-02T23:39:01.323Z
 draft: false
 ---
 
 # 2026年4月2日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/4/2 16:06:53
+> 📊 今日汇总 38 条 · 🕐 2026/4/2 23:39:01
 
 ---
 
@@ -32,6 +32,17 @@ draft: false
 ---
 
 ### Google AI Blog
+![在Gemini API中平衡成本和可靠性的新方法](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/cost_reliability_Gemini_API-soc.max-600x600.format-webp.webp)
+
+**[在Gemini API中平衡成本和可靠性的新方法](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/)**
+
+**Google**正在为**Gemini** API引入两个新的推理层， Flex和Priority ，以平衡成本和延迟
+
+📅 Thu, 02 Apr 2026 16:00:00 +0000
+
+---
+
+### Google AI Blog
 ![使用Veo 3.1 Lite构建，这是我们最具成本效益的视频生成模型](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/veo31lite.max-600x600.format-webp.webp)
 
 **[使用Veo 3.1 Lite构建，这是我们最具成本效益的视频生成模型](https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/)**
@@ -42,12 +53,21 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[OpenAI尚未公开，从散户投资者那里筹集了30亿美元，募集了1220亿美元的巨额资金](https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/)**
+### OpenAI Blog
+**[OpenAI收购TBPN](https://openai.com/index/openai-acquires-tbpn)**
 
-由亚马逊(Amazon)、英伟达(Nvidia)和软银(SoftBank)牵头的**OpenAI**最新一轮融资，在人工智能实验室接近IPO之际，其估值为8,520亿美元
+**OpenAI**收购TBPN ，以加速围绕人工智能的全球对话，并支持独立媒体扩大与建筑商的对话
 
-📅 Tue, 31 Mar 2026 21:25:04 +0000
+📅 Thu, 02 Apr 2026 10:30:00 GMT
+
+---
+
+### OpenAI Blog
+**[Codex现在为团队提供更灵活的定价](https://openai.com/index/codex-flexible-pricing-for-teams)**
+
+Codex现在包括Chat**GPT** Business和Enterprise的即用即付定价，为团队提供了更灵活的启动和扩展采用选项
+
+📅 Thu, 02 Apr 2026 10:00:00 GMT
 
 ---
 
@@ -57,6 +77,17 @@ draft: false
 Gradient Labs使用**GPT**-41和**GPT**-5
 
 📅 Wed, 01 Apr 2026 02:00:00 GMT
+
+---
+
+### Google AI Blog
+![在Google Vids中免费创建、编辑和分享视频](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Createeditandshare_Google_Vids_.max-600x600.format-webp.webp)
+
+**[在Google Vids中免费创建、编辑和分享视频](https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/)**
+
+由Lyria 3和Veo 31提供支持的**Google** Vids即将**推出**新的人工智能功能，例如免费高质量**视频生成**等
+
+📅 Thu, 02 Apr 2026 16:00:00 +0000
 
 ---
 
@@ -83,38 +114,11 @@ Gradient Labs使用**GPT**-41和**GPT**-5
 ---
 
 ### TechCrunch AI Products
-**[Anthropic删除了数千个试图窃取其泄露的源代码的GitHub存储库—该公司称此举是一次意外](https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/)**
+**[OpenAI收购TBPN ，这是由创始人主导的商业脱口秀节目](https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/)**
 
-**Anthropic**高管表示这是一起事故，并撤回了大部分删除通知。
+硅谷最受欢迎的科技播客TBPN将独立运营，尽管它由首席政治运营官Chris Lehane负责监督
 
-📅 Wed, 01 Apr 2026 22:12:13 +0000
-
----
-
-### TechCrunch AI Products
-**[Meta的天然气狂欢可以为南达科他州提供动力](https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/)**
-
-**Meta**即将**推出**的Hyperion AI数据中心将由10个新的天然气工厂提供动力。
-
-📅 Wed, 01 Apr 2026 18:35:36 +0000
-
----
-
-### TechCrunch AI Products
-**[Anthropic有一个月](https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/)**
-
-人类本周第二次在**Anthropic**笨手笨脚。
-
-📅 Tue, 31 Mar 2026 23:58:26 +0000
-
----
-
-### Hugging Face
-**[Holo3 ：突破计算机使用前沿](https://huggingface.co/blog/Hcompany/holo3)**
-
-Holo3 ：**突破**计算机使用前沿
-
-📅 Wed, 01 Apr 2026 16:36:15 GMT
+📅 Thu, 02 Apr 2026 19:21:00 +0000
 
 ---
 
@@ -225,14 +229,23 @@ Holo3 ：**突破**计算机使用前沿
 
 ---
 
-### The Verge
-![陪审团说Meta和Google伤害了一个孩子。现在怎么办？](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Meta_Trial_angry_faces.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### Wired Technology
+**[Cursor推出全新AI Agent体验，采用Claude Code和Codex](https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/)**
 
-**[陪审团说Meta和Google伤害了一个孩子。现在怎么办？](https://www.theverge.com/podcast/905198/meta-lawsuits-facebook-instagram-youtube-social-media-addiction-section-230)**
+随着Cursor**推出**下一代产品，这家AI编码初创公司必须比以往任何时候都更直接地与**OpenAI**和**Anthropic**竞争
 
-新墨西哥州有一起针对**Meta**的案件，加利福尼亚州有一起针对两家公司的案件，这两家公司都表示他们计划上诉，后者成功地辩称**Meta**和谷歌过失地设计了他们的平台，导致了她的心理健康问题
+📅 Thu, 02 Apr 2026 17:00:00 +0000
 
-📅 2026-04-02T14:00:00.000Z
+---
+
+### VentureBeat
+![Google在Apache 2.0下发布了Gemma 4 —许可证更改可能比基准更重要](https://images.ctfassets.net/jdtwqhzvc2n1/1KjI96SJa9CT3g3xi3ldoE/d0f64bee4c9285397f8a8458b0de4c9d/ChatGPT_Image_Apr_2__2026__01_33_47_PM.png?w=300&q=30)
+
+**[Google在Apache 2.0下发布了Gemma 4 —许可证更改可能比基准更重要](https://venturebeat.com/technology/google-releases-gemma-4-under-apache-2-0-and-that-license-change-may-matter)**
+
+**Google** DeepMind最新的开放模型系列在标准Apache 20下**发布**，全部来自**Gemini** 3研究—代表了Google**发布**的最完整的开放模型版本
+
+📅 Thu, 02 Apr 2026 17:49:39 GMT
 
 ---
 
@@ -247,47 +260,25 @@ Holo3 ：**突破**计算机使用前沿
 
 ---
 
-### Ars Technica
-**[英伟达推出针对PC游戏“编译着色器”等待时间的修补程序](https://arstechnica.com/gaming/2026/04/nvidias-new-app-lets-you-precompile-gaming-shaders-during-machine-idle-time/)**
+### Wired Technology
+**[Anthropic说Claude有自己的情感](https://www.wired.com/story/anthropic-claude-research-functional-emotions/)**
 
-微软、英特尔也在为这个问题制定自己的解决方案。
+该公司的研究人员发现克劳德体内的表征具有类似于人类情感的功能
 
-📅 Wed, 01 Apr 2026 20:46:48 +0000
-
----
-
-### Ars Technica
-**[以下是Claude Code泄露的源代码揭示了Anthropic的计划](https://arstechnica.com/ai/2026/04/heres-what-that-claude-code-source-leak-reveals-about-anthropics-plans/)**
-
-一个顽强的特工，隐形的“卧底”模式，还有……一个名叫巴迪的虚拟助手？
-
-📅 Wed, 01 Apr 2026 20:04:04 +0000
+📅 Thu, 02 Apr 2026 16:00:00 +0000
 
 ---
 
-### VentureBeat
-![Meta的新结构化提示技术使LLM在代码审查方面显着提高—在某些情况下将准确率提高到93 ％](https://images.ctfassets.net/jdtwqhzvc2n1/0K2ROWPBO4EuSMhg5LPky/cc517300d97768f9fdbd4130d72f182e/agentic_code_reasoning.jpg?w=300&q=30)
+### Ars Technica
+**[Anthropic表示，其专注于泄漏的数字千年版权法案（ DMCA ）努力无意中击中了合法的GitHub分叉](https://arstechnica.com/ai/2026/04/anthropic-says-its-leak-focused-dmca-effort-unintentionally-hit-legit-github-forks/)**
 
-**[Meta的新结构化提示技术使LLM在代码审查方面显着提高—在某些情况下将准确率提高到93 ％](https://venturebeat.com/orchestration/metas-new-structured-prompting-technique-makes-llms-significantly-better-at)**
+但阻止泄露的**Claude** Code客户端代码的传播是一场艰苦的战斗。
 
-为存储库规模任务（如错误检测）部署AI代理首先涉及非结构化LLM评估人员，他们尝试直接验证代码，或通过培训专门的LLM作为奖励模型来近似测试结果
-
-📅 Wed, 01 Apr 2026 02:13:00 GMT
+📅 Thu, 02 Apr 2026 15:40:53 +0000
 
 ---
 
 ## 📦 GitHub热门
-
-### GitHub Active (Python)
-![plain ：用于使用Python构建产品的Web框架。](https://avatars.githubusercontent.com/u/17716784?v=4)
-
-**[plain ：用于使用Python构建产品的Web框架。](https://github.com/dropseed/plain)**
-
-⭐ 654星· 13叉· Python ·使用Python构建产品的Web框架。
-
-📅 2026-04-02T16:05:23Z
-
----
 
 ### GitHub New (New AI)
 ![🆕 ai-就绪性评估：对6个能力领域和加权问题进行严格的循证评估，为领导者提供精确的成熟度评分、风险标记和优先转型路线图。](https://avatars.githubusercontent.com/u/39905262?v=4)
@@ -322,6 +313,17 @@ Holo3 ：**突破**计算机使用前沿
 
 ---
 
+### GitHub New (New AI)
+![🆕 DocForge-SDK ：生产级开源文档引擎和查看器— Nutrient Web SDK (PSPDFKit)的完整替代品。使用Next.js 16、TypeScript和Ollama驱动的AI智能构建。](https://avatars.githubusercontent.com/u/272218274?v=4)
+
+**[🆕 DocForge-SDK ：生产级开源文档引擎和查看器— Nutrient Web SDK (PSPDFKit)的完整替代品。使用Next.js 16、TypeScript和Ollama驱动的AI智能构建。](https://github.com/Giants-Ware/DocForge-SDK)**
+
+⭐ 1 star (新项目) · TypeScript · A production-grade, open-source document engine and viewer — a complete alternative to Nutrient Web SDK (PSPDFKit)js 16, TypeScript, and Ollama-powered AI intelligence
+
+📅 2026-03-31T10:14:58Z
+
+---
+
 ## 💬 社交动态
 
 ### X: OpenAI
@@ -329,7 +331,7 @@ Holo3 ：**突破**计算机使用前沿
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-04-02T16:03:54.856Z
+📅 2026-04-02T23:36:08.649Z
 
 ---
 
@@ -338,25 +340,16 @@ Holo3 ：**突破**计算机使用前沿
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-04-02T16:05:14.455Z
+📅 2026-04-02T23:37:27.264Z
 
 ---
 
 ### Hacker News AI
-**[Meta的本土AI分析代理](https://medium.com/@AnalyticsAtMeta/inside-metas-home-grown-ai-analytics-agent-4ea6779acfb3)**
+**[KernelEvolve ： Meta的排名工程师代理优化AI基础设施](https://engineering.fb.com/2026/04/02/developer-tools/kernelevolve-how-metas-ranking-engineer-agent-optimizes-ai-infrastructure/)**
 
-文章网址： https://mediumcom/@ AnalyticsAt**Meta**/inside-**Meta**s-home-grown-ai-analytics-agent-4ea6779acfb3评论网址： https://**new**s
+文章网址： https://engineeringcom/2026/04/02/developer-tools/kernelevolve-how-**Meta**s-ranking-engineer-agent-optimizes-ai-infrastructure/评论网址： https://**new**s
 
-📅 Thu, 02 Apr 2026 15:28:53 +0000
-
----
-
-### Hacker News AI
-**[微软的目标是到2027年创建大型尖端人工智能模型](https://www.bloomberg.com/news/articles/2026-04-02/microsoft-aims-to-create-large-cutting-edge-ai-models-by-2027)**
-
-文章网址： https://wwwcom/**new**s/articles/2026-04-02/microsoft-aims-to-create-large-cutting-edge-ai-models-by-2027评论网址： https://**new**s
-
-📅 Thu, 02 Apr 2026 15:24:30 +0000
+📅 Thu, 02 Apr 2026 22:47:26 +0000
 
 ---
 
@@ -365,7 +358,7 @@ Holo3 ：**突破**计算机使用前沿
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-04-02T16:03:54.856Z
+📅 2026-04-02T23:36:08.649Z
 
 ---
 
@@ -374,7 +367,7 @@ Title: 520: Web服务器返回未知错误
 
 警告：目标URL返回错误520 ：
 
-📅 2026-04-02T16:03:54.856Z
+📅 2026-04-02T23:36:08.649Z
 
 ---
 
@@ -383,7 +376,7 @@ Title: 520: Web服务器返回未知错误
 
 Markdown 内容
 
-📅 2026-04-02T16:03:54.856Z
+📅 2026-04-02T23:36:08.649Z
 
 ---
 
@@ -392,7 +385,16 @@ Markdown 内容
 
 # twitter.com | 520 ： Web服务器返回未知错误
 
-📅 2026-04-02T16:03:54.856Z
+📅 2026-04-02T23:36:08.649Z
+
+---
+
+### X: Sam Altman
+**[网址来源： http://twitter.com/sama](https://r.jina.ai/http://twitter.com/sama)**
+
+网址来源： http://twitter.com/sama
+
+📅 2026-04-02T23:36:24.357Z
 
 ---
 
