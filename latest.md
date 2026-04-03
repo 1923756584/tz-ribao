@@ -1,12 +1,12 @@
 ---
 title: "2026年4月3日 - TZ日报"
-date: 2026-04-03T15:44:10.361Z
+date: 2026-04-03T23:38:49.446Z
 draft: false
 ---
 
 # 2026年4月3日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/4/3 15:44:10
+> 📊 今日汇总 38 条 · 🕐 2026/4/3 23:38:49
 
 ---
 
@@ -22,6 +22,15 @@ draft: false
 
 ## ✨ 产品更新
 
+### TechCrunch AI Products
+**[人工智能公司正在建设大型天然气工厂，为数据中心供电。有什么可能出错的？](https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/)**
+
+**Meta**、微软和谷歌都在大力投资新的天然气发电厂来运营他们的人工智能数据中心他们可能会后悔
+
+📅 Fri, 03 Apr 2026 19:48:22 +0000
+
+---
+
 ### Google AI Blog
 ![在Gemini API中平衡成本和可靠性的新方法](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/cost_reliability_Gemini_API-soc.max-600x600.format-webp.webp)
 
@@ -30,17 +39,6 @@ draft: false
 **Google**正在为**Gemini** API引入两个新的推理层， Flex和Priority ，以平衡成本和延迟
 
 📅 Thu, 02 Apr 2026 16:00:00 +0000
-
----
-
-### Google AI Blog
-![使用Veo 3.1 Lite构建，这是我们最具成本效益的视频生成模型](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/veo31lite.max-600x600.format-webp.webp)
-
-**[使用Veo 3.1 Lite构建，这是我们最具成本效益的视频生成模型](https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/)**
-
-1 Lite现已通过**Gemini** API提供付费预览，并可在**Google** AI St**Udio**中进行测试
-
-📅 Tue, 31 Mar 2026 16:00:00 +0000
 
 ---
 
@@ -105,20 +103,20 @@ Gradient Labs使用**GPT**-41和**GPT**-5
 ---
 
 ### TechCrunch AI Products
-**[OpenAI收购TBPN ，这是由创始人主导的商业脱口秀节目](https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/)**
+**[OpenAI高管洗牌包括首席运营官Brad Lightcap领导“特殊项目”的新角色](https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/)**
 
-硅谷最受欢迎的科技播客TBPN将独立运营，尽管它由首席政治运营官Chris Lehane负责监督
+除了Lightcap的新角色外， **OpenAI**首席营销官Kate Rouch将离开公司，专注于癌症康复
 
-📅 Thu, 02 Apr 2026 19:21:00 +0000
+📅 Fri, 03 Apr 2026 20:35:34 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[微软通过三种新的基础模型对抗人工智能竞争对手](https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/)**
+**[Anthropic以4亿美元收购生物技术初创公司Coefficient Bio ：报告](https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/)**
 
-六个月前， MAI**发布**了可以将语音转录为文本以及在组建后生成音频和图像的模型
+根据The Information和Eric **new**comer的数据， **Anthropic**以4亿美元的股票交易收购了隐形生物技术AI初创公司Coefficient Bio
 
-📅 Thu, 02 Apr 2026 16:48:16 +0000
+📅 Fri, 03 Apr 2026 20:28:40 +0000
 
 ---
 
@@ -221,6 +219,28 @@ Gradient Labs使用**GPT**-41和**GPT**-5
 ---
 
 ### VentureBeat
+![英伟达与Adobe、Salesforce、SAP在GTC 2026的17个采用者中推出企业AI代理平台](https://images.ctfassets.net/jdtwqhzvc2n1/2fleqnUY239c0tJFBLRGPF/123f498a5442eb1308cbeaee7fdd56c5/Vector_art_portrait_of_Jensen_Huang_image_in_Nvidia_green_and_black_minimalist_no_text_image_1.png?w=300&q=30)
+
+**[英伟达与Adobe、Salesforce、SAP在GTC 2026的17个采用者中推出企业AI代理平台](https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among)**
+
+Inside Nvidia's Agent Toolkit ：旨在为每位企业AI员工提供动力的软件堆栈掌握周一公告的**重要**性联盟的第一个项目将是由Mistral AI和Nvidia共同开发的基础模型
+
+📅 Fri, 03 Apr 2026 23:25:01 GMT
+
+---
+
+### VentureBeat
+![Karpathy共享“LLM知识库”架构，该架构通过AI维护的不断发展的降价库绕过RAG](https://images.ctfassets.net/jdtwqhzvc2n1/5rACVd0XGWlMS5e6o1F14i/b0e0dd19d82776e22bffed439593afbc/Carl_Franzen_a_humanoid_robot_in_elegant_cravat_and_velveteen_3a76f138-c488-4d03-8016-c5db26b6a025_3__1_.png?w=300&q=30)
+
+**[Karpathy共享“LLM知识库”架构，该架构通过AI维护的不断发展的降价库绕过RAG](https://venturebeat.com/data/karpathy-shares-llm-knowledge-base-architecture-that-bypasses-rag-with-an)**
+
+特斯拉前人工智能总监和**OpenAI**Karpathy “Markdown Wiki”的联合创始人就像一个精心策划的图书馆，馆长不断写新书来解释旧书
+
+📅 Fri, 03 Apr 2026 23:30:50 GMT
+
+---
+
+### VentureBeat
 ![Google在Apache 2.0下发布了Gemma 4 —许可证更改可能比基准更重要](https://images.ctfassets.net/jdtwqhzvc2n1/1KjI96SJa9CT3g3xi3ldoE/d0f64bee4c9285397f8a8458b0de4c9d/ChatGPT_Image_Apr_2__2026__01_33_47_PM.png?w=300&q=30)
 
 **[Google在Apache 2.0下发布了Gemma 4 —许可证更改可能比基准更重要](https://venturebeat.com/technology/google-releases-gemma-4-under-apache-2-0-and-that-license-change-may-matter)**
@@ -242,15 +262,6 @@ Gradient Labs使用**GPT**-41和**GPT**-5
 
 ---
 
-### Ars Technica
-**[诉讼称， Perplexity的“隐身模式”是“虚假的”](https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/)**
-
-**Google**、**Meta**和Perplexity被指控分享了数百万条聊天记录，以增加广告收入。
-
-📅 Thu, 02 Apr 2026 20:54:02 +0000
-
----
-
 ### The Verge
 ![我通过拥抱Linux拯救了一台注定要失败的Windows笔记本电脑](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268414_Linux_on_2017_ThinkPad_AKrales_0050.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
@@ -263,55 +274,35 @@ Gradient Labs使用**GPT**-41和**GPT**-5
 ---
 
 ### Wired Technology
-**[海关和边境保护局的设施代码似乎通过在线抽认卡泄露](https://www.wired.com/story/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/)**
+**[Meta在数据泄露使人工智能行业机密面临风险后暂停与Mercor的合作](https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/)**
 
-通过基本谷歌搜索找到的Quizlet抽认卡
+主要的人工智能实验室正在调查影响领先数据供应商Mercor的安全事件该事件可能暴露了有关他们如何训练人工智能模型的关键数据
 
-📅 Fri, 03 Apr 2026 09:00:00 +0000
-
----
-
-### Ars Technica
-**[OpenAI承担了另一项“支线任务” ，收购了以科技为重点的脱口秀节目TBPN](https://arstechnica.com/ai/2026/04/openai-takes-on-another-side-quest-buys-tech-focused-talk-show-tbpn/)**
-
-**OpenAI**表示，该计划将保留在洛杉矶，并将在编辑上独立。
-
-📅 Fri, 03 Apr 2026 13:35:13 +0000
+📅 Fri, 03 Apr 2026 21:28:14 +0000
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![DocsGPT ：用于代理、助理和企业搜索的私有AI平台。内置Agent Builder、深入研究、文档分析、多模型支持和Agent的API连接。](https://avatars.githubusercontent.com/u/103419759?v=4)
+### GitHub New (New AI)
+![🆕 机器学习和人工智能的概率和统计：概率和统计构成了机器学习的数学基础，有助于量化数据和模型中的不确定性。它们支持推理、估计、假设检验和贝叶斯学习等关键任务。通过将随机性转化为可衡量的信心，它们共同实现了更可靠的预测。](https://avatars.githubusercontent.com/u/143683612?v=4)
 
-**[DocsGPT ：用于代理、助理和企业搜索的私有AI平台。内置Agent Builder、深入研究、文档分析、多模型支持和Agent的API连接。](https://github.com/arc53/DocsGPT)**
+**[🆕 机器学习和人工智能的概率和统计：概率和统计构成了机器学习的数学基础，有助于量化数据和模型中的不确定性。它们支持推理、估计、假设检验和贝叶斯学习等关键任务。通过将随机性转化为可衡量的信心，它们共同实现了更可靠的预测。](https://github.com/EimanTahir071/Probability-and-Statistics-for-Machine-Learning-and-Artificial-Intelligence)**
 
-⭐ 17,802星· 2013分叉· Python ·代理、助理和企业搜索专用人工智能平台内置代理构建器、深入研究、文档分析、多模型支持和代理API连接
+⭐ 3 star (新项目) · Python · Probability and statistics form the mathematical foundation of machine learninghelping quantify uncertainty in data and models
 
-📅 2026-04-03T15:42:03Z
-
----
-
-### GitHub Active (AI/ML)
-![TransformerEngine ：用于加速NVIDIA GPU上的Transformer模型的库，包括在Hopper、Ada和Blackwell GPU上使用8位和4位浮点（ FP8和FP4 ）精度，以提供更好的性能，同时在训练和推理中降低内存利用率。](https://avatars.githubusercontent.com/u/1728152?v=4)
-
-**[TransformerEngine ：用于加速NVIDIA GPU上的Transformer模型的库，包括在Hopper、Ada和Blackwell GPU上使用8位和4位浮点（ FP8和FP4 ）精度，以提供更好的性能，同时在训练和推理中降低内存利用率。](https://github.com/NVIDIA/TransformerEngine)**
-
-255星· 684分叉· Python ·一个用于在NVIDIA GPU上加速变形金刚模型的库，可在训练和推理中以更低的内存利用率提供更好的性能
-
-📅 2026-04-03T15:41:50Z
+📅 2026-04-02T19:14:00Z
 
 ---
 
-### GitHub Active (Python)
-![netbox-proxbox ：用于Proxmox和Netbox集成的Netbox插件](https://avatars.githubusercontent.com/u/24397251?v=4)
+### GitHub New (New AI)
+![🆕 Harina-PAN-Label-Classificaction-with-CNN-YOLOv11-and-Streamlit ： Harina-PAN计算机视觉标签分类模型使用YOLOv11进行培训并部署在Streamlit云上](https://avatars.githubusercontent.com/u/81307629?v=4)
 
-**[netbox-proxbox ：用于Proxmox和Netbox集成的Netbox插件](https://github.com/emersonfelipesp/netbox-proxbox)**
+**[🆕 Harina-PAN-Label-Classificaction-with-CNN-YOLOv11-and-Streamlit ： Harina-PAN计算机视觉标签分类模型使用YOLOv11进行培训并部署在Streamlit云上](https://github.com/mendez-luisjose/Harina-PAN-Label-Classificaction-with-CNN-YOLOv11-and-Streamlit)**
 
-⭐ 528星· 63叉· Python · Netbox插件，用于Proxmox和Netbox之间的集成
+⭐ 1 star (新项目) · N/A · Harina PAN Computer Vision Label Classification Model Trained with YOLOv11 and Deployed on the Streamlit Cloud
 
-📅 2026-04-03T15:43:16Z
+📅 2026-04-03T15:35:50Z
 
 ---
 
@@ -326,14 +317,34 @@ Gradient Labs使用**GPT**-41和**GPT**-5
 
 ---
 
+### GitHub New (New AI)
+![🆕 SIMP ：标准化代理间消息协议- AI代理的通信框架](https://avatars.githubusercontent.com/u/197455603?v=4)
+
+**[🆕 SIMP ：标准化代理间消息协议- AI代理的通信框架](https://github.com/therealcryptrillionaire456/SIMP)**
+
+⭐ 1 star (新项目) · Python · Standardized Inter-agent Message Protocol - Communication framework for AI agents
+
+📅 2026-04-02T07:51:16Z
+
+---
+
 ## 💬 社交动态
+
+### Hacker News
+**[告诉HN ： Anthropic不再允许Claude Code订阅使用OpenClaw](https://news.ycombinator.com/item?id=47633396)**
+
+收到**Anthropic**的以下电子邮件： Hi您的订阅仍涵盖所有**Claude**产品，包括**Claude** Code和**Claude** Cowork
+
+📅 Fri, 03 Apr 2026 22:55:24 +0000
+
+---
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-04-03T15:41:32.506Z
+📅 2026-04-03T23:35:44.011Z
 
 ---
 
@@ -342,25 +353,25 @@ Gradient Labs使用**GPT**-41和**GPT**-5
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-04-03T15:42:25.797Z
+📅 2026-04-03T23:37:05.459Z
 
 ---
 
 ### X: OpenAI
-**[Title: twitter.com](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-Title: twitter.com
+Title: 520: Web服务器返回未知错误
 
-📅 2026-04-03T15:41:32.506Z
+📅 2026-04-03T23:35:44.011Z
 
 ---
 
 ### X: OpenAI
-**[警告：目标URL返回错误500 ：内部服务器错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-警告：目标URL返回错误500 ：内部服务器错误
+警告：目标URL返回错误520 ：
 
-📅 2026-04-03T15:41:32.506Z
+📅 2026-04-03T23:35:44.011Z
 
 ---
 
@@ -369,25 +380,16 @@ Title: twitter.com
 
 Markdown 内容
 
-📅 2026-04-03T15:41:32.506Z
+📅 2026-04-03T23:35:44.011Z
 
 ---
 
 ### X: OpenAI
-**[# #此页面无法正常工作](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[# twitter.com | 520 ： Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-# #此页面无法正常工作
+# twitter.com | 520 ： Web服务器返回未知错误
 
-📅 2026-04-03T15:41:32.506Z
-
----
-
-### X: Sam Altman
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/sama)**
-
-Title: 520: Web服务器返回未知错误
-
-📅 2026-04-03T15:41:48.200Z
+📅 2026-04-03T23:35:44.011Z
 
 ---
 
@@ -396,7 +398,7 @@ Title: 520: Web服务器返回未知错误
 
 网址来源： http://twitter.com/sama
 
-📅 2026-04-03T15:41:48.200Z
+📅 2026-04-03T23:35:59.728Z
 
 ---
 
