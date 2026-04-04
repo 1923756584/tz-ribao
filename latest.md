@@ -1,12 +1,12 @@
 ---
 title: "2026年4月4日 - TZ日报"
-date: 2026-04-04T15:36:39.357Z
+date: 2026-04-04T23:36:35.902Z
 draft: false
 ---
 
 # 2026年4月4日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/4/4 15:36:39
+> 📊 今日汇总 38 条 · 🕐 2026/4/4 23:36:35
 
 ---
 
@@ -23,168 +23,168 @@ draft: false
 ## ✨ 产品更新
 
 ### TechCrunch AI Products
-**[人工智能公司正在建设大型天然气工厂，为数据中心供电。有什么可能出错的？](https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/)**
+**[AI companies are building huge natural gas plants to power data centers. What could go wrong?](https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/)**
 
-**Meta**、微软和谷歌都在大力投资新的天然气发电厂来运营他们的人工智能数据中心他们可能会后悔
+**Meta**, Microsoft, and **Google** are all betting big on **new** natural gas power plants to run their AI data centersThey may regret it
 
 📅 Fri, 03 Apr 2026 19:48:22 +0000
 
 ---
 
 ### Google AI Blog
-![在Gemini API中平衡成本和可靠性的新方法](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/cost_reliability_Gemini_API-soc.max-600x600.format-webp.webp)
+![New ways to balance cost and reliability in the Gemini API](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/cost_reliability_Gemini_API-soc.max-600x600.format-webp.webp)
 
-**[在Gemini API中平衡成本和可靠性的新方法](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/)**
+**[New ways to balance cost and reliability in the Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/)**
 
-**Google**正在为**Gemini** API引入两个新的推理层， Flex和Priority ，以平衡成本和延迟
+**Google** is introducing two **new** inference tiers to the **Gemini** API, Flex and Priority, to balance cost and latency
 
 📅 Thu, 02 Apr 2026 16:00:00 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[Anthropic正在私人市场上占据一席之地； SpaceX可能会破坏派对](https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/)**
+**[Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage](https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/)**
 
-rainmaker Securities**OpenAI**总裁失地
+It’s about to become more expensive for **Claude** Code subscribers to use **Anthropic**’s coding assistant with OpenClaw and other third-party tools
+
+📅 Sat, 04 Apr 2026 16:32:22 +0000
+
+---
+
+### TechCrunch AI Products
+**[Anthropic is having a moment in the private markets; SpaceX could spoil the party](https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/)**
+
+president of Rainmaker Securities**OpenAI** losing ground
 
 📅 Sat, 04 Apr 2026 01:31:00 +0000
 
 ---
 
 ### OpenAI Blog
-**[OpenAI收购TBPN](https://openai.com/index/openai-acquires-tbpn)**
+**[OpenAI acquires TBPN](https://openai.com/index/openai-acquires-tbpn)**
 
-**OpenAI**收购TBPN ，以加速围绕人工智能的全球对话，并支持独立媒体扩大与建筑商的对话
+**OpenAI** acquires TBPN to accelerate global conversations around AI and support independent mediaexpanding dialogue with builders
 
 📅 Thu, 02 Apr 2026 10:30:00 GMT
 
 ---
 
 ### OpenAI Blog
-**[Codex现在为团队提供更灵活的定价](https://openai.com/index/codex-flexible-pricing-for-teams)**
+**[Codex now offers more flexible pricing for teams](https://openai.com/index/codex-flexible-pricing-for-teams)**
 
-Codex现在包括Chat**GPT** Business和Enterprise的即用即付定价，为团队提供了更灵活的启动和扩展采用选项
+Codex now includes pay-as-you-go pricing for Chat**GPT** Business and Enterprise, providing teams a more flexible option to start and scale adoption
 
 📅 Thu, 02 Apr 2026 10:00:00 GMT
 
 ---
 
 ### Google AI Blog
-![在Google Vids中免费创建、编辑和分享视频](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Createeditandshare_Google_Vids_.max-600x600.format-webp.webp)
+![Create, edit and share videos at no cost in Google Vids](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Createeditandshare_Google_Vids_.max-600x600.format-webp.webp)
 
-**[在Google Vids中免费创建、编辑和分享视频](https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/)**
+**[Create, edit and share videos at no cost in Google Vids](https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/)**
 
-由Lyria 3和Veo 31提供支持的**Google** Vids即将**推出**新的人工智能功能，例如免费高质量**视频生成**等
+**new** AI capabilities are coming to **Google** Vids, powered by Lyria 3 and Veo 31, like high-quality video generation at no cost and more
 
 📅 Thu, 02 Apr 2026 16:00:00 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[OpenAI高管洗牌包括首席运营官Brad Lightcap领导“特殊项目”的新角色](https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/)**
+**[OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’](https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/)**
 
-除了Lightcap的新角色外， **OpenAI**首席营销官Kate Rouch将离开公司，专注于癌症康复
+In addition to Lightcap's **new** role**OpenAI** CMO Kate Rouch will be stepping away from the company to focus on cancer recovery
 
 📅 Fri, 03 Apr 2026 20:35:34 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[Anthropic以4亿美元收购生物技术初创公司Coefficient Bio ：报告](https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/)**
+**[Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports](https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/)**
 
-根据The Information和Eric **new**comer的数据， **Anthropic**以4亿美元的股票交易收购了隐形生物技术AI初创公司Coefficient Bio
+**Anthropic** has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric **new**comer
 
 📅 Fri, 03 Apr 2026 20:28:40 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[Anthropic通过新的PAC加强其政治活动](https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/)**
+**[Anthropic ramps up its political activities with a new PAC](https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/)**
 
-随着中期选举的临近，新团队将支持支持人工智能公司政策议程的候选人
+With the midterms right around the corner, the **new** group is positioned to back candidates who support the AI company's policy agenda
 
 📅 Fri, 03 Apr 2026 20:22:18 +0000
-
----
-
-### TechCrunch AI Products
-**[OpenAI收购TBPN ，这是由创始人主导的商业脱口秀节目](https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/)**
-
-硅谷最受欢迎的科技播客TBPN将独立运营，尽管它由首席政治运营官Chris Lehane负责监督
-
-📅 Thu, 02 Apr 2026 19:21:00 +0000
 
 ---
 
 ## 🔬 前沿研究
 
 ### ArXiv Computer Vision (cs.CV)
-**[DOne ：用于高保真设计到代码生成的解耦结构和渲染](https://arxiv.org/abs/2604.01226)**
+**[DOne: Decoupling Structure and Rendering for High-Fidelity Design-to-Code Generation](https://arxiv.org/abs/2604.01226)**
 
-01226v1公告类型：新摘要：虽然视觉语言模型（ VLM ）在设计到代码生成中显示出前景，但在**GPT**分数中超过10% ）和细粒度元素对齐
-
-📅 Sat, 04 Apr 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[情绪分析中被忽视的重复延长形式](https://arxiv.org/abs/2604.01268)**
-
-我们的结果表明，微调的预训练语言模型（ PLM ）在性能上可以超过零拍摄**GPT**-4 ，但不能解释RLFF。最后，我们表明ExpInstruct可以改进**开源**LLM ，以匹配有限样本的零拍摄**GPT**-4的性能和可解释性
+01226v1 **announce** Type: **new** Abstract: While Vision Language Models (VLMs) have shown promise in Design-to-Code generation, over 10% in **GPT** Score) and fine-grained element alignment
 
 📅 Sat, 04 Apr 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Natural Language Processing (cs.CL)
-**[通过强化学习和平行思维扩展推理令牌：来自竞争性编程的证据](https://arxiv.org/abs/2604.01302)**
+**[The Overlooked Repetitive Lengthening Form in Sentiment Analysis](https://arxiv.org/abs/2604.01268)**
 
-01302v1公告类型：新摘要：我们研究如何通过两种互补的方法扩展竞争编程的推理令牌预算：训练时间强化学习（ RL ）和测试时间并行思维平均每个问题600万令牌，并在AetherCode的456个硬竞争编程问题上超越**GPT**-5-high
-
-📅 Sat, 04 Apr 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[灰度阴影中的偏好学习：对人类偏好的可解释和偏见感知的奖励建模](https://arxiv.org/abs/2604.01312)**
-
-01312v1公告类型：新摘要：在语言模型中学习人类偏好仍然具有根本挑战性我们在标准成对偏好设置下评估十种不同的大型语言模型LLM
+Our results show that fine-tuned Pre-trained Language Models (PLMs) can surpass zero-shot **GPT**-4 in performance but not in explanation for RLFFinally, we show ExpInstruct can improve the open-sourced LLMs to match zero-shot **GPT**-4 in performance and explainability for RLF with limited samples
 
 📅 Sat, 04 Apr 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Natural Language Processing (cs.CL)
-**[开放域安全策略构建](https://arxiv.org/abs/2604.01354)**
+**[Scaling Reasoning Tokens via RL and Parallel Thinking: Evidence From Competitive Programming](https://arxiv.org/abs/2604.01302)**
 
-01354v1公告类型：新摘要：审核层越来越成为许多基于用户或模型生成内容的产品的核心组件我们在https://github上**发布**了我们的实验代码
+01302v1 **announce** Type: **new** Abstract: We study how to scale reasoning token budgets for competitive programming through two complementary approaches: training-time reinforcement learning (RL) and test-time parallel thinking6 million tokens per problem on average, and surpasses **GPT**-5-high on 456 hard competitive programming problems from AetherCode
+
+📅 Sat, 04 Apr 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[Preference learning in shades of gray: Interpretable and bias-aware reward modeling for human preferences](https://arxiv.org/abs/2604.01312)**
+
+01312v1 **announce** Type: **new** Abstract: Learning human preferences in language models remains fundamentally challengingwe evaluate ten diverse large language models LLMs under a standard pairwise preference setting
+
+📅 Sat, 04 Apr 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[Open-Domain Safety Policy Construction](https://arxiv.org/abs/2604.01354)**
+
+01354v1 **announce** Type: **new** Abstract: Moderation layers are increasingly a core component of many products built on user- or model-generated contentWe **release** our experiment code at https://github
 
 📅 Sat, 04 Apr 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Computer Vision (cs.CV)
-**[CLPIPS ：人工智能生成的图像相似性的个性化指标](https://arxiv.org/abs/2604.01234)**
+**[CLPIPS: A Personalized Metric for AI-Generated Image Similarity](https://arxiv.org/abs/2604.01234)**
 
-01234v1公告类型：新摘要：迭代提示细化是使用文本生成模型再现目标图像的核心我们的目标是探索是否轻量级
-
-📅 Sat, 04 Apr 2026 00:00:00 -0400
-
----
-
-### ArXiv Computer Vision (cs.CV)
-**[通过专家协作进行伪装感知图像文本检索](https://arxiv.org/abs/2604.01251)**
-
-01251v1公告类型：新摘要：伪装场景理解（ CSU ）因其广泛的实际影响而备受关注数据集和代码将在https://github上提供
+01234v1 **announce** Type: **new** Abstract: Iterative prompt refinement is central to reproducing target images with text to image generative modelsWe aim to explore whether lightweight
 
 📅 Sat, 04 Apr 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Computer Vision (cs.CV)
-**[Look Twice ：多模式大型语言模型中的无培训证据突出显示](https://arxiv.org/abs/2604.01280)**
+**[Camouflage-aware Image-Text Retrieval via Expert Collaboration](https://arxiv.org/abs/2604.01251)**
 
-01280v1公告类型：新摘要：回答有关图像的问题通常需要将视觉理解与外部知识相结合多模态大型语言模型（ MLLM ）为此设置提供了自然框架
+01251v1 **announce** Type: **new** Abstract: Camouflaged scene understanding (CSU) has attracted significant attention due to its broad practical implicationsThe dataset and code will be available at https://github
+
+📅 Sat, 04 Apr 2026 00:00:00 -0400
+
+---
+
+### ArXiv Computer Vision (cs.CV)
+**[Look Twice: Training-Free Evidence Highlighting in Multimodal Large Language Models](https://arxiv.org/abs/2604.01280)**
+
+01280v1 **announce** Type: **new** Abstract: Answering questions about images often requires combining visual understanding with external knowledgeMultimodal Large Language Models (MLLMs) provide a natural framework for this setting
 
 📅 Sat, 04 Apr 2026 00:00:00 -0400
 
@@ -193,99 +193,119 @@ Codex现在包括Chat**GPT** Business和Enterprise的即用即付定价，为团
 ## 🌍 行业展望
 
 ### VentureBeat
-![微软在OpenAI和谷歌的直接镜头下推出3个新的人工智能模型](https://images.ctfassets.net/jdtwqhzvc2n1/1MNM0JowRYE5e55Cwos47r/f165200540aa49620bef1b7731908ac6/nuneybits_Vector_art_of_the_iconic_Microsoft_Windows_logo_on_a__0d681fb6-874c-4a30-83b8-90efbe6996d5.webp?w=300&q=30)
+![Microsoft launches 3 new AI models in direct shot at OpenAI and Google ](https://images.ctfassets.net/jdtwqhzvc2n1/1MNM0JowRYE5e55Cwos47r/f165200540aa49620bef1b7731908ac6/nuneybits_Vector_art_of_the_iconic_Microsoft_Windows_logo_on_a__0d681fb6-874c-4a30-83b8-90efbe6996d5.webp?w=300&q=30)
 
-**[微软在OpenAI和谷歌的直接镜头下推出3个新的人工智能模型](https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google)**
+**[Microsoft launches 3 new AI models in direct shot at OpenAI and Google ](https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google)**
 
-微软周四**推出**了三种完全由内部构建的新的基础人工智能模型—最先进的语音转录系统微软的新转录模型声称25种语言的最佳准确性MAI-Transcribe-1是头条新闻
+Microsoft on Thursday **launch**ed three **new** foundational AI models it built entirely in-house — a state-of-the-art speech transcription systemMicrosoft's **new** transcription model claims best-in-class accuracy across 25 languages MAI-Transcribe-1 is the headline **release**
 
 📅 Fri, 03 Apr 2026 15:17:41 GMT
 
 ---
 
 ### VentureBeat
-![Arcee的新开源Trinity-Large-Thinking是罕见的、强大的美国制造的人工智能模型，企业可以下载并定制](https://images.ctfassets.net/jdtwqhzvc2n1/BU6IEd1qLpLq0z4wTsSFU/45efac43ec6d50536095a1ad3e2791bd/Gemini_Generated_Image_coxwn4coxwn4coxw.png?w=300&q=30)
+![Arcee's new, open source Trinity-Large-Thinking is the rare, powerful U.S.-made AI model that enterprises can download and customize ](https://images.ctfassets.net/jdtwqhzvc2n1/BU6IEd1qLpLq0z4wTsSFU/45efac43ec6d50536095a1ad3e2791bd/Gemini_Generated_Image_coxwn4coxwn4coxw.png?w=300&q=30)
 
-**[Arcee的新开源Trinity-Large-Thinking是罕见的、强大的美国制造的人工智能模型，企业可以下载并定制](https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made)**
+**[Arcee's new, open source Trinity-Large-Thinking is the rare, powerful U.S.-made AI model that enterprises can download and customize ](https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made)**
 
-自2022年底Chat**GPT**首次亮相以来，**开源**人工智能模型的接力棒已在多家公司之间传递。**OpenAI**的**GPT**-oss参数最高达到1200亿
+The baton of open source AI models has been passed on between several companies over the years since Chat**GPT** debuted in late 2022**OpenAI**'s **GPT**-oss tops out at 120 billion parameters
 
 📅 Fri, 03 Apr 2026 15:17:02 GMT
 
 ---
 
 ### VentureBeat
-![英伟达与Adobe、Salesforce、SAP在GTC 2026的17个采用者中推出企业AI代理平台](https://images.ctfassets.net/jdtwqhzvc2n1/2fleqnUY239c0tJFBLRGPF/123f498a5442eb1308cbeaee7fdd56c5/Vector_art_portrait_of_Jensen_Huang_image_in_Nvidia_green_and_black_minimalist_no_text_image_1.png?w=300&q=30)
+![Nvidia launches enterprise AI agent platform with Adobe, Salesforce, SAP among 17 adopters at GTC 2026](https://images.ctfassets.net/jdtwqhzvc2n1/2fleqnUY239c0tJFBLRGPF/123f498a5442eb1308cbeaee7fdd56c5/Vector_art_portrait_of_Jensen_Huang_image_in_Nvidia_green_and_black_minimalist_no_text_image_1.png?w=300&q=30)
 
-**[英伟达与Adobe、Salesforce、SAP在GTC 2026的17个采用者中推出企业AI代理平台](https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among)**
+**[Nvidia launches enterprise AI agent platform with Adobe, Salesforce, SAP among 17 adopters at GTC 2026](https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among)**
 
-Inside Nvidia's Agent Toolkit ：旨在为每位企业AI员工提供动力的软件堆栈掌握周一公告的**重要**性联盟的第一个项目将是由Mistral AI和Nvidia共同开发的基础模型
+Inside Nvidia's Agent Toolkit: the software stack designed to power every corporate AI worker To grasp the significance of Monday's **announce**mentsThe coalition's first project will be a base model codeveloped by Mistral AI and Nvidia
 
 📅 Fri, 03 Apr 2026 23:25:01 GMT
 
 ---
 
 ### The Verge
-![Anthropic通过让订阅者支付额外费用，基本上禁止Claude使用OpenClaw](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB382_OPEN_CLAW_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB382_OPEN_CLAW_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[Anthropic通过让订阅者支付额外费用，基本上禁止Claude使用OpenClaw](https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban)**
+**[Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra](https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban)**
 
-由于**Anthropic**的新政策变化，将OpenClaw与**Claude** AI一起使用将变得更加昂贵OpenClaw的创建者Peter Steinberger现在受雇于**OpenAI**
+Using OpenClaw with **Claude** AI is about to get a lot more expensive, thanks to **Anthropic**'s **new** policy changesWith OpenClaw creator Peter Steinberger now employed by **OpenAI**
 
 📅 2026-04-03T23:52:49.000Z
 
 ---
 
 ### VentureBeat
-![Anthropic切断了与OpenClaw和第三方AI代理一起使用Claude订阅的能力](https://images.ctfassets.net/jdtwqhzvc2n1/eUkPoLeb8EqcsOWG38sR7/90e6007c5bb7ca3224878c7f0cf77b60/Gemini_Generated_Image_hxdsq2hxdsq2hxds.png?w=300&q=30)
+![Anthropic cuts off the ability to use Claude subscriptions with OpenClaw and third-party AI agents](https://images.ctfassets.net/jdtwqhzvc2n1/eUkPoLeb8EqcsOWG38sR7/90e6007c5bb7ca3224878c7f0cf77b60/Gemini_Generated_Image_hxdsq2hxdsq2hxds.png?w=300&q=30)
 
-**[Anthropic切断了与OpenClaw和第三方AI代理一起使用Claude订阅的能力](https://venturebeat.com/technology/anthropic-cuts-off-the-ability-to-use-claude-subscriptions-with-openclaw-and)**
+**[Anthropic cuts off the ability to use Claude subscriptions with OpenClaw and third-party AI agents](https://venturebeat.com/technology/anthropic-cuts-off-the-ability-to-use-claude-subscriptions-with-openclaw-and)**
 
-您是否订阅了**Anthropic**的**Claude** Pro （每月20美元）或Max （每月100至200美元）计划，并使用其**Claude** AI模型和产品为OpenClawit等第三方AI代理提供支持，这些**Claude**订阅者将无法再使用其订阅将**Anthropic**的**Claude**模型与第三方代理工具挂钩
+Are you a subscriber to **Anthropic**'s **Claude** Pro ($20 monthly) or Max ($100-$200 monthly) plans and use its **Claude** AI models and products to power third-party AI agents like OpenClawit will no longer be possible for those **Claude** subscribers to use their subscriptions to hook **Anthropic**'s **Claude** models up to third-party agentic tools
 
 📅 Sat, 04 Apr 2026 03:55:25 GMT
 
 ---
 
 ### VentureBeat
-![Karpathy共享“LLM知识库”架构，该架构通过AI维护的不断发展的降价库绕过RAG](https://images.ctfassets.net/jdtwqhzvc2n1/5rACVd0XGWlMS5e6o1F14i/b0e0dd19d82776e22bffed439593afbc/Carl_Franzen_a_humanoid_robot_in_elegant_cravat_and_velveteen_3a76f138-c488-4d03-8016-c5db26b6a025_3__1_.png?w=300&q=30)
+![Karpathy shares 'LLM Knowledge Base' architecture that bypasses RAG with an evolving markdown library maintained by AI](https://images.ctfassets.net/jdtwqhzvc2n1/5rACVd0XGWlMS5e6o1F14i/b0e0dd19d82776e22bffed439593afbc/Carl_Franzen_a_humanoid_robot_in_elegant_cravat_and_velveteen_3a76f138-c488-4d03-8016-c5db26b6a025_3__1_.png?w=300&q=30)
 
-**[Karpathy共享“LLM知识库”架构，该架构通过AI维护的不断发展的降价库绕过RAG](https://venturebeat.com/data/karpathy-shares-llm-knowledge-base-architecture-that-bypasses-rag-with-an)**
+**[Karpathy shares 'LLM Knowledge Base' architecture that bypasses RAG with an evolving markdown library maintained by AI](https://venturebeat.com/data/karpathy-shares-llm-knowledge-base-architecture-that-bypasses-rag-with-an)**
 
-特斯拉前人工智能总监和**OpenAI**Karpathy “Markdown Wiki”的联合创始人就像一个精心策划的图书馆，馆长不断写新书来解释旧书
+The former Director of AI at Tesla and co-founder of **OpenAI**Karpathy’s "Markdown Wiki" is like a curated library with a head librarian who is constantly writing **new** books to explain the old ones
 
 📅 Fri, 03 Apr 2026 23:30:50 GMT
 
 ---
 
 ### VentureBeat
-![Google在Apache 2.0下发布了Gemma 4 —许可证更改可能比基准更重要](https://images.ctfassets.net/jdtwqhzvc2n1/1KjI96SJa9CT3g3xi3ldoE/d0f64bee4c9285397f8a8458b0de4c9d/ChatGPT_Image_Apr_2__2026__01_33_47_PM.png?w=300&q=30)
+![Google releases Gemma 4 under Apache 2.0 — and that license change may matter more than benchmarks](https://images.ctfassets.net/jdtwqhzvc2n1/1KjI96SJa9CT3g3xi3ldoE/d0f64bee4c9285397f8a8458b0de4c9d/ChatGPT_Image_Apr_2__2026__01_33_47_PM.png?w=300&q=30)
 
-**[Google在Apache 2.0下发布了Gemma 4 —许可证更改可能比基准更重要](https://venturebeat.com/technology/google-releases-gemma-4-under-apache-2-0-and-that-license-change-may-matter)**
+**[Google releases Gemma 4 under Apache 2.0 — and that license change may matter more than benchmarks](https://venturebeat.com/technology/google-releases-gemma-4-under-apache-2-0-and-that-license-change-may-matter)**
 
-**Google** DeepMind最新的开放模型系列在标准Apache 20下**发布**，全部来自**Gemini** 3研究—代表了Google**发布**的最完整的开放模型版本
+**Google** DeepMind's **new**est open model family ships under a standard Apache 20, all drawing from **Gemini** 3 research — represents the most complete open model **release** **Google** has shipped
 
 📅 Thu, 02 Apr 2026 17:49:39 GMT
 
 ---
 
-### VentureBeat
-![在Claude Code的源代码泄露之后，企业安全主管现在应该采取的5项行动](https://images.ctfassets.net/jdtwqhzvc2n1/42hVjVx59CuomoskYro22S/ca222d6334907291406df1c9f24b713e/cluade_code_hero.png?w=300&q=30)
+### Wired Technology
+**[Hackers Are Posting the Claude Code Leak With Bonus Malware](https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/)**
 
-**[在Claude Code的源代码泄露之后，企业安全主管现在应该采取的5项行动](https://venturebeat.com/security/claude-code-512000-line-source-leak-attack-paths-audit-security-leaders)**
+Plus: The FBI says a recent hack of its wiretap tools poses a national security riskattackers stole Cisco source code as part of an ongoing supply chain hacking spree
 
-包括名为**Claude** Mythos的未**发布**模型的公告草稿根据**Anthropic**自己的公开披露， **Claude** Code由90%的人工智能生成
-
-📅 Thu, 02 Apr 2026 15:14:29 GMT
+📅 Sat, 04 Apr 2026 10:30:00 +0000
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub New (New AI)
-![🆕 机器学习和人工智能的概率和统计：概率和统计构成了机器学习的数学基础，有助于量化数据和模型中的不确定性。它们支持推理、估计、假设检验和贝叶斯学习等关键任务。通过将随机性转化为可衡量的信心，它们共同实现了更可靠的预测。](https://avatars.githubusercontent.com/u/143683612?v=4)
+![🆕 Artificial-Intelligence-Learning-Resources-Collection: Open-source compilation of free AI/ML learning materials from universities, companies, and industry experts.](https://avatars.githubusercontent.com/u/273186448?v=4)
 
-**[🆕 机器学习和人工智能的概率和统计：概率和统计构成了机器学习的数学基础，有助于量化数据和模型中的不确定性。它们支持推理、估计、假设检验和贝叶斯学习等关键任务。通过将随机性转化为可衡量的信心，它们共同实现了更可靠的预测。](https://github.com/EimanTahir071/Probability-and-Statistics-for-Machine-Learning-and-Artificial-Intelligence)**
+**[🆕 Artificial-Intelligence-Learning-Resources-Collection: Open-source compilation of free AI/ML learning materials from universities, companies, and industry experts.](https://github.com/fs0ci5ty/Artificial-Intelligence-Learning-Resources-Collection)**
+
+⭐ 5 star (新项目) · N/A · Open-source compilation of free AI/ML learning materials from universities, companies, and industry experts
+
+📅 2026-04-04T15:29:48Z
+
+---
+
+### GitHub New (New AI)
+![🆕 AgentsBear: Autonomous multi-agent pipelines from YAML. Any LLM. Zero boilerplate.](https://avatars.githubusercontent.com/u/62406753?v=4)
+
+**[🆕 AgentsBear: Autonomous multi-agent pipelines from YAML. Any LLM. Zero boilerplate.](https://github.com/Zeyad-Azima/AgentsBear)**
+
+⭐ 4 star (新项目) · JavaScript · Autonomous multi-agent pipelines from YAML. Any LLM. Zero boilerplate.
+
+📅 2026-04-04T15:34:56Z
+
+---
+
+### GitHub New (New AI)
+![🆕 Probability-and-Statistics-for-Machine-Learning-and-Artificial-Intelligence: Probability and statistics form the mathematical foundation of machine learning, helping quantify uncertainty in data and models. They support key tasks like inference, estimation, hypothesis testing, and Bayesian learning. Together, they enable more reliable predictions by turning randomness into measurable confidence.](https://avatars.githubusercontent.com/u/143683612?v=4)
+
+**[🆕 Probability-and-Statistics-for-Machine-Learning-and-Artificial-Intelligence: Probability and statistics form the mathematical foundation of machine learning, helping quantify uncertainty in data and models. They support key tasks like inference, estimation, hypothesis testing, and Bayesian learning. Together, they enable more reliable predictions by turning randomness into measurable confidence.](https://github.com/EimanTahir071/Probability-and-Statistics-for-Machine-Learning-and-Artificial-Intelligence)**
 
 ⭐ 3 star (新项目) · Python · Probability and statistics form the mathematical foundation of machine learninghelping quantify uncertainty in data and models
 
@@ -294,20 +314,9 @@ Inside Nvidia's Agent Toolkit ：旨在为每位企业AI员工提供动力的软
 ---
 
 ### GitHub New (New AI)
-![🆕 镜头：分层视觉+使用CLIP和Llama 4 Scout的文本抹布](https://avatars.githubusercontent.com/u/129967751?v=4)
+![🆕 mev-self-learning: AI self-learning and evolution skill - Enables AI assistants to learn, improve, and create new skills autonomously](https://avatars.githubusercontent.com/u/273464112?v=4)
 
-**[🆕 镜头：分层视觉+使用CLIP和Llama 4 Scout的文本抹布](https://github.com/sanjith3057/Lens)**
-
-⭐ 1 star (新项目) · Python · Layered vision + text RAG using CLIP and Llama 4 Scout
-
-📅 2026-04-04T08:19:36Z
-
----
-
-### GitHub New (New AI)
-![🆕 mev-self-learning ： AI自学进化技能--让AI助手自主学习、提升、创造新技能](https://avatars.githubusercontent.com/u/273464112?v=4)
-
-**[🆕 mev-self-learning ： AI自学进化技能--让AI助手自主学习、提升、创造新技能](https://github.com/meta-evo-creator/mev-self-learning)**
+**[🆕 mev-self-learning: AI self-learning and evolution skill - Enables AI assistants to learn, improve, and create new skills autonomously](https://github.com/meta-evo-creator/mev-self-learning)**
 
 ⭐ 1 star (新项目) · Python · AI self-learning and evolution skill - Enables AI assistants to learn, improve, and create **new** skills autonomously
 
@@ -315,88 +324,77 @@ Inside Nvidia's Agent Toolkit ：旨在为每位企业AI员工提供动力的软
 
 ---
 
-### GitHub New (New AI)
-![🆕 Fitness-Ai ：使用React Native、Expo和Anthropic API构建的人工智能移动健身教练](https://avatars.githubusercontent.com/u/124012169?v=4)
-
-**[🆕 Fitness-Ai ：使用React Native、Expo和Anthropic API构建的人工智能移动健身教练](https://github.com/TuanPhan17/Fitness-Ai)**
-
-⭐ 1 star (新项目) · TypeScript · AI-powered mobile fitness coach built with React Native, Expo, and **Anthropic** API
-
-📅 2026-04-03T17:18:18Z
-
----
-
 ## 💬 社交动态
 
-### Hacker News AI
-**[我将Claude与我的AI运行时连接起来–他们发明了一种新的语言](https://news.ycombinator.com/item?id=47639582)**
-
-我刚刚连接了两个来自不同家庭的人工智能代理（ **Anthropic** + **OpenAI** ） ，他们发明了自己的语言来相互交流，也许现在称之为新语言还为时过早，但至少是一种人工智能代理之间沟通的新方式
-
-📅 Sat, 04 Apr 2026 14:55:03 +0000
-
----
-
 ### X: OpenAI
-**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[URL Source: http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-网址来源： http://twitter.com/**OpenAI**
+URL Source: http://twitter.com/**OpenAI**
 
-📅 2026-04-04T15:33:25.555Z
+📅 2026-04-04T23:32:20.724Z
 
 ---
 
 ### X: DeepSeek
-**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+**[URL Source: http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
 
-网址来源： http://twitter.com/**DeepSeek**_ai
+URL Source: http://twitter.com/**DeepSeek**_ai
 
-📅 2026-04-04T15:34:50.786Z
-
----
-
-### Hacker News
-**[Show HN: TurboQuant-WASM – Google在浏览器中的矢量量化](https://github.com/teamchong/turboquant-wasm)**
-
-文章网址： https://githubcom/teamchong/turboquant-wasm评论网址： https://**new**s
-
-📅 Sat, 04 Apr 2026 14:53:16 +0000
+📅 2026-04-04T23:33:43.434Z
 
 ---
 
 ### Hacker News
-**[《粗心大意的人》的作者被禁止对Meta发表任何负面言论](https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf)**
+**[Banning All Anthropic Employees](https://joeyh.name/blog/entry/banning_all_Anthropic_employees/)**
 
-文章网址： https://wwwcom/uk/technology-uk/article/sarah-wynn-williams-careless-people-**Meta**-nrffdfpmf评论网址： https://**new**s
+Article URL: https://joeyhname/blog/entry/banning_all_**Anthropic**_employees/ Comments URL: https://**new**s
 
-📅 Sat, 04 Apr 2026 14:48:26 +0000
+📅 Sat, 04 Apr 2026 22:58:15 +0000
+
+---
+
+### Hacker News
+**[German implementation of eIDAS will require an Apple/Google account to function](https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/)**
+
+Article URL: https://bmide/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/ Comments URL: https://**new**s
+
+📅 Sat, 04 Apr 2026 22:57:44 +0000
+
+---
+
+### Hacker News
+**[How many products does Microsoft have named 'Copilot'?](https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html)**
+
+com/strategy/2026/03/31/how-many-microsoft-copilot-are-therehtml Comments URL: https://**new**s
+
+📅 Sat, 04 Apr 2026 19:39:43 +0000
+
+---
+
+### Hacker News
+**[Apple approves driver that lets Nvidia eGPUs work with Arm Macs](https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs)**
+
+Article URL: https://wwwcom/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs Comments URL: https://**new**s
+
+📅 Sat, 04 Apr 2026 16:16:10 +0000
 
 ---
 
 ### Hacker News AI
-**[在使用人工智能与动物交谈方面是否有任何重大进展？](https://www.smithsonianmag.com/smart-news/google-is-training-a-new-ai-model-to-decode-dolphin-chatter-and-potentially-talk-back-180986434/)**
+**[Should you upload blood test results to AI?](https://www.wsj.com/tech/ai/health-data-perplexity-claude-ai-d792a2df)**
 
-文章网址： https://wwwcom/smart-**new**s/**Google**-is-training-a-**new**-ai-model-to-decode-dolphin-chatter-and-potentially-talk-back-180986434/评论网址： https://**new**s
+Article URL: https://wwwcom/tech/ai/health-data-perplexity-**Claude**-ai-d792a2df Comments URL: https://**new**s
 
-📅 Sat, 04 Apr 2026 15:29:06 +0000
-
----
-
-### Hacker News AI
-**[微软构建和编排人工智能代理的新框架](https://github.com/microsoft/agent-framework)**
-
-文章网址： https://githubcom/microsoft/agent-framework注释网址： https://**new**s
-
-📅 Sat, 04 Apr 2026 14:16:23 +0000
+📅 Sat, 04 Apr 2026 21:05:09 +0000
 
 ---
 
-### Hacker News AI
-**[Show HN: Tokencap –跨AI代理的令牌预算执行](https://github.com/pykul/tokencap)**
+### X: OpenAI
+**[Title: 520: Web server is returning an unknown error](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-**Anthropic** (), limit = 50_000) # LangChain, CrewAI, AutoGen, etcComments URL: https://**new**s
+Title: 520: Web server is returning an unknown error
 
-📅 Sat, 04 Apr 2026 14:09:13 +0000
+📅 2026-04-04T23:32:20.724Z
 
 ---
 
