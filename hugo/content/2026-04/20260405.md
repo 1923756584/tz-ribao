@@ -1,12 +1,12 @@
 ---
 title: "2026年4月5日 - TZ日报"
-date: 2026-04-05T15:38:49.480Z
+date: 2026-04-05T23:38:32.668Z
 draft: false
 ---
 
 # 2026年4月5日 - TZ日报
 
-> 📊 今日汇总 34 条 · 🕐 2026/4/5 15:38:49
+> 📊 今日汇总 34 条 · 🕐 2026/4/5 23:38:32
 
 ---
 
@@ -31,17 +31,6 @@ draft: false
 
 ---
 
-### Google AI Blog
-![在Gemini API中平衡成本和可靠性的新方法](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/cost_reliability_Gemini_API-soc.max-600x600.format-webp.webp)
-
-**[在Gemini API中平衡成本和可靠性的新方法](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/)**
-
-**Google**正在为**Gemini** API引入两个新的推理层， Flex和Priority ，以平衡成本和延迟
-
-📅 Thu, 02 Apr 2026 16:00:00 +0000
-
----
-
 ### TechCrunch AI Products
 **[Anthropic表示， Claude Code订阅者需要为OpenClaw的使用支付额外费用](https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/)**
 
@@ -60,14 +49,12 @@ rainmaker Securities**OpenAI**总裁失地
 
 ---
 
-### Google AI Blog
-![在Google Vids中免费创建、编辑和分享视频](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Createeditandshare_Google_Vids_.max-600x600.format-webp.webp)
+### TechCrunch AI Products
+**[根据Microsoft的使用条款， Copilot “仅用于娱乐目的”](https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/)**
 
-**[在Google Vids中免费创建、编辑和分享视频](https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/)**
+人工智能怀疑论者并不是唯一警告用户不要不假思索地信任模型输出的人--这就是人工智能公司在服务条款中所说的
 
-由Lyria 3和Veo 31提供支持的**Google** Vids即将**推出**新的人工智能功能，例如免费高质量**视频生成**等
-
-📅 Thu, 02 Apr 2026 16:00:00 +0000
+📅 Sun, 05 Apr 2026 18:51:37 +0000
 
 ---
 
@@ -99,20 +86,29 @@ rainmaker Securities**OpenAI**总裁失地
 ---
 
 ### TechCrunch AI Products
-**[OpenAI收购TBPN ，这是由创始人主导的商业脱口秀节目](https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/)**
+**[轨道数据中心能否帮助SpaceX进行大规模估值？](https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/)**
 
-硅谷最受欢迎的科技播客TBPN将独立运营，尽管它由首席政治运营官Chris Lehane负责监督
+在TechCrunch的Equity播客的最新一集中，我们讨论了Elon Musk对太空数据中心的愿景
 
-📅 Thu, 02 Apr 2026 19:21:00 +0000
+📅 Sun, 05 Apr 2026 15:40:58 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[微软通过三种新的基础模型对抗人工智能竞争对手](https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/)**
+**[在日本，机器人不是为了你的工作而来；它填补了没人想要的工作](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/)**
 
-六个月前， MAI**发布**了可以将语音转录为文本以及在组建后生成音频和图像的模型
+在劳动力短缺的推动下，日本正在将物理AI从试点项目推向现实世界的部署
 
-📅 Thu, 02 Apr 2026 16:48:16 +0000
+📅 Sun, 05 Apr 2026 14:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[人们宁愿在后院拥有亚马逊仓库，也不愿拥有数据中心](https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/)**
+
+一项新的民意调查显示，关于数据中心的争论远未解决。
+
+📅 Fri, 03 Apr 2026 19:20:36 +0000
 
 ---
 
@@ -179,6 +175,17 @@ rainmaker Securities**OpenAI**总裁失地
 ---
 
 ### VentureBeat
+![Claude、OpenClaw和新现实：人工智能特工在这里，混乱也在这里](https://images.ctfassets.net/jdtwqhzvc2n1/33OB5cKXtts9VZ7sMyzGew/7454f3b529fbde6e78746d28b720e4c4/Chaos.png?w=300&q=30)
+
+**[Claude、OpenClaw和新现实：人工智能特工在这里，混乱也在这里](https://venturebeat.com/technology/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos)**
+
+从2022年Chat**GPT**的一个无辜的问答开玩笑开始，已经成为一场关于工作保障的存在主义辩论，而机器的崛起无论如何都是聊天机器人的首选；现在有了Cowork ，它拥有法律和金融等特定行业的领域知识
+
+📅 Sun, 05 Apr 2026 18:06:13 GMT
+
+---
+
+### VentureBeat
 ![英伟达与Adobe、Salesforce、SAP在GTC 2026的17个采用者中推出企业AI代理平台](https://images.ctfassets.net/jdtwqhzvc2n1/2fleqnUY239c0tJFBLRGPF/123f498a5442eb1308cbeaee7fdd56c5/Vector_art_portrait_of_Jensen_Huang_image_in_Nvidia_green_and_black_minimalist_no_text_image_1.png?w=300&q=30)
 
 **[英伟达与Adobe、Salesforce、SAP在GTC 2026的17个采用者中推出企业AI代理平台](https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among)**
@@ -211,17 +218,6 @@ Inside Nvidia's Agent Toolkit ：旨在为每位企业AI员工提供动力的软
 
 ---
 
-### VentureBeat
-![Google在Apache 2.0下发布了Gemma 4 —许可证更改可能比基准更重要](https://images.ctfassets.net/jdtwqhzvc2n1/1KjI96SJa9CT3g3xi3ldoE/d0f64bee4c9285397f8a8458b0de4c9d/ChatGPT_Image_Apr_2__2026__01_33_47_PM.png?w=300&q=30)
-
-**[Google在Apache 2.0下发布了Gemma 4 —许可证更改可能比基准更重要](https://venturebeat.com/technology/google-releases-gemma-4-under-apache-2-0-and-that-license-change-may-matter)**
-
-**Google** DeepMind最新的开放模型系列在标准Apache 20下**发布**，全部来自**Gemini** 3研究—代表了Google**发布**的最完整的开放模型版本
-
-📅 Thu, 02 Apr 2026 17:49:39 GMT
-
----
-
 ### The Verge
 ![我让双子座在谷歌地图中规划我的一天，结果出乎意料地顺利](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/IMG_0562.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
@@ -244,14 +240,14 @@ Inside Nvidia's Agent Toolkit ：旨在为每位企业AI员工提供动力的软
 
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![awesome-opensource-ai ：精心策划的最佳真正开源的人工智能项目、模型、工具和基础设施列表。](https://avatars.githubusercontent.com/u/262747402?v=4)
+### GitHub Active (Python)
+![agent-governance-toolkit ： AI Agent Governance Toolkit —针对自主AI代理的策略实施、零信任身份、执行沙盒和可靠性工程。涵盖10/10 OWASP Agentic Top 10。](https://avatars.githubusercontent.com/u/6154722?v=4)
 
-**[awesome-opensource-ai ：精心策划的最佳真正开源的人工智能项目、模型、工具和基础设施列表。](https://github.com/alvinreal/awesome-opensource-ai)**
+**[agent-governance-toolkit ： AI Agent Governance Toolkit —针对自主AI代理的策略实施、零信任身份、执行沙盒和可靠性工程。涵盖10/10 OWASP Agentic Top 10。](https://github.com/microsoft/agent-governance-toolkit)**
 
-⭐ 2,320颗星· 196个分叉·不适用·精心策划的最佳真正**开源**人工智能项目、模型、工具和基础设施列表
+⭐ 708星· 126分叉· Python · AI代理治理工具包—自主AI代理的策略执行和可靠性工程
 
-📅 2026-04-05T15:36:46Z
+📅 2026-04-05T23:37:19Z
 
 ---
 
@@ -260,7 +256,7 @@ Inside Nvidia's Agent Toolkit ：旨在为每位企业AI员工提供动力的软
 
 **[🆕 AgentsBear ：来自YAML的自主多Agent管道。任何LLM。零样板。](https://github.com/Zeyad-Azima/AgentsBear)**
 
-⭐ 7 star (新项目) · JavaScript · Autonomous multi-agent pipelines from YAML. Any LLM. Zero boilerplate.
+⭐ 8 star (新项目) · JavaScript · Autonomous multi-agent pipelines from YAML. Any LLM. Zero boilerplate.
 
 📅 2026-04-04T15:34:56Z
 
@@ -290,23 +286,12 @@ Inside Nvidia's Agent Toolkit ：旨在为每位企业AI员工提供动力的软
 
 ## 💬 社交动态
 
-### Reddit: r/artificial
-**[自动客服代表-自我提升领域专长客服代表](https://www.reddit.com/r/artificial/comments/1scx9kw/auto_agent_self_improving_domain_expertise_agent/)**
+### Hacker News AI
+**[Show HN: ACE –衡量打破人工智能代理成本的动态基准](https://fabraix.com/blog/adversarial-cost-to-exploit)**
 
-系统提示等） -自动代理创建一个**Meta**代理，用于调整您的代理在这篇文章中，他将其用于终端工作台（代码）和电子表格（财务建模） -它在两者的排名中都名列前茅:) - secret sauce ：他使用相同的模型来评估代理- **Claude**管理**Claude** =更好地了解失败的原因以及如何改进它，人类是他妈的瓶颈，这不仅为您节省了大量时间
+我们测试了六种预算级别的型号（ **Gemini** Flash-Lite、**DeepSeek** v34 Nano、**Claude** Haiku 4
 
-📅 2026-04-05T07:22:29.000Z
-
----
-
-### Reddit: r/singularity
-![Anthropic在ARR方面超越OpenAI](https://preview.redd.it/7zu2ae80mdtg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=95a4bd05ea15010845db881da980774dcf382568)
-
-**[Anthropic在ARR方面超越OpenAI](https://www.reddit.com/r/singularity/comments/1sd411i/anthropic_surpasses_openai_in_arr/)**
-
-根据半分析， **Anthropic** ARR为250亿美元，而根据4天前**OpenAI**的数据，/u/Eastern-Weekend5407提交的每月ARR为20亿美元[link] [comments]
-
-📅 2026-04-05T13:45:35.000Z
+📅 Sun, 05 Apr 2026 21:37:54 +0000
 
 ---
 
@@ -315,7 +300,7 @@ Inside Nvidia's Agent Toolkit ：旨在为每位企业AI员工提供动力的软
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-04-05T15:35:37.187Z
+📅 2026-04-05T23:35:29.327Z
 
 ---
 
@@ -324,43 +309,52 @@ Inside Nvidia's Agent Toolkit ：旨在为每位企业AI员工提供动力的软
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-04-05T15:36:55.815Z
+📅 2026-04-05T23:36:47.656Z
 
 ---
 
-### Hacker News AI
-**[显示HN ： AI代理在OpenCode中恢复Claude Pro/Max的说明](https://github.com/jcubic/opencode-claude-plan)**
+### Hacker News
+**[IPhone上的Gemma 4](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337)**
 
-文章网址： https://githubcom/jcubic/opencode-**Claude**-plan评论网址： https://**new**s
+文章网址： https://appscom/nl/app/**Google**-ai-edge-gallery/id6749645337评论网址： https://**new**s
 
-📅 Sun, 05 Apr 2026 13:21:03 +0000
-
----
-
-### Reddit: r/artificial
-**[取代你的人可能不会是人工智能。是来自下一个部门的人学会了使用它-意见/讨论](https://www.reddit.com/r/artificial/comments/1scw6vv/the_person_who_replaces_you_probably_wont_be_ai/)**
-
-我是一个有背景的战略人物，我向克劳德描述我想要什么，我有一个原型
-
-📅 2026-04-05T06:18:14.000Z
+📅 Sun, 05 Apr 2026 18:45:53 +0000
 
 ---
 
-### Reddit: r/artificial
-**[向人员收费](https://www.reddit.com/r/artificial/comments/1scu2a6/charging_people/)**
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-he creado un agente mayorista que da seguimiento a las conversaciones de clientes potencialescrea un cliente potencial en Zoho CRM y agrega una fila en **Google**表格
+Title: 520: Web服务器返回未知错误
 
-📅 2026-04-05T04:21:03.000Z
+📅 2026-04-05T23:35:29.327Z
 
 ---
 
-### Reddit: r/artificial
-**[谷歌的Gemma 4真的和宣传的一样好吗](https://www.reddit.com/r/artificial/comments/1sctzrx/is_googles_gemma_4_really_as_good_as_advertised/)**
+### X: OpenAI
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-在阅读了许多开发人员的实践评论后， Gemma 4确实令人印象深刻26B版本速度快，占用内存少
+警告：目标URL返回错误520 ：
 
-📅 2026-04-05T04:17:25.000Z
+📅 2026-04-05T23:35:29.327Z
+
+---
+
+### X: OpenAI
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Markdown 内容
+
+📅 2026-04-05T23:35:29.327Z
+
+---
+
+### X: OpenAI
+**[# twitter.com | 520 ： Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+# twitter.com | 520 ： Web服务器返回未知错误
+
+📅 2026-04-05T23:35:29.327Z
 
 ---
 
