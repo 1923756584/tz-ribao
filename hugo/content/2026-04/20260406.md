@@ -1,12 +1,12 @@
 ---
 title: "2026年4月6日 - TZ日报"
-date: 2026-04-06T15:51:04.154Z
+date: 2026-04-06T23:40:23.660Z
 draft: false
 ---
 
 # 2026年4月6日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/4/6 15:51:04
+> 📊 今日汇总 38 条 · 🕐 2026/4/6 23:40:23
 
 ---
 
@@ -22,21 +22,39 @@ draft: false
 
 ## ✨ 产品更新
 
-### TechCrunch AI Products
-**[Anthropic表示， Claude Code订阅者需要为OpenClaw的使用支付额外费用](https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/)**
+### OpenAI Blog
+**[宣布OpenAI安全奖学金](https://openai.com/index/introducing-openai-safety-fellowship)**
 
-对于**Claude** Code订阅者来说，将**Anthropic**的编码助手与OpenClaw和其他第三方工具结合使用将变得更加昂贵
+支持独立安全和对齐研究并培养下一代人才的试点项目
 
-📅 Sat, 04 Apr 2026 16:32:22 +0000
+📅 Mon, 06 Apr 2026 10:00:00 GMT
 
 ---
 
 ### TechCrunch AI Products
-**[Anthropic正在私人市场上占据一席之地； SpaceX可能会破坏派对](https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/)**
+**[OpenAI校友一直在悄悄地从一个新的，可能是1亿美元的基金中投资 ](https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/)**
 
-rainmaker Securities**OpenAI**总裁失地
+Zero Shot是一家与**OpenAI**关系密切的新风险投资基金，其目标是为其第一只基金筹集1亿美元$它已经写了一些支票
 
-📅 Sat, 04 Apr 2026 01:31:00 +0000
+📅 Mon, 06 Apr 2026 21:54:26 +0000
+
+---
+
+### TechCrunch AI Products
+**[谷歌悄悄推出离线工作的AI听写应用](https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/)**
+
+谷歌新的离线优先听写应用程序使用Gemma AI模型来对抗Wispr Flow等应用程序。
+
+📅 Mon, 06 Apr 2026 18:54:33 +0000
+
+---
+
+### TechCrunch AI Products
+**[OpenAI对人工智能经济的愿景：公共财富基金、机器人税和每周四天工作制](https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/)**
+
+**OpenAI**提议对人工智能利润征税，在政策制定者讨论人工智能的经济影响时，将再分配与资本主义融为一体
+
+📅 Mon, 06 Apr 2026 15:55:55 +0000
 
 ---
 
@@ -58,21 +76,21 @@ rainmaker Securities**OpenAI**总裁失地
 
 ---
 
-### TechCrunch AI Products
-**[OpenAI高管洗牌包括首席运营官Brad Lightcap领导“特殊项目”的新角色](https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/)**
-
-除了Lightcap的新角色外， **OpenAI**首席营销官Kate Rouch将离开公司，专注于癌症康复
-
-📅 Fri, 03 Apr 2026 20:35:34 +0000
-
----
-
 ### OpenAI Blog
 **[智能时代的产业政策](https://openai.com/index/industrial-policy-for-the-intelligence-age)**
 
 探索我们在人工智能时代雄心勃勃、以人为本的产业政策理念，专注于扩大机遇
 
 📅 Mon, 06 Apr 2026 02:30:00 GMT
+
+---
+
+### TechCrunch AI Products
+**[伊朗威胁“星际之门”人工智能数据中心](https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/)**
+
+伊朗表示，它将通过新的导弹袭击来瞄准与U相关的数据中心，因为美国之间的战争
+
+📅 Mon, 06 Apr 2026 18:06:28 +0000
 
 ---
 
@@ -91,24 +109,6 @@ rainmaker Securities**OpenAI**总裁失地
 从今天开始，您有5天的时间节省近500 $的TechCrunch Disrupt 2026门票此优惠将于4月10日星期五晚上11:59消失
 
 📅 Mon, 06 Apr 2026 14:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[西班牙的Xoople筹集了1.3亿美元的B轮融资，用于绘制人工智能地图](https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/)**
-
-该公司还宣布与L3Harris达成协议，为Xoople的航天器制造传感器。
-
-📅 Mon, 06 Apr 2026 13:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[轨道数据中心能否帮助SpaceX进行大规模估值？](https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/)**
-
-在TechCrunch的Equity播客的最新一集中，我们讨论了Elon Musk对太空数据中心的愿景
-
-📅 Sun, 05 Apr 2026 15:40:58 +0000
 
 ---
 
@@ -177,27 +177,16 @@ rainmaker Securities**OpenAI**总裁失地
 
 ---
 
-### ArXiv AI (cs.AI)
-**[Holos ：适用于Agentic Web的基于Web规模LLM的多Agent系统](https://arxiv.org/abs/2604.02334)**
+### MIT Tech Research
+**[可以真正揭示您的工作和人工智能的一条数据](https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/)**
 
-02334v1公告类型：新摘要：随着大型语言模型（ LLM ）驱动的代理从孤立的任务求解器转变为持久的数字实体我们已公开**发布**Holos （可访问https://holosai
+这个故事最初出现在我们的AIT每周通讯《算法》中，要先在收件箱中获取这样的故事，请在此处注册
 
-📅 Mon, 06 Apr 2026 00:00:00 -0400
+📅 Mon, 06 Apr 2026 16:33:35 +0000
 
 ---
 
 ## 🌍 行业展望
-
-### The Verge
-![思科首席执行官查克·罗宾斯（ Chuck Robbins ）希望数据中心](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/DCD-Chuck-Robbins-Cisco.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[思科首席执行官查克·罗宾斯（ Chuck Robbins ）希望数据中心](https://www.theverge.com/podcast/906727/cisco-ceo-chuck-robbins-data-centers-space-ai-elon-musk-interview)**
-
-如果是推理而不是培训，您是否需要所有新的数据中心构建？我已经使用了**Claude** Code ，所以我—您正在参与其中
-
-📅 2026-04-06T15:15:00.000Z
-
----
 
 ### VentureBeat
 ![随着NeuBird AI推出Falcon、FalconClaw ，自动预防、检测和修复软件问题的人工智能代理就在这里](https://images.ctfassets.net/jdtwqhzvc2n1/2quYmnQbaKi0HN803C5lQ9/447a0fb2036c755d927cf1ac60ae7e04/Thermal_falcon_analysis_in_progress.png?w=300&q=30)
@@ -222,17 +211,6 @@ rainmaker Securities**OpenAI**总裁失地
 ---
 
 ### VentureBeat
-![英伟达与Adobe、Salesforce、SAP在GTC 2026的17个采用者中推出企业AI代理平台](https://images.ctfassets.net/jdtwqhzvc2n1/2fleqnUY239c0tJFBLRGPF/123f498a5442eb1308cbeaee7fdd56c5/Vector_art_portrait_of_Jensen_Huang_image_in_Nvidia_green_and_black_minimalist_no_text_image_1.png?w=300&q=30)
-
-**[英伟达与Adobe、Salesforce、SAP在GTC 2026的17个采用者中推出企业AI代理平台](https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among)**
-
-Inside Nvidia's Agent Toolkit ：旨在为每位企业AI员工提供动力的软件堆栈掌握周一公告的**重要**性联盟的第一个项目将是由Mistral AI和Nvidia共同开发的基础模型
-
-📅 Fri, 03 Apr 2026 23:25:01 GMT
-
----
-
-### VentureBeat
 ![Anthropic切断了与OpenClaw和第三方AI代理一起使用Claude订阅的能力](https://images.ctfassets.net/jdtwqhzvc2n1/eUkPoLeb8EqcsOWG38sR7/90e6007c5bb7ca3224878c7f0cf77b60/Gemini_Generated_Image_hxdsq2hxdsq2hxds.png?w=300&q=30)
 
 **[Anthropic切断了与OpenClaw和第三方AI代理一起使用Claude订阅的能力](https://venturebeat.com/technology/anthropic-cuts-off-the-ability-to-use-claude-subscriptions-with-openclaw-and)**
@@ -243,25 +221,39 @@ Inside Nvidia's Agent Toolkit ：旨在为每位企业AI员工提供动力的软
 
 ---
 
-### VentureBeat
-![Karpathy共享“LLM知识库”架构，该架构通过AI维护的不断发展的降价库绕过RAG](https://images.ctfassets.net/jdtwqhzvc2n1/5rACVd0XGWlMS5e6o1F14i/b0e0dd19d82776e22bffed439593afbc/Carl_Franzen_a_humanoid_robot_in_elegant_cravat_and_velveteen_3a76f138-c488-4d03-8016-c5db26b6a025_3__1_.png?w=300&q=30)
+### ZDNet AI
+**[我在Android Auto上测试了Gemini ，现在我无法停止与它交谈：它钉住了5个任务](https://www.zdnet.com/article/gemini-on-android-auto-handles-simple-and-complex-tasks/)**
 
-**[Karpathy共享“LLM知识库”架构，该架构通过AI维护的不断发展的降价库绕过RAG](https://venturebeat.com/data/karpathy-shares-llm-knowledge-base-architecture-that-bypasses-rag-with-an)**
+我没有看到谷歌的人工智能带来太多好处--直到现在，以下是我最喜欢的在车上使用新**Gemini**集成的方式
 
-特斯拉前人工智能总监和**OpenAI**Karpathy “Markdown Wiki”的联合创始人就像一个精心策划的图书馆，馆长不断写新书来解释旧书
-
-📅 Fri, 03 Apr 2026 23:30:50 GMT
+📅 Mon, 06 Apr 2026 17:55:44 GMT
 
 ---
 
-### The Verge
-![我让双子座在谷歌地图中规划我的一天，结果出乎意料地顺利](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/IMG_0562.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### Ars Technica
+**[“问题是Sam Altman” ： OpenAI Insiders不信任CEO](https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/)**
 
-**[我让双子座在谷歌地图中规划我的一天，结果出乎意料地顺利](https://www.theverge.com/tech/907015/gemini-google-maps-hands-on)**
+**OpenAI**集思广益，探讨人工智能如何造福人类，以应对不良氛围。
 
-您可能熟悉**Gemini** ，因为它是您使用的每项**Google**服务中的东西-无论您是否愿意。在让**Gemini**为我找到东西一个小时左右之后-新的轻轨扩展附近的游乐场
+📅 Mon, 06 Apr 2026 21:23:36 +0000
 
-📅 2026-04-05T14:00:00.000Z
+---
+
+### ZDNet AI
+**[2026年最佳安卓手机：经过专家测试和审核](https://www.zdnet.com/article/best-android-phone/)**
+
+我们测试了年复一年**发布**的顶级Android手机，包括三星和谷歌，这些手机最引人注目
+
+📅 Mon, 06 Apr 2026 19:15:00 GMT
+
+---
+
+### ZDNet AI
+**[为什么Microsoft在所有符合条件的PC上强制使用Windows 11 25H2更新](https://www.zdnet.com/article/microsoft-windows-11-25h2-update-eligible-pcs/)**
+
+由于对Windows 11 24H2的支持将于10月结束，出于安全原因，微软希望所有PC都使用同一版本-但您可以推迟**更新**
+
+📅 Mon, 06 Apr 2026 17:17:45 GMT
 
 ---
 
@@ -270,31 +262,20 @@ Inside Nvidia's Agent Toolkit ：旨在为每位企业AI员工提供动力的软
 
 研究人员发现，使聊天机器人如此引人注目的部分原因也使它们容易受到不良行为的影响。
 
-📅 Mon, 06 Apr 2026 15:44:42 GMT
+📅 Mon, 06 Apr 2026 15:44:00 GMT
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![气流： Apache气流-以编程方式创作、安排和监控工作流程的平台](https://avatars.githubusercontent.com/u/47359?v=4)
+![executorch ：适用于PyTorch的移动、嵌入式和边缘设备上的AI](https://avatars.githubusercontent.com/u/21003710?v=4)
 
-**[气流： Apache气流-以编程方式创作、安排和监控工作流程的平台](https://github.com/apache/airflow)**
+**[executorch ：适用于PyTorch的移动、嵌入式和边缘设备上的AI](https://github.com/pytorch/executorch)**
 
-⭐ 44,915星· 16816分叉· Python · Apache Airflow -一个以编程方式创作、安排和监控工作流程的平台
+⭐ 4,474星· 921叉· Python ·适用于PyTorch的移动、嵌入式和边缘设备AI
 
-📅 2026-04-06T15:49:25Z
-
----
-
-### GitHub Active (Python)
-![pudl ：公用事业数据解放项目为气候倡导者、研究人员、政策制定者和记者提供分析就绪的能源系统数据。](https://avatars.githubusercontent.com/u/25487946?v=4)
-
-**[pudl ：公用事业数据解放项目为气候倡导者、研究人员、政策制定者和记者提供分析就绪的能源系统数据。](https://github.com/catalyst-cooperative/pudl)**
-
-⭐ 580星· 133叉· Python ·公用事业数据解放项目为气候倡导者提供分析就绪的能源系统数据
-
-📅 2026-04-06T15:49:41Z
+📅 2026-04-06T23:38:42Z
 
 ---
 
@@ -306,6 +287,17 @@ Inside Nvidia's Agent Toolkit ：旨在为每位企业AI员工提供动力的软
 ⭐ 9 star (新项目) · JavaScript · Autonomous multi-agent pipelines from YAML. Any LLM. Zero boilerplate.
 
 📅 2026-04-04T15:34:56Z
+
+---
+
+### GitHub New (New AI)
+![🆕 meta-kb ：关于自我提升LLM知识库的自我提升LLM知识库](https://avatars.githubusercontent.com/u/13221124?v=4)
+
+**[🆕 meta-kb ：关于自我提升LLM知识库的自我提升LLM知识库](https://github.com/chappyasel/meta-kb)**
+
+⭐ 8 star (新项目) · TypeScript · A self-improving LLM knowledge base about self-improving LLM knowledge bases
+
+📅 2026-04-04T19:18:26Z
 
 ---
 
@@ -322,12 +314,21 @@ Inside Nvidia's Agent Toolkit ：旨在为每位企业AI员工提供动力的软
 
 ## 💬 社交动态
 
+### Hacker News
+**[Anthropic扩大与Google和Broadcom的合作伙伴关系，提供多GW的计算能力](https://www.anthropic.com/news/google-broadcom-partnership-compute)**
+
+文章网址： https://wwwcom/**new**s/**Google**-broadcom-partnership-compute评论网址： https://**new**s
+
+📅 Mon, 06 Apr 2026 21:52:08 +0000
+
+---
+
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-04-06T15:47:55.657Z
+📅 2026-04-06T23:37:11.998Z
 
 ---
 
@@ -336,7 +337,16 @@ Inside Nvidia's Agent Toolkit ：旨在为每位企业AI员工提供动力的软
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-04-06T15:49:14.154Z
+📅 2026-04-06T23:38:31.233Z
+
+---
+
+### Hacker News AI
+**[Show HN ： ACP –人工智能编码代理的治理（ Claude Code、OpenClaw ）](https://agenticcontrolplane.com/)**
+
+权限、限制、审计日志ACP是位于AI编码代理（如**Claude** Code和OpenClaw ）前面的治理层对于**Claude** Code ，它是PreToolUse挂钩（约200ms ）
+
+📅 Mon, 06 Apr 2026 22:22:56 +0000
 
 ---
 
@@ -345,7 +355,7 @@ Inside Nvidia's Agent Toolkit ：旨在为每位企业AI员工提供动力的软
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-04-06T15:47:55.657Z
+📅 2026-04-06T23:37:11.998Z
 
 ---
 
@@ -354,7 +364,7 @@ Title: 520: Web服务器返回未知错误
 
 警告：目标URL返回错误520 ：
 
-📅 2026-04-06T15:47:55.657Z
+📅 2026-04-06T23:37:11.998Z
 
 ---
 
@@ -363,7 +373,7 @@ Title: 520: Web服务器返回未知错误
 
 Markdown 内容
 
-📅 2026-04-06T15:47:55.657Z
+📅 2026-04-06T23:37:11.998Z
 
 ---
 
@@ -372,25 +382,7 @@ Markdown 内容
 
 # twitter.com | 520 ： Web服务器返回未知错误
 
-📅 2026-04-06T15:47:55.657Z
-
----
-
-### X: Sam Altman
-**[网址来源： http://twitter.com/sama](https://r.jina.ai/http://twitter.com/sama)**
-
-网址来源： http://twitter.com/sama
-
-📅 2026-04-06T15:48:11.368Z
-
----
-
-### X: Andrej Karpathy
-**[网址来源： http://twitter.com/karpathy](https://r.jina.ai/http://twitter.com/karpathy)**
-
-网址来源： http://twitter.com/karpathy
-
-📅 2026-04-06T15:48:27.071Z
+📅 2026-04-06T23:37:11.998Z
 
 ---
 
