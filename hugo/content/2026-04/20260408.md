@@ -1,12 +1,12 @@
 ---
 title: "2026年4月8日 - TZ日报"
-date: 2026-04-08T16:20:08.777Z
+date: 2026-04-08T23:42:52.788Z
 draft: false
 ---
 
 # 2026年4月8日 - TZ日报
 
-> 📊 今日汇总 37 条 · 🕐 2026/4/8 16:20:08
+> 📊 今日汇总 38 条 · 🕐 2026/4/8 23:42:52
 
 ---
 
@@ -16,11 +16,29 @@ draft: false
 - **前沿研究**: 8 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
-- **社交动态**: 7 条
+- **社交动态**: 8 条
 
 ---
 
 ## ✨ 产品更新
+
+### OpenAI Blog
+**[企业AI的下一阶段](https://openai.com/index/next-phase-of-enterprise-ai)**
+
+**OpenAI**概述了企业AIChat**GPT** Enterprise的下一阶段
+
+📅 Wed, 08 Apr 2026 14:00:00 GMT
+
+---
+
+### TechCrunch AI Products
+**[AWS老板解释了为什么在Anthropic和OpenAI上投资数十亿美元是一个不错的冲突](https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/)**
+
+他解释说， AWS在处理竞争方面有着根深蒂固的文化，因为这家云巨头也与合作伙伴竞争
+
+📅 Wed, 08 Apr 2026 20:09:14 +0000
+
+---
 
 ### AI News
 **[Anthropic拒绝为人工智能提供武器正是英国想要它的原因](https://www.artificialintelligence-news.com/news/anthropic-uk-expansion-london-pentagon/)**
@@ -50,6 +68,15 @@ draft: false
 ---
 
 ### TechCrunch AI Products
+**[Tubi是第一个在ChatGPT中推出本地应用程序的流媒体播放器](https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/)**
+
+Tubi成为第一个在Chat**GPT**内提供应用程序集成的流媒体服务， Chat**GPT**是数百万用户寻求答案的人工智能聊天机器人
+
+📅 Wed, 08 Apr 2026 18:23:06 +0000
+
+---
+
+### TechCrunch AI Products
 **[OpenAI发布新的安全蓝图，以应对儿童性剥削的增加](https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/)**
 
 **OpenAI**新的儿童安全蓝图旨在解决与人工智能进步相关的儿童性剥削的惊人增长
@@ -64,24 +91,6 @@ draft: false
 谷歌新的离线优先听写应用程序使用Gemma AI模型来对抗Wispr Flow等应用程序。
 
 📅 Wed, 08 Apr 2026 05:40:19 +0000
-
----
-
-### TechCrunch AI Products
-**[由英伟达支持的“Southgate”人工智能数据中心建设商Firmus的估值达到55亿美元$](https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/)**
-
-英伟达支持的亚洲人工智能数据中心提供商Firmus现已在六个月内筹集了13.5亿美元$。
-
-📅 Tue, 07 Apr 2026 18:46:55 +0000
-
----
-
-### TechCrunch AI Products
-**[Anthropic在新的网络安全计划中预览了强大的新人工智能模型Mythos](https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/)**
-
-新模式将被少数知名公司用于防御性网络安全工作
-
-📅 Tue, 07 Apr 2026 18:00:00 +0000
 
 ---
 
@@ -100,15 +109,6 @@ draft: false
 探索我们在人工智能时代雄心勃勃、以人为本的产业政策理念，专注于扩大机遇
 
 📅 Mon, 06 Apr 2026 02:30:00 GMT
-
----
-
-### Hugging Face
-**[ALTK ‑ Evolve ：人工智能代理的在职学习](https://huggingface.co/blog/ibm-research/altk-evolve)**
-
-ALTK ‑ Evolve ：人工智能代理的在职学习
-
-📅 Wed, 08 Apr 2026 14:27:42 GMT
 
 ---
 
@@ -189,13 +189,13 @@ ALTK ‑ Evolve ：人工智能代理的在职学习
 ## 🌍 行业展望
 
 ### VentureBeat
-![AI加入8小时工作日， GLM推出5.1开源LLM ，在SWE-Bench Pro上击败Opus 4.6和GPT-5.4](https://images.ctfassets.net/jdtwqhzvc2n1/77oM8cqy8fLWfF65ejw0eW/534038847f3f387f4d974ed91e77d77b/ChatGPT_Image_Apr_7__2026__01_44_40_PM.png?w=300&q=30)
+![再见， Llama ？ Meta自Superintelligence Labs成立以来首次推出新的专有AI模型Muse Spark](https://images.ctfassets.net/jdtwqhzvc2n1/6tTe1SOF6tLAWd3xvDNOml/749dbd15282f8ad2696467128825d7a6/Dejected_llama_leaves_Muse_Spark_headquarters.png?w=300&q=30)
 
-**[AI加入8小时工作日， GLM推出5.1开源LLM ，在SWE-Bench Pro上击败Opus 4.6和GPT-5.4](https://venturebeat.com/technology/ai-joins-the-8-hour-work-day-as-glm-ships-5-1-open-source-llm-beating-opus-4)**
+**[再见， Llama ？ Meta自Superintelligence Labs成立以来首次推出新的专有AI模型Muse Spark](https://venturebeat.com/technology/goodbye-llama-meta-launches-new-proprietary-ai-model-muse-spark-first-since)**
 
-50 **OpenAI** **Claude** Sonnet 4在社交媒体上，**发布**公告在第一个小时内产生了超过46,000次的浏览量，用户对八小时的自主声明着迷
+**Meta**一直是生成式人工智能时代最有趣的公司之一--最初从2023年初开始，其主要是**开源**的Llama大型语言模型（ LLM ）系列的**发布**获得了忠诚和庞大的用户追随者，但在Llama 4首次**推出**混合评论并最终允许**Meta**与**Google**的**Gemini** Deep Think和**OpenAI**的**GPT**-5等极端推理模型竞争后， **Meta**于去年戛然而止
 
-📅 Tue, 07 Apr 2026 21:27:07 GMT
+📅 Wed, 08 Apr 2026 20:34:01 GMT
 
 ---
 
@@ -206,7 +206,7 @@ ALTK ‑ Evolve ：人工智能代理的在职学习
 
 YouTube提及与Chat**GPT**中的人工智能可见性具有“**最强**的相关性” ，因为谷歌和**OpenAI**都已经在YouTube成绩单上训练了他们的模型
 
-📅 Wed, 08 Apr 2026 15:20:51 GMT
+📅 Wed, 08 Apr 2026 19:04:30 GMT
 
 ---
 
@@ -218,6 +218,17 @@ YouTube提及与Chat**GPT**中的人工智能可见性具有“**最强**的相�
 一项全面的网络安全计划，将未**发布**的前沿人工智能模型（ **Claude** Mythos Preview ）与十二家主要技术和金融公司的联盟相结合，努力在攻击者利用全球最关键的基础设施之前发现并修补这些基础设施中的软件漏洞**Anthropic**的解决方案是使用即将**推出**的**Claude** Opus模型开发并**推出**新的保障措施
 
 📅 Tue, 07 Apr 2026 21:35:44 GMT
+
+---
+
+### VentureBeat
+![Claude、OpenClaw和新现实：人工智能特工在这里，混乱也在这里](https://images.ctfassets.net/jdtwqhzvc2n1/33OB5cKXtts9VZ7sMyzGew/7454f3b529fbde6e78746d28b720e4c4/Chaos.png?w=300&q=30)
+
+**[Claude、OpenClaw和新现实：人工智能特工在这里，混乱也在这里](https://venturebeat.com/infrastructure/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos)**
+
+从2022年Chat**GPT**的一个无辜的问答开玩笑开始，已经成为一场关于工作保障的存在主义辩论，而机器的崛起无论如何都是聊天机器人的首选；现在有了Cowork ，它拥有法律和金融等特定行业的领域知识
+
+📅 Wed, 08 Apr 2026 22:26:37 GMT
 
 ---
 
@@ -254,80 +265,78 @@ Block在**OpenAI**和**Anthropic**的前沿AI模型上构建了Managerbot —但
 
 ---
 
-### Ars Technica
-**[Anthropic限制其新的网络安全人工智能模型Mythos的访问权限](https://arstechnica.com/ai/2026/04/anthropic-limits-access-to-mythos-its-new-cybersecurity-ai-model/)**
+### Wired Technology
+**[相互矛盾的裁决使人类陷入“供应链风险”的困境](https://www.wired.com/story/anthropic-appeals-court-ruling/)**
 
-部分客户正在测试**Claude** Mythos Preview。
+美国上诉法院的裁决与美国军方是否以及如何使用人工智能公司的克劳德模型的不确定性不一致
 
-📅 Wed, 08 Apr 2026 13:34:17 +0000
-
----
-
-### The Verge
-![OpenAI关闭了氛围](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[OpenAI关闭了氛围](https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai)**
-
-**OpenAI**处于相对不稳定的位置Chat**GPT**在面向消费者的人工智能方面长期处于领先地位，使其在组织方面具有类似于“Kleenex”的名牌地位
-
-📅 2026-04-08T13:47:38.000Z
+📅 Wed, 08 Apr 2026 22:27:26 +0000
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![cOG ：机器学习容器](https://avatars.githubusercontent.com/u/60410876?v=4)
+### GitHub New (New AI)
+![🆕 bafoeg-manager ： Eine basis BAföG Antragsverwaltung inkl. lokaler KI Assistenten （ z.B. Ministral 14B ） zur effektiveren Bearbeitung von BAföG。Rückzahlungen sowie der "BAföG Bot" wie er politisch genannt wird, sind skizziert aber noch nicht finalisiert](https://avatars.githubusercontent.com/u/223938701?v=4)
 
-**[cOG ：机器学习容器](https://github.com/replicate/cog)**
+**[🆕 bafoeg-manager ： Eine basis BAföG Antragsverwaltung inkl. lokaler KI Assistenten （ z.B. Ministral 14B ） zur effektiveren Bearbeitung von BAföG。Rückzahlungen sowie der "BAföG Bot" wie er politisch genannt wird, sind skizziert aber noch nicht finalisiert](https://github.com/dcssoftware/bafoeg-manager)**
 
-⭐ 9374星· 684叉·围棋·机器学习容器
+⭐ 8 star (新项目) · Go · Eine basis BAföG Antragsverwaltung inkllokaler KI Assistenten (z
 
-📅 2026-04-08T16:17:53Z
-
----
-
-### GitHub Active (Python)
-![intentkit ： IntentKit是一个开源、自托管的云代理集群，可为您管理人工智能代理的协作团队。](https://avatars.githubusercontent.com/u/156485526?v=4)
-
-**[intentkit ： IntentKit是一个开源、自托管的云代理集群，可为您管理人工智能代理的协作团队。](https://github.com/crestalnetwork/intentkit)**
-
-⭐ 6503星· 703分叉· Python · IntentKit是一个**开源**、自托管的云代理集群，为您管理人工智能代理的协作团队
-
-📅 2026-04-08T16:18:24Z
+📅 2026-04-06T20:20:16Z
 
 ---
 
-### GitHub Active (AI/ML)
-![skore ：跟踪您的数据科学。Skore的开源Python库通过自动化评估报告、智能方法指导和全面的交叉验证分析加速了机器学习模型的开发。](https://avatars.githubusercontent.com/u/135336812?v=4)
+### GitHub New (New AI)
+![🆕 ai_osint ：🤖精心策划的AI OSINT资源— Google dorks、Shodan查询、GitHub dorks以及发现暴露的LLM端点、泄露的AI API密钥、配置错误的矢量数据库和未受保护的AI代理的技术](https://avatars.githubusercontent.com/u/104918434?v=4)
 
-**[skore ：跟踪您的数据科学。Skore的开源Python库通过自动化评估报告、智能方法指导和全面的交叉验证分析加速了机器学习模型的开发。](https://github.com/probabl-ai/skore)**
+**[🆕 ai_osint ：🤖精心策划的AI OSINT资源— Google dorks、Shodan查询、GitHub dorks以及发现暴露的LLM端点、泄露的AI API密钥、配置错误的矢量数据库和未受保护的AI代理的技术](https://github.com/7WaySecurity/ai_osint)**
 
-⭐ 623星· 136分叉· Python ·跟踪您的Data ScienceSkore的**开源**Python库通过自动评估报告加速ML模型开发
+⭐ 7 star (新项目) · N/A · 🤖 Curated AI OSINT resources — **Google** dorksand unprotected AI agents
 
-📅 2026-04-08T16:16:08Z
+📅 2026-04-08T14:08:41Z
 
 ---
 
-### GitHub Active (AI/ML)
-![sdk-typescript ：一种模型驱动的方法，只需几行代码即可构建AI代理。](https://avatars.githubusercontent.com/u/209155962?v=4)
+### GitHub New (New AI)
+![🆕 kidschat ：适合儿童的AI聊天演示](https://avatars.githubusercontent.com/u/5702664?v=4)
 
-**[sdk-typescript ：一种模型驱动的方法，只需几行代码即可构建AI代理。](https://github.com/strands-agents/sdk-typescript)**
+**[🆕 kidschat ：适合儿童的AI聊天演示](https://github.com/rwightman/kidschat)**
 
-⭐ 563星· 81分叉· TypeScript ·仅需几行代码即可构建AI代理的模型驱动方法
+⭐ 6 star (新项目) · Python · A kid friendly AI chat demo
 
-📅 2026-04-08T16:18:33Z
+📅 2026-04-07T16:17:52Z
+
+---
+
+### GitHub New (New AI)
+![🆕 awesome-ai-extensions ：由人工智能驱动的浏览器扩展、插件和附加组件的精选列表。](https://avatars.githubusercontent.com/u/984918?v=4)
+
+**[🆕 awesome-ai-extensions ：由人工智能驱动的浏览器扩展、插件和附加组件的精选列表。](https://github.com/kklt92/awesome-ai-extensions)**
+
+⭐ 4 star (新项目) · N/A · A curated list of AI-powered browser extensions, plugins, and add-ons.
+
+📅 2026-04-08T18:31:06Z
 
 ---
 
 ## 💬 社交动态
+
+### Hacker News AI
+**[Show HN: Linggen –通过手机进行P2P远程访问的开源AI代理](https://linggen.dev/)**
+
+HN ，您好！我构建了Linggen —用Rust编写的本地首个**开源**AI编码代理-适用于任何型号— Ollama、**OpenAI**兼容的API、**Gemini**、**DeepSeek**
+
+📅 Wed, 08 Apr 2026 21:43:31 +0000
+
+---
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-04-08T16:17:01.884Z
+📅 2026-04-08T23:39:40.566Z
 
 ---
 
@@ -336,52 +345,52 @@ Block在**OpenAI**和**Anthropic**的前沿AI模型上构建了Managerbot —但
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-04-08T16:18:20.403Z
+📅 2026-04-08T23:40:59.496Z
 
 ---
 
 ### Hacker News
-**[Microsoft突然终止VeraCrypt帐户，停止Windows更新](https://www.404media.co/microsoft-abruptly-terminates-veracrypt-account-halting-windows-updates/)**
+**[我已经等了一个多月，等待Anthropic回复我的账单问题](https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/)**
 
-文章网址： https://wwwco/microsoft-abruptly-terminates-veracrypt-account-halting-windows-**update**s/评论网址： https://**new**s
+文章网址： https://nickvecchioniio/thoughts/2026/04/08/**Anthropic**-support-doesnt-exist/评论网址： https://**new**s
 
-📅 Wed, 08 Apr 2026 14:46:15 +0000
-
----
-
-### Hacker News
-**[显示HN ： BAREmail · · · · –简约的Gmail客户端，无线网络很差](https://github.com/matt-virgo/baremail)**
-
-所以我氛围编码BAREMAIL ）我尝试保持漂亮的设计和一些**重要**的键盘快捷键，而不会过度承担
-
-📅 Wed, 08 Apr 2026 14:44:23 +0000
+📅 Wed, 08 Apr 2026 17:44:25 +0000
 
 ---
 
 ### Hacker News
-**[LLM使用结构化的“智能感官”玩8位Commander X16游戏](https://pvp-ai.russell-harper.com)**
+**[Muse Spark ：向个人超级智能扩展](https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1)**
 
-我将Chat**GPT** API （模型**GPT**-4o ）连接到在Commander X16仿真器上运行的8位射击游戏PvP-AI模型接收结构化文本摘要
+https://**Meta**ai/评论网址： https://**new**s
 
-📅 Wed, 08 Apr 2026 12:56:58 +0000
+📅 Wed, 08 Apr 2026 16:01:32 +0000
 
 ---
 
 ### Hacker News AI
-**[Anthropic刚刚交付Apache $ 150万来保护开源堆栈AI](https://itsfoss.com/news/anthropic-apache-software-foundation-donation/)**
+**[询问HN ： CLI来控制AI代码可以（和不可以）在您的存储库中更改的内容](https://news.ycombinator.com/item?id=47696831)**
 
-文章网址： https://itsfosscom/**new**s/**Anthropic**-apache-software-foundation-donation/评论网址： https://**new**s
+我一直在使用像Cursor和**Claude**这样的AI编码工具所以我构建了一个位于AI生成的代码和您的存储库之间的CLI
 
-📅 Wed, 08 Apr 2026 15:58:22 +0000
+📅 Wed, 08 Apr 2026 22:00:50 +0000
 
 ---
 
-### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Hacker News AI
+**[用Agentic AI复活1992年的泥浆](https://meditations.metavert.io/p/resurrecting-a-1992-mud-with-agentic)**
 
-Title: 520: Web服务器返回未知错误
+文章网址： https://meditationsio/p/resurrecting-a-1992-mud-with-agentic评论网址： https://**new**s
 
-📅 2026-04-08T16:17:01.884Z
+📅 Wed, 08 Apr 2026 21:49:46 +0000
+
+---
+
+### Hacker News AI
+**[被大学拒绝的谷歌工程师使用人工智能起诉种族歧视](https://abc7news.com/post/google-engineer-rejected-colleges-uses-ai-sue-ucs-other-universities-racial-discrimination/18849388/)**
+
+文章网址： https://abc7**new**scom/post/**Google**-engineer-rejected-colleges-uses-ai-sue-ucs-other-universities-racial-discrimination/18849388/评论网址： https://**new**s
+
+📅 Wed, 08 Apr 2026 21:41:29 +0000
 
 ---
 
