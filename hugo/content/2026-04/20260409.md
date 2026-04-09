@@ -1,12 +1,12 @@
 ---
 title: "2026年4月9日 - TZ日报"
-date: 2026-04-09T16:23:11.006Z
+date: 2026-04-09T23:42:40.798Z
 draft: false
 ---
 
 # 2026年4月9日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/4/9 16:23:11
+> 📊 今日汇总 38 条 · 🕐 2026/4/9 23:42:40
 
 ---
 
@@ -32,11 +32,20 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[AWS老板解释了为什么在Anthropic和OpenAI上投资数十亿美元是一个不错的冲突](https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/)**
+**[ChatGPT终于推出了每月$ 100的专业版套餐](https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/)**
 
-他解释说， AWS在处理竞争方面有着根深蒂固的文化，因为这家云巨头也与合作伙伴竞争
+**OpenAI**周四宣布了高级用户一直在要求的东西：每月$ 100的计划之前，订阅从每月$ 20跃升至每月$ 200
 
-📅 Wed, 08 Apr 2026 20:09:14 +0000
+📅 Thu, 09 Apr 2026 21:29:11 +0000
+
+---
+
+### TechCrunch AI Products
+**[Florida AG宣布调查OpenAI涉嫌涉及ChatGPT的枪击事件](https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/)**
+
+据报道， Chat**GPT**曾被用来策划去年4月在佛罗里达州立大学造成两人死亡、五人受伤的袭击事件。一名受害者的家人表示，他们计划就此事件起诉**OpenAI**
+
+📅 Thu, 09 Apr 2026 20:11:55 +0000
 
 ---
 
@@ -59,6 +68,15 @@ draft: false
 ---
 
 ### OpenAI Blog
+**[借助ChatGPT Enterprise和Codex ， CyberAgent行动更快](https://openai.com/index/cyber-agent)**
+
+CyberAgent使用Chat**GPT** Enterprise和Codex来安全地扩展人工智能的采用并加快广告决策
+
+📅 Thu, 09 Apr 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
 **[OpenAI全粉丝模式竞赛：条款和条件](https://openai.com/index/full-fan-mode-contest-terms-conditions)**
 
 了解**OpenAI**全粉丝模式竞赛奖品详情的官方条款和条件
@@ -77,38 +95,20 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[亚马逊首席执行官在年度股东信中瞄准英伟达、英特尔、Starlink等](https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/)**
+**[Muse Spark发布后， Meta AI应用程序在App Store上攀升至第5位](https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/)**
 
-安迪·贾西（ Andy Jassy ）的年度股东信在为2000亿美元的资本支出辩护时，向众多竞争对手宣读了类似于DISS曲目的内容
+就在**Meta** AI新车型**推出**之前，该应用程序在App Store上排名第57位
 
-📅 Thu, 09 Apr 2026 14:27:57 +0000
-
----
-
-### TechCrunch AI Products
-**[Tubi是第一个在ChatGPT中推出本地应用程序的流媒体播放器](https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/)**
-
-Tubi成为第一个在Chat**GPT**内提供应用程序集成的流媒体服务， Chat**GPT**是数百万用户寻求答案的人工智能聊天机器人
-
-📅 Wed, 08 Apr 2026 18:23:06 +0000
+📅 Thu, 09 Apr 2026 19:10:07 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[OpenAI发布新的安全蓝图，以应对儿童性剥削的增加](https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/)**
+**[Anthropic限制Mythos的发布是为了保护互联网，还是Anthropic ？](https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/)**
 
-**OpenAI**新的儿童安全蓝图旨在解决与人工智能进步相关的儿童性剥削的惊人增长
+**Anthropic**本周表示，它限制了其最新型号的**发布**真正的网络安全涉及前沿实验室更大问题的掩护
 
-📅 Wed, 08 Apr 2026 15:23:44 +0000
-
----
-
-### AI News
-**[Microsoft开源工具包在运行时保护AI代理](https://www.artificialintelligence-news.com/news/microsoft-open-source-toolkit-secures-ai-agents-at-runtime/)**
-
-微软新的**开源**工具包侧重于运行时安全性，以强制对企业AI代理进行严格的治理这些[…]微软**开源**工具包在运行时保护AI代理的文章**首次**出现在AI新闻上
-
-📅 Wed, 08 Apr 2026 10:23:53 +0000
+📅 Thu, 09 Apr 2026 18:50:05 +0000
 
 ---
 
@@ -210,14 +210,25 @@ YouTube提及与Chat**GPT**中的人工智能可见性具有“**最强**的相�
 
 ---
 
+### The Verge
+![ChatGPT每月新增100 $专业版订阅](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[ChatGPT每月新增100 $专业版订阅](https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new)**
+
+**OpenAI**宣布**推出**新版Chat**GPT** Pro订阅，每月收费100美元Chat**GPT**每月收费100美元的选项将直接与**Claude**的**Anthropic** “Max”会员等级竞争，后者的收费相同
+
+📅 2026-04-09T22:57:15.000Z
+
+---
+
 ### VentureBeat
-![Anthropic表示，其最强大的人工智能网络模型太危险，无法公开发布—因此它建立了Project Glasswing](https://images.ctfassets.net/jdtwqhzvc2n1/6SaGXxoA2WaaomE4o3ATIx/e0ed70fe2b8554b83f11998884a52c0b/nuneybits_Vector_art_of_a_retro_CRT_computer_image_in_burnt_ora_f8676585-ba7c-4170-bb90-6ad2e8a2668e.webp?w=300&q=30)
+![OpenAI推出ChatGPT Pro $ 100等级，与Plus相比， Codex的使用限制为5倍](https://images.ctfassets.net/jdtwqhzvc2n1/6uVTE16gVLv4XRlDrOmhO8/ddd73f327394bbdce9e8ac05e7114f06/ChatGPT_Image_Apr_9__2026__06_14_45_PM.png?w=300&q=30)
 
-**[Anthropic表示，其最强大的人工智能网络模型太危险，无法公开发布—因此它建立了Project Glasswing](https://venturebeat.com/technology/anthropic-says-its-most-powerful-ai-cyber-model-is-too-dangerous-to-release)**
+**[OpenAI推出ChatGPT Pro $ 100等级，与Plus相比， Codex的使用限制为5倍](https://venturebeat.com/orchestration/openai-introduces-chatgpt-pro-usd100-tier-with-5x-usage-limits-for-codex)**
 
-一项全面的网络安全计划，将未**发布**的前沿人工智能模型（ **Claude** Mythos Preview ）与十二家主要技术和金融公司的联盟相结合，努力在攻击者利用全球最关键的基础设施之前发现并修补这些基础设施中的软件漏洞**Anthropic**的解决方案是使用即将**推出**的**Claude** Opus模型开发并**推出**新的保障措施
+针对使用Chat**GPT**和相关**OpenAI**产品的个人的Plus （每月20美元）和现有PRO （每月200美元）计划**OpenAI**在X上的官方公司账号指出， “我们正在重新平衡[Chat**GPT**] Plus中的Codex使用情况，以支持一周内的更多会话
 
-📅 Tue, 07 Apr 2026 21:35:44 GMT
+📅 Thu, 09 Apr 2026 23:07:00 GMT
 
 ---
 
@@ -244,35 +255,22 @@ Block在**OpenAI**和**Anthropic**的前沿AI模型上构建了Managerbot —但
 ---
 
 ### VentureBeat
-![Amazon S3 Files为AI代理提供了本机文件系统工作区，结束了破坏多代理管道的对象-文件拆分](https://images.ctfassets.net/jdtwqhzvc2n1/7qINoorFvA8oMUYPoXZgvV/96ded88e2eb8ab5a27f6894b6b27cf44/Amazon-s3files-missinglink-smk1.jpg?w=300&q=30)
+![Mythos自主利用了经过27年人工审查的漏洞。安全团队需要新的检测手册](https://images.ctfassets.net/jdtwqhzvc2n1/6U30KdpUttFqCNrnyaxxpJ/35987bc5f4459240fe7195e361f84706/Anthropic_Mythos_Hero.png?w=300&q=30)
 
-**[Amazon S3 Files为AI代理提供了本机文件系统工作区，结束了破坏多代理管道的对象-文件拆分](https://venturebeat.com/data/amazon-s3-files-gives-ai-agents-a-native-file-system-workspace-ending-the)**
+**[Mythos自主利用了经过27年人工审查的漏洞。安全团队需要新的检测手册](https://venturebeat.com/security/mythos-detection-ceiling-security-teams-new-playbook)**
 
-他解释说，开发人员正在使用Kiro或**Claude** Code处理日志数据“S3文件的**推出**不仅仅是带有新界面的S3;它消除了大量数据湖和自主AI之间的最终摩擦点
+发现该漏洞花费了单个**Anthropic**发现活动约$ 20,000 **Anthropic**的**Claude** Mythos Preview发现了它
 
-📅 Tue, 07 Apr 2026 21:36:00 GMT
-
----
-
-### The Verge
-![人工智能行业的利润竞争现在已经存在](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/DCD_0409.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[人工智能行业的利润竞争现在已经存在](https://www.theverge.com/podcast/909042/ai-monetization-cliff-anthropic-openai-profitable-ai-existential-moment)**
-
-She’s been keeping close tabs on both **Anthropic** and **OpenAI**check out these links: The vibes are off at **OpenAI** | The Verge **Anthropic** essentially bans OpenClaw from **Claude** | The Verge Why **OpenAI** killed Sora | The Verge **OpenAI** just bought TBPN | The Verge National poll shows voters like AI less than ICE | The Verge The spiraling cost of making AI | WSJ **OpenAI**’s Fidji Simo taking leave amid exec shake-up | Wired **OpenAI** raises another $122B at $850B valuation | The Verge Questions or comments about this episode
-
-📅 2026-04-09T14:00:00.000Z
+📅 Thu, 09 Apr 2026 18:30:00 GMT
 
 ---
 
-### VentureBeat
-![新框架允许人工智能代理重写自己的技能，而无需重新训练底层模型](https://images.ctfassets.net/jdtwqhzvc2n1/6sKbX6XySE2o8jyRPxQ8eE/35282d8feb745f0bd6a418c31bcdeabe/Self-evolving_agents.jpg?w=300&q=30)
+### Ars Technica
+**[沙发上的人工智能： Anthropic为Claude提供了20小时的精神病治疗](https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/)**
 
-**[新框架允许人工智能代理重写自己的技能，而无需重新训练底层模型](https://venturebeat.com/orchestration/new-framework-lets-ai-agents-rewrite-their-own-skills-without-retraining-the)**
+Mythos是“迄今为止我们训练过的心理上最稳定的模型”。
 
-部署自主代理的一个主要挑战是构建能够适应环境变化的系统，而无需重新训练底层的大型语言模型（ LLM ）找到企业最佳位置研究人员在GitHub上**发布**了Memento-Skills的代码，并且可以随时使用
-
-📅 Wed, 08 Apr 2026 17:18:21 GMT
+📅 Thu, 09 Apr 2026 21:20:31 +0000
 
 ---
 
@@ -283,7 +281,7 @@ She’s been keeping close tabs on both **Anthropic** and **OpenAI**check out th
 
 **[🆕 ai_osint ：🤖精心策划的AI OSINT资源— Google dorks、Shodan查询、GitHub dorks以及发现暴露的LLM端点、泄露的AI API密钥、配置错误的矢量数据库和未受保护的AI代理的技术](https://github.com/7WaySecurity/ai_osint)**
 
-⭐ 12 star (新项目) · N/A · 🤖 Curated AI OSINT resources — **Google** dorksand unprotected AI agents
+⭐ 13 star (新项目) · N/A · 🤖 Curated AI OSINT resources — **Google** dorksand unprotected AI agents
 
 📅 2026-04-08T14:08:41Z
 
@@ -316,7 +314,7 @@ She’s been keeping close tabs on both **Anthropic** and **OpenAI**check out th
 
 **[🆕 env-ssl-wrapper ：围绕环境的包装器，将自动从自我监督学习中提供表示](https://github.com/lucidrains/env-ssl-wrapper)**
 
-⭐ 5 star (新项目) · N/A · Wrappers around environments that will take care of providing representations from self supervised learning automagically
+⭐ 6 star (新项目) · N/A · Wrappers around environments that will take care of providing representations from self supervised learning automagically
 
 📅 2026-04-06T17:21:28Z
 
@@ -324,12 +322,21 @@ She’s been keeping close tabs on both **Anthropic** and **OpenAI**check out th
 
 ## 💬 社交动态
 
+### Hacker News AI
+**[托管AI API网关–跨Google、OpenAI、Anthropic等智能路由](https://api.lxg2it.com)**
+
+文章网址： https://apicom评论网址： https://**new**s
+
+📅 Thu, 09 Apr 2026 22:10:16 +0000
+
+---
+
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-04-09T16:20:11.998Z
+📅 2026-04-09T23:39:34.004Z
 
 ---
 
@@ -338,61 +345,52 @@ She’s been keeping close tabs on both **Anthropic** and **OpenAI**check out th
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-04-09T16:21:17.499Z
+📅 2026-04-09T23:40:53.635Z
 
 ---
 
 ### Hacker News
-**[Vercel Claude Code插件想要读取您的提示](https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry)**
+**[微软是否正在采用黑暗模式来刺激用户为存储付费？](https://lzon.ca/posts/other/microsoft-user-abuse/)**
 
-文章网址： https://akshaychughxyz/writings/png/vercel-plugin-telemetry评论网址： https://**new**s
+文章网址： https://lzonca/posts/other/microsoft-user-abuse/评论网址： https://**new**s
 
-📅 Thu, 09 Apr 2026 15:17:27 +0000
-
----
-
-### Hacker News
-**[Meta删除社交媒体成瘾诉讼的广告](https://www.axios.com/2026/04/09/meta-social-media-addiction-ads)**
-
-文章网址： https://wwwcom/2026/04/09/**Meta**-social-media-addiction-ads评论网址： https://**new**s
-
-📅 Thu, 09 Apr 2026 13:23:50 +0000
+📅 Thu, 09 Apr 2026 21:09:12 +0000
 
 ---
 
 ### Hacker News
-**[启动HN ： Relvy (YC F24) –自动待命运行手册](https://www.relvy.ai)**
+**[从WordPress迁移到Jekyll （以及一般的静态站点生成器）](https://www.demandsphere.com/blog/rebuilding-demandsphere-with-jekyll-and-claude-code/)**
 
-您可能正在将日志粘贴到光标中，或使用**Claude** Code与Datadog的MCP服务器一起帮助调试这显示在基准中- **Claude** Opus 4
+文章网址： https://wwwcom/blog/rebuilding-demandsphere-with-jekyll-and-code/评论网址： https://**new**s
 
-📅 Thu, 09 Apr 2026 12:11:56 +0000
+📅 Thu, 09 Apr 2026 20:59:51 +0000
 
 ---
 
 ### Hacker News
-**[显示HN ： CSS Studio。手工设计，代理编码](https://cssstudio.ai)**
+**[逆向工程Gemini的SynthID检测](https://github.com/aloshdenny/reverse-SynthID)**
 
-向您现有的AI代理发送**更新**在您的代理中，您可以运行/st**Udio** ，然后轮询（或使用**Claude** Channels ） MCP服务器
+文章网址： https://githubcom/aloshdenny/reverse-SynthID评论网址： https://**new**s
 
-📅 Thu, 09 Apr 2026 11:23:31 +0000
+📅 Thu, 09 Apr 2026 20:10:25 +0000
 
 ---
 
 ### Hacker News AI
-**[Meta使用Muse Spark升级Meta AI](https://www.notebookcheck.net/Meta-upgrades-Meta-AI-with-Muse-Spark.1270170.0.html)**
+**[Anthropic表示，新的人工智能模型对于公开发布来说太危险了](https://thehill.com/policy/technology/5824219-anthropic-new-ai-dangerous-public/)**
 
-net/**Meta**-upgrades-**Meta**-AI-with-Muse-Sparkhtml评论网址： https://**new**s
+文章网址： https://thehillcom/policy/technology/5824219-**Anthropic**-**new**-ai-dangerous-public/评论网址： https://**new**s
 
-📅 Thu, 09 Apr 2026 16:03:32 +0000
+📅 Thu, 09 Apr 2026 22:33:22 +0000
 
 ---
 
-### Hacker News AI
-**[& udm14 –常规Google ，无AI概述](https://udm14.com/)**
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-文章网址： https://udm14com/评论网址： https://**new**s
+Title: 520: Web服务器返回未知错误
 
-📅 Thu, 09 Apr 2026 15:59:21 +0000
+📅 2026-04-09T23:39:34.004Z
 
 ---
 
