@@ -1,12 +1,12 @@
 ---
 title: "2026年4月10日 - TZ日报"
-date: 2026-04-10T15:59:42.203Z
+date: 2026-04-10T23:40:00.320Z
 draft: false
 ---
 
 # 2026年4月10日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/4/10 15:59:42
+> 📊 今日汇总 38 条 · 🕐 2026/4/10 23:40:00
 
 ---
 
@@ -23,11 +23,29 @@ draft: false
 ## ✨ 产品更新
 
 ### OpenAI Blog
-**[企业AI的下一阶段](https://openai.com/index/next-phase-of-enterprise-ai)**
+**[AI在OpenAI的应用](https://openai.com/academy/applications-of-ai)**
 
-**OpenAI**概述了企业AIChat**GPT** Enterprise的下一阶段
+探索**OpenAI**产品（如Chat**GPT**、Codex和API ）如何将人工智能应用于工作、开发和日常任务的现实世界
 
-📅 Wed, 08 Apr 2026 14:00:00 GMT
+📅 Fri, 10 Apr 2026 00:00:00 GMT
+
+---
+
+### TechCrunch AI Products
+**[Anthropic暂时禁止OpenClaw的创建者访问Claude](https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/)**
+
+这项禁令是在**Claude**上周更改OpenClaw用户的定价后发生的。
+
+📅 Fri, 10 Apr 2026 20:27:52 +0000
+
+---
+
+### TechCrunch AI Products
+**[跟踪受害者起诉OpenAI ，声称ChatGPT助长了施虐者的妄想，无视她的警告](https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/)**
+
+**OpenAI**在跟踪和骚扰他的前女友时忽略了三项关于Chat**GPT**用户是危险的警告—包括其自己的大规模伤亡标志—新的诉讼声称
+
+📅 Fri, 10 Apr 2026 16:41:34 +0000
 
 ---
 
@@ -50,65 +68,47 @@ draft: false
 ---
 
 ### OpenAI Blog
-**[OpenAI全粉丝模式竞赛：条款和条件](https://openai.com/index/full-fan-mode-contest-terms-conditions)**
+**[使用ChatGPT进行研究](https://openai.com/academy/search-and-deep-research)**
 
-了解**OpenAI**全粉丝模式竞赛奖品详情的官方条款和条件
+了解如何使用Chat**GPT**使用搜索和深入研究进行研究，以查找最新信息、分析来源并生成结构化见解
 
-📅 Thu, 09 Apr 2026 00:00:00 GMT
-
----
-
-### OpenAI Blog
-**[借助ChatGPT Enterprise和Codex ， CyberAgent行动更快](https://openai.com/index/cyberagent)**
-
-CyberAgent使用Chat**GPT** Enterprise和Codex来安全地扩展人工智能的采用并加快广告决策
-
-📅 Thu, 09 Apr 2026 00:00:00 GMT
+📅 Fri, 10 Apr 2026 00:00:00 GMT
 
 ---
 
 ### OpenAI Blog
-**[儿童安全蓝图简介](https://openai.com/index/introducing-child-safety-blueprint)**
+**[在ChatGPT中使用文件](https://openai.com/academy/working-with-files)**
 
-探索**OpenAI**的儿童安全蓝图-通过适当的保障措施设计负责任地构建人工智能的路线图
+了解如何在Chat**GPT**中上传和使用文件来分析数据、汇总文档以及从PDF、电子表格等生成内容
 
-📅 Wed, 08 Apr 2026 05:00:00 GMT
-
----
-
-### TechCrunch AI Products
-**[Muse Spark发布后， Meta AI应用程序在App Store上攀升至第5位](https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/)**
-
-就在**Meta** AI新车型**推出**之前，该应用程序在App Store上排名第57位
-
-📅 Thu, 09 Apr 2026 19:10:07 +0000
+📅 Fri, 10 Apr 2026 00:00:00 GMT
 
 ---
 
-### TechCrunch AI Products
-**[Anthropic限制Mythos的发布是为了保护互联网，还是Anthropic ？](https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/)**
+### OpenAI Blog
+**[使用自定义GPT](https://openai.com/academy/custom-gpts)**
 
-**Anthropic**本周表示，它限制了其最新型号的**发布**真正的网络安全涉及前沿实验室更大问题的掩护
+了解如何构建和使用自定义**GPT**来自动化工作流程、维护一致的输出并创建专门构建的人工智能助手
 
-📅 Thu, 09 Apr 2026 18:50:05 +0000
-
----
-
-### TechCrunch AI Products
-**[谷歌和英特尔深化人工智能基础设施合作伙伴关系](https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/)**
-
-这两家科技巨头正在寻求共同开发定制芯片，而由于全球日益短缺，对CPU的需求很高
-
-📅 Thu, 09 Apr 2026 18:27:47 +0000
+📅 Fri, 10 Apr 2026 00:00:00 GMT
 
 ---
 
-### TechCrunch AI Products
-**[亚马逊首席执行官在年度股东信中瞄准英伟达、英特尔、Starlink等](https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/)**
+### OpenAI Blog
+**[使用ChatGPT分析数据](https://openai.com/academy/data-analysis)**
 
-安迪·贾西（ Andy Jassy ）的年度股东信在为2000亿美元的资本支出辩护时，向众多竞争对手宣读了类似于DISS曲目的内容
+通过探索数据集，了解如何使用Chat**GPT**分析数据创建可视化效果
 
-📅 Thu, 09 Apr 2026 14:27:57 +0000
+📅 Fri, 10 Apr 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[提示基本面](https://openai.com/academy/prompting)**
+
+了解提示基本原理以及如何编写清晰、有效的提示，以获得来自Chat**GPT**的更好、更有用的回复
+
+📅 Fri, 10 Apr 2026 00:00:00 GMT
 
 ---
 
@@ -211,6 +211,17 @@ YouTube提及与Chat**GPT**中的人工智能可见性具有“**最强**的相�
 ---
 
 ### VentureBeat
+![AI代理凭据与不受信任的代码位于同一个盒子中。两个新架构显示了爆炸半径的实际停止位置。](https://images.ctfassets.net/jdtwqhzvc2n1/35u1BcqPcGPsUcDOjxBtIh/fb7d22c10100687068f227c644d2e297/zero_trust_hero.png?w=300&q=30)
+
+**[AI代理凭据与不受信任的代码位于同一个盒子中。两个新架构显示了爆炸半径的实际停止位置。](https://venturebeat.com/security/ai-agent-zero-trust-architecture-audit-credential-isolation-anthropic-nvidia-nemoclaw)**
+
+微软的Vasu Jakkal告诉与会者，零信任必须扩展到AIT模型原因，调用工具，执行生成的代码，并在一个过程中持有凭据
+
+📅 Fri, 10 Apr 2026 22:26:53 GMT
+
+---
+
+### VentureBeat
 ![OpenAI推出ChatGPT Pro $ 100等级，与Plus相比， Codex的使用限制为5倍](https://images.ctfassets.net/jdtwqhzvc2n1/6uVTE16gVLv4XRlDrOmhO8/ddd73f327394bbdce9e8ac05e7114f06/ChatGPT_Image_Apr_9__2026__06_14_45_PM.png?w=300&q=30)
 
 **[OpenAI推出ChatGPT Pro $ 100等级，与Plus相比， Codex的使用限制为5倍](https://venturebeat.com/orchestration/openai-introduces-chatgpt-pro-usd100-tier-with-5x-usage-limits-for-codex)**
@@ -233,17 +244,6 @@ YouTube提及与Chat**GPT**中的人工智能可见性具有“**最强**的相�
 ---
 
 ### VentureBeat
-![Block引入了Managerbot ，这是一个积极主动的Square AI代理，也是Jack Dorsey的人工智能投注的最清晰的证明点](https://images.ctfassets.net/jdtwqhzvc2n1/6zNqH1MY0JDez3yEqPyEHn/d0336c111d8154186121d05f78707ff6/nuneybits_Vector_art_of_the_Square_payments_system_point_of_sal_a0eb242e-be13-4204-9d6c-b1be02025525.webp?w=300&q=30)
-
-**[Block引入了Managerbot ，这是一个积极主动的Square AI代理，也是Jack Dorsey的人工智能投注的最清晰的证明点](https://venturebeat.com/data/block-introduces-managerbot-a-proactive-square-ai-agent-and-the-clearest)**
-
-Block在**OpenAI**和**Anthropic**的前沿AI模型上构建了Managerbot —但表示真正的创新在于Managerbot在第三方前沿模型上运行— Avé专门引用了**Anthropic**的Sonnet和**OpenAI**的**GPT**系列—但Block的竞争优势如果您将销售的CSV文件放在Chat**GPT**或**Claude**中
-
-📅 Tue, 07 Apr 2026 22:14:30 GMT
-
----
-
-### VentureBeat
 ![Mythos自主利用了经过27年人工审查的漏洞。安全团队需要新的检测手册](https://images.ctfassets.net/jdtwqhzvc2n1/6U30KdpUttFqCNrnyaxxpJ/35987bc5f4459240fe7195e361f84706/Anthropic_Mythos_Hero.png?w=300&q=30)
 
 **[Mythos自主利用了经过27年人工审查的漏洞。安全团队需要新的检测手册](https://venturebeat.com/security/mythos-detection-ceiling-security-teams-new-playbook)**
@@ -251,15 +251,6 @@ Block在**OpenAI**和**Anthropic**的前沿AI模型上构建了Managerbot —但
 发现该漏洞花费了单个**Anthropic**发现活动约$ 20,000 **Anthropic**的**Claude** Mythos Preview发现了它
 
 📅 Thu, 09 Apr 2026 18:30:00 GMT
-
----
-
-### Ars Technica
-**[沙发上的人工智能： Anthropic为Claude提供了20小时的精神病治疗](https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/)**
-
-Mythos是“迄今为止我们训练过的心理上最稳定的模型”。
-
-📅 Thu, 09 Apr 2026 21:20:31 +0000
 
 ---
 
@@ -274,6 +265,17 @@ Mythos是“迄今为止我们训练过的心理上最稳定的模型”。
 
 ---
 
+### VentureBeat
+![Intuit将数月的税法实施时间压缩为数小时—并构建了任何受监管行业团队都可以适应的工作流程](https://images.ctfassets.net/jdtwqhzvc2n1/6B3W5NVKiHfs0041gAHmty/091b174e5bac4070f7551204014de6d0/turbotax-ai-smk.jpg?w=300&q=30)
+
+**[Intuit将数月的税法实施时间压缩为数小时—并构建了任何受监管行业团队都可以适应的工作流程](https://venturebeat.com/data/intuit-compressed-months-of-tax-code-implementation-into-hours-and-built-a)**
+
+这些任务由Chat**GPT**处理，通用LLMs**Claude**成为翻译和依赖关系映射工作的主要工具
+
+📅 Fri, 10 Apr 2026 22:09:14 GMT
+
+---
+
 ## 📦 GitHub热门
 
 ### GitHub New (New AI)
@@ -281,7 +283,7 @@ Mythos是“迄今为止我们训练过的心理上最稳定的模型”。
 
 **[🆕 awesome-ai-extensions ：由人工智能驱动的浏览器扩展、插件和附加组件的精选列表。](https://github.com/kklt92/awesome-ai-extensions)**
 
-⭐ 16 star (新项目) · N/A · A curated list of AI-powered browser extensions, plugins, and add-ons.
+⭐ 23 star (新项目) · N/A · A curated list of AI-powered browser extensions, plugins, and add-ons.
 
 📅 2026-04-08T18:31:06Z
 
@@ -292,7 +294,7 @@ Mythos是“迄今为止我们训练过的心理上最稳定的模型”。
 
 **[🆕 ai_osint ：🤖精心策划的AI OSINT资源— Google dorks、Shodan查询、GitHub dorks以及发现暴露的LLM端点、泄露的AI API密钥、配置错误的矢量数据库和未受保护的AI代理的技术](https://github.com/7WaySecurity/ai_osint)**
 
-⭐ 13 star (新项目) · N/A · 🤖 Curated AI OSINT resources — **Google** dorksand unprotected AI agents
+⭐ 14 star (新项目) · N/A · 🤖 Curated AI OSINT resources — **Google** dorksand unprotected AI agents
 
 📅 2026-04-08T14:08:41Z
 
@@ -314,7 +316,7 @@ Mythos是“迄今为止我们训练过的心理上最稳定的模型”。
 
 **[🆕 mysql_genius: 新项目](https://github.com/antarr/mysql_genius)**
 
-⭐ 5 star (新项目) · HTML · 无描述
+⭐ 6 star (新项目) · HTML · 无描述
 
 📅 2026-04-08T16:28:18Z
 
@@ -322,41 +324,12 @@ Mythos是“迄今为止我们训练过的心理上最稳定的模型”。
 
 ## 💬 社交动态
 
-### Reddit: r/MachineLearning
-**[开始了一个关于为LLM培训后构建编排层的视频系列[P]](https://www.reddit.com/r/MachineLearning/comments/1sh76ji/started_a_video_series_on_building_an/)**
+### Hacker News AI
+**[Anthropic将reasoning_effort = 25注入Claude.ai消费者系统提示](https://imgur.com/AOAs7Aq)**
 
-起初，我并没有试图构建任何新的东西，我注意到人们只是用最新的模型和框架的最大努力指出了**Claude**代码或codex ，并要求它使他们的实验工作
+文章网址： https://imgurcom/AOAs7Aq留言网址： https://**new**s
 
-📅 2026-04-10T00:24:33.000Z
-
----
-
-### Reddit: r/singularity
-![该死的Meta回来了！ ！ Meta Muse Spark在人工分析指数中排名第四！ ！](https://preview.redd.it/suxjn23z6aug1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9653c19e81cb51d023314a32f4114bf296ffc10c)
-
-**[该死的Meta回来了！ ！ Meta Muse Spark在人工分析指数中排名第四！ ！](https://www.reddit.com/r/singularity/comments/1shb3qg/damn_meta_is_back_meta_muse_spark_ranks_4th_in/)**
-
-不是因为我喜欢**Meta** ，但竞争总是对用户有利现在我们似乎有4-5家公司（ **Google**、**Anthropic**、**OpenAI**、**Meta**和xAI ）再次争夺榜首
-
-📅 2026-04-10T03:22:22.000Z
-
----
-
-### Reddit: r/artificial
-**[用于学习的AI工具](https://www.reddit.com/r/artificial/comments/1shksli/ai_tools_for_studies/)**
-
-我觉得Chat**GPT**非常通用可以推荐给我一个比chat**GPT**或**Gemini**更好的人工智能来学习吗
-
-📅 2026-04-10T12:14:14.000Z
-
----
-
-### Reddit: r/singularity
-**[据报道，廉价的开放模型复制了Mythos展示的大部分发现](https://www.reddit.com/r/singularity/comments/1sh2p1r/cheap_open_models_reportedly_reproduced_much_of/)**
-
-com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier我们测试了**Anthropic** Mythos在小型、廉价、开放权重的模型上展示的漏洞也许到明年，我们将看到Mythos ，就像我们如何看待**GPT**-2这样的模型一样
-
-📅 2026-04-09T21:19:40.000Z
+📅 Fri, 10 Apr 2026 23:08:31 +0000
 
 ---
 
@@ -365,7 +338,7 @@ com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier我们测试了**Anthr
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-04-10T15:56:35.225Z
+📅 2026-04-10T23:36:54.723Z
 
 ---
 
@@ -374,25 +347,52 @@ com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier我们测试了**Anthr
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-04-10T15:57:54.222Z
+📅 2026-04-10T23:38:14.134Z
 
 ---
 
 ### Hacker News
-**[美国传唤银行老板应对Anthropic最新人工智能模型带来的网络风险](https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model)**
+**[山姆·奥尔特曼（ Sam Altman ）在家中品尝自制燃烧弹鸡尾酒](https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html)**
 
-文章网址： https://wwwcom/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-**Anthropic**-latest-ai-model评论网址： https://**new**s
+com/**new**s/articles/czx91rdxpyeo https://wwwcom/2026/04/10/tech/suspect-arrest-**OpenAI**-ce
 
-📅 Fri, 10 Apr 2026 13:47:17 +0000
+📅 Fri, 10 Apr 2026 18:48:24 +0000
 
 ---
 
-### Hacker News
-**[OpenAI支持伊利诺伊州的法案，该法案将限制人工智能实验室承担责任的时间](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/)**
+### Hacker News AI
+**[达到Claude使用限制？在其他地方恢复您的AI编码会话](https://github.com/inevolin/resume-cli)**
 
-md/WzwBY评论网址： https://**new**sid = 47717587积分： 349 #评论： 251
+文章网址： https://githubcom/inevolin/resume-cli评论网址： https://**new**s
 
-📅 Fri, 10 Apr 2026 13:08:43 +0000
+📅 Fri, 10 Apr 2026 23:21:08 +0000
+
+---
+
+### Hacker News AI
+**[与Sundar Pichai共同探讨谷歌人工智能的历史和未来](https://cheekypint.substack.com/p/the-history-and-future-of-ai-at-google)**
+
+文章网址： https://cheekypintcom/p/the-history-and-future-of-ai-at-**Google**评论网址： https://**new**s
+
+📅 Fri, 10 Apr 2026 23:13:23 +0000
+
+---
+
+### Hacker News AI
+**[Meta Banks在AI上清除社交媒体诉讼的烟雾](https://www.wsj.com/tech/meta-banks-on-ai-to-clear-the-smoke-of-social-media-lawsuits-902263dc)**
+
+文章网址： https://wwwcom/tech/**Meta**-banks-on-ai-to-clear-the-smoke-of-social-media-lawsuits-902263dc评论网址： https://**new**s
+
+📅 Fri, 10 Apr 2026 22:53:27 +0000
+
+---
+
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Title: 520: Web服务器返回未知错误
+
+📅 2026-04-10T23:36:54.723Z
 
 ---
 
