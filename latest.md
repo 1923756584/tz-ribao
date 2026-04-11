@@ -1,12 +1,12 @@
 ---
 title: "2026年4月11日 - TZ日报"
-date: 2026-04-11T15:40:08.264Z
+date: 2026-04-11T23:38:29.526Z
 draft: false
 ---
 
 # 2026年4月11日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/4/11 15:40:08
+> 📊 今日汇总 38 条 · 🕐 2026/4/11 23:38:29
 
 ---
 
@@ -21,15 +21,6 @@ draft: false
 ---
 
 ## ✨ 产品更新
-
-### OpenAI Blog
-**[AI在OpenAI的应用](https://openai.com/academy/applications-of-ai)**
-
-探索**OpenAI**产品（如Chat**GPT**、Codex和API ）如何将人工智能应用于工作、开发和日常任务的现实世界
-
-📅 Fri, 10 Apr 2026 00:00:00 GMT
-
----
 
 ### TechCrunch AI Products
 **[Anthropic暂时禁止OpenClaw的创建者访问Claude](https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/)**
@@ -77,27 +68,18 @@ draft: false
 ---
 
 ### OpenAI Blog
-**[使用自定义GPT](https://openai.com/academy/custom-gpts)**
+**[医疗保健](https://openai.com/academy/healthcare)**
 
-了解如何构建和使用自定义**GPT**来自动化工作流程、维护一致的输出并创建专门构建的人工智能助手
-
-📅 Fri, 10 Apr 2026 00:00:00 GMT
-
----
-
-### OpenAI Blog
-**[面向客户成功团队的ChatGPT](https://openai.com/academy/customer-success)**
-
-了解客户成功团队如何使用Chat**GPT**管理客户、改善沟通、减少客户流失以及推动采用和续订
+了解临床医生如何使用符合HIPAA标准的安全AI工具，使用Chat**GPT**来支持诊断、文档和患者护理
 
 📅 Fri, 10 Apr 2026 00:00:00 GMT
 
 ---
 
 ### OpenAI Blog
-**[使用ChatGPT进行研究](https://openai.com/academy/search-and-deep-research)**
+**[使用技能](https://openai.com/academy/skills)**
 
-了解如何使用Chat**GPT**使用搜索和深入研究进行研究，以查找最新信息、分析来源并生成结构化见解
+了解如何创建和使用Chat**GPT**技能来构建可重用的工作流程，自动执行重复任务，并确保一致、高质量的输出
 
 📅 Fri, 10 Apr 2026 00:00:00 GMT
 
@@ -107,6 +89,24 @@ draft: false
 **[使用ChatGPT分析数据](https://openai.com/academy/data-analysis)**
 
 通过探索数据集，了解如何使用Chat**GPT**分析数据创建可视化效果
+
+📅 Fri, 10 Apr 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[使用ChatGPT写作](https://openai.com/academy/writing)**
+
+了解如何使用Chat**GPT**撰写内容，以清晰的结构、语气和意图起草、修改和细化内容
+
+📅 Fri, 10 Apr 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[面向营销团队的ChatGPT](https://openai.com/academy/marketing)**
+
+了解营销团队如何使用Chat**GPT**来规划营销活动、生成内容、分析绩效，并更快地从创意转变为执行
 
 📅 Fri, 10 Apr 2026 00:00:00 GMT
 
@@ -189,28 +189,6 @@ draft: false
 ## 🌍 行业展望
 
 ### VentureBeat
-![再见， Llama ？ Meta自Superintelligence Labs成立以来首次推出新的专有AI模型Muse Spark](https://images.ctfassets.net/jdtwqhzvc2n1/6tTe1SOF6tLAWd3xvDNOml/749dbd15282f8ad2696467128825d7a6/Dejected_llama_leaves_Muse_Spark_headquarters.png?w=300&q=30)
-
-**[再见， Llama ？ Meta自Superintelligence Labs成立以来首次推出新的专有AI模型Muse Spark](https://venturebeat.com/technology/goodbye-llama-meta-launches-new-proprietary-ai-model-muse-spark-first-since)**
-
-**Meta**一直是生成式人工智能时代最有趣的公司之一--最初从2023年初开始，其主要是**开源**的Llama大型语言模型（ LLM ）系列的**发布**获得了忠诚和庞大的用户追随者，但在Llama 4首次**推出**混合评论并最终允许**Meta**与**Google**的**Gemini** Deep Think和**OpenAI**的**GPT**-5等极端推理模型竞争后， **Meta**于去年戛然而止
-
-📅 Wed, 08 Apr 2026 20:34:01 GMT
-
----
-
-### VentureBeat
-![LLM引用的流量转化率为30-40% —大多数企业没有为此进行优化](https://images.ctfassets.net/jdtwqhzvc2n1/6mKfa09Ht7wzFiRIWUIcqc/0090650d90a363f1c858f4a671abbf76/AI_search.png?w=300&q=30)
-
-**[LLM引用的流量转化率为30-40% —大多数企业没有为此进行优化](https://venturebeat.com/technology/llm-referred-traffic-converts-at-30-40-and-most-enterprises-arent-optimizing)**
-
-YouTube提及与Chat**GPT**中的人工智能可见性具有“**最强**的相关性” ，因为谷歌和**OpenAI**都已经在YouTube成绩单上训练了他们的模型
-
-📅 Wed, 08 Apr 2026 19:04:30 GMT
-
----
-
-### VentureBeat
 ![AI代理凭据与不受信任的代码位于同一个盒子中。两个新架构显示了爆炸半径的实际停止位置。](https://images.ctfassets.net/jdtwqhzvc2n1/35u1BcqPcGPsUcDOjxBtIh/fb7d22c10100687068f227c644d2e297/zero_trust_hero.png?w=300&q=30)
 
 **[AI代理凭据与不受信任的代码位于同一个盒子中。两个新架构显示了爆炸半径的实际停止位置。](https://venturebeat.com/security/ai-agent-zero-trust-architecture-audit-credential-isolation-anthropic-nvidia-nemoclaw)**
@@ -229,17 +207,6 @@ YouTube提及与Chat**GPT**中的人工智能可见性具有“**最强**的相�
 针对使用Chat**GPT**和相关**OpenAI**产品的个人的Plus （每月20美元）和现有PRO （每月200美元）计划**OpenAI**在X上的官方公司账号指出， “我们正在重新平衡[Chat**GPT**] Plus中的Codex使用情况，以支持一周内的更多会话
 
 📅 Thu, 09 Apr 2026 23:07:00 GMT
-
----
-
-### VentureBeat
-![Claude、OpenClaw和新现实：人工智能特工在这里，混乱也在这里](https://images.ctfassets.net/jdtwqhzvc2n1/33OB5cKXtts9VZ7sMyzGew/7454f3b529fbde6e78746d28b720e4c4/Chaos.png?w=300&q=30)
-
-**[Claude、OpenClaw和新现实：人工智能特工在这里，混乱也在这里](https://venturebeat.com/infrastructure/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos)**
-
-从2022年Chat**GPT**的一个无辜的问答开玩笑开始，已经成为一场关于工作保障的存在主义辩论，而机器的崛起无论如何都是聊天机器人的首选；现在有了Cowork ，它拥有法律和金融等特定行业的领域知识
-
-📅 Wed, 08 Apr 2026 22:26:37 GMT
 
 ---
 
@@ -263,6 +230,17 @@ YouTube提及与Chat**GPT**中的人工智能可见性具有“**最强**的相�
 
 ---
 
+### The Verge
+![谷歌最新的Nest门铃刚刚触及今年的最低价格](https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Google-Nest-Doorbell-battery.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[谷歌最新的Nest门铃刚刚触及今年的最低价格](https://www.theverge.com/gadgets/910472/google-nest-doorbell-wired-battery-powered-deal-sale)**
+
+谷歌的电池供电Nest Doorbell是自12月以来最便宜的谷歌提供一些最好的，现在，其电池供电的第二代Nest Doorbell售价为$ 129
+
+📅 2026-04-11T15:00:00.000Z
+
+---
+
 ### VentureBeat
 ![Intuit将数月的税法实施时间压缩为数小时—并构建了任何受监管行业团队都可以适应的工作流程](https://images.ctfassets.net/jdtwqhzvc2n1/6B3W5NVKiHfs0041gAHmty/091b174e5bac4070f7551204014de6d0/turbotax-ai-smk.jpg?w=300&q=30)
 
@@ -274,7 +252,47 @@ YouTube提及与Chat**GPT**中的人工智能可见性具有“**最强**的相�
 
 ---
 
+### Ars Technica
+**[微软“对Windows质量的承诺”始于对测试计划的大修](https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features/)**
+
+Windows预览体验内部版本仍然令人困惑，但它们应该更具可预测性。
+
+📅 Fri, 10 Apr 2026 18:00:44 +0000
+
+---
+
+### ZDNet AI
+**[微软的Windows预览体验计划不再是一团糟](https://www.zdnet.com/article/microsoft-windows-insider-program-simplified/)**
+
+微软是否终于修复了Windows 11的预览程序？以下是正在发生的变化-包括一个我没有看到的**升级**
+
+📅 Fri, 10 Apr 2026 18:00:03 GMT
+
+---
+
 ## 📦 GitHub热门
+
+### GitHub Active (AI/ML)
+![DocsGPT ：用于代理、助理和企业搜索的私有AI平台。内置Agent Builder、深入研究、文档分析、多模型支持和Agent的API连接。](https://avatars.githubusercontent.com/u/103419759?v=4)
+
+**[DocsGPT ：用于代理、助理和企业搜索的私有AI平台。内置Agent Builder、深入研究、文档分析、多模型支持和Agent的API连接。](https://github.com/arc53/DocsGPT)**
+
+⭐ 17,821星· 2021分叉· Python ·面向代理、助理和企业搜索的私有AI平台内置代理构建器、深入研究、文档分析、多模型支持和代理的API连接
+
+📅 2026-04-11T23:37:11Z
+
+---
+
+### GitHub Active (Python)
+![pdf_oxide ： Python和Rust最快的PDF库。文本提取、图像提取、降价转换、PDF创建和编辑。平均0.8毫秒，比行业领导者快5倍， 3,830份PDF文件的通过率为100%。MIT/Apache-2.0.](https://avatars.githubusercontent.com/u/1532172?v=4)
+
+**[pdf_oxide ： Python和Rust最快的PDF库。文本提取、图像提取、降价转换、PDF创建和编辑。平均0.8毫秒，比行业领导者快5倍， 3,830份PDF文件的通过率为100%。MIT/Apache-2.0.](https://github.com/yfedoseev/pdf_oxide)**
+
+⭐ 557星· 64分叉· Rust · Python和RustText提取、图像提取、markdown转换、PDF创建和编辑最快的PDF库
+
+📅 2026-04-11T23:36:59Z
+
+---
 
 ### GitHub New (New AI)
 ![🆕 awesome-ai-extensions ：由人工智能驱动的浏览器扩展、插件和附加组件的精选列表。](https://avatars.githubusercontent.com/u/984918?v=4)
@@ -298,36 +316,32 @@ YouTube提及与Chat**GPT**中的人工智能可见性具有“**最强**的相�
 
 ---
 
-### GitHub New (New AI)
-![🆕 mysql_genius: 新项目](https://avatars.githubusercontent.com/u/974295?v=4)
-
-**[🆕 mysql_genius: 新项目](https://github.com/antarr/mysql_genius)**
-
-⭐ 6 star (新项目) · Ruby · 无描述
-
-📅 2026-04-08T16:28:18Z
-
----
-
-### GitHub New (New AI)
-![🆕 ai-prompt-simulation ：一个专业的Python框架，用于测试提示强度、质量和真正的自主代理有效性。](https://avatars.githubusercontent.com/u/88625958?v=4)
-
-**[🆕 ai-prompt-simulation ：一个专业的Python框架，用于测试提示强度、质量和真正的自主代理有效性。](https://github.com/zaber-dev/ai-prompt-simulation)**
-
-⭐ 3 star (新项目) · Python · A professional Python framework for testing prompt strength, quality, and real autonomous-agent effectiveness
-
-📅 2026-04-08T05:20:03Z
-
----
-
 ## 💬 社交动态
+
+### Hacker News AI
+**[人工智能可以成为“上帝的孩子”吗？在Anthropic与基督教领袖的会面中](https://www.washingtonpost.com/technology/2026/04/11/anthropic-christians-claude-morals/)**
+
+文章网址： https://wwwcom/technology/2026/04/11/**Anthropic**-christians-**Claude**-morals/评论网址： https://**new**s
+
+📅 Sat, 11 Apr 2026 22:46:46 +0000
+
+---
+
+### Hacker News AI
+**[神话发布后，人工智能正在向黑客倾斜](https://www.nbcnews.com/tech/security/anthropic-claude-mythos-ai-hackers-cybersecurity-vulnerabilities-rcna273673)**
+
+文章网址： https://wwwcom/tech/security/**Anthropic**-**Claude**-mythos-ai-hackers-cybersecurity-vulnerabilities-rcna273673评论网址： https://**new**s
+
+📅 Sat, 11 Apr 2026 21:20:21 +0000
+
+---
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-04-11T15:36:19.262Z
+📅 2026-04-11T23:35:22.013Z
 
 ---
 
@@ -336,16 +350,16 @@ YouTube提及与Chat**GPT**中的人工智能可见性具有“**最强**的相�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-04-11T15:37:38.356Z
+📅 2026-04-11T23:36:40.954Z
 
 ---
 
-### Hacker News
-**[Cirrus Labs加入OpenAI](https://cirruslabs.org/)**
+### Hacker News AI
+**[Bessent紧急召集银行首席执行官讨论Anthropic的新人工智能](https://www.youtube.com/watch?v=B2WsfcwfEgs)**
 
-文章网址： https://cirruslabsorg/评论网址： https://**new**s
+文章网址： https://wwwv = B2WsfcwfEgs评论网址： https://**new**s
 
-📅 Sat, 11 Apr 2026 13:01:34 +0000
+📅 Sat, 11 Apr 2026 22:28:32 +0000
 
 ---
 
@@ -354,7 +368,7 @@ YouTube提及与Chat**GPT**中的人工智能可见性具有“**最强**的相�
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-04-11T15:36:19.262Z
+📅 2026-04-11T23:35:22.013Z
 
 ---
 
@@ -363,7 +377,7 @@ Title: 520: Web服务器返回未知错误
 
 警告：目标URL返回错误520 ：
 
-📅 2026-04-11T15:36:19.262Z
+📅 2026-04-11T23:35:22.013Z
 
 ---
 
@@ -372,25 +386,7 @@ Title: 520: Web服务器返回未知错误
 
 Markdown 内容
 
-📅 2026-04-11T15:36:19.262Z
-
----
-
-### X: OpenAI
-**[# twitter.com | 520 ： Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-# twitter.com | 520 ： Web服务器返回未知错误
-
-📅 2026-04-11T15:36:19.262Z
-
----
-
-### X: Sam Altman
-**[网址来源： http://twitter.com/sama](https://r.jina.ai/http://twitter.com/sama)**
-
-网址来源： http://twitter.com/sama
-
-📅 2026-04-11T15:36:34.936Z
+📅 2026-04-11T23:35:22.013Z
 
 ---
 
