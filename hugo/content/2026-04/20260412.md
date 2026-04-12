@@ -1,12 +1,12 @@
 ---
 title: "2026年4月12日 - TZ日报"
-date: 2026-04-12T15:41:34.006Z
+date: 2026-04-12T23:39:36.578Z
 draft: false
 ---
 
 # 2026年4月12日 - TZ日报
 
-> 📊 今日汇总 33 条 · 🕐 2026/4/12 15:41:34
+> 📊 今日汇总 33 条 · 🕐 2026/4/12 23:39:36
 
 ---
 
@@ -46,24 +46,6 @@ draft: false
 **OpenAI**在跟踪和骚扰他的前女友时忽略了三项关于Chat**GPT**用户是危险的警告—包括其自己的大规模伤亡标志—新的诉讼声称
 
 📅 Fri, 10 Apr 2026 16:41:34 +0000
-
----
-
-### TechCrunch AI Products
-**[ChatGPT终于推出了每月$ 100的专业版套餐](https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/)**
-
-**OpenAI**周四宣布了高级用户一直在要求的东西：每月$ 100的计划之前，订阅从每月$ 20跃升至每月$ 200
-
-📅 Thu, 09 Apr 2026 21:29:11 +0000
-
----
-
-### TechCrunch AI Products
-**[Florida AG宣布调查OpenAI涉嫌涉及ChatGPT的枪击事件](https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/)**
-
-据报道， Chat**GPT**曾被用来策划去年4月在佛罗里达州立大学造成两人死亡、五人受伤的袭击事件。一名受害者的家人表示，他们计划就此事件起诉**OpenAI**
-
-📅 Thu, 09 Apr 2026 20:11:55 +0000
 
 ---
 
@@ -112,6 +94,24 @@ draft: false
 
 ---
 
+### OpenAI Blog
+**[使用技能](https://openai.com/academy/skills)**
+
+了解如何创建和使用Chat**GPT**技能来构建可重用的工作流程，自动执行重复任务，并确保一致、高质量的输出
+
+📅 Fri, 10 Apr 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[使用ChatGPT写作](https://openai.com/academy/writing)**
+
+了解如何使用Chat**GPT**撰写内容，以清晰的结构、语气和意图起草、修改和细化内容
+
+📅 Fri, 10 Apr 2026 00:00:00 GMT
+
+---
+
 ## 🔬 前沿研究
 
 ### Science AI
@@ -154,17 +154,6 @@ draft: false
 
 ---
 
-### VentureBeat
-![OpenAI推出ChatGPT Pro $ 100等级，与Plus相比， Codex的使用限制为5倍](https://images.ctfassets.net/jdtwqhzvc2n1/6uVTE16gVLv4XRlDrOmhO8/ddd73f327394bbdce9e8ac05e7114f06/ChatGPT_Image_Apr_9__2026__06_14_45_PM.png?w=300&q=30)
-
-**[OpenAI推出ChatGPT Pro $ 100等级，与Plus相比， Codex的使用限制为5倍](https://venturebeat.com/orchestration/openai-introduces-chatgpt-pro-usd100-tier-with-5x-usage-limits-for-codex)**
-
-针对使用Chat**GPT**和相关**OpenAI**产品的个人的Plus （每月20美元）和现有PRO （每月200美元）计划**OpenAI**在X上的官方公司账号指出， “我们正在重新平衡[Chat**GPT**] Plus中的Codex使用情况，以支持一周内的更多会话
-
-📅 Thu, 09 Apr 2026 23:07:00 GMT
-
----
-
 ### Ars Technica
 **[人工智能模型在押注足球方面很糟糕，尤其是xAI Grok](https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/)**
 
@@ -182,28 +171,6 @@ draft: false
 18个月前，全世界都知道了“Chat**GPT**”这个词，微软**推出**了与一个名为**OpenAI**的非营利组织合作的第一个产品：一个名为GitHub Copilot的工具，该工具可以监视开发人员编写代码并尝试自动完成代码片段和行...阅读The Verge的完整故事
 
 📅 2026-04-12T12:00:00.000Z
-
----
-
-### VentureBeat
-![Mythos自主利用了经过27年人工审查的漏洞。安全团队需要新的检测手册](https://images.ctfassets.net/jdtwqhzvc2n1/6U30KdpUttFqCNrnyaxxpJ/35987bc5f4459240fe7195e361f84706/Anthropic_Mythos_Hero.png?w=300&q=30)
-
-**[Mythos自主利用了经过27年人工审查的漏洞。安全团队需要新的检测手册](https://venturebeat.com/security/mythos-detection-ceiling-security-teams-new-playbook)**
-
-发现该漏洞花费了单个**Anthropic**发现活动约$ 20,000 **Anthropic**的**Claude** Mythos Preview发现了它
-
-📅 Thu, 09 Apr 2026 18:30:00 GMT
-
----
-
-### The Verge
-![谷歌最新的Nest门铃刚刚触及今年的最低价格](https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Google-Nest-Doorbell-battery.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[谷歌最新的Nest门铃刚刚触及今年的最低价格](https://www.theverge.com/gadgets/910472/google-nest-doorbell-wired-battery-powered-deal-sale)**
-
-谷歌的电池供电Nest Doorbell是自12月以来最便宜的谷歌提供一些最好的，现在，其电池供电的第二代Nest Doorbell售价为$ 129
-
-📅 2026-04-11T15:00:00.000Z
 
 ---
 
@@ -227,36 +194,43 @@ draft: false
 
 ---
 
+### Ars Technica
+**[微软“对Windows质量的承诺”始于对测试计划的大修](https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features/)**
+
+Windows预览体验内部版本仍然令人困惑，但它们应该更具可预测性。
+
+📅 Fri, 10 Apr 2026 18:00:44 +0000
+
+---
+
+### ZDNet AI
+**[30 $的谷歌电视棒可能是我们一直在等待的预算Chromecast继任者](https://www.zdnet.com/article/walmarts-4k-chromecast-replacement/)**
+
+沃尔玛的下一个流媒体设备可能正是Chromecast粉丝一直渴望的东西
+
+📅 Sun, 12 Apr 2026 00:00:00 GMT
+
+---
+
+### The Verge
+![谷歌表示，出现在新闻中的Polymarket投注是一个“错误”](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_Google_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[谷歌表示，出现在新闻中的Polymarket投注是一个“错误”](https://www.theverge.com/tech/910691/google-news-polymarket-bets-error)**
+
+Polymarket投注开始在**Google**新闻中与合法新闻文章一起出现发言人Ned Adriance告诉The Verge ， “**Google**新闻旨在显示创建有关当前问题的内容的来源
+
+📅 2026-04-11T15:07:47.000Z
+
+---
+
 ## 📦 GitHub热门
-
-### GitHub Active (AI/ML)
-![AIGC-Interview-Book: 【三年面试五年模拟】AIGC算法工程师面试秘籍。涵盖AIGC、LLM大模型、AI Agent、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。](https://avatars.githubusercontent.com/u/48612300?v=4)
-
-**[AIGC-Interview-Book: 【三年面试五年模拟】AIGC算法工程师面试秘籍。涵盖AIGC、LLM大模型、AI Agent、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。](https://github.com/WeThinkIn/AIGC-Interview-Book)**
-
-⭐ 3,458 star · 381 fork · N/A · 【三年面试五年模拟】AIGC算法工程师面试秘籍涵盖AIGC、LLM大模型、AI Agent、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识
-
-📅 2026-04-12T15:40:02Z
-
----
-
-### GitHub Active (AI/ML)
-![spiceai ：用Rust编写的便携式加速SQL查询、搜索和LLM推理引擎，适用于基于数据的AI应用程序和代理。](https://avatars.githubusercontent.com/u/73862742?v=4)
-
-**[spiceai ：用Rust编写的便携式加速SQL查询、搜索和LLM推理引擎，适用于基于数据的AI应用程序和代理。](https://github.com/spiceai/spiceai)**
-
-869星· 183分叉· Rust ·针对基于数据的AI应用和代理的便携式加速SQL查询
-
-📅 2026-04-12T15:36:50Z
-
----
 
 ### GitHub New (New AI)
 ![🆕 TED ：一个开源的自主人工智能代理，它可以获得一个Linux盒子，并做任何它想做的事情。](https://avatars.githubusercontent.com/u/226029267?v=4)
 
 **[🆕 TED ：一个开源的自主人工智能代理，它可以获得一个Linux盒子，并做任何它想做的事情。](https://github.com/aaravriyer193/TED)**
 
-⭐ 8 star (新项目) · HTML · An open-source autonomous AI agent that gets a Linux box and does whatever it wants
+⭐ 9 star (新项目) · HTML · An open-source autonomous AI agent that gets a Linux box and does whatever it wants
 
 📅 2026-04-10T11:17:48Z
 
@@ -273,41 +247,36 @@ draft: false
 
 ---
 
+### GitHub New (New AI)
+![🆕 asi-build ：人工超级智能的统一框架— 29个模块， 4,355多个测试， 215K个位置。意识·认知黑板· ZK桥梁·知识图谱·因果推理·联合学习· BCI ·刺激神经网络·量子混合](https://avatars.githubusercontent.com/u/194904888?v=4)
+
+**[🆕 asi-build ：人工超级智能的统一框架— 29个模块， 4,355多个测试， 215K个位置。意识·认知黑板· ZK桥梁·知识图谱·因果推理·联合学习· BCI ·刺激神经网络·量子混合](https://github.com/web3guru888/asi-build)**
+
+⭐ 2 star (新项目) · Python · Unified framework for artificial superintelligence — 29 modules, 4,355+ tests, 215K LOCConsciousness · Cognitive Blackboard · ZK Bridge · Knowledge Graphs · Causal Inference · Federated Learning · BCI · Spiking Neural Nets · Quantum Hybrid
+
+📅 2026-04-11T02:47:50Z
+
+---
+
+### GitHub New (New AI)
+![🆕 iso-42001-ai-governance-toolkit ： ISO/IEC 42001: 2023人工智能管理系统的实用实施工具包— GAP评估清单、风险登记册模板、控制映射和GRC专业人员和人工智能治理从业人员的实施路线图。](https://avatars.githubusercontent.com/u/59285026?v=4)
+
+**[🆕 iso-42001-ai-governance-toolkit ： ISO/IEC 42001: 2023人工智能管理系统的实用实施工具包— GAP评估清单、风险登记册模板、控制映射和GRC专业人员和人工智能治理从业人员的实施路线图。](https://github.com/Ankit-Uniyal/iso-42001-ai-governance-toolkit)**
+
+⭐ 2 star (新项目) · Python · A practical implementation toolkit for ISO/IEC 42001:2023 AI Management Systems — gap assessment checklistsand implementation roadmap for GRC professionals and AI governance practitioners
+
+📅 2026-04-10T18:49:22Z
+
+---
+
 ## 💬 社交动态
 
 ### Hacker News AI
-**[问问HN ：人工智能公司做了哪些我们忘记了的坏事](https://news.ycombinator.com/item?id=47739653)**
+**[超过4,732条消息，他爱上了人工智能聊天机器人。现在他死了](https://www.wsj.com/tech/ai/google-gemini-jonathan-gavalas-death-07351ab2)**
 
-**Claude**代码软件泄露（ **Anthropic** ） X/Grok产生未经同意的deepfakes问题（ XAI ） **OpenAI**与军事和背后刺杀的交易基本上，现在正在推动新的法律**DeepSeek**在首次**发布**时在其网站上高度优先地为您提供答案如果您说习近平想要这项工作（猜测式的） ，我希望人们能够提供更多关于它的例子，我希望编制一个列表并就此进行讨论
+文章网址： https://wwwcom/tech/ai/**Google**-**Gemini**-jonathan-gavalas-death-07351ab2评论网址： https://**new**s
 
-📅 Sun, 12 Apr 2026 13:51:33 +0000
-
----
-
-### Hacker News
-**[告诉HN ： OpenAI已从ChatGPT中静默删除研究模式](https://news.ycombinator.com/item?id=47739305)**
-
-希望它很快就会回来，因为我真的很喜欢它Comments URL: https://**new**s
-
-📅 Sun, 12 Apr 2026 13:20:58 +0000
-
----
-
-### Hacker News
-**[尽管使用量适中， Pro Max 5x配额在1.5小时内耗尽](https://github.com/anthropics/claude-code/issues/45756)**
-
-文章网址： https://githubcom/**Anthropic**s/**Claude**-code/issues/45756评论网址： https://**new**s
-
-📅 Sun, 12 Apr 2026 13:15:31 +0000
-
----
-
-### Hacker News AI
-**[问HN ：你能否立即停止使用人工智能？](https://news.ycombinator.com/item?id=47740914)**
-
-我有点担心我的AI使用情况如果Chat**GPT** （我个人项目的主要AI代理）变得更昂贵或被削弱
-
-📅 Sun, 12 Apr 2026 15:32:35 +0000
+📅 Sun, 12 Apr 2026 21:24:45 +0000
 
 ---
 
@@ -316,7 +285,7 @@ draft: false
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-04-12T15:38:59.966Z
+📅 2026-04-12T23:36:35.240Z
 
 ---
 
@@ -325,25 +294,52 @@ draft: false
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-04-12T15:39:52.145Z
+📅 2026-04-12T23:37:54.755Z
+
+---
+
+### Hacker News
+**[Google从Google Play中删除了“Doki Doki文学俱乐部”](https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t)**
+
+文章网址： https://bskycom/post/3mj3r4nbiws2t评论网址： https://**new**s
+
+📅 Sun, 12 Apr 2026 19:53:08 +0000
+
+---
+
+### Hacker News AI
+**[TokenMonopoly – Claude Max定价过高；比较AI订阅](https://tokenmonopoly.com)**
+
+文章网址： https://tokenmonopolycom评论网址： https://**new**s
+
+📅 Sun, 12 Apr 2026 21:10:51 +0000
 
 ---
 
 ### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[Title: twitter.com](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-Title: 520: Web服务器返回未知错误
+Title: twitter.com
 
-📅 2026-04-12T15:38:59.966Z
+📅 2026-04-12T23:36:35.240Z
 
 ---
 
 ### X: OpenAI
-**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[警告：目标URL返回错误500 ：内部服务器错误](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-警告：目标URL返回错误520 ：
+警告：目标URL返回错误500 ：内部服务器错误
 
-📅 2026-04-12T15:38:59.966Z
+📅 2026-04-12T23:36:35.240Z
+
+---
+
+### X: OpenAI
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Markdown 内容
+
+📅 2026-04-12T23:36:35.240Z
 
 ---
 
