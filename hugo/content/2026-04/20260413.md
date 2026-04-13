@@ -1,12 +1,12 @@
 ---
 title: "2026年4月13日 - TZ日报"
-date: 2026-04-13T16:18:30.454Z
+date: 2026-04-13T23:47:11.839Z
 draft: false
 ---
 
 # 2026年4月13日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/4/13 16:18:30
+> 📊 今日汇总 38 条 · 🕐 2026/4/13 23:47:11
 
 ---
 
@@ -41,20 +41,20 @@ Cloudflare将**OpenAI**的**GPT**-54和Codex引入Agent Cloud ，使企业能够
 ---
 
 ### TechCrunch AI Products
-**[Anthropic暂时禁止OpenClaw的创建者访问Claude](https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/)**
+**[微软正在开发另一个类似OpenClaw的代理](https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/)**
 
-这项禁令是在**Claude**上周更改OpenClaw用户的定价后发生的。
+新功能将面向企业客户，比著名的风险**开源**OpenClaw代理具有更好的安全控制
 
-📅 Fri, 10 Apr 2026 20:27:52 +0000
+📅 Mon, 13 Apr 2026 19:05:19 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[跟踪受害者起诉OpenAI ，声称ChatGPT助长了施虐者的妄想，无视她的警告](https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/)**
+**[随着人工智能代理商推动收入激增， Vercel首席执行官Guillermo Rauch发出IPO准备就绪的信号](https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/)**
 
-**OpenAI**在跟踪和骚扰他的前女友时忽略了三项关于Chat**GPT**用户是危险的警告—包括其自己的大规模伤亡标志—新的诉讼声称
+虽然许多在Chat**GPT**出现之前成立的初创公司都在努力为人工智能时代定位，但受益于人工智能生成的应用程序和代理的爆炸式增长
 
-📅 Fri, 10 Apr 2026 16:41:34 +0000
+📅 Mon, 13 Apr 2026 15:22:29 +0000
 
 ---
 
@@ -86,11 +86,11 @@ Cloudflare将**OpenAI**的**GPT**-54和Codex引入Agent Cloud ，使企业能够
 ---
 
 ### TechCrunch AI Products
-**[随着人工智能代理商推动收入激增， Vercel首席执行官Guillermo Rauch发出IPO准备就绪的信号](https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/)**
+**[斯坦福报告强调了人工智能内部人士与其他人之间日益增长的脱节](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)**
 
-Rauch在HumanX大会上谈到IPO时说： “公司已经做好了准备，并为每一天做好了更多准备。”
+斯坦福大学最新的人工智能指数显示，专家与公众之间的差距日益扩大，对就业、医疗保健和经济的焦虑日益加剧
 
-📅 Mon, 13 Apr 2026 15:22:29 +0000
+📅 Mon, 13 Apr 2026 18:55:37 +0000
 
 ---
 
@@ -189,33 +189,24 @@ Rauch在HumanX大会上谈到IPO时说： “公司已经做好了准备，并�
 ## 🌍 行业展望
 
 ### VentureBeat
-![AI代理凭据与不受信任的代码位于同一个盒子中。两个新架构显示了爆炸半径的实际停止位置。](https://images.ctfassets.net/jdtwqhzvc2n1/35u1BcqPcGPsUcDOjxBtIh/fb7d22c10100687068f227c644d2e297/zero_trust_hero.png?w=300&q=30)
+![Anthropic是否在“削弱” Claude ？随着领导者的反击，用户越来越多地报告绩效下降](https://images.ctfassets.net/jdtwqhzvc2n1/1jSNP91rl8Ww79tLt9WiLg/d9a8da5cf84f328a95105adfec4ff688/Gemini_Generated_Image_63c1cq63c1cq63c1.png?w=300&q=30)
 
-**[AI代理凭据与不受信任的代码位于同一个盒子中。两个新架构显示了爆炸半径的实际停止位置。](https://venturebeat.com/security/ai-agent-zero-trust-architecture-audit-credential-isolation-anthropic-nvidia-nemoclaw)**
+**[Anthropic是否在“削弱” Claude ？随着领导者的反击，用户越来越多地报告绩效下降](https://venturebeat.com/technology/is-anthropic-nerfing-claude-users-increasingly-report-performance)**
 
-微软的Vasu Jakkal告诉与会者，零信任必须扩展到AIT模型原因，调用工具，执行生成的代码，并在一个过程中持有凭据
+越来越多的开发人员和人工智能高级用户正在社交媒体上指责**Anthropic**降低了**Claude** Opus 4更多中端Chat**GPT**订阅的性能，以努力提高该工具的使用率—这肯定不是那种有利于**Anthropic**或其客户保留的宣传
 
-📅 Fri, 10 Apr 2026 22:26:53 GMT
-
----
-
-### Ars Technica
-**[人工智能模型在押注足球方面很糟糕，尤其是xAI Grok](https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/)**
-
-来自谷歌、**OpenAI**、**Anthropic**和xAI的系统在英超联赛中挣扎。
-
-📅 Sat, 11 Apr 2026 11:15:17 +0000
+📅 Mon, 13 Apr 2026 17:11:31 GMT
 
 ---
 
-### VentureBeat
-![Intuit将数月的税法实施时间压缩为数小时—并构建了任何受监管行业团队都可以适应的工作流程](https://images.ctfassets.net/jdtwqhzvc2n1/6B3W5NVKiHfs0041gAHmty/091b174e5bac4070f7551204014de6d0/turbotax-ai-smk.jpg?w=300&q=30)
+### The Verge
+![阅读OpenAI关于击败竞争对手的最新内部备忘录—包括Anthropic](https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[Intuit将数月的税法实施时间压缩为数小时—并构建了任何受监管行业团队都可以适应的工作流程](https://venturebeat.com/data/intuit-compressed-months-of-tax-code-implementation-into-hours-and-built-a)**
+**[阅读OpenAI关于击败竞争对手的最新内部备忘录—包括Anthropic](https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic)**
 
-这些任务由Chat**GPT**处理，通用LLMs**Claude**成为翻译和依赖关系映射工作的主要工具
+OpenAI**发布**了一份报告，详细介绍了人们如何使用Chat**GPT**以及他们是谁|图片： The Verge **OpenAI**的首席营收官
 
-📅 Fri, 10 Apr 2026 22:09:14 GMT
+📅 2026-04-13T16:21:08.000Z
 
 ---
 
@@ -238,6 +229,15 @@ Rauch在HumanX大会上谈到IPO时说： “公司已经做好了准备，并�
 ---
 
 ### Ars Technica
+**[谷歌将Rust引入Pixel 10调制解调器，使旧代码更安全](https://arstechnica.com/gadgets/2026/04/google-shoehorned-rust-into-pixel-10-modem-to-make-legacy-code-safer/)**
+
+蜂窝调制解调器是传统代码的复杂黑匣子，但谷歌正在使用Rust使它们更安全。
+
+📅 Mon, 13 Apr 2026 21:12:51 +0000
+
+---
+
+### Ars Technica
 **[Meta推出人工智能版马克·扎克伯格与员工互动](https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-zuckerberg-to-engage-with-employees/)**
 
 **Meta**负责人亲自参与训练和测试他的动画AI。
@@ -255,27 +255,47 @@ Rauch在HumanX大会上谈到IPO时说： “公司已经做好了准备，并�
 
 ---
 
-### The Verge
-![微软正在为365 Copilot测试类似OpenClaw的人工智能机器人](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB382_OPEN_CLAW_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### TechCrunch
+**[微软将在下个月正式关闭其Outlook Lite应用程序](https://techcrunch.com/2026/04/13/microsoft-is-officially-killing-its-outlook-lite-app-next-month/)**
 
-**[微软正在为365 Copilot测试类似OpenClaw的人工智能机器人](https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses)**
+2022年**推出**专为存储空间有限的安卓手机和互联网连接速度较慢的地区设计
 
-微软公司副总裁“OpenClaw是一个**开源**平台，允许用户创建在用户设备上本地运行的AI驱动代理
-
-📅 2026-04-13T15:41:09.000Z
+📅 Mon, 13 Apr 2026 20:59:12 +0000
 
 ---
 
 ## 📦 GitHub热门
 
+### GitHub Active (AI/ML)
+![tensorflow ：面向所有人的开源机器学习框架](https://avatars.githubusercontent.com/u/15658638?v=4)
+
+**[tensorflow ：面向所有人的开源机器学习框架](https://github.com/tensorflow/tensorflow)**
+
+⭐ 194,699星· 75279叉· C + + ·面向所有人的**开源**机器学习框架
+
+📅 2026-04-13T23:45:10Z
+
+---
+
 ### GitHub Active (Python)
-![google-cloud-python ： Google Cloud Client Libraries for Python](https://avatars.githubusercontent.com/u/16785467?v=4)
+![oNYX ：开源人工智能平台-具有高级功能的人工智能聊天，适用于每个LLM](https://avatars.githubusercontent.com/u/131946000?v=4)
 
-**[google-cloud-python ： Google Cloud Client Libraries for Python](https://github.com/googleapis/google-cloud-python)**
+**[oNYX ：开源人工智能平台-具有高级功能的人工智能聊天，适用于每个LLM](https://github.com/onyx-dot-app/onyx)**
 
-⭐ 5262星· 1663分叉· Python ·适用于Python的**Google** Cloud客户端库
+⭐ 26,941星· 3578分叉· Python ·**开源**人工智能平台-具有高级功能的人工智能聊天，适用于每个LLM
 
-📅 2026-04-13T16:17:12Z
+📅 2026-04-13T23:45:21Z
+
+---
+
+### GitHub Active (AI/ML)
+![pyod ：一个Python库，用于跨表格、时间序列、图形、文本和图像数据的异常检测。60多个检测器、基准支持的ADEngine编排以及人工智能代理的代理工作流程。](https://avatars.githubusercontent.com/u/15079146?v=4)
+
+**[pyod ：一个Python库，用于跨表格、时间序列、图形、文本和图像数据的异常检测。60多个检测器、基准支持的ADEngine编排以及人工智能代理的代理工作流程。](https://github.com/yzhao062/pyod)**
+
+⭐ 9,781星· 1463分叉· Python · Python库，用于跨表格、时间序列、图形、文本和图像数据的异常检测60 +探测器、基准支持的ADEngine编排以及AI代理的代理工作流程
+
+📅 2026-04-13T23:42:24Z
 
 ---
 
@@ -290,36 +310,23 @@ Rauch在HumanX大会上谈到IPO时说： “公司已经做好了准备，并�
 
 ---
 
-### GitHub New (New AI)
-![🆕 awesome-ai-agents ：人工智能代理框架、平台、工具和资源的精选列表](https://avatars.githubusercontent.com/u/274989601?v=4)
-
-**[🆕 awesome-ai-agents ：人工智能代理框架、平台、工具和资源的精选列表](https://github.com/oakeighty5/awesome-ai-agents)**
-
-⭐ 3 star (新项目) · N/A · A curated list of AI agent frameworks, platforms, tools, and resources
-
-📅 2026-04-11T03:10:27Z
-
----
-
-### GitHub New (New AI)
-![🆕 claude-code-staff-engineer ：在Claude Code中与子代理团队一起构建高级职员工程师](https://avatars.githubusercontent.com/u/63067900?v=4)
-
-**[🆕 claude-code-staff-engineer ：在Claude Code中与子代理团队一起构建高级职员工程师](https://github.com/FareedKhan-dev/claude-code-staff-engineer)**
-
-⭐ 2 star (新项目) · Shell · Building a Senior Staff Engineer with Sub-Agent Teams in **Claude** Code
-
-📅 2026-04-13T12:47:55Z
-
----
-
 ## 💬 社交动态
+
+### Hacker News
+**[N-Day-Bench - LLM能否在真实的代码库中发现真正的漏洞？](https://ndaybench.winfunc.com)**
+
+目前正在评估**GPT**-54 ， **Claude** Opus 4
+
+📅 Mon, 13 Apr 2026 21:54:03 +0000
+
+---
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-04-13T16:15:03.291Z
+📅 2026-04-13T23:44:05.067Z
 
 ---
 
@@ -328,7 +335,7 @@ Rauch在HumanX大会上谈到IPO时说： “公司已经做好了准备，并�
 
 标题： **DeepSeek** (@ **DeepSeek**_ai)/X
 
-📅 2026-04-13T16:16:25.662Z
+📅 2026-04-13T23:45:24.336Z
 
 ---
 
@@ -337,7 +344,7 @@ Rauch在HumanX大会上谈到IPO时说： “公司已经做好了准备，并�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-04-13T16:16:25.662Z
+📅 2026-04-13T23:45:24.336Z
 
 ---
 
@@ -346,34 +353,25 @@ Rauch在HumanX大会上谈到IPO时说： “公司已经做好了准备，并�
 
 【图片1 ：打开个人头像】（ https://pbscom/**DeepSeek**_ai/photo ）
 
-📅 2026-04-13T16:16:25.662Z
+📅 2026-04-13T23:45:24.336Z
 
 ---
 
 ### Hacker News
-**[Claude.ai down](https://status.claude.com/incidents/6jd2m42f8mld)**
+**[Show HN: Ithihāsas –印度史诗人物探险家，几个小时内建成](https://www.ithihasas.in)**
 
-**Claude**com/incidents/6jd2m42f8mld评论网址： https://**new**s
+这也是**Claude** CLII在几个小时内完成第一个版本的实验
 
-📅 Mon, 13 Apr 2026 15:41:08 +0000
-
----
-
-### Hacker News
-**[微软没有从Windows 11中删除Copilot ，只是将其重命名](https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/)**
-
-文章网址： https://wwwnet/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/评论网址： https://**new**s
-
-📅 Mon, 13 Apr 2026 13:48:24 +0000
+📅 Mon, 13 Apr 2026 19:10:07 +0000
 
 ---
 
 ### Hacker News AI
-**[查看您的网站在人工智能和谷歌中的排名](https://arlocmo.site)**
+**[告诉HN ：每次使用人工智能我都会后悔](https://news.ycombinator.com/item?id=47759065)**
 
-文章网址： https://arlocmosite评论网址： https://**new**s
+我是一个重构者，并非所有都是**Claude**s的错，但由于我的确有不好的经验，我逐行处理变更，老实说，我想我宁愿从一开始就做，然后审查变更，因为**Claude**做了一个不工作的奇怪的详细重构，对任何事情都没有帮助
 
-📅 Mon, 13 Apr 2026 15:54:43 +0000
+📅 Mon, 13 Apr 2026 23:00:10 +0000
 
 ---
 
@@ -382,7 +380,7 @@ Rauch在HumanX大会上谈到IPO时说： “公司已经做好了准备，并�
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-04-13T16:15:03.291Z
+📅 2026-04-13T23:44:05.067Z
 
 ---
 
