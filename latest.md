@@ -1,12 +1,12 @@
 ---
 title: "2026年4月14日 - TZ日报"
-date: 2026-04-14T16:13:03.029Z
+date: 2026-04-14T23:46:52.074Z
 draft: false
 ---
 
 # 2026年4月14日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/4/14 16:13:03
+> 📊 今日汇总 38 条 · 🕐 2026/4/14 23:46:52
 
 ---
 
@@ -23,11 +23,29 @@ draft: false
 ## ✨ 产品更新
 
 ### OpenAI Blog
+**[为下一个网络防御时代提供值得信赖的访问权限](https://openai.com/index/scaling-trusted-access-for-cyber-defense)**
+
+**OpenAI**扩展其网络可信访问计划，向经过审查的防御者引入**GPT**-54-Cyber ，并随着人工智能网络安全能力的提高而加强保护措施
+
+📅 Tue, 14 Apr 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
 **[企业通过OpenAI为Cloudflare Agent Cloud中的Agent工作流提供支持](https://openai.com/index/cloudflare-openai-agent-cloud)**
 
 Cloudflare将**OpenAI**的**GPT**-54和Codex引入Agent Cloud ，使企业能够快速、安全地构建、部署和扩展AI代理，以执行真实世界的任务
 
 📅 Mon, 13 Apr 2026 06:00:00 GMT
+
+---
+
+### TechCrunch AI Products
+**[谷歌将人工智能技能添加到Chrome浏览器，帮助您保存最喜爱的工作流程](https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/)**
+
+谷歌正在向Chrome浏览器添加“技能” ，允许用户跨网站保存和重复使用AI提示该功能基于**Gemini**的浏览器集成
+
+📅 Tue, 14 Apr 2026 17:00:00 +0000
 
 ---
 
@@ -70,6 +88,15 @@ Cloudflare将**OpenAI**的**GPT**-54和Codex引入Agent Cloud ，使企业能够
 ---
 
 ### TechCrunch AI Products
+**[Anthropic联合创始人确认该公司向特朗普政府简要介绍了Mythos](https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/)**
+
+在本周的Semafor世界经济峰会上接受采访时， **Anthropic**联合创始人Jack Clark解释了为什么该公司仍然与Ugovernment合作，同时起诉他们
+
+📅 Tue, 14 Apr 2026 18:09:12 +0000
+
+---
+
+### TechCrunch AI Products
 **[微软正在开发另一个类似OpenClaw的代理](https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/)**
 
 新功能将面向企业客户，比著名的风险**开源**OpenClaw代理具有更好的安全控制
@@ -84,33 +111,6 @@ Cloudflare将**OpenAI**的**GPT**-54和Codex引入Agent Cloud ，使企业能够
 虽然许多在Chat**GPT**出现之前成立的初创公司都在努力为人工智能时代定位，但受益于人工智能生成的应用程序和代理的爆炸式增长
 
 📅 Mon, 13 Apr 2026 15:22:29 +0000
-
----
-
-### TechCrunch AI Products
-**[特朗普官员可能正在鼓励银行测试Anthropic的神话模型](https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/)**
-
-该报告特别令人惊讶，因为国防部最近宣布**Anthropic**是供应链风险
-
-📅 Sun, 12 Apr 2026 21:14:38 +0000
-
----
-
-### TechCrunch AI Products
-**[在短短几周内， StrictlyVC San Francisco将TDK Ventures、Replit等公司的领导者聚集在一起](https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/)**
-
-今年的第一个StrictlyVC将在您不知不觉中来到旧金山还有一些门票可供加入我们和我们的堆叠扬声器阵容4月30日，所以今天就注册
-
-📅 Tue, 14 Apr 2026 15:30:49 +0000
-
----
-
-### TechCrunch AI Products
-**[Vibe编码应用程序如何从App Store启动两次后， Anything正在重建](https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/)**
-
-Anything计划在移除App Store后**推出**桌面配套应用程序，以帮助移动应用程序开发
-
-📅 Tue, 14 Apr 2026 14:22:44 +0000
 
 ---
 
@@ -202,6 +202,28 @@ Anything计划在移除App Store后**推出**桌面配套应用程序，以帮�
 ---
 
 ### VentureBeat
+![Anthropic的Claude Managed Agents为企业提供了新的一站式服务，但增加了供应商的“锁定”风险](https://images.ctfassets.net/jdtwqhzvc2n1/1fKuGA9n3RlokiEFHb1eSO/f1e85403250c2347f81bf28a127a6a50/crimedy7_illustration_of_ai_vendor_lock-in_abstrack_--ar_169__b11f785c-c6f8-40fd-aa62-9dd0fa6adc03_0.png?w=300&q=30)
+
+**[Anthropic的Claude Managed Agents为企业提供了新的一站式服务，但增加了供应商的“锁定”风险](https://venturebeat.com/orchestration/anthropics-claude-managed-agents-gives-enterprises-a-new-one-stop-shop-but)**
+
+**Anthropic**上周宣布了一个新平台，甚至在**Claude** Managed Agents**发布**之前
+
+📅 Tue, 14 Apr 2026 16:57:09 GMT
+
+---
+
+### VentureBeat
+![包括Demis Hassabis在内的谷歌领导者推翻了内部人工智能采用不均衡的说法](https://images.ctfassets.net/jdtwqhzvc2n1/8xVMYUcgko6r0u1PgFA16/553af163b930a1986bd6aab9d8758bbe/Gemini_Generated_Image_cwb2kxcwb2kxcwb2.png?w=300&q=30)
+
+**[包括Demis Hassabis在内的谷歌领导者推翻了内部人工智能采用不均衡的说法](https://venturebeat.com/orchestration/google-leaders-including-demis-hassabis-push-back-on-claim-of-uneven-ai-adoption-internally)**
+
+我们已联系谷歌征求意见，并在收到回复时**更新**他的朋友据称辩称，一些谷歌员工无法使用**Anthropic**的**Claude** Code ，因为它被诬陷为“敌人”
+
+📅 Tue, 14 Apr 2026 16:51:00 GMT
+
+---
+
+### VentureBeat
 ![Anthropic是否在“削弱” Claude ？随着领导者的反击，用户越来越多地报告绩效下降](https://images.ctfassets.net/jdtwqhzvc2n1/1jSNP91rl8Ww79tLt9WiLg/d9a8da5cf84f328a95105adfec4ff688/Gemini_Generated_Image_63c1cq63c1cq63c1.png?w=300&q=30)
 
 **[Anthropic是否在“削弱” Claude ？随着领导者的反击，用户越来越多地报告绩效下降](https://venturebeat.com/technology/is-anthropic-nerfing-claude-users-increasingly-report-performance)**
@@ -209,6 +231,24 @@ Anything计划在移除App Store后**推出**桌面配套应用程序，以帮�
 越来越多的开发人员和人工智能高级用户正在社交媒体上指责**Anthropic**降低了**Claude** Opus 4更多中端Chat**GPT**订阅的性能，以努力提高该工具的使用率—这肯定不是那种有利于**Anthropic**或其客户保留的宣传
 
 📅 Mon, 13 Apr 2026 17:11:31 GMT
+
+---
+
+### Wired Technology
+**[在人类神话的唤醒下， OpenAI有了新的网络安全模型和策略](https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/)**
+
+**OpenAI**表示，其保障措施目前“足以减少网络风险” ，而**GPT**-54-Cyber是一种新的以网络安全为重点的模式
+
+📅 Tue, 14 Apr 2026 20:00:17 +0000
+
+---
+
+### Wired Technology
+**[如何使用谷歌浏览器全新的人工智能“技能”](https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/)**
+
+通过Chrome浏览器中的**Gemini**侧边栏提供的预制技能包括最大限度地提高食谱中的蛋白质含量或总结YouTube视频的方法
+
+📅 Tue, 14 Apr 2026 17:00:00 +0000
 
 ---
 
@@ -221,89 +261,36 @@ Anything计划在移除App Store后**推出**桌面配套应用程序，以帮�
 
 ---
 
-### ZDNet AI
-**[我测试了ChatGPT Plus与Gemini Pro ，看看哪个更好，以及是否值得切换](https://www.zdnet.com/article/chatgpt-plus-vs-gemini-pro/)**
-
-考虑放弃Chat**GPT** Plus for **Gemini** ProHere ，人工智能名列前茅
-
-📅 Tue, 14 Apr 2026 02:00:00 GMT
-
----
-
-### The Verge
-![谷歌的人工智能水印系统是否进行了逆向工程？](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[谷歌的人工智能水印系统是否进行了逆向工程？](https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered)**
-
-一位软件开发人员声称对**Google** DeepMind的SynthID系统进行了逆向工程，声称只需要200张双子座生成的图像
-
-📅 2026-04-14T13:53:53.000Z
-
----
-
-### VentureBeat
-![Databricks针对其混合查询的多步代理测试了一个更强大的模型。较强的型号仍然损失了21%。](https://images.ctfassets.net/jdtwqhzvc2n1/67zWD4BorZFoyltqGXzV1O/94c41d56da0b69739197e37c2cab72e0/hybrid-reasoning-smk1.jpg?w=300&q=30)
-
-**[Databricks针对其混合查询的多步代理测试了一个更强大的模型。较强的型号仍然损失了21%。](https://venturebeat.com/data/databricks-research-shows-multi-step-agents-consistently-outperform-single)**
-
-构建人工智能代理的数据团队不断遇到相同的故障模式Databricks的新研究为该故障差距提供了一个数字
-
-📅 Tue, 14 Apr 2026 15:00:00 GMT
-
----
-
-### VentureBeat
-![43%的人工智能生成的代码更改需要在生产中进行调试，调查发现](https://images.ctfassets.net/jdtwqhzvc2n1/5nAHuSU7TlSixVhQbV3Zpy/f97f9591cd1d877db961dac2be53b6cc/nuneybits_Vector_art_of_developer_mopping_code_spill_dbcceaac-fb6e-4e63-90cf-5774d34a0f44.webp?w=300&q=30)
-
-**[43%的人工智能生成的代码更改需要在生产中进行调试，调查发现](https://venturebeat.com/technology/43-of-ai-generated-code-changes-need-debugging-in-production-survey-finds)**
-
-微软首席执行官萨蒂亚·纳德拉（ Satya Nadella ）和谷歌首席执行官桑达尔·皮查伊（ Sundar Pichai ）都声称，他们公司大约四分之一的代码现在是人工智能生成的，其AI SRE产品使用模型上下文协议连接在故障点生成实时诊断证据，而无需重新部署
-
-📅 Tue, 14 Apr 2026 13:00:00 GMT
-
----
-
 ### Ars Technica
-**[谷歌将Rust引入Pixel 10调制解调器，使旧代码更安全](https://arstechnica.com/gadgets/2026/04/google-shoehorned-rust-into-pixel-10-modem-to-make-legacy-code-safer/)**
+**[谷歌在Chrome中引入“技能” ，使双子座提示可以即时重复使用](https://arstechnica.com/google/2026/04/google-introduces-skills-in-chrome-to-make-gemini-prompts-instantly-reusable/)**
 
-蜂窝调制解调器是传统代码的复杂黑匣子，但谷歌正在使用Rust使它们更安全。
+您可以保存您认为有用的自定义提示，也可以从**Google**库中获取预制技能。
 
-📅 Mon, 13 Apr 2026 21:12:51 +0000
+📅 Tue, 14 Apr 2026 17:00:37 +0000
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub Active (Python)
-![learn-claude-code ： Bash是您所需要的一切-一个从0到1构建的纳米」克劳德代码式「代理线束](https://avatars.githubusercontent.com/u/189210346?v=4)
+### GitHub Active (AI/ML)
+![ray ： Ray是一个AI计算引擎。Ray由一个核心分布式运行时和一组用于加速ML工作负载的AI库组成。](https://avatars.githubusercontent.com/u/22125274?v=4)
 
-**[learn-claude-code ： Bash是您所需要的一切-一个从0到1构建的纳米」克劳德代码式「代理线束](https://github.com/shareAI-lab/learn-claude-code)**
+**[ray ： Ray是一个AI计算引擎。Ray由一个核心分布式运行时和一组用于加速ML工作负载的AI库组成。](https://github.com/ray-project/ray)**
 
-⭐ 53,281星· 8743叉· TypeScript · Bash是您所需要的-一个纳米克劳德代码般「的代理线束」，从0到1构建
+⭐ 42,120星· 7440分叉· Python · Ray是一个AI计算引擎Ray由一个核心分布式运行时和一组用于加速ML工作负载的AI库组成
 
-📅 2026-04-14T16:11:51Z
-
----
-
-### GitHub Active (Python)
-![PySimpleGUI ：人类的Python GUI ！ PySimpleGUI是最受欢迎的Python应用程序开发环境。2018年推出。2026年新推出- LGPL3版本6。将tkinter、Qt、WxPython和Remi转化为业余爱好者和专家用户的简单、直观和有趣的体验。](https://avatars.githubusercontent.com/u/46163555?v=4)
-
-**[PySimpleGUI ：人类的Python GUI ！ PySimpleGUI是最受欢迎的Python应用程序开发环境。2018年推出。2026年新推出- LGPL3版本6。将tkinter、Qt、WxPython和Remi转化为业余爱好者和专家用户的简单、直观和有趣的体验。](https://github.com/PySimpleGUI/PySimpleGUI)**
-
-于2018年**推出**NEW for 2026 - LGPL3第6版
-
-📅 2026-04-14T16:11:50Z
+📅 2026-04-14T23:45:39Z
 
 ---
 
 ### GitHub Active (Python)
-![polar ：将您的软件转变为企业。](https://avatars.githubusercontent.com/u/105373340?v=4)
+![zulip ： Zulip服务器和Web应用程序。开源团队聊天，帮助团队保持工作效率和专注力。](https://avatars.githubusercontent.com/u/4921959?v=4)
 
-**[polar ：将您的软件转变为企业。](https://github.com/polarsource/polar)**
+**[zulip ： Zulip服务器和Web应用程序。开源团队聊天，帮助团队保持工作效率和专注力。](https://github.com/zulip/zulip)**
 
-⭐ 9647星· 692叉·蟒蛇·将您的软件变成企业。
+⭐ 25,022星· 9781分叉· Python · Zulip服务器和Web应用程序**开源**团队聊天，帮助团队保持高效和专注
 
-📅 2026-04-14T16:11:46Z
+📅 2026-04-14T23:45:36Z
 
 ---
 
@@ -312,29 +299,31 @@ Anything计划在移除App Store后**推出**桌面配套应用程序，以帮�
 
 **[🆕 claude-code-staff-engineer ：在Claude Code中与子代理团队一起构建高级职员工程师](https://github.com/FareedKhan-dev/claude-code-staff-engineer)**
 
-⭐ 8 star (新项目) · Shell · Building a Senior Staff Engineer with Sub-Agent Teams in **Claude** Code
+⭐ 10 star (新项目) · Shell · Building a Senior Staff Engineer with Sub-Agent Teams in **Claude** Code
 
 📅 2026-04-13T12:47:55Z
 
 ---
 
-## 💬 社交动态
+### GitHub New (New AI)
+![🆕 awesome-ai-agents ：人工智能代理框架、平台、工具和资源的精选列表](https://avatars.githubusercontent.com/u/274989601?v=4)
 
-### Hacker News
-**[谷歌、微软、Meta都会跟踪您，即使您选择退出](https://www.404media.co/google-microsoft-meta-all-tracking-you-even-when-you-opt-out-according-to-an-independent-audit/)**
+**[🆕 awesome-ai-agents ：人工智能代理框架、平台、工具和资源的精选列表](https://github.com/oakeighty5/awesome-ai-agents)**
 
-文章网址： https://wwwco/**Google**-microsoft-**Meta**-all-tracking-you-even-when-you-opt-out-according-to-an-independent-audit/评论网址： https://**new**s
+⭐ 3 star (新项目) · N/A · A curated list of AI agent frameworks, platforms, tools, and resources
 
-📅 Tue, 14 Apr 2026 15:46:43 +0000
+📅 2026-04-11T03:10:27Z
 
 ---
+
+## 💬 社交动态
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-04-14T16:09:51.243Z
+📅 2026-04-14T23:43:57.782Z
 
 ---
 
@@ -343,7 +332,7 @@ Anything计划在移除App Store后**推出**桌面配套应用程序，以帮�
 
 标题： **DeepSeek** (@ **DeepSeek**_ai)/X
 
-📅 2026-04-14T16:11:15.074Z
+📅 2026-04-14T23:45:17.740Z
 
 ---
 
@@ -352,7 +341,7 @@ Anything计划在移除App Store后**推出**桌面配套应用程序，以帮�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-04-14T16:11:15.074Z
+📅 2026-04-14T23:45:17.740Z
 
 ---
 
@@ -361,34 +350,43 @@ Anything计划在移除App Store后**推出**桌面配套应用程序，以帮�
 
 【图片1 ：打开个人头像】（ https://pbscom/**DeepSeek**_ai/photo ）
 
-📅 2026-04-14T16:11:15.074Z
+📅 2026-04-14T23:45:17.740Z
 
 ---
 
 ### Hacker News
-**[Show HN ： Kontext CLI – Go中AI编码代理的凭据代理](https://github.com/kontext-dev/kontext-cli)**
+**[告诉HN ： Fiverr将客户文件公开并可搜索](https://news.ycombinator.com/item?id=47769796)**
 
-我们构建了Kontext CLI ，因为AI编码代理今天需要使用**Claude** Code访问GitHubWorks ， Codex支持即将**推出**
+因此，谷歌搜索结果中有数百个，其中许多包含PIIResponsible Disclosure Note （个人身份信息负责披露备注） --自从被通知到指定的漏洞电子邮件（ security @ fiverr
 
-📅 Tue, 14 Apr 2026 13:26:53 +0000
-
----
-
-### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Title: 520: Web服务器返回未知错误
-
-📅 2026-04-14T16:09:51.243Z
+📅 Tue, 14 Apr 2026 18:56:40 +0000
 
 ---
 
-### X: OpenAI
-**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Hacker News
+**[Claude Code例程](https://code.claude.com/docs/en/routines)**
 
-警告：目标URL返回错误520 ：
+**Claude**com/docs/en/routines评论网址： https://**new**s
 
-📅 2026-04-14T16:09:51.243Z
+📅 Tue, 14 Apr 2026 16:54:33 +0000
+
+---
+
+### Hacker News AI
+**[Meta创建Mark Zuckerberg的人工智能版本，以便员工可以与老板交谈](https://www.theguardian.com/technology/2026/apr/13/meta-ai-mark-zuckerberg-staff-talk-to-the-boss)**
+
+文章网址： https://wwwcom/technology/2026/apr/13/**Meta**-ai-mark-zuckerberg-staff-talk-to-the-boss评论网址： https://**new**s
+
+📅 Tue, 14 Apr 2026 23:30:01 +0000
+
+---
+
+### Hacker News AI
+**[Claude Code的消息来源揭示了人工智能工程文化](https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude)**
+
+文章网址： https://techtrenchesdev/p/the-snake-that-ate-itself-what-**Claude**评论网址： https://**new**s
+
+📅 Tue, 14 Apr 2026 22:27:53 +0000
 
 ---
 
