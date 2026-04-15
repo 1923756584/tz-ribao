@@ -1,12 +1,12 @@
 ---
 title: "2026年4月15日 - TZ日报"
-date: 2026-04-15T16:10:09.904Z
+date: 2026-04-15T23:45:59.196Z
 draft: false
 ---
 
 # 2026年4月15日 - TZ日报
 
-> 📊 今日汇总 37 条 · 🕐 2026/4/15 16:10:09
+> 📊 今日汇总 38 条 · 🕐 2026/4/15 23:45:59
 
 ---
 
@@ -16,7 +16,7 @@ draft: false
 - **前沿研究**: 8 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
-- **社交动态**: 7 条
+- **社交动态**: 8 条
 
 ---
 
@@ -52,20 +52,20 @@ Cloudflare将**OpenAI**的**GPT**-54和Codex引入Agent Cloud ，使企业能够
 ---
 
 ### TechCrunch AI Products
-**[Anthropic的崛起让一些OpenAI投资者重新考虑](https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/)**
+**[Google推出适用于Mac的原生Gemini应用程序](https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/)**
 
-一位支持两家公司的投资者告诉英国《金融时报》，为证明**OpenAI**最近一轮融资的合理性，需要假设IPO估值为$ 12万亿或以上—使**Anthropic**目前的$ 3800亿估值看起来像是相对便宜的
+您可以与**Gemini**分享他们屏幕上的任何内容，以获得有关他们当前正在查看的内容的帮助，包括本地文件
 
-📅 Wed, 15 Apr 2026 02:31:04 +0000
+📅 Wed, 15 Apr 2026 18:22:13 +0000
 
 ---
 
-### TechCrunch AI Products
-**[谷歌将人工智能技能添加到Chrome浏览器，帮助您保存最喜爱的工作流程](https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/)**
+### OpenAI Blog
+**[Agent SDK的下一次演进](https://openai.com/index/the-next-evolution-of-the-agents-sdk)**
 
-谷歌正在向Chrome浏览器添加“技能” ，允许用户跨网站保存和重复使用AI提示该功能基于**Gemini**的浏览器集成
+**OpenAI**通过原生沙盒执行和模型原生利用来**更新**Agent SDK ，帮助开发人员构建安全
 
-📅 Tue, 14 Apr 2026 17:00:00 +0000
+📅 Wed, 15 Apr 2026 10:00:00 GMT
 
 ---
 
@@ -90,11 +90,20 @@ Cloudflare将**OpenAI**的**GPT**-54和Codex引入Agent Cloud ，使企业能够
 ---
 
 ### TechCrunch AI Products
-**[Anthropic联合创始人确认该公司向特朗普政府简要介绍了Mythos](https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/)**
+**[OpenAI更新其代理SDK ，帮助企业构建更安全、更强大的代理](https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/)**
 
-在本周的Semafor世界经济峰会上接受采访时， **Anthropic**联合创始人Jack Clark解释了为什么该公司仍然与Ugovernment合作，同时起诉他们
+随着智能体AI的持续普及， **OpenAI**已经扩展了其智能体构建工具包的功能
 
-📅 Tue, 14 Apr 2026 18:09:12 +0000
+📅 Wed, 15 Apr 2026 19:28:36 +0000
+
+---
+
+### AI News
+**[针对不断上升的人工智能工作负载加强企业治理](https://www.artificialintelligence-news.com/news/strengthening-enterprise-governance-for-rising-edge-ai-workloads/)**
+
+像**Google** Gemma 4这样的模型正在增加CISO的企业AI治理挑战，因为他们争先恐后地保护边缘工作负载逻辑是[…]加强企业治理以应对不断上升的边缘AI工作负载首先出现在人工智能新闻上
+
+📅 Mon, 13 Apr 2026 13:02:01 +0000
 
 ---
 
@@ -106,15 +115,6 @@ Cloudflare将**OpenAI**的**GPT**-54和Codex引入Agent Cloud ，使企业能够
 Chrome浏览器中的技能可让您发现、保存和重新组合人工智能工作流程，并立即重复这些工作流程。
 
 📅 Tue, 14 Apr 2026 17:00:00 +0000
-
----
-
-### Hugging Face
-**[认识HCompany的HoloTab。您的AI浏览器伴侣。](https://huggingface.co/blog/Hcompany/holotab)**
-
-认识HCompany的HoloTab。您的AI浏览器伴侣。
-
-📅 Wed, 15 Apr 2026 09:25:20 GMT
 
 ---
 
@@ -195,18 +195,18 @@ Chrome浏览器中的技能可让您发现、保存和重新组合人工智能�
 ## 🌍 行业展望
 
 ### VentureBeat
-![微软推出更便宜、更快捷的人工智能图像模型MAI-Image-2-Efficient](https://images.ctfassets.net/jdtwqhzvc2n1/17szvygLbh5CP67yGHGlNG/7a78dac28a40f270d5d5ef636980f606/nuneybits_Vector_art_of_the_iconic_Microsoft_Windows_logo_on_a__d3fc862c-d081-4a53-86a0-8b31f591dd93.webp?w=300&q=30)
+![Frontier模型每三次生产尝试中就有一次失败—并且越来越难以审核](https://images.ctfassets.net/jdtwqhzvc2n1/4z68iLEpqAtIY5EAKVlov3/eda1e72826a8322c9042c0c5f1fe7726/AI_question.png?w=300&q=30)
 
-**[微软推出更便宜、更快捷的人工智能图像模型MAI-Image-2-Efficient](https://venturebeat.com/technology/microsoft-launches-mai-image-2-efficient-a-cheaper-and-faster-ai-image-model)**
+**[Frontier模型每三次生产尝试中就有一次失败—并且越来越难以审核](https://venturebeat.com/security/frontier-models-are-failing-one-in-three-production-attempts-and-getting-harder-to-audit)**
 
-这种方法反映了在整个人工智能行业中行之有效的定价策略— **OpenAI**的**GPT**模型层微软尚未回答的关于其新图像模型的几个**重要**问题仍未在今天的公告中得到解决
+包括**Claude** Opus 4 ”在内的顶级模型培训代码、参数计数、数据集大小和持续时间通常会被**OpenAI**、**Anthropic**和**Google**等公司扣留
 
-📅 Tue, 14 Apr 2026 16:00:00 GMT
+📅 Wed, 15 Apr 2026 19:35:32 GMT
 
 ---
 
 ### VentureBeat
-![Adobe的新Firefly AI助手希望从一个提示中运行Photoshop、Premiere、Illustrator等](https://images.ctfassets.net/jdtwqhzvc2n1/54hgOf2v64G0I5GTThr0l4/c3f65ee3d8279d04c8296e82710a3985/nuneybits_Vector_art_of_a_glossy_monitor_displaying_Adobe_suite_c0dc8886-2da1-42d0-9883-277e655ffa8c.webp?w=300&q=30)
+![Adobe的新Firefly AI助手希望从一个提示中运行Photoshop、Premiere、Illustrator等](https://images.ctfassets.net/jdtwqhzvc2n1/232aFndd9ByhThoweyPW9E/cc7b863d6e9a8b1024da68bbcb559e11/nuneybits_Vector_art_of_a_glossy_monitor_displaying_Adobe_suite_0a74cb83-7204-43f9-93b9-57aedd832850.webp?w=300&q=30)
 
 **[Adobe的新Firefly AI助手希望从一个提示中运行Photoshop、Premiere、Illustrator等](https://venturebeat.com/technology/adobes-new-firefly-ai-assistant-wants-to-run-photoshop-premiere-illustrator-and-more-from-one-prompt)**
 
@@ -216,131 +216,131 @@ Adobe于2023年3月首次**推出**Firefly ，作为一个专注于图像和文�
 
 ---
 
-### VentureBeat
-![Anthropic的Claude Managed Agents为企业提供了新的一站式服务，但增加了供应商的“锁定”风险](https://images.ctfassets.net/jdtwqhzvc2n1/1fKuGA9n3RlokiEFHb1eSO/f1e85403250c2347f81bf28a127a6a50/crimedy7_illustration_of_ai_vendor_lock-in_abstrack_--ar_169__b11f785c-c6f8-40fd-aa62-9dd0fa6adc03_0.png?w=300&q=30)
+### The Verge
+![百思买的终极升级促销提供数十种我们最喜爱的小工具的优惠](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0145.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[Anthropic的Claude Managed Agents为企业提供了新的一站式服务，但增加了供应商的“锁定”风险](https://venturebeat.com/orchestration/anthropics-claude-managed-agents-gives-enterprises-a-new-one-stop-shop-but)**
+**[百思买的终极升级促销提供数十种我们最喜爱的小工具的优惠](https://www.theverge.com/gadgets/911853/best-buy-ultimate-upgrade-sale-2026-tech-deals-apple)**
 
-**Anthropic**上周宣布了一个新平台，甚至在**Claude** Managed Agents**发布**之前
+甚至上个月**发布**的产品（包括谷歌的Pixel 10A和新的11英寸iPad Air ）也在销售，因此不仅仅是百思买（ 55英寸） AirPods Pro 3的旧设备99 AirPods Pro 3采用了新的设计，提高了它们的贴合度
 
-📅 Tue, 14 Apr 2026 16:57:09 GMT
-
----
-
-### VentureBeat
-![包括Demis Hassabis在内的谷歌领导者推翻了内部人工智能采用不均衡的说法](https://images.ctfassets.net/jdtwqhzvc2n1/8xVMYUcgko6r0u1PgFA16/553af163b930a1986bd6aab9d8758bbe/Gemini_Generated_Image_cwb2kxcwb2kxcwb2.png?w=300&q=30)
-
-**[包括Demis Hassabis在内的谷歌领导者推翻了内部人工智能采用不均衡的说法](https://venturebeat.com/orchestration/google-leaders-including-demis-hassabis-push-back-on-claim-of-uneven-ai-adoption-internally)**
-
-我们已联系谷歌征求意见，并在收到回复时**更新**他的朋友据称辩称，一些谷歌员工无法使用**Anthropic**的**Claude** Code ，因为它被诬陷为“敌人”
-
-📅 Tue, 14 Apr 2026 16:51:00 GMT
-
----
-
-### Ars Technica
-**[谷歌在Chrome中引入“技能” ，使双子座提示可以即时重复使用](https://arstechnica.com/google/2026/04/google-introduces-skills-in-chrome-to-make-gemini-prompts-instantly-reusable/)**
-
-您可以保存您认为有用的自定义提示，也可以从**Google**库中获取预制技能。
-
-📅 Tue, 14 Apr 2026 17:00:37 +0000
+📅 2026-04-15T17:04:34.000Z
 
 ---
 
 ### ZDNet AI
-**[最新的Google Home更新带来了Gemini修复，我很高兴能再试一次](https://www.zdnet.com/article/gemini-for-home-google-update-april-2026/)**
+**[我尝试了谷歌新的Windows桌面应用程序，我再也不会用旧的方式搜索了](https://www.zdnet.com/article/i-tried-googles-new-desktop-app/)**
 
-**Google** Home的最新**更新**应该会让您的双子座体验更加可靠查看这些其他改进和错误修复
+现在，该应用程序可供所有人使用，提供更快捷的方式访问**Gemini**、Lens和Search等工具查看为什么它完全值得下载
 
-📅 Wed, 15 Apr 2026 07:00:43 GMT
+📅 Wed, 15 Apr 2026 22:02:00 GMT
+
+---
+
+### The Verge
+![谷歌在Mac上推出Gemini AI应用](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Gemini-for-MacOS_03_Capsule-Image_16x9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[谷歌在Mac上推出Gemini AI应用](https://www.theverge.com/tech/912638/google-gemini-mac-app)**
+
+谷歌正在Mac上**推出**一款新的**Gemini**应用程序，让您无需切换桌面上的窗口即可与AI助手进行交互使用该应用程序，您可以使用Option + Space快捷方式拉起浮动聊天气泡，在那里您可以提出**Gemini**问题并共享您的窗口
+
+📅 2026-04-15T18:10:15.000Z
 
 ---
 
 ### VentureBeat
-![Databricks针对其混合查询的多步代理测试了一个更强大的模型。较强的型号仍然损失了21%。](https://images.ctfassets.net/jdtwqhzvc2n1/67zWD4BorZFoyltqGXzV1O/94c41d56da0b69739197e37c2cab72e0/hybrid-reasoning-smk1.jpg?w=300&q=30)
+![Microsoft修补了Copilot Studio提示注入。不管怎样，数据还是被窃取了。](https://images.ctfassets.net/jdtwqhzvc2n1/6QO34Fn3Ix5qFbnemAM3a5/6cf10a1a9ecd680e39c790c0733d16fd/HERO_CAPSULE.png?w=300&q=30)
 
-**[Databricks针对其混合查询的多步代理测试了一个更强大的模型。较强的型号仍然损失了21%。](https://venturebeat.com/data/databricks-research-shows-multi-step-agents-consistently-outperform-single)**
+**[Microsoft修补了Copilot Studio提示注入。不管怎样，数据还是被窃取了。](https://venturebeat.com/security/microsoft-salesforce-copilot-agentforce-prompt-injection-cve-agent-remediation-playbook)**
 
-构建人工智能代理的数据团队不断遇到相同的故障模式Databricks的新研究为该故障差距提供了一个数字
+Microsoft分配了CVE-2026-21520 ， CVSS 7 ”运行时强制模型Capsule与供应商提供的代理执行路径挂钩，包括Copilot St**Udio**的安全挂钩和**Claude** Code的工具使用前检查点，无需代理
 
-📅 Tue, 14 Apr 2026 15:00:00 GMT
+📅 Wed, 15 Apr 2026 20:58:42 GMT
 
 ---
 
 ### VentureBeat
-![43%的人工智能生成的代码更改需要在生产中进行调试，调查发现](https://images.ctfassets.net/jdtwqhzvc2n1/5nAHuSU7TlSixVhQbV3Zpy/f97f9591cd1d877db961dac2be53b6cc/nuneybits_Vector_art_of_developer_mopping_code_spill_dbcceaac-fb6e-4e63-90cf-5774d34a0f44.webp?w=300&q=30)
+![我们测试了Anthropic重新设计的Claude Code桌面应用程序和“例程” —以下是企业应了解的信息](https://images.ctfassets.net/jdtwqhzvc2n1/12umYKPQZfmAPEPq0WLKHq/76ddb1d31eb7449fb28d6ec34913b450/Gemini_Generated_Image_seqly9seqly9seql__1_.png?w=300&q=30)
 
-**[43%的人工智能生成的代码更改需要在生产中进行调试，调查发现](https://venturebeat.com/technology/43-of-ai-generated-code-changes-need-debugging-in-production-survey-finds)**
+**[我们测试了Anthropic重新设计的Claude Code桌面应用程序和“例程” —以下是企业应了解的信息](https://venturebeat.com/orchestration/we-tested-anthropics-redesigned-claude-code-desktop-app-and-routines-heres-what-enterprises-should-know)**
 
-微软首席执行官萨蒂亚·纳德拉（ Satya Nadella ）和谷歌首席执行官桑达尔·皮查伊（ Sundar Pichai ）都声称，他们公司大约四分之一的代码现在是人工智能生成的，其AI SRE产品使用模型上下文协议连接在故障点生成实时诊断证据，而无需重新部署
+Anthropic**发布**了双重版本，标志着这一转变：完全重新设计了**Claude** Code桌面应用程序（适用于Mac和Windows ） ，并在研究预览中**推出**了“例程”虽然**Claude** Code的终端版本提供了更广泛的移动范围，但桌面应用程序已针对**Anthropic**的模型进行了严格优化
 
-📅 Tue, 14 Apr 2026 13:00:00 GMT
+📅 Wed, 15 Apr 2026 18:40:00 GMT
+
+---
+
+### Wired Technology
+**[微软Surface PC价格大幅上涨，更便宜的型号正在消失](https://www.wired.com/story/microsoft-surface-price-hikes-cheaper-models-going-away/)**
+
+价格上涨幅度从$ 200到$ 300不等，微软不再销售低于$ 1,000的Surface消费者技术成本上涨是2026年的一个常见主题
+
+📅 Wed, 15 Apr 2026 17:28:30 +0000
 
 ---
 
 ## 📦 GitHub热门
-
-### GitHub Active (AI/ML)
-![变压器：🤗变压器：用于文本、视觉、音频和多模态模型中最先进的机器学习模型的模型定义框架，用于推理和训练。](https://avatars.githubusercontent.com/u/25720743?v=4)
-
-**[变压器：🤗变压器：用于文本、视觉、音频和多模态模型中最先进的机器学习模型的模型定义框架，用于推理和训练。](https://github.com/huggingface/transformers)**
-
-和用于推断和训练的多模态模型
-
-📅 2026-04-15T16:08:23Z
-
----
-
-### GitHub Active (AI/ML)
-![ray ： Ray是一个AI计算引擎。Ray由一个核心分布式运行时和一组用于加速ML工作负载的AI库组成。](https://avatars.githubusercontent.com/u/22125274?v=4)
-
-**[ray ： Ray是一个AI计算引擎。Ray由一个核心分布式运行时和一组用于加速ML工作负载的AI库组成。](https://github.com/ray-project/ray)**
-
-⭐ 42,138星· 7443分叉· Python · Ray是一个AI计算引擎Ray由一个核心分布式运行时和一组用于加速ML工作负载的AI库组成
-
-📅 2026-04-15T16:07:06Z
-
----
-
-### GitHub Active (AI/ML)
-![supabase-py:用于Supabase的Python客户端。从Flask、Django、FastAPI查询Postgres。Python用户身份验证、安全策略、边缘函数、文件存储和实时数据流。不错的第一期。](https://avatars.githubusercontent.com/u/54469796?v=4)
-
-**[supabase-py:用于Supabase的Python客户端。从Flask、Django、FastAPI查询Postgres。Python用户身份验证、安全策略、边缘函数、文件存储和实时数据流。不错的第一期。](https://github.com/supabase/supabase-py)**
-
-从Flask、Django、FastAPIGood首次**发布**查询Postgres
-
-📅 2026-04-15T16:08:31Z
-
----
 
 ### GitHub New (New AI)
 ![🆕 claude-code-staff-engineer ：在Claude Code中与子代理团队一起构建高级职员工程师](https://avatars.githubusercontent.com/u/63067900?v=4)
 
 **[🆕 claude-code-staff-engineer ：在Claude Code中与子代理团队一起构建高级职员工程师](https://github.com/FareedKhan-dev/claude-code-staff-engineer)**
 
-⭐ 11 star (新项目) · Shell · Building a Senior Staff Engineer with Sub-Agent Teams in **Claude** Code
+⭐ 12 star (新项目) · Shell · Building a Senior Staff Engineer with Sub-Agent Teams in **Claude** Code
 
 📅 2026-04-13T12:47:55Z
 
 ---
 
+### GitHub New (New AI)
+![🆕 CMB-Bubble-Collision-Detection ：基于Feeney等人的工作。，使用普朗克2018年全天发布的宇宙微波背景数据中检测气泡碰撞特征的深度学习管道。](https://avatars.githubusercontent.com/u/169184497?v=4)
+
+**[🆕 CMB-Bubble-Collision-Detection ：基于Feeney等人的工作。，使用普朗克2018年全天发布的宇宙微波背景数据中检测气泡碰撞特征的深度学习管道。](https://github.com/adainstarks/CMB-Bubble-Collision-Detection)**
+
+⭐ 3 star (新项目) · Python · Based on work by Feeney et al, A deep learning pipeline for detecting bubble collision signatures in Cosmic Microwave Background data using the Planck 2018 full sky **release**
+
+📅 2026-04-14T02:52:20Z
+
+---
+
+### GitHub New (New AI)
+![🆕 Awesome-AI-Tools-for-Developers-2026 ： Awesome AI Tools for Developers 2026是为现代开发人员精心策划的最佳AI工具、库和资源集合。探索编码、自动化、数据分析和生产力解决方案。借助强大的人工智能工具，随时了解最新趋势，提升工作流程。](https://avatars.githubusercontent.com/u/276336592?v=4)
+
+**[🆕 Awesome-AI-Tools-for-Developers-2026 ： Awesome AI Tools for Developers 2026是为现代开发人员精心策划的最佳AI工具、库和资源集合。探索编码、自动化、数据分析和生产力解决方案。借助强大的人工智能工具，随时了解最新趋势，提升工作流程。](https://github.com/praneethepical/Awesome-AI-Tools-for-Developers-2026)**
+
+⭐ 2 star (新项目) · N/A · Awesome AI Tools for Developers 2026 is a curated collection of the best AI toolsStay **update**d with the latest trends and boost your workflow with powerful AI tools
+
+📅 2026-04-15T16:28:25Z
+
+---
+
+### GitHub New (New AI)
+![🆕 AI-Resume-Builder ： AI Resume Builder是一款智能工具，可帮助您在几秒钟内创建专业的定制简历。只需粘贴职位描述，人工智能就会生成优化的内容，突出显示您的技能和经验。非常适合想要快速、有效和ATS友好的简历的求职者。](https://avatars.githubusercontent.com/u/276336592?v=4)
+
+**[🆕 AI-Resume-Builder ： AI Resume Builder是一款智能工具，可帮助您在几秒钟内创建专业的定制简历。只需粘贴职位描述，人工智能就会生成优化的内容，突出显示您的技能和经验。非常适合想要快速、有效和ATS友好的简历的求职者。](https://github.com/praneethepical/AI-Resume-Builder)**
+
+⭐ 2 star (新项目) · N/A · AI Resume Builder is a smart tool that helps you create professional, tailored resumes in secondsSimply paste a job description, and the AI generates optimized content that highlights your skills and experience
+
+📅 2026-04-15T16:09:45Z
+
+---
+
 ## 💬 社交动态
 
-### Hacker News AI
-**[Show HN ：我为DJ构建了一个AI音乐标注器，融合了元数据、音频DSP和ML](https://choon.app)**
+### Reddit: r/artificial
+**[Honest ChatGPT与Claude在每天使用两者一个月后的比较](https://www.reddit.com/r/artificial/comments/1smfssa/honest_chatgpt_vs_claude_comparison_after_using/)**
 
-项目从将轨道元数据提供给Chat**GPT**S的Python脚本开始，应用程序将它们结合起来： *元数据与200M记录的基于Discogs的数据库交叉引用，用于已知版本*用于管理库/标记/同步到Rekordbox的Mac配套应用程序*直接分析音频的Python DSP （ BPM ）
+got tired of reading comparisons that were obvisously written by people who tested each tool for 20 minutes so i ran both at $20/month for 30 days on the same tasks biggest surprises: - chat**GPT** gives you roughly 6x more messages per day at the same price - **Claude** wins 67% of blind code quality tests against codex - neither one is less sycophantic than the other (stanford tested 11 modelsall of them agree with you 49% more than humans do) - the $100 tier showdown between **OpenAI**s **new** pro 5x and **Claude**s max 5x is where the real competition is happening now full complete deep-dive with benchmark data
 
-📅 Wed, 15 Apr 2026 15:38:11 +0000
+📅 2026-04-15T19:12:47.000Z
 
 ---
 
 ### Reddit: r/artificial
-**[我如何赚€ 2,700为一家德国合规公司建立法律AI研究助理](https://www.reddit.com/r/artificial/comments/1sm8f7c/how_i_made_2700_building_a_legal_ai_research/)**
+**[第6周AIPass更新-回答上次发布的热门问题（文件冲突、远程模型、规模）](https://www.reddit.com/r/artificial/comments/1smdg23/week_6_aipass_update_answering_the_top_questions/)**
 
-AWS Bedrock with **Claude** for generation最大的一课：特定领域的RAG是80%提示工程和元数据架构20%检索
+“公平的问题，这是每个人询问共享文件系统设置的第一件事，您不需要API密钥- AIPass在您现有的**Claude** Pro/Max上运行
 
-📅 2026-04-15T14:55:09.000Z
+📅 2026-04-15T17:50:39.000Z
 
 ---
 
@@ -353,23 +353,12 @@ AWS Bedrock with **Claude** for generation最大的一课：特定领域的RAG�
 
 ---
 
-### Reddit: r/MachineLearning
-**[ClawBench ： AI智能体能完成日常在线任务吗？ 153个任务， 144个实时网站，最佳模型为33.3% [R]](https://www.reddit.com/r/MachineLearning/comments/1slf7pg/clawbench_can_ai_agents_complete_everyday_online/)**
-
-主要发现：最佳模型（ **Claude** Sonnet 4co/datasets/NAIL-Group/ClawBench GitHub ： https://github
-
-📅 2026-04-14T17:21:13.000Z
-
----
-
 ### Reddit: r/singularity
-![Anthropic反对一项由OpenAI支持的伊利诺伊州拟议法律，该法律将保护人工智能实验室免于承担责任，如果他们的系统被用于造成大规模伤害，如大规模伤亡或超过10亿美元的财产损失。](https://external-preview.redd.it/WYV0OaWTQGKjqqxpMmGXEMyJ9r9ONydMNDMR7Je7Tww.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3398b55511049aee13ebffe9bbfbf3dab51228eb)
+**[谷歌推出Gemini 3.1 Flash TTS文字转语音模型](https://www.reddit.com/r/singularity/comments/1smbgcw/google_launches_gemini_31_flash_tts_texttospeech/)**
 
-**[Anthropic反对一项由OpenAI支持的伊利诺伊州拟议法律，该法律将保护人工智能实验室免于承担责任，如果他们的系统被用于造成大规模伤害，如大规模伤亡或超过10亿美元的财产损失。](https://www.reddit.com/r/singularity/comments/1sly077/anthropic_has_come_out_against_a_proposed/)**
+提交者/u/T_D_R_[link] [comments]
 
-提交者/u/soldierofcinema [link] [comments]
-
-📅 2026-04-15T06:28:31.000Z
+📅 2026-04-15T16:41:28.000Z
 
 ---
 
@@ -378,16 +367,34 @@ AWS Bedrock with **Claude** for generation最大的一课：特定领域的RAG�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-04-15T16:07:09.899Z
+📅 2026-04-15T23:43:02.280Z
 
 ---
 
 ### X: DeepSeek
-**[标题： DeepSeek (@ deepseek_ai)/X](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
 
-标题： **DeepSeek** (@ **DeepSeek**_ai)/X
+网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-04-15T16:08:16.433Z
+📅 2026-04-15T23:44:11.717Z
+
+---
+
+### Hacker News
+**[Excel版ChatGPT](https://chatgpt.com/apps/spreadsheets/)**
+
+文章网址： https://chat**GPT**com/apps/spreadsheets/评论网址： https://**new**s
+
+📅 Wed, 15 Apr 2026 21:21:05 +0000
+
+---
+
+### Hacker News AI
+**[领域代理：教授人工智能编码代理来发展您的架构](https://jonno.nz/posts/open-source-agent-that-teaches-claude-code-your-architecture/)**
+
+文章网址： https://jonnonz/posts/open-source-agent-that-teaches-**Claude**-code-your-architecture/评论网址： https://**new**s
+
+📅 Wed, 15 Apr 2026 21:33:03 +0000
 
 ---
 
