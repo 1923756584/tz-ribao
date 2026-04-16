@@ -1,12 +1,12 @@
 ---
 title: "2026年4月16日 - TZ日报"
-date: 2026-04-16T16:29:09.737Z
+date: 2026-04-16T23:45:09.654Z
 draft: false
 ---
 
 # 2026年4月16日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/4/16 16:29:09
+> 📊 今日汇总 38 条 · 🕐 2026/4/16 23:45:09
 
 ---
 
@@ -21,6 +21,15 @@ draft: false
 ---
 
 ## ✨ 产品更新
+
+### OpenAI Blog
+**[为生命科学研究推出GPT-Rosalind](https://openai.com/index/introducing-gpt-rosalind)**
+
+**OpenAI**引入**GPT**-Rosalinda前沿推理模型，旨在加速药物发现
+
+📅 Thu, 16 Apr 2026 01:00:00 GMT
+
+---
 
 ### OpenAI Blog
 **[加速保护我们所有人的网络防御生态系统](https://openai.com/index/accelerating-cyber-defense-ecosystem)**
@@ -62,6 +71,15 @@ Nano Banana 2现在使用您的个人背景和**Google**相册来创建反映您
 
 ---
 
+### TechCrunch AI Products
+**[OpenAI通过加强Codex瞄准Anthropic ，使其在桌面上拥有更强大的功能](https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/)**
+
+**OpenAI**的代理编码工具进行了**重大**改造，拥有各种新的功能和能力
+
+📅 Thu, 16 Apr 2026 19:18:41 +0000
+
+---
+
 ### AI News
 **[Cadence扩大与英伟达、谷歌云的人工智能和机器人合作伙伴关系](https://www.artificialintelligence-news.com/news/cadence-expands-ai-and-robotics-partnerships-with-nvidia-google-cloud/)**
 
@@ -92,29 +110,11 @@ Cadence Design Systems本周在其CadenceLIVE活动上宣布了两项与人工�
 ---
 
 ### TechCrunch AI Products
-**[谷歌现在将不良广告瞄准不良行为者](https://techcrunch.com/2026/04/16/google-blocked-more-ads-but-banned-fewer-advertisers-as-ai-reshapes-enforcement/)**
+**[Anthropic CPO在报告他将提供竞争产品后离开了Figma的董事会](https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/)**
 
-谷歌在2025年屏蔽了83亿个广告，但暂停了较少的广告客户。
+对于担心SaaSpocalypse的投资者来说， Krieger的离职和即将**推出**的设计工具将是另一个数据点--最大的人工智能实验室将主导软件业务，这篇论文今年曾多次震撼公开市场
 
-📅 Thu, 16 Apr 2026 15:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[由于内存短缺， Meta提高了Quest 3和Quest 3S的价格](https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/)**
-
-从4月19日开始， **Meta** Quest 3S （ 128GB ）和**Meta** Quest 3S （ 256GB ）的价格将上涨$ 50至$ 349 **Meta** Quest 3的价格将上涨$ 100至$ 599
-
-📅 Thu, 16 Apr 2026 13:49:32 +0000
-
----
-
-### TechCrunch AI Products
-**[以文本翻译闻名的DeepL现在想要翻译您的声音](https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/)**
-
-DeepL表示，其技术可用于使用Zoom和Microsoft Teams等会议工具进行实时翻译
-
-📅 Thu, 16 Apr 2026 08:00:00 +0000
+📅 Thu, 16 Apr 2026 18:28:42 +0000
 
 ---
 
@@ -195,6 +195,17 @@ DeepL表示，其技术可用于使用Zoom和Microsoft Teams等会议工具进�
 ## 🌍 行业展望
 
 ### VentureBeat
+![Salesforce推出Headless 360 ，将其整个平台转变为人工智能代理的基础设施](https://images.ctfassets.net/jdtwqhzvc2n1/20o4KbpCNvhGDbjACvvc46/33584beeede6af5fbfc2d328076a0e64/nuneybits_Vector_art_of_Salesforce_Tower_bc4b6995-07bd-4746-97a9-9dfda2ab92d0.webp?w=300&q=30)
+
+**[Salesforce推出Headless 360 ，将其整个平台转变为人工智能代理的基础设施](https://venturebeat.com/technology/salesforce-launches-headless-360-to-turn-its-entire-platform-into-infrastructure-for-ai-agents)**
+
+第一个支柱—以任何你想要的方式构建—提供60多种新的MCP （模型上下文协议）工具和30多种预配置的编码技能，为**Claude** Code等外部编码代理提供该平台现在与**OpenAI**、**Anthropic**、**Google** **Gemini**、**Meta**的LLaMA和Mistral AI模型集成
+
+📅 Thu, 16 Apr 2026 21:00:00 GMT
+
+---
+
+### VentureBeat
 ![Anthropic发布Claude Opus 4.7 ，以微弱优势夺回最强大的通用法学硕士学位](https://images.ctfassets.net/jdtwqhzvc2n1/Seh68p8wVtjmUzumzSTB9/82e03ea5925ffe574098a259daef121f/Gemini_Generated_Image_a606wa606wa606wa.png?w=300&q=30)
 
 **[Anthropic发布Claude Opus 4.7 ，以微弱优势夺回最强大的通用法学硕士学位](https://venturebeat.com/technology/anthropic-releases-claude-opus-4-7-narrowly-retaking-lead-for-most-powerful-generally-available-llm)**
@@ -206,77 +217,62 @@ DeepL表示，其技术可用于使用Zoom和Microsoft Teams等会议工具进�
 ---
 
 ### VentureBeat
-![Frontier模型每三次生产尝试中就有一次失败—并且越来越难以审核](https://images.ctfassets.net/jdtwqhzvc2n1/4z68iLEpqAtIY5EAKVlov3/eda1e72826a8322c9042c0c5f1fe7726/AI_question.png?w=300&q=30)
+![OpenAI彻底更新Codex桌面应用程序以使用计算机上的所有其他应用程序，生成图像，预览网页](https://images.ctfassets.net/jdtwqhzvc2n1/wlyUc6IcR6mIiA3AM9T06/56adbce4b13fc8f4926d0b14f5067436/ChatGPT_Image_Apr_16__2026__12_59_06_PM.png?w=300&q=30)
 
-**[Frontier模型每三次生产尝试中就有一次失败—并且越来越难以审核](https://venturebeat.com/security/frontier-models-are-failing-one-in-three-production-attempts-and-getting-harder-to-audit)**
+**[OpenAI彻底更新Codex桌面应用程序以使用计算机上的所有其他应用程序，生成图像，预览网页](https://venturebeat.com/technology/openai-drastically-updates-codex-desktop-app-to-use-all-other-apps-on-your-computer-generate-images-preview-webpages)**
 
-包括**Claude** Opus 4 ”在内的顶级模型培训代码、参数计数、数据集大小和持续时间通常会被**OpenAI**、**Anthropic**和**Google**等公司扣留
+以及与**OpenAI**强大的AI**图像生成**模型**GPT**-image-1直接集成的管道“此次**更新**是因为竞争对手**Anthropic**此前**推出**了**Claude** Cowork并重新设计了**Claude** Code桌面应用程序视图，从而吸引了类似的用例
 
-📅 Wed, 15 Apr 2026 19:35:32 GMT
-
----
-
-### The Verge
-![罗南·法罗（ Ronan Farrow ）谈山姆·奥尔特曼（ Sam Altman ）与真相的“无拘无束](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/altman_illo.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[罗南·法罗（ Ronan Farrow ）谈山姆·奥尔特曼（ Sam Altman ）与真相的“无拘无束](https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry)**
-
-他们最初是默认的赢家，因为他们**发布**了Chat**GPT** ，每个人都认为这将在**OpenAI**重申其与微软在底层无状态AI模型方面的独家性的同一天接管谷歌，它还宣布与亚马逊达成一项新协议，该协议与销售用于构建有状态AI代理的企业解决方案有关
-
-📅 2026-04-16T14:00:00.000Z
-
----
-
-### TechCrunch
-**[谷歌将Nano Banana驱动的图像生成添加到Gemini的个人智能中](https://techcrunch.com/2026/04/16/google-adds-nano-banana-powered-image-generation-to-geminis-personal-intelligence/)**
-
-该功能最初将提供给美国的付费用户
-
-📅 Thu, 16 Apr 2026 16:00:00 +0000
-
----
-
-### The Verge
-![Gemini现在可以从Google相册中生成个性化图像](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-16-at-8.32.59AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[Gemini现在可以从Google相册中生成个性化图像](https://www.theverge.com/tech/913202/gemini-personal-intelligence-images-nano-banana)**
-
-它可以让**Gemini**从**Google**相册等应用程序中提取数据，提供量身定制的回复。您可以使用“设计我的梦想之家”或“创建我的荒岛必需品图片”等提示， **Gemini**创建的照片将“自动反映您的特定口味和生活方式”
-
-📅 2026-04-16T16:00:00.000Z
-
----
-
-### The Verge
-![Anthropic在Mythos Preview嗡嗡声中发布了新的Opus模型](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[Anthropic在Mythos Preview嗡嗡声中发布了新的Opus模型](https://www.theverge.com/ai-artificial-intelligence/913184/anthropic-claude-opus-4-7-cybersecurity)**
-
-Anthropic**发布**了迄今为止**最强**大的“通用”模型： **Claude** Opus 4以网络安全为中心的热门模型**Anthropic**本月早些时候宣布
-
-📅 2026-04-16T15:59:24.000Z
+📅 Thu, 16 Apr 2026 18:36:52 GMT
 
 ---
 
 ### VentureBeat
-![Microsoft修补了Copilot Studio提示注入。不管怎样，数据还是被窃取了。](https://images.ctfassets.net/jdtwqhzvc2n1/6QO34Fn3Ix5qFbnemAM3a5/6cf10a1a9ecd680e39c790c0733d16fd/HERO_CAPSULE.png?w=300&q=30)
+![OpenAI在Github上推出GPT-Rosalind ，这是一种新的生命科学有限访问模式，以及更广泛的Codex插件](https://images.ctfassets.net/jdtwqhzvc2n1/2kuM1Fize1fBE3pybDQsvD/ae6248e28eafe454993a21e87632c189/ChatGPT_Image_Apr_16__2026__03_01_33_PM.png?w=300&q=30)
 
-**[Microsoft修补了Copilot Studio提示注入。不管怎样，数据还是被窃取了。](https://venturebeat.com/security/microsoft-salesforce-copilot-agentforce-prompt-injection-cve-agent-remediation-playbook)**
+**[OpenAI在Github上推出GPT-Rosalind ，这是一种新的生命科学有限访问模式，以及更广泛的Codex插件](https://venturebeat.com/technology/openai-debuts-gpt-rosalind-a-new-limited-access-model-for-life-sciences-and-broader-codex-plugin-on-github)**
 
-Microsoft分配了CVE-2026-21520 ， CVSS 7 ”运行时强制模型Capsule与供应商提供的代理执行路径挂钩，包括Copilot St**Udio**的安全挂钩和**Claude** Code的工具使用前检查点，无需代理
+但**OpenAI**正在**发布**新的专用模型**GPT**-Rosalind ，专门用于加快这一过程并提高效率在其核心， **GPT**-Rosalind是针对科学工作流程优化的新系列模型中的第一个
 
-📅 Wed, 15 Apr 2026 20:58:42 GMT
+📅 Thu, 16 Apr 2026 19:02:45 GMT
 
 ---
 
-### VentureBeat
-![我们测试了Anthropic重新设计的Claude Code桌面应用程序和“例程” —以下是企业应了解的信息](https://images.ctfassets.net/jdtwqhzvc2n1/12umYKPQZfmAPEPq0WLKHq/76ddb1d31eb7449fb28d6ec34913b450/Gemini_Generated_Image_seqly9seqly9seql__1_.png?w=300&q=30)
+### Ars Technica
+**[OpenAI开始提供经过生物调整的LLM](https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/)**
 
-**[我们测试了Anthropic重新设计的Claude Code桌面应用程序和“例程” —以下是企业应了解的信息](https://venturebeat.com/orchestration/we-tested-anthropics-redesigned-claude-code-desktop-app-and-routines-heres-what-enterprises-should-know)**
+**GPT**-Rosalind是一位接受过生物学工作流程培训的法学硕士，可在封闭式访问中获得。
 
-Anthropic**发布**了双重版本，标志着这一转变：完全重新设计了**Claude** Code桌面应用程序（适用于Mac和Windows ） ，并在研究预览中**推出**了“例程”虽然**Claude** Code的终端版本提供了更广泛的移动范围，但桌面应用程序已针对**Anthropic**的模型进行了严格优化
+📅 Thu, 16 Apr 2026 21:17:47 +0000
 
-📅 Wed, 15 Apr 2026 18:40:00 GMT
+---
+
+### Ars Technica
+**[Gemini现在可以通过在Google相册中挖掘来创建个性化的AI图像](https://arstechnica.com/ai/2026/04/gemini-can-now-create-personalized-ai-images-by-digging-around-in-google-photos/)**
+
+**Google**让您更轻松地将照片输入到Nano Banana中，以生成更多个人图像。
+
+📅 Thu, 16 Apr 2026 16:59:25 +0000
+
+---
+
+### ZDNet AI
+**[我尝试了适用于Mac的新Gemini应用程序-它在一个很大的方面比网站更好](https://www.zdnet.com/article/google-gemini-app-mac/)**
+
+除了快速方便之外， **Google**的**Gemini**应用程序还可以访问和分析您从Mac桌面共享的任何窗口中的内容。这就是为什么它如此有用的原因
+
+📅 Thu, 16 Apr 2026 21:18:28 GMT
+
+---
+
+### The Verge
+![古驰品牌谷歌智能眼镜明年上市](https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Aura_4_TAS_XR_-Nov-06-2025_113.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[古驰品牌谷歌智能眼镜明年上市](https://www.theverge.com/gadgets/913523/google-gucci-ai-smart-glasses-2027)**
+
+谷歌的“Project Aura”将是其首款Android XR眼镜，预计将于今年晚些时候**推出**谷歌的首款Android XR眼镜“Project Aura”预计将于今年**推出**
+
+📅 2026-04-16T20:31:31.000Z
 
 ---
 
@@ -287,7 +283,7 @@ Anthropic**发布**了双重版本，标志着这一转变：完全重新设计�
 
 **[🆕 awesome-vibe-coding ：通过与人工智能交谈，为vibe编码和构建软件提供300多种工具、平台和资源的精选列表](https://github.com/bluegalaxy111/awesome-vibe-coding)**
 
-⭐ 14 star (新项目) · N/A · A curated list of 300+ tools, platforms, and resources for vibe coding and building software by talking to AI
+⭐ 18 star (新项目) · N/A · A curated list of 300+ tools, platforms, and resources for vibe coding and building software by talking to AI
 
 📅 2026-04-16T05:16:30Z
 
@@ -298,7 +294,7 @@ Anthropic**发布**了双重版本，标志着这一转变：完全重新设计�
 
 **[🆕 claude-code-staff-engineer ：在Claude Code中与子代理团队一起构建高级职员工程师](https://github.com/FareedKhan-dev/claude-code-staff-engineer)**
 
-⭐ 13 star (新项目) · Shell · Building a Senior Staff Engineer with Sub-Agent Teams in **Claude** Code
+⭐ 14 star (新项目) · Shell · Building a Senior Staff Engineer with Sub-Agent Teams in **Claude** Code
 
 📅 2026-04-13T12:47:55Z
 
@@ -309,7 +305,7 @@ Anthropic**发布**了双重版本，标志着这一转变：完全重新设计�
 
 **[🆕 zueshammer ： ⚡ ZuesHammer Thor的锤子-众神的力量| AI超级特工|融合ClaudeCode + OpenClaw + Hermes](https://github.com/pengrambo3-tech/zueshammer)**
 
-⭐ 10 star (新项目) · Python · ⚡ ZuesHammer Thor's Hammer - The Power of Gods | AI Super Agent | Fusing **Claude**Code+OpenClaw+Hermes
+⭐ 11 star (新项目) · Python · ⚡ ZuesHammer Thor's Hammer - The Power of Gods | AI Super Agent | Fusing **Claude**Code+OpenClaw+Hermes
 
 📅 2026-04-15T13:32:44Z
 
@@ -329,20 +325,11 @@ Anthropic**发布**了双重版本，标志着这一转变：完全重新设计�
 ## 💬 社交动态
 
 ### Hacker News
-**[克劳德Opus 4.7模型卡](https://anthropic.com/claude-opus-4-7-system-card)**
+**[GPT ‑ Rosalind生命科学研究](https://openai.com/index/introducing-gpt-rosalind/)**
 
-文章网址： https://**Anthropic**com/**Claude**-opus-4-7-system-card评论网址： https://**new**s
+文章网址： https://**OpenAI**com/index/introducing-**GPT**-rosalind/评论网址： https://**new**s
 
-📅 Thu, 16 Apr 2026 14:32:24 +0000
-
----
-
-### Hacker News
-**[Claude Opus 4](https://www.anthropic.com/news/claude-opus-4-7)**
-
-文章网址： https://wwwcom/**new**s/**Claude**-opus-4-7评论网址： https://**new**s
-
-📅 Thu, 16 Apr 2026 14:23:50 +0000
+📅 Thu, 16 Apr 2026 19:24:50 +0000
 
 ---
 
@@ -351,7 +338,7 @@ Anthropic**发布**了双重版本，标志着这一转变：完全重新设计�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-04-16T16:26:07.988Z
+📅 2026-04-16T23:41:57.665Z
 
 ---
 
@@ -360,7 +347,7 @@ Anthropic**发布**了双重版本，标志着这一转变：完全重新设计�
 
 标题： **DeepSeek** (@ **DeepSeek**_ai)/X
 
-📅 2026-04-16T16:27:14.495Z
+📅 2026-04-16T23:43:18.866Z
 
 ---
 
@@ -369,7 +356,7 @@ Anthropic**发布**了双重版本，标志着这一转变：完全重新设计�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-04-16T16:27:14.495Z
+📅 2026-04-16T23:43:18.866Z
 
 ---
 
@@ -378,16 +365,25 @@ Anthropic**发布**了双重版本，标志着这一转变：完全重新设计�
 
 【图片1 ：打开个人头像】（ https://pbscom/**DeepSeek**_ai/photo ）
 
-📅 2026-04-16T16:27:14.495Z
+📅 2026-04-16T23:43:18.866Z
+
+---
+
+### Hacker News
+**[Android CLI ：使用任何代理构建Android应用程序的速度提高3倍](https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html)**
+
+**Google**bloghtml评论网址： https://**new**s
+
+📅 Thu, 16 Apr 2026 18:39:59 +0000
 
 ---
 
 ### Hacker News AI
-**[Show HN: Stack –人工智能代理的控制平面](https://getstack.run/)**
+**[在裸机上隔离AI编码代理](https://blog.singlr.ai/isolating-ai-coding-agents-bare-metal-incus-podman/)**
 
-运行，获取您的API密钥，然后连接： **Claude** mcp add stack --transport http https://mcp评论网址： https://**new**s
+文章网址： https://blogai/isolating-ai-coding-agents-bare-**Meta**l-incus-podman/评论网址： https://**new**s
 
-📅 Thu, 16 Apr 2026 16:03:04 +0000
+📅 Thu, 16 Apr 2026 23:01:17 +0000
 
 ---
 
