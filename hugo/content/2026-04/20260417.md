@@ -1,12 +1,12 @@
 ---
 title: "2026年4月17日 - TZ日报"
-date: 2026-04-17T16:06:54.762Z
+date: 2026-04-17T23:43:37.651Z
 draft: false
 ---
 
 # 2026年4月17日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/4/17 16:06:54
+> 📊 今日汇总 38 条 · 🕐 2026/4/17 23:43:37
 
 ---
 
@@ -81,11 +81,11 @@ Nano Banana 2现在使用您的个人背景和**Google**相册来创建反映您
 ---
 
 ### TechCrunch AI Products
-**[OpenAI通过加强Codex瞄准Anthropic ，使其在桌面上拥有更强大的功能](https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/)**
+**[我们是tokenmaxing我们的方式无处可去吗？](https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/)**
 
-**OpenAI**的代理编码工具进行了**重大**改造，拥有各种新的功能和能力
+虽然**OpenAI**正忙于购买从金融应用程序到脱口秀节目的所有内容，但Anthropic**推出**了一个模型，据说它太强大了，无法公开**发布**……但显然不会太[…]
 
-📅 Thu, 16 Apr 2026 19:18:41 +0000
+📅 Fri, 17 Apr 2026 13:00:00 +0000
 
 ---
 
@@ -206,24 +206,13 @@ Cadence Design Systems本周在其CadenceLIVE活动上宣布了两项与人工�
 ---
 
 ### VentureBeat
-![Anthropic发布Claude Opus 4.7 ，以微弱优势夺回最强大的通用法学硕士学位](https://images.ctfassets.net/jdtwqhzvc2n1/Seh68p8wVtjmUzumzSTB9/82e03ea5925ffe574098a259daef121f/Gemini_Generated_Image_a606wa606wa606wa.png?w=300&q=30)
+![大多数企业无法阻止第三阶段的AI代理威胁， VentureBeat调查发现](https://images.ctfassets.net/jdtwqhzvc2n1/2oq4gxUSORHuJY6GKHVxQ1/1ff08d293fe4d0c43df9f5c7a1893344/hero_survey.png?w=300&q=30)
 
-**[Anthropic发布Claude Opus 4.7 ，以微弱优势夺回最强大的通用法学硕士学位](https://venturebeat.com/technology/anthropic-releases-claude-opus-4-7-narrowly-retaking-lead-for-most-powerful-generally-available-llm)**
+**[大多数企业无法阻止第三阶段的AI代理威胁， VentureBeat调查发现](https://venturebeat.com/security/most-enterprises-cant-stop-stage-three-ai-agent-threats-venturebeat-survey-finds)**
 
-**Anthropic**公开**发布**其**最强**大的大型语言模型， **Claude** Opus 47超越其最直接的竞争对手— **OpenAI**的**GPT**-5
+根据该公司4月15日的公告， FAR AI ）显示了一种微调攻击，在针对**Claude** 3 Haiku和**GPT**-4o**OpenAI** Agents SDK的未来版本中， 72%的尝试绕过了模型级护栏， 57%的尝试绕过了TypeScript对沙箱和线束功能的支持
 
-📅 Thu, 16 Apr 2026 16:17:00 GMT
-
----
-
-### VentureBeat
-![OpenAI彻底更新Codex桌面应用程序以使用计算机上的所有其他应用程序，生成图像，预览网页](https://images.ctfassets.net/jdtwqhzvc2n1/wlyUc6IcR6mIiA3AM9T06/56adbce4b13fc8f4926d0b14f5067436/ChatGPT_Image_Apr_16__2026__12_59_06_PM.png?w=300&q=30)
-
-**[OpenAI彻底更新Codex桌面应用程序以使用计算机上的所有其他应用程序，生成图像，预览网页](https://venturebeat.com/technology/openai-drastically-updates-codex-desktop-app-to-use-all-other-apps-on-your-computer-generate-images-preview-webpages)**
-
-以及与**OpenAI**强大的AI**图像生成**模型**GPT**-image-1直接集成的管道“此次**更新**是因为竞争对手**Anthropic**此前**推出**了**Claude** Cowork并重新设计了**Claude** Code桌面应用程序视图，从而吸引了类似的用例
-
-📅 Thu, 16 Apr 2026 18:36:52 GMT
+📅 Fri, 17 Apr 2026 17:07:29 GMT
 
 ---
 
@@ -260,34 +249,69 @@ Cadence Design Systems本周在其CadenceLIVE活动上宣布了两项与人工�
 
 ---
 
-### Ars Technica
-**[OpenAI开始提供经过生物调整的LLM](https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/)**
+### Wired Technology
+**[OpenAI高管Kevin Weil将离开公司](https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/)**
 
-**GPT**-Rosalind是一位接受过生物学工作流程培训的法学硕士，可在封闭式访问中获得。
+这位前Instagram副总裁将离开Chat**GPT**制造商，该制造商正在将他领导的人工智能科学应用程序折叠到Codex中
 
-📅 Thu, 16 Apr 2026 21:17:47 +0000
+📅 Fri, 17 Apr 2026 19:56:42 +0000
 
 ---
 
-### ZDNet AI
-**[我尝试了适用于Mac的新Gemini应用程序-与网络版本相比，它有一个主要优势](https://www.zdnet.com/article/google-gemini-app-mac/)**
+### The Verge
+![Anthropic的新网络安全模式可能会让它重新受到政府的青睐](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-除了快速方便之外，谷歌的**Gemini**应用程序可以访问和分析您从Mac桌面共享的任何窗口中的内容-这是一件大事
+**[Anthropic的新网络安全模式可能会让它重新受到政府的青睐](https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview)**
 
-📅 Fri, 17 Apr 2026 11:01:03 GMT
+特朗普政府已经与人工智能公司**Anthropic**进行了近两个月的斗争，但据报道，由于**Anthropic**以网络安全为重点的新模式： **Claude** Mythos Preview ，一些冰可能会在两者之间融化
+
+📅 2026-04-17T20:14:21.000Z
+
+---
+
+### The Verge
+![您可以买到的最实惠的智能手机](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268464_The_best_budget_phone_you_can_buy_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[您可以买到的最实惠的智能手机](https://www.theverge.com/gadgets/912271/best-budget-smartphones-cheap-iphone-android-phones)**
+
+基本型号中健康的256GB存储容量最便宜的Android手机**Google** Pixel 10A得分： 7 ProsCons平板相机外观和感觉非常棒七年的软件**更新**卫星SOS支持再次是Pixel 9A Pixel 9A更便宜您只需购买Pixel 9A哪里可以买到： $ 499 $ 449在亚马逊（ 128GB ） $ 499 $ 449在百思买（ 128GB ） $ 599 $ 549在亚马逊（ 256GB ）屏幕： 6
+
+📅 2026-04-17T15:55:00.000Z
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![awesome-opensource-ai ：精心策划的最佳真正开源的人工智能项目、模型、工具和基础设施列表。](https://avatars.githubusercontent.com/u/262747402?v=4)
+![OpenBB ：面向分析师、量化分析师和人工智能代理的金融数据平台。](https://avatars.githubusercontent.com/u/80064875?v=4)
 
-**[awesome-opensource-ai ：精心策划的最佳真正开源的人工智能项目、模型、工具和基础设施列表。](https://github.com/alvinreal/awesome-opensource-ai)**
+**[OpenBB ：面向分析师、量化分析师和人工智能代理的金融数据平台。](https://github.com/OpenBB-finance/OpenBB)**
 
-⭐ 2,633颗星· 244个分叉· Python ·精心策划的最佳真正**开源**的人工智能项目、模型、工具和基础设施列表
+⭐ 66,014星· 6576叉· Python ·分析师、量子和人工智能代理的金融数据平台。
 
-📅 2026-04-17T16:05:12Z
+📅 2026-04-17T23:32:23Z
+
+---
+
+### GitHub Active (AI/ML)
+![ray ： Ray是一个AI计算引擎。Ray由一个核心分布式运行时和一组用于加速ML工作负载的AI库组成。](https://avatars.githubusercontent.com/u/22125274?v=4)
+
+**[ray ： Ray是一个AI计算引擎。Ray由一个核心分布式运行时和一组用于加速ML工作负载的AI库组成。](https://github.com/ray-project/ray)**
+
+⭐ 42,180星· 7455分叉· Python · Ray是一个AI计算引擎Ray由一个核心分布式运行时和一组用于加速ML工作负载的AI库组成
+
+📅 2026-04-17T23:41:26Z
+
+---
+
+### GitHub Active (AI/ML)
+![TransformerEngine ：用于加速NVIDIA GPU上的Transformer模型的库，包括在Hopper、Ada和Blackwell GPU上使用8位和4位浮点（ FP8和FP4 ）精度，以提供更好的性能，同时在训练和推理中降低内存利用率。](https://avatars.githubusercontent.com/u/1728152?v=4)
+
+**[TransformerEngine ：用于加速NVIDIA GPU上的Transformer模型的库，包括在Hopper、Ada和Blackwell GPU上使用8位和4位浮点（ FP8和FP4 ）精度，以提供更好的性能，同时在训练和推理中降低内存利用率。](https://github.com/NVIDIA/TransformerEngine)**
+
+277星· 697分叉· Python ·在NVIDIA GPU上加速Transformer模型的库，可在训练和推理中以更低的内存利用率提供更好的性能
+
+📅 2026-04-17T23:39:44Z
 
 ---
 
@@ -302,45 +326,14 @@ Cadence Design Systems本周在其CadenceLIVE活动上宣布了两项与人工�
 
 ---
 
-### GitHub New (New AI)
-![🆕 zueshammer ： ⚡ ZuesHammer Thor的锤子-众神的力量| AI超级特工|融合ClaudeCode + OpenClaw + Hermes](https://avatars.githubusercontent.com/u/249389362?v=4)
-
-**[🆕 zueshammer ： ⚡ ZuesHammer Thor的锤子-众神的力量| AI超级特工|融合ClaudeCode + OpenClaw + Hermes](https://github.com/pengrambo3-tech/zueshammer)**
-
-⭐ 13 star (新项目) · Python · ⚡ ZuesHammer Thor's Hammer - The Power of Gods | AI Super Agent | Fusing **Claude**Code+OpenClaw+Hermes
-
-📅 2026-04-15T13:32:44Z
-
----
-
-### GitHub New (New AI)
-![🆕 awesome-lead-generation ：精心策划的潜在客户生成、数据丰富、冷拓展和社交倾听工具目录。探索现代化的增长堆栈，实现销售流程自动化、验证电子邮件并分析客户意图。为此存储库加星标以跟踪新更新。](https://avatars.githubusercontent.com/u/264378887?v=4)
-
-**[🆕 awesome-lead-generation ：精心策划的潜在客户生成、数据丰富、冷拓展和社交倾听工具目录。探索现代化的增长堆栈，实现销售流程自动化、验证电子邮件并分析客户意图。为此存储库加星标以跟踪新更新。](https://github.com/adops-tool/awesome-lead-generation)**
-
-⭐ 3 star (新项目) · N/A · Curated directory of powered tools for lead generation, data enrichment, cold outreach, and social listeningStar this repository to track **new** **update**s
-
-📅 2026-04-14T14:56:00Z
-
----
-
 ## 💬 社交动态
-
-### Hacker News
-**[Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs)**
-
-文章网址： https://wwwcom/**new**s/**Claude**-design-**Anthropic**-labs评论网址： https://**new**s
-
-📅 Fri, 17 Apr 2026 15:04:09 +0000
-
----
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-04-17T16:03:33.710Z
+📅 2026-04-17T23:40:27.803Z
 
 ---
 
@@ -349,7 +342,7 @@ Cadence Design Systems本周在其CadenceLIVE活动上宣布了两项与人工�
 
 标题： **DeepSeek** (@ **DeepSeek**_ai)/X
 
-📅 2026-04-17T16:04:37.713Z
+📅 2026-04-17T23:41:47.683Z
 
 ---
 
@@ -358,7 +351,7 @@ Cadence Design Systems本周在其CadenceLIVE活动上宣布了两项与人工�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-04-17T16:04:37.713Z
+📅 2026-04-17T23:41:47.683Z
 
 ---
 
@@ -367,16 +360,25 @@ Cadence Design Systems本周在其CadenceLIVE活动上宣布了两项与人工�
 
 【图片1 ：打开个人头像】（ https://pbscom/**DeepSeek**_ai/photo ）
 
-📅 2026-04-17T16:04:37.713Z
+📅 2026-04-17T23:41:47.683Z
 
 ---
 
 ### Hacker News AI
-**[重新思考AI TCO ：为什么每个代币的成本是唯一重要的指标](https://blogs.nvidia.com/blog/lowest-token-cost-ai-factories/)**
+**[停止使用幼稚的抹布–将关系添加到AI上下文](https://news.ycombinator.com/item?id=47811753)**
 
-文章网址： https://blogscom/blog/lowest-token-cost-ai-factories/评论网址： https://**new**s
+它通过CLI和MCP工作，因此您可以将其直接插入**Claude** Code、Cursor或您自己的代理等工具中。评论网址： https://**new**s
 
-📅 Fri, 17 Apr 2026 15:13:02 +0000
+📅 Fri, 17 Apr 2026 23:35:02 +0000
+
+---
+
+### Hacker News ML
+**[HuggingFace推出预编译机器学习内核库](https://huggingface.co/changelog/kernels)**
+
+文章网址： https://huggingfaceco/changelog/kernels评论网址： https://**new**s
+
+📅 Wed, 15 Apr 2026 17:55:29 +0000
 
 ---
 
@@ -385,7 +387,7 @@ Cadence Design Systems本周在其CadenceLIVE活动上宣布了两项与人工�
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-04-17T16:03:33.710Z
+📅 2026-04-17T23:40:27.803Z
 
 ---
 
@@ -394,7 +396,7 @@ Title: 520: Web服务器返回未知错误
 
 警告：目标URL返回错误520 ：
 
-📅 2026-04-17T16:03:33.710Z
+📅 2026-04-17T23:40:27.803Z
 
 ---
 
