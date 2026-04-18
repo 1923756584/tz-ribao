@@ -1,12 +1,12 @@
 ---
 title: "2026年4月18日 - TZ日报"
-date: 2026-04-18T15:43:40.723Z
+date: 2026-04-18T23:39:08.442Z
 draft: false
 ---
 
 # 2026年4月18日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/4/18 15:43:40
+> 📊 今日汇总 38 条 · 🕐 2026/4/18 23:39:08
 
 ---
 
@@ -69,24 +69,6 @@ Nano Banana 2现在使用您的个人背景和**Google**相册来创建反映您
 
 ---
 
-### TechCrunch AI Products
-**[我们是tokenmaxing我们的方式无处可去吗？](https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/)**
-
-虽然**OpenAI**正忙于购买从金融应用程序到脱口秀节目的所有内容，但Anthropic**推出**了一个模型，据说它太强大了，无法公开**发布**……但显然不会太[…]
-
-📅 Fri, 17 Apr 2026 13:00:00 +0000
-
----
-
-### AI News
-**[Cadence扩大与英伟达、谷歌云的人工智能和机器人合作伙伴关系](https://www.artificialintelligence-news.com/news/cadence-expands-ai-and-robotics-partnerships-with-nvidia-google-cloud/)**
-
-Cadence Design Systems本周在其CadenceLIVE活动上宣布了两项与人工智能相关的合作**Google** Cloud**首次**出现在人工智能新闻
-
-📅 Thu, 16 Apr 2026 10:00:00 +0000
-
----
-
 ### Google AI Blog
 ![在Google的帮助下，今年夏天更智能出行的7种方式](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summer_Travel_Tips_2026_hero.max-600x600.format-webp.webp)
 
@@ -98,12 +80,12 @@ Cadence Design Systems本周在其CadenceLIVE活动上宣布了两项与人工�
 
 ---
 
-### DeepMind Blog
-**[Gemini 3.1 Flash TTS ：下一代富有表现力的AI语音](https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/)**
+### TechCrunch AI Products
+**[人工智能芯片初创公司Cerebras的IPO文件](https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/)**
 
-我们最新的音频模型引入了精细的音频标签，可让您精确控制AI语音，以生成富有表现力的音频
+该公司宣布与亚马逊网络服务达成协议，在亚马逊数据中心使用Cerebras芯片，并与**OpenAI**达成协议，据报道价值超过100亿美元
 
-📅 Wed, 15 Apr 2026 16:03:19 +0000
+📅 Sat, 18 Apr 2026 19:19:11 +0000
 
 ---
 
@@ -113,6 +95,24 @@ Cadence Design Systems本周在其CadenceLIVE活动上宣布了两项与人工�
 尽管最近被五角大楼指定为供应链风险，但**Anthropic**仍在与特朗普政府的高层成员交谈
 
 📅 Sat, 18 Apr 2026 14:56:48 +0000
+
+---
+
+### TechCrunch AI Products
+**[随着公司继续放弃“支线任务” ， Kevin Weil和Bill Peebles退出OpenAI](https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/)**
+
+Kevin Weil和Bill Peebles将离开**OpenAI** ，因为该公司关闭了Sora并折叠了其科学团队，标志着从消费者登月计划向企业AI的急剧转变
+
+📅 Fri, 17 Apr 2026 20:38:17 +0000
+
+---
+
+### OpenAI Blog
+**[（几乎）适用于所有事物的法典](https://openai.com/index/codex-for-almost-everything)**
+
+适用于macOS和Windows的**更新**版Codex应用程序添加了计算机使用和插件，以加快开发人员工作流程
+
+📅 Thu, 16 Apr 2026 10:00:00 GMT
 
 ---
 
@@ -296,7 +296,7 @@ REI的5号钥匙扣价格不到7美元它们还支持**Google**的快速配对�
 
 **[🆕 ROSE ： 🌹 ROSE ：切片范围平衡PyTorch优化器。通过范围归一化梯度更新进行无状态优化。](https://github.com/MatthewK78/Rose)**
 
-⭐ 17 star (新项目) · Python · 🌹 Rose: Range-Of-Slice Equilibration PyTorch optimizerStateless optimization through range-normalized gradient **update**s
+⭐ 19 star (新项目) · Python · 🌹 Rose: Range-Of-Slice Equilibration PyTorch optimizerStateless optimization through range-normalized gradient **update**s
 
 📅 2026-04-17T07:43:47Z
 
@@ -327,11 +327,11 @@ REI的5号钥匙扣价格不到7美元它们还支持**Google**的快速配对�
 ## 💬 社交动态
 
 ### Hacker News AI
-**[今天，人工智能最让你烦恼的是什么？](https://news.ycombinator.com/item?id=47816159)**
+**[Show HN ：我用AI在6个月内独自构建的老年跌倒检测应用程序](https://news.ycombinator.com/item?id=47819553)**
 
-对我来说，每次交换提供商时都必须解释自己**Claude**不知道Chat**GPT**上发生了什么。评论网址： https://**new**s
+The main plan was to ask AI to implement the detection of the following concerns: * Unusual stillness (potential fall or medical event) * Did not wake up on time * At an unfamiliar location at an unusual hour * Phone silent for too long I ended up with the following technical stack: * Kotlin + Jetpack Compose + Material 3 * Room + SQLCipher for encrypted local storage * **Google** **Gemini** for behavioral analysis * Resend API for transactional email alerts * Clean architecture: :domain (pure Kotlin) -> :data -> :ui -> :app Having the basis known to me and the AIAnd seeing how **Claude** Code works, the code is full of comments
 
-📅 Sat, 18 Apr 2026 14:23:44 +0000
+📅 Sat, 18 Apr 2026 21:11:18 +0000
 
 ---
 
@@ -340,7 +340,7 @@ REI的5号钥匙扣价格不到7美元它们还支持**Google**的快速配对�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-04-18T15:39:56.303Z
+📅 2026-04-18T23:36:08.804Z
 
 ---
 
@@ -349,7 +349,7 @@ REI的5号钥匙扣价格不到7美元它们还支持**Google**的快速配对�
 
 标题： **DeepSeek** (@ **DeepSeek**_ai)/X
 
-📅 2026-04-18T15:41:53.231Z
+📅 2026-04-18T23:37:28.410Z
 
 ---
 
@@ -358,7 +358,7 @@ REI的5号钥匙扣价格不到7美元它们还支持**Google**的快速配对�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-04-18T15:41:53.231Z
+📅 2026-04-18T23:37:28.410Z
 
 ---
 
@@ -367,25 +367,25 @@ REI的5号钥匙扣价格不到7美元它们还支持**Google**的快速配对�
 
 【图片1 ：打开个人头像】（ https://pbscom/**DeepSeek**_ai/photo ）
 
-📅 2026-04-18T15:41:53.231Z
+📅 2026-04-18T23:37:28.410Z
+
+---
+
+### Hacker News
+**[围绕Claude Design的想法和感受](https://samhenri.gold/blog/20260418-claude-design/)**
+
+文章网址： https://samhenrigold/blog/20260418-**Claude**-design/评论网址： https://**new**s
+
+📅 Sat, 18 Apr 2026 19:19:24 +0000
 
 ---
 
 ### Hacker News AI
-**[深入了解Claude Code ：当今和未来AI Agent系统的设计空间](https://arxiv.org/abs/2604.14228)**
+**[可观测性堆栈– AI优先？](https://news.ycombinator.com/item?id=47819461)**
 
-文章网址： https://arxiv14228评论网址： https://**new**s
+本周刚刚进入**Claude**我仍然是**Claude**的新手，现在我只是在**Claude** Code vscode聊天中使用它作为配对程序员，有时是CLI
 
-📅 Sat, 18 Apr 2026 13:53:58 +0000
-
----
-
-### Hacker News ML
-**[HuggingFace推出预编译机器学习内核库](https://huggingface.co/changelog/kernels)**
-
-文章网址： https://huggingfaceco/changelog/kernels评论网址： https://**new**s
-
-📅 Wed, 15 Apr 2026 17:55:29 +0000
+📅 Sat, 18 Apr 2026 20:55:34 +0000
 
 ---
 
@@ -394,7 +394,7 @@ REI的5号钥匙扣价格不到7美元它们还支持**Google**的快速配对�
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-04-18T15:39:56.303Z
+📅 2026-04-18T23:36:08.804Z
 
 ---
 
