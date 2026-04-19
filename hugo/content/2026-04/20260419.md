@@ -1,12 +1,12 @@
 ---
 title: "2026年4月19日 - TZ日报"
-date: 2026-04-19T15:42:46.957Z
+date: 2026-04-19T23:41:13.583Z
 draft: false
 ---
 
 # 2026年4月19日 - TZ日报
 
-> 📊 今日汇总 35 条 · 🕐 2026/4/19 15:42:46
+> 📊 今日汇总 35 条 · 🕐 2026/4/19 23:41:13
 
 ---
 
@@ -23,35 +23,6 @@ draft: false
 ## ✨ 产品更新
 
 ### Google AI Blog
-![在Gemini应用程序中创建个性化图像的新方法](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_post_header.max-600x600.format-webp.webp)
-
-**[在Gemini应用程序中创建个性化图像的新方法](https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/)**
-
-Nano Banana 2现在使用您的个人背景和**Google**相册来创建反映您独特生活的图像
-
-📅 Thu, 16 Apr 2026 16:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[Tokenmaxxing、OpenAI的购物狂潮和AI焦虑差距 ](https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/)**
-
-虽然**OpenAI**正忙于购买从金融应用程序到脱口秀节目的所有内容，但Anthropic**推出**了一个模型，据说它太强大了，无法公开**发布**……但显然不会太[…]
-
-📅 Fri, 17 Apr 2026 15:57:40 +0000
-
----
-
-### TechCrunch AI Products
-**[Anthropic推出Claude Design ，这是一款用于创建快速视觉效果的新产品](https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/)**
-
-该公司表示， **Claude** Design旨在帮助没有设计背景的创始人和产品经理更容易地分享他们的想法
-
-📅 Fri, 17 Apr 2026 15:00:00 +0000
-
----
-
-### Google AI Blog
 ![在Google的帮助下，今年夏天更智能出行的7种方式](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summer_Travel_Tips_2026_hero.max-600x600.format-webp.webp)
 
 **[在Google的帮助下，今年夏天更智能出行的7种方式](https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/)**
@@ -59,6 +30,15 @@ Nano Banana 2现在使用您的个人背景和**Google**相册来创建反映您
 **Google**提供的最新工具可帮助您规划行程、寻找超值好价并探索下一个目的地
 
 📅 Fri, 17 Apr 2026 14:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[OpenAI的存在主义问题](https://techcrunch.com/2026/04/19/openais-existential-questions/)**
+
+在最新一期的Equity中，我们讨论了**OpenAI**的最新收购，以及它们是否解决了公司的“两大生存问题”
+
+📅 Sun, 19 Apr 2026 21:24:06 +0000
 
 ---
 
@@ -89,17 +69,6 @@ Kevin Weil和Bill Peebles将离开**OpenAI** ，因为该公司关闭了Sora并�
 
 ---
 
-### Google AI Blog
-![使用Chrome浏览器中的AI模式探索网页的全新方式](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/AI_Mode_in_Chrome_-_Blog_header.png)
-
-**[使用Chrome浏览器中的AI模式探索网页的全新方式](https://blog.google/products-and-platforms/products/search/ai-mode-chrome/)**
-
-今天的Chrome浏览器AI模式**升级**改变了您与网络互动的方式
-
-📅 Thu, 16 Apr 2026 17:00:00 +0000
-
----
-
 ### Hugging Face
 **[使用合成数据构建快速多语言OCR模型](https://huggingface.co/blog/nvidia/nemotron-ocr-v2)**
 
@@ -110,9 +79,36 @@ Kevin Weil和Bill Peebles将离开**OpenAI** ，因为该公司关闭了Sora并�
 ---
 
 ### TechCrunch AI Products
+**[12个月的窗口期](https://techcrunch.com/2026/04/19/the-12-month-window/)**
+
+许多人工智能初创公司之所以存在，部分原因是基础模型尚未扩展到它们的类别正如许多人开玩笑地承认的那样，这不会永远持续下去
+
+📅 Sun, 19 Apr 2026 19:30:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[Palantir发布小宣言，谴责包容性和“倒退”文化](https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/)**
+
+Palantir的意识形态倾向受到了更多的审查，因为它与ICE合作，并将自己定位为“西方”的捍卫者
+
+📅 Sun, 19 Apr 2026 16:30:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[TechCrunch Mobility ：优步进入资产最大化时代](https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/)**
+
+欢迎回到TechCrunch Mobility ，这是您未来交通的枢纽，现在，人工智能比以往任何时候都更能发挥作用
+
+📅 Sun, 19 Apr 2026 16:01:00 +0000
+
+---
+
+### TechCrunch AI Products
 **[特斯拉将其机器人出租车服务带到达拉斯和休斯顿](https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/)**
 
-该公司去年在奥斯汀**推出**机器人出租车服务后，现已在三个城市提供服务，并于2026年1月开始在没有安全驾驶员的情况下提供接载服务
+自去年在奥斯汀**推出**机器人出租车服务后，该公司现已在三个城市提供机器人出租车服务，并于2026年1月开始在没有安全驾驶员的情况下提供接
 
 📅 Sat, 18 Apr 2026 21:37:15 +0000
 
@@ -168,17 +164,6 @@ Kevin Weil和Bill Peebles将离开**OpenAI** ，因为该公司关闭了Sora并�
 ## 🌍 行业展望
 
 ### VentureBeat
-![Salesforce推出Headless 360 ，将其整个平台转变为人工智能代理的基础设施](https://images.ctfassets.net/jdtwqhzvc2n1/20o4KbpCNvhGDbjACvvc46/33584beeede6af5fbfc2d328076a0e64/nuneybits_Vector_art_of_Salesforce_Tower_bc4b6995-07bd-4746-97a9-9dfda2ab92d0.webp?w=300&q=30)
-
-**[Salesforce推出Headless 360 ，将其整个平台转变为人工智能代理的基础设施](https://venturebeat.com/technology/salesforce-launches-headless-360-to-turn-its-entire-platform-into-infrastructure-for-ai-agents)**
-
-第一个支柱—以任何你想要的方式构建—提供60多种新的MCP （模型上下文协议）工具和30多种预配置的编码技能，为**Claude** Code等外部编码代理提供该平台现在与**OpenAI**、**Anthropic**、**Google** **Gemini**、**Meta**的LLaMA和Mistral AI模型集成
-
-📅 Thu, 16 Apr 2026 21:00:00 GMT
-
----
-
-### VentureBeat
 ![大多数企业无法阻止第三阶段的AI代理威胁， VentureBeat调查发现](https://images.ctfassets.net/jdtwqhzvc2n1/2oq4gxUSORHuJY6GKHVxQ1/1ff08d293fe4d0c43df9f5c7a1893344/hero_survey.png?w=300&q=30)
 
 **[大多数企业无法阻止第三阶段的AI代理威胁， VentureBeat调查发现](https://venturebeat.com/security/most-enterprises-cant-stop-stage-three-ai-agent-threats-venturebeat-survey-finds)**
@@ -211,17 +196,6 @@ Kevin Weil和Bill Peebles将离开**OpenAI** ，因为该公司关闭了Sora并�
 
 ---
 
-### VentureBeat
-![OpenAI在Github上推出GPT-Rosalind ，这是一种新的生命科学有限访问模式，以及更广泛的Codex插件](https://images.ctfassets.net/jdtwqhzvc2n1/2kuM1Fize1fBE3pybDQsvD/ae6248e28eafe454993a21e87632c189/ChatGPT_Image_Apr_16__2026__03_01_33_PM.png?w=300&q=30)
-
-**[OpenAI在Github上推出GPT-Rosalind ，这是一种新的生命科学有限访问模式，以及更广泛的Codex插件](https://venturebeat.com/technology/openai-debuts-gpt-rosalind-a-new-limited-access-model-for-life-sciences-and-broader-codex-plugin-on-github)**
-
-但**OpenAI**正在**发布**新的专用模型**GPT**-Rosalind ，专门用于加快这一过程并提高效率在其核心， **GPT**-Rosalind是针对科学工作流程优化的新系列模型中的第一个
-
-📅 Thu, 16 Apr 2026 19:02:45 GMT
-
----
-
 ### ZDNet AI
 **[这种强大的双子座设置使我的AI结果更加个性化和准确](https://www.zdnet.com/article/gemini-personal-intelligence-hands-on/)**
 
@@ -242,40 +216,34 @@ REI的5号钥匙扣价格不到7美元它们还支持**Google**的快速配对�
 
 ---
 
-### VentureBeat
-![我们得到我们付出的代价了吗？如何将人工智能的势头转化为可衡量的价值](https://images.ctfassets.net/jdtwqhzvc2n1/DqtVqZttXPsQQAic9qim9/7c71a0677fefeb40a57eb76b6067caee/184_VentureBeats_RedHat_AISummitBoston_032626.jpg?w=300&q=30)
+### Wired Technology
+**[最佳Meta眼镜（ 2026年） ： Ray-Ban ，阿肯色州奥克利](https://www.wired.com/story/best-meta-glasses/)**
 
-**[我们得到我们付出的代价了吗？如何将人工智能的势头转化为可衡量的价值](https://venturebeat.com/infrastructure/are-we-getting-what-we-paid-for-how-to-turn-ai-momentum-into-measurable-value)**
+**Meta**无疑正在赢得面部可穿戴战争你能信任这家公司吗
 
-从**DeepSeek**到现在通过云市场提供的模型**DeepSeek**等**开源**模型的出现有意义地扩展了过去三年愿意投资底层基础设施的企业的战略选择
+📅 Sun, 19 Apr 2026 11:00:00 +0000
 
-📅 Thu, 16 Apr 2026 19:55:13 GMT
+---
+
+### Wired Technology
+**[Schematik是硬件的光标。’Anthropic Wants In](https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/)**
+
+Schematik是一个旨在帮助人们为物理设备编码的程序希望它不会破坏任何东西
+
+📅 Sat, 18 Apr 2026 10:30:00 +0000
+
+---
+
+### ZDNet AI
+**[为什么我推荐去年的手机超过2026年型号-只有一个例外](https://www.zdnet.com/article/the-best-phones-you-can-buy-in-2026-are-from-2025/)**
+
+谷歌Pixel 10和三星Galaxy S25 Plus等老款机型现在比以往任何时候都更具吸引力
+
+📅 Sun, 19 Apr 2026 10:00:58 GMT
 
 ---
 
 ## 📦 GitHub热门
-
-### GitHub Active (AI/ML)
-![catboost ：快速、可扩展、高性能的决策树梯度提升库，用于Python、R、Java、C + +的排名、分类、回归和其他机器学习任务。支持CPU和GPU上的计算。](https://avatars.githubusercontent.com/u/29043415?v=4)
-
-**[catboost ：快速、可扩展、高性能的决策树梯度提升库，用于Python、R、Java、C + +的排名、分类、回归和其他机器学习任务。支持CPU和GPU上的计算。](https://github.com/catboost/catboost)**
-
-898星· 1284分叉· C + + ·快速支持CPU和GPU计算
-
-📅 2026-04-19T15:36:01Z
-
----
-
-### GitHub Active (Python)
-![weblate ：基于Web的本地化工具，具有紧密的版本控制集成。](https://avatars.githubusercontent.com/u/18286565?v=4)
-
-**[weblate ：基于Web的本地化工具，具有紧密的版本控制集成。](https://github.com/WeblateOrg/weblate)**
-
-⭐ 5833星· 1268分叉· Python ·基于Web的本地化工具，带有紧密的版本控制集成
-
-📅 2026-04-19T15:41:13Z
-
----
 
 ### GitHub New (New AI)
 ![🆕 awesome-vibe-coding ：通过与人工智能交谈，为vibe编码和构建软件提供300多种工具、平台和资源的精选列表](https://avatars.githubusercontent.com/u/89690551?v=4)
@@ -299,14 +267,63 @@ REI的5号钥匙扣价格不到7美元它们还支持**Google**的快速配对�
 
 ---
 
+### GitHub New (New AI)
+![🆕 Python Programming-Basics-For-Artificial-Intelligence ：这个Python文件夹是一个结构化的学习工作区，记录了我通过日常实践项目从初学者到更高级的编程概念的进展。](https://avatars.githubusercontent.com/u/277070735?v=4)
+
+**[🆕 Python Programming-Basics-For-Artificial-Intelligence ：这个Python文件夹是一个结构化的学习工作区，记录了我通过日常实践项目从初学者到更高级的编程概念的进展。](https://github.com/EimanTahir027/Python-Programming-Basics-For-Artificial-Intelligence)**
+
+⭐ 4 star (新项目) · Python · This Python folder is a structured learning workspace that documents my progress from beginner to more advanced programming concepts through daily practice projects
+
+📅 2026-04-17T17:38:11Z
+
+---
+
+### GitHub New (New AI)
+![🆕 free-ai-bible ：🧠面向开发人员的免费AI API和工具终极目录2026 —免费LLM API、图像生成、模型托管、本地AI。没有信用卡。没有付费墙。700多个资源。](https://avatars.githubusercontent.com/u/132249275?v=4)
+
+**[🆕 free-ai-bible ：🧠面向开发人员的免费AI API和工具终极目录2026 —免费LLM API、图像生成、模型托管、本地AI。没有信用卡。没有付费墙。700多个资源。](https://github.com/abbosaliboev/free-ai-bible)**
+
+⭐ 3 star (新项目) · Python · 🧠 The Ultimate Directory of Free AI APIs & Tools for Developers 2026 — Free LLM APIsModel Hosting
+
+📅 2026-04-17T02:25:16Z
+
+---
+
 ## 💬 社交动态
+
+### Reddit: r/artificial
+**[我构建了一个LLM代理，它使用微分几何来检测提示注入—这是实际有效的（和不有效的）](https://www.reddit.com/r/artificial/comments/1sq4wue/i_built_an_llm_proxy_that_uses_differential/)**
+
+DistilBERT和**GPT**-2 XL在培训期间都会收敛到τ ≈ τ *如果您正在向用户部署**GPT**-4或**Claude** ，并担心提示注入或行为漂移—或者如果您想告诉我为什么我的外部基准数字是错误的以及如何修复它们—我很乐意谈谈
+
+📅 2026-04-19T20:57:57.000Z
+
+---
+
+### Hacker News AI
+**[显示HN ： Auxx.ai –客户支持CRM （ Attio和N8n的组合）](https://auxx.ai)**
+
+- AI建议的回复—从对话背景生成的答案草稿— AI提供商—自带**OpenAI**、**Anthropic**或其他模型密钥
+
+📅 Sun, 19 Apr 2026 21:49:38 +0000
+
+---
+
+### Reddit: r/artificial
+**[标量循环：用于Karpathy的自动搜索模式的Python线束，不信任代理的旁白](https://www.reddit.com/r/artificial/comments/1spz2g0/scalarloop_a_python_harness_for_karpathys/)**
+
+默认shell为**Claude** -pSwap用于**GPT**-5 ，本地Llama ，测试double
+
+📅 2026-04-19T17:21:26.000Z
+
+---
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-04-19T15:39:35.868Z
+📅 2026-04-19T23:38:00.830Z
 
 ---
 
@@ -315,7 +332,7 @@ REI的5号钥匙扣价格不到7美元它们还支持**Google**的快速配对�
 
 标题： **DeepSeek** (@ **DeepSeek**_ai)/X
 
-📅 2026-04-19T15:40:55.337Z
+📅 2026-04-19T23:39:21.985Z
 
 ---
 
@@ -324,7 +341,7 @@ REI的5号钥匙扣价格不到7美元它们还支持**Google**的快速配对�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-04-19T15:40:55.337Z
+📅 2026-04-19T23:39:21.985Z
 
 ---
 
@@ -333,43 +350,16 @@ REI的5号钥匙扣价格不到7美元它们还支持**Google**的快速配对�
 
 【图片1 ：打开个人头像】（ https://pbscom/**DeepSeek**_ai/photo ）
 
-📅 2026-04-19T15:40:55.337Z
+📅 2026-04-19T23:39:21.985Z
 
 ---
 
-### Hacker News AI
-**[英伟达与游戏玩家曾经紧密的联系正在打破人工智能](https://www.cnbc.com/2026/04/18/nvidia-ai-backlash-gamers-geforce-gpu.html)**
+### Hacker News
+**[2,100个瑞士市政当局显示哪个提供商处理其官方电子邮件](https://mxmap.ch/)**
 
-com/2026/04/18/nvidia-ai-backlash-gamers-geforce-gpuhtml评论网址： https://**new**s
+正在进行的相关对话：瑞士当局希望减少对微软的依赖- https://**new**sid = 47827383评论网址： https://**new**s
 
-📅 Sun, 19 Apr 2026 14:59:35 +0000
-
----
-
-### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Title: 520: Web服务器返回未知错误
-
-📅 2026-04-19T15:39:35.868Z
-
----
-
-### X: OpenAI
-**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-警告：目标URL返回错误520 ：
-
-📅 2026-04-19T15:39:35.868Z
-
----
-
-### X: OpenAI
-**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Markdown 内容
-
-📅 2026-04-19T15:39:35.868Z
+📅 Sun, 19 Apr 2026 22:55:47 +0000
 
 ---
 
