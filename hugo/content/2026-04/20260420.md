@@ -1,12 +1,12 @@
 ---
 title: "2026年4月20日 - TZ日报"
-date: 2026-04-20T16:14:50.388Z
+date: 2026-04-20T23:46:47.829Z
 draft: false
 ---
 
 # 2026年4月20日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/4/20 16:14:50
+> 📊 今日汇总 38 条 · 🕐 2026/4/20 23:46:47
 
 ---
 
@@ -32,6 +32,24 @@ draft: false
 ---
 
 ### TechCrunch AI Products
+**[谷歌在7个新国家推出Chrome中的Gemini](https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/)**
+
+谷歌将在澳大利亚、印度尼西亚、日本、菲律宾、新加坡、韩国和越南的Chrome浏览器中**推出**Gemini该公司将在除日本以外的所有这些国家/地区的桌面和iOS中**推出**此功能
+
+📅 Mon, 20 Apr 2026 22:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[Anthropic从亚马逊获得50亿美元，并承诺1000亿美元的云支出作为回报](https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/)**
+
+亚马逊已达成另一项循环人工智能交易：它正在向**Anthropic****Anthropic**再投资50亿美元，并同意在AWS上花费1000亿美元作为回报
+
+📅 Mon, 20 Apr 2026 23:10:27 +0000
+
+---
+
+### TechCrunch AI Products
 **[据报道，尽管五角大楼存在争议，但美国国家安全局的间谍仍在使用“人类神话”](https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/)**
 
 据说NSA正在使用**Anthropic**的受限Mythos AI模型。
@@ -49,24 +67,6 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[人工智能芯片初创公司Cerebras的IPO文件](https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/)**
-
-该公司宣布与亚马逊网络服务达成协议，在亚马逊数据中心使用Cerebras芯片，并与**OpenAI**达成协议，据报道价值超过100亿美元
-
-📅 Sat, 18 Apr 2026 19:19:11 +0000
-
----
-
-### TechCrunch AI Products
-**[Anthropic与特朗普政府的关系似乎正在解冻](https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/)**
-
-尽管最近被五角大楼指定为供应链风险，但**Anthropic**仍在与特朗普政府的高层成员交谈
-
-📅 Sat, 18 Apr 2026 14:56:48 +0000
-
----
-
 ### AI News
 **[Anthropic走进白宫， Mythos是华盛顿让它进来的原因](https://www.artificialintelligence-news.com/news/anthropic-mythos-ai-cybersecurity-white-house/)**
 
@@ -76,12 +76,12 @@ draft: false
 
 ---
 
-### Hugging Face
-**[使用合成数据构建快速多语言OCR模型](https://huggingface.co/blog/nvidia/nemotron-ocr-v2)**
+### TechCrunch AI Products
+**[这不仅仅是一回事，而是另一回事](https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/)**
 
-使用合成数据构建快速多语言OCR模型
+这个句子结构（ “这不仅仅是这个—它是那个” ）在人工智能生成的写作中变得如此普遍，以至于它不再仅仅是一个写作可能是合成的线索—它几乎是一个保证
 
-📅 Fri, 17 Apr 2026 16:17:55 GMT
+📅 Mon, 20 Apr 2026 19:37:07 +0000
 
 ---
 
@@ -188,37 +188,6 @@ Palantir的意识形态倾向受到了更多的审查，因为它与ICE合作，
 
 ## 🌍 行业展望
 
-### The Verge
-![Canva首席执行官大举转向人工智能企业软件](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/DCD_Perkins_Canva.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[Canva首席执行官大举转向人工智能企业软件](https://www.theverge.com/podcast/913793/melanie-perkins-canva-ai-adobe-affinity-design)**
-
-也许大多数情况下，他们正在体验Chat**GPT**的免费版本或谷歌摆在他们面前的任何AI概述我们与**OpenAI**和**Anthropic**合作，当然还有我们自己的内部模型
-
-📅 2026-04-20T15:00:00.000Z
-
----
-
-### VentureBeat
-![大多数企业无法阻止第三阶段的AI代理威胁， VentureBeat调查发现](https://images.ctfassets.net/jdtwqhzvc2n1/2oq4gxUSORHuJY6GKHVxQ1/1ff08d293fe4d0c43df9f5c7a1893344/hero_survey.png?w=300&q=30)
-
-**[大多数企业无法阻止第三阶段的AI代理威胁， VentureBeat调查发现](https://venturebeat.com/security/most-enterprises-cant-stop-stage-three-ai-agent-threats-venturebeat-survey-finds)**
-
-根据该公司4月15日的公告， FAR AI ）显示了一种微调攻击，在针对**Claude** 3 Haiku和**GPT**-4o**OpenAI** Agents SDK的未来版本中， 72%的尝试绕过了模型级护栏， 57%的尝试绕过了TypeScript对沙箱和线束功能的支持
-
-📅 Fri, 17 Apr 2026 17:07:29 GMT
-
----
-
-### Wired Technology
-**[最佳Meta眼镜（ 2026年） ： Ray-Ban ，阿肯色州奥克利](https://www.wired.com/story/best-meta-glasses/)**
-
-**Meta**无疑正在赢得面部可穿戴战争你能信任这家公司吗
-
-📅 Sun, 19 Apr 2026 11:00:00 +0000
-
----
-
 ### Ars Technica
 **[Anthropic的Mythos AI模型引发了对涡轮增压黑客的恐惧](https://arstechnica.com/ai/2026/04/anthropics-mythos-ai-model-sparks-fears-of-turbocharged-hacking/)**
 
@@ -229,16 +198,25 @@ Palantir的意识形态倾向受到了更多的审查，因为它与ICE合作，
 ---
 
 ### ZDNet AI
-**[到目前为止，我已经测试了2026年的每个主要手机版本-今年我的购买建议正在发生变化](https://www.zdnet.com/article/the-best-phones-you-can-buy-in-2026-are-from-2025/)**
+**[Google Pixel手机有一个有用的语音信箱功能，默认情况下是隐藏的-如何启用它](https://www.zdnet.com/article/google-pixel-take-a-message-feature-how-to-use/)**
 
-测试最新的谷歌、三星和摩托罗拉手机只会让我更加欣赏去年的型号
+最新的“接收消息”功能是另一个有用的工具，用于在手机无法接通时管理来电
 
-📅 Mon, 20 Apr 2026 12:40:00 GMT
+📅 Mon, 20 Apr 2026 18:03:00 GMT
 
 ---
 
 ### TechCrunch
-**[WhatsApp正在测试高级订阅，主要是化妆品](https://techcrunch.com/2026/04/20/whatsapp-is-testing-a-premium-subscription-put-it-is-mainly-cosmetic/)**
+**[Google相册为“快速”修复添加了新的修补工具](https://techcrunch.com/2026/04/20/google-photos-adds-new-touch-up-tools-for-quick-fixes/)**
+
+您可以使用新工具来消除照片中的瑕疵、细化皮肤纹理、使眼睛变亮或使牙齿变白
+
+📅 Mon, 20 Apr 2026 20:20:29 +0000
+
+---
+
+### TechCrunch
+**[WhatsApp正在测试高级订阅，但主要是化妆品](https://techcrunch.com/2026/04/20/whatsapp-is-testing-a-premium-subscription-put-it-is-mainly-cosmetic/)**
 
 在今年早些时候**Meta**首次**推出**类似的Instagram订阅后， WhatsApp正在测试订阅
 
@@ -247,57 +225,55 @@ Palantir的意识形态倾向受到了更多的审查，因为它与ICE合作，
 ---
 
 ### The Verge
-![Birdfy的新型4K喂食器希望教您识别鸟类](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/birdfly1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![硅谷已经忘记了正常人想要什么](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268457_HUBRIS_CVIRGINIA.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[Birdfy的新型4K喂食器希望教您识别鸟类](https://www.theverge.com/tech/914832/birdfy-feeder-metal-2-4k-wide-angle-camera-ornisense-ai-price-availability)**
+**[硅谷已经忘记了正常人想要什么](https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos)**
 
-Birdfy宣布**推出**新版配备摄像头的金属喂食器，配备**升级**版摄像头，让您在沙发上盯着手机时更加亲近大自然Birdfy Feeder **Meta**l 2 （ 4K ）今天以$ 269的价格**推出**
+您可以在Chat**GPT**中输入一个单词，它可能会理解您想要的内容，或者编造一个单词，看看它是否理解您的意思这些令人惊叹的新工具揭示了英语语料库包含了很多关于其使用者的内容
 
-📅 2026-04-20T16:00:00.000Z
+📅 2026-04-20T20:30:00.000Z
 
 ---
 
 ### The Verge
-![这道意大利面酱想记录你的家人](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/prego1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![WhatsApp测试“Plus”订阅，每月只需几美元即可添加贴纸等](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/WA_EXCLUSIVE_STICKERS_WITH_OVERLAY_EFFECTS_WHATSAPP_PLUS_FEATURE_ANDROID.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[这道意大利面酱想记录你的家人](https://www.theverge.com/tech/913874/prego-connection-keeper-bundle-voice-recorder-storycorps)**
+**[WhatsApp测试“Plus”订阅，每月只需几美元即可添加贴纸等](https://www.theverge.com/tech/915172/meta-testing-whatsapp-plus-subscription)**
 
-正在**发布**一种设备，旨在记录与StoryCorps合作为子孙后代创建的餐桌周围的所有内容
+|图片： WABetaInfo WhatsApp用户正在获得一些新的定制功能-价格合理根据WABetaInfo
 
-📅 2026-04-20T13:00:00.000Z
+📅 2026-04-20T20:12:23.000Z
+
+---
+
+### The Verge
+![Google相册为面部添加了微妙的修补工具](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/googlephotos1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[Google相册为面部添加了微妙的修补工具](https://www.theverge.com/tech/915129/google-photos-image-editor-touch-up-whiten-teeth-skin-blemishes)**
+
+**Google**宣布**推出**适用于**Google**相册图像编辑器的全新修补工具系列，旨在应用微妙的增强功能全新工具即将**推出**…阅读The Verge的完整故事
+
+📅 2026-04-20T19:33:17.000Z
+
+---
+
+### MIT Tech Review
+**[下载：杀人的“镜子”细菌和中国工人对抗人工智能的双倍](https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/)**
+
+这是今天的The Download版本，我们的工作日时事通讯，提供每日剂量的技术世界正在发生的事情没有人确定合成镜像生命是否会杀死我们所有人2019年2月
+
+📅 Mon, 20 Apr 2026 12:10:00 +0000
 
 ---
 
 ## 📦 GitHub热门
-
-### GitHub Active (Python)
-![maltrail ：恶意流量检测系统](https://avatars.githubusercontent.com/u/921555?v=4)
-
-**[maltrail ：恶意流量检测系统](https://github.com/stamparm/maltrail)**
-
-⭐ 8398星· 1255叉·蟒蛇·恶意流量检测系统
-
-📅 2026-04-20T16:13:32Z
-
----
-
-### GitHub Active (AI/ML)
-![trulens ： LLM实验和人工智能代理的评估和跟踪](https://avatars.githubusercontent.com/u/51224128?v=4)
-
-**[trulens ： LLM实验和人工智能代理的评估和跟踪](https://github.com/truera/trulens)**
-
-⭐ 3260星· 265分叉· Python · LLM实验和人工智能代理的评估和跟踪
-
-📅 2026-04-20T16:13:26Z
-
----
 
 ### GitHub New (New AI)
 ![🆕 ROSE ： 🌹 ROSE ：切片范围平衡PyTorch优化器。通过范围归一化梯度更新进行无状态优化。](https://avatars.githubusercontent.com/u/29156922?v=4)
 
 **[🆕 ROSE ： 🌹 ROSE ：切片范围平衡PyTorch优化器。通过范围归一化梯度更新进行无状态优化。](https://github.com/MatthewK78/Rose)**
 
-⭐ 23 star (新项目) · Python · 🌹 Rose: Range-Of-Slice Equilibration PyTorch optimizerStateless optimization through range-normalized gradient **update**s
+⭐ 24 star (新项目) · Python · 🌹 Rose: Range-Of-Slice Equilibration PyTorch optimizerStateless optimization through range-normalized gradient **update**s
 
 📅 2026-04-17T07:43:47Z
 
@@ -314,14 +290,36 @@ Birdfy宣布**推出**新版配备摄像头的金属喂食器，配备**升级**
 
 ---
 
+### GitHub New (New AI)
+![🆕 free-ai-bible ：🧠面向开发人员的免费AI API和工具终极目录2026 —免费LLM API、图像生成、模型托管、本地AI。没有信用卡。没有付费墙。700多个资源。](https://avatars.githubusercontent.com/u/132249275?v=4)
+
+**[🆕 free-ai-bible ：🧠面向开发人员的免费AI API和工具终极目录2026 —免费LLM API、图像生成、模型托管、本地AI。没有信用卡。没有付费墙。700多个资源。](https://github.com/abbosaliboev/free-ai-bible)**
+
+⭐ 6 star (新项目) · Python · 🧠 The Ultimate Directory of Free AI APIs & Tools for Developers 2026 — Free LLM APIsModel Hosting
+
+📅 2026-04-17T02:25:16Z
+
+---
+
+### GitHub New (New AI)
+![🆕 Python Programming-Basics-For-Artificial-Intelligence ：这个Python文件夹是一个结构化的学习工作区，记录了我通过日常实践项目从初学者到更高级的编程概念的进展。](https://avatars.githubusercontent.com/u/277070735?v=4)
+
+**[🆕 Python Programming-Basics-For-Artificial-Intelligence ：这个Python文件夹是一个结构化的学习工作区，记录了我通过日常实践项目从初学者到更高级的编程概念的进展。](https://github.com/EimanTahir027/Python-Programming-Basics-For-Artificial-Intelligence)**
+
+⭐ 5 star (新项目) · Python · This Python folder is a structured learning workspace that documents my progress from beginner to more advanced programming concepts through daily practice projects
+
+📅 2026-04-17T17:38:11Z
+
+---
+
 ## 💬 社交动态
 
 ### Hacker News
-**[我提示了ChatGPT、Claude、Perplexity和Gemini ，并观看了我的Nginx日志](https://surfacedby.com/blog/nginx-logs-ai-traffic-vs-referral-traffic)**
+**[OpenAI广告合作伙伴现在根据“提示相关性”销售ChatGPT广告展示位置](https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/)**
 
-文章网址： https://surfacedbycom/blog/nginx-logs-ai-traffic-vs-referral-traffic评论网址： https://**new**s
+文章网址： https://wwwcom/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chat**GPT**-ads/评论网址： https://**new**s
 
-📅 Mon, 20 Apr 2026 15:22:01 +0000
+📅 Mon, 20 Apr 2026 21:20:52 +0000
 
 ---
 
@@ -330,16 +328,7 @@ Birdfy宣布**推出**新版配备摄像头的金属喂食器，配备**升级**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-04-20T16:11:32.367Z
-
----
-
-### X: DeepSeek
-**[标题： DeepSeek (@ deepseek_ai)/X](https://r.jina.ai/http://twitter.com/deepseek_ai)**
-
-标题： **DeepSeek** (@ **DeepSeek**_ai)/X
-
-📅 2026-04-20T16:12:52.210Z
+📅 2026-04-20T23:43:43.626Z
 
 ---
 
@@ -348,25 +337,16 @@ Birdfy宣布**推出**新版配备摄像头的金属喂食器，配备**升级**
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-04-20T16:12:52.210Z
-
----
-
-### X: DeepSeek
-**[[! [图片1 ：打开个人头像] (https://pbs.twimg.com/profile_images/1717417613775757312/Uk1zNOj4_2...](https://r.jina.ai/http://twitter.com/deepseek_ai)**
-
-【图片1 ：打开个人头像】（ https://pbscom/**DeepSeek**_ai/photo ）
-
-📅 2026-04-20T16:12:52.210Z
+📅 2026-04-20T23:44:50.147Z
 
 ---
 
 ### Hacker News AI
-**[抽象谬误：为什么人工智能可以模拟而不是实例化意识](https://deepmind.google/research/publications/231971/)**
+**[Show HN ：解释法律–使用人工智能简化立法和行政命令](https://explainthelaw.com/)**
 
-文章网址： https://deepmind**Google**/research/publications/231971/评论网址： https://**new**s
+我创建了“解释法律” ，以便更容易理解法案和行政命令5专业版生成摘要-我使用**Gemini**
 
-📅 Mon, 20 Apr 2026 15:42:29 +0000
+📅 Mon, 20 Apr 2026 20:04:40 +0000
 
 ---
 
@@ -375,7 +355,7 @@ Birdfy宣布**推出**新版配备摄像头的金属喂食器，配备**升级**
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-04-20T16:11:32.367Z
+📅 2026-04-20T23:43:43.626Z
 
 ---
 
@@ -384,7 +364,25 @@ Title: 520: Web服务器返回未知错误
 
 警告：目标URL返回错误520 ：
 
-📅 2026-04-20T16:11:32.367Z
+📅 2026-04-20T23:43:43.626Z
+
+---
+
+### X: OpenAI
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Markdown 内容
+
+📅 2026-04-20T23:43:43.626Z
+
+---
+
+### X: OpenAI
+**[# twitter.com | 520 ： Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+# twitter.com | 520 ： Web服务器返回未知错误
+
+📅 2026-04-20T23:43:43.626Z
 
 ---
 
