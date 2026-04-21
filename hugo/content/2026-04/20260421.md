@@ -1,12 +1,12 @@
 ---
 title: "2026年4月21日 - TZ日报"
-date: 2026-04-21T16:16:46.410Z
+date: 2026-04-21T23:40:36.665Z
 draft: false
 ---
 
 # 2026年4月21日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/4/21 16:16:46
+> 📊 今日汇总 38 条 · 🕐 2026/4/21 23:40:36
 
 ---
 
@@ -32,11 +32,20 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[谷歌在亚太地区推出Chrome浏览器中的Gemini](https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/)**
+**[ChatGPT的新图像2.0模型出奇地擅长生成文本](https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/)**
 
-谷歌将在澳大利亚、印度尼西亚、日本、菲律宾、新加坡、韩国和越南的Chrome浏览器中**推出**Gemini该公司将在除日本以外的所有这些国家/地区的桌面和iOS中**推出**此功能
+**OpenAI**最新的**图像生成**模型Chat**GPT** Images 20展示了过去几年人工智能能力的发展
 
-📅 Mon, 20 Apr 2026 22:00:00 +0000
+📅 Tue, 21 Apr 2026 19:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[Sam Altman抨击Anthropic的网络模型Mythos ： “基于恐惧的营销”](https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/)**
+
+**OpenAI**首席执行官山姆·奥尔特曼（ Sam Altman ）在播客中介绍了他的竞争对手的新网络安全模型
+
+📅 Tue, 21 Apr 2026 18:51:52 +0000
 
 ---
 
@@ -61,36 +70,18 @@ Ads Advisor中集成了三项新的代理安全和策略功能，将有助于保
 ---
 
 ### TechCrunch AI Products
-**[Anthropic从亚马逊获得50亿美元，并承诺1000亿美元的云支出作为回报](https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/)**
+**[报告称，未经授权的团体已获得Anthropic独家网络工具Mythos的访问权限](https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/)**
 
-亚马逊已达成另一项循环人工智能交易：它正在向**Anthropic****Anthropic**再投资50亿美元，并同意在AWS上花费1000亿美元作为回报
+**Anthropic**告诉TechCrunch ，它正在调查这些说法，但坚持认为没有证据表明其系统受到了影响
 
-📅 Mon, 20 Apr 2026 23:10:27 +0000
-
----
-
-### TechCrunch AI Products
-**[据报道，尽管五角大楼存在争议，但美国国家安全局的间谍仍在使用“人类神话”](https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/)**
-
-据说NSA正在使用**Anthropic**的受限Mythos AI模型。
-
-📅 Mon, 20 Apr 2026 16:06:21 +0000
-
----
-
-### TechCrunch AI Products
-**[OpenAI的存在主义问题](https://techcrunch.com/2026/04/19/openais-existential-questions/)**
-
-在最新一期的Equity中，我们讨论了**OpenAI**的最新收购，以及它们是否解决了公司的“两大生存问题”
-
-📅 Sun, 19 Apr 2026 21:24:06 +0000
+📅 Tue, 21 Apr 2026 23:26:45 +0000
 
 ---
 
 ### AI News
 **[Anthropic走进白宫， Mythos是华盛顿让它进来的原因](https://www.artificialintelligence-news.com/news/anthropic-mythos-ai-cybersecurity-white-house/)**
 
-这个故事是关于一个太危险而不能公开**发布**的模型，以及**Anthropic**决定用它来做什么财政部[…] **Anthropic**走进白宫后，神话是华盛顿让它首先出现在人工智能新闻的原因
+这个故事是关于一个太危险而不能公开**发布**的模型，以及**Anthropic**决定用它来做什么财政部[…] **Anthropic**走进白宫后， Mythos是华盛顿让它首先出现在人工智能新闻的原因
 
 📅 Mon, 20 Apr 2026 08:00:00 +0000
 
@@ -114,6 +105,15 @@ QIMMA قِمّة ⛰：质量第一的阿拉伯语法学硕士排行榜
 
 ---
 
+### Hugging Face
+**[人工智能与网络安全的未来：为什么开放很重要](https://huggingface.co/blog/cybersecurity-openness)**
+
+人工智能与网络安全的未来：为什么开放很**重要**
+
+📅 Tue, 21 Apr 2026 00:00:00 GMT
+
+---
+
 ## 🔬 前沿研究
 
 ### ArXiv Multiagent (cs.MA)
@@ -122,6 +122,15 @@ QIMMA قِمّة ⛰：质量第一的阿拉伯语法学硕士排行榜
 17220v1公告类型：新摘要：在复杂的多轮决策中，生成代理之间的协调建模是人工智能和运营管理的核心挑战与之前的同类设置不同，我们使用**DeepSeek**和**GPT**代理来系统地改变供应链各层的推理复杂性
 
 📅 Tue, 21 Apr 2026 00:00:00 -0400
+
+---
+
+### MIT Tech Research
+**[法学硕士](https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/)**
+
+当Chat**GPT**在2022年底作为实验原型**推出**时， **OpenAI**的聊天机器人成为了数亿人的日常生活应用程序。像Chat**GPT**这样的LLM是新的未来：整个科技行业都被地狱所吞噬，公司竞相**推出**竞争对手的产品
+
+📅 Tue, 21 Apr 2026 20:45:00 +0000
 
 ---
 
@@ -170,21 +179,12 @@ QIMMA قِمّة ⛰：质量第一的阿拉伯语法学硕士排行榜
 
 ---
 
-### ArXiv AI (cs.AI)
-**[DeepER-Med ：通过Agentic AI推进深度循证医学研究](https://arxiv.org/abs/2604.15456)**
+### MIT Tech Research
+**[增压诈骗](https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/)**
 
-15456v1公告类型：新摘要：可信度和透明度对于在医疗保健和生物医学研究中临床采用人工智能（ AI ）至关**重要**大多数现有系统缺乏明确且可检查的证据评估标准
+当Chat**GPT**于2022年底向公众**发布**时，他们很快就开始使用大型语言模型来制作恶意电子邮件-无论是非目标垃圾邮件类型还是更复杂的电子邮件
 
-📅 Tue, 21 Apr 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[GIST ：通过智能语义拓扑进行多模态知识提取和空间接地](https://arxiv.org/abs/2604.15495)**
-
-15495v1公告类型：新摘要：在零售商店等复杂密集环境中导航
-
-📅 Tue, 21 Apr 2026 00:00:00 -0400
+📅 Tue, 21 Apr 2026 20:45:00 +0000
 
 ---
 
@@ -202,6 +202,28 @@ QIMMA قِمّة ⛰：质量第一的阿拉伯语法学硕士排行榜
 ---
 
 ### VentureBeat
+![人工智能治理海市蜃楼：为什么72%的企业没有他们认为自己拥有的控制权和安全性](https://images.ctfassets.net/jdtwqhzvc2n1/3WMHdvrskEj3HdPeIS9rrR/9af392294440928de19655b5f5e212a8/the_governance_mirage.png?w=300&q=30)
+
+**[人工智能治理海市蜃楼：为什么72%的企业没有他们认为自己拥有的控制权和安全性](https://venturebeat.com/orchestration/the-ai-governance-mirage-why-72-of-enterprises-dont-have-the-control-and-security-they-think-they-do)**
+
+**OpenAI**还宣布了一个以安全为中心的模型， **GPT**-5它表明人工智能巨头之间的战争的赢家— **OpenAI** ， **Anthropic** ， **Google** ， Microsoft等
+
+📅 Tue, 21 Apr 2026 19:04:56 GMT
+
+---
+
+### VentureBeat
+![OpenAI的ChatGPT Images 2.0在这里，它提供了多语言文本，完整的信息图表，幻灯片，地图，甚至漫画—看起来完美无瑕](https://images.ctfassets.net/jdtwqhzvc2n1/1oLxFxfGFj9SctaWVV5dCq/4d7928375d881cfc6abc296dc0edfd8c/ChatGPT_Image_Apr_21__2026__02_55_37_PM.png?w=300&q=30)
+
+**[OpenAI的ChatGPT Images 2.0在这里，它提供了多语言文本，完整的信息图表，幻灯片，地图，甚至漫画—看起来完美无瑕](https://venturebeat.com/technology/openais-chatgpt-images-2-0-is-here-and-it-does-multilingual-text-full-infographics-slides-maps-even-manga-seemingly-flawlessly)**
+
+自从**OpenAI**在Chat**GPT**中并通过其应用程序编程接口（ API ）**发布**其对AI**图像生成**的最后一次**重大**改进以来，只有几个月了—即**OpenAI**没有提前向我们**发布**Chat**GPT**图像2的基准
+
+📅 Tue, 21 Apr 2026 19:00:00 GMT
+
+---
+
+### VentureBeat
 ![您应该使用哪种人工智能模型进行收入情报？ Von说所有大的，它将为您自动混合和匹配](https://images.ctfassets.net/jdtwqhzvc2n1/6cFi0TSIzUnGM9A9PX7piF/233191a2283cef60993c78ef5b537e0f/ChatGPT_Image_Apr_21__2026__10_21_56_AM.png?w=300&q=30)
 
 **[您应该使用哪种人工智能模型进行收入情报？ Von说所有大的，它将为您自动混合和匹配](https://venturebeat.com/orchestration/what-ai-model-should-you-use-for-revenue-intelligence-von-says-all-the-big-ones-and-it-will-automate-mixing-and-matching-for-you)**
@@ -213,66 +235,59 @@ QIMMA قِمّة ⛰：质量第一的阿拉伯语法学硕士排行榜
 ---
 
 ### The Verge
-![戴森最新的洗地机已经以8折的价格出售](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/dysonmop2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![SpaceX达成协议，可能以600亿美元收购Cursor](https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[戴森最新的洗地机已经以8折的价格出售](https://www.theverge.com/gadgets/915137/dyson-clean-wash-hygiene-wet-cleaner-hades-2-deal-nintendo-sale)**
+**[SpaceX达成协议，可能以600亿美元收购Cursor](https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition)**
 
-**Google**的第一方产品更易于签署它还具有许多**Google** **Gemini**支持的功能（包括Circle to Search ）和Snapdragon 4 Gen 2处理器
+随着埃隆·马斯克（ Elon Musk ）的SpaceX/xAI/X公司组合盘的IPO迫在眉睫，据报道，萨姆·奥尔特曼（ Sam Altman ）去年在**OpenAI**宣布了一个“红色代码” ，然后关闭了Sora ，专注于Chat**GPT**超级应用程序及其自己的Codex...阅读The Verge的完整故事
 
-📅 2026-04-21T16:09:00.000Z
+📅 2026-04-21T22:45:37.000Z
 
 ---
 
 ### VentureBeat
-![对手在90多个组织中劫持了人工智能安全工具。下一波具有对防火墙的写入访问权限](https://images.ctfassets.net/jdtwqhzvc2n1/46SzboB6NVjamCROg8pfcE/a20c84d337fb68ef55e801810cab5308/hero.png?w=300&q=30)
+![谷歌新推出的Deep Research和Deep Research Max代理可以搜索网络和您的私人数据](https://images.ctfassets.net/jdtwqhzvc2n1/XnHzMo0vBDWmcq26xBte3/4a3d68b62ae2c7ac004b7706cf2cebe5/nuneybits_Vector_art_of_Google_logo_morphing_into_research_grap_58bdb7e1-2ede-42c5-9881-d2674c2d9475.webp?w=300&q=30)
 
-**[对手在90多个组织中劫持了人工智能安全工具。下一波具有对防火墙的写入访问权限](https://venturebeat.com/security/adversaries-hijacked-ai-security-tools-at-90-organizations-the-next-wave-has-write-access-to-the-firewall)**
+**[谷歌新推出的Deep Research和Deep Research Max代理可以搜索网络和您的私人数据](https://venturebeat.com/technology/googles-new-deep-research-and-deep-research-max-agents-can-search-the-web-and-your-private-data)**
 
-Ivanti上周**推出**了Continuous Compliance和Neurons AI自助服务代理Ivanti还为ITSM**推出**了Neurons AI自助服务代理
+为什么谷歌构建了两个研究代理而不是一个**发布**引入了一个分层架构，反映了人工智能代理设计中的一个基本张力：速度和彻底性之间的权衡**OpenAI**一直在Chat**GPT**中以代号Hermes开发自己的代理功能
 
-📅 Tue, 21 Apr 2026 12:05:00 GMT
-
----
-
-### ZDNet AI
-**[我已经测试了每一个Razr和Galaxy Flip ：摩托罗拉压扁三星可折叠手机的3个原因](https://www.zdnet.com/article/motorola-is-beating-samsung-at-making-flip-phones-and-im-not-surprised-at-all/)**
-
-这就是为什么摩托罗拉拥有一半的美国可折叠市场，尽管来自三星和谷歌的竞争。
-
-📅 Tue, 21 Apr 2026 13:03:00 GMT
+📅 Tue, 21 Apr 2026 20:43:18 GMT
 
 ---
 
-### The Verge
-![Xbox Game Pass Ultimate降价，但失去了新的《使命召唤》游戏](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290359/STK048_XBOX_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### VentureBeat
+![Kimi K2.6运行代理数天—并揭示了企业编排的局限性](https://images.ctfassets.net/jdtwqhzvc2n1/40fR9CpmE4uh4lmBKbjUoL/5b2fdc6ef487f98dffd012e7c463e2f2/crimedy7_illustration_of_robots_running_a_marathon_--ar_169_-_efc437bd-489e-444c-88e3-8cf58e91a063_3.png?w=300&q=30)
 
-**[Xbox Game Pass Ultimate降价，但失去了新的《使命召唤》游戏](https://www.theverge.com/news/915928/microsoft-xbox-game-pass-ultimate-price-drop)**
+**[Kimi K2.6运行代理数天—并揭示了企业编排的局限性](https://venturebeat.com/orchestration/kimi-k2-6-runs-agents-for-days-and-exposes-the-limits-of-enterprise-orchestration)**
 
-在Xbox首席执行官Asha Sharma上周承认“Game Pass对玩家来说太贵了”之后，微软正在降低Xbox Game Pass Ultimate和PC Game Pass的价格
+如**Anthropic** with **Claude** Code和**OpenAI** with Codex**开源**模型提供商**Moonshot** AI希望通过其新模型Kimi K2
 
-📅 2026-04-21T16:03:27.000Z
-
----
-
-### MIT Tech Review
-**[下载：降低人为噪音，升级洛杉矶地铁](https://www.technologyreview.com/2026/04/21/1136246/the-download-human-noise-la-subway-upgrade/)**
-
-这是今天的The Download版本，我们的工作日时事通讯，提供每日剂量的技术世界正在发生的事情我们发出的噪音正在伤害动物
-
-📅 Tue, 21 Apr 2026 12:10:00 +0000
+📅 Tue, 21 Apr 2026 16:55:30 GMT
 
 ---
 
-### MIT Tech Review
-**[挖掘有关北极过去的线索](https://www.technologyreview.com/2026/04/21/1135231/digging-for-truth-north-pole-past-seabed/)**
+### Wired Technology
+**[OpenAI提升ChatGPT的图像生成模型](https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/)**
 
-在过去，即使有破冰船，在融化高峰期，到达北极也不是一个确定的选择。不过，在2025年的夏天， Jochen Knies……
+Chat**GPT** Images 20模型在这里
 
-📅 Tue, 21 Apr 2026 10:00:00 +0000
+📅 Tue, 21 Apr 2026 19:00:00 +0000
 
 ---
 
 ## 📦 GitHub热门
+
+### GitHub Active (AI/ML)
+![tech.ml.dataset ： Clojure高性能数据处理系统](https://avatars.githubusercontent.com/u/35818444?v=4)
+
+**[tech.ml.dataset ： Clojure高性能数据处理系统](https://github.com/techascent/tech.ml.dataset)**
+
+⭐ 742星· 34叉· Clojure · Clojure高性能数据处理系统
+
+📅 2026-04-21T23:38:14Z
+
+---
 
 ### GitHub New (New AI)
 ![🆕 伪投影仪： Vitaly Bulgakov在Mass General Brigham提出的伪投影仪的实现](https://avatars.githubusercontent.com/u/108653?v=4)
@@ -307,34 +322,14 @@ Ivanti上周**推出**了Continuous Compliance和Neurons AI自助服务代理Iva
 
 ---
 
-### GitHub New (New AI)
-![🆕 torqueLens ：汽车情绪和主题智能。交互式可视化可以回答诸如“随着时间的推移，电动汽车对话的趋势是否更负面？”或“哪些品牌最常被讨论在一起？”等问题。](https://avatars.githubusercontent.com/u/60936167?v=4)
-
-**[🆕 torqueLens ：汽车情绪和主题智能。交互式可视化可以回答诸如“随着时间的推移，电动汽车对话的趋势是否更负面？”或“哪些品牌最常被讨论在一起？”等问题。](https://github.com/takinur/torqueLens)**
-
-⭐ 2 star (新项目) · Jupyter Notebook · Automotive Sentiment & Topic Intelligence" or "Which brands are most often discussed together
-
-📅 2026-04-18T13:28:11Z
-
----
-
 ## 💬 社交动态
-
-### Hacker News
-**[Show HN ： GoModel – Go中的开源AI网关；比LiteLLM轻44倍](https://github.com/ENTERPILOT/GOModel/)**
-
-它是一个**开源**的人工智能网关，位于您的应用程序和模型提供商（如**OpenAI**、**Anthropic**或othersai/berriai/litellm ： latest "~ 746 MB on amd64 ）之间-请求工作流程可见且易于检查-默认情况下， config是环境变量优先的网站： https://gomodel
-
-📅 Tue, 21 Apr 2026 14:11:53 +0000
-
----
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-04-21T16:13:08.213Z
+📅 2026-04-21T23:36:52.881Z
 
 ---
 
@@ -343,7 +338,16 @@ Ivanti上周**推出**了Continuous Compliance和Neurons AI自助服务代理Iva
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-04-21T16:14:14.519Z
+📅 2026-04-21T23:38:12.150Z
+
+---
+
+### Hacker News AI
+**[Meta将通过跟踪员工的鼠标、键盘使用情况来培训AI智能体](https://arstechnica.com/ai/2026/04/meta-will-use-employee-tracking-software-to-help-train-ai-agents-report/ning-data-2026-04-21/)**
+
+文章网址： https://arstechnicacom/ai/2026/04/**Meta**-will-use-employee-tracking-software-to-help-train-ai-agents-report/ning-data-2026-04-21/评论网址： https://**new**s
+
+📅 Tue, 21 Apr 2026 20:48:56 +0000
 
 ---
 
@@ -352,7 +356,7 @@ Ivanti上周**推出**了Continuous Compliance和Neurons AI自助服务代理Iva
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-04-21T16:13:08.213Z
+📅 2026-04-21T23:36:52.881Z
 
 ---
 
@@ -361,7 +365,7 @@ Title: 520: Web服务器返回未知错误
 
 警告：目标URL返回错误520 ：
 
-📅 2026-04-21T16:13:08.213Z
+📅 2026-04-21T23:36:52.881Z
 
 ---
 
@@ -370,7 +374,7 @@ Title: 520: Web服务器返回未知错误
 
 Markdown 内容
 
-📅 2026-04-21T16:13:08.213Z
+📅 2026-04-21T23:36:52.881Z
 
 ---
 
@@ -379,7 +383,7 @@ Markdown 内容
 
 # twitter.com | 520 ： Web服务器返回未知错误
 
-📅 2026-04-21T16:13:08.213Z
+📅 2026-04-21T23:36:52.881Z
 
 ---
 
@@ -388,7 +392,7 @@ Markdown 内容
 
 网址来源： http://twitter.com/sama
 
-📅 2026-04-21T16:13:24.116Z
+📅 2026-04-21T23:37:08.680Z
 
 ---
 
