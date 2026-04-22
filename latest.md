@@ -1,12 +1,12 @@
 ---
 title: "2026年4月22日 - TZ日报"
-date: 2026-04-22T16:14:57.929Z
+date: 2026-04-22T23:49:38.810Z
 draft: false
 ---
 
 # 2026年4月22日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/4/22 16:14:57
+> 📊 今日汇总 38 条 · 🕐 2026/4/22 23:49:38
 
 ---
 
@@ -23,11 +23,47 @@ draft: false
 ## ✨ 产品更新
 
 ### OpenAI Blog
+**[使ChatGPT更好地为临床医生服务](https://openai.com/index/making-chatgpt-better-for-clinicians)**
+
+**OpenAI**为经过认证的医生、执业护士和药剂师免费提供Chat**GPT** ，为临床护理、文档和研究提供支持
+
+📅 Wed, 22 Apr 2026 15:00:00 GMT
+
+---
+
+### OpenAI Blog
 **[OpenAI帮助凯悦在同事中推进人工智能](https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise)**
 
 凯悦在其全球员工队伍中部署了Chat**GPT** Enterprise ，使用**GPT**-54和Codex来提高生产力、运营和客户体验
 
 📅 Mon, 20 Apr 2026 00:00:00 GMT
+
+---
+
+### TechCrunch AI Products
+**[谷歌云推出两款全新AI芯片与英伟达展开竞争](https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/)**
+
+谷歌最新的TPU比以前的版本更快、更便宜，但该公司仍然在其云中拥抱Nvidia —目前
+
+📅 Wed, 22 Apr 2026 18:39:27 +0000
+
+---
+
+### TechCrunch AI Products
+**[谷歌将Chrome变成工作场所的人工智能同事](https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/)**
+
+谷歌为企业用户带来双子座支持的“自动浏览”功能，让员工自动执行研究等任务
+
+📅 Wed, 22 Apr 2026 17:30:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[谷歌通过面向企业的新代理构建工具做出了有趣的选择](https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/)**
+
+**Gemini**企业代理平台采用了一种有趣的方法：它面向IT和技术用户
+
+📅 Wed, 22 Apr 2026 16:58:27 +0000
 
 ---
 
@@ -40,12 +76,21 @@ Mira Murati的思维机器实验室与谷歌云签署了一项价值数十亿美
 
 ---
 
-### TechCrunch AI Products
-**[SpaceX正在与Cursor合作，并可以选择以600亿美元的价格收购这家初创公司](https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/)**
+### OpenAI Blog
+**[在ChatGPT中引入工作空间代理](https://openai.com/index/introducing-workspace-agents-in-chatgpt)**
 
-此举可能会巩固每家公司的弱点，但它也揭示了他们无论是Cursor还是xAI都没有与**Anthropic**和**OpenAI**的领先产品相匹配的专有模型—这些公司现在直接与Cursor争夺开发者市场
+Chat**GPT**中的工作空间代理是Codex支持的代理，可自动化复杂的工作流程，并帮助团队安全地跨工具扩展工作
 
-📅 Tue, 21 Apr 2026 22:58:22 +0000
+📅 Wed, 22 Apr 2026 10:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[工作空间代理](https://openai.com/academy/workspace-agents)**
+
+了解如何在Chat**GPT**中构建、使用和扩展工作空间代理，以自动化可重复的工作流、连接工具并简化团队运营
+
+📅 Wed, 22 Apr 2026 10:00:00 GMT
 
 ---
 
@@ -59,60 +104,11 @@ Mira Murati的思维机器实验室与谷歌云签署了一项价值数十亿美
 ---
 
 ### OpenAI Blog
-**[将Codex扩展到全球企业](https://openai.com/index/scaling-codex-to-enterprises-worldwide)**
+**[ChatGPT Images 2.0简介](https://openai.com/index/introducing-chatgpt-images-2-0)**
 
-**OpenAI**携手埃森哲**推出**Codex Labspartners
+Chat**GPT** Images 20引入了最先进的**图像生成**模型，具有改进的文本渲染、多语言支持和高级视觉推理功能
 
-📅 Tue, 21 Apr 2026 00:00:00 GMT
-
----
-
-### Google AI Blog
-![我们正在为代理时代推出两款专门的TPU。](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Were_launching_two_TPUs_social.max-600x600.format-webp.webp)
-
-**[我们正在为代理时代推出两款专门的TPU。](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/)**
-
-第八代谷歌TPU包括两个专用芯片，将为AI的未来提供动力
-
-📅 Wed, 22 Apr 2026 12:00:00 +0000
-
----
-
-### Google AI Blog
-![Ads Advisor让Google Ads更安全、更快捷的3种新方法](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Road_to_GML_Master-Header.max-600x600.format-webp.webp)
-
-**[Ads Advisor让Google Ads更安全、更快捷的3种新方法](https://blog.google/products/ads-commerce/ads-advisor-google-ads/)**
-
-Ads Advisor中集成了三项新的代理安全和策略功能，将有助于保护和简化您的**Google** Ads帐户
-
-📅 Tue, 21 Apr 2026 14:30:00 +0000
-
----
-
-### DeepMind Blog
-**[与行业领导者合作，加速人工智能转型](https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/)**
-
-**Google** DeepMind与全球咨询公司合作，将前沿人工智能的力量带给世界各地的组织
-
-📅 Tue, 21 Apr 2026 14:54:15 +0000
-
----
-
-### TechCrunch AI Products
-**[OpenAI与Infosys合作，将人工智能工具带给更多企业](https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/)**
-
-Infosys表示，此次整合将用于帮助其客户实现软件开发的现代化并部署人工智能系统
-
-📅 Wed, 22 Apr 2026 14:22:10 +0000
-
----
-
-### TechCrunch AI Products
-**[谷歌地图即将获得大量的人工智能](https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/)**
-
-生成式人工智能正在被注入谷歌地图的热门功能中。
-
-📅 Wed, 22 Apr 2026 12:00:00 +0000
+📅 Tue, 21 Apr 2026 12:00:00 GMT
 
 ---
 
@@ -193,24 +189,24 @@ Infosys表示，此次整合将用于帮助其客户实现软件开发的现代�
 ## 🌍 行业展望
 
 ### VentureBeat
-![人工智能治理海市蜃楼：为什么72%的企业没有他们认为自己拥有的控制权和安全性](https://images.ctfassets.net/jdtwqhzvc2n1/3WMHdvrskEj3HdPeIS9rrR/9af392294440928de19655b5f5e212a8/the_governance_mirage.png?w=300&q=30)
+![Google不缴纳Nvidia税。它的新TPU解释了原因。](https://images.ctfassets.net/jdtwqhzvc2n1/7Lv60ZibdUZoJ7qlsTTtBS/28670e6d74be8e010be8906057eb9bae/PXL_20260422_025515735.jpg?w=300&q=30)
 
-**[人工智能治理海市蜃楼：为什么72%的企业没有他们认为自己拥有的控制权和安全性](https://venturebeat.com/orchestration/the-ai-governance-mirage-why-72-of-enterprises-dont-have-the-control-and-security-they-think-they-do)**
+**[Google不缴纳Nvidia税。它的新TPU解释了原因。](https://venturebeat.com/orchestration/google-doesnt-pay-the-nvidia-tax-its-new-tpus-explain-why)**
 
-**OpenAI**还宣布了一个以安全为中心的模型， **GPT**-5它表明人工智能巨头之间的战争的赢家— **OpenAI** ， **Anthropic** ， **Google** ， Microsoft等
+利用他的时间在舞台上提出对企业买家来说比任何单个规格更**重要**的观点：谷歌设计其AI堆栈的每一层端到端**OpenAI**、**Anthropic**、xAI和**Meta**都严重依赖英伟达芯片来训练他们的前沿模型
 
-📅 Tue, 21 Apr 2026 19:04:56 GMT
+📅 Wed, 22 Apr 2026 17:04:17 GMT
 
 ---
 
 ### VentureBeat
-![现代数据栈是为人类提问而构建的。谷歌刚刚为采取行动的代理重新构建了ITS。](https://images.ctfassets.net/jdtwqhzvc2n1/7JOcKIiJMNNcc0RrsUcZlD/83fb356184de655f40f7dd9cd89c2cec/google-data-stack-smk1.png?w=300&q=30)
+![谷歌和AWS在控制和执行之间拆分AI代理堆栈](https://images.ctfassets.net/jdtwqhzvc2n1/1Vp25PZDnQQMBBb7WLhth0/f565b23d4dfbc56def7a55fae6405769/crimedy7_illustration_of_a_schism_but_related_to_artificial_i_2d035a47-60c4-4cab-9029-d5ee39e3dbdc_0.png?w=300&q=30)
 
-**[现代数据栈是为人类提问而构建的。谷歌刚刚为采取行动的代理重新构建了ITS。](https://venturebeat.com/data/the-modern-data-stack-was-built-for-humans-asking-questions-google-just-rebuilt-its-for-agents-taking-action)**
+**[谷歌和AWS在控制和执行之间拆分AI代理堆栈](https://venturebeat.com/orchestration/google-and-aws-split-the-ai-agent-stack-between-control-and-execution)**
 
-谷歌周三在Cloud Next上宣布的答案是Agentic Data Cloud**Claude** Code和**Gemini** CLI ，因此数据工程师描述结果而不是编写管道“数据架构现在必须改变
+过去一个月，随着竞争对手**发布**或**更新**其代理构建器平台，关于如何管理和控制的辩论获得了新的能量- **Anthropic**与新的**Claude** Managed Agents和**OpenAI**一起增强了代理SDK ，为开发人员团队提供了管理代理的选项Google**发布**了新版本的**Gemini** Enterprise
 
-📅 Wed, 22 Apr 2026 12:00:00 GMT
+📅 Wed, 22 Apr 2026 21:37:00 GMT
 
 ---
 
@@ -226,64 +222,66 @@ Infosys表示，此次整合将用于帮助其客户实现软件开发的现代�
 ---
 
 ### VentureBeat
-![OpenAI的ChatGPT Images 2.0在这里，它提供了多语言文本，完整的信息图表，幻灯片，地图，甚至漫画—看起来完美无瑕](https://images.ctfassets.net/jdtwqhzvc2n1/1oLxFxfGFj9SctaWVV5dCq/4d7928375d881cfc6abc296dc0edfd8c/ChatGPT_Image_Apr_21__2026__02_55_37_PM.png?w=300&q=30)
+![现代数据栈是为人类提问而构建的。谷歌刚刚为采取行动的代理重新构建了ITS。](https://images.ctfassets.net/jdtwqhzvc2n1/7JOcKIiJMNNcc0RrsUcZlD/83fb356184de655f40f7dd9cd89c2cec/google-data-stack-smk1.png?w=300&q=30)
 
-**[OpenAI的ChatGPT Images 2.0在这里，它提供了多语言文本，完整的信息图表，幻灯片，地图，甚至漫画—看起来完美无瑕](https://venturebeat.com/technology/openais-chatgpt-images-2-0-is-here-and-it-does-multilingual-text-full-infographics-slides-maps-even-manga-seemingly-flawlessly)**
+**[现代数据栈是为人类提问而构建的。谷歌刚刚为采取行动的代理重新构建了ITS。](https://venturebeat.com/data/the-modern-data-stack-was-built-for-humans-asking-questions-google-just-rebuilt-its-for-agents-taking-action)**
 
-自**OpenAI**在Chat**GPT**中并通过其应用程序编程接口（ API ）**发布**其对AI**图像生成**的最后一次**重大**改进以来，只有几个月了—即**OpenAI**没有提前向我们**发布**Chat**GPT**图像2的基准
-
-📅 Tue, 21 Apr 2026 19:00:00 GMT
-
----
-
-### VentureBeat
-![谷歌新推出的Deep Research和Deep Research Max代理可以搜索网络和您的私人数据](https://images.ctfassets.net/jdtwqhzvc2n1/XnHzMo0vBDWmcq26xBte3/4a3d68b62ae2c7ac004b7706cf2cebe5/nuneybits_Vector_art_of_Google_logo_morphing_into_research_grap_58bdb7e1-2ede-42c5-9881-d2674c2d9475.webp?w=300&q=30)
-
-**[谷歌新推出的Deep Research和Deep Research Max代理可以搜索网络和您的私人数据](https://venturebeat.com/technology/googles-new-deep-research-and-deep-research-max-agents-can-search-the-web-and-your-private-data)**
-
-为什么谷歌构建了两个研究代理而不是一个**发布**引入了一个分层架构，反映了人工智能代理设计中的一个基本张力：速度和彻底性之间的权衡**OpenAI**一直在Chat**GPT**中以代号Hermes开发自己的代理功能
-
-📅 Tue, 21 Apr 2026 20:43:18 GMT
-
----
-
-### Wired Technology
-**[新的燃气数据中心可能比整个国家排放更多的温室气体](https://www.wired.com/story/new-gas-powered-data-centers-could-emit-more-greenhouse-gases-than-entire-nations/)**
-
-对使用天然气并与**OpenAI**和xAI相关联的数据中心项目的许可证进行的有线审查显示，它们每年可能排放超过1.29亿吨温室气体
-
-📅 Wed, 22 Apr 2026 10:30:00 +0000
-
----
-
-### Ars Technica
-**[佛罗里达州探索ChatGPT在大规模枪击事件中的作用。OpenAI说机器人“不负责任”。](https://arstechnica.com/tech-policy/2026/04/florida-probes-chatgpt-role-in-mass-shooting-openai-says-bot-not-responsible/)**
-
-Chat**GPT**会因为大规模枪击事件而受到指责吗？佛罗里达州正在进行调查。
-
-📅 Tue, 21 Apr 2026 20:01:36 +0000
-
----
-
-### ZDNet AI
-**[谷歌如何为代理时代改造Gemini Enterprise -以下是新功能](https://www.zdnet.com/article/google-cloud-next-enterprise-agent-platform-ai/)**
-
-认识**Gemini**企业代理平台，这是一种新的开发人员工具，用于大规模管理代理车队
+谷歌周三在Cloud Next上宣布的答案是Agentic Data Cloud**Claude** Code和**Gemini** CLI ，因此数据工程师描述结果而不是编写管道“数据架构现在必须改变
 
 📅 Wed, 22 Apr 2026 12:00:00 GMT
 
 ---
 
+### Ars Technica
+**[人性化测试将Claude Code从PRO计划中移除](https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/)**
+
+无法满足的需求促使**Anthropic**探索配给其服务的新方法。
+
+📅 Wed, 22 Apr 2026 18:34:16 +0000
+
+---
+
+### ZDNet AI
+**[谷歌为Chrome Enterprise带来了自动浏览和技能，以及新的“双子座摘要”](https://www.zdnet.com/article/google-chrome-enterprise-update-auto-browse-skills-gemini-summary/)**
+
+Chrome企业版通过任务自动化、一键式工作流程和新的IT安全控件，正在转变为人工智能工作区
+
+📅 Wed, 22 Apr 2026 17:30:03 GMT
+
+---
+
+### The Verge
+![OpenAI现在允许团队制作可以自行工作的自定义机器人](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[OpenAI现在允许团队制作可以自行工作的自定义机器人](https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots)**
+
+**OpenAI**让其业务用户和教师计划访问Chat**GPT**中提供的基于云的“工作空间”代理，这些代理可以执行业务任务
+
+📅 2026-04-22T20:09:02.000Z
+
+---
+
+### VentureBeat
+![您是否正在支付人工智能“群体税” ？为什么单个代理经常击败复杂的系统](https://images.ctfassets.net/jdtwqhzvc2n1/50hUpeJCVrEi4aq4xSiteQ/7567801aa13be503c7ff3264c7fa5f54/single_vs_multi-agent_systems.jpg?w=300&q=30)
+
+**[您是否正在支付人工智能“群体税” ？为什么单个代理经常击败复杂的系统](https://venturebeat.com/orchestration/are-you-paying-an-ai-swarm-tax-why-single-agents-often-beat-complex-systems)**
+
+“首先，重构单代理提示，明确鼓励模型将其可用的推理预算用于答案前分析。与**Google**的**Gemini** 2等特定模型配对时，
+
+📅 Wed, 22 Apr 2026 21:24:49 GMT
+
+---
+
 ## 📦 GitHub热门
 
-### GitHub Active (Python)
-![django-unfold ：现代Django管理](https://avatars.githubusercontent.com/u/131294636?v=4)
+### GitHub Active (AI/ML)
+![keras-hub ： Keras 3的预训练模型中心。](https://avatars.githubusercontent.com/u/34455048?v=4)
 
-**[django-unfold ：现代Django管理](https://github.com/unfoldadmin/django-unfold)**
+**[keras-hub ： Keras 3的预训练模型中心。](https://github.com/keras-team/keras-hub)**
 
-⭐ 3423星· 345叉·蟒蛇·现代Django管理员
+⭐ 976星· 333叉·蟒蛇· Keras 3的预训练模型集线器。
 
-📅 2026-04-22T16:13:29Z
+📅 2026-04-22T23:47:40Z
 
 ---
 
@@ -299,44 +297,44 @@ Chat**GPT**会因为大规模枪击事件而受到指责吗？佛罗里达州正
 ---
 
 ### GitHub New (New AI)
+![🆕 Free-AI-Tools ： 50种真正有用的免费AI工具，用于写作、设计、编码、研究和生产力。干净、实用，并定期更新](https://avatars.githubusercontent.com/u/116441757?v=4)
+
+**[🆕 Free-AI-Tools ： 50种真正有用的免费AI工具，用于写作、设计、编码、研究和生产力。干净、实用，并定期更新](https://github.com/redictor/Free-AI-Tools)**
+
+⭐ 4 star (新项目) · N/A · A curated list of 50 genuinely useful free AI tools for writing, design, coding, research, and productivityClean, practical, and regularly **update**d
+
+📅 2026-04-22T18:03:27Z
+
+---
+
+### GitHub New (New AI)
 ![🆕 多屏幕： Ken Nakanishi为“Screening is Enough”提出的多屏幕实现](https://avatars.githubusercontent.com/u/108653?v=4)
 
 **[🆕 多屏幕： Ken Nakanishi为“Screening is Enough”提出的多屏幕实现](https://github.com/lucidrains/multiscreen)**
 
-⭐ 2 star (新项目) · Python · Implementation of Multiscreen proposed by Ken Nakanishi for "Screening is Enough"
+⭐ 3 star (新项目) · Python · Implementation of Multiscreen proposed by Ken Nakanishi for "Screening is Enough"
 
 📅 2026-04-22T14:10:42Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 bullx ：新一代AgentOS](https://avatars.githubusercontent.com/u/206976762?v=4)
-
-**[🆕 bullx ：新一代AgentOS](https://github.com/AgentBull/bullx)**
-
-⭐ 2 star (新项目) · Elixir · Next Generation AgentOS
-
-📅 2026-04-19T15:52:36Z
-
----
-
 ## 💬 社交动态
 
-### Hacker News AI
-**[显示HN ：随时间变化的人工智能平均提示长度](https://wakatime.com/ai)**
+### Hacker News
+**[ChatGPT中的工作空间代理](https://openai.com/index/introducing-workspace-agents-in-chatgpt/)**
 
-这就是为什么我专门为AI指标构建了一个新的WakaTime仪表板人*平均提示长度随时间推移-您为AI提供了多少上下文*跟进编辑率-您必须编辑/修复AI生成的代码多少次*代币随时间推移的使用情况-输入和输出代币它为大多数流行的代理执行此操作（光标
+文章网址： https://**OpenAI**com/index/introducing-workspace-agents-in-chat**GPT**/评论网址： https://**new**s
 
-📅 Wed, 22 Apr 2026 16:02:18 +0000
+📅 Wed, 22 Apr 2026 17:47:07 +0000
 
 ---
 
 ### Hacker News AI
-**[Show HN: AthleteData -耐力运动员的人工智能教练，首先向您发送消息](https://www.athletedata.health)**
+**[81000名Claude用户对人工智能经济学的看法](https://www.anthropic.com/research/81k-economics)**
 
-我是铁人三项运动员，我的训练数据存储在6个应用程序中： Garmin、Strava、WHOOP、Intervals对于更愿意将数据导入自己的**Claude**/Chat**GPT**的用户，还提供每月$ 9的MCP会员等级
+文章网址： https://wwwcom/research/81k-economics评论网址： https://**new**s
 
-📅 Wed, 22 Apr 2026 15:39:10 +0000
+📅 Wed, 22 Apr 2026 22:10:45 +0000
 
 ---
 
@@ -345,7 +343,7 @@ Chat**GPT**会因为大规模枪击事件而受到指责吗？佛罗里达州正
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-04-22T16:11:55.699Z
+📅 2026-04-22T23:46:31.735Z
 
 ---
 
@@ -354,16 +352,25 @@ Chat**GPT**会因为大规模枪击事件而受到指责吗？佛罗里达州正
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-04-22T16:13:17.816Z
+📅 2026-04-22T23:47:53.731Z
 
 ---
 
-### Hacker News
-**[我们的第八代TPU ：代理时代的两个芯片](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/)**
+### Hacker News AI
+**[外循环的Claude代码： AI SRE攻略](https://www.arcade.dev/blog/claude-code-ai-sre-oncall-workflows/)**
 
-**Google**Comments网址： https://**new**s
+文章网址： https://wwwdev/blog/**Claude**-code-ai-sre-oncall-workflows/评论网址： https://**new**s
 
-📅 Wed, 22 Apr 2026 12:15:29 +0000
+📅 Wed, 22 Apr 2026 22:08:26 +0000
+
+---
+
+### Hacker News ML
+**[用于优化可编程太赫兹的数据驱动机器学习框架](https://www.researchgate.net/publication/404050094_A_Data-Driven_Machine_Learning_Framework_for_Optimising_Programmable_Terahertz_Meta_surface)**
+
+文章网址： https://wwwnet/publication/404050094_A_Data-Driven_Machine_Learning_Framework_for_Optimizing_Programmable_Terahertz_**Meta**_surface评论网址： https://**new**s
+
+📅 Wed, 22 Apr 2026 22:48:09 +0000
 
 ---
 
@@ -372,7 +379,7 @@ Chat**GPT**会因为大规模枪击事件而受到指责吗？佛罗里达州正
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-04-22T16:11:55.699Z
+📅 2026-04-22T23:46:31.735Z
 
 ---
 
@@ -381,16 +388,7 @@ Title: 520: Web服务器返回未知错误
 
 警告：目标URL返回错误520 ：
 
-📅 2026-04-22T16:11:55.699Z
-
----
-
-### X: OpenAI
-**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Markdown 内容
-
-📅 2026-04-22T16:11:55.699Z
+📅 2026-04-22T23:46:31.735Z
 
 ---
 
