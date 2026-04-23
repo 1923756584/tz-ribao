@@ -1,12 +1,12 @@
 ---
 title: "2026年4月23日 - TZ日报"
-date: 2026-04-23T16:34:33.103Z
+date: 2026-04-23T23:49:17.179Z
 draft: false
 ---
 
 # 2026年4月23日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/4/23 16:34:33
+> 📊 今日汇总 38 条 · 🕐 2026/4/23 23:49:17
 
 ---
 
@@ -31,57 +31,50 @@ draft: false
 
 ---
 
-### OpenAI Blog
-**[使ChatGPT更好地为临床医生服务](https://openai.com/index/making-chatgpt-better-for-clinicians)**
+### TechCrunch AI Products
+**[OpenAI发布GPT-5.5 ，使公司更接近AI “超级应用”](https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/)**
 
-**OpenAI**为经过认证的医生、执业护士和药剂师免费提供Chat**GPT** ，为临床护理、文档和研究提供支持
+**OpenAI**表示，其最新型号在各种类别中提供了更多功能。
 
-📅 Wed, 22 Apr 2026 15:00:00 GMT
-
----
-
-### OpenAI Blog
-**[工作空间代理](https://openai.com/academy/workspace-agents)**
-
-了解如何在Chat**GPT**中构建、使用和扩展工作空间代理，以自动化可重复的工作流、连接工具并简化团队运营
-
-📅 Wed, 22 Apr 2026 10:00:00 GMT
+📅 Thu, 23 Apr 2026 18:29:29 +0000
 
 ---
 
 ### OpenAI Blog
-**[在ChatGPT中引入工作空间代理](https://openai.com/index/introducing-workspace-agents-in-chatgpt)**
+**[GPT-5.5系统卡](https://openai.com/index/gpt-5-5-system-card)**
 
-Chat**GPT**中的工作空间代理是Codex支持的代理，可自动化复杂的工作流程，并帮助团队安全地跨工具扩展工作
+**GPT**-5.5系统卡
 
-📅 Wed, 22 Apr 2026 10:00:00 GMT
-
----
-
-### OpenAI Blog
-**[OpenAI隐私过滤器简介](https://openai.com/index/introducing-openai-privacy-filter)**
-
-**OpenAI**隐私过滤器是一种开放式权重模型，用于检测和编辑文本中的个人身份信息(PII) ，具有最先进的准确性
-
-📅 Wed, 22 Apr 2026 00:00:00 GMT
+📅 Thu, 23 Apr 2026 11:00:00 GMT
 
 ---
 
 ### OpenAI Blog
-**[ChatGPT Images 2.0简介](https://openai.com/index/introducing-chatgpt-images-2-0)**
+**[GPT-5.5简介](https://openai.com/index/introducing-gpt-5-5)**
 
-Chat**GPT** Images 20引入了最先进的**图像生成**模型，具有改进的文本渲染、多语言支持和高级视觉推理功能
+**推出**GPT-55 ，这是我们迄今为止最智能的模型，速度更快，功能更强大，专为跨工具的编码、研究和数据分析等复杂任务而构建
 
-📅 Tue, 21 Apr 2026 12:00:00 GMT
+📅 Thu, 23 Apr 2026 11:00:00 GMT
 
 ---
 
 ### OpenAI Blog
-**[将Codex扩展到全球企业](https://openai.com/index/scaling-codex-to-enterprises-worldwide)**
+**[GPT-5.5生物虫子赏金](https://openai.com/index/gpt-5-5-bio-bug-bounty)**
 
-**OpenAI**携手埃森哲**推出**Codex Labspartners
+探索**GPT**-55 Bio Bug Bounty ：寻找生物安全风险通用越狱的红队挑战，奖励高达$ 25,000
 
-📅 Tue, 21 Apr 2026 00:00:00 GMT
+📅 Thu, 23 Apr 2026 00:00:00 GMT
+
+---
+
+### Google AI Blog
+![以下是我们的TPU如何为日益苛刻的人工智能工作负载提供支持。](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp)
+
+**[以下是我们的TPU如何为日益苛刻的人工智能工作负载提供支持。](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/)**
+
+了解谷歌的TPU如何通过此新视频为日益苛刻的人工智能工作负载提供支持。
+
+📅 Thu, 23 Apr 2026 12:00:00 +0000
 
 ---
 
@@ -118,6 +111,15 @@ Ads Advisor中集成了三项新的代理安全和策略功能，将有助于保
 
 ---
 
+### DeepMind Blog
+**[与行业领导者合作，加速人工智能转型](https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/)**
+
+**Google** DeepMind与全球咨询公司合作，将前沿人工智能的力量带给世界各地的组织
+
+📅 Tue, 21 Apr 2026 14:54:15 +0000
+
+---
+
 ## 🔬 前沿研究
 
 ### ArXiv AI (cs.AI)
@@ -150,7 +152,7 @@ Ads Advisor中集成了三项新的代理安全和策略功能，将有助于保
 ### MIT Tech Research
 **[法学硕士](https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/)**
 
-当Chat**GPT**在2022年底作为实验原型**推出**时， **OpenAI**的聊天机器人成为数亿人的日常生活应用程序Chat**GPT**这样的LLM是新的未来：整个科技行业都被地狱所吞噬，公司竞相**推出**竞争对手的产品
+当Chat**GPT**在2022年底作为实验原型**推出**时， **OpenAI**的聊天机器人成为了数亿人的日常生活应用程序。像Chat**GPT**这样的LLM是新的未来：整个科技行业都被地狱所吞噬，公司竞相**推出**竞争对手的产品
 
 📅 Tue, 21 Apr 2026 20:45:00 +0000
 
@@ -195,6 +197,17 @@ Ads Advisor中集成了三项新的代理安全和策略功能，将有助于保
 ## 🌍 行业展望
 
 ### VentureBeat
+![OpenAI的GPT-5.5在这里，它不是土豆：在Terminal-Bench 2.0上勉强击败了Anthropic的Claude Mythos Preview](https://images.ctfassets.net/jdtwqhzvc2n1/5rfSjmFTFGf8gVMCrgV4AB/32069c156a3d02d81b11c85fb64aa7c0/ChatGPT_Image_Apr_23__2026__01_47_16_PM.png?w=300&q=30)
+
+**[OpenAI的GPT-5.5在这里，它不是土豆：在Terminal-Bench 2.0上勉强击败了Anthropic的Claude Mythos Preview](https://venturebeat.com/technology/openais-gpt-5-5-is-here-and-its-no-potato-narrowly-beats-anthropics-claude-mythos-preview-on-terminal-bench-2-0)**
+
+5与**OpenAI**之前最先进的模型相比， **GPT**-5制造的前沿模型已成为**OpenAI**、**Anthropic**和**Google**之间日益激烈的竞争
+
+📅 Thu, 23 Apr 2026 18:27:00 GMT
+
+---
+
+### VentureBeat
 ![OpenAI推出Workspace Agents ，这是面向企业的定制GPT的继承者，可直接插入Slack、Salesforce等](https://images.ctfassets.net/jdtwqhzvc2n1/4Xdu5CqjmyRwz1NBaDX14Z/b43e969be10254ca838bf1ad60a187a6/ChatGPT_Image_Apr_22__2026__07_40_47_PM.png?w=300&q=30)
 
 **[OpenAI推出Workspace Agents ，这是面向企业的定制GPT的继承者，可直接插入Slack、Salesforce等](https://venturebeat.com/orchestration/openai-unveils-workspace-agents-a-successor-to-custom-gpts-for-enterprises-that-can-plug-directly-into-slack-salesforce-and-more)**
@@ -205,25 +218,14 @@ Ads Advisor中集成了三项新的代理安全和策略功能，将有助于保
 
 ---
 
-### VentureBeat
-![Google不缴纳Nvidia税。它的新TPU解释了原因。](https://images.ctfassets.net/jdtwqhzvc2n1/7Lv60ZibdUZoJ7qlsTTtBS/28670e6d74be8e010be8906057eb9bae/PXL_20260422_025515735.jpg?w=300&q=30)
-
-**[Google不缴纳Nvidia税。它的新TPU解释了原因。](https://venturebeat.com/orchestration/google-doesnt-pay-the-nvidia-tax-its-new-tpus-explain-why)**
-
-利用他的时间在舞台上提出对企业买家来说比任何单个规格更**重要**的观点：谷歌设计其AI堆栈的每一层端到端**OpenAI**、**Anthropic**、xAI和**Meta**都严重依赖英伟达芯片来训练他们的前沿模型
-
-📅 Wed, 22 Apr 2026 17:04:17 GMT
-
----
-
 ### The Verge
-![人们不渴望自动化](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/VRG_DCD_Software_Brain.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![Claude将直接连接到您的个人应用，如Spotify、Uber Eats优食和TurboTax](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/anthropic-claude-personal-apps.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[人们不渴望自动化](https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation)**
+**[Claude将直接连接到您的个人应用，如Spotify、Uber Eats优食和TurboTax](https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors)**
 
-也就是说，近三分之二的受访者表示他们在上个月使用了Chat**GPT**或CopilotChat**GPT**每周有9亿用户
+**Claude**用户现在可以使用**Anthropic**的人工智能访问更多应用程序，这要归功于从徒步旅行到杂货店购物的新连接器。其中一些应用程序（如Spotify ）已经在**OpenAI**的Chat**GPT**中使用了类似的连接器
 
-📅 2026-04-23T14:00:00.000Z
+📅 2026-04-23T22:27:11.000Z
 
 ---
 
@@ -238,15 +240,6 @@ Ads Advisor中集成了三项新的代理安全和策略功能，将有助于保
 
 ---
 
-### Ars Technica
-**[数据中心热潮产生的温室气体可能超过整个国家](https://arstechnica.com/ai/2026/04/greenhouse-gases-from-data-center-boom-could-outpace-entire-nations/)**
-
-**OpenAI**、**Meta**、xAI和微软的工厂每年的排放量可能超过1.29亿吨。
-
-📅 Thu, 23 Apr 2026 14:51:16 +0000
-
----
-
 ### VentureBeat
 ![与人工智能代理交谈是一回事--当他们彼此交谈时呢？全新创业乐队首次亮相“Universal Orchestrator”](https://images.ctfassets.net/jdtwqhzvc2n1/5u5rPow3VvRI1snYTlvxJF/97afac91fc6ab904890efdc9fe1a691c/ChatGPT_Image_Apr_23__2026__11_39_14_AM.png?w=300&q=30)
 
@@ -258,23 +251,36 @@ Ads Advisor中集成了三项新的代理安全和策略功能，将有助于保
 
 ---
 
-### Ars Technica
-**[人性化测试将Claude Code从PRO计划中移除](https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/)**
+### VentureBeat
+![解开谜团： Anthropic揭示了Claude的线束和操作说明的变化可能导致退化](https://images.ctfassets.net/jdtwqhzvc2n1/2X9Ly9wpE7RaNnxYGXHCwa/55d5ce3b01a0c6fed9740f6c7667c052/ChatGPT_Image_Apr_23__2026__05_43_30_PM.png?w=300&q=30)
 
-无法满足的需求促使**Anthropic**探索配给其服务的新方法。
+**[解开谜团： Anthropic揭示了Claude的线束和操作说明的变化可能导致退化](https://venturebeat.com/technology/mystery-solved-anthropic-reveals-changes-to-claudes-harnesses-and-operating-instructions-likely-caused-degradation)**
 
-📅 Wed, 22 Apr 2026 18:34:16 +0000
+几周来，越来越多的开发人员和人工智能高级用户声称， **Anthropic**的旗舰机型正在失去优势该公司打算在X和GitHub线程上使用其新的@ **Claude**Devs帐户，为未来的产品决策提供更深入的推理，并与其开发人员保持更透明的对话
+
+📅 Thu, 23 Apr 2026 21:50:00 GMT
 
 ---
 
-### The Verge
-![你即将感受到AI的金钱挤压](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/vincentkilbride-theverge-ai-monetisation.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### VentureBeat
+![您是否正在支付人工智能“群体税” ？为什么单个代理经常击败复杂的系统](https://images.ctfassets.net/jdtwqhzvc2n1/50hUpeJCVrEi4aq4xSiteQ/7567801aa13be503c7ff3264c7fa5f54/single_vs_multi-agent_systems.jpg?w=300&q=30)
 
-**[你即将感受到AI的金钱挤压](https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue)**
+**[您是否正在支付人工智能“群体税” ？为什么单个代理经常击败复杂的系统](https://venturebeat.com/orchestration/are-you-paying-an-ai-swarm-tax-why-single-agents-often-beat-complex-systems)**
 
-与其他领先的人工智能实验室一样， **Anthropic**面临着减轻系统压力并开始盈利的巨大压力。因此，如果用户希望其**Claude** AI为其受欢迎的代理商提供动力，他们将不得不开始为此付出高昂的代价
+“首先，重构单代理提示，明确鼓励模型将其可用的推理预算用于答案前分析。与**Google**的**Gemini** 2等特定模型配对时，
 
-📅 2026-04-23T13:45:00.000Z
+📅 Wed, 22 Apr 2026 21:24:49 GMT
+
+---
+
+### VentureBeat
+![OpenAI推出隐私过滤器，这是一种开源的设备上数据清理模型，可从企业数据集中删除个人信息](https://images.ctfassets.net/jdtwqhzvc2n1/6XCBm5srH1Bxz7O3CpDLSp/a22758d387829873af7990a15e208306/ChatGPT_Image_Apr_22__2026__01_50_30_PM.png?w=300&q=30)
+
+**[OpenAI推出隐私过滤器，这是一种开源的设备上数据清理模型，可从企业数据集中删除个人信息](https://venturebeat.com/data/openai-launches-privacy-filter-an-open-source-on-device-data-sanitization-model-that-removes-personal-information-from-enterprise-datasets)**
+
+该公司在Chat**GPT**时代转向提供更多专有（ “封闭源” ）模型，仅通过其网站和API提供—去年随着**GPT**-oss语言模型系列的**推出**而大幅回归**开源**
+
+📅 Wed, 22 Apr 2026 18:01:00 GMT
 
 ---
 
@@ -285,9 +291,20 @@ Ads Advisor中集成了三项新的代理安全和策略功能，将有助于保
 
 **[🆕 VEFX-Bench ： VEFX-Bench ：通用视频编辑和视觉效果的整体基准](https://github.com/Visko-Platform/VEFX-Bench)**
 
-⭐ 10 star (新项目) · Python · VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects
+⭐ 11 star (新项目) · Python · VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects
 
 📅 2026-04-20T01:50:00Z
+
+---
+
+### GitHub New (New AI)
+![🆕 HiLAM ： Hierarchical Latent Action Model的实现，由延世大学的Hanjung Kim等人提出](https://avatars.githubusercontent.com/u/108653?v=4)
+
+**[🆕 HiLAM ： Hierarchical Latent Action Model的实现，由延世大学的Hanjung Kim等人提出](https://github.com/lucidrains/HiLAM)**
+
+⭐ 9 star (新项目) · Python · Implementation of the Hierarchical Latent Action Model, proposed by Hanjung Kim et alof Yonsei University
+
+📅 2026-04-22T15:03:48Z
 
 ---
 
@@ -313,25 +330,23 @@ Ads Advisor中集成了三项新的代理安全和策略功能，将有助于保
 
 ---
 
-### GitHub New (New AI)
-![🆕 公平等级：一个智能的多代理评估平台，可检测和减轻学生评分中的系统偏见。专为2026年谷歌解决方案挑战赛而打造。](https://avatars.githubusercontent.com/u/234452768?v=4)
+## 💬 社交动态
 
-**[🆕 公平等级：一个智能的多代理评估平台，可检测和减轻学生评分中的系统偏见。专为2026年谷歌解决方案挑战赛而打造。](https://github.com/Yashasm18/Fair-Grade)**
+### Hacker News
+**[GPT-5.5](https://openai.com/index/introducing-gpt-5-5/)**
 
-⭐ 2 star (新项目) · JavaScript · An intelligent, multi-agent evaluation platform that detects and mitigates systemic bias in student gradingBuilt for the **Google** Solution Challenge 2026
+文章网址： https://**OpenAI**com/index/introducing-**GPT**-5-5/评论网址： https://**new**s
 
-📅 2026-04-23T09:52:26Z
+📅 Thu, 23 Apr 2026 18:01:39 +0000
 
 ---
 
-## 💬 社交动态
+### Hacker News
+**[近期Claude Code质量报告的更新](https://www.anthropic.com/engineering/april-23-postmortem)**
 
-### Hacker News AI
-**[30天并行运行ChatGPT Plus、Claude Pro和Google AI Pro](https://virtualuncle.com/chatgpt-vs-claude-vs-gemini/)**
+文章网址： https://wwwcom/engineering/april-23-postmortem评论网址： https://**new**s
 
-文章网址： https://virtualunclecom/chat**GPT**-vs-**Claude**-vs-**Gemini**/评论网址： https://**new**s
-
-📅 Thu, 23 Apr 2026 16:09:53 +0000
+📅 Thu, 23 Apr 2026 17:48:38 +0000
 
 ---
 
@@ -340,7 +355,7 @@ Ads Advisor中集成了三项新的代理安全和策略功能，将有助于保
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-04-23T16:31:12.547Z
+📅 2026-04-23T23:46:00.362Z
 
 ---
 
@@ -349,25 +364,25 @@ Ads Advisor中集成了三项新的代理安全和策略功能，将有助于保
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-04-23T16:32:31.955Z
+📅 2026-04-23T23:47:19.680Z
+
+---
+
+### Hacker News
+**[TorchTPU ：在Google Scale的TPU上原生运行PyTorch](https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/)**
+
+**Google**blogcom/torchtpu-running-pytorch-natively-on-tpus-at-**Google**-scale/评论网址： https://**new**s
+
+📅 Thu, 23 Apr 2026 20:53:27 +0000
 
 ---
 
 ### Hacker News AI
-**[Atlassian扩大与Google Cloud的合作关系，为Agentic AI提供支持](https://www.googlecloudpresscorner.com/2026-04-22-Atlassian-Expands-Partnership-with-Google-Cloud-to-Power-Agentic-AI-for-Teams-Worldwide)**
+**[野外人工智能威胁：网络上即时注入的当前状态](https://security.googleblog.com/2026/04/ai-threats-in-wild-current-state-of.html)**
 
-**Google**cloudpresscornercom/2026-04-22-Atlassian-Expands-Partnership-with-**Google**-Cloud-to-Power-Agentic-AI-for-Teams-Worldwide评论网址： https://**new**s
+com/2026/04/ai-threats-in-wild-current-state-ofhtml评论网址： https://**new**s
 
-📅 Thu, 23 Apr 2026 15:47:06 +0000
-
----
-
-### Hacker News AI
-**[Atlassian将开始使用客户元数据和应用内数据来训练AI](https://www.atlassian.com/trust/ai/data-contribution/faqs)**
-
-文章网址： https://wwwcom/trust/ai/data-contribution/faqs评论网址： https://**new**s
-
-📅 Thu, 23 Apr 2026 15:30:42 +0000
+📅 Thu, 23 Apr 2026 23:05:31 +0000
 
 ---
 
@@ -385,16 +400,7 @@ Ads Advisor中集成了三项新的代理安全和策略功能，将有助于保
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-04-23T16:31:12.547Z
-
----
-
-### X: OpenAI
-**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-警告：目标URL返回错误520 ：
-
-📅 2026-04-23T16:31:12.547Z
+📅 2026-04-23T23:46:00.362Z
 
 ---
 
