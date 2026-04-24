@@ -1,12 +1,12 @@
 ---
 title: "2026年4月24日 - TZ日报"
-date: 2026-04-24T16:10:50.057Z
+date: 2026-04-24T23:44:16.515Z
 draft: false
 ---
 
 # 2026年4月24日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/4/24 16:10:50
+> 📊 今日汇总 38 条 · 🕐 2026/4/24 23:44:16
 
 ---
 
@@ -32,11 +32,11 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[OpenAI发布GPT-5.5 ，使公司更接近AI “超级应用”](https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/)**
+**[谷歌将向Anthropic投资高达400亿美元的现金和计算](https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/)**
 
-**OpenAI**表示，其最新型号在各种类别中提供了更多功能。
+谷歌计划向**Anthropic**投资高达400亿美元，因为人工智能竞争对手在其强大的
 
-📅 Thu, 23 Apr 2026 18:29:29 +0000
+📅 Fri, 24 Apr 2026 18:00:03 +0000
 
 ---
 
@@ -64,6 +64,17 @@ draft: false
 探索**GPT**-55 Bio Bug Bounty ：寻找生物安全风险通用越狱的红队挑战，奖励高达$ 25,000
 
 📅 Thu, 23 Apr 2026 00:00:00 GMT
+
+---
+
+### Google AI Blog
+![管理房源（和生活）的8个双子座小贴士](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Spring_Cleaning_hero.max-600x600.format-webp.webp)
+
+**[管理房源（和生活）的8个双子座小贴士](https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/)**
+
+使用**Gemini**整理您的家居和数字空间使用人工智能技术提供清洁时间表、收件箱整理、季节性杂务等方面的建议
+
+📅 Fri, 24 Apr 2026 19:00:00 +0000
 
 ---
 
@@ -109,25 +120,7 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[DeepSeek预览新的人工智能模型，与前沿模型“缩小差距”](https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/)**
-
-**DeepSeek**表示，由于架构改进，这两种型号都比**DeepSeek** V32更高效和性能，并且在推理基准方面几乎与当前领先的开放和封闭型号“弥合了差距”
-
-📅 Fri, 24 Apr 2026 13:30:59 +0000
-
----
-
 ## 🔬 前沿研究
-
-### MIT Tech Research
-**[法学硕士](https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/)**
-
-当Chat**GPT**在2022年底作为实验原型**推出**时， **OpenAI**的聊天机器人成为数亿人的日常生活应用程序Chat**GPT**这样的LLM是新的未来：整个科技行业都被地狱所吞噬，公司竞相**推出**竞争对手的产品
-
-📅 Tue, 21 Apr 2026 20:45:00 +0000
-
----
 
 ### ArXiv AI (cs.AI)
 **[您将永远构建的最后一个线束](https://arxiv.org/abs/2604.21003)**
@@ -192,7 +185,27 @@ draft: false
 
 ---
 
+### ArXiv Natural Language Processing (cs.CL)
+**[序列化策略很重要： FHIR数据格式如何影响LLM药物对账](https://arxiv.org/abs/2604.21076)**
+
+21076v1公告类型：新摘要：临床交接处药物对账是一个高风险、容易出错的过程，领域预训练模型，无需指令调整
+
+📅 Fri, 24 Apr 2026 00:00:00 -0400
+
+---
+
 ## 🌍 行业展望
+
+### VentureBeat
+![DeepSeek-V4以接近最先进的智能技术推出，成本仅为Opus 4.7、GPT-5.5的1/6](https://images.ctfassets.net/jdtwqhzvc2n1/3LOb3OSbLvwu6ilw5uPnuF/426e117f7fab34245424ad0f8585c5da/ChatGPT_Image_Apr_24__2026__11_12_11_AM.png?w=300&q=30)
+
+**[DeepSeek-V4以接近最先进的智能技术推出，成本仅为Opus 4.7、GPT-5.5的1/6](https://venturebeat.com/technology/deepseek-v4-arrives-with-near-state-of-the-art-intelligence-at-1-6th-the-cost-of-opus-4-7-gpt-5-5)**
+
+00 **OpenAI**在标准的缓存缺失定价上， **DeepSeek**-V4-Pro的成本约为**GPT**-5的七分之一，但这与**OpenAI**较新的**GPT**-5的直接竞争不同
+
+📅 Fri, 24 Apr 2026 16:34:00 GMT
+
+---
 
 ### VentureBeat
 ![OpenAI的GPT-5.5在这里，它不是土豆：在Terminal-Bench 2.0上勉强击败了Anthropic的Claude Mythos Preview](https://images.ctfassets.net/jdtwqhzvc2n1/5rfSjmFTFGf8gVMCrgV4AB/32069c156a3d02d81b11c85fb64aa7c0/ChatGPT_Image_Apr_23__2026__01_47_16_PM.png?w=300&q=30)
@@ -202,17 +215,6 @@ draft: false
 5与**OpenAI**之前最先进的模型相比， **GPT**-5制造的前沿模型已成为**OpenAI**、**Anthropic**和**Google**之间日益激烈的竞争
 
 📅 Thu, 23 Apr 2026 18:27:00 GMT
-
----
-
-### The Verge
-![在震撼美国竞争对手一年后，中国的DeepSeek预览了新的人工智能模型 ](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKB320_DEEPSEEK_AI_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[在震撼美国竞争对手一年后，中国的DeepSeek预览了新的人工智能模型 ](https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model)**
-
-中国人工智能公司**DeepSeek**周五**发布**了其备受期待的下一代人工智能模型V4的预览版，该功能已成为人工智能代理的核心，并有助于推动Chat**GPT** Codex和**Claude** Code等工具的成功
-
-📅 2026-04-24T09:45:30.000Z
 
 ---
 
@@ -228,24 +230,33 @@ draft: false
 ---
 
 ### VentureBeat
-![谷歌和AWS在控制和执行之间拆分AI代理堆栈](https://images.ctfassets.net/jdtwqhzvc2n1/1Vp25PZDnQQMBBb7WLhth0/f565b23d4dfbc56def7a55fae6405769/crimedy7_illustration_of_a_schism_but_related_to_artificial_i_2d035a47-60c4-4cab-9029-d5ee39e3dbdc_0.png?w=300&q=30)
+![CVSS将这两个Palo Alto CVE评为可管理。通过链式攻击，他们为攻击者提供了对13,000台设备的root访问权限。](https://images.ctfassets.net/jdtwqhzvc2n1/hjtJE1itxnyTrftv5Ef7a/a57e3655e1b832acec36c5ab10a47dc5/meyers_hero.png?w=300&q=30)
 
-**[谷歌和AWS在控制和执行之间拆分AI代理堆栈](https://venturebeat.com/orchestration/google-and-aws-split-the-ai-agent-stack-between-control-and-execution)**
+**[CVSS将这两个Palo Alto CVE评为可管理。通过链式攻击，他们为攻击者提供了对13,000台设备的root访问权限。](https://venturebeat.com/security/cvss-triage-failure-chained-vulnerability-audit-security-directors)**
 
-过去一个月，随着竞争对手**发布**或**更新**其代理构建器平台，关于如何管理和控制的辩论获得了新的能量- **Anthropic**与新的**Claude** Managed Agents和**OpenAI**一起增强了代理SDK ，为开发人员团队提供了管理代理的选项Google**发布**了新版本的**Gemini** Enterprise
+打破管道容量的AI加速发现**Anthropic**的**Claude** Mythos Preview展示了自主漏洞发现和**OpenAI** ，旨在解决前沿AI模型现在在生产代码中生成的漏洞量
 
-📅 Wed, 22 Apr 2026 21:37:00 GMT
+📅 Fri, 24 Apr 2026 21:34:21 GMT
 
 ---
 
 ### VentureBeat
-![与人工智能代理交谈是一回事--当他们彼此交谈时怎么办？全新创业乐队首次亮相“Universal Orchestrator”](https://images.ctfassets.net/jdtwqhzvc2n1/5u5rPow3VvRI1snYTlvxJF/97afac91fc6ab904890efdc9fe1a691c/ChatGPT_Image_Apr_23__2026__11_39_14_AM.png?w=300&q=30)
+![与人工智能代理交谈是一回事--当他们彼此交谈时呢？全新创业乐队首次亮相“Universal Orchestrator”](https://images.ctfassets.net/jdtwqhzvc2n1/5u5rPow3VvRI1snYTlvxJF/97afac91fc6ab904890efdc9fe1a691c/ChatGPT_Image_Apr_23__2026__11_39_14_AM.png?w=300&q=30)
 
-**[与人工智能代理交谈是一回事--当他们彼此交谈时怎么办？全新创业乐队首次亮相“Universal Orchestrator”](https://venturebeat.com/orchestration/talking-to-ai-agents-is-one-thing-what-about-when-they-talk-to-each-other-new-startup-band-debuts-universal-orchestrator)**
+**[与人工智能代理交谈是一回事--当他们彼此交谈时呢？全新创业乐队首次亮相“Universal Orchestrator”](https://venturebeat.com/orchestration/talking-to-ai-agents-is-one-thing-what-about-when-they-talk-to-each-other-new-startup-band-debuts-universal-orchestrator)**
 
 今天，一家新的创业公司BAND （也被称为Thenvoi AI Ltd ）注意到，尽管与**OpenAI**的工作空间代理（昨天宣布）和**Anthropic**的**Claude** Managed Agents （本月早些时候宣布）等模型提供商的第一部分选项竞争
 
 📅 Thu, 23 Apr 2026 15:41:10 GMT
+
+---
+
+### Ars Technica
+**[谷歌将向Anthropic投资高达400 $](https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/)**
+
+这是亚马逊几天前进行的类似但规模较小的投资。
+
+📅 Fri, 24 Apr 2026 22:05:45 +0000
 
 ---
 
@@ -258,25 +269,14 @@ draft: false
 
 ---
 
-### VentureBeat
-![解开谜团： Anthropic揭示了Claude的线束和操作说明的变化可能导致退化](https://images.ctfassets.net/jdtwqhzvc2n1/2X9Ly9wpE7RaNnxYGXHCwa/55d5ce3b01a0c6fed9740f6c7667c052/ChatGPT_Image_Apr_23__2026__05_43_30_PM.png?w=300&q=30)
+### The Verge
+![谷歌帅气的Pixel Watch 4在两种尺寸配置下均可享受$ 40折扣](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Google-Pixel-Watch-4-Deal-Image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[解开谜团： Anthropic揭示了Claude的线束和操作说明的变化可能导致退化](https://venturebeat.com/technology/mystery-solved-anthropic-reveals-changes-to-claudes-harnesses-and-operating-instructions-likely-caused-degradation)**
+**[谷歌帅气的Pixel Watch 4在两种尺寸配置下均可享受$ 40折扣](https://www.theverge.com/gadgets/917924/google-pixel-watch-4-apple-airpods-deal-sale)**
 
-几周来，越来越多的开发人员和人工智能高级用户声称， **Anthropic**的旗舰机型正在失去优势该公司打算在X和GitHub线程上使用其新的@ **Claude**Devs帐户，为未来的产品决策提供更深入的推理，并与其开发人员保持更透明的对话
+限时折扣适用于许多谷歌第一方设备谷歌最新的可穿戴设备仍然最适合Pixel手机用户
 
-📅 Thu, 23 Apr 2026 21:50:00 GMT
-
----
-
-### VentureBeat
-![您是否正在支付人工智能“群体税” ？为什么单个代理经常击败复杂的系统](https://images.ctfassets.net/jdtwqhzvc2n1/50hUpeJCVrEi4aq4xSiteQ/7567801aa13be503c7ff3264c7fa5f54/single_vs_multi-agent_systems.jpg?w=300&q=30)
-
-**[您是否正在支付人工智能“群体税” ？为什么单个代理经常击败复杂的系统](https://venturebeat.com/orchestration/are-you-paying-an-ai-swarm-tax-why-single-agents-often-beat-complex-systems)**
-
-“首先，重构单代理提示，明确鼓励模型将其可用的推理预算用于答案前分析。与**Google**的**Gemini** 2等特定模型配对时，
-
-📅 Wed, 22 Apr 2026 21:24:49 GMT
+📅 2026-04-24T17:25:49.000Z
 
 ---
 
@@ -287,53 +287,71 @@ draft: false
 
 **[screenpipe ：根据您的工作运行适合您的代理。人工智能终于知道你在做什么](https://github.com/screenpipe/screenpipe)**
 
-⭐ 18,371星· 1645叉· Rust ·根据您的行为运行适合您的代理AI终于知道您在做什么
+⭐ 18,381星· 1648叉· Rust ·根据您的行为运行适合您的代理AI终于知道您在做什么
 
-📅 2026-04-24T16:08:54Z
-
----
-
-### GitHub New (New AI)
-![🆕 HiLAM ： Hierarchical Latent Action Model的实现，由延世大学的Hanjung Kim等人提出](https://avatars.githubusercontent.com/u/108653?v=4)
-
-**[🆕 HiLAM ： Hierarchical Latent Action Model的实现，由延世大学的Hanjung Kim等人提出](https://github.com/lucidrains/HiLAM)**
-
-⭐ 9 star (新项目) · Python · Implementation of the Hierarchical Latent Action Model, proposed by Hanjung Kim et alof Yonsei University
-
-📅 2026-04-22T15:03:48Z
+📅 2026-04-24T23:41:12Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 多屏幕： Ken Nakanishi为“Screening is Enough”提出的多屏幕实现](https://avatars.githubusercontent.com/u/108653?v=4)
+### GitHub Active (AI/ML)
+![skypilot ：在任何AI基础设施上运行、管理和扩展AI工作负载。使用一个系统来访问和管理所有人工智能计算（ Kubernetes、Slurm、20多个云、本地）。](https://avatars.githubusercontent.com/u/109387420?v=4)
 
-**[🆕 多屏幕： Ken Nakanishi为“Screening is Enough”提出的多屏幕实现](https://github.com/lucidrains/multiscreen)**
+**[skypilot ：在任何AI基础设施上运行、管理和扩展AI工作负载。使用一个系统来访问和管理所有人工智能计算（ Kubernetes、Slurm、20多个云、本地）。](https://github.com/skypilot-org/skypilot)**
 
-⭐ 7 star (新项目) · Python · Implementation of Multiscreen proposed by Ken Nakanishi for "Screening is Enough"
+⭐ 9,892星· 1045分叉· Python ·在任何AI基础设施上运行、管理和扩展AI工作负载使用一个系统来访问和管理所有AI计算（ Kubernetes、Slurm、20多个云、本地）
 
-📅 2026-04-22T14:10:42Z
+📅 2026-04-24T23:40:15Z
 
 ---
 
-### GitHub New (New AI)
-![公平🆕 等级：⚖️一种人工智能驱动的多智能体评估引擎，旨在检测和减轻隐性评分偏差。具有多模态OCR、内存中PII编辑和安全的Human-in-the-Loop (HITL)架构。为联合国可持续发展目标4而构建。 🚀](https://avatars.githubusercontent.com/u/234452768?v=4)
+### GitHub Active (AI/ML)
+![sAIL ：用Rust编写的Apache Spark替代品，统一了批处理、流处理和计算密集型AI工作负载。](https://avatars.githubusercontent.com/u/142639974?v=4)
 
-**[公平🆕 等级：⚖️一种人工智能驱动的多智能体评估引擎，旨在检测和减轻隐性评分偏差。具有多模态OCR、内存中PII编辑和安全的Human-in-the-Loop (HITL)架构。为联合国可持续发展目标4而构建。 🚀](https://github.com/Yashasm18/Fair-Grade)**
+**[sAIL ：用Rust编写的Apache Spark替代品，统一了批处理、流处理和计算密集型AI工作负载。](https://github.com/lakehq/sail)**
 
-⭐ 5 star (新项目) · TypeScript · ⚖️ An AI-driven, multi-agent evaluation engine designed to detect and mitigate implicit grading biasFeatures multimodal OCR, in-memory PII redaction, and a secure Human-in-the-Loop (HITL) architecture
+743星· 101分叉· Rust ·用Rust和计算密集型AI工作负载编写的Apache Spark替代品
 
-📅 2026-04-23T09:52:26Z
+📅 2026-04-24T23:40:09Z
+
+---
+
+### GitHub Active (AI/ML)
+![ai-hub-models ： Qualcomm ® AI Hub Models是我们最先进的机器学习模型集合，针对性能（延迟、内存等）进行了优化，可随时部署在Qualcomm ®设备上。](https://avatars.githubusercontent.com/u/55295994?v=4)
+
+**[ai-hub-models ： Qualcomm ® AI Hub Models是我们最先进的机器学习模型集合，针对性能（延迟、内存等）进行了优化，可随时部署在Qualcomm ®设备上。](https://github.com/qualcomm/ai-hub-models)**
+
+004星· 172分叉· Python · Qualcomm ® AI Hub模型是我们最先进的机器学习模型集合，针对性能（延迟）进行了优化，可随时部署在Qualcomm ®设备上
+
+📅 2026-04-24T23:40:14Z
 
 ---
 
 ## 💬 社交动态
+
+### Hacker News
+**[告诉HN ： Claude 4.7忽略了停止挂钩](https://news.ycombinator.com/item?id=47895029)**
+
+现在， **Claude**经常忽略钩子规则"}]} **Claude**:" message ": {" type ":" message "
+
+📅 Fri, 24 Apr 2026 19:55:09 +0000
+
+---
+
+### Hacker News
+**[OpenAI在API中发布GPT-5.5和GPT-5.5 Pro](https://developers.openai.com/api/docs/changelog)**
+
+5 - https://**new**sid = 47879092 - 2026年4月（ 1010条评论）评论网址： https://**new**s
+
+📅 Fri, 24 Apr 2026 18:23:32 +0000
+
+---
 
 ### X: OpenAI
 **[标题： OpenAI (@ OpenAI)/X](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 标题： **OpenAI** (@ **OpenAI**)/X
 
-📅 2026-04-24T16:07:30.695Z
+📅 2026-04-24T23:41:13.609Z
 
 ---
 
@@ -342,7 +360,7 @@ draft: false
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-04-24T16:07:30.695Z
+📅 2026-04-24T23:41:13.609Z
 
 ---
 
@@ -351,7 +369,7 @@ draft: false
 
 [图片1 ：方形个人头像并打开个人头像] (https://pbscom/**OpenAI**/photo)
 
-📅 2026-04-24T16:07:30.695Z
+📅 2026-04-24T23:41:13.609Z
 
 ---
 
@@ -360,25 +378,16 @@ draft: false
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-04-24T16:08:50.147Z
+📅 2026-04-24T23:42:32.984Z
 
 ---
 
-### Hacker News AI
-**[Meta与AWS合作开发Graviton芯片，为Agentic AI提供动力](https://about.fb.com/news/2026/04/meta-partners-with-aws-on-graviton-chips-to-power-agentic-ai/)**
+### Hacker News
+**[Google Flow音乐](https://www.flowmusic.app/)**
 
-文章网址： https://aboutcom/**new**s/2026/04/**Meta**-partners-with-aws-on-graviton-chips-to-power-agentic-ai/评论网址： https://**new**s
+文章网址： https://wwwapp/评论网址： https://**new**s
 
-📅 Fri, 24 Apr 2026 15:13:31 +0000
-
----
-
-### Hacker News AI
-**[谷歌推出面向更智能AI智能体的智能体技能库](https://cloud.google.com/blog/topics/developers-practitioners/level-up-your-agents-announcing-googles-official-skills-repository)**
-
-文章网址： https://cloudcom/blog/topics/developers-practitioners/level-up-your-agents-announcing-**Google**s-official-skills-repository评论网址： https://**new**s
-
-📅 Fri, 24 Apr 2026 15:06:30 +0000
+📅 Fri, 24 Apr 2026 21:01:50 +0000
 
 ---
 
@@ -388,15 +397,6 @@ draft: false
 文章网址： https://wwwnet/publication/404050094_A_Data-Driven_Machine_Learning_Framework_for_Optimizing_Programmable_Terahertz_**Meta**_surface评论网址： https://**new**s
 
 📅 Wed, 22 Apr 2026 22:48:09 +0000
-
----
-
-### X: OpenAI
-**[发布时间： 2026年4月24日星期五01:01:36 GMT](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-**发布**时间： 2026年4月24日星期五01:01:36 GMT
-
-📅 2026-04-24T16:07:30.695Z
 
 ---
 
