@@ -1,12 +1,12 @@
 ---
 title: "2026年4月25日 - TZ日报"
-date: 2026-04-25T15:45:03.048Z
+date: 2026-04-25T23:42:33.414Z
 draft: false
 ---
 
 # 2026年4月25日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/4/25 15:45:03
+> 📊 今日汇总 38 条 · 🕐 2026/4/25 23:42:33
 
 ---
 
@@ -110,24 +110,15 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[Meta的损失是Thinking Machines的收益](https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/)**
+**[Anthropic为代理商创建了一个测试市场](https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/)**
 
-**Meta**一直在挖掘思考机器实验室的人才。但这是一条双行道。
+在最近的一项实验中， **Anthropic**创建了一个分类市场，人工智能代理代表买家和卖家
 
-📅 Fri, 24 Apr 2026 20:52:07 +0000
+📅 Sat, 25 Apr 2026 21:43:37 +0000
 
 ---
 
 ## 🔬 前沿研究
-
-### Science AI
-**[随着美国推动扩大铀矿，反对者警告“定时炸弹”](https://www.science.org/content/article/u-s-pushes-expand-uranium-mines-opponents-warn-ticking-time-bomb)**
-
-研究人员说，从含水层中浸出放射性金属的方法可能会使地下水受到污染
-
-📅 2026-04-23T02:00:00.000Z
-
----
 
 ### MIT Tech Research
 **[DeepSeek新型号重要的三个原因](https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/)**
@@ -135,6 +126,15 @@ draft: false
 上周五，中国人工智能公司DeepSeek**发布**了期待已久的新旗舰型号V4的预览版。与**DeepSeek**之前的型号一样， V4是**开源**的，这意味着它可以...
 
 📅 Fri, 24 Apr 2026 21:40:58 +0000
+
+---
+
+### Science AI
+**[特朗普解雇NSF的监督委员会](https://www.science.org/content/article/trump-fires-nsf-s-oversight-board)**
+
+罢免国家科学委员会被广泛视为抹杀NSF独立性的最新举措
+
+📅 2026-04-25T06:00:52.000Z
 
 ---
 
@@ -217,17 +217,6 @@ draft: false
 ---
 
 ### VentureBeat
-![OpenAI推出Workspace Agents ，这是面向企业的定制GPT的继承者，可直接插入Slack、Salesforce等](https://images.ctfassets.net/jdtwqhzvc2n1/4Xdu5CqjmyRwz1NBaDX14Z/b43e969be10254ca838bf1ad60a187a6/ChatGPT_Image_Apr_22__2026__07_40_47_PM.png?w=300&q=30)
-
-**[OpenAI推出Workspace Agents ，这是面向企业的定制GPT的继承者，可直接插入Slack、Salesforce等](https://venturebeat.com/orchestration/openai-unveils-workspace-agents-a-successor-to-custom-gpts-for-enterprises-that-can-plug-directly-into-slack-salesforce-and-more)**
-
-“**OpenAI**的新产品基本上允许用户使用其Chat**GPT**业务（每位用户每月$ 20 ）和可变价格的企业版，但这次**发布**很**重要**，因为它将**OpenAI**的战略转化为已经为Chat**GPT**付费的团队的具体内容
-
-📅 Wed, 22 Apr 2026 23:53:00 GMT
-
----
-
-### VentureBeat
 ![CVSS将这两个Palo Alto CVE评为可管理。通过链式攻击，他们为攻击者提供了对13,000台设备的root访问权限。](https://images.ctfassets.net/jdtwqhzvc2n1/hjtJE1itxnyTrftv5Ef7a/a57e3655e1b832acec36c5ab10a47dc5/meyers_hero.png?w=300&q=30)
 
 **[CVSS将这两个Palo Alto CVE评为可管理。通过链式攻击，他们为攻击者提供了对13,000台设备的root访问权限。](https://venturebeat.com/security/cvss-triage-failure-chained-vulnerability-audit-security-directors)**
@@ -278,6 +267,15 @@ draft: false
 
 ---
 
+### Wired Technology
+**[Discord Sleuths在未经授权的情况下访问了Anthropic的神话](https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/)**
+
+此外：间谍公司利用全球电信弱点跟踪目标1000份英国健康记录在阿里巴巴出售
+
+📅 Sat, 25 Apr 2026 10:30:00 +0000
+
+---
+
 ## 📦 GitHub热门
 
 ### GitHub New (New AI)
@@ -285,7 +283,7 @@ draft: false
 
 **[🆕 HiLAM ： Hierarchical Latent Action Model的实现，由延世大学的Hanjung Kim等人提出](https://github.com/lucidrains/HiLAM)**
 
-⭐ 10 star (新项目) · Python · Implementation of the Hierarchical Latent Action Model, proposed by Hanjung Kim et alof Yonsei University
+⭐ 11 star (新项目) · Python · Implementation of the Hierarchical Latent Action Model, proposed by Hanjung Kim et alof Yonsei University
 
 📅 2026-04-22T15:03:48Z
 
@@ -327,7 +325,7 @@ draft: false
 ## 💬 社交动态
 
 ### Hacker News
-**[GPT 5.5生物安全赏金](https://openai.com/index/gpt-5-5-bio-bug-bounty/)**
+**[GPT ‑ 5.5 Bio Bug赏金](https://openai.com/index/gpt-5-5-bio-bug-bounty/)**
 
 文章网址： https://**OpenAI**com/index/**GPT**-5-5-bio-bug-bounty/评论网址： https://**new**s
 
@@ -335,12 +333,21 @@ draft: false
 
 ---
 
-### Hacker News
-**[Show HN ：您的代理维护的Karpathy式LLM wiki （ Markdown和Git ）](https://github.com/nex-crm/wuphf)**
+### Hacker News AI
+**[Show HN: AI Visibility Monitor –跟踪您的网站是否被GPT/Claude引用](https://github.com/WorkSmartAI-alt/ai-visibility-monitor)**
 
-Wiki作为WUPHF的一部分提供， WUPHF是一个**开源**协作办公室，通过OpenCode为**Claude** Code、Codex、OpenClaw和本地LLM等AI代理提供源代码： https://github
+文章网址： https://githubcom/WorkSmartAI-alt/ai-visibility-monitor评论网址： https://**new**s
 
-📅 Sat, 25 Apr 2026 08:53:53 +0000
+📅 Sat, 25 Apr 2026 20:03:42 +0000
+
+---
+
+### Hacker News AI
+**[你即将感受到AI的金钱挤压](https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue)**
+
+文章网址： https://wwwcom/ai-artificial-intelligence/917380/ai-monetization-**Anthropic**-**OpenAI**-token-economics-revenue评论网址： https://**new**s
+
+📅 Sat, 25 Apr 2026 19:53:59 +0000
 
 ---
 
@@ -349,7 +356,7 @@ Wiki作为WUPHF的一部分提供， WUPHF是一个**开源**协作办公室，�
 
 标题： **OpenAI** (@ **OpenAI**)/X
 
-📅 2026-04-25T15:42:07.433Z
+📅 2026-04-25T23:40:00.344Z
 
 ---
 
@@ -358,7 +365,7 @@ Wiki作为WUPHF的一部分提供， WUPHF是一个**开源**协作办公室，�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-04-25T15:42:07.433Z
+📅 2026-04-25T23:40:00.344Z
 
 ---
 
@@ -367,7 +374,7 @@ Wiki作为WUPHF的一部分提供， WUPHF是一个**开源**协作办公室，�
 
 [图片1 ：方形个人头像并打开个人头像] (https://pbscom/**OpenAI**/photo)
 
-📅 2026-04-25T15:42:07.433Z
+📅 2026-04-25T23:40:00.344Z
 
 ---
 
@@ -376,16 +383,7 @@ Wiki作为WUPHF的一部分提供， WUPHF是一个**开源**协作办公室，�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-04-25T15:43:23.413Z
-
----
-
-### Hacker News AI
-**[这个新闻网站的记者是人工智能机器人。OpenAI的超级PAC似乎是](https://modelrepublic.substack.com/p/the-reporters-at-this-news-site-are)**
-
-文章网址： https://modelrepubliccom/p/the-reporters-at-this-**new**s-site-are评论网址： https://**new**s
-
-📅 Sat, 25 Apr 2026 13:37:26 +0000
+📅 2026-04-25T23:40:53.726Z
 
 ---
 
@@ -394,7 +392,7 @@ Wiki作为WUPHF的一部分提供， WUPHF是一个**开源**协作办公室，�
 
 **发布**时间： 2026年4月24日星期五01:01:36 GMT
 
-📅 2026-04-25T15:42:07.433Z
+📅 2026-04-25T23:40:00.344Z
 
 ---
 
