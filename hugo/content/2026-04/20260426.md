@@ -1,12 +1,12 @@
 ---
 title: "2026年4月26日 - TZ日报"
-date: 2026-04-26T15:47:40.429Z
+date: 2026-04-26T23:43:45.980Z
 draft: false
 ---
 
 # 2026年4月26日 - TZ日报
 
-> 📊 今日汇总 36 条 · 🕐 2026/4/26 15:47:40
+> 📊 今日汇总 36 条 · 🕐 2026/4/26 23:43:45
 
 ---
 
@@ -87,6 +87,15 @@ draft: false
 
 ---
 
+### OpenAI Blog
+**[我们的准则](https://openai.com/index/our-principles)**
+
+我们的使命是确保AGI造福全人类Sam Altman分享指导我们工作的五项原则
+
+📅 Sun, 26 Apr 2026 16:00:00 GMT
+
+---
+
 ### TechCrunch AI Products
 **[缅因州州长否决数据中心暂停](https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/)**
 
@@ -102,15 +111,6 @@ draft: false
 加拿大人工智能初创公司Cohere将在Lidl的所有者Schwarz Groupthe公司的支持下接管总部位于德国的Aleph Alpha ，这些公司打算在由美国玩家主导的人工智能领域为企业提供主权替代方案
 
 📅 Sat, 25 Apr 2026 16:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[为什么东京是2026年最重要的科技目的地](https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/)**
-
-SusHi Tech Tokyo 2026拥有四个严格定义的技术领域，每一个领域都有现场演示作为后盾
-
-📅 Sat, 25 Apr 2026 15:03:00 +0000
 
 ---
 
@@ -184,17 +184,6 @@ SusHi Tech Tokyo 2026拥有四个严格定义的技术领域，每一个领域�
 ---
 
 ### VentureBeat
-![OpenAI的GPT-5.5在这里，它不是土豆：在Terminal-Bench 2.0上勉强击败了Anthropic的Claude Mythos Preview](https://images.ctfassets.net/jdtwqhzvc2n1/5rfSjmFTFGf8gVMCrgV4AB/32069c156a3d02d81b11c85fb64aa7c0/ChatGPT_Image_Apr_23__2026__01_47_16_PM.png?w=300&q=30)
-
-**[OpenAI的GPT-5.5在这里，它不是土豆：在Terminal-Bench 2.0上勉强击败了Anthropic的Claude Mythos Preview](https://venturebeat.com/technology/openais-gpt-5-5-is-here-and-its-no-potato-narrowly-beats-anthropics-claude-mythos-preview-on-terminal-bench-2-0)**
-
-5与**OpenAI**之前最先进的模型相比， **GPT**-5制造的前沿模型已成为**OpenAI**、**Anthropic**和**Google**之间日益激烈的竞争
-
-📅 Thu, 23 Apr 2026 18:27:00 GMT
-
----
-
-### VentureBeat
 ![CVSS将这两个Palo Alto CVE评为可管理。通过链式攻击，他们为攻击者提供了对13,000台设备的root访问权限。](https://images.ctfassets.net/jdtwqhzvc2n1/hjtJE1itxnyTrftv5Ef7a/a57e3655e1b832acec36c5ab10a47dc5/meyers_hero.png?w=300&q=30)
 
 **[CVSS将这两个Palo Alto CVE评为可管理。通过链式攻击，他们为攻击者提供了对13,000台设备的root访问权限。](https://venturebeat.com/security/cvss-triage-failure-chained-vulnerability-audit-security-directors)**
@@ -215,6 +204,17 @@ SusHi Tech Tokyo 2026拥有四个严格定义的技术领域，每一个领域�
 ---
 
 ### The Verge
+![Google的全新渐变图标设计即将推出更多应用](https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_GOOGLE.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[Google的全新渐变图标设计即将推出更多应用](https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps)**
+
+2025年底， **Google**开始**推出**带有渐变设计的新图标我们已经看到这种新的设计语言在**更新**版本的**Google** G徽标以及双子座、照片和地图中显示
+
+📅 2026-04-26T18:34:26.000Z
+
+---
+
+### The Verge
 ![Skylight的15英寸智能日历已降至迄今为止的最低价格](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/skylightcalendar2.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
 **[Skylight的15英寸智能日历已降至迄今为止的最低价格](https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale)**
@@ -226,13 +226,13 @@ Skylight的彩色智能日历支持与**Google**日历、Microsoft Outlook和App
 ---
 
 ### VentureBeat
-![解开谜团： Anthropic揭示了Claude的线束和操作说明的变化可能导致退化](https://images.ctfassets.net/jdtwqhzvc2n1/2X9Ly9wpE7RaNnxYGXHCwa/55d5ce3b01a0c6fed9740f6c7667c052/ChatGPT_Image_Apr_23__2026__05_43_30_PM.png?w=300&q=30)
+![人工智能合成受众已经到来，并准备颠覆咨询行业](https://images.ctfassets.net/jdtwqhzvc2n1/4AZSXEMtdtnPgmv3m8XzM6/e9cc92137da39bed7cf07a278ffa2775/Carl_Franzen_graphic_novel_style_intricate_line_drawing_first_f1777103-36c6-4343-90ce-11883e004271_2.png?w=300&q=30)
 
-**[解开谜团： Anthropic揭示了Claude的线束和操作说明的变化可能导致退化](https://venturebeat.com/technology/mystery-solved-anthropic-reveals-changes-to-claudes-harnesses-and-operating-instructions-likely-caused-degradation)**
+**[人工智能合成受众已经到来，并准备颠覆咨询行业](https://venturebeat.com/technology/ai-synthetic-audiences-are-already-here-and-poised-to-upend-the-consulting-industry)**
 
-几周来，越来越多的开发人员和人工智能高级用户声称， **Anthropic**的旗舰机型正在失去优势该公司打算在X和GitHub线程上使用其新的@ **Claude**Devs帐户，为未来的产品决策提供更深入的推理，并与其开发人员保持更透明的对话
+在任何演讲中，我被问到的第一个问题是“人工智能会窃取我的数据吗？某些行为可以以72%的准确率建模
 
-📅 Thu, 23 Apr 2026 21:50:00 GMT
+📅 Sun, 26 Apr 2026 04:00:00 GMT
 
 ---
 
@@ -272,7 +272,7 @@ Skylight的彩色智能日历支持与**Google**日历、Microsoft Outlook和App
 
 **[🆕 agentgate ：代理原生Web协议—将您的后端直接暴露给AI代理，无需HTML解析](https://github.com/NasirMalik/agentgate)**
 
-⭐ 3 star (新项目) · Python · Agent-native web protocol — expose your backend directly to AI agents, no HTML parsing required
+⭐ 4 star (新项目) · Python · Agent-native web protocol — expose your backend directly to AI agents, no HTML parsing required
 
 📅 2026-04-26T08:09:45Z
 
@@ -307,7 +307,7 @@ Skylight的彩色智能日历支持与**Google**日历、Microsoft Outlook和App
 
 标题： **OpenAI** (@ **OpenAI**)/X
 
-📅 2026-04-26T15:44:28.729Z
+📅 2026-04-26T23:40:48.716Z
 
 ---
 
@@ -316,7 +316,7 @@ Skylight的彩色智能日历支持与**Google**日历、Microsoft Outlook和App
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-04-26T15:44:28.729Z
+📅 2026-04-26T23:40:48.717Z
 
 ---
 
@@ -325,7 +325,7 @@ Skylight的彩色智能日历支持与**Google**日历、Microsoft Outlook和App
 
 [图片1 ：方形个人头像并打开个人头像] (https://pbscom/**OpenAI**/photo)
 
-📅 2026-04-26T15:44:28.729Z
+📅 2026-04-26T23:40:48.717Z
 
 ---
 
@@ -334,16 +334,25 @@ Skylight的彩色智能日历支持与**Google**日历、Microsoft Outlook和App
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-04-26T15:45:48.241Z
+📅 2026-04-26T23:42:08.544Z
 
 ---
 
 ### Hacker News
-**[为什么SWE-bench Verified不再衡量前沿编码能力](https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/)**
+**[Show HN ：创业股权冒险游戏](https://options-game-polymathrobotics.pythonanywhere.com/)**
 
-文章网址： https://**OpenAI**com/index/why-we-no-longer-evaluate-swe-bench-verified/评论网址： https://**new**s
+我（和**Claude** ）把这个放在一起，作为一种半游戏化的方式，让人们了解初创公司的股权看看，并分享你的记分卡:)评论网址： https://**new**s
 
-📅 Sun, 26 Apr 2026 13:58:13 +0000
+📅 Sun, 26 Apr 2026 22:14:59 +0000
+
+---
+
+### Hacker News AI
+**[我学会了停止担忧，热爱人工智能编程](https://jeffield.net/blog/claude-strangelove-or-how-i-learned-to-stop-worrying-and-love-coding-with-ai/)**
+
+文章网址： https://jeffieldnet/blog/**Claude**-strangelove-or-how-i-learned-to-stop-worrying-and-love-coding-with-ai/评论网址： https://**new**s
+
+📅 Sun, 26 Apr 2026 22:57:11 +0000
 
 ---
 
@@ -352,7 +361,7 @@ Skylight的彩色智能日历支持与**Google**日历、Microsoft Outlook和App
 
 **发布**时间： 2026年4月24日星期五01:01:36 GMT
 
-📅 2026-04-26T15:44:28.729Z
+📅 2026-04-26T23:40:48.717Z
 
 ---
 
@@ -361,16 +370,7 @@ Skylight的彩色智能日历支持与**Google**日历、Microsoft Outlook和App
 
 Markdown 内容
 
-📅 2026-04-26T15:44:28.729Z
-
----
-
-### X: Sam Altman
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/sama)**
-
-Title: 520: Web服务器返回未知错误
-
-📅 2026-04-26T15:44:44.541Z
+📅 2026-04-26T23:40:48.717Z
 
 ---
 
