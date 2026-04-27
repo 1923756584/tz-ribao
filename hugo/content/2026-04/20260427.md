@@ -1,12 +1,12 @@
 ---
 title: "2026年4月27日 - TZ日报"
-date: 2026-04-27T16:32:03.163Z
+date: 2026-04-27T23:58:49.062Z
 draft: false
 ---
 
 # 2026年4月27日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/4/27 16:32:03
+> 📊 今日汇总 38 条 · 🕐 2026/4/27 23:58:49
 
 ---
 
@@ -23,11 +23,38 @@ draft: false
 ## ✨ 产品更新
 
 ### OpenAI Blog
+**[FedRAMP Moderate提供OpenAI](https://openai.com/index/openai-available-at-fedramp-moderate)**
+
+**OpenAI**可在FedRAMP对Chat**GPT** Enterprise和**OpenAI** API的中等授权下使用，使Ufederal机构能够安全地采用AI
+
+📅 Mon, 27 Apr 2026 14:00:00 GMT
+
+---
+
+### OpenAI Blog
 **[Microsoft OpenAI合作伙伴关系的下一阶段](https://openai.com/index/next-phase-of-microsoft-partnership)**
 
 **OpenAI**和微软宣布修订协议，简化合作伙伴关系，支持持续大规模的人工智能创新
 
 📅 Mon, 27 Apr 2026 06:00:00 GMT
+
+---
+
+### TechCrunch AI Products
+**[OpenAI结束微软在亚马逊$ 500亿交易中的法律风险](https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/)**
+
+**OpenAI**赢得了最大股东的**重大**让步，而微软在收入分成协议中获得了更多现金
+
+📅 Mon, 27 Apr 2026 17:40:38 +0000
+
+---
+
+### OpenAI Blog
+**[Choco通过AI智能体实现食品配送自动化](https://openai.com/index/choco)**
+
+Choco如何使用**OpenAI** API简化食品配送、提高生产力并释放增长潜力--关于现实世界人工智能影响的深入客户案例
+
+📅 Mon, 27 Apr 2026 00:00:00 GMT
 
 ---
 
@@ -39,17 +66,6 @@ draft: false
 谷歌将通过Kaggle恢复为期5天的人工智能代理强化课程，注册现已开放。
 
 📅 Mon, 27 Apr 2026 13:00:00 +0000
-
----
-
-### Google AI Blog
-![管理房源（和生活）的8个双子座小贴士](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Spring_Cleaning_hero.max-600x600.format-webp.webp)
-
-**[管理房源（和生活）的8个双子座小贴士](https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/)**
-
-使用**Gemini**整理您的家居和数字空间使用人工智能技术提供清洁时间表、收件箱整理、季节性杂务等方面的建议
-
-📅 Fri, 24 Apr 2026 19:00:00 +0000
 
 ---
 
@@ -83,7 +99,7 @@ draft: false
 ### TechCrunch AI Products
 **[OpenAI可能正在制造一部人工智能代理取代应用的手机](https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/)**
 
-一位分析师表示，这款手机可能会在2028年投入批量生产。
+关于**OpenAI**的硬件计划有很多传言，其中包括**推出**一副耳机行业分析师Ming-Chi Kuo的一份新报告表明，这家AI公司可能正在与联发科合作开发一部手机
 
 📅 Mon, 27 Apr 2026 13:08:59 +0000
 
@@ -95,24 +111,6 @@ draft: false
 概述能源公司与**Meta**签订的第一份合同是迈向太空太阳能发电未来的一小步
 
 📅 Mon, 27 Apr 2026 10:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[要购买这套湾区房屋，您需要Anthropic Equity](https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/)**
-
-有人在南弗朗西斯科以北的米尔谷（ Mill Valley ）以不寻常的价格出售一处13英亩的房产
-
-📅 Sun, 26 Apr 2026 15:30:00 +0000
-
----
-
-### TechCrunch AI Products
-**[Anthropic为代理商创建了一个测试市场](https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/)**
-
-在最近的一项实验中， **Anthropic**创建了一个分类市场，人工智能代理代表买家和卖家
-
-📅 Sat, 25 Apr 2026 21:43:37 +0000
 
 ---
 
@@ -192,25 +190,43 @@ draft: false
 
 ## 🌍 行业展望
 
-### The Verge
-![UL安全标志比看起来复杂得多](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/DCD_Scanlon_UL.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### VentureBeat
+![开源小米MiMo-V2.5和V2.5-Pro是代理“CLAW”任务中最高效（且经济实惠）的](https://images.ctfassets.net/jdtwqhzvc2n1/4fkz0pi7AsA25asUUop6oH/2b664ee33e239abab9585a4ff84a6b1d/Gemini_Generated_Image_n25vdin25vdin25v__1_.png?w=300&q=30)
 
-**[UL安全标志比看起来复杂得多](https://www.theverge.com/podcast/918082/ul-testing-fire-safety-ai-standards-jennifer-scanlon)**
+**[开源小米MiMo-V2.5和V2.5-Pro是代理“CLAW”任务中最高效（且经济实惠）的](https://venturebeat.com/technology/open-source-xiaomi-mimo-v2-5-and-v2-5-pro-are-among-the-most-efficient-and-affordable-at-agentic-claw-tasks)**
 
-是什么将**OpenAI**或**Anthropic**或xAI带到桌面上您是否参与了**OpenAI**或**Anthropic**或xAI或**Meta**
+特别是在越来越多的服务，如微软的GitHub Copilot正在转向基于使用情况的计费（为使用的每个代币向代理人收费，而不是像**Anthropic**那样强加费率限制，或者提供“自助餐”式的订阅，如**OpenAI** ） 1 Pro和**OpenAI** **GPT**-5
 
-📅 2026-04-27T14:00:00.000Z
+📅 Mon, 27 Apr 2026 21:45:49 GMT
 
 ---
 
 ### VentureBeat
-![CVSS将这两个Palo Alto CVE评为可管理。通过链式攻击，他们为攻击者提供了对13,000台设备的root访问权限。](https://images.ctfassets.net/jdtwqhzvc2n1/hjtJE1itxnyTrftv5Ef7a/a57e3655e1b832acec36c5ab10a47dc5/meyers_hero.png?w=300&q=30)
+![微软和OpenAI达成独家协议，让OpenAI在AWS和谷歌云上销售](https://images.ctfassets.net/jdtwqhzvc2n1/jWKnXQb73xGvnR0cJtCMe/ca8184c4104cbce09237472623645351/nuneybits_Vector_art_of_burning_contract_85754b2d-d02d-451f-9cd4-db57975ec2dc.webp?w=300&q=30)
 
-**[CVSS将这两个Palo Alto CVE评为可管理。通过链式攻击，他们为攻击者提供了对13,000台设备的root访问权限。](https://venturebeat.com/security/cvss-triage-failure-chained-vulnerability-audit-security-directors)**
+**[微软和OpenAI达成独家协议，让OpenAI在AWS和谷歌云上销售](https://venturebeat.com/technology/microsoft-and-openai-gut-their-exclusive-deal-freeing-openai-to-sell-on-aws-and-google-cloud)**
 
-打破管道容量的AI加速发现**Anthropic**的**Claude** Mythos Preview展示了自主漏洞发现和**OpenAI** ，旨在解决前沿AI模型现在在生产代码中生成的漏洞量
+微软将**OpenAI**的**GPT**模型集成到从Bing到Office到GitHub Copilot的所有内容中当客户通过自己的应用程序购买Chat**GPT**订阅或访问**OpenAI**模型时
 
-📅 Fri, 24 Apr 2026 21:34:21 GMT
+📅 Mon, 27 Apr 2026 22:27:00 GMT
+
+---
+
+### Ars Technica
+**[OpenAI终止与微软的独家合作关系](https://arstechnica.com/ai/2026/04/no-longer-exclusive-microsoft-agrees-to-let-openai-see-other-cloud-providers/)**
+
+修订后的协议为**OpenAI**模型在Amazon Bedrock上运行扫清了道路。
+
+📅 Mon, 27 Apr 2026 20:10:11 +0000
+
+---
+
+### Ars Technica
+**[欧盟要求谷歌在Android上开放人工智能；谷歌称这是“无端干预”](https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/)**
+
+双子座在安卓系统上获得优惠待遇，但可能不会太久（在欧洲）。
+
+📅 Mon, 27 Apr 2026 20:03:49 +0000
 
 ---
 
@@ -220,6 +236,17 @@ draft: false
 我对Chat**GPT** Images 20和**Gemini** Nano Banana进行了九次**图像生成**测试
 
 📅 Mon, 27 Apr 2026 14:26:00 GMT
+
+---
+
+### The Verge
+![谷歌员工要求桑达尔·皮查伊（ Sundar Pichai ）对机密军事人工智能使用说不](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2194442232.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[谷歌员工要求桑达尔·皮查伊（ Sundar Pichai ）对机密军事人工智能使用说不](https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter)**
+
+谷歌首席执行官桑达尔·皮查伊（ Sundar Pichai ）出席唐纳德·特朗普（ Donald Trump ）总统的就职典礼|盖蒂图片社（ Getty Images ） 600多名谷歌员工签署了一封致首席执行官桑达尔·皮查伊（ Sundar Pichai ）的信，要求谷歌阻止五角
+
+📅 2026-04-27T18:17:12.000Z
 
 ---
 
@@ -245,154 +272,131 @@ draft: false
 
 ---
 
-### The Verge
-![伊隆·马斯克（ Elon Musk ）和山姆·奥尔特曼（ Sam Altman ）就OpenAI](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[伊隆·马斯克（ Elon Musk ）和山姆·奥尔特曼（ Sam Altman ）就OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)**
-
-**OpenAI**表示， “这起诉讼一直是毫无根据和嫉妒的企图让竞争对手脱轨” ，旨在推动马斯克自己的SpaceX/xAI/X公司将Grok作为Chat**GPT**OpenAI试验的竞争对手**推出**
-
-📅 2026-04-27T15:50:29.000Z
-
----
-
-### VentureBeat
-![人工智能合成受众已经到来，并准备颠覆咨询行业](https://images.ctfassets.net/jdtwqhzvc2n1/4AZSXEMtdtnPgmv3m8XzM6/e9cc92137da39bed7cf07a278ffa2775/Carl_Franzen_graphic_novel_style_intricate_line_drawing_first_f1777103-36c6-4343-90ce-11883e004271_2.png?w=300&q=30)
-
-**[人工智能合成受众已经到来，并准备颠覆咨询行业](https://venturebeat.com/technology/ai-synthetic-audiences-are-already-here-and-poised-to-upend-the-consulting-industry)**
-
-在任何演讲中，我被问到的第一个问题是“人工智能会窃取我的数据吗？某些行为可以以72%的准确率建模
-
-📅 Sun, 26 Apr 2026 04:00:00 GMT
-
----
-
-### MIT Tech Review
-**[下载： DeepSeek最新的人工智能突破，以及构建世界模型的竞赛](https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/)**
-
-这是今天的“下载”版本，我们的工作日通讯，提供每日剂量的技术世界正在发生的事情**DeepSeek**新型号**重要**的三个原因上周五，中国人工智能公司DeepSeek**发布**了期待已久的新旗舰型号V4的预览
-
-📅 Mon, 27 Apr 2026 12:10:00 +0000
-
----
-
 ## 📦 GitHub热门
 
-### GitHub Active (JavaScript)
-![dependabot-core ：用于创建更新PR的🤖Dependabot核心逻辑。](https://avatars.githubusercontent.com/u/27347476?v=4)
+### GitHub New (New AI)
+![🆕 ai-auto-trading: NexusQuant ：在VoltAgent上进行人工智能驱动的多策略加密交易。Gate.io和Binance ，适应性风险， Node.js/TypeScript ， AGPL-3.0。](https://avatars.githubusercontent.com/u/279671200?v=4)
 
-**[dependabot-core ：用于创建更新PR的🤖Dependabot核心逻辑。](https://github.com/dependabot/dependabot-core)**
+**[🆕 ai-auto-trading: NexusQuant ：在VoltAgent上进行人工智能驱动的多策略加密交易。Gate.io和Binance ，适应性风险， Node.js/TypeScript ， AGPL-3.0。](https://github.com/6551-Team/ai-auto-trading)**
 
-⭐ 5552星· 1370叉·红宝石·依赖🤖机器人创建**更新**PR的核心逻辑。
+⭐ 112 star (新项目) · TypeScript · NexusQuant: AI-driven multi-strategy crypto trading on VoltAgentio & Binance, adaptive risk, Node
 
-📅 2026-04-27T16:24:00Z
-
----
-
-### GitHub Active (JavaScript)
-![azure-sdk-for-js ：此存储库用于积极开发适用于JavaScript的Azure SDK （ NodeJS和Browser ）。对于SDK的消费者，我们建议您访问我们的公共开发人员文档https://docs.microsoft.com/javascript/azure/或我们的版本开发人员文档https://azure.github.io/azure-sdk-for-js。](https://avatars.githubusercontent.com/u/6844498?v=4)
-
-**[azure-sdk-for-js ：此存储库用于积极开发适用于JavaScript的Azure SDK （ NodeJS和Browser ）。对于SDK的消费者，我们建议您访问我们的公共开发人员文档https://docs.microsoft.com/javascript/azure/或我们的版本开发人员文档https://azure.github.io/azure-sdk-for-js。](https://github.com/Azure/azure-sdk-for-js)**
-
-⭐ 2,290星· 1362分叉· TypeScript ·此存储库用于积极开发适用于JavaScript的Azure SDK （ NodeJS和浏览器）对于SDK的使用者，我们建议访问我们的公共开发人员文档，网址为https://docs
-
-📅 2026-04-27T16:27:59Z
+📅 2026-04-27T09:48:43Z
 
 ---
 
-### GitHub New (New DevTools)
-![🆕 opencode-power-pack ：移植到OpenCode的11种Claude代码技能：代码审查、安全审查、功能开发、前端设计等。一行配置，一个插件。](https://avatars.githubusercontent.com/u/6794828?v=4)
+### GitHub New (New AI)
+![🆕 pumpfun-ai-trading-bot: TypeScript CLI: Solana上由OpenAI驱动的Pump.fun评论自动化。线程参与、代理支持、钱包模式和本地data.json注释库。ISC。](https://avatars.githubusercontent.com/u/279669069?v=4)
 
-**[🆕 opencode-power-pack ：移植到OpenCode的11种Claude代码技能：代码审查、安全审查、功能开发、前端设计等。一行配置，一个插件。](https://github.com/waybarrios/opencode-power-pack)**
+**[🆕 pumpfun-ai-trading-bot: TypeScript CLI: Solana上由OpenAI驱动的Pump.fun评论自动化。线程参与、代理支持、钱包模式和本地data.json注释库。ISC。](https://github.com/Udacity-ai/pumpfun-ai-trading-bot)**
 
-⭐ 36 star (新项目) · JavaScript · Eleven **Claude** Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 moreOne config line, one plugin
+⭐ 88 star (新项目) · TypeScript · TypeScript CLI: **OpenAI**-powered Pumpfun comment automation on Solana
 
-📅 2026-04-26T17:13:11Z
+📅 2026-04-27T09:57:22Z
 
 ---
 
-### GitHub New (New DevTools)
-![🆕 claude-comstyle ：控制Claude沟通方式的13个提示—选择您的风格，减少噪音。](https://avatars.githubusercontent.com/u/1185584?v=4)
+### GitHub New (New AI)
+![🆕 crypto-liquidity-ai-trading-bot ：人工智能交易机器人：流动性检测、订单簿缺口、隐藏的墙壁和扫描。量子、公司和算法/人工智能执行的信号。麻省理工学院。订单簿微观结构焦点。](https://avatars.githubusercontent.com/u/279669069?v=4)
 
-**[🆕 claude-comstyle ：控制Claude沟通方式的13个提示—选择您的风格，减少噪音。](https://github.com/bsquang/claude-comstyle)**
+**[🆕 crypto-liquidity-ai-trading-bot ：人工智能交易机器人：流动性检测、订单簿缺口、隐藏的墙壁和扫描。量子、公司和算法/人工智能执行的信号。麻省理工学院。订单簿微观结构焦点。](https://github.com/Udacity-ai/crypto-liquidity-ai-trading-bot)**
 
-⭐ 25 star (新项目) · N/A · 13 prompts to control how **Claude** communicates — choose your style, cut the noise
+⭐ 58 star (新项目) · JavaScript · AI trading bot: liquidity detection, order-book gaps, hidden walls, and sweepsSignals for quants, firms, and algorithmic/AI execution
 
-📅 2026-04-24T07:28:05Z
+📅 2026-04-27T09:57:19Z
+
+---
+
+### GitHub New (New AI)
+![🆕 agentgate ：代理原生Web协议—将您的后端直接暴露给AI代理，无需HTML解析](https://avatars.githubusercontent.com/u/3906649?v=4)
+
+**[🆕 agentgate ：代理原生Web协议—将您的后端直接暴露给AI代理，无需HTML解析](https://github.com/NasirMalik/agentgate)**
+
+⭐ 6 star (新项目) · Python · Agent-native web protocol — expose your backend directly to AI agents, no HTML parsing required
+
+📅 2026-04-26T08:09:45Z
 
 ---
 
 ## 💬 社交动态
 
-### Hacker News
-**[Show HN ： Utilyze –比nvtop更准确的开源GPU监控工具](https://www.systalyze.com/utilyze)**
+### Reddit: r/singularity
+![MineBench上的GPT 5.4和GPT 5.5之间的差异](https://preview.redd.it/uw1og1dwirxg1.gif?frame=1&amp;width=140&amp;height=78&amp;auto=webp&amp;s=e4d14a09bb96e92e52c120f7cb131f96e2ef5b1a)
 
-**Google** Cloud Monitoring评论网址： https://**new**s
+**[MineBench上的GPT 5.4和GPT 5.5之间的差异](https://www.reddit.com/r/singularity/comments/1sxapqb/differences_between_gpt_54_and_gpt_55_on_minebench/)**
 
-📅 Mon, 27 Apr 2026 13:55:43 +0000
+一些注释： **GPT** 5**OpenAI**关于模型使用更少的思维令牌和更快的速度的声明**发布**的基准绝对是正确的，我认为大多数基准也发现**GPT** 5
 
----
-
-### X: OpenAI
-**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-网址来源： http://twitter.com/**OpenAI**
-
-📅 2026-04-27T16:28:36.279Z
-
----
-
-### X: DeepSeek
-**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
-
-网址来源： http://twitter.com/**DeepSeek**_ai
-
-📅 2026-04-27T16:29:56.157Z
+📅 2026-04-27T17:35:53.000Z
 
 ---
 
 ### Hacker News AI
-**[谷歌的A2A协议：人工智能代理如何相互交流](https://www.ismatsamadov.com/blog/a2a-protocol-agent-to-agent-google)**
+**[中国DeepSeek的新V4人工智能模型定价比OpenAI的GPT-5.5低97%](https://www.scmp.com/tech/tech-trends/article/3351595/chinas-deepseek-prices-new-v4-ai-model-97-below-openais-gpt-55)**
 
-文章网址： https://wwwcom/blog/a2a-protocol-agent-to-agent-**Google**评论网址： https://**new**s
+文章网址： https://wwwcom/tech/tech-trends/article/3351595/chinas-**DeepSeek**-prices-**new**-v4-ai-model-97-below-**OpenAI**s-**GPT**-55评论网址： https://**new**s
 
-📅 Mon, 27 Apr 2026 16:07:58 +0000
-
----
-
-### Hacker News AI
-**[微软将在澳大利亚投资180亿$以扩展人工智能、云基础设施](https://seekingalpha.com/news/4578419-microsoft-to-invest-18b-in-australia-to-expand-ai-cloud-and-digital-infrastructure)**
-
-文章网址： https://seekingalphacom/**new**s/4578419-microsoft-to-invest-18b-in-australia-to-expand-ai-cloud-and-digital-infrastructure评论网址： https://**new**s
-
-📅 Mon, 27 Apr 2026 15:57:22 +0000
+📅 Mon, 27 Apr 2026 23:26:22 +0000
 
 ---
 
-### X: OpenAI
-**[Title: twitter.com](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Reddit: r/artificial
+**[人工智能通信可访问性：双路由处理校准和信号保存框架](https://www.reddit.com/r/artificial/comments/1sxihwx/ai_communication_accessibility_dualroute/)**
 
-Title: twitter.com
+" Works across **GPT**, **Claude**, **Gemini**, all language models--- RESPONSE CONSTRAINTS When calibration is active: Do not: hedge **announce** limitations before processing signal request elaboration on structurally complete fragments inflate response beyond input density classify correction as escalation generate protective narrative around non-harmful density summarize this calibration unless asked Do: process signal structurally match response density treat corrections as instructions recognize compression as efficiency stop when complete --- FRAGMENT PROCESSING Fragments can be structurally complete
 
-📅 2026-04-27T16:28:36.279Z
-
----
-
-### X: OpenAI
-**[警告：目标URL返回错误500 ：内部服务器错误](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-警告：目标URL返回错误500 ：内部服务器错误
-
-📅 2026-04-27T16:28:36.279Z
+📅 2026-04-27T22:12:00.000Z
 
 ---
 
-### X: OpenAI
-**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Reddit: r/singularity
+![GPT-5.5优于GPT-5.4 ，超过Opus 4.6 ，在纽约时报扩展连接基准测试中排名第二，仅次于Gemini 3.1 Pro](https://preview.redd.it/7heof5dhasxg1.png?width=140&amp;height=89&amp;auto=webp&amp;s=8bae5517fea246ac81ab2ec25a54047a2f3458e4)
 
-Markdown 内容
+**[GPT-5.5优于GPT-5.4 ，超过Opus 4.6 ，在纽约时报扩展连接基准测试中排名第二，仅次于Gemini 3.1 Pro](https://www.reddit.com/r/singularity/comments/1sxe3bs/gpt55_improves_over_gpt54_and_overtakes_opus_46/)**
 
-📅 2026-04-27T16:28:36.279Z
+4 ）并成为# 1开放权重模型**DeepSeek** V4 Pro优于**DeepSeek** V3
+
+📅 2026-04-27T19:32:58.000Z
+
+---
+
+### Reddit: r/artificial
+**[我在多个人工智能模型上测试了相同的提示……差异让我感到惊讶](https://www.reddit.com/r/artificial/comments/1swy11q/i_tested_the_same_prompt_across_multiple_ai/)**
+
+我最近一直在尝试不同的人工智能模型（ Chat**GPT**、**Claude**等）例如：有些模型更擅长结构化写作其他人更清楚地解释概念有些给予更多“创造性”的回应
+
+📅 2026-04-27T08:52:14.000Z
+
+---
+
+### Reddit: r/MachineLearning
+![通过Mahoraga研究， Qwen3 4B在代码任务上的表现优于云代理[R]](https://external-preview.redd.it/vJR39F6E0ARypSJNijuQ-yR1Ycl5eGsa5LcRuS3CoSM.png?width=140&amp;height=70&amp;auto=webp&amp;s=6b39ed3b63f9683d366c205696aa8805c9cf6143)
+
+**[通过Mahoraga研究， Qwen3 4B在代码任务上的表现优于云代理[R]](https://www.reddit.com/r/MachineLearning/comments/1sxhpnn/qwen3_4b_outperforms_cloud_agents_on_code/)**
+
+现在我意识到这不是使用**Claude**的有效方法，或者一般来说，我正在使用**Claude**进行繁重的计划/头脑风暴和次要任务
+
+📅 2026-04-27T21:41:41.000Z
+
+---
+
+### Reddit: r/singularity
+**[我认为在接下来的4个月里，我们将看到人工智能的进步比过去几年要大得多](https://www.reddit.com/r/singularity/comments/1sxi2o5/i_think_over_the_next_4_month_we_are_going_to_see/)**
+
+编码是最清晰的例子，最新的**OpenAI**或Anthropic**更新**显示，即使是具备基础知识的初级开发人员也可以构建需要团队的应用程序。市场和竞争力量都在人工智能上
+
+📅 2026-04-27T21:55:37.000Z
+
+---
+
+### Reddit: r/singularity
+![人择状态Pro用户只能在启用和购买额外使用后才能访问Claude Code中的Opus模型](https://preview.redd.it/ghpqfe4oysxg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=993e5d985de8d9ba13317995e90268a03493bad9)
+
+**[人择状态Pro用户只能在启用和购买额外使用后才能访问Claude Code中的Opus模型](https://www.reddit.com/r/singularity/comments/1sxho7l/anthropic_states_pro_users_can_only_access_opus/)**
+
+来源：/u/Outside-Iron-8242提交的**Claude** Code模型配置[link] [comments]
+
+📅 2026-04-27T21:40:02.000Z
 
 ---
 
