@@ -1,12 +1,12 @@
 ---
 title: "2026年4月28日 - TZ日报"
-date: 2026-04-28T16:57:14.791Z
+date: 2026-04-29T00:00:50.683Z
 draft: false
 ---
 
 # 2026年4月28日 - TZ日报
 
-> 📊 今日汇总 37 条 · 🕐 2026/4/28 16:57:14
+> 📊 今日汇总 38 条 · 🕐 2026/4/29 00:00:50
 
 ---
 
@@ -16,11 +16,20 @@ draft: false
 - **前沿研究**: 8 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
-- **社交动态**: 7 条
+- **社交动态**: 8 条
 
 ---
 
 ## ✨ 产品更新
+
+### OpenAI Blog
+**[OpenAI模型、Codex和托管代理来到AWS](https://openai.com/index/openai-on-aws)**
+
+**OpenAI** **GPT**模型、Codex和托管代理现已在AWS上提供，使企业能够在其AWS环境中构建安全的AI
+
+📅 Tue, 28 Apr 2026 00:00:00 GMT
+
+---
 
 ### OpenAI Blog
 **[FedRAMP Moderate提供OpenAI](https://openai.com/index/openai-available-at-fedramp-moderate)**
@@ -37,6 +46,24 @@ draft: false
 **OpenAI**和微软宣布修订协议，简化合作伙伴关系，支持持续大规模的人工智能创新
 
 📅 Mon, 27 Apr 2026 06:00:00 GMT
+
+---
+
+### TechCrunch AI Products
+**[亚马逊已经在AWS上提供新的OpenAI产品](https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/)**
+
+在**OpenAI**让微软同意终止独家权利的第二天， AWS宣布了一系列**OpenAI**模型产品，包括新的代理服务
+
+📅 Tue, 28 Apr 2026 19:48:02 +0000
+
+---
+
+### TechCrunch AI Products
+**[在人类拒绝后，谷歌扩大了五角大楼对其人工智能的访问权限](https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/)**
+
+在**Anthropic**拒绝允许国防部将其人工智能用于国内大规模监控和自主武器之后，谷歌与该部门签署了一项新合同
+
+📅 Tue, 28 Apr 2026 18:15:00 +0000
 
 ---
 
@@ -86,33 +113,6 @@ Choco如何使用**OpenAI** API简化食品配送、提高生产力并释放增�
 谷歌将通过Kaggle恢复为期5天的人工智能代理强化课程，注册现已开放。
 
 📅 Mon, 27 Apr 2026 13:00:00 +0000
-
----
-
-### DeepMind Blog
-**[宣布我们与大韩民国的合作伙伴关系](https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/)**
-
-谷歌DeepMind与韩国合作，利用前沿人工智能模型加速科学**突破**
-
-📅 Mon, 27 Apr 2026 07:00:06 +0000
-
----
-
-### Hugging Face
-**[隆重推出NVIDIA Nemotron 3 Nano Omni ：适用于文档、音频和视频代理的长上下文多模式智能](https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence)**
-
-隆重**推出**NVIDIA Nemotron 3 Nano Omni ：适用于文档、音频和视频代理的长上下文多模式智能
-
-📅 Tue, 28 Apr 2026 15:58:57 GMT
-
----
-
-### Hugging Face
-**[如何使用OpenAI的隐私过滤器构建可扩展的Web应用](https://huggingface.co/blog/openai-privacy-filter-web-apps)**
-
-如何使用**OpenAI**的隐私过滤器构建可扩展的Web应用
-
-📅 Mon, 27 Apr 2026 00:00:00 GMT
 
 ---
 
@@ -193,6 +193,17 @@ Choco如何使用**OpenAI** API简化食品配送、提高生产力并释放增�
 ## 🌍 行业展望
 
 ### VentureBeat
+![美国人工智能初创公司Poolside推出免费的高性能开放模型Laguna XS.2 ，用于本地代理编码](https://images.ctfassets.net/jdtwqhzvc2n1/17W1QLwI0TRcCbh1PRrNHI/84674529b60419ff0f68bb0e415706ee/ChatGPT_Image_Apr_28__2026__04_20_42_PM.png?w=300&q=30)
+
+**[美国人工智能初创公司Poolside推出免费的高性能开放模型Laguna XS.2 ，用于本地代理编码](https://venturebeat.com/technology/american-ai-startup-poolside-launches-free-high-performing-open-model-laguna-xs-2-for-local-agentic-coding)**
+
+7 ） ，然后，大约一周后，其竞争对手**OpenAI**用自己的一个（ **GPT**-5 ）回归Poolside今天**发布**的新AI模型包括： Laguna M
+
+📅 Tue, 28 Apr 2026 21:36:00 GMT
+
+---
+
+### VentureBeat
 ![开源小米MiMo-V2.5和V2.5-Pro是代理“CLAW”任务中最高效（且经济实惠）的](https://images.ctfassets.net/jdtwqhzvc2n1/4fkz0pi7AsA25asUUop6oH/2b664ee33e239abab9585a4ff84a6b1d/Gemini_Generated_Image_n25vdin25vdin25v__1_.png?w=300&q=30)
 
 **[开源小米MiMo-V2.5和V2.5-Pro是代理“CLAW”任务中最高效（且经济实惠）的](https://venturebeat.com/technology/open-source-xiaomi-mimo-v2-5-and-v2-5-pro-are-among-the-most-efficient-and-affordable-at-agentic-claw-tasks)**
@@ -226,66 +237,53 @@ Choco如何使用**OpenAI** API简化食品配送、提高生产力并释放增�
 ---
 
 ### The Verge
-![据报道，谷歌和五角大楼就“任何合法”使用人工智能的交易达成一致](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24925007/236780_Google_AntiTrust_Trial_Custom_Art_CVirginia__0001_5.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[据报道，谷歌和五角大楼就“任何合法”使用人工智能的交易达成一致](https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal)**
-
-谷歌签署了一项机密协议，允许美国国防部将其人工智能模型用于“任何合法的政府目的”如果协议得到确认，它将把谷歌与**OpenAI**和xAI放在一起，后者也与美国政府达成了机密人工智能交易
-
-📅 2026-04-28T11:09:32.000Z
-
----
-
-### Ars Technica
-**[OpenAI终止与微软的独家合作关系](https://arstechnica.com/ai/2026/04/no-longer-exclusive-microsoft-agrees-to-let-openai-see-other-cloud-providers/)**
-
-修订后的协议为**OpenAI**模型在Amazon Bedrock上运行扫清了道路。
-
-📅 Mon, 27 Apr 2026 20:10:11 +0000
-
----
-
-### Ars Technica
-**[欧盟要求谷歌在Android上开放人工智能；谷歌称这是“无端干预”](https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/)**
-
-双子座在安卓系统上获得优惠待遇，但可能不会太久（在欧洲）。
-
-📅 Mon, 27 Apr 2026 20:03:49 +0000
-
----
-
-### The Verge
-![Claude现在可以直接插入Photoshop、Blender和Ableton](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Claude-creative-connectors-Blender-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[Claude现在可以直接插入Photoshop、Blender和Ableton](https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender)**
-
-|图片： **Anthropic** **Anthropic**为Claude**推出**了一套连接器，让人工智能聊天机器人能够利用流行的创意软件这标志着该公司在本月早些时候**推出**Claude Design后，为进入创意行业所做的最新努力
-
-📅 2026-04-28T16:49:08.000Z
-
----
-
-### The Verge
 ![伊隆·马斯克（ Elon Musk ）和萨姆·奥尔特曼（ Sam Altman ）围绕OpenAI未来的官司](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
 **[伊隆·马斯克（ Elon Musk ）和萨姆·奥尔特曼（ Sam Altman ）围绕OpenAI未来的官司](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)**
 
-**OpenAI**表示， “这起诉讼一直是毫无根据和嫉妒的企图让竞争对手脱轨” ，旨在推动马斯克自己的SpaceX/xAI/X公司将Grok作为Chat**GPT**OpenAI试验的竞争对手**推出**
+Sam Altman和Elon Musk正面临着一项高风险的试验，这可能会改变**OpenAI**及其最知名产品Chat**GPT**OpenAI的未来， Chat**GPT**OpenAI表示， “这起诉讼一直是毫无根据和嫉妒的企图破坏竞争对手” ，旨在推动马斯克自己的SpaceX/xAI/X公司将Grok作为Chat**GPT**的竞争对手**推出**
 
-📅 2026-04-28T15:32:01.000Z
+📅 2026-04-28T19:27:50.000Z
+
+---
+
+### MIT Tech Review
+**[下载：马斯克和奥尔特曼的合法摊牌，以及人工智能的利润问题](https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/)**
+
+这是我们工作日时事通讯《下载》的今天版本，该通讯提供技术领域每日发生的事情伊隆·马斯克和萨姆·奥尔特曼将因**OpenAI**未来的伊隆·马斯克和**OpenAI**首席执行官萨姆·奥尔特曼本周在一起具有广泛后果的案件中接受审判
+
+📅 Tue, 28 Apr 2026 12:10:00 +0000
+
+---
+
+### MIT Tech Review
+**[下载： DeepSeek最新的人工智能突破，以及构建世界模型的竞赛](https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/)**
+
+这是我们工作日时事通讯《下载》的今天版本，该通讯提供技术领域每日发生的事情伊隆·马斯克和萨姆·奥尔特曼将因**OpenAI**未来的伊隆·马斯克和**OpenAI**首席执行官萨姆·奥尔特曼本周在一起具有广泛后果的案件中接受审判
+
+📅 Mon, 27 Apr 2026 12:10:00 +0000
+
+---
+
+### Wired Technology
+**[OpenAI真的希望Codex对Goblins闭嘴](https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/)**
+
+**OpenAI**的编码代理说明中写道： “永远不要谈论妖精”
+
+📅 Tue, 28 Apr 2026 23:45:05 +0000
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![气流： Apache气流-以编程方式创作、安排和监控工作流程的平台](https://avatars.githubusercontent.com/u/47359?v=4)
+![onnxruntime ： ONNX运行时：跨平台、高性能机器学习推理和训练加速器](https://avatars.githubusercontent.com/u/6154722?v=4)
 
-**[气流： Apache气流-以编程方式创作、安排和监控工作流程的平台](https://github.com/apache/airflow)**
+**[onnxruntime ： ONNX运行时：跨平台、高性能机器学习推理和训练加速器](https://github.com/microsoft/onnxruntime)**
 
-⭐ 45,221星· 16944分叉· Python · Apache Airflow -一个以编程方式创作、安排和监控工作流程的平台
+⭐ 20,375星· 3876叉· C + + · ONNX运行时：跨平台、高性能机器学习推理和训练加速器
 
-📅 2026-04-28T16:55:57Z
+📅 2026-04-28T23:58:35Z
 
 ---
 
@@ -294,18 +292,18 @@ Choco如何使用**OpenAI** API简化食品配送、提高生产力并释放增�
 
 **[🆕 pumpfun-ai-trading-bot ： Solana上由OpenAI驱动的Pump.fun评论自动化。线程参与、代理支持、钱包模式和本地data.json注释库。ISC. ai交易机器人， pumpfun交易机器人，交易机器人， pumfun ai交易机器人， ai交易机器人， pumpfun交易机器人，交易机器人， pumfun ai交易机器人， ai交易机器人， pumpfun交易机器人，交易机器人， pumfun交易机器人](https://github.com/Udacity-ai/pumpfun-ai-trading-bot)**
 
-⭐ 124 star (新项目) · TypeScript · **OpenAI**-powered Pumppumfun ai trading bot
+⭐ 129 star (新项目) · TypeScript · **OpenAI**-powered Pumppumfun ai trading bot
 
 📅 2026-04-27T09:57:22Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 ai-auto-trading ：在VoltAgent上进行人工智能驱动的多策略加密交易。Gate.io和Binance、自适应风险、AI自动交易、交易机器人、AI交易机器人、Binance、Coinbase、AI交易、AI交易机器人、AI交易机器人、AI交易机器人、AI机器人、Binance、Coinbase、Hyperliquid、VoltAgent上AI驱动的多策略加密交易。Gate.io和币安，适应性风险，人工智能汽车](https://avatars.githubusercontent.com/u/279671200?v=4)
+![🆕 ai-auto-trading ：在VoltAgent上进行人工智能驱动的多策略加密交易。Gate.io和Binance ，自适应风险， AI自动交易，交易机器人， AI交易机器人，币安， coinbase ， ai交易， ai交易机器人， ai交易机器人， ai交易机器人， ai机器人，币安， coinbase ，超流体， VoltAgent上AI驱动的多策略加密交易。Gate.io和币安，适应性风险，人工智能汽车](https://avatars.githubusercontent.com/u/279671200?v=4)
 
-**[🆕 ai-auto-trading ：在VoltAgent上进行人工智能驱动的多策略加密交易。Gate.io和Binance、自适应风险、AI自动交易、交易机器人、AI交易机器人、Binance、Coinbase、AI交易、AI交易机器人、AI交易机器人、AI交易机器人、AI机器人、Binance、Coinbase、Hyperliquid、VoltAgent上AI驱动的多策略加密交易。Gate.io和币安，适应性风险，人工智能汽车](https://github.com/6551-Team/ai-auto-trading)**
+**[🆕 ai-auto-trading ：在VoltAgent上进行人工智能驱动的多策略加密交易。Gate.io和Binance ，自适应风险， AI自动交易，交易机器人， AI交易机器人，币安， coinbase ， ai交易， ai交易机器人， ai交易机器人， ai交易机器人， ai机器人，币安， coinbase ，超流体， VoltAgent上AI驱动的多策略加密交易。Gate.io和币安，适应性风险，人工智能汽车](https://github.com/6551-Team/ai-auto-trading)**
 
-⭐ 52 star (新项目) · TypeScript · AI-driven multi-strategy crypto trading on VoltAgentAI-driven multi-strategy crypto trading on VoltAgent
+⭐ 51 star (新项目) · TypeScript · AI-driven multi-strategy crypto trading on VoltAgentAI-driven multi-strategy crypto trading on VoltAgent
 
 📅 2026-04-27T09:48:43Z
 
@@ -324,12 +322,12 @@ Choco如何使用**OpenAI** API简化食品配送、提高生产力并释放增�
 
 ## 💬 社交动态
 
-### Hacker News AI
-**[Show HN ： Ragnerock ，人工智能数据分析工具](https://www.ragnerock.com)**
+### Hacker News
+**[可玩的DOOM MCP应用程序](https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/)**
 
-作为数据科学家，您花费大部分时间来处理数据Tagnerock有四个主要组件： -一个工作流设计器，可让您构建LLM驱动的数据处理和分析管道-一个运行这些工作流的作业编排层-一个查询接口，可让您使用纯SQL检查这些工作流的结果-一个与Jupyter 100% API兼容并在现有内核上运行的笔记本系统
+文章网址： https://chrisnagercom/blog/doom-runs-in-chat**GPT**-and-**Claude**/评论网址： https://**new**s
 
-📅 Tue, 28 Apr 2026 16:33:55 +0000
+📅 Tue, 28 Apr 2026 19:08:47 +0000
 
 ---
 
@@ -338,7 +336,7 @@ Choco如何使用**OpenAI** API简化食品配送、提高生产力并释放增�
 
 标题： **OpenAI** (@ **OpenAI**)/X
 
-📅 2026-04-28T16:54:00.050Z
+📅 2026-04-28T23:57:28.711Z
 
 ---
 
@@ -347,7 +345,7 @@ Choco如何使用**OpenAI** API简化食品配送、提高生产力并释放增�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-04-28T16:54:00.050Z
+📅 2026-04-28T23:57:28.711Z
 
 ---
 
@@ -356,7 +354,7 @@ Choco如何使用**OpenAI** API简化食品配送、提高生产力并释放增�
 
 [图片1 ：方形个人头像并打开个人头像] (https://pbscom/**OpenAI**/photo)
 
-📅 2026-04-28T16:54:00.050Z
+📅 2026-04-28T23:57:28.711Z
 
 ---
 
@@ -365,25 +363,34 @@ Choco如何使用**OpenAI** API简化食品配送、提高生产力并释放增�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-04-28T16:55:19.580Z
+📅 2026-04-28T23:58:53.551Z
 
 ---
 
 ### Hacker News
-**[Anthropic作为企业赞助人加入Blender发展基金](https://www.blender.org/press/anthropic-joins-the-blender-development-fund-as-corporate-patron/)**
+**[Amazon Bedrock即将推出的OpenAI模型：对OpenAI和AWS首席执行官的采访](https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/)**
 
-文章网址： https://wwworg/press/**Anthropic**-joins-the-blender-development-fund-as-corporate-patron/评论网址： https://**new**s
+com/bedrock/**OpenAI**/https://wwwcom/**new**s/aws/bedrock-**OpenAI**-models https://**OpenAI**
 
-📅 Tue, 28 Apr 2026 16:07:58 +0000
+📅 Tue, 28 Apr 2026 19:24:43 +0000
 
 ---
 
-### Hacker News
-**[英伟达高管表示，人工智能的成本高于人工](https://fortune.com/2026/04/28/nvidia-executive-cost-of-ai-is-greater-than-cost-of-employees/)**
+### Hacker News AI
+**[英伟达高管表示，人工智能的成本高于人工薪酬](https://fortune.com/2026/04/28/nvidia-executive-cost-of-ai-is-greater-than-cost-of-employees/)**
 
 文章网址： https://fortunecom/2026/04/28/nvidia-executive-cost-of-ai-is-greater-than-cost-of-employees/评论网址： https://**new**s
 
-📅 Tue, 28 Apr 2026 15:54:13 +0000
+📅 Tue, 28 Apr 2026 22:15:38 +0000
+
+---
+
+### X: OpenAI
+**[发布时间： 2026年4月24日星期五01:01:36 GMT](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+**发布**时间： 2026年4月24日星期五01:01:36 GMT
+
+📅 2026-04-28T23:57:28.711Z
 
 ---
 
