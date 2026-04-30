@@ -1,12 +1,12 @@
 ---
 title: "2026年4月30日 - TZ日报"
-date: 2026-04-30T16:24:39.390Z
+date: 2026-04-30T23:57:51.822Z
 draft: false
 ---
 
 # 2026年4月30日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/4/30 16:24:39
+> 📊 今日汇总 38 条 · 🕐 2026/4/30 23:57:51
 
 ---
 
@@ -22,12 +22,12 @@ draft: false
 
 ## ✨ 产品更新
 
-### OpenAI Blog
-**[我们对社区安全的承诺](https://openai.com/index/our-commitment-to-community-safety)**
+### TechCrunch AI Products
+**[在驳斥Anthropic限制Mythos之后， OpenAI也限制了对Cyber的访问](https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/)**
 
-了解**OpenAI**如何通过模型保障措施和与安全专家的合作来保护Chat**GPT**中的社区安全
+**OpenAI**将首先向“关键网络防御者”**推出**其网络安全测试工具**GPT**-55 Cyber
 
-📅 Tue, 28 Apr 2026 00:00:00 GMT
+📅 Thu, 30 Apr 2026 19:27:41 +0000
 
 ---
 
@@ -40,39 +40,30 @@ draft: false
 
 ---
 
+### OpenAI Blog
+**[我们对社区安全的承诺](https://openai.com/index/our-commitment-to-community-safety)**
+
+了解**OpenAI**如何通过模型保障措施和与安全专家的合作来保护Chat**GPT**中的社区安全
+
+📅 Tue, 28 Apr 2026 00:00:00 GMT
+
+---
+
 ### TechCrunch AI Products
-**[资料来源： Anthropic可能以$ 900B的估值筹集新一轮$ 500B](https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/)**
+**[OpenAI宣布为ChatGPT帐户提供新的高级安全保护，包括与Yubico建立合作伙伴关系](https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/)**
 
-据知情人士透露， **Claude**的制造商已收到多份估值在8500亿至9000亿美元之间的先发制人要约
+**OpenAI**正在为Chat**GPT**帐户**推出**额外的选择性保护新安全计划包括与安全密钥提供商Yubico的新合作伙伴关系
 
-📅 Thu, 30 Apr 2026 00:07:15 +0000
+📅 Thu, 30 Apr 2026 18:20:03 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[萨蒂亚·纳德拉（ Satya Nadella ）表示，他已准备好“利用”新的OpenAI交易](https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/)**
+**[谷歌的Gemini AI助手正在数百万辆汽车上路](https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/)**
 
-微软可以向其云客户提供**OpenAI**的技术，而无需为此付费“我们完全计划利用它，”纳德拉说
+此举标志着谷歌推动将更先进的对话式人工智能引入驾驶体验
 
-📅 Wed, 29 Apr 2026 23:55:23 +0000
-
----
-
-### AI News
-**[大型科技公司刚刚证明人工智能基础设施支出是有效的。然后它还是提高了账单](https://www.artificialintelligence-news.com/news/big-tech-ai-infrastructure-spending-q1-2026-results/)**
-
-每个资本支出预测都上升了，然后它还是提高了账单，首先出现在人工智能新闻上
-
-📅 Thu, 30 Apr 2026 10:00:00 +0000
-
----
-
-### AI News
-**[GPT-5.5是OpenAI迄今为止最强大的代理AI模型](https://www.artificialintelligence-news.com/news/gpt-5-5-is-openais-most-capable-agentic-ai-model-yet-at-twice-the-api-price/)**
-
-OpenAI**推出**的**GPT**-55是**OpenAI**最强大的智能AI模型，但**首次**出现在人工智能新闻
-
-📅 Wed, 29 Apr 2026 09:08:13 +0000
+📅 Thu, 30 Apr 2026 17:46:54 +0000
 
 ---
 
@@ -114,6 +105,15 @@ OpenAI**推出**的**GPT**-55是**OpenAI**最强大的智能AI模型，但**首�
 
 ---
 
+### Hugging Face
+**[隆重推出NVIDIA Nemotron 3 Nano Omni ：适用于文档、音频和视频代理的长上下文多模式智能](https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence)**
+
+隆重**推出**NVIDIA Nemotron 3 Nano Omni ：适用于文档、音频和视频代理的长上下文多模式智能
+
+📅 Tue, 28 Apr 2026 15:58:57 GMT
+
+---
+
 ## 🔬 前沿研究
 
 ### ArXiv AI (cs.AI)
@@ -131,24 +131,6 @@ OpenAI**推出**的**GPT**-55是**OpenAI**最强大的智能AI模型，但**首�
 25927v1公告类型：新摘要：从半结构化业务文档中提取信息仍然是企业管理的关键挑战使用IDSEM数据集的一个子集，我们对两个架构不同的模型**Gemini** 1进行基准测试
 
 📅 Thu, 30 Apr 2026 00:00:00 -0400
-
----
-
-### Science AI
-**[蝎子用金属强化他们最致命的武器](https://www.science.org/content/article/scorpions-reinforce-their-most-lethal-weapons-metal)**
-
-蛛形纲动物将锌注入它们的爪子或刺中--无论它们在狩猎时最依赖哪一种
-
-📅 2026-04-28T07:01:00.000Z
-
----
-
-### MIT Tech Research
-**[埃隆·马斯克（ Elon Musk ）和萨姆·奥尔特曼（ Sam Altman ）将就OpenA](https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/)**
-
-埃隆·马斯克（ Elon Musk ）和**OpenAI**首席执行官萨姆·奥尔特曼（ Sam Altman ）本周将在加利福尼亚州北部进行审判，此案可能会在**OpenAI**备受期待的IPO之前产生全面影响
-
-📅 Mon, 27 Apr 2026 22:52:57 +0000
 
 ---
 
@@ -188,27 +170,56 @@ OpenAI**推出**的**GPT**-55是**OpenAI**最强大的智能AI模型，但**首�
 
 ---
 
+### ArXiv AI (cs.AI)
+**[可说服性和法学硕士作为法律决策工具](https://arxiv.org/abs/2604.26233)**
+
+26233v1公告类型：新摘要：大型语言模型（ LLM ）被提议作为法律决策助理，甚至是一审决策者
+
+📅 Thu, 30 Apr 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[基于Apriori的数学辅导中习得性无助分析：行为模式（按层次、干预和结果）](https://arxiv.org/abs/2604.26237)**
+
+26237v1公告类型：新摘要：本研究应用Apriori算法分析数学辅导系统日志中与习得性无助（ LH ）相关的行为交互模式交互数据跨三个维度进行检查： LH水平（低vs
+
+📅 Thu, 30 Apr 2026 00:00:00 -0400
+
+---
+
 ## 🌍 行业展望
 
 ### VentureBeat
-![亚马逊的OpenAI策略标志着云计算大战进入了一个新阶段--排他性不再适用](https://images.ctfassets.net/jdtwqhzvc2n1/6uDI4U3BDukdOjvS9sIfb6/e737b3f07d2422e2215a430785511e2c/nuneybits_Vector_art_of_Amazon_Web_Services_represented_by_a_se_c066ceeb-0bbb-4cee-944b-7e5e9a644fc5.webp?w=300&q=30)
+![Claude Code、Copilot和Codex都被黑了。每个攻击者都追求凭据，而不是模型。](https://images.ctfassets.net/jdtwqhzvc2n1/2KikESFD5r42LAO66sAKSK/0505660b31c83a54c4701cfcd1cc6ff1/Six_exploits_broke_Claude_Code__Copilot__Codex__and_Vertex_AI_Your_IAM_never_saw_them_coming.png?w=300&q=30)
 
-**[亚马逊的OpenAI策略标志着云计算大战进入了一个新阶段--排他性不再适用](https://venturebeat.com/technology/amazons-openai-gambit-signals-a-new-phase-in-the-cloud-wars-one-where-exclusivity-no-longer-applies)**
+**[Claude Code、Copilot和Codex都被黑了。每个攻击者都追求凭据，而不是模型。](https://venturebeat.com/security/six-exploits-broke-ai-coding-agents-iam-never-saw-them)**
 
-正如TechCrunch报道的那样， **OpenAI**最强大的机型**首次**出现在亚马逊基石上， **OpenAI**早些时候在2月份宣布的与亚马逊的500亿美元交易已经与微软产生了法律纠纷
+**Anthropic**的**Claude** Code源代码泄露到公共npm注册表审核AI生成的安全漏洞代码Anthropic**推出**Claude Code Security （ 2026年2月）
 
-📅 Wed, 29 Apr 2026 21:14:06 GMT
+📅 Thu, 30 Apr 2026 16:30:01 GMT
 
 ---
 
 ### VentureBeat
-![AWS Quick的个人知识图表正在制定大多数控制平面都看不到的协调决策](https://images.ctfassets.net/jdtwqhzvc2n1/3ot6lp8aTVJz5b5v6zugXe/33d45063cd6cee0ae4ce6d082be5c80b/crimedy7_illustration_of_ai_orchestration_abstract_--ar_169_-_cb6c24fb-7c3b-414f-a8d4-7733592d8d94_1.png?w=300&q=30)
+![一个工具调用来统治他们所有人？新的开源Python工具Runpod Flash消除了容器，实现了更快的人工智能开发](https://images.ctfassets.net/jdtwqhzvc2n1/MHYoJfMiFcReiUHztmcXO/cd5bfd956110f341d2e205f020a78097/ChatGPT_Image_Apr_30__2026__02_28_07_PM.png?w=300&q=30)
 
-**[AWS Quick的个人知识图表正在制定大多数控制平面都看不到的协调决策](https://venturebeat.com/orchestration/aws-quicks-personal-knowledge-graph-is-making-orchestration-decisions-most-control-planes-cant-see)**
+**[一个工具调用来统治他们所有人？新的开源Python工具Runpod Flash消除了容器，实现了更快的人工智能开发](https://venturebeat.com/infrastructure/one-tool-call-to-rule-them-all-new-open-source-python-tool-runpod-flash-eliminates-containers-for-faster-ai-dev)**
 
-AWS于去年10月**推出**Quick ，作为**Google**、**OpenAI**和**Anthropic**Recent版本（如**Anthropic**的**Claude** Managed Agents或**OpenAI**的Agent SDK**更新**）的AI工作流程和生产力平台的替代方案，
+今天**推出**了一个新的**开源**为了应对人工智能辅助开发的兴起， Runpod为**Claude** Code、Cursor和Cline等编码代理**发布**了特定的技能包，
 
-📅 Wed, 29 Apr 2026 18:23:14 GMT
+📅 Thu, 30 Apr 2026 18:31:07 GMT
+
+---
+
+### VentureBeat
+![为什么OpenAI的“妖精”问题很重要—以及如何自行释放妖精](https://images.ctfassets.net/jdtwqhzvc2n1/5rAGxhj1eUz8ylWPnhVCYP/71cacbd7bd4587a6512ca1518452f86d/ChatGPT_Image_Apr_30__2026__01_08_04_PM.png?w=300&q=30)
+
+**[为什么OpenAI的“妖精”问题很重要—以及如何自行释放妖精](https://venturebeat.com/technology/why-openais-goblin-problem-matters-and-how-you-can-release-the-goblins-on-your-own)**
+
+在Reddit的r/Chat**GPT**和r/**OpenAI**上，新的**OpenAI**大型语言模型(LLM) **GPT**-5的说明中，用户开始共享**GPT**-5的屏幕截图
+
+📅 Thu, 30 Apr 2026 17:11:00 GMT
 
 ---
 
@@ -235,59 +246,55 @@ AWS于去年10月**推出**Quick ，作为**Google**、**OpenAI**和**Anthropic*
 ---
 
 ### VentureBeat
-![IBM推出具有多模型路由和人工检查点的Bob ，将AI编码转变为安全的生产系统](https://images.ctfassets.net/jdtwqhzvc2n1/2hnW8yXhIy2PrKn4j7xAho/678d5cc2eaf24d7e2ed66bfef2b3c823/crimedy7_illustration_of_a_robot_figuring_out_a_hiking_path_w_713cbac6-fb4f-4f40-bfec-d5f3e27ffaff_0.png?w=300&q=30)
+![阿里巴巴的Metis代理将多余的人工智能工具调用从98 ％减少到2 ％ —并使其更准确](https://images.ctfassets.net/jdtwqhzvc2n1/5adrVJG12DsZYPv3bAT3Kk/786e22dcb26f295b11a3de9d91a97ac3/LLM_tool-use_abstention.jpg?w=300&q=30)
 
-**[IBM推出具有多模型路由和人工检查点的Bob ，将AI编码转变为安全的生产系统](https://venturebeat.com/orchestration/ibm-launches-bob-with-multi-model-routing-and-human-checkpoints-to-turn-ai-coding-into-a-secure-production-system)**
+**[阿里巴巴的Metis代理将多余的人工智能工具调用从98 ％减少到2 ％ —并使其更准确](https://venturebeat.com/orchestration/alibabas-metis-agent-cuts-redundant-ai-tool-calls-from-98-to-2-and-gets-more-accurate-doing-it)**
 
-它宣布在全球**推出**其人工智能软件开发平台Bob**Anthropic**的**Claude**
+但大型语言模型往往被训练成盲目调用工具。然而，这种纠缠不清的设计造成了一个无法解决的优化困境
 
-📅 Wed, 29 Apr 2026 18:37:08 GMT
-
----
-
-### The Verge
-![Gemini正在推出具有Google内置功能的汽车](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Google-Gemini-car-AI-assistant-upgrade.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[Gemini正在推出具有Google内置功能的汽车](https://www.theverge.com/tech/921117/google-gemini-ai-assistant-cars-upgrade)**
-
-以下是车辆信息娱乐系统上的新**Gemini**助手的早期介绍|图片：谷歌正准备**更新**内置**Gemini** AI助手的车辆
-
-📅 2026-04-30T16:00:00.000Z
+📅 Thu, 30 Apr 2026 20:51:26 GMT
 
 ---
 
-### The Verge
-![以下是新的微软和OpenAI交易是如何分解的](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25098341/1778707567.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### Wired Technology
+**[OpenAI推出风险账户的“高级”安全模式](https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/)**
 
-**[以下是新的微软和OpenAI交易是如何分解的](https://www.theverge.com/tech/921210/microsoft-openai-partnership-divorce-notepad)**
+**OpenAI**正在为担心其Chat**GPT**或Codex帐户可能成为网络钓鱼攻击潜在目标的人**推出**高级帐户安全
 
-但尽管如此，微软和**OpenAI**本周以一种看起来奇怪的友好方式离婚微软周一宣布了对其长期存在的**OpenAI**交易的**更新**
-
-📅 2026-04-30T16:00:00.000Z
+📅 Thu, 30 Apr 2026 17:30:39 +0000
 
 ---
 
-### VentureBeat
-![Writer推出无需提示即可采取行动的AI代理，对抗亚马逊、微软和Salesforce](https://images.ctfassets.net/jdtwqhzvc2n1/2A4wsP5BX8u0ZylzUEOncb/d97852834fdd610f61a1f5d79609d4ea/nuneybits_Vector_art_of_robot_secretary_typing_on_glowing_typew_bdb6fb50-e1f2-4f80-a241-560e6d906a91.webp?w=300&q=30)
+### ZDNet AI
+**[Anthropic的新Claude安全工具会扫描您的代码库以查找缺陷，并帮助您决定首先修复哪些缺陷](https://www.zdnet.com/article/anthropic-claude-security-ai-tool-scans-codebase-for-flaws/)**
 
-**[Writer推出无需提示即可采取行动的AI代理，对抗亚马逊、微软和Salesforce](https://venturebeat.com/technology/writer-launches-ai-agents-that-can-act-without-prompts-taking-on-amazon-microsoft-and-salesforce)**
+它使用Opus 47来扫描、验证和生成补丁，帮助修复可能被利用的危险缺陷
 
-电子邮件营销活动工作流程通常始于**Google**云端硬盘文件夹中的创意简报Writer在不断**升级**的代理平台大战中瞄准AWS、Salesforce和Microsoft Writer**发布**公告的时机并非偶然
-
-📅 Thu, 30 Apr 2026 16:00:00 GMT
+📅 Thu, 30 Apr 2026 17:00:00 GMT
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub Active (Python)
-![posthog ： 🦔 PostHog是构建成功产品的一体化开发者平台。我们提供产品分析、网络分析、会话重播、错误跟踪、功能标记、实验、调查、数据仓库、CDP和人工智能产品助手，以帮助调试您的代码、更快地交付功能，并将您的所有使用情况和客户数据保存在一个堆栈中。](https://avatars.githubusercontent.com/u/60330232?v=4)
+### GitHub Active (AI/ML)
+![ai-hub-models ： Qualcomm ® AI Hub Models是我们最先进的机器学习模型集合，针对性能（延迟、内存等）进行了优化，可随时部署在Qualcomm ®设备上。](https://avatars.githubusercontent.com/u/55295994?v=4)
 
-**[posthog ： 🦔 PostHog是构建成功产品的一体化开发者平台。我们提供产品分析、网络分析、会话重播、错误跟踪、功能标记、实验、调查、数据仓库、CDP和人工智能产品助手，以帮助调试您的代码、更快地交付功能，并将您的所有使用情况和客户数据保存在一个堆栈中。](https://github.com/PostHog/posthog)**
+**[ai-hub-models ： Qualcomm ® AI Hub Models是我们最先进的机器学习模型集合，针对性能（延迟、内存等）进行了优化，可随时部署在Qualcomm ®设备上。](https://github.com/qualcomm/ai-hub-models)**
 
-我们提供产品分析和人工智能产品助手，帮助您调试代码
+014星· 175分叉· Python · Qualcomm ® AI Hub模型是我们最先进的机器学习模型集合，针对性能（延迟）进行了优化，可随时部署在Qualcomm ®设备上
 
-📅 2026-04-30T16:23:00Z
+📅 2026-04-30T23:56:08Z
+
+---
+
+### GitHub Active (AI/ML)
+![figures4papers ：我的Python脚本，为顶级人工智能会议和期刊上的出版物制作高质量的数字。](https://avatars.githubusercontent.com/u/36081734?v=4)
+
+**[figures4papers ：我的Python脚本，为顶级人工智能会议和期刊上的出版物制作高质量的数字。](https://github.com/ChenLiu-1996/figures4papers)**
+
+⭐ 905星· 69分叉· Python · My Python脚本，为顶级AI会议和期刊的出版物制作高质量的数字
+
+📅 2026-04-30T23:55:31Z
 
 ---
 
@@ -296,7 +303,7 @@ AWS于去年10月**推出**Quick ，作为**Google**、**OpenAI**和**Anthropic*
 
 **[🆕 pumpfun-ai-trading-bot ： Solana上由OpenAI驱动的Pump.fun评论自动化。线程参与、代理支持、钱包模式和本地data.json注释库。ISC. ai交易机器人， pumpfun交易机器人，交易机器人， pumfun ai交易机器人， ai交易机器人， pumpfun交易机器人，交易机器人， pumfun ai交易机器人， ai交易机器人， pumpfun交易机器人，交易机器人， pumfun交易机器人](https://github.com/Udacity-ai/pumpfun-ai-trading-bot)**
 
-⭐ 156 star (新项目) · TypeScript · **OpenAI**-powered Pumppumfun ai trading bot
+⭐ 149 star (新项目) · TypeScript · **OpenAI**-powered Pumppumfun ai trading bot
 
 📅 2026-04-27T09:57:22Z
 
@@ -307,31 +314,29 @@ AWS于去年10月**推出**Quick ，作为**Google**、**OpenAI**和**Anthropic*
 
 **[🆕 ai-auto-trading ：在VoltAgent上进行人工智能驱动的多策略加密交易。Gate.io和Binance ，自适应风险， AI自动交易，交易机器人， AI交易机器人，币安， coinbase ， ai交易， ai交易机器人， ai交易机器人， ai交易机器人， ai机器人，币安， coinbase ，超流体， VoltAgent上AI驱动的多策略加密交易。Gate.io和币安，适应性风险，人工智能汽车](https://github.com/6551-Team/ai-auto-trading)**
 
-⭐ 43 star (新项目) · TypeScript · AI-driven multi-strategy crypto trading on VoltAgentAI-driven multi-strategy crypto trading on VoltAgent
+⭐ 41 star (新项目) · TypeScript · AI-driven multi-strategy crypto trading on VoltAgentAI-driven multi-strategy crypto trading on VoltAgent
 
 📅 2026-04-27T09:48:43Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 crypto-liquidity-ai-trading-bot ：人工智能交易机器人：流动性检测、订单簿缺口、隐藏的墙壁和扫描。量子、公司和算法/人工智能执行的信号。麻省理工学院。订单簿微观结构焦点。ai交易机器人，加密流动性ai交易机器人，交易机器人， ai交易机器人，加密流动性ai交易机器人，交易机器人， ai交易机器人，加密流动性ai交易机器人](https://avatars.githubusercontent.com/u/279669069?v=4)
+## 💬 社交动态
 
-**[🆕 crypto-liquidity-ai-trading-bot ：人工智能交易机器人：流动性检测、订单簿缺口、隐藏的墙壁和扫描。量子、公司和算法/人工智能执行的信号。麻省理工学院。订单簿微观结构焦点。ai交易机器人，加密流动性ai交易机器人，交易机器人， ai交易机器人，加密流动性ai交易机器人，交易机器人， ai交易机器人，加密流动性ai交易机器人](https://github.com/Udacity-ai/crypto-liquidity-ai-trading-bot)**
+### Hacker News
+**[显示HN ： Pu.sh - 400行外壳的完整编码代理线束](https://pu.dev/)**
 
-⭐ 30 star (新项目) · JavaScript · AI trading bot: liquidity detection, order-book gaps, hidden walls, and sweepsSignals for quants, firms, and algorithmic/AI execution
+包括JSON解析和**OpenAI**响应工具循环，带有跨转的推理项目在框中： **Anthropic** + **OpenAI**
 
-📅 2026-04-27T09:57:19Z
+📅 Thu, 30 Apr 2026 20:55:12 +0000
 
 ---
-
-## 💬 社交动态
 
 ### X: OpenAI
 **[标题： OpenAI (@ OpenAI)/X](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 标题： **OpenAI** (@ **OpenAI**)/X
 
-📅 2026-04-30T16:21:34.433Z
+📅 2026-04-30T23:54:33.933Z
 
 ---
 
@@ -340,7 +345,7 @@ AWS于去年10月**推出**Quick ，作为**Google**、**OpenAI**和**Anthropic*
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-04-30T16:21:34.433Z
+📅 2026-04-30T23:54:33.933Z
 
 ---
 
@@ -349,7 +354,7 @@ AWS于去年10月**推出**Quick ，作为**Google**、**OpenAI**和**Anthropic*
 
 [图片1 ：方形个人头像并打开个人头像] (https://pbscom/**OpenAI**/photo)
 
-📅 2026-04-30T16:21:34.433Z
+📅 2026-04-30T23:54:33.933Z
 
 ---
 
@@ -358,34 +363,16 @@ AWS于去年10月**推出**Quick ，作为**Google**、**OpenAI**和**Anthropic*
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-04-30T16:22:54.257Z
-
----
-
-### Hacker News
-**[如果您的承诺提到“OpenClaw” ， Claude Code会拒绝请求或收取额外费用](https://twitter.com/theo/status/2049645973350363168)**
-
-文章网址： https://twittercom/theo/status/2049645973350363168评论网址： https://**new**s
-
-📅 Thu, 30 Apr 2026 14:36:58 +0000
-
----
-
-### Hacker News
-**[看到智能眼镜用户发生性行为的工人一排排失去工作](https://www.bbc.com/news/articles/c5y7yvgy0w6o)**
-
-文章网址： https://wwwcom/**new**s/articles/c5y7yvgy0w6o评论网址： https://**new**s
-
-📅 Thu, 30 Apr 2026 13:07:42 +0000
+📅 2026-04-30T23:55:53.493Z
 
 ---
 
 ### Hacker News AI
-**[设计AI芯片硬件和软件](https://docs.google.com/document/d/1dZ3vF8GE8_gx6tl52sOaUVEPq0ybmai1xvu3uk89_is/edit?tab=t.0#heading=h.rduzhxi11vcn)**
+**[在马斯克诉奥特曼案中，法官警告律师，人工智能本身并没有受到审判](https://www.nbcnews.com/tech/tech-news/elon-musk-testimony-day-three-sam-altman-openai-trial-rcna342967)**
 
-com/document/d/1dZ3vF8GE8_gx6tl52sOaUVEPq0ybmai1xvu3uk89_is/editrduzhxi11vcn评论网址： https://**new**s
+文章网址： https://wwwcom/tech/tech-**new**s/elon-musk-testimony-day-three-sam-altman-**OpenAI**-trial-rcna342967评论网址： https://**new**s
 
-📅 Thu, 30 Apr 2026 16:01:11 +0000
+📅 Thu, 30 Apr 2026 23:21:24 +0000
 
 ---
 
@@ -394,7 +381,16 @@ com/document/d/1dZ3vF8GE8_gx6tl52sOaUVEPq0ybmai1xvu3uk89_is/editrduzhxi11vcn评�
 
 **发布**时间： 2026年4月24日星期五01:01:36 GMT
 
-📅 2026-04-30T16:21:34.433Z
+📅 2026-04-30T23:54:33.933Z
+
+---
+
+### X: OpenAI
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Markdown 内容
+
+📅 2026-04-30T23:54:33.933Z
 
 ---
 
