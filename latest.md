@@ -1,12 +1,12 @@
 ---
 title: "2026年4月29日 - TZ日报"
-date: 2026-04-29T16:33:08.566Z
+date: 2026-04-30T00:00:19.603Z
 draft: false
 ---
 
 # 2026年4月29日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/4/29 16:33:08
+> 📊 今日汇总 38 条 · 🕐 2026/4/30 00:00:19
 
 ---
 
@@ -23,15 +23,6 @@ draft: false
 ## ✨ 产品更新
 
 ### OpenAI Blog
-**[我们对社区安全的承诺](https://openai.com/index/our-commitment-to-community-safety)**
-
-了解**OpenAI**如何通过模型保障措施和与安全专家的合作来保护Chat**GPT**中的社区安全
-
-📅 Tue, 28 Apr 2026 00:00:00 GMT
-
----
-
-### OpenAI Blog
 **[OpenAI模型、Codex和托管代理来到AWS](https://openai.com/index/openai-on-aws)**
 
 **OpenAI** **GPT**模型、Codex和托管代理现已在AWS上提供，使企业能够在其AWS环境中构建安全的AI
@@ -41,9 +32,18 @@ draft: false
 ---
 
 ### OpenAI Blog
+**[我们对社区安全的承诺](https://openai.com/index/our-commitment-to-community-safety)**
+
+了解**OpenAI**如何通过模型保障措施和与安全专家的合作来保护Chat**GPT**中的社区安全
+
+📅 Tue, 28 Apr 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
 **[FedRAMP Moderate提供OpenAI](https://openai.com/index/openai-available-at-fedramp-moderate)**
 
-**OpenAI**可在FedRAMP对Chat**GPT** Enterprise和**OpenAI** API的中等授权下使用，从而使Ufederal机构能够安全地采用AI
+**OpenAI**可在FedRAMP对Chat**GPT** Enterprise和**OpenAI** API的中等授权下使用，使Ufederal机构能够安全地采用AI
 
 📅 Mon, 27 Apr 2026 14:00:00 GMT
 
@@ -59,29 +59,29 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[亚马逊已经在AWS上提供新的OpenAI产品](https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/)**
+**[人工智能视频只是前传吗？ Runway的首席执行官认为世界模特是下一个](https://techcrunch.com/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models/)**
 
-在**OpenAI**让微软同意终止独家权利的第二天， AWS宣布了一系列**OpenAI**模型产品，包括新的代理服务
+这家总部位于纽约的公司以530亿美元的估值筹集了近8.6亿美元，其模型将与世界上资金最充足的实验室进行对抗，包括谷歌和**OpenAI**
 
-📅 Tue, 28 Apr 2026 19:48:02 +0000
+📅 Wed, 29 Apr 2026 18:59:44 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[在人类拒绝后，谷歌扩大了五角大楼对其人工智能的访问权限](https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/)**
+**[Google TV即将推出更多Gemini功能](https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/)**
 
-在**Anthropic**拒绝允许国防部将其人工智能用于国内大规模监控和自主武器之后，谷歌与该部门签署了一项新合同
+**Google** TV刚刚获得了更多**Gemini**功能，包括使用Nano Banana和Veo工具转换照片和视频的功能
 
-📅 Tue, 28 Apr 2026 18:15:00 +0000
+📅 Wed, 29 Apr 2026 16:40:49 +0000
 
 ---
 
-### AI News
-**[GPT-5.5是OpenAI迄今为止最强大的代理AI模型](https://www.artificialintelligence-news.com/news/gpt-5-5-is-openais-most-capable-agentic-ai-model-yet-at-twice-the-api-price/)**
+### OpenAI Blog
+**[构建智能时代的计算基础设施](https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age)**
 
-OpenAI**推出**的**GPT**-55是**OpenAI**最强大的智能AI模型，但**首次**出现在人工智能新闻
+**OpenAI**扩展Stargate以构建支持AGI的计算基础设施，增加新的数据中心容量以满足不断增长的AI需求
 
-📅 Wed, 29 Apr 2026 09:08:13 +0000
+📅 Wed, 29 Apr 2026 15:00:00 GMT
 
 ---
 
@@ -191,77 +191,66 @@ Choco如何使用**OpenAI** API简化食品配送、提高生产力并释放增�
 ## 🌍 行业展望
 
 ### VentureBeat
-![美国人工智能初创公司Poolside推出免费、高性能的开放模型Laguna XS.2 ，用于本地代理编码](https://images.ctfassets.net/jdtwqhzvc2n1/17W1QLwI0TRcCbh1PRrNHI/84674529b60419ff0f68bb0e415706ee/ChatGPT_Image_Apr_28__2026__04_20_42_PM.png?w=300&q=30)
+![亚马逊的OpenAI策略标志着云计算大战进入了一个新阶段--排他性不再适用](https://images.ctfassets.net/jdtwqhzvc2n1/6uDI4U3BDukdOjvS9sIfb6/e737b3f07d2422e2215a430785511e2c/nuneybits_Vector_art_of_Amazon_Web_Services_represented_by_a_se_c066ceeb-0bbb-4cee-944b-7e5e9a644fc5.webp?w=300&q=30)
 
-**[美国人工智能初创公司Poolside推出免费、高性能的开放模型Laguna XS.2 ，用于本地代理编码](https://venturebeat.com/technology/american-ai-startup-poolside-launches-free-high-performing-open-model-laguna-xs-2-for-local-agentic-coding)**
+**[亚马逊的OpenAI策略标志着云计算大战进入了一个新阶段--排他性不再适用](https://venturebeat.com/technology/amazons-openai-gambit-signals-a-new-phase-in-the-cloud-wars-one-where-exclusivity-no-longer-applies)**
 
-7 ） ，然后，大约一周后，其竞争对手**OpenAI**用自己的一个（ **GPT**-5 ）回归Poolside今天**发布**的新AI模型包括： Laguna M
+正如TechCrunch报道的那样， **OpenAI**最强大的机型**首次**出现在亚马逊基石上， **OpenAI**早些时候在2月份宣布的与亚马逊的500亿美元交易已经与微软产生了法律纠纷
 
-📅 Tue, 28 Apr 2026 21:36:00 GMT
-
----
-
-### VentureBeat
-![开源小米MiMo-V2.5和V2.5-Pro是代理“CLAW”任务中最高效（且经济实惠）的](https://images.ctfassets.net/jdtwqhzvc2n1/4fkz0pi7AsA25asUUop6oH/2b664ee33e239abab9585a4ff84a6b1d/Gemini_Generated_Image_n25vdin25vdin25v__1_.png?w=300&q=30)
-
-**[开源小米MiMo-V2.5和V2.5-Pro是代理“CLAW”任务中最高效（且经济实惠）的](https://venturebeat.com/technology/open-source-xiaomi-mimo-v2-5-and-v2-5-pro-are-among-the-most-efficient-and-affordable-at-agentic-claw-tasks)**
-
-特别是在越来越多的服务，如微软的GitHub Copilot正在转向基于使用情况的计费（为使用的每个代币向代理人收费，而不是像**Anthropic**那样强加费率限制，或者提供“自助餐”式的订阅，如**OpenAI** ） 1 Pro和**OpenAI** **GPT**-5
-
-📅 Mon, 27 Apr 2026 21:45:49 GMT
+📅 Wed, 29 Apr 2026 21:14:06 GMT
 
 ---
 
 ### VentureBeat
-![微软和OpenAI达成独家协议，让OpenAI在AWS和谷歌云上销售](https://images.ctfassets.net/jdtwqhzvc2n1/jWKnXQb73xGvnR0cJtCMe/ca8184c4104cbce09237472623645351/nuneybits_Vector_art_of_burning_contract_85754b2d-d02d-451f-9cd4-db57975ec2dc.webp?w=300&q=30)
+![AWS Quick的个人知识图表正在制定大多数控制平面都看不到的协调决策](https://images.ctfassets.net/jdtwqhzvc2n1/3ot6lp8aTVJz5b5v6zugXe/33d45063cd6cee0ae4ce6d082be5c80b/crimedy7_illustration_of_ai_orchestration_abstract_--ar_169_-_cb6c24fb-7c3b-414f-a8d4-7733592d8d94_1.png?w=300&q=30)
 
-**[微软和OpenAI达成独家协议，让OpenAI在AWS和谷歌云上销售](https://venturebeat.com/technology/microsoft-and-openai-gut-their-exclusive-deal-freeing-openai-to-sell-on-aws-and-google-cloud)**
+**[AWS Quick的个人知识图表正在制定大多数控制平面都看不到的协调决策](https://venturebeat.com/orchestration/aws-quicks-personal-knowledge-graph-is-making-orchestration-decisions-most-control-planes-cant-see)**
 
-微软将**OpenAI**的**GPT**模型集成到从Bing到Office到GitHub Copilot的所有内容中当客户通过自己的应用程序购买Chat**GPT**订阅或访问**OpenAI**模型时
+AWS于去年10月**推出**Quick ，作为**Google**、**OpenAI**和**Anthropic**Recent版本（如**Anthropic**的**Claude** Managed Agents或**OpenAI**的Agent SDK**更新**）的AI工作流程和生产力平台的替代方案，
 
-📅 Mon, 27 Apr 2026 22:27:00 GMT
+📅 Wed, 29 Apr 2026 18:23:14 GMT
 
 ---
 
 ### VentureBeat
-![Mistral AI推出Workflows ，这是一个由Temporal驱动的编排引擎，已经每天运行数百万次执行](https://images.ctfassets.net/jdtwqhzvc2n1/6II7HPrw0jjn1l467tsrvd/38c767a325644379cebdc6fcb3396c80/nuneybits_Vector_art_of_burnt_orange_conductor_baton_directing__2dd898a5-7317-4f5f-b1b5-6e6bcf828a31.webp?w=300&q=30)
+![IBM推出具有多模型路由和人工检查点的Bob ，将AI编码转变为安全的生产系统](https://images.ctfassets.net/jdtwqhzvc2n1/2hnW8yXhIy2PrKn4j7xAho/678d5cc2eaf24d7e2ed66bfef2b3c823/crimedy7_illustration_of_a_robot_figuring_out_a_hiking_path_w_713cbac6-fb4f-4f40-bfec-d5f3e27ffaff_0.png?w=300&q=30)
 
-**[Mistral AI推出Workflows ，这是一个由Temporal驱动的编排引擎，已经每天运行数百万次执行](https://venturebeat.com/technology/mistral-ai-launches-workflows-a-temporal-powered-orchestration-engine-already-running-millions-of-daily-executions)**
+**[IBM推出具有多模型路由和人工检查点的Bob ，将AI编码转变为安全的生产系统](https://venturebeat.com/orchestration/ibm-launches-bob-with-multi-model-routing-and-human-checkpoints-to-turn-ai-coding-into-a-secure-production-system)**
 
-今天**发布**了公开预览版的工作流—一个生产级编排层，旨在将企业人工智能系统从概念验证转移到产生收入的业务流程**OpenAI**和**Anthropic**都拥有更大的模型生态系统和开发人员社区
+它宣布在全球**推出**其人工智能软件开发平台Bob**Anthropic**的**Claude**
 
-📅 Tue, 28 Apr 2026 11:30:00 GMT
+📅 Wed, 29 Apr 2026 18:37:08 GMT
+
+---
+
+### TechCrunch
+**[萨蒂亚·纳德拉（ Satya Nadella ）表示，他已准备好“利用”新的OpenAI交易](https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/)**
+
+微软可以向其云客户提供**OpenAI**的技术，而无需为此付费“我们完全计划利用它，”纳德拉说
+
+📅 Wed, 29 Apr 2026 23:55:23 +0000
 
 ---
 
 ### The Verge
-![伊隆·马斯克（ Elon Musk ）和萨姆·奥尔特曼（ Sam Altman ）围绕OpenAI未来的官司](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![上个季度，谷歌搜索查询达到了“历史最高水平”](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951561/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[伊隆·马斯克（ Elon Musk ）和萨姆·奥尔特曼（ Sam Altman ）围绕OpenAI未来的官司](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)**
+**[上个季度，谷歌搜索查询达到了“历史最高水平”](https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai)**
 
-Sam Altman和Elon Musk正面临着一项高风险的试验，这可能会改变**OpenAI**及其最知名产品Chat**GPT**OpenAI的未来， Chat**GPT**OpenAI表示， “这起诉讼一直是毫无根据和嫉妒的企图破坏竞争对手” ，旨在推动马斯克自己的SpaceX/xAI/X公司将Grok作为Chat**GPT**的竞争对手**推出**
+在**Gemini** App的推动下，谷歌搜索查询在2026年第一季度创下了“历史新高” ，该公司目前拥有超过3.5亿的付费订阅
 
-📅 2026-04-29T15:35:32.000Z
-
----
-
-### Ars Technica
-**[律师说，萨姆·奥尔特曼（ Sam Altman ）不举报校园枪手是“邪恶的面孔”](https://arstechnica.com/tech-policy/2026/04/school-shooting-lawsuits-accuse-openai-of-hiding-violent-chatgpt-users/)**
-
-诉讼： **OpenAI**没有向警察报告Chat**GPT**用户以保护Altman ， IPO。
-
-📅 Wed, 29 Apr 2026 12:00:41 +0000
+📅 2026-04-29T20:28:11.000Z
 
 ---
 
 ### The Verge
-![Tumbler Ridge家庭起诉OpenAI](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2260765297.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![到目前为止，在马斯克诉奥尔特曼案中公布的所有证据](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[Tumbler Ridge家庭起诉OpenAI](https://www.theverge.com/ai-artificial-intelligence/920479/tumbler-ridge-chagpt-openai-lawsuit)**
+**[到目前为止，在马斯克诉奥尔特曼案中公布的所有证据](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial)**
 
-在加拿大Tumbler Ridge学校枪击事件中受伤或遇难的七名受害者家属已对**OpenAI**和首席执行官Sam Altman提起诉讼，指控该公司及其领导层疏忽，因为他们未能向警方通报可疑射手的Chat**GPT**活动
+一些高层次的收获：英伟达首席执行官Jensen Huang为**OpenAI**提供了一台需求旺盛的超级计算机马斯克在很大程度上起草了**OpenAI**的使命，并对其早期结构产生了**重大**影响
 
-📅 2026-04-29T14:47:57.000Z
+📅 2026-04-29T18:03:05.000Z
 
 ---
 
@@ -274,6 +263,15 @@ Sam Altman和Elon Musk正面临着一项高风险的试验，这可能会改变*
 
 ---
 
+### MIT Tech Review
+**[下载： DeepSeek最新的人工智能突破，以及构建世界模型的竞赛](https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/)**
+
+这是我们工作日时事通讯《下载》的今天版本，该通讯提供技术领域每日发生的事情伊隆·马斯克和萨姆·奥尔特曼将因**OpenAI**未来的伊隆·马斯克和**OpenAI**首席执行官萨姆·奥尔特曼本周在一起具有广泛后果的案件中接受审判
+
+📅 Mon, 27 Apr 2026 12:10:00 +0000
+
+---
+
 ## 📦 GitHub热门
 
 ### GitHub New (New AI)
@@ -281,7 +279,7 @@ Sam Altman和Elon Musk正面临着一项高风险的试验，这可能会改变*
 
 **[🆕 pumpfun-ai-trading-bot ： Solana上由OpenAI驱动的Pump.fun评论自动化。线程参与、代理支持、钱包模式和本地data.json注释库。ISC. ai交易机器人， pumpfun交易机器人，交易机器人， pumfun ai交易机器人， ai交易机器人， pumpfun交易机器人，交易机器人， pumfun ai交易机器人， ai交易机器人， pumpfun交易机器人，交易机器人， pumfun交易机器人](https://github.com/Udacity-ai/pumpfun-ai-trading-bot)**
 
-⭐ 157 star (新项目) · TypeScript · **OpenAI**-powered Pumppumfun ai trading bot
+⭐ 162 star (新项目) · TypeScript · **OpenAI**-powered Pumppumfun ai trading bot
 
 📅 2026-04-27T09:57:22Z
 
@@ -292,7 +290,7 @@ Sam Altman和Elon Musk正面临着一项高风险的试验，这可能会改变*
 
 **[🆕 ai-auto-trading ：在VoltAgent上进行人工智能驱动的多策略加密交易。Gate.io和Binance ，自适应风险， AI自动交易，交易机器人， AI交易机器人，币安， coinbase ， ai交易， ai交易机器人， ai交易机器人， ai交易机器人， ai机器人，币安， coinbase ，超流体， VoltAgent上AI驱动的多策略加密交易。Gate.io和币安，适应性风险，人工智能汽车](https://github.com/6551-Team/ai-auto-trading)**
 
-⭐ 47 star (新项目) · TypeScript · AI-driven multi-strategy crypto trading on VoltAgentAI-driven multi-strategy crypto trading on VoltAgent
+⭐ 44 star (新项目) · TypeScript · AI-driven multi-strategy crypto trading on VoltAgentAI-driven multi-strategy crypto trading on VoltAgent
 
 📅 2026-04-27T09:48:43Z
 
@@ -310,24 +308,42 @@ Sam Altman和Elon Musk正面临着一项高风险的试验，这可能会改变*
 ---
 
 ### GitHub New (New AI)
-![🆕 agentgate ：代理原生Web协议—将您的后端直接暴露给AI代理，无需HTML解析](https://avatars.githubusercontent.com/u/3906649?v=4)
+![🆕 LLM-Security-Nedir ： Fevzi Ege Yurtsevenler tarafından hazırlanan ， Türkiye 'nin ilk kapsamlı LLM Güvenliği giriş rehberi。Yapay zeka güvenliğinin temellerini ve yeni saldırı yüzeylerini keşfedin。](https://avatars.githubusercontent.com/u/127763772?v=4)
 
-**[🆕 agentgate ：代理原生Web协议—将您的后端直接暴露给AI代理，无需HTML解析](https://github.com/NasirMalik/agentgate)**
+**[🆕 LLM-Security-Nedir ： Fevzi Ege Yurtsevenler tarafından hazırlanan ， Türkiye 'nin ilk kapsamlı LLM Güvenliği giriş rehberi。Yapay zeka güvenliğinin temellerini ve yeni saldırı yüzeylerini keşfedin。](https://github.com/fevziegeyurtsevenler/LLM-Security-Nedir)**
 
-⭐ 7 star (新项目) · Python · Agent-native web protocol — expose your backend directly to AI agents, no HTML parsing required
+⭐ 7 star (新项目) · N/A · Fevzi Ege Yurtsevenler tarafından hazırlanan, Türkiye'nin ilk kapsamlı LLM Güvenliği giriş rehberiYapay zeka güvenliğinin temellerini ve yeni saldırı yüzeylerini keşfedin
 
-📅 2026-04-26T08:09:45Z
+📅 2026-04-29T08:41:19Z
 
 ---
 
 ## 💬 社交动态
+
+### Hacker News AI
+**[五角大楼人工智能主管确认国防部扩大使用Google Gemini](https://www.cnbc.com/2026/04/28/pentagon-ai-chief-confirms-work-with-google-after-anthropic-blacklist.html)**
+
+com/2026/04/28/pentagon-ai-chief-confirms-work-with-**Google**-after-**Anthropic**-blacklisthtml评论网址： https://**new**s
+
+📅 Wed, 29 Apr 2026 23:19:51 +0000
+
+---
+
+### Hacker News
+**[提交消息中的HERMES.md导致请求路由到额外使用计费](https://github.com/anthropics/claude-code/issues/53262)**
+
+文章网址： https://githubcom/**Anthropic**s/**Claude**-code/issues/53262评论网址： https://**new**s
+
+📅 Wed, 29 Apr 2026 18:54:31 +0000
+
+---
 
 ### X: OpenAI
 **[标题： OpenAI (@ OpenAI)/X](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 标题： **OpenAI** (@ **OpenAI**)/X
 
-📅 2026-04-29T16:29:51.993Z
+📅 2026-04-29T23:57:05.671Z
 
 ---
 
@@ -336,7 +352,7 @@ Sam Altman和Elon Musk正面临着一项高风险的试验，这可能会改变*
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-04-29T16:29:51.993Z
+📅 2026-04-29T23:57:05.671Z
 
 ---
 
@@ -345,7 +361,7 @@ Sam Altman和Elon Musk正面临着一项高风险的试验，这可能会改变*
 
 [图片1 ：方形个人头像并打开个人头像] (https://pbscom/**OpenAI**/photo)
 
-📅 2026-04-29T16:29:51.993Z
+📅 2026-04-29T23:57:05.671Z
 
 ---
 
@@ -354,43 +370,25 @@ Sam Altman和Elon Musk正面临着一项高风险的试验，这可能会改变*
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-04-29T16:31:12.101Z
+📅 2026-04-29T23:58:26.038Z
 
 ---
 
-### X: OpenAI
-**[发布时间： 2026年4月24日星期五01:01:36 GMT](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Hacker News
+**[我将克劳德·科德（ Claude Code ）的穴居人插件与“简短”进行了对比。](https://www.maxtaylor.me/articles/i-benchmarked-caveman-against-two-words)**
 
-**发布**时间： 2026年4月24日星期五01:01:36 GMT
+文章网址： https://wwwme/articles/i-benchmarked-caveman-against-two-words评论网址： https://**new**s
 
-📅 2026-04-29T16:29:51.993Z
-
----
-
-### X: OpenAI
-**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Markdown 内容
-
-📅 2026-04-29T16:29:51.993Z
+📅 Wed, 29 Apr 2026 21:11:57 +0000
 
 ---
 
-### X: Sam Altman
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/sama)**
+### Hacker News AI
+**[英伟达高管：人工智能比雇佣人力成本更高](https://fortune.com/2026/04/28/nvidia-executive-cost-of-ai-is-greater-than-cost-of-employees/)**
 
-Title: 520: Web服务器返回未知错误
+文章网址： https://fortunecom/2026/04/28/nvidia-executive-cost-of-ai-is-greater-than-cost-of-employees/评论网址： https://**new**s
 
-📅 2026-04-29T16:30:07.884Z
-
----
-
-### X: Sam Altman
-**[网址来源： http://twitter.com/sama](https://r.jina.ai/http://twitter.com/sama)**
-
-网址来源： http://twitter.com/sama
-
-📅 2026-04-29T16:30:07.884Z
+📅 Wed, 29 Apr 2026 23:45:01 +0000
 
 ---
 
