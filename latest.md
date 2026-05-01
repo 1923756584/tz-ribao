@@ -1,12 +1,12 @@
 ---
 title: "2026年5月1日 - TZ日报"
-date: 2026-05-01T16:03:22.063Z
+date: 2026-05-01T23:57:41.830Z
 draft: false
 ---
 
 # 2026年5月1日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/5/1 16:03:22
+> 📊 今日汇总 38 条 · 🕐 2026/5/1 23:57:41
 
 ---
 
@@ -23,29 +23,20 @@ draft: false
 ## ✨ 产品更新
 
 ### TechCrunch AI Products
+**[五角大楼与英伟达、微软和AWS达成协议，在机密网络上部署人工智能](https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/)**
+
+在与**Anthropic**就其人工智能模型的使用条款发生争议后，国防部加倍增加了对人工智能供应商的投资
+
+📅 Fri, 01 May 2026 16:02:36 +0000
+
+---
+
+### TechCrunch AI Products
 **[在驳斥Anthropic限制Mythos之后， OpenAI也限制了对Cyber的访问](https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/)**
 
 **OpenAI**将首先向“关键网络防御者”**推出**其网络安全测试工具**GPT**-55 Cyber
 
 📅 Thu, 30 Apr 2026 19:27:41 +0000
-
----
-
-### TechCrunch AI Products
-**[OpenAI宣布为ChatGPT帐户提供新的高级安全保护，包括与Yubico建立合作伙伴关系](https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/)**
-
-**OpenAI**正在为Chat**GPT**帐户**推出**额外的选择性保护新安全计划包括与安全密钥提供商Yubico的新合作伙伴关系
-
-📅 Thu, 30 Apr 2026 18:20:03 +0000
-
----
-
-### TechCrunch AI Products
-**[谷歌的Gemini AI助手正在数百万辆汽车上路](https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/)**
-
-此举标志着谷歌推动将更先进的对话式人工智能引入驾驶体验
-
-📅 Thu, 30 Apr 2026 17:46:54 +0000
 
 ---
 
@@ -70,7 +61,7 @@ OpenAI**推出**的**GPT**-55是**OpenAI**最强大的智能AI模型，但**首�
 ### OpenAI Blog
 **[哥布林从何而来](https://openai.com/index/where-the-goblins-came-from)**
 
-地精输出如何在人工智能模型中传播： **GPT**-5行为中人格驱动怪癖背后的时间轴、根本原因和修复方法
+妖精输出如何在人工智能模型中传播： **GPT**-5行为中人格驱动怪癖背后的时间轴、根本原因和修复方法
 
 📅 Wed, 29 Apr 2026 20:00:00 GMT
 
@@ -94,23 +85,30 @@ OpenAI**推出**的**GPT**-55是**OpenAI**最强大的智能AI模型，但**首�
 
 ---
 
-### Google AI Blog
-![庆祝Google翻译20周年：值得一试的有趣事实、提示和新功能](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp)
+### TechCrunch AI Products
+**[Meta收购机器人初创公司，以加强其人形AI野心](https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/)**
 
-**[庆祝Google翻译20周年：值得一试的有趣事实、提示和新功能](https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/)**
+该公司表示， **Meta**收购了人形初创公司Assured Robot Intelligence ，以加强其机器人的人工智能模型
 
-谷歌分享了20个有趣的事实，以庆祝谷歌翻译从2006年人工智能实验的20岁转变为今天支持近250种语言
-
-📅 Tue, 28 Apr 2026 16:00:00 +0000
+📅 Fri, 01 May 2026 22:13:27 +0000
 
 ---
 
-### Hugging Face
-**[隆重推出NVIDIA Nemotron 3 Nano Omni ：适用于文档、音频和视频代理的长上下文多模式智能](https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence)**
+### TechCrunch AI Products
+**[您知道您不能偷窃慈善机构吗？别担心，伊隆·马斯克会提醒你。](https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/)**
 
-隆重**推出**NVIDIA Nemotron 3 Nano Omni ：适用于文档、音频和视频代理的长上下文多模式智能
+埃隆·马斯克（ Elon Musk ）本周在针对**OpenAI**的诉讼中花了三天的大部分时间在证人席上，这已经变得混乱马斯克（ Musk ）对**OpenAI**的论点
 
-📅 Tue, 28 Apr 2026 15:58:57 GMT
+📅 Fri, 01 May 2026 17:44:29 +0000
+
+---
+
+### TechCrunch AI Products
+**[马斯克诉奥特曼案才刚刚开始](https://techcrunch.com/video/musk-v-altman-is-just-getting-started/)**
+
+埃隆·马斯克（ Elon Musk ）本周在针对**OpenAI**的诉讼中花了三天的大部分时间在证人席上，这已经变得混乱马斯克（ Musk ）对**OpenAI**的论点
+
+📅 Fri, 01 May 2026 14:00:00 +0000
 
 ---
 
@@ -191,24 +189,24 @@ AI生成的缓解可能是有条件的，但医学上不合适，包括**GPT**-4
 ## 🌍 行业展望
 
 ### VentureBeat
-![Claude Code、Copilot和Codex都被黑了。每个攻击者都追求凭据，而不是模型。](https://images.ctfassets.net/jdtwqhzvc2n1/2KikESFD5r42LAO66sAKSK/0505660b31c83a54c4701cfcd1cc6ff1/Six_exploits_broke_Claude_Code__Copilot__Codex__and_Vertex_AI_Your_IAM_never_saw_them_coming.png?w=300&q=30)
+![xAI以极低的价格推出Grok 4.3 ，推出全新、快速、强大的语音克隆套件](https://images.ctfassets.net/jdtwqhzvc2n1/6c9N7ubweMcf8hAUjcDZIH/fb25ad47038633db57b73f2f45bc3225/FkIIbTjMYUsldxbqMHtky_g5BcjizZ.jpg?w=300&q=30)
 
-**[Claude Code、Copilot和Codex都被黑了。每个攻击者都追求凭据，而不是模型。](https://venturebeat.com/security/six-exploits-broke-ai-coding-agents-iam-never-saw-them)**
+**[xAI以极低的价格推出Grok 4.3 ，推出全新、快速、强大的语音克隆套件](https://venturebeat.com/technology/xai-launches-grok-4-3-at-an-aggressively-low-price-and-a-new-fast-powerful-voice-cloning-suite)**
 
-**Anthropic**的**Claude** Code源代码泄露到公共npm注册表审核AI生成的安全漏洞代码Anthropic**推出**Claude Code Security （ 2026年2月）
+它仍然低于**OpenAI**和**Anthropic**最新车型的最先进水平50 **OpenAI** **Claude** Opus 4
 
-📅 Thu, 30 Apr 2026 16:30:01 GMT
+📅 Fri, 01 May 2026 17:49:00 GMT
 
 ---
 
-### The Verge
-![五角大楼与OpenAI、谷歌和英伟达达成了机密的人工智能交易—但不是人类](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2273115889.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### VentureBeat
+![200,000台MCP服务器暴露了Anthropic称为功能的命令执行缺陷](https://images.ctfassets.net/jdtwqhzvc2n1/5zcdzz8S6R9xMQCRiaArOG/1290a9dbaee30dd37a47fefa5b656922/ANTHROPIC.png?w=300&q=30)
 
-**[五角大楼与OpenAI、谷歌和英伟达达成了机密的人工智能交易—但不是人类](https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia)**
+**[200,000台MCP服务器暴露了Anthropic称为功能的命令执行缺陷](https://venturebeat.com/security/mcp-stdio-flaw-200000-ai-agent-servers-exposed-ox-security-audit)**
 
-五角大楼已与**OpenAI**T达成协议这建立在与**OpenAI**和xAI的交易之上，后者已经与五角大楼就“合法”使用其人工智能系统达成协议
+**Anthropic**创建了模型上下文协议，作为AI代理与工具通信的开放标准**Claude** Code和**Gemini**-CLI需要某种形式的用户交互
 
-📅 2026-05-01T14:09:56.000Z
+📅 Fri, 01 May 2026 20:35:46 GMT
 
 ---
 
@@ -224,24 +222,13 @@ AI生成的缓解可能是有条件的，但医学上不合适，包括**GPT**-4
 ---
 
 ### VentureBeat
-![为什么OpenAI的“妖精”问题很重要—以及如何自行释放妖精](https://images.ctfassets.net/jdtwqhzvc2n1/5rAGxhj1eUz8ylWPnhVCYP/71cacbd7bd4587a6512ca1518452f86d/ChatGPT_Image_Apr_30__2026__01_08_04_PM.png?w=300&q=30)
+![AI脚手架层正在倒塌。LlamaIndex的首席执行官解释了幸存者。](https://images.ctfassets.net/jdtwqhzvc2n1/3PNVXTyfSXJhvGjd00Ia1C/d051128f97407ff20b6b4db84c907811/Upscaled_already.png?w=300&q=30)
 
-**[为什么OpenAI的“妖精”问题很重要—以及如何自行释放妖精](https://venturebeat.com/technology/why-openais-goblin-problem-matters-and-how-you-can-release-the-goblins-on-your-own)**
+**[AI脚手架层正在倒塌。LlamaIndex的首席执行官解释了幸存者。](https://venturebeat.com/infrastructure/the-ai-scaffolding-layer-is-collapsing-llamaindexs-ceo-explains-what-survives)**
 
-在Reddit的r/Chat**GPT**和r/**OpenAI**上，新的**OpenAI**大型语言模型(LLM) **GPT**-5的说明中，用户开始共享**GPT**-5的屏幕截图
+最终， “无论您是使用**OpenAI** Codex还是**Claude** Code都无关紧要“因为每次**发布**新模型时，总会有不同的模型成为赢家， ”Liu说
 
-📅 Thu, 30 Apr 2026 17:11:00 GMT
-
----
-
-### VentureBeat
-![Netomi筹集1.1亿美元，埃森哲和Adobe押注人工智能用于客户服务](https://images.ctfassets.net/jdtwqhzvc2n1/17Z7TzwDGYPOr36mKN8hXV/14fcfd667d19fd9d96b2de2371783baa/nuneybits_Vector_art_of_a_customer_service_headset_dissolving_i_1435a88a-3615-4579-bf8d-fa3f812f8e62.webp?w=300&q=30)
-
-**[Netomi筹集1.1亿美元，埃森哲和Adobe押注人工智能用于客户服务](https://venturebeat.com/technology/netomi-raises-110-million-as-accenture-and-adobe-bet-on-ai-for-customer-service)**
-
-谷歌DeepMind联合创始人Demis Hassabis和微软人工智能首席执行官Mustafa Suleymans在新闻稿中表示，该合作伙伴关系旨在帮助客户“无缝地重塑他们为客户服务的方式”
-
-📅 Thu, 30 Apr 2026 11:00:00 GMT
+📅 Fri, 01 May 2026 18:01:52 GMT
 
 ---
 
@@ -256,25 +243,32 @@ AI生成的缓解可能是有条件的，但医学上不合适，包括**GPT**-4
 
 ---
 
-### The Verge
-![Aurzen的微型三折投影仪现在折扣近40%](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Aurzen-Zip-Tri-Fold-Portable-Mini-Projector-Deal-Image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### Wired Technology
+**[OpenAI默认为免费聊天GPT用户启用营销Cookie](https://www.wired.com/story/openai-enables-cookies-by-default-for-free-chatgpt-users/)**
 
-**[Aurzen的微型三折投影仪现在折扣近40%](https://www.theverge.com/gadgets/921686/aurzen-zip-mini-projector-garmin-venu-4-watch-deal-sale)**
+Chat**GPT**的新隐私政策规定了公司如何使用Cookie进行跟踪，将免费用户转化为付费用户
 
-09 ，代码为FIRE30 ，但如果您想要更强大的流媒体设备，谷歌的快速电视流媒体（ 4K ）在亚马逊和百思买上市，售价$ 76微软最新的Xbox无线耳机降至$ 89
-
-📅 2026-05-01T15:00:46.000Z
+📅 Fri, 01 May 2026 21:46:46 +0000
 
 ---
 
-### VentureBeat
-![Writer推出无需提示即可采取行动的AI代理，对抗亚马逊、微软和Salesforce](https://images.ctfassets.net/jdtwqhzvc2n1/2A4wsP5BX8u0ZylzUEOncb/d97852834fdd610f61a1f5d79609d4ea/nuneybits_Vector_art_of_robot_secretary_typing_on_glowing_typew_bdb6fb50-e1f2-4f80-a241-560e6d906a91.webp?w=300&q=30)
+### ZDNet AI
+**[谷歌地图vs. Waze ：我比较了两款最好的导航应用，这一款赢了](https://www.zdnet.com/article/google-maps-vs-waze/)**
 
-**[Writer推出无需提示即可采取行动的AI代理，对抗亚马逊、微软和Salesforce](https://venturebeat.com/technology/writer-launches-ai-agents-that-can-act-without-prompts-taking-on-amazon-microsoft-and-salesforce)**
+Waze非常适合快速重新路由和实时提醒，而**Google**地图则提供深度双子座集成和更多功能经过广泛测试，以下是我的选择
 
-电子邮件营销活动工作流程通常始于**Google**云端硬盘文件夹中的创意简报Writer在不断**升级**的代理平台大战中瞄准AWS、Salesforce和Microsoft Writer**发布**公告的时机并非偶然
+📅 Fri, 01 May 2026 17:46:00 GMT
 
-📅 Thu, 30 Apr 2026 16:00:00 GMT
+---
+
+### The Verge
+![到目前为止，在马斯克诉奥尔特曼案中揭示的所有证据](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[到目前为止，在马斯克诉奥尔特曼案中揭示的所有证据](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial)**
+
+一些高层次的收获：英伟达首席执行官Jensen Huang为**OpenAI**提供了一台需求旺盛的超级计算机马斯克在很大程度上起草了**OpenAI**的使命，并对其早期结构产生了**重大**影响
+
+📅 2026-05-01T19:14:51.000Z
 
 ---
 
@@ -288,6 +282,17 @@ AI生成的缓解可能是有条件的，但医学上不合适，包括**GPT**-4
 ⭐ 13 star (新项目) · N/A · 🌏 0.1B级**开源**Omni模型 🌏Open-source Omni model at the 0.1B level
 
 📅 2026-05-01T04:20:16Z
+
+---
+
+### GitHub New (New AI)
+![🆕 ai-practice-examples ：使用行业最佳实践演示AI实施的课程示例](https://avatars.githubusercontent.com/u/164396066?v=4)
+
+**[🆕 ai-practice-examples ：使用行业最佳实践演示AI实施的课程示例](https://github.com/jmerelnyc/ai-practice-examples)**
+
+⭐ 10 star (新项目) · TypeScript · Course examples demonstrating AI implementation with industry best practices
+
+📅 2026-05-01T08:28:25Z
 
 ---
 
@@ -313,25 +318,23 @@ AI生成的缓解可能是有条件的，但医学上不合适，包括**GPT**-4
 
 ---
 
-### GitHub New (New AI)
-![🆕 joai-chatbot: 新项目](https://avatars.githubusercontent.com/u/95988463?v=4)
+## 💬 社交动态
 
-**[🆕 joai-chatbot: 新项目](https://github.com/jovbcorreia/joai-chatbot)**
+### Hacker News
+**[Show HN ： AI CAD线束](https://fusion.adam.new/install)**
 
-⭐ 5 star (新项目) · JavaScript · 无描述
+近期车型的空间推理能力大幅提升，尤其是**GPT** 5com/**Claude**ai/status/2049143440508616863
 
-📅 2026-04-30T17:39:33Z
+📅 Fri, 01 May 2026 17:43:53 +0000
 
 ---
-
-## 💬 社交动态
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-05-01T16:00:04.117Z
+📅 2026-05-01T23:54:25.131Z
 
 ---
 
@@ -340,34 +343,16 @@ AI生成的缓解可能是有条件的，但医学上不合适，包括**GPT**-4
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-05-01T16:01:25.575Z
+📅 2026-05-01T23:55:45.968Z
 
 ---
 
 ### Hacker News
-**[问问HN ：谁在招聘？ （ 2026年5月）](https://news.ycombinator.com/item?id=47975571)**
+**[Lib0xc ：一组C标准库相邻API ，用于更安全的系统编程](https://github.com/microsoft/lib0xc)**
 
-如果不是家喻户晓的名字，请说明贵公司做了什么评论者：请勿回复职位帖子投诉某事
+文章网址： https://githubcom/microsoft/lib0xc评论网址： https://**new**s
 
-📅 Fri, 01 May 2026 15:00:07 +0000
-
----
-
-### Hacker News
-**[Apple不小心离开了Claude.md文件Apple支持应用程序](https://x.com/aaronp613/status/2049986504617820551)**
-
-com/aaronp613/status/2049986504617820551评论网址： https://**new**sid = 47973378积分： 278 #评论： 198
-
-📅 Fri, 01 May 2026 11:08:32 +0000
-
----
-
-### Hacker News AI
-**[一个200人的中国团队刚刚让地球上每$ 5000B的人工智能实验室感到尴尬](https://curiousmodels.substack.com/p/deepseek-v4)**
-
-文章网址： https://curiousmodelscom/p/**DeepSeek**-v4评论网址： https://**new**s
-
-📅 Fri, 01 May 2026 14:16:51 +0000
+📅 Fri, 01 May 2026 19:10:56 +0000
 
 ---
 
@@ -376,7 +361,7 @@ com/aaronp613/status/2049986504617820551评论网址： https://**new**sid = 479
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-05-01T16:00:04.117Z
+📅 2026-05-01T23:54:25.131Z
 
 ---
 
@@ -385,7 +370,7 @@ Title: 520: Web服务器返回未知错误
 
 警告：目标URL返回错误520 ：
 
-📅 2026-05-01T16:00:04.117Z
+📅 2026-05-01T23:54:25.131Z
 
 ---
 
@@ -394,7 +379,16 @@ Title: 520: Web服务器返回未知错误
 
 Markdown 内容
 
-📅 2026-05-01T16:00:04.117Z
+📅 2026-05-01T23:54:25.131Z
+
+---
+
+### X: OpenAI
+**[# twitter.com | 520 ： Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+# twitter.com | 520 ： Web服务器返回未知错误
+
+📅 2026-05-01T23:54:25.131Z
 
 ---
 
