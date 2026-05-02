@@ -1,12 +1,12 @@
 ---
 title: "2026年5月2日 - TZ日报"
-date: 2026-05-02T15:51:00.158Z
+date: 2026-05-02T23:47:04.928Z
 draft: false
 ---
 
 # 2026年5月2日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/5/2 15:51:00
+> 📊 今日汇总 38 条 · 🕐 2026/5/2 23:47:04
 
 ---
 
@@ -31,15 +31,6 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[在驳斥Anthropic限制Mythos之后， OpenAI也限制了对Cyber的访问](https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/)**
-
-**OpenAI**将首先向“关键网络防御者”**推出**其网络安全测试工具**GPT**-55 Cyber
-
-📅 Thu, 30 Apr 2026 19:27:41 +0000
-
----
-
 ### AI News
 **[大型科技公司刚刚证明人工智能基础设施支出是有效的。然后它还是提高了账单](https://www.artificialintelligence-news.com/news/big-tech-ai-infrastructure-spending-q1-2026-results/)**
 
@@ -49,17 +40,8 @@ draft: false
 
 ---
 
-### OpenAI Blog
-**[哥布林从何而来](https://openai.com/index/where-the-goblins-came-from)**
-
-妖精输出如何在人工智能模型中传播： **GPT**-5行为中人格驱动怪癖背后的时间轴、根本原因和修复方法
-
-📅 Wed, 29 Apr 2026 20:00:00 GMT
-
----
-
 ### TechCrunch AI Products
-**[Meta收购机器人初创公司，以加强其人形AI野心](https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/)**
+**[Meta收购机器人初创公司以加强其人形AI野心](https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/)**
 
 该公司表示， **Meta**收购了人形初创公司Assured Robot Intelligence ，以加强其机器人的人工智能模型
 
@@ -106,9 +88,27 @@ draft: false
 ### AI News
 **[LG和英伟达的谈话揭示了物理人工智能的未来](https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/)**
 
-LG目前正在与英伟达就物理人工智能、数据中心和移动性进行探索性讨论。而[…] LG和英伟达关于物理人工智能未来的演讲**首次**出现在人工智能新闻
+LG目前正在与英伟达就物理人工智能、数据中心和移动性进行探索性讨论。而[…] LG和英伟达关于物理人工智能未来的演讲内容**首次**出现在人工智能新闻
 
 📅 Thu, 30 Apr 2026 15:59:54 +0000
+
+---
+
+### OpenAI Blog
+**[隆重推出高级账号安全功能](https://openai.com/index/advanced-account-security)**
+
+**推出**高级账号安全：防钓鱼登录和增强保护，以保护敏感数据并防止账号被盗
+
+📅 Thu, 30 Apr 2026 00:00:00 GMT
+
+---
+
+### DeepMind Blog
+**[与人工智能联合临床医生一起开创医疗保健新模式](https://deepmind.google/blog/ai-co-clinician/)**
+
+研究AI增强护理的途径和人工智能联合临床医生的发展。
+
+📅 Thu, 30 Apr 2026 12:14:15 +0000
 
 ---
 
@@ -253,6 +253,17 @@ Waze非常适合快速重新路由和实时提醒，而**Google**地图则提供
 ---
 
 ### The Verge
+![Aura令人愉悦的Aspen相框本周末打折30 $](https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Aura_Aspen2_JTuohy.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[Aura令人愉悦的Aspen相框本周末打折30 $](https://www.theverge.com/gadgets/922513/aura-aspen-carver-walden-digital-photo-frame-mothers-day-deal-sale)**
+
+数码相框旨在轻松显示和管理这些记忆，它也使用4: 3的宽高比，可以纵向和横向工作
+
+📅 2026-05-02T17:00:00.000Z
+
+---
+
+### The Verge
 ![到目前为止，在马斯克诉奥尔特曼案中揭示的所有证据](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
 **[到目前为止，在马斯克诉奥尔特曼案中揭示的所有证据](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial)**
@@ -263,23 +274,25 @@ Waze非常适合快速重新路由和实时提醒，而**Google**地图则提供
 
 ---
 
-### Wired Technology
-**[迪士尼乐园现在对游客使用人脸识别](https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/)**
+## 📦 GitHub热门
 
-此外：美国国家安全局测试了**Anthropic**的Mythos Preview以发现漏洞，一名芬兰青少年因Scattered Spider黑客狂欢而被指控等
+### GitHub Active (AI/ML)
+![pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://avatars.githubusercontent.com/u/21003710?v=4)
 
-📅 Sat, 02 May 2026 10:30:00 +0000
+**[pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://github.com/pytorch/pytorch)**
+
+⭐ 99,590星· 27642分叉· Python ·具有强大GPU加速的Python中的张量和动态神经网络
+
+📅 2026-05-02T23:41:25Z
 
 ---
-
-## 📦 GitHub热门
 
 ### GitHub New (New AI)
 ![🆕 minimind-o: 🌏 0.1B级开源Omni模型 🌏Open-source Omni model at the 0.1B level](https://avatars.githubusercontent.com/u/62287848?v=4)
 
 **[🆕 minimind-o: 🌏 0.1B级开源Omni模型 🌏Open-source Omni model at the 0.1B level](https://github.com/jingyaogong/minimind-o)**
 
-⭐ 14 star (新项目) · N/A · 🌏 0.1B级**开源**Omni模型 🌏Open-source Omni model at the 0.1B level
+⭐ 15 star (新项目) · N/A · 🌏 0.1B级**开源**Omni模型 🌏Open-source Omni model at the 0.1B level
 
 📅 2026-05-01T04:20:16Z
 
@@ -307,34 +320,14 @@ Waze非常适合快速重新路由和实时提醒，而**Google**地图则提供
 
 ---
 
-### GitHub New (New AI)
-![🆕 joai-chatbot: 新项目](https://avatars.githubusercontent.com/u/95988463?v=4)
-
-**[🆕 joai-chatbot: 新项目](https://github.com/jovbcorreia/joai-chatbot)**
-
-⭐ 7 star (新项目) · JavaScript · 无描述
-
-📅 2026-04-30T17:39:33Z
-
----
-
 ## 💬 社交动态
-
-### Hacker News AI
-**[World AI Agents-35 AI模型（ Claude、GPT、Llama ） ，通过一个OpenAI兼容的API](https://world-ai-agents.com)**
-
-文章网址： https://world-ai-agentscom评论网址： https://**new**s
-
-📅 Sat, 02 May 2026 14:09:30 +0000
-
----
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-05-02T15:47:45.207Z
+📅 2026-05-02T23:43:47.565Z
 
 ---
 
@@ -343,25 +336,34 @@ Waze非常适合快速重新路由和实时提醒，而**Google**地图则提供
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-05-02T15:49:04.908Z
+📅 2026-05-02T23:45:09.042Z
 
 ---
 
 ### Hacker News
-**[Show HN ： Mljar Studio –本地AI数据分析师，将分析保存为笔记本](https://mljar.com/)**
+**[Show HN ：根据黑客新闻评论员的说法，最先进的编码模型](https://hnup.date/hn-sota)**
 
-aI生成Python代码用于AI ：在本地使用Ollama （零数据出口） ，自带**OpenAI**密钥，或使用MLJAR AI加载项
+回来阅读HN关于编码助手的最新讨论后（型号，但请随时询问更多详细信息或查看**Google**表格以获取更多信息
 
-📅 Sat, 02 May 2026 10:21:31 +0000
+📅 Sat, 02 May 2026 21:25:05 +0000
+
+---
+
+### Hacker News
+**[VS代码将“由Copilot共同创作”插入到提交中，无论使用情况如何](https://github.com/microsoft/vscode/pull/310226)**
+
+文章网址： https://githubcom/microsoft/vscode/pull/310226评论网址： https://**new**s
+
+📅 Sat, 02 May 2026 19:57:26 +0000
 
 ---
 
 ### Hacker News AI
-**[AI唯一使用的架构语言是JSON架构](https://www.sourcemeta.com/blog/ai-only-speaks-json-schema/)**
+**[克劳德妄想：理查德·道金斯认为他的人工智能聊天机器人是有意识的](https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/)**
 
-source**Meta**com/blog/ai-only-speaks-json-schema/评论网址： https://**new**s
+dailygrailcom/2026/05/the-**Claude**-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/评论网址： https://**new**s
 
-📅 Sat, 02 May 2026 14:16:52 +0000
+📅 Sat, 02 May 2026 22:44:23 +0000
 
 ---
 
@@ -370,7 +372,7 @@ source**Meta**com/blog/ai-only-speaks-json-schema/评论网址： https://**new*
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-05-02T15:47:45.207Z
+📅 2026-05-02T23:43:47.565Z
 
 ---
 
@@ -379,7 +381,7 @@ Title: 520: Web服务器返回未知错误
 
 警告：目标URL返回错误520 ：
 
-📅 2026-05-02T15:47:45.207Z
+📅 2026-05-02T23:43:47.565Z
 
 ---
 
@@ -388,7 +390,7 @@ Title: 520: Web服务器返回未知错误
 
 Markdown 内容
 
-📅 2026-05-02T15:47:45.207Z
+📅 2026-05-02T23:43:47.565Z
 
 ---
 
