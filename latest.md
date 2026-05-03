@@ -1,19 +1,19 @@
 ---
 title: "2026年5月3日 - TZ日报"
-date: 2026-05-03T15:52:54.195Z
+date: 2026-05-03T23:48:58.529Z
 draft: false
 ---
 
 # 2026年5月3日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/5/3 15:52:54
+> 📊 今日汇总 37 条 · 🕐 2026/5/3 23:48:58
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 8 条
+- **前沿研究**: 7 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -68,20 +68,20 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[资料来源：人择潜力$ 9000亿+估值回合可能在2周内进行](https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/)**
+**[“这很好”的创作者说，人工智能初创公司偷了他的艺术品](https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/)**
 
-根据熟悉此事的消息来源， **Anthropic**要求投资者在接下来的48小时内为该人工智能公司的最新筹款活动提交拨款
+这则广告来自广告牌背后的人工智能初创公司Artisan ，该公司敦促企业“停止雇用人类
 
-📅 Thu, 30 Apr 2026 23:07:56 +0000
+📅 Sun, 03 May 2026 20:16:51 +0000
 
 ---
 
-### AI News
-**[LG和英伟达的谈话揭示了物理人工智能的未来](https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/)**
+### TechCrunch AI Products
+**[在哈佛大学的研究中，人工智能提供的急诊室诊断比两名人类医生更准确](https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/)**
 
-LG目前正在与英伟达就物理人工智能、数据中心和移动性进行探索性讨论。而[…] LG和英伟达关于物理人工智能未来的演讲内容**首次**出现在人工智能新闻
+一项新的研究考察了大型语言模型在各种医疗环境中的表现，包括真实的急诊室案例—其中至少有一个模型似乎比人类医生更准确
 
-📅 Thu, 30 Apr 2026 15:59:54 +0000
+📅 Sun, 03 May 2026 18:00:09 +0000
 
 ---
 
@@ -177,15 +177,6 @@ Shirley Meng解释了为什么她对全球经济脱碳的热情要求她搬迁
 
 ---
 
-### MIT Tech Research
-**[这家初创公司的新机械可解释性工具可让您调试LLM](https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/)**
-
-总部位于旧金山的初创公司Goodfire刚刚**发布**了一种新工具，这可以让模型制造商对这项技术的构建方式进行比以前想象的更精细的控制
-
-📅 Thu, 30 Apr 2026 15:59:41 +0000
-
----
-
 ## 🌍 行业展望
 
 ### VentureBeat
@@ -211,17 +202,6 @@ Shirley Meng解释了为什么她对全球经济脱碳的热情要求她搬迁
 ---
 
 ### VentureBeat
-![一个工具调用来统治他们所有人？新的开源Python工具Runpod Flash消除了容器，实现了更快的人工智能开发](https://images.ctfassets.net/jdtwqhzvc2n1/MHYoJfMiFcReiUHztmcXO/cd5bfd956110f341d2e205f020a78097/ChatGPT_Image_Apr_30__2026__02_28_07_PM.png?w=300&q=30)
-
-**[一个工具调用来统治他们所有人？新的开源Python工具Runpod Flash消除了容器，实现了更快的人工智能开发](https://venturebeat.com/infrastructure/one-tool-call-to-rule-them-all-new-open-source-python-tool-runpod-flash-eliminates-containers-for-faster-ai-dev)**
-
-今天**推出**了一个新的**开源**为了应对人工智能辅助开发的兴起， Runpod为**Claude** Code、Cursor和Cline等编码代理**发布**了特定的技能包，
-
-📅 Thu, 30 Apr 2026 18:31:07 GMT
-
----
-
-### VentureBeat
 ![AI脚手架层正在倒塌。LlamaIndex的首席执行官解释了幸存者。](https://images.ctfassets.net/jdtwqhzvc2n1/3PNVXTyfSXJhvGjd00Ia1C/d051128f97407ff20b6b4db84c907811/Upscaled_already.png?w=300&q=30)
 
 **[AI脚手架层正在倒塌。LlamaIndex的首席执行官解释了幸存者。](https://venturebeat.com/infrastructure/the-ai-scaffolding-layer-is-collapsing-llamaindexs-ceo-explains-what-survives)**
@@ -229,26 +209,6 @@ Shirley Meng解释了为什么她对全球经济脱碳的热情要求她搬迁
 最终， “无论您是使用**OpenAI** Codex还是**Claude** Code都无关紧要“因为每次**发布**新模型时，总会有不同的模型成为赢家， ”Liu说
 
 📅 Fri, 01 May 2026 18:01:52 GMT
-
----
-
-### VentureBeat
-![阿里巴巴的Metis代理将多余的人工智能工具调用从98 ％减少到2 ％ —并使其更准确](https://images.ctfassets.net/jdtwqhzvc2n1/5adrVJG12DsZYPv3bAT3Kk/786e22dcb26f295b11a3de9d91a97ac3/LLM_tool-use_abstention.jpg?w=300&q=30)
-
-**[阿里巴巴的Metis代理将多余的人工智能工具调用从98 ％减少到2 ％ —并使其更准确](https://venturebeat.com/orchestration/alibabas-metis-agent-cuts-redundant-ai-tool-calls-from-98-to-2-and-gets-more-accurate-doing-it)**
-
-但大型语言模型往往被训练成盲目调用工具。然而，这种纠缠不清的设计造成了一个无法解决的优化困境
-
-📅 Thu, 30 Apr 2026 20:51:26 GMT
-
----
-
-### ZDNet AI
-**[谷歌地图vs. Waze ：我比较了两款最好的导航应用，这一款赢了](https://www.zdnet.com/article/google-maps-vs-waze/)**
-
-Waze非常适合快速重新路由和实时提醒，而**Google**地图则提供深度双子座集成和更多功能经过广泛测试，以下是我的选择
-
-📅 Fri, 01 May 2026 17:46:00 GMT
 
 ---
 
@@ -272,27 +232,56 @@ Waze非常适合快速重新路由和实时提醒，而**Google**地图则提供
 
 ---
 
-## 📦 GitHub热门
+### Ars Technica
+**[蝎子进入终结者模式，用金属强化武器](https://arstechnica.com/science/2026/05/scorpions-go-terminator-mode-and-reinforce-their-weapons-with-metal/)**
 
-### GitHub New (New AI)
-![🆕 minimind-o: 🌏 0.1B级开源Omni模型 🌏Open-source Omni model at the 0.1B level](https://avatars.githubusercontent.com/u/62287848?v=4)
+不同的狩猎模式似乎决定了金属的不同分布。
 
-**[🆕 minimind-o: 🌏 0.1B级开源Omni模型 🌏Open-source Omni model at the 0.1B level](https://github.com/jingyaogong/minimind-o)**
-
-⭐ 19 star (新项目) · N/A · 🌏 0.1B级**开源**Omni模型 🌏Open-source Omni model at the 0.1B level
-
-📅 2026-05-01T04:20:16Z
+📅 Fri, 01 May 2026 16:24:45 +0000
 
 ---
+
+### ZDNet AI
+**[我测试了ChatGPT和Perplexity AI作为我的CarPlay语音助手-两者都让Siri看起来很糟糕](https://www.zdnet.com/article/chatgpt-perplexity-ai-carplay-voice-assistant/)**
+
+Chat**GPT**和Perplexity都可以回答问题并提供帮助，这远远超出了Siri的能力，但在开车时哪一个更好
+
+📅 Sun, 03 May 2026 17:00:45 GMT
+
+---
+
+### The Verge
+![人工智能音乐正在涌入流媒体服务，但谁想要它呢？](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/GettyImages-1468752442.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[人工智能音乐正在涌入流媒体服务，但谁想要它呢？](https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it)**
+
+在AI的大力协助下创建的相册探索**Google** Magenta等工具的外部极限，甚至训练自己的mod…阅读The Verge的完整故事
+
+📅 2026-05-03T12:00:00.000Z
+
+---
+
+## 📦 GitHub热门
 
 ### GitHub New (New AI)
 ![🆕 ai-agent-skills ：用于生产级应用的AI agent技能](https://avatars.githubusercontent.com/u/239358625?v=4)
 
 **[🆕 ai-agent-skills ：用于生产级应用的AI agent技能](https://github.com/DevelopersGlobal/ai-agent-skills)**
 
-⭐ 11 star (新项目) · Python · AI agent skills for production grade applications
+⭐ 32 star (新项目) · Python · AI agent skills for production grade applications
 
 📅 2026-05-01T09:27:28Z
+
+---
+
+### GitHub New (New AI)
+![🆕 minimind-o: 🌏 0.1B级开源Omni模型 🌏Open-source Omni model at the 0.1B level](https://avatars.githubusercontent.com/u/62287848?v=4)
+
+**[🆕 minimind-o: 🌏 0.1B级开源Omni模型 🌏Open-source Omni model at the 0.1B level](https://github.com/jingyaogong/minimind-o)**
+
+⭐ 20 star (新项目) · N/A · 🌏 0.1B级**开源**Omni模型 🌏Open-source Omni model at the 0.1B level
+
+📅 2026-05-01T04:20:16Z
 
 ---
 
@@ -320,12 +309,21 @@ Waze非常适合快速重新路由和实时提醒，而**Google**地图则提供
 
 ## 💬 社交动态
 
+### Hacker News
+**[DeepClaude –使用DeepSeek V4 Pro的Claude Code代理循环，便宜17倍](https://github.com/aattaran/deepclaude)**
+
+文章网址： https://githubcom/aattaran/deep**Claude**评论网址： https://**new**s
+
+📅 Sun, 03 May 2026 22:13:20 +0000
+
+---
+
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-05-03T15:49:37.991Z
+📅 2026-05-03T23:45:44.446Z
 
 ---
 
@@ -334,7 +332,7 @@ Waze非常适合快速重新路由和实时提醒，而**Google**地图则提供
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-05-03T15:50:58.145Z
+📅 2026-05-03T23:47:06.953Z
 
 ---
 
@@ -343,7 +341,7 @@ Waze非常适合快速重新路由和实时提醒，而**Google**地图则提供
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-05-03T15:49:37.991Z
+📅 2026-05-03T23:45:44.446Z
 
 ---
 
@@ -352,7 +350,7 @@ Title: 520: Web服务器返回未知错误
 
 警告：目标URL返回错误520 ：
 
-📅 2026-05-03T15:49:37.991Z
+📅 2026-05-03T23:45:44.446Z
 
 ---
 
@@ -361,7 +359,7 @@ Title: 520: Web服务器返回未知错误
 
 Markdown 内容
 
-📅 2026-05-03T15:49:37.991Z
+📅 2026-05-03T23:45:44.446Z
 
 ---
 
@@ -370,7 +368,7 @@ Markdown 内容
 
 # twitter.com | 520 ： Web服务器返回未知错误
 
-📅 2026-05-03T15:49:37.991Z
+📅 2026-05-03T23:45:44.446Z
 
 ---
 
@@ -379,16 +377,7 @@ Markdown 内容
 
 网址来源： http://twitter.com/sama
 
-📅 2026-05-03T15:49:53.889Z
-
----
-
-### X: Andrej Karpathy
-**[Title: Andrej Karpathy (@ karpathy)/X](https://r.jina.ai/http://twitter.com/karpathy)**
-
-Title: Andrej Karpathy (@ karpathy)/X
-
-📅 2026-05-03T15:50:09.927Z
+📅 2026-05-03T23:46:00.648Z
 
 ---
 
