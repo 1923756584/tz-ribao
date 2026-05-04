@@ -1,12 +1,12 @@
 ---
 title: "2026年5月4日 - TZ日报"
-date: 2026-05-04T16:51:31.481Z
+date: 2026-05-04T23:59:32.776Z
 draft: false
 ---
 
 # 2026年5月4日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/5/4 16:51:31
+> 📊 今日汇总 38 条 · 🕐 2026/5/4 23:59:32
 
 ---
 
@@ -40,10 +40,59 @@ draft: false
 
 ---
 
+### OpenAI Blog
+**[OpenAI如何大规模提供低延迟语音AI](https://openai.com/index/delivering-low-latency-voice-ai-at-scale)**
+
+**OpenAI**如何重建其WebRTC堆栈，以低延迟、全局规模和无缝对话轮流的方式为实时语音AI提供支持
+
+📅 Mon, 04 May 2026 00:00:00 GMT
+
+---
+
+### Google AI Blog
+![我们在2026年4月宣布的最新人工智能新闻](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/April_2026_AI_Recap_still.max-600x600.format-webp.webp)
+
+**[我们在2026年4月宣布的最新人工智能新闻](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/)**
+
+以下是2026年4月谷歌最新的人工智能**更新**
+
+📅 Mon, 04 May 2026 17:00:00 +0000
+
+---
+
+### Google AI Blog
+![使用Gemini API中的Webhook减少长期运行作业的摩擦和延迟](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WebhooksGeminiAPI-hero.max-600x600.format-webp.webp)
+
+**[使用Gemini API中的Webhook减少长期运行作业的摩擦和延迟](https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/)**
+
+事件驱动Webhook是一种基于推送的通知系统，无需低效的轮询
+
+📅 Mon, 04 May 2026 15:30:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[OpenAI舒适的合作伙伴Cerebras正在进行一场轰动一时的首次公开募股](https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/)**
+
+人工智能芯片制造商Cerebras正在进行一场轰动一时的**首次**公开募股，其价值可能达到26 $。它与**OpenAI**的关系深厚而丰富
+
+📅 Mon, 04 May 2026 21:53:21 +0000
+
+---
+
+### TechCrunch AI Products
+**[埃隆·马斯克（ Elon Musk ）在OpenAI审判中唯一的人工智能专家证人担心AGI军备竞赛](https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/)**
+
+Stuart Russell是一位长期的人工智能研究人员，他认为政府需要限制前沿实验室。
+
+📅 Mon, 04 May 2026 16:57:47 +0000
+
+---
+
 ### TechCrunch AI Products
 **[OpenAI声称，埃隆·马斯克（ Elon Musk ）在要求和解后向格雷格·布罗克曼（ Greg Brockman ）和山姆·奥尔特曼](https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/)**
 
-马斯克向**OpenAI**总裁兼联合创始人发短信说，他和首席执行官萨姆·奥尔特曼“将成为美国最讨厌的男人
+马斯克向**OpenAI**总裁兼联合创始人发短信说，如果**OpenAI**不解决诉讼，他和首席执行官萨姆·奥尔特曼“将成为美国最讨厌的男人”
 
 📅 Mon, 04 May 2026 16:36:03 +0000
 
@@ -59,56 +108,11 @@ OpenClaw构建者将在Microsoft Build 2026期间聚集在GitHub HQ进行演示�
 ---
 
 ### TechCrunch AI Products
-**[Sierra筹集了9.5亿美元$ ，因为拥有企业AI的竞争变得越来越激烈](https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/)**
+**[Image AI模型现在推动应用程序增长，击败聊天机器人升级](https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/)**
 
-此次融资为Sierra提供了超过10亿美元的合作资金--该公司表示，它将利用这笔资金成为人工智能客户体验的“全球标准”
+Appfigures发现视觉模型的**发布**产生了65倍的下载量—但大多数不会将这种峰值转化为收入
 
-📅 Mon, 04 May 2026 16:45:55 +0000
-
----
-
-### TechCrunch AI Products
-**[仅限5天：携带合作伙伴或同事，获得第二张TechCrunch Disrupt 2026通行证五折优惠](https://techcrunch.com/2026/05/04/5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/)**
-
-BOGO优惠现已**上线**优惠将于5月8日（星期五）结束
-
-📅 Mon, 04 May 2026 14:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[DoorDash添加人工智能工具，加快商家入驻流程，编辑餐点照片](https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/)**
-
-DoorDash周一添加了新的人工智能工具，让商家能够加快入驻流程，并根据现有内容创建新网站
-
-📅 Mon, 04 May 2026 13:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[“这很好”的创作者说，人工智能初创公司偷了他的艺术品](https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/)**
-
-这则广告来自广告牌背后的人工智能初创公司Artisan ，该公司敦促企业“停止雇用人类
-
-📅 Sun, 03 May 2026 20:16:51 +0000
-
----
-
-### TechCrunch AI Products
-**[在哈佛大学的研究中，人工智能提供的急诊室诊断比两名人类医生更准确](https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/)**
-
-一项新的研究考察了大型语言模型在各种医疗环境中的表现，包括真实的急诊室案例—其中至少有一个模型似乎比人类医生更准确
-
-📅 Sun, 03 May 2026 18:00:09 +0000
-
----
-
-### TechCrunch AI Products
-**[人工智能生成的演员和剧本现在没有资格获得奥斯卡奖](https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/)**
-
-对Tilly Norwood来说是个坏消息。
-
-📅 Sat, 02 May 2026 21:54:58 +0000
+📅 Mon, 04 May 2026 19:12:49 +0000
 
 ---
 
@@ -160,11 +164,11 @@ DoorDash周一添加了新的人工智能工具，让商家能够加快入驻流
 ---
 
 ### MIT Tech Research
-**[马斯克诉奥特曼案第1周：埃隆·马斯克（ Elon Musk ）说他被骗了，警告人工智能可能会杀死我们所有人，并承认xAI提炼了OpenAI的模型](https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/)**
+**[马斯克诉奥尔特曼案审判的第一周：房间里的样子](https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/)**
 
-在埃隆·马斯克（ Elon Musk ）和**OpenAI**Musk之间具有里程碑意义的试验的第一周，他穿着一身黑色西装打领带，并辩称**OpenAI**首席执行官萨姆·奥尔特曼（ Sam Altman ）和总裁格雷格·布罗克曼（ Greg Brockman ）欺骗他为公司提供资金
+这个故事最初出现在The Algorithm上，我们关于AIMusk的每周通讯正在起诉**OpenAI** ，声称他花费了数百万美元......
 
-📅 Fri, 01 May 2026 22:08:19 +0000
+📅 Mon, 04 May 2026 15:51:27 +0000
 
 ---
 
@@ -200,24 +204,13 @@ DoorDash周一添加了新的人工智能工具，让商家能够加快入驻流
 ---
 
 ### VentureBeat
-![xAI以极低的价格推出Grok 4.3 ，推出全新、快速、强大的语音克隆套件](https://images.ctfassets.net/jdtwqhzvc2n1/6c9N7ubweMcf8hAUjcDZIH/fb25ad47038633db57b73f2f45bc3225/FkIIbTjMYUsldxbqMHtky_g5BcjizZ.jpg?w=300&q=30)
+![由于影子AI成为企业威胁， Microsoft将Agent 365从预览版中移除](https://images.ctfassets.net/jdtwqhzvc2n1/6LMJpI0ffGMD479AXflYHJ/27174ee4558549a84413d0bd7353fb48/Nuneybits_Vector_art_of_the_iconic_Microsoft_Windows_logo_on_a__fa8c56b1-15d5-4e25-9044-a2beb94286fe.webp?w=300&q=30)
 
-**[xAI以极低的价格推出Grok 4.3 ，推出全新、快速、强大的语音克隆套件](https://venturebeat.com/technology/xai-launches-grok-4-3-at-an-aggressively-low-price-and-a-new-fast-powerful-voice-cloning-suite)**
+**[由于影子AI成为企业威胁， Microsoft将Agent 365从预览版中移除](https://venturebeat.com/technology/microsoft-takes-agent-365-out-of-preview-as-shadow-ai-becomes-an-enterprise-threat)**
 
-它仍然低于**OpenAI**和**Anthropic**最新车型的最先进水平50 **OpenAI** **Claude** Opus 4
+微软在11月的Ignite大会上**首次**宣布微软如何寻找隐藏在员工笔记本电脑上的未经授权的人工智能工具今天**发布**的最**重要**的新功能可能是Agent 365发现和管理本地人工智能代理的能力—开发人员和知识工作者直接在其Windows设备上安装的工具
 
-📅 Fri, 01 May 2026 17:49:00 GMT
-
----
-
-### VentureBeat
-![200,000台MCP服务器暴露了Anthropic称为功能的命令执行缺陷](https://images.ctfassets.net/jdtwqhzvc2n1/5zcdzz8S6R9xMQCRiaArOG/1290a9dbaee30dd37a47fefa5b656922/ANTHROPIC.png?w=300&q=30)
-
-**[200,000台MCP服务器暴露了Anthropic称为功能的命令执行缺陷](https://venturebeat.com/security/mcp-stdio-flaw-200000-ai-agent-servers-exposed-ox-security-audit)**
-
-**Anthropic**创建了模型上下文协议，作为AI代理与工具通信的开放标准**Claude** Code和**Gemini**-CLI需要某种形式的用户交互
-
-📅 Fri, 01 May 2026 20:35:46 GMT
+📅 Mon, 04 May 2026 19:21:17 GMT
 
 ---
 
@@ -233,22 +226,42 @@ Sam Altman和Elon Musk正面临着一项高风险的试验，这可能会改变*
 ---
 
 ### VentureBeat
-![AI脚手架层正在倒塌。LlamaIndex的首席执行官解释了幸存者。](https://images.ctfassets.net/jdtwqhzvc2n1/3PNVXTyfSXJhvGjd00Ia1C/d051128f97407ff20b6b4db84c907811/Upscaled_already.png?w=300&q=30)
+![代理AI的RAG时代即将结束—接下来是新的编译阶段知识层](https://images.ctfassets.net/jdtwqhzvc2n1/63RnjKitSJmHf7H32dzfIV/0e8ca54a47dbef9ce632ce075049f6d9/knowledge-layer-smk1.jpg?w=300&q=30)
 
-**[AI脚手架层正在倒塌。LlamaIndex的首席执行官解释了幸存者。](https://venturebeat.com/infrastructure/the-ai-scaffolding-layer-is-collapsing-llamaindexs-ceo-explains-what-survives)**
+**[代理AI的RAG时代即将结束—接下来是新的编译阶段知识层](https://venturebeat.com/data/the-rag-era-is-ending-for-agentic-ai-a-new-compilation-stage-knowledge-layer-is-what-comes-next)**
 
-最终， “无论您是使用**OpenAI** Codex还是**Claude** Code都无关紧要“因为每次**发布**新模型时，总会有不同的模型成为赢家， ”Liu说
+微软已经扩展了其FabricIQ技术，为代理AI**Google**提供语义上下文最近宣布其Agentic Data Cloud作为一种帮助解决相同问题的方法
 
-📅 Fri, 01 May 2026 18:01:52 GMT
+📅 Mon, 04 May 2026 19:13:44 GMT
 
 ---
 
 ### ZDNet AI
-**[谷歌地图vs. Waze ：我使用了两款最好的导航应用，其中一款要好得多](https://www.zdnet.com/article/google-maps-vs-waze-compared-2026/)**
+**[您的ChatGPT帐户刚刚变得更加安全，但您必须选择加入-方法如下](https://www.zdnet.com/article/chatgpt-advanced-account-security/)**
 
-Waze非常适合快速重新路由和实时提醒，而**Google**地图则提供了更深入的**Gemini**集成和更多功能以下是我的首选
+**OpenAI**添加了一项名为“高级账号安全”的功能，该功能具有四种选择加入设置，旨在保护您的账号和个人数据
 
-📅 Mon, 04 May 2026 11:00:59 GMT
+📅 Mon, 04 May 2026 17:38:00 GMT
+
+---
+
+### The Verge
+![Skylight的15英寸智能日历已降至迄今为止的最低价格](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/skylightcalendar2.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[Skylight的15英寸智能日历已降至迄今为止的最低价格](https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale)**
+
+Skylight的彩色智能日历支持与**Google**日历、Microsoft Outlook和Apple的iCloud日历等双向同步。现在，它正在以249 $的新低价出售
+
+📅 2026-05-04T20:44:06.000Z
+
+---
+
+### Wired Technology
+**[Greg Brockman为$ 300亿OpenAI赌注辩护： “血、汗、泪”](https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/)**
+
+**OpenAI**的联合创始人兼总裁周一在联邦法院透露，他是人工智能实验室中最大的个人利益相关者之一
+
+📅 Mon, 04 May 2026 23:19:52 +0000
 
 ---
 
@@ -261,45 +274,14 @@ Waze非常适合快速重新路由和实时提醒，而**Google**地图则提供
 
 ---
 
-### Wired Technology
-**[独家： Metalenz找到了隐藏Face ID的方法](https://www.wired.com/story/metalenz-has-figured-out-a-way-to-make-face-id-invisible/)**
-
-即使摄像头隐藏在显示屏下， **Meta**lenz的Polar ID人脸扫描技术也能正常工作。
-
-📅 Mon, 04 May 2026 14:00:00 +0000
-
----
-
 ## 📦 GitHub热门
-
-### GitHub Active (AI/ML)
-![气流： Apache气流-以编程方式创作、安排和监控工作流程的平台](https://avatars.githubusercontent.com/u/47359?v=4)
-
-**[气流： Apache气流-以编程方式创作、安排和监控工作流程的平台](https://github.com/apache/airflow)**
-
-⭐ 45,280星· 16992分叉· Python · Apache Airflow -一个以编程方式创作、安排和监控工作流程的平台
-
-📅 2026-05-04T16:49:47Z
-
----
-
-### GitHub Active (AI/ML)
-![sMILE ：统计机器智能和学习引擎](https://avatars.githubusercontent.com/u/5502052?v=4)
-
-**[sMILE ：统计机器智能和学习引擎](https://github.com/haifengl/smile)**
-
-⭐ 6368星· 1147叉· Java ·统计机器智能与学习引擎
-
-📅 2026-05-04T16:49:28Z
-
----
 
 ### GitHub New (New AI)
 ![🆕 ai-agent-skills ：用于生产级应用的AI agent技能](https://avatars.githubusercontent.com/u/239358625?v=4)
 
 **[🆕 ai-agent-skills ：用于生产级应用的AI agent技能](https://github.com/DevelopersGlobal/ai-agent-skills)**
 
-⭐ 58 star (新项目) · Python · AI agent skills for production grade applications
+⭐ 59 star (新项目) · Python · AI agent skills for production grade applications
 
 📅 2026-05-01T09:27:28Z
 
@@ -316,63 +298,36 @@ Waze非常适合快速重新路由和实时提醒，而**Google**地图则提供
 
 ---
 
+### GitHub New (New AI)
+![🆕 ai-practice-examples ：使用行业最佳实践演示AI实施的课程示例](https://avatars.githubusercontent.com/u/164396066?v=4)
+
+**[🆕 ai-practice-examples ：使用行业最佳实践演示AI实施的课程示例](https://github.com/jmerelnyc/ai-practice-examples)**
+
+⭐ 10 star (新项目) · TypeScript · Course examples demonstrating AI implementation with industry best practices
+
+📅 2026-05-01T08:28:25Z
+
+---
+
+### GitHub New (New AI)
+![🆕 micracode ： Lovable的开源替代品， v0 ， Bolt ， Replit ， Emergent。如果您喜欢，请加🌟星标！](https://avatars.githubusercontent.com/u/142910595?v=4)
+
+**[🆕 micracode ： Lovable的开源替代品， v0 ， Bolt ， Replit ， Emergent。如果您喜欢，请加🌟星标！](https://github.com/Jamessdevops/micracode)**
+
+⭐ 7 star (新项目) · Python · Open Source Alternative to Lovable, v0, Bolt, Replit, Emergent🌟 Star if you like it
+
+📅 2026-05-02T19:08:25Z
+
+---
+
 ## 💬 社交动态
-
-### Reddit: r/artificial
-**[在过去的4个月里，我作为一个从未接触过编码的人，为我的公司设计了人工智能自动化系统，以下是我的工作原理](https://www.reddit.com/r/artificial/comments/1t3mokc/i_spent_the_last_4_months_designing_ai_automation/)**
-
-几个月的时间从一个模型转移到另一个模型，几个月的时间试图将Chat**GPT**、**DeepSeek**和**Claude**的基本付费版本集成到我的工作流程中。Chat**GPT**/**Claude**项目在理论上看起来很酷，但在聊天之外没有永久的内存
-
-📅 2026-05-04T16:26:21.000Z
-
----
-
-### Reddit: r/singularity
-**[五眼机构发布首个协调代理AI安全指引](https://www.reddit.com/r/singularity/comments/1t3m88v/five_eyes_agencies_issue_first_coordinated/)**
-
-**Anthropic**为**Claude**出版了其自动化sycophancy分类器的力学英国人工智能安全研究所单独评估了**GPT**-5
-
-📅 2026-05-04T16:10:16.000Z
-
----
-
-### Hacker News AI
-**[OpenAI、谷歌和微软支持为学校“人工智能扫盲”提供资金的法案](https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/)**
-
-文章网址： https://wwwco/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/评论网址： https://**new**s
-
-📅 Mon, 04 May 2026 16:21:38 +0000
-
----
-
-### Reddit: r/artificial
-![我在REPLIT的免费编程日花了几个小时...你呢？](https://preview.redd.it/yu71tbo2w4zg1.png?width=140&amp;height=85&amp;auto=webp&amp;s=5dd913c1b4c7878b6035e2086e8e8b4491293e9c)
-
-**[我在REPLIT的免费编程日花了几个小时...你呢？](https://www.reddit.com/r/artificial/comments/1t3k29o/i_spent_hours_with_replits_free_day_of_codingdid/)**
-
-比AI St**Udio** IMO更好-虽然界面是一样的“然后我把计划交给了**Claude**和
-
-📅 2026-05-04T14:54:40.000Z
-
----
-
-### Reddit: r/MachineLearning
-![torch-nvenc-compress ： GPU NVENC芯片作为PCIe带宽倍增器— PCA + pure-ctypes视频编解码器SDK包装器。在实际GEMM +编码工作负载上以理论最大值的67%测量的并行路径重叠。[P]](https://external-preview.redd.it/vqLrMLU0urgSqpiud1c7Ilq7WSsJhRPX63HDDrDRN6M.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0d43a15121928a0c4b5e3a9730e67ff06df77324)
-
-**[torch-nvenc-compress ： GPU NVENC芯片作为PCIe带宽倍增器— PCA + pure-ctypes视频编解码器SDK包装器。在实际GEMM +编码工作负载上以理论最大值的67%测量的并行路径重叠。[P]](https://www.reddit.com/r/MachineLearning/comments/1t2zy4h/torchnvenccompress_gpu_nvenc_silicon_as_a_pcie/)**
-
-Repo: https://githubCodec预填充期间KV刷新的运动矢量元数据
-
-📅 2026-05-03T22:43:17.000Z
-
----
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-05-04T16:48:14.264Z
+📅 2026-05-04T23:56:10.872Z
 
 ---
 
@@ -381,16 +336,61 @@ Repo: https://githubCodec预填充期间KV刷新的运动矢量元数据
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-05-04T16:49:26.657Z
+📅 2026-05-04T23:57:32.663Z
+
+---
+
+### Hacker News
+**[Microsoft Edge将所有密码以明文形式存储在内存中，即使未使用](https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730)**
+
+文章网址： https://twittercom/L1v1ng0ffTh3L4N/status/2051308329880719730评论网址： https://**new**s
+
+📅 Mon, 04 May 2026 18:22:42 +0000
 
 ---
 
 ### Hacker News AI
-**[Show HN ： The Rouge是我在人工智能产品工厂的尝试](https://github.com/gregario/the-rouge)**
+**[显示HN ：以星球大战爬行风格响应的人工智能](https://may-the-4th-gpt.vercel.app/)**
 
-我一直在尝试构建AI等价物；创意来自一端， MVP弹出另一端它当前调用**Claude**Code子过程来执行构建，它可以通过API密钥或通过您的**Claude**Code订阅运行
+文章网址： https://may-the-4th-**GPT**app/评论网址： https://**new**s
 
-📅 Mon, 04 May 2026 16:29:14 +0000
+📅 Mon, 04 May 2026 22:36:39 +0000
+
+---
+
+### Hacker News AI
+**[展示HN ：图层–深度产品设计的人工智能技能](https://layers.jamiemill.com/)**
+
+或者，如果您将设计委托给《克劳德法典》中的AIIt WORKS报价
+
+📅 Mon, 04 May 2026 21:35:18 +0000
+
+---
+
+### Hacker News AI
+**[问HN ：雇主是否从人工智能中获得回报？](https://news.ycombinator.com/item?id=48014734)**
+
+嗨，大多数公司现在都为员工提供了人工智能工具，包括**Claude** code、cursor和github copilot这应该是一个测试期，看看使用人工智能会带来什么结果
+
+📅 Mon, 04 May 2026 20:45:56 +0000
+
+---
+
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Title: 520: Web服务器返回未知错误
+
+📅 2026-05-04T23:56:10.872Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误520 ：
+
+📅 2026-05-04T23:56:10.872Z
 
 ---
 
