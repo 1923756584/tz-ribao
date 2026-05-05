@@ -1,12 +1,12 @@
 ---
 title: "2026年5月5日 - TZ日报"
-date: 2026-05-05T16:30:09.681Z
+date: 2026-05-05T23:52:31.855Z
 draft: false
 ---
 
 # 2026年5月5日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/5/5 16:30:09
+> 📊 今日汇总 38 条 · 🕐 2026/5/5 23:52:31
 
 ---
 
@@ -22,12 +22,48 @@ draft: false
 
 ## ✨ 产品更新
 
+### OpenAI Blog
+**[购买ChatGPT广告的新方法](https://openai.com/index/new-ways-to-buy-chatgpt-ads)**
+
+**OpenAI**通过测试版自助广告管理器和增强的测量工具扩展了Chat**GPT**广告，旨在保护隐私并使对话与广告分开
+
+📅 Tue, 05 May 2026 00:00:00 GMT
+
+---
+
+### TechCrunch AI Products
+**[OpenAI发布了ChatGPT的新默认模型GPT-5.5 Instant](https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/)**
+
+该公司表示，该模型可以减少敏感领域的幻觉，例如法律，同时保持其前身的低延迟
+
+📅 Tue, 05 May 2026 17:00:00 +0000
+
+---
+
 ### AI News
 **[谷歌将代理人工智能治理作为一种产品。企业仍需迎头赶上。](https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/)**
 
 核心公告是**Gemini** Enterprise Agent Platform**首次**出现在AI **new**s上
 
 📅 Mon, 04 May 2026 10:00:00 +0000
+
+---
+
+### OpenAI Blog
+**[GPT-5.5即时系统卡](https://openai.com/index/gpt-5-5-instant-system-card)**
+
+**GPT**-5.5即时系统卡
+
+📅 Tue, 05 May 2026 10:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[GPT-5.5即时：更智能、更清晰、更个性化](https://openai.com/index/gpt-5-5-instant)**
+
+5即时**更新**Chat**GPT**的默认模型，提供更智能、更准确的答案，减少幻觉，并改进个性化控制
+
+📅 Tue, 05 May 2026 10:00:00 GMT
 
 ---
 
@@ -79,42 +115,6 @@ draft: false
 事件驱动Webhook是一种基于推送的通知系统，无需低效的轮询
 
 📅 Mon, 04 May 2026 15:30:00 +0000
-
----
-
-### TechCrunch AI Products
-**[Etsy在ChatGPT内推出其应用程序，继续推进人工智能](https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/)**
-
-Etsy在Chat**GPT**中的新原生应用旨在为用户提供会话式购物体验。
-
-📅 Tue, 05 May 2026 15:31:37 +0000
-
----
-
-### TechCrunch AI Products
-**[Meta将使用人工智能来分析身高和骨骼结构，以确定用户是否未成年](https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/)**
-
-视觉分析系统目前正在部分国家/地区运行，但**Meta**表示，它正在努力实现更广泛的推广
-
-📅 Tue, 05 May 2026 14:27:00 +0000
-
----
-
-### TechCrunch AI Products
-**[随着工人们对人工智能的担忧，英伟达的Jensen Huang表示，人工智能正在“创造大量的工作岗位”](https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/)**
-
-这位英伟达首席执行官似乎认为，人工智能杀人潜力的说法被大大夸大了
-
-📅 Tue, 05 May 2026 03:31:54 +0000
-
----
-
-### TechCrunch AI Products
-**[OpenAI舒适的合作伙伴Cerebras正在进行一场轰动一时的首次公开募股](https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/)**
-
-人工智能芯片制造商Cerebras正在进行一场轰动一时的**首次**公开募股，其价值可能达到26 $。它与**OpenAI**的关系深厚而丰富
-
-📅 Mon, 04 May 2026 21:53:21 +0000
 
 ---
 
@@ -195,6 +195,17 @@ Etsy在Chat**GPT**中的新原生应用旨在为用户提供会话式购物体�
 ## 🌍 行业展望
 
 ### VentureBeat
+![迈阿密初创公司Subquadratic声称使用SubQ模型可以提高1,000倍的人工智能效率；研究人员需要独立的证据。](https://images.ctfassets.net/jdtwqhzvc2n1/1JuwghDCzBw4tsnuqJOGID/1f81154d6b90a8c9db9f43f807eac066/introducing-subq.jpg?w=300&q=30)
+
+**[迈阿密初创公司Subquadratic声称使用SubQ模型可以提高1,000倍的人工智能效率；研究人员需要独立的证据。](https://venturebeat.com/technology/miami-startup-subquadratic-claims-1-000x-ai-efficiency-gain-with-subq-model-researchers-demand-independent-proof)**
+
+一家鲜为人知的迈阿密初创公司Subquadratic周二从隐形中脱颖而出，声称：它已经建立了第一个大型语言模型，以完全摆脱自2017年以来定义并限制了每个主要人工智能系统的数学约束。行业标准是许多人工智能模型的128,000个代币，以及**Claude** Sonnet 4等前沿云模型的100万个代币。
+
+📅 Tue, 05 May 2026 23:30:14 GMT
+
+---
+
+### VentureBeat
 ![由于影子AI成为企业威胁， Microsoft将Agent 365从预览版中移除](https://images.ctfassets.net/jdtwqhzvc2n1/6LMJpI0ffGMD479AXflYHJ/27174ee4558549a84413d0bd7353fb48/Nuneybits_Vector_art_of_the_iconic_Microsoft_Windows_logo_on_a__fa8c56b1-15d5-4e25-9044-a2beb94286fe.webp?w=300&q=30)
 
 **[由于影子AI成为企业威胁， Microsoft将Agent 365从预览版中移除](https://venturebeat.com/technology/microsoft-takes-agent-365-out-of-preview-as-shadow-ai-becomes-an-enterprise-threat)**
@@ -212,18 +223,7 @@ Etsy在Chat**GPT**中的新原生应用旨在为用户提供会话式购物体�
 
 Sam Altman和Elon Musk正面临着一项高风险的试验，这可能会改变**OpenAI**及其最知名产品Chat**GPT**OpenAI的未来， Chat**GPT**OpenAI表示， “这起诉讼一直是毫无根据和嫉妒的企图破坏竞争对手” ，旨在推动马斯克自己的SpaceX/xAI/X公司将Grok作为Chat**GPT**的竞争对手**推出**
 
-📅 2026-05-05T15:35:00.000Z
-
----
-
-### The Verge
-![谷歌、微软和xAI将允许美国政府审查其新的人工智能模型](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25263345/STK432_Government_A_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[谷歌、微软和xAI将允许美国政府审查其新的人工智能模型](https://www.theverge.com/ai-artificial-intelligence/924017/google-microsoft-xai-government-review)**
-
-谷歌DeepMind、微软和埃隆·马斯克（ Elon Musk ）的xAI已同意允许美国政府在向公众**发布**新的人工智能模型之前对其进行审查”CAISI于2024年开始评估**OpenAI**和**Anthropic**的模型，称迄今为止已进行了40次审查
-
-📅 2026-05-05T14:26:59.000Z
+📅 2026-05-05T17:28:52.000Z
 
 ---
 
@@ -243,73 +243,53 @@ Sam Altman和Elon Musk正面临着一项高风险的试验，这可能会改变*
 
 **[代理AI的RAG时代即将结束—接下来是新的编译阶段知识层](https://venturebeat.com/data/the-rag-era-is-ending-for-agentic-ai-a-new-compilation-stage-knowledge-layer-is-what-comes-next)**
 
-微软已扩展其FabricIQ技术，为代理AI提供语义上下文**Google**最近宣布其Agentic Data Cloud作为一种帮助解决相同问题的方法
+微软已经扩展了其FabricIQ技术，为代理AI**Google**提供语义上下文最近宣布其Agentic Data Cloud作为一种帮助解决相同问题的方法
 
 📅 Mon, 04 May 2026 19:13:44 GMT
 
 ---
 
+### Ars Technica
+**[Google Home升级了Gemini语音助手和新的摄像头控件](https://arstechnica.com/gadgets/2026/05/google-home-gets-upgraded-gemini-voice-assistant-and-new-camera-controls/)**
+
+谷歌的智能家居生态系统正在进行自人工智能推动的2025年改造以来最大的**更新**。
+
+📅 Tue, 05 May 2026 17:17:25 +0000
+
+---
+
 ### The Verge
-![据报道， OpenAI正在为ChatGPT推出一款手机](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![Google Home的Gemini AI可以处理更复杂的请求](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23028907/dseifert_20210323_4485_0004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[据报道， OpenAI正在为ChatGPT推出一款手机](https://www.theverge.com/ai-artificial-intelligence/924063/openai-phone-rumors-2027-ming-chi-kuo)**
+**[Google Home的Gemini AI可以处理更复杂的请求](https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade)**
 
-**OpenAI**的第一个硬件产品可能是手机，而不是神秘的Jony Ive小工具，声称**OpenAI**正在“快速跟踪”它，并计划在2027年初开始批量生产
+谷歌已将**Gemini** for Home**更新**为**Gemini** 3上个月，谷歌还**更新**了**Gemini** for Home ，改进了理解自然语言和正确识别设备的能力
 
-📅 2026-05-05T14:54:00.000Z
-
----
-
-### Wired Technology
-**[谷歌DeepMind员工投票支持军事人工智能交易](https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/)**
-
-谷歌人工智能研究实验室的英国工作人员希望阻止该公司的人工智能模型在军事环境中的使用
-
-📅 Tue, 05 May 2026 11:59:20 +0000
+📅 2026-05-05T21:46:04.000Z
 
 ---
 
-### Wired Technology
-**[Murena/e/OS平板电脑评论：价格合理的隐私保护](https://www.wired.com/review/murena-volla-tablet/)**
+### The Verge
+![OpenAI声称ChatGPT的新默认模型会产生更少的幻觉](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-Murena的/e/OS平板电脑提供无iPadOS和**Google**操作系统、隐私友好的平板电脑体验，但您必须为此付费
+**[OpenAI声称ChatGPT的新默认模型会产生更少的幻觉](https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant)**
 
-📅 Tue, 05 May 2026 11:32:00 +0000
+**OpenAI**最新的Chat**GPT**默认模型可能没有那么多幻觉对人工智能模型来说是一个持续存在的问题，但**OpenAI**表示其新的**GPT**-5
+
+📅 2026-05-05T17:00:00.000Z
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://avatars.githubusercontent.com/u/21003710?v=4)
+![julia ： Julia编程语言](https://avatars.githubusercontent.com/u/743164?v=4)
 
-**[pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://github.com/pytorch/pytorch)**
+**[julia ： Julia编程语言](https://github.com/JuliaLang/julia)**
 
-⭐ 99,650星· 27661分叉· Python ·具有强大GPU加速的Python中的张量和动态神经网络
+⭐ 48658星· 5769叉·茱莉亚·茱莉亚编程语言
 
-📅 2026-05-05T16:28:14Z
-
----
-
-### GitHub Active (AI/ML)
-![catboost ：快速、可扩展、高性能的决策树梯度提升库，用于Python、R、Java、C + +的排名、分类、回归和其他机器学习任务。支持CPU和GPU上的计算。](https://avatars.githubusercontent.com/u/29043415?v=4)
-
-**[catboost ：快速、可扩展、高性能的决策树梯度提升库，用于Python、R、Java、C + +的排名、分类、回归和其他机器学习任务。支持CPU和GPU上的计算。](https://github.com/catboost/catboost)**
-
-931星· 1288分叉· C + + ·快速支持CPU和GPU计算
-
-📅 2026-05-05T16:27:56Z
-
----
-
-### GitHub Active (AI/ML)
-![sWARMS ：企业级生产就绪型多代理编排框架。网站： https://swarms.ai](https://avatars.githubusercontent.com/u/98760976?v=4)
-
-**[sWARMS ：企业级生产就绪型多代理编排框架。网站： https://swarms.ai](https://github.com/kyegomez/swarms)**
-
-⭐ 6626星· 896叉· Python ·企业级生产就绪型多代理编排框架网站： https://swarms
-
-📅 2026-05-05T16:28:16Z
+📅 2026-05-05T23:50:52Z
 
 ---
 
@@ -318,29 +298,42 @@ Murena的/e/OS平板电脑提供无iPadOS和**Google**操作系统、隐私友�
 
 **[🆕 micracode ： Lovable的开源替代品， v0 ， Bolt ， Replit ， Emergent。如果您喜欢，请加🌟星标！](https://github.com/Jamessdevops/micracode)**
 
-⭐ 7 star (新项目) · Python · Open Source Alternative to Lovable, v0, Bolt, Replit, Emergent🌟 Star if you like it
+⭐ 8 star (新项目) · Python · Open Source Alternative to Lovable, v0, Bolt, Replit, Emergent🌟 Star if you like it
 
 📅 2026-05-02T19:08:25Z
 
 ---
 
-## 💬 社交动态
+### GitHub New (New AI)
+![🆕 optimization-kernels ：用于量化和推理优化的C + +内核和实用程序。](https://avatars.githubusercontent.com/u/1442931?v=4)
 
-### Hacker News AI
-**[谷歌、xAI和微软同意对新的人工智能模型进行美国国家安全审查](https://www.ft.com/content/c4435dd4-00c0-4270-aab9-3c7ce1ae45f6)**
+**[🆕 optimization-kernels ：用于量化和推理优化的C + +内核和实用程序。](https://github.com/brandonhimpfen/optimization-kernels)**
 
-文章网址： https://wwwcom/content/c4435dd4-00c0-4270-aab9-3c7ce1ae45f6评论网址： https://**new**s
+⭐ 5 star (新项目) · C++ · C++ kernels and utilities for quantization and inference optimization.
 
-📅 Tue, 05 May 2026 15:40:33 +0000
+📅 2026-05-04T15:57:19Z
 
 ---
+
+### GitHub New (New AI)
+![🆕 Scraper ：强大的本地优先智能应用程序，用于抓取和分析暗网数据。](https://avatars.githubusercontent.com/u/165709536?v=4)
+
+**[🆕 Scraper ：强大的本地优先智能应用程序，用于抓取和分析暗网数据。](https://github.com/phantomx39/Scraper)**
+
+⭐ 5 star (新项目) · JavaScript · A robust, local-first intelligence application for scraping and analyzing Dark Web data
+
+📅 2026-05-02T22:10:23Z
+
+---
+
+## 💬 社交动态
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-05-05T16:26:57.208Z
+📅 2026-05-05T23:49:12.112Z
 
 ---
 
@@ -349,34 +342,34 @@ Murena的/e/OS平板电脑提供无iPadOS和**Google**操作系统、隐私友�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-05-05T16:28:02.020Z
+📅 2026-05-05T23:50:32.393Z
 
 ---
 
 ### Hacker News
-**[金融服务和保险代理](https://www.anthropic.com/news/finance-agents)**
+**[出版商表示，扎克伯格“亲自授权” Meta侵犯版权](https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32)**
 
-文章网址： https://wwwcom/**new**s/finance-agents评论网址： https://**new**s
+文章网址： https://ap**new**scom/article/**Meta**-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32评论网址： https://**new**s
 
-📅 Tue, 05 May 2026 15:05:47 +0000
+📅 Tue, 05 May 2026 22:07:18 +0000
 
 ---
 
 ### Hacker News
-**[Islo.dev上的Simple Meta-Harness](https://zozo123.github.io/meta-harness-on-islo-page/)**
+**[扎克伯格“亲自授权和鼓励” Meta的版权侵权](https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/)**
 
-文章网址： https://zozo123io/**Meta**-harness-on-islo-page/评论网址： https://**new**s
+文章网址： https://varietycom/2026/digital/**new**s/**Meta**-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/评论网址： https://**new**s
 
-📅 Tue, 05 May 2026 13:55:45 +0000
+📅 Tue, 05 May 2026 18:04:25 +0000
 
 ---
 
-### Hacker News AI
-**[Memoir – Git for AI agent memory ，带Claude Code插件](https://github.com/zhangfengcdt/memoir)**
+### Hacker News
+**[IBM不希望Microsoft使用Tab键在对话框字段之间移动](https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298)**
 
-文章网址： https://githubcom/zhangfengcdt/memoir评论网址： https://**new**s
+com/old**new**thing/20260505-00/p = 112298评论网址： https://**new**s
 
-📅 Tue, 05 May 2026 15:54:54 +0000
+📅 Tue, 05 May 2026 17:28:18 +0000
 
 ---
 
@@ -385,7 +378,7 @@ Murena的/e/OS平板电脑提供无iPadOS和**Google**操作系统、隐私友�
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-05-05T16:26:57.208Z
+📅 2026-05-05T23:49:12.112Z
 
 ---
 
@@ -394,7 +387,16 @@ Title: 520: Web服务器返回未知错误
 
 警告：目标URL返回错误520 ：
 
-📅 2026-05-05T16:26:57.208Z
+📅 2026-05-05T23:49:12.112Z
+
+---
+
+### X: OpenAI
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Markdown 内容
+
+📅 2026-05-05T23:49:12.112Z
 
 ---
 
