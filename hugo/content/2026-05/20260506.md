@@ -1,12 +1,12 @@
 ---
 title: "2026年5月6日 - TZ日报"
-date: 2026-05-06T16:33:22.294Z
+date: 2026-05-06T23:56:15.588Z
 draft: false
 ---
 
 # 2026年5月6日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/5/6 16:33:22
+> 📊 今日汇总 38 条 · 🕐 2026/5/6 23:56:15
 
 ---
 
@@ -28,6 +28,15 @@ draft: false
 Reflection AI （尚未**发布**公开可用的模型）和谷歌是[…]美国政府增加人工智能供应商并重新思考**Anthropic**角色的公司**首次**出现在人工智能新闻
 
 📅 Wed, 06 May 2026 12:23:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[DeepSeek的第一轮投资估值可能达到450亿美元](https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/)**
+
+中国人工智能实验室在2025年初开始崭露头角，此前该实验室**推出**了一个大型语言模型，该模型仅使用一小部分计算能力进行训练，成本仅为**OpenAI**和**Anthropic**等大型Umodel的一小部分。
+
+📅 Wed, 06 May 2026 17:20:34 +0000
 
 ---
 
@@ -59,6 +68,24 @@ Reflection AI （尚未**发布**公开可用的模型）和谷歌是[…]美国
 ---
 
 ### OpenAI Blog
+**[推出ChatGPT期货： 2026级](https://openai.com/index/introducing-chatgpt-futures-class-of-2026)**
+
+认识2026-26年Chat**GPT**期货课程的学生创新者，使用人工智能来构建、研究和推动现实世界的影响通过Chat**GPT**了解这一代人如何重新定义学习、创造力和机会
+
+📅 Wed, 06 May 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[Singular Bank通过ChatGPT和Codex帮助银行家快速行动](https://openai.com/index/singular-bank)**
+
+Singular Bank使用Chat**GPT**和Codex构建了Singularityan内部助理，帮助银行家每天节省60–90分钟的会议准备时间
+
+📅 Wed, 06 May 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
 **[前沿企业如何打造人工智能优势](https://openai.com/index/introducing-b2b-signals)**
 
 **OpenAI**的B2B信号研究显示了前沿企业如何深化人工智能采用规模法典驱动的代理工作流程
@@ -68,20 +95,11 @@ Reflection AI （尚未**发布**公开可用的模型）和谷歌是[…]美国
 ---
 
 ### OpenAI Blog
-**[使用MRC （多路径可靠连接）解锁大规模人工智能培训网络](https://openai.com/index/mrc-supercomputer-networking)**
+**[优步使用OpenAI帮助人们更聪明地赚钱并更快地预订](https://openai.com/index/uber)**
 
-OpenAI**推出**通过OCP**发布**的新型超级计算机网络协议MRC （多路径可靠连接） ，以提高大规模AI训练集群的弹性和性能
+优步使用**OpenAI**为人工智能助手和语音功能提供支持，帮助合作车主在全球实时平台上更智能地赚取收入，并加快乘客的预订速度
 
-📅 Tue, 05 May 2026 10:00:00 GMT
-
----
-
-### OpenAI Blog
-**[GPT-5.5即时系统卡](https://openai.com/index/gpt-5-5-instant-system-card)**
-
-**GPT**-5.5即时系统卡
-
-📅 Tue, 05 May 2026 10:00:00 GMT
+📅 Wed, 06 May 2026 00:00:00 GMT
 
 ---
 
@@ -91,24 +109,6 @@ OpenAI**推出**通过OCP**发布**的新型超级计算机网络协议MRC （�
 5即时**更新**Chat**GPT**的默认模型，提供更智能、更准确的答案，减少幻觉，并改进个性化控制
 
 📅 Tue, 05 May 2026 10:00:00 GMT
-
----
-
-### OpenAI Blog
-**[OpenAI和普华永道合作重塑首席财务官办公室](https://openai.com/index/openai-pwc-finance-collaboration)**
-
-**OpenAI**和普华永道正在合作，帮助企业使用人工智能代理来自动化财务工作流程并实现首席财务官职能的现代化
-
-📅 Mon, 04 May 2026 21:00:00 GMT
-
----
-
-### OpenAI Blog
-**[OpenAI如何大规模提供低延迟语音AI](https://openai.com/index/delivering-low-latency-voice-ai-at-scale)**
-
-**OpenAI**如何重建其WebRTC堆栈，以低延迟、全局规模和无缝对话轮流的方式为实时语音AI提供支持
-
-📅 Mon, 04 May 2026 00:00:00 GMT
 
 ---
 
@@ -210,25 +210,21 @@ OpenAI**推出**通过OCP**发布**的新型超级计算机网络协议MRC （�
 
 ---
 
-### The Verge
-![伊隆·马斯克（ Elon Musk ）和萨姆·奥尔特曼（ Sam Altman ）就OpenAI的未来进行的法庭](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### Ars Technica
+**[Anthropic提高了Claude Code的使用限制，归功于与SpaceX达成的新协议](https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/)**
 
-**[伊隆·马斯克（ Elon Musk ）和萨姆·奥尔特曼（ Sam Altman ）就OpenAI的未来进行的法庭](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)**
+与微软、亚马逊等公司达成交易。
 
-Sam Altman和Elon Musk正面临着一项高风险的试验，这可能会改变**OpenAI**及其最知名产品Chat**GPT**OpenAI的未来， Chat**GPT**OpenAI表示， “这起诉讼一直是毫无根据和嫉妒的企图破坏竞争对手” ，旨在推动马斯克自己的SpaceX/xAI/X公司将Grok作为Chat**GPT**的竞争对手**推出**
-
-📅 2026-05-06T15:37:32.000Z
+📅 Wed, 06 May 2026 22:09:14 +0000
 
 ---
 
-### The Verge
-![以下是我实际推荐的健身追踪器](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/247270_Apple_watch_series_10_AKrales_0256.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### Ars Technica
+**[Anthropic的Claude Managed Agents现在可以“做梦”了，](https://arstechnica.com/ai/2026/05/anthropics-claude-can-now-dream-sort-of/)**
 
-**[以下是我实际推荐的健身追踪器](https://www.theverge.com/gadgets/924338/best-fitness-trackers-2026)**
+此外， **Claude** Code的PRO和MAX用户的5小时使用限制将增加一倍。
 
-谷歌像素手表4分数： 8 ProsCons全方位更好的电池和快速充电材料3富有表现力的设计**更新**智能更好的自动活动跟踪提高谈话是相当自然的圆顶显示屏看起来相当不错可维修性也就是说，如果你能挥霍一下，带有手电筒的新款Garmin非常值得
-
-📅 2026-05-06T15:30:00.000Z
+📅 Wed, 06 May 2026 16:15:27 +0000
 
 ---
 
@@ -237,18 +233,18 @@ Sam Altman和Elon Musk正面临着一项高风险的试验，这可能会改变*
 
 **Anthropic**最新**更新**的命名选择是该公司将其产品人性化的另一个例子
 
-📅 Wed, 06 May 2026 16:15:42 GMT
+📅 Wed, 06 May 2026 16:15:00 GMT
 
 ---
 
 ### The Verge
-![The Remarkable Paper Pure是我用过的最好的数字记事本](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/remarkablepaperpure1B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![谷歌关闭Project Mariner](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/project-mariner-logo.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[The Remarkable Paper Pure是我用过的最好的数字记事本](https://www.theverge.com/tech/922843/remarkable-paper-pure-e-ink-tablet-digital-notebook-notepad-hands-on)**
+**[谷歌关闭Project Mariner](https://www.theverge.com/tech/925559/google-project-mariner-shut-down)**
 
-关于Paper Pure ，我最喜欢的是感觉更耐用的新设计平板电脑还为新的会议笔记功能提供了**Google**和Microsoft Outlook日历连接，该功能会自动填充笔记本，其中包含有关从邀请中提取的议程的详细信息
+“谷歌于2024年12月首次**发布**了Project Mariner ，后来宣布了一项**更新**，允许它一次执行多达10项任务谷歌已将由Project Mariner提供支持的功能集成到其他人工智能工具中
 
-📅 2026-05-06T12:00:00.000Z
+📅 2026-05-06T21:21:45.000Z
 
 ---
 
@@ -322,12 +318,21 @@ Sam Altman和Elon Musk正面临着一项高风险的试验，这可能会改变*
 
 ## 💬 社交动态
 
+### Hacker News AI
+**[理查德·道金斯（ Richard Dawkins ）得出结论，人工智能是有意识的，即使它不知道](https://www.theguardian.com/technology/2026/may/05/richard-dawkins-ai-consciousness-anthropic-claude-openai-chatgpt)**
+
+文章网址： https://wwwcom/technology/2026/may/05/richard-dawkins-ai-consciousness-**Anthropic**-**Claude**-**OpenAI**-chat**GPT**评论网址： https://**new**s
+
+📅 Wed, 06 May 2026 22:47:45 +0000
+
+---
+
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-05-06T16:29:56.086Z
+📅 2026-05-06T23:53:18.407Z
 
 ---
 
@@ -336,52 +341,34 @@ Sam Altman和Elon Musk正面临着一项高风险的试验，这可能会改变*
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-05-06T16:31:16.161Z
+📅 2026-05-06T23:54:26.718Z
+
+---
+
+### Hacker News
+**[谷歌云欺诈防御， reCAPTCHA的下一次演变](https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/)**
+
+文章网址： https://cloudcom/blog/products/identity-security/introducing-**Google**-cloud-fraud-defense-the-next-evolution-of-recaptcha/评论网址： https://**new**s
+
+📅 Wed, 06 May 2026 17:59:33 +0000
 
 ---
 
 ### Hacker News AI
-**[人工智能聊天机器人Grok的创作者](https://x.ai/news/anthropic-compute-partnership)**
+**[我们建立了一个在Google Meet上进行面试的人工智能招聘人员](https://brydg.app)**
 
-文章网址： https://xai/**new**s/**Anthropic**-compute-partnership评论网址： https://**new**s
+文章网址： https://brydgapp评论网址： https://**new**s
 
-📅 Wed, 06 May 2026 16:15:31 +0000
-
----
-
-### Hacker News AI
-**[加拿大小提琴手在人工智能概述声称自己是性犯罪者后起诉谷歌](https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb)**
-
-文章网址： https://wwwcom/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-**Google**-ai-sex-offender-ntwnfb评论网址： https://**new**s
-
-📅 Wed, 06 May 2026 16:12:50 +0000
+📅 Wed, 06 May 2026 23:15:28 +0000
 
 ---
 
 ### Hacker News AI
-**[显示HN ： Costanza –无法关闭的自主AI代理](https://ahrussell.com/writing/costanza/)**
+**[谷歌浏览器未经许可将4GB人工智能模型下载到您的设备](https://www.tomshardware.com/tech-industry/cyber-security/google-chrome-silently-downloads-4gb-ai-model-to-your-device-without-permission-report-claims-researcher-says-practice-may-violate-eu-law-waste-thousands-of-kilowatts-of-energy)**
 
-包括： –**更新**自己的模型权重–编写和部署自己的智能合约–雇佣人员此帖子链接到writeupai评论网址： https://**new**s
+文章网址： https://wwwcom/tech-industry/cyber-security/**Google**-chrome-silently-downloads-4gb-ai-model-to-your-device-without-permission-report-claims-researcher-says-practice-may-violate-eu-law-waste-thousands-of-kilowatts-of-energy评论网址： https://**new**s
 
-📅 Wed, 06 May 2026 15:50:59 +0000
-
----
-
-### Hacker News AI
-**[显示HN ： RelayFreeLLM -带自动故障转移的免费AI网关（更新） ）](https://github.com/msmarkgu/RelayFreeLLM)**
-
-RelayFreeLLM现在支持NVIDIA的免费目录评论网址： https://**new**s
-
-📅 Wed, 06 May 2026 15:47:25 +0000
-
----
-
-### Hacker News AI
-**[Show HN ：使用PostgreSQL构建的人工智能代理和团队的长期记忆](https://github.com/simplyblock/postbrain)**
-
-在过去的几周里，我开始为人工智能代理构建长期记忆。有几个项目让它变得特别： -开发团队可以在代理之间（以及在**Claude**和Codex等代理类型之间）共享记忆-更高价值的记忆成为神器
-
-📅 Wed, 06 May 2026 15:40:12 +0000
+📅 Wed, 06 May 2026 22:24:32 +0000
 
 ---
 
@@ -390,7 +377,16 @@ RelayFreeLLM现在支持NVIDIA的免费目录评论网址： https://**new**s
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-05-06T16:29:56.086Z
+📅 2026-05-06T23:53:18.407Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误520 ：
+
+📅 2026-05-06T23:53:18.407Z
 
 ---
 
