@@ -1,12 +1,12 @@
 ---
 title: "2026年5月7日 - TZ日报"
-date: 2026-05-07T16:55:43.029Z
+date: 2026-05-07T23:58:31.952Z
 draft: false
 ---
 
 # 2026年5月7日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/5/7 16:55:43
+> 📊 今日汇总 38 条 · 🕐 2026/5/7 23:58:31
 
 ---
 
@@ -32,11 +32,29 @@ Reflection AI （尚未**发布**公开可用的模型）和谷歌是[…]美国
 ---
 
 ### OpenAI Blog
-**[购买ChatGPT广告的新方法](https://openai.com/index/new-ways-to-buy-chatgpt-ads)**
+**[通过GPT-5.5和GPT-5.5-Cyber扩展网络可信访问](https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber)**
 
-**OpenAI**通过测试版自助广告管理器和增强的测量工具扩展了Chat**GPT**广告，旨在保护隐私并使对话与广告分开
+**OpenAI**通过**GPT**-55和**GPT**-5扩展网络可信访问
 
-📅 Tue, 05 May 2026 00:00:00 GMT
+📅 Thu, 07 May 2026 13:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[在ChatGPT中测试广告](https://openai.com/index/testing-ads-in-chatgpt)**
+
+**OpenAI**开始在Chat**GPT**中测试广告，以支持免费访问，具有清晰的标签、答案独立性、强大的隐私保护和用户控制
+
+📅 Thu, 07 May 2026 00:00:00 GMT
+
+---
+
+### TechCrunch AI Products
+**[OpenAI为可能的自我伤害案件引入了新的「信任联系人」保障措施](https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/)**
+
+该公司正在加大努力，在谈话可能变成自我伤害的情况下保护Chat**GPT**用户
+
+📅 Thu, 07 May 2026 20:20:20 +0000
 
 ---
 
@@ -59,20 +77,20 @@ Parloa利用**OpenAI**模型为可扩展语音驱动的AI客户服务代理提�
 ---
 
 ### OpenAI Blog
-**[Singular Bank通过ChatGPT和Codex帮助银行家快速行动](https://openai.com/index/singular-bank)**
+**[借助API中的新型号推进语音智能](https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api)**
 
-Singular Bank使用Chat**GPT**和Codex构建了Singularityan内部助理，帮助银行家每天节省60–90分钟的会议准备时间
+在**OpenAI** API中探索新的实时语音模型，可以推理和转录语音
 
-📅 Wed, 06 May 2026 00:00:00 GMT
+📅 Thu, 07 May 2026 10:00:00 GMT
 
 ---
 
 ### OpenAI Blog
-**[优步使用OpenAI帮助人们更聪明地赚钱并更快地预订](https://openai.com/index/uber)**
+**[在ChatGPT中引入信任的联系人](https://openai.com/index/introducing-trusted-contact-in-chatgpt)**
 
-优步使用**OpenAI**为人工智能助手和语音功能提供支持，帮助合作车主在全球实时平台上更智能地赚取收入，并加快乘客的预订速度
+在Chat**GPT**中**推出**“信任的联系人”功能，这是一项可选的安全功能，可在检测到严重的自我伤害问题时通知您信任的人
 
-📅 Wed, 06 May 2026 00:00:00 GMT
+📅 Thu, 07 May 2026 00:00:00 GMT
 
 ---
 
@@ -91,24 +109,6 @@ Singular Bank使用Chat**GPT**和Codex构建了Singularityan内部助理，帮�
 认识2026-26年Chat**GPT**期货课程的学生创新者，使用人工智能来构建、研究和推动现实世界的影响通过Chat**GPT**了解这一代人如何重新定义学习、创造力和机会
 
 📅 Wed, 06 May 2026 00:00:00 GMT
-
----
-
-### OpenAI Blog
-**[GPT-5.5即时：更智能、更清晰、更个性化](https://openai.com/index/gpt-5-5-instant)**
-
-5即时**更新**Chat**GPT**的默认模型，提供更智能、更准确的答案，减少幻觉，并改进个性化控制
-
-📅 Tue, 05 May 2026 10:00:00 GMT
-
----
-
-### OpenAI Blog
-**[使用MRC （多路径可靠连接）解锁大规模人工智能培训网络](https://openai.com/index/mrc-supercomputer-networking)**
-
-OpenAI**推出**通过OCP**发布**的新型超级计算机网络协议MRC （多路径可靠连接） ，以提高大规模AI训练集群的弹性和性能
-
-📅 Tue, 05 May 2026 10:00:00 GMT
 
 ---
 
@@ -189,13 +189,24 @@ OpenAI**推出**通过OCP**发布**的新型超级计算机网络协议MRC （�
 ## 🌍 行业展望
 
 ### VentureBeat
-![迈阿密初创公司Subquadratic声称使用SubQ模型可以提高1,000倍的人工智能效率；研究人员需要独立的证据。](https://images.ctfassets.net/jdtwqhzvc2n1/1JuwghDCzBw4tsnuqJOGID/1f81154d6b90a8c9db9f43f807eac066/introducing-subq.jpg?w=300&q=30)
+![Sakana如何训练7B模型来编排GPT-5、Claude Sonnet 4和Gemini 2.5 Pro](https://images.ctfassets.net/jdtwqhzvc2n1/1Pjru88KYRcP7uhAUoAFdr/a8b3cbf6d225a6cc02672e589ca22917/RL_conductor.jpg?w=300&q=30)
 
-**[迈阿密初创公司Subquadratic声称使用SubQ模型可以提高1,000倍的人工智能效率；研究人员需要独立的证据。](https://venturebeat.com/technology/miami-startup-subquadratic-claims-1-000x-ai-efficiency-gain-with-subq-model-researchers-demand-independent-proof)**
+**[Sakana如何训练7B模型来编排GPT-5、Claude Sonnet 4和Gemini 2.5 Pro](https://venturebeat.com/orchestration/how-sakana-trained-a-7b-model-to-orchestrate-gpt-5-claude-sonnet-4-and-gemini-2-5-pro)**
 
-一家鲜为人知的迈阿密初创公司Subquadratic周二从隐形中脱颖而出，声称：它已经建立了第一个大型语言模型，完全摆脱了自2017年以来定义并限制了每个主要人工智能系统的数学约束。行业标准是许多人工智能模型的128,000个代币，以及**Claude** Sonnet 4等前沿云模型的100万个代币。
+优于单个前沿模型，如**GPT**-5和**Claude** Sonnet 4 ，以及昂贵的人工设计的多代理管道5 Pro、**Claude**-Sonnet-4和**GPT**-5 ）和四个**开源**模型（包括**DeepSeek**-R1-Distill-Qwen-32B、Gemma3-27B和Qwen3-32B ）
 
-📅 Tue, 05 May 2026 23:30:14 GMT
+📅 Thu, 07 May 2026 21:23:46 GMT
+
+---
+
+### VentureBeat
+![认识ZAYA1-8B ，这是一个在AMD Instinct MI300 GPU上训练的超高效、开放的推理模型](https://images.ctfassets.net/jdtwqhzvc2n1/3g0YSaIRPGTCOtaBzSDZ1L/64a806f337067d6d6a56be1a8acca4a1/ChatGPT_Image_May_7__2026__01_41_44_PM.png?w=300&q=30)
+
+**[认识ZAYA1-8B ，这是一个在AMD Instinct MI300 GPU上训练的超高效、开放的推理模型](https://venturebeat.com/technology/meet-zaya1-8b-a-super-efficient-open-reasoning-model-trained-on-amd-instinct-mi300-gpus)**
+
+尽管**OpenAI**和**Anthropic**等领先的人工智能提供商争夺计算能力，以进行更大规模的培训和**发布**，但ZAYA1-8B在第三方基准测试中与**GPT**-5-High和**DeepSeek**-V3保持了竞争力
+
+📅 Thu, 07 May 2026 18:24:00 GMT
 
 ---
 
@@ -206,7 +217,7 @@ OpenAI**推出**通过OCP**发布**的新型超级计算机网络协议MRC （�
 
 **OpenAI**表示， “这起诉讼一直是毫无根据和嫉妒的企图让竞争对手脱轨” ，目的是推动马斯克自己的SpaceX/xAI/X公司，这些公司今天早上本着澄清的精神将Grok作为Chat**GPT**A的竞争对手**推出**…… Zilis表示，她对**OpenAI**董事会没有在ChatGPT**发布**之前得到通知表示严重担忧
 
-📅 2026-05-07T16:21:38.000Z
+📅 2026-05-07T17:40:50.000Z
 
 ---
 
@@ -242,6 +253,15 @@ OpenAI**推出**通过OCP**发布**的新型超级计算机网络协议MRC （�
 ---
 
 ### Wired Technology
+**[如何在Chrome中禁用Google的Gemini](https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/)**
+
+Chrome用户对Chrome中烘焙的4GB **Google** AI模型措手不及，引发了隐私问题好消息：您可以轻松卸载它
+
+📅 Thu, 07 May 2026 20:31:57 +0000
+
+---
+
+### Wired Technology
 **[ChatGPT在美国有“地精”狂热。在中国，它将“稳步吸引你”](https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/)**
 
 **OpenAI**的聊天机器人在中文中有一些奇怪的语言抽搐，让用户发疯。
@@ -250,36 +270,7 @@ OpenAI**推出**通过OCP**发布**的新型超级计算机网络协议MRC （�
 
 ---
 
-### Wired Technology
-**[谷歌推出全新Fitbit Air (2026)](https://www.wired.com/story/google-fitbit-air/)**
-
-新款Fitbit Air由**Gemini**提供支持，围绕简洁性设计，最终可以为无屏健身追踪器市场提供令人信服的Whoop替代方案
-
-📅 Thu, 07 May 2026 14:00:00 +0000
-
----
-
-### TechCrunch
-**[谷歌每月$ 9.99的AI健康教练将于5月19日推出](https://techcrunch.com/2026/05/07/googles-9-99-per-month-ai-health-coach-launches-may-19/)**
-
-双子座动力健康教练将担任组合健身教练、睡眠专家以及健康和保健顾问
-
-📅 Thu, 07 May 2026 15:35:38 +0000
-
----
-
 ## 📦 GitHub热门
-
-### GitHub Active (AI/ML)
-![pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://avatars.githubusercontent.com/u/21003710?v=4)
-
-**[pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://github.com/pytorch/pytorch)**
-
-⭐ 99,725星· 27708分叉· Python ·具有强大GPU加速的Python中的张量和动态神经网络
-
-📅 2026-05-07T16:53:39Z
-
----
 
 ### GitHub New (New AI)
 ![🆕 sagent ：强类型的Python-first库和CLI ，适用于具有Erlang根和愿望的多提供商、多代理编码LLM。](https://avatars.githubusercontent.com/u/268722896?v=4)
@@ -314,14 +305,25 @@ OpenAI**推出**通过OCP**发布**的新型超级计算机网络协议MRC （�
 
 ---
 
+### GitHub New (New AI)
+![🆕 CrustAI ：使用Telegram、Discord、WhatsApp和Slack的本地第一个人工智能助手](https://avatars.githubusercontent.com/u/109705197?v=4)
+
+**[🆕 CrustAI ：使用Telegram、Discord、WhatsApp和Slack的本地第一个人工智能助手](https://github.com/DaveSimoes/CrustAI)**
+
+⭐ 4 star (新项目) · JavaScript · Private, local-first AI assistant with Telegram, Discord, WhatsApp and Slack
+
+📅 2026-05-05T01:52:39Z
+
+---
+
 ## 💬 社交动态
 
-### Hacker News
-**[AlphaEvolve ： Gemini-powered编码代理跨领域扩展影响](https://deepmind.google/blog/alphaevolve-impact/)**
+### Hacker News AI
+**[Show HN: Disputron –人工智能小额索赔法庭，处理小额纠纷](https://disputron.ai)**
 
-文章网址： https://deepmind**Google**/blog/alphaevolve-impact/评论网址： https://**new**s
+如果您对尚不存在的**Claude**会话提起诉讼， **Claude**将代表其代表**Claude**十四行诗为每个AI角色真诚地起草辩护
 
-📅 Thu, 07 May 2026 15:02:20 +0000
+📅 Thu, 07 May 2026 22:00:02 +0000
 
 ---
 
@@ -330,7 +332,7 @@ OpenAI**推出**通过OCP**发布**的新型超级计算机网络协议MRC （�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-05-07T16:52:26.081Z
+📅 2026-05-07T23:55:29.189Z
 
 ---
 
@@ -339,34 +341,16 @@ OpenAI**推出**通过OCP**发布**的新型超级计算机网络协议MRC （�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-05-07T16:53:51.462Z
-
----
-
-### Hacker News
-**[Chrome删除了设备上Al未向Google服务器发送数据的声明](https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/)**
-
-文章网址： https://oldcom/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/评论网址： https://**new**s
-
-📅 Thu, 07 May 2026 15:56:33 +0000
+📅 2026-05-07T23:56:49.894Z
 
 ---
 
 ### Hacker News AI
-**[显示HN ：员工使用ChatGPT。您的CISO没有可见性。欧盟人工智能法案要求修复它](https://senthex.com/en/)**
+**[展示HN ： Gen AI的个性前沿](https://news.ycombinator.com/item?id=48055412)**
 
-文章网址： https://senthexcom/en/评论网址： https://**new**s
+我不确定在哪里**发布**这个，但我今天有两件事要告诉你们，与人工智能领域有关：个性和人工智能的新时代（参考**Meta**目前正在构建大概念模型）仅此而已
 
-📅 Thu, 07 May 2026 16:26:37 +0000
-
----
-
-### Hacker News AI
-**[Show HN ：我的UX/AI设计集合Claude代码技能](https://github.com/tommyjepsen/awesome-ux-skills)**
-
-和其他很多人一遍又一遍地阅读如何做事;因此，我创造了技能来帮助我前进
-
-📅 Thu, 07 May 2026 16:19:00 +0000
+📅 Thu, 07 May 2026 21:35:39 +0000
 
 ---
 
@@ -375,7 +359,7 @@ OpenAI**推出**通过OCP**发布**的新型超级计算机网络协议MRC （�
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-05-07T16:52:26.080Z
+📅 2026-05-07T23:55:29.189Z
 
 ---
 
@@ -384,7 +368,25 @@ Title: 520: Web服务器返回未知错误
 
 警告：目标URL返回错误520 ：
 
-📅 2026-05-07T16:52:26.081Z
+📅 2026-05-07T23:55:29.189Z
+
+---
+
+### X: OpenAI
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Markdown 内容
+
+📅 2026-05-07T23:55:29.189Z
+
+---
+
+### X: OpenAI
+**[# twitter.com | 520 ： Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+# twitter.com | 520 ： Web服务器返回未知错误
+
+📅 2026-05-07T23:55:29.189Z
 
 ---
 
