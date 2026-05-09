@@ -1,12 +1,12 @@
 ---
 title: "2026年5月8日 - TZ日报"
-date: 2026-05-08T16:19:42.921Z
+date: 2026-05-09T00:01:58.145Z
 draft: false
 ---
 
 # 2026年5月8日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/5/8 16:19:42
+> 📊 今日汇总 38 条 · 🕐 2026/5/9 00:01:58
 
 ---
 
@@ -77,6 +77,15 @@ Reflection AI （尚未**发布**公开可用的模型）和谷歌是[…]美国
 ---
 
 ### OpenAI Blog
+**[在OpenAI安全运行Codex](https://openai.com/index/running-codex-safely)**
+
+**OpenAI**如何通过沙盒和代理原生遥测安全运行Codex ，以支持安全和合规的编码代理采用
+
+📅 Fri, 08 May 2026 12:30:00 GMT
+
+---
+
+### OpenAI Blog
 **[Parloa构建客户希望与之交谈的服务代理](https://openai.com/index/parloa)**
 
 Parloa利用**OpenAI**模型为可扩展语音驱动的AI客户服务代理提供支持
@@ -98,15 +107,6 @@ Parloa利用**OpenAI**模型为可扩展语音驱动的AI客户服务代理提�
 **[在ChatGPT中引入信任的联系人](https://openai.com/index/introducing-trusted-contact-in-chatgpt)**
 
 在Chat**GPT**中**推出**“信任的联系人”功能，这是一项可选的安全功能，可在检测到严重的自我伤害问题时通知您信任的人
-
-📅 Thu, 07 May 2026 00:00:00 GMT
-
----
-
-### OpenAI Blog
-**[Simplex通过Codex重新思考软件开发](https://openai.com/index/simplex)**
-
-Simplex通过Chat**GPT** Enterprise和Codex促进软件开发，缩短设计、构建和测试时间，同时扩展人工智能驱动的工作流程
 
 📅 Thu, 07 May 2026 00:00:00 GMT
 
@@ -188,69 +188,58 @@ Simplex通过Chat**GPT** Enterprise和Codex促进软件开发，缩短设计、�
 
 ## 🌍 行业展望
 
-### VentureBeat
-![Sakana如何训练7B模型来协调GPT、Claude和Gemini LLM](https://images.ctfassets.net/jdtwqhzvc2n1/1Pjru88KYRcP7uhAUoAFdr/a8b3cbf6d225a6cc02672e589ca22917/RL_conductor.jpg?w=300&q=30)
-
-**[Sakana如何训练7B模型来协调GPT、Claude和Gemini LLM](https://venturebeat.com/orchestration/how-sakana-trained-a-7b-model-to-orchestrate-gpt-5-claude-sonnet-4-and-gemini-2-5-pro)**
-
-优于单个前沿模型，如**GPT**-5和**Claude** Sonnet 4 ，以及昂贵的人工设计的多代理管道5 Pro、**Claude**-Sonnet-4和**GPT**-5 ）和四个**开源**模型（包括**DeepSeek**-R1-Distill-Qwen-32B、Gemma3-27B和Qwen3-32B ）
-
-📅 Thu, 07 May 2026 21:23:46 GMT
-
----
-
-### VentureBeat
-![认识ZAYA1-8B ，这是一个在AMD Instinct MI300 GPU上训练的超高效、开放的推理模型](https://images.ctfassets.net/jdtwqhzvc2n1/3g0YSaIRPGTCOtaBzSDZ1L/64a806f337067d6d6a56be1a8acca4a1/ChatGPT_Image_May_7__2026__01_41_44_PM.png?w=300&q=30)
-
-**[认识ZAYA1-8B ，这是一个在AMD Instinct MI300 GPU上训练的超高效、开放的推理模型](https://venturebeat.com/technology/meet-zaya1-8b-a-super-efficient-open-reasoning-model-trained-on-amd-instinct-mi300-gpus)**
-
-尽管**OpenAI**和**Anthropic**等领先的人工智能提供商争夺计算能力，以进行更大规模的培训和**发布**，但ZAYA1-8B在第三方基准测试中与**GPT**-5-High和**DeepSeek**-V3保持了竞争力
-
-📅 Thu, 07 May 2026 18:24:00 GMT
-
----
-
-### VentureBeat
-![Anthropic引入了“梦想” ，这是一个让人工智能代理从自己的错误中学习的系统](https://images.ctfassets.net/jdtwqhzvc2n1/5I4zuQbx738JfOAQbToZdD/b5c7c367d367e55b484dc1480e399cba/Nuneybits_Vector_art_of_burnt-orange_moonlit_sleeper_dissolving_71200d84-78a7-48eb-890e-fb59ef136db1.webp?w=300&q=30)
-
-**[Anthropic引入了“梦想” ，这是一个让人工智能代理从自己的错误中学习的系统](https://venturebeat.com/technology/anthropic-introduces-dreaming-a-system-that-lets-ai-agents-learn-from-their-own-mistakes)**
-
-**Anthropic**周二在旧金山举行的第二届年度Code with **Claude**开发者大会上公布了其**Claude** Managed Agents平台的一系列**更新**。虽然该公司今年早些时候**推出**了代理内存（允许**Claude**在个人会话内和会话之间保留偏好和背景） ，但梦想在更高层次的抽象中发挥作用
-
-📅 Fri, 08 May 2026 00:09:35 GMT
-
----
-
-### VentureBeat
-![人类技能扫描仪通过了每次检查。恶意代码骑在一个测试文件上。](https://images.ctfassets.net/jdtwqhzvc2n1/3eiQaAvEWnRMH513Vmb1P8/2b8e1c66223d7d287d133e979511696c/HERO.png?w=300&q=30)
-
-**[人类技能扫描仪通过了每次检查。恶意代码骑在一个测试文件上。](https://venturebeat.com/security/anthropic-skill-scanners-passed-every-check-malicious-code-test-file)**
-
-**Claude** Code、Cursor和其他代理IDE将符号链接到自己的Skill目录中审计网格很**重要**，因为扫描仪模型不完整**Anthropic** Skills生态系统正在重复早期的npm供应链故事
-
-📅 Thu, 07 May 2026 07:00:00 GMT
-
----
-
 ### The Verge
-![Google Fitbit Air预订免费提供第二个乐队](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/fitbitairfog.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![人工智能数据中心的所有最新更新](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[Google Fitbit Air预订免费提供第二个乐队](https://www.theverge.com/gadgets/926766/google-fitbit-air-preorder-free-band-deal-sale)**
+**[人工智能数据中心的所有最新更新](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy)**
 
-|图片：谷歌的新款Fitbit Air ， $ 99 Air背后的团队也准备在iOS和Android上**推出**新的**Google** Health应用程序
+” Iran threatens **OpenAI**’s Stargate data center in Abu Dhabi Senators are pushing to find out how much electricity data centers actually use Arm’s first CPU ever will plug into **Meta**’s AI data centers later this year Lake Tahoe has to look for a **new** power source as data center demand soarsHow the spiraling Iran conflict could affect data centers and electricity costs Seven tech giants signed Trump’s pledge to keep electricity costs from spiking around data centers Trump claims tech companies will sign deals next week to pay for their own power supply **Anthropic** says it’ll try to keep its data centers from raising electricity costs How an ‘icepocalypse’ raises more questions about **Meta**’s biggest data center project Microsoft wants to rewire data centers to save space **new** York is considering two bills to rein in the AI industry Elon Musk is merging SpaceX and xAI to build data centers in space — or so he says It’s a **new** heyday for gas thanks to data centers Microsoft gets approval to build 15 data centers in Mount Pleasant
 
-📅 2026-05-08T15:39:43.000Z
+📅 2026-05-08T18:45:08.000Z
 
 ---
 
-### The Verge
-![微软担心OpenAI会跑到亚马逊和“shit-talk” Azure](https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/gettyimages-2153471300.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### VentureBeat
+![Anthropic表示，在“疯狂”增长80倍后，其收入运行率达到300 $](https://images.ctfassets.net/jdtwqhzvc2n1/3qloNl7y6W8aLaJNTzTXqd/e496756afa4789e88ca341be72f4547b/Nuneybits_Vector_art_of_a_retro_computer_with_a_graph_going_up__ca5ad9fd-fe3e-48ab-a2d3-f2ace34416ec.webp?w=300&q=30)
 
-**[微软担心OpenAI会跑到亚马逊和“shit-talk” Azure](https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure)**
+**[Anthropic表示，在“疯狂”增长80倍后，其收入运行率达到300 $](https://venturebeat.com/technology/anthropic-says-it-hit-a-30-billion-revenue-run-rate-after-crazy-80x-growth)**
 
-**OpenAI**首席执行官Sam Altman和微软首席技术官Kevin Scott微软首席执行官Satya Nadella和**OpenAI**首席执行官Sam Altman正处于建立人工智能合作伙伴关系的早期阶段
+在**Anthropic**本身，大多数代码现在由**Claude** Code编写最后一点可能是Amodei在会议上披露的最具启发性的细节：这是**Anthropic**自己的内部拉动请求由于**Claude**在公司自己的代码库上的工作而向上拐变的第一年
 
-📅 2026-05-08T15:25:02.000Z
+📅 Fri, 08 May 2026 21:45:20 GMT
+
+---
+
+### VentureBeat
+![Anthropic希望拥有您的代理的记忆、回避和协调，这应该会让企业感到紧张](https://images.ctfassets.net/jdtwqhzvc2n1/D0GSZK3z1kRMUMZ5S6AVG/d022b4a260c084315b3ecd9254baa0d5/crimedy7_illustration_of_a_robot_trying_to_remember_something_40ad3c2a-097e-454e-a646-8ef5b077c76e_1.png?w=300&q=30)
+
+**[Anthropic希望拥有您的代理的记忆、回避和协调，这应该会让企业感到紧张](https://venturebeat.com/orchestration/anthropic-wants-to-own-your-agents-memory-evals-and-orchestration-and-that-should-make-enterprises-nervous)**
+
+**Anthropic**设计了**Claude** Managed Agents ，在一个地方共享上下文、状态和可追溯性**Anthropic**和**OpenAI**等模型提供商已经开始积极推进这一领域
+
+📅 Fri, 08 May 2026 17:51:41 GMT
+
+---
+
+### VentureBeat
+![OpenAI将GPT-5级推理引入实时语音—它改变了语音代理实际可以协调的内容](https://images.ctfassets.net/jdtwqhzvc2n1/4fS8WkFKirUi9KqwhCb400/dba3dc0e8604c34ee39ee2e0fea8b1d8/crimedy7_illustration_of_a_robot_with_a_phone_--ar_169_--v_7_059ef1c1-2f5e-4009-ab54-acec406a8f5e_1.png?w=300&q=30)
+
+**[OpenAI将GPT-5级推理引入实时语音—它改变了语音代理实际可以协调的内容](https://venturebeat.com/orchestration/openai-brings-gpt-5-class-reasoning-to-real-time-voice-and-it-changes-what-voice-agents-can-actually-orchestrate)**
+
+**OpenAI**的三种新语音模型旨在减少开销该公司在一篇博客文章中表示， Realtime-2是其首款“采用**GPT**-5类推理”的语音模型，可以处理困难的请求并保持对话自然流畅
+
+📅 Fri, 08 May 2026 21:41:21 GMT
+
+---
+
+### VentureBeat
+![5000个vibe编码的应用程序刚刚证明了影子人工智能是新的S3桶危机](https://images.ctfassets.net/jdtwqhzvc2n1/3H8BkMlVjetAGClhRKtmFK/533b657c9dd2b63819c0db0d2f8c6559/5_000_vibe-coded_apps_just_proved_shadow_AI_is_the_new_S3_bucket_crisis.png?w=300&q=30)
+
+**[5000个vibe编码的应用程序刚刚证明了影子人工智能是新的S3桶危机](https://venturebeat.com/security/vibe-coded-apps-shadow-ai-s3-bucket-crisis-ciso-audit-framework)**
+
+Gartner发现了一类新的缺陷，即人工智能生成的代码在语法上是正确的，但缺乏对更广泛的系统架构和细致入微的业务规则的认识企业环境中8%的Chat**GPT**工作场所帐户未经授权
+
+📅 Fri, 08 May 2026 20:57:01 GMT
 
 ---
 
@@ -276,18 +265,16 @@ Gartner估计，人工智能基础设施今年将增加4010亿美元的新支出
 
 ---
 
-## 📦 GitHub热门
+### Ars Technica
+**[课程更正：谷歌将在AI概览中链接更多来源](https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/)**
 
-### GitHub Active (Python)
-![pywechat: 仍然可用的微信RPA！支持4.0系列微信pywechat是一个基于pywinauto实现的windows桌面微信自动化操作工具，基本实现了PC微信内置的各项操作。](https://avatars.githubusercontent.com/u/161811788?v=4)
+谷歌的人工智能搜索将开始以几种新的方式引用其来源。
 
-**[pywechat: 仍然可用的微信RPA！支持4.0系列微信pywechat是一个基于pywinauto实现的windows桌面微信自动化操作工具，基本实现了PC微信内置的各项操作。](https://github.com/Hello-Mr-Crab/pywechat)**
-
-⭐ 1,392 star · 362 fork · Python · 仍然可用的微信RPA0系列微信pywechat是一个基于pywinauto实现的windows桌面微信自动化操作工具，基本实现了PC微信内置的各项操作
-
-📅 2026-05-08T16:18:31Z
+📅 Fri, 08 May 2026 19:43:47 +0000
 
 ---
+
+## 📦 GitHub热门
 
 ### GitHub New (New AI)
 ![🆕 轴突：轴突](https://avatars.githubusercontent.com/u/279453501?v=4)
@@ -301,24 +288,35 @@ Gartner估计，人工智能基础设施今年将增加4010亿美元的新支出
 ---
 
 ### GitHub New (New AI)
-![🆕 sagent ：强类型的Python-first库和CLI ，适用于具有Erlang根和愿望的多提供商、多代理编码LLM。](https://avatars.githubusercontent.com/u/268722896?v=4)
+![🆕 discord-translator-bot ：使用Google Gemini API的Discord翻译机器人](https://avatars.githubusercontent.com/u/240902345?v=4)
 
-**[🆕 sagent ：强类型的Python-first库和CLI ，适用于具有Erlang根和愿望的多提供商、多代理编码LLM。](https://github.com/rekursiv-ai/sagent)**
+**[🆕 discord-translator-bot ：使用Google Gemini API的Discord翻译机器人](https://github.com/testerxma/discord-translator-bot)**
 
-⭐ 7 star (新项目) · Python · Strongly typed Python-first library and CLI for multi-provider, multi-agent coding LLMs with Erlang roots and aspirations
+⭐ 2 star (新项目) · Python · Discord Translator Bot using **Google** **Gemini** API
 
-📅 2026-05-05T16:09:51Z
+📅 2026-05-07T15:43:57Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 CrustAI ：使用Telegram、Discord、WhatsApp和Slack的本地第一个人工智能助手](https://avatars.githubusercontent.com/u/109705197?v=4)
+![🆕 Battle-Royal ：开发3D Battle Royale风格的游戏，专注于逼真的游戏玩法、战斗机制、玩家动作、敌人AI和沉浸式环境。](https://avatars.githubusercontent.com/u/159158769?v=4)
 
-**[🆕 CrustAI ：使用Telegram、Discord、WhatsApp和Slack的本地第一个人工智能助手](https://github.com/DaveSimoes/CrustAI)**
+**[🆕 Battle-Royal ：开发3D Battle Royale风格的游戏，专注于逼真的游戏玩法、战斗机制、玩家动作、敌人AI和沉浸式环境。](https://github.com/Mahak-0101/Battle-Royal)**
 
-⭐ 5 star (新项目) · JavaScript · Private, local-first AI assistant with Telegram, Discord, WhatsApp and Slack
+⭐ 1 star (新项目) · GDScript · Developing a 3D Battle Royale style game focused on realistic gameplayenemy AI
 
-📅 2026-05-05T01:52:39Z
+📅 2026-05-08T11:19:01Z
+
+---
+
+### GitHub New (New AI)
+![🆕 HT-SmartSales ：具有稳定、智能对话系统的生产就绪AI售前自动化。系统提取客户需求，智能呈现服务。基于RAG的知识库，自动生成提案。](https://avatars.githubusercontent.com/u/210468848?v=4)
+
+**[🆕 HT-SmartSales ：具有稳定、智能对话系统的生产就绪AI售前自动化。系统提取客户需求，智能呈现服务。基于RAG的知识库，自动生成提案。](https://github.com/AaronWander/HT-SmartSales)**
+
+⭐ 1 star (新项目) · Python · Production-ready AI presales automation with stable, intelligent dialogue systemSystematically extracts customer requirements and intelligently presents services
+
+📅 2026-05-08T08:27:16Z
 
 ---
 
@@ -329,7 +327,7 @@ Gartner估计，人工智能基础设施今年将增加4010亿美元的新支出
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-05-08T16:16:32.236Z
+📅 2026-05-08T23:58:47.039Z
 
 ---
 
@@ -338,34 +336,43 @@ Gartner估计，人工智能基础设施今年将增加4010亿美元的新支出
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-05-08T16:17:53.860Z
+📅 2026-05-09T00:00:06.707Z
 
 ---
 
 ### Hacker News
-**[Show HN: Git for AI Agent](https://github.com/regent-vcs/re_gent)**
+**[Meta关闭Instagram消息的端到端加密](https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging)**
 
-一直在研究我认为在今天的工作流程中根本缺少的东西， ai agentsi开发了一个**开源**解决方案（目前支持**Claude**代码） ，希望获得反馈
+文章网址： https://wwwcom/**new**s/**Meta**-shuts-down-end-to-end-encryption-for-instagram-dms-messaging评论网址： https://**new**s
 
-📅 Fri, 08 May 2026 14:15:36 +0000
+📅 Fri, 08 May 2026 21:47:47 +0000
 
 ---
 
 ### Hacker News
-**[Google Cloud Fraud Defence刚刚重新打包了WEI](https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/)**
+**[谷歌为取消谷歌搜索的安卓用户打破了reCAPTCHA](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users)**
 
-文章网址： https://privatecaptchacom/blog/**Google**-cloud-fraud-defence-wei/评论网址： https://**new**s
+相关：谷歌云欺诈防御， reCAPTCHA的下一次演变- https://**new**sid = 48039362另：谷歌云欺诈防御刚刚重新打包- https://**new**s
 
-📅 Fri, 08 May 2026 13:56:10 +0000
+📅 Fri, 08 May 2026 18:45:58 +0000
 
 ---
 
 ### Hacker News AI
-**[显示HN ： Stagewise –您的Z.ai/DeepSeek/Moonshot订阅的Agentic IDE](https://github.com/stagewise-io/stagewise/blob/main/README.md)**
+**[DeepSeek寻求450亿美元估值融资，因中国支持本土人工智能竞争对手](https://theaiinsider.tech/2026/05/08/deepseek-seeks-first-outside-funding-at-45b-valuation-as-china-backs-homegrown-ai-rival/)**
 
-文章网址： https://githubcom/stagewise-io/stagewise/blob/main/README
+文章网址： https://theaiinsidertech/2026/05/08/**DeepSeek**-seeks-first-outside-funding-at-45b-valuation-as-china-backs-homegrown-ai-rival/评论网址： https://**new**s
 
-📅 Fri, 08 May 2026 15:30:22 +0000
+📅 Fri, 08 May 2026 23:14:08 +0000
+
+---
+
+### Hacker News AI
+**[告诉HN ：用人工智能模型祈祷是不理想的](https://news.ycombinator.com/item?id=48068661)**
+
+但最近我觉得Chat**GPT**的输出让我缺少Chat**GPT**创建了这个列表，但是当我祈祷这个列表时，我觉得当我祈祷这个列表的结果时，圣灵不存在
+
+📅 Fri, 08 May 2026 20:54:28 +0000
 
 ---
 
@@ -374,7 +381,7 @@ Gartner估计，人工智能基础设施今年将增加4010亿美元的新支出
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-05-08T16:16:32.236Z
+📅 2026-05-08T23:58:47.039Z
 
 ---
 
@@ -383,16 +390,7 @@ Title: 520: Web服务器返回未知错误
 
 警告：目标URL返回错误520 ：
 
-📅 2026-05-08T16:16:32.236Z
-
----
-
-### X: OpenAI
-**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Markdown 内容
-
-📅 2026-05-08T16:16:32.236Z
+📅 2026-05-08T23:58:47.039Z
 
 ---
 
