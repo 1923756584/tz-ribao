@@ -1,12 +1,12 @@
 ---
 title: "2026年5月9日 - TZ日报"
-date: 2026-05-09T15:58:28.651Z
+date: 2026-05-09T23:51:02.502Z
 draft: false
 ---
 
 # 2026年5月9日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/5/9 15:58:28
+> 📊 今日汇总 38 条 · 🕐 2026/5/9 23:51:02
 
 ---
 
@@ -46,15 +46,6 @@ draft: false
 每个人都想要一块企业AI馅饼，本周，我们看到一系列公司采取行动从**Anthropic**和**OpenAI**宣布针对企业AI部署的新合资企业到SAP在德国人工智能初创公司Prior Labs上投资$ 10亿
 
 📅 Fri, 08 May 2026 15:46:17 +0000
-
----
-
-### TechCrunch AI Products
-**[OpenAI为可能的自我伤害案件引入了新的「信任联系人」保障措施](https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/)**
-
-该公司正在加大努力，在谈话可能变成自我伤害的情况下保护Chat**GPT**用户
-
-📅 Thu, 07 May 2026 20:20:20 +0000
 
 ---
 
@@ -103,14 +94,21 @@ Simplex通过Chat**GPT** Enterprise和Codex促进软件开发，缩短设计、�
 
 ---
 
-### Google AI Blog
-![您可以在搜索结果中尝试的5个园艺技巧](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01-Google_Gardening_Header.max-600x600.format-webp.webp)
+### TechCrunch AI Products
+**[英伟达今年已承诺向股权AI交易投入400 $](https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/)**
 
-**[您可以在搜索结果中尝试的5个园艺技巧](https://blog.google/products-and-platforms/products/search/gardening-tips/)**
+英伟达仍然是人工智能生态系统的大投资者。
 
-我们汇总了您可以使用谷歌人工智能模式、搜索直播和购物的主要方式，以帮助您的植物茁壮成长
+📅 Sat, 09 May 2026 14:43:30 +0000
 
-📅 Wed, 06 May 2026 16:00:00 +0000
+---
+
+### TechCrunch AI Products
+**[OpenAI在其API中推出新的语音智能功能](https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/)**
+
+这些新功能对于客户服务系统来说可能很方便，但**OpenAI**表示，他们的应用程序可以跨越其他各个领域
+
+📅 Thu, 07 May 2026 22:24:50 +0000
 
 ---
 
@@ -122,6 +120,15 @@ Simplex通过Chat**GPT** Enterprise和Codex促进软件开发，缩短设计、�
 在埃隆·马斯克（ Elon Musk ）和**OpenAI**之间具有里程碑意义的审判的第二周，马斯克提起诉讼的动机受到审查，称**OpenAI**首席执行官萨姆·奥尔特曼（ Sam Altman ）和总裁格雷格·布罗克曼（ Greg Brockman ）欺骗他向公司捐赠了3800万美元$
 
 📅 Fri, 08 May 2026 23:59:19 +0000
+
+---
+
+### Science AI
+**[在美国农业部的要求下，印第安纳州植物生物学家被学校拒之门外](https://www.science.org/content/article/after-usda-request-indiana-plant-biologist-locked-out-lab-school)**
+
+此前，罗杰·英尼斯（ Roger Innes ）抱怨政府起诉中国博士后
+
+📅 2026-05-09T01:55:31.000Z
 
 ---
 
@@ -176,15 +183,6 @@ Katherine Yelick将于7月1日成为能源部劳伦斯伯克利国家实验室�
 该项目带来了收入和电力，同时保护了大片热带森林
 
 📅 2026-05-07T02:00:00.000Z
-
----
-
-### Science AI
-**[古代冰芯可以帮助解释地球冰河时代的神秘转变](https://www.science.org/content/article/ancient-ice-core-could-help-explain-mysterious-shift-earth-s-ice-ages)**
-
-创纪录的南极档案揭示了100万年前二氧化碳的急剧波动
-
-📅 2026-05-07T11:45:00.000Z
 
 ---
 
@@ -256,23 +254,21 @@ Gartner估计，人工智能基础设施今年将增加4010亿美元的新支出
 
 ---
 
-### VentureBeat
-![治理而非守门： SAP如何将企业级安全性引入人工智能连接](https://images.ctfassets.net/jdtwqhzvc2n1/2ULwo7S7AVJd9EdiIMCoeF/d4af5ac9e026996471370953b888067e/AdobeStock_713835935__1_.jpeg?w=300&q=30)
-
-**[治理而非守门： SAP如何将企业级安全性引入人工智能连接](https://venturebeat.com/orchestration/governance-not-gatekeeping-how-sap-brings-enterprise-grade-safety-to-ai-connectivity)**
-
-它们的设计目的不是让自主人工智能编排工具对他们进行数千次连续调用，以追求由客户需求优先编码的商业模式的语义上下文，并随着新模式的验证而**更新**
-
-📅 Fri, 08 May 2026 07:00:00 GMT
-
----
-
 ### Wired Technology
 **[可破解机器人割草机解锁全新噩梦](https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/)**
 
 此外： **Meta**正式杀死加密的Instagram DM特朗普政府针对“暴力的左翼极端分子”
 
 📅 Sat, 09 May 2026 10:30:00 +0000
+
+---
+
+### Ars Technica
+**[课程更正：谷歌将在AI概览中链接更多来源](https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/)**
+
+谷歌的人工智能搜索将开始以几种新的方式引用其来源。
+
+📅 Fri, 08 May 2026 19:43:47 +0000
 
 ---
 
@@ -286,6 +282,17 @@ Gartner估计，人工智能基础设施今年将增加4010亿美元的新支出
 ⭐ 23 star (新项目) · N/A · axon
 
 📅 2026-05-09T12:13:13Z
+
+---
+
+### GitHub New (New AI)
+![🆕 FaceMatch-AI ： FaceMatch AI是一个智能面部比较平台，通过高级人工智能识别分析两张上传的照片，以检测面部相似性。它通过现代化的交互式用户体验提供详细的匹配洞察、视觉人脸分析、置信度评估和实时比较结果。](https://avatars.githubusercontent.com/u/146540460?v=4)
+
+**[🆕 FaceMatch-AI ： FaceMatch AI是一个智能面部比较平台，通过高级人工智能识别分析两张上传的照片，以检测面部相似性。它通过现代化的交互式用户体验提供详细的匹配洞察、视觉人脸分析、置信度评估和实时比较结果。](https://github.com/RajdeepChoudhury/FaceMatch-AI)**
+
+⭐ 5 star (新项目) · CSS · FaceMatch AI is an intelligent facial comparison platform that analyzes two uploaded photos to detect facial similarity with advanced AI powered recognitionIt provides detailed match insights
+
+📅 2026-05-09T20:56:18Z
 
 ---
 
@@ -311,17 +318,6 @@ Gartner估计，人工智能基础设施今年将增加4010亿美元的新支出
 
 ---
 
-### GitHub New (New AI)
-![🆕 Real-Time-Fire-Detection-Using-YOLOv8-and-OpenCV ：使用YOLOv8、OpenCV和计算机视觉技术的基于深度学习的实时火灾探测和智能监控系统。](https://avatars.githubusercontent.com/u/165411302?v=4)
-
-**[🆕 Real-Time-Fire-Detection-Using-YOLOv8-and-OpenCV ：使用YOLOv8、OpenCV和计算机视觉技术的基于深度学习的实时火灾探测和智能监控系统。](https://github.com/Ghayoor-105/Real-Time-Fire-Detection-Using-YOLOv8-and-OpenCV)**
-
-⭐ 1 star (新项目) · Python · Deep Learning-based real-time fire detection and intelligent surveillance system using YOLOv8and Computer Vision techniques
-
-📅 2026-05-09T10:54:50Z
-
----
-
 ## 💬 社交动态
 
 ### X: OpenAI
@@ -329,7 +325,7 @@ Gartner估计，人工智能基础设施今年将增加4010亿美元的新支出
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-05-09T15:55:23.593Z
+📅 2026-05-09T23:48:11.781Z
 
 ---
 
@@ -338,25 +334,25 @@ Gartner估计，人工智能基础设施今年将增加4010亿美元的新支出
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-05-09T15:56:43.758Z
+📅 2026-05-09T23:49:31.440Z
 
 ---
 
 ### Hacker News
-**[GrapheneOS修复了Google拒绝修补的Android VPN泄漏](https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/)**
+**[Meta对人工智能的拥抱让其员工痛苦不堪](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)**
 
-文章网址： https://cyberinsidercom/grapheneos-fixes-android-vpn-leak-**Google**-refused-to-patch/评论网址： https://**new**s
+com/2026/05/08/technology/**Meta**-ai-employees-miserablehtml评论网址： https://**new**s
 
-📅 Sat, 09 May 2026 14:11:10 +0000
+📅 Sat, 09 May 2026 18:33:36 +0000
 
 ---
 
-### Hacker News
-**[使用Claude Code ： HTML不合理的效果](https://twitter.com/trq212/status/2052809885763747935)**
+### Hacker News AI
+**[Show HN ： AI设计品味– Design.md生成器](https://chromewebstore.google.com/detail/ai-design-taste-designmd/peclkdlolmcclhhgpoehpikgknbmkknc)**
 
-示例： https://thariqs评论网址： https://**new**s
+文章网址： https://chromewebstorecom/detail/ai-design-taste-designmd/peclkdlolmcclhhgpoehpikgknbmkknc评论网址： https://**new**s
 
-📅 Sat, 09 May 2026 04:53:52 +0000
+📅 Sat, 09 May 2026 20:52:59 +0000
 
 ---
 
@@ -365,7 +361,7 @@ Gartner估计，人工智能基础设施今年将增加4010亿美元的新支出
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-05-09T15:55:23.593Z
+📅 2026-05-09T23:48:11.781Z
 
 ---
 
@@ -374,7 +370,7 @@ Title: 520: Web服务器返回未知错误
 
 警告：目标URL返回错误520 ：
 
-📅 2026-05-09T15:55:23.593Z
+📅 2026-05-09T23:48:11.781Z
 
 ---
 
@@ -383,7 +379,7 @@ Title: 520: Web服务器返回未知错误
 
 Markdown 内容
 
-📅 2026-05-09T15:55:23.593Z
+📅 2026-05-09T23:48:11.781Z
 
 ---
 
@@ -392,7 +388,7 @@ Markdown 内容
 
 # twitter.com | 520 ： Web服务器返回未知错误
 
-📅 2026-05-09T15:55:23.593Z
+📅 2026-05-09T23:48:11.781Z
 
 ---
 
