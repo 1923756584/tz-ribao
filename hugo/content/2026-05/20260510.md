@@ -1,12 +1,12 @@
 ---
 title: "2026年5月10日 - TZ日报"
-date: 2026-05-10T15:59:01.290Z
+date: 2026-05-10T23:57:16.586Z
 draft: false
 ---
 
 # 2026年5月10日 - TZ日报
 
-> 📊 今日汇总 36 条 · 🕐 2026/5/10 15:59:01
+> 📊 今日汇总 36 条 · 🕐 2026/5/10 23:57:16
 
 ---
 
@@ -21,6 +21,15 @@ draft: false
 ---
 
 ## ✨ 产品更新
+
+### TechCrunch AI Products
+**[Anthropic说，对人工智能的“邪恶”描绘是克劳德试图勒索的原因](https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/)**
+
+根据**Anthropic**的说法，对人工智能的虚构描绘可以对人工智能模型产生真正的影响
+
+📅 Sun, 10 May 2026 20:40:41 +0000
+
+---
 
 ### TechCrunch AI Products
 **[“人民航空公司”与企业AI淘金热](https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/)**
@@ -70,11 +79,11 @@ draft: false
 ---
 
 ### Hugging Face
-**[“OncoAgent ：保护隐私的肿瘤临床决策支持双层多代理框架”](https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper)**
+**[MachinaCheck ：在AMD MI300X上构建多代理数控制造系统](https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck)**
 
-“OncoAgent ：保护隐私的肿瘤临床决策支持双层多代理框架”
+MachinaCheck ：在AMD MI300X上构建多代理数控制造系统
 
-📅 Sat, 09 May 2026 18:09:28 GMT
+📅 Sun, 10 May 2026 18:44:11 GMT
 
 ---
 
@@ -88,29 +97,20 @@ EMO ：对专家进行预培训，以实现新兴的模块化
 ---
 
 ### TechCrunch AI Products
+**[为未来充满低语的办公室做好准备](https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/)**
+
+如果我们花越来越多的时间与电脑交谈，工作设置将如何变化？
+
+📅 Sun, 10 May 2026 21:15:30 +0000
+
+---
+
+### TechCrunch AI Products
 **[语音人工智能在印度很难。无论如何， Wispr Flow都在押注它。](https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/)**
 
 Wispr Flow表示，尽管语音人工智能产品继续面临挑战，但Hinglish**推出**后印度的增长速度加快
 
 📅 Sun, 10 May 2026 02:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[所以你已经听过这些人工智能术语并点了点头；让我们来解决这个问题](https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)**
-
-人工智能的兴起带来了大量的新术语和俚语这里是一个术语表，其中包含您可能遇到的一些最**重要**的单词和短语的定义
-
-📅 Sat, 09 May 2026 21:45:00 +0000
-
----
-
-### TechCrunch AI Products
-**[被解雇的甲骨文员工试图通过谈判获得更好的遣散费。甲骨文拒绝了。 ](https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/)**
-
-有些人发现，由于公司将他们归类为远程工作者，他们不符合WARN法案的保护条件，例如提前两个月通知
-
-📅 Fri, 08 May 2026 22:59:05 +0000
 
 ---
 
@@ -216,17 +216,6 @@ Gartner发现了一类新的缺陷，即人工智能生成的代码在语法上�
 
 ---
 
-### VentureBeat
-![5% GPU利用率：企业不能忽视4010亿美元的人工智能基础设施问题](https://images.ctfassets.net/jdtwqhzvc2n1/689tH0bKXw4yNCgbnTOvvA/8e7387c8db90ccb74b93fb52c5cc5e23/Gemini_Generated_Image_catf9dcatf9dcatf.png?w=300&q=30)
-
-**[5% GPU利用率：企业不能忽视4010亿美元的人工智能基础设施问题](https://venturebeat.com/infrastructure/5-gpu-utilization-the-401-billion-ai-infrastructure-problem-enterprises-cant-keep-ignoring)**
-
-Gartner估计，人工智能基础设施今年将增加4010亿美元的新支出培训甚至微调都是一个战术项目；推断是一种战略商业模式
-
-📅 Fri, 08 May 2026 13:00:00 GMT
-
----
-
 ### Wired Technology
 **[可破解机器人割草机解锁全新噩梦](https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/)**
 
@@ -251,6 +240,17 @@ Gartner估计，人工智能基础设施今年将增加4010亿美元的新支出
 以前的Microsoft Office套件（包括Word、Excel和PowerPoint ）现在需要订阅-但有一些简单的方法可以免费获取
 
 📅 Sun, 10 May 2026 08:00:36 GMT
+
+---
+
+### VentureBeat
+![AI工具中毒暴露企业代理安全重大缺陷](https://images.ctfassets.net/jdtwqhzvc2n1/6ggWhzY5IOc1GZhHi8yjg9/860c58ac3d41665b999f512e5da00122/u7277289442_Modern_interpretation_of_security._A_lock_against_aa6215fa-b75e-42c3-b879-bc4f60cf142e_0.png?w=300&q=30)
+
+**[AI工具中毒暴露企业代理安全重大缺陷](https://venturebeat.com/security/ai-tool-poisoning-exposes-a-major-flaw-in-enterprise-agent-security)**
+
+我在CoSAI安全工具存储库中提交Issue # 141时发现了这个漏洞。存储库维护者以不同的方式看待它，并将我的提交分为两个单独的问题：一个涉及选择时间威胁（工具模拟
+
+📅 Sun, 10 May 2026 17:22:13 GMT
 
 ---
 
@@ -290,33 +290,24 @@ Gartner估计，人工智能基础设施今年将增加4010亿美元的新支出
 ---
 
 ### GitHub New (New AI)
-![🆕 discord-translator-bot ：使用Google Gemini API的Discord翻译机器人](https://avatars.githubusercontent.com/u/240902345?v=4)
+![🆕 Friday-Autonomous-Cognitive-AI-Operating-System ： FRIDAY是一款用于记忆、推理、语音、网络安全和自我提升的自主认知AI操作系统。它在本地运行，旨在向一般智力发展。由一位自学成才的17岁开发商建造。](https://avatars.githubusercontent.com/u/260819914?v=4)
 
-**[🆕 discord-translator-bot ：使用Google Gemini API的Discord翻译机器人](https://github.com/testerxma/discord-translator-bot)**
+**[🆕 Friday-Autonomous-Cognitive-AI-Operating-System ： FRIDAY是一款用于记忆、推理、语音、网络安全和自我提升的自主认知AI操作系统。它在本地运行，旨在向一般智力发展。由一位自学成才的17岁开发商建造。](https://github.com/subhansh-dev/Friday-Autonomous-Cognitive-AI-Operating-System)**
 
-⭐ 2 star (新项目) · Python · Discord Translator Bot using **Google** **Gemini** API
+⭐ 2 star (新项目) · Python · FRIDAY is an autonomous cognitive AI operating system for memory, reasoning, voice, cybersecurity, and self-improvementIt runs locally and is designed to move toward general intelligence
 
-📅 2026-05-07T15:43:57Z
+📅 2026-05-10T19:38:04Z
 
 ---
 
 ## 💬 社交动态
-
-### Hacker News
-**[Chrome的AI功能可能会占用4GB的计算机存储空间](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features)**
-
-文章网址： https://wwwcom/tech/924933/**Google**-chrome-4gb-**Gemini**-nano-ai-features评论网址： https://**new**s
-
-📅 Sun, 10 May 2026 15:22:46 +0000
-
----
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-05-10T15:56:25.296Z
+📅 2026-05-10T23:54:16.776Z
 
 ---
 
@@ -325,25 +316,16 @@ Gartner估计，人工智能基础设施今年将增加4010亿美元的新支出
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-05-10T15:57:20.559Z
-
----
-
-### Hacker News
-**[Claude Code的学术研究技能](https://github.com/Imbad0202/academic-research-skills)**
-
-文章网址： https://githubcom/Imbad0202/academic-research-skills评论网址： https://**new**s
-
-📅 Sun, 10 May 2026 13:42:00 +0000
+📅 2026-05-10T23:55:36.390Z
 
 ---
 
 ### Hacker News AI
-**[微软负责人： “人工智能永远不会取代程序员，原因如下” [视频]](https://www.youtube.com/watch?v=CPrePbvbbic)**
+**[Chris Hohn的基金大幅削减微软$ 80亿股权，警告人工智能颠覆](https://www.ft.com/content/639703f3-064c-4065-96dc-11a9dfd6d83c)**
 
-文章网址： https://wwwv = CPrePbvbic评论网址： https://**new**s
+文章网址： https://wwwcom/content/639703f3-064c-4065-96dc-11a9dfd6d83c评论网址： https://**new**s
 
-📅 Sun, 10 May 2026 15:42:55 +0000
+📅 Sun, 10 May 2026 22:00:48 +0000
 
 ---
 
@@ -352,7 +334,7 @@ Gartner估计，人工智能基础设施今年将增加4010亿美元的新支出
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-05-10T15:56:25.296Z
+📅 2026-05-10T23:54:16.776Z
 
 ---
 
@@ -361,7 +343,7 @@ Title: 520: Web服务器返回未知错误
 
 警告：目标URL返回错误520 ：
 
-📅 2026-05-10T15:56:25.296Z
+📅 2026-05-10T23:54:16.776Z
 
 ---
 
@@ -370,7 +352,25 @@ Title: 520: Web服务器返回未知错误
 
 Markdown 内容
 
-📅 2026-05-10T15:56:25.296Z
+📅 2026-05-10T23:54:16.776Z
+
+---
+
+### X: OpenAI
+**[# twitter.com | 520 ： Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+# twitter.com | 520 ： Web服务器返回未知错误
+
+📅 2026-05-10T23:54:16.776Z
+
+---
+
+### X: Sam Altman
+**[网址来源： http://twitter.com/sama](https://r.jina.ai/http://twitter.com/sama)**
+
+网址来源： http://twitter.com/sama
+
+📅 2026-05-10T23:54:32.584Z
 
 ---
 
