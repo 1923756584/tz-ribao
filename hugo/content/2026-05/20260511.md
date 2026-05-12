@@ -1,12 +1,12 @@
 ---
 title: "2026年5月11日 - TZ日报"
-date: 2026-05-11T17:31:03.889Z
+date: 2026-05-12T00:02:50.980Z
 draft: false
 ---
 
 # 2026年5月11日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/5/11 17:31:03
+> 📊 今日汇总 38 条 · 🕐 2026/5/12 00:02:50
 
 ---
 
@@ -28,6 +28,15 @@ draft: false
 根据**Anthropic**的说法，对人工智能的虚构描绘可以对人工智能模型产生真正的影响
 
 📅 Sun, 10 May 2026 20:40:41 +0000
+
+---
+
+### OpenAI Blog
+**[2026年初ChatGPT的采用范围扩大](https://openai.com/signals/research/2026q1-update)**
+
+Chat**GPT**的采用率在2026年第一季度飙升， 35岁以上用户增长最快，性别使用更加平衡，标志着主流人工智能的采用率更高
+
+📅 Mon, 11 May 2026 15:00:00 GMT
 
 ---
 
@@ -87,30 +96,21 @@ OpenAI**推出**DeployCoa新企业部署公司，旨在帮助组织将前沿人�
 
 ---
 
+### Hugging Face
+**[AWS基础模型培训和推理的构建模块](https://huggingface.co/blog/amazon/foundation-model-building-blocks)**
+
+AWS基础模型培训和推理的构建模块
+
+📅 Mon, 11 May 2026 23:18:26 GMT
+
+---
+
 ### TechCrunch AI Products
 **[Digg再次尝试，这次是作为AI新闻聚合器](https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/)**
 
-Digg （再次）返回作为阅读人工智能新闻的另一个地方。
+在给beta测试人员的电子邮件中，该公司表示，该网站的目标是“跟踪空间中最具影响力的声音” ，并展示实际上值得“关注”的新闻
 
 📅 Mon, 11 May 2026 17:02:35 +0000
-
----
-
-### TechCrunch AI Products
-**[太空数据中心没有足够的火箭— Cowboy Space筹集了2.75亿美元建造它们](https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/)**
-
-牛仔航天公司希望将数据中心送入轨道首先，它必须建造火箭才能到达那里
-
-📅 Mon, 11 May 2026 13:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[为未来充满低语的办公室做好准备](https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/)**
-
-如果我们花越来越多的时间与电脑交谈，工作设置将如何变化？
-
-📅 Sun, 10 May 2026 21:15:30 +0000
 
 ---
 
@@ -190,67 +190,34 @@ Digg （再次）返回作为阅读人工智能新闻的另一个地方。
 
 ## 🌍 行业展望
 
-### The Verge
-![乔安娜·斯特恩不是机器人，但她和他们住在一起](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/DCD_joanna_stern.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[乔安娜·斯特恩不是机器人，但她和他们住在一起](https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation)**
-
-谷歌不得不这样做，因为他们感到受到Chat**GPT**的威胁。但是，如果您打开免费版本的Chat**GPT** ，您会得到一些运行成本低廉的人工智能模型，这是每次查询结束时的一堆参与提示
-
-📅 2026-05-11T14:00:00.000Z
-
----
-
 ### VentureBeat
-![Anthropic表示，在“疯狂”增长80倍后，其收入运行率达到300 $](https://images.ctfassets.net/jdtwqhzvc2n1/3qloNl7y6W8aLaJNTzTXqd/e496756afa4789e88ca341be72f4547b/Nuneybits_Vector_art_of_a_retro_computer_with_a_graph_going_up__ca5ad9fd-fe3e-48ab-a2d3-f2ace34416ec.webp?w=300&q=30)
+![Thinking Machines通过新的“交互模型”展示了近乎实时的人工智能语音和视频对话的预览](https://images.ctfassets.net/jdtwqhzvc2n1/5BWK9miUy4VHD931SGXpLr/92c6cce24db934192796012e399015aa/ChatGPT_Image_May_11__2026__06_07_19_PM.png?w=300&q=30)
 
-**[Anthropic表示，在“疯狂”增长80倍后，其收入运行率达到300 $](https://venturebeat.com/technology/anthropic-says-it-hit-a-30-billion-revenue-run-rate-after-crazy-80x-growth)**
+**[Thinking Machines通过新的“交互模型”展示了近乎实时的人工智能语音和视频对话的预览](https://venturebeat.com/technology/thinking-machines-shows-off-preview-of-near-realtime-ai-voice-and-video-conversation-with-new-interaction-models)**
 
-在**Anthropic**本身，大多数代码现在由**Claude** Code编写最后一点可能是Amodei在会议上披露的最具启发性的细节：这是**Anthropic**自己的内部拉动请求由于**Claude**在公司自己的代码库上的工作而向上拐变的第一年
+一类新的原生多模式系统，将交互性视为模型架构的一流公民，而不是外部软件“利用尚不清楚这些新的交互模型模型是否属于相同的精神和**发布**条款
 
-📅 Fri, 08 May 2026 21:45:20 GMT
+📅 Mon, 11 May 2026 22:21:02 GMT
 
 ---
 
 ### The Verge
-![伊隆·马斯克（ Elon Musk ）和萨姆·奥尔特曼（ Sam Altman ）就OpenAI的未来进行的法庭](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![OpenAI刚刚发布了对Claude Mythos的回答](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[伊隆·马斯克（ Elon Musk ）和萨姆·奥尔特曼（ Sam Altman ）就OpenAI的未来进行的法庭](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)**
+**[OpenAI刚刚发布了对Claude Mythos的回答](https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai)**
 
-**OpenAI**表示， “这起诉讼一直是毫无根据和嫉妒的企图让竞争对手脱轨” ，目的是推动马斯克自己的SpaceX/xAI/X公司，这些公司今天早上本着澄清的精神将Grok作为Chat**GPT**A的竞争对手**推出**…… Zilis表示，她对**OpenAI**董事会没有在ChatGPT**发布**之前得到通知表示严重担忧
+Daybreak使用3月份**推出**的Codex Security AI代理，根据组织的代码创建威胁模型，并专注于可能的攻击路径在竞争对手**Anthropic**宣布**Claude** Mythos的一个多月后**推出**
 
-📅 2026-05-11T15:27:12.000Z
-
----
-
-### ZDNet AI
-**[我测试了Gemini、ChatGPT和Claude是否可以分析视频-这一个赢了](https://www.zdnet.com/article/can-gemini-chatgpt-claude-analyze-video-this-one-wins-test/)**
-
-人工智能真的能看视频吗，还是只是假的？我在YouTube剪辑和本地文件上测试了我最喜欢的人工智能工具，以找到获胜者
-
-📅 Mon, 11 May 2026 12:34:46 GMT
+📅 2026-05-11T23:05:01.000Z
 
 ---
 
-### VentureBeat
-![OpenAI将GPT-5级推理引入实时语音—它改变了语音代理实际可以协调的内容](https://images.ctfassets.net/jdtwqhzvc2n1/4fS8WkFKirUi9KqwhCb400/dba3dc0e8604c34ee39ee2e0fea8b1d8/crimedy7_illustration_of_a_robot_with_a_phone_--ar_169_--v_7_059ef1c1-2f5e-4009-ab54-acec406a8f5e_1.png?w=300&q=30)
+### Wired Technology
+**[Ilya Sutskever坚持他在Sam Altman的OpenAI Ouster中的角色： “我不希望它被摧毁”](https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/)**
 
-**[OpenAI将GPT-5级推理引入实时语音—它改变了语音代理实际可以协调的内容](https://venturebeat.com/orchestration/openai-brings-gpt-5-class-reasoning-to-real-time-voice-and-it-changes-what-voice-agents-can-actually-orchestrate)**
+这位前**OpenAI**首席科学家可能与该公司疏远，但正如他周一作证的那样，他仍然为其辩护
 
-**OpenAI**的三种新语音模型旨在减少开销该公司在一篇博客文章中表示， Realtime-2是其首款“采用**GPT**-5类推理”的语音模型，可以处理困难的请求并保持对话自然流畅
-
-📅 Fri, 08 May 2026 21:41:21 GMT
-
----
-
-### VentureBeat
-![5000个vibe编码的应用程序刚刚证明了影子人工智能是新的S3桶危机](https://images.ctfassets.net/jdtwqhzvc2n1/3H8BkMlVjetAGClhRKtmFK/533b657c9dd2b63819c0db0d2f8c6559/5_000_vibe-coded_apps_just_proved_shadow_AI_is_the_new_S3_bucket_crisis.png?w=300&q=30)
-
-**[5000个vibe编码的应用程序刚刚证明了影子人工智能是新的S3桶危机](https://venturebeat.com/security/vibe-coded-apps-shadow-ai-s3-bucket-crisis-ciso-audit-framework)**
-
-Gartner发现了一类新的缺陷，即人工智能生成的代码在语法上是正确的，但缺乏对更广泛的系统架构和细致入微的业务规则的认识企业环境中8%的Chat**GPT**工作场所帐户未经授权
-
-📅 Fri, 08 May 2026 20:57:01 GMT
+📅 Mon, 11 May 2026 23:51:35 +0000
 
 ---
 
@@ -263,71 +230,109 @@ Gartner发现了一类新的缺陷，即人工智能生成的代码在语法上�
 
 ---
 
+### ZDNet AI
+**[微软正在加快关键Windows应用程序和功能的发布时间-方法如下](https://www.zdnet.com/article/microsoft-speed-launch-time-windows-11-apps-features/)**
+
+目前处于早期测试模式，新的低延迟配置文件将提高Windows 11应用、菜单、弹出窗口等的速度
+
+📅 Mon, 11 May 2026 21:25:24 GMT
+
+---
+
+### TechCrunch
+**[最后， Android和iPhone用户之间的文本可以进行端到端加密](https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/)**
+
+谷歌多年来一直敦促苹果支持RCS短信，使每家公司的设备之间的通信更加无缝
+
+📅 Mon, 11 May 2026 21:59:34 +0000
+
+---
+
 ### The Verge
-![谷歌停止了零日黑客攻击，称这是用人工智能开发的](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![这就是Mira Murati的人工智能公司的目标](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_Illo_mira-murati_stock_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[谷歌停止了零日黑客攻击，称这是用人工智能开发的](https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped)**
+**[这就是Mira Murati的人工智能公司的目标](https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model)**
 
-谷歌表示，根据谷歌威胁情报小组（ GTIG ）的一份报告，它**首次**发现并阻止了与AIA一起开发的零日漏洞利用程序
+由前**OpenAI**首席技术官Mira Murati创立的人工智能公司Thinking Machines周一宣布，它正在开发一种名为“交互模型”的东西，正如Thinking Machines所解释的那样：当今的模型在一条线中体验现实
 
-📅 2026-05-11T16:09:42.000Z
+📅 2026-05-11T22:19:15.000Z
+
+---
+
+### The Verge
+![苹果为iPhone带来加密的RCS聊天](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Apple-RCS-messaging-beta_quick-read-16x9.jpg.medium_2x.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[苹果为iPhone带来加密的RCS聊天](https://www.theverge.com/tech/928141/apple-ios-26-5-rcs-messages-iphone-google-android)**
+
+它于周一**发布**，这意味着苹果和谷歌在发送消息时无法看到您的消息
+
+📅 2026-05-11T17:57:56.000Z
 
 ---
 
 ## 📦 GitHub热门
-
-### GitHub Active (AI/ML)
-![executorch ：适用于PyTorch的移动、嵌入式和边缘设备上的AI](https://avatars.githubusercontent.com/u/21003710?v=4)
-
-**[executorch ：适用于PyTorch的移动、嵌入式和边缘设备上的AI](https://github.com/pytorch/executorch)**
-
-⭐ 4,595星· 992叉· Python ·适用于PyTorch的移动、嵌入式和边缘设备AI
-
-📅 2026-05-11T17:27:33Z
-
----
-
-### GitHub Active (AI/ML)
-![TransformerEngine ：用于加速NVIDIA GPU上的Transformer模型的库，包括在Hopper、Ada和Blackwell GPU上使用8位和4位浮点（ FP8和FP4 ）精度，以提供更好的性能，同时在训练和推理中降低内存利用率。](https://avatars.githubusercontent.com/u/1728152?v=4)
-
-**[TransformerEngine ：用于加速NVIDIA GPU上的Transformer模型的库，包括在Hopper、Ada和Blackwell GPU上使用8位和4位浮点（ FP8和FP4 ）精度，以提供更好的性能，同时在训练和推理中降低内存利用率。](https://github.com/NVIDIA/TransformerEngine)**
-
-328星· 720分叉· Python ·一个用于在NVIDIA GPU上加速变压器模型的库，可在训练和推理中以更低的内存利用率提供更好的性能
-
-📅 2026-05-11T17:26:39Z
-
----
 
 ### GitHub New (New AI)
 ![🆕 d4rt ： D4RT的实现，动态场景的高效重构， Deepmind](https://avatars.githubusercontent.com/u/108653?v=4)
 
 **[🆕 d4rt ： D4RT的实现，动态场景的高效重构， Deepmind](https://github.com/lucidrains/d4rt)**
 
-⭐ 39 star (新项目) · Python · Implementation of D4RT, Efficiently Reconstructing Dynamic Scenes, Deepmind
+⭐ 41 star (新项目) · Python · Implementation of D4RT, Efficiently Reconstructing Dynamic Scenes, Deepmind
 
 📅 2026-05-10T14:52:54Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 轴突：轴突](https://avatars.githubusercontent.com/u/279453501?v=4)
+![🆕 FaceMatch-AI ： FaceMatch AI是一个智能面部比较平台，通过高级人工智能识别分析两张上传的照片，以检测面部相似性。它通过现代化的交互式用户体验提供详细的匹配洞察、视觉人脸分析、置信度评估和实时比较结果。](https://avatars.githubusercontent.com/u/146540460?v=4)
 
-**[🆕 轴突：轴突](https://github.com/ddcoty-svg/axon)**
+**[🆕 FaceMatch-AI ： FaceMatch AI是一个智能面部比较平台，通过高级人工智能识别分析两张上传的照片，以检测面部相似性。它通过现代化的交互式用户体验提供详细的匹配洞察、视觉人脸分析、置信度评估和实时比较结果。](https://github.com/RajdeepChoudhury/FaceMatch-AI)**
 
-⭐ 20 star (新项目) · N/A · axon
+⭐ 5 star (新项目) · CSS · FaceMatch AI is an intelligent facial comparison platform that analyzes two uploaded photos to detect facial similarity with advanced AI powered recognitionIt provides detailed match insights
 
-📅 2026-05-08T11:14:20Z
+📅 2026-05-09T20:56:18Z
+
+---
+
+### GitHub New (New AI)
+![🆕 Friday-Autonomous-Cognitive-AI-Operating-System ： FRIDAY是一款用于记忆、推理、语音、网络安全和自我提升的自主认知AI操作系统。它在本地运行，旨在向一般智力发展。由一位自学成才的17岁开发商建造。](https://avatars.githubusercontent.com/u/260819914?v=4)
+
+**[🆕 Friday-Autonomous-Cognitive-AI-Operating-System ： FRIDAY是一款用于记忆、推理、语音、网络安全和自我提升的自主认知AI操作系统。它在本地运行，旨在向一般智力发展。由一位自学成才的17岁开发商建造。](https://github.com/subhansh-dev/Friday-Autonomous-Cognitive-AI-Operating-System)**
+
+⭐ 4 star (新项目) · Python · FRIDAY is an autonomous cognitive AI operating system for memory, reasoning, voice, cybersecurity, and self-improvementIt runs locally and is designed to move toward general intelligence
+
+📅 2026-05-10T19:38:04Z
+
+---
+
+### GitHub New (New AI)
+![🆕 OpenChat ：为学习目的构建的ChatGPT风格克隆—使用Ollama 100%本地运行。探索代理工具调用、具有安全允许列表的RAG样式Web提取和SSE流。堆栈： .NET 9 + Angular 21 + MongoDB。](https://avatars.githubusercontent.com/u/58003585?v=4)
+
+**[🆕 OpenChat ：为学习目的构建的ChatGPT风格克隆—使用Ollama 100%本地运行。探索代理工具调用、具有安全允许列表的RAG样式Web提取和SSE流。堆栈： .NET 9 + Angular 21 + MongoDB。](https://github.com/HeyBaldur/OpenChat)**
+
+⭐ 2 star (新项目) · HTML · A Chat**GPT**-style clone built for learning purposes — runs 100% locally with OllamaExplores agentic tool calling, RAG-style web fetching with a security allowlist, and SSE streaming
+
+📅 2026-05-11T12:38:50Z
 
 ---
 
 ## 💬 社交动态
+
+### Hacker News
+**[显示HN ： OpenGravity –零安装的BYOK VANILLA JS Antigravity克隆](https://github.com/ab-613/opengravity)**
+
+一些屏幕截图： - https://github它将在加载时提示**Gemini** api密钥）
+
+📅 Mon, 11 May 2026 20:23:25 +0000
+
+---
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-05-11T17:27:32.892Z
+📅 2026-05-12T00:00:01.258Z
 
 ---
 
@@ -336,16 +341,16 @@ Gartner发现了一类新的缺陷，即人工智能生成的代码在语法上�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-05-11T17:28:52.062Z
+📅 2026-05-12T00:01:20.767Z
 
 ---
 
-### Hacker News
-**[CUDA-oxide ： Nvidia的官方Rust to CUDA编译器](https://nvlabs.github.io/cuda-oxide/index.html)**
+### Hacker News AI
+**[云存储快速：用于人工智能和分析的涡轮增压对象存储](https://cloud.google.com/blog/products/storage-data-transfer/cloud-storage-rapid-turbocharges-object-storage-for-ai-analytics/)**
 
-文章网址： https://nvlabshtml评论网址： https://**new**s
+文章网址： https://cloudcom/blog/products/storage-data-transfer/cloud-storage-rapid-turbocharges-object-storage-for-ai-analytics/评论网址： https://**new**s
 
-📅 Mon, 11 May 2026 15:55:07 +0000
+📅 Mon, 11 May 2026 21:54:52 +0000
 
 ---
 
@@ -354,7 +359,7 @@ Gartner发现了一类新的缺陷，即人工智能生成的代码在语法上�
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-05-11T17:27:32.892Z
+📅 2026-05-12T00:00:01.258Z
 
 ---
 
@@ -363,7 +368,7 @@ Title: 520: Web服务器返回未知错误
 
 警告：目标URL返回错误520 ：
 
-📅 2026-05-11T17:27:32.892Z
+📅 2026-05-12T00:00:01.258Z
 
 ---
 
@@ -372,7 +377,7 @@ Title: 520: Web服务器返回未知错误
 
 Markdown 内容
 
-📅 2026-05-11T17:27:32.892Z
+📅 2026-05-12T00:00:01.258Z
 
 ---
 
@@ -381,16 +386,7 @@ Markdown 内容
 
 # twitter.com | 520 ： Web服务器返回未知错误
 
-📅 2026-05-11T17:27:32.892Z
-
----
-
-### X: Sam Altman
-**[网址来源： http://twitter.com/sama](https://r.jina.ai/http://twitter.com/sama)**
-
-网址来源： http://twitter.com/sama
-
-📅 2026-05-11T17:27:48.678Z
+📅 2026-05-12T00:00:01.258Z
 
 ---
 
