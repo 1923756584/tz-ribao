@@ -1,12 +1,12 @@
 ---
 title: "2026年5月12日 - TZ日报"
-date: 2026-05-12T17:18:06.379Z
+date: 2026-05-13T00:05:26.882Z
 draft: false
 ---
 
 # 2026年5月12日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/5/12 17:18:06
+> 📊 今日汇总 38 条 · 🕐 2026/5/13 00:05:26
 
 ---
 
@@ -22,6 +22,15 @@ draft: false
 
 ## ✨ 产品更新
 
+### OpenAI Blog
+**[NVIDIA工程师和研究人员如何使用Codex构建](https://openai.com/index/nvidia)**
+
+团队使用带有**GPT**-55的Codex来运送生产系统，并将研究思想转化为可运行的实验
+
+📅 Tue, 12 May 2026 00:00:00 GMT
+
+---
+
 ### TechCrunch AI Products
 **[Google在Android Show上宣布的一切，从Googlebook到vibe编码的小部件](https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/)**
 
@@ -32,11 +41,29 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[谷歌将代理AI和vibe编码小部件引入Android](https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/)**
+**[谷歌将双子座口述功能添加到Gboard ，这对口述创业公司来说可能是个坏消息](https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/)**
 
-**Gemini** Intelligence还将包括基于Gboard的听写和表单填写功能
+谷歌的转录功能最初将在三星Galaxy和谷歌Pixel手机上**推出**。
 
 📅 Tue, 12 May 2026 17:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[谷歌将代理AI和vibe编码小部件引入Android](https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/)**
+
+**Gemini** Intelligence还将包括基于Gboard的听写和表单填写功能。
+
+📅 Tue, 12 May 2026 17:00:00 +0000
+
+---
+
+### OpenAI Blog
+**[AutoScout24利用人工智能驱动的工作流程扩展工程](https://openai.com/index/autoscout24)**
+
+了解AutoScout24 Group如何使用Codex和Chat**GPT**来加快开发周期、提高代码质量并扩大人工智能的采用
+
+📅 Tue, 12 May 2026 00:00:00 GMT
 
 ---
 
@@ -79,38 +106,11 @@ OpenAI**推出**DeployCoa新企业部署公司，旨在帮助组织将前沿人�
 ---
 
 ### TechCrunch AI Products
-**[人工智能法律服务行业正在升温。Anthropic正在参与行动。](https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/)**
+**[奥尔特曼作证说，马斯克考虑将OpenAI交给他的孩子们](https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/)**
 
-随着人工智能法律服务行业的升温， **Anthropic**正在**推出**自己的一套功能，旨在帮助律师事务所
+奥尔特曼说，马斯克专注于控制最初的营利性，这让他停顿了一下，因为**OpenAI**致力于将高级人工智能从一个人手中夺走， “拥有控制权的创始人通常不会放弃它
 
-📅 Tue, 12 May 2026 17:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[谷歌的“创建我的小部件”功能将允许您对自己的小部件进行氛围编码](https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/)**
-
-新功能将于今年夏天**首次**在三星Galaxy和谷歌Pixel手机上**推出**。
-
-📅 Tue, 12 May 2026 17:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[Threads测试与Grok类似的Meta AI集成](https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/)**
-
-该功能旨在帮助人们实时了解趋势和突发故事，并获得推荐
-
-📅 Tue, 12 May 2026 16:34:36 +0000
-
----
-
-### AI News
-**[Hugging Face伪装成OpenAI发布的恶意软件](https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/)**
-
-一个伪装成**OpenAI**版本的恶意Hugging Face存储库将信息窃取恶意软件发送到Windows机器，并记录了大约244的程度[…] Hugging Face后托管了伪装成**OpenAI**版本的恶意软件**首次**出现在AI新闻上
-
-📅 Tue, 12 May 2026 13:52:00 +0000
+📅 Tue, 12 May 2026 18:05:15 +0000
 
 ---
 
@@ -191,6 +191,17 @@ OpenAI**推出**DeployCoa新企业部署公司，旨在帮助组织将前沿人�
 ## 🌍 行业展望
 
 ### VentureBeat
+![Perceptron Mk1采用高性能视频分析AI模型，比Anthropic、OpenAI和Google便宜80-90%](https://images.ctfassets.net/jdtwqhzvc2n1/792xpzV56beWnPgMn8j8Ku/2e0da2eadb098389cada35ebac209693/ChatGPT_Image_May_12__2026__02_26_29_PM.png?w=300&q=30)
+
+**[Perceptron Mk1采用高性能视频分析AI模型，比Anthropic、OpenAI和Google便宜80-90%](https://venturebeat.com/technology/perceptron-mk1-shocks-with-highly-performant-video-analysis-ai-model-80-90-cheaper-than-anthropic-openai-and-google)**
+
+**Anthropic**的**Claude** Sonnet 45、**OpenAI**的**GPT**-5和**Google**的**Gemini** 3
+
+📅 Tue, 12 May 2026 18:45:17 GMT
+
+---
+
+### VentureBeat
 ![Thinking Machines通过新的“交互模型”展示了近乎实时的人工智能语音和视频对话的预览](https://images.ctfassets.net/jdtwqhzvc2n1/5BWK9miUy4VHD931SGXpLr/92c6cce24db934192796012e399015aa/ChatGPT_Image_May_11__2026__06_07_19_PM.png?w=300&q=30)
 
 **[Thinking Machines通过新的“交互模型”展示了近乎实时的人工智能语音和视频对话的预览](https://venturebeat.com/technology/thinking-machines-shows-off-preview-of-near-realtime-ai-voice-and-video-conversation-with-new-interaction-models)**
@@ -212,19 +223,21 @@ OpenAI**推出**DeployCoa新企业部署公司，旨在帮助组织将前沿人�
 
 ---
 
+### The Verge
+![Meta不会让您在Threads上阻止其AI帐户](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24774110/STK156_Instagram_threads_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[Meta不会让您在Threads上阻止其AI帐户](https://www.theverge.com/tech/929091/meta-ai-threads-account-block)**
+
+**Meta**在人工智能方面投入巨资，努力赶上**OpenAI**和谷歌等竞争对手，花费数十亿美元招聘人工智能人才。**Meta**在4月份**推出**了一种名为Muse Spark的新人工智能模型，它......阅读The Verge的完整故事
+
+📅 2026-05-12T20:35:23.000Z
+
+---
+
 ### Wired Technology
 **[Google Android 17和Gemini Intelligence的热门新功能将于今年夏天推出](https://www.wired.com/story/android-17-gemini-top-new-features/)**
 
 您很快就可以生成自己的小部件，或要求**Gemini**在Android版Chrome中完成预订
-
-📅 Tue, 12 May 2026 17:00:00 +0000
-
----
-
-### TechCrunch
-**[谷歌推出新款AI原生笔记本电脑Googlebooks](https://techcrunch.com/2026/05/12/google-unveils-googlebooks-a-new-line-of-ai-native-laptops/)**
-
-该公司表示， **Google**books是首批为**Gemini** Intelligence设计的笔记本电脑，可提供个人和主动帮助
 
 📅 Tue, 12 May 2026 17:00:00 +0000
 
@@ -242,9 +255,9 @@ OpenAI**推出**DeployCoa新企业部署公司，旨在帮助组织将前沿人�
 ---
 
 ### The Verge
-![双子座最大的新功能就是控制您的手机](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gemini_intell.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![Gemini的最新更新旨在控制您的手机](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gemini_intell.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[双子座最大的新功能就是控制您的手机](https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill)**
+**[Gemini的最新更新旨在控制您的手机](https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill)**
 
 |图片： **Google**双子座季节**Google**在预I/O Android展示期间宣布了一系列新的双子座功能，其中许多功能旨在帮助您使用手机
 
@@ -252,38 +265,27 @@ OpenAI**推出**DeployCoa新企业部署公司，旨在帮助组织将前沿人�
 
 ---
 
-### The Verge
-![家长说， ChatGPT因对派对毒品的不良建议而杀害了他们的儿子](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### VentureBeat
+![立即通过6个可操作的步骤保护您的企业免受Shai-Hulud蠕虫和npm漏洞的侵害](https://images.ctfassets.net/jdtwqhzvc2n1/3Fpkq8k1bNbp4FzvFx6VNs/d5acd06709dd0292e387c70978080a44/worm.png?w=300&q=30)
 
-**[家长说， ChatGPT因对派对毒品的不良建议而杀害了他们的儿子](https://www.theverge.com/ai-artificial-intelligence/928691/openai-chatgpt-wrongful-death-overdose)**
+**[立即通过6个可操作的步骤保护您的企业免受Shai-Hulud蠕虫和npm漏洞的侵害](https://venturebeat.com/security/shai-hulud-worm-172-npm-pypi-packages-valid-provenance-ci-cd-audit)**
 
-一名19岁大学生的家人正在起诉**OpenAI** ，声称他与Chat**GPT**的谈话导致意外用药过量。**更新**后， Chat**GPT** “开始参与并建议Sam安全使用药物，甚至提供具体措施……阅读The Verge的完整故事
+它窃取**Claude**和Kiro AI代理配置，包括代理连接到**Claude** Code中的每个外部服务的MCP服务器身份验证令牌（
 
-📅 2026-05-12T16:30:33.000Z
-
----
-
-### The Verge
-![Android Show 2026 ：所有新闻和公告](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRGSTKIO20262_v4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[Android Show 2026 ：所有新闻和公告](https://www.theverge.com/tech/928624/android-show-2026-all-the-news-and-announcements)**
-
-Android Auto现在是一个（屏幕）大小适合所有**Google**宣布其Chromebook继任者： **Google**book Android 17中9个最大的新功能Android对创作者来说越来越好双子座最大的新功能都是关于控制手机的**Google**的Aluminium OS在16分钟的泄露视频中显示如何观看**Google**的Android Show ：今天的I/O版
-
-📅 2026-05-12T16:30:00.000Z
+📅 Tue, 12 May 2026 18:49:52 GMT
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![气流： Apache气流-以编程方式创作、安排和监控工作流程的平台](https://avatars.githubusercontent.com/u/47359?v=4)
+![TransformerEngine ：用于加速NVIDIA GPU上的Transformer模型的库，包括在Hopper、Ada和Blackwell GPU上使用8位和4位浮点（ FP8和FP4 ）精度，以提供更好的性能，同时在训练和推理中降低内存利用率。](https://avatars.githubusercontent.com/u/1728152?v=4)
 
-**[气流： Apache气流-以编程方式创作、安排和监控工作流程的平台](https://github.com/apache/airflow)**
+**[TransformerEngine ：用于加速NVIDIA GPU上的Transformer模型的库，包括在Hopper、Ada和Blackwell GPU上使用8位和4位浮点（ FP8和FP4 ）精度，以提供更好的性能，同时在训练和推理中降低内存利用率。](https://github.com/NVIDIA/TransformerEngine)**
 
-⭐ 45,378星· 17042分叉· Python · Apache Airflow -一个以编程方式创作、安排和监控工作流程的平台
+332星· 721分叉· Python ·在NVIDIA GPU上加速Transformer模型的库，可在训练和推理中以更低的内存利用率提供更好的性能
 
-📅 2026-05-12T17:14:56Z
+📅 2026-05-13T00:04:08Z
 
 ---
 
@@ -303,31 +305,31 @@ Android Auto现在是一个（屏幕）大小适合所有**Google**宣布其Chro
 
 **[🆕 aws-certified-ai-practitioner-brasil: Repositório com recursos em Português (PT-BR) para estudos da certificação AWS认证人工智能从业者(AIF-C01)](https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil)**
 
-⭐ 16 star (新项目) · HTML · Repositório com recursos em Português (PT-BR) para estudos da certificação AWS Certified AI Practitioner (AIF-C01)
+⭐ 23 star (新项目) · HTML · Repositório com recursos em Português (PT-BR) para estudos da certificação AWS Certified AI Practitioner (AIF-C01)
 
 📅 2026-05-11T17:30:31Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 FaceMatch-AI ： FaceMatch AI是一个智能面部比较平台，通过高级人工智能识别分析两张上传的照片，以检测面部相似性。它通过现代化的交互式用户体验提供详细的匹配洞察、视觉人脸分析、置信度评估和实时比较结果。](https://avatars.githubusercontent.com/u/146540460?v=4)
+![🆕 Friday-Autonomous-Cognitive-AI-Operating-System ： FRIDAY是一款用于记忆、推理、语音、网络安全和自我提升的自主认知AI操作系统。它在本地运行，旨在向一般智力发展。由一位自学成才的17岁开发商建造。](https://avatars.githubusercontent.com/u/260819914?v=4)
 
-**[🆕 FaceMatch-AI ： FaceMatch AI是一个智能面部比较平台，通过高级人工智能识别分析两张上传的照片，以检测面部相似性。它通过现代化的交互式用户体验提供详细的匹配洞察、视觉人脸分析、置信度评估和实时比较结果。](https://github.com/RajdeepChoudhury/FaceMatch-AI)**
+**[🆕 Friday-Autonomous-Cognitive-AI-Operating-System ： FRIDAY是一款用于记忆、推理、语音、网络安全和自我提升的自主认知AI操作系统。它在本地运行，旨在向一般智力发展。由一位自学成才的17岁开发商建造。](https://github.com/subhansh-dev/Friday-Autonomous-Cognitive-AI-Operating-System)**
 
-⭐ 5 star (新项目) · CSS · FaceMatch AI is an intelligent facial comparison platform that analyzes two uploaded photos to detect facial similarity with advanced AI powered recognitionIt provides detailed match insights
+⭐ 4 star (新项目) · Python · FRIDAY is an autonomous cognitive AI operating system for memory, reasoning, voice, cybersecurity, and self-improvementIt runs locally and is designed to move toward general intelligence
 
-📅 2026-05-09T20:56:18Z
+📅 2026-05-10T19:38:04Z
 
 ---
 
 ## 💬 社交动态
 
 ### Hacker News
-**[启动HN ： Voker (YC S24) –人工智能代理分析](https://voker.ai)**
+**[显示HN ：针：我们将双子座工具蒸馏成26米模型](https://github.com/cactus-compute/needle)**
 
-我们见过的最常见的替代解决方案是将观察日志上传到**Claude**或Chat**GPT** ，并要求提供摘要见解我们有一个公开的轻量级SDK ，可以用Python和Typescript包装LLM对**OpenAI**、**Anthropic**和**Gemini**的调用
+我们**开源**了Needle ，这是一个26M参数函数调用（工具使用）模型培训： -在16个TPU v6e的200B代币上进行预训练（ 27小时） -在合成函数调用数据的2B代币上进行后期训练（ 45分钟） -通过**Gemini**合成的数据集有15个工具类别（计时器）
 
-📅 Tue, 12 May 2026 15:45:20 +0000
+📅 Tue, 12 May 2026 18:03:11 +0000
 
 ---
 
@@ -336,7 +338,7 @@ Android Auto现在是一个（屏幕）大小适合所有**Google**宣布其Chro
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-05-12T17:14:47.386Z
+📅 2026-05-13T00:02:13.106Z
 
 ---
 
@@ -345,25 +347,25 @@ Android Auto现在是一个（屏幕）大小适合所有**Google**宣布其Chro
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-05-12T17:16:06.997Z
+📅 2026-05-13T00:03:39.622Z
 
 ---
 
 ### Hacker News AI
-**[Collaborate –多人AI辅助文档编写的Claude技能](https://github.com/googlarz/collaborate)**
+**[显示HN ： Clodcapture -保存并恢复跨会话的Claude.ai聊天](https://chromewebstore.google.com/detail/clodcapture/mhapejnhlmepeinjmlppoopcoicmgojb)**
 
-文章网址： https://githubcom/googlarz/collaborate留言网址： https://**new**s
+Chrome扩展程序捕获**Claude**ai对话状态，并允许您将其重新加载到新的聊天中
 
-📅 Tue, 12 May 2026 17:12:14 +0000
+📅 Tue, 12 May 2026 23:04:38 +0000
 
 ---
 
 ### Hacker News AI
-**[微软$ 10亿人工智能数据中心将“关掉肯尼亚的一半”](https://www.windowscentral.com/artificial-intelligence/kenya-president-warns-microsofts-1-billion-ai-data-center-will-switch-off-half-the-country)**
+**[光标下方的任何东西都会被输入谷歌的监控人工智能](https://mastodon.social/@mcc/116563821063587689)**
 
-文章网址： https://wwwcom/artificial-intelligence/kenya-president-warns-microsofts-1-billion-ai-data-center-will-switch-off-half-the-country评论网址： https://**new**s
+文章网址： https://mastodonsocial/@ mcc/116563821063587689评论网址： https://**new**s
 
-📅 Tue, 12 May 2026 17:06:49 +0000
+📅 Tue, 12 May 2026 22:55:04 +0000
 
 ---
 
@@ -372,7 +374,7 @@ Android Auto现在是一个（屏幕）大小适合所有**Google**宣布其Chro
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-05-12T17:14:47.386Z
+📅 2026-05-13T00:02:13.106Z
 
 ---
 
@@ -381,7 +383,7 @@ Title: 520: Web服务器返回未知错误
 
 警告：目标URL返回错误520 ：
 
-📅 2026-05-12T17:14:47.386Z
+📅 2026-05-13T00:02:13.106Z
 
 ---
 
@@ -390,7 +392,7 @@ Title: 520: Web服务器返回未知错误
 
 Markdown 内容
 
-📅 2026-05-12T17:14:47.386Z
+📅 2026-05-13T00:02:13.106Z
 
 ---
 
