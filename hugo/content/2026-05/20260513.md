@@ -1,12 +1,12 @@
 ---
 title: "2026年5月13日 - TZ日报"
-date: 2026-05-13T17:21:41.781Z
+date: 2026-05-14T00:02:36.420Z
 draft: false
 ---
 
 # 2026年5月13日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/5/13 17:21:41
+> 📊 今日汇总 38 条 · 🕐 2026/5/14 00:02:36
 
 ---
 
@@ -32,11 +32,29 @@ draft: false
 ---
 
 ### TechCrunch AI Products
+**[Anthropic的Cat Wu说，将来，人工智能会在您知道它们是什么之前预测您的需求](https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/)**
+
+**Claude** Code和Cowork的产品负责人表示，人工智能的下一个**重要**步骤是主动性。
+
+📅 Wed, 13 May 2026 19:28:06 +0000
+
+---
+
+### TechCrunch AI Products
 **[根据Ramp数据， Anthropic现在拥有比OpenAI更多的商业客户](https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/)**
 
-根据金融科技公司Ramp本月的AI指数， **Anthropic**首次拥有比**OpenAI**更多的经过验证的企业客户
+4%的参与企业为**Anthropic**服务付费，高于任何其他人工智能实验室，而只有323%的企业为**OpenAI**付费
 
 📅 Wed, 13 May 2026 14:00:00 +0000
+
+---
+
+### OpenAI Blog
+**[构建安全、有效的沙箱，以在Windows上启用Codex](https://openai.com/index/building-codex-windows-sandbox)**
+
+了解**OpenAI**如何在具有受控文件访问和网络限制的Windowsefficient编码代理上为Codex构建安全沙箱
+
+📅 Wed, 13 May 2026 11:00:00 GMT
 
 ---
 
@@ -96,24 +114,6 @@ OpenAI**推出**DeployCoa新企业部署公司，旨在帮助组织将前沿人�
 
 ---
 
-### TechCrunch AI Products
-**[WhatsApp在Meta AI聊天中添加了隐身模式](https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/)**
-
-**Meta**表示，这些隐身对话不会保存，在您关闭聊天后，消息将默认消失
-
-📅 Wed, 13 May 2026 14:00:00 +0000
-
----
-
-### OpenAI Blog
-**[财务团队如何使用Codex](https://openai.com/academy/how-finance-teams-use-codex)**
-
-了解财务团队如何使用Codex根据实际工作输入构建MBR、报告包、差异桥梁、模型检查和规划场景
-
-📅 Tue, 12 May 2026 15:00:00 GMT
-
----
-
 ## 🔬 前沿研究
 
 ### ArXiv Natural Language Processing (cs.CL)
@@ -170,6 +170,15 @@ OpenAI**推出**DeployCoa新企业部署公司，旨在帮助组织将前沿人�
 
 ---
 
+### MIT Tech Research
+**[人工智能聊天机器人正在提供人们的真实电话号码](https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/)**
+
+人们报告说，他们的个人联系信息被**Google** AI曝光，显然没有简单的方法来阻止ITA产品设计师
+
+📅 Wed, 13 May 2026 18:09:03 +0000
+
+---
+
 ### ArXiv AI (cs.AI)
 **[视觉语言模型中的可靠性：注意力、隐藏状态和因果电路的机制研究](https://arxiv.org/abs/2605.08200)**
 
@@ -179,16 +188,18 @@ OpenAI**推出**DeployCoa新企业部署公司，旨在帮助组织将前沿人�
 
 ---
 
-### ArXiv AI (cs.AI)
-**[自动润滑油作为奖励：从隐式偏好到显式多式联运生成标准](https://arxiv.org/abs/2605.08354)**
+## 🌍 行业展望
 
-08354v1公告类型：新摘要：将多模态生成模型与人类偏好对齐，要求尊重组合的奖励信号ARR-RPO优于成对奖励模型和VLM评委
+### VentureBeat
+![人工智能智商在这里：一个新的网站在人类智商尺度上对前沿人工智能模型进行评分。结果已经分裂了技术。](https://images.ctfassets.net/jdtwqhzvc2n1/LXlQ0Fb1icQNc42FLtzxY/f7d524bafbe137ed51215797495e242d/Nuneybits_Vector_art_of_glowing_scatterplot_transformed_into_co_2860d5e5-a9d2-4366-acd8-947838753fb6.webp?w=300&q=30)
 
-📅 Wed, 13 May 2026 00:00:00 -0400
+**[人工智能智商在这里：一个新的网站在人类智商尺度上对前沿人工智能模型进行评分。结果已经分裂了技术。](https://venturebeat.com/technology/ai-iq-is-here-a-new-site-scores-frontier-ai-models-on-the-human-iq-scale-the-results-are-already-dividing-tech)**
+
+**OpenAI**的**GPT**-5在最便宜的极端情况下， **GPT**-oss-20b （一种**开源**OpenAI模型）出现在$ 0附近
+
+📅 Wed, 13 May 2026 23:47:24 GMT
 
 ---
-
-## 🌍 行业展望
 
 ### VentureBeat
 ![Perceptron Mk1采用高性能视频分析AI模型，比Anthropic、OpenAI和Google便宜80-90%](https://images.ctfassets.net/jdtwqhzvc2n1/792xpzV56beWnPgMn8j8Ku/2e0da2eadb098389cada35ebac209693/ChatGPT_Image_May_12__2026__02_26_29_PM.png?w=300&q=30)
@@ -202,24 +213,35 @@ OpenAI**推出**DeployCoa新企业部署公司，旨在帮助组织将前沿人�
 ---
 
 ### VentureBeat
-![Thinking Machines通过新的“交互模型”展示了近乎实时的人工智能语音和视频对话的预览](https://images.ctfassets.net/jdtwqhzvc2n1/5BWK9miUy4VHD931SGXpLr/92c6cce24db934192796012e399015aa/ChatGPT_Image_May_11__2026__06_07_19_PM.png?w=300&q=30)
+![Anthropic最终在商业人工智能采用方面击败了OpenAI ，但三大威胁可能会抹杀其领先地位](https://images.ctfassets.net/jdtwqhzvc2n1/4m169U8ajMEpWjEn6pQgzK/7690906968897882b8756a902d8848c6/Nuneybits_Vector_art_of_two_rising_lines_on_a_graph_burnt_orang_937edfc7-d114-495e-aad5-a2f1297757c6.webp?w=300&q=30)
 
-**[Thinking Machines通过新的“交互模型”展示了近乎实时的人工智能语音和视频对话的预览](https://venturebeat.com/technology/thinking-machines-shows-off-preview-of-near-realtime-ai-voice-and-video-conversation-with-new-interaction-models)**
+**[Anthropic最终在商业人工智能采用方面击败了OpenAI ，但三大威胁可能会抹杀其领先地位](https://venturebeat.com/technology/anthropic-finally-beat-openai-in-business-ai-adoption-but-3-big-threats-could-erase-its-lead)**
 
-一类新的原生多模式系统，将交互性视为模型架构的一流公民，而不是外部软件“利用尚不清楚这些新的交互模型模型是否属于相同的精神和**发布**条款
+自人工智能竞赛开始以来，美国企业**首次**为**Anthropic**的**Claude**付费，而不是**OpenAI**的Chat**GPT**。在那一集之后，用户围绕**Anthropic**集结， **Claude**在App Store上暂时超过了Chat**GPT**
 
-📅 Mon, 11 May 2026 22:21:02 GMT
+📅 Wed, 13 May 2026 21:53:05 GMT
 
 ---
 
-### The Verge
-![伊隆·马斯克（ Elon Musk ）和萨姆·奥尔特曼（ Sam Altman ）就OpenAI的未来进行的法庭](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### VentureBeat
+![前沿的人工智能模型不仅仅删除文档内容—它们会重写文档内容，而且几乎不可能捕捉到错误](https://images.ctfassets.net/jdtwqhzvc2n1/5A114QnbRiFMtlZuY18ROe/8a6fb481f9761188b83d3ec44d26714e/LLM_data_corruption.jpg?w=300&q=30)
 
-**[伊隆·马斯克（ Elon Musk ）和萨姆·奥尔特曼（ Sam Altman ）就OpenAI的未来进行的法庭](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)**
+**[前沿的人工智能模型不仅仅删除文档内容—它们会重写文档内容，而且几乎不可能捕捉到错误](https://venturebeat.com/orchestration/frontier-ai-models-dont-just-delete-document-content-they-rewrite-it-and-the-errors-are-nearly-impossible-to-catch)**
 
-**OpenAI**表示， “这起诉讼一直是毫无根据和嫉妒的企图让竞争对手脱轨” ，目的是推动马斯克自己的SpaceX/xAI/X公司，这些公司今天早上本着澄清的精神将Grok作为Chat**GPT**A的竞争对手**推出**…… Zilis表示，她对**OpenAI**董事会没有在ChatGPT**发布**之前得到通知表示严重担忧
+研究人员测试了来自**OpenAI**L的19种不同语言模型仅在**GPT**家族中，模型在18个月内得分从20%以下降至70%左右， ”Laban说。
 
-📅 2026-05-13T15:28:21.000Z
+📅 Wed, 13 May 2026 20:10:54 GMT
+
+---
+
+### VentureBeat
+![Anthropic恢复了OpenClaw和第三方代理对Claude订阅的使用—并附有catch](https://images.ctfassets.net/jdtwqhzvc2n1/1oDIYYQnFf2xRZFNGMkIbD/241c6b0680b3acdbd7c7af782e5cca02/ChatGPT_Image_May_13__2026__06_07_24_PM.png?w=300&q=30)
+
+**[Anthropic恢复了OpenClaw和第三方代理对Claude订阅的使用—并附有catch](https://venturebeat.com/technology/anthropic-reinstates-openclaw-and-third-party-agent-usage-on-claude-subscriptions-with-a-catch)**
+
+好消息， OpenClaw粉丝—您可以再次使用**Claude** AI订阅来支持热门、**开源**、自主的AI智能体线束**Anthropic**为什么一开始就阻止了OpenClaw （和其他第三方智能体AI线束）的**Claude**订阅
+
+📅 Wed, 13 May 2026 22:15:00 GMT
 
 ---
 
@@ -231,24 +253,6 @@ OpenAI**推出**DeployCoa新企业部署公司，旨在帮助组织将前沿人�
 对手使用**Claude**作为主要技术执行者和**OpenAI**的**GPT**模型进行数据处理**Claude** Code项目设置Adversa AI ， 5月7日影响**Claude**、Cursor、**Gemini** CLI、Copilot项目范围
 
 📅 Tue, 12 May 2026 15:59:19 GMT
-
----
-
-### ZDNet AI
-**[如何通过Anthropic的人工智能课程免费学习Claude Code -一门课程只花了我20分钟](https://www.zdnet.com/article/how-to-learn-claude-code-with-free-anthropic-ai-courses-online/)**
-
-借助**Anthropic**的免费课程库，您可以在线培训并了解**Claude**、**Claude** Code、AI代理和MCP
-
-📅 Wed, 13 May 2026 12:17:00 GMT
-
----
-
-### TechCrunch
-**[勒索软件黑客声称苹果、谷歌和英伟达的主要电子产品制造商富士康遭到入侵](https://techcrunch.com/2026/05/13/ransomware-hackers-claim-breach-at-foxconn-a-major-electronics-manufacturer-for-apple-google-and-nvidia/)**
-
-一个勒索软件组织声称对黑客入侵电子制造巨头富士康负责，并试图勒索该公司
-
-📅 Wed, 13 May 2026 15:39:37 +0000
 
 ---
 
@@ -277,35 +281,13 @@ OpenAI**推出**DeployCoa新企业部署公司，旨在帮助组织将前沿人�
 ## 📦 GitHub热门
 
 ### GitHub New (New AI)
-![🆕 d4rt ： Deepmind动态场景高效重构D4RT的实现](https://avatars.githubusercontent.com/u/108653?v=4)
-
-**[🆕 d4rt ： Deepmind动态场景高效重构D4RT的实现](https://github.com/lucidrains/d4rt)**
-
-⭐ 53 star (新项目) · Python · Implementation of D4RT, Efficiently Reconstructing Dynamic Scenes, from Deepmind
-
-📅 2026-05-10T14:52:54Z
-
----
-
-### GitHub New (New AI)
 ![🆕 aws-certified-ai-practitioner-brasil: Repositório com recursos em Português (PT-BR) para estudos da certificação AWS认证人工智能从业者(AIF-C01)](https://avatars.githubusercontent.com/u/174836112?v=4)
 
 **[🆕 aws-certified-ai-practitioner-brasil: Repositório com recursos em Português (PT-BR) para estudos da certificação AWS认证人工智能从业者(AIF-C01)](https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil)**
 
-⭐ 27 star (新项目) · HTML · Repositório com recursos em Português (PT-BR) para estudos da certificação AWS Certified AI Practitioner (AIF-C01)
+⭐ 29 star (新项目) · HTML · Repositório com recursos em Português (PT-BR) para estudos da certificação AWS Certified AI Practitioner (AIF-C01)
 
 📅 2026-05-11T17:30:31Z
-
----
-
-### GitHub New (New AI)
-![🆕 openclaw-hawkins ： OpenClaw的多代理编排-具有工作空间、内存和工具的隔离专家代理。线性支持的工单监督。Claude支持的自主工作流程。](https://avatars.githubusercontent.com/u/58427115?v=4)
-
-**[🆕 openclaw-hawkins ： OpenClaw的多代理编排-具有工作空间、内存和工具的隔离专家代理。线性支持的工单监督。Claude支持的自主工作流程。](https://github.com/parijatmukherjee/openclaw-hawkins)**
-
-⭐ 4 star (新项目) · TypeScript · Multi-agent orchestration for OpenClaw — isolated specialist agents with workspaces, memory, tools**Claude**-powered autonomous workflows
-
-📅 2026-05-12T03:22:55Z
 
 ---
 
@@ -320,6 +302,28 @@ OpenAI**推出**DeployCoa新企业部署公司，旨在帮助组织将前沿人�
 
 ---
 
+### GitHub New (New AI)
+![语音到🆕文本：翻译语音合成-克隆语音并输出另一种语言的语音](https://avatars.githubusercontent.com/u/209108328?v=4)
+
+**[语音到🆕文本：翻译语音合成-克隆语音并输出另一种语言的语音](https://github.com/crystal70916/voice-to-text)**
+
+⭐ 3 star (新项目) · Python · Translated vocal synthesis - Clone a voice and output speech in another language
+
+📅 2026-05-13T13:05:05Z
+
+---
+
+### GitHub New (New AI)
+![🆕 rhino-mcp ：通过MCP对Rhino 8进行AI控制— Claude、ChatGPT和Ollama。32个工具、原子批处理、自动缩略图、gzip压缩。](https://avatars.githubusercontent.com/u/265825070?v=4)
+
+**[🆕 rhino-mcp ：通过MCP对Rhino 8进行AI控制— Claude、ChatGPT和Ollama。32个工具、原子批处理、自动缩略图、gzip压缩。](https://github.com/tanishqbhattad/rhino-mcp)**
+
+⭐ 2 star (新项目) · C# · AI control of Rhino 8 via MCP — **Claude**, Chat**GPT** & Ollama32 tools, atomic batches, auto-thumbnails, gzip compression
+
+📅 2026-05-12T09:41:32Z
+
+---
+
 ## 💬 社交动态
 
 ### X: OpenAI
@@ -327,7 +331,7 @@ OpenAI**推出**DeployCoa新企业部署公司，旨在帮助组织将前沿人�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-05-13T17:18:46.173Z
+📅 2026-05-13T23:59:28.747Z
 
 ---
 
@@ -336,61 +340,61 @@ OpenAI**推出**DeployCoa新企业部署公司，旨在帮助组织将前沿人�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-05-13T17:20:07.353Z
+📅 2026-05-14T00:00:49.912Z
+
+---
+
+### Hacker News
+**[告诉HN ：不要使用Claude Design ，取消订阅后无法访问我的项目](https://news.ycombinator.com/item?id=48128003)**
+
+在**Claude** CODE MAX订阅5个月后，我想尝试CODEX然后我回到我以前的**Claude**设计项目，却发现我再也无法访问它们了
+
+📅 Wed, 13 May 2026 21:40:18 +0000
+
+---
+
+### Hacker News
+**[Meta不会让您在Threads上阻止其AI帐户](https://www.theverge.com/tech/929091/meta-ai-threads-account-block)**
+
+文章网址： https://wwwcom/tech/929091/**Meta**-ai-threads-account-block评论网址： https://**new**s
+
+📅 Wed, 13 May 2026 20:22:21 +0000
+
+---
+
+### Hacker News AI
+**[开放人工智能与中国美国共同提出全球人工智能治理机构的想法](https://www.bloomberg.com/news/articles/2026-05-13/openai-floats-idea-of-global-ai-governance-body-with-us-china)**
+
+文章网址： https://wwwcom/**new**s/articles/2026-05-13/**OpenAI**-floats-idea-of-global-ai-governance-body-with-us-china评论网址： https://**new**s
+
+📅 Wed, 13 May 2026 22:13:45 +0000
+
+---
+
+### Hacker News AI
+**[微软研究人员发现人工智能模型和代理无法处理长期运行的任务](https://www.theregister.com/ai-ml/2026/05/11/microsoft-researchers-find-ai-models-and-agents-cant-handle-long-running-tasks/5238263)**
+
+文章网址： https://wwwcom/ai-ml/2026/05/11/microsoft-researchers-find-ai-models-and-agents-cant-handle-long-running-tasks/5238263评论网址： https://**new**s
+
+📅 Wed, 13 May 2026 21:34:05 +0000
 
 ---
 
 ### X: OpenAI
-**[Title: twitter.com](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Title: twitter.com
-
-📅 2026-05-13T17:18:46.173Z
-
----
-
-### X: OpenAI
-**[警告：目标URL返回错误500 ：内部服务器错误](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-警告：目标URL返回错误500 ：内部服务器错误
-
-📅 2026-05-13T17:18:46.173Z
-
----
-
-### X: OpenAI
-**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Markdown 内容
-
-📅 2026-05-13T17:18:46.173Z
-
----
-
-### X: OpenAI
-**[# #此页面无法正常工作](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-# #此页面无法正常工作
-
-📅 2026-05-13T17:18:46.173Z
-
----
-
-### X: Sam Altman
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/sama)**
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-05-13T17:19:02.002Z
+📅 2026-05-13T23:59:28.747Z
 
 ---
 
-### X: Sam Altman
-**[网址来源： http://twitter.com/sama](https://r.jina.ai/http://twitter.com/sama)**
+### X: OpenAI
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-网址来源： http://twitter.com/sama
+警告：目标URL返回错误520 ：
 
-📅 2026-05-13T17:19:02.002Z
+📅 2026-05-13T23:59:28.747Z
 
 ---
 
