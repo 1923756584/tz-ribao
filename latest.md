@@ -1,12 +1,12 @@
 ---
 title: "2026年5月15日 - TZ日报"
-date: 2026-05-15T16:57:45.141Z
+date: 2026-05-15T23:59:44.645Z
 draft: false
 ---
 
 # 2026年5月15日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/5/15 16:57:45
+> 📊 今日汇总 38 条 · 🕐 2026/5/15 23:59:44
 
 ---
 
@@ -86,7 +86,16 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[跑道从帮助电影制作人开始。现在它想在人工智能领域击败谷歌。](https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/)**
+**[OpenAI试用结束，马斯克创始人机器继续旋转](https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/)**
+
+奥特曼试验本周已经结束，最后的论点又回到了一个问题上：我们能否相信人工智能的负责人，整整一代的创始人已经脱颖而出[…]
+
+📅 Fri, 15 May 2026 19:24:16 +0000
+
+---
+
+### TechCrunch AI Products
+**[跑道最初是帮助电影制作人—现在它想在人工智能领域击败谷歌](https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/)**
 
 人工智能**视频生成**创业公司Runway押注**视频生成**是通往世界模型的道路，而作为人工智能局外人则是一种优势，而不是一种负担
 
@@ -100,15 +109,6 @@ draft: false
 此**更新**为用户提供了更大的灵活性，让他们可以更好地管理工作流程。
 
 📅 Thu, 14 May 2026 20:58:55 +0000
-
----
-
-### TechCrunch AI Products
-**[Clawdmeter将您的Claude Code使用统计数据转换为微型桌面仪表板](https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/)**
-
-一个名为Clawdmeter的新**开源**小工具将**Claude** Code的使用统计数据转变为AI编码高级用户的小型桌面仪表板
-
-📅 Thu, 14 May 2026 19:05:01 +0000
 
 ---
 
@@ -199,14 +199,14 @@ draft: false
 
 ---
 
-### VentureBeat
-![人工智能智商在这里：一个新的网站在人类智商尺度上对前沿人工智能模型进行评分。结果已经分裂了技术。](https://images.ctfassets.net/jdtwqhzvc2n1/LXlQ0Fb1icQNc42FLtzxY/f7d524bafbe137ed51215797495e242d/Nuneybits_Vector_art_of_glowing_scatterplot_transformed_into_co_2860d5e5-a9d2-4366-acd8-947838753fb6.webp?w=300&q=30)
+### The Verge
+![人工智能电台主持人演示为何人工智能不能单独受到信任](https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_PODCASTS.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[人工智能智商在这里：一个新的网站在人类智商尺度上对前沿人工智能模型进行评分。结果已经分裂了技术。](https://venturebeat.com/technology/ai-iq-is-here-a-new-site-scores-frontier-ai-models-on-the-human-iq-scale-the-results-are-already-dividing-tech)**
+**[人工智能电台主持人演示为何人工智能不能单独受到信任](https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies)**
 
-**OpenAI**的**GPT**-5在最便宜的极端情况下， **GPT**-oss-20b （一种**开源**OpenAI模型）出现在$ 0附近
+其最新的四重奏广播电台由Chat**GPT**的一些最受欢迎的人工智能模型“**OpenAI**R”运营
 
-📅 Wed, 13 May 2026 23:47:24 GMT
+📅 2026-05-15T17:09:16.000Z
 
 ---
 
@@ -233,6 +233,17 @@ draft: false
 ---
 
 ### VentureBeat
+![Intercom （现在称为Fin ）启动了一个人工智能代理，其唯一的工作就是管理另一个人工智能代理](https://images.ctfassets.net/jdtwqhzvc2n1/10I7GZFZUePTddNj8ASkQA/6377bab1d1c7f5e7bfeed8c047ac2588/Nuneybits_Vector_art_of_a_back-office_maze_navigated_by_an_AI_o_f7f13274-2bb1-4557-bc50-34a00548ce56.webp?w=300&q=30)
+
+**[Intercom （现在称为Fin ）启动了一个人工智能代理，其唯一的工作就是管理另一个人工智能代理](https://venturebeat.com/technology/intercom-now-called-fin-launches-an-ai-agent-whose-only-job-is-managing-another-ai-agent)**
+
+为什么Fin Operator使用**Anthropic**的**Claude**而不是公司自己的AI模型在一个揭示技术细节的领域， **Anthropic**的**Claude**模型经过精心优化
+
+📅 Fri, 15 May 2026 21:06:09 GMT
+
+---
+
+### VentureBeat
 ![开发人员现在可以使用Raindrop的开源工具Workshop在本地调试和评估AI代理](https://images.ctfassets.net/jdtwqhzvc2n1/6wIjmrKnWVARYlidhqCcW4/3591335d0442d88d9d34cad4d5dd86b2/ChatGPT_Image_May_14__2026__06_00_40_PM.png?w=300&q=30)
 
 **[开发人员现在可以使用Raindrop的开源工具Workshop在本地调试和评估AI代理](https://venturebeat.com/technology/developers-can-now-debug-and-evaluate-ai-agents-locally-with-raindrops-open-source-tool-workshop)**
@@ -243,47 +254,25 @@ draft: false
 
 ---
 
-### Ars Technica
-**[Claude Code的产品负责人谈论使用限制、透明度和“精益利用”](https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/)**
-
-“我们没有宏伟的计划，” **Anthropic**的Cat Wu说，但这是故意的。
-
-📅 Fri, 15 May 2026 10:30:01 +0000
-
----
-
-### The Verge
-![OpenAI现在希望ChatGPT访问您的银行账户](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ChatGPT-financial-accounts.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[OpenAI现在希望ChatGPT访问您的银行账户](https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection)**
-
-Chat**GPT**甚至会知道您有多少信用卡债务今天在预览版中宣布的新功能将允许用户“安全地连接” Chat**GPT**与Plaid--12使用的银行到应用桥接平台
-
-📅 2026-05-15T16:00:00.000Z
-
----
-
 ### Wired Technology
-**[米拉·穆拉蒂（ Mira Murati ）希望她的人工智能“让人类保持在循环中”](https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/)**
+**[Greg Brockman正式接管OpenAI产品的最新重组](https://www.wired.com/story/openai-reorg-greg-brockman-product/)**
 
-思维机器实验室创始人兼**OpenAI**前首席技术官告诉《连线》杂志，她对自动化人员失业不感兴趣，相反，她正在构建可以协作的人工智能
+**OpenAI**再次重组其高管级别，作为其将Chat**GPT**和Codex统一为一个核心产品体验的努力的一部分
 
-📅 Fri, 15 May 2026 09:00:00 +0000
+📅 Fri, 15 May 2026 17:09:17 +0000
+
+---
+
+### Ars Technica
+**[业内人士称， OpenAI被苹果糟糕的ChatGPT集成所“灼伤”](https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/)**
+
+法官命令苹果向马斯克发送关于秘密Chat**GPT**交易的内部消息。
+
+📅 Fri, 15 May 2026 18:13:33 +0000
 
 ---
 
 ## 📦 GitHub热门
-
-### GitHub Active (Python)
-![notebooklm-py ： Google NotebookLM的非官方Python API和代理技能。通过Python、CLI和AI代理（如Claude Code、Codex和OpenClaw ）完全以编程方式访问NotebookLM的功能，包括Web UI不公开的功能。](https://avatars.githubusercontent.com/u/737447?v=4)
-
-**[notebooklm-py ： Google NotebookLM的非官方Python API和代理技能。通过Python、CLI和AI代理（如Claude Code、Codex和OpenClaw ）完全以编程方式访问NotebookLM的功能，包括Web UI不公开的功能。](https://github.com/teng-lin/notebooklm-py)**
-
-⭐ 13,293星· 1859叉· Python · **Google** Notebook的非官方Python API和代理技能LMand AI代理，如**Claude** Code
-
-📅 2026-05-15T16:56:31Z
-
----
 
 ### GitHub New (New AI)
 ![🆕 rhino-mcp ：通过MCP对Rhino 8进行AI控制— Claude、ChatGPT和Ollama。32个工具、原子批处理、自动缩略图、gzip压缩。](https://avatars.githubusercontent.com/u/265825070?v=4)
@@ -293,6 +282,28 @@ Chat**GPT**甚至会知道您有多少信用卡债务今天在预览版中宣布
 ⭐ 4 star (新项目) · C# · AI control of Rhino 8 via MCP — **Claude**, Chat**GPT** & Ollama32 tools, atomic batches, auto-thumbnails, gzip compression
 
 📅 2026-05-12T09:41:32Z
+
+---
+
+### GitHub New (New AI)
+![🆕 公共资源： Öffentliche fachliche Ressourcen zu KI und Digitalisierung in der öffentlichen Verwaltung。](https://avatars.githubusercontent.com/u/270301442?v=4)
+
+**[🆕 公共资源： Öffentliche fachliche Ressourcen zu KI und Digitalisierung in der öffentlichen Verwaltung。](https://github.com/IMTB-CON/public-resources)**
+
+⭐ 3 star (新项目) · N/A · Öffentliche fachliche Ressourcen zu KI und Digitalisierung in der öffentlichen Verwaltung
+
+📅 2026-05-15T14:03:46Z
+
+---
+
+### GitHub New (New AI)
+![🆕 NewsSense-AI ：智能新闻理解系统，将任何新闻标题或文章分为10个类别，检测情绪，并使用最先进的NLP提取命名实体。](https://avatars.githubusercontent.com/u/133123827?v=4)
+
+**[🆕 NewsSense-AI ：智能新闻理解系统，将任何新闻标题或文章分为10个类别，检测情绪，并使用最先进的NLP提取命名实体。](https://github.com/MusaIslamFahad/NewsSense-AI)**
+
+⭐ 3 star (新项目) · TypeScript · Intelligent **new**s Understanding System which classify any **new**s headline or article into 10 categoriesand extract named entities using state of the art NLP
+
+📅 2026-05-15T09:58:12Z
 
 ---
 
@@ -307,17 +318,6 @@ Chat**GPT**甚至会知道您有多少信用卡债务今天在预览版中宣布
 
 ---
 
-### GitHub New (New AI)
-![🆕 公共资源： Öffentliche fachliche Ressourcen zu KI und Digitalisierung in der öffentlichen Verwaltung。](https://avatars.githubusercontent.com/u/270301442?v=4)
-
-**[🆕 公共资源： Öffentliche fachliche Ressourcen zu KI und Digitalisierung in der öffentlichen Verwaltung。](https://github.com/IMTB-CON/public-resources)**
-
-⭐ 2 star (新项目) · N/A · Öffentliche fachliche Ressourcen zu KI und Digitalisierung in der öffentlichen Verwaltung
-
-📅 2026-05-15T14:03:46Z
-
----
-
 ## 💬 社交动态
 
 ### X: OpenAI
@@ -325,7 +325,7 @@ Chat**GPT**甚至会知道您有多少信用卡债务今天在预览版中宣布
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-05-15T16:54:33.029Z
+📅 2026-05-15T23:56:39.467Z
 
 ---
 
@@ -334,43 +334,16 @@ Chat**GPT**甚至会知道您有多少信用卡债务今天在预览版中宣布
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-05-15T16:55:52.683Z
-
----
-
-### Hacker News
-**[Pixel 10的零点击漏洞利用链](https://projectzero.google/2026/05/pixel-10-exploit.html)**
-
-**Google**/2026/05/pixel-10-exploithtml评论网址： https://**new**s
-
-📅 Fri, 15 May 2026 13:39:54 +0000
+📅 2026-05-15T23:57:58.578Z
 
 ---
 
 ### Hacker News AI
-**[Anthropic调查未经授权访问Mythos AI工具的主张](https://www.bbc.com/news/articles/cy41zejp9pko)**
+**[谷歌表示，生成式人工智能可见性仍然是SEO](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide)**
 
-文章网址： https://wwwcom/**new**s/articles/cy41zejp9pko评论网址： https://**new**s
+文章网址： https://developerscom/search/docs/fundamentals/ai-optimization-guide评论网址： https://**new**s
 
-📅 Fri, 15 May 2026 16:33:36 +0000
-
----
-
-### Hacker News AI
-**[Google Analytics 4对人工智能流量撒谎](https://medium.com/@eliotdill/google-analytics-4-is-lying-to-you-about-ai-traffic-and-they-might-like-it-that-way-f5bd4c5652e1)**
-
-文章网址： https://mediumcom/@ eliotdill/**Google**-analytics-4-is-lying-to-you-about-ai-traffic-and-they-might-like-it-that-way-f5bd4c5652e1评论网址： https://**new**s
-
-📅 Fri, 15 May 2026 16:08:16 +0000
-
----
-
-### Hacker News AI
-**[人类的Bun Rust重写以AI的速度合并](https://www.theregister.com/devops/2026/05/14/anthropics-bun-rust-rewrite-merged-at-speed-of-ai/5240381)**
-
-文章网址： https://wwwcom/devops/2026/05/14/**Anthropic**s-bun-rust-rewrite-merged-at-speed-of-ai/5240381评论网址： https://**new**s
-
-📅 Fri, 15 May 2026 15:17:36 +0000
+📅 Fri, 15 May 2026 21:52:09 +0000
 
 ---
 
@@ -379,7 +352,7 @@ Chat**GPT**甚至会知道您有多少信用卡债务今天在预览版中宣布
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-05-15T16:54:33.029Z
+📅 2026-05-15T23:56:39.467Z
 
 ---
 
@@ -388,7 +361,34 @@ Title: 520: Web服务器返回未知错误
 
 警告：目标URL返回错误520 ：
 
-📅 2026-05-15T16:54:33.029Z
+📅 2026-05-15T23:56:39.467Z
+
+---
+
+### X: OpenAI
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Markdown 内容
+
+📅 2026-05-15T23:56:39.467Z
+
+---
+
+### X: OpenAI
+**[# twitter.com | 520 ： Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+# twitter.com | 520 ： Web服务器返回未知错误
+
+📅 2026-05-15T23:56:39.467Z
+
+---
+
+### X: Sam Altman
+**[网址来源： http://twitter.com/sama](https://r.jina.ai/http://twitter.com/sama)**
+
+网址来源： http://twitter.com/sama
+
+📅 2026-05-15T23:56:55.271Z
 
 ---
 
