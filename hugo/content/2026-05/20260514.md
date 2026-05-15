@@ -1,12 +1,12 @@
 ---
 title: "2026年5月14日 - TZ日报"
-date: 2026-05-14T17:07:47.564Z
+date: 2026-05-15T00:02:46.357Z
 draft: false
 ---
 
 # 2026年5月14日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/5/14 17:07:47
+> 📊 今日汇总 38 条 · 🕐 2026/5/15 00:02:46
 
 ---
 
@@ -32,11 +32,29 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[Anthropic的Cat Wu说，将来，人工智能会在您知道它们是什么之前预测您的需求](https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/)**
+**[据报道， OpenAI正在准备对苹果提起法律诉讼；它不会是第一个感到被烧伤的合作伙伴](https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/)**
 
-**Claude** Code和Cowork的产品负责人表示，人工智能的下一个**重要**步骤是主动性。
+**OpenAI**对苹果的Chat**GPT**整合感到非常沮丧，因为该整合未能为用户提供服务，并且它预计该公司现在正在积极探索针对iPhone制造商的法律诉讼
 
-📅 Wed, 13 May 2026 19:28:06 +0000
+📅 Thu, 14 May 2026 19:12:03 +0000
+
+---
+
+### OpenAI Blog
+**[随时随地与Codex合作](https://openai.com/index/work-with-codex-from-anywhere)**
+
+使用Chat**GPT**移动应用程序随时随地使用Codex跨设备和远程环境实时监控、指导和批准编码任务
+
+📅 Thu, 14 May 2026 13:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[帮助ChatGPT更好地识别敏感对话中的语境](https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations)**
+
+了解新的Chat**GPT**安全**更新**如何提高敏感对话中的情境感知能力，帮助随着时间的推移检测风险并更安全地响应
+
+📅 Thu, 14 May 2026 00:00:00 GMT
 
 ---
 
@@ -68,20 +86,20 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[谁来决定人工智能告诉你什么？坎贝尔·布朗（ Campbell Brown ）曾是Meta的新闻主管，他有自己的想法](https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/)**
+**[OpenAI称Codex即将登陆您的手机](https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/)**
 
-“硅谷正在围绕一件事情进行对话，消费者之间正在进行完全不同的对话，
+此**更新**为用户提供了更大的灵活性，让他们可以更好地管理工作流程。
 
-📅 Thu, 14 May 2026 06:05:31 +0000
+📅 Thu, 14 May 2026 20:58:55 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[Clio的$ 5亿里程碑在Anthropic加大赌注的同时到来](https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/)**
+**[Clawdmeter将您的Claude Code使用统计数据转换为微型桌面仪表板](https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/)**
 
-包括刚刚达到5亿美元ARR的Clio在内的法律科技初创公司正在看到大量客户采用
+一个名为Clawdmeter的新**开源**小工具将**Claude** Code的使用统计数据转变为AI编码高级用户的小型桌面仪表板
 
-📅 Thu, 14 May 2026 05:24:39 +0000
+📅 Thu, 14 May 2026 19:05:01 +0000
 
 ---
 
@@ -91,24 +109,6 @@ draft: false
 一个伪装成**OpenAI**版本的恶意Hugging Face存储库将信息窃取恶意软件发送到Windows机器，并记录了大约244的程度[…] Hugging Face后托管了伪装成**OpenAI**版本的恶意软件**首次**出现在AI新闻上
 
 📅 Tue, 12 May 2026 13:52:00 +0000
-
----
-
-### OpenAI Blog
-**[财务团队如何使用Codex](https://openai.com/academy/how-finance-teams-use-codex)**
-
-了解财务团队如何使用Codex根据实际工作输入构建MBR、报告包、差异桥梁、模型检查和规划场景
-
-📅 Tue, 12 May 2026 15:00:00 GMT
-
----
-
-### OpenAI Blog
-**[高尔夫教会了我们有关人工智能辅助研究的哪些参数](https://openai.com/index/what-parameter-golf-taught-us)**
-
-在严格限制下探索人工智能辅助机器学习研究和新型模型设计的1000多篇论文
-
-📅 Tue, 12 May 2026 00:00:00 GMT
 
 ---
 
@@ -200,50 +200,6 @@ draft: false
 ---
 
 ### VentureBeat
-![Perceptron Mk1采用高性能视频分析AI模型，比Anthropic、OpenAI和Google便宜80-90%](https://images.ctfassets.net/jdtwqhzvc2n1/792xpzV56beWnPgMn8j8Ku/2e0da2eadb098389cada35ebac209693/ChatGPT_Image_May_12__2026__02_26_29_PM.png?w=300&q=30)
-
-**[Perceptron Mk1采用高性能视频分析AI模型，比Anthropic、OpenAI和Google便宜80-90%](https://venturebeat.com/technology/perceptron-mk1-shocks-with-highly-performant-video-analysis-ai-model-80-90-cheaper-than-anthropic-openai-and-google)**
-
-**Anthropic**的**Claude** Sonnet 45、**OpenAI**的**GPT**-5和**Google**的**Gemini** 3
-
-📅 Tue, 12 May 2026 18:45:17 GMT
-
----
-
-### VentureBeat
-![Anthropic最终在商业人工智能采用方面击败了OpenAI ，但三大威胁可能会抹杀其领先地位](https://images.ctfassets.net/jdtwqhzvc2n1/4m169U8ajMEpWjEn6pQgzK/7690906968897882b8756a902d8848c6/Nuneybits_Vector_art_of_two_rising_lines_on_a_graph_burnt_orang_937edfc7-d114-495e-aad5-a2f1297757c6.webp?w=300&q=30)
-
-**[Anthropic最终在商业人工智能采用方面击败了OpenAI ，但三大威胁可能会抹杀其领先地位](https://venturebeat.com/technology/anthropic-finally-beat-openai-in-business-ai-adoption-but-3-big-threats-could-erase-its-lead)**
-
-自人工智能竞赛开始以来，美国企业**首次**为**Anthropic**的**Claude**付费，而不是**OpenAI**的Chat**GPT**。在那一集之后，用户围绕**Anthropic**集结， **Claude**在App Store上暂时超过了Chat**GPT**
-
-📅 Wed, 13 May 2026 21:53:05 GMT
-
----
-
-### VentureBeat
-![前沿的人工智能模型不仅仅删除文档内容—它们会重写文档内容，而且几乎不可能捕捉到错误](https://images.ctfassets.net/jdtwqhzvc2n1/5A114QnbRiFMtlZuY18ROe/8a6fb481f9761188b83d3ec44d26714e/LLM_data_corruption.jpg?w=300&q=30)
-
-**[前沿的人工智能模型不仅仅删除文档内容—它们会重写文档内容，而且几乎不可能捕捉到错误](https://venturebeat.com/orchestration/frontier-ai-models-dont-just-delete-document-content-they-rewrite-it-and-the-errors-are-nearly-impossible-to-catch)**
-
-研究人员测试了来自**OpenAI**L的19种不同语言模型仅在**GPT**家族中，模型在18个月内得分从20%以下降至70%左右， ”Laban说。
-
-📅 Wed, 13 May 2026 20:10:54 GMT
-
----
-
-### The Verge
-![伊隆·马斯克（ Elon Musk ）和萨姆·奥尔特曼（ Sam Altman ）就OpenAI的未来进行的法庭](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[伊隆·马斯克（ Elon Musk ）和萨姆·奥尔特曼（ Sam Altman ）就OpenAI的未来进行的法庭](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)**
-
-**OpenAI**表示， “这起诉讼一直是毫无根据和嫉妒的企图让竞争对手脱轨” ，目的是推动马斯克自己的SpaceX/xAI/X公司，这些公司今天早上本着澄清的精神将Grok作为Chat**GPT**A的竞争对手**推出**…… Zilis表示，她对**OpenAI**董事会没有在ChatGPT**发布**之前得到通知表示严重担忧
-
-📅 2026-05-14T15:46:04.000Z
-
----
-
-### VentureBeat
 ![Anthropic恢复了OpenClaw和第三方代理对Claude订阅的使用—并附有catch](https://images.ctfassets.net/jdtwqhzvc2n1/1oDIYYQnFf2xRZFNGMkIbD/241c6b0680b3acdbd7c7af782e5cca02/ChatGPT_Image_May_13__2026__06_07_24_PM.png?w=300&q=30)
 
 **[Anthropic恢复了OpenClaw和第三方代理对Claude订阅的使用—并附有catch](https://venturebeat.com/technology/anthropic-reinstates-openclaw-and-third-party-agent-usage-on-claude-subscriptions-with-a-catch)**
@@ -255,48 +211,92 @@ draft: false
 ---
 
 ### The Verge
-![Beats Solo 4已恢复到今年最优惠的价格](https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Verge-Deals-Beats-Solo-4.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![OpenAI的Codex现已在ChatGPT移动应用程序中](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/App-view.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[Beats Solo 4已恢复到今年最优惠的价格](https://www.theverge.com/gadgets/930213/beats-solo-4-headphones-anker-nano-travel-adapter-deal-sale)**
+**[OpenAI的Codex现已在ChatGPT移动应用程序中](https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview)**
 
-虽然每个零售商都在6月8日之前提供black99折扣，但与购买新产品相比，您可以节省47 $
+**OpenAI**将允许用户从手机上的Chat**GPT**应用程序访问Codex ，这是其桌面AI工具，可以在您的计算机上编写代码和使用应用程序。继**Anthropic**的**Claude** Code人气飙升之后
 
-📅 2026-05-14T15:13:14.000Z
+📅 2026-05-14T20:00:00.000Z
 
 ---
 
 ### VentureBeat
-![立即通过6个可操作的步骤保护您的企业免受Shai-Hulud蠕虫和npm漏洞的侵害](https://images.ctfassets.net/jdtwqhzvc2n1/3Fpkq8k1bNbp4FzvFx6VNs/d5acd06709dd0292e387c70978080a44/worm.png?w=300&q=30)
+![Cerebras的股票在第一天几乎翻了一番，因为人工智能芯片制造商达到了1000亿美元—这对人工智能基础设施意味着什么](https://images.ctfassets.net/jdtwqhzvc2n1/1gQf5I0cUp4KcxXhfUXces/a6c77f253098bf69f570fe27f31cbb1f/Nuneybits_Vector_art_of_a_square_golden_wafer-scale_chip_as_a_r_31f72f61-77ca-4e32-92d1-88e71bd3c852.webp?w=300&q=30)
 
-**[立即通过6个可操作的步骤保护您的企业免受Shai-Hulud蠕虫和npm漏洞的侵害](https://venturebeat.com/security/shai-hulud-worm-172-npm-pypi-packages-valid-provenance-ci-cd-audit)**
+**[Cerebras的股票在第一天几乎翻了一番，因为人工智能芯片制造商达到了1000亿美元—这对人工智能基础设施意味着什么](https://venturebeat.com/technology/cerebras-stock-nearly-doubles-on-day-one-as-ai-chipmaker-hits-100-billion-what-it-means-for-ai-infrastructure)**
 
-它窃取**Claude**和Kiro AI代理配置，包括代理连接到**Claude** Code中的每个外部服务的MCP服务器身份验证令牌（
+**OpenAI**和Cerebras正在为未来的Cerebras硬件共同设计未来的模型--这是一个紧密的反馈循环，使Cerebras在**发布**前能够了解前沿模型架构，并为**OpenAI**推理系统的特定工作负载进行优化**OpenAI**的模型专为实时编码而设计
 
-📅 Tue, 12 May 2026 18:49:52 GMT
+📅 Thu, 14 May 2026 21:38:02 GMT
+
+---
+
+### VentureBeat
+![Claude Code的“/goals”将工作的客服代表与决定工作完成的客服代表分开](https://images.ctfassets.net/jdtwqhzvc2n1/5QiomvIzQxDISGQKVn7eKY/011a91af16b826b08b6ebe91a862d994/crimedy7_illustration_of_a_robot_boss_in_an_office_--ar_169_-_c9873131-7077-4f20-ac26-301b6b5f1a1a_3.png?w=300&q=30)
+
+**[Claude Code的“/goals”将工作的客服代表与决定工作完成的客服代表分开](https://venturebeat.com/orchestration/claude-codes-goals-separates-the-agent-that-works-from-the-one-that-decides-its-done)**
+
+最新的方法来自**Anthropic**:/goals on **Claude** Code ，它正式将任务执行和任务评估分开”话虽如此， **Anthropic**并不是第一个进入市场的
+
+📅 Thu, 14 May 2026 18:12:38 GMT
+
+---
+
+### The Verge
+![微软开始取消Claude Code许可证](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832912/STK095_MICROSOFT_2_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[微软开始取消Claude Code许可证](https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad)**
+
+微软于去年12月**首次**开始开放**Claude** Code的访问权限，邀请数千名自己的开发人员每天使用**Anthropic**的AI编码工具也许有点过于流行，因为微软现在正准备放弃**Claude** Code
+
+📅 2026-05-14T19:00:00.000Z
+
+---
+
+### VentureBeat
+![开发人员现在可以使用Raindrop的开源工具Workshop在本地调试和评估AI代理](https://images.ctfassets.net/jdtwqhzvc2n1/6wIjmrKnWVARYlidhqCcW4/3591335d0442d88d9d34cad4d5dd86b2/ChatGPT_Image_May_14__2026__06_00_40_PM.png?w=300&q=30)
+
+**[开发人员现在可以使用Raindrop的开源工具Workshop在本地调试和评估AI代理](https://venturebeat.com/technology/developers-can-now-debug-and-evaluate-ai-agents-locally-with-raindrops-open-source-tool-workshop)**
+
+可观测性初创公司Raindrop AI的新**开源**它集成了流行的SDK和框架，如Vercel AI SDK、**OpenAI**、**Anthropic**、LangChain、LlamaIndex和CrewAI
+
+📅 Thu, 14 May 2026 22:30:51 GMT
+
+---
+
+### The Verge
+![看吧，伊隆·马斯克的笨蛋奖杯](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKE010_MuskvAltman_AParkin05.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[看吧，伊隆·马斯克的笨蛋奖杯](https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue)**
+
+“这是**OpenAI**员工为研究科学家Josh Achiam购买的纪念品， Josh Achiam昨天作证，据称，当Elon Musk离开**OpenAI**时，他谈到想要比谷歌领先
+
+📅 2026-05-14T20:59:23.000Z
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub New (New AI)
-![🆕 aws-certified-ai-practitioner-brasil: Repositório com recursos em Português (PT-BR) para estudos da certificação AWS认证人工智能从业者(AIF-C01)](https://avatars.githubusercontent.com/u/174836112?v=4)
+### GitHub Active (Python)
+![pydantic-ai ： AI Agent框架， Pydantic方式](https://avatars.githubusercontent.com/u/110818415?v=4)
 
-**[🆕 aws-certified-ai-practitioner-brasil: Repositório com recursos em Português (PT-BR) para estudos da certificação AWS认证人工智能从业者(AIF-C01)](https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil)**
+**[pydantic-ai ： AI Agent框架， Pydantic方式](https://github.com/pydantic/pydantic-ai)**
 
-⭐ 32 star (新项目) · HTML · Repositório com recursos em Português (PT-BR) para estudos da certificação AWS Certified AI Practitioner (AIF-C01)
+⭐ 17,065星· 2081叉·蟒蛇· AI智能体框架， Pydantic方式
 
-📅 2026-05-11T17:30:31Z
+📅 2026-05-15T00:01:21Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 awesome-ml-llm-case-studies ：来自150多家公司的800多项真实世界机器学习和LLM系统设计案例研究Google、Meta、Netflix、Uber、Airbnb等。生产AI ，而不是理论。](https://avatars.githubusercontent.com/u/67623286?v=4)
+![🆕 rhino-mcp ：通过MCP对Rhino 8进行AI控制— Claude、ChatGPT和Ollama。32个工具、原子批处理、自动缩略图、gzip压缩。](https://avatars.githubusercontent.com/u/265825070?v=4)
 
-**[🆕 awesome-ml-llm-case-studies ：来自150多家公司的800多项真实世界机器学习和LLM系统设计案例研究Google、Meta、Netflix、Uber、Airbnb等。生产AI ，而不是理论。](https://github.com/hackThacker/awesome-ml-llm-case-studies)**
+**[🆕 rhino-mcp ：通过MCP对Rhino 8进行AI控制— Claude、ChatGPT和Ollama。32个工具、原子批处理、自动缩略图、gzip压缩。](https://github.com/tanishqbhattad/rhino-mcp)**
 
-⭐ 4 star (新项目) · N/A · 800+ real-world ML & LLM system design case studies from 150+ companies **Google**, **Meta**, Netflix, Uber, Airbnb & moreProduction AI, not theory
+⭐ 4 star (新项目) · C# · AI control of Rhino 8 via MCP — **Claude**, Chat**GPT** & Ollama32 tools, atomic batches, auto-thumbnails, gzip compression
 
-📅 2026-05-11T02:59:53Z
+📅 2026-05-12T09:41:32Z
 
 ---
 
@@ -312,13 +312,13 @@ draft: false
 ---
 
 ### GitHub New (New AI)
-![🆕 rhino-mcp ：通过MCP对Rhino 8进行AI控制— Claude、ChatGPT和Ollama。32个工具、原子批处理、自动缩略图、gzip压缩。](https://avatars.githubusercontent.com/u/265825070?v=4)
+![🆕 dino-game-ai ：使用遗传算法AI训练在Rust中克隆Chrome Dinosaur游戏— 100个智能体通过不断发展的神经网络（ Burn框架）学习游戏。具有人体游戏、具有实时大脑可视化的AI训练以及人与AI模式。](https://avatars.githubusercontent.com/u/208451349?v=4)
 
-**[🆕 rhino-mcp ：通过MCP对Rhino 8进行AI控制— Claude、ChatGPT和Ollama。32个工具、原子批处理、自动缩略图、gzip压缩。](https://github.com/tanishqbhattad/rhino-mcp)**
+**[🆕 dino-game-ai ：使用遗传算法AI训练在Rust中克隆Chrome Dinosaur游戏— 100个智能体通过不断发展的神经网络（ Burn框架）学习游戏。具有人体游戏、具有实时大脑可视化的AI训练以及人与AI模式。](https://github.com/kagesyntax/dino-game-ai)**
 
-⭐ 2 star (新项目) · C# · AI control of Rhino 8 via MCP — **Claude**, Chat**GPT** & Ollama32 tools, atomic batches, auto-thumbnails, gzip compression
+⭐ 2 star (新项目) · Rust · Chrome Dinosaur Game clone in Rust with Genetic Algorithm AI training — 100 agents learn to play via an evolving neural network (Burn framework)Features human play, AI training with live brain visualization, and Human vs AI mode
 
-📅 2026-05-12T09:41:32Z
+📅 2026-05-14T22:28:44Z
 
 ---
 
@@ -329,7 +329,7 @@ draft: false
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-05-14T17:04:37.604Z
+📅 2026-05-14T23:59:48.258Z
 
 ---
 
@@ -338,52 +338,7 @@ draft: false
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-05-14T17:05:57.262Z
-
----
-
-### Hacker News
-**[Anthropic与盖茨基金会建立了$ 2亿的合作伙伴关系](https://www.anthropic.com/news/gates-foundation-partnership)**
-
-文章网址： https://wwwcom/**new**s/gates-foundation-partnership评论网址： https://**new**s
-
-📅 Thu, 14 May 2026 15:15:05 +0000
-
----
-
-### Hacker News
-**[Claude AI收回了一个持有40万美元的11岁比特币钱包](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup)**
-
-文章网址： https://wwwcom/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-**Claude**-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an old-wallet-backup评论网址： https://**new**s
-
-📅 Thu, 14 May 2026 14:49:48 +0000
-
----
-
-### Hacker News
-**[在OpenAI首次公开募股之前， Sam Altman在共和党审查下的业务交易](https://www.wsj.com/tech/ai/sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo-52c1cc4d)**
-
-文章网址： https://wwwcom/tech/ai/sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-**OpenAI**s-ipo-52c1cc4d评论网址： https://**new**s
-
-📅 Thu, 14 May 2026 12:27:29 +0000
-
----
-
-### Hacker News AI
-**[Conductor ：多Agent AI工作流程的确定性编排](https://opensource.microsoft.com/blog/2026/05/14/conductor-deterministic-orchestration-for-multi-agent-ai-workflows/)**
-
-文章网址： https://opensourcecom/blog/2026/05/14/conductor-deterministic-orchestration-for-multi-agent-ai-workflows/评论网址： https://**new**s
-
-📅 Thu, 14 May 2026 16:42:46 +0000
-
----
-
-### Hacker News AI
-**[人工智能辅助代码迁移：谷歌从TensorFlow到JAX的迁移速度提高了6倍](https://cloud.google.com/blog/topics/developers-practitioners/6x-faster-migration-from-tensorflow-to-jax)**
-
-文章网址： https://cloud**Google**
-
-📅 Thu, 14 May 2026 16:34:42 +0000
+📅 2026-05-15T00:00:56.243Z
 
 ---
 
@@ -392,7 +347,52 @@ draft: false
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-05-14T17:04:37.604Z
+📅 2026-05-14T23:59:48.258Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误520 ：
+
+📅 2026-05-14T23:59:48.258Z
+
+---
+
+### X: OpenAI
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Markdown 内容
+
+📅 2026-05-14T23:59:48.258Z
+
+---
+
+### X: OpenAI
+**[# twitter.com | 520 ： Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+# twitter.com | 520 ： Web服务器返回未知错误
+
+📅 2026-05-14T23:59:48.258Z
+
+---
+
+### X: Sam Altman
+**[网址来源： http://twitter.com/sama](https://r.jina.ai/http://twitter.com/sama)**
+
+网址来源： http://twitter.com/sama
+
+📅 2026-05-15T00:00:04.523Z
+
+---
+
+### X: Andrej Karpathy
+**[网址来源： http://twitter.com/karpathy](https://r.jina.ai/http://twitter.com/karpathy)**
+
+网址来源： http://twitter.com/karpathy
+
+📅 2026-05-15T00:00:20.892Z
 
 ---
 
