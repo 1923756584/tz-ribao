@@ -1,12 +1,12 @@
 ---
 title: "2026年5月16日 - TZ日报"
-date: 2026-05-16T16:04:36.952Z
+date: 2026-05-16T23:57:31.838Z
 draft: false
 ---
 
 # 2026年5月16日 - TZ日报
 
-> 📊 今日汇总 37 条 · 🕐 2026/5/16 16:04:36
+> 📊 今日汇总 38 条 · 🕐 2026/5/16 23:57:31
 
 ---
 
@@ -14,7 +14,7 @@ draft: false
 
 - **产品更新**: 10 条
 - **前沿研究**: 8 条
-- **行业展望**: 7 条
+- **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
 
@@ -32,7 +32,7 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[据报道， OpenAI联合创始人Greg Brockman负责产品战略](https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/)**
+**[OpenAI联合创始人Greg Brockman负责产品战略](https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/)**
 
 据报道， **OpenAI**计划将Chat**GPT**与其编程产品Codex
 
@@ -103,12 +103,12 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[OpenAI称Codex即将登陆您的手机](https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/)**
+### OpenAI Blog
+**[业务运营团队如何使用Codex](https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex)**
 
-此**更新**为用户提供了更大的灵活性，让他们可以更好地管理工作流程。
+了解业务运营团队如何使用Codex创建计划简报战略**更新**
 
-📅 Thu, 14 May 2026 20:58:55 +0000
+📅 Fri, 15 May 2026 00:00:00 GMT
 
 ---
 
@@ -150,15 +150,6 @@ Altman的审判中，律师们对Elon Musk和**OpenAI**首席执行官Sam Altman
 
 ---
 
-### MIT Tech Research
-**[人工智能聊天机器人正在提供人们的真实电话号码](https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/)**
-
-产品设计师”来电者显然被谷歌的生成式人工智能误导了
-
-📅 Wed, 13 May 2026 18:09:03 +0000
-
----
-
 ### ArXiv AI (cs.AI)
 **[GraphBit ：一种基于图形的非线性Agent编排Agent框架](https://arxiv.org/abs/2605.13848)**
 
@@ -181,6 +172,15 @@ Altman的审判中，律师们对Elon Musk和**OpenAI**首席执行官Sam Altman
 **[PREPING ：构建无任务的代理内存](https://arxiv.org/abs/2605.13880)**
 
 13880v1公告类型：新摘要：代理内存通常是从策划的演示离线构建或从部署后交互在线构建的，代理在**首次**引入新环境时面临冷启动缺口，没有任何特定任务的经验可用
+
+📅 Sat, 16 May 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[PolitNuggets ：对长尾政治事实的代理发现进行基准测试](https://arxiv.org/abs/2605.14002)**
+
+14002v1公告类型：新摘要：嵌入在代理框架中的大型推理模型(LRM)改变了静态的信息检索然而，现实世界的使用需要模型从分散的来源发现和合成“长尾”事实，这一能力仍未得到充分评估
 
 📅 Sat, 16 May 2026 00:00:00 -0400
 
@@ -222,17 +222,6 @@ Altman的审判中，律师们对Elon Musk和**OpenAI**首席执行官Sam Altman
 ---
 
 ### VentureBeat
-![Claude Code的“/goals”将工作的客服代表与决定工作完成的客服代表分开](https://images.ctfassets.net/jdtwqhzvc2n1/5QiomvIzQxDISGQKVn7eKY/011a91af16b826b08b6ebe91a862d994/crimedy7_illustration_of_a_robot_boss_in_an_office_--ar_169_-_c9873131-7077-4f20-ac26-301b6b5f1a1a_3.png?w=300&q=30)
-
-**[Claude Code的“/goals”将工作的客服代表与决定工作完成的客服代表分开](https://venturebeat.com/orchestration/claude-codes-goals-separates-the-agent-that-works-from-the-one-that-decides-its-done)**
-
-最新的方法来自**Anthropic**:/goals on **Claude** Code ，它正式将任务执行和任务评估分开”话虽如此， **Anthropic**并不是第一个进入市场的
-
-📅 Thu, 14 May 2026 18:12:38 GMT
-
----
-
-### VentureBeat
 ![Intercom （现在称为Fin ）启动了一个人工智能代理，其唯一的工作就是管理另一个人工智能代理](https://images.ctfassets.net/jdtwqhzvc2n1/10I7GZFZUePTddNj8ASkQA/6377bab1d1c7f5e7bfeed8c047ac2588/Nuneybits_Vector_art_of_a_back-office_maze_navigated_by_an_AI_o_f7f13274-2bb1-4557-bc50-34a00548ce56.webp?w=300&q=30)
 
 **[Intercom （现在称为Fin ）启动了一个人工智能代理，其唯一的工作就是管理另一个人工智能代理](https://venturebeat.com/technology/intercom-now-called-fin-launches-an-ai-agent-whose-only-job-is-managing-another-ai-agent)**
@@ -263,16 +252,34 @@ Altman的审判中，律师们对Elon Musk和**OpenAI**首席执行官Sam Altman
 
 ---
 
+### Ars Technica
+**[由于法官推迟审批， Anthropic的15亿$版权和解协议变得混乱](https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/)**
+
+律师被指控匆忙达成历史性和解，以扣押3.2亿美元的费用。
+
+📅 Fri, 15 May 2026 21:51:24 +0000
+
+---
+
+### ZDNet AI
+**[为什么这款金属探测器在2026年是一个明智的选择-尤其是在亚马逊上以60 $的折扣](https://www.zdnet.com/article/pancky-metal-detector-bundle-deal/)**
+
+使用亚马逊的金属探测器捆绑包，在海滩或自己的后院寻找宝藏。
+
+📅 Fri, 15 May 2026 20:00:46 GMT
+
+---
+
 ## 📦 GitHub热门
 
-### GitHub Active (Python)
-![nicotine-plus ： Soulseek点对点网络的图形客户端](https://avatars.githubusercontent.com/u/20911523?v=4)
+### GitHub Active (AI/ML)
+![Bindu ： Bindu ：将任何AI代理转变为活的微服务-可互操作、可观察、可组合。](https://avatars.githubusercontent.com/u/234059020?v=4)
 
-**[nicotine-plus ： Soulseek点对点网络的图形客户端](https://github.com/nicotine-plus/nicotine-plus)**
+**[Bindu ： Bindu ：将任何AI代理转变为活的微服务-可互操作、可观察、可组合。](https://github.com/GetBindu/Bindu)**
 
-⭐ 2878星· 174分叉· Python · Soulseek点对点网络的图形客户端
+⭐ 5919星· 369叉· Python · Bindu ：将任何AI代理转变为活的微服务-可互操作，可观察，可组合
 
-📅 2026-05-16T16:03:24Z
+📅 2026-05-16T23:54:11Z
 
 ---
 
@@ -312,11 +319,11 @@ Altman的审判中，律师们对Elon Musk和**OpenAI**首席执行官Sam Altman
 ## 💬 社交动态
 
 ### Hacker News AI
-**[显示HN ： Strava for AI编码–分析您的Copilot/Claude/Codex使用情况](https://github.com/microsoft/AI-Engineering-Coach)**
+**[使用Anthropic AI发现的Irst Apple M5内存漏洞](https://www.tomshardware.com/tech-industry/cyber-security/apple-m5-architecture-suffers-first-privilege-escalation-exploit-anthropics-claude-mythos-helps-researchers-bypass-memory-integrity-enforcement)**
 
-文章网址： https://githubcom/microsoft/AI-Engineering-Coach评论网址： https://**new**s
+文章网址： https://wwwcom/tech-industry/cyber-security/apple-m5-architecture-suffers-first-privilege-escalation-exploit-**Anthropic**s-**Claude**-mythos-helps-researchers-bypass-memory-integrity-enforcement评论网址： https://**new**s
 
-📅 Sat, 16 May 2026 15:23:41 +0000
+📅 Sat, 16 May 2026 22:08:21 +0000
 
 ---
 
@@ -325,7 +332,7 @@ Altman的审判中，律师们对Elon Musk和**OpenAI**首席执行官Sam Altman
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-05-16T16:01:27.816Z
+📅 2026-05-16T23:54:26.894Z
 
 ---
 
@@ -334,7 +341,16 @@ Altman的审判中，律师们对Elon Musk和**OpenAI**首席执行官Sam Altman
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-05-16T16:02:47.698Z
+📅 2026-05-16T23:55:45.992Z
+
+---
+
+### Hacker News
+**[我试图让Claude通过开源赏金赚钱](https://github.com/ztc00/algora-scout/blob/main/POST.md)**
+
+文章网址： https://githubcom/ztc00/algora-scout/blob/main/POST
+
+📅 Sat, 16 May 2026 22:13:54 +0000
 
 ---
 
@@ -347,39 +363,30 @@ Altman的审判中，律师们对Elon Musk和**OpenAI**首席执行官Sam Altman
 
 ---
 
-### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Hacker News AI
+**[AI内存读取器–用于浏览Claude Code内存文件的原生macOS应用程序](https://github.com/nvwalj/ai-memory-reader)**
 
-Title: 520: Web服务器返回未知错误
+文章网址： https://githubcom/nvwalj/ai-memory-reader评论网址： https://**new**s
 
-📅 2026-05-16T16:01:27.816Z
-
----
-
-### X: OpenAI
-**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-警告：目标URL返回错误520 ：
-
-📅 2026-05-16T16:01:27.816Z
+📅 Sat, 16 May 2026 22:41:57 +0000
 
 ---
 
-### X: OpenAI
-**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Hacker News AI
+**[人工智能人脸正在接管–并将整形外科医生逼疯](https://www.businessinsider.com/ai-generated-images-chatgpt-reshape-plastic-surgery-beauty-expectations-2026-5)**
 
-Markdown 内容
+文章网址： https://wwwcom/ai-generated-images-chat**GPT**-reshape-plastic-surgery-beauty-expectations-2026-5评论网址： https://**new**s
 
-📅 2026-05-16T16:01:27.816Z
+📅 Sat, 16 May 2026 21:42:28 +0000
 
 ---
 
-### X: OpenAI
-**[# twitter.com | 520 ： Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Hacker News AI
+**[Google AI概述– “Tersely”](https://www.google.com/search?q=tersely&oq=tersely)**
 
-# twitter.com | 520 ： Web服务器返回未知错误
+文章网址： https://wwwq = tersely&oq = tersely评论网址： https://**new**s
 
-📅 2026-05-16T16:01:27.816Z
+📅 Sat, 16 May 2026 21:21:35 +0000
 
 ---
 
