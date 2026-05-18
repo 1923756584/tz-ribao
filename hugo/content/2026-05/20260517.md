@@ -1,12 +1,12 @@
 ---
 title: "2026年5月17日 - TZ日报"
-date: 2026-05-17T16:04:35.495Z
+date: 2026-05-18T00:02:14.153Z
 draft: false
 ---
 
 # 2026年5月17日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/5/17 16:04:35
+> 📊 今日汇总 38 条 · 🕐 2026/5/18 00:02:14
 
 ---
 
@@ -68,20 +68,20 @@ draft: false
 ---
 
 ### TechCrunch AI Products
+**[为什么在Elon Musk-OpenAI试验中信任是一个大问题](https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/)**
+
+试验最后几天的一个**重要**主题是**OpenAI**首席执行官Sam Altman是否值得信赖。
+
+📅 Sun, 17 May 2026 19:46:34 +0000
+
+---
+
+### TechCrunch AI Products
 **[OpenAI试用结束，马斯克创始人机器继续旋转](https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/)**
 
 奥特曼试验本周已经结束，最后的论点又回到了一个问题上：我们能否相信人工智能的负责人，整整一代的创始人已经脱颖而出[…]
 
 📅 Fri, 15 May 2026 19:24:16 +0000
-
----
-
-### TechCrunch AI Products
-**[跑道最初是帮助电影制作人—现在它想在人工智能领域击败谷歌](https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/)**
-
-人工智能**视频生成**创业公司Runway押注**视频生成**是通往世界模型的道路，而作为人工智能局外人则是一种优势，而不是一种负担
-
-📅 Fri, 15 May 2026 14:00:00 +0000
 
 ---
 
@@ -128,7 +128,7 @@ Altman的审判中，律师们对Elon Musk和**OpenAI**首席执行官Sam Altman
 
 目前尚无针对埃博拉病毒Bundibugyow的疫苗或治疗方法，该病毒已在刚果和乌干达造成数百例疑似病例和80例死亡；世卫组织警告说， “疫情可能要大得多”
 
-📅 2026-05-16T11:00:00.000Z
+📅 2026-05-16T10:00:00.000Z
 
 ---
 
@@ -200,17 +200,6 @@ SMILE轨道器将使用X射线绘制太阳风如何打击磁层
 ---
 
 ### VentureBeat
-![Cerebras的股票在第一天几乎翻了一番，因为人工智能芯片制造商达到了1000亿美元—这对人工智能基础设施意味着什么](https://images.ctfassets.net/jdtwqhzvc2n1/1gQf5I0cUp4KcxXhfUXces/a6c77f253098bf69f570fe27f31cbb1f/Nuneybits_Vector_art_of_a_square_golden_wafer-scale_chip_as_a_r_31f72f61-77ca-4e32-92d1-88e71bd3c852.webp?w=300&q=30)
-
-**[Cerebras的股票在第一天几乎翻了一番，因为人工智能芯片制造商达到了1000亿美元—这对人工智能基础设施意味着什么](https://venturebeat.com/technology/cerebras-stock-nearly-doubles-on-day-one-as-ai-chipmaker-hits-100-billion-what-it-means-for-ai-infrastructure)**
-
-**OpenAI**和Cerebras正在为未来的Cerebras硬件共同设计未来的模型--这是一个紧密的反馈循环，使Cerebras在**发布**前能够了解前沿模型架构，并为**OpenAI**推理系统的特定工作负载进行优化**OpenAI**的模型专为实时编码而设计
-
-📅 Thu, 14 May 2026 21:38:02 GMT
-
----
-
-### VentureBeat
 ![Intercom （现在称为Fin ）启动了一个人工智能代理，其唯一的工作就是管理另一个人工智能代理](https://images.ctfassets.net/jdtwqhzvc2n1/10I7GZFZUePTddNj8ASkQA/6377bab1d1c7f5e7bfeed8c047ac2588/Nuneybits_Vector_art_of_a_back-office_maze_navigated_by_an_AI_o_f7f13274-2bb1-4557-bc50-34a00548ce56.webp?w=300&q=30)
 
 **[Intercom （现在称为Fin ）启动了一个人工智能代理，其唯一的工作就是管理另一个人工智能代理](https://venturebeat.com/technology/intercom-now-called-fin-launches-an-ai-agent-whose-only-job-is-managing-another-ai-agent)**
@@ -221,23 +210,23 @@ SMILE轨道器将使用X射线绘制太阳风如何打击磁层
 
 ---
 
-### VentureBeat
-![开发人员现在可以使用Raindrop的开源工具Workshop在本地调试和评估AI代理](https://images.ctfassets.net/jdtwqhzvc2n1/6wIjmrKnWVARYlidhqCcW4/3591335d0442d88d9d34cad4d5dd86b2/ChatGPT_Image_May_14__2026__06_00_40_PM.png?w=300&q=30)
-
-**[开发人员现在可以使用Raindrop的开源工具Workshop在本地调试和评估AI代理](https://venturebeat.com/technology/developers-can-now-debug-and-evaluate-ai-agents-locally-with-raindrops-open-source-tool-workshop)**
-
-可观测性初创公司Raindrop AI的新**开源**它集成了流行的SDK和框架，如Vercel AI SDK、**OpenAI**、**Anthropic**、LangChain、LlamaIndex和CrewAI
-
-📅 Thu, 14 May 2026 22:30:51 GMT
-
----
-
 ### Wired Technology
 **[网络犯罪双胞胎在忘记关闭Microsoft Teams录音后被捕](https://www.wired.com/story/security-news-this-week-cybercriminal-twins-caught-after-they-forgot-to-turn-off-microsoft-teams-recording/)**
 
 此外： Instructure的Canvas勒索软件崩溃即将结束**OpenAI**工人成为供应链攻击的受害者
 
 📅 Sat, 16 May 2026 10:30:00 +0000
+
+---
+
+### VentureBeat
+![图形增强型RAG的架构模式：在生产中超越矢量搜索](https://images.ctfassets.net/jdtwqhzvc2n1/4pNNCAwgjcNOld8FlE4iQa/173a95b2d2fa4050052358cb4e742203/Boxes.png?w=300&q=30)
+
+**[图形增强型RAG的架构模式：在生产中超越矢量搜索](https://venturebeat.com/orchestration/architectural-patterns-for-graph-enhanced-rag-moving-beyond-vector-search-in-production)**
+
+考虑供应链风险场景非结构化数据：新闻报道称， “泰国的洪水已经停止了供应商A工厂的生产
+
+📅 Sun, 17 May 2026 18:00:23 GMT
 
 ---
 
@@ -265,6 +254,17 @@ SMILE轨道器将使用X射线绘制太阳风如何打击磁层
 人工智能驱动的营销平台Nectar Social周四宣布，它筹集了3000万美元的A轮融资，由Menlo Ventures及其Anthology Fund牵头，该基金与**Anthropic**
 
 📅 Sat, 16 May 2026 19:26:14 +0000
+
+---
+
+### The Verge
+![Microsoft即将停用Teams的“团队协作”模式](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/20073111/togethermode.gif?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[Microsoft即将停用Teams的“团队协作”模式](https://www.theverge.com/tech/932215/microsoft-teams-together-mode)**
+
+微软在疫情期间**推出**了Teams的Together模式，给人一种一群人一起坐在会议室里的错觉，但时代已经改变，现在它正在退役，以支持更简化的Teams体验
+
+📅 2026-05-17T21:15:28.000Z
 
 ---
 
@@ -321,7 +321,7 @@ SMILE轨道器将使用X射线绘制太阳风如何打击磁层
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-05-17T16:01:50.863Z
+📅 2026-05-17T23:59:23.309Z
 
 ---
 
@@ -330,25 +330,34 @@ SMILE轨道器将使用X射线绘制太阳风如何打击磁层
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-05-17T16:03:13.178Z
+📅 2026-05-18T00:00:30.745Z
 
 ---
 
 ### Hacker News
-**[安全研究人员表示，微软构建了Bitlocker后门，发布了漏洞](https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html)**
+**[Prolog Coding Horror](https://www.metalevel.at/prolog/horror)**
 
-com/**new**s/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-**release**shtml评论网址： https://**new**s
+文章网址： https://wwwat/prolog/horror评论网址： https://**new**s
 
-📅 Sun, 17 May 2026 13:42:30 +0000
+📅 Sun, 17 May 2026 21:15:51 +0000
 
 ---
 
 ### Hacker News AI
-**[微软人工智能主管给18个月的时间让人工智能实现白领工作的自动化](https://fortune.com/article/why-microsoft-ai-chief-mustafa-suleyman-predicts-ai-automation-18-months/)**
+**[在Google上搜索“删除定义” ，结果是毫无意义的人工智能文本](https://www.google.com/search?q=remove+definition)**
 
-文章网址： https://fortunecom/article/why-microsoft-ai-chief-mustafa-suleyman-predicts-ai-automation-18-months/评论网址： https://**new**s
+文章网址： https://wwwq = remove + definition注释网址： https://**new**s
 
-📅 Sun, 17 May 2026 14:04:58 +0000
+📅 Sun, 17 May 2026 23:33:51 +0000
+
+---
+
+### Hacker News AI
+**[Meta AI隐身模式聊天](https://about.fb.com/news/2026/05/incognito-chat-whatsapp-meta-ai/)**
+
+文章网址： https://aboutcom/**new**s/2026/05/incognito-chat-whatsapp-**Meta**-ai/评论网址： https://**new**s
+
+📅 Sun, 17 May 2026 22:43:07 +0000
 
 ---
 
@@ -357,7 +366,7 @@ com/**new**s/112410-security-researcher-microsoft-secretly-built-backdoor-bitloc
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-05-17T16:01:50.863Z
+📅 2026-05-17T23:59:23.309Z
 
 ---
 
@@ -366,7 +375,7 @@ Title: 520: Web服务器返回未知错误
 
 警告：目标URL返回错误520 ：
 
-📅 2026-05-17T16:01:50.863Z
+📅 2026-05-17T23:59:23.309Z
 
 ---
 
@@ -375,16 +384,7 @@ Title: 520: Web服务器返回未知错误
 
 警告：此页面可能尚未完全加载，请考虑显式指定超时。
 
-📅 2026-05-17T16:01:50.863Z
-
----
-
-### X: OpenAI
-**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Markdown 内容
-
-📅 2026-05-17T16:01:50.863Z
+📅 2026-05-17T23:59:23.309Z
 
 ---
 
