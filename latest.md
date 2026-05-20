@@ -1,12 +1,12 @@
 ---
 title: "2026年5月20日 - TZ日报"
-date: 2026-05-20T00:09:29.005Z
+date: 2026-05-20T18:00:44.241Z
 draft: false
 ---
 
 # 2026年5月20日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/5/20 00:09:29
+> 📊 今日汇总 38 条 · 🕐 2026/5/20 18:00:44
 
 ---
 
@@ -21,15 +21,6 @@ draft: false
 ---
 
 ## ✨ 产品更新
-
-### TechCrunch AI Products
-**[谷歌从Meta的书中抽出一页，在IO 2026上宣布推出新的音频驱动智能眼镜](https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses-at-io-2026/)**
-
-谷歌将新设备称为“音频眼镜” ，包括双子座
-
-📅 Tue, 19 May 2026 19:15:31 +0000
-
----
 
 ### Google AI Blog
 ![I/O 2026 ：欢迎来到特工双子座时代](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SundarKeynote-hero.max-600x600.format-webp.webp)
@@ -62,33 +53,6 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[埃隆·马斯克（ Elon Musk ）表示，山姆·奥尔特曼（ Sam Altman ） “窃取”了一家非营利组织—但](https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/)**
-
-陪审团迅速决定驳回埃隆·马斯克（ Elon Musk ）对**OpenAI**和微软其他创始人的诉讼，这证实了我们在法庭上看到的情况：马斯克的案件是一个薄弱的部分，因为他等了很长时间才提出诉讼
-
-📅 Tue, 19 May 2026 20:11:00 +0000
-
----
-
-### TechCrunch AI Products
-**[借助Gemini 3.5 Flash ，谷歌将下一波人工智能浪潮押在代理商上，而不是聊天机器人上](https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/)**
-
-谷歌在公司的年度开发者大会上**推出**了**Gemini** 35 Flash ，这是迄今为止**最强**大的编码和代理AI模型
-
-📅 Tue, 19 May 2026 17:51:30 +0000
-
----
-
-### TechCrunch AI Products
-**[OpenAI可以更轻松地检查图像是否由其模型制作](https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/)**
-
-**OpenAI**宣布了两项新的措施来帮助检测人工智能生成的图像：加入开放的C2PA标准，并将谷歌的SynthID添加到其产品中
-
-📅 Tue, 19 May 2026 17:45:00 +0000
-
----
-
 ### VentureBeat AI Products
 ![谷歌25年来首次重新设计了搜索框--这就是为什么它比你想象的更重要。](https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30)
 
@@ -97,6 +61,24 @@ draft: false
 该公告与其他新闻一同**发布**—新的双子座车型5 Flash ，谷歌最新的人工智能车型，该公司也在I/O上**推出**
 
 📅 Tue, 19 May 2026 17:45:00 GMT
+
+---
+
+### OpenAI Blog
+**[OpenAI国家教育的下一阶段](https://openai.com/index/the-next-phase-of-education-for-countries)**
+
+**OpenAI**通过新的合作伙伴关系推动各国的教育，扩大在学校中采用人工智能
+
+📅 Wed, 20 May 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[为新加坡推出OpenAI](https://openai.com/index/introducing-openai-for-singapore)**
+
+**OpenAI** for Singapore**推出**多年人工智能合作伙伴关系，以扩大部署、培养本地人才，并通过人工智能为企业和公共服务提供支持
+
+📅 Tue, 19 May 2026 20:30:00 GMT
 
 ---
 
@@ -118,77 +100,99 @@ draft: false
 
 ---
 
+### Google AI Blog
+![一项新的实验为Google Beam带来了更好的小组会议](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-05-15_at_4.21.2.max-600x600.format-webp.webp)
+
+**[一项新的实验为Google Beam带来了更好的小组会议](https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/)**
+
+以真实的大小和声音看到和听到您的同事，使混合会议更具包容性和联系性
+
+📅 Wed, 20 May 2026 16:45:00 +0000
+
+---
+
+### Google AI Blog
+![I/O 2026](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Collection-Hero.gif)
+
+**[I/O 2026](https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/)**
+
+在**Google** I/O 2026上，我们分享了如何让人工智能对每个人都更有帮助查看我们宣布的所有内容
+
+📅 Tue, 19 May 2026 17:45:00 +0000
+
+---
+
 ## 🔬 前沿研究
 
-### ArXiv AI (cs.AI)
-**[AgentWall ：本地AI Agent的运行时安全层](https://arxiv.org/abs/2605.16265)**
+### ArXiv Natural Language Processing (cs.CL)
+**[商用ASR系统代码转换语音基准：阿拉伯语、波斯语和德语](https://arxiv.org/abs/2605.19069)**
 
-16265v1公告类型：新摘要：自主人工智能代理的安全性越来越被认为是一个关键的开放性问题现有人工智能安全工作主要侧重于模型对齐和输入过滤
+19069v1公告类型：新摘要：代码切换--在一个语音中两种语言之间的自然交替--代表了自动语音识别（ ASR ）最具挑战性和研究不足的条件之一，其次是**GPT**-4o和**Gemini** 1
 
-📅 Tue, 19 May 2026 00:00:00 -0400
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[Apple M3 Ultra实时扩散模型推理的系统优化](https://arxiv.org/abs/2605.16259)**
-
-16259v1公告类型：新摘要：虽然使用扩散模型的实时**图像生成**在NVIDIA GPU紧凑型模型探索方面进展迅速
-
-📅 Tue, 19 May 2026 00:00:00 -0400
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[SignMuon ：高效通信的分布式Muon优化](https://arxiv.org/abs/2605.16311)**
-
-16311v1公告类型：新摘要：大型神经网络的分布式训练受到全精度梯度通信和坐标优化器的瓶颈，这些优化器忽略了权重张量的矩阵结构On nano**GPT**
-
-📅 Tue, 19 May 2026 00:00:00 -0400
+📅 Wed, 20 May 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Computer Vision (cs.CV)
-**[GeoSym127K ：用于多模态几何推理的可扩展符号可验证合成](https://arxiv.org/abs/2605.16371)**
+**[MedFM-Robust ：对标医学基础模型的稳健性](https://arxiv.org/abs/2605.19027)**
 
-16371v1公告类型：新摘要：由于视觉幻觉和缺乏数学精确的思维链（ CoT ）数据，大型多模态模型（ LMM ）通常难以进行几何推理我们的Qwen3-VL-8B模型获得绝对+22
+19027v1公告类型：新摘要：医疗基础模型（ MedFMs ）已成为**GPT**-4o和**Gemini**等通用模型的医疗保健变革工具
 
-📅 Tue, 19 May 2026 00:00:00 -0400
-
----
-
-### ArXiv Computer Vision (cs.CV)
-**[双模态PET-CT中骨感染分段的跨源监控](https://arxiv.org/abs/2605.16373)**
-
-16373v1公告类型：新摘要：骨感染的早期准确诊断和病灶定位对于临床治疗至关**重要**由于病灶边界模糊以及不同专家或自动化系统生成的注释不一致，准确的病灶分割仍然具有挑战性
-
-📅 Tue, 19 May 2026 00:00:00 -0400
+📅 Wed, 20 May 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Natural Language Processing (cs.CL)
-**[基于检索的多标签法律注释：可扩展、数据高效且无幻觉](https://arxiv.org/abs/2605.16767)**
+**[ReacTOD ：用于零拍对话状态跟踪的有界神经符号代理NLU](https://arxiv.org/abs/2605.19077)**
 
-16767v1公告类型：新摘要：多标签法律注释需要从大中分配多个标签我们还量化了生成推理的可靠性故障模式： **GPT**-5
+19077v1公告类型：新摘要：面向任务的对话系统--处理事务1 ， ReacTOD实现了新的零拍摄最先进状态： **GPT**-oss-20B达到52
 
-📅 Tue, 19 May 2026 00:00:00 -0400
-
----
-
-### ArXiv Robotics (cs.RO)
-**[MR-SLAM ：通过混合现实实现多机器人映射的沉浸式空间监控](https://arxiv.org/abs/2605.16432)**
-
-16432v1公告类型：新摘要：在建筑物检查或仓库通道监控等应用中运行多机器人车队进行同步定位和制图（ SLAM ）需要操作员保持对每个机器人位置和制图状态的空间感知跨机器人对5%的跨实例占用一致性
-
-📅 Tue, 19 May 2026 00:00:00 -0400
+📅 Wed, 20 May 2026 00:00:00 -0400
 
 ---
 
-### MIT Tech Research
-**[这就是为什么伊隆·马斯克输掉了对OpenAI的诉讼](https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/)**
+### ArXiv Natural Language Processing (cs.CL)
+**[探员崩溃：地狱之路由乐于助人的探员铺就](https://arxiv.org/abs/2605.19149)**
 
-奥尔特曼对埃隆·马斯克（ Elon Musk ）进行了**重大**打击，达成了一致的咨询裁决，称他起诉**OpenAI**为时已晚，马斯克在X上宣布他将……
+19149v1公告类型：新摘要：使用计算机和Web的代理不可避免地遇到错误：无法访问的网页这些错误不会阻止基于最先进模型的代理
 
-📅 Tue, 19 May 2026 00:53:10 +0000
+📅 Wed, 20 May 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[提示语言影响大型语言模型的诊断推理和准确性](https://arxiv.org/abs/2605.19173)**
+
+19173v1公告类型：新摘要：大型语言模型（ LLM ）越来越多地用于临床决策支持**GPT**-4-Turbo
+
+📅 Wed, 20 May 2026 00:00:00 -0400
+
+---
+
+### ArXiv Multiagent (cs.MA)
+**[STAR-P\ 'olyaMath ：持续元战略监督下的多代理推理](https://arxiv.org/abs/2605.19338)**
+
+19338v1公告类型：新摘要：前沿人工智能模型和多智能体系统通过**最强**的基线**GPT**-5使数学推理显着改进21%
+
+📅 Wed, 20 May 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[评估个人健康记录在个性化健康AI中的实用性](https://arxiv.org/abs/2605.18937)**
+
+在这项研究中，我们评估了大型语言模型（ LLM ， **Gemini** 3**Gemini**响应产生的潜力（ 1 ）没有PHR上下文; （ 2 ）与人口统计学的基本总结
+
+📅 Wed, 20 May 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[AgentNLQ ：自然语言到SQL的通用代理](https://arxiv.org/abs/2605.19010)**
+
+19010v1公告类型：新摘要：自然语言到SQL （ NL2SQL ）的转换是研究人员和企业的一个**重要**问题，因为关系数据库在广泛的实际问题中无处不在。本研究的主要贡献是（ a ）我们在多Agent解决方案中设计了一个优化的新Orchestrator ，该解决方案使用LLM进行规划
+
+📅 Wed, 20 May 2026 00:00:00 -0400
 
 ---
 
@@ -216,45 +220,25 @@ draft: false
 
 ---
 
-### The Verge
-![以下是我们最喜欢的阵亡将士纪念日优惠（到目前为止）](https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/jbl_charge6_flip7_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### VentureBeat
+![GitHub确认3,800个内部存储库通过有毒的VS Code扩展被盗，因为供应链蠕虫攻击了微软的Python SDK](https://images.ctfassets.net/jdtwqhzvc2n1/5FQmQSwA5ildYThVabXRtN/d1a66b6f3af835b869acb0cacb1fc1a5/Github_hero.png?w=300&q=30)
 
-**[以下是我们最喜欢的阵亡将士纪念日优惠（到目前为止）](https://www.theverge.com/gadgets/932465/best-memorial-day-sales-deals-2026)**
+**[GitHub确认3,800个内部存储库通过有毒的VS Code扩展被盗，因为供应链蠕虫攻击了微软的Python SDK](https://venturebeat.com/security/github-confirms-3800-repos-stolen-poisoned-vs-code-extension-supply-chain-worm-microsoft-python-sdk)**
 
-它也可以在**Google** TV上运行，同时支持Apple AirPlay 2和**Google** Cast较新的一对充电可以持续长达8小时
+攻击链是直接的：在以前的TeamPCP操作中被入侵的GitHub帐户仍然可以访问microsoft/durabletask-python存储库相同的提示注入对**Gemini** CLI Action和GitHub的Copilot Agent起作用
 
-📅 2026-05-19T20:25:09.000Z
+📅 Wed, 20 May 2026 17:21:49 GMT
 
 ---
 
 ### VentureBeat
-![谷歌推出Gemini Omni “任意对任意”人工智能模型：企业应该知道什么](https://images.ctfassets.net/jdtwqhzvc2n1/5NqCwhS4EK70OYWUROllRj/6b1a947b54e7d1ebbb661e05809e0463/Gemini_Generated_Image_uwr4wguwr4wguwr4__2_.png?w=300&q=30)
+![AWS收购白热一代AI媒体创意初创公司FAL ，成为其首选云提供商](https://images.ctfassets.net/jdtwqhzvc2n1/4D4KdQGZsgnhlSo1NOv6W0/4e3008d34e732f26ce08ae6ead781205/ChatGPT_Image_May_19__2026__07_49_36_PM.png?w=300&q=30)
 
-**[谷歌推出Gemini Omni “任意对任意”人工智能模型：企业应该知道什么](https://venturebeat.com/technology/google-unveils-gemini-omni-any-to-any-ai-model-what-enterprises-should-know)**
+**[AWS收购白热一代AI媒体创意初创公司FAL ，成为其首选云提供商](https://venturebeat.com/infrastructure/aws-nabs-white-hot-gen-ai-media-creation-startup-fal-becoming-its-preferred-cloud-provider)**
 
-谷歌的新**Gemini** Omni车型今天在该公司在Mountain View**OpenAI**举行的年度I/O开发者大会上正式亮相，这一趋势始于2024年5月**GPT**-4o的**发布**
+以及音频创作和编辑模型—从**OpenAI**的Chat**GPT**-Images-20和**Google**的Nano Banana Pro 2等专有模型到**开源**竞争对手—所有这些都通过其统一的界面和API实现
 
-📅 Tue, 19 May 2026 17:37:00 GMT
-
----
-
-### VentureBeat
-![OpenAI联合创始人Andrej Karpathy宣布加入Anthropic](https://images.ctfassets.net/jdtwqhzvc2n1/58QpFz6X4tNBK7eVdvHSEV/327dcff524e285d001d931712eaaacc0/ChatGPT_Image_May_19__2026__12_15_22_PM.png?w=300&q=30)
-
-**[OpenAI联合创始人Andrej Karpathy宣布加入Anthropic](https://venturebeat.com/technology/andrej-karpathy-announces-hes-joining-anthropic)**
-
-“**Anthropic**的一位发言人通过电子邮件向VentureBeat确认， Karpathy将成立一个专注于使用**Claude**OpenAI 2015年12月**发布**公告的团队，并将Karpathy列为该集团的创始成员之一
-
-📅 Tue, 19 May 2026 16:20:43 GMT
-
----
-
-### Ars Technica
-**[谷歌的SynthID AI水印技术正被OpenAI、Nvidia等公司采用](https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/)**
-
-人工智能内容正在变得越来越好，但SynthID可能能够帮助从小说中分辨真相。
-
-📅 Tue, 19 May 2026 18:37:02 +0000
+📅 Wed, 20 May 2026 00:06:00 GMT
 
 ---
 
@@ -278,6 +262,26 @@ draft: false
 
 ---
 
+### ZDNet AI
+**[我再次戴上谷歌的Android XR眼镜-我的极限测试应该会吓到Meta和苹果](https://www.zdnet.com/article/i-wore-google-android-xr-glasses-io-2026-meta-apple/)**
+
+我对Android XR参考眼镜和Project Aura的最新演示展示了谷歌可穿戴产品线的更多希望
+
+📅 Wed, 20 May 2026 13:32:03 GMT
+
+---
+
+### The Verge
+![Anthropic和OpenAI将他们的牛肉带到中期选举中](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334821/STK466_ELECTION_2024_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[Anthropic和OpenAI将他们的牛肉带到中期选举中](https://www.theverge.com/column/934684/anthropic-openai-super-pac-beef-alex-bores)**
+
+一封面向Verge订阅者的时事通讯，内容涉及总部位于华盛顿的技术和政治交叉路口每天发生的车祸。不幸的是，这意味着我将错过教皇利奥十四世关于这个时代的人性的通谕的公开**发布**……阅读The Verge的完整故事
+
+📅 2026-05-20T17:50:00.000Z
+
+---
+
 ## 📦 GitHub热门
 
 ### GitHub New (New AI)
@@ -285,9 +289,20 @@ draft: false
 
 **[🆕 ai-flow-architect ：内置质量仲裁的多模型AI工作流引擎。计划→批准→执行→审核管道。双脑设计： Brain # 1 （规划师） + Brain # 2 （仲裁者，不同型号）阻止幻觉泄漏感冒。零配置令牌保存。](https://github.com/wdnmd1265/ai-flow-architect)**
 
-⭐ 4 star (新项目) · Python · Multi-model AI workflow engine with built-in quality arbitrationDual-brain design: Brain #1 (planner) + Brain #2 (arbiter, different model) stops hallucination leaks cold
+⭐ 15 star (新项目) · Python · Multi-model AI workflow engine with built-in quality arbitrationDual-brain design: Brain #1 (planner) + Brain #2 (arbiter, different model) stops hallucination leaks cold
 
 📅 2026-05-18T11:58:51Z
+
+---
+
+### GitHub New (New AI)
+![🆕 worldparticle ： WorldParticle的实现，通过变压器对拉格朗日粒子动力学的统一世界模拟](https://avatars.githubusercontent.com/u/108653?v=4)
+
+**[🆕 worldparticle ： WorldParticle的实现，通过变压器对拉格朗日粒子动力学的统一世界模拟](https://github.com/lucidrains/worldparticle)**
+
+⭐ 11 star (新项目) · N/A · Implementation of WorldParticle, Unified World Simulation of Lagrangian Particle Dynamics via Transformer
+
+📅 2026-05-19T23:25:38Z
 
 ---
 
@@ -296,60 +311,31 @@ draft: false
 
 **[🆕 rigidformer ：实现RigidFormer ，使用变压器学习刚性动力学](https://github.com/lucidrains/rigidformer)**
 
-⭐ 3 star (新项目) · N/A · Implementation of RigidFormer, Learning Rigid Dynamics using Transformers
+⭐ 11 star (新项目) · Python · Implementation of RigidFormer, Learning Rigid Dynamics using Transformers
 
 📅 2026-05-19T20:46:36Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 awesome-arabic-ai ：精心策划的阿拉伯语人工智能资源列表— LLM、数据集、基准、语音、OCR和4亿多阿拉伯语使用者的工具。| قائمة منسقة لموارد الذكاء الاصطناعي العربي](https://avatars.githubusercontent.com/u/163648055?v=4)
+![🆕 llm-cli ：查询大型语言模型的命令行界面](https://avatars.githubusercontent.com/u/106634141?v=4)
 
-**[🆕 awesome-arabic-ai ：精心策划的阿拉伯语人工智能资源列表— LLM、数据集、基准、语音、OCR和4亿多阿拉伯语使用者的工具。| قائمة منسقة لموارد الذكاء الاصطناعي العربي](https://github.com/OsamaALHajj/awesome-arabic-ai)**
+**[🆕 llm-cli ：查询大型语言模型的命令行界面](https://github.com/2aronS/llm-cli)**
 
-⭐ 2 star (新项目) · N/A · A curated list of awesome Arabic AI resources — LLMs,datasets, benchmarks, speech, OCR, and tools for 400M+ Arabic speakers| قائمة منسقة لموارد الذكاء الاصطناعي العربي
+⭐ 6 star (新项目) · Python · Command-line interface for querying large language models
 
-📅 2026-05-18T19:56:03Z
-
----
-
-### GitHub New (New AI)
-![🆕 DRM-SAINT-G ： DRM-SAINT-G -使用SAINT-PHI进行DRM移植，以实现紧凑型模型的适应和增长](https://avatars.githubusercontent.com/u/67922105?v=4)
-
-**[🆕 DRM-SAINT-G ： DRM-SAINT-G -使用SAINT-PHI进行DRM移植，以实现紧凑型模型的适应和增长](https://github.com/gnai-creator/DRM-SAINT-G)**
-
-⭐ 2 star (新项目) · Python · DRM-SAINT-G - DRM grafting with SAINT-Phi for compact model adaptation and growth
-
-📅 2026-05-18T05:05:57Z
+📅 2026-05-19T08:30:28Z
 
 ---
 
 ## 💬 社交动态
-
-### Hacker News
-**[OpenAI采用谷歌的SynthID水印用于带验证工具的人工智能图像](https://openai.com/index/advancing-content-provenance/)**
-
-文章网址： https://**OpenAI**com/index/advancing-content-provenance/评论网址： https://**new**s
-
-📅 Tue, 19 May 2026 19:34:30 +0000
-
----
-
-### Hacker News AI
-**[Show HN ：我们构建了一个运行咨询式工作流程的人工智能战略代理](https://nitrolens.ai/)**
-
-如果您是一个小型或中型团队，您通常会依赖于内部分析、电子表格、分散的研究或Chat**GPT**I ，希望HN就以下方面提供反馈：这是否与直接使用Chat**GPT**/**Claude**有显著不同，是什么使AI辅助战略分析更值得信赖，因为您认为此工作流程会分解您是否会信任客服代表来帮助回答问题
-
-📅 Tue, 19 May 2026 23:29:49 +0000
-
----
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-05-20T00:06:38.741Z
+📅 2026-05-20T17:57:39.318Z
 
 ---
 
@@ -358,43 +344,61 @@ draft: false
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-05-20T00:07:58.307Z
+📅 2026-05-20T17:58:59.475Z
 
 ---
 
 ### Hacker News
-**[时代：从《自然》出版物到催化计算发现](https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/)**
+**[问HN ：谷歌是否应该就铁路事故发表公开声明？](https://news.ycombinator.com/item?id=48210590)**
 
-文章网址： https://research**Google**/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/评论网址： https://**new**s
+com/p/incident-report-may-19-2026-gcp-account-outage每次读到这样的内容，我都会对云提供商和**Google**感到紧张。评论网址： https://**new**s
 
-📅 Tue, 19 May 2026 19:34:38 +0000
+📅 Wed, 20 May 2026 16:50:54 +0000
 
 ---
 
 ### Hacker News
-**[谷歌更改其搜索框](https://blog.google/products-and-platforms/products/search/search-io-2026/)**
+**[显然谷歌现在讨厌我们了](https://twitter.com/pokemoncentral/status/2057123807404638250)**
 
-com/2026/05/19/business/**Google**-seach-barcom/tech/932970/**Google**-search-ai-**update**
+文章网址： https://twittercom/pokemoncentral/status/2057123807404638250评论网址： https://**new**s
 
-📅 Tue, 19 May 2026 18:34:27 +0000
-
----
-
-### Hacker News AI
-**[谷歌的AI Studio现在允许任何人在几分钟内构建Android应用程序](https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/)**
-
-文章网址： https://techcrunchcom/2026/05/19/**Google**s-ai-st**Udio**-now-lets-anyone-build-android-apps-in-minutes/评论网址： https://**new**s
-
-📅 Tue, 19 May 2026 23:54:46 +0000
+📅 Wed, 20 May 2026 16:27:25 +0000
 
 ---
 
-### Hacker News AI
-**[拓宽前沿人工智能的对话](https://www.anthropic.com/news/widening-conversation-ai)**
+### Hacker News
+**[OpenAI正准备申请IPO](https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5)**
 
-文章网址： https://wwwcom/**new**s/widening-conversation-ai评论网址： https://**new**s
+文章网址： https://wwwcom/tech/ai/**OpenAI**-is-preparing-to-file-for-ipo-very-soon-0ec95af5评论网址： https://**new**s
 
-📅 Tue, 19 May 2026 23:45:41 +0000
+📅 Wed, 20 May 2026 16:24:42 +0000
+
+---
+
+### Hacker News
+**[显示HN ： Lance –在一个模型中生成和理解图像/视频](https://github.com/bytedance/Lance)**
+
+我们将代码、主页、纸张和模型链接放在这里： -代码： https://github模型使用少于128个GPU进行训练
+
+📅 Wed, 20 May 2026 15:45:32 +0000
+
+---
+
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Title: 520: Web服务器返回未知错误
+
+📅 2026-05-20T17:57:39.318Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误520 ：
+
+📅 2026-05-20T17:57:39.318Z
 
 ---
 
