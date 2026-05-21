@@ -1,12 +1,12 @@
 ---
 title: "2026年5月21日 - TZ日报"
-date: 2026-05-21T00:11:38.071Z
+date: 2026-05-21T17:37:13.466Z
 draft: false
 ---
 
 # 2026年5月21日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/5/21 00:11:38
+> 📊 今日汇总 38 条 · 🕐 2026/5/21 17:37:13
 
 ---
 
@@ -21,6 +21,15 @@ draft: false
 ---
 
 ## ✨ 产品更新
+
+### OpenAI Blog
+**[AdventHealth借助OpenAI推进全人护理](https://openai.com/index/adventhealth)**
+
+AdventHealth正在使用Chat**GPT** for Healthcare来简化工作流程，减轻管理负担，并为患者提供更多护理时间
+
+📅 Thu, 21 May 2026 12:00:00 GMT
+
+---
 
 ### Google AI Blog
 ![我们在2026年I/O大会上宣布的100件事](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_things_Social.max-600x600.format-webp.webp)
@@ -67,9 +76,9 @@ draft: false
 ---
 
 ### OpenAI Blog
-**[OpenAI模型反驳了离散几何中的中心猜想](https://openai.com/index/model-disproves-discrete-geometry-conjecture)**
+**[OpenAI国家教育的下一阶段](https://openai.com/index/the-next-phase-of-education-for-countries)**
 
-**OpenAI**模型解决了已有80年历史的单位距离问题，证明了离散几何中的一个主要猜想，并标志着人工智能驱动数学中的一个里程碑
+**OpenAI**通过新的合作伙伴关系推动各国的教育，扩大在学校中采用人工智能
 
 📅 Wed, 20 May 2026 00:00:00 GMT
 
@@ -85,9 +94,9 @@ Ramp工程师如何使用Codex和**GPT**-55来审核代码和发货改进，使�
 ---
 
 ### OpenAI Blog
-**[OpenAI国家教育的下一阶段](https://openai.com/index/the-next-phase-of-education-for-countries)**
+**[OpenAI模型反驳了离散几何中的中心猜想](https://openai.com/index/model-disproves-discrete-geometry-conjecture)**
 
-**OpenAI**通过新的合作伙伴关系推动各国的教育，扩大在学校中采用人工智能
+**OpenAI**模型解决了已有80年历史的单位距离问题，证明了离散几何中的一个主要猜想，并标志着人工智能驱动数学中的一个里程碑
 
 📅 Wed, 20 May 2026 00:00:00 GMT
 
@@ -111,23 +120,14 @@ Ramp工程师如何使用Codex和**GPT**-55来审核代码和发货改进，使�
 
 ---
 
-### OpenAI Blog
-**[OpenAI与戴尔合作，将Codex引入混合和本地企业环境](https://openai.com/index/dell-codex-enterprise-partnership)**
-
-**OpenAI**与戴尔合作，将Codex引入混合和本地环境，帮助企业在数据和工作流中安全地部署AI编码代理
-
-📅 Mon, 18 May 2026 10:00:00 GMT
-
----
-
 ## 🔬 前沿研究
 
-### ArXiv Natural Language Processing (cs.CL)
-**[商用ASR系统代码转换语音基准：阿拉伯语、波斯语和德语](https://arxiv.org/abs/2605.19069)**
+### MIT Tech Research
+**[《克劳德的人类代码》展示了编码的未来--无论你喜欢与否](https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/)**
 
-19069v1公告类型：新摘要：代码切换--在一个语音中两种语言之间的自然交替--代表了自动语音识别（ ASR ）最具挑战性和研究不足的条件之一，其次是**GPT**-4o和**Gemini** 1
+5月19日， **Claude**Anthropic在伦敦为软件开发人员举办了为期两天的活动， Code的氛围非常浓厚
 
-📅 Wed, 20 May 2026 00:00:00 -0400
+📅 Thu, 21 May 2026 14:30:45 +0000
 
 ---
 
@@ -136,43 +136,16 @@ Ramp工程师如何使用Codex和**GPT**-55来审核代码和发货改进，使�
 
 19027v1公告类型：新摘要：医疗基础模型（ MedFMs ）已成为**GPT**-4o和**Gemini**等通用模型的医疗保健变革工具
 
-📅 Wed, 20 May 2026 00:00:00 -0400
+📅 Thu, 21 May 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Natural Language Processing (cs.CL)
-**[ReacTOD ：用于零拍对话状态跟踪的有界神经符号代理NLU](https://arxiv.org/abs/2605.19077)**
+### ArXiv Robotics (cs.RO)
+**[Yes-Man综合征：对化身机器人药物的弃权进行基准测试](https://arxiv.org/abs/2605.20544)**
 
-19077v1公告类型：新摘要：面向任务的对话系统--处理事务1 ， ReacTOD实现了新的零拍摄最先进状态： **GPT**-oss-20B达到52
+20544v1公告类型：新摘要：视觉语言模型（ VLM ）用作具体代理的高级规划器性能最佳的模型**Gemini** 2
 
-📅 Wed, 20 May 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[探员崩溃：地狱之路由乐于助人的探员铺就](https://arxiv.org/abs/2605.19149)**
-
-19149v1公告类型：新摘要：使用计算机和Web的代理不可避免地遇到错误：无法访问的网页这些错误不会阻止基于最先进模型的代理
-
-📅 Wed, 20 May 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[提示语言影响大型语言模型的诊断推理和准确性](https://arxiv.org/abs/2605.19173)**
-
-19173v1公告类型：新摘要：大型语言模型（ LLM ）越来越多地用于临床决策支持**GPT**-4-Turbo
-
-📅 Wed, 20 May 2026 00:00:00 -0400
-
----
-
-### ArXiv Multiagent (cs.MA)
-**[STAR-P\ 'olyaMath ：持续元战略监督下的多代理推理](https://arxiv.org/abs/2605.19338)**
-
-19338v1公告类型：新摘要：前沿人工智能模型和多智能体系统通过**最强**的基线**GPT**-5使数学推理显着改进21%
-
-📅 Wed, 20 May 2026 00:00:00 -0400
+📅 Thu, 21 May 2026 00:00:00 -0400
 
 ---
 
@@ -181,7 +154,7 @@ Ramp工程师如何使用Codex和**GPT**-55来审核代码和发货改进，使�
 
 在这项研究中，我们评估了大型语言模型（ LLM ， **Gemini** 3**Gemini**响应产生的潜力（ 1 ）没有PHR上下文; （ 2 ）与人口统计学的基本总结
 
-📅 Wed, 20 May 2026 00:00:00 -0400
+📅 Thu, 21 May 2026 00:00:00 -0400
 
 ---
 
@@ -190,42 +163,47 @@ Ramp工程师如何使用Codex和**GPT**-55来审核代码和发货改进，使�
 
 19010v1公告类型：新摘要：自然语言到SQL （ NL2SQL ）的转换是研究人员和企业的一个**重要**问题，因为关系数据库在广泛的实际问题中无处不在。本研究的主要贡献是（ a ）我们在多Agent解决方案中设计了一个优化的新Orchestrator ，该解决方案使用LLM进行规划
 
-📅 Wed, 20 May 2026 00:00:00 -0400
+📅 Thu, 21 May 2026 00:00:00 -0400
+
+---
+
+### ArXiv Computer Vision (cs.CV)
+**[EgoTraj ：用于多模态预测的真实世界自我中心人体轨迹数据集](https://arxiv.org/abs/2605.19004)**
+
+19004v1公告类型：新摘要：从自我中心的角度准确预测人类轨迹在人形机器人等应用中发挥着核心作用EgoTraj数据集、代码和EgoViz仪表板可在https://github上公开获得
+
+📅 Thu, 21 May 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[利用大型语言模型进行情感分析： Decentraland MANA令牌的多模态分析](https://arxiv.org/abs/2605.20192)**
+
+20192v1公告类型：新摘要：在不断扩展的元宇宙生态系统中运行的Decentralanda去中心化虚拟现实平台
+
+📅 Thu, 21 May 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[数据扩展作为预测贡献谱的渐进覆盖](https://arxiv.org/abs/2605.20196)**
+
+20196v1公告类型：新摘要：我们研究了这样一种假设，即真实数据缩放规律是由潜在预测贡献谱的渐进覆盖而不是由符号-频率尾部单独控制的，该谱的尾部斜率已经与固定小型**GPT**学习器的经验数据缩放指数密切相关
+
+📅 Thu, 21 May 2026 00:00:00 -0400
 
 ---
 
 ## 🌍 行业展望
 
 ### VentureBeat
-![Cohere通过首个完整的Apache 2.0授权开放模型Command A +破解无损量化和原生引用](https://images.ctfassets.net/jdtwqhzvc2n1/2ooDwZZRkOXFbljlU3UX8T/512fe2501fcc0281a48bc484e7794a7f/ChatGPT_Image_May_20__2026__03_40_32_PM.png?w=300&q=30)
+![Kore.ai推出Artemis AI代理平台，扩大对微软和Salesforce的挑战](https://images.ctfassets.net/jdtwqhzvc2n1/6tlO9rc0gBe644xQBOORlp/8e2ec72d1fe457b69e35b4772415aca0/Nuneybits_Vector_art_of_robot_agents_in_society_d92ca346-3082-41e3-a601-5f3b18018036.webp?w=300&q=30)
 
-**[Cohere通过首个完整的Apache 2.0授权开放模型Command A +破解无损量化和原生引用](https://venturebeat.com/technology/cohere-cracks-lossless-quantization-and-native-citations-with-first-full-apache-2-0-licensed-open-model-command-a)**
+**[Kore.ai推出Artemis AI代理平台，扩大对微软和Salesforce的挑战](https://venturebeat.com/technology/kore-ai-launches-artemis-ai-agent-platform-expands-challenge-to-microsoft-and-salesforce)**
 
-像**OpenAI**的**GPT**-55和**Anthropic**的**Claude** Opus 4这样的巨头
+该平台的**推出**正值每个主要技术供应商（从微软和Salesforce到谷歌和ServiceNow ）竞相成为企业人工智能代理的默认基础设施之际，最初在Microsoft Azure上**推出**，具有更广泛的云可用性
 
-📅 Wed, 20 May 2026 21:16:00 GMT
-
----
-
-### VentureBeat
-![Cerebras表示，其芯片运行的万亿参数AI模型比GPU云快近7倍](https://images.ctfassets.net/jdtwqhzvc2n1/2THfHJ5QDM7v6hfZguZzRK/88414c532761a606e6faad8056f896ac/Nuneybits_Vector_art_of_cobalt_chip_towering_servers_in_burnt_o_e4e68375-d5c6-4559-87a7-d92ffb2bf67a-1.webp?w=300&q=30)
-
-**[Cerebras表示，其芯片运行的万亿参数AI模型比GPU云快近7倍](https://venturebeat.com/technology/cerebras-says-its-chips-run-a-trillion-parameter-ai-model-nearly-7-times-faster-than-gpu-clouds)**
-
-来自**Anthropic**和**OpenAI**的容量受限的闭源API —特别是对于已成为大型语言模型的最高价值应用程序的编码和代理工作负载—包括来自**Anthropic**和**OpenAI**等位于情报排行榜绝对顶端的闭源模型
-
-📅 Wed, 20 May 2026 19:59:22 GMT
-
----
-
-### VentureBeat
-![GitHub确认3,800个内部存储库通过有毒的VS Code扩展被盗，因为供应链蠕虫攻击了微软的Python SDK](https://images.ctfassets.net/jdtwqhzvc2n1/5FQmQSwA5ildYThVabXRtN/d1a66b6f3af835b869acb0cacb1fc1a5/Github_hero.png?w=300&q=30)
-
-**[GitHub确认3,800个内部存储库通过有毒的VS Code扩展被盗，因为供应链蠕虫攻击了微软的Python SDK](https://venturebeat.com/security/github-confirms-3800-repos-stolen-poisoned-vs-code-extension-supply-chain-worm-microsoft-python-sdk)**
-
-攻击链是直接的：在以前的TeamPCP操作中被入侵的GitHub帐户仍然可以访问microsoft/durabletask-python存储库相同的提示注入对**Gemini** CLI Action和GitHub的Copilot Agent起作用
-
-📅 Wed, 20 May 2026 17:21:49 GMT
+📅 Thu, 21 May 2026 13:00:00 GMT
 
 ---
 
@@ -249,34 +227,54 @@ Ramp工程师如何使用Codex和**GPT**-55来审核代码和发货改进，使�
 
 ---
 
-### ZDNet AI
-**[我再次戴上谷歌的Android XR眼镜-我的极限测试应该会吓到Meta和苹果](https://www.zdnet.com/article/i-wore-google-android-xr-glasses-io-2026-meta-apple/)**
+### Wired Technology
+**[我用双子座的人工智能头像工具克隆了自己。结果让我感到不安](https://www.wired.com/story/i-cloned-myself-with-geminis-ai-avatar-tool-the-result-was-unnervingly-me/)**
 
-我对Android XR参考眼镜和Project Aura的最新演示展示了谷歌可穿戴产品线的更多希望
+我使用**Gemini**应用程序生成了逼真的视频，其中包含我自己的数字克隆**Google**认为这是创作的未来
 
-📅 Wed, 20 May 2026 13:32:03 GMT
-
----
-
-### The Verge
-![Anthropic和OpenAI将他们的牛肉带到中期选举中](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334821/STK466_ELECTION_2024_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[Anthropic和OpenAI将他们的牛肉带到中期选举中](https://www.theverge.com/column/934684/anthropic-openai-super-pac-beef-alex-bores)**
-
-一封面向Verge订阅者的时事通讯，内容涉及总部位于华盛顿的技术和政治交叉路口每天发生的车祸。不幸的是，这意味着我将错过教皇利奥十四世关于这个时代的人性的通谕的公开**发布**……阅读The Verge的完整故事
-
-📅 2026-05-20T17:50:00.000Z
+📅 Thu, 21 May 2026 15:48:24 +0000
 
 ---
 
 ### The Verge
-![您现在可以使用人工智能重新组合他人的YouTube短片](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/youtube-shorts-remix.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![智能家居的成本正在上涨](https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/IMG_0204.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[您现在可以使用人工智能重新组合他人的YouTube短片](https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai)**
+**[智能家居的成本正在上涨](https://www.theverge.com/tech/935298/smart-home-cost-increase-ai-subscription-fatigue)**
 
-谷歌宣布**推出**新的YouTube Shorts Remix功能，允许用户使用**Gemini** OmniHere重新设计剪辑，甚至将自己插入其他人的视频中，您可以提示**Gemini**将视频转换为像素艺术、动漫或找到的镜头恐怖电影
+谷歌正在将其基于人工智能的**Gemini** for Home功能从相机和智能扬声器扩展到其他制造商，以销售更多订阅**Google**宣布正在扩展其**Gemini** for Home API ，以允许公司将更多的**Gemini**智能家居功能集成到自己的应用程序中
 
-📅 2026-05-20T16:41:40.000Z
+📅 2026-05-21T16:15:00.000Z
+
+---
+
+### The Verge
+![Meta和Google从您的老板用来跟踪您的应用程序中获取数据](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK471_Government_Surveillance_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[Meta和Google从您的老板用来跟踪您的应用程序中获取数据](https://www.theverge.com/policy/935299/bossware-employer-surveillance)**
+
+一项新的研究发现，其中许多工具不仅与雇主共享数据数据范围从姓名和电子邮件地址到网络历史记录，收件人包括Facebook、Go…阅读The Verge的完整故事
+
+📅 2026-05-21T16:03:05.000Z
+
+---
+
+### VentureBeat
+![Resolve AI表示，人工智能编码热潮正在破坏生产系统。它想解决这个问题。](https://images.ctfassets.net/jdtwqhzvc2n1/6mg96DUMYtWkBE0e6ywoJH/d0f7b1a3861be6fc94961cac14bd3f61/Nuneybits_vector_art_of_a_small_neon_yellow-green_robot_sitting_e22d33a7-664c-4560-b2bd-a36d0e4356fb.webp?w=300&q=30)
+
+**[Resolve AI表示，人工智能编码热潮正在破坏生产系统。它想解决这个问题。](https://venturebeat.com/technology/resolve-ai-says-the-ai-coding-boom-is-breaking-production-systems-it-wants-to-fix-that)**
+
+此次**发布**的核心是由Resolve AI内部研究实验室开发的新型多智能体调查系统Resolve AI正在引入一类新的后台智能体，旨在处理
+
+📅 Thu, 21 May 2026 13:00:00 GMT
+
+---
+
+### MIT Tech Review
+**[绿色钢铁初创公司波士顿金属(Boston Metal)正在加倍投资关键金属](https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/)**
+
+麻省理工学院技术评论可以独家报道，初创公司波士顿金属公司已经筹集了7500万$的资金来生产关键金属。有了额外的资金，新的重点可以......
+
+📅 Wed, 20 May 2026 13:00:00 +0000
 
 ---
 
@@ -287,20 +285,9 @@ Ramp工程师如何使用Codex和**GPT**-55来审核代码和发货改进，使�
 
 **[🆕 ai-flow-architect ：内置质量仲裁的多模型AI工作流引擎。计划→批准→执行→审核管道。双脑设计： Brain # 1 （规划师） + Brain # 2 （仲裁者，不同型号）阻止幻觉泄漏感冒。零配置令牌保存。](https://github.com/wdnmd1265/ai-flow-architect)**
 
-⭐ 15 star (新项目) · Python · Multi-model AI workflow engine with built-in quality arbitrationDual-brain design: Brain #1 (planner) + Brain #2 (arbiter, different model) stops hallucination leaks cold
+⭐ 25 star (新项目) · Python · Multi-model AI workflow engine with built-in quality arbitrationDual-brain design: Brain #1 (planner) + Brain #2 (arbiter, different model) stops hallucination leaks cold
 
 📅 2026-05-18T11:58:51Z
-
----
-
-### GitHub New (New AI)
-![🆕 rigidformer ：实现RigidFormer ，使用变压器学习刚性动力学](https://avatars.githubusercontent.com/u/108653?v=4)
-
-**[🆕 rigidformer ：实现RigidFormer ，使用变压器学习刚性动力学](https://github.com/lucidrains/rigidformer)**
-
-⭐ 12 star (新项目) · Python · Implementation of RigidFormer, Learning Rigid Dynamics using Transformers
-
-📅 2026-05-19T20:46:36Z
 
 ---
 
@@ -309,9 +296,20 @@ Ramp工程师如何使用Codex和**GPT**-55来审核代码和发货改进，使�
 
 **[🆕 worldparticle ： WorldParticle的实现，通过变压器对拉格朗日粒子动力学的统一世界模拟](https://github.com/lucidrains/worldparticle)**
 
-⭐ 11 star (新项目) · Python · Implementation of WorldParticle, Unified World Simulation of Lagrangian Particle Dynamics via Transformer
+⭐ 15 star (新项目) · Python · Implementation of WorldParticle, Unified World Simulation of Lagrangian Particle Dynamics via Transformer
 
 📅 2026-05-19T23:25:38Z
+
+---
+
+### GitHub New (New AI)
+![🆕 rigidformer ：实现RigidFormer ，使用变压器学习刚性动力学](https://avatars.githubusercontent.com/u/108653?v=4)
+
+**[🆕 rigidformer ：实现RigidFormer ，使用变压器学习刚性动力学](https://github.com/lucidrains/rigidformer)**
+
+⭐ 13 star (新项目) · Python · Implementation of RigidFormer, Learning Rigid Dynamics using Transformers
+
+📅 2026-05-19T20:46:36Z
 
 ---
 
@@ -328,12 +326,21 @@ Ramp工程师如何使用Codex和**GPT**-55来审核代码和发货改进，使�
 
 ## 💬 社交动态
 
+### Hacker News
+**[启动HN ：运行时（ YC P26 ） –为团队中的每个人提供沙盒编码代理](https://www.runtm.com/)**
+
+我们正在构建基础设施，让您的整个团队（包括非工程师）使用**Claude** CodeRuntime与您的团队已经使用的任何代理合作： **Claude** Code、Codex、Cursor、Copilot、**Gemini**、Devin
+
+📅 Thu, 21 May 2026 16:07:13 +0000
+
+---
+
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-05-21T00:08:44.278Z
+📅 2026-05-21T17:34:19.065Z
 
 ---
 
@@ -342,52 +349,25 @@ Ramp工程师如何使用Codex和**GPT**-55来审核代码和发货改进，使�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-05-21T00:10:06.356Z
-
----
-
-### Hacker News
-**[Deep –使用DeepSeek生成和迭代代码库的CLI/REPL](https://github.com/cynchro/deepseekCLI)**
-
-文章网址： https://githubcom/cynchro/**DeepSeek**CLI评论网址： https://**new**s
-
-📅 Wed, 20 May 2026 23:16:07 +0000
-
----
-
-### Hacker News
-**[谷歌在网络上宣战](https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/)**
-
-文章网址： https://tantecc/2026/05/20/on-**Google**-declaring-war-on-the-web/评论网址： https://**new**s
-
-📅 Wed, 20 May 2026 21:33:18 +0000
-
----
-
-### Hacker News
-**[Anthropic正在扩展到Colossus2。将使用GB200](https://xcancel.com/nottombrown/status/2057194829986300375)**
-
-文章网址： https://xcancelcom/nottombrown/status/2057194829986300375评论网址： https://**new**s
-
-📅 Wed, 20 May 2026 20:55:52 +0000
+📅 2026-05-21T17:35:26.757Z
 
 ---
 
 ### Hacker News AI
-**[报告称， Meta开始AI驱动的裁员。他们能提振陷入困境的股票吗？](https://www.barrons.com/articles/meta-stock-ai-layoffs-f9dba997)**
+**[谷歌对其AI Pro计划进行了精简，以下是您现在可以获得的内容](https://www.androidauthority.com/google-ai-pro-usage-limits-3669063/)**
 
-文章网址： https://wwwcom/articles/**Meta**-stock-ai-layoffs-f9dba997评论网址： https://**new**s
+文章网址： https://wwwcom/**Google**-ai-pro-usage-limits-3669063/评论网址： https://**new**s
 
-📅 Wed, 20 May 2026 23:38:58 +0000
+📅 Thu, 21 May 2026 16:56:29 +0000
 
 ---
 
 ### Hacker News AI
-**[Open AI解决了1946年的Erdős问题](https://twitter.com/openai/status/2057176201782075690)**
+**[随着人工智能热潮的加速，英伟达的收入超过了华尔街的预期](https://www.theguardian.com/technology/2026/may/20/nvidia-revenue-ai-boom)**
 
-文章网址： https://twittercom/**OpenAI**/status/2057176201782075690评论网址： https://**new**s
+文章网址： https://wwwcom/technology/2026/may/20/nvidia-revenue-ai-boom评论网址： https://**new**s
 
-📅 Wed, 20 May 2026 22:32:11 +0000
+📅 Thu, 21 May 2026 16:43:08 +0000
 
 ---
 
@@ -396,7 +376,25 @@ Ramp工程师如何使用Codex和**GPT**-55来审核代码和发货改进，使�
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-05-21T00:08:44.278Z
+📅 2026-05-21T17:34:19.065Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误520 ：
+
+📅 2026-05-21T17:34:19.065Z
+
+---
+
+### X: OpenAI
+**[警告：此页面可能尚未完全加载，请考虑显式指定超时。](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：此页面可能尚未完全加载，请考虑显式指定超时。
+
+📅 2026-05-21T17:34:19.065Z
 
 ---
 
