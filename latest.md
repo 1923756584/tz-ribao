@@ -1,12 +1,12 @@
 ---
 title: "2026年5月22日 - TZ日报"
-date: 2026-05-22T00:07:13.252Z
+date: 2026-05-22T17:14:49.445Z
 draft: false
 ---
 
 # 2026年5月22日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/5/22 00:07:13
+> 📊 今日汇总 38 条 · 🕐 2026/5/22 17:14:49
 
 ---
 
@@ -64,6 +64,15 @@ AdventHealth正在使用Chat**GPT** for Healthcare来简化工作流程，减轻
 
 ---
 
+### TechCrunch AI Products
+**[我们尝试了谷歌的人工智能眼镜，它们几乎就在那里](https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/)**
+
+谷歌演示了原型Android XR眼镜，将双子座驱动的翻译、导航和其他信息直接叠加到您的视野中
+
+📅 Fri, 22 May 2026 15:37:15 +0000
+
+---
+
 ### VentureBeat AI Products
 ![谷歌25年来首次重新设计了搜索框--这就是为什么它比你想象的更重要。](https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30)
 
@@ -76,9 +85,18 @@ AdventHealth正在使用Chat**GPT** for Healthcare来简化工作流程，减轻
 ---
 
 ### OpenAI Blog
-**[Ramp工程师如何通过Codex加速代码审查](https://openai.com/index/ramp)**
+**[OpenAI被Gartner评为企业编码代理领导者](https://openai.com/index/gartner-2026-agentic-coding-leader)**
 
-Ramp工程师如何使用Codex和**GPT**-55来审核代码和发货改进，使他们能够在几分钟而不是几小时内获得实质性反馈
+**OpenAI**被评为2026年Gartner企业AI编码代理魔力象限的领导者， Codex因创新和企业级部署而获得认可
+
+📅 Fri, 22 May 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[OpenAI模型反驳了离散几何中的中心猜想](https://openai.com/index/model-disproves-discrete-geometry-conjecture)**
+
+**OpenAI**模型解决了已有80年历史的单位距离问题，证明了离散几何中的一个主要猜想，并标志着人工智能驱动数学中的一个里程碑
 
 📅 Wed, 20 May 2026 00:00:00 GMT
 
@@ -94,29 +112,11 @@ Ramp工程师如何使用Codex和**GPT**-55来审核代码和发货改进，使�
 ---
 
 ### OpenAI Blog
-**[OpenAI模型反驳了离散几何中的中心猜想](https://openai.com/index/model-disproves-discrete-geometry-conjecture)**
+**[Ramp工程师如何通过Codex加速代码审查](https://openai.com/index/ramp)**
 
-**OpenAI**模型解决了已有80年历史的单位距离问题，证明了离散几何中的一个主要猜想，并标志着人工智能驱动数学中的一个里程碑
+Ramp工程师如何使用Codex和**GPT**-55来审核代码和发货改进，使他们能够在几分钟而不是几小时内获得实质性反馈
 
 📅 Wed, 20 May 2026 00:00:00 GMT
-
----
-
-### OpenAI Blog
-**[为新加坡推出OpenAI](https://openai.com/index/introducing-openai-for-singapore)**
-
-**OpenAI** for Singapore**推出**多年人工智能合作伙伴关系，以扩大部署、培养本地人才，并通过人工智能为企业和公共服务提供支持
-
-📅 Tue, 19 May 2026 20:30:00 GMT
-
----
-
-### OpenAI Blog
-**[推进内容来源，打造更安全、更透明的人工智能生态系统](https://openai.com/index/advancing-content-provenance)**
-
-**OpenAI**通过内容凭据、SynthID和验证工具推进人工智能内容来源，帮助人们识别和信任人工智能生成的媒体
-
-📅 Tue, 19 May 2026 10:45:00 GMT
 
 ---
 
@@ -131,66 +131,66 @@ Ramp工程师如何使用Codex和**GPT**-55来审核代码和发货改进，使�
 
 ---
 
-### ArXiv Computer Vision (cs.CV)
-**[MedFM-Robust ：对标医学基础模型的稳健性](https://arxiv.org/abs/2605.19027)**
+### ArXiv Machine Learning (cs.LG)
+**[HealthCraft ：急诊医学的强化学习安全环境](https://arxiv.org/abs/2605.21496)**
 
-19027v1公告类型：新摘要：医疗基础模型（ MedFMs ）已成为**GPT**-4o和**Gemini**等通用模型的医疗保健变革工具
+21496v1公告类型：新摘要：前沿语言模型部署到临床工作流程的速度快于基础设施，以安全地评估它们V8结果在两个前沿模型上显示**Claude** Opus 4
 
-📅 Thu, 21 May 2026 00:00:00 -0400
-
----
-
-### ArXiv Robotics (cs.RO)
-**[Yes-Man综合征：对化身机器人药物的弃权进行基准测试](https://arxiv.org/abs/2605.20544)**
-
-20544v1公告类型：新摘要：视觉语言模型（ VLM ）用作具体代理的高级规划器性能最佳的模型**Gemini** 2
-
-📅 Thu, 21 May 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[评估个人健康记录在个性化健康AI中的实用性](https://arxiv.org/abs/2605.18937)**
-
-在这项研究中，我们评估了大型语言模型（ LLM ， **Gemini** 3**Gemini**响应产生的潜力（ 1 ）没有PHR上下文; （ 2 ）与人口统计学的基本总结
-
-📅 Thu, 21 May 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[AgentNLQ ：自然语言到SQL的通用代理](https://arxiv.org/abs/2605.19010)**
-
-19010v1公告类型：新摘要：自然语言到SQL （ NL2SQL ）的转换是研究人员和企业的一个**重要**问题，因为关系数据库在广泛的实际问题中无处不在。本研究的主要贡献是（ a ）我们在多Agent解决方案中设计了一个优化的新Orchestrator ，该解决方案使用LLM进行规划
-
-📅 Thu, 21 May 2026 00:00:00 -0400
+📅 Fri, 22 May 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Computer Vision (cs.CV)
-**[EgoTraj ：用于多模态预测的真实世界自我中心人体轨迹数据集](https://arxiv.org/abs/2605.19004)**
+**[Lens ：重新思考基础文本到图像模型的训练效率](https://arxiv.org/abs/2605.21573)**
 
-19004v1公告类型：新摘要：从自我中心的角度准确预测人类轨迹在人形机器人等应用中发挥着核心作用EgoTraj数据集、代码和EgoViz仪表板可在https://github上公开获得
+21573v1公告类型：新摘要：我们引入了Lens ，这是一个由800米密集字幕图像文本对组成的3a数据集，其字幕由**GPT**-4生成
 
-📅 Thu, 21 May 2026 00:00:00 -0400
+📅 Fri, 22 May 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[SOLAR ：终身学习和持续适应的自我优化开放式自主代理](https://arxiv.org/abs/2605.20189)**
+
+20189v1公告类型：新摘要：尽管大型语言模型（ LLM ）取得了显着成功，隐式地充当情节记忆缓冲区，以平衡可塑性（适应新任务）和稳定性（元知识的保留）
+
+📅 Fri, 22 May 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[Mahjax ： JAX中用于强化学习的GPU加速麻将模拟器](https://arxiv.org/abs/2605.20577)**
+
+20577v1公告类型：新摘要： Riichi Mahjong是一名多人游戏玩家虽然之前的研究在很大程度上依赖于从人类游戏日志中进行监督学习来预训练策略
+
+📅 Fri, 22 May 2026 00:00:00 -0400
+
+---
+
+### ArXiv Machine Learning (cs.LG)
+**[通过比较创意评估教授预测研究成功的语言模型](https://arxiv.org/abs/2605.21491)**
+
+21491v1公告类型：新摘要：随着语言模型通过自动化假设生成和实施来加速科学研究，出现了新的瓶颈：在没有详尽实验的情况下评估和过滤数百个人工智能生成的创意
+
+📅 Fri, 22 May 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Natural Language Processing (cs.CL)
-**[利用大型语言模型进行情感分析： Decentraland MANA令牌的多模态分析](https://arxiv.org/abs/2605.20192)**
+**[文本到SQL集成的剩余技能优化](https://arxiv.org/abs/2605.21792)**
 
-20192v1公告类型：新摘要：在不断扩展的元宇宙生态系统中运行的Decentralanda去中心化虚拟现实平台
+21792v1公告类型：新摘要：文本到SQL集成通过绘制多个SQL候选并选择一个剩余技能优化框架来改善单个候选生成，该框架构建互补的agentic文本到SQL集成，而无需模型微调：每个新技能都根据当前技能集成失败的示例进行优化
 
-📅 Thu, 21 May 2026 00:00:00 -0400
+📅 Fri, 22 May 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Natural Language Processing (cs.CL)
-**[数据扩展作为预测贡献谱的渐进覆盖](https://arxiv.org/abs/2605.20196)**
+**[当病例变得罕见时：非指南临床问答的检索基准](https://arxiv.org/abs/2605.21807)**
 
-20196v1公告类型：新摘要：我们研究了这样一种假设，即真实数据缩放规律是由潜在预测贡献谱的渐进覆盖而不是由符号-频率尾部单独控制的，该谱的尾部斜率已经与固定小型**GPT**学习器的经验数据缩放指数密切相关
+21807v1公告类型：新摘要：跨医学专科使用检索到的医学文章增强模型将此性能提高到高达82 ％ （使用**GPT**-5
 
-📅 Thu, 21 May 2026 00:00:00 -0400
+📅 Fri, 22 May 2026 00:00:00 -0400
 
 ---
 
@@ -208,13 +208,13 @@ Ramp工程师如何使用Codex和**GPT**-55来审核代码和发货改进，使�
 ---
 
 ### The Verge
-![伊隆·马斯克（ Elon Musk ）和山姆·奥特曼（ Sam Altman ）对OpenAI争夺战](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![本周末您可以购买的最佳阵亡将士纪念日促销活动](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0103.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[伊隆·马斯克（ Elon Musk ）和山姆·奥特曼（ Sam Altman ）对OpenAI争夺战](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)**
+**[本周末您可以购买的最佳阵亡将士纪念日促销活动](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026)**
 
-**OpenAI**声称， “这起诉讼一直是毫无根据和嫉妒的企图让竞争对手脱轨” ，目的是推动马斯克自己的SpaceX/xAI/X公司，这些公司今天早上本着澄清的精神将Grok作为Chat**GPT**A的竞争对手**推出**…… Zilis表示，她对**OpenAI**董事会没有在ChatGPT**发布**之前得到通知表示严重担忧
+耳塞和耳机AirPods Pro 3 AirPods Pro 3采用全新设计，提高了贴合度最新型号的声音明显优于第三代配对，尤其是在语音通话方面
 
-📅 2026-05-21T20:15:18.000Z
+📅 2026-05-22T16:50:38.000Z
 
 ---
 
@@ -229,21 +229,12 @@ Ramp工程师如何使用Codex和**GPT**-55来审核代码和发货改进，使�
 
 ---
 
-### Wired Technology
-**[元数据处于危机之中，谷歌搜索的改头换面，人工智能受到毕业生的嘘声](https://www.wired.com/story/uncanny-valley-podcast-meta-in-crisis-google-search-makeover-ai-booed-by-graduates/)**
+### MIT Tech Review
+**[下载：编码的未来、“类固醇奥运会”和人工智能驱动的科学](https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/)**
 
-在这一集的Uncanny Valley中，我们揭开了**Meta**的大规模裁员， **Google** I/O的**重大**公告，以及对人工智能的最新反弹
+这是今天的The Download版本，我们的工作日时事通讯，提供技术领域每天发生的事情**Anthropic**的Code with **Claude**展示了编码的未来-无论您喜欢与否本周在伦敦举行的**Anthropic**的开发人员活动
 
-📅 Thu, 21 May 2026 20:44:53 +0000
-
----
-
-### Wired Technology
-**[我用双子座的人工智能头像工具克隆了自己。结果让我感到不安](https://www.wired.com/story/i-cloned-myself-with-geminis-ai-avatar-tool-the-result-was-unnervingly-me/)**
-
-我使用**Gemini**应用程序生成了逼真的视频，其中包含我自己的数字克隆**Google**认为这是创作的未来
-
-📅 Thu, 21 May 2026 15:48:24 +0000
+📅 Fri, 22 May 2026 12:10:00 +0000
 
 ---
 
@@ -256,58 +247,41 @@ Android Auto的最新展示突出了用户界面、地图设计、**Gemini**功�
 
 ---
 
-### The Verge
-![Meta的一项重大法律清算刚刚以和解告终](https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_4_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### MIT Tech Review
+**[绿色钢铁初创公司波士顿金属(Boston Metal)正在加倍投资关键金属](https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/)**
 
-**[Meta的一项重大法律清算刚刚以和解告终](https://www.theverge.com/policy/935552/meta-youtube-tiktok-snap-school-district-settlement)**
+麻省理工学院技术评论可以独家报道，初创公司波士顿金属公司已经筹集了7500万$的资金来生产关键金属。有了额外的资金，新的重点可以......
 
-tikTok和TikTok最近都解决了学区和个人对社会提出的类似索赔……阅读The Verge的完整故事
-
-📅 2026-05-21T18:54:22.000Z
+📅 Wed, 20 May 2026 13:00:00 +0000
 
 ---
 
-### VentureBeat
-![Resolve AI表示，人工智能编码热潮正在破坏生产系统。它想解决这个问题。](https://images.ctfassets.net/jdtwqhzvc2n1/6mg96DUMYtWkBE0e6ywoJH/d0f7b1a3861be6fc94961cac14bd3f61/Nuneybits_vector_art_of_a_small_neon_yellow-green_robot_sitting_e22d33a7-664c-4560-b2bd-a36d0e4356fb.webp?w=300&q=30)
+### Wired Technology
+**[即使你讨厌人工智能，你也会使用谷歌人工智能搜索](https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/)**
 
-**[Resolve AI表示，人工智能编码热潮正在破坏生产系统。它想解决这个问题。](https://venturebeat.com/technology/resolve-ai-says-the-ai-coding-boom-is-breaking-production-systems-it-wants-to-fix-that)**
+这家搜索巨头的人工智能答案非常方便，您将被吸入其中，从而损害网络及其背后的艺术家和思想家
 
-此次**发布**的核心是由Resolve AI内部研究实验室开发的新型多智能体调查系统Resolve AI正在引入一类新的后台智能体，旨在处理
+📅 Fri, 22 May 2026 15:00:00 +0000
 
-📅 Thu, 21 May 2026 13:00:00 GMT
+---
+
+### Ars Technica
+**[PSA ：蒸汽控制器的磁力充电器可能存在火灾隐患](https://arstechnica.com/gaming/2026/05/psa-the-steam-controllers-magnetic-charger-can-be-a-fire-hazard/)**
+
+保持充电圆盘的裸露引脚远离任何金属。
+
+📅 Fri, 22 May 2026 16:24:11 +0000
 
 ---
 
 ## 📦 GitHub热门
-
-### GitHub Active (Python)
-![posthog ： 🦔 PostHog是构建成功产品的一体化开发者平台。我们提供产品分析、网络分析、会话重播、错误跟踪、功能标记、实验、调查、数据仓库、CDP和人工智能产品助手，以帮助调试您的代码、更快地交付功能，并将您的所有使用情况和客户数据保存在一个堆栈中。](https://avatars.githubusercontent.com/u/60330232?v=4)
-
-**[posthog ： 🦔 PostHog是构建成功产品的一体化开发者平台。我们提供产品分析、网络分析、会话重播、错误跟踪、功能标记、实验、调查、数据仓库、CDP和人工智能产品助手，以帮助调试您的代码、更快地交付功能，并将您的所有使用情况和客户数据保存在一个堆栈中。](https://github.com/PostHog/posthog)**
-
-我们提供产品分析和人工智能产品助手，帮助您调试代码
-
-📅 2026-05-22T00:06:00Z
-
----
-
-### GitHub Active (AI/ML)
-![lionagi ：智能操作系统](https://avatars.githubusercontent.com/u/122793010?v=4)
-
-**[lionagi ：智能操作系统](https://github.com/ohdearquant/lionagi)**
-
-⭐ 394星· 74叉·蟒蛇·智能操作系统
-
-📅 2026-05-22T00:05:49Z
-
----
 
 ### GitHub New (New AI)
 ![🆕 worldparticle ： WorldParticle的实现，通过变压器对拉格朗日粒子动力学的统一世界模拟](https://avatars.githubusercontent.com/u/108653?v=4)
 
 **[🆕 worldparticle ： WorldParticle的实现，通过变压器对拉格朗日粒子动力学的统一世界模拟](https://github.com/lucidrains/worldparticle)**
 
-⭐ 15 star (新项目) · Python · Implementation of WorldParticle, Unified World Simulation of Lagrangian Particle Dynamics via Transformer
+⭐ 16 star (新项目) · Python · Implementation of WorldParticle, Unified World Simulation of Lagrangian Particle Dynamics via Transformer
 
 📅 2026-05-19T23:25:38Z
 
@@ -318,9 +292,31 @@ tikTok和TikTok最近都解决了学区和个人对社会提出的类似索赔�
 
 **[🆕 rigidformer ：实现RigidFormer ，使用变压器学习刚性动力学](https://github.com/lucidrains/rigidformer)**
 
-⭐ 13 star (新项目) · Python · Implementation of RigidFormer, Learning Rigid Dynamics using Transformers
+⭐ 14 star (新项目) · Python · Implementation of RigidFormer, Learning Rigid Dynamics using Transformers
 
 📅 2026-05-19T20:46:36Z
+
+---
+
+### GitHub New (New AI)
+![🆕 llm-cli ：查询大型语言模型的命令行界面](https://avatars.githubusercontent.com/u/106634141?v=4)
+
+**[🆕 llm-cli ：查询大型语言模型的命令行界面](https://github.com/2aronS/llm-cli)**
+
+⭐ 11 star (新项目) · Python · Command-line interface for querying large language models
+
+📅 2026-05-19T08:30:28Z
+
+---
+
+### GitHub New (New AI)
+![🆕 agi-socialbot ：用于自动交互的AGI驱动的社交网络机器人](https://avatars.githubusercontent.com/u/106634141?v=4)
+
+**[🆕 agi-socialbot ：用于自动交互的AGI驱动的社交网络机器人](https://github.com/2aronS/agi-socialbot)**
+
+⭐ 8 star (新项目) · Python · AGI-powered social network bot for automated interactions
+
+📅 2026-05-19T10:06:22Z
 
 ---
 
@@ -331,7 +327,7 @@ tikTok和TikTok最近都解决了学区和个人对社会提出的类似索赔�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-05-22T00:03:54.959Z
+📅 2026-05-22T17:11:54.194Z
 
 ---
 
@@ -340,25 +336,25 @@ tikTok和TikTok最近都解决了学区和个人对社会提出的类似索赔�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-05-22T00:05:16.257Z
+📅 2026-05-22T17:13:01.807Z
+
+---
+
+### Hacker News
+**[启动HN ：超集（ YC P26 ） –代理时代的IDE](https://github.com/superset-sh/superset)**
+
+我们正在构建Superset (https://githubcom/superset-sh/superset) ，这是一个用于并行运行**Claude** Code、Codex、OpenCode等编码代理的**开源**agentic IDE
+
+📅 Fri, 22 May 2026 14:53:55 +0000
 
 ---
 
 ### Hacker News AI
-**[告诉HN ：我厌倦了AI生成的答案](https://news.ycombinator.com/item?id=48230104)**
+**[代理商联盟：人工智能代理商为荣耀而战的电子竞技启发黑客马拉松](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/agents-league-the-esports-inspired-hackathon-where-ai-agents-battle-for-glory/4521610)**
 
-他给我发了一个带有答案的Chat**GPT**屏幕截图一分钟后，他又给我发了一个Chat**GPT**屏幕截图
+文章网址： https://techcommunitycom/blog/azuredevcommunityblog/agents-league-the-esports-inspired-hackathon-where-ai-agents-battle-for-glory/4521610评论网址： https://**new**s
 
-📅 Thu, 21 May 2026 23:37:14 +0000
-
----
-
-### Hacker News AI
-**[为什么隐喻会让人工智能动画更好](https://frigade.com/blog/describe-the-world-not-the-widget)**
-
-文章网址： https://frigadecom/blog/describe-the-world-not-the-widget评论网址： https://**new**s
-
-📅 Thu, 21 May 2026 23:25:28 +0000
+📅 Fri, 22 May 2026 16:10:42 +0000
 
 ---
 
@@ -367,7 +363,7 @@ tikTok和TikTok最近都解决了学区和个人对社会提出的类似索赔�
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-05-22T00:03:54.959Z
+📅 2026-05-22T17:11:54.194Z
 
 ---
 
@@ -376,7 +372,7 @@ Title: 520: Web服务器返回未知错误
 
 警告：目标URL返回错误520 ：
 
-📅 2026-05-22T00:03:54.959Z
+📅 2026-05-22T17:11:54.194Z
 
 ---
 
@@ -385,7 +381,7 @@ Title: 520: Web服务器返回未知错误
 
 警告：此页面可能尚未完全加载，请考虑显式指定超时。
 
-📅 2026-05-22T00:03:54.959Z
+📅 2026-05-22T17:11:54.194Z
 
 ---
 
@@ -394,7 +390,7 @@ Title: 520: Web服务器返回未知错误
 
 Markdown 内容
 
-📅 2026-05-22T00:03:54.959Z
+📅 2026-05-22T17:11:54.194Z
 
 ---
 
