@@ -1,12 +1,12 @@
 ---
 title: "2026年5月23日 - TZ日报"
-date: 2026-05-23T00:11:59.163Z
+date: 2026-05-23T16:07:51.306Z
 draft: false
 ---
 
 # 2026年5月23日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/5/23 00:11:59
+> 📊 今日汇总 38 条 · 🕐 2026/5/23 16:07:51
 
 ---
 
@@ -109,12 +109,12 @@ AdventHealth正在使用Chat**GPT** for Healthcare来简化工作流程，减轻
 
 ---
 
-### TechCrunch AI Products
-**[谷歌不再是真正的谷歌，现在值得尝试的六个搜索引擎](https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/)**
+### AI News
+**[随着IMDA更新人工智能框架， OpenAI开设了新加坡人工智能实验室](https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/)**
 
-谷歌即将看起来非常不同，如果你不喜欢人工智能概述功能，那么你不会喜欢即将到来的
+**OpenAI**将在新加坡开设其在美国以外的**首个**应用AI实验室该实验室将[…]随着IMDA**更新**AI框架**首次**出现在AI新闻上， **OpenAI**将在新加坡开设AI实验室
 
-📅 Thu, 21 May 2026 19:19:05 +0000
+📅 Fri, 22 May 2026 10:00:00 +0000
 
 ---
 
@@ -129,66 +129,66 @@ AdventHealth正在使用Chat**GPT** for Healthcare来简化工作流程，减轻
 
 ---
 
-### ArXiv Machine Learning (cs.LG)
-**[HealthCraft ：急诊医学的强化学习安全环境](https://arxiv.org/abs/2605.21496)**
+### MIT Tech Research
+**[Google I/O展示了人工智能驱动科学的道路如何转变](https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/)**
 
-21496v1公告类型：新摘要：前沿语言模型部署到临床工作流程的速度快于基础设施，以安全地评估它们V8结果在两个前沿模型上显示**Claude** Opus 4
+在周二的**Google** I/O主题演讲中， **Google** DeepMind的首席执行官
 
-📅 Fri, 22 May 2026 00:00:00 -0400
-
----
-
-### ArXiv Computer Vision (cs.CV)
-**[Lens ：重新思考基础文本到图像模型的训练效率](https://arxiv.org/abs/2605.21573)**
-
-21573v1公告类型：新摘要：我们引入了Lens ，这是一个由800米密集字幕图像文本对组成的3a数据集，其字幕由**GPT**-4生成
-
-📅 Fri, 22 May 2026 00:00:00 -0400
+📅 Fri, 22 May 2026 10:00:00 +0000
 
 ---
 
-### ArXiv AI (cs.AI)
-**[SOLAR ：终身学习和持续适应的自我优化开放式自主代理](https://arxiv.org/abs/2605.20189)**
+### Science AI
+**[认识即将前往国会的微生物学家和科学倡导者](https://www.science.org/content/article/meet-microbiologist-and-science-advocate-who-s-headed-congress)**
 
-20189v1公告类型：新摘要：尽管大型语言模型（ LLM ）取得了显着成功，隐式地充当情节记忆缓冲区，以平衡可塑性（适应新任务）和稳定性（元知识的保留）
+茉莉花·克拉克（ Jasmine Clark ）在2017年领导了科学游行（ March for Science ）她刚刚赢得了佐治亚州初选
 
-📅 Fri, 22 May 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[Mahjax ： JAX中用于强化学习的GPU加速麻将模拟器](https://arxiv.org/abs/2605.20577)**
-
-20577v1公告类型：新摘要： Riichi Mahjong是一名多人游戏玩家虽然之前的研究在很大程度上依赖于从人类游戏日志中进行监督学习来预训练策略
-
-📅 Fri, 22 May 2026 00:00:00 -0400
+📅 2026-05-22T05:40:00.000Z
 
 ---
 
-### ArXiv Machine Learning (cs.LG)
-**[通过比较创意评估教授预测研究成功的语言模型](https://arxiv.org/abs/2605.21491)**
+### Science AI
+**[官方消息：欧洲物理学家计划建造91公里粒子对撞机](https://www.science.org/content/article/it-s-official-europe-physicists-plan-build-91-kilometer-particle-collider)**
 
-21491v1公告类型：新摘要：随着语言模型通过自动化假设生成和实施来加速科学研究，出现了新的瓶颈：在没有详尽实验的情况下评估和过滤数百个人工智能生成的创意
+耗资190亿美元的未来环形对撞机将建立在CERN大型强子对撞机（目前世界上最大的
 
-📅 Fri, 22 May 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[文本到SQL集成的剩余技能优化](https://arxiv.org/abs/2605.21792)**
-
-21792v1公告类型：新摘要：文本到SQL集成通过绘制多个SQL候选并选择一个剩余技能优化框架来改善单个候选生成，该框架构建互补的agentic文本到SQL集成，而无需模型微调：每个新技能都根据当前技能集成失败的示例进行优化
-
-📅 Fri, 22 May 2026 00:00:00 -0400
+📅 2026-05-22T05:40:00.000Z
 
 ---
 
-### ArXiv Natural Language Processing (cs.CL)
-**[当病例变得罕见时：非指南临床问答的检索基准](https://arxiv.org/abs/2605.21807)**
+### Science AI
+**[报告警告说，美国机构尚未准备好应对免费提供研究论文的成本上涨](https://www.science.org/content/article/u-s-agencies-aren-t-ready-rising-cost-making-research-papers-free-report-warns)**
 
-21807v1公告类型：新摘要：跨医学专科使用检索到的医学文章增强模型将此性能提高到高达82 ％ （使用**GPT**-5
+国会分析师发现，科学机构可能很快就会面临近10 $十亿的出版法案
 
-📅 Fri, 22 May 2026 00:00:00 -0400
+📅 2026-05-22T05:05:00.000Z
+
+---
+
+### Science AI
+**[研究小组希望参议院审查特朗普的NSF负责人候选人](https://www.science.org/content/article/analysis-research-groups-want-senate-vet-trump-s-nominee-nsf-head)**
+
+听证会将就詹姆斯·奥尼尔（ James O’Neill ）领导该机构的资格提出问题
+
+📅 2026-05-21T05:05:00.000Z
+
+---
+
+### Science AI
+**[听力重磅炸弹：美国国立卫生研究院传染病研究所代理主任外出](https://www.science.org/content/article/hearing-bombshell-acting-director-nih-s-infectious-disease-institute-out)**
+
+杰弗里·陶本伯格（ Jeffery Taubenberger ）离开国家过敏和传染病研究所（ National Institute of Allergy and Infectious Diseases ）领导岗位，这封闭了国家过敏和传
+
+📅 2026-05-21T04:00:00.000Z
+
+---
+
+### Science AI
+**[古代微生物之间的战争为我们提供了关键的免疫防御](https://www.science.org/content/article/ancient-wars-between-microbes-gave-us-key-immune-defenses)**
+
+更好地了解细菌和病毒之间的战斗可以激发新药
+
+📅 2026-05-21T02:00:00.000Z
 
 ---
 
@@ -258,54 +258,34 @@ DCI-Agent-Lite设计为基于**GPT**-5构建的轻量级、低成本设置。第
 
 ---
 
-### MIT Tech Review
-**[绿色钢铁初创公司波士顿金属(Boston Metal)正在加倍投资关键金属](https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/)**
+### TechCrunch
+**[这些特殊的手机和应用程序功能可以帮助保护您免受间谍软件的侵害](https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/)**
 
-麻省理工学院技术评论可以独家报道，初创公司波士顿金属公司已经筹集了7500万$的资金来生产关键金属。有了额外的资金，新的重点可以......
+Apple、**Meta**和**Google**提供特殊的安全模式，让您的设备更安全地抵御有针对性的间谍软件攻击以下是这些模式的工作原理、功能以及如何打开它们
 
-📅 Wed, 20 May 2026 13:00:00 +0000
+📅 Sat, 23 May 2026 16:00:00 +0000
 
 ---
 
-### Wired Technology
-**[即使你讨厌人工智能，你也会使用谷歌人工智能搜索](https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/)**
+### The Verge
+![以下是我们推荐的38个阵亡将士纪念日优惠，价格不超过$ 50](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Amazon_Fire_TV_Stick_4K_Max_2023_Press_Lifestyle_Image.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-这家搜索巨头的人工智能答案非常方便，您将被吸入其中，从而损害网络及其背后的艺术家和思想家
+**[以下是我们推荐的38个阵亡将士纪念日优惠，价格不超过$ 50](https://www.theverge.com/gadgets/935751/memorial-day-2026-best-cheap-tech-deals-under-50)**
 
-📅 Fri, 22 May 2026 15:00:00 +0000
+它主演了Kay Vess ，一个希望从犯罪霸主那里偷窃以获得自由的主角。1080p摄像头通过添加人体检测功能，同时保留运动检测等功能，对之前的型号进行了改进
+
+📅 2026-05-23T14:00:00.000Z
 
 ---
 
 ## 📦 GitHub热门
-
-### GitHub Active (AI/ML)
-![ai-engineering-from-scratch ：学习它。构建它。为其他人运送。](https://avatars.githubusercontent.com/u/48523873?v=4)
-
-**[ai-engineering-from-scratch ：学习它。构建它。为其他人运送。](https://github.com/rohitg00/ai-engineering-from-scratch)**
-
-⭐ 11889星· 2263叉·蟒·学。建造它。为别人运送它。
-
-📅 2026-05-23T00:10:38Z
-
----
-
-### GitHub Active (Python)
-![appstore:: convenience_store: Nextcloud应用商店](https://avatars.githubusercontent.com/u/19211038?v=4)
-
-**[appstore:: convenience_store: Nextcloud应用商店](https://github.com/nextcloud/appstore)**
-
-⭐ 385星· 172叉· Python ·: convenience_store: Nextcloud应用商店
-
-📅 2026-05-23T00:10:55Z
-
----
 
 ### GitHub New (New AI)
 ![🆕 dmpo ： MPO/DMPO的实施和探索](https://avatars.githubusercontent.com/u/108653?v=4)
 
 **[🆕 dmpo ： MPO/DMPO的实施和探索](https://github.com/lucidrains/dmpo)**
 
-⭐ 5 star (新项目) · N/A · Implementation and explorations into MPO / DMPO
+⭐ 5 star (新项目) · Python · Implementation and explorations into MPO / DMPO
 
 📅 2026-05-20T13:28:05Z
 
@@ -316,20 +296,42 @@ DCI-Agent-Lite设计为基于**GPT**-5构建的轻量级、低成本设置。第
 
 **[🆕 单神经：一个开源的教育平台，用于通过视觉神经元构建、训练和测试来学习人工智能，而无需编写代码。](https://github.com/dulanjayabhanu/mononeural)**
 
-⭐ 4 star (新项目) · TypeScript · An open-source educational platform for learning artificial intelligence through visual neuron buildingtraining
+⭐ 5 star (新项目) · TypeScript · An open-source educational platform for learning artificial intelligence through visual neuron buildingtraining
 
 📅 2026-05-20T05:24:19Z
+
+---
+
+### GitHub New (New AI)
+![🆕 rce_ai_ml ：像反转者一样思考神经网络](https://avatars.githubusercontent.com/u/230338072?v=4)
+
+**[🆕 rce_ai_ml ：像反转者一样思考神经网络](https://github.com/noct-ml/rce_ai_ml)**
+
+⭐ 3 star (新项目) · N/A · Thinking Like a Reverser About Neural Networks
+
+📅 2026-05-22T16:27:12Z
+
+---
+
+### GitHub New (New AI)
+![🆕 wade-ai ： W.A.D.E. -本地优先的自主AI运行时，在您的硬件上运行，拥有您的数据，并在没有提示的情况下运行。](https://avatars.githubusercontent.com/u/30139853?v=4)
+
+**[🆕 wade-ai ： W.A.D.E. -本地优先的自主AI运行时，在您的硬件上运行，拥有您的数据，并在没有提示的情况下运行。](https://github.com/turntducky/wade-ai)**
+
+⭐ 3 star (新项目) · Python · W— A local-first autonomous AI runtime that runs on your hardware, owns your data, and acts without being prompted
+
+📅 2026-05-22T06:12:40Z
 
 ---
 
 ## 💬 社交动态
 
 ### Hacker News AI
-**[廉价的人工智能可能会破坏OpenAI和Anthropic的IPO](https://www.cnbc.com/2026/05/20/cheap-ai-could-derail-openai-and-anthropics-ipos.html)**
+**[微软、Meta、亚马逊的代理人工智能代币使用气球成本](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-cost-crisis-hits-tech-giants-as-employee-tokenmaxxing-backfires-agentic-ai-eats-up-to-1000x-more-tokens-than-standard-ai-sparks-corporate-pullback-at-microsoft-meta-and-amazon)**
 
-com/2026/05/20/cheap-ai-could-derail-**OpenAI**-and-**Anthropic**s-iposhtml评论网址： https://**new**s
+文章网址： https://wwwcom/tech-industry/artificial-intelligence/ai-cost-crisis-hits-tech-giants-as-employee-tokenmaxxing-backfires-agentic-ai-eats-up-to-1000x-more-tokens-than-standard-ai-sparks-corporate-pullback-at-microsoft-**Meta**-and-amazon评论网址： https://**new**s
 
-📅 Fri, 22 May 2026 23:37:17 +0000
+📅 Sat, 23 May 2026 15:03:58 +0000
 
 ---
 
@@ -338,7 +340,7 @@ com/2026/05/20/cheap-ai-could-derail-**OpenAI**-and-**Anthropic**s-iposhtml评�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-05-23T00:08:43.795Z
+📅 2026-05-23T16:05:00.546Z
 
 ---
 
@@ -347,52 +349,52 @@ com/2026/05/20/cheap-ai-could-derail-**OpenAI**-and-**Anthropic**s-iposhtml评�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-05-23T00:10:03.625Z
-
----
-
-### Hacker News
-**[Glasswing项目：初步更新](https://www.anthropic.com/research/glasswing-initial-update)**
-
-文章网址： https://wwwcom/research/glasswing-initial-**update**评论网址： https://**new**s
-
-📅 Fri, 22 May 2026 19:31:45 +0000
-
----
-
-### Hacker News AI
-**[我上个月在Claude Code的$ 200/月计划中使用了$ 30,983的AI代币](https://www.indiehackers.com/post/i-used-30-983-of-ai-tokens-last-month-in-claude-code-on-200-mo-plan-3337a369a6)**
-
-文章网址： https://wwwcom/post/i-used-30-983-of-ai-tokens-last-month-in-**Claude**-code-on-200-mo-plan-3337a369a6评论网址： https://**new**s
-
-📅 Fri, 22 May 2026 23:11:54 +0000
-
----
-
-### Hacker News AI
-**[谷歌的人工智能代理是否为$ 916构建了一个操作系统？](https://www.normaltech.ai/p/did-googles-ai-agents-really-build)**
-
-文章网址： https://wwwai/p/did-**Google**s-ai-agents-really-build评论网址： https://**new**s
-
-📅 Fri, 22 May 2026 22:50:27 +0000
+📅 2026-05-23T16:06:21.477Z
 
 ---
 
 ### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[Title: twitter.com](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Title: twitter.com
+
+📅 2026-05-23T16:05:00.546Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误500 ：内部服务器错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误500 ：内部服务器错误
+
+📅 2026-05-23T16:05:00.546Z
+
+---
+
+### X: OpenAI
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Markdown 内容
+
+📅 2026-05-23T16:05:00.546Z
+
+---
+
+### X: OpenAI
+**[# #此页面无法正常工作](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+# #此页面无法正常工作
+
+📅 2026-05-23T16:05:00.546Z
+
+---
+
+### X: Sam Altman
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/sama)**
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-05-23T00:08:43.795Z
-
----
-
-### X: OpenAI
-**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-警告：目标URL返回错误520 ：
-
-📅 2026-05-23T00:08:43.795Z
+📅 2026-05-23T16:05:16.467Z
 
 ---
 
