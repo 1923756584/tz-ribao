@@ -1,12 +1,12 @@
 ---
 title: "2026年5月23日 - TZ日报"
-date: 2026-05-23T16:07:51.306Z
+date: 2026-05-24T00:02:06.409Z
 draft: false
 ---
 
 # 2026年5月23日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/5/23 16:07:51
+> 📊 今日汇总 38 条 · 🕐 2026/5/24 00:02:06
 
 ---
 
@@ -28,17 +28,6 @@ draft: false
 AdventHealth正在使用Chat**GPT** for Healthcare来简化工作流程，减轻管理负担，并为患者提供更多护理时间
 
 📅 Thu, 21 May 2026 12:00:00 GMT
-
----
-
-### Google AI Blog
-![我们在2026年I/O大会上宣布的100件事](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_things_Social.max-600x600.format-webp.webp)
-
-**[我们在2026年I/O大会上宣布的100件事](https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/)**
-
-在今年的**Google** I/O 2026上，我们宣布了**Gemini** Omni、**Google** Antigravity、Universal Cart等等以下是亮点
-
-📅 Wed, 20 May 2026 19:30:00 +0000
 
 ---
 
@@ -68,17 +57,6 @@ AdventHealth正在使用Chat**GPT** for Healthcare来简化工作流程，减轻
 回顾2026年I/O对话，其中领导人讨论了人工智能、量子计算、机器人和创造力的未来
 
 📅 Fri, 22 May 2026 18:00:00 +0000
-
----
-
-### Google AI Blog
-![一项新的实验为Google Beam带来了更好的小组会议](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-05-15_at_4.21.2.max-600x600.format-webp.webp)
-
-**[一项新的实验为Google Beam带来了更好的小组会议](https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/)**
-
-以真实的大小和声音看到和听到您的同事，使混合会议更具包容性和联系性
-
-📅 Wed, 20 May 2026 16:45:00 +0000
 
 ---
 
@@ -115,6 +93,24 @@ AdventHealth正在使用Chat**GPT** for Healthcare来简化工作流程，减轻
 **OpenAI**将在新加坡开设其在美国以外的**首个**应用AI实验室该实验室将[…]随着IMDA**更新**AI框架**首次**出现在AI新闻上， **OpenAI**将在新加坡开设AI实验室
 
 📅 Fri, 22 May 2026 10:00:00 +0000
+
+---
+
+### AI News
+**[Nvidia的Vera芯片是Jensen Huang不希望你忽视的2000亿美元赌注](https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/)**
+
+当收益超过预期时， Nvidia Vera芯片很少成为头条新闻，但它应该是[…] Nvidia的Vera芯片是2000亿美元的赌注， Jensen Huang不希望您忽视**首次**出现在人工智能新闻
+
+📅 Thu, 21 May 2026 08:00:00 +0000
+
+---
+
+### OpenAI Blog
+**[维珍大西洋航空如何通过Codex更快地发货](https://openai.com/index/virgin-atlantic)**
+
+维珍大西洋航空如何使用Codex在固定假期旅行截止日期前出货其改进的移动应用程序，达到接近整体单元测试的覆盖范围和零P1缺陷
+
+📅 Fri, 22 May 2026 00:00:00 GMT
 
 ---
 
@@ -205,17 +201,6 @@ AdventHealth正在使用Chat**GPT** for Healthcare来简化工作流程，减轻
 
 ---
 
-### The Verge
-![本周末您可以购买的最佳阵亡将士纪念日促销活动](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0103.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[本周末您可以购买的最佳阵亡将士纪念日促销活动](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026)**
-
-耳塞和耳机AirPods Pro 3 AirPods Pro 3采用全新设计，提高了贴合度最新型号的声音明显优于第三代配对，尤其是在语音通话方面
-
-📅 2026-05-22T16:50:38.000Z
-
----
-
 ### VentureBeat
 ![有效证书、被盗帐户：攻击者如何破坏npm的最后一个信任信号](https://images.ctfassets.net/jdtwqhzvc2n1/3fqnou87sWjHiEvKupJyGB/9de43fb83d1bb45c4f9cc6f4d9f8fb3c/hero.png?w=300&q=30)
 
@@ -278,27 +263,27 @@ Apple、**Meta**和**Google**提供特殊的安全模式，让您的设备更安
 
 ---
 
-## 📦 GitHub热门
+### The Verge
+![谷歌新的Anything-to-anything人工智能模型是狂野的](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-label-19.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-### GitHub New (New AI)
-![🆕 dmpo ： MPO/DMPO的实施和探索](https://avatars.githubusercontent.com/u/108653?v=4)
+**[谷歌新的Anything-to-anything人工智能模型是狂野的](https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video)**
 
-**[🆕 dmpo ： MPO/DMPO的实施和探索](https://github.com/lucidrains/dmpo)**
+|图片：双子座/The Verge去年，我深度伪造了我孩子的毛绒动物，让它看起来像他的毛绒鹿在度假这是一个实验，看看我是否可以重新创建谷歌正在运行的双子座广告中描绘的事件
 
-⭐ 5 star (新项目) · Python · Implementation and explorations into MPO / DMPO
-
-📅 2026-05-20T13:28:05Z
+📅 2026-05-23T11:00:00.000Z
 
 ---
 
+## 📦 GitHub热门
+
 ### GitHub New (New AI)
-![🆕 单神经：一个开源的教育平台，用于通过视觉神经元构建、训练和测试来学习人工智能，而无需编写代码。](https://avatars.githubusercontent.com/u/146608946?v=4)
+![🆕 nera-trading-agent ：自主交易机器人—蒙特卡洛模拟、智能货币概念（ SMC ）、Gemini 2.5 Pro CIO批准和Telegram警报。](https://avatars.githubusercontent.com/u/86192673?v=4)
 
-**[🆕 单神经：一个开源的教育平台，用于通过视觉神经元构建、训练和测试来学习人工智能，而无需编写代码。](https://github.com/dulanjayabhanu/mononeural)**
+**[🆕 nera-trading-agent ：自主交易机器人—蒙特卡洛模拟、智能货币概念（ SMC ）、Gemini 2.5 Pro CIO批准和Telegram警报。](https://github.com/ajiekusumadhany/nera-trading-agent)**
 
-⭐ 5 star (新项目) · TypeScript · An open-source educational platform for learning artificial intelligence through visual neuron buildingtraining
+⭐ 3 star (新项目) · Python · Autonomous trading bot — Monte Carlo simulation, Smart Money Concepts (SMC), **Gemini** 25 Pro CIO approval & Telegram alerts
 
-📅 2026-05-20T05:24:19Z
+📅 2026-05-23T12:28:25Z
 
 ---
 
@@ -310,6 +295,17 @@ Apple、**Meta**和**Google**提供特殊的安全模式，让您的设备更安
 ⭐ 3 star (新项目) · N/A · Thinking Like a Reverser About Neural Networks
 
 📅 2026-05-22T16:27:12Z
+
+---
+
+### GitHub New (New AI)
+![🆕 populora ： PopuLoRA的实施和探索，共同发展LLM人群以进行推理自我游戏](https://avatars.githubusercontent.com/u/108653?v=4)
+
+**[🆕 populora ： PopuLoRA的实施和探索，共同发展LLM人群以进行推理自我游戏](https://github.com/lucidrains/populora)**
+
+⭐ 3 star (新项目) · N/A · Implementation and explorations into PopuLoRA, Co-Evolving LLM Populations for Reasoning Self-Play
+
+📅 2026-05-22T14:01:37Z
 
 ---
 
@@ -326,21 +322,12 @@ Apple、**Meta**和**Google**提供特殊的安全模式，让您的设备更安
 
 ## 💬 社交动态
 
-### Hacker News AI
-**[微软、Meta、亚马逊的代理人工智能代币使用气球成本](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-cost-crisis-hits-tech-giants-as-employee-tokenmaxxing-backfires-agentic-ai-eats-up-to-1000x-more-tokens-than-standard-ai-sparks-corporate-pullback-at-microsoft-meta-and-amazon)**
-
-文章网址： https://wwwcom/tech-industry/artificial-intelligence/ai-cost-crisis-hits-tech-giants-as-employee-tokenmaxxing-backfires-agentic-ai-eats-up-to-1000x-more-tokens-than-standard-ai-sparks-corporate-pullback-at-microsoft-**Meta**-and-amazon评论网址： https://**new**s
-
-📅 Sat, 23 May 2026 15:03:58 +0000
-
----
-
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-05-23T16:05:00.546Z
+📅 2026-05-23T23:58:48.071Z
 
 ---
 
@@ -349,25 +336,43 @@ Apple、**Meta**和**Google**提供特殊的安全模式，让您的设备更安
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-05-23T16:06:21.477Z
+📅 2026-05-24T00:00:19.578Z
+
+---
+
+### Hacker News AI
+**[Anthropic指责反乌托邦科幻小说训练人工智能模型“邪恶”](https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/)**
+
+文章网址： https://arstechnicacom/ai/2026/05/**Anthropic**-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/评论网址： https://**new**s
+
+📅 Sat, 23 May 2026 21:45:46 +0000
 
 ---
 
 ### X: OpenAI
-**[Title: twitter.com](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-Title: twitter.com
+Title: 520: Web服务器返回未知错误
 
-📅 2026-05-23T16:05:00.546Z
+📅 2026-05-23T23:58:48.071Z
 
 ---
 
 ### X: OpenAI
-**[警告：目标URL返回错误500 ：内部服务器错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-警告：目标URL返回错误500 ：内部服务器错误
+警告：目标URL返回错误520 ：
 
-📅 2026-05-23T16:05:00.546Z
+📅 2026-05-23T23:58:48.071Z
+
+---
+
+### X: OpenAI
+**[警告：此页面可能尚未完全加载，请考虑显式指定超时。](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：此页面可能尚未完全加载，请考虑显式指定超时。
+
+📅 2026-05-23T23:58:48.071Z
 
 ---
 
@@ -376,25 +381,16 @@ Title: twitter.com
 
 Markdown 内容
 
-📅 2026-05-23T16:05:00.546Z
-
----
-
-### X: OpenAI
-**[# #此页面无法正常工作](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-# #此页面无法正常工作
-
-📅 2026-05-23T16:05:00.546Z
+📅 2026-05-23T23:58:48.071Z
 
 ---
 
 ### X: Sam Altman
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/sama)**
+**[网址来源： http://twitter.com/sama](https://r.jina.ai/http://twitter.com/sama)**
 
-Title: 520: Web服务器返回未知错误
+网址来源： http://twitter.com/sama
 
-📅 2026-05-23T16:05:16.467Z
+📅 2026-05-23T23:59:04.617Z
 
 ---
 
