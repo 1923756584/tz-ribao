@@ -1,19 +1,19 @@
 ---
 title: "2026年5月24日 - TZ日报"
-date: 2026-05-24T16:07:39.689Z
+date: 2026-05-25T00:04:17.732Z
 draft: false
 ---
 
 # 2026年5月24日 - TZ日报
 
-> 📊 今日汇总 36 条 · 🕐 2026/5/24 16:07:39
+> 📊 今日汇总 34 条 · 🕐 2026/5/25 00:04:17
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 6 条
+- **前沿研究**: 4 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -51,12 +51,12 @@ draft: false
 
 ---
 
-### DeepMind Blog
-**[我们将在亚太地区推出Google DeepMind加速器计划，以应对环境风险](https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/)**
+### TechCrunch AI Products
+**[每个人都在实时导航人工智能安全—甚至是谷歌](https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/)**
 
-我们将在亚太地区**推出**Google DeepMind加速器计划，以应对环境风险
+我们正处于过渡时期--我们所有人。
 
-📅 Thu, 21 May 2026 19:46:42 +0000
+📅 Sun, 24 May 2026 21:39:21 +0000
 
 ---
 
@@ -152,36 +152,7 @@ draft: false
 
 ---
 
-### MIT Tech Research
-**[圆桌会议：人工智能能学会理解世界吗？](https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/)**
-
-收听下面的会议或观看人工智能公司希望构建了解外部世界并克服LLM的局限性的系统最近的发展将世界模型带到了人工智能讨论的最前沿
-
-📅 Thu, 21 May 2026 20:41:05 +0000
-
----
-
-### MIT Tech Research
-**[在人工智能时代扩展创造力](https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/)**
-
-技术一直通过媒介和分布交织在一起：从早期人类对洞穴壁画的天然颜料和木炭的创新到相机的字面表现。在我们的......
-
-📅 Thu, 21 May 2026 19:16:43 +0000
-
----
-
 ## 🌍 行业展望
-
-### VentureBeat
-![阿里巴巴专有的Qwen3.7-Max可以自动运行35小时，并支持Anthropic的Claude Code等外部线束](https://images.ctfassets.net/jdtwqhzvc2n1/5v1B7d4B5GNDUmmXGHFf00/e015ad0dd38cd0b9e9ff9e195d91bd13/ChatGPT_Image_May_21__2026__07_29_11_PM.png?w=300&q=30)
-
-**[阿里巴巴专有的Qwen3.7-Max可以自动运行35小时，并支持Anthropic的Claude Code等外部线束](https://venturebeat.com/technology/alibabas-proprietary-qwen3-7-max-can-run-for-35-hours-autonomously-and-supports-external-harnesses-like-anthropics-claude-code)**
-
-在上下文中，通过**OpenAI**的**GPT**-57-Max在API背后运行繁重的代理工作流程，阿里巴巴正在转向**OpenAI** （使用**GPT**-4 ）和**Anthropic** （使用**Claude** ）使用的标准商业剧本
-
-📅 Thu, 21 May 2026 23:53:17 GMT
-
----
 
 ### The Verge
 ![本周末您可以购买的最佳阵亡将士纪念日促销活动](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24900403/sonosmove2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
@@ -254,6 +225,15 @@ Apple、**Meta**和**Google**提供特殊的安全模式，让您的设备更安
 
 ---
 
+### TechCrunch
+**[谷歌的智能眼镜合作伙伴Xreal认为，它终于掌握了这个臭名昭著的棘手行业](https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/)**
+
+XREAL创始人兼CEO徐志认为智能眼镜业务终于到了转折点
+
+📅 Sun, 24 May 2026 19:00:00 +0000
+
+---
+
 ## 📦 GitHub热门
 
 ### GitHub New (New AI)
@@ -264,17 +244,6 @@ Apple、**Meta**和**Google**提供特殊的安全模式，让您的设备更安
 ⭐ 7 star (新项目) · N/A · Implementation and explorations into PopuLoRA, Co-Evolving LLM Populations for Reasoning Self-Play
 
 📅 2026-05-22T14:01:37Z
-
----
-
-### GitHub New (New AI)
-![🆕 BIM-2 ：生物启发的语言模型，使用Jaccard Surprise作为其唯一的训练信号。没有反向传播，没有GPU。在线Hebbian从更正中学习。具有心尖反馈的双层皮层。在200MB以下的CPU上运行。](https://avatars.githubusercontent.com/u/215045776?v=4)
-
-**[🆕 BIM-2 ：生物启发的语言模型，使用Jaccard Surprise作为其唯一的训练信号。没有反向传播，没有GPU。在线Hebbian从更正中学习。具有心尖反馈的双层皮层。在200MB以下的CPU上运行。](https://github.com/tgakathunderr/BIM-2)**
-
-⭐ 4 star (新项目) · Python · Biologically inspired language model using Jaccard Surprise as its only training signalRuns on CPU under 200MB
-
-📅 2026-05-21T17:10:47Z
 
 ---
 
@@ -300,14 +269,34 @@ Apple、**Meta**和**Google**提供特殊的安全模式，让您的设备更安
 
 ---
 
+### GitHub New (New AI)
+![🆕 rce_ai_ml ：像反转者一样思考神经网络](https://avatars.githubusercontent.com/u/311885?v=4)
+
+**[🆕 rce_ai_ml ：像反转者一样思考神经网络](https://github.com/Fyyre/rce_ai_ml)**
+
+⭐ 3 star (新项目) · N/A · Thinking Like a Reverser About Neural Networks
+
+📅 2026-05-22T16:27:12Z
+
+---
+
 ## 💬 社交动态
+
+### Hacker News AI
+**[关于震撼华盛顿的人工智能模型需要了解什么](https://www.politico.com/news/2026/05/24/anthropic-openai-mythos-what-to-know-00934668)**
+
+文章网址： https://wwwcom/**new**s/2026/05/24/**Anthropic**-**OpenAI**-mythos-what-to-know-00934668评论网址： https://**new**s
+
+📅 Sun, 24 May 2026 23:14:37 +0000
+
+---
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-05-24T16:04:38.587Z
+📅 2026-05-25T00:01:46.360Z
 
 ---
 
@@ -316,43 +305,7 @@ Apple、**Meta**和**Google**提供特殊的安全模式，让您的设备更安
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-05-24T16:05:58.775Z
-
----
-
-### Hacker News
-**[DeepSeek将永久享受旗舰AI模型75%的折扣](https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model)**
-
-文章网址： https://wwwcom/**new**s/articles/2026-05-23/**DeepSeek**-to-make-permanent-75-discount-on-flagship-ai-model评论网址： https://**new**s
-
-📅 Sun, 24 May 2026 14:09:33 +0000
-
----
-
-### Hacker News
-**[微软6502 BASIC现已开源（ 2025年）](https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/)**
-
-文章网址： https://opensourcecom/blog/2025/09/03/microsoft-open-source-historic-6502-basic/评论网址： https://**new**s
-
-📅 Sun, 24 May 2026 13:16:33 +0000
-
----
-
-### Hacker News
-**[DeepSeek reasonix ，具有高缓存和低成本的DeepSeek原生编码代理](https://esengine.github.io/DeepSeek-Reasonix/)**
-
-文章网址： https://esengineio/**DeepSeek**-Reasonix/评论网址： https://**new**s
-
-📅 Sun, 24 May 2026 13:02:06 +0000
-
----
-
-### Hacker News AI
-**[2028年：全球人工智能领导力的两个场景](https://www.anthropic.com/research/2028-ai-leadership)**
-
-文章网址： https://wwwcom/research/2028-ai-leadership评论网址： https://**new**s
-
-📅 Sun, 24 May 2026 13:27:49 +0000
+📅 2026-05-25T00:02:39.929Z
 
 ---
 
@@ -370,7 +323,34 @@ Apple、**Meta**和**Google**提供特殊的安全模式，让您的设备更安
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-05-24T16:04:38.587Z
+📅 2026-05-25T00:01:46.360Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误520 ：
+
+📅 2026-05-25T00:01:46.360Z
+
+---
+
+### X: OpenAI
+**[警告：此页面可能尚未完全加载，请考虑显式指定超时。](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：此页面可能尚未完全加载，请考虑显式指定超时。
+
+📅 2026-05-25T00:01:46.360Z
+
+---
+
+### X: OpenAI
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Markdown 内容
+
+📅 2026-05-25T00:01:46.360Z
 
 ---
 
