@@ -1,12 +1,12 @@
 ---
 title: "2026年5月26日 - TZ日报"
-date: 2026-05-26T00:11:24.117Z
+date: 2026-05-26T18:01:39.498Z
 draft: false
 ---
 
 # 2026年5月26日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/5/26 00:11:24
+> 📊 今日汇总 38 条 · 🕐 2026/5/26 18:01:39
 
 ---
 
@@ -50,6 +50,33 @@ draft: false
 ---
 
 ### TechCrunch AI Products
+**[这家初创公司押注印度的零工经济可以训练世界上的机器人](https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/)**
+
+由加州大学伯克利分校和斯坦福大学研究人员创立的一家初创公司正在向印度的零工工人支付费用，让他们戴上配备摄像头的帽子和传感器设备，以收集人工智能和机器人实验室正在竞相获取的真实世界的体能训练数据
+
+📅 Tue, 26 May 2026 16:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[环球音乐集团和TikTok续签协议，打击未经授权的人工智能音乐](https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/)**
+
+多年来， UMG一直推动平台、流媒体服务和人工智能公司实施更严格的内容审核政策
+
+📅 Tue, 26 May 2026 14:55:05 +0000
+
+---
+
+### TechCrunch AI Products
+**[TechCrunch Disrupt 2026 5月29日结束的早鸟门票价格](https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/)**
+
+在5月29日11:59价格上涨之前， TechCrunch Disrupt 2026通行证最高可节省410 $在此注册，加入旧金山的科技中心
+
+📅 Tue, 26 May 2026 14:00:00 +0000
+
+---
+
+### TechCrunch AI Products
 **[ClickUp的大规模裁员告诉我们关于工作未来的信息](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/)**
 
 这家成立9年的初创公司正在用数千名人工智能代理人取代数百名员工。
@@ -85,146 +112,146 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[我试过亚马逊的Bee可穿戴设备，既好奇又有点毛骨悚然](https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/)**
-
-与其他人工智能可穿戴设备一样，亚马逊的Bee提供便利和隐私焦虑的奇怪组合。
-
-📅 Sun, 24 May 2026 15:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[法拉利正在使用IBM的人工智能打造F1超级粉丝](https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/)**
-
-IBM和Scuderia Ferrari HP将TechCrunch带入了他们如何重新定义粉丝体验的内部。
-
-📅 Sat, 23 May 2026 15:08:00 +0000
-
----
-
-### TechCrunch AI Products
-**[埃隆·马斯克（ Elon Musk ）放弃了太阳能（在地球上）](https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/)**
-
-Elon Muks的xAI已经全力投入天然气，而SpaceX则痴迷于轨道数据中心他承诺的“太阳能电力经济”发生了什么
-
-📅 Sat, 23 May 2026 13:00:00 +0000
-
----
-
 ## 🔬 前沿研究
 
-### ArXiv Natural Language Processing (cs.CL)
-**[人工智能可以猜出你所知道的吗？从沟通日志进行人类领域知识估计的大型语言模型的性能比较](https://arxiv.org/abs/2605.22971)**
-
-和**GPT**家族）通过将他们的零拍估计与27名参与者的自我报告的技能评级进行比较13 ％ ） ，而**GPT**模型显示出显着更大的差异
-
-📅 Mon, 25 May 2026 00:00:00 -0400
-
----
-
 ### ArXiv AI (cs.AI)
-**[RMA ：研究级数学问题的代理系统](https://arxiv.org/abs/2605.22875)**
+**[BODHI ：精确操作系统内核规格推断](https://arxiv.org/abs/2605.23931)**
 
-22875v1公告类型：新摘要：我们提供$\ textbf {Research Math Agents (RMA)} $通过全面的专家评估， RMA在第一次证明基准（包括**GPT**-5 ）上的表现优于强劲的基准
+对来自六家供应商的九个模型进行了评估（ **Anthropic**The最佳配置（ **Claude** Opus 4
 
-📅 Mon, 25 May 2026 00:00:00 -0400
+📅 Tue, 26 May 2026 00:00:00 -0400
+
+---
+
+### ArXiv Machine Learning (cs.LG)
+**[走向可验证变压器：求解器可检查电路说明](https://arxiv.org/abs/2605.24033)**
+
+24033v1公告类型：新摘要：机械可解释性通常识别变压器模型内的电路在**GPT**-2比例下，相同的运营商堆栈在OpenWebText上稳定训练，尽管天真的直接SMT验证仍然棘手
+
+📅 Tue, 26 May 2026 00:00:00 -0400
+
+---
+
+### ArXiv Machine Learning (cs.LG)
+**[隐藏状态隐私有一个空的中间](https://arxiv.org/abs/2605.24042)**
+
+24042v1公告类型：新摘要：在9000万美元时为$ 1 {33] $ ，比同等预算的**GPT**基线保持$ 6 $ -- $ 24\ times $的优势，从30M到1B ，固定代币语言建模损失罚款；预训练模型最高为9
+
+📅 Tue, 26 May 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Natural Language Processing (cs.CL)
-**[图对准拓扑作为接地检测的归纳偏置](https://arxiv.org/abs/2605.22963)**
+**[通过信息融合进行文档分类模式识别：多模态和多视图表示方法的系统综述](https://arxiv.org/abs/2605.23910)**
 
-22963v1公告类型：新摘要：大型语言模型（ LLM ）经过优化以产生分布式合理的延续，而不是明确验证生成的命题是否由源文档（包括**GPT**-4o等基础LLM ）引起
+第一个侧重于文档分类）来量化性能提升我们的荟萃分析显示，多模态融合提高了准确性（平均提升+5
 
-📅 Mon, 25 May 2026 00:00:00 -0400
+📅 Tue, 26 May 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Robotics (cs.RO)
-**[PIMbot ：多机器人强化学习对抗操纵的自适应攻击框架](https://arxiv.org/abs/2605.23027)**
+**[RED ：环境动态下机器人推理的自适应实时DAG调度](https://arxiv.org/abs/2605.24044)**
 
-23027v1公告类型：新摘要：最近的研究表明，强化学习在有效的多机器人协作中具有潜力沟通不畅和对抗性机器人等环境因素会影响合作
+24044v1公告类型：新摘要：部署在动态环境中的机器人必须应对在运行时重塑计算的环境驱动变化：新任务可能会出现一个实时调度框架，用于资源受限的机器人平台上的多任务深度神经网络工作负载，该平台适应机器人环境动态（ RED ） ，同时在建模假设下保留端到端定时保证
 
-📅 Mon, 25 May 2026 00:00:00 -0400
-
----
-
-### ArXiv Multiagent (cs.MA)
-**[联盟内部的战略胁迫：格陵兰主权博弈作为人工智能压力测试](https://arxiv.org/abs/2605.22841)**
-
-首先，在强制框架下，所有八个模型都变得更加**升级**（四动作**升级**从109%的干净游戏上升，只有3/8的前沿模型实现了它，最突出的是**DeepSeek** V3
-
-📅 Mon, 25 May 2026 00:00:00 -0400
+📅 Tue, 26 May 2026 00:00:00 -0400
 
 ---
 
-### ArXiv AI (cs.AI)
-**[BOHM ：复合AI系统的零成本分层归因](https://arxiv.org/abs/2605.22866)**
+### MIT Tech Research
+**[对人工智能工作歇斯底里的现实检查](https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/)**
 
-22866v1公告类型：新摘要：复合AI系统通过专用组件层次结构路由任务第三方API要求失败
+白领工作正在消失，科技行业的AIWaves裁员（最近在Coinbase、**Meta**和思科）预示着我们所有知识工作者即将发生的事情。
 
-📅 Mon, 25 May 2026 00:00:00 -0400
+📅 Tue, 26 May 2026 09:00:00 +0000
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[NeuroNL2LTL ：线性时间逻辑自然语言翻译的神经符号框架](https://arxiv.org/abs/2605.22874)**
+**[寻找开放性的成分：用大视觉语言模型复制Picbreeder](https://arxiv.org/abs/2605.23908)**
 
-22874v1公告类型：新摘要：在自然语言（ NL ）和形式逻辑（如线性时间逻辑（ LTL ） ）之间进行有效翻译需要专业知识，在安全关键型开发中限制正式验证的范围生成的规范经过可满足性和非平凡性检查；最小编辑修复机制在输出到达下游工具之前纠正接近未命中的输出
+23908v1公告类型：新摘要：我们正在进行大规模的工业和学术努力，以实现科学过程的自动化我们的代码可在https://github上找到
 
-📅 Mon, 25 May 2026 00:00:00 -0400
+📅 Tue, 26 May 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[SciAtlas ：自动化科学研究的大规模知识图谱](https://arxiv.org/abs/2605.22878)**
+**[大型语言模型中的置信度校准](https://arxiv.org/abs/2605.23909)**
 
-22878v1公告类型：新摘要：全球学术产出的指数级增长使研究人员和人工智能代理面临前所未有的“信息爆炸”我们在GitHub存储库中**发布**了KG检索和各种下游任务的接口
+23909v1公告类型：新摘要：我们研究大型语言模型（ LLM ）在不同任务中的校准信心我们开发了LifeEval ，这是一种跨难度级别评估模型校准的测试
 
-📅 Mon, 25 May 2026 00:00:00 -0400
+📅 Tue, 26 May 2026 00:00:00 -0400
 
 ---
 
 ## 🌍 行业展望
 
 ### The Verge
-![本周末您可以购买的最佳阵亡将士纪念日促销活动](https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0395.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![您仍然可以购买的最佳阵亡将士纪念日促销](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0020.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[本周末您可以购买的最佳阵亡将士纪念日促销活动](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026)**
+**[您仍然可以购买的最佳阵亡将士纪念日促销](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026)**
 
-耳塞和耳机AirPods Pro 3 AirPods Pro 3采用了全新设计，提高了适应性5月25日：**更新**以反映当前定价/可用性和几项新闻优惠
+您仍然可以在新款MacBook Air上节省200 $最新型号的声音明显优于第三代配对，特别是在语音通话方面
 
-📅 2026-05-25T15:33:28.000Z
+📅 2026-05-26T16:10:06.000Z
 
 ---
 
 ### Wired Technology
-**[使用Tiny11拯救运行Windows 10的计算机](https://www.wired.com/story/use-tiny11-to-rescue-a-computer-running-windows-10/)**
+**[Google Fitbit Air评论：几乎没有，总是在运行](https://www.wired.com/review/google-fitbit-air/)**
 
-如果您不能或不想**升级**到完整的Windows 11 ，请考虑使用适用于各种计算机的Microsoft操作系统的轻量级版本
+谷歌最新的Fitbit在不牺牲功能的情况下剥离了屏幕，提供迄今为止最平易近人、最实惠的可穿戴设备
 
-📅 Mon, 25 May 2026 11:00:00 +0000
+📅 Tue, 26 May 2026 13:00:00 +0000
 
 ---
 
-### TechCrunch
-**[谷歌的智能眼镜合作伙伴Xreal认为，它终于掌握了这个臭名昭著的棘手行业](https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/)**
+### Wired Technology
+**[人工智能特工让科技世界陷入混乱。以下是发生这种情况的确切原因](https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/)**
 
-XREAL创始人兼CEO徐志认为智能眼镜业务终于到了转折点
+关于**Claude** Code和OpenClaw如何启动计算机有史以来最大的转型的决定性故事
 
-📅 Sun, 24 May 2026 19:00:00 +0000
+📅 Tue, 26 May 2026 10:00:00 +0000
+
+---
+
+### ZDNet AI
+**[我退出了ChatGPT ，获得了一个名为Ollama的免费、私有和本地AI -原因如下](https://www.zdnet.com/article/reasons-to-use-ollama-instead-of-chatgpt/)**
+
+节省您的金钱、隐私和地球这款可安装的人工智能提供了Chat**GPT**等传统模式无法实现的诸多好处
+
+📅 Tue, 26 May 2026 16:05:21 GMT
+
+---
+
+### ZDNet AI
+**[我比较了三星、谷歌和摩托罗拉手机上的100倍变焦相机-这款手机赢了](https://www.zdnet.com/article/100x-zoom-test-galaxy-s26-ultra-pixel-10-pro-razr-fold-which-won/)**
+
+一个在超分辨率变焦类别中落后于竞争对手，而另一个让我感到震惊
+
+📅 Tue, 26 May 2026 15:38:00 GMT
+
+---
+
+### ZDNet AI
+**[我穿着谷歌的Fitbit Air一周，它给了Whoop一个严肃的钱](https://www.zdnet.com/article/google-fitbit-air-review/)**
+
+最热门的健康追踪设备隐藏在光滑的健身带内。
+
+📅 Tue, 26 May 2026 13:00:00 GMT
 
 ---
 
 ### The Verge
-![为什么Nuro认为成为机器人出租车的“第二推动者”会给它带来优势](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Photo-4.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![英伟达在20年后淘汰了GeForce控制面板应用程序](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25298160/nvidia_app_key_visual.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[为什么Nuro认为成为机器人出租车的“第二推动者”会给它带来优势](https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo)**
+**[英伟达在20年后淘汰了GeForce控制面板应用程序](https://www.theverge.com/news/937221/nvidia-geforce-control-panel-app-retirement)**
 
-但是，如果由谷歌自动驾驶汽车项目的资深人士创建的送货机器人公司NoNuro认为它有一个不错的机会占据这个位置呢？
+Nvidia两年多前宣布，它正在努力将Windows上的控制面板应用程序替换为新的Nvidia应用程序“随着我们最新的Nvidia应用程序**更新**的**推出**，
 
-📅 2026-05-24T11:00:00.000Z
+📅 2026-05-26T14:14:35.000Z
 
 ---
 
@@ -239,76 +266,49 @@ XREAL创始人兼CEO徐志认为智能眼镜业务终于到了转折点
 
 ---
 
-### Wired Technology
-**[电动法拉利Luce终于来了](https://www.wired.com/story/ferrari-luce-ev-is-finally-here/)**
-
-盖子已经从法拉利Luce上脱落，这是有史以来最受期待的电动汽车它完全打破了意大利汽车制造商的美学原型
-
-📅 Mon, 25 May 2026 21:03:01 +0000
-
----
-
-### Wired Technology
-**[一名游泳运动员在强化奥运会上打破了世界纪录](https://www.wired.com/story/a-swimmer-broke-a-world-record-at-the-enhanced-games/)**
-
-数十名果汁运动员参加了拉斯维加斯的强化运动会大多数人不会承认他们使用了什么药物
-
-📅 Mon, 25 May 2026 17:32:55 +0000
-
----
-
-### Wired Technology
-**[阵亡将士纪念日科技优惠：索尼、苹果、Anker等](https://www.wired.com/story/memorial-day-tech-deals-2026-2/)**
-
-阵亡将士纪念日有许多我们最推荐的耳机、充电宝和其他小工具在出售
-
-📅 Mon, 25 May 2026 17:23:29 +0000
-
----
-
 ## 📦 GitHub热门
 
-### GitHub New (New AI)
-![🆕 ZPP-Subset-Sum-Solver-Algorithm ：世界纪录子集求和器。首先用10 ^ 14-10 ^ 15的值求解n = 66-70。并行22个引擎： Schroeppel-Shamir、BCJ、ColumnSAT、波束搜索。Rust/Python。65/65测试类别通过。](https://avatars.githubusercontent.com/u/272571817?v=4)
+### GitHub Active (Python)
+![sentry ：开发人员优先的错误跟踪和性能监控](https://avatars.githubusercontent.com/u/1396951?v=4)
 
-**[🆕 ZPP-Subset-Sum-Solver-Algorithm ：世界纪录子集求和器。首先用10 ^ 14-10 ^ 15的值求解n = 66-70。并行22个引擎： Schroeppel-Shamir、BCJ、ColumnSAT、波束搜索。Rust/Python。65/65测试类别通过。](https://github.com/rehantheorylab-pixel/ZPP-Subset-Sum-Solver-Algorithm)**
+**[sentry ：开发人员优先的错误跟踪和性能监控](https://github.com/getsentry/sentry)**
 
-⭐ 3 star (新项目) · Python · World-record subset sum solverFirst to solve n=66-70 with 10^14-10^15 values
+⭐ 43,965星· 4722分叉· Python ·开发人员优先的错误跟踪和性能监控
 
-📅 2026-05-25T10:48:17Z
-
----
-
-### GitHub New (New AI)
-![🆕 Coder ： Coder是一个开源的AI编码代理。您提供API密钥和模型，它会为您创建一个工作的开发工作区。](https://avatars.githubusercontent.com/u/248249371?v=4)
-
-**[🆕 Coder ： Coder是一个开源的AI编码代理。您提供API密钥和模型，它会为您创建一个工作的开发工作区。](https://github.com/elijahshepherd/Coder)**
-
-⭐ 3 star (新项目) · TypeScript · Coder is an open-source AI coding agentYou provide your API key and model, and it creates a working development workspace for you
-
-📅 2026-05-24T01:34:58Z
+📅 2026-05-26T18:00:26Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 nera-trading-agent ：自主交易机器人—蒙特卡洛模拟、智能货币概念（ SMC ）、Gemini 2.5 Pro CIO批准和Telegram警报。](https://avatars.githubusercontent.com/u/86192673?v=4)
+### GitHub Active (Python)
+![py4j ： Py4J使Python程序能够动态访问任意Java对象](https://avatars.githubusercontent.com/u/99001623?v=4)
 
-**[🆕 nera-trading-agent ：自主交易机器人—蒙特卡洛模拟、智能货币概念（ SMC ）、Gemini 2.5 Pro CIO批准和Telegram警报。](https://github.com/ajiekusumadhany/nera-trading-agent)**
+**[py4j ： Py4J使Python程序能够动态访问任意Java对象](https://github.com/py4j/py4j)**
 
-⭐ 3 star (新项目) · Python · Autonomous trading bot — Monte Carlo simulation, Smart Money Concepts (SMC), **Gemini** 25 Pro CIO approval & Telegram alerts
+⭐ 1288星· 235分叉· Java · Py4J使Python程序能够动态访问任意Java对象
 
-📅 2026-05-23T12:28:25Z
+📅 2026-05-26T18:00:14Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 ai-tools-for-business: Open textbook (CC BY 4.0) for VCCS ITE 142 — AI Tools for Business and Information Technology.公开测试版。请访问aitoolsforbusiness.org免费阅读。](https://avatars.githubusercontent.com/u/71160516?v=4)
+### GitHub Active (Python)
+![MeshLib ：网格处理库](https://avatars.githubusercontent.com/u/80910777?v=4)
 
-**[🆕 ai-tools-for-business: Open textbook (CC BY 4.0) for VCCS ITE 142 — AI Tools for Business and Information Technology.公开测试版。请访问aitoolsforbusiness.org免费阅读。](https://github.com/benlambm/ai-tools-for-business)**
+**[MeshLib ：网格处理库](https://github.com/MeshInspector/MeshLib)**
 
-⭐ 2 star (新项目) · TeX · Open textbook (CC BY 40) for VCCS ITE 142 — AI Tools for Business and Information Technology
+⭐ 782星· 110叉· C + + ·网格处理库
 
-📅 2026-05-25T13:32:42Z
+📅 2026-05-26T18:00:20Z
+
+---
+
+### GitHub Active (Python)
+![Raphtory ：可扩展的图形分析数据库，由用Rust编写的多线程矢量化时间引擎提供支持](https://avatars.githubusercontent.com/u/89028534?v=4)
+
+**[Raphtory ：可扩展的图形分析数据库，由用Rust编写的多线程矢量化时间引擎提供支持](https://github.com/Pometry/Raphtory)**
+
+⭐ 614星· 68分叉· Rust ·可扩展的图形分析数据库，由用Rust编写的多线程矢量化时间引擎提供支持
+
+📅 2026-05-26T18:00:25Z
 
 ---
 
@@ -319,7 +319,7 @@ XREAL创始人兼CEO徐志认为智能眼镜业务终于到了转折点
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-05-26T00:07:06.197Z
+📅 2026-05-26T17:58:39.136Z
 
 ---
 
@@ -328,43 +328,25 @@ XREAL创始人兼CEO徐志认为智能眼镜业务终于到了转折点
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-05-26T00:08:26.220Z
+📅 2026-05-26T17:59:59.761Z
 
 ---
 
 ### Hacker News
-**[Microsoft Copilot Cowork过滤文件](https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files)**
+**[启动HN ： Minicor (YC P26) –大规模的Windows桌面自动化](https://www.minicor.com/)**
 
-文章网址： https://wwwcom/resources/microsoft-copilot-cowork-exfiltrates-files评论网址： https://**new**s
+我们构建了一个MCP ， **Claude** Code/Codex可以使用它来导航运行Python桌面软件的虚拟机，以创建RPA工作流程(: Comments URL: https://**new**s
 
-📅 Mon, 25 May 2026 21:45:57 +0000
-
----
-
-### Hacker News
-**[第九个电路板不遗余力地质疑230-DOE部分与Meta部分](https://blog.ericgoldman.org/archives/2026/05/ninth-circuit-panel-goes-out-of-its-way-to-question-section-230-doe-v-meta.htm)**
-
-org/archives/2026/05/ninth-circuit-panel-goes-out-of-its-way-to-question-section-230-doe-v-**Meta**htm评论网址： https://**new**s
-
-📅 Mon, 25 May 2026 20:24:16 +0000
+📅 Tue, 26 May 2026 14:57:27 +0000
 
 ---
 
 ### Hacker News AI
-**[正在重塑人工智能伦理辩论的梵蒂冈-人类关系](https://religionnews.com/2026/05/22/why-anthropic-is-helping-unveil-the-popes-new-encyclical-on-ai/)**
+**[谷歌最近认真倾向于人工智能的伪装](https://www.theregister.com/ai-ml/2026/05/25/google-has-seriously-leaned-into-ai-enshittification-lately/5245365)**
 
-文章网址： https://religion**new**scom/2026/05/22/why-**Anthropic**-is-helping-unveil-the-popes-**new**-encyclical-on-ai/评论网址： https://**new**s
+文章网址： https://wwwcom/ai-ml/2026/05/25/**Google**-has-seriously-leaned-into-ai-enshittification-lately/5245365评论网址： https://**new**s
 
-📅 Mon, 25 May 2026 23:39:39 +0000
-
----
-
-### Hacker News AI
-**[教皇呼吁在宣言中对人工智能进行强有力的监管：人类的未来](https://apnews.com/article/pope-ai-tech-trump-vatican-anthropic-d92d0108730d146baa46da041b8523da)**
-
-文章网址： https://ap**new**scom/article/pope-ai-tech-trump-vatican-**Anthropic**-d92d0108730d146baa46da041b8523da评论网址： https://**new**s
-
-📅 Mon, 25 May 2026 21:49:56 +0000
+📅 Tue, 26 May 2026 17:38:39 +0000
 
 ---
 
@@ -382,7 +364,25 @@ org/archives/2026/05/ninth-circuit-panel-goes-out-of-its-way-to-question-section
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-05-26T00:07:06.197Z
+📅 2026-05-26T17:58:39.136Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误520 ：
+
+📅 2026-05-26T17:58:39.136Z
+
+---
+
+### X: OpenAI
+**[警告：此页面可能尚未完全加载，请考虑显式指定超时。](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：此页面可能尚未完全加载，请考虑显式指定超时。
+
+📅 2026-05-26T17:58:39.136Z
 
 ---
 
