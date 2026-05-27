@@ -1,12 +1,12 @@
 ---
 title: "2026年5月27日 - TZ日报"
-date: 2026-05-27T00:07:46.711Z
+date: 2026-05-27T18:04:05.401Z
 draft: false
 ---
 
 # 2026年5月27日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/5/27 00:07:46
+> 📊 今日汇总 38 条 · 🕐 2026/5/27 18:04:05
 
 ---
 
@@ -31,21 +31,57 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[DuckDuckGo安装量增长了30 ％ ，因为用户拒绝“强制喂食”谷歌的人工智能搜索](https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/)**
+### OpenAI Blog
+**[通过Codex构建自我完善的税务代理](https://openai.com/index/building-self-improving-tax-agents-with-codex)**
 
-谷歌在2026年的I/O上彻底改革了搜索，用人工智能代理取代了蓝色链接
+了解**OpenAI**、Thrive和克里特岛如何利用Codex构建自我完善的税务代理，实现申报自动化、提高准确性并加快工作流程
 
-📅 Tue, 26 May 2026 22:32:56 +0000
+📅 Wed, 27 May 2026 07:00:00 GMT
 
 ---
 
-### TechCrunch AI Products
-**[每个人都在实时导航人工智能安全—甚至是谷歌](https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/)**
+### AI News
+**[谷歌将展示广告折叠成人工智能优先的需求生成平台](https://www.artificialintelligence-news.com/news/google-folds-display-ads-ai-first-demand-gen-platform/)**
 
-我们正处于过渡时期--我们所有人。
+谷歌正在将展示广告折叠到其人工智能驱动的Demand Gen平台中，标志着长期存在的数字广告模式和A/B测试静态创意的终结[…]谷歌将展示广告折叠到人工智能优先的Demand Gen平台中的帖子**首次**出现在AI **new**s上
 
-📅 Sun, 24 May 2026 21:39:21 +0000
+📅 Wed, 27 May 2026 13:12:06 +0000
+
+---
+
+### OpenAI Blog
+**[2026年选举信息和保障措施](https://openai.com/index/election-safeguards-2026)**
+
+在全球选举之前，我们正在帮助人们获取信息，为网络维护者提供支持，并提高人工智能的透明度
+
+📅 Wed, 27 May 2026 00:00:00 GMT
+
+---
+
+### Hugging Face
+**[ITBench-AA ：前沿模型在代理企业IT任务的第一个基准测试中得分低于50 ％ —通过人工分析和IBM](https://huggingface.co/blog/ibm-research/itbench-aa)**
+
+ITBench-AA ：前沿模型在代理企业IT任务的第一个基准测试中得分低于50 ％ —通过人工分析和IBM
+
+📅 Wed, 27 May 2026 17:20:29 GMT
+
+---
+
+### Hugging Face
+**[Reachy Mini完全本地化](https://huggingface.co/blog/local-reachy-mini-conversation)**
+
+Reachy Mini完全本地化
+
+📅 Wed, 27 May 2026 00:00:00 GMT
+
+---
+
+### Hugging Face
+**[使用集线器桶运送万亿个参数： TRL中的Delta权重同步](https://huggingface.co/blog/delta-weight-sync)**
+
+使用集线器桶运送万亿个参数： TRL中的Delta权重同步
+
+📅 Wed, 27 May 2026 00:00:00 GMT
 
 ---
 
@@ -59,134 +95,109 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[OpenRouter的估值在一年内翻了一番多，达到13亿美元](https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/)**
+**[人工智能编程初创公司Cognition以250亿美元的预估值筹集了10亿美元](https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/)**
 
-OpenRouter已经筹集了1.13亿美元的B轮融资，由CapitalGI牵头，六个月内使用量增长了5倍，这表明多AI模式的未来即将到来
+随着Cognition的年化收入运行率达到4.92亿美元（ $ 492 million ） ，它在八个月内的估值翻了一番多，它说
 
-📅 Tue, 26 May 2026 18:33:01 +0000
-
----
-
-### TechCrunch AI Products
-**[这家初创公司押注印度的零工经济可以训练世界上的机器人](https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/)**
-
-由加州大学伯克利分校和斯坦福大学研究人员创立的一家初创公司正在向印度的零工工人支付费用，让他们戴上配备摄像头的帽子和传感器设备，以收集人工智能和机器人实验室正在竞相获取的真实世界的体能训练数据
-
-📅 Tue, 26 May 2026 16:00:00 +0000
+📅 Wed, 27 May 2026 16:00:00 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[环球音乐集团和TikTok续签协议，打击未经授权的人工智能音乐](https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/)**
+**[初创公司“战地200”应用程序今天关闭：提名创始人或提交您的初创公司](https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/)**
 
-多年来， UMG一直推动平台、流媒体服务和人工智能公司实施更严格的内容审核政策
+在TechCrunch Disrupt舞台上获得全球知名度和**发布**
 
-📅 Tue, 26 May 2026 14:55:05 +0000
-
----
-
-### TechCrunch AI Products
-**[TechCrunch Disrupt 2026 5月29日结束的早鸟门票价格](https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/)**
-
-在5月29日11:59价格上涨之前， TechCrunch Disrupt 2026通行证最高可节省410 $在此注册，加入旧金山的科技中心
-
-📅 Tue, 26 May 2026 14:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[ClickUp的大规模裁员告诉我们关于工作未来的信息](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/)**
-
-这家成立9年的初创公司正在用数千名人工智能代理人取代数百名员工。
-
-📅 Mon, 25 May 2026 16:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[教皇的人工智能通谕并不是真的关于人工智能](https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/)**
-
-教皇利奥十四世的第一份通谕使用人工智能作为诊断旧问题的镜头：权力集中和科技精英，塑造世界自身的优势
-
-📅 Mon, 25 May 2026 15:09:41 +0000
+📅 Wed, 27 May 2026 14:15:00 +0000
 
 ---
 
 ## 🔬 前沿研究
 
+### ArXiv Natural Language Processing (cs.CL)
+**[多转文本到SQL的内存架构：基准和实证研究](https://arxiv.org/abs/2605.26394)**
+
+我们评估了五个前沿模型--**GPT**-5 mini、**GPT**-5所有**Claude**模型都使用扩展思维进行评估，以保持与**GPT**推理模型的平等
+
+📅 Wed, 27 May 2026 00:00:00 -0400
+
+---
+
 ### ArXiv AI (cs.AI)
-**[BODHI ：精确操作系统内核规格推断](https://arxiv.org/abs/2605.23931)**
+**[LLM可以自省吗？现实检查](https://arxiv.org/abs/2605.26242)**
 
-对来自六家供应商的九个模型进行了评估（ **Anthropic**The最佳配置（ **Claude** Opus 4
+26242v1公告类型：新摘要：大型语言模型是否可以检测和报告其自身内部状态在第一个范式中，模型预计将检测其内部状态是否已被篡改
 
-📅 Tue, 26 May 2026 00:00:00 -0400
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[走向可验证变压器：求解器可检查电路说明](https://arxiv.org/abs/2605.24033)**
-
-24033v1公告类型：新摘要：机械可解释性通常识别变压器模型内的电路在**GPT**-2比例下，相同的运营商堆栈在OpenWebText上稳定训练，尽管天真的直接SMT验证仍然棘手
-
-📅 Tue, 26 May 2026 00:00:00 -0400
+📅 Wed, 27 May 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Machine Learning (cs.LG)
-**[隐藏状态隐私有一个空的中间](https://arxiv.org/abs/2605.24042)**
+### ArXiv AI (cs.AI)
+**[用于科学的代理人工智能实验](https://arxiv.org/abs/2605.26305)**
 
-24042v1公告类型：新摘要：在9000万美元时为$ 1 {33] $ ，比同等预算的**GPT**基线保持$ 6 $ -- $ 24\ times $的优势，从30M到1B ，固定代币语言建模损失罚款；预训练模型最高为9
+26305v1公告类型：新摘要：本文详细介绍了在科学工作流程中开发自主、代理AI的两个新框架通过**Google** Colab远程大脑架构
 
-📅 Tue, 26 May 2026 00:00:00 -0400
+📅 Wed, 27 May 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[JobBench ：使代理工作与人类意志保持一致](https://arxiv.org/abs/2605.26329)**
+
+26329v1公告类型：新摘要：当前的职业人工智能代理基准的范围主要由经济价值决定我们评估了36个模型；**最强**的， **Claude** Opus ~ 4
+
+📅 Wed, 27 May 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Natural Language Processing (cs.CL)
-**[通过信息融合进行文档分类模式识别：多模态和多视图表示方法的系统综述](https://arxiv.org/abs/2605.23910)**
+**[每日剂量：放射肿瘤学临床总结和试验鉴定的工作流集成大型语言模型自动化](https://arxiv.org/abs/2605.26346)**
 
-第一个侧重于文档分类）来量化性能提升我们的荟萃分析显示，多模态融合提高了准确性（平均提升+5
+26346v1公告类型：新摘要：目的：描述每日剂量（ TDD ）的设计和早期临床评估暴露：每天自动传递使用RadOnc-**GPT**生成的医生特定电子邮件摘要
 
-📅 Tue, 26 May 2026 00:00:00 -0400
+📅 Wed, 27 May 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Robotics (cs.RO)
-**[RED ：环境动态下机器人推理的自适应实时DAG调度](https://arxiv.org/abs/2605.24044)**
+**[NightSight ：使用事件在黑暗中导航的被动计算](https://arxiv.org/abs/2605.26330)**
 
-24044v1公告类型：新摘要：部署在动态环境中的机器人必须应对在运行时重塑计算的环境驱动变化：新任务可能会出现一个实时调度框架，用于资源受限的机器人平台上的多任务深度神经网络工作负载，该平台适应机器人环境动态（ RED ） ，同时在建模假设下保留端到端定时保证
+26330v1公告类型：新摘要：小型空中机器人由于其灵活性，特别适合在密闭和危险环境中进行搜索和救援尽管这种最小的训练制度，该模型将零射击推广到复杂的现实世界场景
 
-📅 Tue, 26 May 2026 00:00:00 -0400
-
----
-
-### MIT Tech Research
-**[对人工智能工作歇斯底里的现实检查](https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/)**
-
-白领工作正在消失，科技行业的AIWaves裁员（最近在Coinbase、**Meta**和思科）预示着我们所有知识工作者即将发生的事情。
-
-📅 Tue, 26 May 2026 09:00:00 +0000
+📅 Wed, 27 May 2026 00:00:00 -0400
 
 ---
 
-### ArXiv AI (cs.AI)
-**[寻找开放性的成分：用大视觉语言模型复制Picbreeder](https://arxiv.org/abs/2605.23908)**
+### ArXiv Robotics (cs.RO)
+**[通过基于分散角色的比例控制，在不同表面上进行多机器人箱式运输](https://arxiv.org/abs/2605.26430)**
 
-23908v1公告类型：新摘要：我们正在进行大规模的工业和学术努力，以实现科学过程的自动化我们的代码可在https://github上找到
+26430v1公告类型：新摘要：多个机器人通过推动协同运输物体有许多应用上坡和下坡地形
 
-📅 Tue, 26 May 2026 00:00:00 -0400
+📅 Wed, 27 May 2026 00:00:00 -0400
 
 ---
 
-### ArXiv AI (cs.AI)
-**[大型语言模型中的置信度校准](https://arxiv.org/abs/2605.23909)**
+### ArXiv Robotics (cs.RO)
+**[通过随机去耦策略梯度实现高效的随机策略可视化-RL](https://arxiv.org/abs/2605.26478)**
 
-23909v1公告类型：新摘要：我们研究大型语言模型（ LLM ）在不同任务中的校准信心我们开发了LifeEval ，这是一种跨难度级别评估模型校准的测试
+26478v1公告类型：新摘要：我们提出了随机解耦策略梯度（ SDPG ） ，这是一种轻量级的视觉强化学习（ RL ）方法，可在单个NVIDIA RTX 4080 GPU上在几小时内端到端地训练各种视觉运动控制策略
 
-📅 Tue, 26 May 2026 00:00:00 -0400
+📅 Wed, 27 May 2026 00:00:00 -0400
 
 ---
 
 ## 🌍 行业展望
+
+### VentureBeat
+![DataGrail报告发现您的供应商可能会将数据发送到您从未批准的人工智能模型](https://images.ctfassets.net/jdtwqhzvc2n1/7AZgKVWkH5KjpSGWlPf4sO/f89c6d2669b9fd11f17ec19427172676/48431D37-24D9-411B-94BB-87FD6B379801.png?w=300&q=30)
+
+**[DataGrail报告发现您的供应商可能会将数据发送到您从未批准的人工智能模型](https://venturebeat.com/security/datagrail-report-finds-your-vendor-may-be-sending-data-to-ai-models-you-never-approved)**
+
+该工具的DPA将**Claude**列为其基础模型，但招聘工具也在幕后悄悄使用**OpenAI**和**Gemini** —该公司从未评估过的模型
+
+📅 Wed, 27 May 2026 16:00:00 GMT
+
+---
 
 ### VentureBeat
 ![DeepSWE炸毁了AI编码排行榜，为GPT-5.5加冕，并发现Claude Opus利用基准漏洞](https://images.ctfassets.net/jdtwqhzvc2n1/4kUVtxUVBjivIKlO68RxPf/88918e60aed6f6c50fb031ea81e52f8f/deepswe-card.jpg?w=300&q=30)
@@ -200,84 +211,73 @@ OpenRouter已经筹集了1.13亿美元的B轮融资，由CapitalGI牵头，六�
 ---
 
 ### The Verge
-![您仍然可以购买的最佳阵亡将士纪念日促销](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0020.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![人工智能试图埋葬这位政客—现在人们实际上听说过他](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2271137268.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[您仍然可以购买的最佳阵亡将士纪念日促销](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026)**
+**[人工智能试图埋葬这位政客—现在人们实际上听说过他](https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12)**
 
-您仍然可以在新款MacBook Air上节省200 $最新型号的声音明显优于第三代配对，特别是在语音通话方面
+**Anthropic**和**OpenAI**将花费数百万美元来争夺人工智能的政治未来：谁来监管由**OpenAI**资助的超级PAC
 
-📅 2026-05-26T16:10:06.000Z
-
----
-
-### Wired Technology
-**[为什么梵蒂冈邀请人类学家参加教皇的人工智能通谕演讲](https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/)**
-
-教皇利奥的第一份通谕标志着教会和硅谷之间前所未有的联盟。
-
-📅 Tue, 26 May 2026 20:46:03 +0000
+📅 2026-05-27T15:40:00.000Z
 
 ---
 
 ### Wired Technology
-**[Google Fitbit Air评论：几乎没有，总是在运行](https://www.wired.com/review/google-fitbit-air/)**
+**[前谷歌和苹果研究人员启动了一家初创公司，以构建人工智能缺失的反馈循环](https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/)**
 
-谷歌最新的Fitbit在不牺牲功能的情况下剥离了屏幕，提供迄今为止最平易近人、最实惠的可穿戴设备
+Trajectory押注快速迭代周期，即增压振动编码可以帮助各类公司构建持续学习的人工智能产品
 
-📅 Tue, 26 May 2026 13:00:00 +0000
+📅 Wed, 27 May 2026 14:00:00 +0000
+
+---
+
+### Ars Technica
+**[英伟达杀死Windows XP时代的控制面板“经过20年的专注服务”](https://arstechnica.com/gadgets/2026/05/nvidia-kills-windows-xp-era-control-panel-after-20-years-of-dedicated-service/)**
+
+英伟达表示，控制面板的功能已迁移到英伟达应用程序。
+
+📅 Wed, 27 May 2026 15:06:01 +0000
 
 ---
 
 ### ZDNet AI
-**[我退出了ChatGPT ，获得了一个名为Ollama的免费、私有和本地AI -原因如下](https://www.zdnet.com/article/reasons-to-use-ollama-instead-of-chatgpt/)**
+**[人工智能是一场军备竞赛，美国需要90亿美元的Nvidia超级芯片来跟上](https://www.zdnet.com/article/heres-why-the-government-wants-to-spend-9-billion-on-ai-superchips/)**
 
-节省您的金钱、隐私和地球这款可安装的人工智能提供了Chat**GPT**等传统模式无法实现的诸多好处
+政府正在追赶，但英伟达有一条生命线。
 
-📅 Tue, 26 May 2026 16:05:21 GMT
-
----
-
-### ZDNet AI
-**[我比较了三星、谷歌和摩托罗拉手机上的100倍变焦相机-这款手机赢了](https://www.zdnet.com/article/100x-zoom-test-galaxy-s26-ultra-pixel-10-pro-razr-fold-which-won/)**
-
-一个在超分辨率变焦类别中落后于竞争对手，而另一个让我感到震惊
-
-📅 Tue, 26 May 2026 15:38:00 GMT
+📅 Wed, 27 May 2026 15:39:15 GMT
 
 ---
 
-### The Verge
-![谷歌健康在这里，但很多人希望他们的Fitbit应用程序回来](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/HealthApp_hero.width-1600.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### TechCrunch
+**[CrowdStrike和谷歌打击黑客在供应链攻击中针对软件开发人员使用的僵尸网络](https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/)**
 
-**[谷歌健康在这里，但很多人希望他们的Fitbit应用程序回来](https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai)**
+网络犯罪分子利用Glassworm僵尸网络用恶意软件感染**开源**软件项目，进而攻击使用该软件的开发人员和公司
 
-随着新款Fitbit Air的**推出**（一旦我们花费了更多时间，您可以期待对其进行全面审查） ， **Google**已正式将其替换为**Google** Health
-
-📅 2026-05-26T19:00:15.000Z
+📅 Wed, 27 May 2026 16:59:19 +0000
 
 ---
 
 ### The Verge
-![如果您购买翻新产品， GE的掘金制冰机将折扣近一半](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25518688/8A0A1493.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![您可以使用这台桌面制作机器进行打印、切片和雕刻](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/xtool_m2_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[如果您购买翻新产品， GE的掘金制冰机将折扣近一半](https://www.theverge.com/gadgets/937560/ge-profile-opal-ultra-nugget-ice-maker-deal-sale)**
+**[您可以使用这台桌面制作机器进行打印、切片和雕刻](https://www.theverge.com/tech/938031/xtool-m2-craft-machine-cmyk-inkjet-printing-laser-diode-cutter)**
 
-这比以全价购买新品便宜$ 184 ，并附带90天保修如果您想要一款全新的型号，它也可以在百思买以$ 359 （ $ 90 ）的价格出售，或$ 449 （ $ 50折扣） ，包括侧油箱（亚马逊，百思买， GE ）
+|图片： xTool xTool宣布了一种新的多功能手工制作机器，这可能是开设Etsy商店的最经济实惠的方式之一例如，您可以使用M2打印和剪切贴纸，但它具有足够的多功能性，也可用于在金属水瓶上蚀刻设计
 
-📅 2026-05-26T18:50:35.000Z
+📅 2026-05-27T16:56:02.000Z
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://avatars.githubusercontent.com/u/21003710?v=4)
+### GitHub Active (Python)
+![iii ：有史以来第一次毫不费力地实时构建、扩展和观察每项服务。](https://avatars.githubusercontent.com/u/258310054?v=4)
 
-**[pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://github.com/pytorch/pytorch)**
+**[iii ：有史以来第一次毫不费力地实时构建、扩展和观察每项服务。](https://github.com/iii-hq/iii)**
 
-⭐ 100,187星· 27882分叉· Python ·具有强大GPU加速的Python中的张量和动态神经网络
+⭐ 16750星· 1101叉·生锈·**首次**实时撰写、扩展和观察每项服务
 
-📅 2026-05-27T00:06:30Z
+📅 2026-05-27T18:01:58Z
 
 ---
 
@@ -286,7 +286,7 @@ OpenRouter已经筹集了1.13亿美元的B轮融资，由CapitalGI牵头，六�
 
 **[🆕 auto_fsd ：用于自动驾驶的开源端到端AI模型](https://github.com/autowarefoundation/auto_fsd)**
 
-⭐ 3 star (新项目) · Python · An open-source End-to-End AI model for self driving
+⭐ 13 star (新项目) · Python · An open-source End-to-End AI model for self driving
 
 📅 2026-05-25T12:38:19Z
 
@@ -316,12 +316,12 @@ OpenRouter已经筹集了1.13亿美元的B轮融资，由CapitalGI牵头，六�
 
 ## 💬 社交动态
 
-### Hacker News AI
-**[你即将感受到AI的金钱挤压](https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue)**
+### Hacker News
+**[我认为Anthropic和OpenAI已经找到了产品与市场的契合点](https://simonwillison.net/2026/May/27/product-market-fit/)**
 
-文章网址： https://wwwcom/ai-artificial-intelligence/917380/ai-monetization-**Anthropic**-**OpenAI**-token-economics-revenue评论网址： https://**new**s
+文章网址： https://simonwillisonnet/2026/May/27/product-market-fit/评论网址： https://**new**s
 
-📅 Tue, 26 May 2026 23:29:58 +0000
+📅 Wed, 27 May 2026 16:39:13 +0000
 
 ---
 
@@ -330,7 +330,7 @@ OpenRouter已经筹集了1.13亿美元的B轮融资，由CapitalGI牵头，六�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-05-27T00:05:23.463Z
+📅 2026-05-27T18:00:39.407Z
 
 ---
 
@@ -339,16 +339,16 @@ OpenRouter已经筹集了1.13亿美元的B轮融资，由CapitalGI牵头，六�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-05-27T00:06:14.082Z
+📅 2026-05-27T18:01:50.869Z
 
 ---
 
-### Hacker News ML
-**[NVIDIA GPU上LLM推理的机器学习编译器的表征](https://link.springer.com/article/10.1007/s11227-026-08559-6)**
+### Hacker News
+**[在Google表示人们喜欢AI模式后， DuckDuckGo搜索的访问量增加了28 ％](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/)**
 
-文章网址： https://link1007/s11227-026-08559-6留言网址： https://**new**s
+文章网址： https://wwwcom/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-**Google**s-insistence-that-people-love-ai-mode/评论网址： https://**new**s
 
-📅 Sun, 24 May 2026 01:59:47 +0000
+📅 Wed, 27 May 2026 16:28:41 +0000
 
 ---
 
@@ -357,7 +357,7 @@ OpenRouter已经筹集了1.13亿美元的B轮融资，由CapitalGI牵头，六�
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-05-27T00:05:23.463Z
+📅 2026-05-27T18:00:39.407Z
 
 ---
 
@@ -366,7 +366,7 @@ Title: 520: Web服务器返回未知错误
 
 警告：目标URL返回错误520 ：
 
-📅 2026-05-27T00:05:23.463Z
+📅 2026-05-27T18:00:39.407Z
 
 ---
 
@@ -375,7 +375,7 @@ Title: 520: Web服务器返回未知错误
 
 警告：此页面可能尚未完全加载，请考虑显式指定超时。
 
-📅 2026-05-27T00:05:23.463Z
+📅 2026-05-27T18:00:39.407Z
 
 ---
 
@@ -384,7 +384,7 @@ Title: 520: Web服务器返回未知错误
 
 Markdown 内容
 
-📅 2026-05-27T00:05:23.463Z
+📅 2026-05-27T18:00:39.407Z
 
 ---
 
