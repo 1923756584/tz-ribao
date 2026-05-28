@@ -1,12 +1,12 @@
 ---
 title: "2026年5月27日 - TZ日报"
-date: 2026-05-27T18:04:05.401Z
+date: 2026-05-28T00:06:11.052Z
 draft: false
 ---
 
 # 2026年5月27日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/5/27 18:04:05
+> 📊 今日汇总 38 条 · 🕐 2026/5/28 00:06:11
 
 ---
 
@@ -23,6 +23,15 @@ draft: false
 ## ✨ 产品更新
 
 ### OpenAI Blog
+**[Warp在使用GPT-5.5构建开源方面下了很大赌注](https://openai.com/index/warp)**
+
+WARP使用**GPT**-55和**OpenAI**模型来协调本地、云和**开源**开发工作流程的编码代理
+
+📅 Wed, 27 May 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
 **[OpenAI、Grupo Folha和Grupo UOL宣布建立战略内容合作伙伴关系](https://openai.com/index/grupo-folha-grupo-uol-partnership)**
 
 **OpenAI**与Grupo Folha和Grupo UOL合作，为Chat**GPT**带来值得信赖的巴西新闻，扩大对具有归因和透明度的新闻的访问
@@ -32,11 +41,47 @@ draft: false
 ---
 
 ### OpenAI Blog
+**[思科和OpenAI通过Codex重新定义企业工程](https://openai.com/index/cisco)**
+
+思科和**OpenAI**正在通过Codex重新定义企业工程，帮助思科扩展AI原生开发
+
+📅 Wed, 27 May 2026 11:00:00 GMT
+
+---
+
+### OpenAI Blog
 **[通过Codex构建自我完善的税务代理](https://openai.com/index/building-self-improving-tax-agents-with-codex)**
 
 了解**OpenAI**、Thrive和克里特岛如何利用Codex构建自我完善的税务代理，实现申报自动化、提高准确性并加快工作流程
 
 📅 Wed, 27 May 2026 07:00:00 GMT
+
+---
+
+### TechCrunch AI Products
+**[在亚马逊的更多好消息中， Snowflake与AWS签署了$ 60亿的人工智能CPU芯片协议](https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/)**
+
+Snowflake与亚马逊签署了一项为期五年的新巨额协议，以保护人工智能使用芯片Nvidia再次受到关注
+
+📅 Wed, 27 May 2026 20:10:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[您的搜索引擎优化策略针对已不存在的搜索引擎进行了优化。](https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/)**
+
+谷歌I/O正式宣布：人工智能生成的答案现在是搜索的前沿和中心，大多数品牌几乎看不到人工智能如何向客户描述它们
+
+📅 Wed, 27 May 2026 18:39:17 +0000
+
+---
+
+### TechCrunch AI Products
+**[Meta推出Instagram、Facebook和WhatsApp订阅，包括人工智能计划](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/)**
+
+**Meta**正在**推出**Instagram的付费订阅计划，同时也在测试新的人工智能
+
+📅 Wed, 27 May 2026 18:00:00 +0000
 
 ---
 
@@ -64,51 +109,6 @@ draft: false
 ITBench-AA ：前沿模型在代理企业IT任务的第一个基准测试中得分低于50 ％ —通过人工分析和IBM
 
 📅 Wed, 27 May 2026 17:20:29 GMT
-
----
-
-### Hugging Face
-**[Reachy Mini完全本地化](https://huggingface.co/blog/local-reachy-mini-conversation)**
-
-Reachy Mini完全本地化
-
-📅 Wed, 27 May 2026 00:00:00 GMT
-
----
-
-### Hugging Face
-**[使用集线器桶运送万亿个参数： TRL中的Delta权重同步](https://huggingface.co/blog/delta-weight-sync)**
-
-使用集线器桶运送万亿个参数： TRL中的Delta权重同步
-
-📅 Wed, 27 May 2026 00:00:00 GMT
-
----
-
-### Hugging Face
-**[线束、脚手架和人工智能代理条款值得纠正](https://huggingface.co/blog/agent-glossary)**
-
-线束、脚手架和人工智能代理条款值得纠正
-
-📅 Mon, 25 May 2026 00:00:00 GMT
-
----
-
-### TechCrunch AI Products
-**[人工智能编程初创公司Cognition以250亿美元的预估值筹集了10亿美元](https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/)**
-
-随着Cognition的年化收入运行率达到4.92亿美元（ $ 492 million ） ，它在八个月内的估值翻了一番多，它说
-
-📅 Wed, 27 May 2026 16:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[初创公司“战地200”应用程序今天关闭：提名创始人或提交您的初创公司](https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/)**
-
-在TechCrunch Disrupt舞台上获得全球知名度和**发布**
-
-📅 Wed, 27 May 2026 14:15:00 +0000
 
 ---
 
@@ -189,7 +189,7 @@ Reachy Mini完全本地化
 ## 🌍 行业展望
 
 ### VentureBeat
-![DataGrail报告发现您的供应商可能会将数据发送到您从未批准的人工智能模型](https://images.ctfassets.net/jdtwqhzvc2n1/7AZgKVWkH5KjpSGWlPf4sO/f89c6d2669b9fd11f17ec19427172676/48431D37-24D9-411B-94BB-87FD6B379801.png?w=300&q=30)
+![DataGrail报告发现您的供应商可能会将数据发送到您从未批准的人工智能模型](https://images.ctfassets.net/jdtwqhzvc2n1/7AZgKVWkH5KjpSGWlPf4sO/8ccdefa0059b057a7fc9950fc323ac5a/Listing_image.png?w=300&q=30)
 
 **[DataGrail报告发现您的供应商可能会将数据发送到您从未批准的人工智能模型](https://venturebeat.com/security/datagrail-report-finds-your-vendor-may-be-sending-data-to-ai-models-you-never-approved)**
 
@@ -210,14 +210,45 @@ Reachy Mini完全本地化
 
 ---
 
+### VentureBeat
+![MiniMax推出即将推出的M3型号，配备新的稀疏注意机制和15.6倍的长上下文响应速度提升](https://images.ctfassets.net/jdtwqhzvc2n1/5cHY46ueCDnRXIZBImepQn/55f72e82f91c3b690c7c5245d745f24b/Gemini_Generated_Image_xnaqxbxnaqxbxnaq__1_.png?w=300&q=30)
+
+**[MiniMax推出即将推出的M3型号，配备新的稀疏注意机制和15.6倍的长上下文响应速度提升](https://venturebeat.com/technology/minimax-teases-upcoming-m3-model-with-new-sparse-attention-mechanism-and-15-6x-response-speed-boost)**
+
+毕竟， MiniMax的M2系列机型在**发布**时往往在**开源**人工智能性能方面达到了世界顶级基准，因为人工智能必须不断重复地向后看，才能产生每一个新的进步
+
+📅 Wed, 27 May 2026 19:59:06 GMT
+
+---
+
+### VentureBeat
+![默克(Merck)和万事达(Mastercard)正在看到真正的人工智能代理两人都说管道是第一位的。](https://images.ctfassets.net/jdtwqhzvc2n1/4CBUUbOwnAvyCtaosmRxYr/eea81e58c1a207d16773ebad282b251f/Collaboration.png?w=300&q=30)
+
+**[默克(Merck)和万事达(Mastercard)正在看到真正的人工智能代理两人都说管道是第一位的。](https://venturebeat.com/infrastructure/merck-and-mastercard-are-seeing-real-agentic-ai-results-both-say-the-plumbing-came-first)**
+
+agentic AI只有在公司首先构建底层“管道”时才有效因此，如果**Claude**创建了第一个输出，他们将指示Microsoft Copilot对其进行评估
+
+📅 Wed, 27 May 2026 18:23:45 GMT
+
+---
+
 ### The Verge
-![人工智能试图埋葬这位政客—现在人们实际上听说过他](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2271137268.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![Facebook推出“Plus”订阅，为您提供额外功能](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951343/STK040_VRG_Illo_N_Barclay_5_facebook.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[人工智能试图埋葬这位政客—现在人们实际上听说过他](https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12)**
+**[Facebook推出“Plus”订阅，为您提供额外功能](https://www.theverge.com/tech/938500/facebook-whatsapp-instagram-meta-ai-subscriptions)**
 
-**Anthropic**和**OpenAI**将花费数百万美元来争夺人工智能的政治未来：谁来监管由**OpenAI**资助的超级PAC
+TechCrunch和彭博社报道， **Meta**将在未来几周内在全球范围内**推出**，并开始测试**Meta** AI**Meta**的订阅，与许多其他科技公司一起改变其订阅计划，以在大量人工智能投资后带来新的收入-谷歌
 
-📅 2026-05-27T15:40:00.000Z
+📅 2026-05-27T20:03:42.000Z
+
+---
+
+### Wired Technology
+**[谷歌安全工程师在百万美元多元化市场交易计划中被捕](https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/)**
+
+根据联邦检察官的说法， Michele Spagnuolo使用有关**Google**搜索流量的机密信息在预测市场平台上赚了超过100万美元$
+
+📅 Wed, 27 May 2026 22:22:23 +0000
 
 ---
 
@@ -231,55 +262,15 @@ Trajectory押注快速迭代周期，即增压振动编码可以帮助各类公�
 ---
 
 ### Ars Technica
-**[英伟达杀死Windows XP时代的控制面板“经过20年的专注服务”](https://arstechnica.com/gadgets/2026/05/nvidia-kills-windows-xp-era-control-panel-after-20-years-of-dedicated-service/)**
+**[英伟达押注1500亿美元收购台湾，因特朗普将美国打造成人工智能中心的计划适得其反](https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/)**
 
-英伟达表示，控制面板的功能已迁移到英伟达应用程序。
+英伟达每年将投资1500亿美元，使台湾成为人工智能的“中心”。
 
-📅 Wed, 27 May 2026 15:06:01 +0000
-
----
-
-### ZDNet AI
-**[人工智能是一场军备竞赛，美国需要90亿美元的Nvidia超级芯片来跟上](https://www.zdnet.com/article/heres-why-the-government-wants-to-spend-9-billion-on-ai-superchips/)**
-
-政府正在追赶，但英伟达有一条生命线。
-
-📅 Wed, 27 May 2026 15:39:15 GMT
-
----
-
-### TechCrunch
-**[CrowdStrike和谷歌打击黑客在供应链攻击中针对软件开发人员使用的僵尸网络](https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/)**
-
-网络犯罪分子利用Glassworm僵尸网络用恶意软件感染**开源**软件项目，进而攻击使用该软件的开发人员和公司
-
-📅 Wed, 27 May 2026 16:59:19 +0000
-
----
-
-### The Verge
-![您可以使用这台桌面制作机器进行打印、切片和雕刻](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/xtool_m2_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[您可以使用这台桌面制作机器进行打印、切片和雕刻](https://www.theverge.com/tech/938031/xtool-m2-craft-machine-cmyk-inkjet-printing-laser-diode-cutter)**
-
-|图片： xTool xTool宣布了一种新的多功能手工制作机器，这可能是开设Etsy商店的最经济实惠的方式之一例如，您可以使用M2打印和剪切贴纸，但它具有足够的多功能性，也可用于在金属水瓶上蚀刻设计
-
-📅 2026-05-27T16:56:02.000Z
+📅 Wed, 27 May 2026 19:59:40 +0000
 
 ---
 
 ## 📦 GitHub热门
-
-### GitHub Active (Python)
-![iii ：有史以来第一次毫不费力地实时构建、扩展和观察每项服务。](https://avatars.githubusercontent.com/u/258310054?v=4)
-
-**[iii ：有史以来第一次毫不费力地实时构建、扩展和观察每项服务。](https://github.com/iii-hq/iii)**
-
-⭐ 16750星· 1101叉·生锈·**首次**实时撰写、扩展和观察每项服务
-
-📅 2026-05-27T18:01:58Z
-
----
 
 ### GitHub New (New AI)
 ![🆕 auto_fsd ：用于自动驾驶的开源端到端AI模型](https://avatars.githubusercontent.com/u/48420599?v=4)
@@ -289,17 +280,6 @@ Trajectory押注快速迭代周期，即增压振动编码可以帮助各类公�
 ⭐ 13 star (新项目) · Python · An open-source End-to-End AI model for self driving
 
 📅 2026-05-25T12:38:19Z
-
----
-
-### GitHub New (New AI)
-![🆕 Coder ： Coder是一个开源的AI编码代理。您提供API密钥和模型，它会为您创建一个工作的开发工作区。](https://avatars.githubusercontent.com/u/248249371?v=4)
-
-**[🆕 Coder ： Coder是一个开源的AI编码代理。您提供API密钥和模型，它会为您创建一个工作的开发工作区。](https://github.com/elijahshepherd/Coder)**
-
-⭐ 3 star (新项目) · TypeScript · Coder is an open-source AI coding agentYou provide your API key and model, and it creates a working development workspace for you
-
-📅 2026-05-24T01:34:58Z
 
 ---
 
@@ -314,23 +294,36 @@ Trajectory押注快速迭代周期，即增压振动编码可以帮助各类公�
 
 ---
 
-## 💬 社交动态
+### GitHub New (New AI)
+![🆕 xuanzhao: 玄照 · 玄学群体智能预测系统 — 七术排盘 × 40+视角交叉印证](https://avatars.githubusercontent.com/u/130125518?v=4)
 
-### Hacker News
-**[我认为Anthropic和OpenAI已经找到了产品与市场的契合点](https://simonwillison.net/2026/May/27/product-market-fit/)**
+**[🆕 xuanzhao: 玄照 · 玄学群体智能预测系统 — 七术排盘 × 40+视角交叉印证](https://github.com/kaliwuang/xuanzhao)**
 
-文章网址： https://simonwillisonnet/2026/May/27/product-market-fit/评论网址： https://**new**s
+⭐ 2 star (新项目) · Python · 玄照 · 玄学群体智能预测系统 — 七术排盘 × 40+视角交叉印证
 
-📅 Wed, 27 May 2026 16:39:13 +0000
+📅 2026-05-25T08:59:03Z
 
 ---
+
+### GitHub New (New AI)
+![🆕 Rullst ： 📜🦀🌐 Framework Web FullStack for Rust语言🌐🦀📜“Rust适用于那些想要构建而不是受损的人。🤖“ AI-Native Paradigm （专为人类和人工智能而设计） Rullst从头开始构建，成为第一个AI-Native Web框架。](https://avatars.githubusercontent.com/u/37526748?v=4)
+
+**[🆕 Rullst ： 📜🦀🌐 Framework Web FullStack for Rust语言🌐🦀📜“Rust适用于那些想要构建而不是受损的人。🤖“ AI-Native Paradigm （专为人类和人工智能而设计） Rullst从头开始构建，成为第一个AI-Native Web框架。](https://github.com/venelouis/Rullst)**
+
+⭐ 2 star (新项目) · Rust · 📜🦀🌐 Framework Web FullStack for Rust language 🌐🦀📜 "Rust for those who want to build, not suffer" 🤖 The AI-Native Paradigm (Designed for Humans & AI) Rullst is built from the ground up to be the first AI-Native web framework
+
+📅 2026-05-25T01:06:47Z
+
+---
+
+## 💬 社交动态
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-05-27T18:00:39.407Z
+📅 2026-05-28T00:02:50.745Z
 
 ---
 
@@ -339,16 +332,34 @@ Trajectory押注快速迭代周期，即增压振动编码可以帮助各类公�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-05-27T18:01:50.869Z
+📅 2026-05-28T00:04:42.994Z
 
 ---
 
 ### Hacker News
-**[在Google表示人们喜欢AI模式后， DuckDuckGo搜索的访问量增加了28 ％](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/)**
+**[苹果和谷歌正在采取什么措施来推送通知](https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications)**
 
-文章网址： https://wwwcom/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-**Google**s-insistence-that-people-love-ai-mode/评论网址： https://**new**s
+文章网址： https://wwwcom/writing/what-apple-and-**Google**-are-doing-your-push-notifications评论网址： https://**new**s
 
-📅 Wed, 27 May 2026 16:28:41 +0000
+📅 Wed, 27 May 2026 19:24:10 +0000
+
+---
+
+### Hacker News AI
+**[我构建了三个基于维基百科的搜索工具，作为Google AI的替代品](https://www.calishat.com/2026/05/21/three-search-alternatives-to-googles-brave-new-ai-world/)**
+
+文章网址： https://wwwcom/2026/05/21/three-search-alternatives-to-**Google**s-brave-**new**-ai-world/评论网址： https://**new**s
+
+📅 Wed, 27 May 2026 22:44:47 +0000
+
+---
+
+### Hacker News AI
+**[我构建了一个免费的跨AI提示管理器（ Chrome ext ）](https://chromewebstore.google.com/detail/snipprompt-â-save-inject/glpahglhjckmlgpdanoflialkgnjmimm)**
+
+文章网址： https://chromewebstorecom/detail/snipprompt-â-save-inject/glpahglhjckmlgpdanoflialkgnjmimm评论网址： https://**new**s
+
+📅 Wed, 27 May 2026 22:26:55 +0000
 
 ---
 
@@ -357,7 +368,7 @@ Trajectory押注快速迭代周期，即增压振动编码可以帮助各类公�
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-05-27T18:00:39.407Z
+📅 2026-05-28T00:02:50.745Z
 
 ---
 
@@ -366,7 +377,7 @@ Title: 520: Web服务器返回未知错误
 
 警告：目标URL返回错误520 ：
 
-📅 2026-05-27T18:00:39.407Z
+📅 2026-05-28T00:02:50.745Z
 
 ---
 
@@ -375,16 +386,7 @@ Title: 520: Web服务器返回未知错误
 
 警告：此页面可能尚未完全加载，请考虑显式指定超时。
 
-📅 2026-05-27T18:00:39.407Z
-
----
-
-### X: OpenAI
-**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Markdown 内容
-
-📅 2026-05-27T18:00:39.407Z
+📅 2026-05-28T00:02:50.745Z
 
 ---
 
