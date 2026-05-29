@@ -1,12 +1,12 @@
 ---
 title: "2026年5月29日 - TZ日报"
-date: 2026-05-29T00:16:52.922Z
+date: 2026-05-29T18:18:11.910Z
 draft: false
 ---
 
 # 2026年5月29日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/5/29 00:16:52
+> 📊 今日汇总 38 条 · 🕐 2026/5/29 18:18:11
 
 ---
 
@@ -23,11 +23,40 @@ draft: false
 ## ✨ 产品更新
 
 ### OpenAI Blog
+**[通过Rosalind Biodefense增强社会韧性](https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense)**
+
+OpenAI**推出**Rosalind Biodefense ，为经过审核的开发人员和Ugovernment合作伙伴扩大**GPT**-Rosalind的可信访问权限，通过前沿人工智能推进生物防御、公共卫生和大流行病防范
+
+📅 Fri, 29 May 2026 03:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[MUFG旨在通过OpenAI成为原生AI](https://openai.com/index/mufg)**
+
+三菱日联使用Chat**GPT** Enterprise构建人工智能原生组织，改进工作流程，并大规模提供新的人工智能金融服务
+
+📅 Thu, 28 May 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
 **[Warp在使用GPT-5.5构建开源方面下了很大赌注](https://openai.com/index/warp)**
 
 WARP使用**GPT**-55和**OpenAI**模型来协调本地、云和**开源**开发工作流程的编码代理
 
 📅 Wed, 27 May 2026 00:00:00 GMT
+
+---
+
+### Google AI Blog
+![Gemini Omni和Gemini 3.5的11个演示](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp)
+
+**[Gemini Omni和Gemini 3.5的11个演示](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/)**
+
+观看11个视频，展示在**Google** I/O 2026上宣布的**Gemini** Omni和**Gemini** 35的功能
+
+📅 Fri, 29 May 2026 17:30:00 +0000
 
 ---
 
@@ -39,6 +68,33 @@ WARP使用**GPT**-55和**OpenAI**模型来协调本地、云和**开源**开发�
 以下是**Google** I/O 2026最大的12个主题演讲时刻，包括有关**Gemini** Omni、**Gemini** 35 Flash等新闻
 
 📅 Thu, 28 May 2026 15:00:00 +0000
+
+---
+
+### AI News
+**[Anthropic发布Claude Opus 4.8](https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/)**
+
+Anthropic**发布**了**Claude** Opus 4该公司还更改了[…]的一些细节Anthropic**发布**了**Claude** Opus 4
+
+📅 Fri, 29 May 2026 10:44:00 +0000
+
+---
+
+### OpenAI Blog
+**[波士顿儿童医院使用人工智能解锁新诊断](https://openai.com/index/boston-childrens-hospital)**
+
+波士顿儿童医院使用**OpenAI**技术来改善患者护理，减轻运营负担
+
+📅 Fri, 29 May 2026 12:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[值得信赖的第三方评估的共享攻略](https://openai.com/index/trustworthy-third-party-evaluations-foundations)**
+
+**OpenAI**分享有关第三方人工智能评估的指导，涵盖如何评估前沿系统的模型功能、保障措施和有效性
+
+📅 Fri, 29 May 2026 00:00:00 GMT
 
 ---
 
@@ -60,131 +116,77 @@ WARP使用**GPT**-55和**OpenAI**模型来协调本地、云和**开源**开发�
 
 ---
 
-### OpenAI Blog
-**[通过Codex构建自我完善的税务代理](https://openai.com/index/building-self-improving-tax-agents-with-codex)**
-
-了解**OpenAI**、Thrive和克里特岛如何利用Codex构建自我完善的税务代理，实现申报自动化、提高准确性并加快工作流程
-
-📅 Wed, 27 May 2026 07:00:00 GMT
-
----
-
-### TechCrunch AI Products
-**[Anthropic融资650亿美元， IPO前估值接近1万亿美元](https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/)**
-
-**Anthropic**已完成$ 650亿H轮融资，融资后估值为$ 965亿，标志着这家AI初创公司在备受期待的IPO之前的最终私募融资
-
-📅 Thu, 28 May 2026 18:52:51 +0000
-
----
-
-### TechCrunch AI Products
-**[Anthropic发布带有新“动态工作流程”工具的Opus 4.8](https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/)**
-
-新的Opus模型附带了一个名为动态工作流的工具，用于协调成群的子代理。
-
-📅 Thu, 28 May 2026 17:00:09 +0000
-
----
-
-### TechCrunch AI Products
-**[Anthropic与SpaceX的租约有多长时间？意见各不相同](https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/)**
-
-埃隆·马斯克（ Elon Musk ）公开将xAI的大规模人择计算交易重新定义为短期和取消，尽管SpaceX自己的S-1文件描述了到2029年5月的付款
-
-📅 Thu, 28 May 2026 15:36:00 +0000
-
----
-
-### TechCrunch AI Products
-**[先睹为快的全新Siri应用揭示了苹果对ChatGPT及其他应用的计划](https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/)**
-
-新的渲染可以让您更仔细地了解苹果计划对iOS 27进行的人工智能改造，包括重新设计的Siri体验和独立的Siri应用程序
-
-📅 Thu, 28 May 2026 14:45:13 +0000
-
----
-
-### AI News
-**[Google Pay为使用通用商务协议的人工智能代理做准备](https://www.artificialintelligence-news.com/news/google-pay-ai-agents-universal-commerce-protocol/)**
-
-最新**更新**引入了通用商务协议和新的服务器架构AI代理–旨在执行预订等任务[…] **Google** Pay为通用商务协议AI代理准备的文章**首次**出现在人工智能新闻
-
-📅 Thu, 28 May 2026 14:55:43 +0000
-
----
-
 ## 🔬 前沿研究
 
-### ArXiv Machine Learning (cs.LG)
-**[$ E ^ 3 $ -代理：边缘生成推断资源管理的可执行和不断发展的代理](https://arxiv.org/abs/2605.27428)**
-
-27428v1公告类型：新摘要：生成推理的边缘部署越来越多地面临两个实际现实：在部署时间事件驱动的大型语言模型（ LLM ）元控制器中，每个设备的每个模型性能通常是未知的，该元控制器通过
-
-📅 Thu, 28 May 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[ICG ：通过基于MLLM的提示和个性化偏好调整改进封面图像生成](https://arxiv.org/abs/2605.27374)**
-
-27374v1公告类型：新摘要：多模态大型语言模型（ MLLM ）和扩散模型（ DM ）的最新进展为AI生成的内容开辟了新的可能性ICG采用适配器来桥接MLLM和扩散模型，用于端到端培训
-
-📅 Thu, 28 May 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[LCO ：基于LLM的约束优化，用于现实任务中更安全的Agentic LLM](https://arxiv.org/abs/2605.27375)**
-
-27375v1公告类型：新摘要：大型语言模型（ LLM ）越来越多地充当自主代理商LCO在**GPT**-4上将毒性增长率（ TGR ）降低了39 ％
-
-📅 Thu, 28 May 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[弥合稳定性-表达性差距：低资源口语模型的合成数据缩放和偏好对齐](https://arxiv.org/abs/2605.27383)**
-
-27383v1公告类型：新摘要：语音语言模型（ SLM ）通过绕过显式字符到音素管道（包括**ElevenLabs**和**Gemini** Pro ） ，已成为语音合成的有希望范例
-
-📅 Thu, 28 May 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[从AR到扩散：有效调整具有严格因果关系和弹性视野的大型语言模型](https://arxiv.org/abs/2605.27387)**
-
-27387v1公告类型：新摘要：扩散模型承诺高效的并行文本生成，但依赖于双向关注我们的代码可在https://github上找到
-
-📅 Thu, 28 May 2026 00:00:00 -0400
-
----
-
 ### ArXiv Multiagent (cs.MA)
-**[您只需保持一致一次：通过种子代理在多代理系统中传播合作行为](https://arxiv.org/abs/2605.27586)**
+**[下一代法学硕士代理系统合作的演进动态：交叉提供商经验扩展](https://arxiv.org/abs/2605.29874)**
 
-27586v1公告类型：新摘要：确保代理在分布式开放多代理系统中的行为仍然具有挑战性2% ，优于教师模式和原版**Gemini**-3
+在Chat**GPT**-4o和**Claude** 3中发现一致的合作偏见我们将这一基准扩展到2025-2026年**发布**的四个前沿模型- **Claude** Sonnet 4
 
-📅 Thu, 28 May 2026 00:00:00 -0400
-
----
-
-### MIT Tech Research
-**[AI炒作指数： AI在毕业季受到嘘声](https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/)**
-
-说人工智能将改变世界是一回事，当时前谷歌首席执行官埃里克·施密特告诉亚利桑那大学毕业生，他们的任务是帮助塑造人工智能
-
-📅 Thu, 28 May 2026 09:51:11 +0000
+📅 Fri, 29 May 2026 00:00:00 -0400
 
 ---
 
-### MIT Tech Research
-**[对人工智能工作歇斯底里的现实检查](https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/)**
+### ArXiv AI (cs.AI)
+**[基于Frontier LLM的代理可以克服自然表型的本体策划瓶颈](https://arxiv.org/abs/2605.28965)**
 
-白领工作正在消失，科技行业的AIWaves裁员（最近在Coinbase、**Meta**和思科）预示着我们所有知识工作者即将发生的事情。
+28965v1公告类型：新摘要：将自由文本表型描述链接到本体术语这里，我们将通过来自**Anthropic**和**OpenAI**的五个前沿托管LLM重新审视该基准
 
-📅 Tue, 26 May 2026 09:00:00 +0000
+📅 Fri, 29 May 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[RightNow-Arabic-0.5B-Turbo ：通过词汇注入和边缘优先部署的开放式Sub-1B阿拉伯语模型](https://arxiv.org/abs/2605.28827)**
+
+28827v1公告类型：新摘要：开放式阿拉伯语大型语言模型分为两类：将阿拉伯语视为事后想法的sub-1B多语言模型（ Qwen25B ）和需要运行服务器的7B-70B阿拉伯语专业模型（ Jais、Ace**GPT**、ALLaM、SILMA ）
+
+📅 Fri, 29 May 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[认知分类变换器：分类-语言建模的理论归纳偏见](https://arxiv.org/abs/2605.28864)**
+
+28864v1公告类型：新摘要：认知分类变压器（ CCT ）是一种306M参数的架构，它增强了预先训练的**GPT**-2小型骨干网，其认知接地组件源自类别理论，并从认知科学中获得了几种灵感19 ，用于相同的微调**GPT**-2小型基线
+
+📅 Fri, 29 May 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[采用$\ neq $ Adapt ：对法学硕士野外对话的纵向分析](https://arxiv.org/abs/2605.29018)**
+
+29018v1公告类型：新摘要：虽然越来越多的研究已经开始描述用户--LLM交互000随机抽样的Microsoft Bing Copilot用户，并将其与WildChat-4的数据进行比较
+
+📅 Fri, 29 May 2026 00:00:00 -0400
+
+---
+
+### ArXiv Machine Learning (cs.LG)
+**[TaxDistill ：通过蒸馏基因组基础模型改进宏基因组分类标注](https://arxiv.org/abs/2605.28868)**
+
+28868v1公告类型：新摘要：宏基因组分类标注旨在识别环境样本中DNA片段的微生物起源总体而言， TaxDistill为复杂宏基因组分析中的标签校正提供了一种可靠的方法
+
+📅 Fri, 29 May 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[传动设备的轻量化多式联运LLM支持的成本效益缺陷分级](https://arxiv.org/abs/2605.28822)**
+
+28822v1公告类型：新摘要：输电设备（ D**GPT**E ）的缺陷分级对电能传输的稳定性至关**重要**这种方法通过上下文学习最大限度地发挥D**GPT**E的商用MLLM的潜力，并获得最先进的（ **SOTA** ）模型
+
+📅 Fri, 29 May 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[Aryabhata 2 ：针对高级STEM推理的扩展强化学习](https://arxiv.org/abs/2605.28829)**
+
+我们通过强化学习和可验证的奖励构建高质量的培训课程和培训后**GPT**-OSS-20B结果表明， Aryabhata 2在竞争性STEM推理方面优于其基本模型**GPT**-OSS-20B ，同时需要的输出令牌大大减少（最多减少64\ % ）
+
+📅 Fri, 29 May 2026 00:00:00 -0400
 
 ---
 
@@ -246,55 +248,44 @@ It is 7x cheaper on inputs and 17x cheaper on outputs than **Anthropic**’s **C
 ---
 
 ### VentureBeat
-![SQL查询日志包含AI代理停止幻觉连接所需的上下文](https://images.ctfassets.net/jdtwqhzvc2n1/4duYnrZO66UDWj9I8CYJvF/e7f866540190ac5f7b57a52f8b75cdc8/mining-sql-queries-smk1.jpg?w=300&q=30)
+![Pinterest通过挖掘前沿模型的视觉层来削减90%的人工智能成本](https://images.ctfassets.net/jdtwqhzvc2n1/4q0SyXNOt4BdRHyRMYY0SU/0396007fe3dc5633fb9cb93a6681c219/Open-source.png?w=300&q=30)
 
-**[SQL查询日志包含AI代理停止幻觉连接所需的上下文](https://venturebeat.com/data/sql-query-logs-hold-the-context-ai-agents-need-to-stop-hallucinating-joins)**
+**[Pinterest通过挖掘前沿模型的视觉层来削减90%的人工智能成本](https://venturebeat.com/orchestration/pinterest-cut-ai-costs-90-by-gutting-a-frontier-models-vision-layer)**
 
-**Google**的代理开发工具包和CrewAIOracle以及包括Snowflake和**Google** BigQuery在内的主要云仓库
+回到谷歌的BERT和**OpenAI**的CLIP这使他们能够捕获引脚和图像周围的元数据，然后可以离线预先计算，并定期对新信息进行再培训，以提供个性化体验
 
-📅 Thu, 28 May 2026 15:00:00 GMT
-
----
-
-### ZDNet AI
-**[Euro-Office是欧洲Microsoft Office和Google Docs的开源替代品，将于6月9日推出](https://www.zdnet.com/article/euro-office-a-sovereign-cloud-based-office-suite-google-microsoft-alternative/)**
-
-欧洲科技公司将于下个月**发布**首个稳定版本的Euro-Office ，以取代Microsoft Office和**Google** Docs
-
-📅 Thu, 28 May 2026 18:17:33 GMT
+📅 Fri, 29 May 2026 16:24:25 GMT
 
 ---
 
-### ZDNet AI
-**[Anthropic推出以诚实为杀手的Opus 4.8](https://www.zdnet.com/article/anthropics-launches-opus-4-8-where-honesty-is-the-killer-feature/)**
+### MIT Tech Review
+**[新的提取工艺如何解锁世界的锂](https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/)**
 
-**Anthropic**的最新**Claude**模型不仅更快或更聪明8 ，而且更诚实，更谨慎，更适合复杂的编码项目
+研究人员表示，他们已经找到了一种提取锂的新方法。这种新技术可能比现有技术更环保、更便宜
 
-📅 Thu, 28 May 2026 17:00:04 GMT
+📅 Thu, 28 May 2026 18:01:00 +0000
+
+---
+
+### Wired Technology
+**[探索梵蒂冈的人类世界](https://www.wired.com/story/the-vaticans-man-inside-anthropic/)**
+
+教皇利奥十四世可能无法解除人工智能的武装，但他已经引起了业界的关注。
+
+📅 Fri, 29 May 2026 15:00:00 +0000
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub New (New AI)
-![🆕 ml-ai-algorithm-advisor ：本地Streamlit应用程序，为项目提供ML、AI、NLP、计算机视觉、时间序列、异常检测、文档智能、GenAI和RAG算法的建议和排名。](https://avatars.githubusercontent.com/u/73393098?v=4)
+### GitHub Active (AI/ML)
+![ray ： Ray是一个AI计算引擎。Ray由一个核心分布式运行时和一组用于加速ML工作负载的AI库组成。](https://avatars.githubusercontent.com/u/22125274?v=4)
 
-**[🆕 ml-ai-algorithm-advisor ：本地Streamlit应用程序，为项目提供ML、AI、NLP、计算机视觉、时间序列、异常检测、文档智能、GenAI和RAG算法的建议和排名。](https://github.com/milcio79/ml-ai-algorithm-advisor)**
+**[ray ： Ray是一个AI计算引擎。Ray由一个核心分布式运行时和一组用于加速ML工作负载的AI库组成。](https://github.com/ray-project/ray)**
 
-⭐ 3 star (新项目) · Python · Local Streamlit app that suggests and ranks MLand RAG algorithms for a project
+⭐ 42,705星· 7610分叉· Python · Ray是一个AI计算引擎Ray由一个核心分布式运行时和一组用于加速ML工作负载的AI库组成
 
-📅 2026-05-27T16:39:21Z
-
----
-
-### GitHub New (New AI)
-![🆕 Fest-Video-Editor ：使用Electron、React和Remotion构建的桌面应用程序，可自动编辑短片垂直内容（ Shorts、Reels、TikToks ）中最繁琐的部分。一切都在本地和离线运行。](https://avatars.githubusercontent.com/u/268978725?v=4)
-
-**[🆕 Fest-Video-Editor ：使用Electron、React和Remotion构建的桌面应用程序，可自动编辑短片垂直内容（ Shorts、Reels、TikToks ）中最繁琐的部分。一切都在本地和离线运行。](https://github.com/festverse/Fest-Video-Editor)**
-
-⭐ 2 star (新项目) · N/A · A desktop application built with ElectronEverything runs 100% locally and offline
-
-📅 2026-05-28T17:32:07Z
+📅 2026-05-29T18:16:07Z
 
 ---
 
@@ -303,40 +294,42 @@ It is 7x cheaper on inputs and 17x cheaper on outputs than **Anthropic**’s **C
 
 **[🆕 Amber: 基于“永生.skill”的数字生命模拟系统。通过双系统认知架构与长时记忆RAG、常饪生命代谢，让AI（爱）替代因各种原因无法陪伴在身边的人。支持QQ机器人通电、主动反向查岗与情绪状态机，将未完的陪伴以数字生命形式永存。](https://github.com/ZwnT/Amber)**
 
-⭐ 2 star (新项目) · TypeScript · 基于“永生通过双系统认知架构与长时记忆RAG、常饪生命代谢，让AI（爱）替代因各种原因无法陪伴在身边的人
+⭐ 4 star (新项目) · TypeScript · 基于“永生通过双系统认知架构与长时记忆RAG、常饪生命代谢，让AI（爱）替代因各种原因无法陪伴在身边的人
 
 📅 2026-05-28T14:05:15Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 aicp-advanced ：实时多代理AI共识系统， LLM在其中进行辩论、批评、投票并汇聚以获得更好的答案。](https://avatars.githubusercontent.com/u/68254937?v=4)
+![🆕 Fest-Video-Editor ：使用Electron、React和Remotion构建的桌面应用程序，可自动编辑短片垂直内容（ Shorts、Reels、TikToks ）中最繁琐的部分。一切都在本地和离线运行。](https://avatars.githubusercontent.com/u/268978725?v=4)
 
-**[🆕 aicp-advanced ：实时多代理AI共识系统， LLM在其中进行辩论、批评、投票并汇聚以获得更好的答案。](https://github.com/devdanielvaldez/aicp-advanced)**
+**[🆕 Fest-Video-Editor ：使用Electron、React和Remotion构建的桌面应用程序，可自动编辑短片垂直内容（ Shorts、Reels、TikToks ）中最繁琐的部分。一切都在本地和离线运行。](https://github.com/festverse/Fest-Video-Editor)**
 
-⭐ 2 star (新项目) · TypeScript · Real-time multi-agent AI consensus system where LLMs debate, critique, vote, and converge toward better answers
+⭐ 3 star (新项目) · N/A · A desktop application built with ElectronEverything runs 100% locally and offline
 
-📅 2026-05-26T03:29:55Z
+📅 2026-05-28T17:32:07Z
+
+---
+
+### GitHub New (New AI)
+![🆕 backend_to_ml ：中级Python （ Django、DRF、FastAPI ）后端开发人员uchun ML工程师/MLOps工程师bo 'lish yo' li](https://avatars.githubusercontent.com/u/136330024?v=4)
+
+**[🆕 backend_to_ml ：中级Python （ Django、DRF、FastAPI ）后端开发人员uchun ML工程师/MLOps工程师bo 'lish yo' li](https://github.com/JahongirHakimjonov/backend_to_ml)**
+
+⭐ 3 star (新项目) · Python · Middle Python (Django, DRF, FastAPI) backend developer uchun ML Engineer / MLOps Engineer bo'lish yo'li
+
+📅 2026-05-28T12:19:45Z
 
 ---
 
 ## 💬 社交动态
-
-### Hacker News AI
-**[Anthropic超越OpenAI成为最有价值的人工智能初创公司](https://www.businessinsider.com/anthropic-surpasses-openai-with-965b-valuation-debuts-opus-4-8-2026-5)**
-
-文章网址： https://wwwcom/**Anthropic**-surpasses-**OpenAI**-with-965b-valuation-debuts-opus-4-8-2026-5评论网址： https://**new**s
-
-📅 Thu, 28 May 2026 23:30:36 +0000
-
----
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-05-29T00:13:04.559Z
+📅 2026-05-29T18:15:23.166Z
 
 ---
 
@@ -345,7 +338,7 @@ It is 7x cheaper on inputs and 17x cheaper on outputs than **Anthropic**’s **C
 
 标题： **DeepSeek** (@ **DeepSeek**_ai)/X
 
-📅 2026-05-29T00:14:00.272Z
+📅 2026-05-29T18:16:31.461Z
 
 ---
 
@@ -354,34 +347,25 @@ It is 7x cheaper on inputs and 17x cheaper on outputs than **Anthropic**’s **C
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-05-29T00:14:00.272Z
+📅 2026-05-29T18:16:31.461Z
 
 ---
 
 ### X: DeepSeek
-**[# DeepSeek (@ deepseek_ai)/X](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+**[[! [图片1 ：打开个人头像] (https://pbs.twimg.com/profile_images/1717417613775757312/Uk1zNOj4_2...](https://r.jina.ai/http://twitter.com/deepseek_ai)**
 
-# **DeepSeek** (@ **DeepSeek**_ai)/X
+【图片1 ：打开个人头像】（ https://pbscom/**DeepSeek**_ai/photo ）
 
-📅 2026-05-29T00:14:00.272Z
-
----
-
-### Hacker News
-**[GitHub禁止发布零日Windows漏洞的安全研究人员](https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation)**
-
-文章网址： https://wwwcom/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-f further-retaliation评论网址： https://**new**s
-
-📅 Thu, 28 May 2026 21:45:54 +0000
+📅 2026-05-29T18:16:31.461Z
 
 ---
 
 ### Hacker News AI
-**[Claude Opus 4.8 + AI医学诊断示例](https://github.com/joelparkerhenderson/ai-medical-diagnosis-examples)**
+**[显示HN ：停止并行AI编码会话，相互切换](https://github.com/joshduffy/claude-handoff-guard)**
 
-文章网址： https://githubcom/joelparkerhenderson/ai-medical-diagnosis-examples评论网址： https://**new**s
+文章网址： https://githubcom/joshduffy/**Claude**-handoff-guard评论网址： https://**new**s
 
-📅 Thu, 28 May 2026 22:33:20 +0000
+📅 Fri, 29 May 2026 16:54:22 +0000
 
 ---
 
@@ -390,7 +374,25 @@ It is 7x cheaper on inputs and 17x cheaper on outputs than **Anthropic**’s **C
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-05-29T00:13:04.559Z
+📅 2026-05-29T18:15:23.166Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误520 ：
+
+📅 2026-05-29T18:15:23.166Z
+
+---
+
+### X: OpenAI
+**[警告：此页面可能尚未完全加载，请考虑显式指定超时。](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：此页面可能尚未完全加载，请考虑显式指定超时。
+
+📅 2026-05-29T18:15:23.166Z
 
 ---
 
