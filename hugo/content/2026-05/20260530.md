@@ -1,19 +1,19 @@
 ---
 title: "2026年5月30日 - TZ日报"
-date: 2026-05-30T00:15:29.230Z
+date: 2026-05-30T16:10:03.065Z
 draft: false
 ---
 
 # 2026年5月30日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/5/30 00:15:29
+> 📊 今日汇总 37 条 · 🕐 2026/5/30 16:10:03
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 8 条
+- **前沿研究**: 7 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -62,6 +62,15 @@ OpenAI**推出**Rosalind Biodefense ，为经过审核的开发人员和Ugovernm
 
 ---
 
+### TechCrunch AI Products
+**[我让谷歌的24/7人工智能助手Gemini Spark发挥作用，它实际上非常有用](https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/)**
+
+**Gemini** Spark有助于自动执行日常任务，从收件箱摘要到本地活动策划，但目前尚不清楚**Google**为何将其作为单独的产品
+
+📅 Sat, 30 May 2026 15:30:00 +0000
+
+---
+
 ### AI News
 **[Anthropic发布Claude Opus 4.8](https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/)**
 
@@ -107,86 +116,68 @@ Braintrust工程师如何将Codex与**GPT**-5.5结合使用，以更快地运行
 
 ---
 
-### OpenAI Blog
-**[思科和OpenAI通过Codex重新定义企业工程](https://openai.com/index/cisco)**
-
-思科和**OpenAI**正在通过Codex重新定义企业工程，帮助思科扩展AI原生开发
-
-📅 Wed, 27 May 2026 11:00:00 GMT
-
----
-
 ## 🔬 前沿研究
 
-### ArXiv Multiagent (cs.MA)
-**[下一代法学硕士代理系统合作的演进动态：交叉提供商经验扩展](https://arxiv.org/abs/2605.29874)**
+### MIT Tech Research
+**[AI炒作指数： AI在毕业季受到嘘声](https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/)**
 
-在Chat**GPT**-4o和**Claude** 3中发现一致的合作偏见我们将这一基准扩展到2025-2026年**发布**的四个前沿模型- **Claude** Sonnet 4
+说人工智能将改变世界是一回事，当时前谷歌首席执行官埃里克·施密特告诉亚利桑那大学毕业生，他们的任务是帮助塑造人工智能
 
-📅 Fri, 29 May 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[基于Frontier LLM的代理可以克服自然表型的本体策划瓶颈](https://arxiv.org/abs/2605.28965)**
-
-28965v1公告类型：新摘要：将自由文本表型描述链接到本体术语这里，我们将通过来自**Anthropic**和**OpenAI**的五个前沿托管LLM重新审视该基准
-
-📅 Fri, 29 May 2026 00:00:00 -0400
+📅 Thu, 28 May 2026 09:51:11 +0000
 
 ---
 
-### ArXiv Natural Language Processing (cs.CL)
-**[RightNow-Arabic-0.5B-Turbo ：通过词汇注入和边缘优先部署的开放式Sub-1B阿拉伯语模型](https://arxiv.org/abs/2605.28827)**
+### Science AI
+**[“这可能改变游戏规则” ：抗病毒药物获得埃博拉预防的首次测试](https://www.science.org/content/article/could-be-game-changer-antiviral-pill-gets-first-test-ebola-prevention)**
 
-28827v1公告类型：新摘要：开放式阿拉伯语大型语言模型分为两类：将阿拉伯语视为事后想法的sub-1B多语言模型（ Qwen25B ）和需要运行服务器的7B-70B阿拉伯语专业模型（ Jais、Ace**GPT**、ALLaM、SILMA ）
+研究人员正准备启动一项前所未有的试验，以保护刚果民主共和国和乌干达的埃博拉病毒感染者
 
-📅 Fri, 29 May 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[认知分类变换器：分类-语言建模的理论归纳偏见](https://arxiv.org/abs/2605.28864)**
-
-28864v1公告类型：新摘要：认知分类变压器（ CCT ）是一种306M参数的架构，它增强了预先训练的**GPT**-2小型骨干网，其认知接地组件源自类别理论，并从认知科学中获得了几种灵感19 ，用于相同的微调**GPT**-2小型基线
-
-📅 Fri, 29 May 2026 00:00:00 -0400
+📅 2026-05-29T07:45:40.000Z
 
 ---
 
-### ArXiv AI (cs.AI)
-**[采用$\ neq $ Adapt ：对法学硕士野外对话的纵向分析](https://arxiv.org/abs/2605.29018)**
+### Science AI
+**[白宫寻求加强对拨款的政治监督](https://www.science.org/content/article/white-house-seeks-tighten-political-oversight-grantmaking)**
 
-29018v1公告类型：新摘要：虽然越来越多的研究已经开始描述用户--LLM交互000随机抽样的Microsoft Bing Copilot用户，并将其与WildChat-4的数据进行比较
+全面的拟议规则现已开放征求意见，也将限制外国合作，并取消联邦政府对开放获取费用的资助
 
-📅 Fri, 29 May 2026 00:00:00 -0400
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[TaxDistill ：通过蒸馏基因组基础模型改进宏基因组分类标注](https://arxiv.org/abs/2605.28868)**
-
-28868v1公告类型：新摘要：宏基因组分类标注旨在识别环境样本中DNA片段的微生物起源总体而言， TaxDistill为复杂宏基因组分析中的标签校正提供了一种可靠的方法
-
-📅 Fri, 29 May 2026 00:00:00 -0400
+📅 2026-05-29T06:10:49.000Z
 
 ---
 
-### ArXiv Natural Language Processing (cs.CL)
-**[传动设备的轻量化多式联运LLM支持的成本效益缺陷分级](https://arxiv.org/abs/2605.28822)**
+### Science AI
+**[DNA显示，巴西的“滚石礁”充满了隐藏的多样性](https://www.science.org/content/article/brazil-s-rolling-stone-reefs-teem-hidden-diversity-dna-reveals)**
 
-28822v1公告类型：新摘要：输电设备（ D**GPT**E ）的缺陷分级对电能传输的稳定性至关**重要**这种方法通过上下文学习最大限度地发挥D**GPT**E的商用MLLM的潜力，并获得最先进的（ **SOTA** ）模型
+广阔的海上栖息地面临着采矿、拖网捕捞和石油钻探等威胁
 
-📅 Fri, 29 May 2026 00:00:00 -0400
+📅 2026-05-29T09:00:00.000Z
 
 ---
 
-### ArXiv Natural Language Processing (cs.CL)
-**[Aryabhata 2 ：针对高级STEM推理的扩展强化学习](https://arxiv.org/abs/2605.28829)**
+### Science AI
+**[“令人兴奋” ：富含铁的免疫细胞帮助归巢鸽导航](https://www.science.org/content/article/mind-blowing-iron-rich-immune-cells-help-homing-pigeons-navigate)**
 
-我们通过强化学习和可验证的奖励构建高质量的培训课程和培训后**GPT**-OSS-20B结果表明， Aryabhata 2在竞争性STEM推理方面优于其基本模型**GPT**-OSS-20B ，同时需要的输出令牌大大减少（最多减少64\ % ）
+新研究确定了感知地球磁场的令人惊讶的机制
 
-📅 Fri, 29 May 2026 00:00:00 -0400
+📅 2026-05-28T02:00:00.000Z
+
+---
+
+### Science AI
+**[新药“功能性治愈”许多乙型肝炎病毒感染](https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections)**
+
+葛兰素史克的“bepi”在疗效试验中的表现优于预期，但其全球影响可能有限
+
+📅 2026-05-28T04:30:00.000Z
+
+---
+
+### MIT Tech Research
+**[教皇的Magnifica Humanitas如何为个人提供迎接人工智能时刻的模板](https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/)**
+
+教皇利奥十四世关于人工智能的新通谕包括一项声明，值得技术专家和政策制定者认真关注： “技术永远不会中立……最大的变化是……
+
+📅 Fri, 29 May 2026 10:00:00 +0000
 
 ---
 
@@ -247,23 +238,14 @@ Braintrust工程师如何将Codex与**GPT**-5.5结合使用，以更快地运行
 
 ---
 
-### Wired Technology
-**[与Gemini Spark亲密接触：我让它了解我的生活，并与我的男朋友交朋友](https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/)**
-
-谷歌的新AI代理梳理了我的电子邮件和日历，计划了一个生日派对，但仍然没有为我最**重要**的人计时
-
-📅 Fri, 29 May 2026 19:07:46 +0000
-
----
-
 ### The Verge
-![英伟达、微软和Arm都在取笑英伟达的新款N1X笔记本电脑处理器](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2192219004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![一位创始人在“老派网络”上的赌注是如何获得回报的](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-27-at-11.17.27AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[英伟达、微软和Arm都在取笑英伟达的新款N1X笔记本电脑处理器](https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser)**
+**[一位创始人在“老派网络”上的赌注是如何获得回报的](https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai)**
 
-所有三个帖子都包括指向Computex在台北举办地点的坐标。Nvidia将于太平洋时间周日晚上8点/美国东部时间周日晚上11点在台北举行Computex主题演讲
+|图片：过去的地图克雷格·坎贝尔（ Craig Campbell ）从投资者资金流入人工智能的河流中走出来，创建了一个网站当然，坎贝尔可能已经创办了一家人工智能公司
 
-📅 2026-05-29T23:03:29.000Z
+📅 2026-05-30T13:00:00.000Z
 
 ---
 
@@ -278,60 +260,87 @@ Braintrust工程师如何将Codex与**GPT**-5.5结合使用，以更快地运行
 
 ---
 
+### MIT Tech Review
+**[新的提取工艺如何解锁世界的锂](https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/)**
+
+研究人员表示，他们已经找到了一种提取锂的新方法。这种新技术可能比现有技术更环保、更便宜
+
+📅 Thu, 28 May 2026 18:01:00 +0000
+
+---
+
 ## 📦 GitHub热门
-
-### GitHub Active (AI/ML)
-![tensorflow ：面向所有人的开源机器学习框架](https://avatars.githubusercontent.com/u/15658638?v=4)
-
-**[tensorflow ：面向所有人的开源机器学习框架](https://github.com/tensorflow/tensorflow)**
-
-⭐ 195,307星· 75320分叉· C + + ·面向所有人的**开源**机器学习框架
-
-📅 2026-05-30T00:14:30Z
-
----
-
-### GitHub Active (AI/ML)
-![mlflow ：代理、LLM和ML模型的开源AI工程平台。MLflow使各种规模的团队能够调试、评估、监控和优化生产质量的人工智能应用程序，同时控制成本并管理对模型和数据的访问。](https://avatars.githubusercontent.com/u/39938107?v=4)
-
-**[mlflow ：代理、LLM和ML模型的开源AI工程平台。MLflow使各种规模的团队能够调试、评估、监控和优化生产质量的人工智能应用程序，同时控制成本并管理对模型和数据的访问。](https://github.com/mlflow/mlflow)**
-
-⭐ 26,191星· 5794分叉· Python ·面向代理、LLM和ML模型的**开源**AI工程平台，可优化生产质量的AI应用程序，同时控制成本并管理对模型和数据的访问
-
-📅 2026-05-30T00:14:21Z
-
----
 
 ### GitHub Active (AI/ML)
 ![screenpipe: YC (S26) |让AI能够体验您的体验。记录您所做的一切，说，听到24/7 ，本地，私人，安全](https://avatars.githubusercontent.com/u/259178917?v=4)
 
 **[screenpipe: YC (S26) |让AI能够体验您的体验。记录您所做的一切，说，听到24/7 ，本地，私人，安全](https://github.com/screenpipe/screenpipe)**
 
-⭐ 18,981星· 1769叉子· Rust · YC (S26) |让AI能够体验您的体验记录您所做的一切，比如说，全天候聆听，本地，私人，安全
+⭐ 18,990星· 1770叉·铁锈· YC (S26) |让AI能够体验您的体验记录您所做的一切，说，全天候听到，本地，私人，安全
 
-📅 2026-05-30T00:10:41Z
+📅 2026-05-30T16:09:07Z
 
 ---
 
-### GitHub Active (AI/ML)
-![skypilot ：在任何AI基础设施上运行、管理和扩展AI工作负载。使用一个系统来访问和管理所有人工智能计算（ Kubernetes、Slurm、20多个云、本地）。](https://avatars.githubusercontent.com/u/109387420?v=4)
+### GitHub New (New AI)
+![🆕 kalmanformer ： Kalmanformer的实现，使用变压器对Kalman增益进行建模](https://avatars.githubusercontent.com/u/108653?v=4)
 
-**[skypilot ：在任何AI基础设施上运行、管理和扩展AI工作负载。使用一个系统来访问和管理所有人工智能计算（ Kubernetes、Slurm、20多个云、本地）。](https://github.com/skypilot-org/skypilot)**
+**[🆕 kalmanformer ： Kalmanformer的实现，使用变压器对Kalman增益进行建模](https://github.com/lucidrains/kalmanformer)**
 
-⭐ 10,047星· 1073分叉· Python ·在任何AI基础设施上运行、管理和扩展AI工作负载使用一个系统来访问和管理所有AI计算（ Kubernetes、Slurm、20多个云、本地）
+⭐ 13 star (新项目) · Python · Implementation of Kalmanformer, modeling the Kalman gain with a transformer
 
-📅 2026-05-30T00:11:55Z
+📅 2026-05-30T02:34:41Z
+
+---
+
+### GitHub New (New AI)
+![🆕 Amber: 基于“永生.skill”的数字生命模拟系统。通过双系统认知架构与长时记忆RAG、常饪生命代谢，让AI（爱）替代因各种原因无法陪伴在身边的人。支持QQ机器人通电、主动反向查岗与情绪状态机，将未完的陪伴以数字生命形式永存。](https://avatars.githubusercontent.com/u/230376112?v=4)
+
+**[🆕 Amber: 基于“永生.skill”的数字生命模拟系统。通过双系统认知架构与长时记忆RAG、常饪生命代谢，让AI（爱）替代因各种原因无法陪伴在身边的人。支持QQ机器人通电、主动反向查岗与情绪状态机，将未完的陪伴以数字生命形式永存。](https://github.com/ZwnT/Amber)**
+
+⭐ 4 star (新项目) · TypeScript · 基于“永生通过双系统认知架构与长时记忆RAG、常饪生命代谢，让AI（爱）替代因各种原因无法陪伴在身边的人
+
+📅 2026-05-28T14:05:15Z
+
+---
+
+### GitHub New (New AI)
+![🆕 Fest-Video-Editor ：使用Electron、React和Remotion构建的桌面应用程序，可自动编辑短片垂直内容（ Shorts、Reels、TikToks ）中最繁琐的部分。一切都在本地和离线运行。](https://avatars.githubusercontent.com/u/268978725?v=4)
+
+**[🆕 Fest-Video-Editor ：使用Electron、React和Remotion构建的桌面应用程序，可自动编辑短片垂直内容（ Shorts、Reels、TikToks ）中最繁琐的部分。一切都在本地和离线运行。](https://github.com/festverse/Fest-Video-Editor)**
+
+⭐ 3 star (新项目) · N/A · A desktop application built with ElectronEverything runs 100% locally and offline
+
+📅 2026-05-28T17:32:07Z
 
 ---
 
 ## 💬 社交动态
+
+### Hacker News
+**[Anthropic超越OpenAI成为最有价值的人工智能初创公司](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup)**
+
+文章网址： https://qazinformcom/**new**s/**Anthropic**-surpasses-**OpenAI**-to-become-worlds-most-valuable-ai-startup评论网址： https://**new**s
+
+📅 Sat, 30 May 2026 13:56:34 +0000
+
+---
+
+### Hacker News AI
+**[Anthropic将在Claude引入AI Fluency记分卡](https://www.testingcatalog.com/anthropic-to-introduce-personal-ai-fluency-scorecard-in-claude/)**
+
+文章网址： https://wwwcom/**Anthropic**-to-introduce-personal-ai-fluency-scorecard-in-**Claude**/评论网址： https://**new**s
+
+📅 Sat, 30 May 2026 15:49:43 +0000
+
+---
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-05-30T00:12:13.794Z
+📅 2026-05-30T16:06:59.905Z
 
 ---
 
@@ -340,7 +349,7 @@ Braintrust工程师如何将Codex与**GPT**-5.5结合使用，以更快地运行
 
 标题： **DeepSeek** (@ **DeepSeek**_ai)/X
 
-📅 2026-05-30T00:13:36.290Z
+📅 2026-05-30T16:08:19.994Z
 
 ---
 
@@ -349,7 +358,7 @@ Braintrust工程师如何将Codex与**GPT**-5.5结合使用，以更快地运行
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-05-30T00:13:36.290Z
+📅 2026-05-30T16:08:19.994Z
 
 ---
 
@@ -358,43 +367,25 @@ Braintrust工程师如何将Codex与**GPT**-5.5结合使用，以更快地运行
 
 【图片1 ：打开个人头像】（ https://pbscom/**DeepSeek**_ai/photo ）
 
-📅 2026-05-30T00:13:36.290Z
-
----
-
-### Hacker News
-**[Show HN ：开源私人家庭安全摄像头系统（端到端加密）](https://github.com/secluso/core)**
-
-大家好，我之前在2024年**推出**了一个**开源**的私人家庭安全摄像头，它使用OpenMLS进行端到端加密： https://**new**s-我们重新设计了我们的移动应用程序，该应用程序现已在iOS App Store和**Google** Play商店上架
-
-📅 Fri, 29 May 2026 22:32:29 +0000
-
----
-
-### Hacker News
-**[由于研究人员威胁要进行另一次漏洞利用转储， Microsoft 0-day争执升级](https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085)**
-
-文章网址： https://wwwcom/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085评论网址： https://**new**s
-
-📅 Fri, 29 May 2026 19:37:41 +0000
+📅 2026-05-30T16:08:19.994Z
 
 ---
 
 ### Hacker News AI
-**[中国限制DeepSeek、阿里巴巴、私营公司的人工智能人才海外旅行](https://www.bloomberg.com/news/articles/2026-05-26/china-expands-travel-curbs-to-top-ai-talent-at-private-firms)**
+**[公司在忘记使用限制后一个月内在Claude AI上花费了$ 5亿](https://techstartups.com/2026/05/28/company-accidentally-spent-500-million-on-claude-ai-in-one-month-after-forgetting-usage-limits/)**
 
-文章网址： https://wwwcom/**new**s/articles/2026-05-26/china-expands-travel-curbs-to-top-ai-talent-at-private-firms评论网址： https://**new**s
+文章网址： https://techstartupscom/2026/05/28/company-accidentally-spent-500-million-on-**Claude**-ai-in-one-month-after-forgetting-usage-limits/评论网址： https://**new**s
 
-📅 Fri, 29 May 2026 23:54:21 +0000
+📅 Sat, 30 May 2026 15:34:04 +0000
 
 ---
 
-### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Hacker News AI
+**[Meta一直在努力销售广告以外的任何东西。人工智能会不同吗？](https://www.cnbc.com/2026/05/30/meta-struggled-selling-anything-other-than-ads-will-ai-be-different.html)**
 
-Title: 520: Web服务器返回未知错误
+com/2026/05/30/**Meta**-struggled-selling-anything-other-than-ads-will-ai-be-differenthtml评论网址： https://**new**s
 
-📅 2026-05-30T00:12:13.794Z
+📅 Sat, 30 May 2026 14:15:10 +0000
 
 ---
 
