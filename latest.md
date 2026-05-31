@@ -1,12 +1,12 @@
 ---
 title: "2026年5月30日 - TZ日报"
-date: 2026-05-30T16:10:03.065Z
+date: 2026-05-31T00:05:01.833Z
 draft: false
 ---
 
 # 2026年5月30日 - TZ日报
 
-> 📊 今日汇总 37 条 · 🕐 2026/5/30 16:10:03
+> 📊 今日汇总 37 条 · 🕐 2026/5/31 00:05:01
 
 ---
 
@@ -271,23 +271,12 @@ Braintrust工程师如何将Codex与**GPT**-5.5结合使用，以更快地运行
 
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![screenpipe: YC (S26) |让AI能够体验您的体验。记录您所做的一切，说，听到24/7 ，本地，私人，安全](https://avatars.githubusercontent.com/u/259178917?v=4)
-
-**[screenpipe: YC (S26) |让AI能够体验您的体验。记录您所做的一切，说，听到24/7 ，本地，私人，安全](https://github.com/screenpipe/screenpipe)**
-
-⭐ 18,990星· 1770叉·铁锈· YC (S26) |让AI能够体验您的体验记录您所做的一切，说，全天候听到，本地，私人，安全
-
-📅 2026-05-30T16:09:07Z
-
----
-
 ### GitHub New (New AI)
 ![🆕 kalmanformer ： Kalmanformer的实现，使用变压器对Kalman增益进行建模](https://avatars.githubusercontent.com/u/108653?v=4)
 
 **[🆕 kalmanformer ： Kalmanformer的实现，使用变压器对Kalman增益进行建模](https://github.com/lucidrains/kalmanformer)**
 
-⭐ 13 star (新项目) · Python · Implementation of Kalmanformer, modeling the Kalman gain with a transformer
+⭐ 15 star (新项目) · Python · Implementation of Kalmanformer, modeling the Kalman gain with a transformer
 
 📅 2026-05-30T02:34:41Z
 
@@ -315,23 +304,81 @@ Braintrust工程师如何将Codex与**GPT**-5.5结合使用，以更快地运行
 
 ---
 
-## 💬 社交动态
+### GitHub New (New AI)
+![🆕 claude-auto-permission ：我们其他人的自动模式！ 🚀](https://avatars.githubusercontent.com/u/11861195?v=4)
 
-### Hacker News
-**[Anthropic超越OpenAI成为最有价值的人工智能初创公司](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup)**
+**[🆕 claude-auto-permission ：我们其他人的自动模式！ 🚀](https://github.com/kevinhwang/claude-auto-permission)**
 
-文章网址： https://qazinformcom/**new**s/**Anthropic**-surpasses-**OpenAI**-to-become-worlds-most-valuable-ai-startup评论网址： https://**new**s
+⭐ 3 star (新项目) · Go · An Auto Mode for the rest of us! 🚀
 
-📅 Sat, 30 May 2026 13:56:34 +0000
+📅 2026-05-28T14:09:17Z
 
 ---
 
-### Hacker News AI
-**[Anthropic将在Claude引入AI Fluency记分卡](https://www.testingcatalog.com/anthropic-to-introduce-personal-ai-fluency-scorecard-in-claude/)**
+## 💬 社交动态
 
-文章网址： https://wwwcom/**Anthropic**-to-introduce-personal-ai-fluency-scorecard-in-**Claude**/评论网址： https://**new**s
+### Reddit: r/MachineLearning
+**[博士毕业生的顶级人工智能实验室招聘中的连接有多少快捷方式？ [D]](https://www.reddit.com/r/MachineLearning/comments/1tr80ll/how_much_of_a_shortcut_are_connections_in_top_ai/)**
 
-📅 Sat, 30 May 2026 15:49:43 +0000
+**OpenAI**M我的主要问题是：顾问的声誉和网络实际上有多**重要**
+
+📅 2026-05-29T16:52:19.000Z
+
+---
+
+### Reddit: r/singularity
+**[为什么没有人谈论Mimo V2.5 （非专业版）](https://www.reddit.com/r/singularity/comments/1trkfo4/why_is_no_one_talking_about_mimo_v25_nonpro/)**
+
+5得到49分，与**Claude** 4相当这里是成本比较： **Claude** Opus 4
+
+📅 2026-05-30T00:19:47.000Z
+
+---
+
+### Reddit: r/artificial
+**[大多数“人工智能赚钱”指南从未提及的隐藏开销](https://www.reddit.com/r/artificial/comments/1tsfm7v/the_hidden_overhead_that_most_make_money_with_ai/)**
+
+以下是初学者的诚实开销图片： Chat**GPT** Plus ：每月20美元语音或音频AI工具：每月29美元至69美元Canva Pro ：每月15美元冷宣传或电子邮件工具：每月20美元至40美元域名和基本登录页面：每月10美元至20美元注册常用建议的所有内容，您每月花费100美元至165美元即可赚取一美元Chat**GPT**的免费会员等级、免费Canva、**Google**文档
+
+📅 2026-05-31T00:01:52.000Z
+
+---
+
+### Reddit: r/artificial
+**[[开源]我在Go中构建了一个完整的Git MCP服务器，不仅仅是包装bash。它使用树架，处理真正的管道（写入树） ，并100%在本地运行。](https://www.reddit.com/r/artificial/comments/1tsbgpx/open_source_i_built_a_full_git_mcp_server_in_go/)**
+
+**Claude** Desktop 100%本地优先：适用于任何暴露**OpenAI**兼容⁠/v1⁠API的后端（ Ollama、LM St**Udio**、llama
+
+📅 2026-05-30T21:04:00.000Z
+
+---
+
+### Reddit: r/MachineLearning
+**[事件，如刺激适合CPU缓存的神经元库[P]](https://www.reddit.com/r/MachineLearning/comments/1trq5o3/event_like_spiking_neuron_lib_that_fits_into_the/)**
+
+我用维基百科数据集对PyTorch进行了基准测试我大量使用**Gemini** Flash 3
+
+📅 2026-05-30T04:51:53.000Z
+
+---
+
+### Reddit: r/MachineLearning
+**[有没有人有ICDAR2013中文手写比赛数据集的副本？ [R]](https://www.reddit.com/r/MachineLearning/comments/1tr9cls/does_anyone_have_a_copy_of_the_icdar2013_chinese/)**
+
+剩余的谷歌云端硬盘和百度网盘链接我已经尝试了我所知道的每一个谷歌dorking技巧无济于事
+
+📅 2026-05-29T17:35:43.000Z
+
+---
+
+### Reddit: r/singularity
+![Opus 4.8引领奇点之门：模型训练截止后人工智能预测突破性科学发现的新基准](https://preview.redd.it/cibjl0io2b4h1.png?width=140&amp;height=82&amp;auto=webp&amp;s=5794d2bc9063d24ef9d4bd825d7eda95dc8846be)
+
+**[Opus 4.8引领奇点之门：模型训练截止后人工智能预测突破性科学发现的新基准](https://www.reddit.com/r/singularity/comments/1ts5b6u/opus_48_leads_the_singularity_gate_new_benchmark/)**
+
+就在我**发布**名为Singularity GateAll的新基准测试时，所有模型都已在其本机代理线束（ **Claude** code ， codex ， **Gemini** cli ）中进行了测试，并允许使用工具
+
+📅 2026-05-30T17:01:31.000Z
 
 ---
 
@@ -340,52 +387,7 @@ Braintrust工程师如何将Codex与**GPT**-5.5结合使用，以更快地运行
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-05-30T16:06:59.905Z
-
----
-
-### X: DeepSeek
-**[标题： DeepSeek (@ deepseek_ai)/X](https://r.jina.ai/http://twitter.com/deepseek_ai)**
-
-标题： **DeepSeek** (@ **DeepSeek**_ai)/X
-
-📅 2026-05-30T16:08:19.994Z
-
----
-
-### X: DeepSeek
-**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
-
-网址来源： http://twitter.com/**DeepSeek**_ai
-
-📅 2026-05-30T16:08:19.994Z
-
----
-
-### X: DeepSeek
-**[[! [图片1 ：打开个人头像] (https://pbs.twimg.com/profile_images/1717417613775757312/Uk1zNOj4_2...](https://r.jina.ai/http://twitter.com/deepseek_ai)**
-
-【图片1 ：打开个人头像】（ https://pbscom/**DeepSeek**_ai/photo ）
-
-📅 2026-05-30T16:08:19.994Z
-
----
-
-### Hacker News AI
-**[公司在忘记使用限制后一个月内在Claude AI上花费了$ 5亿](https://techstartups.com/2026/05/28/company-accidentally-spent-500-million-on-claude-ai-in-one-month-after-forgetting-usage-limits/)**
-
-文章网址： https://techstartupscom/2026/05/28/company-accidentally-spent-500-million-on-**Claude**-ai-in-one-month-after-forgetting-usage-limits/评论网址： https://**new**s
-
-📅 Sat, 30 May 2026 15:34:04 +0000
-
----
-
-### Hacker News AI
-**[Meta一直在努力销售广告以外的任何东西。人工智能会不同吗？](https://www.cnbc.com/2026/05/30/meta-struggled-selling-anything-other-than-ads-will-ai-be-different.html)**
-
-com/2026/05/30/**Meta**-struggled-selling-anything-other-than-ads-will-ai-be-differenthtml评论网址： https://**new**s
-
-📅 Sat, 30 May 2026 14:15:10 +0000
+📅 2026-05-31T00:01:48.226Z
 
 ---
 
