@@ -1,19 +1,19 @@
 ---
 title: "2026年6月1日 - TZ日报"
-date: 2026-06-01T00:11:41.442Z
+date: 2026-06-01T20:00:53.462Z
 draft: false
 ---
 
 # 2026年6月1日 - TZ日报
 
-> 📊 今日汇总 34 条 · 🕐 2026/6/1 00:11:41
+> 📊 今日汇总 38 条 · 🕐 2026/6/1 20:00:53
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 4 条
+- **前沿研究**: 8 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -22,23 +22,14 @@ draft: false
 
 ## ✨ 产品更新
 
-### OpenAI Blog
-**[通过Rosalind Biodefense增强社会韧性](https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense)**
-
-OpenAI**推出**Rosalind Biodefense ，为经过审核的开发人员和Ugovernment合作伙伴扩大**GPT**-Rosalind的可信访问权限，通过前沿人工智能推进生物防御、公共卫生和大流行病防范
-
-📅 Fri, 29 May 2026 03:00:00 GMT
-
----
-
 ### Google AI Blog
-![Gemini Omni和Gemini 3.5的9个演示](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp)
+![我们如何使用Gemini构建Google I/O 2026](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_IO.max-600x600.format-webp.webp)
 
-**[Gemini Omni和Gemini 3.5的9个演示](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/)**
+**[我们如何使用Gemini构建Google I/O 2026](https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/)**
 
-观看9个视频，展示在**Google** I/O 2026上宣布的**Gemini** Omni和**Gemini** 3.5的功能。
+了解**Google**员工如何使用人工智能制作**Google** I/O 2026。
 
-📅 Fri, 29 May 2026 17:30:00 +0000
+📅 Mon, 01 Jun 2026 16:00:00 +0000
 
 ---
 
@@ -51,48 +42,37 @@ OpenAI**推出**Rosalind Biodefense ，为经过审核的开发人员和Ugovernm
 
 ---
 
-### AI News
-**[Anthropic发布Claude Opus 4.8](https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/)**
-
-Anthropic**发布**了**Claude** Opus 4该公司还更改了[…]的一些细节Anthropic**发布**了**Claude** Opus 4
-
-📅 Fri, 29 May 2026 10:44:00 +0000
-
----
-
 ### OpenAI Blog
-**[波士顿儿童医院使用人工智能解锁新诊断](https://openai.com/index/boston-childrens-hospital)**
+**[在密歇根州建设智能时代的基础设施](https://openai.com/index/stargate-michigan-data-center)**
 
-波士顿儿童医院使用**OpenAI**技术来改善患者护理，减轻运营负担
+**OpenAI**在密歇根州的一个1GW数据中心项目破土动工，作为星际之门建设人工智能基础设施的一部分，以扩大访问
 
-📅 Fri, 29 May 2026 12:00:00 GMT
-
----
-
-### OpenAI Blog
-**[Braintrust如何通过Codex将客户请求转化为代码](https://openai.com/index/braintrust)**
-
-Braintrust工程师如何将Codex与**GPT**-5.5结合使用，以更快地运行实验和编码。
-
-📅 Fri, 29 May 2026 12:00:00 GMT
+📅 Mon, 01 Jun 2026 12:00:00 GMT
 
 ---
 
-### Google AI Blog
-![参加我们的I/O 2026测验，在Google AI Studio中编码氛围。](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp)
+### Hugging Face
+**[欢迎NVIDIA Cosmos 3 ：物理AI推理和行动的首个开放式全模型](https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai)**
 
-**[参加我们的I/O 2026测验，在Google AI Studio中编码氛围。](https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/)**
+欢迎NVIDIA Cosmos 3 ：物理AI推理和行动的**首个**开放式全模型
 
-我们使用**Google** AI St**Udio**编写了一个关于我们2026年顶级I/O公告的测验。
-
-📅 Fri, 29 May 2026 19:00:00 +0000
+📅 Mon, 01 Jun 2026 04:44:55 GMT
 
 ---
 
 ### TechCrunch AI Products
-**[“真是个笑话” ： Github Copilot基于令牌的新计费方式引发了开发人员的惊愕](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/)**
+**[拟上市的人性化文件](https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/)**
 
-微软Github Copilot的黄金时代似乎已经结束。
+该公司周一表示，已秘密申请IPO。
+
+📅 Mon, 01 Jun 2026 16:36:55 +0000
+
+---
+
+### TechCrunch AI Products
+**[“真是个笑话” ： GitHub Copilot基于令牌的新计费方式引发了开发人员的惊愕](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/)**
+
+微软GitHub Copilot的黄金时代似乎已经结束。
 
 📅 Sat, 30 May 2026 16:30:00 +0000
 
@@ -108,53 +88,129 @@ Braintrust工程师如何将Codex与**GPT**-5.5结合使用，以更快地运行
 ---
 
 ### AI News
-**[使用OpenAI治理框架扩展安全的企业AI](https://www.artificialintelligence-news.com/news/scaling-safe-enterprise-ai-openai-governance-frameworks/)**
+**[视频游戏开发中的人工智能：人工智能如何重塑行业](https://www.artificialintelligence-news.com/news/ai-in-video-game-development/)**
 
-OpenAI**发布**了其前沿治理框架（ FGF ） ，记录了该组织如何解决系统性风险评估和缓解该框架直接映射到[…]使用**OpenAI**治理框架扩展安全企业AI后，**首次**出现在人工智能新闻
+**Google** Cloud的一项调查发现， 90%的开发人员已经将人工智能整合到他们的日常工作中， […]人工智能在视频游戏开发中的应用：人工智能如何重塑行业**首次**出现在人工智能新闻上
 
-📅 Fri, 29 May 2026 16:24:58 +0000
+📅 Mon, 01 Jun 2026 08:46:19 +0000
+
+---
+
+### Hugging Face
+**[介绍Mellum2 ： JetBrains的12B混合专家模型](https://huggingface.co/blog/JetBrains/mellum2-launch)**
+
+介绍Mellum2 ： JetBrains的12B混合专家模型
+
+📅 Mon, 01 Jun 2026 15:45:17 GMT
+
+---
+
+### Hugging Face
+**[超越LLM ：为什么可扩展的企业AI采用取决于代理逻辑](https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption)**
+
+超越LLM ：为什么可扩展的企业AI采用取决于代理逻辑
+
+📅 Mon, 01 Jun 2026 13:51:18 GMT
 
 ---
 
 ## 🔬 前沿研究
 
-### Science AI
-**[“这可能改变游戏规则” ：抗病毒药物获得埃博拉预防的首次测试](https://www.science.org/content/article/could-be-game-changer-antiviral-pill-gets-first-test-ebola-prevention)**
+### ArXiv AI (cs.AI)
+**[PhyDrawGen ：从自然语言生成物理接地图](https://arxiv.org/abs/2605.30512)**
 
-研究人员正准备启动一项前所未有的试验，以保护刚果民主共和国和乌干达的埃博拉病毒感染者
+首先，大型语言模型从问题textPhyDrawGen中提取类型化场景图，其性能明显优于**GPT**-5-image
 
-📅 2026-05-29T07:45:40.000Z
-
----
-
-### Science AI
-**[白宫寻求加强对拨款的政治监督](https://www.science.org/content/article/white-house-seeks-tighten-political-oversight-grantmaking)**
-
-全面的拟议规则现已开放征求意见，也将限制外国合作，并取消联邦政府对开放获取费用的资助
-
-📅 2026-05-29T06:10:49.000Z
+📅 Mon, 01 Jun 2026 00:00:00 -0400
 
 ---
 
-### Science AI
-**[DNA显示，巴西的“滚石礁”充满了隐藏的多样性](https://www.science.org/content/article/brazil-s-rolling-stone-reefs-teem-hidden-diversity-dna-reveals)**
+### ArXiv Multiagent (cs.MA)
+**[用于预测市场分辨率的多代理AI Oracle系统的设计和评估](https://arxiv.org/abs/2605.30802)**
 
-广阔的海上栖息地面临着采矿、拖网捕捞和石油钻探等威胁
+30802v1公告类型：新摘要：预测市场汇总集体智能以预测不确定事件我们将独立汇总和审议共识与单LLM基线（ **GPT**-5 Nano、**DeepSeek** V3和Llama-3 ）进行比较
 
-📅 2026-05-29T09:00:00.000Z
+📅 Mon, 01 Jun 2026 00:00:00 -0400
 
 ---
 
-### MIT Tech Research
-**[教皇的Magnifica Humanitas如何为个人提供迎接人工智能时刻的模板](https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/)**
+### ArXiv AI (cs.AI)
+**[线束更新不是线束优势：解开自我进化LLM代理的演进能力](https://arxiv.org/abs/2605.30621)**
 
-教皇利奥十四世关于人工智能的新通谕包括一项声明，值得技术专家和政策制定者认真关注： “技术永远不会中立……最大的变化是……
+然而，目前尚不清楚模型在任务解决中的基本能力是否预测了其在线束自我进化中的能力：哪些模型产生了有用的线束**更新**5-9B的**更新**产生了与**Claude** Opus相当的收益~ 4
 
-📅 Fri, 29 May 2026 10:00:00 +0000
+📅 Mon, 01 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[MAVEN ：改进Agentic工具调用中的泛化](https://arxiv.org/abs/2605.30738)**
+
+30738v1公告类型：新摘要：跨代理工具调用环境的泛化仍然是可靠代理推理系统的核心挑战MAVEN将其**GPT**-OSS-120b基础模型从48%提高到71%的准确度，而无需额外的培训
+
+📅 Mon, 01 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Computer Vision (cs.CV)
+**[SANA-Streaming ：使用混合扩散变压器进行实时流式视频编辑](https://arxiv.org/abs/2605.30409)**
+
+30409v1公告类型：新摘要：实时流视频到视频编辑（ V2V ）对于具有以下三个核心设计的直播和游戏等交互式应用至关**重要**： （ 1 ）混合扩散变压器架构在某些块中引入了softmax注意力，以提高本地建模能力，同时保持线性层的效率
+
+📅 Mon, 01 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Computer Vision (cs.CV)
+**[聚类引导特定领域的预训练基础模型超高分辨率北极遥感](https://arxiv.org/abs/2605.30467)**
+
+30467v1 **announce** Type: **new** Abstract: This study introduces a novel Arctic-focused remote sensing foundation model (RSFM) by combining diversity-aware regional-scale image curation with masked autoencoder (MAE) self-supervised pretraining of a Vision Transformer (ViT) encoder for very-high-spatial-resolution (VHSR) satellite image analysisSpectral and acquisition-**Meta**data descriptors were used in a scalable affinity-propagation clustering workflow to select approximately 3 million chips from 267 TB of Vantor VHSR imagery This curation strategy was designed to reduce oversampling of visually repetitive or low-information areas while preserving broad scene diversity across the study domain
+
+📅 Mon, 01 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[使用支持RAG的跨模型多数投票工作流程在生物医学关联生成和验证中评估ChatGPT的协议](https://arxiv.org/abs/2605.30400)**
+
+30400v1公告类型：新摘要：我们提出了一个评估Chat**GPT**生成以疾病为中心的生物医学关联能力的方案。该方案包括一个评估Chat**GPT**模型生成可靠性的自一致性策略
+
+📅 Mon, 01 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[探索模型专业化的自主Agentic数据工程](https://arxiv.org/abs/2605.30407)**
+
+30407v1公告类型：新摘要：大型语言模型（ LLM ）在一般任务上表现出色实验表明，自主LLM数据工程师获得了可观的收益，如**GPT**-5
+
+📅 Mon, 01 Jun 2026 00:00:00 -0400
 
 ---
 
 ## 🌍 行业展望
+
+### VentureBeat
+![MiniMax-M3首次亮相，在关键基准性能方面超越GPT-5.5和Gemini 3.1 Pro ，成本仅为5-10%](https://images.ctfassets.net/jdtwqhzvc2n1/2xknlPWQng1dFd9Hs24w6L/f35f7459068592467a35e04819c87a59/ChatGPT_Image_Jun_1__2026__11_28_15_AM.png?w=300&q=30)
+
+**[MiniMax-M3首次亮相，在关键基准性能方面超越GPT-5.5和Gemini 3.1 Pro ，成本仅为5-10%](https://venturebeat.com/technology/minimax-m3-debuts-eclipsing-gpt-5-5-and-gemini-3-1-pro-on-key-benchmark-performance-for-just-5-10-of-the-cost)**
+
+上周末，随着中国人工智能初创公司MiniMax在东部时间周日晚上**发布**备受期待的M3大型语言模型，企业人工智能领域的**重大**新闻爆出。然而，与**Anthropic**新**发布**的高端前沿模型**Claude** Opus 4相比，
+
+📅 Mon, 01 Jun 2026 16:10:05 GMT
+
+---
+
+### VentureBeat
+![Anthropic的浏览器代理在采取保障措施之前有31.5%的时间被劫持](https://images.ctfassets.net/jdtwqhzvc2n1/4HRY3GcnERUOX9hYWvCPIE/9f0831912aa5741f124b39d1c6ebb4a9/HERO.png?w=300&q=30)
+
+**[Anthropic的浏览器代理在采取保障措施之前有31.5%的时间被劫持](https://venturebeat.com/security/anthropic-browser-agent-hijacked-31-percent-before-safeguards-engaged)**
+
+**OpenAI**、谷歌和**Meta**从未给过安全领导者一个可比的数字来与之相提并论8 **OpenAI**、**GPT**-5
+
+📅 Mon, 01 Jun 2026 15:50:32 GMT
+
+---
 
 ### VentureBeat
 ![Claude Mythos揭露了一个严峻的事实：您的企业修补过程太慢了](https://images.ctfassets.net/jdtwqhzvc2n1/2cA0GCQpD8tpycEMmf0mwY/617d2d6214e1fadcb252519b00a1ec60/u7277289442_A_modern_interpretation_of_cybersecurity._3D._--a_48e0894a-799a-4645-9c75-f18358f3b4bf_3.png?w=300&q=30)
@@ -167,36 +223,43 @@ OpenAI**发布**了其前沿治理框架（ FGF ） ，记录了该组织如何�
 
 ---
 
-### VentureBeat
-![MeMo的内存模型让团队无需重新培训即可升级LLM ，性能提升26%](https://images.ctfassets.net/jdtwqhzvc2n1/uNG5np6loL4mLiU9LKH0s/7525aad6eda1c42caffcb84af89bce26/LLM_memory_module.jpg?w=300&q=30)
+### Wired Technology
+**[Anthropic秘密提交有史以来最大规模的IPO文件](https://www.wired.com/story/anthropic-files-s1-ipo-sec/)**
 
-**[MeMo的内存模型让团队无需重新培训即可升级LLM ，性能提升26%](https://venturebeat.com/orchestration/memo-memory-model-teams-upgrade-llm-without-retraining)**
+克劳德背后的人工智能巨头周一提交了文件，将在SpaceX宣布引人注目的IPO几周后上市
 
-使LLM在培训后获得新知识仍然是企业人工智能的主要障碍—当前的解决方案要么太昂贵要么迫使模型适应新的企业数据往往会侵蚀其以前获得的推理能力和安全护栏
-
-📅 Fri, 29 May 2026 19:28:17 GMT
+📅 Mon, 01 Jun 2026 17:17:58 +0000
 
 ---
 
-### VentureBeat
-![Pinterest通过挖掘前沿模型的视觉层来削减90%的人工智能成本](https://images.ctfassets.net/jdtwqhzvc2n1/4q0SyXNOt4BdRHyRMYY0SU/0396007fe3dc5633fb9cb93a6681c219/Open-source.png?w=300&q=30)
+### Ars Technica
+**[佛罗里达州起诉OpenAI ， Sam Altman因多起与ChatGPT相关的谋杀案](https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/)**
 
-**[Pinterest通过挖掘前沿模型的视觉层来削减90%的人工智能成本](https://venturebeat.com/orchestration/pinterest-cut-ai-costs-90-by-gutting-a-frontier-models-vision-layer)**
+佛罗里达州股份公司表示，奥特曼“完全无视”人的生命。
 
-回到谷歌的BERT和**OpenAI**的CLIP这使他们能够捕获引脚和图像周围的元数据，然后可以离线预先计算，并定期对新信息进行再培训，以提供个性化体验
-
-📅 Fri, 29 May 2026 16:24:25 GMT
+📅 Mon, 01 Jun 2026 18:52:19 +0000
 
 ---
 
 ### The Verge
-![如何观看Nvidia的Computex主题演讲](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/wSp6AiNIrsY-HD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![Anthropic已正式申请上市](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[如何观看Nvidia的Computex主题演讲](https://www.theverge.com/tech/940540/how-to-watch-nvidias-computex-keynote)**
+**[Anthropic已正式申请上市](https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public)**
 
-但最大的问题是与微软建立合作伙伴关系的可能性，以及**更新**的Windows on ARM推送微软一直在为其Surface系列产品开启“PC新时代”
+经过数月对**OpenAI**或**Anthropic**是否会成为IPOT竞赛中的第一个猜测， **OpenAI**的最大竞争对手**OpenAI**的资金后估值达到了8520亿美元。
 
-📅 2026-05-31T20:20:35.000Z
+📅 2026-06-01T16:40:38.000Z
+
+---
+
+### The Verge
+![Computex 2026 ：所有新闻和公告](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[Computex 2026 ：所有新闻和公告](https://www.theverge.com/tech/940844/computex-2026)**
+
+This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark Nvidia **announce**s RTX Spark as ‘the most efficient PC chip ever built’ Nvidia says ‘CPUs for agents’ are ‘our **new** major growth driver’and Arm are all teasing Nvidia’s **new** N1X laptop processors Acer’s **launch**ing a Linux handheld for streaming your PC games Microsoft teases **new** Surface hardware and ‘a **new** era of PC’ Acer’s answer to the MacBook Neo is a $699 laptop with Intel chips and 8GB of RAM This is MSI’s **new** Claw 8 EX AI Plus gaming handheld Qualcomm promises $300 Windows laptops with **new** Snapdragon C Acer’s **new** convertible laptop houses Snapdragon X2 chips and a garaged stylus
+
+📅 2026-06-01T14:33:02.000Z
 
 ---
 
@@ -211,33 +274,6 @@ OpenAI**发布**了其前沿治理框架（ FGF ） ，记录了该组织如何�
 
 ---
 
-### Wired Technology
-**[每个人都在MacBook NEO上设定了自己的目标](https://www.wired.com/story/everyone-has-their-targets-set-on-the-macbook-neo/)**
-
-戴尔、微软和其他公司正在**推出**新的笔记本电脑，以直接与NEO竞争，但并非所有公司都从苹果公司那里学到了正确的经验教训
-
-📅 Sun, 31 May 2026 23:00:00 +0000
-
----
-
-### Wired Technology
-**[6个最佳预付费电话套餐（ 2026年） ： Tello、Boost、Google Fi等](https://www.wired.com/gallery/best-prepaid-phone-plans/)**
-
-无需支付昂贵的后付费手机套餐和两年合约使用US Mobile、Boost和**Google** Fi这些经过WIRED测试的选项之一，即可节省费用
-
-📅 Sun, 31 May 2026 10:01:00 +0000
-
----
-
-### ZDNet AI
-**[我已经使用Android Auto和Gemini两个月了-它以4种方式改变了我的驱动器](https://www.zdnet.com/article/how-gemini-in-android-auto-is-changing-my-daily-drive/)**
-
-双子座使我车里的语音控制变得有趣和有用，我仍在探索使用它的新方法
-
-📅 Sun, 31 May 2026 14:00:43 GMT
-
----
-
 ## 📦 GitHub热门
 
 ### GitHub New (New AI)
@@ -245,7 +281,7 @@ OpenAI**发布**了其前沿治理框架（ FGF ） ，记录了该组织如何�
 
 **[🆕 kalmanformer ： Kalmanformer的实现，使用变压器对Kalman增益进行建模](https://github.com/lucidrains/kalmanformer)**
 
-⭐ 30 star (新项目) · Python · Implementation of Kalmanformer, modeling the Kalman gain with a transformer
+⭐ 36 star (新项目) · Python · Implementation of Kalmanformer, modeling the Kalman gain with a transformer
 
 📅 2026-05-30T02:34:41Z
 
@@ -267,40 +303,31 @@ OpenAI**发布**了其前沿治理框架（ FGF ） ，记录了该组织如何�
 
 **[🆕 ResearchForge-Autonomous-Multi-Agent-Research-System ：由LangGraph、Groq/Gemini、Tavily和Streamlit提供支持的🔬自主多代理研究系统。人工智能代理通过质量评分和PDF导出来规划、搜索、分析、验证和生成完整的研究报告。](https://github.com/vishal815/ResearchForge-Autonomous-Multi-Agent-Research-System)**
 
-⭐ 2 star (新项目) · Python · 🔬 Autonomous Multi-Agent Research System powered by LangGraph, Groq/**Gemini**, Tavily & StreamlitAI agents plan, search, analyze, validate, and generate complete research reports with quality scoring and PDF export
+⭐ 3 star (新项目) · Python · 🔬 Autonomous Multi-Agent Research System powered by LangGraph, Groq/**Gemini**, Tavily & StreamlitAI agents plan, search, analyze, validate, and generate complete research reports with quality scoring and PDF export
 
 📅 2026-05-30T20:49:03Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 Aurogene ： Aurogene -自我进化的数字思维](https://avatars.githubusercontent.com/u/159743459?v=4)
+![论🆕 文-现代RAG系统评估：使用RAGChecker和RAGA在MS MARCO和LegalBench-RAG上评估检索增强生成（ RAG ）系统的文凭论文。](https://avatars.githubusercontent.com/u/130230440?v=4)
 
-**[🆕 Aurogene ： Aurogene -自我进化的数字思维](https://github.com/NullLabTests/Aurogene)**
+**[论🆕 文-现代RAG系统评估：使用RAGChecker和RAGA在MS MARCO和LegalBench-RAG上评估检索增强生成（ RAG ）系统的文凭论文。](https://github.com/ApostolisFalaras/Thesis-Evaluation-of-Modern-RAG-Systems)**
 
-⭐ 2 star (新项目) · Python · Aurogene - self-evolving digital mind
+⭐ 2 star (新项目) · Jupyter Notebook · Diploma thesis evaluating Retrieval-Augmented Generation (RAG) systems on MS MARCO and LegalBench-RAG using RAGChecker and RAGAs
 
-📅 2026-05-30T19:21:24Z
+📅 2026-06-01T07:22:42Z
 
 ---
 
 ## 💬 社交动态
 
-### Hacker News AI
-**[研究人员让人工智能模型运行一个模拟社会](https://fortune.com/2026/05/28/ai-model-simulation-claude-chatgpt-grok-gemini/)**
+### X: OpenAI
+**[标题： OpenAI (@ OpenAI)/X](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-文章网址： https://fortunecom/2026/05/28/ai-model-simulation-**Claude**-chat**GPT**-grok-**Gemini**/评论网址： https://**new**s
+标题： **OpenAI** (@ **OpenAI**)/X
 
-📅 Sun, 31 May 2026 20:20:35 +0000
-
----
-
-### Hacker News
-**[ChatGPT for Google Sheets容易受到数据泄露和网络钓鱼的攻击](https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration)**
-
-文章网址： https://wwwcom/resources/**GPT**-for-**Google**-sheets-data-exfiltration评论网址： https://**new**s
-
-📅 Sun, 31 May 2026 20:35:38 +0000
+📅 2026-06-01T19:57:47.365Z
 
 ---
 
@@ -309,7 +336,16 @@ OpenAI**发布**了其前沿治理框架（ FGF ） ，记录了该组织如何�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-06-01T00:08:55.407Z
+📅 2026-06-01T19:57:47.365Z
+
+---
+
+### X: OpenAI
+**[[! [图片1 ：方形个人头像并打开个人头像] (https://pbs.twimg.com/profile_images/188...](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+[图片1 ：方形个人头像并打开个人头像] (https://pbscom/**OpenAI**/photo)
+
+📅 2026-06-01T19:57:47.365Z
 
 ---
 
@@ -318,7 +354,7 @@ OpenAI**发布**了其前沿治理框架（ FGF ） ，记录了该组织如何�
 
 标题： **DeepSeek** (@ **DeepSeek**_ai)/X
 
-📅 2026-06-01T00:10:01.891Z
+📅 2026-06-01T19:59:08.312Z
 
 ---
 
@@ -327,7 +363,7 @@ OpenAI**发布**了其前沿治理框架（ FGF ） ，记录了该组织如何�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-06-01T00:10:01.891Z
+📅 2026-06-01T19:59:08.312Z
 
 ---
 
@@ -336,25 +372,25 @@ OpenAI**发布**了其前沿治理框架（ FGF ） ，记录了该组织如何�
 
 【图片1 ：打开个人头像】（ https://pbscom/**DeepSeek**_ai/photo ）
 
-📅 2026-06-01T00:10:01.891Z
+📅 2026-06-01T19:59:08.312Z
 
 ---
 
-### Hacker News AI
-**[告诉HN ： Meta的AI支持功能允许Instagram帐户被盗](https://news.ycombinator.com/item?id=48350239)**
+### Hacker News
+**[黑客使用Meta的AI支持机器人扣押Instagram帐户](https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/)**
 
-在这里为任何可能正在阅读的**Meta**员工发帖编辑：如果**Meta**从未承认这一点，我不会感到惊讶
+文章网址： https://krebsonsecuritycom/2026/06/hackers-used-**Meta**s-ai-support-bot-to-seize-instagram-accounts/评论网址： https://**new**s
 
-📅 Sun, 31 May 2026 22:11:40 +0000
+📅 Mon, 01 Jun 2026 19:18:52 +0000
 
 ---
 
-### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Hacker News
+**[斯坦福大学CS336人工智能代理指南](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md)**
 
-Title: 520: Web服务器返回未知错误
+文章网址： https://githubcom/stanford-cs336/assignment1-basics/blob/main/**Claude**
 
-📅 2026-06-01T00:08:55.407Z
+📅 Mon, 01 Jun 2026 16:41:49 +0000
 
 ---
 
