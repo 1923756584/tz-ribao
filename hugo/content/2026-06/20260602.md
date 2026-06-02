@@ -1,12 +1,12 @@
 ---
 title: "2026年6月2日 - TZ日报"
-date: 2026-06-02T00:18:34.731Z
+date: 2026-06-02T18:44:55.277Z
 draft: false
 ---
 
 # 2026年6月2日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/6/2 00:18:34
+> 📊 今日汇总 37 条 · 🕐 2026/6/2 18:44:55
 
 ---
 
@@ -16,7 +16,7 @@ draft: false
 - **前沿研究**: 8 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
-- **社交动态**: 8 条
+- **社交动态**: 7 条
 
 ---
 
@@ -34,20 +34,29 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[英伟达通过微软、戴尔和惠普的AI代理PC追逐2000 $ CPU市场](https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/)**
+**[Anthropic将Claude Mythos扩展到15个以上国家的关键基础设施](https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/)**
 
-如果Nvidia已经破解了一种方法，可以轻松、安全和有效地将人工智能代理带给大众，那么它可以而且应该
+**Anthropic**正在扩大Glasswingits项目的安全漏洞计划
 
-📅 Mon, 01 Jun 2026 21:35:00 +0000
+📅 Tue, 02 Jun 2026 14:44:21 +0000
 
 ---
 
-### TechCrunch AI Products
-**[佛罗里达州就暴力事件起诉OpenAI的山姆·奥特曼（ Sam Altman ）](https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/)**
+### OpenAI Blog
+**[旅行者通过OpenAI在全国范围内部署基于人工智能的理赔](https://openai.com/index/travelers)**
 
-该诉讼部分围绕着去年在佛罗里达州立大学发生的枪击事件，以及Chat**GPT**涉嫌在事件中扮演的角色
+旅行者通过**OpenAI**构建了基于人工智能的理赔助手，引导客户完成理赔流程，并提供全天候支持
 
-📅 Mon, 01 Jun 2026 20:03:40 +0000
+📅 Tue, 02 Jun 2026 12:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[通过全球领导力促进青年的安全和机会](https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership)**
+
+**OpenAI**呼吁就青少年人工智能安全问题采取全球行动，提出建立一个国际机构以加强保障措施
+
+📅 Tue, 02 Jun 2026 07:00:00 GMT
 
 ---
 
@@ -79,242 +88,237 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[拟上市的人性化文件](https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/)**
+**[微软推出受OpenClaw启发的个人助理Scout](https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/)**
 
-现在已经登陆顶级企业客户的人工智能强国曾经被认为是大型语言模型新兴世界的弱者
+Microsoft Scout在Build上**推出**，是一款新的人工智能助手，旨在将OpenClaw的强大功能和灵活性带入Microsoft 365系统
 
-📅 Mon, 01 Jun 2026 16:36:55 +0000
-
----
-
-### AI News
-**[视频游戏开发中的人工智能：人工智能如何重塑行业](https://www.artificialintelligence-news.com/news/ai-in-video-game-development/)**
-
-**Google** Cloud的一项调查发现， 90%的开发人员已经将人工智能整合到他们的日常工作中， […]人工智能在视频游戏开发中的应用：人工智能如何重塑行业**首次**出现在人工智能新闻上
-
-📅 Mon, 01 Jun 2026 08:46:19 +0000
+📅 Tue, 02 Jun 2026 18:02:44 +0000
 
 ---
 
-### OpenAI Blog
-**[我们对人工智能政策和政治倡导的看法](https://openai.com/index/our-views-on-ai-policy-and-political-advocacy)**
+### TechCrunch AI Products
+**[Microsoft为开发人员提供了更好的方式来控制AI代理行为](https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/)**
 
-我们对人工智能政策和政治倡导的方法为深思熟虑的监管和人工智能安全提供支持
+该规范允许开发人员、合规性和安全团队定义自己的策略，以便代理在可移植的策略文件中遵循
 
-📅 Mon, 01 Jun 2026 17:00:00 GMT
+📅 Tue, 02 Jun 2026 18:00:00 +0000
 
 ---
 
-### Hugging Face
-**[介绍Mellum2 ： JetBrains的12B混合专家模型](https://huggingface.co/blog/JetBrains/mellum2-launch)**
+### TechCrunch AI Products
+**[OpenAI为白领工作推出新的Codex工具](https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/)**
 
-介绍Mellum2 ： JetBrains的12B混合专家模型
+OpenAI**发布**了一组针对特定工作的六个插件：数据分析可在Codex应用程序中使用
 
-📅 Mon, 01 Jun 2026 15:45:17 GMT
+📅 Tue, 02 Jun 2026 16:00:00 +0000
 
 ---
 
 ## 🔬 前沿研究
 
+### ArXiv Natural Language Processing (cs.CL)
+**[医学大型语言模型的安全性、健壮性和公平性评估的多领域红色团队框架](https://arxiv.org/abs/2606.00027)**
+
+00027v1公告类型：新摘要：大型语言模型（ LLM ）越来越多地部署在医疗保健领域性能最高的系统（ X-BAI、**GPT**-5、**Claude** Opus 4
+
+📅 Tue, 02 Jun 2026 00:00:00 -0400
+
+---
+
 ### ArXiv AI (cs.AI)
-**[PhyDrawGen ：从自然语言生成物理接地图](https://arxiv.org/abs/2605.30512)**
+**[MindGames竞技场归纳轨道： In2AI解决方案，每步奖励归因延迟](https://arxiv.org/abs/2606.00017)**
 
-首先，大型语言模型从问题textPhyDrawGen中提取类型化场景图，其性能明显优于**GPT**-5-image
+00017v1公告类型：新摘要：为多智能体战略交互训练语言模型智能体存在一个核心困难：任何操作的质量可能取决于未来永远不会实现的事件，包括**GPT**-5
 
-📅 Mon, 01 Jun 2026 00:00:00 -0400
+📅 Tue, 02 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Machine Learning (cs.LG)
+**[BitsMoE ：用于MoE LLM量化的有效光谱能量引导位分配](https://arxiv.org/abs/2606.00079)**
+
+00079v1公告类型：新摘要： Mixture-of-Experts (MoE)大型语言模型通过稀疏专家激活减少每令牌计算我们的模型和代码可在https://github上公开获得
+
+📅 Tue, 02 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Computer Vision (cs.CV)
+**[Planktonzilla ：用于了解浮游生物生态系统的多模态数据集和模型](https://arxiv.org/abs/2606.00080)**
+
+00080v1公告类型：新摘要：海洋浮游生物支撑水生食物网，在全球二氧化碳封存中发挥关键作用突出当前生物基础模型在海洋成像领域的局限性
+
+📅 Tue, 02 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[CSRP ：通过具有效率感知奖励的强化学习进行中文文本更正的思维链推理](https://arxiv.org/abs/2606.00020)**
+
+00020v1公告类型：新摘要：基于大型语言模型（ LLM ）的中文语法纠错（ CGEC ）系统面临两个关键挑战：通用模型缺乏用于细微语法区分的专门语言先验。我们的代码可在https://github上找到
+
+📅 Tue, 02 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Multiagent (cs.MA)
-**[用于预测市场分辨率的多代理AI Oracle系统的设计和评估](https://arxiv.org/abs/2605.30802)**
+**[企业多Agent系统动态协调策略选择](https://arxiv.org/abs/2606.00804)**
 
-30802v1公告类型：新摘要：预测市场汇总集体智能以预测不确定事件我们将独立汇总和审议共识与单LLM基线（ **GPT**-5 Nano、**DeepSeek** V3和Llama-3 ）进行比较
+和辅助**OpenAI**云验证臂在每个预先注册的模型臂和问题类中，以及在辅助**OpenAI**验证臂中，预测策略都在0以内
 
-📅 Mon, 01 Jun 2026 00:00:00 -0400
+📅 Tue, 02 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Multiagent (cs.MA)
+**[MetaForge ：按需检索、调整和锻造工具的自我进化多式联运代理](https://arxiv.org/abs/2606.01801)**
+
+01801v1公告类型：新摘要：通过使用**Meta**Forge ，多式联运代理在复杂的推理任务上取得了显著进展，准确度始终超过16个基线
+
+📅 Tue, 02 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[线束更新不是线束优势：解开自我进化LLM代理的演进能力](https://arxiv.org/abs/2605.30621)**
+**[立场文件：决策引擎中的后求解鲁棒性：干扰下的可行区域和平滑度](https://arxiv.org/abs/2606.00002)**
 
-然而，目前尚不清楚模型在任务解决中的基本能力是否预测了其在线束自我进化中的能力：哪些模型产生了有用的线束**更新**5-9B的**更新**产生了与**Claude** Opus相当的收益~ 4
+00002v1公告类型：新摘要：混合整数线性规划（ MILP ）决策引擎常规输出高风险工业系统的名义优化计划具有校准不确定性的概率鲁棒性估计
 
-📅 Mon, 01 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[MAVEN ：改进Agentic工具调用中的泛化](https://arxiv.org/abs/2605.30738)**
-
-30738v1公告类型：新摘要：跨代理工具调用环境的泛化仍然是可靠代理推理系统的核心挑战MAVEN将其**GPT**-OSS-120b基础模型从48%提高到71%的准确度，而无需额外的培训
-
-📅 Mon, 01 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv Computer Vision (cs.CV)
-**[SANA-Streaming ：使用混合扩散变压器进行实时流式视频编辑](https://arxiv.org/abs/2605.30409)**
-
-30409v1公告类型：新摘要：实时流视频到视频编辑（ V2V ）对于具有以下三个核心设计的直播和游戏等交互式应用至关**重要**： （ 1 ）混合扩散变压器架构在某些块中引入了softmax注意力，以提高本地建模能力，同时保持线性层的效率
-
-📅 Mon, 01 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv Computer Vision (cs.CV)
-**[聚类引导特定领域的预训练基础模型超高分辨率北极遥感](https://arxiv.org/abs/2605.30467)**
-
-30467v1 **announce** Type: **new** Abstract: This study introduces a novel Arctic-focused remote sensing foundation model (RSFM) by combining diversity-aware regional-scale image curation with masked autoencoder (MAE) self-supervised pretraining of a Vision Transformer (ViT) encoder for very-high-spatial-resolution (VHSR) satellite image analysisSpectral and acquisition-**Meta**data descriptors were used in a scalable affinity-propagation clustering workflow to select approximately 3 million chips from 267 TB of Vantor VHSR imagery This curation strategy was designed to reduce oversampling of visually repetitive or low-information areas while preserving broad scene diversity across the study domain
-
-📅 Mon, 01 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[使用支持RAG的跨模型多数投票工作流程在生物医学关联生成和验证中评估ChatGPT的协议](https://arxiv.org/abs/2605.30400)**
-
-30400v1公告类型：新摘要：我们提出了一个评估Chat**GPT**生成以疾病为中心的生物医学关联能力的方案。该方案包括一个评估Chat**GPT**模型生成可靠性的自一致性策略
-
-📅 Mon, 01 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[探索模型专业化的自主Agentic数据工程](https://arxiv.org/abs/2605.30407)**
-
-30407v1公告类型：新摘要：大型语言模型（ LLM ）在一般任务上表现出色实验表明，自主LLM数据工程师获得了可观的收益，如**GPT**-5
-
-📅 Mon, 01 Jun 2026 00:00:00 -0400
+📅 Tue, 02 Jun 2026 00:00:00 -0400
 
 ---
 
 ## 🌍 行业展望
 
 ### VentureBeat
-![MiniMax-M3首次亮相，在关键基准性能方面超越GPT-5.5和Gemini 3.1 Pro ，成本仅为5-10%](https://images.ctfassets.net/jdtwqhzvc2n1/2xknlPWQng1dFd9Hs24w6L/f35f7459068592467a35e04819c87a59/ChatGPT_Image_Jun_1__2026__11_28_15_AM.png?w=300&q=30)
+![Zip的新AI代理希望阻止您的财务团队将合同上传到个人ChatGPT帐户](https://images.ctfassets.net/jdtwqhzvc2n1/58Xq65ebt4Vk39flKiyoN4/9a78a1be01196b627e6978c3b07c1ab3/Nuneybits_Vector_art_of_locked_vendor-handshake_grid_67717884-fbd7-4e59-a9d6-35c51f534b6a.webp?w=300&q=30)
 
-**[MiniMax-M3首次亮相，在关键基准性能方面超越GPT-5.5和Gemini 3.1 Pro ，成本仅为5-10%](https://venturebeat.com/technology/minimax-m3-debuts-eclipsing-gpt-5-5-and-gemini-3-1-pro-on-key-benchmark-performance-for-just-5-10-of-the-cost)**
+**[Zip的新AI代理希望阻止您的财务团队将合同上传到个人ChatGPT帐户](https://venturebeat.com/technology/zips-new-ai-agents-want-to-stop-your-finance-team-from-uploading-contracts-into-personal-chatgpt-accounts)**
 
-上周末，随着中国人工智能初创公司MiniMax在东部时间周日晚上**发布**备受期待的M3大型语言模型，企业人工智能领域的**重大**新闻爆出。然而，与**Anthropic**新**发布**的高端前沿模型**Claude** Opus 4相比，
+以及模型上下文协议(MCP)的采购原生实现，该协议将Zip的数据直接传输到**Claude**和Chat**GPT**等AI助手中，而不会牺牲Zip使用的**Claude**模型及其工程师创建的MCP的审计跟踪或合规性控制
 
-📅 Mon, 01 Jun 2026 16:10:05 GMT
-
----
-
-### VentureBeat
-![Anthropic的浏览器代理在采取保障措施之前有31.5%的时间被劫持](https://images.ctfassets.net/jdtwqhzvc2n1/4HRY3GcnERUOX9hYWvCPIE/9f0831912aa5741f124b39d1c6ebb4a9/HERO.png?w=300&q=30)
-
-**[Anthropic的浏览器代理在采取保障措施之前有31.5%的时间被劫持](https://venturebeat.com/security/anthropic-browser-agent-hijacked-31-percent-before-safeguards-engaged)**
-
-**OpenAI**、谷歌和**Meta**从未给过安全领导者一个可比的数字来与之相提并论8 **OpenAI**、**GPT**-5
-
-📅 Mon, 01 Jun 2026 15:50:32 GMT
+📅 Tue, 02 Jun 2026 12:00:00 GMT
 
 ---
 
 ### VentureBeat
-![Claude Mythos揭露了一个严峻的事实：您的企业修补过程太慢了](https://images.ctfassets.net/jdtwqhzvc2n1/2cA0GCQpD8tpycEMmf0mwY/617d2d6214e1fadcb252519b00a1ec60/u7277289442_A_modern_interpretation_of_cybersecurity._3D._--a_48e0894a-799a-4645-9c75-f18358f3b4bf_3.png?w=300&q=30)
+![微软推出Surface RTX Spark Dev Box ，无需云成本即可运行大型AI模型](https://images.ctfassets.net/jdtwqhzvc2n1/9ZXML9iabyyDqXI5bDqHu/0be5bd55a52eb7b0ecc35bc7f4a6cb83/Surface_RTX_Spark_Image_4.png?w=300&q=30)
 
-**[Claude Mythos揭露了一个严峻的事实：您的企业修补过程太慢了](https://venturebeat.com/security/claude-mythos-exposed-a-hard-truth-your-enterprise-patching-process-is-way-too-slow)**
+**[微软推出Surface RTX Spark Dev Box ，无需云成本即可运行大型AI模型](https://venturebeat.com/infrastructure/microsoft-debuts-surface-rtx-spark-dev-box-to-run-large-ai-models-without-cloud-costs)**
 
-**Anthropic**宣布**Claude** Mythos Preview已关闭该保证金**Google**的M-Trends 2026报告发现，在补丁**发布**之前，就已经发生了漏洞利用
+一款紧凑型台式计算机，旨在让软件开发人员在办公桌上运行大型人工智能模型，而不是支付云计算费用--此举直接挑战了自三年半前ChatGPT**推出**以来定义人工智能行业经济学的每令牌定价模型。这三款设备映射到一种分层计算模型，微软称之为“未计量智能” ：小型设备语言模型（该公司的新Aion 1
 
-📅 Sun, 31 May 2026 16:30:23 GMT
-
----
-
-### Wired Technology
-**[Anthropic秘密提交有史以来最大规模的IPO文件](https://www.wired.com/story/anthropic-files-s1-ipo-sec/)**
-
-克劳德背后的人工智能巨头周一提交了文件，将在SpaceX宣布引人注目的IPO几周后上市
-
-📅 Mon, 01 Jun 2026 17:17:58 +0000
+📅 Tue, 02 Jun 2026 16:30:00 GMT
 
 ---
 
-### Ars Technica
-**[佛罗里达州起诉OpenAI ， Sam Altman因多起与ChatGPT相关的谋杀案](https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/)**
+### VentureBeat
+![微软推出MXC ，这是一个用于AI代理的操作系统级沙盒， OpenAI和Nvidia已经加入](https://images.ctfassets.net/jdtwqhzvc2n1/2Bj8ehmUSTCeqnkJ3pPCjc/f9782b3575c73ccecb809afd58e7acd2/Nuneybits_Vector_art_of_the_iconic_Microsoft_Windows_logo_on_a__b8c7cdb1-4983-4e68-94a9-93fbef23357b.webp?w=300&q=30)
 
-佛罗里达州股份公司表示，奥特曼“完全无视”人的生命。
+**[微软推出MXC ，这是一个用于AI代理的操作系统级沙盒， OpenAI和Nvidia已经加入](https://venturebeat.com/security/microsoft-launches-mxc-an-os-level-sandbox-for-ai-agents-with-openai-and-nvidia-already-on-board)**
 
-📅 Mon, 01 Jun 2026 18:52:19 +0000
+表示“与微软合作开发微软执行容器（ MXC ）使我们能够探索人工智能代理安全高效地生成和执行代码的新模式”在操作系统中构建容器使微软在苹果的围墙花园和谷歌的云优先模型MXC上具有战略优势，而此时技术行业正在努力应对根本性的紧张局势
+
+📅 Tue, 02 Jun 2026 16:30:00 GMT
+
+---
+
+### VentureBeat
+![OpenAI的Codex更新允许代理通过站点和特定角色的插件构建交互式企业工作区](https://images.ctfassets.net/jdtwqhzvc2n1/2TEj8wOuqSrOfRJ3k5WZTg/fc481e92f1a3b9b2421e12757fef8532/ChatGPT_Image_Jun_2__2026__11_52_04_AM.png?w=300&q=30)
+
+**[OpenAI的Codex更新允许代理通过站点和特定角色的插件构建交互式企业工作区](https://venturebeat.com/orchestration/openais-codex-update-lets-agents-build-interactive-enterprise-workspaces-via-sites-and-role-specific-plugins)**
+
+**OpenAI**宣布对其代理AI平台CodexLicensing和定价进行重大**更新**这些**更新**完全在**OpenAI**的封闭式专有企业许可模式下运行
+
+📅 Tue, 02 Jun 2026 16:00:00 GMT
+
+---
+
+### ZDNet AI
+**[4台Nvidia RTX Spark笔记本电脑我最想尝试-包括微软的新款Ultra](https://www.zdnet.com/article/all-the-new-pcs-powered-by-nvidias-new-n1x-cpu/)**
+
+英伟达刚刚宣布了其新的RTX Spark CPU ，适用于所有主要PC品牌的型号这四款看起来最有趣
+
+📅 Tue, 02 Jun 2026 18:24:00 GMT
 
 ---
 
 ### The Verge
-![双子座的新人工智能代理与谷歌的演示一样好](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/lcimg-0ebbe911-9fbb-4f68-97b0-b7361d7cb53c.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![微软的第一个高级推理人工智能在这里](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832912/STK095_MICROSOFT_2_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[双子座的新人工智能代理与谷歌的演示一样好](https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on)**
+**[微软的第一个高级推理人工智能在这里](https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026)**
 
-谷歌全新的“全天候”人工智能代理**Gemini** Spark可以非常擅长为您做事”，并且“它旨在在采取**重大**行动之前与您核实
+微软在Build 2026上宣布了一系列新的内部人工智能模型，包括一个新的“旗舰”模型： MAI-Thinking-1它依赖于**OpenAI**的模型
 
-📅 2026-06-01T20:00:00.000Z
+📅 2026-06-02T18:12:44.000Z
 
 ---
 
 ### The Verge
-![Anthropic已正式申请上市](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![Microsoft Scout是基于OpenClaw构建的新型AI个人助理](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Microsoft-Scout.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[Anthropic已正式申请上市](https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public)**
+**[Microsoft Scout是基于OpenClaw构建的新型AI个人助理](https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw)**
 
-经过数月对**OpenAI**或**Anthropic**是否会成为IPOT竞赛中的第一个猜测， **OpenAI**的最大竞争对手**OpenAI**的资金后估值达到了8520亿美元。
+与谷歌非常相似，微软正在**推出**自己的OpenClaw版本Microsoft Scout是一款始终在线的助手，可集成到Outlook等Microsoft 365应用程序中
 
-📅 2026-06-01T16:40:38.000Z
+📅 2026-06-02T18:00:00.000Z
 
 ---
 
-### Wired Technology
-**[每个人都在MacBook NEO上设定了自己的目标](https://www.wired.com/story/everyone-has-their-targets-set-on-the-macbook-neo/)**
+### The Verge
+![微软创造了高通无法实现的微型Surface开发盒](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Surface-RTX-Spark-Image-4.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-戴尔、微软和其他公司正在**推出**新的笔记本电脑，以直接与NEO竞争，但并非所有公司都从苹果公司那里学到了正确的经验教训
+**[微软创造了高通无法实现的微型Surface开发盒](https://www.theverge.com/news/941271/microsoft-surface-rtx-spark-dev-box-specs-availability)**
 
-📅 Sun, 31 May 2026 23:00:00 +0000
+微软刚刚在周末**发布**了一款新的Surface Laptop Ultra ，现在它正在**推出**一款面向开发人员的微型Surface PC新的Surface RTX Spark Dev Box由英伟达基于Arm的新型RTX Spark芯片提供支持
+
+📅 2026-06-02T16:30:00.000Z
 
 ---
 
 ## 📦 GitHub热门
+
+### GitHub Active (Python)
+![fury: FURY - pYthon中的免费统一渲染。](https://avatars.githubusercontent.com/u/43426015?v=4)
+
+**[fury: FURY - pYthon中的免费统一渲染。](https://github.com/fury-gl/fury)**
+
+⭐ 300星· 251叉·蟒蛇·狂怒- pYthon免费统一渲染。
+
+📅 2026-06-02T18:43:51Z
+
+---
 
 ### GitHub New (New AI)
 ![🆕 kalmanformer ： Kalmanformer的实现，使用变压器对Kalman增益进行建模](https://avatars.githubusercontent.com/u/108653?v=4)
 
 **[🆕 kalmanformer ： Kalmanformer的实现，使用变压器对Kalman增益进行建模](https://github.com/lucidrains/kalmanformer)**
 
-⭐ 36 star (新项目) · Python · Implementation of Kalmanformer, modeling the Kalman gain with a transformer
+⭐ 43 star (新项目) · Python · Implementation of Kalmanformer, modeling the Kalman gain with a transformer
 
 📅 2026-05-30T02:34:41Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 Reptile-Central-Database ：用于虚构爬行动物供应业务的全栈CRUD Web应用程序- Streamlit、MySQL、Google Cloud Run ，配备由GPT-4o mini和LlamaIndex提供支持的AI聊天机器人（ RAG +自然语言SQL ）。](https://avatars.githubusercontent.com/u/69285158?v=4)
+![🆕 ResearchForge-Autonomous-Multi-Agent-Research-System ：使用人工智能代理将任何主题转化为完整的研究报告。ResearchForge自主规划任务、搜索网络、分析信息并生成可操作的见解。](https://avatars.githubusercontent.com/u/83393190?v=4)
 
-**[🆕 Reptile-Central-Database ：用于虚构爬行动物供应业务的全栈CRUD Web应用程序- Streamlit、MySQL、Google Cloud Run ，配备由GPT-4o mini和LlamaIndex提供支持的AI聊天机器人（ RAG +自然语言SQL ）。](https://github.com/Boaxes/Reptile-Central-Database)**
+**[🆕 ResearchForge-Autonomous-Multi-Agent-Research-System ：使用人工智能代理将任何主题转化为完整的研究报告。ResearchForge自主规划任务、搜索网络、分析信息并生成可操作的见解。](https://github.com/vishal815/ResearchForge-Autonomous-Multi-Agent-Research-System)**
 
-使用由**GPT**-4o mini和LlamaIndex提供支持的AI聊天机器人（ RAG +自然语言SQL ）运行**Google** Cloud
-
-📅 2026-06-01T03:51:49Z
-
----
-
-### GitHub New (New AI)
-![🆕 ai-for-beginners-visual ：在几分钟内🧠理解人工智能—用简单的视觉效果+日常类比解释32个核心人工智能概念，适用于技术和非技术读者。](https://avatars.githubusercontent.com/u/61895820?v=4)
-
-**[🆕 ai-for-beginners-visual ：在几分钟内🧠理解人工智能—用简单的视觉效果+日常类比解释32个核心人工智能概念，适用于技术和非技术读者。](https://github.com/behnia137/ai-for-beginners-visual)**
-
-⭐ 3 star (新项目) · N/A · 🧠 Understand AI in minutes — 32 core AI concepts explained with simple visuals + everyday analogiesfor technical and non-technical readers alike
-
-📅 2026-05-31T01:06:17Z
-
----
-
-### GitHub New (New AI)
-![🆕 ResearchForge-Autonomous-Multi-Agent-Research-System ：由LangGraph、Groq/Gemini、Tavily和Streamlit提供支持的🔬自主多代理研究系统。人工智能代理通过质量评分和PDF导出来规划、搜索、分析、验证和生成完整的研究报告。](https://avatars.githubusercontent.com/u/83393190?v=4)
-
-**[🆕 ResearchForge-Autonomous-Multi-Agent-Research-System ：由LangGraph、Groq/Gemini、Tavily和Streamlit提供支持的🔬自主多代理研究系统。人工智能代理通过质量评分和PDF导出来规划、搜索、分析、验证和生成完整的研究报告。](https://github.com/vishal815/ResearchForge-Autonomous-Multi-Agent-Research-System)**
-
-⭐ 3 star (新项目) · Python · 🔬 Autonomous Multi-Agent Research System powered by LangGraph, Groq/**Gemini**, Tavily & StreamlitAI agents plan, search, analyze, validate, and generate complete research reports with quality scoring and PDF export
+⭐ 4 star (新项目) · Python · Turn any topic into a complete research report using AI agentsResearchForge autonomously plans tasks, searches the web, analyzes information, and generates actionable insights
 
 📅 2026-05-30T20:49:03Z
+
+---
+
+### GitHub New (New AI)
+![🆕 awesome-ai-agents ： 2026年最先进的人工智能代理、框架和自主工作流程的精选列表。专注于生产就绪工具、OSINT和编码助手。](https://avatars.githubusercontent.com/u/201400231?v=4)
+
+**[🆕 awesome-ai-agents ： 2026年最先进的人工智能代理、框架和自主工作流程的精选列表。专注于生产就绪工具、OSINT和编码助手。](https://github.com/frangelbarrera/awesome-ai-agents)**
+
+⭐ 3 star (新项目) · N/A · A curated list of state-of-the-art AI Agents, frameworks, and autonomous workflows in 2026Focuses on production-ready tools, OSINT, and coding assistants
+
+📅 2026-06-01T17:43:59Z
 
 ---
 
@@ -325,7 +329,7 @@ draft: false
 
 标题： **OpenAI** (@ **OpenAI**)/X
 
-📅 2026-06-02T00:15:43.885Z
+📅 2026-06-02T18:41:46.440Z
 
 ---
 
@@ -334,7 +338,7 @@ draft: false
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-06-02T00:15:43.885Z
+📅 2026-06-02T18:41:46.440Z
 
 ---
 
@@ -343,7 +347,7 @@ draft: false
 
 [图片1 ：方形个人头像并打开个人头像] (https://pbscom/**OpenAI**/photo)
 
-📅 2026-06-02T00:15:43.885Z
+📅 2026-06-02T18:41:46.440Z
 
 ---
 
@@ -352,7 +356,7 @@ draft: false
 
 标题： **DeepSeek** (@ **DeepSeek**_ai)/X
 
-📅 2026-06-02T00:16:50.797Z
+📅 2026-06-02T18:43:06.695Z
 
 ---
 
@@ -361,7 +365,7 @@ draft: false
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-06-02T00:16:50.797Z
+📅 2026-06-02T18:43:06.695Z
 
 ---
 
@@ -370,25 +374,16 @@ draft: false
 
 【图片1 ：打开个人头像】（ https://pbscom/**DeepSeek**_ai/photo ）
 
-📅 2026-06-02T00:16:50.797Z
+📅 2026-06-02T18:43:06.695Z
 
 ---
 
 ### Hacker News
-**[显示HN ： DepsGuard –一个命令来强化NPM/pnpm/yarn/bun/uv配置](https://github.com/arnica/depsguard)**
+**[显示HN ： RePlaya –带实时跟踪的自托管浏览器会话重播](https://github.com/s2-streamstore/replaya)**
 
-我一直看到每个npm/pnpm/yarn/bun/uv供应链后端都有相同的建议（设置最小**发布**年龄自(https://**new**s
+RePlaya (https://github这里唯一的依赖是S2 ，它有一个**开源**版本，你可以自托管叫s2-lite (https://**new**s
 
-📅 Mon, 01 Jun 2026 16:58:52 +0000
-
----
-
-### Hacker News
-**[斯坦福大学CS336人工智能代理指南](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md)**
-
-文章网址： https://githubcom/stanford-cs336/assignment1-basics/blob/main/**Claude**
-
-📅 Mon, 01 Jun 2026 16:41:49 +0000
+📅 Tue, 02 Jun 2026 17:40:15 +0000
 
 ---
 
