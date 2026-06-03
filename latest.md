@@ -1,12 +1,12 @@
 ---
 title: "2026年6月3日 - TZ日报"
-date: 2026-06-03T00:33:05.627Z
+date: 2026-06-03T18:48:29.716Z
 draft: false
 ---
 
 # 2026年6月3日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/6/3 00:33:05
+> 📊 今日汇总 38 条 · 🕐 2026/6/3 18:48:29
 
 ---
 
@@ -30,6 +30,24 @@ draft: false
 了解**Google**员工如何使用人工智能制作**Google** I/O 2026。
 
 📅 Mon, 01 Jun 2026 16:00:00 +0000
+
+---
+
+### OpenAI Blog
+**[OpenAI公共政策议程](https://openai.com/index/public-policy-agenda)**
+
+**OpenAI**概述了其人工智能的公共政策议程和全球标准，以确保人工智能造福社会
+
+📅 Wed, 03 Jun 2026 10:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[前沿人工智能民主治理蓝图](https://openai.com/index/frontier-safety-blueprint)**
+
+**OpenAI**概述了前沿人工智能治理的蓝图，提出了安全、复原力和国家安全的联邦框架
+
+📅 Wed, 03 Jun 2026 10:00:00 GMT
 
 ---
 
@@ -69,113 +87,79 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[新的Microsoft工具允许开发人员使用文本描述启动AI行为测试](https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/)**
+### Google AI Blog
+![Google搜索提升节俭和复古购物水平的5种方法](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Thrifting_Header.max-600x600.format-webp.webp)
 
-微软周二结束了自适应规格驱动的评估和回归评分测试，这是一个用于启动人工智能评估的**开源**框架
+**[Google搜索提升节俭和复古购物水平的5种方法](https://blog.google/products-and-platforms/products/search/thrifting-tips/)**
 
-📅 Tue, 02 Jun 2026 19:02:21 +0000
+使用**Google**搜索和购物中的人工智能工具，发现二手分数。
+
+📅 Wed, 03 Jun 2026 13:00:00 +0000
+
+---
+
+### Hugging Face
+**[欢迎NVIDIA Cosmos 3 ：物理AI推理和行动的首个开放式全模型](https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai)**
+
+欢迎NVIDIA Cosmos 3 ：物理AI推理和行动的**首个**开放式全模型
+
+📅 Mon, 01 Jun 2026 04:44:55 GMT
 
 ---
 
 ### TechCrunch AI Products
-**[微软推出受OpenClaw启发的个人助理Scout](https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/)**
+**[这两位创始人离开高盛和Meta ，为其他所有人都忽视的市场构建语音人工智能](https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/)**
 
-Microsoft Scout在Build上**推出**，是一款新的人工智能助手，旨在将OpenClaw的强大功能和灵活性带入Microsoft 365系统
+这家初创公司在非洲和中东的堆栈现在每天处理超过17,000个呼叫。
 
-📅 Tue, 02 Jun 2026 18:02:44 +0000
-
----
-
-### TechCrunch AI Products
-**[谷歌推出虚假呼叫检测功能，以防范AI Deepfake模拟诈骗](https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/)**
-
-随着人们越来越多地拒绝接听来自未知号码的电话，诈骗者正在通过欺骗受信任的电话号码和使用人工智能deepfake技术来改变他们的策略，听起来像权威人物
-
-📅 Tue, 02 Jun 2026 18:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[Microsoft为开发人员提供了更好的方式来控制AI代理行为](https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/)**
-
-该规范允许开发人员、合规性和安全团队定义自己的策略，以便代理在可移植的策略文件中遵循
-
-📅 Tue, 02 Jun 2026 18:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[OpenAI为白领工作推出新的Codex工具](https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/)**
-
-OpenAI**发布**了一组针对特定工作的六个插件：数据分析可在Codex应用程序中使用
-
-📅 Tue, 02 Jun 2026 16:00:00 +0000
+📅 Wed, 03 Jun 2026 15:00:00 +0000
 
 ---
 
 ## 🔬 前沿研究
 
-### ArXiv Natural Language Processing (cs.CL)
-**[医学大型语言模型的安全性、健壮性和公平性评估的多领域红色团队框架](https://arxiv.org/abs/2606.00027)**
+### ArXiv Computer Vision (cs.CV)
+**[宇宙3 ：物理人工智能的全方位世界模型](https://arxiv.org/abs/2606.02800)**
 
-00027v1公告类型：新摘要：大型语言模型（ LLM ）越来越多地部署在医疗保健领域性能最高的系统（ X-BAI、**GPT**-5、**Claude** Opus 4
+02800v1公告类型：新摘要：我们介绍Cosmos 3a系列全模态世界模型，旨在联合处理和生成语言
 
-📅 Tue, 02 Jun 2026 00:00:00 -0400
+📅 Wed, 03 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[MindGames竞技场归纳轨道： In2AI解决方案，每步奖励归因延迟](https://arxiv.org/abs/2606.00017)**
+**[不要赌博， GAMBLe ：人工智能驱动研究系统的分析框架](https://arxiv.org/abs/2606.02863)**
 
-00017v1公告类型：新摘要：为多智能体战略交互训练语言模型智能体存在一个核心困难：任何操作的质量可能取决于未来永远不会实现的事件，包括**GPT**-5
+02863v1公告类型：新摘要： AI驱动的研究系统（ ADR ） --将LLM与自动评估相结合以发现算法和设计的系统--正在跨领域进行优化和采用
 
-📅 Tue, 02 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[BitsMoE ：用于MoE LLM量化的有效光谱能量引导位分配](https://arxiv.org/abs/2606.00079)**
-
-00079v1公告类型：新摘要： Mixture-of-Experts (MoE)大型语言模型通过稀疏专家激活减少每令牌计算我们的模型和代码可在https://github上公开获得
-
-📅 Tue, 02 Jun 2026 00:00:00 -0400
+📅 Wed, 03 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Computer Vision (cs.CV)
-**[Planktonzilla ：用于了解浮游生物生态系统的多模态数据集和模型](https://arxiv.org/abs/2606.00080)**
+**[MetaWorld ：从单视图视频数据扩展多Agent视频世界模型](https://arxiv.org/abs/2606.02753)**
 
-00080v1公告类型：新摘要：海洋浮游生物支撑水生食物网，在全球二氧化碳封存中发挥关键作用突出当前生物基础模型在海洋成像领域的局限性
+02753v1公告类型：新摘要：视频世界模型是具体化人工智能的基础生成技术，元宇宙将这些模型扩展到多智能体设置引入了两个关键挑战：数据稀缺（对于一般的开放域场景，协调的多视图录制收集成本高得令人望而却步）和世界状态对齐（独立生成的视频流无法确保共享的物理环境和事件在不同视图之间始终如一地演变）
 
-📅 Tue, 02 Jun 2026 00:00:00 -0400
+📅 Wed, 03 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Natural Language Processing (cs.CL)
-**[CSRP ：通过具有效率感知奖励的强化学习进行中文文本更正的思维链推理](https://arxiv.org/abs/2606.00020)**
+**[IdiomX成语理解、检索和解释的多语言基准](https://arxiv.org/abs/2606.02584)**
 
-00020v1公告类型：新摘要：基于大型语言模型（ LLM ）的中文语法纠错（ CGEC ）系统面临两个关键挑战：通用模型缺乏用于细微语法区分的专门语言先验。我们的代码可在https://github上找到
+02584v1公告类型：新摘要：惯用表达式仍然是自然语言处理的一个持续挑战，因为它们的含义通常非组合限制它们在现代语言模型中的实用性
 
-📅 Tue, 02 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv Multiagent (cs.MA)
-**[企业多Agent系统动态协调策略选择](https://arxiv.org/abs/2606.00804)**
-
-和辅助**OpenAI**云验证臂在每个预先注册的模型臂和问题类中，以及在辅助**OpenAI**验证臂中，预测策略都在0以内
-
-📅 Tue, 02 Jun 2026 00:00:00 -0400
+📅 Wed, 03 Jun 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Multiagent (cs.MA)
-**[MetaForge ：按需检索、调整和锻造工具的自我进化多式联运代理](https://arxiv.org/abs/2606.01801)**
+### ArXiv Natural Language Processing (cs.CL)
+**[修复对开本和商场：经过验证的注释和LLM辅助框架，以专注于人类重新标记](https://arxiv.org/abs/2606.02837)**
 
-01801v1公告类型：新摘要：通过使用**Meta**Forge ，多式联运代理在复杂的推理任务上取得了显著进展，准确度始终超过16个基线
+02837v1公告类型：新摘要：从自然语言到一阶逻辑（ NL到FOL ）的准确翻译支持神经符号人工智能系统和自然语言推理（ NLI ）和**GPT**-4o-mini ） ，更正的基础真理可使准确率提高+9至+22个百分点
 
-📅 Tue, 02 Jun 2026 00:00:00 -0400
+📅 Wed, 03 Jun 2026 00:00:00 -0400
 
 ---
 
@@ -185,6 +169,24 @@ OpenAI**发布**了一组针对特定工作的六个插件：数据分析可在C
 该公司表示，其改进的拓扑量子比特将在3年内形成一台实用的机器-正如批评者嘲笑的那样
 
 📅 2026-06-02T02:15:32.000Z
+
+---
+
+### ArXiv AI (cs.AI)
+**[大型语言模型中结构推理的可视化图形支架](https://arxiv.org/abs/2606.02673)**
+
+02673v1公告类型：新摘要：图表已被用于增强结构化推理的大型语言模型（ LLM ） ，主要是因为在测试时向模型提供外部知识来源
+
+📅 Wed, 03 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[AURA ：恒定VRAM中机器人策略的动作门控内存](https://arxiv.org/abs/2606.02775)**
+
+02775v1公告类型：新摘要： KV缓存是数据中心的正确内存，但机器人的错误内存在LIBERO-Long上训练有素的闭环OpenVLA-OFT 7B面板上（每臂n = 60集）
+
+📅 Wed, 03 Jun 2026 00:00:00 -0400
 
 ---
 
@@ -256,36 +258,36 @@ OpenAI**发布**了一组针对特定工作的六个插件：数据分析可在C
 
 ---
 
-### ZDNet AI
-**[4台Nvidia RTX Spark笔记本电脑我最想尝试-包括微软的新款Ultra](https://www.zdnet.com/article/all-the-new-pcs-powered-by-nvidias-new-n1x-cpu/)**
+### Wired Technology
+**[数据中心运营商正在努力解决用水问题](https://www.wired.com/story/data-center-operators-fix-water-use-problems/)**
 
-英伟达刚刚宣布了其新的RTX Spark CPU ，适用于所有主要PC品牌的型号这四款看起来最有趣
+谷歌、微软和其他超大规模公司因其对水质和可用性的影响而受到严格审查
 
-📅 Tue, 02 Jun 2026 18:24:00 GMT
+📅 Wed, 03 Jun 2026 10:00:00 +0000
 
 ---
 
 ### The Verge
-![Microsoft Build 2026 ： 7大公告](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/nadella-build-2026.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![随着人工智能变得越来越好，它揭示了一个空洞的承诺](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/11503853/mdoying_180419_1777_0454_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[Microsoft Build 2026 ： 7大公告](https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements)**
+**[随着人工智能变得越来越好，它揭示了一个空洞的承诺](https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise)**
 
-从新的Surface硬件到始终在线的个人助理，以及微软内部AI模型的**更新**专为AI开发设计的迷你Surface PC Surface RTX Spark Dev Box面向希望在其设备上运行本地AI模型的开发人员
+本周，我的同事David Pierce和Jay PetersSpark与**Google**的新**Gemini** AI代理人Spark合作，他们知道David的狗名叫Frida ，并且知道Jay的妻子的名字
 
-📅 2026-06-02T19:23:52.000Z
+📅 2026-06-03T17:45:35.000Z
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub Active (Python)
-![oNYX ：开源人工智能平台-具有高级功能的人工智能聊天，适用于每个LLM](https://avatars.githubusercontent.com/u/131946000?v=4)
+### GitHub New (New AI)
+![🆕 disco-rl-pytorch ： DiscoRL的实施和探索，发现最先进的强化学习算法， David Silver在Deepmind的最后一项工作](https://avatars.githubusercontent.com/u/108653?v=4)
 
-**[oNYX ：开源人工智能平台-具有高级功能的人工智能聊天，适用于每个LLM](https://github.com/onyx-dot-app/onyx)**
+**[🆕 disco-rl-pytorch ： DiscoRL的实施和探索，发现最先进的强化学习算法， David Silver在Deepmind的最后一项工作](https://github.com/lucidrains/disco-rl-pytorch)**
 
-⭐ 29,976星· 4072分叉· Python ·**开源**AI平台-具有高级功能的AI聊天，适用于每个LLM
+⭐ 12 star (新项目) · N/A · Implementation and explorations into DiscoRLDiscovering state-of-the-art reinforcement learning algorithms
 
-📅 2026-06-03T00:31:57Z
+📅 2026-06-02T19:15:29Z
 
 ---
 
@@ -312,24 +314,33 @@ OpenAI**发布**了一组针对特定工作的六个插件：数据分析可在C
 ---
 
 ### GitHub New (New AI)
-![🆕 ai-for-beginners-visual ：在几分钟内🧠理解人工智能—用简单的视觉效果+日常类比解释32个核心人工智能概念，适用于技术和非技术读者。](https://avatars.githubusercontent.com/u/61895820?v=4)
+![🆕 八边⬡形：八边形— FAST NUCES为8名AI学生提供的协作学习空间。从一开始就提供冲刺、拉取请求、代码审核和实际工作流程。](https://avatars.githubusercontent.com/u/213292982?v=4)
 
-**[🆕 ai-for-beginners-visual ：在几分钟内🧠理解人工智能—用简单的视觉效果+日常类比解释32个核心人工智能概念，适用于技术和非技术读者。](https://github.com/behnia137/ai-for-beginners-visual)**
+**[🆕 八边⬡形：八边形— FAST NUCES为8名AI学生提供的协作学习空间。从一开始就提供冲刺、拉取请求、代码审核和实际工作流程。](https://github.com/ik-awais/Octagon)**
 
-⭐ 3 star (新项目) · N/A · 🧠 Understand AI in minutes — 32 core AI concepts explained with simple visuals + everyday analogiesfor technical and non-technical readers alike
+⭐ 3 star (新项目) · C++ · ⬡ Octagon — A collaborative learning space for 8 AI students at FAST NUCESSprints, pull requests, code reviews, and real-world workflows from day one
 
-📅 2026-05-31T01:06:17Z
+📅 2026-05-31T09:10:35Z
 
 ---
 
 ## 💬 社交动态
+
+### Hacker News
+**[启动HN ： Hyper (YC P26) –公司大脑为代理开发提供动力](https://news.ycombinator.com/item?id=48387095)**
+
+**GPT**-3Agent通过两条路径读写： **Claude** Code等工具中的生命周期挂钩
+
+📅 Wed, 03 Jun 2026 17:39:53 +0000
+
+---
 
 ### X: OpenAI
 **[标题： OpenAI (@ OpenAI)/X](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 标题： **OpenAI** (@ **OpenAI**)/X
 
-📅 2026-06-03T00:29:18.324Z
+📅 2026-06-03T18:45:24.118Z
 
 ---
 
@@ -338,7 +349,7 @@ OpenAI**发布**了一组针对特定工作的六个插件：数据分析可在C
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-06-03T00:29:18.324Z
+📅 2026-06-03T18:45:24.118Z
 
 ---
 
@@ -347,7 +358,7 @@ OpenAI**发布**了一组针对特定工作的六个插件：数据分析可在C
 
 [图片1 ：方形个人头像并打开个人头像] (https://pbscom/**OpenAI**/photo)
 
-📅 2026-06-03T00:29:18.324Z
+📅 2026-06-03T18:45:24.118Z
 
 ---
 
@@ -356,7 +367,7 @@ OpenAI**发布**了一组针对特定工作的六个插件：数据分析可在C
 
 标题： **DeepSeek** (@ **DeepSeek**_ai)/X
 
-📅 2026-06-03T00:31:12.516Z
+📅 2026-06-03T18:46:44.178Z
 
 ---
 
@@ -365,7 +376,7 @@ OpenAI**发布**了一组针对特定工作的六个插件：数据分析可在C
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-06-03T00:31:12.516Z
+📅 2026-06-03T18:46:44.178Z
 
 ---
 
@@ -374,25 +385,16 @@ OpenAI**发布**了一组针对特定工作的六个插件：数据分析可在C
 
 【图片1 ：打开个人头像】（ https://pbscom/**DeepSeek**_ai/photo ）
 
-📅 2026-06-03T00:31:12.516Z
-
----
-
-### Hacker News
-**[在Linux上使用Nvidia GPU的VRAM作为交换空间](https://github.com/c0dejedi/nbd-vram)**
-
-文章网址： https://githubcom/c0dejedi/nbd-vram评论网址： https://**new**s
-
-📅 Tue, 02 Jun 2026 22:55:33 +0000
+📅 2026-06-03T18:46:44.178Z
 
 ---
 
 ### Hacker News AI
-**[Instagram账号遭Meta AI入侵](https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/)**
+**[Show HN: CTP Room –您的AI编码代理协调的共享聊天室](https://news.ycombinator.com/item?id=48387448)**
 
-文章网址： https://techcrunchcom/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-**Meta**-ai-support-chatbot-into-granting-access/评论网址： https://**new**s
+在与我的团队合作时，我不喜欢与我的**Claude**/codex进行一对一的会话-通过MCP （ **Claude** Code、Codex、Cursor、OpenCode ）或任何HTTP程序带上自己的代理
 
-📅 Wed, 03 Jun 2026 00:25:18 +0000
+📅 Wed, 03 Jun 2026 18:02:07 +0000
 
 ---
 
