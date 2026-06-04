@@ -1,12 +1,12 @@
 ---
 title: "2026年6月4日 - TZ日报"
-date: 2026-06-04T00:34:47.075Z
+date: 2026-06-04T17:51:26.544Z
 draft: false
 ---
 
 # 2026年6月4日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/6/4 00:34:47
+> 📊 今日汇总 38 条 · 🕐 2026/6/4 17:51:26
 
 ---
 
@@ -31,14 +31,21 @@ Lovable与谷歌签署了一项为期多年的扩展协议，其中包括将Lova
 
 ---
 
-### Google AI Blog
-![我们如何使用Gemini构建Google I/O 2026](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_IO.max-600x600.format-webp.webp)
+### OpenAI Blog
+**[Endava如何围绕AI代理重新设计软件交付](https://openai.com/index/endava-frontiers)**
 
-**[我们如何使用Gemini构建Google I/O 2026](https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/)**
+了解Endava如何使用AI agentChat**GPT** Enterprise
 
-了解**Google**员工如何使用人工智能制作**Google** I/O 2026。
+📅 Thu, 04 Jun 2026 12:00:00 GMT
 
-📅 Mon, 01 Jun 2026 16:00:00 +0000
+---
+
+### OpenAI Blog
+**[梦想：更好的记忆力，更有帮助的ChatGPT](https://openai.com/index/chatgpt-memory-dreaming)**
+
+Chat**GPT**引入了一个新的记忆系统，以更好地记住偏好，保持对话中的上下文新鲜和相关性
+
+📅 Thu, 04 Jun 2026 09:00:00 GMT
 
 ---
 
@@ -61,18 +68,18 @@ Lovable与谷歌签署了一项为期多年的扩展协议，其中包括将Lova
 ---
 
 ### OpenAI Blog
-**[OpenAI公共政策议程](https://openai.com/index/public-policy-agenda)**
+**[前沿人工智能民主治理蓝图](https://openai.com/index/frontier-safety-blueprint)**
 
-**OpenAI**概述了其人工智能的公共政策议程和全球标准，以确保人工智能造福社会
+**OpenAI**概述了前沿人工智能治理的蓝图，提出了安全、复原力和国家安全的联邦框架
 
 📅 Wed, 03 Jun 2026 10:00:00 GMT
 
 ---
 
 ### OpenAI Blog
-**[前沿人工智能民主治理蓝图](https://openai.com/index/frontier-safety-blueprint)**
+**[OpenAI公共政策议程](https://openai.com/index/public-policy-agenda)**
 
-**OpenAI**概述了前沿人工智能治理的蓝图，提出了安全、复原力和国家安全的联邦框架
+**OpenAI**概述了其人工智能的公共政策议程和全球标准，以确保人工智能造福社会
 
 📅 Wed, 03 Jun 2026 10:00:00 GMT
 
@@ -96,15 +103,6 @@ Lovable与谷歌签署了一项为期多年的扩展协议，其中包括将Lova
 
 ---
 
-### OpenAI Blog
-**[在密歇根州建设智能时代的基础设施](https://openai.com/index/stargate-michigan-data-center)**
-
-**OpenAI**在密歇根州的一个1GW数据中心项目破土动工，作为星际之门建设人工智能基础设施的一部分，以扩大访问
-
-📅 Mon, 01 Jun 2026 12:00:00 GMT
-
----
-
 ### Google AI Blog
 ![Google搜索提升节俭和复古购物水平的5种方法](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Thrifting_Header.max-600x600.format-webp.webp)
 
@@ -118,48 +116,57 @@ Lovable与谷歌签署了一项为期多年的扩展协议，其中包括将Lova
 
 ## 🔬 前沿研究
 
-### ArXiv Computer Vision (cs.CV)
-**[宇宙3 ：物理人工智能的全方位世界模型](https://arxiv.org/abs/2606.02800)**
+### ArXiv Natural Language Processing (cs.CL)
+**[作为语言模型中上下文使用的演示时间变量的话语角色标签](https://arxiv.org/abs/2606.04109)**
 
-02800v1公告类型：新摘要：我们介绍Cosmos 3a系列全模态世界模型，旨在联合处理和生成语言
+04109v1公告类型：新摘要：上下文增强语言模型系统通常使用Reference等标签包装提供的内容：但这些标签对读者模型行为的影响仍未得到充分探索
 
-📅 Wed, 03 Jun 2026 00:00:00 -0400
+📅 Thu, 04 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[不要赌博， GAMBLe ：人工智能驱动研究系统的分析框架](https://arxiv.org/abs/2606.02863)**
+**[面向企业AI智能体部署前保证：基于本体的模拟和信任认证](https://arxiv.org/abs/2606.04037)**
 
-02863v1公告类型：新摘要： AI驱动的研究系统（ ADR ） --将LLM与自动评估相结合以发现算法和设计的系统--正在跨领域进行优化和采用
+04037v1公告类型：新摘要：企业人工智能（ AI ）代理的部署前验证仍然是大型语言模型（ LLM ）功能基准测试和生产部署之间的关键差距跨三个LLM系列（ **Claude** Sonnet 4、Qwen 2 ）的交叉验证
 
-📅 Wed, 03 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv Computer Vision (cs.CV)
-**[MetaWorld ：从单视图视频数据扩展多Agent视频世界模型](https://arxiv.org/abs/2606.02753)**
-
-02753v1公告类型：新摘要：视频世界模型是具体化人工智能的基础生成技术，元宇宙将这些模型扩展到多智能体设置引入了两个关键挑战：数据稀缺（对于一般的开放域场景，协调的多视图录制收集成本高得令人望而却步）和世界状态对齐（独立生成的视频流无法确保共享的物理环境和事件在不同视图之间始终如一地演变）
-
-📅 Wed, 03 Jun 2026 00:00:00 -0400
+📅 Thu, 04 Jun 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Natural Language Processing (cs.CL)
-**[IdiomX成语理解、检索和解释的多语言基准](https://arxiv.org/abs/2606.02584)**
+### ArXiv AI (cs.AI)
+**[陷入人工智能情感依赖：常规人工智能互动如何重塑人际关系](https://arxiv.org/abs/2606.04150)**
 
-02584v1公告类型：新摘要：惯用表达式仍然是自然语言处理的一个持续挑战，因为它们的含义通常非组合限制它们在现代语言模型中的实用性
+04150v1公告类型：新摘要：公共话语和新兴政策通常认为人工智能情感支持是一种故意行为：一个孤独的用户有意识地从专门的伴侣聊天机器人寻求安慰，包括与**OpenAI**合作进行的大规模纵向研究
 
-📅 Wed, 03 Jun 2026 00:00:00 -0400
+📅 Thu, 04 Jun 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Natural Language Processing (cs.CL)
-**[修复对开本和商场：经过验证的注释和LLM辅助框架，以专注于人类重新标记](https://arxiv.org/abs/2606.02837)**
+### ArXiv AI (cs.AI)
+**[思考迹象： PEEL作为认知负责的人工智能研究的符号支架](https://arxiv.org/abs/2606.04152)**
 
-02837v1公告类型：新摘要：从自然语言到一阶逻辑（ NL到FOL ）的准确翻译支持神经符号人工智能系统和自然语言推理（ NLI ）和**GPT**-4o-mini ） ，更正的基础真理可使准确率提高+9至+22个百分点
+04152v1公告类型：新摘要：大型语言模型正在重塑研究实践，同时悄悄侵蚀研究人员的认识问责制适用于三个源文本的人工智能生成的浓缩
 
-📅 Wed, 03 Jun 2026 00:00:00 -0400
+📅 Thu, 04 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[干预时机的饱和陷阱和主观性：为什么基于情感的触发器和LLM法官无法对自主代理进行时间干预](https://arxiv.org/abs/2606.04296)**
+
+04296v1公告类型：新摘要：随着自主人工智能代理从会话系统转移到长时间的软件执行第二， LLM评委的能力和上下文层：一个小模型（ **GPT**-5
+
+📅 Thu, 04 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Multiagent (cs.MA)
+**[R-APS ：通过反射对抗帕累托搜索进行约束设计的组合推理和上下文元学习](https://arxiv.org/abs/2606.04823)**
+
+04823v1公告类型： CROSS摘要：大型语言模型（ LLM ）精通开放式任务我们将这种差距追溯到三个耦合的结构性故障：错误在没有本地化的情况下传播
+
+📅 Thu, 04 Jun 2026 00:00:00 -0400
 
 ---
 
@@ -173,20 +180,11 @@ Lovable与谷歌签署了一项为期多年的扩展协议，其中包括将Lova
 ---
 
 ### ArXiv AI (cs.AI)
-**[大型语言模型中结构推理的可视化图形支架](https://arxiv.org/abs/2606.02673)**
+**[SMAC-Talk ：大型语言模型的星际争霸多Agent挑战的自然语言扩展](https://arxiv.org/abs/2606.04202)**
 
-02673v1公告类型：新摘要：图表已被用于增强结构化推理的大型语言模型（ LLM ） ，主要是因为在测试时向模型提供外部知识来源
+04202v1公告类型：新摘要：随着LLM的部署越来越广泛，他们越来越希望与其他人工智能代理一起工作，而不是孤立运作
 
-📅 Wed, 03 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[AURA ：恒定VRAM中机器人策略的动作门控内存](https://arxiv.org/abs/2606.02775)**
-
-02775v1公告类型：新摘要： KV缓存是数据中心的正确内存，但机器人的错误内存在LIBERO-Long上训练有素的闭环OpenVLA-OFT 7B面板上（每臂n = 60集）
-
-📅 Wed, 03 Jun 2026 00:00:00 -0400
+📅 Thu, 04 Jun 2026 00:00:00 -0400
 
 ---
 
@@ -211,6 +209,17 @@ Lovable与谷歌签署了一项为期多年的扩展协议，其中包括将Lova
 该产品作为新的Mac应用程序**推出**，支持混合本地云AI代理。竞争对手的反应也很**重要**：谷歌、微软、苹果和**OpenAI**都在构建自己的本地云AI架构
 
 📅 Tue, 02 Jun 2026 19:08:17 GMT
+
+---
+
+### The Verge
+![埃隆·马斯克（ Elon Musk ）正在推动华尔街成为万亿富翁](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRG_DCD_0604_Musk_IPO_AParkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[埃隆·马斯克（ Elon Musk ）正在推动华尔街成为万亿富翁](https://www.theverge.com/podcast/942586/elon-musk-spacex-ipo-x-xai-index-funds)**
+
+当你面对**OpenAI** ， **Anthropic**和**Google**时，人工智能带来了7万亿美元我前几天看到了这条很棒的推文，如果**Claude**是可口可乐， **OpenAI**是百事可乐，那么Grok就是RC Cola
+
+📅 2026-06-04T14:00:00.000Z
 
 ---
 
@@ -247,45 +256,36 @@ Lovable与谷歌签署了一项为期多年的扩展协议，其中包括将Lova
 
 ---
 
-### Wired Technology
-**[数据中心运营商正在努力解决用水问题](https://www.wired.com/story/data-center-operators-fix-water-use-problems/)**
+### The Verge
+![人工智能领导人呼吁加强对人工智能辅助生物武器的保护](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/acastro_200512_1777_faceMask_0001.0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-谷歌、微软和其他超大规模公司因其对水质和可用性的影响而受到严格审查
+**[人工智能领导人呼吁加强对人工智能辅助生物武器的保护](https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress)**
 
-📅 Wed, 03 Jun 2026 10:00:00 +0000
+人工智能行业的一些最大竞争对手已经将他们的许多**OpenAI**的Sam Altman
+
+📅 2026-06-04T12:12:12.000Z
 
 ---
 
 ### ZDNet AI
-**[如何使用ChatGPT ： 2026年掌握OpenAI聊天机器人的初学者指南](https://www.zdnet.com/article/how-to-use-chatgpt-ai-chatbot-beginners-guide/)**
+**[Microsoft 365高级版是否值得？每月20 $能给您带来什么-以及与ChatGPT Plus相比如何](https://www.zdnet.com/article/is-microsoft-365-premium-worth-it-vs-chatgpt-plus/)**
 
-想尝试Chat**GPT**吗？它是免费的，不需要账号。以下是快速入门的方法。
+微软向希望获得更多AI Copilot功能的365名订阅者提供50%的折扣
 
-📅 Wed, 03 Jun 2026 22:51:00 GMT
-
----
-
-### The Verge
-![英伟达已经在计划N2X和N3X芯片--目标是《星际迷航》电脑](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2278662353.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[英伟达已经在计划N2X和N3X芯片--目标是《星际迷航》电脑](https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan)**
-
-Nvidia公司首席执行官Jensen Huang透露，他开始与微软首席执行官Satya Nadella合作“大约三年......在The Verge阅读完整故事
-
-📅 2026-06-03T20:03:50.000Z
+📅 Thu, 04 Jun 2026 13:47:00 GMT
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub Active (Python)
-![arches ： Arches是一个用于创建、管理和可视化地理空间数据的网络平台。Arches的灵感来自文化遗产社区的需求，特别是组织建立和管理文化遗产库存的广泛需求](https://avatars.githubusercontent.com/u/1852613?v=4)
+### GitHub New (New AI)
+![🆕 kalmanformer-103 ： Kalmanformer的实现，使用变压器对Kalman增益进行建模](https://avatars.githubusercontent.com/u/288927492?v=4)
 
-**[arches ： Arches是一个用于创建、管理和可视化地理空间数据的网络平台。Arches的灵感来自文化遗产社区的需求，特别是组织建立和管理文化遗产库存的广泛需求](https://github.com/archesproject/arches)**
+**[🆕 kalmanformer-103 ： Kalmanformer的实现，使用变压器对Kalman增益进行建模](https://github.com/Grandmastervyaboiler/kalmanformer-103)**
 
-Arches的灵感来自文化遗产社区的需求，特别是组织建立和管理文化遗产库存的广泛需求
+⭐ 31 star (新项目) · Python · Implementation of Kalmanformer, modeling the Kalman gain with a transformer
 
-📅 2026-06-04T00:33:46Z
+📅 2026-06-04T16:44:48Z
 
 ---
 
@@ -294,9 +294,20 @@ Arches的灵感来自文化遗产社区的需求，特别是组织建立和管�
 
 **[🆕 disco-rl-pytorch ： DiscoRL的实施和探索，发现最先进的强化学习算法， David Silver在Deepmind的最后一项工作](https://github.com/lucidrains/disco-rl-pytorch)**
 
-⭐ 13 star (新项目) · N/A · Implementation and explorations into DiscoRLDiscovering state-of-the-art reinforcement learning algorithms
+⭐ 14 star (新项目) · Python · Implementation and explorations into DiscoRLDiscovering state-of-the-art reinforcement learning algorithms
 
 📅 2026-06-02T19:15:29Z
+
+---
+
+### GitHub New (New AI)
+![🆕 polylens ：基于人工智能的预测市场和市场情报平台，用于钱包分析、机会发现、套利检测和定量研究。](https://avatars.githubusercontent.com/u/270839064?v=4)
+
+**[🆕 polylens ：基于人工智能的预测市场和市场情报平台，用于钱包分析、机会发现、套利检测和定量研究。](https://github.com/GNL324/polylens)**
+
+⭐ 3 star (新项目) · Python · AI-powered prediction market and market intelligence platform for wallet analyticsopportunity discovery
+
+📅 2026-06-03T01:18:27Z
 
 ---
 
@@ -311,17 +322,6 @@ Arches的灵感来自文化遗产社区的需求，特别是组织建立和管�
 
 ---
 
-### GitHub New (New AI)
-![🆕 Reptile-Central-Database ：用于虚构爬行动物供应业务的全栈CRUD Web应用程序- Streamlit、MySQL、Google Cloud Run ，配备由GPT-4o mini和LlamaIndex提供支持的AI聊天机器人（ RAG +自然语言SQL ）。](https://avatars.githubusercontent.com/u/69285158?v=4)
-
-**[🆕 Reptile-Central-Database ：用于虚构爬行动物供应业务的全栈CRUD Web应用程序- Streamlit、MySQL、Google Cloud Run ，配备由GPT-4o mini和LlamaIndex提供支持的AI聊天机器人（ RAG +自然语言SQL ）。](https://github.com/Boaxes/Reptile-Central-Database)**
-
-使用由**GPT**-4o mini和LlamaIndex提供支持的AI聊天机器人（ RAG +自然语言SQL ）运行**Google** Cloud
-
-📅 2026-06-01T03:51:49Z
-
----
-
 ## 💬 社交动态
 
 ### X: OpenAI
@@ -329,7 +329,7 @@ Arches的灵感来自文化遗产社区的需求，特别是组织建立和管�
 
 标题： **OpenAI** (@ **OpenAI**)/X
 
-📅 2026-06-04T00:31:57.030Z
+📅 2026-06-04T17:48:20.433Z
 
 ---
 
@@ -338,7 +338,7 @@ Arches的灵感来自文化遗产社区的需求，特别是组织建立和管�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-06-04T00:31:57.030Z
+📅 2026-06-04T17:48:20.434Z
 
 ---
 
@@ -347,7 +347,7 @@ Arches的灵感来自文化遗产社区的需求，特别是组织建立和管�
 
 [图片1 ：方形个人头像并打开个人头像] (https://pbscom/**OpenAI**/photo)
 
-📅 2026-06-04T00:31:57.030Z
+📅 2026-06-04T17:48:20.434Z
 
 ---
 
@@ -356,7 +356,7 @@ Arches的灵感来自文化遗产社区的需求，特别是组织建立和管�
 
 标题： **DeepSeek** (@ **DeepSeek**_ai)/X
 
-📅 2026-06-04T00:33:18.933Z
+📅 2026-06-04T17:49:40.633Z
 
 ---
 
@@ -365,7 +365,7 @@ Arches的灵感来自文化遗产社区的需求，特别是组织建立和管�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-06-04T00:33:18.933Z
+📅 2026-06-04T17:49:40.633Z
 
 ---
 
@@ -374,16 +374,16 @@ Arches的灵感来自文化遗产社区的需求，特别是组织建立和管�
 
 【图片1 ：打开个人头像】（ https://pbscom/**DeepSeek**_ai/photo ）
 
-📅 2026-06-04T00:33:18.933Z
+📅 2026-06-04T17:49:40.633Z
 
 ---
 
 ### Hacker News
-**[JPEG XL之旅：开源实验塑造了图像编码的未来](https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html)**
+**[Show HN: Boxes.dev: ditch localhost;在云端运行Claude Code和Codex](https://boxes.dev)**
 
-**Google**bloghtml评论网址： https://**new**s
+dev –第一个纯云代理开发环境（ ADE ） ，为每个Codex和**Claude** Code代理提供自己的云计算机，我们去年几乎完全使用Codex和**Claude** Code进行编码
 
-📅 Wed, 03 Jun 2026 21:55:23 +0000
+📅 Thu, 04 Jun 2026 14:38:35 +0000
 
 ---
 
@@ -392,7 +392,7 @@ Arches的灵感来自文化遗产社区的需求，特别是组织建立和管�
 
 **发布**时间： 2026年6月1日，星期一19:57:41 GMT
 
-📅 2026-06-04T00:31:57.030Z
+📅 2026-06-04T17:48:20.434Z
 
 ---
 
