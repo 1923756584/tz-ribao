@@ -1,12 +1,12 @@
 ---
 title: "2026年6月5日 - TZ日报"
-date: 2026-06-05T00:13:04.105Z
+date: 2026-06-05T17:20:59.403Z
 draft: false
 ---
 
 # 2026年6月5日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/6/5 00:13:04
+> 📊 今日汇总 38 条 · 🕐 2026/6/5 17:20:59
 
 ---
 
@@ -22,377 +22,375 @@ draft: false
 
 ## ✨ 产品更新
 
-### TechCrunch AI Products
-**[Lovable signs multiyear deal with Google Cloud to up usage 5x, source says](https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/)**
-
-Lovable and **Google** signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on **Google** Cloudand expanded access to **Anthropic** **Claude**
-
-📅 Wed, 03 Jun 2026 22:56:51 +0000
-
----
-
 ### OpenAI Blog
-**[How Endava is redesigning software delivery around AI agents](https://openai.com/index/endava-frontiers)**
+**[Endava如何围绕AI代理重新设计软件交付](https://openai.com/index/endava-frontiers)**
 
-Learn how Endava is using AI agentsChat**GPT** Enterprise
+了解Endava如何使用AI agentChat**GPT** Enterprise
 
 📅 Thu, 04 Jun 2026 12:00:00 GMT
 
 ---
 
 ### OpenAI Blog
-**[Dreaming: Better memory for a more helpful ChatGPT](https://openai.com/index/chatgpt-memory-dreaming)**
+**[梦想：更好的记忆力，更有帮助的ChatGPT](https://openai.com/index/chatgpt-memory-dreaming)**
 
-Chat**GPT** introduces a **new** memory system to better remember preferences, keeping context fresh and relevant across conversations
+Chat**GPT**引入了一个新的记忆系统，以更好地记住偏好，保持对话中的上下文新鲜和相关性
 
 📅 Thu, 04 Jun 2026 09:00:00 GMT
 
 ---
 
 ### OpenAI Blog
-**[Introducing new capabilities to GPT-Rosalind](https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind)**
+**[为GPT-Rosalind引入新功能](https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind)**
 
-**GPT**-Rosalind advances life sciences research with enhanced biological reasoningmedicinal chemistry expertise
+**GPT**-Rosalind通过增强生物推理医学化学专业知识推进生命科学研究
 
 📅 Wed, 03 Jun 2026 13:15:00 GMT
 
 ---
 
 ### OpenAI Blog
-**[How Wasmer used Codex to build a Node.js runtime for the edge](https://openai.com/index/wasmer)**
+**[Wasmer如何使用Codex为边缘构建Node.js运行时](https://openai.com/index/wasmer)**
 
-See how Wasmer used Codex with **GPT**-5js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months
+了解Wasmer如何将Codex与**GPT**-5js运行时一起用于边缘，将开发速度提高10倍至20倍，并在数周而不是数月内出货
 
 📅 Wed, 03 Jun 2026 12:00:00 GMT
 
 ---
 
 ### OpenAI Blog
-**[OpenAI public policy agenda](https://openai.com/index/public-policy-agenda)**
+**[OpenAI公共政策议程](https://openai.com/index/public-policy-agenda)**
 
-**OpenAI** outlines its public policy agenda for AIand global standards to ensure AI benefits society
-
-📅 Wed, 03 Jun 2026 10:00:00 GMT
-
----
-
-### OpenAI Blog
-**[A blueprint for democratic governance of frontier AI](https://openai.com/index/frontier-safety-blueprint)**
-
-**OpenAI** outlines a blueprint for Ugovernance of frontier AI, proposing a federal framework for safety, resilience, and national security
+**OpenAI**概述了其人工智能的公共政策议程和全球标准，以确保人工智能造福社会
 
 📅 Wed, 03 Jun 2026 10:00:00 GMT
 
 ---
 
 ### OpenAI Blog
-**[Travelers deploys AI-powered claims countrywide with OpenAI](https://openai.com/index/travelers)**
+**[前沿人工智能民主治理蓝图](https://openai.com/index/frontier-safety-blueprint)**
 
-Travelers built an AI-powered Claim Assistant with **OpenAI** to guide customers through filing claimsprovide 24/7 support
+**OpenAI**概述了前沿人工智能治理的蓝图，提出了安全、复原力和国家安全的联邦框架
 
-📅 Tue, 02 Jun 2026 12:00:00 GMT
-
----
-
-### OpenAI Blog
-**[Advancing youth safety and opportunity through global leadership](https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership)**
-
-**OpenAI** calls for global action on youth AI safetyproposing an international institute to strengthen safeguards
-
-📅 Tue, 02 Jun 2026 07:00:00 GMT
+📅 Wed, 03 Jun 2026 10:00:00 GMT
 
 ---
 
 ### Google AI Blog
-![5 ways Google Search can level up your thrift and vintage shopping](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Thrifting_Header.max-600x600.format-webp.webp)
+![我们在2026年5月宣布的最新人工智能新闻](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp)
 
-**[5 ways Google Search can level up your thrift and vintage shopping](https://blog.google/products-and-platforms/products/search/thrifting-tips/)**
+**[我们在2026年5月宣布的最新人工智能新闻](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/)**
 
-Uncover second-hand scores with AI tools in **Google** Search and Shopping.
+以下是2026年5月谷歌最新的人工智能**更新**
+
+📅 Fri, 05 Jun 2026 14:45:00 +0000
+
+---
+
+### Google AI Blog
+![Google搜索提升节俭和复古购物水平的5种方法](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Thrifting_Header.max-600x600.format-webp.webp)
+
+**[Google搜索提升节俭和复古购物水平的5种方法](https://blog.google/products-and-platforms/products/search/thrifting-tips/)**
+
+使用**Google**搜索和购物中的人工智能工具，发现二手分数。
 
 📅 Wed, 03 Jun 2026 13:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[在首次公开募股之前， Anthropic的Daniela Amodei对人工智能的回报表示怀疑](https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/)**
+
+**Anthropic**一直在以惊人的速度增长该公司宣布， 5月份的年化收入超过470亿美元，大大高于2025年底的约90亿美元
+
+📅 Thu, 04 Jun 2026 22:43:26 +0000
+
+---
+
+### TechCrunch AI Products
+**[Meta窃取特斯拉的战术并在帐篷中建立数据中心](https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/)**
+
+**Meta**可能已经找到了一种方法来削减其庞大的数据中心账单：帐篷。
+
+📅 Thu, 04 Jun 2026 19:33:09 +0000
 
 ---
 
 ## 🔬 前沿研究
 
 ### ArXiv Natural Language Processing (cs.CL)
-**[Discourse-Role Labels as Presentation-Time Variables for Context Use in Language Models](https://arxiv.org/abs/2606.04109)**
+**[电信客户支持SLM的PEFT ： LoRA配置与能耗分析的比较研究](https://arxiv.org/abs/2606.05176)**
 
-04109v1 **announce** Type: **new** Abstract: Context-augmented language model systems often wrap supplied content with labels such as Reference:but the effect of these labels on reader-model behavior remains underexplored
+05176v1公告类型：新摘要：大型语言模型（ LLM ）在自然语言理解和生成2和**Claude** 4方面表现出色
 
-📅 Thu, 04 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification](https://arxiv.org/abs/2606.04037)**
-
-04037v1 **announce** Type: **new** Abstract: Pre-deployment verification of enterprise artificial intelligence (AI) agents remains a critical gap between large language model (LLM) capability benchmarking and production deploymentCross-validation across three LLM families (**Claude** Sonnet 4, Qwen 2
-
-📅 Thu, 04 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection](https://arxiv.org/abs/2606.04150)**
-
-04150v1 **announce** Type: **new** Abstract: Public discourse and emerging policy typically assume that AI emotional support is a deliberate act: a lonely user consciously seeking comfort from a dedicated companion chatbotincluding a large-scale longitudinal study conducted in collaboration with **OpenAI**
-
-📅 Thu, 04 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable AI-Enabled Research](https://arxiv.org/abs/2606.04152)**
-
-04152v1 **announce** Type: **new** Abstract: Large language models are reshaping research practice while quietly eroding researchers epistemic accountabilityApplied to AI-generated condensations of three source texts
-
-📅 Thu, 04 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[The Saturation Trap and the Subjectivity of Intervention Timing: Why Affect-Based Triggers and LLM Judges Fail to Time Interventions on Autonomous Agents](https://arxiv.org/abs/2606.04296)**
-
-04296v1 **announce** Type: **new** Abstract: As autonomous AI agents move from conversational systems to long-horizon software executionSecond, a capability-and-context floor for LLM judges: a small model (**GPT**-5
-
-📅 Thu, 04 Jun 2026 00:00:00 -0400
+📅 Fri, 05 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Multiagent (cs.MA)
-**[R-APS: Compositional Reasoning and In-Context Meta-Learning for Constrained Design via Reflective Adversarial Pareto Search](https://arxiv.org/abs/2606.04823)**
+**[ZERO-APT ：智能防御下LLM驱动的自动渗透测试的闭环对抗框架](https://arxiv.org/abs/2606.05567)**
 
-04823v1 **announce** Type: cross Abstract: Large language models (LLMs) are fluent on open-ended tasksWe trace this gap to three coupled structural failures: errors propagate without localization
+05567v1公告类型： CROSS摘要： LLM驱动的自动渗透测试代理通常根据既不检测也不响应攻击的静态目标进行评估930 ， **Claude** Code 0
 
-📅 Thu, 04 Jun 2026 00:00:00 -0400
-
----
-
-### Science AI
-**[Doubling down on controversial claims, Microsoft accelerates quantum computing plans](https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans)**
-
-Company says its improved topological qubits will lead to a practical machine in 3 years—as critics scoff
-
-📅 2026-06-02T02:15:32.000Z
+📅 Fri, 05 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[SMAC-Talk: A Natural Language Extension of the StarCraft Multi-Agent Challenge for Large Language Models](https://arxiv.org/abs/2606.04202)**
+**[面向企业AI智能体部署前保证：基于本体的模拟和信任认证](https://arxiv.org/abs/2606.04037)**
 
-04202v1 **announce** Type: **new** Abstract: As LLMs become more widely deployedthey are increasingly expected to work alongside other AI agents rather than operating in isolation
+04037v2公告类型：新摘要：企业人工智能（ AI ）代理的部署前验证仍然是大型语言模型（ LLM ）功能基准测试和生产部署之间的关键差距跨三个LLM系列（ **Claude** Sonnet 4、Qwen 2 ）的交叉验证
 
-📅 Thu, 04 Jun 2026 00:00:00 -0400
+📅 Fri, 05 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[陷入人工智能情感依赖：常规人工智能互动如何重塑人际关系](https://arxiv.org/abs/2606.04150)**
+
+04150v1公告类型：新摘要：公共话语和新兴政策通常认为人工智能情感支持是一种故意行为：一个孤独的用户有意识地从专门的伴侣聊天机器人寻求安慰，包括与**OpenAI**合作进行的大规模纵向研究
+
+📅 Fri, 05 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[思考迹象： PEEL作为认知负责的人工智能研究的符号支架](https://arxiv.org/abs/2606.04152)**
+
+04152v1公告类型：新摘要：大型语言模型正在重塑研究实践，同时悄悄侵蚀研究人员的认识问责制适用于三个源文本的人工智能生成的浓缩
+
+📅 Fri, 05 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[干预时机的饱和陷阱和主观性：为什么基于情感的触发器和LLM法官无法对自主代理进行时间干预](https://arxiv.org/abs/2606.04296)**
+
+04296v1公告类型：新摘要：随着自主人工智能代理从会话系统转移到长时间的软件执行第二， LLM评委的能力和上下文层：一个小模型（ **GPT**-5
+
+📅 Fri, 05 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Machine Learning (cs.LG)
+**[ERRORQUAKE ：开放式大型语言模型中的重尾错误严重程度分布](https://arxiv.org/abs/2606.05170)**
+
+05170v1公告类型：新摘要：在匹配的准确度下， epsilon无法解释跨模型b方差的5% ）
+
+📅 Fri, 05 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Computer Vision (cs.CV)
+**[NIV ：用于可变字体生成的神经轴变化](https://arxiv.org/abs/2606.05261)**
+
+05261v1公告类型：新摘要：可变字体可沿权重等语义设计轴实现字形几何的连续变化为了便于研究，我们在https://github上**发布**了数据集、完整的训练和推理实现以及训练模型
+
+📅 Fri, 05 Jun 2026 00:00:00 -0400
 
 ---
 
 ## 🌍 行业展望
 
 ### VentureBeat
-![Alibaba's Qwen3.7-Plus supports text, video and imagery inputs at low cost of $0.4/$1.6 per 1M token — but it's proprietary](https://images.ctfassets.net/jdtwqhzvc2n1/3PD7bcZwfl7LUqX2wWEFux/05c4df4be513499b49ea1d9e79009cc7/Gemini_Generated_Image_tmex3utmex3utmex.png?w=300&q=30)
+![阿里巴巴的Qwen3.7-Plus支持文本、视频和图像输入，每100万美元代币0.4美元/1.6美元的低成本—但它是专有的](https://images.ctfassets.net/jdtwqhzvc2n1/3PD7bcZwfl7LUqX2wWEFux/05c4df4be513499b49ea1d9e79009cc7/Gemini_Generated_Image_tmex3utmex3utmex.png?w=300&q=30)
 
-**[Alibaba's Qwen3.7-Plus supports text, video and imagery inputs at low cost of $0.4/$1.6 per 1M token — but it's proprietary](https://venturebeat.com/technology/alibabas-qwen3-7-plus-supports-text-video-and-imagery-inputs-at-low-cost-of-0-4-1-6-per-1m-token-but-its-proprietary)**
+**[阿里巴巴的Qwen3.7-Plus支持文本、视频和图像输入，每100万美元代币0.4美元/1.6美元的低成本—但它是专有的](https://venturebeat.com/technology/alibabas-qwen3-7-plus-supports-text-video-and-imagery-inputs-at-low-cost-of-0-4-1-6-per-1m-token-but-its-proprietary)**
 
-**OpenAI** tackles the same challenge through an encrypted reasoning pass-back mechanism for models like **GPT**-5The model is designed to step in as a direct replacement for premier frontier models (such as **GPT**-5-tier or **Claude**-Max-tier models) within high-frequency developer workflows
+**OpenAI**通过**GPT**-5等模型的加密推理回传机制解决了同样的挑战该模型旨在作为高频开发人员工作流程中首屈一指的前沿模型（例如**GPT**-5层或**Claude**-Max层模型）的直接替代品。
 
 📅 Tue, 02 Jun 2026 22:40:00 GMT
 
 ---
 
 ### VentureBeat
-![Perplexity AI unveils hybrid local-cloud inference system at Computex 2026](https://images.ctfassets.net/jdtwqhzvc2n1/7KmFf9Vapi9RYzj3aLtQPl/fdaf9045387338f3e44380d3ad9b5fdd/Nuneybits_a_nostalgic_surreal_photograph_of_an_old_computer_set_e1939de5-f0c8-4834-b6b4-c73efd5ac7d1.webp?w=300&q=30)
+![Perplexity AI在Computex 2026上推出混合本地云推理系统](https://images.ctfassets.net/jdtwqhzvc2n1/7KmFf9Vapi9RYzj3aLtQPl/fdaf9045387338f3e44380d3ad9b5fdd/Nuneybits_a_nostalgic_surreal_photograph_of_an_old_computer_set_e1939de5-f0c8-4834-b6b4-c73efd5ac7d1.webp?w=300&q=30)
 
-**[Perplexity AI unveils hybrid local-cloud inference system at Computex 2026](https://venturebeat.com/technology/perplexity-ai-unveils-hybrid-local-cloud-inference-system-at-computex-2026)**
+**[Perplexity AI在Computex 2026上推出混合本地云推理系统](https://venturebeat.com/technology/perplexity-ai-unveils-hybrid-local-cloud-inference-system-at-computex-2026)**
 
-That product **launch**ed as a **new** Mac app with support for a hybrid local-cloud AI agentThe competitive response matters too: **Google**, Microsoft, Apple, and **OpenAI** are all building their own local-cloud AI architectures
+该产品作为新的Mac应用程序**推出**，支持混合本地云AI代理。竞争对手的反应也很**重要**：谷歌、微软、苹果和**OpenAI**都在构建自己的本地云AI架构
 
 📅 Tue, 02 Jun 2026 19:08:17 GMT
 
 ---
 
-### VentureBeat
-![Microsoft debuts Surface RTX Spark Dev Box to run large AI models without cloud costs](https://images.ctfassets.net/jdtwqhzvc2n1/9ZXML9iabyyDqXI5bDqHu/0be5bd55a52eb7b0ecc35bc7f4a6cb83/Surface_RTX_Spark_Image_4.png?w=300&q=30)
-
-**[Microsoft debuts Surface RTX Spark Dev Box to run large AI models without cloud costs](https://venturebeat.com/infrastructure/microsoft-debuts-surface-rtx-spark-dev-box-to-run-large-ai-models-without-cloud-costs)**
-
-a compact desktop computer designed to let software developers run large AI models on their desks instead of paying for cloud computing — a move that directly challenges the per-token pricing model that has defined the AI industry's economics since Chat**GPT** **launch**ed three and a half years agoThe three devices map to a tiered computing model that Microsoft is calling "unmetered intelligence": small on-device language models (the company's **new** Aion 1
-
-📅 Tue, 02 Jun 2026 16:30:00 GMT
-
----
-
-### VentureBeat
-![Microsoft launches MXC, an OS-level sandbox for AI agents, with OpenAI and Nvidia already on board](https://images.ctfassets.net/jdtwqhzvc2n1/2Bj8ehmUSTCeqnkJ3pPCjc/f9782b3575c73ccecb809afd58e7acd2/Nuneybits_Vector_art_of_the_iconic_Microsoft_Windows_logo_on_a__b8c7cdb1-4983-4e68-94a9-93fbef23357b.webp?w=300&q=30)
-
-**[Microsoft launches MXC, an OS-level sandbox for AI agents, with OpenAI and Nvidia already on board](https://venturebeat.com/security/microsoft-launches-mxc-an-os-level-sandbox-for-ai-agents-with-openai-and-nvidia-already-on-board)**
-
-said that "working with Microsoft on the Microsoft Execution Containers (MXC) allows us to explore **new** patterns for AI agents to safely and efficiently generate and execute code" Building containment into the OS gives Microsoft a strategic edge over Apple's walled garden and **Google**'s cloud-first model MXC arrives at a moment when the technology industry is grappling with a fundamental tension
-
-📅 Tue, 02 Jun 2026 16:30:00 GMT
-
----
-
-### ZDNet AI
-**[I tried Google Drive's new AI cleanup tool to fix 14 years of storage clutter - here's the result](https://www.zdnet.com/article/i-tried-google-drives-new-ai-cleanup-tool-storage-clutter/)**
-
-With Organize My Files, can **Gemini** clean up my messy **Google** Drive and save me money on storageLet's see
-
-📅 Thu, 04 Jun 2026 18:04:43 GMT
-
----
-
 ### The Verge
-![Windows is back on the Microsoft menu](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK109_WINDOWS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![这是您的笔记本电脑……人工智能](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRG_VST_0605_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[Windows is back on the Microsoft menu](https://www.theverge.com/tech/943108/microsoft-build-2026-windows-love-notepad)**
+**[这是您的笔记本电脑……人工智能](https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast)**
 
-I can't remember the last time Microsoft kicked off a Build keynote with Windows front and centerand it's clear that RTX Spark will drive local AI workloads in a way that Microsoft's … Read the full story at The Verge
+Nilay和David浏览了Microsoft Build和**Google** I/Of **Gemini** S的许多产品…阅读The Verge的完整故事
 
-📅 2026-06-04T16:00:00.000Z
+📅 2026-06-05T16:39:07.000Z
 
 ---
 
 ### VentureBeat
-![Anthropic says 80% of its new production code is now authored by Claude — how your enterprise can keep up](https://images.ctfassets.net/jdtwqhzvc2n1/6TDfdDR3BaglHMnVTBvvmB/ea7f4ad146ee42985d6f7c388767f738/ChatGPT_Image_Jun_4__2026__04_18_13_PM.png?w=300&q=30)
+![Anthropic表示，其80%的新生产代码现在由Claude编写—您的企业如何跟上](https://images.ctfassets.net/jdtwqhzvc2n1/6TDfdDR3BaglHMnVTBvvmB/ebc812673e673345d4466f174868cc17/ChatGPT_Image_Jun_4__2026__04_47_29_PM.png?w=300&q=30)
 
-**[Anthropic says 80% of its new production code is now authored by Claude — how your enterprise can keep up](https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up)**
+**[Anthropic表示，其80%的新生产代码现在由Claude编写—您的企业如何跟上](https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up)**
 
-Furthermore, long-duration capability evaluations demonstrate that models like **Claude** Opus 4**Anthropic** implemented an automated **Claude** reviewer (a publicly accessible version
+此外，长期能力评估表明，像**Claude** Opus 4**Anthropic**这样的模型实施了自动化的**Claude**审稿人（公开访问的版本
 
 📅 Thu, 04 Jun 2026 20:25:00 GMT
 
 ---
 
 ### VentureBeat
-![Google's new open source Gemma 4 12B analyzes audio, video — and runs entirely locally on a typical 16GB enterprise laptop](https://images.ctfassets.net/jdtwqhzvc2n1/6cqo2dZzZAqwTjt37B3cjc/fbb8eb55e17c2ce25514d21d3c5aca91/ChatGPT_Image_Jun_3__2026__02_38_37_PM.png?w=300&q=30)
+![谷歌的新开源Gemma 4 12B可分析音频、视频，并完全在典型的16GB企业笔记本电脑上本地运行](https://images.ctfassets.net/jdtwqhzvc2n1/6cqo2dZzZAqwTjt37B3cjc/fbb8eb55e17c2ce25514d21d3c5aca91/ChatGPT_Image_Jun_3__2026__02_38_37_PM.png?w=300&q=30)
 
-**[Google's new open source Gemma 4 12B analyzes audio, video — and runs entirely locally on a typical 16GB enterprise laptop](https://venturebeat.com/technology/googles-new-open-source-gemma-4-12b-analyzes-audio-video-and-runs-entirely-locally-on-a-typical-16gb-enterprise-laptop)**
+**[谷歌的新开源Gemma 4 12B可分析音频、视频，并完全在典型的16GB企业笔记本电脑上本地运行](https://venturebeat.com/technology/googles-new-open-source-gemma-4-12b-analyzes-audio-video-and-runs-entirely-locally-on-a-typical-16gb-enterprise-laptop)**
 
-While many AI open source model providers are pursuing larger and more powerful models**Google** has simultaneously **release**d a dedicated Gemma Skills Repository to explicitly support agentic development with these **new** models
+虽然许多人工智能**开源**模型提供商正在追求更大、更强大的模型，但谷歌同时**发布**了一个专用的Gemma技能库，以明确支持这些新模型的代理开发
 
 📅 Wed, 03 Jun 2026 18:49:00 GMT
 
 ---
 
+### MIT Tech Review
+**[下载：超越神话的人工智能黑客攻击，以及聊天机器人对我们大脑的影响](https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/)**
+
+**Meta**黑客攻击显示，人工智能安全比Mythos更**重要**周一有报道称，攻击者利用**Meta**的AI客户支持代理窃取了Instagram帐户
+
+📅 Fri, 05 Jun 2026 12:10:00 +0000
+
+---
+
+### MIT Tech Review
+**[虚拟发电厂如何为数据中心提供能源](https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/)**
+
+谷歌刚刚签署了一项新协议，以帮助支付美国最大电网的虚拟发电厂（ VPP ）的费用
+
+📅 Wed, 03 Jun 2026 16:51:38 +0000
+
+---
+
+### Wired Technology
+**[微软是否（再次）失去了魔佐？](https://www.wired.com/story/has-microsoft-lost-its-mojo-again/)**
+
+微软的人工智能产品不畅销， Github陷入困境WIRED与副总裁Scott Hanselman就公司是否处于追赶模式进行了交谈
+
+📅 Fri, 05 Jun 2026 15:00:00 +0000
+
+---
+
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![supervision: We write your reusable computer vision tools. 💜](https://avatars.githubusercontent.com/u/53104118?v=4)
+### GitHub New (New AI)
+![🆕 disco-rl-pytorch ： DiscoRL的实施和探索，发现最先进的强化学习算法， David Silver在Deepmind的最后一项工作](https://avatars.githubusercontent.com/u/108653?v=4)
 
-**[supervision: We write your reusable computer vision tools. 💜](https://github.com/roboflow/supervision)**
+**[🆕 disco-rl-pytorch ： DiscoRL的实施和探索，发现最先进的强化学习算法， David Silver在Deepmind的最后一项工作](https://github.com/lucidrains/disco-rl-pytorch)**
 
-⭐ 39,981 star · 3605 fork · Python · We write your reusable computer vision tools. 💜
+⭐ 15 star (新项目) · Python · Implementation and explorations into DiscoRLDiscovering state-of-the-art reinforcement learning algorithms
 
-📅 2026-06-05T00:09:25Z
-
----
-
-### GitHub Active (AI/ML)
-![onnxruntime: ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator](https://avatars.githubusercontent.com/u/6154722?v=4)
-
-**[onnxruntime: ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator](https://github.com/microsoft/onnxruntime)**
-
-⭐ 20,726 star · 3960 fork · C++ · ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
-
-📅 2026-06-05T00:07:25Z
+📅 2026-06-02T19:15:29Z
 
 ---
 
-### GitHub Active (Python)
-![Rustchain: DePIN for Vintage Hardware — Proof-of-Antiquity blockchain where old machines outmine new ones. AI-powered hardware fingerprinting, 15+ CPU architectures, Solana bridge (wRTC). $0 VC.](https://avatars.githubusercontent.com/u/121303252?v=4)
+### GitHub New (New AI)
+![🆕 polylens ：基于人工智能的预测市场和市场情报平台，用于钱包分析、机会发现、套利检测和定量研究。](https://avatars.githubusercontent.com/u/270839064?v=4)
 
-**[Rustchain: DePIN for Vintage Hardware — Proof-of-Antiquity blockchain where old machines outmine new ones. AI-powered hardware fingerprinting, 15+ CPU architectures, Solana bridge (wRTC). $0 VC.](https://github.com/Scottcjn/Rustchain)**
+**[🆕 polylens ：基于人工智能的预测市场和市场情报平台，用于钱包分析、机会发现、套利检测和定量研究。](https://github.com/GNL324/polylens)**
 
-⭐ 394 star · 457 fork · Python · DePIN for Vintage Hardware — Proof-of-Antiquity blockchain where old machines outmine **new** onesAI-powered hardware fingerprinting, 15+ CPU architectures, Solana bridge (wRTC)
+⭐ 4 star (新项目) · Python · AI-powered prediction market and market intelligence platform for wallet analyticsopportunity discovery
 
-📅 2026-06-05T00:10:34Z
+📅 2026-06-03T01:18:27Z
 
 ---
 
-### GitHub Active (AI/ML)
-![modal-client: SDK libraries for Modal](https://avatars.githubusercontent.com/u/88658467?v=4)
+### GitHub New (New AI)
+![🆕 gemini-math-grader ：一种自动化的人工智能助教，使用Gemini 3.5 Flash对手写数学作业进行可视化评分和注释。](https://avatars.githubusercontent.com/u/181793161?v=4)
 
-**[modal-client: SDK libraries for Modal](https://github.com/modal-labs/modal-client)**
+**[🆕 gemini-math-grader ：一种自动化的人工智能助教，使用Gemini 3.5 Flash对手写数学作业进行可视化评分和注释。](https://github.com/MarwaneF98/gemini-math-grader)**
 
-⭐ 476 star · 98 fork · Python · SDK libraries for Modal
+⭐ 3 star (新项目) · Python · An automated AI teaching assistant that uses **Gemini** 35 Flash to visually grade and annotate handwritten math assignments
 
-📅 2026-06-05T00:10:47Z
+📅 2026-06-03T17:06:26Z
+
+---
+
+### GitHub New (New AI)
+![🆕 upi-fraud-gnn: UPI Fraud Sentinel -基于GNN的欺诈检测](https://avatars.githubusercontent.com/u/158547260?v=4)
+
+**[🆕 upi-fraud-gnn: UPI Fraud Sentinel -基于GNN的欺诈检测](https://github.com/Nandini-556/upi-fraud-gnn)**
+
+⭐ 2 star (新项目) · HTML · UPI Fraud Sentinel - GNN Based Fraud Detection
+
+📅 2026-06-04T17:57:08Z
 
 ---
 
 ## 💬 社交动态
 
-### X: OpenAI
-**[Title: OpenAI (@OpenAI) / X](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Title: **OpenAI** (@**OpenAI**) / X
-
-📅 2026-06-05T00:08:24.056Z
-
----
-
-### X: OpenAI
-**[URL Source: http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-URL Source: http://twitter.com/**OpenAI**
-
-📅 2026-06-05T00:08:24.056Z
-
----
-
-### X: OpenAI
-**[[![Image 1: Square profile picture and Opens profile photo](https://pbs.twimg.com/profile_images/188...](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-[Image 1: Square profile picture and Opens profile photo](https://pbscom/**OpenAI**/photo)
-
-📅 2026-06-05T00:08:24.056Z
-
----
-
-### X: DeepSeek
-**[Title: DeepSeek (@deepseek_ai) / X](https://r.jina.ai/http://twitter.com/deepseek_ai)**
-
-Title: **DeepSeek** (@**DeepSeek**_ai) / X
-
-📅 2026-06-05T00:09:47.259Z
-
----
-
-### X: DeepSeek
-**[URL Source: http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
-
-URL Source: http://twitter.com/**DeepSeek**_ai
-
-📅 2026-06-05T00:09:47.259Z
-
----
-
-### X: DeepSeek
-**[[![Image 1: Opens profile photo](https://pbs.twimg.com/profile_images/1717417613775757312/Uk1zNOj4_2...](https://r.jina.ai/http://twitter.com/deepseek_ai)**
-
-[Image 1: Opens profile photo](https://pbscom/**DeepSeek**_ai/photo)
-
-📅 2026-06-05T00:09:47.259Z
-
----
-
 ### Hacker News AI
-**[Senior U.S. Officials Eye Government Shares in AI Giants](https://www.notus.org/technology/trump-ai-stake-openai)**
+**[Show HN ： Gito v4.1.0 - AI代码审核器现在在Claude Code/Gemini CLI上运行](https://github.com/Nayjest/Gito/releases/tag/v4.1.0)**
 
-Article URL: https://wwworg/technology/trump-ai-stake-**OpenAI** Comments URL: https://**new**s
+文章网址： https://githubcom/Nayjest/Gito/**release**s/tag/v4
 
-📅 Thu, 04 Jun 2026 23:42:45 +0000
+📅 Fri, 05 Jun 2026 16:51:44 +0000
 
 ---
 
 ### X: OpenAI
-**[Published Time: Mon, 01 Jun 2026 19:57:41 GMT](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[标题： OpenAI (@ OpenAI)/X](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-Published Time: Mon, 01 Jun 2026 19:57:41 GMT
+标题： **OpenAI** (@ **OpenAI**)/X
 
-📅 2026-06-05T00:08:24.056Z
+📅 2026-06-05T17:17:15.756Z
+
+---
+
+### X: OpenAI
+**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+网址来源： http://twitter.com/**OpenAI**
+
+📅 2026-06-05T17:17:15.756Z
+
+---
+
+### X: OpenAI
+**[[! [图片1 ：方形个人头像并打开个人头像] (https://pbs.twimg.com/profile_images/188...](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+[图片1 ：方形个人头像并打开个人头像] (https://pbscom/**OpenAI**/photo)
+
+📅 2026-06-05T17:17:15.756Z
+
+---
+
+### X: DeepSeek
+**[标题： DeepSeek (@ deepseek_ai)/X](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+
+标题： **DeepSeek** (@ **DeepSeek**_ai)/X
+
+📅 2026-06-05T17:19:10.570Z
+
+---
+
+### X: DeepSeek
+**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+
+网址来源： http://twitter.com/**DeepSeek**_ai
+
+📅 2026-06-05T17:19:10.570Z
+
+---
+
+### X: DeepSeek
+**[[! [图片1 ：打开个人头像] (https://pbs.twimg.com/profile_images/1717417613775757312/Uk1zNOj4_2...](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+
+【图片1 ：打开个人头像】（ https://pbscom/**DeepSeek**_ai/photo ）
+
+📅 2026-06-05T17:19:10.570Z
+
+---
+
+### Hacker News
+**[Gemma 4 QAT型号：优化压缩以实现移动和笔记本电脑效率](https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/)**
+
+文章网址： https://blog**Google**/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/评论网址： https://**new**s
+
+📅 Fri, 05 Jun 2026 16:18:48 +0000
 
 ---
 
