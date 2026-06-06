@@ -1,12 +1,12 @@
 ---
 title: "2026年6月6日 - TZ日报"
-date: 2026-06-06T00:10:50.220Z
+date: 2026-06-06T16:11:19.506Z
 draft: false
 ---
 
 # 2026年6月6日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/6/6 00:10:50
+> 📊 今日汇总 38 条 · 🕐 2026/6/6 16:11:19
 
 ---
 
@@ -40,42 +40,6 @@ Chat**GPT**引入了一个新的记忆系统，以更好地记住偏好，保持
 
 ---
 
-### OpenAI Blog
-**[为GPT-Rosalind引入新功能](https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind)**
-
-**GPT**-Rosalind通过增强生物推理医学化学专业知识推进生命科学研究
-
-📅 Wed, 03 Jun 2026 13:15:00 GMT
-
----
-
-### OpenAI Blog
-**[Wasmer如何使用Codex为边缘构建Node.js运行时](https://openai.com/index/wasmer)**
-
-了解Wasmer如何将Codex与**GPT**-5js运行时一起用于边缘，将开发速度提高10倍至20倍，并在数周而不是数月内出货
-
-📅 Wed, 03 Jun 2026 12:00:00 GMT
-
----
-
-### OpenAI Blog
-**[OpenAI公共政策议程](https://openai.com/index/public-policy-agenda)**
-
-**OpenAI**概述了其人工智能的公共政策议程和全球标准，以确保人工智能造福社会
-
-📅 Wed, 03 Jun 2026 10:00:00 GMT
-
----
-
-### OpenAI Blog
-**[前沿人工智能民主治理蓝图](https://openai.com/index/frontier-safety-blueprint)**
-
-**OpenAI**概述了前沿人工智能治理的蓝图，提出了安全、复原力和国家安全的联邦框架
-
-📅 Wed, 03 Jun 2026 10:00:00 GMT
-
----
-
 ### Google AI Blog
 ![我们在2026年5月宣布的最新人工智能新闻](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp)
 
@@ -84,17 +48,6 @@ Chat**GPT**引入了一个新的记忆系统，以更好地记住偏好，保持
 以下是2026年5月谷歌最新的人工智能**更新**
 
 📅 Fri, 05 Jun 2026 14:45:00 +0000
-
----
-
-### Google AI Blog
-![Google搜索提升节俭和复古购物水平的5种方法](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Thrifting_Header.max-600x600.format-webp.webp)
-
-**[Google搜索提升节俭和复古购物水平的5种方法](https://blog.google/products-and-platforms/products/search/thrifting-tips/)**
-
-使用**Google**搜索和购物中的人工智能工具，发现二手分数。
-
-📅 Wed, 03 Jun 2026 13:00:00 +0000
 
 ---
 
@@ -116,77 +69,122 @@ Chat**GPT**引入了一个新的记忆系统，以更好地记住偏好，保持
 
 ---
 
+### OpenAI Blog
+**[智能时代的生物防御](https://openai.com/index/biodefense-in-the-intelligence-age)**
+
+人工智能驱动的生物复原力行动计划
+
+📅 Thu, 04 Jun 2026 00:00:00 GMT
+
+---
+
+### TechCrunch AI Products
+**[初创公司“战地200”应用程序将在3天内正式关闭](https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/)**
+
+《创业战地200》的申请将于6月8日11:59正式截止
+
+📅 Fri, 05 Jun 2026 20:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[现在最有趣的初创公司都想让你放下手机](https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/)**
+
+虽然人工智能筹款机器不断打破自己的记录，但一些创始人正在朝着另一个方向发展。与无人工智能浏览器人群不同，这不仅仅是反弹， […]
+
+📅 Fri, 05 Jun 2026 17:17:06 +0000
+
+---
+
+### TechCrunch AI Products
+**[代币账单到期：行业内部争先恐后地管理人工智能的失控成本](https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/)**
+
+“整个谈话从tokenmaxxing和'快走'转变为'我们需要护栏，我们如何控制
+
+📅 Fri, 05 Jun 2026 14:49:12 +0000
+
+---
+
+### TechCrunch AI Products
+**[“Together Tech”浪潮可能是2026年最有趣的创业赌注](https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/)**
+
+虽然人工智能筹款机器不断打破自己的记录，但一些创始人正在朝着另一个方向发展。与无人工智能浏览器人群不同，这不仅仅是反弹， […]
+
+📅 Fri, 05 Jun 2026 14:00:00 +0000
+
+---
+
 ## 🔬 前沿研究
 
-### ArXiv Natural Language Processing (cs.CL)
-**[电信客户支持SLM的PEFT ： LoRA配置与能耗分析的比较研究](https://arxiv.org/abs/2606.05176)**
+### ArXiv AI (cs.AI)
+**[GITCO ： TSFM中的门控推理时间上下文优化](https://arxiv.org/abs/2606.05332)**
 
-05176v1公告类型：新摘要：大型语言模型（ LLM ）在自然语言理解和生成2和**Claude** 4方面表现出色
+05332v1公告类型：新摘要：基于补丁的时间序列基础模型（ TSFM ）遭受上下文中毒：结构异常补丁捕获不成比例的注意力，并无声地降低零点预测质量我们引入上下文敏感性配置文件作为TSFM的新特征属性：在推断时间上下文干预下从时间序列元特征到预期准确性改进的映射
 
-📅 Fri, 05 Jun 2026 00:00:00 -0400
+📅 Sat, 06 Jun 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Multiagent (cs.MA)
-**[ZERO-APT ：智能防御下LLM驱动的自动渗透测试的闭环对抗框架](https://arxiv.org/abs/2606.05567)**
+### MIT Tech Research
+**[元黑客表明，人工智能的安全性不仅仅是神话](https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/)**
 
-05567v1公告类型： CROSS摘要： LLM驱动的自动渗透测试代理通常根据既不检测也不响应攻击的静态目标进行评估930 ， **Claude** Code 0
+6月5日， 404 Media报道称，攻击者一直在使用**Meta**的AI客户支持代理窃取Instagram账号。他们的方法很简单：他们要求代理将账号链接到他们控制的电子邮件地址，代理遵守了
 
-📅 Fri, 05 Jun 2026 00:00:00 -0400
+📅 Fri, 05 Jun 2026 09:00:00 +0000
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[面向企业AI智能体部署前保证：基于本体的模拟和信任认证](https://arxiv.org/abs/2606.04037)**
+**[他们走了多远？隐蔽法学硕士代理人在已停止的现场实验中的说服策略](https://arxiv.org/abs/2606.05256)**
 
-04037v2公告类型：新摘要：企业人工智能（ AI ）代理的部署前验证仍然是大型语言模型（ LLM ）功能基准测试和生产部署之间的关键差距跨三个LLM系列（ **Claude** Sonnet 4、Qwen 2 ）的交叉验证
+05256v1公告类型：新摘要：本研究分析了Reddit r/ChangeMyViewReddit授权版主已停止的现场实验中公开**发布**的数据集，以**发布**AI生成的评论存档
 
-📅 Fri, 05 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[陷入人工智能情感依赖：常规人工智能互动如何重塑人际关系](https://arxiv.org/abs/2606.04150)**
-
-04150v1公告类型：新摘要：公共话语和新兴政策通常认为人工智能情感支持是一种故意行为：一个孤独的用户有意识地从专门的伴侣聊天机器人寻求安慰，包括与**OpenAI**合作进行的大规模纵向研究
-
-📅 Fri, 05 Jun 2026 00:00:00 -0400
+📅 Sat, 06 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[思考迹象： PEEL作为认知负责的人工智能研究的符号支架](https://arxiv.org/abs/2606.04152)**
+**[客服代表应该怎么说？高效多Agent系统的动作状态通信](https://arxiv.org/abs/2606.05304)**
 
-04152v1公告类型：新摘要：大型语言模型正在重塑研究实践，同时悄悄侵蚀研究人员的认识问责制适用于三个源文本的人工智能生成的浓缩
+05304v1公告类型：新摘要：基于大型语言模型构建的多代理系统(MAS)通常围绕角色组织我们的代码在https://github上公开提供
 
-📅 Fri, 05 Jun 2026 00:00:00 -0400
+📅 Sat, 06 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[干预时机的饱和陷阱和主观性：为什么基于情感的触发器和LLM法官无法对自主代理进行时间干预](https://arxiv.org/abs/2606.04296)**
+**[我知道你的模因，即使它今天出现：通过开放世界的知识获取来了解不断演变的模因](https://arxiv.org/abs/2606.05316)**
 
-04296v1公告类型：新摘要：随着自主人工智能代理从会话系统转移到长时间的软件执行第二， LLM评委的能力和上下文层：一个小模型（ **GPT**-5
+05316v1公告类型：新摘要：多模态模因是动态的，通常需要最新的背景知识来解释现有方法往往忽略了这些知识，或依赖于预训练模型的固定参数知识，这些知识可能不完整
 
-📅 Fri, 05 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[ERRORQUAKE ：开放式大型语言模型中的重尾错误严重程度分布](https://arxiv.org/abs/2606.05170)**
-
-05170v1公告类型：新摘要：在匹配的准确度下， epsilon无法解释跨模型b方差的5% ）
-
-📅 Fri, 05 Jun 2026 00:00:00 -0400
+📅 Sat, 06 Jun 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Computer Vision (cs.CV)
-**[NIV ：用于可变字体生成的神经轴变化](https://arxiv.org/abs/2606.05261)**
+### ArXiv AI (cs.AI)
+**[循环工厂的不确定性感知功能行为预测和材料疲劳评估](https://arxiv.org/abs/2606.05334)**
 
-05261v1公告类型：新摘要：可变字体可沿权重等语义设计轴实现字形几何的连续变化为了便于研究，我们在https://github上**发布**了数据集、完整的训练和推理实现以及训练模型
+05334v1公告类型：新摘要：循环工厂退回的产品以异质降解状态和剩余能力重新进入生产
 
-📅 Fri, 05 Jun 2026 00:00:00 -0400
+📅 Sat, 06 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[SentinelBench ：长期运行监控代理的基准](https://arxiv.org/abs/2606.05342)**
+
+05342v1公告类型：新摘要：越来越多地要求AI代理执行跨分钟、小时或更长时间的工作然而，代理行为的默认模型是持续操作：发出工具调用
+
+📅 Sat, 06 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[使用骨关节炎倡议（ OAI ）的数据进行大规模纵向结构疼痛关联研究的可解释且值得信赖的人工智能框架](https://arxiv.org/abs/2606.05357)**
+
+05357v1 **announce** Type: **new** Abstract: Purpose: To develop an interpretable and trustworthy AI framework that combines deep learning based MRI Osteoarthritis Knee Score (MOAKS) prediction with interpretable statistical modeling to study structure-pain relationships at scale using data from the Osteoarthritis Initiative (OAI)Materials and Methods: We first developed a deep learning framework to predict MOAKS features directly from knee MRIs and incorporated conformal prediction to provide prediction uncertainty quantification
+
+📅 Sat, 06 Jun 2026 00:00:00 -0400
 
 ---
 
@@ -214,14 +212,12 @@ Chat**GPT**引入了一个新的记忆系统，以更好地记住偏好，保持
 
 ---
 
-### The Verge
-![这是您的笔记本电脑……人工智能](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRG_VST_0605_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### Wired Technology
+**[加密货币资助的中国多肽实验室正在蓬勃发展](https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/)**
 
-**[这是您的笔记本电脑……人工智能](https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast)**
+此外：黑客使用**Meta**的人工智能机器人攻击Instagram账号**Anthropic**帮助NSA黑客
 
-Nilay和David浏览了Microsoft Build和**Google** I/Of **Gemini** S的许多产品…阅读The Verge的完整故事
-
-📅 2026-06-05T16:39:07.000Z
+📅 Sat, 06 Jun 2026 10:30:00 +0000
 
 ---
 
@@ -231,6 +227,15 @@ Nilay和David浏览了Microsoft Build和**Google** I/Of **Gemini** S的许多产
 SpaceX不会轻易从被动投资者那里获得数十亿美元。
 
 📅 Fri, 05 Jun 2026 18:45:20 +0000
+
+---
+
+### ZDNet AI
+**[我比较了ChatGPT和Gemini的人工智能图像生成-一个单一的提示调整产生了很大的不同](https://www.zdnet.com/article/beginner-ai-image-prompt-tip-chatgpt-gemini/)**
+
+无法从Chat**GPT**、**Gemini**或其他人工智能工具中获取正确的图像按照此提示获得更高影响力的结果
+
+📅 Sat, 06 Jun 2026 11:00:37 GMT
 
 ---
 
@@ -265,16 +270,18 @@ SpaceX不会轻易从被动投资者那里获得数十亿美元。
 
 ---
 
-### MIT Tech Review
-**[虚拟发电厂如何为数据中心提供能源](https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/)**
+## 📦 GitHub热门
 
-谷歌刚刚签署了一项新协议，以帮助支付美国最大电网的虚拟发电厂（ VPP ）的费用
+### GitHub New (New AI)
+![🆕 Jarvis-AI-Biped-Robot ： ESP32-S3驱动的AI双足机器人，具有语音交互、记忆、网络搜索、MCP工具和自主助理功能。](https://avatars.githubusercontent.com/u/284843496?v=4)
 
-📅 Wed, 03 Jun 2026 16:51:38 +0000
+**[🆕 Jarvis-AI-Biped-Robot ： ESP32-S3驱动的AI双足机器人，具有语音交互、记忆、网络搜索、MCP工具和自主助理功能。](https://github.com/chiru2409/Jarvis-AI-Biped-Robot)**
+
+⭐ 4 star (新项目) · C++ · ESP32-S3 powered AI biped robot with voice interaction, memory, web search, MCP tools, and autonomous assistant capabilities
+
+📅 2026-06-05T21:06:02Z
 
 ---
-
-## 📦 GitHub热门
 
 ### GitHub New (New AI)
 ![🆕 polylens ：基于人工智能的预测市场和市场情报平台，用于钱包分析、机会发现、套利检测和定量研究。](https://avatars.githubusercontent.com/u/270839064?v=4)
@@ -288,55 +295,35 @@ SpaceX不会轻易从被动投资者那里获得数十亿美元。
 ---
 
 ### GitHub New (New AI)
-![🆕 A-Preamble-to-Automated-Intelligence-Authorization-Topology-and-Identity-Continuity ：自动化情报研究出版物系列全文。Zenodo的规范记录和DOI。](https://avatars.githubusercontent.com/u/268422926?v=4)
+![🆕 TelegramAI ：由LLM提供支持的Telegram AI助手。支持对话式人工智能、命令处理和无缝Telegram集成](https://avatars.githubusercontent.com/u/87330294?v=4)
 
-**[🆕 A-Preamble-to-Automated-Intelligence-Authorization-Topology-and-Identity-Continuity ：自动化情报研究出版物系列全文。Zenodo的规范记录和DOI。](https://github.com/michaeljb79-ai/A-Preamble-to-Automated-Intelligence-Authorization-Topology-and-Identity-Continuity)**
+**[🆕 TelegramAI ：由LLM提供支持的Telegram AI助手。支持对话式人工智能、命令处理和无缝Telegram集成](https://github.com/br1ge/TelegramAI)**
 
-⭐ 3 star (新项目) · N/A · Full text of the Automated Intelligence research publication seriesCanonical records and DOIs at Zenodo
+⭐ 3 star (新项目) · Python · Telegram AI assistant powered by LLMsSupports conversational AI, command handling, and seamless Telegram integration
 
-📅 2026-06-03T17:39:21Z
-
----
-
-### GitHub New (New AI)
-![🆕 gemini-math-grader ：一种自动化的人工智能助教，使用Gemini 3.5 Flash对手写数学作业进行可视化评分和注释。](https://avatars.githubusercontent.com/u/181793161?v=4)
-
-**[🆕 gemini-math-grader ：一种自动化的人工智能助教，使用Gemini 3.5 Flash对手写数学作业进行可视化评分和注释。](https://github.com/MarwaneF98/gemini-math-grader)**
-
-⭐ 3 star (新项目) · Python · An automated AI teaching assistant that uses **Gemini** 35 Flash to visually grade and annotate handwritten math assignments
-
-📅 2026-06-03T17:06:26Z
+📅 2026-06-06T05:19:20Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 upi-fraud-gnn: UPI Fraud Sentinel -基于GNN的欺诈检测](https://avatars.githubusercontent.com/u/158547260?v=4)
+![🆕 learn-hermes-agent ：从零开始构建自我进化的Agent线束| 12节课| Anthropic/DeepSeek/Qwen/GLM](https://avatars.githubusercontent.com/u/55902434?v=4)
 
-**[🆕 upi-fraud-gnn: UPI Fraud Sentinel -基于GNN的欺诈检测](https://github.com/Nandini-556/upi-fraud-gnn)**
+**[🆕 learn-hermes-agent ：从零开始构建自我进化的Agent线束| 12节课| Anthropic/DeepSeek/Qwen/GLM](https://github.com/Ericcc-Ma/learn-hermes-agent)**
 
-⭐ 2 star (新项目) · HTML · UPI Fraud Sentinel - GNN Based Fraud Detection
+⭐ 3 star (新项目) · Python · Build a Self-Evolving Agent Harness from Scratch | 12 lessons | **Anthropic**/**DeepSeek**/Qwen/GLM
 
-📅 2026-06-04T17:57:08Z
+📅 2026-06-06T02:51:01Z
 
 ---
 
 ## 💬 社交动态
-
-### Hacker News AI
-**[Anthropic警告Claude AI正在以比预期更快的速度构建自己](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-now-writes-more-than-80-percent-of-its-merged-code)**
-
-文章网址： https://wwwcom/tech-industry/artificial-intelligence/**Anthropic**-says-**Claude**-now-writes-more-than-80-percent-of-its-merged-code评论网址： https://**new**s
-
-📅 Fri, 05 Jun 2026 22:45:34 +0000
-
----
 
 ### X: OpenAI
 **[标题： OpenAI (@ OpenAI)/X](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 标题： **OpenAI** (@ **OpenAI**)/X
 
-📅 2026-06-06T00:07:39.396Z
+📅 2026-06-06T16:08:10.710Z
 
 ---
 
@@ -345,7 +332,7 @@ SpaceX不会轻易从被动投资者那里获得数十亿美元。
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-06-06T00:07:39.396Z
+📅 2026-06-06T16:08:10.710Z
 
 ---
 
@@ -354,7 +341,7 @@ SpaceX不会轻易从被动投资者那里获得数十亿美元。
 
 [图片1 ：方形个人头像并打开个人头像] (https://pbscom/**OpenAI**/photo)
 
-📅 2026-06-06T00:07:39.396Z
+📅 2026-06-06T16:08:10.710Z
 
 ---
 
@@ -363,7 +350,7 @@ SpaceX不会轻易从被动投资者那里获得数十亿美元。
 
 标题： **DeepSeek** (@ **DeepSeek**_ai)/X
 
-📅 2026-06-06T00:09:00.811Z
+📅 2026-06-06T16:09:32.218Z
 
 ---
 
@@ -372,7 +359,7 @@ SpaceX不会轻易从被动投资者那里获得数十亿美元。
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-06-06T00:09:00.811Z
+📅 2026-06-06T16:09:32.218Z
 
 ---
 
@@ -381,16 +368,25 @@ SpaceX不会轻易从被动投资者那里获得数十亿美元。
 
 【图片1 ：打开个人头像】（ https://pbscom/**DeepSeek**_ai/photo ）
 
-📅 2026-06-06T00:09:00.811Z
+📅 2026-06-06T16:09:32.218Z
 
 ---
 
 ### Hacker News
-**[微软希望用户沉迷于他们的人工智能个人助理Scout](https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/)**
+**[英伟达提出了一种适用于Windows PC的CPU系统的野兽](https://twitter.com/lemire/status/2062880075117113739)**
 
-文章网址： https://disassociatedcom/microsoft-users-addicted-ai-personal-assistant/评论网址： https://**new**s
+文章网址： https://twittercom/lemire/status/2062880075117113739评论网址： https://**new**s
 
-📅 Fri, 05 Jun 2026 22:12:58 +0000
+📅 Sat, 06 Jun 2026 12:52:18 +0000
+
+---
+
+### Hacker News
+**[Meta不断推迟向开发人员发布新的人工智能模型](https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c)**
+
+文章网址： https://wwwcom/tech/ai/**Meta**-keeps-delaying-the-**release**-of-its-**new**-ai-model-to-developers-f8569c8c评论网址： https://**new**s
+
+📅 Sat, 06 Jun 2026 12:15:59 +0000
 
 ---
 
