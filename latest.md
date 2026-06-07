@@ -1,19 +1,19 @@
 ---
 title: "2026年6月7日 - TZ日报"
-date: 2026-06-07T00:08:23.321Z
+date: 2026-06-07T16:20:12.246Z
 draft: false
 ---
 
 # 2026年6月7日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/6/7 00:08:23
+> 📊 今日汇总 35 条 · 🕐 2026/6/7 16:20:12
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 8 条
+- **前沿研究**: 5 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -31,24 +31,6 @@ draft: false
 
 ---
 
-### OpenAI Blog
-**[Endava如何围绕AI代理重新设计软件交付](https://openai.com/index/endava-frontiers)**
-
-了解Endava如何使用AI agentChat**GPT** Enterprise
-
-📅 Thu, 04 Jun 2026 12:00:00 GMT
-
----
-
-### OpenAI Blog
-**[梦想：更好的记忆力，更有帮助的ChatGPT](https://openai.com/index/chatgpt-memory-dreaming)**
-
-Chat**GPT**引入了一个新的记忆系统，以更好地记住偏好，保持对话中的上下文新鲜和相关性
-
-📅 Thu, 04 Jun 2026 09:00:00 GMT
-
----
-
 ### Google AI Blog
 ![我们在2026年5月宣布的最新人工智能新闻](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp)
 
@@ -57,6 +39,15 @@ Chat**GPT**引入了一个新的记忆系统，以更好地记住偏好，保持
 以下是2026年5月谷歌最新的人工智能**更新**
 
 📅 Fri, 05 Jun 2026 14:45:00 +0000
+
+---
+
+### Hugging Face
+**[赞助商，特别是用于法典的OPENAI CODEX凭证- openAIange](https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers)**
+
+赞助商，特别是用于法典的**OpenAI** CODEX凭证- **OpenAI**ange
+
+📅 Sun, 07 Jun 2026 11:38:54 GMT
 
 ---
 
@@ -78,33 +69,6 @@ Chat**GPT**引入了一个新的记忆系统，以更好地记住偏好，保持
 
 ---
 
-### AI News
-**[Meta Business Agent推动人工智能驱动的对话式商务](https://www.artificialintelligence-news.com/news/meta-business-agent-ai-powered-conversational-commerce/)**
-
-**Meta**已**推出**Business Agent ，可直接在其消息传递应用程序中自动执行会话式商务工作流程[…] **Meta** Business Agent后期驱动AI驱动的会话式商务**首次**出现在AI **new**s上
-
-📅 Thu, 04 Jun 2026 17:17:40 +0000
-
----
-
-### AI News
-**[M'Soft的Scout是适用于M365的代理Autopilot](https://www.artificialintelligence-news.com/news/microsofts-autopilot-scout-is-the-agentic-autopilot-that-works-across-m365/)**
-
-微软已宣布在本周的微软Build活动中对其新的Autopilot功能进行更广泛的测试，因此多个代理商[…]来自M 'Soft的Scout是代理Autopilot ，适用于M365 ，**首次**出现在AI **new**s上
-
-📅 Thu, 04 Jun 2026 11:41:00 +0000
-
----
-
-### Hugging Face
-**[五个实验室，五个心灵：在小模型上构建多模型金融剧](https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2)**
-
-五个实验室，五个心灵：在小模型上构建多模型金融剧
-
-📅 Sat, 06 Jun 2026 19:02:33 GMT
-
----
-
 ### Hugging Face
 **[Nemotron 3.5内容安全：面向全球企业AI的可定制多式联运安全](https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety)**
 
@@ -114,16 +78,43 @@ Nemotron 3.5内容安全：面向全球企业AI的可定制多式联运安全
 
 ---
 
-## 🔬 前沿研究
+### TechCrunch AI Products
+**[对WWDC 2026的期待： Siri备受期待的改造和Apple Intelligence更新](https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/)**
 
-### ArXiv AI (cs.AI)
-**[GITCO ： TSFM中的门控推理时间上下文优化](https://arxiv.org/abs/2606.05332)**
+Apple的WWDC即将到来：以下是您可以期待的内容。
 
-05332v1公告类型：新摘要：基于补丁的时间序列基础模型（ TSFM ）遭受上下文中毒：结构异常补丁捕获不成比例的注意力，并无声地降低零点预测质量我们引入上下文敏感性配置文件作为TSFM的新特征属性：在推断时间上下文干预下从时间序列元特征到预期准确性改进的映射
-
-📅 Sat, 06 Jun 2026 00:00:00 -0400
+📅 Sat, 06 Jun 2026 18:13:36 +0000
 
 ---
+
+### TechCrunch AI Products
+**[Sriram Krishnan将辞去白宫人工智能顾问一职](https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/)**
+
+据报道， Krishnan正在启动一个新机构，以继续制定特朗普的人工智能政策。
+
+📅 Sat, 06 Jun 2026 17:42:15 +0000
+
+---
+
+### TechCrunch AI Products
+**[初创公司“战地200”应用程序将在3天内正式关闭](https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/)**
+
+《创业战地200》的申请将于6月8日11:59正式截止
+
+📅 Fri, 05 Jun 2026 20:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[现在最有趣的初创公司都想让你放下手机](https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/)**
+
+虽然人工智能筹款机器不断打破自己的记录，但一些创始人正在朝着另一个方向发展。与无人工智能浏览器人群不同，这不仅仅是反弹， […]
+
+📅 Fri, 05 Jun 2026 17:17:06 +0000
+
+---
+
+## 🔬 前沿研究
 
 ### MIT Tech Research
 **[元黑客表明，人工智能的安全性不仅仅是神话](https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/)**
@@ -134,57 +125,39 @@ Nemotron 3.5内容安全：面向全球企业AI的可定制多式联运安全
 
 ---
 
-### ArXiv AI (cs.AI)
-**[他们走了多远？隐蔽法学硕士代理人在已停止的现场实验中的说服策略](https://arxiv.org/abs/2606.05256)**
+### Science AI
+**[蛋白质名称混淆导致抗体混淆，影响数百篇论文](https://www.science.org/content/article/protein-name-confusion-created-antibody-mix-affecting-hundreds-papers)**
 
-05256v1公告类型：新摘要：本研究分析了Reddit r/ChangeMyViewReddit授权版主已停止的现场实验中公开**发布**的数据集，以**发布**AI生成的评论存档
+癌症和细胞衰老研究可能依赖于对不正确分子的抗体
 
-📅 Sat, 06 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[客服代表应该怎么说？高效多Agent系统的动作状态通信](https://arxiv.org/abs/2606.05304)**
-
-05304v1公告类型：新摘要：基于大型语言模型构建的多代理系统(MAS)通常围绕角色组织我们的代码在https://github上公开提供
-
-📅 Sat, 06 Jun 2026 00:00:00 -0400
+📅 2026-06-05T12:00:00.000Z
 
 ---
 
-### ArXiv AI (cs.AI)
-**[我知道你的模因，即使它今天出现：通过开放世界的知识获取来了解不断演变的模因](https://arxiv.org/abs/2606.05316)**
+### Science AI
+**[正在下沉的海岸线的卫星地图正在接受审查](https://www.science.org/content/article/satellite-maps-sinking-coastlines-come-under-scrutiny)**
 
-05316v1公告类型：新摘要：多模态模因是动态的，通常需要最新的背景知识来解释现有方法往往忽略了这些知识，或依赖于预训练模型的固定参数知识，这些知识可能不完整
+雷达研究产生相互矛盾的结果，使衡量脆弱地区海平面上升的努力复杂化
 
-📅 Sat, 06 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[循环工厂的不确定性感知功能行为预测和材料疲劳评估](https://arxiv.org/abs/2606.05334)**
-
-05334v1公告类型：新摘要：循环工厂退回的产品以异质降解状态和剩余能力重新进入生产
-
-📅 Sat, 06 Jun 2026 00:00:00 -0400
+📅 2026-06-05T09:12:00.000Z
 
 ---
 
-### ArXiv AI (cs.AI)
-**[SentinelBench ：长期运行监控代理的基准](https://arxiv.org/abs/2606.05342)**
+### Science AI
+**[已灭绝的棕熊有着惊人的饮食习惯](https://www.science.org/content/article/extinct-brown-bear-had-surprising-diet)**
 
-05342v1公告类型：新摘要：越来越多地要求AI代理执行跨分钟、小时或更长时间的工作然而，代理行为的默认模型是持续操作：发出工具调用
+与现代熊不同，阿特拉斯熊是严格的素食主义者
 
-📅 Sat, 06 Jun 2026 00:00:00 -0400
+📅 2026-06-05T09:00:00.000Z
 
 ---
 
-### ArXiv AI (cs.AI)
-**[使用骨关节炎倡议（ OAI ）的数据进行大规模纵向结构疼痛关联研究的可解释且值得信赖的人工智能框架](https://arxiv.org/abs/2606.05357)**
+### Science AI
+**[遥远的外星世界是否存在有希望的生命迹象？大多数天体生物学家说不](https://www.science.org/content/article/does-distant-alien-world-harbor-promising-signs-life-most-astrobiologists-say-no)**
 
-05357v1 **announce** Type: **new** Abstract: Purpose: To develop an interpretable and trustworthy AI framework that combines deep learning based MRI Osteoarthritis Knee Score (MOAKS) prediction with interpretable statistical modeling to study structure-pain relationships at scale using data from the Osteoarthritis Initiative (OAI)Materials and Methods: We first developed a deep learning framework to predict MOAKS features directly from knee MRIs and incorporated conformal prediction to provide prediction uncertainty quantification
+对近500名科学家进行的民意调查揭示了快速调查可以如何吸引研究人员对有争议主题的看法
 
-📅 Sat, 06 Jun 2026 00:00:00 -0400
+📅 2026-06-05T05:00:00.000Z
 
 ---
 
@@ -230,6 +203,15 @@ SpaceX不会轻易从被动投资者那里获得数十亿美元。
 
 ---
 
+### ZDNet AI
+**[我在Computex上看到了Surface Laptop Ultra ，很明显：微软已经变成了beastmode](https://www.zdnet.com/article/hands-on-with-the-microsoft-surface-ultra/)**
+
+在Computex 2026上宣布的旗舰笔记本电脑将采用英伟达的新RTX Spark芯片，具有高达128GB的统一内存
+
+📅 Sun, 07 Jun 2026 10:30:38 GMT
+
+---
+
 ### VentureBeat
 ![Anthropic表示，其80%的新生产代码现在由Claude编写—您的企业如何跟上](https://images.ctfassets.net/jdtwqhzvc2n1/6TDfdDR3BaglHMnVTBvvmB/ebc812673e673345d4466f174868cc17/ChatGPT_Image_Jun_4__2026__04_47_29_PM.png?w=300&q=30)
 
@@ -250,47 +232,25 @@ SpaceX不会轻易从被动投资者那里获得数十亿美元。
 
 ---
 
-### TechCrunch
-**[Reid Hoffman将离开微软董事会，与创业公司Manus一起进入“创始人模式”](https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/)**
+### ZDNet AI
+**[Apple Watch现在比iPhone更需要更好的Siri](https://www.zdnet.com/article/the-apple-watch-needs-a-better-siri-more-than-the-iphone-right-now/)**
 
-在微软董事会盈利十年后，里德·霍夫曼（ Reid Hoffman ）辞职，专注于他的人工智能药物发现初创公司Manus
+苹果与谷歌的合作可以增强自己的健康套件和可穿戴设备。具体操作方法如下。
 
-📅 Fri, 05 Jun 2026 22:35:01 +0000
-
----
-
-### The Verge
-![2026年夏季游戏节：游戏最繁忙的一周的所有新闻](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/FFVII_Revelation_June_Screenshots_16.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[2026年夏季游戏节：游戏最繁忙的一周的所有新闻](https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026)**
-
-凯恩的第一个免费DLC将于8月13日**推出**微软再次推迟寓言，以避免GTA VI大量游戏需要考虑
-
-📅 2026-06-06T16:14:23.000Z
+📅 Sat, 06 Jun 2026 13:00:48 GMT
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![ai-engineering-from-scratch ：学习它。构建它。为其他人运送。](https://avatars.githubusercontent.com/u/48523873?v=4)
+### GitHub New (New AI)
+![🆕 ai-resume-score ：一种开源、多模型的人工智能招聘工具，根据严格的100分评分标准评估软件工程简历，具有深度GitHub集成和客户端隐私。](https://avatars.githubusercontent.com/u/72195951?v=4)
 
-**[ai-engineering-from-scratch ：学习它。构建它。为其他人运送。](https://github.com/rohitg00/ai-engineering-from-scratch)**
+**[🆕 ai-resume-score ：一种开源、多模型的人工智能招聘工具，根据严格的100分评分标准评估软件工程简历，具有深度GitHub集成和客户端隐私。](https://github.com/DivyamSamarwal/ai-resume-score)**
 
-⭐ 29384星· 4801叉·蟒·学建造它。为别人运送它。
+⭐ 6 star (新项目) · TypeScript · An open-sourcemulti-model AI recruitment tool that evaluates software engineering resumes against a rigorous 100-point rubric
 
-📅 2026-06-07T00:04:52Z
-
----
-
-### GitHub Active (Python)
-![endoflife.date ：信息丰富的网站，包含所有内容的EoL日期](https://avatars.githubusercontent.com/u/62706925?v=4)
-
-**[endoflife.date ：信息丰富的网站，包含所有内容的EoL日期](https://github.com/endoflife-date/endoflife.date)**
-
-⭐ 3,294星· 1218叉·红宝石·信息丰富的网站，包含所有EoL日期
-
-📅 2026-06-07T00:07:01Z
+📅 2026-06-06T17:03:23Z
 
 ---
 
@@ -316,14 +276,34 @@ SpaceX不会轻易从被动投资者那里获得数十亿美元。
 
 ---
 
+### GitHub New (New AI)
+![🆕 learn-hermes-agent ：从零开始构建自我进化的Agent线束| 12节课| Anthropic/DeepSeek/Qwen/GLM](https://avatars.githubusercontent.com/u/55902434?v=4)
+
+**[🆕 learn-hermes-agent ：从零开始构建自我进化的Agent线束| 12节课| Anthropic/DeepSeek/Qwen/GLM](https://github.com/Ericcc-Ma/learn-hermes-agent)**
+
+⭐ 3 star (新项目) · Python · Build a Self-Evolving Agent Harness from Scratch | 12 lessons | **Anthropic**/**DeepSeek**/Qwen/GLM
+
+📅 2026-06-06T02:51:01Z
+
+---
+
 ## 💬 社交动态
+
+### Hacker News
+**[Anthropic ，请提供适用于Linux的官方Claude桌面](https://github.com/anthropics/claude-code/issues/65697)**
+
+文章网址： https://githubcom/**Anthropic**s/**Claude**-code/issues/65697评论网址： https://**new**s
+
+📅 Sun, 07 Jun 2026 13:06:52 +0000
+
+---
 
 ### X: OpenAI
 **[标题： OpenAI (@ OpenAI)/X](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 标题： **OpenAI** (@ **OpenAI**)/X
 
-📅 2026-06-07T00:05:46.523Z
+📅 2026-06-07T16:17:12.622Z
 
 ---
 
@@ -332,7 +312,7 @@ SpaceX不会轻易从被动投资者那里获得数十亿美元。
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-06-07T00:05:46.523Z
+📅 2026-06-07T16:17:12.622Z
 
 ---
 
@@ -341,7 +321,7 @@ SpaceX不会轻易从被动投资者那里获得数十亿美元。
 
 [图片1 ：方形个人头像并打开个人头像] (https://pbscom/**OpenAI**/photo)
 
-📅 2026-06-07T00:05:46.523Z
+📅 2026-06-07T16:17:12.622Z
 
 ---
 
@@ -350,7 +330,7 @@ SpaceX不会轻易从被动投资者那里获得数十亿美元。
 
 标题： **DeepSeek** (@ **DeepSeek**_ai)/X
 
-📅 2026-06-07T00:06:39.236Z
+📅 2026-06-07T16:18:34.185Z
 
 ---
 
@@ -359,7 +339,7 @@ SpaceX不会轻易从被动投资者那里获得数十亿美元。
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-06-07T00:06:39.236Z
+📅 2026-06-07T16:18:34.185Z
 
 ---
 
@@ -368,25 +348,16 @@ SpaceX不会轻易从被动投资者那里获得数十亿美元。
 
 【图片1 ：打开个人头像】（ https://pbscom/**DeepSeek**_ai/photo ）
 
-📅 2026-06-07T00:06:39.236Z
+📅 2026-06-07T16:18:34.185Z
 
 ---
 
 ### Hacker News
-**[Meta确认数千个Instagram帐户被滥用其AI聊天机器人入侵](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)**
+**[显示HN ：车床–使用LLM学习新领域，而不是跳过它](https://github.com/devenjarvis/lathe)**
 
-文章网址： https://thiscom/**Meta**-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/评论网址： https://**new**s
+车床是一项使用LLM教我新东西的实验，而不是为我做这项工作这是一个Go CLI加上LLM代理技能（ **Claude** Code/Cursor/Codex ）
 
-📅 Sat, 06 Jun 2026 18:35:27 +0000
-
----
-
-### X: OpenAI
-**[发布时间： 2026年6月1日，星期一19:57:41 GMT](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-**发布**时间： 2026年6月1日，星期一19:57:41 GMT
-
-📅 2026-06-07T00:05:46.523Z
+📅 Sun, 07 Jun 2026 11:16:46 +0000
 
 ---
 
