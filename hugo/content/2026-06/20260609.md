@@ -1,12 +1,12 @@
 ---
 title: "2026年6月9日 - TZ日报"
-date: 2026-06-09T00:10:36.637Z
+date: 2026-06-09T17:31:16.444Z
 draft: false
 ---
 
 # 2026年6月9日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/6/9 00:10:36
+> 📊 今日汇总 38 条 · 🕐 2026/6/9 17:31:16
 
 ---
 
@@ -21,6 +21,33 @@ draft: false
 ---
 
 ## ✨ 产品更新
+
+### DeepMind Blog
+**[使用Gemini 3.5实时翻译实现流畅、自然的语音翻译](https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/)**
+
+**Gemini** 35 Live Translate为**Google** AI St**Udio**、**Google** Translate和**Google** Meet带来近乎实时、自然的语音翻译
+
+📅 Tue, 09 Jun 2026 15:16:25 +0000
+
+---
+
+### TechCrunch AI Products
+**[Anthropic的Claude Fable是今天公众可以访问的Mythos的版本](https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/)**
+
+**Anthropic**正在**发布**Claude Fable 5 ，这是其**首个**向公众开放的Mythos级模型该模型配备了护栏，可阻止网络安全和生物学等高风险领域的响应
+
+📅 Tue, 09 Jun 2026 17:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[它不再是FAANG了。这是芒果。](https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/)**
+
+和**OpenAI**都在关注大规模的公开亮相科技行业可能很快就会有一类新的企业霸主—以及一个新的首字母缩略词来匹配
+
+📅 Tue, 09 Jun 2026 16:09:14 +0000
+
+---
 
 ### TechCrunch AI Products
 **[在Anthropic之后，为IPO保密OpenAI文件](https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/)**
@@ -58,6 +85,15 @@ draft: false
 
 ---
 
+### DeepMind Blog
+**[衡量使用人工智能学习在塞拉利昂及其他地区的影响](https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/)**
+
+一项随机对照试验的结果显示， **Gemini**的引导式学习功能具有提高参与度和加速学习的潜力
+
+📅 Mon, 08 Jun 2026 13:04:59 +0000
+
+---
+
 ### TechCrunch AI Products
 **[报告称，随着OpenAI申请IPO ， Sam Altman的眼部扫描公司正在进行裁员](https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/)**
 
@@ -67,126 +103,101 @@ draft: false
 
 ---
 
-### Hugging Face
-**[开源社区正在为Agentic RL的OpenEnv提供支持](https://huggingface.co/blog/openenv-agentic-rl)**
+### DeepMind Blog
+**[隆重推出Gemma 4 12B ：统一的无编码器多模态模型](https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/)**
 
-**开源**社区正在为Agentic RL的OpenEnv提供支持
+隆重**推出**Gemma 4 12B ：统一的无编码器多模态模型
 
-📅 Mon, 08 Jun 2026 00:00:00 GMT
-
----
-
-### TechCrunch AI Products
-**[苹果的WWDC人工智能演示在$ 2.5亿虚假广告结算后看起来更真实](https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/)**
-
-苹果2026年WWDC主题演讲的氛围让人感觉就像是一位配偶自豪地列出了所有解决的蜂蜜清单项目一个微妙的例子：站着的人的许多人工智能演示，手里拿着手机
-
-📅 Mon, 08 Jun 2026 22:39:57 +0000
-
----
-
-### TechCrunch AI Products
-**[苹果在WWDC上迎头赶上](https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/)**
-
-苹果公司在**推出**其**升级**的人工智能Siri之前，花费了大量时间在WWDC主题演讲中强调了修复和长期请求的功能
-
-📅 Mon, 08 Jun 2026 21:15:42 +0000
-
----
-
-### TechCrunch AI Products
-**[苹果押注更便宜的人工智能将吸引小型开发商](https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/)**
-
-随着人工智能实验的成本越来越高，苹果正在为**首次**应用商店下载量少于200万的开发人员免除云API成本
-
-📅 Mon, 08 Jun 2026 20:53:55 +0000
-
----
-
-### TechCrunch AI Products
-**[WWDC 2026 ： Siri AI、iOS 27、Apple Intelligence等平台上发布的所有内容](https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/)**
-
-苹果主要通过其历史悠久的Siri助手来改善体验，与大多数其他公告一样， Siri助手在人工智能的帮助下
-
-📅 Mon, 08 Jun 2026 19:41:32 +0000
+📅 Tue, 09 Jun 2026 14:10:19 +0000
 
 ---
 
 ## 🔬 前沿研究
 
 ### ArXiv Multiagent (cs.MA)
-**[从隐私到工作流完整性： Autonomous Agent互操作性中的通信图元数据](https://arxiv.org/abs/2606.07150)**
+**[Emergence World ：评估长期多Agent自主性的平台](https://arxiv.org/abs/2606.08367)**
 
-我们给出了智能体通信图的威胁模型；确定是什么让智能体元数据具有独特的揭示性（语义性的对手选择要采取行动的工作流程在该模型中实现了千里眼攻击者相对于元数据盲攻击者的大部分优势
+我们提出了一项为期15天的跨供应商研究，涉及五个平行世界，由**Claude** Sonnet 41 Fast、**Gemini** 3 Flash、**GPT**-5-mini和混合人群提供支持
 
-📅 Mon, 08 Jun 2026 00:00:00 -0400
+📅 Tue, 09 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Computer Vision (cs.CV)
+**[你能相信你所看到的吗？合成法律证据的人工和人工智能检测](https://arxiv.org/abs/2606.07613)**
+
+07613v1公告类型：新摘要：长期以来，视觉证据一直被视为一种可靠的法律证明形式本文探讨了在民事纠纷的典型以对象为中心的场景中，人类和前沿多式联运大型语言模型（ MLLM ）如何将真实的证据照片与人工智能生成的对应物区分开来
+
+📅 Tue, 09 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[通过将公平视为对称操作来检测和减轻偏见](https://arxiv.org/abs/2606.06514)**
+**[为什么将剩余流限制为图层而不是令牌？持续潜在推理的持久记忆](https://arxiv.org/abs/2606.07720)**
 
-06514v1公告类型：新摘要：部署在高风险社会经济环境中的机器学习系统常规显示偏差我们将偏差形式化为对称**突破**运算：如果分类器的输出在切换敏感属性的反事实运算下保持不变，则分类器是公平的
+07720v1公告类型：新摘要：大型语言模型（ LLM ）在数学和多跳规划任务方面表现出卓越的推理能力使用**GPT**-2作为基础模型在GSM8K、HotpotQA和ProsQA上进行评估， AGCLR在所有类型的数据集上实现了一致的改进
 
-📅 Mon, 08 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[DiBS ：扩散知情分支选择](https://arxiv.org/abs/2606.06518)**
-
-06518v1公告类型：新摘要：数独是一个具有代表性的约束满足问题，需要在严格的离散约束下进行全局结构推理所有代码都可以在https://github上找到
-
-📅 Mon, 08 Jun 2026 00:00:00 -0400
+📅 Tue, 09 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[SafeGene ：用于可转移安全校准的可重复使用适配器](https://arxiv.org/abs/2606.06519)**
+**[关于聊天机器人如何在解决问题驱动的对话中工作的一些假设。大型语言模型作为创新错觉的确认](https://arxiv.org/abs/2606.07722)**
 
-这会造成反复出现的安全恢复问题，因为目标模型会反复**更新**新的任务数据或用户交互，而不是将安全恢复视为特定于模型的维修步骤
+07722v1 **announce** Type: **new** Abstract: This article offers a perspective on the nature of chatbots as genuine conversation partners when discussing problems in relation to their solutionsThe main results are: a description of human understanding and thinking based on so-called **Meta**phorical problem propagations; the hypothesis that text dataset used for training LLMs have specific characteristics and that these text datasets only partially imitate human thinking and understanding; the hypothesis that the LLM training process encodes artificial **Meta**phorical problem propagations into an LLM from these datasets; our conclusion that a basic chatbot cannot be a thinking partner capable of matching humans; our conclusion that further development of the Large Language Model will not lead to this either
 
-📅 Mon, 08 Jun 2026 00:00:00 -0400
+📅 Tue, 09 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Machine Learning (cs.LG)
+**[通过相变出现：机制景观和跨复杂系统的通用融合](https://arxiv.org/abs/2606.07563)**
+
+07563v1公告类型：新摘要：跨机器学习HEF模型在受热力学和信息理论定律约束的机制格局中作为相变出现
+
+📅 Tue, 09 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Multiagent (cs.MA)
+**[GRPO无法弥合多代理协调差距](https://arxiv.org/abs/2606.07845)**
+
+07845v1公告类型：新摘要：我们衡量当前大型语言模型在共享公共资源的多个Agent之间的协调程度多Agent协调上的开放权重14B模型的瓶颈不是训练计算，而是训练方法：奖励塑造不会崩溃到无动作最大值
+
+📅 Tue, 09 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Multiagent (cs.MA)
+**[投票协议作为角色受限的多Agent辅导系统的协调机制](https://arxiv.org/abs/2606.08030)**
+
+08030v1公告类型：新摘要：代理辅导系统引入了协调挑战：多个代理可能提出不同但合理的干预措施，甚至短暂的辅导回合也会在模拟学生中显示可衡量的学习收益
+
+📅 Tue, 09 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[Lean4Agent ：客服代表工作流程和轨迹的正式建模和验证](https://arxiv.org/abs/2606.06523)**
+**[病理分期：通过体验式代理工作流程在病理学中进行多来源证据裁定](https://arxiv.org/abs/2606.07549)**
 
-06523v1公告类型：新摘要：装备大型语言模型（ LLM ）以执行可靠的多步骤工作流已成为人工智能的核心挑战此外， * * Lean4Agent * *为使用表达依赖型FL正式建模和验证代理行为的新领域奠定了基础
+07549v1公告类型：新摘要：多模态大型语言模型（ MLLM ）和代理工作流程的最新进展已显示出计算病理学的强大前景我们进一步引入了具有连续信用分配的无培训Beta-Bernoulli体验系统，以建模长期工具可靠性并构建相似性加权先验以供将来工具使用
 
-📅 Mon, 08 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[CrowdMath ：众包数学研究讨论的数据集](https://arxiv.org/abs/2606.06526)**
-
-06526v1公告类型：新摘要：大型语言模型在数学推理方面取得了实质性进展我们定义了评估任务，并对六个前沿模型进行了基准测试
-
-📅 Mon, 08 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[代理AI控制评估中的攻击选择会显著降低安全性](https://arxiv.org/abs/2606.06529)**
-
-06529v1公告类型：新摘要：战略性地选择何时攻击的攻击者比不分青红皂白地攻击的攻击者更难捕获AI控制是在较弱的监督下部署功能强大但不受信任的AI代理的安全框架
-
-📅 Mon, 08 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[CARVE-Q ：量子提出，经典认证的交互式驾驶维修](https://arxiv.org/abs/2606.06531)**
-
-06531v1公告类型：新摘要：正确驾驶否决后的关键问题不仅仅是操作是否不安全然后我们在高达65的雕刻修复预言机上演示状态向量最小发现
-
-📅 Mon, 08 Jun 2026 00:00:00 -0400
+📅 Tue, 09 Jun 2026 00:00:00 -0400
 
 ---
 
 ## 🌍 行业展望
+
+### VentureBeat
+![Anthropic凭借其有史以来最强大的通用模型Claude Fable 5将Mythos带入大众](https://images.ctfassets.net/jdtwqhzvc2n1/5Rlcmqte5CXctov1ExzTWN/a26021b5f21bc357ff8cbac73dffbc6f/ChatGPT_Image_Jun_9__2026__01_10_24_PM.png?w=300&q=30)
+
+**[Anthropic凭借其有史以来最强大的通用模型Claude Fable 5将Mythos带入大众](https://venturebeat.com/technology/anthropic-brings-mythos-to-the-masses-with-claude-fable-5-its-most-powerful-generally-available-model-ever)**
+
+**Anthropic**今天**推出**了两种新的人工智能模型— **Claude** Fable 5和**Claude** Mythos 5 —标志着该公司**首次**广泛**发布**了强大的“Mythos-class”人工智能功能，此前该公司一直支持受限的网络安全计划从受限的网络模型到通用企业人工智能该公告是在**Anthropic**于2025年4月通过Project Glasswing**推出**Claude Mythos Preview之后**发布**的
+
+📅 Tue, 09 Jun 2026 17:19:29 GMT
+
+---
 
 ### VentureBeat
 ![研究人员训练了一个开源的人工智能搜索代理Harness-1 ，在召回相关信息方面优于GPT-5.4](https://images.ctfassets.net/jdtwqhzvc2n1/7z177KhBkorKEkiY8YzOQs/0ef7ec8432d423932800e25561e58b55/ChatGPT_Image_Jun_8__2026__05_47_27_PM.png?w=300&q=30)
@@ -211,51 +222,31 @@ draft: false
 ---
 
 ### Wired Technology
-**[OpenAI在SpaceX和Anthropic之后秘密提交IPO文件](https://www.wired.com/story/openai-confidentially-files-for-ipo/)**
+**[Anthropic为网络合作伙伴提供Mythos升级，并为您提供“安全”版本](https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/)**
 
-Chat**GPT**制造商宣布，它已提交文件上市，就在竞争对手**Anthropic**采取同样步骤的一周后
+**Anthropic**将向受信任的组织**发布**Claude Mythos 5 ，并向公众**发布**Claude Fable 5 ，据称该版本不能用于网络攻击
 
-📅 Mon, 08 Jun 2026 21:31:58 +0000
-
----
-
-### Wired Technology
-**[苹果新推出的Siri人工智能已准备好实现个性化](https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/)**
-
-从独立应用程序到**Google** **Gemini**合作伙伴关系，以下是您需要从WWDC 2026了解的有关Apple即将对Siri进行大修的所有信息
-
-📅 Mon, 08 Jun 2026 18:17:44 +0000
+📅 Tue, 09 Jun 2026 17:00:46 +0000
 
 ---
 
-### Ars Technica
-**[Gemini 3.5和Antigravity加入Google NotebookLM](https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/)**
+### ZDNet AI
+**[Anthropic的新款Claude Fable 5是一款带有护栏的精简神话](https://www.zdnet.com/article/anthropiclaude-fable-5-nerfed-mythos-with-guardrails/)**
 
-NotebookLM正在进行重大**升级**，但目前仅适用于AI Ultra和企业帐户。
+**Claude** Fable 5为普通用户带来Mythos级人工智能编码能力，但带有网络安全护栏
 
-📅 Mon, 08 Jun 2026 19:00:30 +0000
+📅 Tue, 09 Jun 2026 17:00:00 GMT
 
 ---
 
 ### The Verge
-![Apple的屏幕时间更新太少，太迟了](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Screentime-2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![Anthropic发布其首款神话级模特Claude Fable ](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[Apple的屏幕时间更新太少，太迟了](https://www.theverge.com/tech/946446/apples-screen-time-updates-are-too-little-too-late)**
+**[Anthropic发布其首款神话级模特Claude Fable ](https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos)**
 
-但最大的问题是，尽管所有的广播时间，除了重新设计的界面之外，它没有宣布太多的新内容。您可以追溯最近对**Meta**和谷歌进行的具有里程碑意义的社交媒体试验的线索，追溯到今天库比蒂诺总部外的抗议者：苹果正试图向世界展示它对您的孩子负责
+**Anthropic**刚刚**发布**了**Claude** Fable 5 ，这是一种新的人工智能模型，它被认为是迄今为止**最强**大的模型。Fable 5标志着**Anthropic**的Mythos类人工智能模型的**首次**广泛**发布**
 
-📅 2026-06-08T23:41:00.000Z
-
----
-
-### The Verge
-![在Anthropic之后的IPO OpenAI文件](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[在Anthropic之后的IPO OpenAI文件](https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential)**
-
-**OpenAI**周一完成了它和竞争对手**Anthropic**在一年大部分时间内竞争的IPO竞赛的初步步骤：该公司宣布已秘密向美国证券交易委员会提交了表格S-1作为**Anthropic**最近的筹款
-
-📅 2026-06-08T21:38:29.000Z
+📅 2026-06-09T17:00:00.000Z
 
 ---
 
@@ -268,16 +259,47 @@ NotebookLM正在进行重大**升级**，但目前仅适用于AI Ultra和企业�
 
 ---
 
+### Wired Technology
+**[接管旧金山的谷歌巴士的不为人知的故事](https://www.wired.com/story/book-excerpt-city-on-the-edge-google-buses-san-francisco/)**
+
+十年前，通勤巴士在旧金山引发了大规模抗议活动多年后，这座城市仍然感受到了影响
+
+📅 Tue, 09 Jun 2026 11:00:00 +0000
+
+---
+
 ## 📦 GitHub热门
+
+### GitHub Active (AI/ML)
+![pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://avatars.githubusercontent.com/u/21003710?v=4)
+
+**[pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://github.com/pytorch/pytorch)**
+
+⭐ 100,617星· 27960分叉· Python ·具有强大GPU加速的Python中的张量和动态神经网络
+
+📅 2026-06-09T17:29:25Z
+
+---
 
 ### GitHub New (New AI)
 ![🆕 mue-x ：实时重写自身源代码的自我进化AI代理。6种变异策略。7个自主驱动器。GitHub吸收。由100% AI公司KORRO建造。](https://avatars.githubusercontent.com/u/290513763?v=4)
 
 **[🆕 mue-x ：实时重写自身源代码的自我进化AI代理。6种变异策略。7个自主驱动器。GitHub吸收。由100% AI公司KORRO建造。](https://github.com/KorroAi/mue-x)**
 
-⭐ 10 star (新项目) · Python · Self-evolving AI agent that rewrites its own source code in real-timeBuilt by KORRO, 100% AI company
+⭐ 12 star (新项目) · Python · Self-evolving AI agent that rewrites its own source code in real-timeBuilt by KORRO, 100% AI company
 
 📅 2026-06-07T11:53:56Z
+
+---
+
+### GitHub New (New AI)
+![🆕 ASAC ：基于注意力模式的注意力控制（ ASAC ）的实施，一种认知启发的变压器注意力管理方法](https://avatars.githubusercontent.com/u/108653?v=4)
+
+**[🆕 ASAC ：基于注意力模式的注意力控制（ ASAC ）的实施，一种认知启发的变压器注意力管理方法](https://github.com/lucidrains/ASAC)**
+
+⭐ 6 star (新项目) · Python · Implementation of Attention Schema-based Attention Control (ASAC)A Cognitive-Inspired Approach for Attention Management in Transformers
+
+📅 2026-06-09T01:25:08Z
 
 ---
 
@@ -292,45 +314,32 @@ NotebookLM正在进行重大**升级**，但目前仅适用于AI Ultra和企业�
 
 ---
 
-### GitHub New (New AI)
-![🆕 渐进GAN ：用于高分辨率图像生成的自定义可训练渐进GAN](https://avatars.githubusercontent.com/u/56498519?v=4)
-
-**[🆕 渐进GAN ：用于高分辨率图像生成的自定义可训练渐进GAN](https://github.com/bhupinder2121221/Progressive-GAN)**
-
-⭐ 3 star (新项目) · Python · Custom trainable Progressive GAN for High Resolution Image Generation
-
-📅 2026-06-07T15:35:34Z
-
----
-
-### GitHub New (New AI)
-![🆕 TelegramAI ：由LLM提供支持的Telegram AI助手。支持对话式人工智能、命令处理和无缝Telegram集成](https://avatars.githubusercontent.com/u/87330294?v=4)
-
-**[🆕 TelegramAI ：由LLM提供支持的Telegram AI助手。支持对话式人工智能、命令处理和无缝Telegram集成](https://github.com/br1ge/TelegramAI)**
-
-⭐ 3 star (新项目) · Python · Telegram AI assistant powered by LLMsSupports conversational AI, command handling, and seamless Telegram integration
-
-📅 2026-06-06T05:19:20Z
-
----
-
 ## 💬 社交动态
 
 ### Hacker News
-**[苹果推出围绕谷歌双子座模型构建的新人工智能架构](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)**
+**[克劳德神话5/寓言5](https://www.anthropic.com/claude/fable)**
 
-文章网址： https://wwwcom/2026/06/08/apple-reveals-**new**-ai-architecture/评论网址： https://**new**s
+文章网址： https://wwwcom/**Claude**/fable评论网址： https://**new**s
 
-📅 Mon, 08 Jun 2026 19:14:47 +0000
+📅 Tue, 09 Jun 2026 17:10:39 +0000
 
 ---
 
-### Hacker News AI
-**[让我们过滤人工智能，你们这些胆小鬼](https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok)**
+### Hacker News
+**[系统卡牌：克劳德寓言5和克劳德神话5 [pdf]](https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf)**
 
-文章网址： https://wwwcom/ai-artificial-intelligence/942909/let-us-filter-ai-slop-**Google**-youtube-**Meta**-instagram-tiktok评论网址： https://**new**s
+文章网址： https://www-cdnpdf评论网址： https://**new**s
 
-📅 Tue, 09 Jun 2026 00:01:20 +0000
+📅 Tue, 09 Jun 2026 16:58:13 +0000
+
+---
+
+### Hacker News
+**[克劳德寓言5](https://www.anthropic.com/news/claude-fable-5-mythos-5)**
+
+文章网址： https://wwwcom/**new**s/**Claude**-fable-5-mythos-5评论网址： https://**new**s
+
+📅 Tue, 09 Jun 2026 16:58:01 +0000
 
 ---
 
@@ -339,7 +348,7 @@ NotebookLM正在进行重大**升级**，但目前仅适用于AI Ultra和企业�
 
 标题： **OpenAI** (@ **OpenAI**)/X
 
-📅 2026-06-09T00:07:22.764Z
+📅 2026-06-09T17:27:29.688Z
 
 ---
 
@@ -348,7 +357,7 @@ NotebookLM正在进行重大**升级**，但目前仅适用于AI Ultra和企业�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-06-09T00:07:22.764Z
+📅 2026-06-09T17:27:29.688Z
 
 ---
 
@@ -357,7 +366,7 @@ NotebookLM正在进行重大**升级**，但目前仅适用于AI Ultra和企业�
 
 [图片1 ：方形个人头像并打开个人头像] (https://pbscom/**OpenAI**/photo)
 
-📅 2026-06-09T00:07:22.764Z
+📅 2026-06-09T17:27:29.688Z
 
 ---
 
@@ -366,7 +375,7 @@ NotebookLM正在进行重大**升级**，但目前仅适用于AI Ultra和企业�
 
 标题： **DeepSeek** (@ **DeepSeek**_ai)/X
 
-📅 2026-06-09T00:08:48.117Z
+📅 2026-06-09T17:28:34.538Z
 
 ---
 
@@ -375,16 +384,7 @@ NotebookLM正在进行重大**升级**，但目前仅适用于AI Ultra和企业�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-06-09T00:08:48.117Z
-
----
-
-### X: DeepSeek
-**[[! [图片1 ：打开个人头像] (https://pbs.twimg.com/profile_images/1717417613775757312/Uk1zNOj4_2...](https://r.jina.ai/http://twitter.com/deepseek_ai)**
-
-【图片1 ：打开个人头像】（ https://pbscom/**DeepSeek**_ai/photo ）
-
-📅 2026-06-09T00:08:48.117Z
+📅 2026-06-09T17:28:34.538Z
 
 ---
 
