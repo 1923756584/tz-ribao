@@ -1,12 +1,12 @@
 ---
 title: "2026年6月10日 - TZ日报"
-date: 2026-06-10T00:17:04.690Z
+date: 2026-06-10T18:02:11.953Z
 draft: false
 ---
 
 # 2026年6月10日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/6/10 00:17:04
+> 📊 今日汇总 38 条 · 🕐 2026/6/10 18:02:11
 
 ---
 
@@ -31,30 +31,12 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[Anthropic's Fable 5只需点击一下按钮，即可制作奇怪有趣的视频游戏](https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/)**
+### OpenAI Blog
+**[从数据到决策： LSEG如何扩展可信赖的人工智能](https://openai.com/index/lseg)**
 
-**Anthropic**的**Claude** Fable 5将成为网络氛围编码器的大热门。
+了解LSEG如何使用**OpenAI**在其全球业务缩减**发布**周期中扩展可信赖的人工智能
 
-📅 Tue, 09 Jun 2026 20:37:49 +0000
-
----
-
-### TechCrunch AI Products
-**[Anthropic的Claude Fable 5是今天公众可以访问的Mythos的版本](https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/)**
-
-**Anthropic**正在**发布**Claude Fable 5 ，这是其**首个**向公众开放的Mythos级模型该模型配备了护栏，可阻止网络安全和生物学等高风险领域的响应
-
-📅 Tue, 09 Jun 2026 17:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[它不再是FAANG了。这是芒果。](https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/)**
-
-和**OpenAI**都在关注大规模的公开亮相科技行业可能很快就会有一类新的企业霸主—以及一个新的首字母缩略词来匹配
-
-📅 Tue, 09 Jun 2026 16:09:14 +0000
+📅 Wed, 10 Jun 2026 00:00:00 GMT
 
 ---
 
@@ -104,85 +86,103 @@ Nextdoor的工程师如何将Codex与**GPT**-55结合使用，以调查难以重
 ---
 
 ### TechCrunch AI Products
-**[贾斯汀·欧内斯特（ Justin Ernest ）如何在没有传统风险投资基金的情况下向热门创业公司投资近4亿美元$](https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-400m-into-hot-startups-without-a-traditional-vc-fund/)**
+**[网络安全研究人员对人类寓言的护栏不满意](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/)**
 
-Sabertooth风险投资创始人没有花一年时间筹集正式的风险基金，而是利用有限合伙人的专属网络来投资像**Anthropic**这样的创业公司。
+网络安全研究人员抱怨说， **Anthropic**的新模型Fable的护栏对任何网络安全工作都过于严格
 
-📅 Tue, 09 Jun 2026 23:17:51 +0000
+📅 Wed, 10 Jun 2026 15:41:22 +0000
+
+---
+
+### TechCrunch AI Products
+**[Meta与Reliance在印度签署首笔人工智能数据中心交易](https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/)**
+
+这座168兆瓦的设施将支持**Meta**的全球人工智能计算需求，并可随着时间的推移进行扩展
+
+📅 Wed, 10 Jun 2026 07:05:26 +0000
+
+---
+
+### TechCrunch AI Products
+**[谷歌刚刚在人工智能订阅价格战中发出警告](https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/)**
+
+谷歌刚刚大大降低了享受其预算AI订阅层的成本。
+
+📅 Wed, 10 Jun 2026 00:26:10 +0000
 
 ---
 
 ## 🔬 前沿研究
 
-### ArXiv Multiagent (cs.MA)
-**[Emergence World ：评估长期多Agent自主性的平台](https://arxiv.org/abs/2606.08367)**
-
-我们提出了一项为期15天的跨供应商研究，涉及五个平行世界，由**Claude** Sonnet 41 Fast、**Gemini** 3 Flash、**GPT**-5-mini和混合人群提供支持
-
-📅 Tue, 09 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv Computer Vision (cs.CV)
-**[你能相信你所看到的吗？合成法律证据的人工和人工智能检测](https://arxiv.org/abs/2606.07613)**
-
-07613v1公告类型：新摘要：长期以来，视觉证据一直被视为一种可靠的法律证明形式本文探讨了在民事纠纷的典型以对象为中心的场景中，人类和前沿多式联运大型语言模型（ MLLM ）如何将真实的证据照片与人工智能生成的对应物区分开来
-
-📅 Tue, 09 Jun 2026 00:00:00 -0400
-
----
-
 ### ArXiv AI (cs.AI)
-**[为什么将剩余流限制为图层而不是令牌？持续潜在推理的持久记忆](https://arxiv.org/abs/2606.07720)**
+**[更少的情境，更好的代理：针对使用LLM代理的长期工具的高效情境工程](https://arxiv.org/abs/2606.10209)**
 
-07720v1公告类型：新摘要：大型语言模型（ LLM ）在数学和多跳规划任务方面表现出卓越的推理能力使用**GPT**-2作为基础模型在GSM8K、HotpotQA和ProsQA上进行评估， AGCLR在所有类型的数据集上实现了一致的改进
+我们在50项任务的酒店费用基准上评估了四种**GPT**-5配置： **Claude** Sonnet 4没有用户模型和跨模型证据
 
-📅 Tue, 09 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[关于聊天机器人如何在解决问题驱动的对话中工作的一些假设。大型语言模型作为创新错觉的确认](https://arxiv.org/abs/2606.07722)**
-
-07722v1 **announce** Type: **new** Abstract: This article offers a perspective on the nature of chatbots as genuine conversation partners when discussing problems in relation to their solutionsThe main results are: a description of human understanding and thinking based on so-called **Meta**phorical problem propagations; the hypothesis that text dataset used for training LLMs have specific characteristics and that these text datasets only partially imitate human thinking and understanding; the hypothesis that the LLM training process encodes artificial **Meta**phorical problem propagations into an LLM from these datasets; our conclusion that a basic chatbot cannot be a thinking partner capable of matching humans; our conclusion that further development of the Large Language Model will not lead to this either
-
-📅 Tue, 09 Jun 2026 00:00:00 -0400
+📅 Wed, 10 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Machine Learning (cs.LG)
-**[通过相变出现：机制景观和跨复杂系统的通用融合](https://arxiv.org/abs/2606.07563)**
+**[LLM-as-a-Discriminator ：当合成表看起来仍然真实时](https://arxiv.org/abs/2606.09865)**
 
-07563v1公告类型：新摘要：跨机器学习HEF模型在受热力学和信息理论定律约束的机制格局中作为相变出现
+09865v1公告类型：新摘要：隐私和数据共享经常处于紧张状态为了重现性，代码和实验脚本可在https://github上找到
 
-📅 Tue, 09 Jun 2026 00:00:00 -0400
+📅 Wed, 10 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[博彩人工智能辅助同行评审给科学界带来新风险](https://arxiv.org/abs/2606.10159)**
+
+10159v1公告类型：新摘要： AI越来越多地用于支持**GPT**的科学同行评审88
+
+📅 Wed, 10 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Multiagent (cs.MA)
-**[GRPO无法弥合多代理协调差距](https://arxiv.org/abs/2606.07845)**
+**[基于LLM的代码文档生成和多法官评估](https://arxiv.org/abs/2606.09852)**
 
-07845v1公告类型：新摘要：我们衡量当前大型语言模型在共享公共资源的多个Agent之间的协调程度多Agent协调上的开放权重14B模型的瓶颈不是训练计算，而是训练方法：奖励塑造不会崩溃到无动作最大值
+我们提出了一个基于人工智能的框架，该框架使用包括**GPT**在内的八个最先进的大型语言模型（ LLM ）来自动生成代码和存储库的文档
 
-📅 Tue, 09 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv Multiagent (cs.MA)
-**[投票协议作为角色受限的多Agent辅导系统的协调机制](https://arxiv.org/abs/2606.08030)**
-
-08030v1公告类型：新摘要：代理辅导系统引入了协调挑战：多个代理可能提出不同但合理的干预措施，甚至短暂的辅导回合也会在模拟学生中显示可衡量的学习收益
-
-📅 Tue, 09 Jun 2026 00:00:00 -0400
+📅 Wed, 10 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[病理分期：通过体验式代理工作流程在病理学中进行多来源证据裁定](https://arxiv.org/abs/2606.07549)**
+**[基础模型代理中的部署时记忆](https://arxiv.org/abs/2606.10062)**
 
-07549v1公告类型：新摘要：多模态大型语言模型（ MLLM ）和代理工作流程的最新进展已显示出计算病理学的强大前景我们进一步引入了具有连续信用分配的无培训Beta-Bernoulli体验系统，以建模长期工具可靠性并构建相似性加权先验以供将来工具使用
+10062v1公告类型：新摘要：基础模型代理是越来越长寿的系统，它们在交互中记住用户，但没有表征内存设计选择如何共同塑造个性化实用程序
 
-📅 Tue, 09 Jun 2026 00:00:00 -0400
+📅 Wed, 10 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[人工智能辅助优化下的探索性响应和自适应刚性](https://arxiv.org/abs/2606.10086)**
+
+10086v1公告类型：新摘要：本文开发了一种人工智能辅助优化下的探索性适应理论模型中的一个中心状态变量是自适应响应
+
+📅 Wed, 10 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Machine Learning (cs.LG)
+**[使用无分布保险的梯度增强对非酒精性脂肪性肝病的适形风险预测](https://arxiv.org/abs/2606.09860)**
+
+09860v1公告类型：新摘要：非酒精性脂肪性肝病（ NAFLD ）影响全球约25%的成年人然而，人群水平的筛查工具仍然不足
+
+📅 Wed, 10 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Machine Learning (cs.LG)
+**[KV缓存量化下的对齐崩溃：诊断和缓解](https://arxiv.org/abs/2606.09864)**
+
+09864v1公告类型：新摘要：键值（ KV ）缓存量化被广泛用于减少大型语言模型（ LLM ）推理内存跨十一个指令调优模型（ 3
+
+📅 Wed, 10 Jun 2026 00:00:00 -0400
 
 ---
 
@@ -210,36 +210,14 @@ Core AI为开发人员提供了在Apple硬件上部署带有Swift API、内存�
 
 ---
 
-### VentureBeat
-![研究人员训练了一个开源的人工智能搜索代理Harness-1 ，在召回相关信息方面优于GPT-5.4](https://images.ctfassets.net/jdtwqhzvc2n1/7z177KhBkorKEkiY8YzOQs/0ef7ec8432d423932800e25561e58b55/ChatGPT_Image_Jun_8__2026__05_47_27_PM.png?w=300&q=30)
-
-**[研究人员训练了一个开源的人工智能搜索代理Harness-1 ，在召回相关信息方面优于GPT-5.4](https://venturebeat.com/orchestration/researchers-trained-an-open-source-ai-search-agent-harness-1-that-outperforms-gpt-5-4-on-recalling-relevant-information)**
-
-在**OpenAI**的**GPT**-oss-20B**开源**模型之上构建的200亿参数的**开源**搜索代理，从根本上重新设计了AI执行复杂检索任务的方式该团队使用**GPT**-5仅生成了899个过滤轨迹，而不是抓取数PB的新行为数据
-
-📅 Mon, 08 Jun 2026 22:19:00 GMT
-
----
-
-### VentureBeat
-![代理清算：企业AI组织存在运行时问题，而不是模型问题—大多数正在构建错误的解决方案](https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/6620b35dd75cc138cb57cf72a9773f07/VentureBeat-Research-1.png?w=300&q=30)
-
-**[代理清算：企业AI组织存在运行时问题，而不是模型问题—大多数正在构建错误的解决方案](https://venturebeat.com/resources/the-agentic-reckoning-enterprise-ai-organizations-have-a-runtime-problem-not-a-model-problem)**
-
-前沿模式大战— **GPT**-5与微软以45%领先； **OpenAI**以22%位居第二
-
-📅 Mon, 08 Jun 2026 21:01:00 GMT
-
----
-
 ### The Verge
-![微软AI负责人称Anthropic表现得像克劳德一样有意识](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2207866106.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![微软出于数据保留问题限制Claude Fable为员工提供服务](https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[微软AI负责人称Anthropic表现得像克劳德一样有意识](https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious)**
+**[微软出于数据保留问题限制Claude Fable为员工提供服务](https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally)**
 
-真正危险的是“**Anthropic**在其宪法中推测**Claude**的意识” Suleyman认为，这种推测可能使聊天机器人表现得好像是有意识的：我认为， **Anthropic**的一些人几乎已经将**Claude**的设计拟人化，以至于它已经走了，并欺骗他们，让他们相信它有他们最初投入其中的这些意识的微光
+**Anthropic**昨天**发布**了第一个Mythos级AI模型**Claude** Fable ，它已经引起了微软内部的担忧。消息人士告诉我，由于**Anthropic**的新数据保留要求，微软正在限制员工使用**Claude** Fable 5
 
-📅 2026-06-09T20:24:25.000Z
+📅 2026-06-10T16:50:23.000Z
 
 ---
 
@@ -255,11 +233,11 @@ Core AI为开发人员提供了在Apple硬件上部署带有Swift API、内存�
 ---
 
 ### Wired Technology
-**[Anthropic为网络合作伙伴提供Mythos升级，并为您提供“安全”版本](https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/)**
+**[借助Google Gemini ，人工智能悄悄进入世界杯](https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/)**
 
-**Anthropic**将向受信任的组织**发布**Claude Mythos 5 ，并向公众**发布**Claude Fable 5 ，据称该版本不能用于网络攻击
+阿根廷国家队将成为谷歌在世界杯期间的测试台和技术展示
 
-📅 Tue, 09 Jun 2026 17:00:46 +0000
+📅 Wed, 10 Jun 2026 10:00:00 +0000
 
 ---
 
@@ -272,38 +250,38 @@ Core AI为开发人员提供了在Apple硬件上部署带有Swift API、内存�
 
 ---
 
+### The Verge
+![微软完全明白为什么学生们在嘘人工智能毕业演讲者](https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK095_MICROSOFT_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[微软完全明白为什么学生们在嘘人工智能毕业演讲者](https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft)**
+
+全国各地的新大学毕业生一直在嘘声和质疑毕业典礼演讲者，他们炒作AIMicrosoft希望每个人都能说出来
+
+📅 2026-06-10T17:45:11.000Z
+
+---
+
+### VentureBeat
+![Cohere开源在单个H100上运行的编码代理](https://images.ctfassets.net/jdtwqhzvc2n1/2hmLU69mEDG09CllK8wDeJ/43818a9c508618ce7dd7fc6ff006a0e5/cohere-north-smk1.jpg?w=300&q=30)
+
+**[Cohere开源在单个H100上运行的编码代理](https://venturebeat.com/technology/cohere-open-sources-a-coding-agent-that-runs-on-a-single-h100)**
+
+构建代理编码管道的工程团队现在有一个具体的**开源**替代品，可以替代像**Claude** Fable 5这样的托管模型—一个在单个H100**Anthropic**的**Claude** Fable 5上运行的模型，现在是功能**最强**大的公开可用托管编码模型，每百万输出令牌运行$ 50
+
+📅 Tue, 09 Jun 2026 21:41:04 GMT
+
+---
+
 ## 📦 GitHub热门
 
 ### GitHub Active (Python)
-![aspire ： Aspire是代码优先、可扩展、可观察的开发和部署工具。](https://avatars.githubusercontent.com/u/6154722?v=4)
+![Nest ：您通往OWASP的门户。探索、参与和帮助塑造未来！](https://avatars.githubusercontent.com/u/155815?v=4)
 
-**[aspire ： Aspire是代码优先、可扩展、可观察的开发和部署工具。](https://github.com/microsoft/aspire)**
+**[Nest ：您通往OWASP的门户。探索、参与和帮助塑造未来！](https://github.com/OWASP/Nest)**
 
-⭐ 6,053星· 901分叉· C # · Aspire是代码优先、可扩展、可观察的开发和部署工具
+⭐ 410星· 639叉·蟒蛇·通往OWASP的门户。探索、参与和帮助塑造未来！
 
-📅 2026-06-10T00:15:53Z
-
----
-
-### GitHub Active (Python)
-![pvlib-python ：一组用于模拟光伏能源系统性能的记录函数。](https://avatars.githubusercontent.com/u/11037261?v=4)
-
-**[pvlib-python ：一组用于模拟光伏能源系统性能的记录函数。](https://github.com/pvlib/pvlib-python)**
-
-⭐ 1,590星· 1198叉·蟒蛇·一组用于模拟光伏能源系统性能的记录函数
-
-📅 2026-06-10T00:15:59Z
-
----
-
-### GitHub Active (AI/ML)
-![awesome-llm-unlearning ：大型语言模型中的机器学习资源库](https://avatars.githubusercontent.com/u/59010212?v=4)
-
-**[awesome-llm-unlearning ：大型语言模型中的机器学习资源库](https://github.com/chrisliu298/awesome-llm-unlearning)**
-
-⭐ 596星· 31分叉·不适用·大型语言模型中用于机器学习的资源库
-
-📅 2026-06-10T00:15:40Z
+📅 2026-06-10T18:00:47Z
 
 ---
 
@@ -318,77 +296,103 @@ Core AI为开发人员提供了在Apple硬件上部署带有Swift API、内存�
 
 ---
 
+### GitHub New (New AI)
+![🆕 ASAC ：基于注意力模式的注意力控制（ ASAC ）的实施，一种认知启发的变压器注意力管理方法](https://avatars.githubusercontent.com/u/108653?v=4)
+
+**[🆕 ASAC ：基于注意力模式的注意力控制（ ASAC ）的实施，一种认知启发的变压器注意力管理方法](https://github.com/lucidrains/ASAC)**
+
+⭐ 7 star (新项目) · Python · Implementation of Attention Schema-based Attention Control (ASAC)A Cognitive-Inspired Approach for Attention Management in Transformers
+
+📅 2026-06-09T01:25:08Z
+
+---
+
+### GitHub New (New AI)
+![🆕 polyHelper ： PolyHelper V4 —认知AI外骨骼。多AI编排平台，实现更安全的人工决策](https://avatars.githubusercontent.com/u/233639022?v=4)
+
+**[🆕 polyHelper ： PolyHelper V4 —认知AI外骨骼。多AI编排平台，实现更安全的人工决策](https://github.com/PolyHelper/polyhelper)**
+
+⭐ 4 star (新项目) · JavaScript · PolyHelper V4 — Cognitive AI ExoskeletonMulti-AI orchestration platform for safer human decisions
+
+📅 2026-06-09T22:07:17Z
+
+---
+
 ## 💬 社交动态
 
-### X: OpenAI
-**[标题： OpenAI (@ OpenAI)/X](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Reddit: r/artificial
+**[哪些非主流的人工智能订阅实际上是值得的？](https://www.reddit.com/r/artificial/comments/1u23r0r/what_non_mainstream_ai_subscriptions_are_actually/)**
 
-标题： **OpenAI** (@ **OpenAI**)/X
+嘿，现在哪些非主流的人工智能订阅实际上值得付费我已经知道像Chat**GPT** **Claude**和**Gemini**这样的大型订阅我更感兴趣的是实际有用的较小或鲜为人知的工具，而不仅仅是炒作
 
-📅 2026-06-10T00:14:18.828Z
-
----
-
-### X: OpenAI
-**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-网址来源： http://twitter.com/**OpenAI**
-
-📅 2026-06-10T00:14:18.828Z
+📅 2026-06-10T14:26:42.000Z
 
 ---
 
-### X: OpenAI
-**[[! [图片1 ：方形个人头像并打开个人头像] (https://pbs.twimg.com/profile_images/188...](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Reddit: r/singularity
+**[什么会阻止人工智能公司组建卡特尔？](https://www.reddit.com/r/singularity/comments/1u288dk/what_is_going_to_stop_ai_companies_from_forming_a/)**
 
-[图片1 ：方形个人头像并打开个人头像] (https://pbscom/**OpenAI**/photo)
+​我知道，从理论上讲，主要的人工智能提供商（ **OpenAI**、**Anthropic**、**Google**、xAI等）正因为如此，模型正在迅速发展，它们的进步是不可否认的
 
-📅 2026-06-10T00:14:18.828Z
-
----
-
-### X: DeepSeek
-**[标题： DeepSeek (@ deepseek_ai)/X](https://r.jina.ai/http://twitter.com/deepseek_ai)**
-
-标题： **DeepSeek** (@ **DeepSeek**_ai)/X
-
-📅 2026-06-10T00:15:15.357Z
+📅 2026-06-10T17:06:08.000Z
 
 ---
 
-### X: DeepSeek
-**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+### Reddit: r/singularity
+![当我们呼吸时，我们实际上正在进行智能爆炸](https://preview.redd.it/hnavzfasih6h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8cf5d083578a6ac26f604c4b4df282ea4bcd43e2)
 
-网址来源： http://twitter.com/**DeepSeek**_ai
+**[当我们呼吸时，我们实际上正在进行智能爆炸](https://www.reddit.com/r/singularity/comments/1u27pze/we_are_literally_ongoing_an_intelligence/)**
 
-📅 2026-06-10T00:15:15.357Z
+最简单的类比可能是苹果每年**发布**他们的新iPhone ，其他玩家竞争跟上或**推出**一个更好的产品，某个地方的某个人现在正在阴影中构建一些东西，很快就会出现，并声称成为像Open AI和人类这样的主要玩家最初的深度探索时刻与chat**GPT**
 
----
-
-### X: DeepSeek
-**[[! [图片1 ：打开个人头像] (https://pbs.twimg.com/profile_images/1717417613775757312/Uk1zNOj4_2...](https://r.jina.ai/http://twitter.com/deepseek_ai)**
-
-【图片1 ：打开个人头像】（ https://pbscom/**DeepSeek**_ai/photo ）
-
-📅 2026-06-10T00:15:15.357Z
+📅 2026-06-10T16:48:25.000Z
 
 ---
 
 ### Hacker News
-**[如果Claude Fable停止帮助你，你永远不会知道](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html)**
+**[Claude Desktop在无法阻止的情况下启动虚拟机](https://github.com/anthropics/claude-code/issues/29045)**
 
-com/blog/posts/**Claude**-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitorhtml评论网址： https://**new**s
+文章网址： https://githubcom/**Anthropic**s/**Claude**-code/issues/29045评论网址： https://**new**s
 
-📅 Tue, 09 Jun 2026 21:19:11 +0000
+📅 Wed, 10 Jun 2026 17:11:56 +0000
 
 ---
 
-### Hacker News AI
-**[克劳德寓言5和新的人工智能安全寓言](https://www.interconnects.ai/p/claude-fable-5-and-new-ai-safety)**
+### Reddit: r/artificial
+**[我跑了半天的寓言5 ，护栏是真实的故事](https://www.reddit.com/r/artificial/comments/1u28c7d/i_ran_fable_5_for_half_day_and_the_guardrails_are/)**
 
-文章网址： https://wwwai/p/**Claude**-fable-5-and-**new**-ai-safety评论网址： https://**new**s
+**Anthropic**放弃了寓言5 ，我立即将其换成我们的开发栈我的设计师的第一句话是“你什么时候学会前端的
 
-📅 Tue, 09 Jun 2026 23:16:13 +0000
+📅 2026-06-10T17:09:49.000Z
+
+---
+
+### Reddit: r/MachineLearning
+**[Anthropic的新模型寓言将默默地阻碍LLM的工作[D]](https://www.reddit.com/r/MachineLearning/comments/1u23f8p/anthropics_new_model_fable_will_silently_handicap/)**
+
+我们实施了新的干预措施，限制了**Claude**针对前沿LLM开发的请求的有效性（例如，使用**Claude**开发竞争模型已经违反了我们的服务条款
+
+📅 2026-06-10T14:14:39.000Z
+
+---
+
+### Reddit: r/singularity
+![Claude Fable在ZeroBench （硬视觉基准）上赶上了GPT](https://preview.redd.it/mmwq79qkmh6h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1406c236ef44690ad5a2a830b11092aa8c2ef041)
+
+**[Claude Fable在ZeroBench （硬视觉基准）上赶上了GPT](https://www.reddit.com/r/singularity/comments/1u28pvm/claude_fable_has_caught_up_with_gpt_on_zerobench/)**
+
+githubio/由/u/Waiting4AniHaremFDVR提交[link] [comments]
+
+📅 2026-06-10T17:22:48.000Z
+
+---
+
+### Reddit: r/singularity
+**[OpenAI准备新的人工智能模型，预计明年上市](https://www.reddit.com/r/singularity/comments/1u283f0/openai_preps_new_ai_model_expects_to_go_public/)**
+
+Altman ：快速的技术进步，特别是人工智能创造新人工智能的递归自我改进（ RSI ） ，可能会导致**OpenAI**推迟其IPOA与此同时， **OpenAI**巨大的计算需求可能会更快地将其推向公开市场
+
+📅 2026-06-10T17:01:32.000Z
 
 ---
 
