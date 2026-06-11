@@ -1,12 +1,12 @@
 ---
 title: "2026年6月11日 - TZ日报"
-date: 2026-06-11T00:19:13.143Z
+date: 2026-06-11T18:16:44.865Z
 draft: false
 ---
 
 # 2026年6月11日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/6/11 00:19:13
+> 📊 今日汇总 38 条 · 🕐 2026/6/11 18:16:44
 
 ---
 
@@ -23,6 +23,15 @@ draft: false
 ## ✨ 产品更新
 
 ### OpenAI Blog
+**[BBVA将人工智能置于OpenAI银行业务的核心](https://openai.com/index/bbva)**
+
+了解BBVA如何将Chat**GPT** Enterprise扩展到100,000名员工，并与**OpenAI**合作加速全球人工智能银行转型
+
+📅 Thu, 11 Jun 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
 **[与中国相关的影响力行动正在瞄准美国的人工智能辩论](https://openai.com/index/prc-linked-influence-operations-ai-debates)**
 
 **OpenAI**的一份新报告详细介绍了使用人工智能瞄准Utech辩论、数据中心叙述、关税和关于Chat**GPT**的虚假声明的中国相关影响力操作
@@ -37,6 +46,24 @@ draft: false
 **Gemini** 35 Live Translate为**Google** AI St**Udio**、**Google** Translate和**Google** Meet带来近乎实时、自然的语音翻译
 
 📅 Tue, 09 Jun 2026 15:16:25 +0000
+
+---
+
+### OpenAI Blog
+**[OpenAI收购ONA](https://openai.com/index/openai-to-acquire-ona)**
+
+**OpenAI**计划收购ONA ，以通过安全、持久的云环境扩展Codex ，从而在企业工作流程中实现长期运行的AI代理
+
+📅 Thu, 11 Jun 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[支持欧洲确保可信赖的人工智能生态系统的工作](https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem)**
+
+**OpenAI**支持欧盟关于人工智能内容透明度的行为准则，推进出处标准和工具，以帮助人们理解人工智能生成的内容
+
+📅 Thu, 11 Jun 2026 00:00:00 GMT
 
 ---
 
@@ -67,122 +94,95 @@ Nextdoor的工程师如何将Codex与**GPT**-55结合使用，以调查难以重
 
 ---
 
-### OpenAI Blog
-**[向美国证券交易委员会保密提交S-1草案](https://openai.com/index/openai-submits-confidential-s-1)**
-
-**OpenAI**确认向SEC提交了一份保密的S-1文件，但尚未确定采取进一步行动的时间
-
-📅 Mon, 08 Jun 2026 14:00:00 GMT
-
----
-
-### OpenAI Blog
-**[专为造福所有人而打造：我们的计划](https://openai.com/index/built-to-benefit-everyone-our-plan)**
-
-随着**OpenAI**致力于确保AGI使每个人都受益， AI的未来愿景侧重于访问、安全和共享繁荣
-
-📅 Mon, 08 Jun 2026 01:30:00 GMT
-
----
-
 ### DeepMind Blog
-**[衡量使用人工智能学习在塞拉利昂及其他地区的影响](https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/)**
+**[投资于多智能体AI安全研究](https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/)**
 
-一项随机对照试验的结果显示， **Gemini**的引导式学习功能具有提高参与度和加速学习的潜力
+谷歌DeepMind及其合作伙伴宣布拨款$ 1000万用于多代理安全研究。
 
-📅 Mon, 08 Jun 2026 13:04:59 +0000
+📅 Wed, 10 Jun 2026 10:21:19 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[网络安全研究人员对人类寓言的护栏不满意](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/)**
+**[Anthropic的Dario Amodei只有一个直接下属](https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/)**
 
-网络安全研究人员抱怨说， **Anthropic**的新模型Fable的护栏对任何网络安全工作都过于严格
+如果创始人和其他商业领袖还没有嫉妒Dario Amodei谁坐在世界上增长最快的人工智能公司之一
 
-📅 Wed, 10 Jun 2026 15:41:22 +0000
-
----
-
-### AI News
-**[Siri AI与Google一起登场，世界许多地方都被锁在门外](https://www.artificialintelligence-news.com/news/siri-ai-google-gemini-rollout/)**
-
-不会发生的事情[…] Siri AI与谷歌一起到达的内部，世界许多地方都被锁定了，首先出现在人工智能新闻上
-
-📅 Wed, 10 Jun 2026 11:00:00 +0000
+📅 Thu, 11 Jun 2026 03:53:06 +0000
 
 ---
 
 ## 🔬 前沿研究
 
-### ArXiv AI (cs.AI)
-**[更少的情境，更好的代理：针对使用LLM代理的长期工具的高效情境工程](https://arxiv.org/abs/2606.10209)**
+### ArXiv Natural Language Processing (cs.CL)
+**[对安全数据提取的大型语言模型进行基准测试](https://arxiv.org/abs/2606.11204)**
 
-我们在50项任务的酒店费用基准上评估了四种**GPT**-5配置： **Claude** Sonnet 4没有用户模型和跨模型证据
+5 Pro、**GPT**-4o、**Claude** 35 Pro与Chain-of-Thought提示相结合，达到了最高的准确率（ 84 ％ ） ，优于**GPT**-4o （ 81 ％ ）和**Claude** 3
 
-📅 Wed, 10 Jun 2026 00:00:00 -0400
+📅 Thu, 11 Jun 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Machine Learning (cs.LG)
-**[LLM-as-a-Discriminator ：当合成表看起来仍然真实时](https://arxiv.org/abs/2606.09865)**
+### ArXiv AI (cs.AI)
+**[将预测未来行为作为一项学习任务](https://arxiv.org/abs/2606.11445)**
 
-09865v1公告类型：新摘要：隐私和数据共享经常处于紧张状态为了重现性，代码和实验脚本可在https://github上找到
+11445v1公告类型：新摘要：人工智能系统的信任通常以其工作原理的解释为基础我们对三个不同推理数据集的两项任务进行评估，发现经过培训的行为预测者比**GPT**-5更准确
 
-📅 Wed, 10 Jun 2026 00:00:00 -0400
+📅 Thu, 11 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Robotics (cs.RO)
+**[Embodied-R1.5 ：通过Embodied基础模型发展身体智力](https://arxiv.org/abs/2606.11324)**
+
+11324v1公告类型：新摘要：我们**推出**Embodied-R15和**GPT**-5
+
+📅 Thu, 11 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[从显式元素到隐式意图：可审计行为推断的预定义库](https://arxiv.org/abs/2606.11207)**
+
+11207v1公告类型：新摘要：我们目前的SemantiCleanDeterministic引擎输出保持完全可重现（ sigma = 0 ） ；依赖于LLM的结果（ E8
+
+📅 Thu, 11 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[位置：海马体显性记忆是AGI的基石](https://arxiv.org/abs/2606.11245)**
+
+11245v1公告类型：新摘要：大型语言模型（ LLM ）在各种任务中表现出非凡的能力，提高了对通用人工智能（ AGI ）的期望
+
+📅 Thu, 11 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[人工智能代理可以综合科学结论吗？](https://arxiv.org/abs/2606.11337)**
+
+11337v1公告类型：新摘要：科学AI代理越来越多地检索证据**Google** AI概述
+
+📅 Thu, 11 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Natural Language Processing (cs.CL)
-**[博彩人工智能辅助同行评审给科学界带来新风险](https://arxiv.org/abs/2606.10159)**
+**[PoQ-Judge ：去中心化法学硕士推理中成本感知质量证明的多架构评估框架](https://arxiv.org/abs/2606.11196)**
 
-10159v1公告类型：新摘要： AI越来越多地用于支持**GPT**的科学同行评审88
+11196v1公告类型：新摘要：去中心化LLM推理网络需要轻量级使用UltraFeedback加**GPT**标记域内数据的两阶段训练，最佳模型达到0
 
-📅 Wed, 10 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv Multiagent (cs.MA)
-**[基于LLM的代码文档生成和多法官评估](https://arxiv.org/abs/2606.09852)**
-
-我们提出了一个基于人工智能的框架，该框架使用包括**GPT**在内的八个最先进的大型语言模型（ LLM ）来自动生成代码和存储库的文档
-
-📅 Wed, 10 Jun 2026 00:00:00 -0400
+📅 Thu, 11 Jun 2026 00:00:00 -0400
 
 ---
 
-### ArXiv AI (cs.AI)
-**[基础模型代理中的部署时记忆](https://arxiv.org/abs/2606.10062)**
+### ArXiv Natural Language Processing (cs.CL)
+**[NightFeats @ MMU-RAGent NeurIPS 2025 ：用于文本转文本轨道的上下文优化多Agent RAG系统](https://arxiv.org/abs/2606.11199)**
 
-10062v1公告类型：新摘要：基础模型代理是越来越长寿的系统，它们在交互中记住用户，但没有表征内存设计选择如何共同塑造个性化实用程序
+11199v1公告类型：新摘要：我们展示的NightFeats竞赛结果显示， NightFeats在LLM-as-a-Judge和Human Likert评估中超过了专有基线，包括**Claude**-SonnetV2和Nova-Pro
 
-📅 Wed, 10 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[人工智能辅助优化下的探索性响应和自适应刚性](https://arxiv.org/abs/2606.10086)**
-
-10086v1公告类型：新摘要：本文开发了一种人工智能辅助优化下的探索性适应理论模型中的一个中心状态变量是自适应响应
-
-📅 Wed, 10 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[使用无分布保险的梯度增强对非酒精性脂肪性肝病的适形风险预测](https://arxiv.org/abs/2606.09860)**
-
-09860v1公告类型：新摘要：非酒精性脂肪性肝病（ NAFLD ）影响全球约25%的成年人然而，人群水平的筛查工具仍然不足
-
-📅 Wed, 10 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[KV缓存量化下的对齐崩溃：诊断和缓解](https://arxiv.org/abs/2606.09864)**
-
-09864v1公告类型：新摘要：键值（ KV ）缓存量化被广泛用于减少大型语言模型（ LLM ）推理内存跨十一个指令调优模型（ 3
-
-📅 Wed, 10 Jun 2026 00:00:00 -0400
+📅 Thu, 11 Jun 2026 00:00:00 -0400
 
 ---
 
@@ -200,92 +200,84 @@ Nextdoor的工程师如何将Codex与**GPT**-55结合使用，以调查难以重
 ---
 
 ### VentureBeat
-![苹果新推出的Siri AI不仅仅是一个更智能的助手，它是一个新的企业应用层](https://images.ctfassets.net/jdtwqhzvc2n1/6uthaZc1i2Q9MgfkivyFpf/7625484349f502786a87695e198930dc/ChatGPT_Image_Jun_9__2026__05_32_55_PM.png?w=300&q=30)
+![微软开源SkillOpt自动升级AI智能体技能，无需触及模型权重](https://images.ctfassets.net/jdtwqhzvc2n1/2yHyN4RGkIqnssmfMDdPT6/eeef27bc6852a7d2992921ec4705a521/skill_optimization.png?w=300&q=30)
 
-**[苹果新推出的Siri AI不仅仅是一个更智能的助手，它是一个新的企业应用层](https://venturebeat.com/technology/apples-new-siri-ai-is-more-than-just-a-smarter-assistant-its-a-new-enterprise-app-layer)**
+**[微软开源SkillOpt自动升级AI智能体技能，无需触及模型权重](https://venturebeat.com/orchestration/microsofts-open-source-skillopt-automatically-upgrades-ai-agent-skills-without-touching-model-weights)**
 
-Core AI为开发人员提供了在Apple硬件上部署带有Swift API、内存控制和优化执行的自定义模型的第一方方式Microsoft Copilot和**Google** **Gemini**与各自的生产力云紧密相关
+5到较小的封闭和开放模型，包括**GPT**-5 ，其中SkillOpt**更新**在**Claude** Sonnet上运行
 
-📅 Tue, 09 Jun 2026 21:49:00 GMT
-
----
-
-### VentureBeat
-![设备上的AI代理达到了硬内存限制。苹果的新架构绕过它。](https://images.ctfassets.net/jdtwqhzvc2n1/3hpTQydwOHQ99Vln5T3uLo/14ac8c1a0953035ee0b9fe021f39e232/AI-in-phone-smk1.jpg?w=300&q=30)
-
-**[设备上的AI代理达到了硬内存限制。苹果的新架构绕过它。](https://venturebeat.com/technology/on-device-ai-agents-hit-a-hard-memory-limit-apples-new-architecture-routes-around-it)**
-
-设备上的AI模型一直很小，因为整个重量集必须存在于DRAM Apple的第三代基础模型中，在WWDC26上宣布，通过完全移动重量设置DRAM来打破这种限制
-
-📅 Tue, 09 Jun 2026 17:49:06 GMT
-
----
-
-### The Verge
-![苹果新推出的Siri AI知道什么时候该闭嘴](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_13193.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[苹果新推出的Siri AI知道什么时候该闭嘴](https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality)**
-
-苹果的新Siri AI终于来了，到目前为止，看起来还能用当**OpenAI**突然关闭**GPT**-4o时，用户为它的损失感到悲痛，该公司为付费用户带回了模型
-
-📅 2026-06-10T22:52:17.000Z
-
----
-
-### The Verge
-![Claude Fable不会回答基本的生物学问题](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_2_A_3800fc.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[Claude Fable不会回答基本的生物学问题](https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions)**
-
-**Anthropic**刚刚**发布**了**Claude** Fable 5Fable ，这是一个面向公众的神话级模型，一个有能力完成网络安全任务的家庭**Anthropic**表示，公开**发布**太危险了
-
-📅 2026-06-10T18:43:34.000Z
-
----
-
-### The Verge
-![微软完全明白为什么学生们在嘘人工智能毕业演讲者](https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK095_MICROSOFT_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[微软完全明白为什么学生们在嘘人工智能毕业演讲者](https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft)**
-
-全国各地的新大学毕业生一直在嘘声和质疑毕业典礼演讲者，他们炒作AIMicrosoft希望每个人都能说出来
-
-📅 2026-06-10T17:45:11.000Z
+📅 Thu, 11 Jun 2026 23:37:00 GMT
 
 ---
 
 ### VentureBeat
-![Anthropic首席执行官呼吁对强大的人工智能模型进行FAA式的监管：企业应该知道什么](https://images.ctfassets.net/jdtwqhzvc2n1/54ZVTmwJStSWL9FqHNh6J4/956d750fb7590002b868f6804591d304/ChatGPT_Image_Jun_10__2026__03_45_26_PM.png?w=300&q=30)
+![Google的DiffusionGemma并行生成256个代币，并进行自我纠正](https://images.ctfassets.net/jdtwqhzvc2n1/7ovrrf19CQHT2JVXAFiEip/a9d0d1480eb2651175a20372894efa4d/diffusion-image-text.jpg?w=300&q=30)
 
-**[Anthropic首席执行官呼吁对强大的人工智能模型进行FAA式的监管：企业应该知道什么](https://venturebeat.com/technology/anthropic-ceo-calls-for-faa-style-regulation-of-powerful-ai-models-what-enterprises-should-know)**
+**[Google的DiffusionGemma并行生成256个代币，并进行自我纠正](https://venturebeat.com/technology/googles-diffusiongemma-generates-256-tokens-in-parallel-and-self-corrects-as-it-goes)**
 
-“**Anthropic**联合创始人兼首席执行官Dario Amodei公开呼吁制定新的政府法规，以管理强大的人工智能模型的**发布**—特别是将人工智能行业与商业航空进行比较基本**Claude** Mythos模型的**更新**版本
+本周**发布**的**Google** DiffusionGemma是一个**开源**实验模型，它将扩散应用于生产规模的文本生成**Google**表示， DiffusionGemma在GPU上生成文本的速度比标准模型快4倍
 
-📅 Wed, 10 Jun 2026 19:50:12 GMT
+📅 Thu, 11 Jun 2026 15:16:23 GMT
 
 ---
 
-### VentureBeat
-![Cohere开源在单个H100上运行的编码代理](https://images.ctfassets.net/jdtwqhzvc2n1/2hmLU69mEDG09CllK8wDeJ/43818a9c508618ce7dd7fc6ff006a0e5/cohere-north-smk1.jpg?w=300&q=30)
+### ZDNet AI
+**[Euro-Office 1.0到达开源内斗： “兼容性不是主权”](https://www.zdnet.com/article/euro-office-is-here-libreoffice-supporters-arent-happy/)**
 
-**[Cohere开源在单个H100上运行的编码代理](https://venturebeat.com/technology/cohere-open-sources-a-coding-agent-that-runs-on-a-single-h100)**
+microsoft 365和**Google** Workspace的**开源**替代方案，因为LibreOffice支持者抨击其对Microsoft文档格式的依赖
 
-构建代理编码管道的工程团队现在有一个具体的**开源**替代品，可以替代像**Claude** Fable 5这样的托管模型—一个在单个H100**Anthropic**的**Claude** Fable 5上运行的模型，现在是功能**最强**大的公开可用托管编码模型，每百万输出令牌运行$ 50
+📅 Thu, 11 Jun 2026 16:53:16 GMT
 
-📅 Tue, 09 Jun 2026 21:41:04 GMT
+---
+
+### The Verge
+![以下是百思买、GameStop和其他产品的价格匹配政策](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23952330/HT017_money_00010.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[以下是百思买、GameStop和其他产品的价格匹配政策](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)**
+
+没有什么比购买一副新耳机更令人沮丧的了以下是一些主要零售商的价格匹配政策
+
+📅 2026-06-11T17:14:28.000Z
+
+---
+
+### MIT Tech Review
+**[“类固醇奥运会”是一个马戏团，是我们文化的窗口](https://www.technologyreview.com/2026/06/10/1138670/enhanced-games-doping-steroids-hormones-supplements-longevity/)**
+
+人生长激素和EPO代谢调节剂
+
+📅 Wed, 10 Jun 2026 09:00:00 +0000
+
+---
+
+### Wired Technology
+**[Signal Alums揭示了“加密空间” ，这是一个用于制作私人协作应用程序的系统](https://www.wired.com/story/signal-alums-release-encrypted-spaces-a-new-system-for-building-private-collaboration-apps/)**
+
+新的**开源**项目可以作为未来应用程序的基础，这些应用程序的功能与Slack或**Google** Docs一样复杂，但可以增强对监控的保护
+
+📅 Thu, 11 Jun 2026 12:00:00 +0000
+
+---
+
+### Ars Technica
+**[“这不能继续下去” ： Xbox领导者在品牌下垂背后布局“硬道理”](https://arstechnica.com/gaming/2026/06/this-cannot-continue-xbox-leaders-lay-out-hard-truths-behind-sagging-brand/)**
+
+残酷的自我评估描绘了微软游戏部门陷入危机的画面。
+
+📅 Thu, 11 Jun 2026 13:56:30 +0000
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub New (New AI)
-![🆕 polyHelper ： PolyHelper V4 —认知AI外骨骼。多AI编排平台，实现更安全的人工决策](https://avatars.githubusercontent.com/u/233639022?v=4)
+### GitHub Active (Python)
+![OpenFermion ：用于编译和分析量子算法以模拟电子结构的Python包。](https://avatars.githubusercontent.com/u/31279789?v=4)
 
-**[🆕 polyHelper ： PolyHelper V4 —认知AI外骨骼。多AI编排平台，实现更安全的人工决策](https://github.com/PolyHelper/polyhelper)**
+**[OpenFermion ：用于编译和分析量子算法以模拟电子结构的Python包。](https://github.com/quantumlib/OpenFermion)**
 
-⭐ 8 star (新项目) · JavaScript · PolyHelper V4 — Cognitive AI ExoskeletonMulti-AI orchestration platform for safer human decisions
+⭐ 1,702星· 425叉· Python · Python包，用于编译和分析量子算法以模拟电子结构
 
-📅 2026-06-09T22:07:17Z
+📅 2026-06-11T18:15:19Z
 
 ---
 
@@ -294,111 +286,105 @@ Core AI为开发人员提供了在Apple硬件上部署带有Swift API、内存�
 
 **[🆕 ASAC ：基于注意力模式的注意力控制（ ASAC ）的实施，一种认知启发的变压器注意力管理方法](https://github.com/lucidrains/ASAC)**
 
-⭐ 8 star (新项目) · Python · Implementation of Attention Schema-based Attention Control (ASAC)A Cognitive-Inspired Approach for Attention Management in Transformers
+⭐ 9 star (新项目) · Python · Implementation of Attention Schema-based Attention Control (ASAC)A Cognitive-Inspired Approach for Attention Management in Transformers
 
 📅 2026-06-09T01:25:08Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 Visual-Question-Answering-System ： “由人工智能驱动的可视化问答（ VQA ）系统，用自然语言分析图像并回答用户问题。使用计算机视觉、机器学习和现代网络技术构建，从视觉内容中提供准确的上下文感知响应。”](https://avatars.githubusercontent.com/u/241722711?v=4)
+![🆕 AdRank-CTR-Prediction-System ：生产级CTR预测系统，具有实时推理、排名模型、MLOps管道以及受Google/Meta广告系统启发的可扩展广告点击预测架构。](https://avatars.githubusercontent.com/u/67845323?v=4)
 
-**[🆕 Visual-Question-Answering-System ： “由人工智能驱动的可视化问答（ VQA ）系统，用自然语言分析图像并回答用户问题。使用计算机视觉、机器学习和现代网络技术构建，从视觉内容中提供准确的上下文感知响应。”](https://github.com/23se02ml110-krija/Visual-Question-Answering-System)**
+**[🆕 AdRank-CTR-Prediction-System ：生产级CTR预测系统，具有实时推理、排名模型、MLOps管道以及受Google/Meta广告系统启发的可扩展广告点击预测架构。](https://github.com/divyanshujethi/AdRank-CTR-Prediction-System)**
 
-⭐ 2 star (新项目) · TypeScript · "Visual Question Answering (VQA) System powered by AI that analyzes images and answers user questions in natural languageBuilt using computer vision, machine learning, and modern web technologies to provide accurate, context-aware responses from visual content
+⭐ 3 star (新项目) · Python · Production-grade CTR prediction system with real-time inferenceand scalable ad-click prediction architecture inspired by **Google**/**Meta** ad systems
 
-📅 2026-06-10T09:38:52Z
+📅 2026-06-11T08:17:58Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 lumen ：将文章转换为可滑动摘要卡的多智能体AI平台。](https://avatars.githubusercontent.com/u/248526747?v=4)
+![🆕 欺诈检测系统：使用XGBoost、FastAPI、React、PostgreSQL和SHAP可解释性的全栈欺诈检测系统。](https://avatars.githubusercontent.com/u/167699325?v=4)
 
-**[🆕 lumen ：将文章转换为可滑动摘要卡的多智能体AI平台。](https://github.com/samarthkashyap03/lumen)**
+**[🆕 欺诈检测系统：使用XGBoost、FastAPI、React、PostgreSQL和SHAP可解释性的全栈欺诈检测系统。](https://github.com/Nikhil-VS1811/fraud-detection-system)**
 
-⭐ 2 star (新项目) · TypeScript · Multi-agent AI platform that turns articles into swipeable summary cards
+⭐ 2 star (新项目) · JavaScript · Full-stack fraud detection system using XGBoost, FastAPI, React, PostgreSQL, and SHAP explainability
 
-📅 2026-06-08T16:59:46Z
+📅 2026-06-11T14:27:14Z
 
 ---
 
 ## 💬 社交动态
 
-### Reddit: r/artificial
-![我将Andrej Karpathy的LLM委员会概念提升到了一个新的水平（ Docker、MCP、技能、搜索、本地/云模型支持等等）](https://preview.redd.it/x7t8zn66si6h1.png?width=140&amp;height=81&amp;auto=webp&amp;s=7014a8d801c6233d2ffc7f12dea28050ec1e28ee)
+### X: OpenAI
+**[标题： OpenAI (@ OpenAI)/X](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-**[我将Andrej Karpathy的LLM委员会概念提升到了一个新的水平（ Docker、MCP、技能、搜索、本地/云模型支持等等）](https://www.reddit.com/r/artificial/comments/1u2eubs/i_took_andrej_karpathys_llm_council_concept_to/)**
+标题： **OpenAI** (@ **OpenAI**)/X
 
-所以我建立了人工智能顾问来运行两种不同的审议模式：首先，法学硕士理事会模式我还内置了与**OpenAI**、**Anthropic**、OpenCode、Mistral和**DeepSeek**的直接连接
-
-📅 2026-06-10T21:03:00.000Z
+📅 2026-06-11T18:13:41.994Z
 
 ---
 
-### Reddit: r/artificial
-**[这种规模的人工智能实际上是可持续的吗？](https://www.reddit.com/r/artificial/comments/1u2fetp/is_ai_at_this_scale_actually_sustainable/)**
+### X: OpenAI
+**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-人们今天可以使用它来产生影响编辑：新人评论中对话的顶级域名空间数据中心：发射二氧化碳显然比我想象的要小得多（一次发射在美国电网上运行相同的硬件大约一个月） ，所以我们要为此付出代价对于日常使用来说，人们会使用像Qwen这样的模型来提高计算效率，或者使用Eco**GPT**这样的模型来抵消损害， Eco**GPT**承诺通过/u/Swift_lunatic_2604提交的使用情况来种植树木[link] [comments]
+网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-06-10T21:24:18.000Z
-
----
-
-### Reddit: r/artificial
-![Claude Fable 5的安全护栏可以通过虚假的家庭作业绕过](https://preview.redd.it/o892vvv4fi6h1.png?width=140&amp;height=114&amp;auto=webp&amp;s=3de0592e73108bdd6f366efe6376b864b8b89443)
-
-**[Claude Fable 5的安全护栏可以通过虚假的家庭作业绕过](https://www.reddit.com/r/artificial/comments/1u2cwfz/claude_fable_5s_security_guardrails_can_be/)**
-
-因此， **Anthropic**昨天放弃了寓言5 ，其中包含与安全相关的任何硬块。我要求它帮助利用**Meta**sploitable2虚拟机上的一些漏洞（这是一个故意易受攻击的训练盒，完全合法，它是我的）
-
-📅 2026-06-10T19:51:28.000Z
+📅 2026-06-11T18:13:41.994Z
 
 ---
 
-### Reddit: r/singularity
-![微软限制员工使用Claude Fable 5型号](https://external-preview.redd.it/z_6o9WQbIerz6GKA-Wm1GUwhbcI-nYvixFBjUih6oeg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4c810902562442840dd042121a1c309e1ba924ee)
+### X: OpenAI
+**[[! [图片1 ：方形个人头像并打开个人头像] (https://pbs.twimg.com/profile_images/188...](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-**[微软限制员工使用Claude Fable 5型号](https://www.reddit.com/r/singularity/comments/1u2crfw/microsoft_restricts_employees_from_using_claude/)**
+[图片1 ：方形个人头像并打开个人头像] (https://pbscom/**OpenAI**/photo)
 
-功能强大的**Claude** Fable 5模型的访问已被停止，特别是关于其集成到GitHub Copilot ，有待内部审查核心问题： **Anthropic**针对Mythos类模型的**更新**政策规定，出于安全目的，用户提示和生成的输出将保留30天
-
-📅 2026-06-10T19:46:28.000Z
+📅 2026-06-11T18:13:41.994Z
 
 ---
 
-### Hacker News AI
-**[AI ：均衡器还是分频器？](https://news.ycombinator.com/item?id=48484306)**
+### X: DeepSeek
+**[标题： DeepSeek (@ deepseek_ai)/X](https://r.jina.ai/http://twitter.com/deepseek_ai)**
 
-”人工智能有时可以对人类的克劳德寓言5和神话类模型进行类似的有效公开报道，这表明**最强**大的系统可能通过有限访问计划或优质渠道**推出**，而不是广泛而均匀地**推出**
+标题： **DeepSeek** (@ **DeepSeek**_ai)/X
 
-📅 Wed, 10 Jun 2026 23:37:32 +0000
-
----
-
-### Reddit: r/MachineLearning
-**[寻找关于人工智能对心理困扰提示的反应的论文/资源[P]](https://www.reddit.com/r/MachineLearning/comments/1u2j4uv/looking_for_papersresources_on_ai_responses_to/)**
-
-我目前正在考虑Chat**GPT** ，例如，当正常生成的响应被安全协议替换时
-
-📅 2026-06-10T23:57:38.000Z
+📅 2026-06-11T18:15:04.384Z
 
 ---
 
-### Reddit: r/MachineLearning
-**[通过任务可验证性路由LLM ：受Karpathy框架启发的小型实验（ n = 120 ， 3个模型） [D]](https://www.reddit.com/r/MachineLearning/comments/1u2c04u/routing_llms_by_task_verifiability_a_small/)**
+### X: DeepSeek
+**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
 
-三种型号： **Claude** Sonnet 46最初的得分比**GPT** 5差
+网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-06-10T19:18:55.000Z
+📅 2026-06-11T18:15:04.384Z
 
 ---
 
-### Reddit: r/MachineLearning
-**[Anthropic的新模型寓言将默默地阻碍LLM的工作[D]](https://www.reddit.com/r/MachineLearning/comments/1u23f8p/anthropics_new_model_fable_will_silently_handicap/)**
+### X: DeepSeek
+**[[! [图片1 ：打开个人头像] (https://pbs.twimg.com/profile_images/1717417613775757312/Uk1zNOj4_2...](https://r.jina.ai/http://twitter.com/deepseek_ai)**
 
-我们实施了新的干预措施，限制了**Claude**针对前沿LLM开发的请求的有效性（例如，使用**Claude**开发竞争模型已经违反了我们的服务条款
+【图片1 ：打开个人头像】（ https://pbscom/**DeepSeek**_ai/photo ）
 
-📅 2026-06-10T14:14:39.000Z
+📅 2026-06-11T18:15:04.384Z
+
+---
+
+### X: OpenAI
+**[发布时间： 2026年6月1日，星期一19:57:41 GMT](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+**发布**时间： 2026年6月1日，星期一19:57:41 GMT
+
+📅 2026-06-11T18:13:41.994Z
+
+---
+
+### X: OpenAI
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Markdown 内容
+
+📅 2026-06-11T18:13:41.994Z
 
 ---
 
