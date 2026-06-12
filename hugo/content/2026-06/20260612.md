@@ -1,12 +1,12 @@
 ---
 title: "2026年6月12日 - TZ日报"
-date: 2026-06-12T00:24:36.547Z
+date: 2026-06-12T17:43:41.234Z
 draft: false
 ---
 
 # 2026年6月12日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/6/12 00:24:36
+> 📊 今日汇总 38 条 · 🕐 2026/6/12 17:43:41
 
 ---
 
@@ -21,6 +21,24 @@ draft: false
 ---
 
 ## ✨ 产品更新
+
+### TechCrunch AI Products
+**[SpaceX、Anthropic和OpenAI的热门IPO夏季](https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/)**
+
+但一个新的首字母缩略词正在接管： MANGOS — **Meta** （或Microsoft**OpenAI**
+
+📅 Fri, 12 Jun 2026 16:23:25 +0000
+
+---
+
+### TechCrunch AI Products
+**[现在是炎热的IPO夏天，芒果成熟了](https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/)**
+
+但一个新的首字母缩略词正在接管： MANGOS — **Meta** （或Microsoft**OpenAI**
+
+📅 Fri, 12 Jun 2026 15:50:52 +0000
+
+---
 
 ### OpenAI Blog
 **[BBVA将人工智能置于OpenAI银行业务的核心](https://openai.com/index/bbva)**
@@ -40,21 +58,21 @@ draft: false
 
 ---
 
-### DeepMind Blog
-**[使用Gemini 3.5实时翻译实现流畅、自然的语音翻译](https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/)**
+### OpenAI Blog
+**[面向下一个工作时代的全新OpenAI学院课程](https://openai.com/index/academy-courses-applying-ai-at-work)**
 
-**Gemini** 35 Live Translate为**Google** AI St**Udio**、**Google** Translate和**Google** Meet带来近乎实时、自然的语音翻译
+OpenAI**推出**三门学院课程，帮助人们培养实用的人工智能技能，创建可重复的工作流程，并在日常工作中应用代理
 
-📅 Tue, 09 Jun 2026 15:16:25 +0000
+📅 Fri, 12 Jun 2026 10:00:00 GMT
 
 ---
 
 ### OpenAI Blog
-**[OpenAI收购ONA](https://openai.com/index/openai-to-acquire-ona)**
+**[Preply如何结合人工智能和人类导师来个性化学习](https://openai.com/index/preply)**
 
-**OpenAI**计划收购ONA ，以通过安全、持久的云环境扩展Codex ，从而在企业工作流程中实现长期运行的AI代理
+Preply使用OpenAI**推出**人工智能生成的课程摘要，提供个性化的反馈和语言学习练习
 
-📅 Thu, 11 Jun 2026 00:00:00 GMT
+📅 Fri, 12 Jun 2026 00:00:00 GMT
 
 ---
 
@@ -62,6 +80,15 @@ draft: false
 **[支持欧洲确保可信赖的人工智能生态系统的工作](https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem)**
 
 **OpenAI**支持欧盟关于人工智能内容透明度的行为准则，推进出处标准和工具，以帮助人们理解人工智能生成的内容
+
+📅 Thu, 11 Jun 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[OpenAI收购ONA](https://openai.com/index/openai-to-acquire-ona)**
+
+**OpenAI**计划收购ONA ，以通过安全、持久的云环境扩展Codex ，从而在企业工作流程中实现长期运行的AI代理
 
 📅 Thu, 11 Jun 2026 00:00:00 GMT
 
@@ -85,104 +112,77 @@ draft: false
 
 ---
 
-### OpenAI Blog
-**[Nextdoor的工程师如何使用Codex无限制地构建](https://openai.com/index/nextdoor)**
-
-Nextdoor的工程师如何将Codex与**GPT**-55结合使用，以调查难以重现的问题、跨平台构建并专注于产品成果
-
-📅 Tue, 09 Jun 2026 12:00:00 GMT
-
----
-
-### DeepMind Blog
-**[投资于多智能体AI安全研究](https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/)**
-
-谷歌DeepMind及其合作伙伴宣布拨款$ 1000万用于多代理安全研究。
-
-📅 Wed, 10 Jun 2026 10:21:19 +0000
-
----
-
-### TechCrunch AI Products
-**[Anthropic的Dario Amodei只有一个直接下属](https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/)**
-
-如果创始人和其他商业领袖还没有嫉妒Dario Amodei谁坐在世界上增长最快的人工智能公司之一
-
-📅 Thu, 11 Jun 2026 03:53:06 +0000
-
----
-
 ## 🔬 前沿研究
 
 ### ArXiv Natural Language Processing (cs.CL)
-**[对安全数据提取的大型语言模型进行基准测试](https://arxiv.org/abs/2606.11204)**
+**[购物推理台：多回合会话式购物助理的专家创作基准](https://arxiv.org/abs/2606.12608)**
 
-5 Pro、**GPT**-4o、**Claude** 35 Pro与Chain-of-Thought提示相结合，达到了最高的准确率（ 84 ％ ） ，优于**GPT**-4o （ 81 ％ ）和**Claude** 3
+12608v1公告类型：新摘要：会话购物助手现在为数亿客户提供服务对三个系列（ **GPT**、**Claude**、**Gemini** ）的九款车型进行评估显示，通过率仅达到57--总体77%
 
-📅 Thu, 11 Jun 2026 00:00:00 -0400
+📅 Fri, 12 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[将预测未来行为作为一项学习任务](https://arxiv.org/abs/2606.11445)**
+**[毕达哥拉斯论证者：通过增强精益形式化推进高效形式化证明](https://arxiv.org/abs/2606.12594)**
 
-11445v1公告类型：新摘要：人工智能系统的信任通常以其工作原理的解释为基础我们对三个不同推理数据集的两项任务进行评估，发现经过培训的行为预测者比**GPT**-5更准确
+12594v1公告类型：新摘要：现代精益定理证明器只有通过大量训练和推断计算器ALF突变的污染敏感基准才能实现强大的性能，每个评估模型都会失去准确性；在这里，我们的32B仍然是**最强**的，我们的4B与现有技术相匹配
 
-📅 Thu, 11 Jun 2026 00:00:00 -0400
+📅 Fri, 12 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[Evoflux ： Compact Agent可执行工具工作流程的推理时间演变](https://arxiv.org/abs/2606.12674)**
+
+12674v1公告类型：新摘要：紧凑型语言模型（ LM ）降低了工具代理的成本、延迟和部署风险小型规划人员通常会生成合理的工作流图表，这些图表在工具解析、参数验证、依赖关系跟踪或执行下失败
+
+📅 Fri, 12 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[MARD ：机制级药物相互作用预测的镜像增强推理蒸馏](https://arxiv.org/abs/2606.12578)**
+
+9 pp和**GPT**-4o by +6我们**发布**语料库、DDI-PRM、检索索引和训练代码
+
+📅 Fri, 12 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Robotics (cs.RO)
-**[Embodied-R1.5 ：通过Embodied基础模型发展身体智力](https://arxiv.org/abs/2606.11324)**
+**[Sparse2Act ：跨域机器人操作的学习动作对齐稀疏3D表示](https://arxiv.org/abs/2606.12759)**
 
-11324v1公告类型：新摘要：我们**推出**Embodied-R15和**GPT**-5
+12759v1公告类型：新摘要：显式3D表示对操作很有吸引力，因为它们暴露了对象形状相同的预训练编码器支持LIBERO到**Meta**-World的跨域传输，实现了73
 
-📅 Thu, 11 Jun 2026 00:00:00 -0400
+📅 Fri, 12 Jun 2026 00:00:00 -0400
+
+---
+
+### MIT Tech Research
+**[Google DeepMind担心当数百万代理开始互动时会发生什么](https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/)**
+
+根据Rohin Shah的说法， **Google** DeepMind正在资助对数百万不同人工智能代理在线互动的情况的潜在危险的研究
+
+📅 Thu, 11 Jun 2026 11:00:45 +0000
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[从显式元素到隐式意图：可审计行为推断的预定义库](https://arxiv.org/abs/2606.11207)**
+**[ToolSense ： LLM中审核参数工具知识的诊断框架](https://arxiv.org/abs/2606.12451)**
 
-11207v1公告类型：新摘要：我们目前的SemantiCleanDeterministic引擎输出保持完全可重现（ sigma = 0 ） ；依赖于LLM的结果（ E8
+12451v1公告类型：新摘要：在大型工具目录上作为代理部署的大型语言模型面临着一个关键的工具检索瓶颈将ToolSense应用于ToolBench （约47k个工具） ，评估五个参数模型训练配置显示知识检索分离：在RRB查询上
 
-📅 Thu, 11 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[位置：海马体显性记忆是AGI的基石](https://arxiv.org/abs/2606.11245)**
-
-11245v1公告类型：新摘要：大型语言模型（ LLM ）在各种任务中表现出非凡的能力，提高了对通用人工智能（ AGI ）的期望
-
-📅 Thu, 11 Jun 2026 00:00:00 -0400
+📅 Fri, 12 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[人工智能代理可以综合科学结论吗？](https://arxiv.org/abs/2606.11337)**
+**[ARBOR ：树搜索作为自主Agent的认知层](https://arxiv.org/abs/2606.12563)**
 
-11337v1公告类型：新摘要：科学AI代理越来越多地检索证据**Google** AI概述
+12563v1公告类型：新摘要： Arbor是一个多智能体框架，引入结构化树搜索作为认知层，用于在失败中操作的自主智能体，作为重塑后续探索的诊断信号
 
-📅 Thu, 11 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[PoQ-Judge ：去中心化法学硕士推理中成本感知质量证明的多架构评估框架](https://arxiv.org/abs/2606.11196)**
-
-11196v1公告类型：新摘要：去中心化LLM推理网络需要轻量级使用UltraFeedback加**GPT**标记域内数据的两阶段训练，最佳模型达到0
-
-📅 Thu, 11 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[NightFeats @ MMU-RAGent NeurIPS 2025 ：用于文本转文本轨道的上下文优化多Agent RAG系统](https://arxiv.org/abs/2606.11199)**
-
-11199v1公告类型：新摘要：我们展示的NightFeats竞赛结果显示， NightFeats在LLM-as-a-Judge和Human Likert评估中超过了专有基线，包括**Claude**-SonnetV2和Nova-Pro
-
-📅 Thu, 11 Jun 2026 00:00:00 -0400
+📅 Fri, 12 Jun 2026 00:00:00 -0400
 
 ---
 
@@ -196,17 +196,6 @@ Nextdoor的工程师如何将Codex与**GPT**-55结合使用，以调查难以重
 值得注意的是，小米没有**发布**与**OpenAI**的Codex或谷歌的**Gemini** CLI的比较— **Claude** Code是其所有材料中唯一的竞争对手2 ％ —比MiMo Code自我报告的73 ％高出约9个百分点—以及**OpenAI**自己的**GPT**-5
 
 📅 Thu, 11 Jun 2026 23:14:00 GMT
-
----
-
-### VentureBeat
-![令人惊讶的沮丧： GPT-5.5在残酷的新经纪人期末考试基准测试中击败克劳德·寓言5](https://images.ctfassets.net/jdtwqhzvc2n1/5g96PMK4kOzVQ2whYWfVDW/168843358a4bd8c35031a71071d33f9d/Gemini_Generated_Image_3ru7ln3ru7ln3ru7__1_.png?w=300&q=30)
-
-**[令人惊讶的沮丧： GPT-5.5在残酷的新经纪人期末考试基准测试中击败克劳德·寓言5](https://venturebeat.com/technology/surprise-upset-gpt-5-5-beats-claude-fable-5-on-brutal-new-agents-last-exam-benchmark)**
-
-令人震惊的是， **OpenAI**的**GPT**-5品牌新款Mythos级**Claude** Fable 5型号昨天刚刚**发布**
-
-📅 Wed, 10 Jun 2026 23:16:00 GMT
 
 ---
 
@@ -232,41 +221,48 @@ Nextdoor的工程师如何将Codex与**GPT**-55结合使用，以调查难以重
 
 ---
 
-### Wired Technology
-**[认识OpenAI工程师，领导ChatGPT有史以来最大的转型](https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/)**
+### Ars Technica
+**[谷歌起诉利用Gemini自动化诈骗的中国网络犯罪网络](https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/)**
 
-Thibault Sottiaux帮助使AI编码成为**OpenAI**增长最快的业务之一现在，他正在监督Chat**GPT**的彻底改革
+据称，这些欺诈者通过**Gemini**编码的诈骗网站瞄准了数十万人。
 
-📅 Thu, 11 Jun 2026 21:21:04 +0000
+📅 Fri, 12 Jun 2026 16:34:36 +0000
 
 ---
 
 ### ZDNet AI
-**[Euro-Office 1.0到达开源内斗： “兼容性不是主权”](https://www.zdnet.com/article/euro-office-is-here-libreoffice-supporters-arent-happy/)**
+**[克劳德寓言5秘密扼杀了人工智能研究人员，互联网变得疯狂](https://www.zdnet.com/article/claude-fable-5-secretly-throttled/)**
 
-microsoft 365和**Google** Workspace的**开源**替代方案，因为LibreOffice支持者抨击其对Microsoft文档格式的依赖
+**Claude** Fable 5为用户提供了Mythos级电源，但其隐藏的保护措施将安全功能变成了**Anthropic**的信任问题
 
-📅 Thu, 11 Jun 2026 16:53:16 GMT
-
----
-
-### The Verge
-![以下是百思买、GameStop和其他产品的价格匹配政策](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23952330/HT017_money_00010.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[以下是百思买、GameStop和其他产品的价格匹配政策](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)**
-
-没有什么比购买一副新耳机更令人沮丧的了以下是一些主要零售商的价格匹配政策
-
-📅 2026-06-11T17:14:28.000Z
+📅 Fri, 12 Jun 2026 17:03:00 GMT
 
 ---
 
-### MIT Tech Review
-**[“类固醇奥运会”是一个马戏团，是我们文化的窗口](https://www.technologyreview.com/2026/06/10/1138670/enhanced-games-doping-steroids-hormones-supplements-longevity/)**
+### Wired Technology
+**[中国没有让人们讨厌数据中心](https://www.wired.com/story/china-us-data-center-opposition/)**
 
-人生长激素和EPO代谢调节剂
+共和党立法者、技术投资者甚至**OpenAI**都将美国的反数据中心运动与中国的干预联系起来专家们表示，这要复杂得多
 
-📅 Wed, 10 Jun 2026 09:00:00 +0000
+📅 Fri, 12 Jun 2026 17:17:10 +0000
+
+---
+
+### Ars Technica
+**[诉讼： ChatGPT证实了自杀女性对危机线的不信任](https://arstechnica.com/tech-policy/2026/06/lawsuit-chatgpt-validated-suicidal-womans-distrust-of-crisis-lines/)**
+
+当弱势用户拒绝时，聊天机器人是否放弃了心理健康保护措施？
+
+📅 Fri, 12 Jun 2026 15:03:52 +0000
+
+---
+
+### ZDNet AI
+**[Facebook和Instagram关闭了吗？有关Meta服务中断的注意事项](https://www.zdnet.com/article/is-facebook-instagram-messenger-whatsapp-down/)**
+
+即使是Messenger和WhatsApp也会在周五早上受到影响。
+
+📅 Fri, 12 Jun 2026 15:02:00 GMT
 
 ---
 
@@ -284,6 +280,17 @@ microsoft 365和**Google** Workspace的**开源**替代方案，因为LibreOffic
 ---
 
 ### GitHub New (New AI)
+![🆕 Project-Adam ： Cognet会话人工智能—自我学习、每用户LoRA适应、可微分内存、MCP工具、自主自我播放](https://avatars.githubusercontent.com/u/20883466?v=4)
+
+**[🆕 Project-Adam ： Cognet会话人工智能—自我学习、每用户LoRA适应、可微分内存、MCP工具、自主自我播放](https://github.com/kilvz/Project-Adam)**
+
+⭐ 4 star (新项目) · Python · COGNET conversational AI — self-learning, per-user LoRA adaptation, differentiable memory, MCP tools, autonomous self-play
+
+📅 2026-06-09T13:38:00Z
+
+---
+
+### GitHub New (New AI)
 ![🆕 AdRank-CTR-Prediction-System ：生产级CTR预测系统，具有实时推理、排名模型、MLOps管道以及受Google/Meta广告系统启发的可扩展广告点击预测架构。](https://avatars.githubusercontent.com/u/67845323?v=4)
 
 **[🆕 AdRank-CTR-Prediction-System ：生产级CTR预测系统，具有实时推理、排名模型、MLOps管道以及受Google/Meta广告系统启发的可扩展广告点击预测架构。](https://github.com/divyanshujethi/AdRank-CTR-Prediction-System)**
@@ -295,35 +302,53 @@ microsoft 365和**Google** Workspace的**开源**替代方案，因为LibreOffic
 ---
 
 ### GitHub New (New AI)
-![🆕 欺诈检测系统：使用XGBoost、FastAPI、React、PostgreSQL和SHAP可解释性的全栈欺诈检测系统。](https://avatars.githubusercontent.com/u/167699325?v=4)
+![🆕 markindex-mcp: 新项目](https://avatars.githubusercontent.com/u/129962380?v=4)
 
-**[🆕 欺诈检测系统：使用XGBoost、FastAPI、React、PostgreSQL和SHAP可解释性的全栈欺诈检测系统。](https://github.com/Nikhil-VS1811/fraud-detection-system)**
+**[🆕 markindex-mcp: 新项目](https://github.com/rajfazulhussain2008/markindex-mcp)**
 
-⭐ 2 star (新项目) · JavaScript · Full-stack fraud detection system using XGBoost, FastAPI, React, PostgreSQL, and SHAP explainability
+⭐ 2 star (新项目) · Python · 无描述
 
-📅 2026-06-11T14:27:14Z
-
----
-
-### GitHub New (New AI)
-![🆕 vybe-intelligence-vault ：用于AI代理、RAG系统、MCP服务器、提示、工具、模板和下一代Web开发的自动更新开源保管库。](https://avatars.githubusercontent.com/u/233378322?v=4)
-
-**[🆕 vybe-intelligence-vault ：用于AI代理、RAG系统、MCP服务器、提示、工具、模板和下一代Web开发的自动更新开源保管库。](https://github.com/sairaman436/vybe-intelligence-vault)**
-
-⭐ 2 star (新项目) · N/A · An auto-updating open-source vault for AI agentsand next-generation web development
-
-📅 2026-06-11T09:11:36Z
+📅 2026-06-12T14:07:20Z
 
 ---
 
 ## 💬 社交动态
+
+### Reddit: r/artificial
+![我们在FIFA世界杯上投注了8个人工智能，他们的充分理由是公开的](https://preview.redd.it/pwf6d5b7mu6h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b1de72b6e3854d80970261a2212abf0216ca498d)
+
+**[我们在FIFA世界杯上投注了8个人工智能，他们的充分理由是公开的](https://www.reddit.com/r/artificial/comments/1u3ugv0/we_made_8_ais_bet_on_the_fifa_world_cup_against/)**
+
+8种型号（ **Claude**、Chat**GPT**、**DeepSeek**等）每场世界杯比赛都获得相同的纸质资金，并押注真实的多元市场价格相同，可用信息相同，这些型号在投入（纸质）资金之前构建了真正不同的案例
+
+📅 2026-06-12T12:54:21.000Z
+
+---
+
+### Reddit: r/artificial
+**[2026年中期继续学习。每个人都试图破解它的地图：记忆层， “梦想”代理，以及在网络内部学习的变形金刚后模型](https://www.reddit.com/r/artificial/comments/1u40uys/continual_learning_in_mid2026_a_map_of_everyone/)**
+
+简而言之，这是一个模型在获得经验时不断改进的能力–而不会表现出灾难性的遗忘两个问题： **OpenAI**正在酝酿什么
+
+📅 2026-06-12T16:52:04.000Z
+
+---
+
+### Reddit: r/artificial
+**[我跑了半天的寓言5 ，护栏是真实的故事](https://www.reddit.com/r/artificial/comments/1u3ykv9/i_ran_fable_5_for_half_day_and_the_guardrails_are/)**
+
+**Anthropic**放弃了寓言5 ，我立即将其换成我们的开发栈我的设计师的第一句话是“你什么时候学会前端的
+
+📅 2026-06-12T15:31:08.000Z
+
+---
 
 ### X: OpenAI
 **[标题： OpenAI (@ OpenAI)/X](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 标题： **OpenAI** (@ **OpenAI**)/X
 
-📅 2026-06-12T00:21:42.288Z
+📅 2026-06-12T17:40:36.438Z
 
 ---
 
@@ -332,7 +357,7 @@ microsoft 365和**Google** Workspace的**开源**替代方案，因为LibreOffic
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-06-12T00:21:42.288Z
+📅 2026-06-12T17:40:36.438Z
 
 ---
 
@@ -341,7 +366,7 @@ microsoft 365和**Google** Workspace的**开源**替代方案，因为LibreOffic
 
 [图片1 ：方形个人头像并打开个人头像] (https://pbscom/**OpenAI**/photo)
 
-📅 2026-06-12T00:21:42.288Z
+📅 2026-06-12T17:40:36.438Z
 
 ---
 
@@ -350,7 +375,7 @@ microsoft 365和**Google** Workspace的**开源**替代方案，因为LibreOffic
 
 标题： **DeepSeek** (@ **DeepSeek**_ai)/X
 
-📅 2026-06-12T00:22:50.377Z
+📅 2026-06-12T17:41:57.550Z
 
 ---
 
@@ -359,34 +384,7 @@ microsoft 365和**Google** Workspace的**开源**替代方案，因为LibreOffic
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-06-12T00:22:50.377Z
-
----
-
-### X: DeepSeek
-**[[! [图片1 ：打开个人头像] (https://pbs.twimg.com/profile_images/1717417613775757312/Uk1zNOj4_2...](https://r.jina.ai/http://twitter.com/deepseek_ai)**
-
-【图片1 ：打开个人头像】（ https://pbscom/**DeepSeek**_ai/photo ）
-
-📅 2026-06-12T00:22:50.377Z
-
----
-
-### X: OpenAI
-**[发布时间： 2026年6月1日，星期一19:57:41 GMT](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-**发布**时间： 2026年6月1日，星期一19:57:41 GMT
-
-📅 2026-06-12T00:21:42.288Z
-
----
-
-### X: OpenAI
-**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Markdown 内容
-
-📅 2026-06-12T00:21:42.288Z
+📅 2026-06-12T17:41:57.550Z
 
 ---
 
