@@ -1,12 +1,12 @@
 ---
 title: "2026年6月13日 - TZ日报"
-date: 2026-06-13T00:22:50.526Z
+date: 2026-06-13T16:19:31.969Z
 draft: false
 ---
 
 # 2026年6月13日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/6/13 00:22:50
+> 📊 今日汇总 38 条 · 🕐 2026/6/13 16:19:31
 
 ---
 
@@ -46,15 +46,6 @@ draft: false
 了解BBVA如何将Chat**GPT** Enterprise扩展到100,000名员工，并与**OpenAI**合作加速全球人工智能银行转型
 
 📅 Thu, 11 Jun 2026 00:00:00 GMT
-
----
-
-### OpenAI Blog
-**[与中国相关的影响力行动正在瞄准美国的人工智能辩论](https://openai.com/index/prc-linked-influence-operations-ai-debates)**
-
-**OpenAI**的一份新报告详细介绍了使用人工智能瞄准Utech辩论、数据中心叙述、关税和关于Chat**GPT**的虚假声明的中国相关影响力操作
-
-📅 Wed, 10 Jun 2026 12:00:00 GMT
 
 ---
 
@@ -103,61 +94,25 @@ Preply使用OpenAI**推出**人工智能生成的课程摘要，提供个性化�
 
 ---
 
-### DeepMind Blog
-**[投资于多智能体AI安全研究](https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/)**
+### TechCrunch AI Products
+**[Anthropic的安全警告可能刚刚适得其反—政府已经取消了其最强大的人工智能](https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/)**
 
-谷歌DeepMind及其合作伙伴宣布拨款$ 1000万用于多代理安全研究。
+**Anthropic**并未隐瞒其挫败感“我们不同意这样的观点，即发现狭隘的潜在越狱应该是召回部署到数亿人的商业模式的原因
 
-📅 Wed, 10 Jun 2026 10:21:19 +0000
+📅 Sat, 13 Jun 2026 02:26:30 +0000
+
+---
+
+### TechCrunch AI Products
+**[Meta几个月前的人工智能部门是一个令人心碎的古拉格，工程师们说被困在里面](https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/)**
+
+一份新的报告显示，该单位拥有6,500名员工，正处于起义的边缘。
+
+📅 Fri, 12 Jun 2026 23:00:54 +0000
 
 ---
 
 ## 🔬 前沿研究
-
-### ArXiv Natural Language Processing (cs.CL)
-**[购物推理台：多回合会话式购物助理的专家创作基准](https://arxiv.org/abs/2606.12608)**
-
-12608v1公告类型：新摘要：会话购物助手现在为数亿客户提供服务对三个系列（ **GPT**、**Claude**、**Gemini** ）的九款车型进行评估显示，通过率仅达到57--总体77%
-
-📅 Fri, 12 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[毕达哥拉斯论证者：通过增强精益形式化推进高效形式化证明](https://arxiv.org/abs/2606.12594)**
-
-12594v1公告类型：新摘要：现代精益定理证明器只有通过大量训练和推断计算器ALF突变的污染敏感基准才能实现强大的性能，每个评估模型都会失去准确性；在这里，我们的32B仍然是**最强**的，我们的4B与现有技术相匹配
-
-📅 Fri, 12 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[Evoflux ： Compact Agent可执行工具工作流程的推理时间演变](https://arxiv.org/abs/2606.12674)**
-
-12674v1公告类型：新摘要：紧凑型语言模型（ LM ）降低了工具代理的成本、延迟和部署风险小型规划人员通常会生成合理的工作流图表，这些图表在工具解析、参数验证、依赖关系跟踪或执行下失败
-
-📅 Fri, 12 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[MARD ：机制级药物相互作用预测的镜像增强推理蒸馏](https://arxiv.org/abs/2606.12578)**
-
-9 pp和**GPT**-4o by +6我们**发布**语料库、DDI-PRM、检索索引和训练代码
-
-📅 Fri, 12 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv Robotics (cs.RO)
-**[Sparse2Act ：跨域机器人操作的学习动作对齐稀疏3D表示](https://arxiv.org/abs/2606.12759)**
-
-12759v1公告类型：新摘要：显式3D表示对操作很有吸引力，因为它们暴露了对象形状相同的预训练编码器支持LIBERO到**Meta**-World的跨域传输，实现了73
-
-📅 Fri, 12 Jun 2026 00:00:00 -0400
-
----
 
 ### Science AI
 **[深海中金属驱动的化学反应可以解释生命的起源](https://www.science.org/content/article/metal-driven-chemical-reaction-deep-sea-may-explain-origin-life)**
@@ -177,12 +132,57 @@ GROUP为细胞如何依靠磷酸盐分子构建DNA和储存能量提供了新的
 
 ---
 
-### ArXiv AI (cs.AI)
-**[ToolSense ： LLM中审核参数工具知识的诊断框架](https://arxiv.org/abs/2606.12451)**
+### Science AI
+**[新纪录片讲述了研究人员日益令人担忧的职业道路](https://www.science.org/content/article/new-documentary-follows-researchers-increasingly-fraught-career-path)**
 
-12451v1公告类型：新摘要：在大型工具目录上作为代理部署的大型语言模型面临着一个关键的工具检索瓶颈将ToolSense应用于ToolBench （约47k个工具） ，评估五个参数模型训练配置显示知识检索分离：在RRB查询上
+The Endless Frontier追溯了三位科学家在培训学生和应对资金压力时的生活
 
-📅 Fri, 12 Jun 2026 00:00:00 -0400
+📅 2026-06-12T05:30:00.000Z
+
+---
+
+### Science AI
+**[经过多年的反对，墨西哥总统正在重新考虑水力压裂](https://www.science.org/content/article/after-years-opposition-mexico-s-president-reconsidering-fracking)**
+
+政府已经委托一组科学家评估“可持续”石油和天然气钻探的新技术，但许多专家表示，这是一个幻想
+
+📅 2026-06-11T04:20:00.000Z
+
+---
+
+### Science AI
+**[邮轮汉坦病毒是如何爆发的？科学家们正在研究新的情景](https://www.science.org/content/article/how-did-cruise-ship-hantavirus-outbreak-start-scientists-are-investigating-new)**
+
+了解第一位患者是如何感染的，可以为安第斯病毒的传播模式和潜伏期提供新的线索
+
+📅 2026-06-11T03:55:00.000Z
+
+---
+
+### Science AI
+**[深海车辆在太平洋海浪深处发现“外星人”鲨鱼](https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific)**
+
+地精鲨鱼从未在它们的自然栖息地被拍摄过
+
+📅 2026-06-11T03:45:00.000Z
+
+---
+
+### Science AI
+**[使欧洲变暖的洋流可能比人们担心的更具弹性](https://www.science.org/content/article/ocean-current-warms-europe-may-be-more-resilient-feared)**
+
+对大西洋环流的研究发现，面对全球变暖，大西洋环流既有减弱的迹象，也有意想不到的稳定迹象
+
+📅 2026-06-11T02:00:00.000Z
+
+---
+
+### Science AI
+**[激光增强显微镜可以揭示新的药物靶点，锐化细胞内的视野](https://www.science.org/content/article/laser-boosted-microscopes-could-reveal-new-drug-targets-sharpen-views-inside-cells)**
+
+增强的低温电子显微镜有望将以前难以捉摸的蛋白质带入视野
+
+📅 2026-06-11T02:00:00.000Z
 
 ---
 
@@ -196,6 +196,17 @@ GROUP为细胞如何依靠磷酸盐分子构建DNA和储存能量提供了新的
 值得注意的是，小米没有**发布**与**OpenAI**的Codex或谷歌的**Gemini** CLI的比较— **Claude** Code是其所有材料中唯一的竞争对手2 ％ —比MiMo Code自我报告的73 ％高出约9个百分点—以及**OpenAI**自己的**GPT**-5
 
 📅 Thu, 11 Jun 2026 23:14:00 GMT
+
+---
+
+### VentureBeat
+![根据美国政府命令， Anthropic阻止所有公众访问Claude Fable 5 ， Mythos 5 —企业应该做什么](https://images.ctfassets.net/jdtwqhzvc2n1/2z5YLKjoeV6nzBjKELk7Yo/900a955fa4e5390ad6ea0921e64a7b85/ChatGPT_Image_Jun_13__2026__08_09_56_AM.png?w=300&q=30)
+
+**[根据美国政府命令， Anthropic阻止所有公众访问Claude Fable 5 ， Mythos 5 —企业应该做什么](https://venturebeat.com/technology/anthropic-blocks-all-public-access-to-claude-fable-5-mythos-5-following-us-government-order-what-enterprises-should-do)**
+
+“该公司认为，发现的功能在其他公共模型中“广泛可用”，明确指出竞争对手**OpenAI**的**GPT**-5五角大楼的先例以及对企业人工智能冗余和多样化的需求**Anthropic**最新和最伟大的人工智能模型的突然停电无疑将给主要依赖**Claude** API的组织带来一些惊愕—因为它应该
+
+📅 Sat, 13 Jun 2026 12:24:00 GMT
 
 ---
 
@@ -221,21 +232,12 @@ GROUP为细胞如何依靠磷酸盐分子构建DNA和储存能量提供了新的
 
 ---
 
-### Ars Technica
-**[谷歌起诉利用Gemini自动化诈骗的中国网络犯罪网络](https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/)**
+### Wired Technology
+**[Anthropic表示将让Claude Fable 5下线以遵守美国政府命令](https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/)**
 
-据称，这些欺诈者通过**Gemini**编码的诈骗网站瞄准了数十万人。
+该公司在一篇博客文章中表示： “政府认为它已经意识到一种绕过或‘越狱’寓言5的方法。”
 
-📅 Fri, 12 Jun 2026 16:34:36 +0000
-
----
-
-### ZDNet AI
-**[克劳德寓言5秘密扼杀了人工智能研究人员，互联网变得疯狂](https://www.zdnet.com/article/claude-fable-5-secretly-throttled/)**
-
-**Claude** Fable 5为用户提供了Mythos级电源，但其隐藏的保护措施将安全功能变成了**Anthropic**的信任问题
-
-📅 Fri, 12 Jun 2026 17:03:00 GMT
+📅 Sat, 13 Jun 2026 02:26:10 +0000
 
 ---
 
@@ -251,24 +253,35 @@ GROUP为细胞如何依靠磷酸盐分子构建DNA和储存能量提供了新的
 ---
 
 ### Wired Technology
-**[Meta员工非常讨厌扎克伯格在全公司范围内举办人工智能黑客马拉松的计划](https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/)**
+**[FCC想要杀死燃烧器手机](https://www.wired.com/story/security-news-this-week-the-fcc-wants-to-kill-burner-phones/)**
 
-一位员工在一个向全体员工开放的论坛上发帖说： “我不确定这家公司是否已经支持了黑客马拉松文化。”
+此外：人工智能漏洞狩猎为微软有史以来最大的补丁星期二提供燃料， ShinyHunters勒索软件团伙利用甲骨文零日等
 
-📅 Fri, 12 Jun 2026 23:45:26 +0000
+📅 Sat, 13 Jun 2026 10:30:00 +0000
 
 ---
 
 ### Wired Technology
-**[“告诉他他是狗屎” ： Meta的新AI单元一团糟](https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/)**
+**[法院裁定谷歌对人工智能概述产生的虚假陈述负有责任](https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/)**
 
-根据消息来源和WIRED审查的内部讨论，高管和员工都在为**Meta**混乱的人工智能战略而苦苦挣扎
+该裁决认为，设计和管理人工智能系统的公司必须对其产生的响应造成的任何损害承担法律责任
 
-📅 Fri, 12 Jun 2026 21:16:25 +0000
+📅 Sat, 13 Jun 2026 09:00:00 +0000
 
 ---
 
 ## 📦 GitHub热门
+
+### GitHub New (New AI)
+![🆕 AI-Voice-Changer-Real-Time-Desktop: 新项目](https://avatars.githubusercontent.com/u/291352278?v=4)
+
+**[🆕 AI-Voice-Changer-Real-Time-Desktop: 新项目](https://github.com/amplitudesoldierheed/AI-Voice-Changer-Real-Time-Desktop)**
+
+⭐ 4 star (新项目) · N/A · 无描述
+
+📅 2026-06-13T12:39:52Z
+
+---
 
 ### GitHub New (New AI)
 ![🆕 AdRank-CTR-Prediction-System ：生产级CTR预测系统，具有实时推理、排名模型、MLOps管道以及受Google/Meta广告系统启发的可扩展广告点击预测架构。](https://avatars.githubusercontent.com/u/67845323?v=4)
@@ -293,98 +306,91 @@ GROUP为细胞如何依靠磷酸盐分子构建DNA和储存能量提供了新的
 ---
 
 ### GitHub New (New AI)
-![🆕 欺诈检测系统：使用XGBoost、FastAPI、React、PostgreSQL和SHAP可解释性的全栈欺诈检测系统。](https://avatars.githubusercontent.com/u/167699325?v=4)
+![🆕 memoriq ：用于保存和搜索AI对话的加密AI记忆库](https://avatars.githubusercontent.com/u/291779481?v=4)
 
-**[🆕 欺诈检测系统：使用XGBoost、FastAPI、React、PostgreSQL和SHAP可解释性的全栈欺诈检测系统。](https://github.com/Nikhil-VS1811/fraud-detection-system)**
+**[🆕 memoriq ：用于保存和搜索AI对话的加密AI记忆库](https://github.com/memoriqme/memoriq)**
 
-⭐ 2 star (新项目) · JavaScript · Full-stack fraud detection system using XGBoost, FastAPI, React, PostgreSQL, and SHAP explainability
+⭐ 2 star (新项目) · Vue · Encrypted AI memory vault for saving and searching AI conversations
 
-📅 2026-06-11T14:27:14Z
-
----
-
-### GitHub New (New AI)
-![🆕 vybe-intelligence-vault ：用于AI代理、RAG系统、MCP服务器、提示、工具、模板和下一代Web开发的自动更新开源保管库。](https://avatars.githubusercontent.com/u/233378322?v=4)
-
-**[🆕 vybe-intelligence-vault ：用于AI代理、RAG系统、MCP服务器、提示、工具、模板和下一代Web开发的自动更新开源保管库。](https://github.com/sairaman436/vybe-intelligence-vault)**
-
-⭐ 2 star (新项目) · N/A · An auto-updating open-source vault for AI agentsand next-generation web development
-
-📅 2026-06-11T09:11:36Z
+📅 2026-06-12T09:12:10Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[Claude Pro用户：您实际上如何最大限度地提高订阅量？](https://www.reddit.com/r/artificial/comments/1u4bneb/claude_pro_users_how_do_you_actually_maximize/)**
+![我让Claude Fable 5从头开始构建Minecraft](https://external-preview.redd.it/M3M2d2Vjc3h0MTdoMfwAihk0WcMFMXCWJSgJfa_aW5fkmPqpPg1NTph4KTnd.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=61fb788eb731ab69027ae65d6613443de0c751b3)
 
-您认为**Claude**的哪些任务明显优于Chat**GPT**、**Gemini**或其他人工智能工具如果您今天从新的**Claude** Pro订阅开始，您会首先做什么
+**[我让Claude Fable 5从头开始构建Minecraft](https://www.reddit.com/r/artificial/comments/1u4qj6l/i_had_claude_fable_5_build_minecraft_from_scratch/)**
 
-📅 2026-06-12T23:54:33.000Z
+我一直在指导**Claude** Fable 5 （ **Anthropic**的最新型号）构建PebbleFirst公开测试版，所以肯定有漏洞我没有找到
 
----
-
-### Reddit: r/artificial
-**[$ 20K/月网站重新设计蓝图没人谈论](https://www.reddit.com/r/artificial/comments/1u48kx4/the_20kmonth_website_redesign_blueprint_nobody/)**
-
-我现在使用一种名为swokei的工具，该工具可以大规模分析企业的网站，并根据设计问题等内容生成个性化的外展活动用于构建网站的克劳德代码
-
-📅 2026-06-12T21:43:11.000Z
-
----
-
-### Hacker News
-**[我认为他们[人类学]在骗你[视频]](https://www.youtube.com/watch?v=zfYsSFY4l18)**
-
-文章网址： https://wwwv = zfYsSFY4l18评论网址： https://**new**s
-
-📅 Fri, 12 Jun 2026 23:12:39 +0000
-
----
-
-### Hacker News
-**[SkillSpector](https://github.com/NVIDIA/SkillSpector)**
-
-文章网址： https://githubcom/NVIDIA/SkillSpector评论网址： https://**new**s
-
-📅 Fri, 12 Jun 2026 21:49:49 +0000
-
----
-
-### Hacker News AI
-**[特朗普管理员阻止外国人访问Anthropic最强大的人工智能模型](https://www.axios.com/2026/06/12/anthropic-trump-mythos-fable-national-security)**
-
-文章网址： https://wwwcom/2026/06/12/**Anthropic**-trump-mythos-fable-national-security评论网址： https://**new**s
-
-📅 Fri, 12 Jun 2026 23:52:27 +0000
+📅 2026-06-13T13:07:16.000Z
 
 ---
 
 ### Reddit: r/artificial
-**[嘿，游戏结束了：克劳德现在比我聪明。](https://www.reddit.com/r/artificial/comments/1u49qvz/welp_game_over_claude_is_smarter_than_me_now/)**
+![我创建了一个工具，帮助您在人工智能时代恢复隐私](https://external-preview.redd.it/N3dueG9iM2F1MDdoMV7BI0Jix1UjaUutOuiZrmz3OJ3jzEPtPUjGX4V6c24n.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=738bdf600f9a8386f948cf8e89908fa8e24147d5)
 
-AI的知识比我多是老生常谈了具体来说：我用**Claude**来完成各种学习任务
+**[我创建了一个工具，帮助您在人工智能时代恢复隐私](https://www.reddit.com/r/artificial/comments/1u4mryu/ive_created_a_tool_that_helps_you_reclaim_your/)**
 
-📅 2026-06-12T22:30:46.000Z
+当Chat**GPT**于2023年问世时当您认为数百万用户承认已经使用Chat**GPT**作为治疗师时
 
----
-
-### Reddit: r/artificial
-**[我对同一个问题使用多个AI模型的次数越多，我越认为分歧是唯一有用的部分](https://www.reddit.com/r/artificial/comments/1u46r4f/the_more_i_use_multiple_ai_models_for_the_same/)**
-
-或者他们都从重叠的训练数据中获得了相同的标准，我对此非常书呆子，所以我在我自己的机器上建立了一个小的私人设置，我称之为multi-**Claude**
-
-📅 2026-06-12T20:31:26.000Z
+📅 2026-06-13T09:49:23.000Z
 
 ---
 
-### Hacker News
-**[AMD Stiffs Researcher $ 1万Bug赏金](https://www.gadgetreview.com/amd-stiffs-researcher-10000-bug-bounty-after-critical-security-flaw-takes-124-days-to-fix)**
+### X: OpenAI
+**[标题： OpenAI (@ OpenAI)/X](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-文章网址： https://wwwcom/amd-stiffs-researcher-10000-bug-bounty-after-critical-security-flaw-takes-124-days-to-fix评论网址： https://**new**s
+标题： **OpenAI** (@ **OpenAI**)/X
 
-📅 Fri, 12 Jun 2026 22:57:27 +0000
+📅 2026-06-13T16:16:20.965Z
+
+---
+
+### X: OpenAI
+**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+网址来源： http://twitter.com/**OpenAI**
+
+📅 2026-06-13T16:16:20.965Z
+
+---
+
+### X: OpenAI
+**[[! [图片1 ：方形个人头像并打开个人头像] (https://pbs.twimg.com/profile_images/188...](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+[图片1 ：方形个人头像并打开个人头像] (https://pbscom/**OpenAI**/photo)
+
+📅 2026-06-13T16:16:20.965Z
+
+---
+
+### X: DeepSeek
+**[标题： DeepSeek (@ deepseek_ai)/X](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+
+标题： **DeepSeek** (@ **DeepSeek**_ai)/X
+
+📅 2026-06-13T16:17:41.789Z
+
+---
+
+### X: DeepSeek
+**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+
+网址来源： http://twitter.com/**DeepSeek**_ai
+
+📅 2026-06-13T16:17:41.789Z
+
+---
+
+### X: DeepSeek
+**[[! [图片1 ：打开个人头像] (https://pbs.twimg.com/profile_images/1717417613775757312/Uk1zNOj4_2...](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+
+【图片1 ：打开个人头像】（ https://pbscom/**DeepSeek**_ai/photo ）
+
+📅 2026-06-13T16:17:41.789Z
 
 ---
 
