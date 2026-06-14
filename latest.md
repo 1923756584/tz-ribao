@@ -1,19 +1,19 @@
 ---
 title: "2026年6月14日 - TZ日报"
-date: 2026-06-14T00:10:02.820Z
+date: 2026-06-14T16:26:05.446Z
 draft: false
 ---
 
 # 2026年6月14日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/6/14 00:10:02
+> 📊 今日汇总 32 条 · 🕐 2026/6/14 16:26:05
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 8 条
+- **前沿研究**: 2 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -37,6 +37,15 @@ OpenAI**推出**三门学院课程，帮助人们培养实用的人工智能技�
 Preply使用OpenAI**推出**人工智能生成的课程摘要，提供个性化的反馈和语言学习练习
 
 📅 Fri, 12 Jun 2026 00:00:00 GMT
+
+---
+
+### TechCrunch AI Products
+**[随着Anthropic暂停使用新车型，印度就其人工智能的未来展开辩论](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/)**
+
+技术领导人争论人类事件是否是印度人工智能雄心的警钟。
+
+📅 Sun, 14 Jun 2026 03:00:00 +0000
 
 ---
 
@@ -94,15 +103,6 @@ Preply使用OpenAI**推出**人工智能生成的课程摘要，提供个性化�
 
 ---
 
-### AI News
-**[Visa ChatGPT集成支持AI代理零售采购](https://www.artificialintelligence-news.com/news/visa-chatgpt-integration-enables-ai-agent-retail-purchasing/)**
-
-Visa已将其支付基础设施与Chat**GPT**相关联，使AI代理商能够推荐零售产品并执行金融交易[…] Visa Chat**GPT**后期的集成使AI代理零售采购**首次**出现在AI **new**s上
-
-📅 Thu, 11 Jun 2026 11:08:17 +0000
-
----
-
 ### Google AI Blog
 ![我们在弗吉尼亚州的新社区投资支持了当地的就业机会，并扩大了能源负担能力。](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp)
 
@@ -125,66 +125,12 @@ GROUP为细胞如何依靠磷酸盐分子构建DNA和储存能量提供了新的
 
 ---
 
-### MIT Tech Research
-**[Google DeepMind担心当数百万代理开始互动时会发生什么](https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/)**
-
-根据Rohin Shah的说法， **Google** DeepMind正在资助对数百万不同人工智能代理在线互动的情况的潜在危险的研究
-
-📅 Thu, 11 Jun 2026 11:00:45 +0000
-
----
-
 ### Science AI
 **[新纪录片讲述了研究人员日益令人担忧的职业道路](https://www.science.org/content/article/new-documentary-follows-researchers-increasingly-fraught-career-path)**
 
 The Endless Frontier追溯了三位科学家在培训学生和应对资金压力时的生活
 
 📅 2026-06-12T05:30:00.000Z
-
----
-
-### Science AI
-**[经过多年的反对，墨西哥总统正在重新考虑水力压裂](https://www.science.org/content/article/after-years-opposition-mexico-s-president-reconsidering-fracking)**
-
-政府已经委托一组科学家评估“可持续”石油和天然气钻探的新技术，但许多专家表示，这是一个幻想
-
-📅 2026-06-11T04:20:00.000Z
-
----
-
-### Science AI
-**[邮轮汉坦病毒是如何爆发的？科学家们正在研究新的情景](https://www.science.org/content/article/how-did-cruise-ship-hantavirus-outbreak-start-scientists-are-investigating-new)**
-
-了解第一位患者是如何感染的，可以为安第斯病毒的传播模式和潜伏期提供新的线索
-
-📅 2026-06-11T03:55:00.000Z
-
----
-
-### Science AI
-**[深海车辆在太平洋海浪深处发现“外星人”鲨鱼](https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific)**
-
-地精鲨鱼从未在它们的自然栖息地被拍摄过
-
-📅 2026-06-11T03:45:00.000Z
-
----
-
-### Science AI
-**[使欧洲变暖的洋流可能比人们担心的更具弹性](https://www.science.org/content/article/ocean-current-warms-europe-may-be-more-resilient-feared)**
-
-对大西洋环流的研究发现，面对全球变暖，大西洋环流既有减弱的迹象，也有意想不到的稳定迹象
-
-📅 2026-06-11T02:00:00.000Z
-
----
-
-### Science AI
-**[激光增强显微镜可以揭示新的药物靶点，锐化细胞内的视野](https://www.science.org/content/article/laser-boosted-microscopes-could-reveal-new-drug-targets-sharpen-views-inside-cells)**
-
-增强的低温电子显微镜有望将以前难以捉摸的蛋白质带入视野
-
-📅 2026-06-11T02:00:00.000Z
 
 ---
 
@@ -234,15 +180,6 @@ The Endless Frontier追溯了三位科学家在培训学生和应对资金压力
 
 ---
 
-### Wired Technology
-**[Anthropic表示将让Claude Fable 5下线以遵守美国政府命令](https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/)**
-
-该公司在一篇博客文章中表示： “政府认为它已经意识到一种绕过或‘越狱’寓言5的方法。”
-
-📅 Sat, 13 Jun 2026 02:26:10 +0000
-
----
-
 ### VentureBeat
 ![谷歌研究人员引入了“忠实的不确定性” ，允许LLM提供最佳猜测而不是幻觉](https://images.ctfassets.net/jdtwqhzvc2n1/yz9h2aiBuc13gCjhvzQon/240a640f913673b6f56d4922639cd4ac/ai_metacognition.jpg?w=300&q=30)
 
@@ -263,12 +200,23 @@ The Endless Frontier追溯了三位科学家在培训学生和应对资金压力
 
 ---
 
-### Wired Technology
-**[法院裁定谷歌对人工智能概述产生的虚假陈述负有责任](https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/)**
+### Ars Technica
+**[根据特朗普的管理指令， Anthropic关闭了Fable ， Mythos模型](https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/)**
 
-该裁决认为，设计和管理人工智能系统的公司必须对其产生的响应造成的任何损害承担法律责任
+商务部担心《寓言5》的“越狱”可能构成国家安全威胁。
 
-📅 Sat, 13 Jun 2026 09:00:00 +0000
+📅 Sat, 13 Jun 2026 03:00:34 +0000
+
+---
+
+### The Verge
+![据报道，亚马逊的安全研究导致了白宫的人类寓言禁令](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[据报道，亚马逊的安全研究导致了白宫的人类寓言禁令](https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban)**
+
+导致**Anthropic**切断对Fable 5和Mythos 5的访问的出口管制指令，部分原因是亚马逊的网络安全研究以及首席执行官Andy Jassy与White Houset之间的对话。亚马逊的论文声称
+
+📅 2026-06-13T21:39:26.000Z
 
 ---
 
@@ -279,31 +227,31 @@ The Endless Frontier追溯了三位科学家在培训学生和应对资金压力
 
 **[🆕 AI-Voice-Changer-Real-Time-Desktop: 新项目](https://github.com/amplitudesoldierheed/AI-Voice-Changer-Real-Time-Desktop)**
 
-⭐ 4 star (新项目) · N/A · 无描述
+⭐ 17 star (新项目) · N/A · 无描述
 
 📅 2026-06-13T12:39:52Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 AdRank-CTR-Prediction-System ：生产级CTR预测系统，具有实时推理、排名模型、MLOps管道以及受Google/Meta广告系统启发的可扩展广告点击预测架构。](https://avatars.githubusercontent.com/u/67845323?v=4)
+![🆕 Borderline ： Claude Code插件，将无聊的低风险任务（批量I18N ，琐碎的风格调整）委托给Gemini CLI —一个透明的Claude ⇄ Gemini管道。](https://avatars.githubusercontent.com/u/164439782?v=4)
 
-**[🆕 AdRank-CTR-Prediction-System ：生产级CTR预测系统，具有实时推理、排名模型、MLOps管道以及受Google/Meta广告系统启发的可扩展广告点击预测架构。](https://github.com/divyanshujethi/AdRank-CTR-Prediction-System)**
+**[🆕 Borderline ： Claude Code插件，将无聊的低风险任务（批量I18N ，琐碎的风格调整）委托给Gemini CLI —一个透明的Claude ⇄ Gemini管道。](https://github.com/BansheeTech/Borderline)**
 
-⭐ 3 star (新项目) · Python · Production-grade CTR prediction system with real-time inferenceand scalable ad-click prediction architecture inspired by **Google**/**Meta** ad systems
+⭐ 5 star (新项目) · Shell · **Claude** Code plugin that delegates boringtrivial style tweaks) to the **Gemini** CLI — a transparent **Claude** ⇄ **Gemini** pipeline
 
-📅 2026-06-11T08:17:58Z
+📅 2026-06-14T11:00:20Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 markindex-mcp: 新项目](https://avatars.githubusercontent.com/u/129962380?v=4)
+![🆕 ai-tools-for-solopreneurs ：全天候为单人企业工作的人工智能团队—跨7个部门的50多种工具，专为个人创业者打造](https://avatars.githubusercontent.com/u/217027717?v=4)
 
-**[🆕 markindex-mcp: 新项目](https://github.com/rajfazulhussain2008/markindex-mcp)**
+**[🆕 ai-tools-for-solopreneurs ：全天候为单人企业工作的人工智能团队—跨7个部门的50多种工具，专为个人创业者打造](https://github.com/mrreviewai/ai-tools-for-solopreneurs)**
 
-⭐ 2 star (新项目) · Python · 无描述
+⭐ 3 star (新项目) · N/A · The AI team that works 24/7 for one-person businesses — 50+ tools across 7 departments, built for solopreneurs
 
-📅 2026-06-12T14:07:20Z
+📅 2026-06-14T12:28:56Z
 
 ---
 
@@ -312,7 +260,7 @@ The Endless Frontier追溯了三位科学家在培训学生和应对资金压力
 
 **[🆕 memoriq ：用于保存和搜索AI对话的加密AI记忆库](https://github.com/memoriqme/memoriq)**
 
-⭐ 2 star (新项目) · Vue · Encrypted AI memory vault for saving and searching AI conversations
+⭐ 3 star (新项目) · Vue · Encrypted AI memory vault for saving and searching AI conversations
 
 📅 2026-06-12T09:12:10Z
 
@@ -320,12 +268,21 @@ The Endless Frontier追溯了三位科学家在培训学生和应对资金压力
 
 ## 💬 社交动态
 
+### Hacker News AI
+**[作为一名使用人工智能的新开发人员，我为英国个体交易者构建了一个簿记应用程序](https://news.ycombinator.com/item?id=48527480)**
+
+我大量使用**Claude**和Perplexity ，真正好的工作流程是给Perplexity我的想法，并让它为**Claude**生成详细的提示
+
+📅 Sun, 14 Jun 2026 14:24:30 +0000
+
+---
+
 ### Reddit: r/artificial
-**[哪个AI模型的光环最强？](https://www.reddit.com/r/artificial/comments/1u52fzy/which_ai_model_has_the_most_aura/)**
+**[我们的人工智能账单得到了补贴，我认为很多人都没有考虑到接下来会发生什么](https://www.reddit.com/r/artificial/comments/1u5edg8/our_ai_bills_are_subsidised_and_i_dont_think_many/)**
 
-以下是我排名前5的**GPT** 4 ：清晰的# 1这个模型标志着生成铝真正成为主流文化
+这是我一直在思考的事情，因为一些企业已经建立了人工智能，而**OpenAI**据说今年可能会损失140亿美元左右的$
 
-📅 2026-06-13T21:17:23.000Z
+📅 2026-06-14T07:11:54.000Z
 
 ---
 
@@ -334,7 +291,7 @@ The Endless Frontier追溯了三位科学家在培训学生和应对资金压力
 
 标题： **OpenAI** (@ **OpenAI**)/X
 
-📅 2026-06-14T00:07:10.986Z
+📅 2026-06-14T16:23:12.601Z
 
 ---
 
@@ -343,7 +300,7 @@ The Endless Frontier追溯了三位科学家在培训学生和应对资金压力
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-06-14T00:07:10.986Z
+📅 2026-06-14T16:23:12.601Z
 
 ---
 
@@ -352,7 +309,7 @@ The Endless Frontier追溯了三位科学家在培训学生和应对资金压力
 
 [图片1 ：方形个人头像并打开个人头像] (https://pbscom/**OpenAI**/photo)
 
-📅 2026-06-14T00:07:10.986Z
+📅 2026-06-14T16:23:12.601Z
 
 ---
 
@@ -361,7 +318,7 @@ The Endless Frontier追溯了三位科学家在培训学生和应对资金压力
 
 标题： **DeepSeek** (@ **DeepSeek**_ai)/X
 
-📅 2026-06-14T00:08:16.164Z
+📅 2026-06-14T16:24:25.258Z
 
 ---
 
@@ -370,7 +327,7 @@ The Endless Frontier追溯了三位科学家在培训学生和应对资金压力
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-06-14T00:08:16.164Z
+📅 2026-06-14T16:24:25.258Z
 
 ---
 
@@ -379,16 +336,7 @@ The Endless Frontier追溯了三位科学家在培训学生和应对资金压力
 
 【图片1 ：打开个人头像】（ https://pbscom/**DeepSeek**_ai/photo ）
 
-📅 2026-06-14T00:08:16.164Z
-
----
-
-### Hacker News
-**[亚马逊首席执行官与美国官员的会谈引发了对人类模型的打击](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink)**
-
-com/tech/ai/amazon-ceos-talks-with-u-s-officComments网址： https://**new**s
-
-📅 Sat, 13 Jun 2026 16:57:49 +0000
+📅 2026-06-14T16:24:25.258Z
 
 ---
 
