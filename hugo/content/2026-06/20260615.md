@@ -1,19 +1,19 @@
 ---
 title: "2026年6月15日 - TZ日报"
-date: 2026-06-15T00:12:00.472Z
+date: 2026-06-15T19:08:02.266Z
 draft: false
 ---
 
 # 2026年6月15日 - TZ日报
 
-> 📊 今日汇总 32 条 · 🕐 2026/6/15 00:12:00
+> 📊 今日汇总 38 条 · 🕐 2026/6/15 19:08:02
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 2 条
+- **前沿研究**: 8 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -31,12 +31,30 @@ OpenAI**推出**合作伙伴网络，投资1.5亿美元帮助全球合作伙伴�
 
 ---
 
-### OpenAI Blog
-**[面向下一个工作时代的全新OpenAI学院课程](https://openai.com/index/academy-courses-applying-ai-at-work)**
+### Google AI Blog
+**[我们正在通过新的投资和社区支持加强在阿拉巴马州的业务。](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/)**
 
-OpenAI**推出**三门学院课程，帮助人们培养实用的人工智能技能，创建可重复的工作流程，并在日常工作中应用代理
+谷歌宣布在2026年和2027年投资150亿美元，以扩大其在阿拉巴马州杰克逊县的数据中心园区
 
-📅 Fri, 12 Jun 2026 10:00:00 GMT
+📅 Mon, 15 Jun 2026 15:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[Meta在Facebook上的新“AI模式”从其平台上的公共信息中提取](https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/)**
+
+**Meta**周一宣布，它将在Facebook上**推出**一系列新的人工智能功能，这是该公司努力赶上人工智能竞赛并让用户更多地参与平台的最新迹象
+
+📅 Mon, 15 Jun 2026 18:30:58 +0000
+
+---
+
+### TechCrunch AI Products
+**[网络安全审查员抗议美国政府对Anthropic最强大模型的“危险”禁令](https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/)**
+
+由数十名网络安全专家组成的小组敦促白宫取消对**Anthropic**模型Fable和Mythos的出口管制限制，他们认为该命令将限制网络安全维护者保护其软件和产品的能力
+
+📅 Mon, 15 Jun 2026 15:29:51 +0000
 
 ---
 
@@ -50,89 +68,136 @@ OpenAI**推出**三门学院课程，帮助人们培养实用的人工智能技�
 ---
 
 ### TechCrunch AI Products
-**[据报道，在北京方面提出要求后， Meta将解除$ 2B的Manus交易](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/)**
+**[SpaceX上市： IPO后您需要了解的一切](https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/)**
 
-在北京方面下令撤销这笔交易后， **Meta**开始拆除其20 $ Manus的收购。
+TechCrunch从早期就跟随SpaceX的起步、挣扎和成功，我们也在这里关注接下来会发生什么
 
-📅 Sun, 14 Jun 2026 00:03:49 +0000
-
----
-
-### TechCrunch AI Products
-**[据报道，亚马逊首席执行官在政府打击之前提出了人类模型的担忧](https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/)**
-
-亚马逊首席执行官安迪·贾西（ Andy Jassy ）可能是安全问题的根源，导致**Anthropic**周五在全球范围内切断了两款车型的访问权限
-
-📅 Sat, 13 Jun 2026 19:11:41 +0000
+📅 Mon, 15 Jun 2026 18:30:34 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[OpenAI面临州检察长的调查](https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/)**
+**[Salesforce以36亿美元收购AI客户服务平台Fin](https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/)**
 
-目前尚不清楚涉及哪些州，但他们询问了从**OpenAI**的广告政策到健康数据处理的所有内容
+Salesforce表示，它希望利用Fin的团队和技术来改进Agentforce现有的企业平台，企业可以使用该平台构建自动化任务的自定义AI代理
 
-📅 Sat, 13 Jun 2026 16:47:18 +0000
-
----
-
-### TechCrunch AI Products
-**[Anthropic的安全警告可能刚刚适得其反—政府已经取消了其最强大的人工智能](https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/)**
-
-**Anthropic**并未隐瞒其挫败感“我们不同意这样的观点，即发现狭隘的潜在越狱应该是召回部署到数亿人的商业模式的原因
-
-📅 Sat, 13 Jun 2026 02:26:30 +0000
+📅 Mon, 15 Jun 2026 14:34:45 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[Meta几个月前的人工智能部门是一个令人心碎的古拉格，工程师们说被困在里面](https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/)**
+**[Sarvam成为印度最新的人工智能独角兽，由HCLTech领投2.34亿美元融资](https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/)**
 
-一份新的报告显示，该单位拥有6,500名员工，正处于起义的边缘。
+印度IT服务公司HCLTech正在向班加罗尔初创公司投资1.5亿美元（ $ ）。
 
-📅 Fri, 12 Jun 2026 23:00:54 +0000
-
----
-
-### Hugging Face
-**[olmo-eval ：模型开发循环的评估工作台](https://huggingface.co/blog/allenai/olmo-eval)**
-
-olmo-eval ：模型开发循环的评估工作台
-
-📅 Fri, 12 Jun 2026 15:56:10 GMT
+📅 Mon, 15 Jun 2026 13:46:08 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[随着人工智能公司竞相上市，还有谁会参与其中？](https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/)**
+**[随着人工智能代理成为员工， NewCore以$ 6600万的身份出现，为他们提供身份](https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/)**
 
-初创公司正试图“驾驭SpaceX的IPO浪潮”。
+**new**Core认为，企业安全的下一个挑战将是管理人工智能代理，而不是人员。
 
-📅 Sun, 14 Jun 2026 16:38:09 +0000
+📅 Mon, 15 Jun 2026 13:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[一颗卫星刚刚学会自己寻找东西--这意味着什么](https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/)**
+
+今年4月，有史以来第一次，一颗地球观测卫星独自发现了它正在寻找的东西
+
+📅 Mon, 15 Jun 2026 12:00:00 +0000
 
 ---
 
 ## 🔬 前沿研究
 
-### Science AI
-**[深海中金属驱动的化学反应可以解释生命的起源](https://www.science.org/content/article/metal-driven-chemical-reaction-deep-sea-may-explain-origin-life)**
+### ArXiv AI (cs.AI)
+**[重新审视WorkBench ：两年后的工作场所代理](https://arxiv.org/abs/2606.13715)**
 
-GROUP为细胞如何依靠磷酸盐分子构建DNA和储存能量提供了新的场景
+13715v1公告类型：新摘要： 2024年3月WorkBench上最好的代理商我们在2026年6月重新审视基准，发现迄今为止最好的代理商**Claude** Opus 4
 
-📅 2026-06-12T01:55:00.000Z
+📅 Mon, 15 Jun 2026 00:00:00 -0400
 
 ---
 
-### Science AI
-**[新纪录片讲述了研究人员日益令人担忧的职业道路](https://www.science.org/content/article/new-documentary-follows-researchers-increasingly-fraught-career-path)**
+### ArXiv Natural Language Processing (cs.CL)
+**[抛硬币的裁判？ LLM-as-a-Judge评估的可靠性和偏见](https://arxiv.org/abs/2606.13685)**
 
-The Endless Frontier追溯了三位科学家在培训学生和应对资金压力时的生活
+我们使用两个**OpenAI**判断模型（ **GPT**-4o-mini和**GPT**-4**GPT**-4o-mini ）研究了对跨越10个类别的29个任务的重复相同评估，也显示出显着的第一位置偏差（ 72 ％ A-多数， p = 0
 
-📅 2026-06-12T05:30:00.000Z
+📅 Mon, 15 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[一种基于深度强化学习（ DRL ）的变压器方法，用于解决开放式商店调度问题](https://arxiv.org/abs/2606.13682)**
+
+13682v1公告类型：新摘要：开放式车间调度问题（ OSSP ）出现在许多工业和服务环境中，但随着作业和机器数量的增加，仍然具有计算挑战性该模型在泰拉德基准实例（ 4x4
+
+📅 Mon, 15 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[哪些模型在继承推理方面表现更好？](https://arxiv.org/abs/2606.13751)**
+
+13751v1公告类型：新摘要：本文介绍了PSL团队参与QIAS 2026阿拉伯伊斯兰遗产推理共享任务的最佳性能由\ textit {**Gemini** 2
+
+📅 Mon, 15 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[文化漏斗：您无法对齐数据中没有的内容](https://arxiv.org/abs/2606.13808)**
+
+13808v1公告类型：新摘要：当前的文化调整方法侧重于推理时间干预假设模型已经包含足够的文化知识
+
+📅 Mon, 15 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[DLawBench ：通过多轮法律咨询评估LLM](https://arxiv.org/abs/2606.13931)**
+
+13931v1公告类型：新摘要：律师-委托人咨询是法律服务的关键起点系统实验表明存在实质性的空间：表现最好的模型， **GPT**-5
+
+📅 Mon, 15 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[UP-NRPA ：基于用户肖像的嵌套推出策略，用于在面向目标的对话系统中使用大型语言模型进行规划](https://arxiv.org/abs/2606.13683)**
+
+13683v1公告类型：新摘要：解决当前对话策略规划方法难以动态适应多样化用户特征的挑战与依赖于模型训练的传统方法相比，需要为用户组提供离线强化学习策略模型
+
+📅 Mon, 15 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[泥泞儿童拼图的历史](https://arxiv.org/abs/2606.13703)**
+
+13703v1公告类型：新摘要： Muddy Children Puzzle是一个关于知识和无知的谜题，一直激励着认知逻辑的发展
+
+📅 Mon, 15 Jun 2026 00:00:00 -0400
 
 ---
 
 ## 🌍 行业展望
+
+### The Verge
+![Skydio首席执行官亚当·布莱（ Adam Bry ）谈为什么硅谷不应该为无人机的使用划出红线](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_20260615_Adam_Bry.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[Skydio首席执行官亚当·布莱（ Adam Bry ）谈为什么硅谷不应该为无人机的使用划出红线](https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military)**
+
+关于**Claude**如何在军事应用中使用， **Anthropic**正在酝酿一些红线的争议。在**Claude**的讨论中，大规模监控肯定会出现
+
+📅 2026-06-15T14:00:00.000Z
+
+---
 
 ### VentureBeat
 ![根据美国政府命令， Anthropic阻止所有公众访问Claude Fable 5 ， Mythos 5 —企业应该做什么](https://images.ctfassets.net/jdtwqhzvc2n1/2z5YLKjoeV6nzBjKELk7Yo/900a955fa4e5390ad6ea0921e64a7b85/ChatGPT_Image_Jun_13__2026__08_09_56_AM.png?w=300&q=30)
@@ -179,11 +244,11 @@ The Endless Frontier追溯了三位科学家在培训学生和应对资金压力
 ---
 
 ### Wired Technology
-**[FCC想要杀死燃烧器手机](https://www.wired.com/story/security-news-this-week-the-fcc-wants-to-kill-burner-phones/)**
+**[Meta聘请五角大楼供应商为其眼镜打造人脸识别原型](https://www.wired.com/story/meta-rank-one-computing-face-recognition-smart-glasses/)**
 
-此外：人工智能漏洞狩猎为微软有史以来最大的补丁星期二提供燃料， ShinyHunters勒索软件团伙利用甲骨文零日等
+其董事会成员包括前中央情报局副局长和前联邦调查局科学负责人，他们向**Meta**提供人脸识别技术，用于其智能眼镜应用程序的内部开发
 
-📅 Sat, 13 Jun 2026 10:30:00 +0000
+📅 Mon, 15 Jun 2026 09:00:00 +0000
 
 ---
 
@@ -197,24 +262,13 @@ The Endless Frontier追溯了三位科学家在培训学生和应对资金压力
 ---
 
 ### The Verge
-![中国可能访问了Mythos](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![Google地球的飞行模拟器现已在您的浏览器中提供](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/googleearthsim1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[中国可能访问了Mythos](https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos)**
+**[Google地球的飞行模拟器现已在您的浏览器中提供](https://www.theverge.com/tech/949749/google-earth-flight-simulator-browser-experimental)**
 
-根据Semafora方法的一份新报告， “学生”人工智能接受更高级模型的训练，以复制其行为
+周五，谷歌宣布将向更广泛的受众提供相对未知的**Google**地球功能桌面版**Google**地球自2007年以来一直有隐藏的飞行模拟器模式
 
-📅 2026-06-14T18:27:55.000Z
-
----
-
-### The Verge
-![据报道，亚马逊的安全研究导致了白宫的人类寓言禁令](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[据报道，亚马逊的安全研究导致了白宫的人类寓言禁令](https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban)**
-
-导致**Anthropic**切断对Fable 5和Mythos 5的访问的出口管制指令，部分原因是亚马逊的网络安全研究以及首席执行官Andy Jassy与White Houset之间的对话。亚马逊的论文声称
-
-📅 2026-06-13T21:39:26.000Z
+📅 2026-06-15T13:13:23.000Z
 
 ---
 
@@ -225,7 +279,7 @@ The Endless Frontier追溯了三位科学家在培训学生和应对资金压力
 
 **[🆕 AI-Voice-Changer-Real-Time-Desktop: 新项目](https://github.com/amplitudesoldierheed/AI-Voice-Changer-Real-Time-Desktop)**
 
-⭐ 29 star (新项目) · N/A · 无描述
+⭐ 19 star (新项目) · N/A · 无描述
 
 📅 2026-06-13T12:39:52Z
 
@@ -236,20 +290,9 @@ The Endless Frontier追溯了三位科学家在培训学生和应对资金压力
 
 **[🆕 memoriq ：用于保存和搜索AI对话的加密AI记忆库](https://github.com/memoriqme/memoriq)**
 
-⭐ 6 star (新项目) · Vue · Encrypted AI memory vault for saving and searching AI conversations
+⭐ 11 star (新项目) · Vue · Encrypted AI memory vault for saving and searching AI conversations
 
 📅 2026-06-12T09:12:10Z
-
----
-
-### GitHub New (New AI)
-![🆕 Borderline ： Claude Code插件，将无聊的低风险任务（批量I18N ，琐碎的风格调整）委托给Gemini CLI —一个透明的Claude ⇄ Gemini管道。](https://avatars.githubusercontent.com/u/164439782?v=4)
-
-**[🆕 Borderline ： Claude Code插件，将无聊的低风险任务（批量I18N ，琐碎的风格调整）委托给Gemini CLI —一个透明的Claude ⇄ Gemini管道。](https://github.com/BansheeTech/Borderline)**
-
-⭐ 5 star (新项目) · Shell · **Claude** Code plugin that delegates boringtrivial style tweaks) to the **Gemini** CLI — a transparent **Claude** ⇄ **Gemini** pipeline
-
-📅 2026-06-14T11:00:20Z
 
 ---
 
@@ -258,22 +301,49 @@ The Endless Frontier追溯了三位科学家在培训学生和应对资金压力
 
 **[🆕 ai-tools-for-solopreneurs ：全天候为单人企业工作的人工智能团队—跨7个部门的50多种工具，专为个人创业者打造](https://github.com/mrreviewai/ai-tools-for-solopreneurs)**
 
-⭐ 4 star (新项目) · N/A · The AI team that works 24/7 for one-person businesses — 50+ tools across 7 departments, built for solopreneurs
+⭐ 9 star (新项目) · N/A · The AI team that works 24/7 for one-person businesses — 50+ tools across 7 departments, built for solopreneurs
 
 📅 2026-06-14T12:28:56Z
+
+---
+
+### GitHub New (New AI)
+![🆕 Borderline ： Claude Code插件，将无聊的低风险任务（批量I18N ，琐碎的风格调整）委托给Gemini CLI —一个透明的Claude ⇄ Gemini管道。](https://avatars.githubusercontent.com/u/164439782?v=4)
+
+**[🆕 Borderline ： Claude Code插件，将无聊的低风险任务（批量I18N ，琐碎的风格调整）委托给Gemini CLI —一个透明的Claude ⇄ Gemini管道。](https://github.com/BansheeTech/Borderline)**
+
+⭐ 6 star (新项目) · Shell · **Claude** Code plugin that delegates boringtrivial style tweaks) to the **Gemini** CLI — a transparent **Claude** ⇄ **Gemini** pipeline
+
+📅 2026-06-14T11:00:20Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-![寓言5回来了吗？ —实时跟踪器](https://external-preview.redd.it/cWGkGP_LfVBa3hBWEmDtwuzMM8-0zcEcOahPTOi5ytk.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0b40f32ae34530691c66335c44c5782b0f8d4f78)
+**[没有人在谈论寓言5禁令中的真正先例：基于国籍的访问规则，地理位置实际上无法强制执行](https://www.reddit.com/r/artificial/comments/1u6lqp6/nobodys_talking_about_the_real_precedent_in_the/)**
 
-**[寓言5回来了吗？ —实时跟踪器](https://www.reddit.com/r/artificial/comments/1u5u3ss/is_fable_5_back_live_tracker/)**
+•人性化： “越狱”仅出现了一些已知的轻微漏洞，而其他公共模型（如**GPT**-5com/2026/06/13/amazon-ceo-reportedly-raised-**Anthropic**-model-concerns-before-government-crackdown/• TIME —模型的**首次**出口管制
 
-厌倦了刷新人择新闻页面使用Opus制作此应用程序，使用寓言模型ID ping **Claude**的API ，直到其有效，然后**更新**页面
+📅 2026-06-15T16:36:13.000Z
 
-📅 2026-06-14T19:21:05.000Z
+---
+
+### Hacker News AI
+**[人工智能价格战已经到来， OpenAI和人类的压力越来越大](https://www.wsj.com/tech/ai/the-ai-price-war-is-here-piling-pressure-on-openai-and-anthropic-86e1d21b)**
+
+文章网址： https://wwwcom/tech/ai/the-ai-price-war-is-here-piling-pressure-on-**OpenAI**-and-**Anthropic**-86e1d21b评论网址： https://**new**s
+
+📅 Mon, 15 Jun 2026 18:36:36 +0000
+
+---
+
+### X: OpenAI
+**[标题： OpenAI (@ OpenAI)/X](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+标题： **OpenAI** (@ **OpenAI**)/X
+
+📅 2026-06-15T19:05:05.941Z
 
 ---
 
@@ -282,7 +352,16 @@ The Endless Frontier追溯了三位科学家在培训学生和应对资金压力
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-06-15T00:09:15.502Z
+📅 2026-06-15T19:05:05.941Z
+
+---
+
+### X: OpenAI
+**[[! [图片1 ：方形个人头像并打开个人头像] (https://pbs.twimg.com/profile_images/188...](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+[图片1 ：方形个人头像并打开个人头像] (https://pbscom/**OpenAI**/photo)
+
+📅 2026-06-15T19:05:05.941Z
 
 ---
 
@@ -291,7 +370,7 @@ The Endless Frontier追溯了三位科学家在培训学生和应对资金压力
 
 标题： **DeepSeek** (@ **DeepSeek**_ai)/X
 
-📅 2026-06-15T00:10:21.542Z
+📅 2026-06-15T19:06:14.036Z
 
 ---
 
@@ -300,7 +379,7 @@ The Endless Frontier追溯了三位科学家在培训学生和应对资金压力
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-06-15T00:10:21.542Z
+📅 2026-06-15T19:06:14.036Z
 
 ---
 
@@ -309,34 +388,7 @@ The Endless Frontier追溯了三位科学家在培训学生和应对资金压力
 
 【图片1 ：打开个人头像】（ https://pbscom/**DeepSeek**_ai/photo ）
 
-📅 2026-06-15T00:10:21.542Z
-
----
-
-### Hacker News
-**[斯坦福大学毕业生退出谷歌首席执行官Sundar Pichai的演讲](https://twitter.com/maattttbrown/status/2066215255987163246)**
-
-文章网址： https://twittercom/maattttbrown/status/2066215255987163246评论网址： https://**new**s
-
-📅 Sun, 14 Jun 2026 22:45:55 +0000
-
----
-
-### Hacker News
-**[这是《人类学》要求的吗？](https://www.verysane.ai/p/did-anthropic-ask-for-this)**
-
-文章网址： https://wwwai/p/did-**Anthropic**-ask-for-this评论网址： https://**new**s
-
-📅 Sun, 14 Jun 2026 22:23:05 +0000
-
----
-
-### Hacker News AI
-**[英伟达如何主导人工智能： 11项工程举措[视频]](https://www.youtube.com/watch?v=vzM8mv1t_zM)**
-
-文章网址： https://wwwv = vzM8mv1t_zM评论网址： https://**new**s
-
-📅 Sun, 14 Jun 2026 23:10:59 +0000
+📅 2026-06-15T19:06:14.036Z
 
 ---
 
