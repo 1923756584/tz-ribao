@@ -1,12 +1,12 @@
 ---
 title: "2026年6月17日 - TZ日报"
-date: 2026-06-17T00:20:47.960Z
+date: 2026-06-17T17:52:38.143Z
 draft: false
 ---
 
 # 2026年6月17日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/6/17 00:20:47
+> 📊 今日汇总 38 条 · 🕐 2026/6/17 17:52:38
 
 ---
 
@@ -22,12 +22,21 @@ draft: false
 
 ## ✨ 产品更新
 
+### OpenAI Blog
+**[一位近乎自主的人工智能化学家改善了药物化学中具有挑战性的反应](https://openai.com/index/ai-chemist-improves-reaction)**
+
+**OpenAI**和Moleculeone展示了近乎自主的AI化学家如何使用**GPT**-5
+
+📅 Wed, 17 Jun 2026 10:00:00 GMT
+
+---
+
 ### TechCrunch AI Products
-**[随着Google扩展Gemini功能， Android 17推出了新的多任务处理工具](https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/)**
+**[谷歌押注Gemini重塑智能家居音箱](https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/)**
 
-谷歌**发布**了Android 17和Wear OS 7 ，引入了新的多任务处理功能、家长控制、安全工具和智能手表**升级**。**发布**的同时还**推出**了Pixel Drop ，将谷歌最新的人工智能模型带入其设备
+谷歌押注生成式人工智能可以为智能扬声器注入新的活力99谷歌家庭扬声器用更多的对话式双子座互动取代了谷歌助手时代的严格命令
 
-📅 Tue, 16 Jun 2026 18:00:00 +0000
+📅 Wed, 17 Jun 2026 16:30:09 +0000
 
 ---
 
@@ -37,15 +46,6 @@ draft: false
 **OpenAI**引入Deployment Simulationa方法，使用真实会话数据在部署前预测AI模型行为，以提高安全性和评估准确性
 
 📅 Tue, 16 Jun 2026 00:00:00 GMT
-
----
-
-### OpenAI Blog
-**[OpenAI合作伙伴网络简介](https://openai.com/index/introducing-openai-partner-network)**
-
-OpenAI**推出**合作伙伴网络，投资1.5亿美元帮助全球合作伙伴加快企业人工智能的采用、部署和转型
-
-📅 Sun, 14 Jun 2026 17:00:00 GMT
 
 ---
 
@@ -76,117 +76,130 @@ OpenAI**推出**合作伙伴网络，投资1.5亿美元帮助全球合作伙伴�
 
 ---
 
-### TechCrunch AI Products
-**[SpaceX估值飙升至$ 2.6T ，短暂超过亚马逊](https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/)**
+### AI News
+**[Google Cloud生成式人工智能实现市政规划运营自动化](https://www.artificialintelligence-news.com/news/google-cloud-generative-ai-automates-council-planning-operations/)**
 
-自周五股票开始交易以来， SpaceX的估值增加了1万亿美元($ 1 trillion)。
+政府各部委正在跨市政机构部署**Google** Cloud生成式人工智能，以实现理事会规划操作的自动化延迟[…] **Google** Cloud生成式人工智能自动化理事会规划操作后**首次**出现在人工智能新闻
 
-📅 Tue, 16 Jun 2026 20:11:00 +0000
-
----
-
-### TechCrunch AI Products
-**[调查发现， 60%的美国消费者认为品牌信息中的“人工智能”令人失望](https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/)**
-
-WordPress VIP的最新调查显示，即使公司越来越多地将人工智能搜索视为**重要**的推荐渠道，消费者也对AI生成的答案持谨慎态度
-
-📅 Tue, 16 Jun 2026 16:49:44 +0000
+📅 Wed, 17 Jun 2026 10:59:42 +0000
 
 ---
 
-### TechCrunch AI Products
-**[SpaceX上市： IPO后您需要了解的一切](https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/)**
+### AI News
+**[人工智能关闭开关： Anthropic的出口管制如何引发全球人工智能主权争夺](https://www.artificialintelligence-news.com/news/anthropic-export-controls-ai-sovereignty/)**
 
-TechCrunch从早期就跟随SpaceX的起步、挣扎和成功，我们也在这里关注接下来会发生什么
+一项美国政府指令将该公司两种**最强**大的人工智能模型下线，供无处不在的用户使用，并在欧洲和加拿大各地敲响了警钟，警告谁真正控制着[…]人工智能关闭开关：人类的出口管制如何引发全球人工智能主权争夺首先出现在人工智能新闻上
 
-📅 Tue, 16 Jun 2026 15:53:12 +0000
+📅 Mon, 15 Jun 2026 08:00:00 +0000
 
 ---
 
-### TechCrunch AI Products
-**[司法部声称xAI未经许可的燃气轮机关系到“国家、经济和能源安全”](https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/)**
+### Google AI Blog
+![新的研究表明，我们的医疗人工智能AMIE可以帮助管理健康状况。](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp)
 
-司法部表示，五角大楼需要xAI继续使用未经许可的燃气轮机。
+**[新的研究表明，我们的医疗人工智能AMIE可以帮助管理健康状况。](https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/)**
 
-📅 Tue, 16 Jun 2026 15:05:03 +0000
+“自然”中的研究表明，我们的会话式人工智能系统与复杂疾病管理中的初级保健医生相匹配
+
+📅 Wed, 17 Jun 2026 15:00:00 +0000
+
+---
+
+### Hugging Face
+**[MolmoMotion ：语言引导的3D运动预测](https://huggingface.co/blog/allenai/molmomotion)**
+
+MolmoMotion ：语言引导的3D运动预测
+
+📅 Wed, 17 Jun 2026 15:26:44 GMT
 
 ---
 
 ## 🔬 前沿研究
 
-### ArXiv AI (cs.AI)
-**[人工智能代理之间的信任：测量形成、破坏和恢复，以及对管理多代理系统的影响](https://arxiv.org/abs/2606.14923)**
-
-14923v1公告类型：新摘要：随着语言模型代理越来越多地在团队中工作，每个代理必须决定对其队友的信任程度当与始终如一的可靠队友配对时，四个快照（ **Claude** Opus 4
-
-📅 Tue, 16 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[PrologMCP ： LLM代理的标准化Prolog工具界面](https://arxiv.org/abs/2606.14935)**
-
-14935v1公告类型：新摘要：前沿推理调整语言模型在深度演绎任务上仍然失败我们根据标准和推理LLM评估使用PrologMCP增强的形式化代理（ **Claude** Sonnet 4
-
-📅 Tue, 16 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv Computer Vision (cs.CV)
-**[隐式视频问答的基于分歧的跨模型路由](https://arxiv.org/abs/2606.14723)**
-
-我们对原生视频模型进行三重采样（ **Gemini** 3和仅将该子集路由到来自不同家庭的第二个模型（ **Claude** Opus 4
-
-📅 Tue, 16 Jun 2026 00:00:00 -0400
-
----
-
 ### ArXiv Natural Language Processing (cs.CL)
-**[在线技能和记忆模块是否始终值得其代币？预算受限的Web代理研究](https://arxiv.org/abs/2606.15017)**
+**[PromptMN ：伪提示语言](https://arxiv.org/abs/2606.17164)**
 
-15017v1公告类型：新摘要：在线Web代理通常通过内存、工作流或技能模块来增强基本参与者跨三个WebArena域和三个模型， **Gemini** 3 Flash、**GPT**-5
+17164v1公告类型：新摘要：提示已成为人类和生成AIT之间的主要界面相同的词汇适用于所呈现的SDLC场景中的新代码库、维护和重新设计
 
-📅 Tue, 16 Jun 2026 00:00:00 -0400
+📅 Wed, 17 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[什么都没有：语言模型能发现0吗？](https://arxiv.org/abs/2606.17289)**
+
+17289v1公告类型：新摘要：基于人工神经网络的人工智能系统正在开发中，其愿望是**突破**人类数学知识的界限我们展示了（ 1 ） **GPT**-2大小的语言模型在测试时无法执行这种泛化，无论语言预训练如何
+
+📅 Wed, 17 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Machine Learning (cs.LG)
-**[作为物理世界模型的可分离神经架构：从数学理论到应用](https://arxiv.org/abs/2606.14934)**
+**[噪声驱动的亚稳相逃逸解释了深度神经网络中的Grokking](https://arxiv.org/abs/2606.17120)**
 
-14934v1公告类型：新摘要：本工作引入可分离神经架构（ SNA ）和快速不确定性传播
+17120v1公告类型：新摘要：深度神经网络（ DNN ）在L2正则化强度变化下表现出一阶相变我们通过故意在亚稳态阶段捕获模型，在逃逸时间的两个数量级上再现类似grokking的延迟收敛
 
-📅 Tue, 16 Jun 2026 00:00:00 -0400
+📅 Wed, 17 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Computer Vision (cs.CV)
+**[超越基准：细粒度路边感知的连续边缘推断](https://arxiv.org/abs/2606.17241)**
+
+17241v1公告类型：新摘要：在资源受限的边缘硬件上进行持续的人工智能推断，引入了传统基准评估基本看不到的部署效果在26公里的路线上进行55分钟的车辆部署，显示在16公里时持续运行
+
+📅 Wed, 17 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Natural Language Processing (cs.CL)
-**[简化自然语言中任意条件的建模](https://arxiv.org/abs/2606.14943)**
+**[RepSelect ：通过代表选择性进行强大的LLM抛弃学习](https://arxiv.org/abs/2606.17168)**
 
-14943v1公告类型：新摘要：因果变压器模型序列通过联合分布的自回归分解我们提出任意条件**GPT** （ AC-**GPT** ） ，它引入了对标准因果变压器的简单修改，以便能够从任意条件（包括过去
+17168v1公告类型：新摘要：使大型语言模型（ LLM ）在不牺牲一般能力的情况下深深忘记特定知识和价值观仍然是unlearning5、Gemma 4 E4B、**DeepSeek** V2 Lite的核心挑战）
 
-📅 Tue, 16 Jun 2026 00:00:00 -0400
+📅 Wed, 17 Jun 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Natural Language Processing (cs.CL)
-**[Nemotron 3 Ultra ：开放、高效的专家混合混合曼巴变压器模型，用于代理推理](https://arxiv.org/abs/2606.15007)**
+### ArXiv Robotics (cs.RO)
+**[VL-MemKnG ：具有时空知识图的混合记忆，用于长自我中心导航轨迹上的问题回答](https://arxiv.org/abs/2606.17183)**
 
-15007v1公告类型：新摘要：我们在20万亿文本令牌上引入Nemotron 3 UltraWe预训练Nemotron 3 Ultra
+17183v1公告类型：新摘要：在长时间以自我为中心的视频中回答与导航相关的问题需要检索和组织分布在遥远时刻的证据，同时保持空间和上下文的一致性虽然长上下文视觉，但语言模型可以实现较强的答案质量
 
-📅 Tue, 16 Jun 2026 00:00:00 -0400
+📅 Wed, 17 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[良好解释的定义和解释LLM产出的挑战](https://arxiv.org/abs/2606.14838)**
+**[超越并行采样： Agentic搜索的多样化查询初始化](https://arxiv.org/abs/2606.17209)**
 
-14838v1公告类型：新摘要：如何定义一个好的解释是一场长期的哲学辩论，它发现最近对人工智能输出的背景重新产生了兴趣可解释性在许多情况下对人工智能的采用至关**重要**
+当模型跨rolloutsCode发出类似的第一个查询时，可在https://github上找到
 
-📅 Tue, 16 Jun 2026 00:00:00 -0400
+📅 Wed, 17 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[何时学习规则：法律案件检索的自我发展代理](https://arxiv.org/abs/2606.17220)**
+
+17220v1公告类型：新摘要：由于法律语言的复杂性以及查询和相关案例之间需要精确的词汇对齐，法律案例检索仍然具有挑战性尽管密集检索模型取得了显着进展
+
+📅 Wed, 17 Jun 2026 00:00:00 -0400
 
 ---
 
 ## 🌍 行业展望
+
+### VentureBeat
+![为什么微博微小的VibeThinker-3B让人工智能世界再次争夺基准](https://images.ctfassets.net/jdtwqhzvc2n1/3nN597gjeIB7cuVDi13fi4/27ec6c6a739b9a205e7f3a8ecf4d9ddb/Nuneybits_Vector_art_of_a_laptop-sized_AI_casting_a_giant_geome_e2031be7-1e11-4da1-b7bc-671e6a3ca75e.webp?w=300&q=30)
+
+**[为什么微博微小的VibeThinker-3B让人工智能世界再次争夺基准](https://venturebeat.com/technology/why-weibos-tiny-vibethinker-3b-has-the-ai-world-arguing-over-benchmarks-again)**
+
+“3B参数模型刚刚把编码基准分数放在与**Claude** Opus 4相同的联赛中。在**发布**的第一天，社区成员已经创建了GGUF量化和导数模型
+
+📅 Wed, 17 Jun 2026 00:32:19 GMT
+
+---
 
 ### VentureBeat
 ![Z.ai的开放式权重GLM-5.2在多个长距离编码基准上超过GPT-5.5 ，成本仅为GPT-5.5的1/6](https://images.ctfassets.net/jdtwqhzvc2n1/2wFQ5P7x9M73wwoWGI1RyM/12f4b572d351a53f3d4a3741de6b3839/Gemini_Generated_Image_e0yu6he0yu6he0yu.png?w=300&q=30)
@@ -211,6 +224,17 @@ TechCrunch从早期就跟随SpaceX的起步、挣扎和成功，我们也在这�
 ---
 
 ### VentureBeat
+![当深入研究不足以满足您的业务需求时： Sakana AI在8小时内推出“超深入研究”代理，提供超过100页的报告](https://images.ctfassets.net/jdtwqhzvc2n1/5StCW6O4h5oCFhnr4NlI2v/1738378131f3115fdb0ecfa61fbfebe2/ChatGPT_Image_Jun_15__2026__03_10_43_PM.png?w=300&q=30)
+
+**[当深入研究不足以满足您的业务需求时： Sakana AI在8小时内推出“超深入研究”代理，提供超过100页的报告](https://venturebeat.com/technology/when-deep-research-isnt-enough-for-your-business-sakana-ai-launches-ultra-deep-research-agent-for-100-page-reports-in-8-hours)**
+
+**OpenAI**的Chat**GPT** Deep Research等工具“一个通过强化学习训练的小型70亿参数模型，专门用于在从**GPT**-5到**Claude** Sonnet 4的多样化工作模型池中协调和委派任务，以传统计算成本的一小部分实现推理基准的最先进结果
+
+📅 Mon, 15 Jun 2026 19:30:07 GMT
+
+---
+
+### VentureBeat
 ![斯坦福大学的DeLM在没有中央协调员的情况下将多代理任务成本降低了50%](https://images.ctfassets.net/jdtwqhzvc2n1/5ZTMILVh7eDSl1sofa8PTl/d13bef74370811cc7b21526ec3cf41eb/u7277289442_An_empty_stage._Chairs_are_assembled_in_a_semi-ci_99405c6d-5f82-4abd-ad6e-602bc2800e88_1.png?w=300&q=30)
 
 **[斯坦福大学的DeLM在没有中央协调员的情况下将多代理任务成本降低了50%](https://venturebeat.com/orchestration/stanfords-delm-cuts-multi-agent-task-costs-50-without-a-central-orchestrator)**
@@ -221,23 +245,21 @@ TechCrunch从早期就跟随SpaceX的起步、挣扎和成功，我们也在这�
 
 ---
 
-### VentureBeat
-![当深入研究不足以满足您的业务需求时： Sakana AI在8小时内推出“超深入研究”代理，提供超过100页的报告](https://images.ctfassets.net/jdtwqhzvc2n1/5StCW6O4h5oCFhnr4NlI2v/1738378131f3115fdb0ecfa61fbfebe2/ChatGPT_Image_Jun_15__2026__03_10_43_PM.png?w=300&q=30)
+### Wired Technology
+**[Gemini-Powered Google Home扬声器终于来了](https://www.wired.com/story/the-gemini-powered-google-home-speaker-is-finally-here/)**
 
-**[当深入研究不足以满足您的业务需求时： Sakana AI在8小时内推出“超深入研究”代理，提供超过100页的报告](https://venturebeat.com/technology/when-deep-research-isnt-enough-for-your-business-sakana-ai-launches-ultra-deep-research-agent-for-100-page-reports-in-8-hours)**
+在谷歌**推出**最后一款智能音箱六年后，新的HomePod风格设备经过重新设计，成为**Gemini**聊天机器人的主机
 
-总部位于东京的人工智能初创公司Sakana AI已正式**推出**其第一个商业产品Sakana Marlin ，这是一个通过强化学习训练的小型70亿参数模型，专门用于在从**GPT**-5到**Claude** Sonnet 4的多样化工作模型中协调和委派任务，以传统计算成本的一小部分实现推理基准的最先进结果
-
-📅 Mon, 15 Jun 2026 19:30:07 GMT
+📅 Wed, 17 Jun 2026 13:00:00 +0000
 
 ---
 
-### Wired Technology
-**[“危险”的人工智能模型无关紧要](https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/)**
+### Ars Technica
+**[十个月后， $ 100的Google Home音箱终于可以预订了](https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/)**
 
-美国政府对**Anthropic**的**Claude** Fable 5和Mythos 5的打击掩盖了一个明显的事实：具有先进黑客功能的人工智能模型将很快成为常态
+谷歌的新智能扬声器更多的是关于双子座而不是音频质量。
 
-📅 Tue, 16 Jun 2026 17:50:52 +0000
+📅 Wed, 17 Jun 2026 15:57:14 +0000
 
 ---
 
@@ -250,100 +272,69 @@ TechCrunch从早期就跟随SpaceX的起步、挣扎和成功，我们也在这�
 
 ---
 
-### The Verge
-![Android 17、Wear OS 7和Android XR的所有最新消息](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007892/acastro_STK112_android_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[Android 17、Wear OS 7和Android XR的所有最新消息](https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr)**
-
-**Google** **launch**es Wear OS 7 with Live **update**s and a battery life boost The **Google** / Xreal Aura XR glasses are now available to preorder Android 17 is getting its own version of Apple’s Handoff Wear OS 7 will keep track of deliveries and sports scores on your wrist A first (and second) look at the Android XR glasses **launch**ing this year The 9 biggest **new** features in Android 17 A **new** Android 17 beta reveals plans for “Pixel Glow” light animationsA first look at **Google**’s Project Aura glasses built with Xreal **Google** **announce**s Android XR, a **new** OS for headsets and smart glasses
-
-📅 2026-06-16T18:30:00.000Z
-
----
-
-### The Verge
-![谷歌推出带有实时更新和电池寿命提升的Wear OS 7](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/google-wearos-7-launch-live-updates.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[谷歌推出带有实时更新和电池寿命提升的Wear OS 7](https://www.theverge.com/gadgets/950671/wear-os-7-pixel-watches-launch)**
-
-**Google**的Wear OS 7**更新**今天开始**推出**， Pixel Watch 2Wear OS 7也将**推出**一些新的**Gemini** Intelligence功能，但**Google**表示这些功能要到“今年晚些时候”才会**推出**
-
-📅 2026-06-16T18:00:00.000Z
-
----
-
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![screenpipe ： YC (S26) |知道你看到、说到或听到了什么的人工智能。记录您所做的一切，比如说，全天候聆听，本地，私人，安全。连接到OpenClaw、Hermes代理和100多个应用程序](https://avatars.githubusercontent.com/u/259178917?v=4)
+![tensorflow ：面向所有人的开源机器学习框架](https://avatars.githubusercontent.com/u/15658638?v=4)
 
-**[screenpipe ： YC (S26) |知道你看到、说到或听到了什么的人工智能。记录您所做的一切，比如说，全天候聆听，本地，私人，安全。连接到OpenClaw、Hermes代理和100多个应用程序](https://github.com/screenpipe/screenpipe)**
+**[tensorflow ：面向所有人的开源机器学习框架](https://github.com/tensorflow/tensorflow)**
 
-⭐ 19,329星· 1836叉·铁锈· YC (S26) |知道你所看到、所说或所听到的人工智能记录你所做的一切，说，听到24/7 ，本地，私人，安全
+⭐ 195,712 STAR · 75192 FORK · C + + ·面向所有人的**开源**机器学习框架
 
-📅 2026-06-17T00:18:59Z
+📅 2026-06-17T17:50:37Z
+
+---
+
+### GitHub Active (AI/ML)
+![监督：我们编写可重复使用的计算机视觉工具。 💜](https://avatars.githubusercontent.com/u/53104118?v=4)
+
+**[监督：我们编写可重复使用的计算机视觉工具。 💜](https://github.com/roboflow/supervision)**
+
+⭐ 44,510星· 3954叉· Python ·我们为您编写可重复使用的计算机视觉工具。 💜
+
+📅 2026-06-17T17:49:10Z
+
+---
+
+### GitHub Active (AI/ML)
+![SimpleTuner ：针对图像/视频/音频扩散模型的一般微调套件。](https://avatars.githubusercontent.com/u/59658056?v=4)
+
+**[SimpleTuner ：针对图像/视频/音频扩散模型的一般微调套件。](https://github.com/bghira/SimpleTuner)**
+
+⭐ 2862星· 282叉·蟒蛇·面向图像/视频/音频扩散模型的通用微调套件
+
+📅 2026-06-17T17:49:51Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 ai-tools-for-solopreneurs ：全天候为单人企业工作的人工智能团队—跨7个部门的50多种工具，专为个人创业者打造](https://avatars.githubusercontent.com/u/217027717?v=4)
+![🆕 多注意力：哥伦比亚大学的Chakrabarti等人提出的高阶自我注意力多注意力的实现](https://avatars.githubusercontent.com/u/108653?v=4)
 
-**[🆕 ai-tools-for-solopreneurs ：全天候为单人企业工作的人工智能团队—跨7个部门的50多种工具，专为个人创业者打造](https://github.com/mrreviewai/ai-tools-for-solopreneurs)**
+**[🆕 多注意力：哥伦比亚大学的Chakrabarti等人提出的高阶自我注意力多注意力的实现](https://github.com/lucidrains/poly-attention)**
 
-⭐ 9 star (新项目) · N/A · The AI team that works 24/7 for one-person businesses — 50+ tools across 7 departments, built for solopreneurs
+⭐ 17 star (新项目) · Python · Implementation of Poly-attention, a higher-order self-attention proposed by Chakrabarti et alof Columbia
 
-📅 2026-06-14T12:28:56Z
-
----
-
-### GitHub New (New AI)
-![🆕 guia-de-programacion-con-ai ： Guia de desarrollo y programacion con herramientas de Inteligencia Artificial y LLMS](https://avatars.githubusercontent.com/u/13058234?v=4)
-
-**[🆕 guia-de-programacion-con-ai ： Guia de desarrollo y programacion con herramientas de Inteligencia Artificial y LLMS](https://github.com/holasoymalva/guia-de-programacion-con-ai)**
-
-⭐ 7 star (新项目) · Python · Guia de desarrollo y programacion con herramientas de Inteligencia Artificial y LLMS
-
-📅 2026-06-14T21:11:04Z
-
----
-
-### GitHub New (New AI)
-![🆕 Borderline ： Claude Code插件，将无聊的低风险任务（批量I18N ，琐碎的风格调整）委托给Gemini CLI —一个透明的Claude ⇄ Gemini管道。](https://avatars.githubusercontent.com/u/164439782?v=4)
-
-**[🆕 Borderline ： Claude Code插件，将无聊的低风险任务（批量I18N ，琐碎的风格调整）委托给Gemini CLI —一个透明的Claude ⇄ Gemini管道。](https://github.com/BansheeTech/Borderline)**
-
-⭐ 6 star (新项目) · Shell · **Claude** Code plugin that delegates boringtrivial style tweaks) to the **Gemini** CLI — a transparent **Claude** ⇄ **Gemini** pipeline
-
-📅 2026-06-14T11:00:20Z
+📅 2026-06-16T21:42:46Z
 
 ---
 
 ## 💬 社交动态
 
-### Reddit: r/artificial
-**[您目前打开了多少个选项卡来使用人工智能？](https://www.reddit.com/r/artificial/comments/1u7lvs0/how_many_tabs_do_you_currently_have_open_just_to/)**
+### Hacker News
+**[启动HN ： Adam (YC W25) –开源AI CAD](https://github.com/Adam-CAD/CADAM)**
 
-我的通常看起来像： Chat**GPT** **Claude** **Gemini** Perplexity **Google**文档这是在我实际开始工作之前是否有人发现了一个可以避免在工具之间不断切换的工作流程
+**new**/cadam/它的作用： -从自然语言生成参数化3D模型，同时支持文本提示和图像引用-通过Vercel AI SDK实现模型不可知： **Anthropic** （ **Claude** ）
 
-📅 2026-06-16T18:30:13.000Z
-
----
-
-### Reddit: r/artificial
-**[Anthropic刚刚发布了40万次Claude Code课程的数据，标题掩盖了真相：您的CS学位正在成为可选](https://www.reddit.com/r/artificial/comments/1u7u9ju/anthropic_just_published_data_from_400k_claude/)**
-
-Anthropric今天**发布**了一篇研究论文，分析了约40万个**Claude** Code会议
-
-📅 2026-06-16T23:52:32.000Z
+📅 Wed, 17 Jun 2026 16:14:04 +0000
 
 ---
 
-### X: OpenAI
-**[Title: X上的OpenAI (@ OpenAI)](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Reddit: r/artificial
+**[显然OpenAI的下一个语音模型可以同时收听和说话而不会冻结](https://www.reddit.com/r/artificial/comments/1u8888x/apparently_openais_next_voice_model_can_listen/)**
 
-Title: X上的**OpenAI** (@ **OpenAI**)
+Okay this is just floating around as a rumor right now but if true it's actually huge Next voice model is supposedly called **GPT**-Bidi-1meaning it listens and talks at the same time instead of doing that thing where it just freezes the second you say "mm-hm" or try to jump in Can apparently adjust mid sentence too if you interrupt it which current voice mode absolutely cannot do If even half of this is true this fixes the most annoying thing about talking to chat**GPT** right now Anyone seen more on this
 
-📅 2026-06-17T00:17:56.811Z
+📅 2026-06-17T12:01:35.000Z
 
 ---
 
@@ -352,25 +343,7 @@ Title: X上的**OpenAI** (@ **OpenAI**)
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-06-17T00:17:56.811Z
-
----
-
-### X: OpenAI
-**[# OpenAI (@ OpenAI)/X](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-# **OpenAI** (@ **OpenAI**)/X
-
-📅 2026-06-17T00:17:56.811Z
-
----
-
-### X: DeepSeek
-**[标题： DeepSeek (@ deepseek_ai)/X](https://r.jina.ai/http://twitter.com/deepseek_ai)**
-
-标题： **DeepSeek** (@ **DeepSeek**_ai)/X
-
-📅 2026-06-17T00:19:03.680Z
+📅 2026-06-17T17:51:17.340Z
 
 ---
 
@@ -379,16 +352,43 @@ Title: X上的**OpenAI** (@ **OpenAI**)
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-06-17T00:19:03.680Z
+📅 2026-06-17T17:51:27.432Z
 
 ---
 
-### X: DeepSeek
-**[[! [图片1 ：打开个人头像] (https://pbs.twimg.com/profile_images/1717417613775757312/Uk1zNOj4_2...](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+### Hacker News
+**[Anthropic员工指责特朗普政府瞄准他们](https://www.nytimes.com/2026/06/17/technology/anthropic-trump-administration-fable.html)**
 
-【图片1 ：打开个人头像】（ https://pbscom/**DeepSeek**_ai/photo ）
+com/2026/06/17/technology/**Anthropic**-trump-administration-fablehtml评论网址： https://**new**s
 
-📅 2026-06-17T00:19:03.680Z
+📅 Wed, 17 Jun 2026 15:15:34 +0000
+
+---
+
+### Hacker News AI
+**[人工智能化学家改善药物化学中具有挑战性的反应](https://openai.com/index/ai-chemist-improves-reaction/)**
+
+文章网址： https://**OpenAI**com/index/ai-chemist-improves-reaction/评论网址： https://**new**s
+
+📅 Wed, 17 Jun 2026 17:34:20 +0000
+
+---
+
+### Reddit: r/artificial
+**[我制作了AI Boost ，这样我就可以停止不断重复自己](https://www.reddit.com/r/artificial/comments/1u8eva8/i_made_ai_boost_so_i_could_stop_repeating_myself/)**
+
+我有点厌倦了，所以我做了AI Boost (https://ai-boostio) （是的，我用**Claude** ，你怎么知道
+
+📅 2026-06-17T16:22:04.000Z
+
+---
+
+### Reddit: r/artificial
+**[4b模型现在在网络研究中击败了30b模型，原因不是尺寸](https://www.reddit.com/r/artificial/comments/1u8bgrv/a_4b_model_is_now_beating_30b_ones_at_web/)**
+
+与通常的旗舰排行榜比赛相比，本月**发布**的模特儿中的一件小事更吸引我如果你自己不训练模特儿，为什么这很**重要**
+
+📅 2026-06-17T14:17:12.000Z
 
 ---
 
