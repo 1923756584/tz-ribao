@@ -1,12 +1,12 @@
 ---
 title: "2026年6月18日 - TZ日报"
-date: 2026-06-18T00:18:49.000Z
+date: 2026-06-18T18:02:32.752Z
 draft: false
 ---
 
 # 2026年6月18日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/6/18 00:18:49
+> 📊 今日汇总 38 条 · 🕐 2026/6/18 18:02:32
 
 ---
 
@@ -32,6 +32,15 @@ draft: false
 ---
 
 ### TechCrunch AI Products
+**[如何在Google文档中关闭人工智能](https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/)**
+
+以下是让那些讨厌的“用**Gemini**写作”弹出窗口消失所需要做的事情。
+
+📅 Thu, 18 Jun 2026 01:23:51 +0000
+
+---
+
+### TechCrunch AI Products
 **[NEA的蒂芙尼·勒克（ Tiffany Luck ）表示，企业仍在研究AI的投资回报率](https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/)**
 
 据报道，优步在几个月内完成了年度人工智能预算，一些公司削减了其组织部分的**Claude**许可证
@@ -40,21 +49,12 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[NEA在人工智能IPO、个人代理和投资回报清算方面的Tiffany Luck](https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/)**
+### OpenAI Blog
+**[使用人工智能帮助医生诊断影响儿童的罕见遗传疾病](https://openai.com/index/diagnose-rare-childhood-diseases)**
 
-据报道，优步在几个月内完成了年度人工智能预算，一些公司削减了其组织部分的**Claude**许可证
+研究人员使用**OpenAI**推理模型来帮助诊断罕见疾病，在以前未解决的病例中确定了18个新的诊断
 
-📅 Wed, 17 Jun 2026 18:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[谷歌押注Gemini重塑智能家居音箱](https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/)**
-
-谷歌押注生成式人工智能可以为智能扬声器注入新的活力99谷歌家庭扬声器用更多的对话式双子座互动取代了谷歌助手时代的严格命令
-
-📅 Wed, 17 Jun 2026 16:30:09 +0000
+📅 Thu, 18 Jun 2026 08:00:00 GMT
 
 ---
 
@@ -67,39 +67,12 @@ draft: false
 
 ---
 
-### Google AI Blog
-**[我们正在通过新的投资和社区支持加强在阿拉巴马州的业务。](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/)**
-
-谷歌宣布在2026年和2027年投资150亿美元，以扩大其在阿拉巴马州杰克逊县的数据中心园区
-
-📅 Mon, 15 Jun 2026 15:00:00 +0000
-
----
-
 ### DeepMind Blog
 **[通过人工智能加速规划解锁英国房屋建筑](https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/)**
 
 英国政府与**Google** DeepMind合作构建新的人工智能驱动原型，旨在加快住房决策
 
 📅 Tue, 16 Jun 2026 21:29:50 +0000
-
----
-
-### TechCrunch AI Products
-**[世界各国领导人都想要美国的人工智能。他们只是不希望美国能够关闭它。](https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/)**
-
-法国总统马克龙和印度总理莫迪在七国集团（ G7 ）峰会上发出警告，称Uc将一夜之间切断对美国人工智能的访问—这是人类大停电刚刚成为现实的担忧
-
-📅 Wed, 17 Jun 2026 19:01:19 +0000
-
----
-
-### TechCrunch AI Products
-**[Anthropic成为首家加入Frontier碳清除联盟的人工智能初创公司](https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/)**
-
-**Anthropic**已加入Frontier联盟，该联盟获得了另外9.15亿美元的认捐，用于资助碳清除项目
-
-📅 Wed, 17 Jun 2026 18:30:56 +0000
 
 ---
 
@@ -112,32 +85,70 @@ draft: false
 
 ---
 
+### Google AI Blog
+![新的研究表明，我们的医疗人工智能AMIE可以帮助管理健康状况。](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp)
+
+**[新的研究表明，我们的医疗人工智能AMIE可以帮助管理健康状况。](https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/)**
+
+“自然”中的研究表明，我们的会话式人工智能系统与复杂疾病管理中的初级保健医生相匹配
+
+📅 Wed, 17 Jun 2026 15:00:00 +0000
+
+---
+
+### DeepMind Blog
+**[保障人工智能代理的未来](https://deepmind.google/blog/securing-the-future-of-ai-agents/)**
+
+通过人工智能控制路线图保护内部系统，结合传统安全措施和实时监控
+
+📅 Tue, 16 Jun 2026 15:46:31 +0000
+
+---
+
+### Hugging Face
+**[Beyond LoRA ：你能击败最流行的微调技术吗？](https://huggingface.co/blog/peft-beyond-lora)**
+
+Beyond LoRA ：你能击败最流行的微调技术吗？
+
+📅 Thu, 18 Jun 2026 00:00:00 GMT
+
+---
+
 ## 🔬 前沿研究
 
-### ArXiv Natural Language Processing (cs.CL)
-**[PromptMN ：伪提示语言](https://arxiv.org/abs/2606.17164)**
+### ArXiv Multiagent (cs.MA)
+**[法学硕士招聘决策中的性别偏见：来自日本背景的证据和缓解策略评估](https://arxiv.org/abs/2606.18649)**
 
-17164v1公告类型：新摘要：提示已成为人类和生成AIT之间的主要界面相同的词汇适用于所呈现的SDLC场景中的新代码库、维护和重新设计
+18649v1公告类型：新摘要：大型语言模型(LLM)越来越多地部署在招聘工作流程中6、**GPT**-4o、**DeepSeek**-V3、**Gemini** 2
 
-📅 Wed, 17 Jun 2026 00:00:00 -0400
+📅 Thu, 18 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[什么都没有：语言模型能发现0吗？](https://arxiv.org/abs/2606.17289)**
+**[CEO-Bench ：代理商可以玩长线游戏吗？](https://arxiv.org/abs/2606.18543)**
 
-17289v1公告类型：新摘要：基于人工神经网络的人工智能系统正在开发中，其愿望是**突破**人类数学知识的界限我们展示了（ 1 ） **GPT**-2大小的语言模型在测试时无法执行这种泛化，无论语言预训练如何
+18543v1公告类型：新摘要：语言模型代理正在成为isolated8和**GPT**-5的熟练执行者
 
-📅 Wed, 17 Jun 2026 00:00:00 -0400
+📅 Thu, 18 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[DeFAb ：基础模型中可验证诱拐的可验证基准](https://arxiv.org/abs/2606.18557)**
+
+18557v1公告类型：新摘要：基于规则的逻辑求解器在50微秒内解析我们基准中的每个实例，准确率为100 ％ ；最佳前沿语言模型最多达到65 ％ ，降至23我们进一步**发布**DeFAb-Hard （ 235实例3级难度变体；最佳模型53
+
+📅 Thu, 18 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Machine Learning (cs.LG)
-**[噪声驱动的亚稳相逃逸解释了深度神经网络中的Grokking](https://arxiv.org/abs/2606.17120)**
+**[结构MoE压缩的归因引导和覆盖率最大化修剪](https://arxiv.org/abs/2606.18304)**
 
-17120v1公告类型：新摘要：深度神经网络（ DNN ）在L2正则化强度变化下表现出一阶相变我们通过故意在亚稳态阶段捕获模型，在逃逸时间的两个数量级上再现类似grokking的延迟收敛
+18304v1公告类型：新摘要：专家混合（ Mixture-of-Experts ， MoE ）模型高效缩放计算基于这一观察，我们提出了一个为专家混合（ Mixture-of-Experts ， MoE ）模型量身定制的结构修剪框架
 
-📅 Wed, 17 Jun 2026 00:00:00 -0400
+📅 Thu, 18 Jun 2026 00:00:00 -0400
 
 ---
 
@@ -146,47 +157,49 @@ draft: false
 
 17241v1公告类型：新摘要：在资源受限的边缘硬件上进行持续的人工智能推断，引入了传统基准评估基本看不到的部署效果在26公里的路线上进行55分钟的车辆部署，显示在16公里时持续运行
 
-📅 Wed, 17 Jun 2026 00:00:00 -0400
+📅 Thu, 18 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Natural Language Processing (cs.CL)
-**[RepSelect ：通过代表选择性进行强大的LLM抛弃学习](https://arxiv.org/abs/2606.17168)**
+**[VISUALSKILL ：计算机使用代理的多式联运技能](https://arxiv.org/abs/2606.18448)**
 
-17168v1公告类型：新摘要：使大型语言模型（ LLM ）在不牺牲一般能力的情况下深深忘记特定知识和价值观仍然是unlearning5、Gemma 4 E4B、**DeepSeek** V2 Lite的核心挑战）
+在两个CUA基准（ CUA-World和OSExpert-Eval ）上，由**Claude** Opus 4支持的**Claude** Code CLI代理我们的代码可在https://github上找到
 
-📅 Wed, 17 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv Robotics (cs.RO)
-**[VL-MemKnG ：具有时空知识图的混合记忆，用于长自我中心导航轨迹上的问题回答](https://arxiv.org/abs/2606.17183)**
-
-17183v1公告类型：新摘要：在长时间以自我为中心的视频中回答与导航相关的问题需要检索和组织分布在遥远时刻的证据，同时保持空间和上下文的一致性虽然长上下文视觉，但语言模型可以实现较强的答案质量
-
-📅 Wed, 17 Jun 2026 00:00:00 -0400
+📅 Thu, 18 Jun 2026 00:00:00 -0400
 
 ---
 
-### ArXiv AI (cs.AI)
-**[超越并行采样： Agentic搜索的多样化查询初始化](https://arxiv.org/abs/2606.17209)**
+### ArXiv Multiagent (cs.MA)
+**[Skill-MAS ：不断发展的自动多Agent系统元技能](https://arxiv.org/abs/2606.18837)**
 
-当模型跨rolloutsCode发出类似的第一个查询时，可在https://github上找到
+18837v1公告类型：新摘要：基于大语言模型（ LLM ）的自动多Agent系统（ MAS ）生成已成为处理复杂任务的关键前沿培训时间MAS通过梯度**更新**将体验内化，但受到较小模型低能力上限的限制
 
-📅 Wed, 17 Jun 2026 00:00:00 -0400
+📅 Thu, 18 Jun 2026 00:00:00 -0400
 
 ---
 
-### ArXiv AI (cs.AI)
-**[何时学习规则：法律案件检索的自我发展代理](https://arxiv.org/abs/2606.17220)**
+### ArXiv Multiagent (cs.MA)
+**[LLM代理通信协议的技术分类](https://arxiv.org/abs/2606.19135)**
 
-17220v1公告类型：新摘要：由于法律语言的复杂性以及查询和相关案例之间需要精确的词汇对齐，法律案例检索仍然具有挑战性尽管密集检索模型取得了显着进展
+19135v1公告类型：新摘要：随着大型语言模型（ LLM ）的进步和多智能体系统旨在克服独立代理的局限性， 9个积极维护的**开源**协议已被广泛采用
 
-📅 Wed, 17 Jun 2026 00:00:00 -0400
+📅 Thu, 18 Jun 2026 00:00:00 -0400
 
 ---
 
 ## 🌍 行业展望
+
+### VentureBeat
+![Adobe在整个Creative Cloud中嵌入代理AI工作流程，从媒体生成转变为生产编排](https://images.ctfassets.net/jdtwqhzvc2n1/CRblDVbL1kQ1uEVW35sEq/ad7b269e284b5c73782b5d4934b93c2c/ChatGPT_Image_Jun_18__2026__10_30_55_AM.png?w=300&q=30)
+
+**[Adobe在整个Creative Cloud中嵌入代理AI工作流程，从媒体生成转变为生产编排](https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration)**
+
+包括**OpenAI**的Chat**GPT**Finally ，作为闪电般的、开发者至上的、多模型的人工智能创意平台，如FAL
+
+📅 Thu, 18 Jun 2026 14:33:04 GMT
+
+---
 
 ### VentureBeat
 ![为什么微博微小的VibeThinker-3B让人工智能世界再次争夺基准](https://images.ctfassets.net/jdtwqhzvc2n1/3nN597gjeIB7cuVDi13fi4/27ec6c6a739b9a205e7f3a8ecf4d9ddb/Nuneybits_Vector_art_of_a_laptop-sized_AI_casting_a_giant_geome_e2031be7-1e11-4da1-b7bc-671e6a3ca75e.webp?w=300&q=30)
@@ -210,52 +223,34 @@ draft: false
 
 ---
 
+### The Verge
+![谁来决定人工智能何时过于危险？](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[谁来决定人工智能何时过于危险？](https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump)**
+
+上周末， **Anthropic**、特朗普政府以及**Anthropic**的新人工智能模型Fable 5的组合非常激烈，所有这些都可以通过**OpenAI**的**GPT**-5实现。
+
+📅 2026-06-18T14:00:00.000Z
+
+---
+
 ### VentureBeat
-![萨蒂亚·纳德拉（ Satya Nadella ）警告说，人工智能可能会掏空整个行业，呼应全球化造成的破坏](https://images.ctfassets.net/jdtwqhzvc2n1/331duWoehbByzdXcqAME9g/c14f677c751a2ff2c9ddcbae149bc8e1/Nuneybits_Vector_art_of_golden_tokens_flooding_funnel_d3ce7ef3-0d50-4835-b3dd-de3ccfa6900e.webp?w=300&q=30)
+![Copilot搜索了您的邮箱。LiteLLM分发了管理密钥。在您的堆栈成为下一个堆栈之前运行此5次检查审核](https://images.ctfassets.net/jdtwqhzvc2n1/599hDEEWXHzpIDiNVQFFsc/069254d665cc4a88ccee32f955648c72/hero.png?w=300&q=30)
 
-**[萨蒂亚·纳德拉（ Satya Nadella ）警告说，人工智能可能会掏空整个行业，呼应全球化造成的破坏](https://venturebeat.com/technology/satya-nadella-warns-that-ai-could-hollow-out-entire-industries-echoing-the-damage-done-by-globalization)**
+**[Copilot搜索了您的邮箱。LiteLLM分发了管理密钥。在您的堆栈成为下一个堆栈之前运行此5次检查审核](https://venturebeat.com/security/copilot-searched-your-mailbox-litellm-handed-out-admin)**
 
-特别是其“Copilot”助手以及与Chat**GPT**创建者**OpenAI**At **Meta**的紧密财务联盟，一名员工创建了一个名为“**Claude**onomics”的排行榜，以跟踪哪些工人使用了最多的AI代币
+LiteLLM将默认帐户交给每个提供商密钥LiteLLM网关持有所有代理应用程序、模型、MCP服务器、身份的**OpenAI**Shadow-AI发现密钥
 
-📅 Mon, 15 Jun 2026 19:49:14 GMT
-
----
-
-### VentureBeat
-![斯坦福大学的DeLM在没有中央协调员的情况下将多代理任务成本降低了50%](https://images.ctfassets.net/jdtwqhzvc2n1/5ZTMILVh7eDSl1sofa8PTl/d13bef74370811cc7b21526ec3cf41eb/u7277289442_An_empty_stage._Chairs_are_assembled_in_a_semi-ci_99405c6d-5f82-4abd-ad6e-602bc2800e88_1.png?w=300&q=30)
-
-**[斯坦福大学的DeLM在没有中央协调员的情况下将多代理任务成本降低了50%](https://venturebeat.com/orchestration/stanfords-delm-cuts-multi-agent-task-costs-50-without-a-central-orchestrator)**
-
-一种新的斯坦福框架，称为去中心化语言模型4、**Claude** Sonnet、**Gemini** Flash和**DeepSeek** ‑ V4 ‑ Pro
-
-📅 Tue, 16 Jun 2026 17:47:53 GMT
+📅 Thu, 18 Jun 2026 17:42:49 GMT
 
 ---
 
-### Wired Technology
-**[人类神话争议中心的韩国电信巨头](https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/)**
+### ZDNet AI
+**[我在MacOS 27上对Siri AI进行了与ChatGPT和Gemini相同的测试-以下是测试方法](https://www.zdnet.com/article/new-siri-ai-apple-intelligence-test-on-mac/)**
 
-在**Anthropic**将其最先进的人工智能模型下线前几天，白宫下令该公司撤销SK Telecom对**Claude** Mythos的访问权限，声称其与中国有关系
+我在Mac上尝试了新的Siri ，虽然它有一个良好的开端，但苹果还有更多的工作要做
 
-📅 Wed, 17 Jun 2026 22:52:00 +0000
-
----
-
-### Wired Technology
-**[Gemini-Powered Google Home扬声器终于来了](https://www.wired.com/story/the-gemini-powered-google-home-speaker-is-finally-here/)**
-
-在谷歌**推出**最后一款智能音箱六年后，新的HomePod风格设备经过重新设计，成为**Gemini**聊天机器人的主机
-
-📅 Wed, 17 Jun 2026 13:00:00 +0000
-
----
-
-### Ars Technica
-**[十个月后， $ 100的Google Home音箱终于可以预订了](https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/)**
-
-谷歌的新智能扬声器更多的是关于双子座而不是音频质量。
-
-📅 Wed, 17 Jun 2026 15:57:14 +0000
+📅 Thu, 18 Jun 2026 15:00:48 GMT
 
 ---
 
@@ -270,60 +265,82 @@ draft: false
 
 ---
 
+### VentureBeat
+![Anthropic船舶主要进行Claude Design大修，包括设计系统导入、代码往返和修复其令牌燃烧问题](https://images.ctfassets.net/jdtwqhzvc2n1/A7rh9k4f5l3OFsViB4gjc/8c1c2679504faa38007e3e334377755f/image__1___1_.png?w=300&q=30)
+
+**[Anthropic船舶主要进行Claude Design大修，包括设计系统导入、代码往返和修复其令牌燃烧问题](https://venturebeat.com/technology/anthropic-ships-major-claude-design-overhaul-with-design-system-imports-code-round-trips-and-a-fix-for-its-token-burning-problem)**
+
+当**Anthropic**在4月份悄然**发布**Claude Design作为“研究预览”时，在**Claude** Design**发布**后的短短八周内，就有400位GitHub明星和310位贡献者
+
+📅 Wed, 17 Jun 2026 19:00:00 GMT
+
+---
+
 ## 📦 GitHub热门
+
+### GitHub Active (AI/ML)
+![skypilot ：在任何AI基础设施上运行、管理和扩展AI工作负载。使用一个系统来访问和管理所有人工智能计算（ Kubernetes、Slurm、20多个云、本地）。](https://avatars.githubusercontent.com/u/109387420?v=4)
+
+**[skypilot ：在任何AI基础设施上运行、管理和扩展AI工作负载。使用一个系统来访问和管理所有人工智能计算（ Kubernetes、Slurm、20多个云、本地）。](https://github.com/skypilot-org/skypilot)**
+
+⭐ 10,175星· 1105分叉· Python ·在任何AI基础设施上运行、管理和扩展AI工作负载使用一个系统来访问和管理所有AI计算（ Kubernetes、Slurm、20多个云、本地）
+
+📅 2026-06-18T18:00:58Z
+
+---
+
+### GitHub Active (Python)
+![RedXFreeSteamInstaller ：它允许您安全、免费地将所有免费和付费游戏和DLC自动添加到您的Steam帐户。-蒸汽hesabınıza tüm ücretsiz ve ücretli oyunları ve DLC 'leri güvenli ve ücretsiz bir şekilde otomatik olarak eklemenizi sağlar。](https://avatars.githubusercontent.com/u/96830819?v=4)
+
+**[RedXFreeSteamInstaller ：它允许您安全、免费地将所有免费和付费游戏和DLC自动添加到您的Steam帐户。-蒸汽hesabınıza tüm ücretsiz ve ücretli oyunları ve DLC 'leri güvenli ve ücretsiz bir şekilde otomatik olarak eklemenizi sağlar。](https://github.com/Scriptez1/RedXFreeSteamInstaller)**
+
+⭐ 1,034星· 14叉· PowerShell ·它允许您自动将所有免费和付费游戏和DLC安全地免费添加到您的Steam帐户- Steam hesabınıza tüm ücretsiz ve ücretli oyunları ve DLC 'leri güvenli ve ücretsiz bir şekilde otomatik olarak eklemenizi sağlar
+
+📅 2026-06-18T18:01:25Z
+
+---
+
+### GitHub Active (AI/ML)
+![timecopilot: TimeCopilot ： GenAI预测代理。它基于LLM和时间序列基础模型，允许您通过单个API使用多个基础模型预测、交叉验证和检测异常。从财务和能源到网络分析， TimeCopilot将自然语言查询转化为生产就绪的预测。](https://avatars.githubusercontent.com/u/243436194?v=4)
+
+**[timecopilot: TimeCopilot ： GenAI预测代理。它基于LLM和时间序列基础模型，允许您通过单个API使用多个基础模型预测、交叉验证和检测异常。从财务和能源到网络分析， TimeCopilot将自然语言查询转化为生产就绪的预测。](https://github.com/TimeCopilot/timecopilot)**
+
+⭐ 538星· 77分叉· Python · TimeCopilot ： GenAI预测代理基于LLM和时间序列基础模型构建
+
+📅 2026-06-18T18:00:54Z
+
+---
 
 ### GitHub New (New AI)
 ![🆕 多注意力：哥伦比亚大学的Chakrabarti等人提出的高阶自我注意力多注意力的实现](https://avatars.githubusercontent.com/u/108653?v=4)
 
 **[🆕 多注意力：哥伦比亚大学的Chakrabarti等人提出的高阶自我注意力多注意力的实现](https://github.com/lucidrains/poly-attention)**
 
-⭐ 18 star (新项目) · Python · Implementation of Poly-attention, a higher-order self-attention proposed by Chakrabarti et alof Columbia
+⭐ 25 star (新项目) · Python · Implementation of Poly-attention, a higher-order self-attention proposed by Chakrabarti et alof Columbia
 
 📅 2026-06-16T21:42:46Z
-
----
-
-### GitHub New (New AI)
-![🆕 ai-pm-learning-fleet ：一支自我运行的人工智能代理团队，教其所有者像人工智能产品经理一样思考-并且每天维护自己，无需保姆。建立在Claude Code之上。](https://avatars.githubusercontent.com/u/283457417?v=4)
-
-**[🆕 ai-pm-learning-fleet ：一支自我运行的人工智能代理团队，教其所有者像人工智能产品经理一样思考-并且每天维护自己，无需保姆。建立在Claude Code之上。](https://github.com/likithamadala/ai-pm-learning-fleet)**
-
-⭐ 4 star (新项目) · Python · A self-running fleet of AI agents that teaches its owner to think like an AI product manager - and maintains itself daily with no babysittingBuilt on **Claude** Code
-
-📅 2026-06-17T07:00:31Z
-
----
-
-### GitHub New (New AI)
-![🆕 Noshy ：你的经纪人有失忆症。Noshy解决了这个问题。AI代理的持久内存— LLM提取，混合搜索，零DEPS。](https://avatars.githubusercontent.com/u/263514864?v=4)
-
-**[🆕 Noshy ：你的经纪人有失忆症。Noshy解决了这个问题。AI代理的持久内存— LLM提取，混合搜索，零DEPS。](https://github.com/Noshkoto/Noshy)**
-
-⭐ 4 star (新项目) · Python · Your agent has amnesiaPersistent memory for AI agents — LLM extraction, hybrid search, zero deps
-
-📅 2026-06-16T17:17:40Z
-
----
-
-### GitHub New (New AI)
-![🆕 fablize-for-hermes ：该项目采用了fablize的验证程序—验证接地、多层证据门控、调查协议和早期停止预防。](https://avatars.githubusercontent.com/u/14170562?v=4)
-
-**[🆕 fablize-for-hermes ：该项目采用了fablize的验证程序—验证接地、多层证据门控、调查协议和早期停止预防。](https://github.com/teixeirazeus/fablize-for-hermes)**
-
-⭐ 3 star (新项目) · Python · This project adapts fablize's verified procedures — verification groundingmulti-story evidence gating
-
-📅 2026-06-17T00:05:20Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[卡通图像生成的最佳人工智能](https://www.reddit.com/r/artificial/comments/1u8qlwu/best_ai_for_cartoon_image_generation/)**
+**[大多数公司的人工智能问题不是模型](https://www.reddit.com/r/artificial/comments/1u9dfh5/most_companies_ai_problem_is_not_the_model/)**
 
-我尝试使用免费版的chat**GPT**和**Gemini** ，但它们与角色非常不一致，最终用完了。帮助我创建这些故事板风格照片的最佳AI选项是什么？
+他的论点是：每家公司都需要建立自己的人工智能能力，而不是通过APIThey重建了Siri的扩展框架，允许用户在iOS 27中在Chat**GPT**、**Claude**和**Gemini**之间切换
 
-📅 2026-06-17T23:48:48.000Z
+📅 2026-06-18T17:58:06.000Z
+
+---
+
+### Reddit: r/artificial
+![微软通过销售OpenAI模型在中国大举进军人工智能领域](https://external-preview.redd.it/LY_jp8DbQUu7ZCdqBe8ksB2BYCnxXvN291PmdTDUCBY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d31117930e490ced78c9d9f8433a8864fb4af96)
+
+**[微软通过销售OpenAI模型在中国大举进军人工智能领域](https://www.reddit.com/r/artificial/comments/1u9a54p/microsoft_makes_big_ai_inroads_in_china_by/)**
+
+提交者/u/ThereWas [link] [comments]
+
+📅 2026-06-18T15:56:45.000Z
 
 ---
 
@@ -332,7 +349,7 @@ draft: false
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-06-18T00:17:18.654Z
+📅 2026-06-18T18:01:08.669Z
 
 ---
 
@@ -341,52 +358,43 @@ draft: false
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-06-18T00:17:38.660Z
+📅 2026-06-18T18:01:23.832Z
 
 ---
 
 ### Hacker News
-**[泄露的财务文件显示， OpenAI每年损失数十亿美元](https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/)**
+**[TerraPower与Meta合作建造8座Natrium 345 MW先进核电站](https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/)**
 
-文章网址： https://arstechnicacom/ai/2026/06/leaked-financial-docs-show-**OpenAI**-is-losing-billion-of-dollars-a year/评论网址： https://**new**s
+文章网址： https://neutronbytescom/2026/01/09/terrapower-in-mega-deal-with-**Meta**-for-eight-natrium-345-mw-advanced-nuclear-plants/评论网址： https://**new**s
 
-📅 Wed, 17 Jun 2026 21:31:35 +0000
-
----
-
-### Hacker News
-**[一个机器人冲向你。你想让它在Claude还是Grok上运行？](https://openrouter.ai/blog/insights/royale-last-agent-standing/)**
-
-文章网址： https://openrouterai/blog/insights/royale-last-agent-stand/评论网址： https://**new**s
-
-📅 Wed, 17 Jun 2026 21:00:07 +0000
-
----
-
-### Hacker News
-**[使用人工智能来改善药物化学中具有挑战性的反应](https://openai.com/index/ai-chemist-improves-reaction/)**
-
-文章网址： https://**OpenAI**com/index/ai-chemist-improves-reaction/评论网址： https://**new**s
-
-📅 Wed, 17 Jun 2026 17:34:20 +0000
+📅 Thu, 18 Jun 2026 15:13:26 +0000
 
 ---
 
 ### Hacker News AI
-**[适用于人工智能路由的Chrome扩展，可减少选择人工智能模型时的摩擦](https://chromewebstore.google.com/detail/promptrouter/bojhdblkfdngamonhpbpofcnjonjbkff)**
+**[显示HN ：提示具有集中上下文的Foundry任务+说明=更清晰的AI](https://marketplace.visualstudio.com/items?itemName=sdevries.prompt-foundry)**
 
-文章网址： https://chromewebstorecom/detail/promptrouter/bojhdblkfdngamonhpbpofcnjonjbkff评论网址： https://**new**s
+对我来说，最后一个障碍是我实际上使用了**Claude** Code ，而不是VS Code更多详细信息请参阅GH: https://github
 
-📅 Wed, 17 Jun 2026 22:37:41 +0000
+📅 Thu, 18 Jun 2026 17:08:33 +0000
 
 ---
 
-### Hacker News AI
-**[Show HN ： Reyn –本地优先的人工智能，记录和回忆您的工作](https://www.usereyn.com/)**
+### Reddit: r/artificial
+**[1956年6月18日，一小群研究人员在达特茅斯学院会面，并将该领域命名为人工智能。](https://www.reddit.com/r/artificial/comments/1u9bfkc/on_june_18_1956_a_small_group_of_researchers_met/)**
 
-您可能正在考虑另一个屏幕捕获AI工具（这是真的）与往常一样，出现的最大问题是隐私，因此我将谈论第一个1
+约翰·麦卡锡（ John McCarthy ）、马文·明斯基（ Marvin Minsky ）、克劳德·香农（ **Claude** Shannon ）和纳撒尼尔·罗切斯特（ Nathaniel Rochester ）组织了它，历史学家将其视为人工智能的开端作为一个领域。这条路径是通过形式逻辑还是通过模
 
-📅 Wed, 17 Jun 2026 22:31:02 +0000
+📅 2026-06-18T16:44:43.000Z
+
+---
+
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Title: 520: Web服务器返回未知错误
+
+📅 2026-06-18T18:01:08.669Z
 
 ---
 
