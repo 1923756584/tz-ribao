@@ -1,12 +1,12 @@
 ---
 title: "2026年6月19日 - TZ日报"
-date: 2026-06-19T00:28:57.251Z
+date: 2026-06-19T17:22:05.064Z
 draft: false
 ---
 
 # 2026年6月19日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/6/19 00:28:57
+> 📊 今日汇总 38 条 · 🕐 2026/6/19 17:22:05
 
 ---
 
@@ -77,11 +77,20 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[亚马逊希望通过出售人工智能芯片更直接地挑战英伟达](https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/)**
+**[美国政府的Anthropic禁令是否无意中帮助了该品牌？](https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/)**
 
-AWS正在就将其芯片出售给其他数据中心进行谈判首席执行官Andy Jassy表示，这对公司来说是一个500亿美元的机会
+美国政府强迫Anthropic**推出**两款最新车型，而**Anthropic**本身也注意到其他车型也存在同样的越狱现象
 
-📅 Thu, 18 Jun 2026 18:22:13 +0000
+📅 Fri, 19 Jun 2026 16:08:17 +0000
+
+---
+
+### TechCrunch AI Products
+**[美国禁止发行《人类寓言5》，但数字似乎并不重要](https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/)**
+
+美国政府强迫Anthropic**推出**两款最新车型，而**Anthropic**本身也注意到其他车型也存在同样的越狱现象
+
+📅 Fri, 19 Jun 2026 16:01:03 +0000
 
 ---
 
@@ -105,294 +114,279 @@ AWS正在就将其芯片出售给其他数据中心进行谈判首席执行官An
 
 ---
 
-### DeepMind Blog
-**[保障人工智能代理的未来](https://deepmind.google/blog/securing-the-future-of-ai-agents/)**
-
-通过人工智能控制路线图保护内部系统，结合传统安全措施和实时监控
-
-📅 Tue, 16 Jun 2026 15:46:31 +0000
-
----
-
 ## 🔬 前沿研究
 
-### ArXiv Multiagent (cs.MA)
-**[法学硕士招聘决策中的性别偏见：来自日本背景的证据和缓解策略评估](https://arxiv.org/abs/2606.18649)**
+### ArXiv Natural Language Processing (cs.CL)
+**[基于PubMed摘要识别EQ-5D研究的大型语言模型集合](https://arxiv.org/abs/2606.19345)**
 
-18649v1公告类型：新摘要：大型语言模型(LLM)越来越多地部署在招聘工作流程中6、**GPT**-4o、**DeepSeek**-V3、**Gemini** 2
+19345v1公告类型：新摘要：科学出版物的快速增长导致系统文献综述（ SLR ）中的手动研究筛选越来越消耗资源。本研究调查了**Google**的**Gemini**和Gemma大语言模型（ LLM ）在仅基于已发表摘要的PubMed生物医学数据库中自动化EQ-5D检测中的使用
 
-📅 Thu, 18 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[CEO-Bench ：代理商可以玩长线游戏吗？](https://arxiv.org/abs/2606.18543)**
-
-18543v1公告类型：新摘要：语言模型代理正在成为isolated8和**GPT**-5的熟练执行者
-
-📅 Thu, 18 Jun 2026 00:00:00 -0400
+📅 Fri, 19 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[DeFAb ：基础模型中可验证诱拐的可验证基准](https://arxiv.org/abs/2606.18557)**
+**[LLM代理商寻求澄清的不确定性分解](https://arxiv.org/abs/2606.19559)**
 
-18557v1公告类型：新摘要：基于规则的逻辑求解器在50微秒内解析我们基准中的每个实例，准确率为100 ％ ；最佳前沿语言模型最多达到65 ％ ，降至23我们进一步**发布**DeFAb-Hard （ 235实例3级难度变体；最佳模型53
+19559v1公告类型：新摘要：最近的立场文件认为，对于交互式大型语言模型（ LLM ）代理，经典的aleatoric/epistemic不确定性框架是不够的，并呼吁低规格感知和可传递的不确定性表示，可以解锁新的代理功能，如主动澄清寻求和共享心理模型构建
 
-📅 Thu, 18 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[结构MoE压缩的归因引导和覆盖率最大化修剪](https://arxiv.org/abs/2606.18304)**
-
-18304v1公告类型：新摘要：专家混合（ Mixture-of-Experts ， MoE ）模型高效缩放计算基于这一观察，我们提出了一个为专家混合（ Mixture-of-Experts ， MoE ）模型量身定制的结构修剪框架
-
-📅 Thu, 18 Jun 2026 00:00:00 -0400
+📅 Fri, 19 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Natural Language Processing (cs.CL)
-**[VISUALSKILL ：计算机使用代理的多式联运技能](https://arxiv.org/abs/2606.18448)**
+**[DeepSeek-V4 ：迈向高效的百万代币上下文智能](https://arxiv.org/abs/2606.19348)**
 
-在两个CUA基准（ CUA-World和OSExpert-Eval ）上，由**Claude** Opus 4支持的**Claude** Code CLI代理我们的代码可在https://github上找到
+19348v1公告类型：新摘要：我们**推出**DeepSeek-V4系列预览版我们在超过32T的多样化和高质量代币上预训练两种型号
 
-📅 Thu, 18 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv Multiagent (cs.MA)
-**[Skill-MAS ：不断发展的自动多Agent系统元技能](https://arxiv.org/abs/2606.18837)**
-
-18837v1公告类型：新摘要：基于大语言模型（ LLM ）的自动多Agent系统（ MAS ）生成已成为处理复杂任务的关键前沿培训时间MAS通过梯度**更新**将体验内化，但受到较小模型低能力上限的限制
-
-📅 Thu, 18 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv Multiagent (cs.MA)
-**[LLM代理通信协议的技术分类](https://arxiv.org/abs/2606.19135)**
-
-19135v1公告类型：新摘要：随着大型语言模型（ LLM ）的进步和多智能体系统旨在克服独立代理的局限性， 9个积极维护的**开源**协议已被广泛采用
-
-📅 Thu, 18 Jun 2026 00:00:00 -0400
+📅 Fri, 19 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[NAVI轨道：自主地球观测零拍摄视觉语言模型的首次在轨演示](https://arxiv.org/abs/2606.18271)**
+**[Agentic AI系统运行时治理的Deontic策略](https://arxiv.org/abs/2606.19464)**
 
-18271v1公告类型：新摘要：随着地球观测数据生成速度超过下行链路带宽和人在环处理**首次**在轨演示完全在船上执行自主多模态推理的视觉语言模型
+19464v1公告类型：新摘要：由大型语言模型（ LLM ）驱动的自主代理AI系统引入了一类新的安全元策略冲突解决方案
 
-📅 Thu, 18 Jun 2026 00:00:00 -0400
+📅 Fri, 19 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Machine Learning (cs.LG)
+**[计算可识别性](https://arxiv.org/abs/2606.19361)**
+
+19361v1公告类型：新摘要：标识条件描述了目标查询或感兴趣参数的可计算性，作为可用信息的类型和数量的函数代码可在https://github上找到
+
+📅 Fri, 19 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Machine Learning (cs.LG)
+**[跨GPU架构的3D生成扩散模型的性能分析和优化](https://arxiv.org/abs/2606.19365)**
+
+19365v1公告类型：新摘要：扩散模型已成为高保真3D MRI合成必不可少的，从1提高张量核心利用率
+
+📅 Fri, 19 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Computer Vision (cs.CV)
+**[使用整流变压器缩放胸片的生成基础模型](https://arxiv.org/abs/2606.19460)**
+
+19460v1公告类型：新摘要：我们引入了第一个在十亿参数范围内从头开始训练的胸部X光片合成生成基础模型现有的X光片AI模型通常在患者亚群中泛化不佳
+
+📅 Fri, 19 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[暴露未知：通过随机路径聚合可视化隐藏的LLM偏见](https://arxiv.org/abs/2606.19344)**
+
+19344v1公告类型：新摘要：大型语言模型（ LLM ）表现出由于文本生成的随机性而难以评估的表示和句法偏差我们通过案例研究验证工作空间，将未对齐的基线模型**GPT**-2 XL与宪法对齐的Apertus模型进行比较
+
+📅 Fri, 19 Jun 2026 00:00:00 -0400
 
 ---
 
 ## 🌍 行业展望
 
-### VentureBeat
-![Adobe在整个Creative Cloud中嵌入代理AI工作流程，从媒体生成转变为生产编排](https://images.ctfassets.net/jdtwqhzvc2n1/CRblDVbL1kQ1uEVW35sEq/ad7b269e284b5c73782b5d4934b93c2c/ChatGPT_Image_Jun_18__2026__10_30_55_AM.png?w=300&q=30)
+### Wired Technology
+**[立即试用macOS 27的最佳功能之一](https://www.wired.com/story/try-one-of-macos-27s-best-features-right-now-shortcuts-playground-agent/)**
 
-**[Adobe在整个Creative Cloud中嵌入代理AI工作流程，从媒体生成转变为生产编排](https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration)**
+Apple的秋季macOS版本将允许您通过键入您想要发生的事情来构建快捷方式，但**Claude** Code和Codex用户不必等待
 
-包括**OpenAI**的Chat**GPT**Finally ，作为闪电般的、开发者至上的、多模型的人工智能创意平台，如FAL
-
-📅 Thu, 18 Jun 2026 14:33:04 GMT
-
----
-
-### VentureBeat
-![为什么微博微小的VibeThinker-3B让人工智能世界再次争夺基准](https://images.ctfassets.net/jdtwqhzvc2n1/3nN597gjeIB7cuVDi13fi4/27ec6c6a739b9a205e7f3a8ecf4d9ddb/Nuneybits_Vector_art_of_a_laptop-sized_AI_casting_a_giant_geome_e2031be7-1e11-4da1-b7bc-671e6a3ca75e.webp?w=300&q=30)
-
-**[为什么微博微小的VibeThinker-3B让人工智能世界再次争夺基准](https://venturebeat.com/technology/why-weibos-tiny-vibethinker-3b-has-the-ai-world-arguing-over-benchmarks-again)**
-
-“3B参数模型刚刚把编码基准分数放在与**Claude** Opus 4相同的联赛中。在**发布**的第一天，社区成员已经创建了GGUF量化和导数模型
-
-📅 Wed, 17 Jun 2026 00:32:19 GMT
-
----
-
-### VentureBeat
-![Anthropic的Claude Code Artifacts更新为企业带来了实时、共享的仪表板和交互式工作空间](https://images.ctfassets.net/jdtwqhzvc2n1/2rGZZLXFe3kRoiPC50Ycwv/a32853493a91cece13baf19f06f38fbb/ChatGPT_Image_Jun_18__2026__07_12_17_PM.png?w=300&q=30)
-
-**[Anthropic的Claude Code Artifacts更新为企业带来了实时、共享的仪表板和交互式工作空间](https://venturebeat.com/data/anthropics-claude-code-artifacts-update-brings-live-shared-dashboards-and-interactive-workspaces-to-enterprises)**
-
-**Anthropic**宣布为**Claude**团队和企业订阅计划的**Claude** Code用户提供可能改变游戏规则的新功能： Artifacts虽然**Anthropic**在2024年夏天**首次**将Artifacts引入其消费者网络聊天机器人-它从手动切换功能演变为将代码片段和游戏**发布**到网络的通用工具-将此功能直接集成到**Claude** Code命令行界面（ CLI ）和桌面应用程序中，
-
-📅 Thu, 18 Jun 2026 23:18:59 GMT
-
----
-
-### VentureBeat
-![新的人工智能优化框架在相同的计算预算下比Claude Code和Codex高出2.5倍](https://images.ctfassets.net/jdtwqhzvc2n1/4cekVJ1BS9ADYlnh0s4ezc/d00dd7900cb08ca4bd77a3060898fb33/arbor.png?w=300&q=30)
-
-**[新的人工智能优化框架在相同的计算预算下比Claude Code和Codex高出2.5倍](https://venturebeat.com/orchestration/new-ai-optimization-framework-beats-claude-code-and-codex-by-2-5x-on-the-same-compute-budget)**
-
-他们针对**最强**的编码代理、Codex和**Claude** Code对Arbor进行了测试， 5倍于Codex和**Claude** Code的平均相对收益
-
-📅 Thu, 18 Jun 2026 18:13:54 GMT
-
----
-
-### VentureBeat
-![Copilot搜索了您的邮箱。LiteLLM分发了管理密钥。在您的堆栈成为下一个堆栈之前运行此5次检查审核](https://images.ctfassets.net/jdtwqhzvc2n1/599hDEEWXHzpIDiNVQFFsc/069254d665cc4a88ccee32f955648c72/hero.png?w=300&q=30)
-
-**[Copilot搜索了您的邮箱。LiteLLM分发了管理密钥。在您的堆栈成为下一个堆栈之前运行此5次检查审核](https://venturebeat.com/security/copilot-searched-your-mailbox-litellm-handed-out-admin)**
-
-LiteLLM将默认帐户交给每个提供商密钥LiteLLM网关持有所有代理应用程序、模型、MCP服务器、身份的**OpenAI**Shadow-AI发现密钥
-
-📅 Thu, 18 Jun 2026 17:42:49 GMT
+📅 Fri, 19 Jun 2026 10:30:00 +0000
 
 ---
 
 ### Wired Technology
-**[白宫正在制定实时人工智能规则](https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/)**
+**[2026年最佳健身追踪器： Garmin、Google Fitbit等](https://www.wired.com/story/best-fitness-trackers/)**
 
-在与特朗普政府发生冲突后， **Anthropic**仍然无法分发**Claude** Mythos或Fable 5 ，但没有人能确切地说出公司做错了什么
+找到适合您的生活方式、锻炼和目标的可穿戴设备。
 
-📅 Thu, 18 Jun 2026 21:03:43 +0000
+📅 Fri, 19 Jun 2026 10:01:00 +0000
+
+---
+
+### Ars Technica
+**[微软发现窃取加密货币的新型轻量级后门](https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/)**
+
+Crypto Clipper通过USB进行传播，并通过Tor进行通信。
+
+📅 Thu, 18 Jun 2026 23:28:52 +0000
+
+---
+
+### Ars Technica
+**[Android验证即将到来： Google确认时间表和支持的应用商店](https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/)**
+
+在9月份开始的**重大**变革之前，本月将**推出**一项新的系统服务。
+
+📅 Thu, 18 Jun 2026 19:53:33 +0000
+
+---
+
+### ZDNet AI
+**[Google Home扬声器与Amazon Echo Dot Max ：我按规格比较了99 $的智能集线器](https://www.zdnet.com/article/google-home-speaker-vs-amazon-echo-dot-max/)**
+
+谷歌和亚马逊都拥有价格低于100 $的生成式人工智能智能扬声器，因此哪一个更引人注目
+
+📅 Thu, 18 Jun 2026 21:13:31 GMT
 
 ---
 
 ### The Verge
-![迄今为止最优惠的Amazon Prime Day提前优惠](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268513_Amazon_Prime_Day_artwork_4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![NTS电台播放器将最好的互联网电台带到您的高保真音响中](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Atonemo_NTS_radioplayer_Product-41.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[迄今为止最优惠的Amazon Prime Day提前优惠](https://www.theverge.com/gadgets/944084/best-early-prime-day-deals)**
+**[NTS电台播放器将最好的互联网电台带到您的高保真音响中](https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming)**
 
-它们不会像AirPods Pro那样紧密密封它是谷歌99 $和无屏幕Fitbit Air的可靠替代品
+使用AirPlay 2**Google** Cast
 
-📅 2026-06-18T18:54:32.000Z
+📅 2026-06-19T14:53:53.000Z
 
 ---
 
-### VentureBeat
-![AWS通过向代理学习而非手动管理的图表进入上下文层竞赛](https://images.ctfassets.net/jdtwqhzvc2n1/3io1fRBUqBtb0b4g3PWP1u/23d64118a63ed9f4388e51d688f32ab8/context-smk1.jpg?w=300&q=30)
+### The Verge
+![关于山姆·奥特曼的电影已经被亚马逊米高梅放弃了](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[AWS通过向代理学习而非手动管理的图表进入上下文层竞赛](https://venturebeat.com/data/aws-enters-the-context-layer-race-with-a-graph-that-learns-from-agents-not-manual-curation)**
+**[关于山姆·奥特曼的电影已经被亚马逊米高梅放弃了](https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped)**
 
-在企业数据存储和人工智能代理之间构建上下文层是定制的工作AWS还宣布了Amazon S3 Annotations的普遍可用性以及AWS Glue Data Catalog中技能资产的预览
+演员阵容还包括一个完全不为人知的女演员Monica Barbaro作为**OpenAI**首席技术官Mira Murati和Anora的Yura Borisov作为**OpenAI**首席科学家Ilya Sutskever
 
-📅 Wed, 17 Jun 2026 22:10:38 GMT
+📅 2026-06-19T14:15:29.000Z
+
+---
+
+### The Verge
+![Barret Zoph在短短五个月后再次离开OpenAI](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[Barret Zoph在短短五个月后再次离开OpenAI](https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab)**
+
+在担任Thinking Machines Lab**OpenAI**的联合创始人兼首席技术官一段时间后， Zoph于1月中旬返回**OpenAI** ，并向The Verge确认Zoph将离开……阅读The Verge的完整故事
+
+📅 2026-06-19T04:49:33.000Z
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![julia ： Julia编程语言](https://avatars.githubusercontent.com/u/743164?v=4)
+### GitHub Active (Python)
+![msgspec ：快速序列化和验证库，内置支持JSON、MessagePack、YAML和TOML](https://avatars.githubusercontent.com/u/287455683?v=4)
 
-**[julia ： Julia编程语言](https://github.com/JuliaLang/julia)**
+**[msgspec ：快速序列化和验证库，内置支持JSON、MessagePack、YAML和TOML](https://github.com/msgspec/msgspec)**
 
-⭐ 48,868星· 5794叉·茱莉亚·茱莉亚编程语言
+⭐ 3,816星· 155分叉· Python ·快速序列化和验证库，内置支持JSON、MessagePack、YAML和TOML
 
-📅 2026-06-19T00:25:08Z
-
----
-
-### GitHub Active (AI/ML)
-![system_prompts_leaks ：从Anthropic - Claude Fable 5、Opus 4.8、Claude Code、Claude Design中提取系统提示。OpenAI - ChatGPT 5.5 Thinking ， GPT 5.5 Instant ， Codex。Google - Gemini 3.5 Flash、3.1 Pro、Antigravity。xAI - Grok、Cursor、Copilot、VS Code、Perplexity等。定期更新。](https://avatars.githubusercontent.com/u/27446620?v=4)
-
-**[system_prompts_leaks ：从Anthropic - Claude Fable 5、Opus 4.8、Claude Code、Claude Design中提取系统提示。OpenAI - ChatGPT 5.5 Thinking ， GPT 5.5 Instant ， Codex。Google - Gemini 3.5 Flash、3.1 Pro、Antigravity。xAI - Grok、Cursor、Copilot、VS Code、Perplexity等。定期更新。](https://github.com/asgeirtj/system_prompts_leaks)**
-
-8、**Claude** Code、**Claude** Design**OpenAI** - Chat**GPT** 5
-
-📅 2026-06-19T00:26:50Z
+📅 2026-06-19T17:20:53Z
 
 ---
 
 ### GitHub Active (AI/ML)
-![nimble ：用于存储大型列式数据集的新型可扩展文件格式。](https://avatars.githubusercontent.com/u/19538647?v=4)
+![sparklyr: Apache Spark的R接口](https://avatars.githubusercontent.com/u/58250306?v=4)
 
-**[nimble ：用于存储大型列式数据集的新型可扩展文件格式。](https://github.com/facebookincubator/nimble)**
+**[sparklyr: Apache Spark的R接口](https://github.com/sparklyr/sparklyr)**
 
-⭐ 718星· 83分叉· C + + ·用于存储大型柱状数据集的新型可扩展文件格式。
+Apache Spark ⭐ 970星· 308叉· R · R接口
 
-📅 2026-06-19T00:26:25Z
+📅 2026-06-19T17:19:08Z
 
 ---
 
 ### GitHub Active (Python)
-![esbmc ：高效的基于SMT的上下文限制模型检查器（ ESBMC ）](https://avatars.githubusercontent.com/u/12586932?v=4)
+![RedXFreeSteamInstaller ：它允许您安全、免费地将所有免费和付费游戏和DLC自动添加到您的Steam帐户。-蒸汽hesabınıza tüm ücretsiz ve ücretli oyunları ve DLC 'leri güvenli ve ücretsiz bir şekilde otomatik olarak eklemenizi sağlar。](https://avatars.githubusercontent.com/u/96830819?v=4)
 
-**[esbmc ：高效的基于SMT的上下文限制模型检查器（ ESBMC ）](https://github.com/esbmc/esbmc)**
+**[RedXFreeSteamInstaller ：它允许您安全、免费地将所有免费和付费游戏和DLC自动添加到您的Steam帐户。-蒸汽hesabınıza tüm ücretsiz ve ücretli oyunları ve DLC 'leri güvenli ve ücretsiz bir şekilde otomatik olarak eklemenizi sağlar。](https://github.com/Scriptez1/RedXFreeSteamInstaller)**
 
-⭐ 489星· 137分叉· C + + ·高效的基于SMT的上下文限制模型检查器（ ESBMC ）
+⭐ 1,063星· 15叉· PowerShell ·它允许您自动将所有免费和付费游戏和DLC安全地免费添加到您的Steam帐户- Steam hesabınıza tüm ücretsiz ve ücretli oyunları ve DLC 'leri güvenli ve ücretsiz bir şekilde otomatik olarak eklemenizi sağlar
 
-📅 2026-06-19T00:27:10Z
+📅 2026-06-19T17:20:47Z
+
+---
+
+### GitHub New (New AI)
+![🆕 多注意力：哥伦比亚大学的Chakrabarti等人提出的高阶自我注意力多注意力的实现](https://avatars.githubusercontent.com/u/108653?v=4)
+
+**[🆕 多注意力：哥伦比亚大学的Chakrabarti等人提出的高阶自我注意力多注意力的实现](https://github.com/lucidrains/poly-attention)**
+
+⭐ 32 star (新项目) · Python · Implementation of Poly-attention, a higher-order self-attention proposed by Chakrabarti et alof Columbia
+
+📅 2026-06-16T21:42:46Z
 
 ---
 
 ## 💬 社交动态
 
-### Reddit: r/artificial
-**[大多数公司的人工智能问题不是模型](https://www.reddit.com/r/artificial/comments/1u9dfh5/most_companies_ai_problem_is_not_the_model/)**
+### Hacker News AI
+**[开源人工智能技能，使Claude/ChatGPT产生真正的工作，评估得分](https://github.com/mohitagw15856/pm-claude-skills)**
 
-他的论点是：每家公司都需要建立自己的人工智能能力，而不是通过APIThey重建了Siri的扩展框架，允许用户在iOS 27中在Chat**GPT**、**Claude**和**Gemini**之间切换
+文章网址： https://githubcom/mohitagw15856/pm-**Claude**-skills评论网址： https://**new**s
 
-📅 2026-06-18T17:58:06.000Z
-
----
-
-### X: OpenAI
-**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-网址来源： http://twitter.com/**OpenAI**
-
-📅 2026-06-19T00:27:40.252Z
-
----
-
-### X: DeepSeek
-**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
-
-网址来源： http://twitter.com/**DeepSeek**_ai
-
-📅 2026-06-19T00:27:46.653Z
+📅 Fri, 19 Jun 2026 16:34:35 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[伯尼·桑德斯（ Bernie Sanders ）希望从人工智能利润中每年给每个美国人1000 $ ，这种推理实际上是有道理的](https://www.reddit.com/r/artificial/comments/1u9ifn2/bernie_sanders_wants_to_give_every_american_1000/)**
+![人工智能从好莱坞学会了反派。以下是我们如何重新训练它。](https://external-preview.redd.it/HxdyjFNsgKgjsCW4fidBMWErGEC4iDCKiflhRDsmRfo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b690c338abc4e1e4bca5a32d9fedcd76dfb54750)
 
-让公众拥有最大的人工智能实验室50 ％的股份，因为人工智能创造了更多的人工智能每次我使用chat**GPT**时，我都会想到所有的作家、程序员和艺术家，他们的作品都是从那些一无所获的人那里学到的
+**[人工智能从好莱坞学会了反派。以下是我们如何重新训练它。](https://www.reddit.com/r/artificial/comments/1ua6yez/ai_learned_to_be_a_villain_from_hollywood_heres/)**
 
-📅 2026-06-18T21:05:42.000Z
+产生新一波乐观科幻小说的500万次竞争，以及为什么彼得认为这使得我们现在讲述的关于人工智能的故事特别高风险克劳德的勒索行为如何显示反乌托邦训练数据与人工智能行为之间的联系未来愿景XPRIZE将如何产生新一波乐观科幻小说，以训练人工智能为什么公众对技术的乐观情绪在美国和欧洲大幅下降
 
----
-
-### Reddit: r/artificial
-**[1956年6月18日，一小群研究人员在达特茅斯学院会面，并将该领域命名为人工智能。](https://www.reddit.com/r/artificial/comments/1u9bfkc/on_june_18_1956_a_small_group_of_researchers_met/)**
-
-约翰·麦卡锡（ John McCarthy ）、马文·明斯基（ Marvin Minsky ）、克劳德·香农（ **Claude** Shannon ）和纳撒尼尔·罗切斯特（ Nathaniel Rochester ）组织了它，历史学家将其视为人工智能的开端作为一个领域。这条路径是通过形式逻辑还是通过模
-
-📅 2026-06-18T16:44:43.000Z
+📅 2026-06-19T16:41:43.000Z
 
 ---
 
-### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Hacker News
+**[现代收购波士顿动力公司， Atlas人形机器人将于2028年前在汽车工厂使用](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/)**
 
-Title: 520: Web服务器返回未知错误
+文章网址： https://startupfortunecom/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/评论网址： https://**new**s
 
-📅 2026-06-19T00:27:40.252Z
-
----
-
-### X: OpenAI
-**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-警告：目标URL返回错误520 ：
-
-📅 2026-06-19T00:27:40.252Z
+📅 Fri, 19 Jun 2026 16:28:20 +0000
 
 ---
 
-### X: OpenAI
-**[警告：此页面可能尚未完全加载，请考虑显式指定超时。](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Hacker News
+**[业余爱好者可能已经破解了线性A ，这是一个有120年历史的谜题](https://aiclambake.com/clamtakes/linear-a/)**
 
-警告：此页面可能尚未完全加载，请考虑显式指定超时。
+文章网址： https://aiclambakecom/clamtakes/linear-a/评论网址： https://**new**s
 
-📅 2026-06-19T00:27:40.252Z
+📅 Fri, 19 Jun 2026 16:04:42 +0000
+
+---
+
+### Hacker News
+**[ATProto中没有实例](https://overreacted.io/there-are-no-instances-in-atproto/)**
+
+文章网址： https://overreactedio/there-are-no-instances-in-atproto/评论网址： https://**new**s
+
+📅 Fri, 19 Jun 2026 15:10:02 +0000
+
+---
+
+### Hacker News
+**[挪威绿灯首个全尺寸船舶隧道](https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel)**
+
+文章网址： https://eandtorg/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel评论网址： https://**new**s
+
+📅 Fri, 19 Jun 2026 10:16:10 +0000
+
+---
+
+### Hacker News
+**[瓦尔哈拉项目，解释： JDK 28中的十年工作如何到来](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)**
+
+文章网址： https://wwwcom/p/project-valhalla-explained-how-a评论网址： https://**new**s
+
+📅 Fri, 19 Jun 2026 06:35:57 +0000
+
+---
+
+### Hacker News
+**[因此，您想定义一个众所周知的URI](https://mnot.net/blog/2026/well_known_uris)**
+
+文章网址： https://mnotnet/blog/2026/well_known_uris评论网址： https://**new**s
+
+📅 Fri, 19 Jun 2026 06:05:01 +0000
 
 ---
 
