@@ -1,19 +1,19 @@
 ---
 title: "2026年6月21日 - TZ日报"
-date: 2026-06-21T00:07:53.106Z
+date: 2026-06-21T16:48:20.220Z
 draft: false
 ---
 
 # 2026年6月21日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/6/21 00:07:53
+> 📊 今日汇总 33 条 · 🕐 2026/6/21 16:48:20
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 8 条
+- **前沿研究**: 3 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -40,21 +40,12 @@ Jumper并不是离开**Google** DeepMind的唯一大牌。
 
 ---
 
-### OpenAI Blog
-**[改善ChatGPT中的健康智能](https://openai.com/index/improving-health-intelligence-in-chatgpt)**
+### TechCrunch AI Products
+**[当特朗普政府打击Anthropic时，谁会受益？](https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/)**
 
-了解**GPT**-55 Instant如何通过更强的推理能力改善Chat**GPT**的健康和健康反应
+在新一期的《Equity》节目中，我们讨论了是什么促使政府采取最新行动对抗人类
 
-📅 Thu, 18 Jun 2026 11:00:00 GMT
-
----
-
-### OpenAI Blog
-**[使用人工智能帮助医生诊断影响儿童的罕见遗传疾病](https://openai.com/index/diagnose-rare-childhood-diseases)**
-
-研究人员使用**OpenAI**推理模型来帮助诊断罕见疾病，在以前未解决的病例中确定了18个新的诊断
-
-📅 Thu, 18 Jun 2026 08:00:00 GMT
+📅 Sun, 21 Jun 2026 15:28:17 +0000
 
 ---
 
@@ -95,6 +86,15 @@ MosaicLeaks ：您的研究代理能保守秘密吗？
 ---
 
 ### TechCrunch AI Products
+**[Beyond Siri ：以下是iOS 27中iPhone将具备的实用人工智能功能](https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/)**
+
+Siri的人工智能革新可能在WWDC上占据了头条新闻，但苹果一些最有用的人工智能功能正在iOS 27的其他地方出现
+
+📅 Sun, 21 Jun 2026 14:40:28 +0000
+
+---
+
+### TechCrunch AI Products
 **[Signal的Meredith Whittaker希望你记住，人工智能聊天机器人“不是你的朋友”](https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/)**
 
 “他们不是你的朋友。他们不是有意识的人。他们不是有感情的对话者。”
@@ -114,90 +114,34 @@ MosaicLeaks ：您的研究代理能保守秘密吗？
 
 ## 🔬 前沿研究
 
-### ArXiv AI (cs.AI)
-**[LLM代理商寻求澄清的不确定性分解](https://arxiv.org/abs/2606.19559)**
+### Science AI
+**[随着公司和政府努力解决人工智能安全问题，研究人员陷入了交火之中](https://www.science.org/content/article/researchers-caught-crossfire-companies-and-government-grapple-over-ai-safety)**
 
-19559v1公告类型：新摘要：最近的立场文件认为，对于交互式大型语言模型（ LLM ）代理，经典的aleatoric/epistemic不确定性框架是不够的，并呼吁低规格感知和可传递的不确定性表示，可以解锁新的代理功能，如主动澄清寻求和共享心理模型构建
+在动荡的寓言5被删除后，科学家们担心人工智能安全规则可能会重塑开放研究
 
-📅 Sat, 20 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[Agentic AI系统运行时治理的Deontic策略](https://arxiv.org/abs/2606.19464)**
-
-19464v1公告类型：新摘要：由大型语言模型（ LLM ）驱动的自主代理AI系统引入了一类新的安全元策略冲突解决方案
-
-📅 Sat, 20 Jun 2026 00:00:00 -0400
+📅 2026-06-19T11:00:00.000Z
 
 ---
 
-### ArXiv AI (cs.AI)
-**[衡量主题覆盖、能力和认知深度方面的课程一致性：应用于CS2013和CS2023的纵向框架](https://arxiv.org/abs/2606.19469)**
+### Science AI
+**[“瓶中之光”液体可以从多种来源收集和储存能量](https://www.science.org/content/article/light-bottle-liquid-can-harvest-and-store-energy-multiple-sources)**
 
-19469v1公告类型：新摘要：本科计算机科学由每十年修订一次的国际课程指南管理，反映了新指南提高的期望
+物质的“非凡”行为可能导致由富含能量的凝胶驱动的设备
 
-📅 Sat, 20 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[扩散语言模型：实验分析](https://arxiv.org/abs/2606.19475)**
-
-19475v1公告类型：新摘要：大型语言模型（ LLM ）通过自回归生成彻底改变了语言建模扩散语言模型（ DLM ）已成为通过迭代去噪而不是下一代预测生成文本的替代范例
-
-📅 Sat, 20 Jun 2026 00:00:00 -0400
+📅 2026-06-19T08:00:00.000Z
 
 ---
 
-### ArXiv AI (cs.AI)
-**[Multi-Agent LLM评议中的隐藏锚点](https://arxiv.org/abs/2606.19494)**
+### MIT Tech Research
+**[一家初创公司声称它突破了阻碍LLM的瓶颈](https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/)**
 
-19494v1公告类型：新摘要：多代理法学硕士审议跨越三个开放式重量模型系列，这是一个频谱，不是全有或全无
+总部位于迈阿密的人工智能初创公司Subquadratic上个月以巨大的声称退出了隐身模式它宣布已经解决了一个数学瓶颈，这个瓶颈已经阻碍了大型语言模型将近十年
 
-📅 Sat, 20 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[DeXposure-Claw ： DeFi风险监管的代理系统](https://arxiv.org/abs/2606.19501)**
-
-19501v1公告类型：新摘要：去中心化金融使主管面临快速移动、网络化的信用风险代码位于https://github
-
-📅 Sat, 20 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[LLM不知道它不知道什么：通过临床表格数据上的跨模型归因分歧来检测认知盲点](https://arxiv.org/abs/2606.19509)**
-
-19509v1公告类型：新摘要：大型语言模型（ LLM ）越来越多地应用于结构化临床数据我们通过跨模型归因差异的镜头研究这个问题，目的是减少结构化任务的认知不确定性
-
-📅 Sat, 20 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[REVEAL + + ：阿尔茨海默病风险视觉语言视网膜建模的不同表型分组](https://arxiv.org/abs/2606.19522)**
-
-19522v1公告类型：新摘要：视网膜为神经退行性疾病提供了无创窗口这些方法的关键设计选择是使用表型分组
-
-📅 Sat, 20 Jun 2026 00:00:00 -0400
+📅 Fri, 19 Jun 2026 10:40:24 +0000
 
 ---
 
 ## 🌍 行业展望
-
-### VentureBeat
-![Adobe在整个Creative Cloud中嵌入代理AI工作流程，从媒体生成转变为生产编排](https://images.ctfassets.net/jdtwqhzvc2n1/CRblDVbL1kQ1uEVW35sEq/ad7b269e284b5c73782b5d4934b93c2c/ChatGPT_Image_Jun_18__2026__10_30_55_AM.png?w=300&q=30)
-
-**[Adobe在整个Creative Cloud中嵌入代理AI工作流程，从媒体生成转变为生产编排](https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration)**
-
-包括**OpenAI**的Chat**GPT**Finally ，作为闪电般的、开发者至上的、多模型的人工智能创意平台，如FAL
-
-📅 Thu, 18 Jun 2026 14:33:04 GMT
-
----
 
 ### VentureBeat
 ![Anthropic的Claude Code Artifacts更新为企业带来了实时、共享的仪表板和交互式工作空间](https://images.ctfassets.net/jdtwqhzvc2n1/2rGZZLXFe3kRoiPC50Ycwv/a32853493a91cece13baf19f06f38fbb/ChatGPT_Image_Jun_18__2026__07_12_17_PM.png?w=300&q=30)
@@ -229,6 +173,15 @@ MosaicLeaks ：您的研究代理能保守秘密吗？
 LiteLLM将默认帐户交给每个提供商密钥LiteLLM网关持有所有代理应用程序、模型、MCP服务器、身份的**OpenAI**Shadow-AI发现密钥
 
 📅 Thu, 18 Jun 2026 17:42:49 GMT
+
+---
+
+### Wired Technology
+**[让ChatGPT提示更上一层楼的28个技巧](https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/)**
+
+当然，任何人都可以使用**OpenAI**的聊天机器人，但通过智能工程，您可以获得更有趣的结果
+
+📅 Sun, 21 Jun 2026 10:30:00 +0000
 
 ---
 
@@ -274,12 +227,23 @@ Crypto Clipper通过USB进行传播，并通过Tor进行通信。
 
 ## 📦 GitHub热门
 
+### GitHub Active (Python)
+![pypdfium2 ： Python绑定到PDFium ，合理的跨平台。](https://avatars.githubusercontent.com/u/93039761?v=4)
+
+**[pypdfium2 ： Python绑定到PDFium ，合理的跨平台。](https://github.com/pypdfium2-team/pypdfium2)**
+
+⭐ 781星· 46叉· Python · Python绑定到PDFium ，合理跨平台。
+
+📅 2026-06-21T16:47:29Z
+
+---
+
 ### GitHub New (New AI)
 ![🆕 free-ai-models ：免费访问主要AI模型（ GPT、Claude、Llama、DeepSeek等）的10种合法方式—分步指南，无需订阅，无需卡。](https://avatars.githubusercontent.com/u/110087282?v=4)
 
 **[🆕 free-ai-models ：免费访问主要AI模型（ GPT、Claude、Llama、DeepSeek等）的10种合法方式—分步指南，无需订阅，无需卡。](https://github.com/Moh4696/free-ai-models)**
 
-⭐ 7 star (新项目) · N/A · 10 legit ways to access major AI models (**GPT**Claude
+⭐ 8 star (新项目) · N/A · 10 legit ways to access major AI models (**GPT**Claude
 
 📅 2026-06-19T07:52:29Z
 
@@ -297,104 +261,89 @@ Crypto Clipper通过USB进行传播，并通过Tor进行通信。
 ---
 
 ### GitHub New (New AI)
-![🆕 Deep_Learning_Path: Sıfırdan ileri seviyeye Deep Learning yol haritası. 11 modül: PDF + Python + Jupyter Notebook. NumPy · TensorFlow · PyTorch karşılaştırmalı implementasyonlar。](https://avatars.githubusercontent.com/u/128067349?v=4)
+![🆕 突触：🧠利用自主AI代理和语义搜索的FAANG式技术智能平台。](https://avatars.githubusercontent.com/u/176379219?v=4)
 
-**[🆕 Deep_Learning_Path: Sıfırdan ileri seviyeye Deep Learning yol haritası. 11 modül: PDF + Python + Jupyter Notebook. NumPy · TensorFlow · PyTorch karşılaştırmalı implementasyonlar。](https://github.com/AlicanKaya192/Deep_Learning_Path)**
+**[🆕 突触：🧠利用自主AI代理和语义搜索的FAANG式技术智能平台。](https://github.com/Hayredin950/SYNAPSE)**
 
-⭐ 3 star (新项目) · Python · Sıfırdan ileri seviyeye Deep Learning yol haritası11 modül: PDF + Python + Jupyter Notebook
+⭐ 4 star (新项目) · Python · 🧠 FAANG-style technology intelligence platform leveraging autonomous AI agents and semantic search
 
-📅 2026-06-18T09:34:20Z
-
----
-
-### GitHub New (New AI)
-![🆕 cybersynth-ids ：基于人工智能的入侵检测研究平台，具有FastAPI、LightGBM、合成网络流生成、SHAP可解释性和漂移监控。](https://avatars.githubusercontent.com/u/165438673?v=4)
-
-**[🆕 cybersynth-ids ：基于人工智能的入侵检测研究平台，具有FastAPI、LightGBM、合成网络流生成、SHAP可解释性和漂移监控。](https://github.com/b1nd03/cybersynth-ids)**
-
-⭐ 2 star (新项目) · Python · AI-based intrusion detection research platform with FastAPISHAP explainability
-
-📅 2026-06-18T17:58:20Z
+📅 2026-06-18T04:50:14Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-![Glm 5.2看起来很强大，但发布会悄悄地混合了两组不同的数字](https://preview.redd.it/1ftm0ay5wh8h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e7c031c6962e7bba5070a8989dea9356e5c651a2)
+**[人工智能深度研究是否变得懒惰？](https://www.reddit.com/r/artificial/comments/1ubskzk/did_ai_deep_research_get_lazy/)**
 
-**[Glm 5.2看起来很强大，但发布会悄悄地混合了两组不同的数字](https://www.reddit.com/r/artificial/comments/1ub6bxw/glm_52_looks_strong_but_the_launch_is_quietly/)**
+你可以看到它从数百个不同的来源拉出来，构建了一个庞大而详细的报告，我最近从Chat**GPT**切换到**Gemini** ，我教这是**Gemini**的特定事情，切换到Chat**GPT** ，情况更糟
 
-zhipu是较大的之一， glm是他们的主要型号系列， glm 5这不是撒谎，而是选择，现在每个实验室都这样做，包括**OpenAI**和人择
+📅 2026-06-21T15:15:04.000Z
 
-📅 2026-06-20T20:14:15.000Z
+---
+
+### Reddit: r/artificial
+![从《人类寓言》对峙中可以看出，人工智能现在可以进行世界建模](https://external-preview.redd.it/bPiWZR8uvEMu0FvkktN1SZ8m9l4-Do9asapVFhZU7AE.png?width=140&amp;height=73&amp;auto=webp&amp;s=ded511f3e68bb6c57aada056fa2ff035900008d5)
+
+**[从《人类寓言》对峙中可以看出，人工智能现在可以进行世界建模](https://www.reddit.com/r/artificial/comments/1ubs2hj/ais_can_do_worldmodeling_now_as_seen_via_the/)**
+
+**Claude**在这里生成了因果图的图像，该因果图对这一切进行建模/posts/zhRe3tdBpsZbGCdDK/world-modeling-the-us-vs-**Anthropic**-standoff-on-**Claude**-fable https://preview
+
+📅 2026-06-21T14:53:58.000Z
+
+---
+
+### X: OpenAI
+**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+网址来源： http://twitter.com/**OpenAI**
+
+📅 2026-06-21T16:47:14.517Z
+
+---
+
+### X: DeepSeek
+**[标题： X上的DeepSeek （ @ deepseek_ai ）](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+
+标题： X上的**DeepSeek** （ @ **DeepSeek**_ai ）
+
+📅 2026-06-21T16:47:29.073Z
+
+---
+
+### X: DeepSeek
+**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+
+网址来源： http://twitter.com/**DeepSeek**_ai
+
+📅 2026-06-21T16:47:29.073Z
+
+---
+
+### X: DeepSeek
+**[# DeepSeek (@ deepseek_ai)/X](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+
+# **DeepSeek** (@ **DeepSeek**_ai)/X
+
+📅 2026-06-21T16:47:29.073Z
+
+---
+
+### Hacker News
+**[谷歌达到50%的IPv6](https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/)**
+
+文章网址： https://blognet/2026/04/28/**Google**-hits-50-ipv6/评论网址： https://**new**s
+
+📅 Sun, 21 Jun 2026 08:21:22 +0000
 
 ---
 
 ### Hacker News AI
-**[超越74亿美元的头条新闻： DeepSeek的A系列标志着中国人工智能联盟的转变](https://asiaai.fyi/east-asias-ai-capital-surge-homegrown-models-challenge-west-amid-mineral-tensions/)**
+**[显示HN ： Askmaps.ai –用地图赞ChatGPT](https://www.askmaps.ai)**
 
-文章网址： https://asiaaifyi/east-asias-ai-capital-surge-homegrown-models-challenge-west-amid-mineral-tensions/评论网址： https://**new**s
+文章网址： https://wwwai评论网址： https://**new**s
 
-📅 Sat, 20 Jun 2026 23:47:49 +0000
-
----
-
-### Reddit: r/artificial
-![合成[AI]编舞研究](https://external-preview.redd.it/bWtkd214MTNxZzhoMWQ_y_xGTuKoG1TImotNS2C6exKAVsCB82BNejuCNK_T.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=758489afb430aa5db81436c2cac65ac85f2bdaaa)
-
-**[合成[AI]编舞研究](https://www.reddit.com/r/artificial/comments/1ub0kjp/a_study_on_synthetic_ai_choreographies/)**
-
-输入的内容是： -艺术家图像[全身推荐-我最终使用了**Midjourney** + **GPT** Image + Image St**Udio**的混合体] -目标音频摘录不超过14系统生成了提示
-
-📅 2026-06-20T16:16:47.000Z
-
----
-
-### Reddit: r/artificial
-![Anthropic的名字来源于人工智能的安全性。这些承诺能否在万亿美元的首次公开募股中幸存下来？](https://external-preview.redd.it/uz6SGxlndw8jrXFBzLKetLerD_nHVBTgK8xtf18w9EY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=493ac2c51f7256dec47c6ee249a72395eb9aa271)
-
-**[Anthropic的名字来源于人工智能的安全性。这些承诺能否在万亿美元的首次公开募股中幸存下来？](https://www.reddit.com/r/artificial/comments/1uayfk8/anthropic_built_its_name_on_ai_safety_can_those/)**
-
-提交者/u/siliCONtainment- [link] [comments]
-
-📅 2026-06-20T14:47:29.000Z
-
----
-
-### Hacker News
-**[Linux中的Epoll与Io_uring](https://sibexi.co/posts/epoll-vs-io_uring/)**
-
-文章网址： https://sibexico/posts/epoll-vs-io_uring/评论网址： https://**new**s
-
-📅 Sat, 20 Jun 2026 23:07:09 +0000
-
----
-
-### Hacker News
-**[不仅仅是书籍：从图书馆租一台缝纫机可以改善民主](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland)**
-
-文章网址： https://wwwcom/future/article/20260618-the-weird-and-wonderful-libraries-of-finland评论网址： https://**new**s
-
-📅 Sat, 20 Jun 2026 22:54:11 +0000
-
----
-
-### Hacker News
-**[事实证明，有一群精英疯子试图控制世界](https://www.esquire.com/news-politics/politics/a71619211/peter-thiel-dialog-club-wired-report/)**
-
-文章网址： https://wwwcom/**new**s-politics/politics/a71619211/peter-thiel-dialog-club-wired-report/评论网址： https://**new**s
-
-📅 Sat, 20 Jun 2026 22:50:43 +0000
-
----
-
-### Hacker News
-**[2022年之前的书籍](https://notes.lorenzogravina.com/musings/pre-2022-books)**
-
-文章网址： https://notescom/musings/pre-2022-books评论网址： https://**new**s
-
-📅 Sat, 20 Jun 2026 22:36:23 +0000
+📅 Sun, 21 Jun 2026 16:00:49 +0000
 
 ---
 
