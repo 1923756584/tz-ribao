@@ -1,19 +1,19 @@
 ---
 title: "2026年6月23日 - TZ日报"
-date: 2026-06-23T00:07:13.058Z
+date: 2026-06-23T17:20:42.530Z
 draft: false
 ---
 
 # 2026年6月23日 - TZ日报
 
-> 📊 今日汇总 34 条 · 🕐 2026/6/23 00:07:13
+> 📊 今日汇总 36 条 · 🕐 2026/6/23 17:20:42
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 4 条
+- **前沿研究**: 6 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -40,6 +40,42 @@ OpenAI**推出**新的Daybreak工具，包括Codex Security和**GPT**-55-Cyber �
 
 ---
 
+### TechCrunch AI Products
+**[Anthropic的Claude Tag正在了解您的公司，每次一条Slack消息](https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/)**
+
+**Anthropic**的新**Claude** Tag为Slack带来了始终在线的人工智能团队成员，但除了生产力之外，该功能还是捕捉组织背景、机构知识和企业工作流程的战略游戏
+
+📅 Tue, 23 Jun 2026 17:00:00 +0000
+
+---
+
+### AI News
+**[欧莱雅将美宝莲虚拟试穿带入ChatGPT](https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/)**
+
+欧莱雅宣布与**OpenAI**合作，将美宝莲纽约的虚拟化妆试穿功能引入Chat**GPT** […]欧莱雅将美宝莲虚拟试穿引入Chat**GPT**的帖子**首次**出现在人工智能新闻
+
+📅 Mon, 22 Jun 2026 10:00:00 +0000
+
+---
+
+### OpenAI Blog
+**[GPT-5如何帮助免疫学家Derya Unutmaz解开一个3年前的谜团](https://openai.com/index/gpt-5-immunology-mystery)**
+
+**GPT**-5 Pro帮助解决了一个3年前的免疫学谜团，为T细胞行为提供了见解该**突破**可以支持癌症和自身免疫研究
+
+📅 Tue, 23 Jun 2026 17:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[Omio如何打造对话式旅行的未来](https://openai.com/index/omio)**
+
+了解Omio如何利用**OpenAI**为对话式旅行体验提供支持，加速产品开发，并转型为AI原生公司
+
+📅 Tue, 23 Jun 2026 00:00:00 GMT
+
+---
+
 ### OpenAI Blog
 **[Patch the Planet ：支持开源维护者的Daybreak计划](https://openai.com/index/patch-the-planet)**
 
@@ -49,66 +85,30 @@ OpenAI**推出**Patch the Planeta Daybreak计划，帮助**开源**维护人员�
 
 ---
 
+### Hugging Face
+**[每周使用人工智能、开放式工具和人工智能出货HUGGINGFACE_HUB](https://huggingface.co/blog/huggingface-hub-release-ci)**
+
+每周使用人工智能、开放式工具和人工智能出货HUGGINGFACE_HUB
+
+📅 Tue, 23 Jun 2026 00:00:00 GMT
+
+---
+
+### TechCrunch AI Products
+**[OpenAI推出新举措，帮助查找和修补开源漏洞](https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/)**
+
+**OpenAI**正在使用人工智能来帮助**开源**社区更好地保护自己。
+
+📅 Tue, 23 Jun 2026 00:11:31 +0000
+
+---
+
 ### TechCrunch AI Products
 **[人工智能芯片制造商Groq在Nvidia达成200亿美元的非收购交易后确认加薪6.5亿美元](https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/)**
 
 一家人工智能公司在其中一笔非收购交易后做了什么Groq筹集了资金，正在倾向于其新云业务，并正在招聘新的高管
 
 📅 Mon, 22 Jun 2026 20:13:58 +0000
-
----
-
-### TechCrunch AI Products
-**[英伟达希望减少数据中心的用水量，但这与解决人工智能的用水问题不同](https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/)**
-
-英伟达宣布**推出**一种新的冷却系统，可减少数据中心内的用水量，但它无助于解决人工智能最大的用水问题—化石燃料发电厂
-
-📅 Mon, 22 Jun 2026 20:08:15 +0000
-
----
-
-### TechCrunch AI Products
-**[谷歌DeepMind以A24交易押注人工智能在好莱坞的未来7500万美元](https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/)**
-
-谷歌DeepMind和A24正在合作开发人工智能电影制作工具。
-
-📅 Mon, 22 Jun 2026 18:49:44 +0000
-
----
-
-### TechCrunch AI Products
-**[SpaceX墨水与开源AI实验室Reflection AI达成计算协议](https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/)**
-
-从12026年7月到2029年， Reflection AI将每月支付1.5亿美元，用于立即访问SpaceX位于孟菲斯附近的Colossus 2数据中心的Nvidia最新GB300 AI芯片和支持硬件
-
-📅 Mon, 22 Jun 2026 16:51:29 +0000
-
----
-
-### TechCrunch AI Products
-**[当特朗普政府打击Anthropic时，谁会受益？](https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/)**
-
-在新一期的《Equity》节目中，我们讨论了是什么促使政府采取最新行动对抗人类
-
-📅 Sun, 21 Jun 2026 15:28:17 +0000
-
----
-
-### OpenAI Blog
-**[用于长期工作的Codex-maxxing](https://openai.com/index/codex-maxxing-long-running-work)**
-
-了解Jason Liu如何使用Codex来保存上下文，管理复杂的项目，并帮助工作超越单一提示
-
-📅 Mon, 22 Jun 2026 00:00:00 GMT
-
----
-
-### Hugging Face
-**[拥抱脸上的PP-OCRv6 ： 50语言OCR从1.5M到34.5M参数](https://huggingface.co/blog/PaddlePaddle/pp-ocrv6)**
-
-拥抱脸上的PP-OCRv6 ： 50语言OCR从1.5M到34.5M参数
-
-📅 Mon, 22 Jun 2026 13:18:56 GMT
 
 ---
 
@@ -124,11 +124,20 @@ OpenAI**推出**Patch the Planeta Daybreak计划，帮助**开源**维护人员�
 ---
 
 ### Science AI
+**[人工智能、10亿美元（ $ 10亿）和透明的鱼类如何改变神经科学](https://www.science.org/content/article/how-ai-1-billion-and-transparent-fish-could-transform-neuroscience)**
+
+在霍华德休斯医学研究所资助的一个**重大**新项目中，曾经模糊不清的丹尼奥菌鱼作为模型研究生物体占据了中心舞台
+
+📅 2026-06-23T10:50:00.000Z
+
+---
+
+### Science AI
 **[在强烈反对之后，疾病预防控制中心修改了将研究猴子退休到德克萨斯州避难所的计划](https://www.science.org/content/article/after-backlash-cdc-revises-plan-retire-research-monkeys-texas-sanctuary)**
 
 新的提案呼吁寻求替代方案，但批评人士表示，该机构最初的选择仍然是主要的选择
 
-📅 2026-06-22T05:13:00.000Z
+📅 2026-06-22T06:13:00.000Z
 
 ---
 
@@ -150,6 +159,15 @@ OpenAI**推出**Patch the Planeta Daybreak计划，帮助**开源**维护人员�
 
 ---
 
+### MIT Tech Research
+**[价值4亿美元的机器为芯片制造的未来提供动力](https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/)**
+
+Jos Benschop正在爬梯子到达他最新机器的顶部
+
+📅 Tue, 23 Jun 2026 09:00:00 +0000
+
+---
+
 ## 🌍 行业展望
 
 ### VentureBeat
@@ -163,12 +181,14 @@ OpenAI**推出**Patch the Planeta Daybreak计划，帮助**开源**维护人员�
 
 ---
 
-### Wired Technology
-**[OpenAI全面努力修补开源漏洞，因为它采用了Anthropic的神话](https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/)**
+### VentureBeat
+![Anthropic推出Claude Tag ，将其Slack应用程序替换为持久的人工智能团队成员，该团队可以自主学习、监控和工作](https://images.ctfassets.net/jdtwqhzvc2n1/6CFsd7sGf60QrI8jTqYfuy/788282d94743cf3a42c6c4bb28553ad6/Nuneybits_Vector_art_of_entirely_burnt_orange_chat_panel_mergin_c649b311-f246-4715-9849-8358622f4bee.webp?w=300&q=30)
 
-由于担心人工智能模型的网络安全能力， **OpenAI**透露了**GPT**-55-Cyber的改进版本及其“修补地球”计划，以修复**开源**软件错误
+**[Anthropic推出Claude Tag ，将其Slack应用程序替换为持久的人工智能团队成员，该团队可以自主学习、监控和工作](https://venturebeat.com/technology/anthropic-launches-claude-tag-replacing-its-slack-app-with-a-persistent-ai-teammate-that-learns-monitors-and-works-autonomously)**
 
-📅 Mon, 22 Jun 2026 17:00:00 +0000
+**Anthropic**周二于2025年10月**推出**了**Claude** Tag **Anthropic** ，**首次**将**Claude**与Slack集成
+
+📅 Tue, 23 Jun 2026 17:00:00 GMT
 
 ---
 
@@ -183,48 +203,50 @@ OpenAI**推出**Patch the Planeta Daybreak计划，帮助**开源**维护人员�
 
 ---
 
-### TechCrunch
-**[Anthropic表示， Claude可能希望看到您的身份证件](https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/)**
+### ZDNet AI
+**[Anthropic在Slack中推出您的新代理AI同事Claude Tag](https://www.zdnet.com/article/anthropic-claude-tag-agentic-ai-coworker-slack/)**
 
-**Claude**的聊天机器人可能会“在某些情况下” （例如使用护照或驾照）要求验证您的年龄和身份
+**Claude** Tag可以将您的Slack频道转变为共享空间，让代理同事读取房间您的工作场所是否已准备就绪
 
-📅 Mon, 22 Jun 2026 18:05:13 +0000
-
----
-
-### Wired Technology
-**[Meta在内部数据泄露后暂停员工跟踪计划](https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/)**
-
-此举是在该公司将该计划的潜在敏感数据暴露在内部之后采取的
-
-📅 Mon, 22 Jun 2026 21:08:09 +0000
+📅 Tue, 23 Jun 2026 17:00:02 GMT
 
 ---
 
-### Wired Technology
-**[Meta从其备受争议的员工跟踪计划中在内部暴露数据](https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/)**
+### The Verge
+![笔记本电脑的价格现在很低，所以这里有一些Prime Day优惠，可以帮助您](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268442_Acer_Aspire_14_AI_Intel_ADiBenedetto_0003.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-员工此前曾对该计划提出担忧，该计划涉及收集工人的击键数据以训练人工智能模型
+**[笔记本电脑的价格现在很低，所以这里有一些Prime Day优惠，可以帮助您](https://www.theverge.com/gadgets/951105/prime-day-laptop-keyboards-mice-accessories-deal-sale)**
 
-📅 Mon, 22 Jun 2026 20:28:53 +0000
+此外，许多新型号的**发布**价格高于上一代对于更高端的宏碁产品， Swift X 14 AI的售价为1,559 $的新低
+
+📅 2026-06-23T17:00:00.000Z
+
+---
+
+### MIT Tech Review
+**[下载：芯片制造和人类政府冲突的未来](https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/)**
+
+这是今天的The Download版本，我们的工作日时事通讯，每天提供有关技术世界正在发生的事情的剂量$ 4亿的机器为芯片制造的未来提供动力
+
+📅 Tue, 23 Jun 2026 12:10:00 +0000
 
 ---
 
 ### ZDNet AI
-**[如何使用Copilot或ChatGPT有效地解决您的PC问题](https://www.zdnet.com/article/ai-troubleshooting-secrets-my-interview-with-copilot-chatgpt/)**
+**[这些是我实际购买的19个最好的Prime Day手机优惠](https://www.zdnet.com/article/best-amazon-prime-day-phone-deals-2026/)**
 
-我厌倦了使用AI聊天机器人进行令人沮丧、充满错误的故障排除会话，所以我向Copilot寻求帮助以下是我对更好的提示的了解
+Prime Day 2026已正式开始在智能手机上节省数百，包括**Google** Pixel 10 Pro和三星Galaxy S26
 
-📅 Mon, 22 Jun 2026 21:17:00 GMT
+📅 Tue, 23 Jun 2026 17:11:13 GMT
 
 ---
 
 ### TechCrunch
-**[微软和雪佛龙计划在美国最大的天然气数据中心项目之一](https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/)**
+**[Meta以自有品牌推出全新、更便宜的智能眼镜](https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/)**
 
-微软与雪佛龙签署了为期20年的电力购买协议，锁定了新天然气发电厂数十年的碳排放量
+智能眼镜从今天开始在多个国家提供多种颜色和镜片组合
 
-📅 Mon, 22 Jun 2026 20:37:19 +0000
+📅 Tue, 23 Jun 2026 14:11:23 +0000
 
 ---
 
@@ -242,6 +264,17 @@ OpenAI**推出**Patch the Planeta Daybreak计划，帮助**开源**维护人员�
 ---
 
 ### GitHub New (New AI)
+![摄影师🆕 -机器人：一种智能、自主的机器人汽车底盘，专为充当个人摄影师而设计。](https://avatars.githubusercontent.com/u/190683634?v=4)
+
+**[摄影师🆕 -机器人：一种智能、自主的机器人汽车底盘，专为充当个人摄影师而设计。](https://github.com/Ags-Ghafoor601/Cameraman-Robot)**
+
+⭐ 2 star (新项目) · C · An intelligent, autonomous robotic car chassis designed to act as a personal cameraman
+
+📅 2026-06-22T08:31:36Z
+
+---
+
+### GitHub New (New AI)
 ![🆕 kiran ： Kiran （ “光线” ）是一名多代理助理，以普通乌尔都语教授乳房自我检查，每月检查一次，帮助女性决定何时需要医疗护理，并找到最近的检查地点—完全私下，没有身体图像。](https://avatars.githubusercontent.com/u/190683634?v=4)
 
 **[🆕 kiran ： Kiran （ “光线” ）是一名多代理助理，以普通乌尔都语教授乳房自我检查，每月检查一次，帮助女性决定何时需要医疗护理，并找到最近的检查地点—完全私下，没有身体图像。](https://github.com/Ags-Ghafoor601/kiran)**
@@ -253,100 +286,91 @@ OpenAI**推出**Patch the Planeta Daybreak计划，帮助**开源**维护人员�
 ---
 
 ### GitHub New (New AI)
-![🆕 path-search ： 2D网格搜索算法的学术基准。使用搜索库将A *、BFS、DFS、Dijkstra和双向搜索与Manhattan、Euclidean、Chebyshev和Octile启发式方法进行比较。](https://avatars.githubusercontent.com/u/82984150?v=4)
+![🆕 ltms ： Forbus ＆ de Kleer的建筑问题解决者之后，纯Python中的基于逻辑的真相维护系统（ LTMS ）和模式导向推理引擎。文档： https://pisanuw.github.io/ltms/](https://avatars.githubusercontent.com/u/31248678?v=4)
 
-**[🆕 path-search ： 2D网格搜索算法的学术基准。使用搜索库将A *、BFS、DFS、Dijkstra和双向搜索与Manhattan、Euclidean、Chebyshev和Octile启发式方法进行比较。](https://github.com/ahincho/path-search)**
+**[🆕 ltms ： Forbus ＆ de Kleer的建筑问题解决者之后，纯Python中的基于逻辑的真相维护系统（ LTMS ）和模式导向推理引擎。文档： https://pisanuw.github.io/ltms/](https://github.com/pisanuw/ltms)**
 
-⭐ 2 star (新项目) · Python · Academic benchmark of search algorithms on 2D gridsCompares A*, BFS, DFS, Dijkstra and Bidirectional Search with Manhattan, Euclidean, Chebyshev and Octile heuristics using search-library
+⭐ 2 star (新项目) · Python · A logic-based Truth Maintenance System (LTMS) and pattern-directed reasoning engine in pure Pythonafter Forbus & de Kleer's Building Problem Solvers
 
-📅 2026-06-20T22:11:21Z
-
----
-
-### GitHub New (New AI)
-![🆕 Ai-sumarization ：与Google Gemini API集成的全栈Flask Web应用程序，可将文本内容动态总结为多个长度。](https://avatars.githubusercontent.com/u/207046127?v=4)
-
-**[🆕 Ai-sumarization ：与Google Gemini API集成的全栈Flask Web应用程序，可将文本内容动态总结为多个长度。](https://github.com/Sumitsoni06/Ai-sumarization)**
-
-⭐ 2 star (新项目) · HTML · A full-stack Flask web application integrated with **Google**'s **Gemini** API to dynamically summarize text content into multiple lengths
-
-📅 2026-06-20T11:26:47Z
+📅 2026-06-20T23:40:02Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[我们是否只有在用户准备好时才会测试人工智能](https://www.reddit.com/r/artificial/comments/1ucvrir/did_we_only_ever_test_ai_when_the_user_was_ready/)**
+![根据前白宫人工智能顾问迪恩·鲍尔（ Dean Ball ）的说法，中国的人工智能芯片独立性主要是戏剧性的](https://external-preview.redd.it/Y3g2ZmxoZm1jMjloMeOwxEKY_BwUmvv0yJlvuSQnrkHkZJuTTKSVmRt4UrhV.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b0865e8eefb98c4f05d599d3e0ee0c51738b019b)
 
-所有的基准，比较， **GPT**与**Claude**与**Gemini**的线索，你打开了一些东西，你决定问，你有一秒钟的时间认为AI已经在其他地方出现了
+**[根据前白宫人工智能顾问迪恩·鲍尔（ Dean Ball ）的说法，中国的人工智能芯片独立性主要是戏剧性的](https://www.reddit.com/r/artificial/comments/1udmvuc/chinas_ai_chip_independence_is_mostly_theatre/)**
 
-📅 2026-06-22T20:19:55.000Z
+迪恩·鲍尔（ Dean Ball ）在特朗普白宫就人工智能政策提供咨询后，刚刚加入**OpenAI**担任战略期货负责人，他对中国的芯片叙事提出了尖锐的论点： “我们不需要美国芯片，这可能最终成为长期人工智能竞赛中的一个**重要**目标
+
+📅 2026-06-23T17:01:46.000Z
+
+---
+
+### X: OpenAI
+**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+网址来源： http://twitter.com/**OpenAI**
+
+📅 2026-06-23T17:19:32.272Z
+
+---
+
+### X: DeepSeek
+**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+
+网址来源： http://twitter.com/**DeepSeek**_ai
+
+📅 2026-06-23T17:19:38.680Z
 
 ---
 
 ### Reddit: r/artificial
-**[对Gemini/ChatGPT与Grok相比明显的政治偏见略感沮丧](https://www.reddit.com/r/artificial/comments/1ucxymw/slightly_frustrated_with_geminichatgpts_apparent/)**
+![双子座和人工智能幻觉](https://preview.redd.it/8nx28782329h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=71f4c339f350f0b790d2b6b9c1fedd5e91748c86)
 
-**Gemini**和Chat**GPT**经常忽略问题的**重要**部分，直到我明确指出问题并询问为什么它忽略了/u/Successful_Chair4921提交的其他方面[link] [comments]
+**[双子座和人工智能幻觉](https://www.reddit.com/r/artificial/comments/1udlckb/gemini_and_ai_hallucination/)**
 
-📅 2026-06-22T21:42:12.000Z
+这只是在提示时发生的这很常见，因为它令人不安
 
----
-
-### Reddit: r/artificial
-**[人们用当地模特做什么？](https://www.reddit.com/r/artificial/comments/1ucu0gy/what_are_people_doing_with_local_models/)**
-
-我发现很难理解在本地运行AI模型的用例没有获得**Claude**或Chat**GPT**订阅，这比设置自己的硬件要容易得多
-
-📅 2026-06-22T19:16:43.000Z
+📅 2026-06-23T16:05:57.000Z
 
 ---
 
 ### Reddit: r/artificial
-![顶级人工智能研究员离开谷歌转向OpenAI](https://external-preview.redd.it/svrkuhR5TKoU8a4U2VilMN0LvXKasU7DCv9Qb1qEs2k.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f58d770aae0e4ae527a97dde69b5de131811a4c7)
+**[克劳德有没有可能摔倒？](https://www.reddit.com/r/artificial/comments/1udjqd1/is_claude_down_by_any_chance/)**
 
-**[顶级人工智能研究员离开谷歌转向OpenAI](https://www.reddit.com/r/artificial/comments/1ucpy0c/top_ai_researcher_leaves_google_for_openai/)**
+我尝试访问**Claude**一段时间，但无法访问，是否有其他人面临/u/Technical_Height_237提交的相同问题[link] [comments]
 
-提交者/u/unserious-dude [link] [comments]
-
-📅 2026-06-22T16:47:40.000Z
+📅 2026-06-23T15:06:57.000Z
 
 ---
 
-### Hacker News AI
-**[谷歌在人工智能研究合作伙伴关系中投资“幕后”工作室A24](https://www.wsj.com/tech/ai/google-investing-in-backrooms-studio-a24-e7585ebe)**
+### Reddit: r/artificial
+**[AutoFlow研究计划—寻找深入的技术思考者](https://www.reddit.com/r/artificial/comments/1udfam2/autoflow_research_initiative_looking_for_deep/)**
 
-文章网址： https://wwwcom/tech/ai/**Google**-investing-in-backrooms-st**Udio**-a24-e7585ebe评论网址： https://**new**s
+我一直在探索一个坐落在人工智能交叉点的问题“今天，大多数人工智能系统都会产生这种说法，但他们并没有正式验证
 
-📅 Mon, 22 Jun 2026 22:58:49 +0000
-
----
-
-### Hacker News
-**[Unsloth GLM-5.2 –如何在本地运行](https://unsloth.ai/docs/models/glm-5.2)**
-
-ai/docs/models/glm-52评论网址： https://**new**s
-
-📅 Mon, 22 Jun 2026 21:21:01 +0000
+📅 2026-06-23T12:05:54.000Z
 
 ---
 
-### Hacker News
-**[Kyber (YC W23)正在招聘一名工程主管](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)**
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-文章网址： https://wwwcom/companies/kyber/jobs/FGmI8mx-head-of-engineering评论网址： https://**new**s
+Title: 520: Web服务器返回未知错误
 
-📅 Mon, 22 Jun 2026 21:00:51 +0000
+📅 2026-06-23T17:19:32.272Z
 
 ---
 
-### Hacker News
-**[求职申请要求我的SAT成绩](https://mrmarket.lol/job-application-asked-for-my-sat-scores/)**
+### X: OpenAI
+**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-文章网址： https://mrmarketlol/job-application-asked-for-my-sat-scores/评论网址： https://**new**s
+警告：目标URL返回错误520 ：未知
 
-📅 Mon, 22 Jun 2026 20:55:17 +0000
+📅 2026-06-23T17:19:32.272Z
 
 ---
 
