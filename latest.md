@@ -1,19 +1,19 @@
 ---
 title: "2026年6月23日 - TZ日报"
-date: 2026-06-23T17:20:42.530Z
+date: 2026-06-24T00:00:01.968Z
 draft: false
 ---
 
 # 2026年6月23日 - TZ日报
 
-> 📊 今日汇总 36 条 · 🕐 2026/6/23 17:20:42
+> 📊 今日汇总 37 条 · 🕐 2026/6/24 00:00:01
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 6 条
+- **前沿研究**: 7 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -49,12 +49,12 @@ OpenAI**推出**新的Daybreak工具，包括Codex Security和**GPT**-55-Cyber �
 
 ---
 
-### AI News
-**[欧莱雅将美宝莲虚拟试穿带入ChatGPT](https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/)**
+### OpenAI Blog
+**[帮助构建高级AI的共享标准](https://openai.com/index/helping-build-shared-standards-for-advanced-ai)**
 
-欧莱雅宣布与**OpenAI**合作，将美宝莲纽约的虚拟化妆试穿功能引入Chat**GPT** […]欧莱雅将美宝莲虚拟试穿引入Chat**GPT**的帖子**首次**出现在人工智能新闻
+**OpenAI**帮助构建高级AI支持评估框架的共享标准
 
-📅 Mon, 22 Jun 2026 10:00:00 +0000
+📅 Tue, 23 Jun 2026 13:00:00 GMT
 
 ---
 
@@ -124,6 +124,15 @@ OpenAI**推出**Patch the Planeta Daybreak计划，帮助**开源**维护人员�
 ---
 
 ### Science AI
+**[十几个人将被困在北极冰层中8个月，用于科学研究](https://www.science.org/content/article/dozen-people-will-spend-8-months-trapped-arctic-ice-science)**
+
+与黑暗和寒冷作斗争，漂流实验室的研究人员将探索北冰洋的生物学
+
+📅 2026-06-23T04:45:00.000Z
+
+---
+
+### Science AI
 **[人工智能、10亿美元（ $ 10亿）和透明的鱼类如何改变神经科学](https://www.science.org/content/article/how-ai-1-billion-and-transparent-fish-could-transform-neuroscience)**
 
 在霍华德休斯医学研究所资助的一个**重大**新项目中，曾经模糊不清的丹尼奥菌鱼作为模型研究生物体占据了中心舞台
@@ -182,6 +191,17 @@ Jos Benschop正在爬梯子到达他最新机器的顶部
 ---
 
 ### VentureBeat
+![可在2秒内生成企业级AI图像： Krea 2 Raw和Turbo可在自定义许可证下作为开放式权重提供](https://images.ctfassets.net/jdtwqhzvc2n1/40PtOuCZ5IxnrcPzLnsEXH/921bf5750ef6de7995d4167ad8544135/6pAhBmfGUeBiqqzdBdyyh_28cdd3c23c2347a18026d5763e56fc64.png?w=300&q=30)
+
+**[可在2秒内生成企业级AI图像： Krea 2 Raw和Turbo可在自定义许可证下作为开放式权重提供](https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license)**
+
+人工智能创意工具初创公司Krea希望通过将其新的前沿人工智能图像模型Krea 2的权重开放为两个版本**GPT**-Image-2 **OpenAI** 200来改变这一趋势
+
+📅 Tue, 23 Jun 2026 18:53:03 GMT
+
+---
+
+### VentureBeat
 ![Anthropic推出Claude Tag ，将其Slack应用程序替换为持久的人工智能团队成员，该团队可以自主学习、监控和工作](https://images.ctfassets.net/jdtwqhzvc2n1/6CFsd7sGf60QrI8jTqYfuy/788282d94743cf3a42c6c4bb28553ad6/Nuneybits_Vector_art_of_entirely_burnt_orange_chat_panel_mergin_c649b311-f246-4715-9849-8358622f4bee.webp?w=300&q=30)
 
 **[Anthropic推出Claude Tag ，将其Slack应用程序替换为持久的人工智能团队成员，该团队可以自主学习、监控和工作](https://venturebeat.com/technology/anthropic-launches-claude-tag-replacing-its-slack-app-with-a-persistent-ai-teammate-that-learns-monitors-and-works-autonomously)**
@@ -189,6 +209,17 @@ Jos Benschop正在爬梯子到达他最新机器的顶部
 **Anthropic**周二于2025年10月**推出**了**Claude** Tag **Anthropic** ，**首次**将**Claude**与Slack集成
 
 📅 Tue, 23 Jun 2026 17:00:00 GMT
+
+---
+
+### The Verge
+![我们在我们最喜爱的装备上找到的最佳黄金日优惠](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268513_Amazon_Prime_Day_artwork_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[我们在我们最喜爱的装备上找到的最佳黄金日优惠](https://www.theverge.com/gadgets/948610/best-prime-day-tech-deals-sale)**
+
+AirPods Pro 3 AirPods Pro 3采用全新设计，提高了适应性鉴于它是最新型号，它将支持watchOS 27以及至少一些即将**推出**的主要软件**更新**
+
+📅 2026-06-23T20:59:34.000Z
 
 ---
 
@@ -203,50 +234,30 @@ Jos Benschop正在爬梯子到达他最新机器的顶部
 
 ---
 
-### ZDNet AI
-**[Anthropic在Slack中推出您的新代理AI同事Claude Tag](https://www.zdnet.com/article/anthropic-claude-tag-agentic-ai-coworker-slack/)**
-
-**Claude** Tag可以将您的Slack频道转变为共享空间，让代理同事读取房间您的工作场所是否已准备就绪
-
-📅 Tue, 23 Jun 2026 17:00:02 GMT
-
----
-
-### The Verge
-![笔记本电脑的价格现在很低，所以这里有一些Prime Day优惠，可以帮助您](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268442_Acer_Aspire_14_AI_Intel_ADiBenedetto_0003.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[笔记本电脑的价格现在很低，所以这里有一些Prime Day优惠，可以帮助您](https://www.theverge.com/gadgets/951105/prime-day-laptop-keyboards-mice-accessories-deal-sale)**
-
-此外，许多新型号的**发布**价格高于上一代对于更高端的宏碁产品， Swift X 14 AI的售价为1,559 $的新低
-
-📅 2026-06-23T17:00:00.000Z
-
----
-
 ### MIT Tech Review
-**[下载：芯片制造和人类政府冲突的未来](https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/)**
+**[工程“迷你肝脏”可以作为移植的替代品进行注射](https://www.technologyreview.com/2026/06/23/1138285/engineered-mini-livers-could-be-injected-as-an-alternative-to-transplantation/)**
 
-这是今天的The Download版本，我们的工作日时事通讯，每天提供有关技术世界正在发生的事情的剂量$ 4亿的机器为芯片制造的未来提供动力
+Sangeeta Bhatia教授及其同事开发的一项技术可以为成千上万的慢性肝病患者提供新的希望，他们正在等待器官移植或不够强大，无法忍受器官移植。
 
-📅 Tue, 23 Jun 2026 12:10:00 +0000
-
----
-
-### ZDNet AI
-**[这些是我实际购买的19个最好的Prime Day手机优惠](https://www.zdnet.com/article/best-amazon-prime-day-phone-deals-2026/)**
-
-Prime Day 2026已正式开始在智能手机上节省数百，包括**Google** Pixel 10 Pro和三星Galaxy S26
-
-📅 Tue, 23 Jun 2026 17:11:13 GMT
+📅 Tue, 23 Jun 2026 21:00:00 +0000
 
 ---
 
 ### TechCrunch
-**[Meta以自有品牌推出全新、更便宜的智能眼镜](https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/)**
+**[超人收购人工智能检测初创公司GPTZero](https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/)**
 
-智能眼镜从今天开始在多个国家提供多种颜色和镜片组合
+作为Grammarly的一部分， Superhuman还拥有人工智能检测工具，它已经抢购了**GPT**Zero。
 
-📅 Tue, 23 Jun 2026 14:11:23 +0000
+📅 Tue, 23 Jun 2026 21:48:23 +0000
+
+---
+
+### TechCrunch
+**[在将公司押注于Anthropic之后， Menlo Ventures筹集了胜利的$ 3B基金](https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/)**
+
+Menlo作为人工智能投资者为自己创造了一个坚实的声誉，所有这一切都基于2024年一次勇敢的7.5亿美元举动
+
+📅 Tue, 23 Jun 2026 19:49:55 +0000
 
 ---
 
@@ -299,13 +310,20 @@ Prime Day 2026已正式开始在智能手机上节省数百，包括**Google** P
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-![根据前白宫人工智能顾问迪恩·鲍尔（ Dean Ball ）的说法，中国的人工智能芯片独立性主要是戏剧性的](https://external-preview.redd.it/Y3g2ZmxoZm1jMjloMeOwxEKY_BwUmvv0yJlvuSQnrkHkZJuTTKSVmRt4UrhV.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b0865e8eefb98c4f05d599d3e0ee0c51738b019b)
+**[真正提高生产力的人工智能工具？](https://www.reddit.com/r/artificial/comments/1udt7jy/ai_tools_that_actually_improve_productivity/)**
 
-**[根据前白宫人工智能顾问迪恩·鲍尔（ Dean Ball ）的说法，中国的人工智能芯片独立性主要是戏剧性的](https://www.reddit.com/r/artificial/comments/1udmvuc/chinas_ai_chip_independence_is_mostly_theatre/)**
+每个人都在谈论Chat**GPT**和**Claude** ，但我需要一些更适合生产力或投资的人工智能工具。
 
-迪恩·鲍尔（ Dean Ball ）在特朗普白宫就人工智能政策提供咨询后，刚刚加入**OpenAI**担任战略期货负责人，他对中国的芯片叙事提出了尖锐的论点： “我们不需要美国芯片，这可能最终成为长期人工智能竞赛中的一个**重要**目标
+📅 2026-06-23T20:53:49.000Z
 
-📅 2026-06-23T17:01:46.000Z
+---
+
+### Reddit: r/artificial
+**[有人从Claude开始，然后切换到ChatGPT吗？](https://www.reddit.com/r/artificial/comments/1udqqve/anyone_start_with_claude_then_switch_to_chatgpt/)**
+
+最近，我将更多的日常使用切换到Chat**GPT**/**GPT**-5**Claude** ，当它运行良好时，可能仍然有一定的优雅或“品味” ，但Chat**GPT**感觉更像是我实际上可以忍受的日常机器
+
+📅 2026-06-23T19:21:08.000Z
 
 ---
 
@@ -314,7 +332,7 @@ Prime Day 2026已正式开始在智能手机上节省数百，包括**Google** P
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-06-23T17:19:32.272Z
+📅 2026-06-23T23:58:12.744Z
 
 ---
 
@@ -323,36 +341,27 @@ Prime Day 2026已正式开始在智能手机上节省数百，包括**Google** P
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-06-23T17:19:38.680Z
+📅 2026-06-23T23:58:55.415Z
+
+---
+
+### Hacker News
+**[因创建Google工作区CLI而被Google解雇](https://twitter.com/JPoehnelt/status/2069482265953087602)**
+
+com/JPoehnelt/status/2069482265953087602评论网址： https://**new**sid = 48649011积分： 214 #评论： 157
+
+📅 Tue, 23 Jun 2026 18:13:40 +0000
 
 ---
 
 ### Reddit: r/artificial
-![双子座和人工智能幻觉](https://preview.redd.it/8nx28782329h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=71f4c339f350f0b790d2b6b9c1fedd5e91748c86)
+![大多数“AI内存”工具都提供零基准。我从另一边来：我写了一篇关于无训练多跳检索的论文（在ItalySoft ） https://zenodo.org/records/20668567 ， WikiMoth是这个引擎的小包装。](https://preview.redd.it/1ctrut86o39h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=198623ab11871d825580d220224457991d61baa6)
 
-**[双子座和人工智能幻觉](https://www.reddit.com/r/artificial/comments/1udlckb/gemini_and_ai_hallucination/)**
+**[大多数“AI内存”工具都提供零基准。我从另一边来：我写了一篇关于无训练多跳检索的论文（在ItalySoft ） https://zenodo.org/records/20668567 ， WikiMoth是这个引擎的小包装。](https://www.reddit.com/r/artificial/comments/1udug5f/most_ai_memory_tools_ship_zero_benchmarks_i_come/)**
 
-这只是在提示时发生的这很常见，因为它令人不安
+“wikimoth install”将其连接到带有内存的**Claude** Code**Claude**靴子中，无需手动步骤
 
-📅 2026-06-23T16:05:57.000Z
-
----
-
-### Reddit: r/artificial
-**[克劳德有没有可能摔倒？](https://www.reddit.com/r/artificial/comments/1udjqd1/is_claude_down_by_any_chance/)**
-
-我尝试访问**Claude**一段时间，但无法访问，是否有其他人面临/u/Technical_Height_237提交的相同问题[link] [comments]
-
-📅 2026-06-23T15:06:57.000Z
-
----
-
-### Reddit: r/artificial
-**[AutoFlow研究计划—寻找深入的技术思考者](https://www.reddit.com/r/artificial/comments/1udfam2/autoflow_research_initiative_looking_for_deep/)**
-
-我一直在探索一个坐落在人工智能交叉点的问题“今天，大多数人工智能系统都会产生这种说法，但他们并没有正式验证
-
-📅 2026-06-23T12:05:54.000Z
+📅 2026-06-23T21:41:46.000Z
 
 ---
 
@@ -361,16 +370,16 @@ Prime Day 2026已正式开始在智能手机上节省数百，包括**Google** P
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-06-23T17:19:32.272Z
+📅 2026-06-23T23:58:12.744Z
 
 ---
 
 ### X: OpenAI
-**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-警告：目标URL返回错误520 ：未知
+警告：目标URL返回错误520 ：
 
-📅 2026-06-23T17:19:32.272Z
+📅 2026-06-23T23:58:12.744Z
 
 ---
 
