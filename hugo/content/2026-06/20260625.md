@@ -1,12 +1,12 @@
 ---
 title: "2026年6月25日 - TZ日报"
-date: 2026-06-25T00:13:45.416Z
+date: 2026-06-25T17:15:29.074Z
 draft: false
 ---
 
 # 2026年6月25日 - TZ日报
 
-> 📊 今日汇总 37 条 · 🕐 2026/6/25 00:13:45
+> 📊 今日汇总 38 条 · 🕐 2026/6/25 17:15:29
 
 ---
 
@@ -16,27 +16,45 @@ draft: false
 - **前沿研究**: 8 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
-- **社交动态**: 7 条
+- **社交动态**: 8 条
 
 ---
 
 ## ✨ 产品更新
 
-### OpenAI Blog
-**[黎明：确保全球每个组织安全的工具](https://openai.com/index/daybreak-securing-the-world)**
+### AI News
+**[OpenAI Jalapeño芯片背后的数学原理](https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/)**
 
-OpenAI**推出**新的Daybreak工具，包括Codex Security和**GPT**-55-Cyber ，以帮助组织大规模发现、验证和修补漏洞
+**OpenAI**的财务轨迹在很大程度上取决于基础设施成本，这一现实推动了新的定制**OpenAI** Jalapeño芯片的开发虽然Nvidia目前在[...]上拥有估计75 ％的利润率**OpenAI** Jalapeño芯片背后的数学**首次**出现在人工智能新闻
 
-📅 Mon, 22 Jun 2026 10:00:00 GMT
+📅 Thu, 25 Jun 2026 06:00:00 +0000
 
 ---
 
-### TechCrunch AI Products
-**[人工智能研究人员继续离开谷歌，转向其竞争对手](https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/)**
+### AI News
+**[三星在人工智能限制后开放ChatGPT Enterprise和Codex访问权限](https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/)**
 
-顶级人工智能研究人员乔纳斯·阿德勒（ Jonas Adler ）和亚历山大·普利策尔（ Alexander Pritzel ）在顶级科学家诺姆·沙齐尔（ Noam Shazeer ）和约翰·吉普（
+三星电子正在扩大员工对Chat**GPT** Enterprise的访问权限， CodexSamsung计划使用[…]三星在AI新闻**首次**出现AI限制后开放Chat**GPT** Enterprise和Codex访问权限
 
-📅 Wed, 24 Jun 2026 21:42:07 +0000
+📅 Wed, 24 Jun 2026 10:00:00 +0000
+
+---
+
+### AI News
+**[Anthropic将“工作场所AI代理”直接放入Slack](https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/)**
+
+**Anthropic**为企业和团队会员等级**推出**了**Claude** Tag功能的测试版，将其聊天模式转换为共享Slack频道查看[…] **Anthropic**直接在Slack中**发布**的“工作场所AI代理”**首次**出现在人工智能新闻
+
+📅 Wed, 24 Jun 2026 09:00:00 +0000
+
+---
+
+### OpenAI Blog
+**[客服代表如何转变工作方式](https://openai.com/index/how-agents-are-transforming-work)**
+
+一份新的**OpenAI**研究论文展示了人工智能代理如何改变工作，实现更长、更复杂的任务，并提高跨角色的生产力
+
+📅 Thu, 25 Jun 2026 02:00:00 GMT
 
 ---
 
@@ -76,12 +94,14 @@ OpenAI**推出**新的Daybreak工具，包括Codex Security和**GPT**-55-Cyber �
 
 ---
 
-### OpenAI Blog
-**[Patch the Planet ：支持开源维护者的Daybreak计划](https://openai.com/index/patch-the-planet)**
+### Google AI Blog
+![我们最新的Google财经升级，包括全新应用](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp)
 
-OpenAI**推出**Patch the Planeta Daybreak计划，帮助**开源**维护人员找到
+**[我们最新的Google财经升级，包括全新应用](https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/)**
 
-📅 Mon, 22 Jun 2026 10:00:00 GMT
+新的**Google**财经即将**推出**测试版，并**推出**新的Android应用程序。
+
+📅 Thu, 25 Jun 2026 16:00:00 +0000
 
 ---
 
@@ -94,68 +114,23 @@ OpenAI**推出**Patch the Planeta Daybreak计划，帮助**开源**维护人员�
 
 ---
 
-### Hugging Face
-**[使用NVIDIA NeMo AutoModel加速变压器微调](https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel)**
-
-使用NVIDIA NeMo AutoModel加速变压器微调
-
-📅 Wed, 24 Jun 2026 16:00:13 GMT
-
----
-
-### Hugging Face
-**[每周使用人工智能、开放式工具和人工智能出货HUGGINGFACE_HUB](https://huggingface.co/blog/huggingface-hub-release-ci)**
-
-每周使用人工智能、开放式工具和人工智能出货HUGGINGFACE_HUB
-
-📅 Tue, 23 Jun 2026 00:00:00 GMT
-
----
-
 ## 🔬 前沿研究
 
 ### ArXiv Machine Learning (cs.LG)
-**[通过自动管道搜索系统探索4位专家的异构混合物](https://arxiv.org/abs/2606.23739)**
+**[从元思想到高级数学发现--符号嵌入量子算法的人类人工智能共同发现](https://arxiv.org/abs/2606.24899)**
 
-流水线、分析制品和校正后的生成器作为**开源**NN**GPT**项目的一部分在https://githubcom/ABrain-One/nn-gpt**发布**
+24899v1公告类型：新摘要：人工智能辅助数学通常在解决预定义问题时进行评估人工智能辅助探索
 
-📅 Wed, 24 Jun 2026 00:00:00 -0400
+📅 Thu, 25 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Machine Learning (cs.LG)
-**[探索二元元学习以增强开放集场景中的域泛化](https://arxiv.org/abs/2606.23758)**
+**[MacroLens ：宏观经济情景下背景财务推理的多任务基准](https://arxiv.org/abs/2606.24950)**
 
-23758v1 **announce** Type: **new** Abstract: Domain generalization learns from multiple source domains to generalize to unseen target domains然后提出Open set domain generalization来识别看不见的域中看不见的类
+24950v1公告类型：新摘要：财务决策与上下文相关：预测价格我们通过时间序列基础模型评估跨越六个家族的19种方法
 
-📅 Wed, 24 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[自我识别微调可以防止和逆转出现的错位](https://arxiv.org/abs/2606.23700)**
-
-23700v1公告类型：新摘要：紧急错位（ EM ）与错位角色向量和邪恶角色特征的激活有关我们在三个模型（ **GPT**-4 ）上进行两阶段微调实验
-
-📅 Wed, 24 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[评估LLM的使用情况，对产品可取性进行有效且可解释的数字和分类隐性情绪分析](https://arxiv.org/abs/2606.23701)**
-
-23701v1公告类型：新摘要：定性产品反馈可以揭示细微的用户体验在测试的型号中， **GPT**-4o-mini以94%的成本实现了与大型机型相媲美的性能，支持可扩展部署
-
-📅 Wed, 24 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv Robotics (cs.RO)
-**[通过对抗姿势规则化在灵巧钢琴演奏中执行类人运动学](https://arxiv.org/abs/2606.23848)**
-
-23848v1公告类型：新摘要：强化学习可以训练双手灵巧手在物理模拟中弹钢琴，音符精度高项目库： https://github
-
-📅 Wed, 24 Jun 2026 00:00:00 -0400
+📅 Thu, 25 Jun 2026 00:00:00 -0400
 
 ---
 
@@ -173,7 +148,7 @@ OpenAI**推出**Patch the Planeta Daybreak计划，帮助**开源**维护人员�
 
 23927v1公告类型：新摘要：由大型语言模型（ LLM ）支持的代理人工智能系统正在迅速演变为自主决策系统现有的安全评估通常与特定的实施或域相关联，限制了跨异构系统的统一比较
 
-📅 Wed, 24 Jun 2026 00:00:00 -0400
+📅 Thu, 25 Jun 2026 00:00:00 -0400
 
 ---
 
@@ -182,7 +157,34 @@ OpenAI**推出**Patch the Planeta Daybreak计划，帮助**开源**维护人员�
 
 23938v1公告类型：新摘要：驱动包含思维链（ CoT ）推理的VLA模型具有吸引力，因为它们利用预先训练的VLM表示并以自然语言暴露中间决策在我们的模拟器生成的基准上，基于规则的详细推理将ADE @ 3从0减少
 
-📅 Wed, 24 Jun 2026 00:00:00 -0400
+📅 Thu, 25 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[代理模型批判](https://arxiv.org/abs/2606.23991)**
+
+23991v1公告类型：新摘要：什么是基于单独训练的世界模型的模拟推理
+
+📅 Thu, 25 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[通过约束流形控制实现安全可推广的分层多Agent RL](https://arxiv.org/abs/2606.24010)**
+
+24010v1公告类型：新摘要：多智能体系统广泛应用于需要在严格安全约束下协调行为的安全关键应用我们的方法在保持近乎完美的安全率的同时实现有竞争力的性能
+
+📅 Thu, 25 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[强化学习走向广泛而持久的有益模式](https://arxiv.org/abs/2606.24014)**
+
+24014v1公告类型：新摘要：随着人工智能系统在越来越多样化和高风险的设置中部署使用有益特质RL训练的模型显示出改进的持久性
+
+📅 Thu, 25 Jun 2026 00:00:00 -0400
 
 ---
 
@@ -200,13 +202,13 @@ OpenAI**推出**Patch the Planeta Daybreak计划，帮助**开源**维护人员�
 ---
 
 ### The Verge
-![在第二天购物的顶级科技Prime Day优惠](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268513_Amazon_Prime_Day_artwork_5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![Prime Day第3天的100多项全新科技优惠](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268513_Amazon_Prime_Day_artwork_3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[在第二天购物的顶级科技Prime Day优惠](https://www.theverge.com/gadgets/955366/best-prime-day-2026-tech-deals-day-two-sale)**
+**[Prime Day第3天的100多项全新科技优惠](https://www.theverge.com/gadgets/956199/best-prime-day-2026-deals-tech-electronics-sale-day-three)**
 
 Pixel Buds 2a谷歌最新的无线耳机具有清晰的音质AirPods Pro 3 AirPods Pro 3采用全新设计，提高了贴合度
 
-📅 2026-06-24T23:48:19.000Z
+📅 2026-06-25T16:56:07.000Z
 
 ---
 
@@ -241,6 +243,28 @@ CrewAI和Auto**GPT**Mindstone认为， Word文档和PDF等常见办公格式通�
 
 ---
 
+### The Verge
+![$ 25以下的54个黄金日抢购，不容错过](https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Screenshot-2025-04-29-at-2.11.21%E2%80%AFPM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[$ 25以下的54个黄金日抢购，不容错过](https://www.theverge.com/gadgets/951852/prime-day-deals-cheap-stuff-under-25-sale)**
+
+它可以与第二个Pop Party配对，在亚马逊（儿童版）**更新**中创建立体声99 ， 6月25日：删除了一个过期的交易，并在Tile Slim和几个螺丝刀上添加了新的交易
+
+📅 2026-06-25T17:09:43.000Z
+
+---
+
+### VentureBeat
+![OpenAI更新的GPT-5.5 Instant更擅长购物、复杂的约束和理解用户意图—它已经在API中](https://images.ctfassets.net/jdtwqhzvc2n1/NtxBk8J2vDH5xwG9pFvSK/e3916a101b626751a365a8b3a8633c56/ChatGPT_Image_Jun_25__2026__11_42_09_AM.png?w=300&q=30)
+
+**[OpenAI更新的GPT-5.5 Instant更擅长购物、复杂的约束和理解用户意图—它已经在API中](https://venturebeat.com/technology/openais-updated-gpt-5-5-instant-is-better-at-shopping-complex-constraints-and-understanding-user-intent-and-its-already-in-the-api)**
+
+**OpenAI**对其最广泛使用的语言模型**GPT**-5进行了重大**更新**，但它不应该掩盖主要新闻：这主要是**GPT**-5的Chat**GPT**端**更新**
+
+📅 Thu, 25 Jun 2026 17:02:00 GMT
+
+---
+
 ### VentureBeat
 ![Shopify如何构建一个不在乎哪些模型存活的人工智能堆栈](https://images.ctfassets.net/jdtwqhzvc2n1/20bQ4S6NVl5DyUuE4sCPkt/3cf05921e3f3e6f5c5ae44e26713cfc6/u7277289442_AI_engineers_are_analyzing_different_models_repre_a031ca2a-342d-4a40-b2eb-fc3dbb875eba_0.png?w=300&q=30)
 
@@ -252,32 +276,25 @@ CrewAI和Auto**GPT**Mindstone认为， Word文档和PDF等常见办公格式通�
 
 ---
 
-### Wired Technology
-**[如何退出谷歌搜索新的人工智能数据培训功能](https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/)**
-
-谷歌的搜索历史记录**更新**存储从您的交互中上传的媒体，例如用于反向图像搜索的图像，用于训练其AI模型
-
-📅 Wed, 24 Jun 2026 22:36:16 +0000
-
----
-
-### Wired Technology
-**[A24知道你对Google AI Collab很生气](https://www.wired.com/story/a24-knows-youre-mad-about-the-google-ai-collab/)**
-
-独立电影粉丝对谷歌DeepMind向该研究院投资7500万$感到不满，此时人工智能公司正在加深其在好莱坞的影响力
-
-📅 Wed, 24 Jun 2026 21:05:51 +0000
-
----
-
 ## 📦 GitHub热门
+
+### GitHub New (New AI)
+![🆕 parsehawk ：本地优先文档AI。使用API、CLI和Web UI ，默认情况下100%在本地运行。](https://avatars.githubusercontent.com/u/296494813?v=4)
+
+**[🆕 parsehawk ：本地优先文档AI。使用API、CLI和Web UI ，默认情况下100%在本地运行。](https://github.com/parsehawk/parsehawk)**
+
+⭐ 18 star (新项目) · Python · Local-first document AIRun 100% locally by default, with API, CLI, and Web UI
+
+📅 2026-06-25T09:11:03Z
+
+---
 
 ### GitHub New (New AI)
 ![🆕 llm-value-rankings: Daily LLM value rankings - compare 300+ models by intelligence, speed and price. OpenRouter + Artificial Analysis. 大模型性价比排行榜](https://avatars.githubusercontent.com/u/52917381?v=4)
 
 **[🆕 llm-value-rankings: Daily LLM value rankings - compare 300+ models by intelligence, speed and price. OpenRouter + Artificial Analysis. 大模型性价比排行榜](https://github.com/yyh-001/llm-value-rankings)**
 
-⭐ 3 star (新项目) · JavaScript · Daily LLM value rankings - compare 300+ models by intelligence, speed and priceOpenRouter + Artificial Analysis
+⭐ 5 star (新项目) · JavaScript · Daily LLM value rankings - compare 300+ models by intelligence, speed and priceOpenRouter + Artificial Analysis
 
 📅 2026-06-23T10:55:23Z
 
@@ -295,62 +312,33 @@ CrewAI和Auto**GPT**Mindstone认为， Word文档和PDF等常见办公格式通�
 ---
 
 ### GitHub New (New AI)
-![🆕 Advanced-Multi-Agent-Orchestrator ：高级多代理编排器，用于跨复杂任务协调专门的人工智能代理、工作流程和工具驱动的自动化。](https://avatars.githubusercontent.com/u/13067566?v=4)
+![🆕 DOCMINDPRO ：具有FastAPI、Streamlit、LangChain、Gemini、ChromaDB、BM25、CrossEncoder和RAGA的生产级多PDF RAG智能系统。](https://avatars.githubusercontent.com/u/290926651?v=4)
 
-**[🆕 Advanced-Multi-Agent-Orchestrator ：高级多代理编排器，用于跨复杂任务协调专门的人工智能代理、工作流程和工具驱动的自动化。](https://github.com/valorisa/Advanced-Multi-Agent-Orchestrator)**
+**[🆕 DOCMINDPRO ：具有FastAPI、Streamlit、LangChain、Gemini、ChromaDB、BM25、CrossEncoder和RAGA的生产级多PDF RAG智能系统。](https://github.com/amannanda-22/DOCMINDPRO)**
 
-⭐ 2 star (新项目) · Python · Advanced multi-agent orchestrator for coordinating specialized AI agentsand tool-driven automation across complex tasks
+⭐ 2 star (新项目) · Python · Production-grade Multi-PDF RAG Intelligence System with FastAPILangChain
 
-📅 2026-06-24T10:07:09Z
-
----
-
-### GitHub New (New AI)
-![🆕 UniGateway ： UniGateway是一个优质的全栈学生门户网站，旨在弥合高中和大学之间的差距。通过利用尖端人工智能（ Groq API、Llama-3、Whisper ） ， UniGateway改变了学生准备入学考试、跟踪成绩和选择未来大学的方式。](https://avatars.githubusercontent.com/u/190683634?v=4)
-
-**[🆕 UniGateway ： UniGateway是一个优质的全栈学生门户网站，旨在弥合高中和大学之间的差距。通过利用尖端人工智能（ Groq API、Llama-3、Whisper ） ， UniGateway改变了学生准备入学考试、跟踪成绩和选择未来大学的方式。](https://github.com/Ags-Ghafoor601/UniGateway)**
-
-⭐ 2 star (新项目) · JavaScript · UniGateway is a premium, full-stack student portal designed to bridge the gap between high school and universityBy leveraging cutting-edge Artificial Intelligence (Groq API
-
-📅 2026-06-23T11:10:25Z
+📅 2026-06-25T05:39:32Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[给我们一个新主意](https://www.reddit.com/r/artificial/comments/1ueptsf/idea/)**
+**[关于模型故障（ GPT、Claude等）](https://www.reddit.com/r/artificial/comments/1ufe9bf/on_model_failures_gpt_claude_etc/)**
 
-我向ais提出挑战，只是通过roblox用户这里的统计数据来收集我的信息： **Google** ai =让我的reddit用户**发布**了一些帖子，并告诉我的帖子**Gemini** =有幻觉，并告诉我玩了一些我不玩的游戏，他确实告诉我他很抱歉Chat**GPT** =告诉我我给他们评论了一些安全事情，我给他们留下了一些来自**Google** ai的mesage ，他和**Gemini**谈到了由/u/masiniretroromania提交的whit **Google** ai [link] [comments]
+当前面向消费者的Frontier LLM版本（主要是**GPT**、**Claude**、**Gemini** ）的设计方式只是……奇怪的是，跨模型我鼓励所有**GPT**/**Claude**用户测试文章中提供的解决方案--链接到涵盖**GPT**-5系列和Opus 4的部分
 
-📅 2026-06-24T21:00:38.000Z
-
----
-
-### Hacker News
-**[在Gemini 3.5闪存中使用电脑](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/)**
-
-文章网址： https://blog**Google**/innovation-and-ai/models-and-research/**Gemini**-models/introducing-computer-use-**Gemini**-3-5-flash/评论网址： https://**new**s
-
-📅 Wed, 24 Jun 2026 17:21:34 +0000
-
----
-
-### Hacker News AI
-**[Anthropic称阿里巴巴非法提取Claude AI模型功能](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)**
-
-文章网址： https://wwwcom/world/china/**Anthropic**-says-alibaba-illicitly-extracted-**Claude**-ai-model-capabilities-2026-06-24/评论网址： https://**new**s
-
-📅 Wed, 24 Jun 2026 23:26:17 +0000
+📅 2026-06-25T16:03:48.000Z
 
 ---
 
 ### Reddit: r/artificial
-**[Opus 4.8有史以来最糟糕的克劳德](https://www.reddit.com/r/artificial/comments/1ueqjvq/opus_48_the_worst_claude_ever/)**
+**[ChatGPT是否已悄然成为您思考问题的默认工具？](https://www.reddit.com/r/artificial/comments/1uff0w9/has_chatgpt_quietly_become_your_default_tool_for/)**
 
-我曾与大多数**Anthropic**s LLM合作开发，但/u/**new**-Economy123提交的Opus 4 [link] [comments]
+一年前，我主要使用Chat**GPT**来回答问题或重写文本几天前，我在笔记本电脑上试图找出一个项目，甚至没有想到我在打开**Google**之前就打开了Chat**GPT**
 
-📅 2026-06-24T21:27:37.000Z
+📅 2026-06-25T16:31:25.000Z
 
 ---
 
@@ -359,7 +347,7 @@ CrewAI和Auto**GPT**Mindstone认为， Word文档和PDF等常见办公格式通�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-06-25T00:12:31.055Z
+📅 2026-06-25T17:14:21.854Z
 
 ---
 
@@ -368,16 +356,43 @@ CrewAI和Auto**GPT**Mindstone认为， Word文档和PDF等常见办公格式通�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-06-25T00:12:36.548Z
+📅 2026-06-25T17:14:28.086Z
 
 ---
 
 ### Hacker News
-**[OpenAI推出由Broadcom制造的首款定制芯片](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)**
+**[Show HN ：我通过索引18年的评论来制作Google Trends for Hacker News](https://hackernewstrends.com)**
 
-公告： https://**OpenAI**co/371971/**OpenAI**-broadcom-jalapeno-first-cus
+文章网址： https://hacker**new**strendscom评论网址： https://**new**s
 
-📅 Wed, 24 Jun 2026 17:47:00 +0000
+📅 Thu, 25 Jun 2026 14:08:55 +0000
+
+---
+
+### Hacker News AI
+**[Meta迫使工程师接受人工智能培训。现在它给出了一些出路](https://www.businessinsider.com/meta-lets-engineers-leave-ai-training-unit-after-mass-reassignment-2026-6)**
+
+文章网址： https://wwwcom/**Meta**-lets-engineers-leave-ai-training-unit-after-mass-reassignment-2026-6评论网址： https://**new**s
+
+📅 Thu, 25 Jun 2026 17:02:22 +0000
+
+---
+
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Title: 520: Web服务器返回未知错误
+
+📅 2026-06-25T17:14:21.854Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误520 ：未知
+
+📅 2026-06-25T17:14:21.854Z
 
 ---
 
