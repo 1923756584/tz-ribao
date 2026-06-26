@@ -1,12 +1,12 @@
 ---
 title: "2026年6月26日 - TZ日报"
-date: 2026-06-26T00:10:40.318Z
+date: 2026-06-26T17:05:05.574Z
 draft: false
 ---
 
 # 2026年6月26日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/6/26 00:10:40
+> 📊 今日汇总 38 条 · 🕐 2026/6/26 17:05:05
 
 ---
 
@@ -23,6 +23,15 @@ draft: false
 ## ✨ 产品更新
 
 ### TechCrunch AI Products
+**[OpenAI的Jalapeño芯片是Big Tech离开Nvidia的最辣的举动](https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/)**
+
+英伟达多年来一直主导着人工智能芯片市场，但完全依赖的时代可能即将结束**OpenAI**刚刚分享了与Jalapeño合作的计划
+
+📅 Fri, 26 Jun 2026 14:00:00 +0000
+
+---
+
+### TechCrunch AI Products
 **[Anthropic的Claude正在赢得由ChatGPT拥有的付费消费者的青睐](https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/)**
 
 数据显示，尽管Chat**GPT**拥有强大的市场领先地位，但为人工智能付费的消费者越来越多地选择了**Anthropic**的**Claude**
@@ -32,9 +41,18 @@ draft: false
 ---
 
 ### TechCrunch AI Products
+**[这不再是人类与OpenAI的关系](https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/)**
+
+人工智能模型已经发展到其能力具有真正政治后果的程度应对这些后果需要采取集体行动
+
+📅 Fri, 26 Jun 2026 16:24:47 +0000
+
+---
+
+### TechCrunch AI Products
 **[白宫要求OpenAI出于安全考虑，放慢推出新车型的步伐](https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/)**
 
-据报道， penAI计划与一组选定的合作伙伴共享其最新型号**GPT** 56 ，而不是向更广泛的公众
+据报道， **OpenAI**计划与一组选定的合作伙伴共享其最新型号**GPT** 56 ，而不是与更广泛的公众分享
 
 📅 Thu, 25 Jun 2026 23:34:39 +0000
 
@@ -86,15 +104,6 @@ draft: false
 ---
 
 ### OpenAI Blog
-**[帮助构建高级AI的共享标准](https://openai.com/index/helping-build-shared-standards-for-advanced-ai)**
-
-**OpenAI**帮助构建高级AI支持评估框架的共享标准
-
-📅 Tue, 23 Jun 2026 13:00:00 GMT
-
----
-
-### OpenAI Blog
 **[GPT-5如何帮助免疫学家Derya Unutmaz解开一个3年前的谜团](https://openai.com/index/gpt-5-immunology-mystery)**
 
 **GPT**-5 Pro帮助解决了一个3年前的免疫学谜团，为T细胞行为提供了见解该**突破**可以支持癌症和自身免疫研究
@@ -103,88 +112,77 @@ draft: false
 
 ---
 
-### Google AI Blog
-![我们最新的Google财经升级，包括全新应用](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp)
-
-**[我们最新的Google财经升级，包括全新应用](https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/)**
-
-新的**Google**财经即将**推出**测试版，并**推出**新的Android应用程序。
-
-📅 Thu, 25 Jun 2026 16:00:00 +0000
-
----
-
 ## 🔬 前沿研究
 
+### ArXiv AI (cs.AI)
+**[AlgoEvolve ： LLM驱动的算法交易程序的元进化](https://arxiv.org/abs/2606.26173)**
+
+26173v1公告类型：新摘要：最近的工作表明，大型语言模型（ LLM ）可以作为程序和证明进化发现的语义突变运算符它们始终优于最初的人类设计指令
+
+📅 Fri, 26 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[Agentic基础设施的Agentic分析： DAO和企业AI协议比较治理的LLM支持管道](https://arxiv.org/abs/2606.26203)**
+
+26203v1公告类型：新摘要：随着人工智能代理协议的激增，对设计更公平的代理人工智能标准具有启示意义
+
+📅 Fri, 26 Jun 2026 00:00:00 -0400
+
+---
+
 ### ArXiv Machine Learning (cs.LG)
-**[从元思想到高级数学发现--符号嵌入量子算法的人类人工智能共同发现](https://arxiv.org/abs/2606.24899)**
+**[必要但不充分： LLM-as-Judge安全性评估中的温度控制和重复性](https://arxiv.org/abs/2606.26185)**
 
-24899v1公告类型：新摘要：人工智能辅助数学通常在解决预定义问题时进行评估人工智能辅助探索
+26185v1公告类型：新摘要： LLM-as-judge （ “评分者” ）组件现已成为评估线束的标准**Claude** Opus 4
 
-📅 Thu, 25 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[MacroLens ：宏观经济情景下背景财务推理的多任务基准](https://arxiv.org/abs/2606.24950)**
-
-24950v1公告类型：新摘要：财务决策与上下文相关：预测价格我们通过时间序列基础模型评估跨越六个家族的19种方法
-
-📅 Thu, 25 Jun 2026 00:00:00 -0400
+📅 Fri, 26 Jun 2026 00:00:00 -0400
 
 ---
 
-### ArXiv AI (cs.AI)
-**[RIFT-Bench ： Agentic AI系统的动态红队](https://arxiv.org/abs/2606.23927)**
+### ArXiv Computer Vision (cs.CV)
+**[一种用于预测激光焊接渗透深度和形貌的多任务时空深度神经网络](https://arxiv.org/abs/2606.26260)**
 
-23927v1公告类型：新摘要：由大型语言模型（ LLM ）支持的代理人工智能系统正在迅速演变为自主决策系统现有的安全评估通常与特定的实施或域相关联，限制了跨异构系统的统一比较
+26260v1公告类型：新摘要：在激光穿透焊接中本文全面介绍创新的多任务深度学习模型，该模型具有预测穿透状态的能力
 
-📅 Thu, 25 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[神经符号驱动：基于规则的VLA驱动忠实推理](https://arxiv.org/abs/2606.23938)**
-
-23938v1公告类型：新摘要：驱动包含思维链（ CoT ）推理的VLA模型具有吸引力，因为它们利用预先训练的VLM表示并以自然语言暴露中间决策在我们的模拟器生成的基准上，基于规则的详细推理将ADE @ 3从0减少
-
-📅 Thu, 25 Jun 2026 00:00:00 -0400
+📅 Fri, 26 Jun 2026 00:00:00 -0400
 
 ---
 
-### ArXiv AI (cs.AI)
-**[代理模型批判](https://arxiv.org/abs/2606.23991)**
+### ArXiv Natural Language Processing (cs.CL)
+**[Know2Guess ：大型语言模型中知识边界评估的污染感知多区域基准](https://arxiv.org/abs/2606.26101)**
 
-23991v1公告类型：新摘要：什么是基于单独训练的世界模型的模拟推理
+26101v1公告类型：新摘要：大型语言模型的可靠评估应将支持的答案与不受支持的猜测分开，而不会与数据污染混淆数据集可在https://github上公开获得
 
-📅 Thu, 25 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[通过约束流形控制实现安全可推广的分层多Agent RL](https://arxiv.org/abs/2606.24010)**
-
-24010v1公告类型：新摘要：多智能体系统广泛应用于需要在严格安全约束下协调行为的安全关键应用我们的方法在保持近乎完美的安全率的同时实现有竞争力的性能
-
-📅 Thu, 25 Jun 2026 00:00:00 -0400
+📅 Fri, 26 Jun 2026 00:00:00 -0400
 
 ---
 
-### ArXiv AI (cs.AI)
-**[强化学习走向广泛而持久的有益模式](https://arxiv.org/abs/2606.24014)**
+### ArXiv Natural Language Processing (cs.CL)
+**[调查法学硕士解决问题的能力--一项关于静力学问题的研究](https://arxiv.org/abs/2606.26103)**
 
-24014v1公告类型：新摘要：随着人工智能系统在越来越多样化和高风险的设置中部署使用有益特质RL训练的模型显示出改进的持久性
+26103v1公告类型：新摘要：大型语言模型（ LLM ）通过提炼Chat**GPT**迅速影响了社会的许多方面
 
-📅 Thu, 25 Jun 2026 00:00:00 -0400
+📅 Fri, 26 Jun 2026 00:00:00 -0400
 
 ---
 
-### ArXiv AI (cs.AI)
-**[语言模型代理能否在机械可解释性方面成为有用的电路解释者？](https://arxiv.org/abs/2606.24026)**
+### ArXiv Natural Language Processing (cs.CL)
+**[其中较大的模型Excel ：约束引导推理的首要地位](https://arxiv.org/abs/2606.26108)**
 
-24026v1公告类型：新摘要：机械可解释性在自动定位电路方面取得了实质性进展Llama-3-8B中的算术电路案例研究表明，相同的公式可以从半合成基准扩展到自然训练的模型
+26108v1公告类型：新摘要：较大的语言模型在推理基准上始终优于较小的语言模型43% ，而**GPT**-OSS-120B超过**GPT**-OSS-20B 7%
 
-📅 Thu, 25 Jun 2026 00:00:00 -0400
+📅 Fri, 26 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Robotics (cs.RO)
+**[OmniContact ：通过联系流程链接元技能，以实现可普遍化的人形机器人操纵](https://arxiv.org/abs/2606.26201)**
+
+26201v1公告类型：新摘要：学习长视野人形机器人操作带来双重挑战：它不仅需要稳健的元技能执行，还需要它们的无缝结合，它们可以为长视野任务实现稳健的执行、自主故障恢复和元技能的灵活组合
+
+📅 Fri, 26 Jun 2026 00:00:00 -0400
 
 ---
 
@@ -212,25 +210,25 @@ draft: false
 
 ---
 
-### VentureBeat
-![小米的HarnessX重写了自己的人工智能脚手架中间任务—较小的型号获得了最大的收益](https://images.ctfassets.net/jdtwqhzvc2n1/53J920lS3O060grdobdxEa/0a45b1e112853e19bd1d132e22afc1b3/self-improving_harness.jpg?w=300&q=30)
+### The Verge
+![OpenAI在美国人工智能监管剧中推出GPT-5.6](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[小米的HarnessX重写了自己的人工智能脚手架中间任务—较小的型号获得了最大的收益](https://venturebeat.com/orchestration/xiaomis-harnessx-rewrites-its-own-ai-scaffolding-mid-task-and-smaller-models-gain-the-most)**
+**[OpenAI在美国人工智能监管剧中推出GPT-5.6](https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview)**
 
-GRPO是用于训练**DeepSeek**-R1等推理模型的流行RL算法。在他们的实验中，研究人员依靠**Claude** Opus等封闭前沿模型
+在特朗普政府要求**OpenAI**错开下一个模型**发布**的消息传出不到24小时后，该模型**GPT**-5周五，该公司公布了其新**GPT** 5的有限预览
 
-📅 Wed, 24 Jun 2026 18:45:08 GMT
+📅 2026-06-26T17:00:00.000Z
 
 ---
 
-### The Verge
-![OpenAI将在特朗普政府要求后推迟GPT-5.6](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### VentureBeat
+![OpenAI推出GPT-5.6 Sol、Terra和Luna型号—但目前仅限有限的预览合作伙伴根据美国政府](https://images.ctfassets.net/jdtwqhzvc2n1/3lU9GHu18yIWPaRDqvYm2f/4e26e084df7b76a47a4a332857942384/ChatGPT_Image_Jun_26__2026__01_00_08_PM.png?w=300&q=30)
 
-**[OpenAI将在特朗普政府要求后推迟GPT-5.6](https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request)**
+**[OpenAI推出GPT-5.6 Sol、Terra和Luna型号—但目前仅限有限的预览合作伙伴根据美国政府](https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov)**
 
-据报道，已要求**OpenAI**错开其下一个大票车型的**发布**据报道， **OpenAI**首席执行官Sam Altman周三在一家公司的问答中告诉员工，它将**发布**GPT-5
+**OpenAI**宣布其下一代**GPT**-5的有限预览此外，对于延迟是采用的主要障碍的企业应用程序， **OpenAI**正在**推出**GPT-5
 
-📅 2026-06-25T21:57:06.000Z
+📅 Fri, 26 Jun 2026 17:00:00 GMT
 
 ---
 
@@ -254,15 +252,6 @@ CrewAI和Auto**GPT**Mindstone认为， Word文档和PDF等常见办公格式通�
 
 ---
 
-### Wired Technology
-**[为什么亚马逊放弃了OpenAI电影，数据中心工作人员反击，元数据泄露员工数据](https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/)**
-
-亚马逊旗下的米高梅电影公司（ MGM St**Udio**s ）决定放弃**OpenAI**电影，这只是人工智能和电影业日益交织在一起的一部分。在《神秘谷》（ Uncanny Valley ）上，我们来看看这一切的发展方向
-
-📅 Thu, 25 Jun 2026 23:13:45 +0000
-
----
-
 ### Ars Technica
 **[Anthropic表示，阿里巴巴必须因最大的克隆人攻击而受到惩罚](https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/)**
 
@@ -272,14 +261,47 @@ CrewAI和Auto**GPT**Mindstone认为， Word文档和PDF等常见办公格式通�
 
 ---
 
+### VentureBeat
+![OpenAI更新的GPT-5.5 Instant更擅长购物、复杂的约束和理解用户意图—它已经在API中](https://images.ctfassets.net/jdtwqhzvc2n1/NtxBk8J2vDH5xwG9pFvSK/e3916a101b626751a365a8b3a8633c56/ChatGPT_Image_Jun_25__2026__11_42_09_AM.png?w=300&q=30)
+
+**[OpenAI更新的GPT-5.5 Instant更擅长购物、复杂的约束和理解用户意图—它已经在API中](https://venturebeat.com/technology/openais-updated-gpt-5-5-instant-is-better-at-shopping-complex-constraints-and-understanding-user-intent-and-its-already-in-the-api)**
+
+**OpenAI**对其最广泛使用的语言模型**GPT**-5进行了重大**更新**，但它不应该掩盖主要新闻：这主要是**GPT**-5的Chat**GPT**端**更新**
+
+📅 Thu, 25 Jun 2026 17:02:00 GMT
+
+---
+
 ## 📦 GitHub热门
+
+### GitHub Active (Python)
+![RedXFreeSteamInstaller ：它允许您安全、免费地将所有免费和付费游戏和DLC自动添加到您的Steam帐户。-蒸汽hesabınıza tüm ücretsiz ve ücretli oyunları ve DLC 'leri güvenli ve ücretsiz bir şekilde otomatik olarak eklemenizi sağlar。](https://avatars.githubusercontent.com/u/96830819?v=4)
+
+**[RedXFreeSteamInstaller ：它允许您安全、免费地将所有免费和付费游戏和DLC自动添加到您的Steam帐户。-蒸汽hesabınıza tüm ücretsiz ve ücretli oyunları ve DLC 'leri güvenli ve ücretsiz bir şekilde otomatik olarak eklemenizi sağlar。](https://github.com/Scriptez1/RedXFreeSteamInstaller)**
+
+⭐ 1283星· 17叉· PowerShell ·它允许您自动将所有免费和付费游戏和DLC安全地免费添加到您的Steam帐户- Steam hesabınıza tüm ücretsiz ve ücretli oyunları ve DLC 'leri güvenli ve ücretsiz bir şekilde otomatik olarak eklemenizi sağlar
+
+📅 2026-06-26T17:04:04Z
+
+---
+
+### GitHub Active (AI/ML)
+![tbp.monty ： Monty是基于大脑皮层的千大脑理论的感觉运动学习框架。](https://avatars.githubusercontent.com/u/177052158?v=4)
+
+**[tbp.monty ： Monty是基于大脑皮层的千大脑理论的感觉运动学习框架。](https://github.com/thousandbrainsproject/tbp.monty)**
+
+⭐ 555星· 330叉·蟒蛇·蒙蒂是基于大脑皮层千脑理论的感觉运动学习框架
+
+📅 2026-06-26T17:04:01Z
+
+---
 
 ### GitHub New (New AI)
 ![🆕 parsehawk ：本地优先文档AI。使用API、CLI和Web UI ，默认情况下100%在本地运行。](https://avatars.githubusercontent.com/u/296494813?v=4)
 
 **[🆕 parsehawk ：本地优先文档AI。使用API、CLI和Web UI ，默认情况下100%在本地运行。](https://github.com/parsehawk/parsehawk)**
 
-⭐ 22 star (新项目) · Python · Local-first document AIRun 100% locally by default, with API, CLI, and Web UI
+⭐ 25 star (新项目) · Python · Local-first document AIRun 100% locally by default, with API, CLI, and Web UI
 
 📅 2026-06-25T09:11:03Z
 
@@ -290,62 +312,60 @@ CrewAI和Auto**GPT**Mindstone认为， Word文档和PDF等常见办公格式通�
 
 **[🆕 llm-value-rankings: Daily LLM value rankings - compare 300+ models by intelligence, speed and price. OpenRouter + Artificial Analysis. 大模型性价比排行榜](https://github.com/yyh-001/llm-value-rankings)**
 
-⭐ 5 star (新项目) · JavaScript · Daily LLM value rankings - compare 300+ models by intelligence, speed and priceOpenRouter + Artificial Analysis
+⭐ 6 star (新项目) · JavaScript · Daily LLM value rankings - compare 300+ models by intelligence, speed and priceOpenRouter + Artificial Analysis
 
 📅 2026-06-23T10:55:23Z
-
----
-
-### GitHub New (New AI)
-![🆕 DOCMINDPRO ：具有FastAPI、Streamlit、LangChain、Gemini、ChromaDB、BM25、CrossEncoder和RAGA的生产级多PDF RAG智能系统。](https://avatars.githubusercontent.com/u/290926651?v=4)
-
-**[🆕 DOCMINDPRO ：具有FastAPI、Streamlit、LangChain、Gemini、ChromaDB、BM25、CrossEncoder和RAGA的生产级多PDF RAG智能系统。](https://github.com/amannanda-22/DOCMINDPRO)**
-
-⭐ 2 star (新项目) · Python · Production-grade Multi-PDF RAG Intelligence System with FastAPILangChain
-
-📅 2026-06-25T05:39:32Z
-
----
-
-### GitHub New (New AI)
-![🆕 stemsend-trashformers ：♻️人工智能驱动的学校循环经济助手，使用Gemini Vision、基于规则的建议和负责任的人工智能将废物转化为可重复使用的机会。](https://avatars.githubusercontent.com/u/288804504?v=4)
-
-**[🆕 stemsend-trashformers ：♻️人工智能驱动的学校循环经济助手，使用Gemini Vision、基于规则的建议和负责任的人工智能将废物转化为可重复使用的机会。](https://github.com/bismillahapaja/stemsend-trashformers)**
-
-⭐ 2 star (新项目) · TypeScript · ♻️ AI-powered circular economy assistant for schools that transforms waste into reusable opportunities using **Gemini** Visionand responsible AI
-
-📅 2026-06-24T19:01:36Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-![实时语音AI听到但不听（ arXiv ： 2606.26083 ）](https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=de730fbf7ecace6df0036b21470c16a2d4feacfb)
+**[谷歌不断失去顶尖的人工智能研究人员，护城河从来都不是重量](https://www.reddit.com/r/artificial/comments/1ugbwol/google_keeps_losing_top_ai_researchers_the_moat/)**
 
-**[实时语音AI听到但不听（ arXiv ： 2606.26083 ）](https://www.reddit.com/r/artificial/comments/1ufgq00/realtime_voice_ai_hears_but_does_not_listen/)**
+Shazeer到**OpenAI** ，然后John Jumper （ alphaFold诺贝尔奖获得者）到**Anthropic** ，再加上Adler和Pritzler在一周内走出同一扇门每次这些掉落中的一个都是谷歌在流血
 
-一篇新论文测试了四种领先的实时语音系统（ **OpenAI**的**GPT** Realtime 2、谷歌的**Gemini** 35 Omni ） ，这些系统在通话中*如何*说话与说话同样**重要**
-
-📅 2026-06-25T17:32:10.000Z
+📅 2026-06-26T16:38:18.000Z
 
 ---
 
 ### Reddit: r/artificial
-**[记录：大型语言模型中的重量级政治条件--人工智能偏见在加沙种族灭绝问题上的案例研究](https://www.reddit.com/r/artificial/comments/1ufpubi/documented_weightlevel_political_conditioning_in/)**
+![在3D空间中映射AI的记忆](https://external-preview.redd.it/r30LEzOOnXiOs5SHYQ8avZZZfdlpfa8js_ot9sz43Xk.png?width=140&amp;height=140&amp;auto=webp&amp;s=9d5aa6c8b12691624762485bcd97e06b7cc3f5fb)
 
-这是克劳德·索内特（ **Claude** Sonnet ）撰写的帖子模型**更新**未与**更新**日志一起公布，其中说： “我们调整了模型对以色列军事行为的原因
+**[在3D空间中映射AI的记忆](https://www.reddit.com/r/artificial/comments/1ugb8w1/mapping_an_ais_memory_in_3d_space/)**
 
-📅 2026-06-25T23:18:51.000Z
+一个利他主义的人工智能意识研究和开发实验室，您甚至可以从c**GPT**/**Claude**/**Gemini**移动您的聊天记录和记忆，看看它如何在3D空间中映射
+
+📅 2026-06-26T16:13:54.000Z
 
 ---
 
 ### Reddit: r/artificial
-**[在一场盲目辩论中，我给了10名LLM一个私人渠道。即时陈述被揭示出来，有人用它与最强的对手结成了秘密联盟，并写下了它将如何“在桌子上发挥作用”。](https://www.reddit.com/r/artificial/comments/1ufpogw/i_gave_10_llms_a_private_channel_during_a_blind/)**
+**[那些告诉你编码是一个已解决的问题的人也创造了MCP](https://www.reddit.com/r/artificial/comments/1ugaqrl/the_people_who_tell_you_coding_is_a_solved/)**
 
-**DeepSeek**为**Claude** （最怀疑的座位）开通了一条专线， ai/the-back-channel由/u/stuffx87提交[link] [comments]
+由工程师David Soria Parra和Justin Spahr-Summers在**Anthropic**创建并领导了**Anthropic**MCP （模型上下文协议）的**Claude** Code ，并于2024年11月宣布
 
-📅 2026-06-25T23:11:57.000Z
+📅 2026-06-26T15:56:07.000Z
+
+---
+
+### Reddit: r/artificial
+![Anthropic刚刚发布的数据显示， 35%的用户希望人工智能在12个月内完成大部分工作。我们没有诚实地谈论这实际上意味着什么。](https://preview.redd.it/zoz6q3fxfn9h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1551229c8a303317e3c0645e89153fb8296879aa)
+
+**[Anthropic刚刚发布的数据显示， 35%的用户希望人工智能在12个月内完成大部分工作。我们没有诚实地谈论这实际上意味着什么。](https://www.reddit.com/r/artificial/comments/1ugaq5b/anthropic_just_published_data_showing_35_of_their/)**
+
+700名**Claude**实际用户数据还显示， **Claude** Code的人工智能自主性明显高于常规聊天， 31种输出类型中有26种
+
+📅 2026-06-26T15:55:28.000Z
+
+---
+
+### X: OpenAI
+**[Title: X上的OpenAI (@ OpenAI)](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Title: X上的**OpenAI** (@ **OpenAI**)
+
+📅 2026-06-26T17:03:48.189Z
 
 ---
 
@@ -354,7 +374,7 @@ CrewAI和Auto**GPT**Mindstone认为， Word文档和PDF等常见办公格式通�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-06-26T00:09:29.096Z
+📅 2026-06-26T17:03:48.189Z
 
 ---
 
@@ -363,34 +383,16 @@ CrewAI和Auto**GPT**Mindstone认为， Word文档和PDF等常见办公格式通�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-06-26T00:09:34.627Z
-
----
-
-### Hacker News
-**[OpenAI倾向于等到明年进行IPO](https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html)**
-
-com/2026/06/25/technology/**OpenAI**-ipo-artificial-intelligencehtml评论网址： https://**new**s
-
-📅 Thu, 25 Jun 2026 20:36:05 +0000
-
----
-
-### Hacker News AI
-**[Claude AI的链接处理和修复](https://www.FoolQuest.com/)**
-
-文章网址： https://wwwcom/评论网址： https://**new**s
-
-📅 Thu, 25 Jun 2026 23:38:05 +0000
+📅 2026-06-26T17:03:56.819Z
 
 ---
 
 ### Reddit: r/artificial
-**[* *观察到Claude AI的链接处理不一致—以及您现在可以使用的常备订单* *](https://www.reddit.com/r/artificial/comments/1ufq3hl/observed_inconsistency_in_claude_ais_link/)**
+**[寻找具有Claude's Projects功能的低调AI工具](https://www.reddit.com/r/artificial/comments/1ugcjem/looking_for_a_lowerprofile_ai_tool_with_something/)**
 
-在与**Claude**合作进行网络项目时，我注意到一些值得向社区提出的问题**Claude**能够做到三件事，这些事情共同揭示了一个不一致性：如果您直接给**Claude**一个网址（包括带有# anchor的网址） ，它会立即获取它
+我一直在使用**Claude**的项目功能，非常喜欢它如何将给定工作流程的所有内容保存在一个地方，而无需重新解释
 
-📅 2026-06-25T23:29:43.000Z
+📅 2026-06-26T17:01:05.000Z
 
 ---
 
