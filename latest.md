@@ -1,12 +1,12 @@
 ---
 title: "2026年6月27日 - TZ日报"
-date: 2026-06-27T00:08:47.219Z
+date: 2026-06-27T16:08:15.352Z
 draft: false
 ---
 
 # 2026年6月27日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/6/27 00:08:47
+> 📊 今日汇总 38 条 · 🕐 2026/6/27 16:08:15
 
 ---
 
@@ -37,15 +37,6 @@ draft: false
 英伟达多年来一直主导着人工智能芯片市场，但完全依赖的时代可能即将结束**OpenAI**刚刚分享了与Jalapeño合作的计划
 
 📅 Fri, 26 Jun 2026 14:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[Anthropic的Claude正在赢得由ChatGPT拥有的付费消费者的青睐](https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/)**
-
-数据显示，尽管Chat**GPT**拥有强大的市场领先地位，但为人工智能付费的消费者越来越多地选择了**Anthropic**的**Claude**
-
-📅 Thu, 25 Jun 2026 17:38:27 +0000
 
 ---
 
@@ -85,30 +76,41 @@ draft: false
 
 ---
 
-### AI News
-**[OpenAI Jalapeño芯片背后的数学原理](https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/)**
+### OpenAI Blog
+**[客服代表如何转变工作方式](https://openai.com/index/how-agents-are-transforming-work)**
 
-**OpenAI**的财务轨迹在很大程度上取决于基础设施成本，这一现实推动了新的定制**OpenAI** Jalapeño芯片的开发虽然Nvidia目前在[...]上拥有估计75 ％的利润率**OpenAI** Jalapeño芯片背后的数学**首次**出现在人工智能新闻
+一份新的**OpenAI**研究论文展示了人工智能代理如何改变工作，实现更长、更复杂的任务，并提高跨角色的生产力
 
-📅 Thu, 25 Jun 2026 06:00:00 +0000
-
----
-
-### AI News
-**[三星在人工智能限制后开放ChatGPT Enterprise和Codex访问权限](https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/)**
-
-三星电子正在扩大员工对Chat**GPT** Enterprise的访问权限， CodexSamsung计划使用[…]三星在AI新闻**首次**出现AI限制后开放Chat**GPT** Enterprise和Codex访问权限
-
-📅 Wed, 24 Jun 2026 10:00:00 +0000
+📅 Thu, 25 Jun 2026 02:00:00 GMT
 
 ---
 
-### AI News
-**[Anthropic将“工作场所AI代理”直接放入Slack](https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/)**
+### Google AI Blog
+![我们最新的Google财经升级，包括全新应用](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp)
 
-**Anthropic**为企业和团队会员等级**推出**了**Claude** Tag功能的测试版，将其聊天模式转换为共享Slack频道查看[…] **Anthropic**直接在Slack中**发布**的“工作场所AI代理”**首次**出现在人工智能新闻
+**[我们最新的Google财经升级，包括全新应用](https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/)**
 
-📅 Wed, 24 Jun 2026 09:00:00 +0000
+新的**Google**财经即将**推出**测试版，并**推出**新的Android应用程序。
+
+📅 Thu, 25 Jun 2026 16:00:00 +0000
+
+---
+
+### DeepMind Blog
+**[在Gemini 3.5 Flash中引入计算机使用](https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/)**
+
+在**Gemini** 3.5 Flash中引入计算机使用
+
+📅 Wed, 24 Jun 2026 16:30:01 +0000
+
+---
+
+### TechCrunch AI Products
+**[房间里最健康的创始人得了癌症。以下是他如何使用人工智能进行反击。](https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/)**
+
+当面对癌症期刊条目时—进入**Claude**
+
+📅 Sat, 27 Jun 2026 14:00:00 +0000
 
 ---
 
@@ -119,7 +121,7 @@ draft: false
 
 26173v1公告类型：新摘要：最近的工作表明，大型语言模型（ LLM ）可以作为程序和证明进化发现的语义突变运算符它们始终优于最初的人类设计指令
 
-📅 Fri, 26 Jun 2026 00:00:00 -0400
+📅 Sat, 27 Jun 2026 00:00:00 -0400
 
 ---
 
@@ -128,61 +130,61 @@ draft: false
 
 26203v1公告类型：新摘要：随着人工智能代理协议的激增，对设计更公平的代理人工智能标准具有启示意义
 
-📅 Fri, 26 Jun 2026 00:00:00 -0400
+📅 Sat, 27 Jun 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Machine Learning (cs.LG)
-**[必要但不充分： LLM-as-Judge安全性评估中的温度控制和重复性](https://arxiv.org/abs/2606.26185)**
+### ArXiv AI (cs.AI)
+**[利用级联线性特征检测和控制嗜酒性](https://arxiv.org/abs/2606.26155)**
 
-26185v1公告类型：新摘要： LLM-as-judge （ “评分者” ）组件现已成为评估线束的标准**Claude** Opus 4
+26155v1公告类型：新摘要：通过激活转向方法解释和控制模型行为需要许多对比样本，这些对比样本清楚地表现出期望或不期望的行为这些数据对决定了可解释性框架可以可靠地检测负责行为的模型特征的程度
 
-📅 Fri, 26 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv Computer Vision (cs.CV)
-**[一种用于预测激光焊接渗透深度和形貌的多任务时空深度神经网络](https://arxiv.org/abs/2606.26260)**
-
-26260v1公告类型：新摘要：在激光穿透焊接中本文全面介绍创新的多任务深度学习模型，该模型具有预测穿透状态的能力
-
-📅 Fri, 26 Jun 2026 00:00:00 -0400
+📅 Sat, 27 Jun 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Natural Language Processing (cs.CL)
-**[Know2Guess ：大型语言模型中知识边界评估的污染感知多区域基准](https://arxiv.org/abs/2606.26101)**
+### ArXiv AI (cs.AI)
+**[基准饱和后的生活： CORE-Bench案例研究](https://arxiv.org/abs/2606.26158)**
 
-26101v1公告类型：新摘要：大型语言模型的可靠评估应将支持的答案与不受支持的猜测分开，而不会与数据污染混淆数据集可在https://github上公开获得
+26158v1公告类型：新摘要：当基准的准确性饱和时，它通常会被淘汰并替换为更具挑战性的版本1 ，这对于测量效率、可靠性、模型性能和脚手架性能仍然有用
 
-📅 Fri, 26 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[调查法学硕士解决问题的能力--一项关于静力学问题的研究](https://arxiv.org/abs/2606.26103)**
-
-26103v1公告类型：新摘要：大型语言模型（ LLM ）通过提炼Chat**GPT**迅速影响了社会的许多方面
-
-📅 Fri, 26 Jun 2026 00:00:00 -0400
+📅 Sat, 27 Jun 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Natural Language Processing (cs.CL)
-**[其中较大的模型Excel ：约束引导推理的首要地位](https://arxiv.org/abs/2606.26108)**
+### ArXiv AI (cs.AI)
+**[拒绝位于聊天模型角色的下游](https://arxiv.org/abs/2606.26161)**
 
-26108v1公告类型：新摘要：较大的语言模型在推理基准上始终优于较小的语言模型43% ，而**GPT**-OSS-120B超过**GPT**-OSS-20B 7%
+26161v1公告类型：新摘要：在指令调整的聊天模型中，激活空间中的线性方向已被识别为拒绝和角色特征我们表明它们相互作用：合规角色门拒绝
 
-📅 Fri, 26 Jun 2026 00:00:00 -0400
+📅 Sat, 27 Jun 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Robotics (cs.RO)
-**[OmniContact ：通过联系流程链接元技能，以实现可普遍化的人形机器人操纵](https://arxiv.org/abs/2606.26201)**
+### ArXiv AI (cs.AI)
+**[用于心理健康药物信息搜索的知识增强智能体人工智能](https://arxiv.org/abs/2606.26205)**
 
-26201v1公告类型：新摘要：学习长视野人形机器人操作带来双重挑战：它不仅需要稳健的元技能执行，还需要它们的无缝结合，它们可以为长视野任务实现稳健的执行、自主故障恢复和元技能的灵活组合
+26205v1公告类型：新摘要：患者越来越多地在线寻求用药信息以医生注释为基准的大语言模型实体识别流水线达到最高F1分数0
 
-📅 Fri, 26 Jun 2026 00:00:00 -0400
+📅 Sat, 27 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[加速国际象棋技能评估：漂移扩散增强的ELO评级系统](https://arxiv.org/abs/2606.26267)**
+
+26267v1公告类型：新摘要： ELO等评级系统是竞技象棋配对的黄金标准实现代码可在https://github上公开获取
+
+📅 Sat, 27 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[治理行动，而不是代理：作为自治人工智能系统治理模型的机构认证](https://arxiv.org/abs/2606.26298)**
+
+26298v1公告类型：新摘要：自主AI代理可能开始执行consequential我们将这种制度模式正式化为AI代理系统的计算治理模型
+
+📅 Sat, 27 Jun 2026 00:00:00 -0400
 
 ---
 
@@ -217,18 +219,7 @@ draft: false
 
 Pixel Buds 2a谷歌最新的无线耳机具有清晰的音质AirPods Pro 3 AirPods Pro 3采用全新设计，提高了贴合度
 
-📅 2026-06-26T23:26:09.000Z
-
----
-
-### The Verge
-![OpenAI在美国人工智能监管剧中推出GPT-5.6](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[OpenAI在美国人工智能监管剧中推出GPT-5.6](https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview)**
-
-在特朗普政府要求**OpenAI**错开下一个模型**发布**的消息传出不到24小时后，该模型**GPT**-5周五，该公司公布了其新**GPT** 5的有限预览
-
-📅 2026-06-26T17:00:00.000Z
+📅 2026-06-27T02:54:45.000Z
 
 ---
 
@@ -265,12 +256,23 @@ CrewAI和Auto**GPT**Mindstone认为， Word文档和PDF等常见办公格式通�
 
 ---
 
-### MIT Tech Review
-**[Stripe、Anthropic和OpenAI正在支持阻止呼吸道感染的努力](https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/)**
+### Ars Technica
+**[纽约时报抨击微软为OpenAI构建侵犯版权的超级计算机](https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/)**
 
-普通感冒来到我们所有人-通常一年不止一次而且没有办法预防
+在SCOTUS对索尼做出裁决后，纽约时报改变了**OpenAI**/微软的版权索赔。
 
-📅 Wed, 24 Jun 2026 12:00:00 +0000
+📅 Fri, 26 Jun 2026 20:04:55 +0000
+
+---
+
+### The Verge
+![24个黄金日优惠在黄金日结束前吸引读者](https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/xteink_x4_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[24个黄金日优惠在黄金日结束前吸引读者](https://www.theverge.com/gadgets/954880/amazon-prime-day-2026-popular-products-verge-readers)**
+
+99在亚马逊AirPods Pro 3 AirPods Pro 3采用了全新设计，提高了适应性6月26日：**更新**了价格和可用性，并增加了一些新优惠
+
+📅 2026-06-27T02:33:54.000Z
 
 ---
 
@@ -281,7 +283,7 @@ CrewAI和Auto**GPT**Mindstone认为， Word文档和PDF等常见办公格式通�
 
 **[🆕 parsehawk ：本地优先文档AI。使用API、CLI和Web UI ，默认情况下100%在本地运行。](https://github.com/parsehawk/parsehawk)**
 
-⭐ 27 star (新项目) · Python · Local-first document AIRun 100% locally by default, with API, CLI, and Web UI
+⭐ 28 star (新项目) · Python · Local-first document AIRun 100% locally by default, with API, CLI, and Web UI
 
 📅 2026-06-25T09:11:03Z
 
@@ -292,9 +294,20 @@ CrewAI和Auto**GPT**Mindstone认为， Word文档和PDF等常见办公格式通�
 
 **[🆕 synapse ： Synapse —人工智能代理的时间知识图记忆。自托管的FalkorDB + Graphiti ，带有海马层内存管理。](https://github.com/ardhaecosystem/synapse)**
 
-⭐ 4 star (新项目) · Python · Synapse — Temporal knowledge graph memory for AI agentsSelf-hosted FalkorDB + Graphiti with hippocampus-layer memory management
+⭐ 7 star (新项目) · Python · Synapse — Temporal knowledge graph memory for AI agentsSelf-hosted FalkorDB + Graphiti with hippocampus-layer memory management
 
 📅 2026-06-26T09:39:16Z
+
+---
+
+### GitHub New (New AI)
+![🆕 India_runs_data_and_ai_challenge ：使用句子变换器、语义搜索和行为评分的人工智能候选人排名系统。](https://avatars.githubusercontent.com/u/147977378?v=4)
+
+**[🆕 India_runs_data_and_ai_challenge ：使用句子变换器、语义搜索和行为评分的人工智能候选人排名系统。](https://github.com/mehaksharma2949/India_runs_data_and_ai_challenge)**
+
+⭐ 4 star (新项目) · Python · AI-powered candidate ranking system using Sentence Transformers, semantic search, and behavioral scoring
+
+📅 2026-06-27T11:34:20Z
 
 ---
 
@@ -309,43 +322,25 @@ CrewAI和Auto**GPT**Mindstone认为， Word文档和PDF等常见办公格式通�
 
 ---
 
-### GitHub New (New AI)
-![🆕 image-captioning-transformer ：使用Dual-CNN区域级特征融合和Transformer解码器架构的图像字幕项目。](https://avatars.githubusercontent.com/u/189746269?v=4)
-
-**[🆕 image-captioning-transformer ：使用Dual-CNN区域级特征融合和Transformer解码器架构的图像字幕项目。](https://github.com/Marazhossen1/image-captioning-transformer)**
-
-⭐ 2 star (新项目) · Jupyter Notebook · Image captioning project using Dual-CNN region-level feature fusion and Transformer decoder architecture
-
-📅 2026-06-26T08:28:19Z
-
----
-
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[谷歌不断失去顶尖的人工智能研究人员，护城河从来都不是重量](https://www.reddit.com/r/artificial/comments/1ugbwol/google_keeps_losing_top_ai_researchers_the_moat/)**
+**[在我们的一生中，我们是否被锁定在通往AGI/ASI的道路上？](https://www.reddit.com/r/artificial/comments/1uh5mnv/are_we_locked_on_a_path_to_agiasi_in_our_lifetime/)**
 
-Shazeer到**OpenAI** ，然后John Jumper （ alphaFold诺贝尔奖获得者）到**Anthropic** ，再加上Adler和Pritzler在一周内走出同一扇门每次这些掉落中的一个都是谷歌在流血
+我注意到，从几个月前我最后一次检查人工智能话语“**Claude**和**Gemini**也都说ASI即将发生
 
-📅 2026-06-26T16:38:18.000Z
-
----
-
-### Hacker News AI
-**[特朗普管理员允许Anthropic向一些公司发布Mythos AI模型](https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html)**
-
-com/2026/06/26/us-government-**Anthropic**-**Claude**-mythos5-aihtml评论网址： https://**new**s
-
-📅 Fri, 26 Jun 2026 23:00:31 +0000
+📅 2026-06-27T15:28:27.000Z
 
 ---
 
 ### Reddit: r/artificial
-**[更强的人工智能模型可能意味着发布速度更慢，而不是更快](https://www.reddit.com/r/artificial/comments/1ughbdf/stronger_ai_models_may_mean_slower_releases_not/)**
+![人工智能前沿刚刚被政府批准锁定，我们大多数人都不在名单上](https://preview.redd.it/pwr0k13l7u9h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f11ab68ada40e4c7a3688758c6bab2057e4250d8)
 
-**OpenAI**的**GPT**-56 Sol预览很有趣，因为主要信号不仅仅是“新型号
+**[人工智能前沿刚刚被政府批准锁定，我们大多数人都不在名单上](https://www.reddit.com/r/artificial/comments/1uh4han/the_ai_frontier_just_got_locked_behind_government/)**
 
-📅 2026-06-26T20:00:20.000Z
+据报道， Anthropic**发布**了迄今为止**最强**大的模型， Fable 5和Mythos 5昨天， OpenAI**发布**了**GPT**-5
+
+📅 2026-06-27T14:41:11.000Z
 
 ---
 
@@ -354,7 +349,7 @@ com/2026/06/26/us-government-**Anthropic**-**Claude**-mythos5-aihtml评论网址
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-06-27T00:07:39.990Z
+📅 2026-06-27T16:07:01.496Z
 
 ---
 
@@ -363,34 +358,43 @@ com/2026/06/26/us-government-**Anthropic**-**Claude**-mythos5-aihtml评论网址
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-06-27T00:07:45.104Z
+📅 2026-06-27T16:07:08.154Z
 
 ---
 
 ### Hacker News
-**[美国允许Anthropic向“值得信赖的合作伙伴”发布Mythos](https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/)**
+**[Nox Metals (YC S25)正在招聘SWE](https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer)**
 
-文章网址： https://wwwcom/technology/us-**release**s-**Anthropic**-model-mythos-some-us-companies-semafor-reports-2026-06-26/评论网址： https://**new**s
+文章网址： https://wwwcom/companies/nox-**Meta**ls/jobs/M1f1enD-software-engineer评论网址： https://**new**s
 
-📅 Fri, 26 Jun 2026 22:48:28 +0000
-
----
-
-### Hacker News AI
-**[Anthropic与美国达成协议，解除对人工智能模型的限制](https://www.bloomberg.com/news/articles/2026-06-26/anthropic-moves-toward-deal-with-us-to-lift-curbs-on-ai-models)**
-
-文章网址： https://wwwcom/**new**s/articles/2026-06-26/**Anthropic**-moves-toward-deal-with-us-to-lift-curbs-on-ai-models评论网址： https://**new**s
-
-📅 Fri, 26 Jun 2026 21:59:26 +0000
+📅 Sat, 27 Jun 2026 12:01:03 +0000
 
 ---
 
 ### Hacker News AI
-**[显示HN ： Deskmate Live – AI桌面宠物同伴](https://deskmatelive.com/)**
+**[Show HN: AI-whisper –当Codex看着它的背面时， Claude的工作效果更好](https://ai-creed.dev/projects/ai-whisper/)**
 
-我们上周在4chan上**推出**，此后一直在快速构建，集成了新功能和新头像，因此我们正在通过实时AI将其提升到一个新的水平
+文章网址： https://ai-creeddev/projects/ai-whisper/评论网址： https://**new**s
 
-📅 Fri, 26 Jun 2026 21:26:18 +0000
+📅 Sat, 27 Jun 2026 15:07:57 +0000
+
+---
+
+### Reddit: r/artificial
+**[对我来说，翻转的指标不是基准分数，而是一个答案必须触及的应用程序数量](https://www.reddit.com/r/artificial/comments/1uh5f1i/the_metric_that_flipped_for_me_wasnt_benchmark/)**
+
+来自gmaili的单个“我该怎么告诉这个客户”问了chat**GPT**和slack ai同样的问题，两者都给了架构耸耸肩：无法访问您的计算机，无法访问其他应用程序
+
+📅 2026-06-27T15:19:50.000Z
+
+---
+
+### Reddit: r/artificial
+**[我真的很喜欢使用chatGPT上的“项目”功能来帮助整理我正在写的书](https://www.reddit.com/r/artificial/comments/1uh4x7t/i_really_like_using_the_project_feature_on/)**
+
+我不让人工智能直接写作） ，真正帮助我的是Chat**GPT**上的项目功能我将所有章节与我的世界建筑文档一起上传（例如，当我想从人工智能中反弹想法时，它已经有了我的知识
+
+📅 2026-06-27T14:59:54.000Z
 
 ---
 
