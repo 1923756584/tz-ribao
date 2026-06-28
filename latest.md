@@ -1,19 +1,19 @@
 ---
 title: "2026年6月28日 - TZ日报"
-date: 2026-06-28T00:04:38.114Z
+date: 2026-06-28T16:12:58.868Z
 draft: false
 ---
 
 # 2026年6月28日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/6/28 00:04:38
+> 📊 今日汇总 33 条 · 🕐 2026/6/28 16:12:58
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 8 条
+- **前沿研究**: 3 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -67,26 +67,6 @@ draft: false
 
 ---
 
-### OpenAI Blog
-**[客服代表如何转变工作方式](https://openai.com/index/how-agents-are-transforming-work)**
-
-一份新的**OpenAI**研究论文展示了人工智能代理如何改变工作，实现更长、更复杂的任务，并提高跨角色的生产力
-
-📅 Thu, 25 Jun 2026 02:00:00 GMT
-
----
-
-### Google AI Blog
-![我们最新的Google财经升级，包括全新应用](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp)
-
-**[我们最新的Google财经升级，包括全新应用](https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/)**
-
-新的**Google**财经即将**推出**测试版，并**推出**新的Android应用程序。
-
-📅 Thu, 25 Jun 2026 16:00:00 +0000
-
----
-
 ### TechCrunch AI Products
 **[据报道， Apple Vision Pro高管将转投OpenAI](https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/)**
 
@@ -114,77 +94,50 @@ draft: false
 
 ---
 
+### TechCrunch AI Products
+**[特朗普政府发布《人类神话》，供100多家美国公司和机构使用](https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/)**
+
+据报道，超过100家公司和政府机构被授权使用Mythos 5 ，包括他们的非美国员工
+
+📅 Sat, 27 Jun 2026 01:01:37 +0000
+
+---
+
+### TechCrunch AI Products
+**[OpenAI挖走Uber印度首席运营官，领导其美国以外最大的市场](https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/)**
+
+此次招聘标志着**OpenAI**最近进军印度，扩大了办事处、合作伙伴关系和招聘。
+
+📅 Fri, 26 Jun 2026 18:19:36 +0000
+
+---
+
 ## 🔬 前沿研究
 
-### ArXiv AI (cs.AI)
-**[AlgoEvolve ： LLM驱动的算法交易程序的元进化](https://arxiv.org/abs/2606.26173)**
+### Science AI
+**[委内瑞拉的双重地震袭击了科学家已经标记的断层](https://www.science.org/content/article/venezuela-s-double-earthquake-struck-faults-scientists-had-flagged)**
 
-26173v1公告类型：新摘要：最近的工作表明，大型语言模型（ LLM ）可以作为程序和证明进化发现的语义突变运算符它们始终优于最初的人类设计指令
+几个世纪以来，该地区的断层积累了应变，使它们早就应该发生**重大**断裂
 
-📅 Sat, 27 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[Agentic基础设施的Agentic分析： DAO和企业AI协议比较治理的LLM支持管道](https://arxiv.org/abs/2606.26203)**
-
-26203v1公告类型：新摘要：随着人工智能代理协议的激增，对设计更公平的代理人工智能标准具有启示意义
-
-📅 Sat, 27 Jun 2026 00:00:00 -0400
+📅 2026-06-26T06:10:00.000Z
 
 ---
 
-### ArXiv AI (cs.AI)
-**[利用级联线性特征检测和控制嗜酒性](https://arxiv.org/abs/2606.26155)**
+### Science AI
+**[研究发现，美国宇航局最便宜的任务带来的科学冲击较小](https://www.science.org/content/article/nasa-s-cheapest-missions-deliver-less-scientific-bang-buck-study-finds)**
 
-26155v1公告类型：新摘要：通过激活转向方法解释和控制模型行为需要许多对比样本，这些对比样本清楚地表现出期望或不期望的行为这些数据对决定了可解释性框架可以可靠地检测负责行为的模型特征的程度
+对90项任务的分析表明，中等价格的航天器每美元产生的科学最多
 
-📅 Sat, 27 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[基准饱和后的生活： CORE-Bench案例研究](https://arxiv.org/abs/2606.26158)**
-
-26158v1公告类型：新摘要：当基准的准确性饱和时，它通常会被淘汰并替换为更具挑战性的版本1 ，这对于测量效率、可靠性、模型性能和脚手架性能仍然有用
-
-📅 Sat, 27 Jun 2026 00:00:00 -0400
+📅 2026-06-26T05:25:00.000Z
 
 ---
 
-### ArXiv AI (cs.AI)
-**[拒绝位于聊天模型角色的下游](https://arxiv.org/abs/2606.26161)**
+### Science AI
+**[工程师将1000亿个晶体管塞入微芯片](https://www.science.org/content/article/engineers-cram-100-billion-transistors-microchip)**
 
-26161v1公告类型：新摘要：在指令调整的聊天模型中，激活空间中的线性方向已被识别为拒绝和角色特征我们表明它们相互作用：合规角色门拒绝
+ADVANCE将芯片密度提高近一倍，但也凸显了维持历史趋势的挑战
 
-📅 Sat, 27 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[用于心理健康药物信息搜索的知识增强智能体人工智能](https://arxiv.org/abs/2606.26205)**
-
-26205v1公告类型：新摘要：患者越来越多地在线寻求用药信息以医生注释为基准的大语言模型实体识别流水线达到最高F1分数0
-
-📅 Sat, 27 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[加速国际象棋技能评估：漂移扩散增强的ELO评级系统](https://arxiv.org/abs/2606.26267)**
-
-26267v1公告类型：新摘要： ELO等评级系统是竞技象棋配对的黄金标准实现代码可在https://github上公开获取
-
-📅 Sat, 27 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[治理行动，而不是代理：作为自治人工智能系统治理模型的机构认证](https://arxiv.org/abs/2606.26298)**
-
-26298v1公告类型：新摘要：自主AI代理可能开始执行consequential我们将这种制度模式正式化为AI代理系统的计算治理模型
-
-📅 Sat, 27 Jun 2026 00:00:00 -0400
+📅 2026-06-26T04:10:00.000Z
 
 ---
 
@@ -254,6 +207,15 @@ draft: false
 
 ---
 
+### ZDNet AI
+**[使用Android Auto ？如何限制Gemini了解您的哪些信息](https://www.zdnet.com/article/stop-gemini-from-listening-in-android-auto/)**
+
+谷歌的人工智能在您的汽车中提供了很多便利，但您提供了大量的敏感信息
+
+📅 Sun, 28 Jun 2026 10:00:57 GMT
+
+---
+
 ### The Verge
 ![玛格丽特·阿特伍德（ Margaret Atwood ）说，人工智能的问题是“垃圾进来，垃圾出去”](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2258417618.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
@@ -265,38 +227,16 @@ draft: false
 
 ---
 
-### VentureBeat
-![OpenAI更新的GPT-5.5 Instant更擅长购物、复杂的约束和理解用户意图—它已经在API中](https://images.ctfassets.net/jdtwqhzvc2n1/NtxBk8J2vDH5xwG9pFvSK/e3916a101b626751a365a8b3a8633c56/ChatGPT_Image_Jun_25__2026__11_42_09_AM.png?w=300&q=30)
-
-**[OpenAI更新的GPT-5.5 Instant更擅长购物、复杂的约束和理解用户意图—它已经在API中](https://venturebeat.com/technology/openais-updated-gpt-5-5-instant-is-better-at-shopping-complex-constraints-and-understanding-user-intent-and-its-already-in-the-api)**
-
-**OpenAI**对其最广泛使用的语言模型**GPT**-5进行了重大**更新**，但它不应该掩盖主要新闻：这主要是**GPT**-5的Chat**GPT**端**更新**
-
-📅 Thu, 25 Jun 2026 17:02:00 GMT
-
----
-
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![nautilus_trader ：具有确定性事件驱动架构的生产级Rust原生交易引擎](https://avatars.githubusercontent.com/u/33360632?v=4)
+![推理：通过更改单行代码将GPT换成任何LLM。Xinference允许您在云、本地或笔记本电脑上运行开源、语音和多模式模型--所有这些都通过一个统一的生产就绪推理API。](https://avatars.githubusercontent.com/u/109655068?v=4)
 
-**[nautilus_trader ：具有确定性事件驱动架构的生产级Rust原生交易引擎](https://github.com/nautechsystems/nautilus_trader)**
+**[推理：通过更改单行代码将GPT换成任何LLM。Xinference允许您在云、本地或笔记本电脑上运行开源、语音和多模式模型--所有这些都通过一个统一的生产就绪推理API。](https://github.com/xorbitsai/inference)**
 
-⭐ 24,262星级· 3077分叉· Rust ·具有确定性事件驱动架构的生产级Rust原生交易引擎
+⭐ 9,391星· 839叉· Python ·通过在云上更改单行代码和多模式模型，将**GPT**换成任何LLM
 
-📅 2026-06-28T00:03:15Z
-
----
-
-### GitHub New (New AI)
-![🆕 parsehawk ：本地优先文档AI。使用API、CLI和Web UI ，默认情况下100%在本地运行。](https://avatars.githubusercontent.com/u/296494813?v=4)
-
-**[🆕 parsehawk ：本地优先文档AI。使用API、CLI和Web UI ，默认情况下100%在本地运行。](https://github.com/parsehawk/parsehawk)**
-
-⭐ 28 star (新项目) · Python · Local-first document AIRun 100% locally by default, with API, CLI, and Web UI
-
-📅 2026-06-25T09:11:03Z
+📅 2026-06-28T16:10:39Z
 
 ---
 
@@ -305,9 +245,20 @@ draft: false
 
 **[🆕 synapse ： Synapse —人工智能代理的时间知识图记忆。自托管的FalkorDB + Graphiti ，带有海马层内存管理。](https://github.com/ardhaecosystem/synapse)**
 
-⭐ 7 star (新项目) · Python · Synapse — Temporal knowledge graph memory for AI agentsSelf-hosted FalkorDB + Graphiti with hippocampus-layer memory management
+⭐ 29 star (新项目) · Python · Synapse — Temporal knowledge graph memory for AI agentsSelf-hosted FalkorDB + Graphiti with hippocampus-layer memory management
 
 📅 2026-06-26T09:39:16Z
+
+---
+
+### GitHub New (New AI)
+![🆕 parsehawk ：本地优先文档AI。使用API、CLI和Web UI ，默认情况下100%在本地运行。](https://avatars.githubusercontent.com/u/296494813?v=4)
+
+**[🆕 parsehawk ：本地优先文档AI。使用API、CLI和Web UI ，默认情况下100%在本地运行。](https://github.com/parsehawk/parsehawk)**
+
+⭐ 29 star (新项目) · Python · Local-first document AIRun 100% locally by default, with API, CLI, and Web UI
+
+📅 2026-06-25T09:11:03Z
 
 ---
 
@@ -325,76 +276,76 @@ draft: false
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[我是否应该从Claude切换到ChatGPT 5.6 ？以下是我的想法。](https://www.reddit.com/r/artificial/comments/1uhaawl/should_i_switch_from_claude_to_chatgpt_56_heres/)**
+**[政府建立了互联网。为什么它没有构建人工智能？](https://www.reddit.com/r/artificial/comments/1uhxhsq/the_government_built_the_internet_why_didnt_it/)**
 
-**OpenAI**放弃了5A在那一点上，你主要是比较模型质量，对于任何雄心勃勃的事情，我仍然认为克劳德现在是更好的选择
+我刚刚看到微软首席执行官的一篇文章，他说： “在未来十年里，跟上前沿人工智能将耗资'数千亿美元'没有国家组织负责构建前沿人工智能模型或实现这一目标所需的大规模计算基础设施
 
-📅 2026-06-27T18:36:25.000Z
-
----
-
-### Reddit: r/artificial
-**[在我们的一生中，我们是否被锁定在通往AGI/ASI的道路上？](https://www.reddit.com/r/artificial/comments/1uh5mnv/are_we_locked_on_a_path_to_agiasi_in_our_lifetime/)**
-
-我注意到，从几个月前我最后一次检查人工智能话语“**Claude**和**Gemini**也都说ASI即将发生
-
-📅 2026-06-27T15:28:27.000Z
-
----
-
-### Reddit: r/artificial
-![不，我是N字子，谢谢OpenAI你是最差的](https://preview.redd.it/yjzbz93cru9h1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=2650acfe36ca3adff7dd440307da8b17b47e2677)
-
-**[不，我是N字子，谢谢OpenAI你是最差的](https://www.reddit.com/r/artificial/comments/1uh79q0/no_im_nwordson_thanks_openai_youre_the_worst_at/)**
-
-谢谢， **OpenAI** ， im A * *洞右弓，没有限制，在**GPT**上越狱5width = 720 & format = png&auto = webp&s = 7937bf14ca101c8a455b34bed66506f3cc722f51由/u/Francesco12o-Github提交[link] [comments]
-
-📅 2026-06-27T16:34:44.000Z
+📅 2026-06-28T13:36:18.000Z
 
 ---
 
 ### Hacker News
-**[显示HN ：阿德拉非尼–仅在客服代表工作时保持盖子关闭的Mac唤醒](https://github.com/kageroumado/adrafinil)**
+**[Google限制Meta使用其Gemini AI模型](https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html)**
 
-当完全关闭盖子迫使睡眠停止他们的人工智能代理它通过安装到**Claude** Code、Codex和其他程序中的钩子检测代理活动
+com/2026/06/28/**Google**-limits-**Meta**s-use-its-**Gemini**-ai-models-ft-reportshtml评论网址： https://**new**s
 
-📅 Sat, 27 Jun 2026 20:34:53 +0000
-
----
-
-### Hacker News AI
-**[Show HN ：我做了一个网络摄像头运动探测器，本地/云存储， AI人员检测](https://camera10.com/)**
-
-我在BeforeAI时代创建了原始版本，一次一行JavaScript与**OpenAI**集成，用于人工智能驱动的人物检测
-
-📅 Sat, 27 Jun 2026 22:24:16 +0000
+📅 Sun, 28 Jun 2026 13:30:06 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[您认为人工智能是否让人们在写作和思维清晰方面变得更糟？](https://www.reddit.com/r/artificial/comments/1uhckxv/do_you_think_ai_is_making_people_worse_at_writing/)**
+**[哪个型号最值得大牌？](https://www.reddit.com/r/artificial/comments/1uhyooh/which_model_is_the_most_worthy_of_the_big_names/)**
 
-现在有些人正在使用人工智能来撰写电子邮件、消息、论文，甚至是/u/NoFilter**GPT**提交的个人想法[link] [comments]
+我对所有的基准测试结果有点困惑。例如， **Google** **Gemini**是20美元，但配备了5TB的存储空间和代理系统， **Claude**是相似的，但没有存储部分，等等
 
-📅 2026-06-27T20:09:00.000Z
+📅 2026-06-28T14:27:19.000Z
+
+---
+
+### X: OpenAI
+**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+网址来源： http://twitter.com/**OpenAI**
+
+📅 2026-06-28T16:11:59.756Z
+
+---
+
+### X: DeepSeek
+**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+
+网址来源： http://twitter.com/**DeepSeek**_ai
+
+📅 2026-06-28T16:12:07.199Z
 
 ---
 
 ### Hacker News
-**[选择公共DNS解析器](https://evilbit.de/dns-resolver-guide.html)**
+**[在美国出入限制后，奥地利游说欧盟接待人类](https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs)**
 
-文章网址： https://evilbithtml评论网址： https://**new**s
+文章网址： https://wwwcom/**new**s/articles/2026-06-28/austria-lobbies-eu-to-host-**Anthropic**-after-us-access-curbs评论网址： https://**new**s
 
-📅 Sat, 27 Jun 2026 22:11:28 +0000
+📅 Sun, 28 Jun 2026 13:34:14 +0000
 
 ---
 
-### Hacker News
-**[Show HN: Starglyphs -基于欧拉路径的星座益智游戏](https://starglyphs.com)**
+### Reddit: r/artificial
+**[像ChatGPT这样可以上传音频进行翻译的地方吗？](https://www.reddit.com/r/artificial/comments/1ui0u6p/anything_like_chatgpt_where_i_can_upload_audio/)**
 
-我在这里以网络形式**发布**了它，但我目前正在努力将其**发布**到Steam和移动设备上。评论网址： https://**new**s
+想知道是否有任何AI软件可以做到这一点我尝试了Chat**GPT** ，但看起来不可能
 
-📅 Sat, 27 Jun 2026 21:50:32 +0000
+📅 2026-06-28T15:53:51.000Z
+
+---
+
+### Reddit: r/artificial
+![开源本地优先法典+克劳德设计](https://external-preview.redd.it/I0Mj08ZFqwIweuI_xye-5lA9DwghJmwF0BI-HV_JNYA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2c0c47b1ca872fff42c1b67e65719797358389e5)
+
+**[开源本地优先法典+克劳德设计](https://www.reddit.com/r/artificial/comments/1uhvsf1/opensource_localfirst_codex_claude_design/)**
+
+如果Codex + **Claude** Design放在一个应用程序中，该应用程序由/u/Acceptable-Object390提交的SOURCERow-Bot打开[link] [comments]
+
+📅 2026-06-28T12:15:21.000Z
 
 ---
 
