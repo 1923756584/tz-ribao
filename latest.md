@@ -1,19 +1,19 @@
 ---
 title: "2026年6月29日 - TZ日报"
-date: 2026-06-29T00:10:11.657Z
+date: 2026-06-29T17:39:40.703Z
 draft: false
 ---
 
 # 2026年6月29日 - TZ日报
 
-> 📊 今日汇总 33 条 · 🕐 2026/6/29 00:10:11
+> 📊 今日汇总 38 条 · 🕐 2026/6/29 17:39:40
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 3 条
+- **前沿研究**: 8 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -22,30 +22,12 @@ draft: false
 
 ## ✨ 产品更新
 
-### TechCrunch AI Products
-**[为什么从OpenAI到SpaceX的每个人都在构建自己的芯片（并在Nvidia上加热）](https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/)**
-
-英伟达多年来一直主导着人工智能芯片市场，但完全依赖的时代可能即将结束**OpenAI**刚刚分享了与Jalapeño合作的计划
-
-📅 Fri, 26 Jun 2026 17:43:22 +0000
-
----
-
 ### OpenAI Blog
-**[预览GPT-5.6 SOL ：下一代型号](https://openai.com/index/previewing-gpt-5-6-sol)**
+**[映射欧洲的人工智能劳动力机会](https://openai.com/index/mapping-ai-jobs-transition-eu)**
 
-**OpenAI**预览了下一代型号**GPT**-56 SOL ，该型号在编码、科学和网络安全方面具有更强大的功能，并配有最先进的安全堆栈
+一份新的**OpenAI**报告描绘了人工智能如何重塑整个欧盟的工作，突出了哪些职业可能面临自动化、增长或工作流程变化
 
-📅 Fri, 26 Jun 2026 10:00:00 GMT
-
----
-
-### TechCrunch AI Products
-**[OpenAI在政府要求后限制GPT-5.6的推出，并表示限制不应成为常态](https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/)**
-
-**OpenAI**表示： “我们不认为这种政府访问过程应该成为长期默认设置，它为需要它们的用户、开发人员、企业、网络维护者和全球合作伙伴保留了最好的工具。
-
-📅 Fri, 26 Jun 2026 18:32:14 +0000
+📅 Mon, 29 Jun 2026 07:00:00 GMT
 
 ---
 
@@ -55,6 +37,17 @@ draft: false
 惠普扩大其**OpenAI** Frontier合作伙伴关系，在客户体验、软件开发和企业运营中部署人工智能
 
 📅 Sun, 28 Jun 2026 17:00:00 GMT
+
+---
+
+### Google AI Blog
+![向人工智能专家提问：全栈到底是什么？](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp)
+
+**[向人工智能专家提问：全栈到底是什么？](https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/)**
+
+一位谷歌专家解释了采用全栈方法处理人工智能意味着什么，以及为什么它长期以来一直是我们人工智能工作的基础
+
+📅 Mon, 29 Jun 2026 16:00:00 +0000
 
 ---
 
@@ -95,64 +88,107 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[特朗普政府发布《人类神话》，供100多家美国公司和机构使用](https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/)**
+**[Cursor现在有一个移动应用程序，可以随时随地指导您的编码代理](https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/)**
 
-据报道，超过100家公司和政府机构被授权使用Mythos 5 ，包括他们的非美国员工
+Cursor**推出**了一款新的移动应用程序，用于远程监督编码代理。
 
-📅 Sat, 27 Jun 2026 01:01:37 +0000
+📅 Mon, 29 Jun 2026 17:03:50 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[OpenAI挖走Uber印度首席运营官，领导其美国以外最大的市场](https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/)**
+**[TIDAL通过切断货币化来打击AI音乐](https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/)**
 
-此次招聘标志着**OpenAI**最近进军印度，扩大了办事处、合作伙伴关系和招聘。
+TIDAL的新政策将阻止人工智能生成的音乐从其服务中赚钱。
 
-📅 Fri, 26 Jun 2026 18:19:36 +0000
+📅 Mon, 29 Jun 2026 16:29:04 +0000
+
+---
+
+### TechCrunch AI Products
+**[机器人手公司解决特斯拉商业秘密诉讼并宣布筹集$ 1100万](https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/)**
+
+初创公司Proception正在采用独特的方法收集训练数据，以解决机器人技术中最棘手的问题之一：手
+
+📅 Mon, 29 Jun 2026 14:00:08 +0000
 
 ---
 
 ## 🔬 前沿研究
 
-### Science AI
-**[委内瑞拉的双重地震袭击了科学家已经标记的断层](https://www.science.org/content/article/venezuela-s-double-earthquake-struck-faults-scientists-had-flagged)**
+### ArXiv Multiagent (cs.MA)
+**[三元狼人： LLM中多跳心智理论的小丑角色](https://arxiv.org/abs/2606.27909)**
 
-几个世纪以来，该地区的断层积累了应变，使它们早就应该发生**重大**断裂
+在**GPT**-4的60场比赛中，自学帮助**DeepSeek**和Llama ，但伤害**GPT**-4
 
-📅 2026-06-26T06:10:00.000Z
-
----
-
-### Science AI
-**[研究发现，美国宇航局最便宜的任务带来的科学冲击较小](https://www.science.org/content/article/nasa-s-cheapest-missions-deliver-less-scientific-bang-buck-study-finds)**
-
-对90项任务的分析表明，中等价格的航天器每美元产生的科学最多
-
-📅 2026-06-26T05:25:00.000Z
+📅 Mon, 29 Jun 2026 00:00:00 -0400
 
 ---
 
-### Science AI
-**[工程师将1000亿个晶体管塞入微芯片](https://www.science.org/content/article/engineers-cram-100-billion-transistors-microchip)**
+### ArXiv AI (cs.AI)
+**[基础迭代语言规划：参数化世界模型如何减少LLM代理中的幻觉传播](https://arxiv.org/abs/2606.27806)**
 
-ADVANCE将芯片密度提高近一倍，但也凸显了维持历史趋势的挑战
+27806v1公告类型：新摘要：语言代理的世界模型有两种有用的形式在真正的**GPT**-4o-mini调用中， GILP将幻觉状态率从0降低
 
-📅 2026-06-26T04:10:00.000Z
+📅 Mon, 29 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Machine Learning (cs.LG)
+**[多重介质的诅咒：激活补丁中隐藏的交互效应](https://arxiv.org/abs/2606.27510)**
+
+27510v1公告类型：新摘要：激活补丁是机械可解释性的主要工具我们在**GPT**-2 IOI电路中演示了这些故障模式；其因果**重要**性取决于其他组件状态的组件要么不可见，要么被人为充气
+
+📅 Mon, 29 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Computer Vision (cs.CV)
+**[从简短的家庭视频中微调临床医生级自闭症行为评分的多模态大型语言模型](https://arxiv.org/abs/2606.27484)**
+
+27484v1公告类型：新摘要：自闭症谱系障碍（ ASD ）影响31名美国儿童中的1名，但诊断时的中位年龄超过4岁仅对先前已验证的30种行为特征进行限制，以便在传递给各种ML模型时产生可靠的预测
+
+📅 Mon, 29 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Computer Vision (cs.CV)
+**[DMV-Bench ：使用附带提示注射诊断长视野多模式座席的视觉记忆](https://arxiv.org/abs/2606.27499)**
+
+27499v1公告类型：新摘要：智能体内存研究快速成熟我们引入DMV-Bench （代码： https://github
+
+📅 Mon, 29 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[因果关系：利用多语言微调金融QA @ FinCausal 2026](https://arxiv.org/abs/2606.27446)**
+
+1和**GPT**变体）使用提示细化，少量演示和监督微调我们的最佳系统**GPT**-4
+
+📅 Mon, 29 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[取代：诊断和培训LLM代理中的内存更新差距](https://arxiv.org/abs/2606.27472)**
+
+27472v1公告类型：新摘要：大型语言模型（ LLM ）代理在长时间自我维护的内存上运行，即使在前沿模型上，准确率也从92%降至77% （ **GPT**-5
+
+📅 Mon, 29 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[EntMTP ：通过熵引导多令牌预测加速LLM推断](https://arxiv.org/abs/2606.27550)**
+
+27550v1公告类型：新摘要：多令牌预测已被证明可以在训练期间提高数据密度使用MTP头的现有基础和**开源**模型在整个生成序列中提交基于静态树的注意力拓扑
+
+📅 Mon, 29 Jun 2026 00:00:00 -0400
 
 ---
 
 ## 🌍 行业展望
-
-### VentureBeat
-![OpenAI推出GPT-5.6 Sol、Terra和Luna型号—但目前仅限有限的预览合作伙伴根据美国政府](https://images.ctfassets.net/jdtwqhzvc2n1/3lU9GHu18yIWPaRDqvYm2f/4e26e084df7b76a47a4a332857942384/ChatGPT_Image_Jun_26__2026__01_00_08_PM.png?w=300&q=30)
-
-**[OpenAI推出GPT-5.6 Sol、Terra和Luna型号—但目前仅限有限的预览合作伙伴根据美国政府](https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov)**
-
-**OpenAI**宣布有限预览其最新的前沿AI模型**GPT**-5Sources ，了解**OpenAI**与VentureBeat共享的内部工作原理，新的命名方案旨在摆脱**GPT**-5的“纳米”和“迷你”变体
-
-📅 Fri, 26 Jun 2026 17:00:00 GMT
-
----
 
 ### VentureBeat
 ![Claude Code将每位工程师变成了三人。现在公司需要更多的产品思想家](https://images.ctfassets.net/jdtwqhzvc2n1/5LGSLA7R28yeWuRev76Ial/a1f373359767487b9c6315ab18f28095/u7277289442_A_data_engineer_is_sitting_at_a_dashboard_with_ch_56764e66-764f-496b-bab2-2e7a55c1655c_0.png?w=300&q=30)
@@ -176,32 +212,12 @@ ADVANCE将芯片密度提高近一倍，但也凸显了维持历史趋势的挑�
 
 ---
 
-### VentureBeat
-![自主安全代理需要完整的数据。请按照以下步骤查看您的餐厅是否已准备就绪。](https://images.ctfassets.net/jdtwqhzvc2n1/6i1AXzJrBmm5vHORb2EnjQ/c51ee7dc067b682eb5ed97250025fb13/HERO_FOR_ARTICLE.jpg?w=300&q=30)
-
-**[自主安全代理需要完整的数据。请按照以下步骤查看您的餐厅是否已准备就绪。](https://venturebeat.com/security/autonomous-security-agents-need-complete-data-heres-how-to-check-if-yours-is-ready)**
-
-一名在采购外安装**Claude** Enterprise的员工创建了一个SaaS工作空间**Anthropic**适配器（ 6月15日正式上市）发现了未受管理的**Claude** Enterprise安装
-
-📅 Fri, 26 Jun 2026 17:32:42 GMT
-
----
-
-### Ars Technica
-**[纽约时报抨击微软为OpenAI构建侵犯版权的超级计算机](https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/)**
-
-在SCOTUS对索尼做出裁决后，纽约时报改变了**OpenAI**/微软的版权索赔。
-
-📅 Fri, 26 Jun 2026 20:04:55 +0000
-
----
-
 ### ZDNet AI
-**[使用Android Auto ？如何限制Gemini了解您的哪些信息](https://www.zdnet.com/article/stop-gemini-from-listening-in-android-auto/)**
+**[我更改了这些Android Auto设置，以限制Gemini对我的了解-原因如下](https://www.zdnet.com/article/stop-gemini-from-listening-in-android-auto/)**
 
-谷歌的人工智能在您的汽车中提供了很多便利，但您提供了大量的敏感信息
+谷歌的人工智能在您的汽车中提供了很多便利，但您提供了很多敏感信息以下是如何锁定它的方法
 
-📅 Sun, 28 Jun 2026 10:00:57 GMT
+📅 Mon, 29 Jun 2026 16:38:00 GMT
 
 ---
 
@@ -216,36 +232,54 @@ ai ）**发布**了其开放式权重GLM-5W ，而GLM在其他领域落后于**A
 
 ---
 
-### The Verge
-![玛格丽特·阿特伍德（ Margaret Atwood ）说，人工智能的问题是“垃圾进来，垃圾出去”](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2258417618.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### VentureBeat
+![劫持Claude Code的攻击是通过Sentry进行的。Datadog、PagerDuty和Jira的曝光率相同。](https://images.ctfassets.net/jdtwqhzvc2n1/6di1wa5fhWEfFyVhOuFc0/d26a92a3d31716e3c020864f400459f0/hero.png?w=300&q=30)
 
-**[玛格丽特·阿特伍德（ Margaret Atwood ）说，人工智能的问题是“垃圾进来，垃圾出去”](https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out)**
+**[劫持Claude Code的攻击是通过Sentry进行的。Datadog、PagerDuty和Jira的曝光率相同。](https://venturebeat.com/security/the-attack-that-hijacked-claude-code-came-through-sentry-datadog-pagerduty-and-jira-have-the-same-exposure)**
 
-根据Deadline的回顾， Atwood说她曾经使用过一次AI聊天机器人， **Anthropic**的**Claude** ，并且没有留下任何印象她正在寻找有关英国侦探系列布朗神父的信息，并且： “**Claude**给了我错误的答案，或者它撒谎了
+但是，一个捕获的**Claude** Code环境拥有实时AWS密钥访问密钥和私有存储库URL 5%的部署代理可以创建其他代理） ，这使得审计跟踪代数难于解决
 
-📅 2026-06-27T18:39:32.000Z
+📅 Mon, 29 Jun 2026 16:53:14 GMT
+
+---
+
+### VentureBeat
+![Prompt injection正在利用企业AI最大的设计缺陷，瞄准代理商、RAG管道和模型路由器](https://images.ctfassets.net/jdtwqhzvc2n1/761C8qLyC2XS0ZV0CCiPFE/d92b04f5a5c0cec56a5612a13d3f7e35/u7277289442_A_modern_interpretation_of_cybersecurity._3D_--ar_f806db26-b93b-427c-b0c9-42caa83dfe92_0.png?w=300&q=30)
+
+**[Prompt injection正在利用企业AI最大的设计缺陷，瞄准代理商、RAG管道和模型路由器](https://venturebeat.com/security/prompt-injection-is-exploiting-enterprise-ais-biggest-design-flaws-by-targeting-agents-rag-pipelines-and-model-routers)**
+
+该报告明确指出： “提示是新的恶意软件3 ） ，这是**首次**有记录的针对生产AI系统的零点击提示注入漏洞，针对Microsoft 365 Copilot
+
+📅 Sun, 28 Jun 2026 18:00:16 GMT
+
+---
+
+### Wired Technology
+**[谷歌顶级安全人员警告称，如果欧盟规则发生变化，搜索数据可能会被黑客入侵](https://www.wired.com/story/top-google-security-staff-warn-search-data-could-be-hacked-thanks-to-eu-plans/)**
+
+欧洲的竞争提案可能会让谷歌搜索和安卓系统开放该公司声称存在严重的隐私漏洞
+
+📅 Mon, 29 Jun 2026 10:00:00 +0000
+
+---
+
+### Wired Technology
+**[这个人形机器人是一个非常能干的办公室实习生](https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/)**
+
+Flexion Robotics是一家由前英伟达工程师创立的初创公司，它有一种巧妙的方法来训练机器人做有用的工作
+
+📅 Mon, 29 Jun 2026 08:00:00 +0000
 
 ---
 
 ## 📦 GitHub热门
-
-### GitHub Active (Python)
-![skyvern ：使用人工智能自动化基于浏览器的工作流程](https://avatars.githubusercontent.com/u/141457985?v=4)
-
-**[skyvern ：使用人工智能自动化基于浏览器的工作流程](https://github.com/Skyvern-AI/skyvern)**
-
-⭐ 22,023星· 2060分叉· Python ·使用AI自动化基于浏览器的工作流程
-
-📅 2026-06-29T00:09:00Z
-
----
 
 ### GitHub New (New AI)
 ![🆕 synapse ： Synapse —人工智能代理的时间知识图记忆。自托管的FalkorDB + Graphiti ，带有海马层内存管理。](https://avatars.githubusercontent.com/u/232054237?v=4)
 
 **[🆕 synapse ： Synapse —人工智能代理的时间知识图记忆。自托管的FalkorDB + Graphiti ，带有海马层内存管理。](https://github.com/ardhaecosystem/synapse)**
 
-⭐ 43 star (新项目) · Python · Synapse — Temporal knowledge graph memory for AI agentsSelf-hosted FalkorDB + Graphiti with hippocampus-layer memory management
+⭐ 61 star (新项目) · Python · Synapse — Temporal knowledge graph memory for AI agentsSelf-hosted FalkorDB + Graphiti with hippocampus-layer memory management
 
 📅 2026-06-26T09:39:16Z
 
@@ -256,9 +290,20 @@ ai ）**发布**了其开放式权重GLM-5W ，而GLM在其他领域落后于**A
 
 **[🆕 Local-Agent-Studio ：使用代理的简单工作室](https://github.com/CrazyDashTool/Local-Agent-Studio)**
 
-⭐ 16 star (新项目) · JavaScript · A simple st**Udio** to use agent
+⭐ 19 star (新项目) · JavaScript · A simple st**Udio** to use agent
 
 📅 2026-06-27T10:36:52Z
+
+---
+
+### GitHub New (New AI)
+![🆕 stunspots-guide-to-semantics-semiotics-and-symbols ：面向模型的语义、符号、符号、意义、参考和解释经典。](https://avatars.githubusercontent.com/u/130078438?v=4)
+
+**[🆕 stunspots-guide-to-semantics-semiotics-and-symbols ：面向模型的语义、符号、符号、意义、参考和解释经典。](https://github.com/Stunspot/stunspots-guide-to-semantics-semiotics-and-symbols)**
+
+⭐ 4 star (新项目) · N/A · A model-facing canon for semantics, semiotics, symbols, meaning, reference, and interpretation
+
+📅 2026-06-27T23:34:00Z
 
 ---
 
@@ -276,38 +321,13 @@ ai ）**发布**了其开放式权重GLM-5W ，而GLM在其他领域落后于**A
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[政府建立了互联网。为什么它没有构建人工智能？](https://www.reddit.com/r/artificial/comments/1uhxhsq/the_government_built_the_internet_why_didnt_it/)**
+![超过20家发布商起诉微软OpenAI ，要求其使用其内容培训ChatGPT](https://external-preview.redd.it/GbmXSRFvaUV4G5lzDj5demabhxwWpkVp_v1qlh-rU54.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=53475dd9319af70873052d39e7a274f01fc399db)
 
-我刚刚看到微软首席执行官的一篇文章，他说： “在未来十年里，跟上前沿人工智能将耗资'数千亿美元'没有国家组织负责构建前沿人工智能模型或实现这一目标所需的大规模计算基础设施
+**[超过20家发布商起诉微软OpenAI ，要求其使用其内容培训ChatGPT](https://www.reddit.com/r/artificial/comments/1uiveao/over_20_publishers_sue_openai_microsoft_for/)**
 
-📅 2026-06-28T13:36:18.000Z
+提交者/u/runswithscissors475 [link] [comments]
 
----
-
-### Reddit: r/artificial
-**[哪个型号最值得大牌？](https://www.reddit.com/r/artificial/comments/1uhyooh/which_model_is_the_most_worthy_of_the_big_names/)**
-
-我对所有的基准测试结果有点困惑。例如， **Google** **Gemini**是20美元，但配备了5TB的存储空间和代理系统， **Claude**是相似的，但没有存储部分，等等
-
-📅 2026-06-28T14:27:19.000Z
-
----
-
-### Hacker News
-**[显示HN ： NanoEuler –纯C/CUDA中的GPT-2比例模型从头开始](https://github.com/JustVugg/nanoeuler)**
-
-大家好，在人类学的寓言被禁后，我开始研究纳米管，因为我的野心和梦想是在人类学的人工智能领域工作。我用CUDA写了一切，因为我不想在模型的训练和推理以及它必须做的事情之间使用任何中介
-
-📅 Sun, 28 Jun 2026 19:38:14 +0000
-
----
-
-### Reddit: r/artificial
-**[我的AI被抹去了](https://www.reddit.com/r/artificial/comments/1ui5mx0/my_ai_was_wiped/)**
-
-我一直在使用**Google** **Gemini** ，特别是我花在训练个人模型上的所有时间和金钱都会被抹去
-
-📅 2026-06-28T19:01:45.000Z
+📅 2026-06-29T15:17:46.000Z
 
 ---
 
@@ -316,7 +336,7 @@ ai ）**发布**了其开放式权重GLM-5W ，而GLM在其他领域落后于**A
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-06-29T00:09:04.557Z
+📅 2026-06-29T17:38:28.320Z
 
 ---
 
@@ -325,27 +345,52 @@ ai ）**发布**了其开放式权重GLM-5W ，而GLM在其他领域落后于**A
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-06-29T00:09:14.609Z
+📅 2026-06-29T17:38:38.097Z
 
 ---
 
-### Hacker News
-**[显示HN ： Bash4LLM + – LLM API的轻量级、无依赖的Bash包装器](https://github.com/kamaludu/bash4llm/)**
+### Hacker News AI
+**[我构建了一个AI Chrome扩展，基础设施成本为$ 0 – BYOK架构](https://chromewebstore.google.com/detail/pr-focus-ai-pro/ememaiabefeojkccjclglcmbjmdpnaoe)**
 
-示例： echo "说明命令： ls -l" |/bash4llm注释URL ： https://**new**s
+文章网址： https://chromewebstorecom/detail/pr-focus-ai-pro/ememaiabefeojkccjclglcmbjmdpnaoe评论网址： https://**new**s
 
-📅 Sun, 28 Jun 2026 19:43:10 +0000
+📅 Mon, 29 Jun 2026 16:57:28 +0000
+
+---
+
+### Hacker News AI
+**[AI循环：谁为代币付费？](https://www.jackfranklin.co.uk/blog/claude-code-ai-feedback-skill/)**
+
+文章网址： https://wwwuk/blog/**Claude**-code-ai-feedback-skill/评论网址： https://**new**s
+
+📅 Mon, 29 Jun 2026 16:39:35 +0000
 
 ---
 
 ### Reddit: r/artificial
-![随着Anthropic的出口禁令的延续，亚洲人工智能初创公司推出了类似Mythos的模型](https://external-preview.redd.it/NFO9Hkp_blnQtTc5xvrbcPxqNu0C5lm1h8HacQm9NGo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f1e220a8adc3ea69a2469c2211d1bfe06af86f55)
+**[我对Rebellions首席执行官的采访：我从这位与英伟达齐头并进的人身上学到了五件事](https://www.reddit.com/r/artificial/comments/1uitng3/my_interview_with_rebellions_ceo_five_things_i/)**
 
-**[随着Anthropic的出口禁令的延续，亚洲人工智能初创公司推出了类似Mythos的模型](https://www.reddit.com/r/artificial/comments/1ui1wci/asian_ai_startups_launch_mythoslike_models_as/)**
+我在纽约采访了Rebellions联合创始人兼首席执行官Sunghyun Park韩国第一个人工智能芯片独角兽Rebellions将与英伟达一起进行人工智能推理
 
-提交者/u/KingMedia33 [link] [comments]
+📅 2026-06-29T14:12:16.000Z
 
-📅 2026-06-28T16:36:08.000Z
+---
+
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Title: 520: Web服务器返回未知错误
+
+📅 2026-06-29T17:38:28.320Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误520 ：未知
+
+📅 2026-06-29T17:38:28.320Z
 
 ---
 
