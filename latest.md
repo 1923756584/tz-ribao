@@ -1,12 +1,12 @@
 ---
 title: "2026年6月30日 - TZ日报"
-date: 2026-06-30T00:06:03.259Z
+date: 2026-06-30T17:10:12.581Z
 draft: false
 ---
 
 # 2026年6月30日 - TZ日报
 
-> 📊 今日汇总 37 条 · 🕐 2026/6/30 00:06:03
+> 📊 今日汇总 38 条 · 🕐 2026/6/30 17:10:12
 
 ---
 
@@ -16,7 +16,7 @@ draft: false
 - **前沿研究**: 8 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
-- **社交动态**: 7 条
+- **社交动态**: 8 条
 
 ---
 
@@ -31,12 +31,48 @@ draft: false
 
 ---
 
+### OpenAI Blog
+**[ChatGPT采用率如何扩展](https://openai.com/index/how-chatgpt-adoption-has-expanded)**
+
+新的**OpenAI** Signals数据显示了随着用户使用量的增加， Chat**GPT**的采用在全球范围内如何增长
+
+📅 Tue, 30 Jun 2026 09:00:00 GMT
+
+---
+
+### TechCrunch AI Products
+**[Anthropic的Claude Science押注工作流程，而不是新模式，以赢得科学家的青睐](https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/)**
+
+**Anthropic**的**Claude** Science是一个工作台，为科学家提供了一个进行计算研究的环境，使他们无需在数据库之间反弹
+
+📅 Tue, 30 Jun 2026 17:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[继OpenAI和Anthropic之后，亚马逊推出新的$ 10亿FDE组织](https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/)**
+
+新团队的工程师将嵌入公司内部，部署专门构建的代理，重点关注快速部署和客户自给自足
+
+📅 Tue, 30 Jun 2026 15:00:00 +0000
+
+---
+
 ### TechCrunch AI Products
 **[Gemini的个性化AI图像生成现在对美国用户免费](https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/)**
 
 谷歌正在将**Gemini**的个性化人工智能**图像生成**扩展到美国符合条件的免费用户，允许聊天机器人根据您的兴趣和连接的谷歌应用程序的数据创建图像
 
 📅 Mon, 29 Jun 2026 20:12:59 +0000
+
+---
+
+### OpenAI Blog
+**[核心转储流行病学：修复一个18岁的漏洞](https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug)**
+
+**OpenAI**工程师使用大规模内核转储分析来调试罕见的基础设施崩溃，同时发现硬件故障和长期存在的软件错误
+
+📅 Tue, 30 Jun 2026 00:00:00 GMT
 
 ---
 
@@ -59,6 +95,17 @@ draft: false
 ---
 
 ### Google AI Blog
+![开启英国下一个生产力时代：打造人工智能开拓者之国](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp)
+
+**[开启英国下一个生产力时代：打造人工智能开拓者之国](https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/)**
+
+谷歌英国**发布**最新的《经济影响报告》，以及如何让更多人从人工智能技术中获益
+
+📅 Tue, 30 Jun 2026 06:00:00 +0000
+
+---
+
+### Google AI Blog
 ![向人工智能专家提问：全栈到底是什么？](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp)
 
 **[向人工智能专家提问：全栈到底是什么？](https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/)**
@@ -69,126 +116,101 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[为什么华尔街认为美国内存制造商美光是下一个英伟达](https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/)**
-
-华尔街投资者渴望找到更多可能与英伟达相媲美的上市人工智能相关公司，他们认为美光已经找到了赢家
-
-📅 Sun, 28 Jun 2026 15:00:00 +0000
-
----
-
-### AI News
-**[惠普借助OpenAI Frontier加速企业工作流程](https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier/)**
-
-惠普已将其**OpenAI** Frontier集成扩展到全球运营，以优化企业工作流程并加快输出上下文[…]惠普通过**OpenAI** Frontier加速企业工作流程的文章**首次**出现在人工智能新闻
-
-📅 Mon, 29 Jun 2026 12:22:45 +0000
-
----
-
-### Hugging Face
-**[DiScoFormer ：一个变压器，用于密度和分数，跨分布](https://huggingface.co/blog/allenai/discoformer)**
-
-DiScoFormer ：一个变压器，用于密度和分数，跨分布
-
-📅 Mon, 29 Jun 2026 18:02:48 GMT
-
----
-
-### TechCrunch AI Products
-**[韩国科技巨头承诺超过5500亿美元用于缓解“RAMageddon”](https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/)**
-
-随着韩国将自己定位为人工智能技术强国，全球最大的两家内存芯片公司发誓要建造更多的内存实验室工厂
-
-📅 Mon, 29 Jun 2026 18:07:48 +0000
-
----
-
-### TechCrunch AI Products
-**[竞技场，每个人都使用的人工智能排行榜，现在是一个$ 1亿的业务](https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/)**
-
-这家初创公司运营着一个受欢迎的免费人工智能排行榜，去年9月**推出**了其商业服务
-
-📅 Mon, 29 Jun 2026 17:39:17 +0000
-
----
-
 ## 🔬 前沿研究
 
-### ArXiv Multiagent (cs.MA)
-**[三元狼人： LLM中多跳心智理论的小丑角色](https://arxiv.org/abs/2606.27909)**
+### ArXiv AI (cs.AI)
+**[IMCBench ：基于图像的医学对话中多模式LLM的基准](https://arxiv.org/abs/2606.28556)**
 
-在**GPT**-4的60场比赛中，自学帮助**DeepSeek**和Llama ，但伤害**GPT**-4
+28556v1公告类型：新摘要：大型语言模型和视觉语言模型的最新进展使人们能够对多模态数据进行推理我们对四个模型系列中的八个多模态前沿模型进行基准测试（ **Claude**
 
-📅 Mon, 29 Jun 2026 00:00:00 -0400
+📅 Tue, 30 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[基础迭代语言规划：参数化世界模型如何减少LLM代理中的幻觉传播](https://arxiv.org/abs/2606.27806)**
+**[GPTNT ：对标多式联运代理之间在保持通话和无人爆炸上的实时协作](https://arxiv.org/abs/2606.28514)**
 
-27806v1公告类型：新摘要：语言代理的世界模型有两种有用的形式在真正的**GPT**-4o-mini调用中， GILP将幻觉状态率从0降低
+28514v1公告类型：新摘要：越来越多地部署多模态模型，以解决与人类或其他人工智能体的协作任务我们**发布**GPTNT ，作为当前评估无法衡量的协作绩效的基准
 
-📅 Mon, 29 Jun 2026 00:00:00 -0400
+📅 Tue, 30 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[一种用于生物医学工具领域治疗推理的人工智能代理](https://arxiv.org/abs/2606.28692)**
+
+28692v1公告类型：新摘要：治疗推理是每个治疗决策的基础**GPT**-5以上7分
+
+📅 Tue, 30 Jun 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Machine Learning (cs.LG)
-**[多重介质的诅咒：激活补丁中隐藏的交互效应](https://arxiv.org/abs/2606.27510)**
+**[人工智能可以绘制科学吗？通过文本到图像和多模态模型评估科学图形生成的基准](https://arxiv.org/abs/2606.28406)**
 
-27510v1公告类型：新摘要：激活补丁是机械可解释性的主要工具我们在**GPT**-2 IOI电路中演示了这些故障模式；其因果**重要**性取决于其他组件状态的组件要么不可见，要么被人为充气
+28406v1公告类型：新摘要：文本到图像和多模态生成模型越来越多地用于生成机制图等科学图形，而不是具有代表性的通用文本到图像模型
 
-📅 Mon, 29 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv Computer Vision (cs.CV)
-**[从简短的家庭视频中微调临床医生级自闭症行为评分的多模态大型语言模型](https://arxiv.org/abs/2606.27484)**
-
-27484v1公告类型：新摘要：自闭症谱系障碍（ ASD ）影响31名美国儿童中的1名，但诊断时的中位年龄超过4岁仅对先前已验证的30种行为特征进行限制，以便在传递给各种ML模型时产生可靠的预测
-
-📅 Mon, 29 Jun 2026 00:00:00 -0400
+📅 Tue, 30 Jun 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Computer Vision (cs.CV)
-**[DMV-Bench ：使用附带提示注射诊断长视野多模式座席的视觉记忆](https://arxiv.org/abs/2606.27499)**
+### ArXiv Multiagent (cs.MA)
+**[潜在代理谎言：多代理LLM协作中的KV缓存完整性](https://arxiv.org/abs/2606.28958)**
 
-27499v1公告类型：新摘要：智能体内存研究快速成熟我们引入DMV-Bench （代码： https://github
+28958v1公告类型：新摘要： LLM代理可以共享的不仅仅是文本我们实现了HMAC-SHA256清单，该清单绑定专家、会话、模型、可见承诺、张量元数据和有效载荷摘要
 
-📅 Mon, 29 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[因果关系：利用多语言微调金融QA @ FinCausal 2026](https://arxiv.org/abs/2606.27446)**
-
-1和**GPT**变体）使用提示细化，少量演示和监督微调我们的最佳系统**GPT**-4
-
-📅 Mon, 29 Jun 2026 00:00:00 -0400
+📅 Tue, 30 Jun 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Natural Language Processing (cs.CL)
-**[取代：诊断和培训LLM代理中的内存更新差距](https://arxiv.org/abs/2606.27472)**
+### ArXiv Multiagent (cs.MA)
+**[少数族裔哨兵：何时推翻多代理法学硕士辩论中的多数投票](https://arxiv.org/abs/2606.29270)**
 
-27472v1公告类型：新摘要：大型语言模型（ LLM ）代理在长时间自我维护的内存上运行，即使在前沿模型上，准确率也从92%降至77% （ **GPT**-5
+29270v1公告类型：新摘要：多数投票的多代理辩论（ MAD ）是改进LLM推理的主导范式轻量级元分类器，可从辩论日志中提取多维辩论指纹，并训练LightGBM模型以决定何时推翻多数投票
 
-📅 Mon, 29 Jun 2026 00:00:00 -0400
+📅 Tue, 30 Jun 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Natural Language Processing (cs.CL)
-**[EntMTP ：通过熵引导多令牌预测加速LLM推断](https://arxiv.org/abs/2606.27550)**
+### ArXiv AI (cs.AI)
+**[通过暂停选择递归自进化代理](https://arxiv.org/abs/2606.28374)**
 
-27550v1公告类型：新摘要：多令牌预测已被证明可以在训练期间提高数据密度使用MTP头的现有基础和**开源**模型在整个生成序列中提交基于静态树的注意力拓扑
+28374v1公告类型：新摘要：通过发展自然语言工件， LLM代理在没有权重**更新**的情况下得到越来越多的改进首先，没有工件普遍获胜
 
-📅 Mon, 29 Jun 2026 00:00:00 -0400
+📅 Tue, 30 Jun 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[模型能力增强的数据和评估闭环](https://arxiv.org/abs/2606.28471)**
+
+28471v1公告类型：新摘要：模型能力是LLM预训练的核心变量首先，循环将数据排除在外：持续的预训练使BBH下降了$ -46
+
+📅 Tue, 30 Jun 2026 00:00:00 -0400
 
 ---
 
 ## 🌍 行业展望
+
+### VentureBeat
+![美团开源LongCat-2.0 ，这是一种引领OpenRouter的1.6T近前沿代理编码模型，完全基于中国芯片进行培训](https://images.ctfassets.net/jdtwqhzvc2n1/3JhPWvGZL0ITKfOW59a6dD/6b4f45b2aba49b72a7a254507dc69a9d/ChatGPT_Image_Jun_30__2026__01_18_58_AM.png?w=300&q=30)
+
+**[美团开源LongCat-2.0 ，这是一种引领OpenRouter的1.6T近前沿代理编码模型，完全基于中国芯片进行培训](https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips)**
+
+00 **OpenAI** **Claude** Fable 5/**Claude** Mythos 5 $ 10政府要求， **OpenAI**被迫限制对其新**GPT**-5的访问
+
+📅 Tue, 30 Jun 2026 05:39:00 GMT
+
+---
+
+### MIT Tech Review
+**[在世界秘密研发中心构建技术](https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/)**
+
+**OpenAI**F硅谷以外的几个地方可以从所有这些公司获得研发中心
+
+📅 Tue, 30 Jun 2026 10:23:30 +0000
+
+---
 
 ### VentureBeat
 ![DeepSeek开源DSpark ，一个将LLM推理加速高达85%的新框架](https://images.ctfassets.net/jdtwqhzvc2n1/1LKLzOBxewK4b4E04bGEIY/be7d3b2bd4874c5b8a3001b8498b5e02/ChatGPT_Image_Jun_29__2026__04_35_22_PM.png?w=300&q=30)
@@ -211,44 +233,24 @@ DiScoFormer ：一个变压器，用于密度和分数，跨分布
 ---
 
 ### VentureBeat
-![Claude Code将每位工程师变成了三人。现在公司需要更多的产品思想家](https://images.ctfassets.net/jdtwqhzvc2n1/5LGSLA7R28yeWuRev76Ial/a1f373359767487b9c6315ab18f28095/u7277289442_A_data_engineer_is_sitting_at_a_dashboard_with_ch_56764e66-764f-496b-bab2-2e7a55c1655c_0.png?w=300&q=30)
+![谷歌的Gemini Omni Flash触及API ，将企业视频制作转变为对话](https://images.ctfassets.net/jdtwqhzvc2n1/kLyxawwfV6DdvwExOeUaG/4a28ab530ddd0df708b2da07890419ff/Gemini_Generated_Image_dl8h1pdl8h1pdl8h.png?w=300&q=30)
 
-**[Claude Code将每位工程师变成了三人。现在公司需要更多的产品思想家](https://venturebeat.com/infrastructure/claude-code-turned-every-engineer-into-three-now-companies-need-more-product-thinkers)**
+**[谷歌的Gemini Omni Flash触及API ，将企业视频制作转变为对话](https://venturebeat.com/technology/googles-gemini-omni-flash-hits-the-api-turning-enterprise-video-production-into-a-conversation)**
 
-但自2022年11月以来，关于Stack Overflow的新月度问题现在下降了约77% ，这并不是ChatGPT**推出**浏览器选项卡时代（ 2022年底至2024年）时的巧合：第一代Chat**GPT**位于IDE之外
+这个等式正是谷歌旨在用**Gemini** Omni Flash重写的，这是其新的“Omni”系列中的第一款车型
 
-📅 Sat, 27 Jun 2026 19:30:09 GMT
-
----
-
-### ZDNet AI
-**[我更改了这些Android Auto设置，以限制Gemini对我的了解-原因如下](https://www.zdnet.com/article/stop-gemini-from-listening-in-android-auto/)**
-
-谷歌的人工智能在您的汽车中提供了很多便利，但您提供了很多敏感信息以下是如何锁定它的方法
-
-📅 Mon, 29 Jun 2026 16:38:00 GMT
+📅 Tue, 30 Jun 2026 16:19:00 GMT
 
 ---
 
-### The Verge
-![迄今为止我们发现的最佳7月4日销售额](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Govee-Uplighter-Floor-Lamps5.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### VentureBeat
+![谷歌推出Nano Banana 2 Lite ，又名Gemini 3.1 Flash-Lite ，用于低成本、4秒快速的企业图像生成](https://images.ctfassets.net/jdtwqhzvc2n1/1SspsnZP2DbcuyWnSv0NZE/b152191ee0294e13bfca282555bf3300/Gemini_Generated_Image_dcilhudcilhudcil.png?w=300&q=30)
 
-**[迄今为止我们发现的最佳7月4日销售额](https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale)**
+**[谷歌推出Nano Banana 2 Lite ，又名Gemini 3.1 Flash-Lite ，用于低成本、4秒快速的企业图像生成](https://venturebeat.com/technology/google-unveils-nano-banana-2-lite-aka-gemini-3-1-flash-lite-for-low-cost-4-second-fast-enterprise-image-generations)**
 
-它有深灰色、蓝色、紫色和“星光”奶油色99 ，位于Govee Kobo天秤座颜色天秤座颜色是Kobo首批彩色电子阅读器之一
+企业开发人员可通过**Google** AI St**Udio**、**Gemini** API和**Gemini** Enterprise Agent Platform (GEAP)立即使用此版本与**Gemini** Omni Flash （一种多模式对话**视频生成**和编辑模型）的公开预览版一起**发布**
 
-📅 2026-06-29T16:42:48.000Z
-
----
-
-### The Verge
-![立法者希望禁止人工智能公司出售您的健康数据](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299197/STK442_Password_Manager_A_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[立法者希望禁止人工智能公司出售您的健康数据](https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon)**
-
-一项新提案将禁止向数据经纪人出售美国人的健康和位置信息，包括人们向Chat**GPT**或**Claude**Senator Elizabeth Warren （ D-MA ）和众议员Mary Gay Scanlon （ D-PA ）等人工智能聊天机器人透露的信息，他们正计划**推出**更适合人工智能时代的新版《健康和位置数据保护法》
-
-📅 2026-06-29T16:00:00.000Z
+📅 Tue, 30 Jun 2026 16:06:00 GMT
 
 ---
 
@@ -276,69 +278,67 @@ DiScoFormer ：一个变压器，用于密度和分数，跨分布
 
 ## 📦 GitHub热门
 
-### GitHub New (New AI)
-![🆕 Local-Agent-Studio ：使用代理的简单工作室](https://avatars.githubusercontent.com/u/245850575?v=4)
+### GitHub Active (AI/ML)
+![mlpack: mlpack ：快速、仅标头的C + +机器学习库](https://avatars.githubusercontent.com/u/10216045?v=4)
 
-**[🆕 Local-Agent-Studio ：使用代理的简单工作室](https://github.com/CrazyDashTool/Local-Agent-Studio)**
+**[mlpack: mlpack ：快速、仅标头的C + +机器学习库](https://github.com/mlpack/mlpack)**
 
-⭐ 19 star (新项目) · JavaScript · A simple st**Udio** to use agent
+⭐ 5,671星· 1717分支· C + + · mlpack ：一个快速、仅头部的C + +机器学习库
 
-📅 2026-06-27T10:36:52Z
-
----
-
-### GitHub New (New AI)
-![🆕 stunspots-guide-to-semantics-semiotics-and-symbols ：面向模型的语义、符号、符号、意义、参考和解释经典。](https://avatars.githubusercontent.com/u/130078438?v=4)
-
-**[🆕 stunspots-guide-to-semantics-semiotics-and-symbols ：面向模型的语义、符号、符号、意义、参考和解释经典。](https://github.com/Stunspot/stunspots-guide-to-semantics-semiotics-and-symbols)**
-
-⭐ 5 star (新项目) · N/A · A model-facing canon for semantics, semiotics, symbols, meaning, reference, and interpretation
-
-📅 2026-06-27T23:34:00Z
+📅 2026-06-30T17:09:00Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 ai-chief-of-staff ： TAI Chief -每个首席执行官都需要的唯一AI参谋长平台。](https://avatars.githubusercontent.com/u/1701450?v=4)
+![🆕 ai-image-clean-eraser ： AI-Powered Text Remover 2026 ：具有高清质量的自动检测和手动精度](https://avatars.githubusercontent.com/u/218744286?v=4)
 
-**[🆕 ai-chief-of-staff ： TAI Chief -每个首席执行官都需要的唯一AI参谋长平台。](https://github.com/suhasbhairav/ai-chief-of-staff)**
+**[🆕 ai-image-clean-eraser ： AI-Powered Text Remover 2026 ：具有高清质量的自动检测和手动精度](https://github.com/Sujal-142/ai-image-clean-eraser)**
 
-⭐ 4 star (新项目) · JavaScript · TAI Chief - The only AI Chief of Staff platform that every CEO will ever need
+⭐ 121 star (新项目) · HTML · AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality
 
-📅 2026-06-27T16:29:48Z
+📅 2026-06-28T20:46:31Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 India_runs_data_and_ai_challenge ：使用句子变换器、语义搜索和行为评分的人工智能候选人排名系统。](https://avatars.githubusercontent.com/u/147977378?v=4)
+![🆕 ai-cortex-hub ： 2026年顶级人工智能工具发现平台：自动化管理和实时排行榜](https://avatars.githubusercontent.com/u/103123828?v=4)
 
-**[🆕 India_runs_data_and_ai_challenge ：使用句子变换器、语义搜索和行为评分的人工智能候选人排名系统。](https://github.com/mehaksharma2949/India_runs_data_and_ai_challenge)**
+**[🆕 ai-cortex-hub ： 2026年顶级人工智能工具发现平台：自动化管理和实时排行榜](https://github.com/Fabiojvv/ai-cortex-hub)**
 
-⭐ 4 star (新项目) · Python · AI-powered candidate ranking system using Sentence Transformers, semantic search, and behavioral scoring
+⭐ 120 star (新项目) · HTML · Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards
 
-📅 2026-06-27T11:34:20Z
+📅 2026-06-28T19:25:24Z
+
+---
+
+### GitHub New (New AI)
+![🆕 magic-eraser-studio ： AI Object Remover 2026 –消除干扰并保持高清质量](https://avatars.githubusercontent.com/u/241602294?v=4)
+
+**[🆕 magic-eraser-studio ： AI Object Remover 2026 –消除干扰并保持高清质量](https://github.com/onlyoneshakibul/magic-eraser-studio)**
+
+⭐ 119 star (新项目) · HTML · AI Object Remover 2026 – Erase Distractions & Keep HD Quality
+
+📅 2026-06-28T20:45:56Z
 
 ---
 
 ## 💬 社交动态
 
-### Reddit: r/artificial
-**[Meta一直在谷歌的Gemini上秘密运行，然后因为使用太多而被切断](https://www.reddit.com/r/artificial/comments/1uj45np/meta_was_secretly_running_on_googles_gemini_the/)**
+### Hacker News
+**[Nano Banana 2 Lite](https://deepmind.google/models/gemini-image/flash-lite/)**
 
-今天看到这篇文章，我真的很惊讶**Meta**一直在使用**Gemini**进行客户服务，广告工具，内容审核，所有这些，显然选择了它，因为它比他们自己的Llama模型效果更好，然后谷歌切断了它们，因为**Meta**消耗了太多的容量
+文章网址： https://deepmind**Google**/models/**Gemini**-image/flash-lite/评论网址： https://**new**s
 
-📅 2026-06-29T20:36:20.000Z
+📅 Tue, 30 Jun 2026 16:48:37 +0000
 
 ---
 
-### Reddit: r/artificial
-![超过20家发布商起诉微软OpenAI ，要求其使用其内容培训ChatGPT](https://external-preview.redd.it/GbmXSRFvaUV4G5lzDj5demabhxwWpkVp_v1qlh-rU54.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=53475dd9319af70873052d39e7a274f01fc399db)
+### X: OpenAI
+**[Title: X上的OpenAI (@ OpenAI)](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-**[超过20家发布商起诉微软OpenAI ，要求其使用其内容培训ChatGPT](https://www.reddit.com/r/artificial/comments/1uiveao/over_20_publishers_sue_openai_microsoft_for/)**
+Title: X上的**OpenAI** (@ **OpenAI**)
 
-提交者/u/runswithscissors475 [link] [comments]
-
-📅 2026-06-29T15:17:46.000Z
+📅 2026-06-30T17:09:03.853Z
 
 ---
 
@@ -347,7 +347,7 @@ DiScoFormer ：一个变压器，用于密度和分数，跨分布
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-06-30T00:04:57.252Z
+📅 2026-06-30T17:09:03.853Z
 
 ---
 
@@ -356,34 +356,43 @@ DiScoFormer ：一个变压器，用于密度和分数，跨分布
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-06-30T00:05:02.108Z
+📅 2026-06-30T17:09:11.061Z
+
+---
+
+### Hacker News
+**[Claude Code以隐写方式标记请求](https://thereallo.dev/blog/claude-code-prompt-steganography)**
+
+文章网址： https://thereallodev/blog/**Claude**-code-prompt-steganography评论网址： https://**new**s
+
+📅 Tue, 30 Jun 2026 15:44:24 +0000
 
 ---
 
 ### Hacker News AI
-**[显示HN Earned vs. Burned ，衡量AI交付价值的Claude技能](https://github.com/harveer10x/earned-vs-burned-skill)**
+**[显示HN ： Vanta –带有设备上AI的iPhone Markdown笔记](https://vanta.shanev.ai)**
 
-文章网址： https://githubcom/harveer10x/earned-vs-burned-skill评论网址： https://**new**s
+我在桌面上与**Claude**一起使用Obsidian ，并希望在移动设备上有一个类似但自动化的流程也许有一天它也会为您完成您的待办事项:)在Github上导入并同步您现有的Obsidian保管库，或从一个新的开始
 
-📅 Mon, 29 Jun 2026 23:42:51 +0000
+📅 Tue, 30 Jun 2026 16:32:50 +0000
+
+---
+
+### Reddit: r/artificial
+**[5个月前，我自学了编程，并构建了一个自主的人工智能红队测试仪— testyourllm.com](https://www.reddit.com/r/artificial/comments/1ujqzb1/i_taught_myself_to_code_5_months_ago_and_built_an/)**
+
+刚刚**推出**了testyourllmcom —将其指向任何与**OpenAI**兼容的LLM端点，自主AI试图打破它
+
+📅 2026-06-30T14:35:29.000Z
 
 ---
 
 ### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-Title: 520: Web服务器返回未知错误
+Markdown 内容
 
-📅 2026-06-30T00:04:57.252Z
-
----
-
-### X: OpenAI
-**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-警告：目标URL返回错误520 ：
-
-📅 2026-06-30T00:04:57.252Z
+📅 2026-06-30T17:09:03.853Z
 
 ---
 
