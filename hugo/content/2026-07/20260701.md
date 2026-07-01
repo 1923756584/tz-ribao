@@ -1,12 +1,12 @@
 ---
 title: "2026年7月1日 - TZ日报"
-date: 2026-07-01T00:08:17.853Z
+date: 2026-07-01T17:16:53.169Z
 draft: false
 ---
 
 # 2026年7月1日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/7/1 00:08:17
+> 📊 今日汇总 38 条 · 🕐 2026/7/1 17:16:53
 
 ---
 
@@ -23,11 +23,11 @@ draft: false
 ## ✨ 产品更新
 
 ### TechCrunch AI Products
-**[Anthropic推出Claude Sonnet 5作为运行代理的更便宜的方式](https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/)**
+**[像SpaceX一样， Meta希望将多余的人工智能计算转化为现金](https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/)**
 
-**Anthropic**的**Claude** Sonnet 5带来了更强大的代理能力**GPT**-5
+**Meta**正在制定云基础设施业务计划，出售人工智能计算能力和模型的访问权限此举将使其与Amazon Web Services、**Google** Cloud和Microsoft Azure等大型云提供商竞争
 
-📅 Tue, 30 Jun 2026 18:00:00 +0000
+📅 Wed, 01 Jul 2026 13:43:07 +0000
 
 ---
 
@@ -41,20 +41,20 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[Anthropic的Claude Science押注工作流程，而不是新模式，以赢得科学家的青睐](https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/)**
+**[Google的代理助理Gemini Spark现已在Mac上推出](https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/)**
 
-**Anthropic**的**Claude** Science是一个工作台，为科学家提供了一个进行计算研究的环境，使他们无需在数据库之间反弹
+谷歌全天候代理助手**Gemini** Spark ，以及其他改进，如实时跟踪和支持更多应用程序
 
-📅 Tue, 30 Jun 2026 17:00:00 +0000
+📅 Wed, 01 Jul 2026 14:20:19 +0000
 
 ---
 
-### TechCrunch AI Products
-**[继OpenAI和Anthropic之后，亚马逊推出新的$ 10亿FDE组织](https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/)**
+### AI News
+**[Anthropic部署Claude Sonnet 5 ，恢复寓言和神话](https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/)**
 
-新团队的工程师将嵌入公司内部，部署专门构建的代理，重点关注快速部署和客户自给自足
+Anthropic**推出**了**Claude** Sonnet 5 ，并在联邦出口管制审查后恢复了其Fable和Mythos前沿模型的访问权限政府官员颁布了[…] **Anthropic**部署**Claude** Sonnet 5后，恢复的Fable和Mythos**首次**出现在人工智能新闻
 
-📅 Tue, 30 Jun 2026 15:00:00 +0000
+📅 Wed, 01 Jul 2026 08:47:12 +0000
 
 ---
 
@@ -76,12 +76,14 @@ draft: false
 
 ---
 
-### OpenAI Blog
-**[惠普公司与OpenAI建立Frontier战略合作伙伴关系](https://openai.com/index/hp-frontier-partnership)**
+### Google AI Blog
+![纽约市的教育工作者和行业领袖聚集在谷歌的办公室，塑造教室人工智能的未来。](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp)
 
-惠普扩大其**OpenAI** Frontier合作伙伴关系，在客户体验、软件开发和企业运营中部署人工智能
+**[纽约市的教育工作者和行业领袖聚集在谷歌的办公室，塑造教室人工智能的未来。](https://blog.google/products-and-platforms/products/education/nyc-ai-summit/)**
 
-📅 Sun, 28 Jun 2026 17:00:00 GMT
+谷歌、纽约就业首席执行官理事会和城市议会为150名教育和行业领袖举办了人工智能峰会
+
+📅 Wed, 01 Jul 2026 16:00:00 +0000
 
 ---
 
@@ -118,12 +120,12 @@ draft: false
 
 ## 🔬 前沿研究
 
-### ArXiv AI (cs.AI)
-**[IMCBench ：基于图像的医学对话中多模式LLM的基准](https://arxiv.org/abs/2606.28556)**
+### MIT Tech Research
+**[LLM陷入了群体思维的凹槽。这家初创公司正试图把他们赶出去。](https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/)**
 
-28556v1公告类型：新摘要：大型语言模型和视觉语言模型的最新进展使人们能够对多模态数据进行推理我们对四个模型系列中的八个多模态前沿模型进行基准测试（ **Claude**
+打开您选择的聊天机器人-**Claude**、Chat**GPT**、**Gemini**-并输入“给我一个介于1和10之间的随机数”再次输入“另一个” ，您将得到8或9
 
-📅 Tue, 30 Jun 2026 00:00:00 -0400
+📅 Wed, 01 Jul 2026 14:35:16 +0000
 
 ---
 
@@ -137,69 +139,69 @@ draft: false
 ---
 
 ### ArXiv AI (cs.AI)
-**[GPTNT ：对标多式联运代理之间在保持通话和无人爆炸上的实时协作](https://arxiv.org/abs/2606.28514)**
+**[什么时候学会停止会有帮助？推理模型中早期退出的成本意识研究](https://arxiv.org/abs/2606.30852)**
 
-28514v1公告类型：新摘要：越来越多地部署多模态模型，以解决与人类或其他人工智能体的协作任务我们**发布**GPTNT ，作为当前评估无法衡量的协作绩效的基准
+30852v1公告类型：新摘要：推理模型跨实例花费不同数量的有用计算跨18个任务模型设置，涵盖GSM8K、MATH-500、MMLU-Pro、AIME-90、GPQA、Qwen3和**DeepSeek**-R1蒸馏，答案取决于任务
 
-📅 Tue, 30 Jun 2026 00:00:00 -0400
+📅 Wed, 01 Jul 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[一种用于生物医学工具领域治疗推理的人工智能代理](https://arxiv.org/abs/2606.28692)**
+**[为什么要解决两次？高效转移机器学习工程技能的分层积累](https://arxiv.org/abs/2606.30911)**
 
-28692v1公告类型：新摘要：治疗推理是每个治疗决策的基础**GPT**-5以上7分
+30911v1公告类型：新摘要：机器学习工程代理浪费计算重新发现已知技术，因为每场比赛都是一个冷起点3 ％使用**Claude** Sonnet 4
 
-📅 Tue, 30 Jun 2026 00:00:00 -0400
+📅 Wed, 01 Jul 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Machine Learning (cs.LG)
-**[人工智能可以绘制科学吗？通过文本到图像和多模态模型评估科学图形生成的基准](https://arxiv.org/abs/2606.28406)**
+**[心脏代谢风险的加速计衍生数字生物标志物：具有不确定性定量的人群代表性表格基准](https://arxiv.org/abs/2606.30702)**
 
-28406v1公告类型：新摘要：文本到图像和多模态生成模型越来越多地用于生成机制图等科学图形，而不是具有代表性的通用文本到图像模型
+30702v1公告类型：新摘要：结构化表格数据主导临床医学我们介绍NHANES加速测量心脏代谢基准
 
-📅 Tue, 30 Jun 2026 00:00:00 -0400
-
----
-
-### ArXiv Multiagent (cs.MA)
-**[潜在代理谎言：多代理LLM协作中的KV缓存完整性](https://arxiv.org/abs/2606.28958)**
-
-28958v1公告类型：新摘要： LLM代理可以共享的不仅仅是文本我们实现了HMAC-SHA256清单，该清单绑定专家、会话、模型、可见承诺、张量元数据和有效载荷摘要
-
-📅 Tue, 30 Jun 2026 00:00:00 -0400
+📅 Wed, 01 Jul 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Multiagent (cs.MA)
-**[少数族裔哨兵：何时推翻多代理法学硕士辩论中的多数投票](https://arxiv.org/abs/2606.29270)**
+### ArXiv Machine Learning (cs.LG)
+**[从搜索到综合：将LLM培训为零拍摄工作流生成器](https://arxiv.org/abs/2606.30704)**
 
-29270v1公告类型：新摘要：多数投票的多代理辩论（ MAD ）是改进LLM推理的主导范式轻量级元分类器，可从辩论日志中提取多维辩论指纹，并训练LightGBM模型以决定何时推翻多数投票
+30704v1公告类型：新摘要：大型语言模型（ LLM ）在广泛的任务中表现出色**Meta**Flow列车分两个阶段：对合成工作流数据进行有监督的微调
 
-📅 Tue, 30 Jun 2026 00:00:00 -0400
+📅 Wed, 01 Jul 2026 00:00:00 -0400
 
 ---
 
-### ArXiv AI (cs.AI)
-**[通过暂停选择递归自进化代理](https://arxiv.org/abs/2606.28374)**
+### ArXiv Natural Language Processing (cs.CL)
+**[当变形金刚学习“不可能”的语言时，他们学到了什么？](https://arxiv.org/abs/2606.30815)**
 
-28374v1公告类型：新摘要：通过发展自然语言工件， LLM代理在没有权重**更新**的情况下得到越来越多的改进首先，没有工件普遍获胜
+30815v1公告类型：新摘要：最近的工作表明，变换器语言模型显示出对人类语言的偏好，而不是人类认为不可接受的非自然（ “不可能” ）语言使用在扰动的“不可能”变体上训练的**GPT**-2样式模型
 
-📅 Tue, 30 Jun 2026 00:00:00 -0400
+📅 Wed, 01 Jul 2026 00:00:00 -0400
+
+---
+
+### ArXiv Robotics (cs.RO)
+**[基于储物柜的卡车无人机路线，综合考虑取货、派送和禁飞区](https://arxiv.org/abs/2606.30680)**
+
+30680v1公告类型：新摘要：卡车无人机交付是一种新兴的最后一英里物流模式，将卡车的长途运输能力与无人机的灵活服务能力相结合在不同规模的实例上进行的实验表明，在大多数情况下，所提出的方法优于元启发式和神经启发式基线，同时保持异常短的计算时间
+
+📅 Wed, 01 Jul 2026 00:00:00 -0400
 
 ---
 
 ## 🌍 行业展望
 
 ### VentureBeat
-![美团开源LongCat-2.0 ，这是一种引领OpenRouter的1.6T近前沿代理编码模型，完全基于中国芯片进行培训](https://images.ctfassets.net/jdtwqhzvc2n1/3JhPWvGZL0ITKfOW59a6dD/6b4f45b2aba49b72a7a254507dc69a9d/ChatGPT_Image_Jun_30__2026__01_18_58_AM.png?w=300&q=30)
+![在美国解除出口管制令后， Anthropic将在全球范围内重新推出Claude Fable 5 —企业可以在哪里获得它？](https://images.ctfassets.net/jdtwqhzvc2n1/qVrMQLioP4dj7Ghhm3e7u/49e7bb13cdfa856e09d95e52598568e1/ChatGPT_Image_Jul_1__2026__11_08_21_AM.png?w=300&q=30)
 
-**[美团开源LongCat-2.0 ，这是一种引领OpenRouter的1.6T近前沿代理编码模型，完全基于中国芯片进行培训](https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips)**
+**[在美国解除出口管制令后， Anthropic将在全球范围内重新推出Claude Fable 5 —企业可以在哪里获得它？](https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it)**
 
-00 **OpenAI** **Claude** Fable 5/**Claude** Mythos 5 $ 10政府要求， **OpenAI**被迫限制对其新**GPT**-5的访问
+**Anthropic**正在恢复其迄今为止**最强**大的通用**发布**人工智能模型**Claude** Fable 5的全球访问权限。与此同时， **Anthropic**的国内最大竞争对手**OpenAI**仍在努力**发布**其最新型号，主要是因为
 
-📅 Tue, 30 Jun 2026 05:39:00 GMT
+📅 Wed, 01 Jul 2026 15:51:00 GMT
 
 ---
 
@@ -224,22 +226,13 @@ draft: false
 ---
 
 ### VentureBeat
-![DeepSeek开源DSpark ，一个将LLM推理加速高达85%的新框架](https://images.ctfassets.net/jdtwqhzvc2n1/1LKLzOBxewK4b4E04bGEIY/be7d3b2bd4874c5b8a3001b8498b5e02/ChatGPT_Image_Jun_29__2026__04_35_22_PM.png?w=300&q=30)
+![借助Square的全新低费用无设置集成功能，餐厅现在可以直接接受ChatGPT和Claude的订单](https://images.ctfassets.net/jdtwqhzvc2n1/1kqTMwCRkXa8HuNrzAJwuY/01461a24de4d008b37f601055ced6d8c/H5PkE8d1OK1edwma1Hi9u_b1c5cd6d0b8b4b40a35c257cc6a4a709.png?w=300&q=30)
 
-**[DeepSeek开源DSpark ，一个将LLM推理加速高达85%的新框架](https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85)**
+**[借助Square的全新低费用无设置集成功能，餐厅现在可以直接接受ChatGPT和Claude的订单](https://venturebeat.com/technology/restaurants-can-now-accept-orders-placed-directly-from-chatgpt-and-claude-thanks-to-squares-new-low-fee-no-setup-integration)**
 
-政府限制**Anthropic**和**OpenAI**T新型号的行动可通过**DeepSeek**的公共GitHub和Hugging Face页面获取
+Square正在**推出**新的Chat**GPT**应用程序和**Claude**插件“人工智能驱动的电子商务生态系统与Chat**GPT**和**Claude**的整合只是Square更广泛的代理商务战略的第一步
 
-📅 Mon, 29 Jun 2026 20:36:15 GMT
-
----
-
-### Wired Technology
-**[元承包商伪装成青少年，提示竞争对手关于自杀、性和毒品的聊天机器人](https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/)**
-
-数百名为**Meta**项目工作的承包商假装自己是孩子，以了解**Gemini**和Chat**GPT**等其他聊天机器人如何应对高风险主题WIRED发现
-
-📅 Mon, 29 Jun 2026 21:49:26 +0000
+📅 Wed, 01 Jul 2026 14:41:22 GMT
 
 ---
 
@@ -254,62 +247,34 @@ draft: false
 
 ---
 
-### The Verge
-![Anthropic长篇旁白的寓言5即将回归](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### MIT Tech Review
+**[下载： Anthropic推出Claude Science和加利福尼亚州的碳肥料数学](https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/)**
 
-**[Anthropic长篇旁白的寓言5即将回归](https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back)**
+**Claude** Science是**Anthropic**的最新旗舰产品在制药高管活动上**Anthropic**宣布**Claude** Science
 
-在与特朗普政府谈判数周后， **Anthropic**终于能够将**Claude** Fable 5重新**上线**Anthropic ：我们收到通知，商务部已解除对**Claude** Fable 5和Mythos 5的出口管制
-
-📅 2026-07-01T00:03:55.000Z
+📅 Wed, 01 Jul 2026 12:10:00 +0000
 
 ---
 
-### VentureBeat
-![谷歌推出Nano Banana 2 Lite ，又名Gemini 3.1 Flash-Lite ，用于低成本、4秒快速的企业图像生成](https://images.ctfassets.net/jdtwqhzvc2n1/1SspsnZP2DbcuyWnSv0NZE/b152191ee0294e13bfca282555bf3300/Gemini_Generated_Image_dcilhudcilhudcil.png?w=300&q=30)
+### Wired Technology
+**[克劳德帮助黑客找到了发行几乎所有美国音乐节门票的方法](https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/)**
 
-**[谷歌推出Nano Banana 2 Lite ，又名Gemini 3.1 Flash-Lite ，用于低成本、4秒快速的企业图像生成](https://venturebeat.com/technology/google-unveils-nano-banana-2-lite-aka-gemini-3-1-flash-lite-for-low-cost-4-second-fast-enterprise-image-generations)**
+一位研究人员发现，使用**Anthropic**的**Claude** Opus 47 ，他可以闯入从Lollapalooza到Bonnaroo的每个节日使用的前门网站，并免费发放他选择的任何门票
 
-企业开发人员可通过**Google** AI St**Udio**、**Gemini** API和**Gemini** Enterprise Agent Platform (GEAP)立即使用此版本与**Gemini** Omni Flash （一种多模式对话**视频生成**和编辑模型）的公开预览版一起**发布**
+📅 Wed, 01 Jul 2026 10:00:00 +0000
 
-📅 Tue, 30 Jun 2026 16:06:00 GMT
+---
+
+### ZDNet AI
+**[我让双子座和克劳德写我的电子邮件回复-但只有一个听起来像我](https://www.zdnet.com/article/gemini-vs-claude-write-email-replies-which-sound-human/)**
+
+双子座和克劳德有自己的强项，但为了帮助撰写电子邮件，只有一个明确的赢家
+
+📅 Wed, 01 Jul 2026 16:37:00 GMT
 
 ---
 
 ## 📦 GitHub热门
-
-### GitHub Active (AI/ML)
-![pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://avatars.githubusercontent.com/u/21003710?v=4)
-
-**[pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://github.com/pytorch/pytorch)**
-
-⭐ 101,119星· 28181分叉· Python ·具有强大GPU加速的Python中的张量和动态神经网络
-
-📅 2026-07-01T00:07:04Z
-
----
-
-### GitHub Active (Python)
-![endoflife.date ：信息丰富的网站，包含所有内容的EoL日期](https://avatars.githubusercontent.com/u/62706925?v=4)
-
-**[endoflife.date ：信息丰富的网站，包含所有内容的EoL日期](https://github.com/endoflife-date/endoflife.date)**
-
-⭐ 3,318星级· 1246叉子·红宝石·信息丰富的网站，包含所有EoL日期
-
-📅 2026-07-01T00:07:04Z
-
----
-
-### GitHub Active (Python)
-![RedXFreeSteamInstaller ：它允许您安全、免费地将所有免费和付费游戏和DLC自动添加到您的Steam帐户。-蒸汽hesabınıza tüm ücretsiz ve ücretli oyunları ve DLC 'leri güvenli ve ücretsiz bir şekilde otomatik olarak eklemenizi sağlar。](https://avatars.githubusercontent.com/u/96830819?v=4)
-
-**[RedXFreeSteamInstaller ：它允许您安全、免费地将所有免费和付费游戏和DLC自动添加到您的Steam帐户。-蒸汽hesabınıza tüm ücretsiz ve ücretli oyunları ve DLC 'leri güvenli ve ücretsiz bir şekilde otomatik olarak eklemenizi sağlar。](https://github.com/Scriptez1/RedXFreeSteamInstaller)**
-
-⭐ 1,355星· 17叉· PowerShell ·它允许您自动将所有免费和付费游戏和DLC安全地免费添加到您的Steam帐户- Steam hesabınıza tüm ücretsiz ve ücretli oyunları ve DLC 'leri güvenli ve ücretsiz bir şekilde otomatik olarak eklemenizi sağlar
-
-📅 2026-07-01T00:07:12Z
-
----
 
 ### GitHub New (New AI)
 ![🆕 manuscript-phoneme-decipher:伏尼契手稿解码： Elu-Sinhala音标和词汇工具包2026](https://avatars.githubusercontent.com/u/190825283?v=4)
@@ -322,43 +287,58 @@ draft: false
 
 ---
 
+### GitHub New (New AI)
+![🆕 ai-image-clean-eraser ： AI-Powered Text Remover 2026 ：具有高清质量的自动检测和手动精度](https://avatars.githubusercontent.com/u/218744286?v=4)
+
+**[🆕 ai-image-clean-eraser ： AI-Powered Text Remover 2026 ：具有高清质量的自动检测和手动精度](https://github.com/Sujal-142/ai-image-clean-eraser)**
+
+⭐ 152 star (新项目) · HTML · AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality
+
+📅 2026-06-28T20:46:31Z
+
+---
+
+### GitHub New (New AI)
+![🆕 magic-eraser-studio ： AI Object Remover 2026 –消除干扰并保持高清质量](https://avatars.githubusercontent.com/u/241602294?v=4)
+
+**[🆕 magic-eraser-studio ： AI Object Remover 2026 –消除干扰并保持高清质量](https://github.com/onlyoneshakibul/magic-eraser-studio)**
+
+⭐ 152 star (新项目) · HTML · AI Object Remover 2026 – Erase Distractions & Keep HD Quality
+
+📅 2026-06-28T20:45:56Z
+
+---
+
+### GitHub New (New AI)
+![范🆕 式-生存竞技场： 2026年6大人工智能范式为生存而战](https://avatars.githubusercontent.com/u/255462165?v=4)
+
+**[范🆕 式-生存竞技场： 2026年6大人工智能范式为生存而战](https://github.com/aminekago-web/Paradigm-Survival-Arena)**
+
+⭐ 152 star (新项目) · HTML · Top 6 AI Paradigms Fighting for Survival in 2026
+
+📅 2026-06-28T20:35:57Z
+
+---
+
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-![你们大多数人如何看待2030年的人工智能世界和景观？](https://preview.redd.it/6b7or174vhah1.png?width=140&amp;height=93&amp;auto=webp&amp;s=6e1fb51c350d7e62b0efce050535019e7d9c221d)
+![Claude Code灾难：在中文提示时递归删除整个项目（完整视频+日志）](https://external-preview.redd.it/bTdidWxseGE3bmFoMQoRgpn9HsZXahhNisqxdYt_OnyG7-ArGY18Ysbp6f_Q.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=055400ac8a5878ddb16842c7b743e037873a3259)
 
-**[你们大多数人如何看待2030年的人工智能世界和景观？](https://www.reddit.com/r/artificial/comments/1uk3fr8/how_do_most_of_you_view_the_ai_world_landscape_in/)**
+**[Claude Code灾难：在中文提示时递归删除整个项目（完整视频+日志）](https://www.reddit.com/r/artificial/comments/1ukq4br/claude_code_catastrophe_entire_project/)**
 
-然后是chat**GPT** ，然后是**DeepSeek** ，现在是**Claude** fable 5 ，什么是新的语言模式，对于**Midjourney** ， chat**GPT** ， **Midjourney** ， **Gemini** ，现在是chat**GPT** image 2 ，什么是新的图像模型
+从r/**Claude**交叉**发布**以获得更多可见性保存的终端成绩单后来显示**Claude**从失败的根删除尝试转移到删除项目根内的子项
 
-📅 2026-06-30T22:16:47.000Z
+📅 2026-07-01T16:13:36.000Z
 
 ---
 
 ### Reddit: r/artificial
-**[在过去一年中，您的人工智能工作流程发生了哪些变化？](https://www.reddit.com/r/artificial/comments/1uk1z77/how_has_your_ai_workflow_changed_over_the_past/)**
+**[为什么大型LLM提供商实际上隐藏了提示缓存？](https://www.reddit.com/r/artificial/comments/1ukpj5f/why_does_it_feel_like_big_llm_providers_are/)**
 
-我有兴趣听取使用过多个LLM （ Chat**GPT**、**Gemini**、**Claude**、Grok、**DeepSeek**等）的人的意见您最信任哪些模型用于推理、编码、写作、研究或头脑风暴
+对于**OpenAI**以外的其他提供商来说，他们在这里确实有很好的解释器- https://developers**OpenAI**
 
-📅 2026-06-30T21:19:15.000Z
-
----
-
-### Hacker News AI
-**[Anthropic推出人工智能药物发现计划](https://www.google.com/url?q=https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html)**
-
-com/2026/06/30/**Anthropic**-**launch**es-ai-drug-discovery-program-**Claude**-sciencehtml评论网址： https://**new**s
-
-📅 Tue, 30 Jun 2026 23:01:43 +0000
-
----
-
-### Hacker News
-**[克劳德十四行诗5](https://www.anthropic.com/news/claude-sonnet-5)**
-
-文章网址： https://wwwcom/**new**s/**Claude**-sonnet-5评论网址： https://**new**s
-
-📅 Tue, 30 Jun 2026 17:59:52 +0000
+📅 2026-07-01T15:52:29.000Z
 
 ---
 
@@ -367,7 +347,16 @@ com/2026/06/30/**Anthropic**-**launch**es-ai-drug-discovery-program-**Claude**-s
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-07-01T00:07:03.798Z
+📅 2026-07-01T17:15:33.861Z
+
+---
+
+### X: DeepSeek
+**[标题： X上的DeepSeek （ @ deepseek_ai ）](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+
+标题： X上的**DeepSeek** （ @ **DeepSeek**_ai ）
+
+📅 2026-07-01T17:15:53.078Z
 
 ---
 
@@ -376,25 +365,36 @@ com/2026/06/30/**Anthropic**-**launch**es-ai-drug-discovery-program-**Claude**-s
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-07-01T00:07:08.531Z
+📅 2026-07-01T17:15:53.078Z
 
 ---
 
 ### Hacker News
-**[TabFM ：表格数据的零镜头基础模型](https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/)**
+**[Meta失去了驳回美国各州声称FB ， Instagram成瘾儿童的竞标](https://www.reuters.com/legal/government/meta-loses-bid-dismiss-us-states-claims-that-facebook-instagram-addict-children-2026-06-30/)**
 
-文章网址： https://research**Google**/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/评论网址： https://**new**s
+文章网址： https://wwwcom/legal/government/**Meta**-loses-bid-dismiss-us-states-claims-that-facebook-instagram-addict-children-2026-06-30/评论网址： https://**new**s
 
-📅 Tue, 30 Jun 2026 22:08:38 +0000
+📅 Wed, 01 Jul 2026 15:40:56 +0000
 
 ---
 
-### Hacker News
-**[从脑电波到文字：无需手术即可沟通的新途径](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1)**
+### Reddit: r/artificial
+![人工智能编码代理在说“完成”之前应该留下哪些证据？](https://preview.redd.it/2rrt5msiomah1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e8108e91fcbd48f0a55ac5ae013ccabeb38cc0a9)
 
-文章网址： https://aicom/blog/brain2qwerty-brain-ai-human-communication/
+**[人工智能编码代理在说“完成”之前应该留下哪些证据？](https://www.reddit.com/r/artificial/comments/1ukn9k1/what_evidence_should_ai_coding_agents_leave/)**
 
-📅 Tue, 30 Jun 2026 21:29:13 +0000
+我是Superloopy的制造商， Superloopy是麻省理工学院授权的小型Codex和**Claude** Codeso工作流程层，陈旧或捏造的“通过”声明不应该到达最终报告
+
+📅 2026-07-01T14:28:40.000Z
+
+---
+
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Title: 520: Web服务器返回未知错误
+
+📅 2026-07-01T17:15:33.861Z
 
 ---
 
