@@ -1,12 +1,12 @@
 ---
 title: "2026年7月2日 - TZ日报"
-date: 2026-07-02T00:08:41.633Z
+date: 2026-07-02T16:52:37.352Z
 draft: false
 ---
 
 # 2026年7月2日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/7/2 00:08:41
+> 📊 今日汇总 38 条 · 🕐 2026/7/2 16:52:37
 
 ---
 
@@ -23,11 +23,11 @@ draft: false
 ## ✨ 产品更新
 
 ### TechCrunch AI Products
-**[像SpaceX一样， Meta希望将多余的人工智能计算转化为现金](https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/)**
+**[微软以25亿美元的承诺推出自己的人工智能部署公司](https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/)**
 
-**Meta**正在制定云基础设施业务计划，出售人工智能计算能力和模型的访问权限此举将使其与Amazon Web Services、**Google** Cloud和Microsoft Azure等大型云提供商竞争
+微软通过其新的人工智能部署组跟随亚马逊、**OpenAI**和**Anthropic**。
 
-📅 Wed, 01 Jul 2026 13:43:07 +0000
+📅 Thu, 02 Jul 2026 13:53:00 +0000
 
 ---
 
@@ -41,20 +41,20 @@ draft: false
 ---
 
 ### TechCrunch AI Products
+**[印度科技巨头自资3000万$打赌打造微软Office人工智能替代品](https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/)**
+
+Neo是Bhavin Turakhia的第五次创业，也是他最近一次涉及企业软件的创业。这次他将通过人工智能来对抗Microsoft Office和**Google** Apps
+
+📅 Thu, 02 Jul 2026 05:30:00 +0000
+
+---
+
+### TechCrunch AI Products
 **[Google的代理助理Gemini Spark现已在Mac上推出](https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/)**
 
 谷歌全天候代理助手**Gemini** Spark ，以及其他改进，如实时跟踪和支持更多应用程序
 
 📅 Wed, 01 Jul 2026 14:20:19 +0000
-
----
-
-### AI News
-**[Anthropic部署Claude Sonnet 5 ，恢复寓言和神话](https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/)**
-
-Anthropic**推出**了**Claude** Sonnet 5 ，并在联邦出口管制审查后恢复了其Fable和Mythos前沿模型的访问权限政府官员颁布了[…] **Anthropic**部署**Claude** Sonnet 5后，恢复的Fable和Mythos**首次**出现在人工智能新闻
-
-📅 Wed, 01 Jul 2026 08:47:12 +0000
 
 ---
 
@@ -64,15 +64,6 @@ Anthropic**推出**了**Claude** Sonnet 5 ，并在联邦出口管制审查后�
 **OpenAI**工程师使用大规模内核转储分析来调试罕见的基础设施崩溃，同时发现硬件故障和长期存在的软件错误
 
 📅 Tue, 30 Jun 2026 00:00:00 GMT
-
----
-
-### OpenAI Blog
-**[映射欧洲的人工智能劳动力机会](https://openai.com/index/mapping-ai-jobs-transition-eu)**
-
-一份新的**OpenAI**报告描绘了人工智能如何重塑整个欧盟的工作，突出了哪些职业可能面临自动化、增长或工作流程变化
-
-📅 Mon, 29 Jun 2026 07:00:00 GMT
 
 ---
 
@@ -109,14 +100,21 @@ Anthropic**推出**了**Claude** Sonnet 5 ，并在联邦出口管制审查后�
 
 ---
 
-### Google AI Blog
-![向人工智能专家提问：全栈到底是什么？](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp)
+### DeepMind Blog
+**[使用Nano Banana 2 Lite和Gemini Omni Flash开始构建](https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/)**
 
-**[向人工智能专家提问：全栈到底是什么？](https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/)**
+使用Nano Banana 2 Lite和**Gemini** Omni Flash开始构建
 
-一位谷歌专家解释了采用全栈方法处理人工智能意味着什么，以及为什么它长期以来一直是我们人工智能工作的基础
+📅 Tue, 30 Jun 2026 16:02:40 +0000
 
-📅 Mon, 29 Jun 2026 16:00:00 +0000
+---
+
+### TechCrunch AI Products
+**[OpenAI提议将其5%的股权捐赠给美国主权财富基金](https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/)**
+
+据报道， **OpenAI**首席执行官萨姆·奥尔特曼（ Sam Altman ）提议将公司5%的股权捐赠给一个主权财富基金，重新启动了关于让公众分享人工智能繁荣带来的财务收益的讨论
+
+📅 Thu, 02 Jul 2026 15:20:51 +0000
 
 ---
 
@@ -140,57 +138,57 @@ Anthropic**推出**了**Claude** Sonnet 5 ，并在联邦出口管制审查后�
 
 ---
 
-### ArXiv AI (cs.AI)
-**[什么时候学会停止会有帮助？推理模型中早期退出的成本意识研究](https://arxiv.org/abs/2606.30852)**
-
-30852v1公告类型：新摘要：推理模型跨实例花费不同数量的有用计算跨18个任务模型设置，涵盖GSM8K、MATH-500、MMLU-Pro、AIME-90、GPQA、Qwen3和**DeepSeek**-R1蒸馏，答案取决于任务
-
-📅 Wed, 01 Jul 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[为什么要解决两次？高效转移机器学习工程技能的分层积累](https://arxiv.org/abs/2606.30911)**
-
-30911v1公告类型：新摘要：机器学习工程代理浪费计算重新发现已知技术，因为每场比赛都是一个冷起点3 ％使用**Claude** Sonnet 4
-
-📅 Wed, 01 Jul 2026 00:00:00 -0400
-
----
-
 ### ArXiv Machine Learning (cs.LG)
-**[心脏代谢风险的加速计衍生数字生物标志物：具有不确定性定量的人群代表性表格基准](https://arxiv.org/abs/2606.30702)**
+**[表示作为机制可解释性的瓶颈：表现单元协议](https://arxiv.org/abs/2607.00089)**
 
-30702v1公告类型：新摘要：结构化表格数据主导临床医学我们介绍NHANES加速测量心脏代谢基准
+00089v1公告类型：新摘要：机械可解释性产生了丰富的组件级分析库，这些分析表征了哪些神经网络组件编码以及它们如何与语言交互（ **GPT**-2 ）
 
-📅 Wed, 01 Jul 2026 00:00:00 -0400
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[从搜索到综合：将LLM培训为零拍摄工作流生成器](https://arxiv.org/abs/2606.30704)**
-
-30704v1公告类型：新摘要：大型语言模型（ LLM ）在广泛的任务中表现出色**Meta**Flow列车分两个阶段：对合成工作流数据进行有监督的微调
-
-📅 Wed, 01 Jul 2026 00:00:00 -0400
+📅 Thu, 02 Jul 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Natural Language Processing (cs.CL)
-**[当变形金刚学习“不可能”的语言时，他们学到了什么？](https://arxiv.org/abs/2606.30815)**
+**[在阿拉伯文化和社会语言知识的基准前沿法学硕士：与人类中小企业实地真相的交叉评估框架](https://arxiv.org/abs/2607.00139)**
 
-30815v1公告类型：新摘要：最近的工作表明，变换器语言模型显示出对人类语言的偏好，而不是人类认为不可接受的非自然（ “不可能” ）语言使用在扰动的“不可能”变体上训练的**GPT**-2样式模型
+00139v1公告类型：新摘要：人工专家评估的成本是专业化部署语言模型的主要瓶颈跨越1,307个法官评估： **GPT**-5
 
-📅 Wed, 01 Jul 2026 00:00:00 -0400
+📅 Thu, 02 Jul 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Robotics (cs.RO)
-**[基于储物柜的卡车无人机路线，综合考虑取货、派送和禁飞区](https://arxiv.org/abs/2606.30680)**
+### ArXiv AI (cs.AI)
+**[建设性对齐：管理人工智能互动中的偏好动态](https://arxiv.org/abs/2607.00001)**
 
-30680v1公告类型：新摘要：卡车无人机交付是一种新兴的最后一英里物流模式，将卡车的长途运输能力与无人机的灵活服务能力相结合在不同规模的实例上进行的实验表明，在大多数情况下，所提出的方法优于元启发式和神经启发式基线，同时保持异常短的计算时间
+00001v1公告类型：新摘要：大多数人工智能对齐方法将人类偏好视为要推断和优化的固定目标，将模型偏好视为在与人工智能系统交互下演变的分层状态变量
 
-📅 Wed, 01 Jul 2026 00:00:00 -0400
+📅 Thu, 02 Jul 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[有限的道德：定义道德计算的空间](https://arxiv.org/abs/2607.00002)**
+
+00002v1公告类型：新摘要：传统上，道德认知被建模为对固定伦理理论的坚持--道义论框架产生了约束下的道德悔恨和道德进步的正式概念
+
+📅 Thu, 02 Jul 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[MMM数据模型--去中心化知识共享中知识互操作性的规范性规范](https://arxiv.org/abs/2607.00032)**
+
+00032v1公告类型：新摘要：许多信息系统是围绕文档构建的：针对印刷生产和线性读取优化的独立单元MMM将一小部分规范约束与自由文本标签的表达自由相结合
+
+📅 Thu, 02 Jul 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[确保故障安全：用于Open-Web数据收集的受限制、可验证的代理框架](https://arxiv.org/abs/2607.00035)**
+
+00035v1公告类型：新摘要： LLM和代理可以根据自然语言要求生成Web抓取器我们提出一个约束
+
+📅 Thu, 02 Jul 2026 00:00:00 -0400
 
 ---
 
@@ -207,12 +205,14 @@ Anthropic**推出**了**Claude** Sonnet 5 ，并在联邦出口管制审查后�
 
 ---
 
-### MIT Tech Review
-**[在世界秘密研发中心构建技术](https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/)**
+### VentureBeat
+![Z.ai推出ZCode ，在人工智能编码中挑战Cursor、Claude Code和GitHub Copilot](https://images.ctfassets.net/jdtwqhzvc2n1/2XcqOZt08SkY2BArbdXXU8/4b8912a5d1247db567241b62e9635e8b/Nuneybits_Vector_art_of_red_code_waves_over_Beijing_skyline_and_ecae69a0-2b9d-4481-a6c0-311a70f0c622.webp?w=300&q=30)
 
-**OpenAI**F硅谷以外的几个地方可以从所有这些公司获得研发中心
+**[Z.ai推出ZCode ，在人工智能编码中挑战Cursor、Claude Code和GitHub Copilot](https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding)**
 
-📅 Tue, 30 Jun 2026 10:23:30 +0000
+仅落后于**Anthropic**的**Claude** Fable 5它落后于**Anthropic**的**Claude** Opus 4
+
+📅 Thu, 02 Jul 2026 10:00:00 GMT
 
 ---
 
@@ -249,14 +249,23 @@ Square正在**推出**新的Chat**GPT**应用程序和**Claude**插件“人工�
 
 ---
 
-### VentureBeat
-![谷歌的Gemini Omni Flash触及API ，将企业视频制作转变为对话](https://images.ctfassets.net/jdtwqhzvc2n1/kLyxawwfV6DdvwExOeUaG/4a28ab530ddd0df708b2da07890419ff/Gemini_Generated_Image_dl8h1pdl8h1pdl8h.png?w=300&q=30)
+### MIT Tech Review
+**[下载：初创公司为人工智能的群体思维问题提供了解决方案](https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/)**
 
-**[谷歌的Gemini Omni Flash触及API ，将企业视频制作转变为对话](https://venturebeat.com/technology/googles-gemini-omni-flash-hits-the-api-turning-enterprise-video-production-into-a-conversation)**
+这是今天的The Download版本，我们的工作日时事通讯，提供技术领域每日发生的事情打开您选择的聊天机器人--**Claude**、Chat**GPT**、**Gemini**-并输入“给我一个介于1…之间的随机数”
 
-这个等式正是谷歌旨在用**Gemini** Omni Flash重写的，这是其新的“Omni”系列中的第一款车型
+📅 Thu, 02 Jul 2026 12:10:00 +0000
 
-📅 Tue, 30 Jun 2026 16:19:00 GMT
+---
+
+### The Verge
+![Digitas的Amy Lanzi表示，人工智能不会保存广告](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DCD_Lanzi_Digitas.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[Digitas的Amy Lanzi表示，人工智能不会保存广告](https://www.theverge.com/podcast/959792/digitas-ceo-amy-lanzi-cannes-ad-industry-marketing-ai-creators)**
+
+我回到这一点，因为我觉得人工智能的故事是新的编程故事我不知道2亿美元的播客发型是否会为**OpenAI**修复它
+
+📅 2026-07-02T14:00:00.000Z
 
 ---
 
@@ -269,16 +278,29 @@ Square正在**推出**新的Chat**GPT**应用程序和**Claude**插件“人工�
 
 ---
 
-### ZDNet AI
-**[我让双子座和克劳德写我的电子邮件回复-但只有一个听起来像我](https://www.zdnet.com/article/gemini-vs-claude-write-email-replies-which-sound-human/)**
+## 📦 GitHub热门
 
-双子座和克劳德有自己的强项，但为了帮助撰写电子邮件，只有一个明确的赢家
+### GitHub New (New AI)
+![🆕 nousheentabassum ：计算机科学学生|全栈开发人员|人工智能和机器学习爱好者|使用React、Node.js和Python构建可扩展的应用程序。](https://avatars.githubusercontent.com/u/220848705?v=4)
 
-📅 Wed, 01 Jul 2026 16:37:00 GMT
+**[🆕 nousheentabassum ：计算机科学学生|全栈开发人员|人工智能和机器学习爱好者|使用React、Node.js和Python构建可扩展的应用程序。](https://github.com/nousheentabassum/nousheentabassum)**
+
+⭐ 5 star (新项目) · N/A · Computer Science Student | Full-Stack Developer | AI & Machine Learning Enthusiast | Building scalable applications with Reactjs & Python
+
+📅 2026-07-02T12:45:51Z
 
 ---
 
-## 📦 GitHub热门
+### GitHub New (New AI)
+![🆕 AgriGenie-AI ：一个人工智能驱动的智能农业平台，可帮助农民提供作物推荐、天气洞察以及使用Streamlit和Google Gemini的智能人工智能助手。](https://avatars.githubusercontent.com/u/212880053?v=4)
+
+**[🆕 AgriGenie-AI ：一个人工智能驱动的智能农业平台，可帮助农民提供作物推荐、天气洞察以及使用Streamlit和Google Gemini的智能人工智能助手。](https://github.com/kesava09-gif/AgriGenie-AI)**
+
+⭐ 3 star (新项目) · Python · An AI-powered smart farming platform that helps farmers with crop recommendationsand an intelligent AI assistant using Streamlit and **Google** **Gemini**
+
+📅 2026-07-01T07:55:35Z
+
+---
 
 ### GitHub New (New AI)
 ![🆕 学生项目：由mancosa技术社区的学生运营的项目展示-通过拉取请求提交您自己的项目或改进他人的项目。](https://avatars.githubusercontent.com/u/297896800?v=4)
@@ -302,54 +324,14 @@ Square正在**推出**新的Chat**GPT**应用程序和**Claude**插件“人工�
 
 ---
 
-### GitHub New (New AI)
-![🆕 成绩单智能：使用LLM进行主题分类、情绪分析和跨职能业务洞察的人工智能成绩单智能平台。](https://avatars.githubusercontent.com/u/67046819?v=4)
-
-**[🆕 成绩单智能：使用LLM进行主题分类、情绪分析和跨职能业务洞察的人工智能成绩单智能平台。](https://github.com/A1SHWARYANAYAK/transcript-intelligence)**
-
-⭐ 2 star (新项目) · Jupyter Notebook · AI-powered transcript intelligence platform using LLMs for topic classificationand cross-functional business insights
-
-📅 2026-06-30T13:57:34Z
-
----
-
-### GitHub New (New AI)
-![金🆕 刚：适用于深度学习模型的不可破坏的高性能安全防护罩。为PyTorch和ONNX运行时提供JIT权重解密、进程隔离密钥存储（ DPAPI/mprotect ）和安全内存零擦除，以防止权重窃取和内存转储攻击。](https://avatars.githubusercontent.com/u/272036827?v=4)
-
-**[金🆕 刚：适用于深度学习模型的不可破坏的高性能安全防护罩。为PyTorch和ONNX运行时提供JIT权重解密、进程隔离密钥存储（ DPAPI/mprotect ）和安全内存零擦除，以防止权重窃取和内存转储攻击。](https://github.com/vakiraai/vajraa)**
-
-⭐ 2 star (新项目) · C++ · Indestructible, high-performance security shield for deep learning modelsProvides JIT weights decryption
-
-📅 2026-06-29T12:33:12Z
-
----
-
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[我开始认为小模特比大模特更聪明](https://www.reddit.com/r/artificial/comments/1ukxurf/im_starting_to_think_small_models_are_smarter/)**
+**[在人们已经订阅之后减少人工智能配额是否公平？](https://www.reddit.com/r/artificial/comments/1ulm89k/is_it_fair_to_reduce_ai_quotas_after_people_have/)**
 
-我从与**开源**模型的转换中学到了更多，而不是问**Claude**或**GPT**相同的问题，我开始认为它们可能会在创建自己的模型时误导你，而不是使用Chat**GPT**太多，但**Claude**似乎很糟糕，特别是在意识不确定性的微调方面
+当我第一次订阅GitHub Copilot Pro时，我记得有一个更慷慨的高级模型津贴切换到Cursor/**Claude**/Chat**GPT**
 
-📅 2026-07-01T20:57:15.000Z
-
----
-
-### Reddit: r/artificial
-**[您是否发现自己真正通过人工智能辅助来培养技能，或者您是否注意到您的基线能力随着时间的推移而变得越来越软，因为您首先接触到该工具？](https://www.reddit.com/r/artificial/comments/1ukwwtb/do_you_find_yourself_genuinely_building_skills/)**
-
-当我使用Chat**GPT**或**Claude**之类的东西来理解一个新概念时问题在于这是人工智能本身的问题，还是只是人性遇到一个新工具
-
-📅 2026-07-01T20:22:07.000Z
-
----
-
-### Reddit: r/artificial
-**[人工智能是否真的改变了你的购物方式？](https://www.reddit.com/r/artificial/comments/1ukvozz/has_ai_actually_changed_how_you_shop_or_not_really/)**
-
-现在每个人工智能工具都想帮助您购物（ Chat**GPT**、Perplexity、**Gemini**、Alexa购物）我一直在尝试它们，但仍然默认为普通的亚马逊
-
-📅 2026-07-01T19:36:54.000Z
+📅 2026-07-02T15:58:43.000Z
 
 ---
 
@@ -358,7 +340,7 @@ Square正在**推出**新的Chat**GPT**应用程序和**Claude**插件“人工�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-07-02T00:07:34.250Z
+📅 2026-07-02T16:50:54.951Z
 
 ---
 
@@ -367,36 +349,54 @@ Square正在**推出**新的Chat**GPT**应用程序和**Claude**插件“人工�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-07-02T00:07:40.141Z
-
----
-
-### Hacker News
-**[开放“零知识证明”技术，以促进年龄保障中的隐私](https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/)**
-
-文章网址： https://blog**Google**/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/评论网址： https://**new**s
-
-📅 Wed, 01 Jul 2026 22:27:47 +0000
+📅 2026-07-02T16:51:01.981Z
 
 ---
 
 ### Hacker News AI
-**[Meta Caps 2026年成本后内部AI代币支出接近数十亿美元](https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/)**
+**[在人工智能世界中映射人工智能风险的人为因素](https://news.ycombinator.com/item?id=48763273)**
 
-文章网址： https://mlqai/**new**s/**Meta**-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/评论网址： https://**new**s
+例如，在futureuk/blog/how-do-ai-models-persuade-exploring-the-levers-of-ai-enabled-persuasion-through-large-scale-experiments我的工作正在进行中： https://docs
 
-📅 Wed, 01 Jul 2026 23:58:48 +0000
+📅 Thu, 02 Jul 2026 15:41:51 +0000
 
 ---
 
 ### Reddit: r/artificial
-![嗯，有趣。](https://preview.redd.it/den4c2d4snah1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8a45b2c218b4229e9af9b87fc04e48ae082490ef)
+**[寻找离线AI](https://www.reddit.com/r/artificial/comments/1ulm68q/looking_for_an_offline_ai/)**
 
-**[嗯，有趣。](https://www.reddit.com/r/artificial/comments/1ukta4c/hmmmmm_interesting/)**
+我从一开始就一直在使用chat**GPT**和其他流行的AI代理，除了简单地输入和获取我需要的东西之外，我对这些代理还有很多了解，但问题是这些AI需要互联网所以我了解到了一种称为离线AI的东西，它不需要互联网，我很好奇我是否可以在我的计算机实习中使用它
 
-我好奇地问克劳德，我想它会说想活得最长寿，或者像亿万富翁，通常的东西
+📅 2026-07-02T15:56:40.000Z
 
-📅 2026-07-01T18:09:51.000Z
+---
+
+### Reddit: r/artificial
+![OpenAI提议给予美国政府5%的公司股份](https://external-preview.redd.it/r_huXkCmk15EluEB4xefQMVnS_f2SZ5t2RDUG5yIy5Q.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=61d6dcbec011bc2bf912ba113ed4c99515ea29bb)
+
+**[OpenAI提议给予美国政府5%的公司股份](https://www.reddit.com/r/artificial/comments/1ulkpxs/openai_proposes_giving_us_government_5_stake_in/)**
+
+**OpenAI**已考虑建立公私合作伙伴关系，以**OpenAI**目前8,520亿美元的估值计算， UT的股权价值将超过420亿美元
+
+📅 2026-07-02T15:02:16.000Z
+
+---
+
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Title: 520: Web服务器返回未知错误
+
+📅 2026-07-02T16:50:54.951Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误520 ：
+
+📅 2026-07-02T16:50:54.951Z
 
 ---
 
