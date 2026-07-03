@@ -1,12 +1,12 @@
 ---
 title: "2026年7月3日 - TZ日报"
-date: 2026-07-03T00:07:34.505Z
+date: 2026-07-03T16:27:57.055Z
 draft: false
 ---
 
 # 2026年7月3日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/7/3 00:07:34
+> 📊 今日汇总 38 条 · 🕐 2026/7/3 16:27:57
 
 ---
 
@@ -31,24 +31,6 @@ draft: false
 
 ---
 
-### AI News
-**[NVIDIA BioNeMo加速人类克劳德科学](https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/)**
-
-Anthropic**推出**了**Claude** Science的公测版，这是一款专为科研打造的人工智能工作台。该系统原生连接到[…]后NVIDIA BioNeMo加速**Anthropic** **Claude** Science**首次**出现在人工智能新闻
-
-📅 Thu, 02 Jul 2026 14:38:01 +0000
-
----
-
-### OpenAI Blog
-**[ChatGPT采用率如何扩展](https://openai.com/index/how-chatgpt-adoption-has-expanded)**
-
-新的**OpenAI** Signals数据显示了随着用户使用量的增加， Chat**GPT**的采用在全球范围内如何增长
-
-📅 Tue, 30 Jun 2026 09:00:00 GMT
-
----
-
 ### TechCrunch AI Products
 **[Anthropic正在与三星讨论新的定制芯片](https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/)**
 
@@ -64,15 +46,6 @@ Anthropic**推出**了**Claude** Science的公测版，这是一款专为科研�
 Neo是Bhavin Turakhia的第五次创业，也是他最近一次涉及企业软件的创业。这次他将通过人工智能来对抗Microsoft Office和**Google** Apps
 
 📅 Thu, 02 Jul 2026 05:30:00 +0000
-
----
-
-### AI News
-**[Anthropic部署Claude Sonnet 5 ，恢复寓言和神话](https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/)**
-
-Anthropic**推出**了**Claude** Sonnet 5 ，并在联邦出口管制审查后恢复了其Fable和Mythos前沿模型的访问权限政府官员颁布了[…] **Anthropic**部署**Claude** Sonnet 5后，恢复的Fable和Mythos**首次**出现在人工智能新闻
-
-📅 Wed, 01 Jul 2026 08:47:12 +0000
 
 ---
 
@@ -98,27 +71,70 @@ Anthropic**推出**了**Claude** Sonnet 5 ，并在联邦出口管制审查后�
 
 ---
 
-### Google AI Blog
-![开启英国下一个生产力时代：打造人工智能开拓者之国](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp)
+### DeepMind Blog
+**[Google DeepMind和A24宣布建立史无前例的研究合作伙伴关系](https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/)**
 
-**[开启英国下一个生产力时代：打造人工智能开拓者之国](https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/)**
+**Google** DeepMind和A24宣布建立史无前例的研究合作伙伴关系
 
-谷歌英国**发布**最新的《经济影响报告》，以及如何让更多人从人工智能技术中获益
-
-📅 Tue, 30 Jun 2026 06:00:00 +0000
+📅 Fri, 03 Jul 2026 14:25:43 +0000
 
 ---
 
-### DeepMind Blog
-**[使用Nano Banana 2 Lite和Gemini Omni Flash开始构建](https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/)**
+### TechCrunch AI Products
+**[马克·扎克伯格（ Mark Zuckerberg ）告诉员工，人工智能代理的进展没有他所希望的那么快](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)**
 
-使用Nano Banana 2 Lite和**Gemini** Omni Flash开始构建
+据报道，在一次内部会议上， **Meta**首席执行官表示，人工智能开发工作的进展没有预期的那么快
 
-📅 Tue, 30 Jun 2026 16:02:40 +0000
+📅 Thu, 02 Jul 2026 23:38:10 +0000
+
+---
+
+### TechCrunch AI Products
+**[Meta悄然推出Vibe编码游戏应用Pocket](https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/)**
+
+**Meta**悄然**推出**了Pocket ，这是一款实验性AI应用程序，允许用户使用文本提示生成和分享交互式迷你游戏
+
+📅 Thu, 02 Jul 2026 18:44:02 +0000
+
+---
+
+### TechCrunch AI Products
+**[OpenAI提议将其5%的股权捐赠给美国主权财富基金](https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/)**
+
+据报道， **OpenAI**首席执行官萨姆·奥尔特曼（ Sam Altman ）提议将公司5%的股权捐赠给一个主权财富基金，重新启动了关于让公众分享人工智能繁荣带来的财务收益的讨论
+
+📅 Thu, 02 Jul 2026 15:20:51 +0000
+
+---
+
+### TechCrunch AI Products
+**[是的，我们现在正在使用OpenClaw](https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/)**
+
+Ben Guez在[他的] DMs**Claude**代码中有“一堆潜在的国际妻子
+
+📅 Thu, 02 Jul 2026 12:00:00 +0000
 
 ---
 
 ## 🔬 前沿研究
+
+### ArXiv Natural Language Processing (cs.CL)
+**[提示帧扭曲基于计数的LLM错误检测评估：来自数字锚定的证据](https://arxiv.org/abs/2607.01240)**
+
+01240v1公告类型：新摘要：基于计数的F1被广泛用作LLM错误检测质量的代理研究发现，在这种压力测试协议下，高度符合指令的**GPT**/**Claude**系统中计数响应较大，而**Gemini**系列中的响应较小
+
+📅 Fri, 03 Jul 2026 00:00:00 -0400
+
+---
+
+### ArXiv Multiagent (cs.MA)
+**[采用与生态系统健康：开源多Agent框架的纵向分析](https://arxiv.org/abs/2607.02453)**
+
+02453v1公告类型：新摘要：自Chat**GPT**于2022年11月**推出**以来， Meta**GPT**和LangFlow的贡献者密度比低于5 ，即使它们具有高可见性
+
+📅 Fri, 03 Jul 2026 00:00:00 -0400
+
+---
 
 ### MIT Tech Research
 **[LLM陷入了群体思维的凹槽。这家初创公司正试图把他们赶出去。](https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/)**
@@ -126,6 +142,24 @@ Anthropic**推出**了**Claude** Sonnet 5 ，并在联邦出口管制审查后�
 打开您选择的聊天机器人-**Claude**、Chat**GPT**、**Gemini**-并输入“给我一个介于1和10之间的随机数”再次输入“另一个” ，您将得到8或9
 
 📅 Wed, 01 Jul 2026 14:35:16 +0000
+
+---
+
+### ArXiv AI (cs.AI)
+**[Wiola高效小语言模型架构](https://arxiv.org/abs/2607.01394)**
+
+不与任何现有模型家族（包括**GPT** ）共享任何结构谱系，并与**GPT**-2进行系统比较
+
+📅 Fri, 03 Jul 2026 00:00:00 -0400
+
+---
+
+### ArXiv Multiagent (cs.MA)
+**[AgentsCAD ：通过多Agent LLM推理和几何特征识别实现FDM零件制造的自动化设计](https://arxiv.org/abs/2607.02448)**
+
+02448v1公告类型：新摘要：使用熔融沉积建模（ FDM ）制造的零件通常需要对增材制造设计（ DFAM ）进行修改，以确保可打印性，然后再派遣克劳德Sonnet设计推理代理，建议重新定位
+
+📅 Fri, 03 Jul 2026 00:00:00 -0400
 
 ---
 
@@ -138,57 +172,21 @@ Anthropic**推出**了**Claude** Sonnet 5 ，并在联邦出口管制审查后�
 
 ---
 
+### ArXiv AI (cs.AI)
+**[Agent4cs ：大型分层代码库中代码汇总的多代理系统](https://arxiv.org/abs/2607.01425)**
+
+01425v1公告类型：新摘要：了解大型现有代码汇总解决方案通常依赖于单个语言模型或编码助手，如**Claude** Code
+
+📅 Fri, 03 Jul 2026 00:00:00 -0400
+
+---
+
 ### ArXiv Machine Learning (cs.LG)
-**[表示作为机制可解释性的瓶颈：表现单元协议](https://arxiv.org/abs/2607.00089)**
+**[IonSense-QKG ：用于锂离子电池数据集发现的量子就绪元数据框架](https://arxiv.org/abs/2607.01286)**
 
-00089v1公告类型：新摘要：机械可解释性产生了丰富的组件级分析库，这些分析表征了哪些神经网络组件编码以及它们如何与语言交互（ **GPT**-2 ）
+01286v1公告类型：新摘要：公共锂离子电池数据集越来越多地用于健康状态估计**发布**的产品包括元数据表、评分脚本、鲁棒性检查、链接检查实用程序和SQL样式的查询示例
 
-📅 Thu, 02 Jul 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[在阿拉伯文化和社会语言知识的基准前沿法学硕士：与人类中小企业实地真相的交叉评估框架](https://arxiv.org/abs/2607.00139)**
-
-00139v1公告类型：新摘要：人工专家评估的成本是专业化部署语言模型的主要瓶颈跨越1,307个法官评估： **GPT**-5
-
-📅 Thu, 02 Jul 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[建设性对齐：管理人工智能互动中的偏好动态](https://arxiv.org/abs/2607.00001)**
-
-00001v1公告类型：新摘要：大多数人工智能对齐方法将人类偏好视为要推断和优化的固定目标，将模型偏好视为在与人工智能系统交互下演变的分层状态变量
-
-📅 Thu, 02 Jul 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[有限的道德：定义道德计算的空间](https://arxiv.org/abs/2607.00002)**
-
-00002v1公告类型：新摘要：传统上，道德认知被建模为对固定伦理理论的坚持--道义论框架产生了约束下的道德悔恨和道德进步的正式概念
-
-📅 Thu, 02 Jul 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[MMM数据模型--去中心化知识共享中知识互操作性的规范性规范](https://arxiv.org/abs/2607.00032)**
-
-00032v1公告类型：新摘要：许多信息系统是围绕文档构建的：针对印刷生产和线性读取优化的独立单元MMM将一小部分规范约束与自由文本标签的表达自由相结合
-
-📅 Thu, 02 Jul 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[确保故障安全：用于Open-Web数据收集的受限制、可验证的代理框架](https://arxiv.org/abs/2607.00035)**
-
-00035v1公告类型：新摘要： LLM和代理可以根据自然语言要求生成Web抓取器我们提出一个约束
-
-📅 Thu, 02 Jul 2026 00:00:00 -0400
+📅 Fri, 03 Jul 2026 00:00:00 -0400
 
 ---
 
@@ -202,6 +200,17 @@ Anthropic**推出**了**Claude** Sonnet 5 ，并在联邦出口管制审查后�
 **Anthropic**正在恢复其迄今为止**最强**大的通用**发布**人工智能模型**Claude** Fable 5的全球访问权限。与此同时， **Anthropic**的国内最大竞争对手**OpenAI**仍在努力**发布**其最新型号，主要是因为
 
 📅 Wed, 01 Jul 2026 15:51:00 GMT
+
+---
+
+### VentureBeat
+![企业失去了克劳德寓言5几个星期。新数据显示，三分之二的人已经建立了对冲机制](https://images.ctfassets.net/jdtwqhzvc2n1/3a2sR1fmLQHZfmz2Vu7t5G/909bdb83e335d09d7e474257d6781d81/control-gap-lead-image.png?w=300&q=30)
+
+**[企业失去了克劳德寓言5几个星期。新数据显示，三分之二的人已经建立了对冲机制](https://venturebeat.com/orchestration/enterprises-lost-claude-fable-5-for-a-few-weeks-new-data-shows-two-thirds-had-already-built-their-hedge)**
+
+过去几周围绕**Anthropic**的**Claude** Fable 5模型的争议表明了为什么这种姿势已经成为主流**OpenAI**同时预览了其尖端的**GPT**-5
+
+📅 Fri, 03 Jul 2026 00:33:00 GMT
 
 ---
 
@@ -247,17 +256,6 @@ Square正在**推出**新的Chat**GPT**应用程序和**Claude**插件“人工�
 
 ---
 
-### The Verge
-![Digitas的Amy Lanzi表示，人工智能不会保存广告](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DCD_Lanzi_Digitas.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[Digitas的Amy Lanzi表示，人工智能不会保存广告](https://www.theverge.com/podcast/959792/digitas-ceo-amy-lanzi-cannes-ad-industry-marketing-ai-creators)**
-
-我回到这一点，因为我觉得人工智能的故事是新的编程故事我不知道2亿美元的播客发型是否会为**OpenAI**修复它
-
-📅 2026-07-02T14:00:00.000Z
-
----
-
 ### MIT Tech Review
 **[下载： Anthropic推出Claude Science和加利福尼亚州的碳肥料数学](https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/)**
 
@@ -267,89 +265,73 @@ Square正在**推出**新的Chat**GPT**应用程序和**Claude**插件“人工�
 
 ---
 
-### Wired Technology
-**[Cursor能否继续作为SpaceX内部OpenAI和Anthropic模型的平台？](https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/)**
+### The Verge
+![Anthropic希望开发自己的药物](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-Cursor希望在被SpaceX收购后继续提供第三方人工智能模型，测试前沿人工智能实验室之间的关系
+**[Anthropic希望开发自己的药物](https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development)**
 
-📅 Thu, 02 Jul 2026 18:01:20 +0000
+**Anthropic**宣布**推出**Claude Science一个新的“科学家的人工智能工作台” ，将分散的工具和数据集整合到一个环境中
+
+📅 2026-07-03T13:56:52.000Z
 
 ---
 
 ## 📦 GitHub热门
+
+### GitHub Active (Python)
+![core:: house_with_garden:开源家庭自动化，将本地控制和隐私放在首位。](https://avatars.githubusercontent.com/u/13844975?v=4)
+
+**[core:: house_with_garden:开源家庭自动化，将本地控制和隐私放在首位。](https://github.com/home-assistant/core)**
+
+⭐ 88167星· 37814叉·蟒蛇· ： house_with_garden ：**开源**家庭自动化，将本地控制和隐私放在首位
+
+📅 2026-07-03T16:26:51Z
+
+---
+
+### GitHub New (New AI)
+![🆕 AURA ：自主理解和修复架构](https://avatars.githubusercontent.com/u/32529331?v=4)
+
+**[🆕 AURA ：自主理解和修复架构](https://github.com/syswe/AURA)**
+
+⭐ 9 star (新项目) · Python · Autonomous Understanding & Remediation Architecture
+
+📅 2026-07-03T08:34:47Z
+
+---
 
 ### GitHub New (New AI)
 ![🆕 nousheentabassum ：计算机科学学生|全栈开发人员|人工智能和机器学习爱好者|使用React、Node.js和Python构建可扩展的应用程序。](https://avatars.githubusercontent.com/u/220848705?v=4)
 
 **[🆕 nousheentabassum ：计算机科学学生|全栈开发人员|人工智能和机器学习爱好者|使用React、Node.js和Python构建可扩展的应用程序。](https://github.com/nousheentabassum/nousheentabassum)**
 
-⭐ 5 star (新项目) · N/A · Computer Science Student | Full-Stack Developer | AI & Machine Learning Enthusiast | Building scalable applications with Reactjs & Python
+⭐ 7 star (新项目) · N/A · Computer Science Student | Full-Stack Developer | AI & Machine Learning Enthusiast | Building scalable applications with Reactjs & Python
 
 📅 2026-07-02T12:45:51Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 AgriGenie-AI ：一个人工智能驱动的智能农业平台，可帮助农民提供作物推荐、天气洞察以及使用Streamlit和Google Gemini的智能人工智能助手。](https://avatars.githubusercontent.com/u/212880053?v=4)
+![🆕 rIKA ：存在于您的机器上的人工存在。永久。语音原生，看到您的屏幕，记住一切，控制您的操作系统。最小的云。没有限制。](https://avatars.githubusercontent.com/u/95558398?v=4)
 
-**[🆕 AgriGenie-AI ：一个人工智能驱动的智能农业平台，可帮助农民提供作物推荐、天气洞察以及使用Streamlit和Google Gemini的智能人工智能助手。](https://github.com/kesava09-gif/AgriGenie-AI)**
+**[🆕 rIKA ：存在于您的机器上的人工存在。永久。语音原生，看到您的屏幕，记住一切，控制您的操作系统。最小的云。没有限制。](https://github.com/nssriraam/rika)**
 
-⭐ 3 star (新项目) · Python · An AI-powered smart farming platform that helps farmers with crop recommendationsand an intelligent AI assistant using Streamlit and **Google** **Gemini**
+⭐ 4 star (新项目) · N/A · An artificial presence that lives on your machineVoice-native, sees your screen, remembers everything, controls your OS
 
-📅 2026-07-01T07:55:35Z
-
----
-
-### GitHub New (New AI)
-![🆕 machine-learning-berkeley-reading-list ：伯克利机器学习存档的Markdown保存阅读列表](https://avatars.githubusercontent.com/u/33645481?v=4)
-
-**[🆕 machine-learning-berkeley-reading-list ：伯克利机器学习存档的Markdown保存阅读列表](https://github.com/DicksonWu654/machine-learning-berkeley-reading-list)**
-
-⭐ 2 star (新项目) · N/A · Markdown preservation of the archived Machine Learning at Berkeley reading list
-
-📅 2026-07-01T04:59:24Z
-
----
-
-### GitHub New (New AI)
-![🆕 成绩单智能：使用LLM进行主题分类、情绪分析和跨职能业务洞察的人工智能成绩单智能平台。](https://avatars.githubusercontent.com/u/67046819?v=4)
-
-**[🆕 成绩单智能：使用LLM进行主题分类、情绪分析和跨职能业务洞察的人工智能成绩单智能平台。](https://github.com/A1SHWARYANAYAK/transcript-intelligence)**
-
-⭐ 2 star (新项目) · Jupyter Notebook · AI-powered transcript intelligence platform using LLMs for topic classificationand cross-functional business insights
-
-📅 2026-06-30T13:57:34Z
+📅 2026-07-02T18:37:14Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[我花了大约4.5个月的时间构建了一个免费的自托管AI网关：一个端点，支持237个提供商（ 90多个免费）、自动回退和令牌压缩管道（ MIT ）](https://www.reddit.com/r/artificial/comments/1ulotbw/i_spent_45_months_building_a_free_selfhosted_ai/)**
+![语音代理，解密： STT + TTS和4个演示代理，您可以在浏览器中与之交谈+使用RAG和工具构建您的代理](https://preview.redd.it/uxpya4nqb0bh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=efbc0e31c8649dbc666f8b80b16d5ef78a5beafc)
 
-5个月后（披露：我是维护者；根据自我广告规则，我将在第一条评论中保留链接，并使这篇文章具有实质性内容）有一个命令设置- *用于13个以上的编码工具（ **Claude** Code
+**[语音代理，解密： STT + TTS和4个演示代理，您可以在浏览器中与之交谈+使用RAG和工具构建您的代理](https://www.reddit.com/r/artificial/comments/1umd2rs/voice_agents_demystified_stttts_and_4_demo_agents/)**
 
-📅 2026-07-02T17:32:12.000Z
+在引擎盖下，这是一个简单的循环—您的麦克风被转录为文本（ **OpenAI** **GPT**-40-mini-transcribe ） ，该回复被回复（ **OpenAI** **GPT**-4o-mini-TTS ）
 
----
-
-### Reddit: r/artificial
-**[我一直向一个ai寻求建议，每次都同意我的意见](https://www.reddit.com/r/artificial/comments/1ulomdu/i_kept_asking_one_ai_for_advice_and_it_just/)**
-
-所以上周我整件事情都无法在两条路径之间做出决定，我不停地问chat**GPT**关于你们如何用一个模型处理yes-man的事情
-
-📅 2026-07-02T17:25:19.000Z
-
----
-
-### Reddit: r/artificial
-![独立基准测试显示Claude Fable 5在重新推出后大幅下降，以下是实际情况](https://preview.redd.it/56ptyxfjyvah1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f9b5b9f385e33e99c0c634397daf4d255e12115e)
-
-**[独立基准测试显示Claude Fable 5在重新推出后大幅下降，以下是实际情况](https://www.reddit.com/r/artificial/comments/1ulvegw/independent_benchmark_shows_big_drops_on_claude/)**
-
-与报告的越狱相关，该越狱使模型暴露了可利用的漏洞**Anthropic**添加了一个新的安全分类器，在99%以上的案例中捕获了报告的技术
-
-📅 2026-07-02T21:38:11.000Z
+📅 2026-07-03T12:25:18.000Z
 
 ---
 
@@ -358,7 +340,7 @@ Cursor希望在被SpaceX收购后继续提供第三方人工智能模型，测�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-07-03T00:06:15.213Z
+📅 2026-07-03T16:26:49.680Z
 
 ---
 
@@ -367,34 +349,54 @@ Cursor希望在被SpaceX收购后继续提供第三方人工智能模型，测�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-07-03T00:06:25.329Z
+📅 2026-07-03T16:26:56.316Z
 
 ---
 
 ### Reddit: r/artificial
-**[Seraph](https://www.reddit.com/r/artificial/comments/1ulwxlw/seraph/)**
+**[claude Fable 5可以在未经许可的情况下更改MacBook设置吗？](https://www.reddit.com/r/artificial/comments/1umh8ff/can_claude_fable_5_change_macbook_settings/)**
 
-这个想法很简单，但雄心勃勃：创建一个不只是等待指令的智能层模型提出了一些新的东西：从文件和数据库中提取元数据的能力
+因为我的Mac突然停止进入睡眠模式，所以寓言只是不停地运行我甚至试过摇篮曲
 
-📅 2026-07-02T22:39:05.000Z
-
----
-
-### Reddit: r/artificial
-**[我使用I-JEPA生成了SVG ，这是我的代码！](https://www.reddit.com/r/artificial/comments/1ulw51g/i_used_ijepa_to_generate_svgs_and_here_is_my_code/)**
-
-好吧，在此之前，我使用了FLUX或SD （在矢量样式上微调）等模型，然后使用了vtracer我在这里分享我的代码（说实话，我基本上使用**Claude** 5 Sonnet编写了大部分代码） ，我要求改进和想法
-
-📅 2026-07-02T22:06:56.000Z
+📅 2026-07-03T15:17:49.000Z
 
 ---
 
 ### Reddit: r/artificial
-**[我只需要另外5名参与者的帮助（匿名）](https://www.reddit.com/r/artificial/comments/1ulqu5a/i_need_just_5_more_participants_pls_help_anonymous/)**
+**[想和Claude一起制作和弦化街头应用](https://www.reddit.com/r/artificial/comments/1umfypg/want_a_make_chordify_st_app_with_claude/)**
 
-研究的第一页是信息表，请阅读Chat**GPT**或其他对话式人工智能工具）参与调查涉及完成一项匿名在线调查，大约需要10-15分钟
+一直致力于在McGill Billboard数据集上训练的基于LSTM的和弦识别模型Am I在正确的轨道上
 
-📅 2026-07-02T18:44:59.000Z
+📅 2026-07-03T14:27:55.000Z
+
+---
+
+### Reddit: r/artificial
+**[我获得了有史以来第一笔收入](https://www.reddit.com/r/artificial/comments/1ume6vt/made_my_first_ever_revenue/)**
+
+com/大约一周前**推出**了这个平台，供学生和新生自由工作最后在网站上收到了一些付费请求，有些人完成了这些请求，收入不仅仅是3美元，但对于我使用**GPT**和antigravity构建的项目，我现在称之为胜利（最终也购买了一个域名）任何关于下一步该怎么做的建议
+
+📅 2026-07-03T13:15:14.000Z
+
+---
+
+### Reddit: r/artificial
+![我创造了世界上第一个人工智能并开源了它](https://external-preview.redd.it/dTl1aGRxMjM5MGJoMbLboHQPXFM04hbUlTVFkvAjqyVVvCD1YSmjswwcPr_U.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ce2bd7bd9a0cf6e7b43b29ee10428058d973e46a)
+
+**[我创造了世界上第一个人工智能并开源了它](https://www.reddit.com/r/artificial/comments/1umcws4/i_created_the_worlds_first_ai_human_and_open/)**
+
+我很自豪地宣布， Emota使用了由/u/HenryofSAC提交的完全**开源**的堆栈（依赖关系、模型、代码） Github Repo [link] [comments]
+
+📅 2026-07-03T12:17:33.000Z
+
+---
+
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Title: 520: Web服务器返回未知错误
+
+📅 2026-07-03T16:26:49.680Z
 
 ---
 
