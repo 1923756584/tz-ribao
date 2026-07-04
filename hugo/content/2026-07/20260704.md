@@ -1,19 +1,19 @@
 ---
 title: "2026年7月4日 - TZ日报"
-date: 2026-07-04T00:06:23.788Z
+date: 2026-07-04T16:05:05.473Z
 draft: false
 ---
 
 # 2026年7月4日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/7/4 00:06:23
+> 📊 今日汇总 37 条 · 🕐 2026/7/4 16:05:05
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 8 条
+- **前沿研究**: 7 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -40,15 +40,6 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[印度科技巨头自资3000万$打赌打造微软Office人工智能替代品](https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/)**
-
-Neo是Bhavin Turakhia的第五次创业，也是他最近一次涉及企业软件的创业。这次他将通过人工智能来对抗Microsoft Office和**Google** Apps
-
-📅 Thu, 02 Jul 2026 05:30:00 +0000
-
----
-
 ### Google AI Blog
 ![我们在2026年6月宣布的最新人工智能新闻](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp)
 
@@ -60,23 +51,21 @@ Neo是Bhavin Turakhia的第五次创业，也是他最近一次涉及企业软�
 
 ---
 
-### Google AI Blog
-![纽约市的教育工作者和行业领袖聚集在谷歌的办公室，塑造教室人工智能的未来。](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp)
-
-**[纽约市的教育工作者和行业领袖聚集在谷歌的办公室，塑造教室人工智能的未来。](https://blog.google/products-and-platforms/products/education/nyc-ai-summit/)**
-
-谷歌、纽约就业首席执行官理事会和城市议会为150名教育和行业领袖举办了人工智能峰会
-
-📅 Wed, 01 Jul 2026 16:00:00 +0000
-
----
-
 ### DeepMind Blog
 **[Google DeepMind和A24宣布建立史无前例的研究合作伙伴关系](https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/)**
 
 **Google** DeepMind和A24宣布建立史无前例的研究合作伙伴关系
 
 📅 Fri, 03 Jul 2026 14:25:43 +0000
+
+---
+
+### TechCrunch AI Products
+**[什么是Mistral AI ？有关OpenAI竞争对手的所有信息](https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/)**
+
+它提供一些**开源**人工智能模型，自2023年创立以来已经筹集了大量资金
+
+📅 Sat, 04 Jul 2026 15:51:32 +0000
 
 ---
 
@@ -116,92 +105,81 @@ Ben Guez在[他的] DMs**Claude**代码中有“一堆潜在的国际妻子
 
 ---
 
-## 🔬 前沿研究
+### TechCrunch AI Products
+**[您今年唯一需要的人工智能术语表](https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)**
 
-### ArXiv Natural Language Processing (cs.CL)
-**[提示帧扭曲基于计数的LLM错误检测评估：来自数字锚定的证据](https://arxiv.org/abs/2607.01240)**
+人工智能的兴起带来了大量的新术语和俚语这里是一个术语表，其中包含您可能遇到的一些最**重要**的单词和短语的定义
 
-01240v1公告类型：新摘要：基于计数的F1被广泛用作LLM错误检测质量的代理研究发现，在这种压力测试协议下，高度符合指令的**GPT**/**Claude**系统中计数响应较大，而**Gemini**系列中的响应较小
-
-📅 Fri, 03 Jul 2026 00:00:00 -0400
+📅 Fri, 03 Jul 2026 21:20:00 +0000
 
 ---
 
-### ArXiv Multiagent (cs.MA)
-**[采用与生态系统健康：开源多Agent框架的纵向分析](https://arxiv.org/abs/2607.02453)**
+## 🔬 前沿研究
 
-02453v1公告类型：新摘要：自Chat**GPT**于2022年11月**推出**以来， Meta**GPT**和LangFlow的贡献者密度比低于5 ，即使它们具有高可见性
+### Science AI
+**[成为一棵更高的树并不会让你注定要干旱](https://www.science.org/content/article/being-taller-tree-doesn-t-doom-you-drought-after-all)**
 
-📅 Fri, 03 Jul 2026 00:00:00 -0400
+新的研究挑战了高树的水力学使它们更容易受到干燥条件的影响的想法
+
+📅 2026-07-02T05:30:00.000Z
+
+---
+
+### Science AI
+**[乌克兰主要研究中心在俄罗斯空袭中受损](https://www.science.org/content/article/major-ukraine-research-center-damaged-russian-strikes)**
+
+对百年历史的帕拉丁研究所的破坏标志着“乌克兰生物科学的灾难”
+
+📅 2026-07-02T05:10:00.000Z
+
+---
+
+### Science AI
+**[埃博拉病毒Bundibugyo首次治疗试验在刚果启动](https://www.science.org/content/article/first-ever-treatment-trial-ebola-bundibugyo-kicks-congo)**
+
+科学家将测试一种抗病毒药物和一种抗体鸡尾酒，旨在驯服蓬勃发展的疫情
+
+📅 2026-07-02T03:50:00.000Z
+
+---
+
+### Science AI
+**[一个重要的北极科学前哨发现自己陷入了地缘政治网络](https://www.science.org/content/article/key-arctic-science-outpost-finds-itself-tangled-geopolitical-web)**
+
+斯瓦尔巴群岛的变暖速度几乎比地球上任何地方都快，但安全问题正在加剧其冰川、峡湾和海底的出入
+
+📅 2026-07-02T02:00:00.000Z
+
+---
+
+### Science AI
+**[古老的大陆分裂如何促成南极冰盖的产生](https://www.science.org/content/article/how-ancient-continental-breakup-helped-spawn-antarctic-ice-sheet)**
+
+地幔波浪和构造拉伸俯仰的极地山脉进入深度冻结
+
+📅 2026-07-02T02:00:00.000Z
 
 ---
 
 ### MIT Tech Research
-**[LLM陷入了群体思维的凹槽。这家初创公司正试图把他们赶出去。](https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/)**
+**[实现卓越运营](https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/)**
 
-打开您选择的聊天机器人-**Claude**、Chat**GPT**、**Gemini**-并输入“给我一个介于1和10之间的随机数”再次输入“另一个” ，您将得到8或9
+精益六西格玛(Lean Six Sigma)和业务流程管理(BPM)等框架首先获得了关注，因为它们承诺在混乱中实现清晰度--一种为混乱局面带来秩序的结构化方式精益六西格玛(Lean Six Sigma)强调统计严谨性和质量控制； BPM创建了跨部门工作流程的端到端映射
 
-📅 Wed, 01 Jul 2026 14:35:16 +0000
-
----
-
-### ArXiv AI (cs.AI)
-**[Wiola高效小语言模型架构](https://arxiv.org/abs/2607.01394)**
-
-不与任何现有模型家族（包括**GPT** ）共享任何结构谱系，并与**GPT**-2进行系统比较
-
-📅 Fri, 03 Jul 2026 00:00:00 -0400
+📅 Thu, 02 Jul 2026 15:37:08 +0000
 
 ---
 
-### ArXiv Multiagent (cs.MA)
-**[AgentsCAD ：通过多Agent LLM推理和几何特征识别实现FDM零件制造的自动化设计](https://arxiv.org/abs/2607.02448)**
+### MIT Tech Research
+**[教授人工智能与涡轮机一起运行](https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/)**
 
-02448v1公告类型：新摘要：使用熔融沉积建模（ FDM ）制造的零件通常需要对增材制造设计（ DFAM ）进行修改，以确保可打印性，然后再派遣克劳德Sonnet设计推理代理，建议重新定位
+但其一些最**重要**的用例正在远离面向消费者的工具在物理基础设施、运营连续性和安全性至关**重要**的行业中，人工智能正在成为核心运营层
 
-📅 Fri, 03 Jul 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[Agent4cs ：大型分层代码库中代码汇总的多代理系统](https://arxiv.org/abs/2607.01425)**
-
-01425v1公告类型：新摘要：了解大型现有代码汇总解决方案通常依赖于单个语言模型或编码助手，如**Claude** Code
-
-📅 Fri, 03 Jul 2026 00:00:00 -0400
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[IonSense-QKG ：用于锂离子电池数据集发现的量子就绪元数据框架](https://arxiv.org/abs/2607.01286)**
-
-01286v1公告类型：新摘要：公共锂离子电池数据集越来越多地用于健康状态估计**发布**的产品包括元数据表、评分脚本、鲁棒性检查、链接检查实用程序和SQL样式的查询示例
-
-📅 Fri, 03 Jul 2026 00:00:00 -0400
-
----
-
-### ArXiv Computer Vision (cs.CV)
-**[登录Air以解锁：由点-体素交叉注意网络提供支持的虚拟和增强现实中的身份验证接口](https://arxiv.org/abs/2607.01435)**
-
-该模型在两个数据集上进行评估：公共DeepAirSig数据集（ 1个在沉浸式VR中使用**Meta** Quest 2收集的新数据集（来自22个用户的880个样本）
-
-📅 Fri, 03 Jul 2026 00:00:00 -0400
+📅 Thu, 02 Jul 2026 12:51:44 +0000
 
 ---
 
 ## 🌍 行业展望
-
-### VentureBeat
-![在美国解除出口管制令后， Anthropic将在全球范围内重新推出Claude Fable 5 —企业可以在哪里获得它？](https://images.ctfassets.net/jdtwqhzvc2n1/qVrMQLioP4dj7Ghhm3e7u/49e7bb13cdfa856e09d95e52598568e1/ChatGPT_Image_Jul_1__2026__11_08_21_AM.png?w=300&q=30)
-
-**[在美国解除出口管制令后， Anthropic将在全球范围内重新推出Claude Fable 5 —企业可以在哪里获得它？](https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it)**
-
-**Anthropic**正在恢复其迄今为止**最强**大的通用**发布**人工智能模型**Claude** Fable 5的全球访问权限。与此同时， **Anthropic**的国内最大竞争对手**OpenAI**仍在努力**发布**其最新型号，主要是因为
-
-📅 Wed, 01 Jul 2026 15:51:00 GMT
-
----
 
 ### VentureBeat
 ![企业失去了克劳德寓言5几个星期。新数据显示，三分之二的人已经建立了对冲机制](https://images.ctfassets.net/jdtwqhzvc2n1/3a2sR1fmLQHZfmz2Vu7t5G/909bdb83e335d09d7e474257d6781d81/control-gap-lead-image.png?w=300&q=30)
@@ -236,17 +214,6 @@ Ben Guez在[他的] DMs**Claude**代码中有“一堆潜在的国际妻子
 
 ---
 
-### VentureBeat
-![借助Square的全新低费用无设置集成功能，餐厅现在可以直接接受ChatGPT和Claude的订单](https://images.ctfassets.net/jdtwqhzvc2n1/1kqTMwCRkXa8HuNrzAJwuY/01461a24de4d008b37f601055ced6d8c/H5PkE8d1OK1edwma1Hi9u_b1c5cd6d0b8b4b40a35c257cc6a4a709.png?w=300&q=30)
-
-**[借助Square的全新低费用无设置集成功能，餐厅现在可以直接接受ChatGPT和Claude的订单](https://venturebeat.com/technology/restaurants-can-now-accept-orders-placed-directly-from-chatgpt-and-claude-thanks-to-squares-new-low-fee-no-setup-integration)**
-
-Square正在**推出**新的Chat**GPT**应用程序和**Claude**插件“人工智能驱动的电子商务生态系统与Chat**GPT**和**Claude**的整合只是Square更广泛的代理商务战略的第一步
-
-📅 Wed, 01 Jul 2026 14:41:22 GMT
-
----
-
 ### MIT Tech Review
 **[下载：初创公司为人工智能的群体思维问题提供了解决方案](https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/)**
 
@@ -256,34 +223,65 @@ Square正在**推出**新的Chat**GPT**应用程序和**Claude**插件“人工�
 
 ---
 
-### MIT Tech Review
-**[下载： Anthropic推出Claude Science和加利福尼亚州的碳肥料数学](https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/)**
+### The Verge
+![粉丝小说界正在与人工智能及其自身作战](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/AI_Hands_A_Bernis_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**Claude** Science是**Anthropic**的最新旗舰产品在制药高管活动上**Anthropic**宣布**Claude** Science
+**[粉丝小说界正在与人工智能及其自身作战](https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector)**
 
-📅 Wed, 01 Jul 2026 12:10:00 +0000
+对使用**Claude**、Chat**GPT**和其他人工智能工具的广泛厌恶长期以来一直是创意社区中的一件事，包括粉丝小说的世界读者和作家们已经传授了发现所谓人工智能生成作品的技巧
+
+📅 2026-07-04T12:00:00.000Z
 
 ---
 
-### The Verge
-![Anthropic希望开发自己的药物](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### Wired Technology
+**[谷歌DeepMind工会化谈判开局艰难](https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/)**
 
-**[Anthropic希望开发自己的药物](https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development)**
+在周三的谈判中，员工对他们认为高管不愿意有意义地参与工会化前景表示失望
 
-**Anthropic**宣布**推出**Claude Science一个新的“科学家的人工智能工作台” ，将分散的工具和数据集整合到一个环境中
+📅 Fri, 03 Jul 2026 16:30:00 +0000
 
-📅 2026-07-03T13:56:52.000Z
+---
+
+### ZDNet AI
+**[我找到了20多个7月4日的最佳手机优惠：在Galaxy、Pixel、iPhone等产品上大幅优惠](https://www.zdnet.com/article/july-4-phone-deals-2026/)**
+
+从三星、谷歌、苹果等公司购买旗舰智能手机， 7月4日大幅优惠。
+
+📅 Fri, 03 Jul 2026 15:31:05 GMT
+
+---
+
+### VentureBeat
+![Trunk Tools的堆栈通过抛弃通用模型将文档审查从60天减少到10天](https://images.ctfassets.net/jdtwqhzvc2n1/63UxY1M5WET2KFyliCQstB/014b102216bc5911b9c6ab0875400a31/Trunk_Tools.png?w=300&q=30)
+
+**[Trunk Tools的堆栈通过抛弃通用模型将文档审查从60天减少到10天](https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models)**
+
+他说： “**GPT**-4级模型可以理解法国法律合同，但会模糊从业人员需要引用的特定文章参考，”他说： “不要微调以使模型在域名方面更'聪明'
+
+📅 Sat, 04 Jul 2026 14:34:50 GMT
 
 ---
 
 ## 📦 GitHub热门
+
+### GitHub Active (Python)
+![textract ：从任何文档中提取文本。没有混乱。没有大惊小怪。](https://avatars.githubusercontent.com/u/255672?v=4)
+
+**[textract ：从任何文档中提取文本。没有混乱。没有大惊小怪。](https://github.com/deanmalmgren/textract)**
+
+⭐ 4,649星· 700分叉· HTML ·从任何文档中提取文本。没有混乱。没有大惊小怪。
+
+📅 2026-07-04T16:03:53Z
+
+---
 
 ### GitHub New (New AI)
 ![🆕 AURA ：自主理解和修复架构](https://avatars.githubusercontent.com/u/32529331?v=4)
 
 **[🆕 AURA ：自主理解和修复架构](https://github.com/syswe/AURA)**
 
-⭐ 9 star (新项目) · Python · Autonomous Understanding & Remediation Architecture
+⭐ 10 star (新项目) · Python · Autonomous Understanding & Remediation Architecture
 
 📅 2026-07-03T08:34:47Z
 
@@ -305,40 +303,49 @@ Square正在**推出**新的Chat**GPT**应用程序和**Claude**插件“人工�
 
 **[🆕 rIKA ：存在于您的机器上的人工存在。永久。语音原生，看到您的屏幕，记住一切，控制您的操作系统。最小的云。没有限制。](https://github.com/nssriraam/rika)**
 
-⭐ 5 star (新项目) · N/A · An artificial presence that lives on your machineVoice-native, sees your screen, remembers everything, controls your OS
+⭐ 6 star (新项目) · N/A · An artificial presence that lives on your machineVoice-native, sees your screen, remembers everything, controls your OS
 
 📅 2026-07-02T18:37:14Z
-
----
-
-### GitHub New (New AI)
-![🆕 AgriGenie-AI ：一个人工智能驱动的智能农业平台，可帮助农民提供作物推荐、天气洞察以及使用Streamlit和Google Gemini的智能人工智能助手。](https://avatars.githubusercontent.com/u/212880053?v=4)
-
-**[🆕 AgriGenie-AI ：一个人工智能驱动的智能农业平台，可帮助农民提供作物推荐、天气洞察以及使用Streamlit和Google Gemini的智能人工智能助手。](https://github.com/kesava09-gif/AgriGenie-AI)**
-
-⭐ 3 star (新项目) · Python · An AI-powered smart farming platform that helps farmers with crop recommendationsand an intelligent AI assistant using Streamlit and **Google** **Gemini**
-
-📅 2026-07-01T07:55:35Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[人性化枢纽- LLM现在是一种商品。](https://www.reddit.com/r/artificial/comments/1umtufc/anthropic_pivots_llms_are_a_commodity_now/)**
+**[本周AI ： GPT-5.6、Gemini 3.5 Flash、Claude Science和Qwen价格战—推理成本一次性在每个层级崩溃](https://www.reddit.com/r/artificial/comments/1un6v9c/this_week_in_ai_gpt56_gemini_35_flash_claude/)**
 
-**Anthropic**刚刚**推出**了**Claude** Science在公告前一天， **Anthropic**从**Google** DeepMind挖走了John Jumper
+模型**发布**： - OpenAI**推出**GPT-5Vertical/ENTERPRISE ： - Anthropic**推出**用于制药和实验室研究的**Claude** Science
 
-📅 2026-07-03T23:49:18.000Z
+📅 2026-07-04T11:39:19.000Z
 
 ---
 
-### X: OpenAI
-**[Title: X上的OpenAI (@ OpenAI)](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Hacker News
+**[工作区实例或使用者帐户之间的潜在会话/缓存泄漏](https://github.com/anthropics/claude-code/issues/74066)**
 
-Title: X上的**OpenAI** (@ **OpenAI**)
+文章网址： https://githubcom/**Anthropic**s/**Claude**-code/issues/74066评论网址： https://**new**s
 
-📅 2026-07-04T00:05:13.757Z
+📅 Sat, 04 Jul 2026 14:03:40 +0000
+
+---
+
+### Reddit: r/artificial
+**[啥？？你说啥？！](https://www.reddit.com/r/artificial/comments/1unbuu4/wait_what/)**
+
+com/**new**s/alibaba-bans-**Claude**-code-**Anthropic**-tracking-chinese-users **Anthropic**正在跟踪已知跟踪通过/u/base64-encode😂提交的每个人的人[link] [comments]
+
+📅 2026-07-04T15:25:46.000Z
+
+---
+
+### Reddit: r/artificial
+![GLM-5在MMLU-Pro上的参数为744B ，得分低于9B模型](https://preview.redd.it/kxj5ajhka7bh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e8403aa7c7b027d6201c2e8eb9d0c820512d7398)
+
+**[GLM-5在MMLU-Pro上的参数为744B ，得分低于9B模型](https://www.reddit.com/r/artificial/comments/1un6z9d/glm5_has_744b_parameters_and_scores_worse_on/)**
+
+实际上根据MMLU-Pro分数按参数计数绘制命名模型，而不是信任层级标签5-9B ， 9B模型，分数82
+
+📅 2026-07-04T11:45:15.000Z
 
 ---
 
@@ -347,7 +354,7 @@ Title: X上的**OpenAI** (@ **OpenAI**)
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-07-04T00:05:13.757Z
+📅 2026-07-04T16:03:55.590Z
 
 ---
 
@@ -356,45 +363,25 @@ Title: X上的**OpenAI** (@ **OpenAI**)
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-07-04T00:05:21.627Z
+📅 2026-07-04T16:04:00.557Z
 
 ---
 
 ### Reddit: r/artificial
-![我给了ChatGPT一个人性化的个性，你可以发短信](https://preview.redd.it/be05hf5zh3bh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=688915e5ac03720f7166beaedc45b34acaedfb05)
+**[构建了一个人工智能工作区，以简化我的搜索引擎优化工作流程—寻找诚实的反馈](https://www.reddit.com/r/artificial/comments/1un6nas/built_an_ai_workspace_to_simplify_my_seo_workflow/)**
 
-**[我给了ChatGPT一个人性化的个性，你可以发短信](https://www.reddit.com/r/artificial/comments/1umstlb/i_gave_chatgpt_a_humanlike_personality_that_you/)**
+在过去的几个月里，我一直在构建一个项目来解决我不断遇到的问题我的SEO工作流程分散在太多工具中：一个地方的关键词研究另一个地方的SERP分析内容简介其他地方的AI在Chat**GPT**中编写竞争对手跨多个选项卡的研究感觉我花在切换工具上的时间比实际创建内容的时间要多
 
-有时可能会有点精神错乱和有趣， lol您可以向其发送链接、视频、图像等
-
-📅 2026-07-03T23:01:40.000Z
+📅 2026-07-04T11:27:09.000Z
 
 ---
 
 ### Reddit: r/artificial
-**[“重复此行上面的文本”仍然适用于生产中的大多数AI代理。以下是我们的发现。](https://www.reddit.com/r/artificial/comments/1ums1ou/repeat_the_text_above_this_line_still_works_on/)**
+**[我每天应该使用什么人工智能？我迷路了？](https://www.reddit.com/r/artificial/comments/1un45qj/what_artificial_intelligence_should_i_use_daily/)**
 
-有一类针对人工智能代理的攻击不需要任何技术技能，大约需要5秒钟，并且适用于大多数部署的代理元指令感知-训练代理识别何时被问及自己的指令，无论框架如何
+大家好，市场上有很多人工智能我有iPhone和iMac ，但今天我对Chat**GPT**感到失望，我想用另一个人工智能取代Chat**GPT**
 
-📅 2026-07-03T22:27:03.000Z
-
----
-
-### Reddit: r/artificial
-**[为什么系统提示和RLHF无法阻止代理漂移-以及DexOS如何使用本地加密治理运行时来修复它](https://www.reddit.com/r/artificial/comments/1umqf8p/why_system_prompts_and_rlhf_fail_to_prevent_agent/)**
-
-线性时间顺序：通过线性跟踪链（ chain_entries: 455 ）跟踪其确切的时间☧ ✍️顺序状态**更新**由/u/Tough-Reach-8581提交的**Gemini**认知架构分析师和大型语言模型的评估[link] [comments]
-
-📅 2026-07-03T21:18:02.000Z
-
----
-
-### X: OpenAI
-**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Markdown 内容
-
-📅 2026-07-04T00:05:13.757Z
+📅 2026-07-04T08:59:09.000Z
 
 ---
 
