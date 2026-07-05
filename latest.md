@@ -1,12 +1,12 @@
 ---
 title: "2026年7月4日 - TZ日报"
-date: 2026-07-04T16:05:05.473Z
+date: 2026-07-05T00:03:45.805Z
 draft: false
 ---
 
 # 2026年7月4日 - TZ日报
 
-> 📊 今日汇总 37 条 · 🕐 2026/7/4 16:05:05
+> 📊 今日汇总 37 条 · 🕐 2026/7/5 00:03:45
 
 ---
 
@@ -22,12 +22,12 @@ draft: false
 
 ## ✨ 产品更新
 
-### TechCrunch AI Products
-**[微软以25亿美元的承诺推出自己的人工智能部署公司](https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/)**
+### AI News
+**[NVIDIA BioNeMo加速人类克劳德科学](https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/)**
 
-微软通过其新的人工智能部署组跟随亚马逊、**OpenAI**和**Anthropic**。
+Anthropic**推出**了**Claude** Science的公测版，这是一款专为科研打造的人工智能工作台。该系统原生连接到[…]后NVIDIA BioNeMo加速**Anthropic** **Claude** Science**首次**出现在人工智能新闻
 
-📅 Thu, 02 Jul 2026 13:53:00 +0000
+📅 Thu, 02 Jul 2026 14:38:01 +0000
 
 ---
 
@@ -40,23 +40,30 @@ draft: false
 
 ---
 
-### Google AI Blog
-![我们在2026年6月宣布的最新人工智能新闻](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp)
-
-**[我们在2026年6月宣布的最新人工智能新闻](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/)**
-
-以下是谷歌从2026年6月开始的最新人工智能**更新**。
-
-📅 Wed, 01 Jul 2026 18:15:00 +0000
-
----
-
 ### DeepMind Blog
 **[Google DeepMind和A24宣布建立史无前例的研究合作伙伴关系](https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/)**
 
 **Google** DeepMind和A24宣布建立史无前例的研究合作伙伴关系
 
 📅 Fri, 03 Jul 2026 14:25:43 +0000
+
+---
+
+### TechCrunch AI Products
+**[新的谷歌广告设想在人工智能的帮助下撰写独立宣言](https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/)**
+
+在《独立宣言》签署二百五十年后，一个新的商业广告问道：如果创始人可以访问**Google** Workspace
+
+📅 Sat, 04 Jul 2026 20:55:25 +0000
+
+---
+
+### TechCrunch AI Products
+**[据报道，阿里巴巴禁止员工使用Claude Code](https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/)**
+
+据报道，阿里巴巴已将**Claude** Code归类为高风险软件。
+
+📅 Sat, 04 Jul 2026 16:32:08 +0000
 
 ---
 
@@ -88,20 +95,11 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[OpenAI提议将其5%的股权捐赠给美国主权财富基金](https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/)**
+**[Midjourney希望好莱坞电影公司透露其人工智能使用的细节](https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/)**
 
-据报道， **OpenAI**首席执行官萨姆·奥尔特曼（ Sam Altman ）提议将公司5%的股权捐赠给一个主权财富基金，重新启动了关于让公众分享人工智能繁荣带来的财务收益的讨论
+作为与三家好莱坞电影公司正在进行的法律纠纷的一部分， **Midjourney**正试图迫使这些电影公司披露他们自己如何使用人工智能
 
-📅 Thu, 02 Jul 2026 15:20:51 +0000
-
----
-
-### TechCrunch AI Products
-**[是的，我们现在正在使用OpenClaw](https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/)**
-
-Ben Guez在[他的] DMs**Claude**代码中有“一堆潜在的国际妻子
-
-📅 Thu, 02 Jul 2026 12:00:00 +0000
+📅 Sat, 04 Jul 2026 18:00:05 +0000
 
 ---
 
@@ -203,17 +201,6 @@ Ben Guez在[他的] DMs**Claude**代码中有“一堆潜在的国际妻子
 
 ---
 
-### VentureBeat
-![控制差距：企业人工智能组织有所有权问题，而不是技术问题—大多数都是手工管理的](https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30)
-
-**[控制差距：企业人工智能组织有所有权问题，而不是技术问题—大多数都是手工管理的](https://venturebeat.com/resources/the-control-gap-enterprise-ai-organizations-have-an-ownership-problem-not-a-technology-problem-and-most-are-governing-it-by-hand)**
-
-组织是否可以检测到生产中失败的模型**OpenAI**接下来为21% （引用价格波动） ， **Anthropic**为15% ， **Google**为6%
-
-📅 Wed, 01 Jul 2026 21:50:00 GMT
-
----
-
 ### MIT Tech Review
 **[下载：初创公司为人工智能的群体思维问题提供了解决方案](https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/)**
 
@@ -263,25 +250,23 @@ Ben Guez在[他的] DMs**Claude**代码中有“一堆潜在的国际妻子
 
 ---
 
-## 📦 GitHub热门
+### MIT Tech Review
+**[ 一种从死去的捐赠者身上复活眼球的设备可以使眼睛移植成为可能](https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/)**
 
-### GitHub Active (Python)
-![textract ：从任何文档中提取文本。没有混乱。没有大惊小怪。](https://avatars.githubusercontent.com/u/255672?v=4)
+眼睛一离开身体就开始退化。几年前外科医生尝试时，新移植的眼睛无法看到
 
-**[textract ：从任何文档中提取文本。没有混乱。没有大惊小怪。](https://github.com/deanmalmgren/textract)**
-
-⭐ 4,649星· 700分叉· HTML ·从任何文档中提取文本。没有混乱。没有大惊小怪。
-
-📅 2026-07-04T16:03:53Z
+📅 Fri, 03 Jul 2026 17:34:37 +0000
 
 ---
+
+## 📦 GitHub热门
 
 ### GitHub New (New AI)
 ![🆕 AURA ：自主理解和修复架构](https://avatars.githubusercontent.com/u/32529331?v=4)
 
 **[🆕 AURA ：自主理解和修复架构](https://github.com/syswe/AURA)**
 
-⭐ 10 star (新项目) · Python · Autonomous Understanding & Remediation Architecture
+⭐ 11 star (新项目) · Python · Autonomous Understanding & Remediation Architecture
 
 📅 2026-07-03T08:34:47Z
 
@@ -309,43 +294,43 @@ Ben Guez在[他的] DMs**Claude**代码中有“一堆潜在的国际妻子
 
 ---
 
+### GitHub New (New AI)
+![🆕 机器学习算法：这个存储库是一个长期的、不断发展的项目，专注于从头开始实施机器学习算法，并采用优化/基于库的方法。](https://avatars.githubusercontent.com/u/284074693?v=4)
+
+**[🆕 机器学习算法：这个存储库是一个长期的、不断发展的项目，专注于从头开始实施机器学习算法，并采用优化/基于库的方法。](https://github.com/0xZeroVoid/ML-Algorithms)**
+
+⭐ 2 star (新项目) · Python · This repository is a long-termevolving project focused on implementing Machine Learning algorithms from scratch and with optimized/library-based approaches side by side
+
+📅 2026-07-02T17:28:32Z
+
+---
+
 ## 💬 社交动态
 
-### Reddit: r/artificial
-**[本周AI ： GPT-5.6、Gemini 3.5 Flash、Claude Science和Qwen价格战—推理成本一次性在每个层级崩溃](https://www.reddit.com/r/artificial/comments/1un6v9c/this_week_in_ai_gpt56_gemini_35_flash_claude/)**
-
-模型**发布**： - OpenAI**推出**GPT-5Vertical/ENTERPRISE ： - Anthropic**推出**用于制药和实验室研究的**Claude** Science
-
-📅 2026-07-04T11:39:19.000Z
-
----
-
 ### Hacker News
-**[工作区实例或使用者帐户之间的潜在会话/缓存泄漏](https://github.com/anthropics/claude-code/issues/74066)**
+**[GPT-5.5 Codex推理令牌聚类可能导致性能下降](https://github.com/openai/codex/issues/30364)**
 
-文章网址： https://githubcom/**Anthropic**s/**Claude**-code/issues/74066评论网址： https://**new**s
+文章网址： https://githubcom/**OpenAI**/codex/issues/30364留言网址： https://**new**s
 
-📅 Sat, 04 Jul 2026 14:03:40 +0000
-
----
-
-### Reddit: r/artificial
-**[啥？？你说啥？！](https://www.reddit.com/r/artificial/comments/1unbuu4/wait_what/)**
-
-com/**new**s/alibaba-bans-**Claude**-code-**Anthropic**-tracking-chinese-users **Anthropic**正在跟踪已知跟踪通过/u/base64-encode😂提交的每个人的人[link] [comments]
-
-📅 2026-07-04T15:25:46.000Z
+📅 Sat, 04 Jul 2026 21:51:09 +0000
 
 ---
 
 ### Reddit: r/artificial
-![GLM-5在MMLU-Pro上的参数为744B ，得分低于9B模型](https://preview.redd.it/kxj5ajhka7bh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e8403aa7c7b027d6201c2e8eb9d0c820512d7398)
+**[真笨，你又是一个无名小卒……](https://www.reddit.com/r/artificial/comments/1unlcm8/how_dumb_you_are_a_nobody_again/)**
 
-**[GLM-5在MMLU-Pro上的参数为744B ，得分低于9B模型](https://www.reddit.com/r/artificial/comments/1un6z9d/glm5_has_744b_parameters_and_scores_worse_on/)**
+所以我努力工作，花了我最后的800 $ （当月无法支付我的账单） ，但我创造了一些东西，在基准测试和**开源**方面击败了微软和研究团队我不知道我是否会再次创造这样的东西
 
-实际上根据MMLU-Pro分数按参数计数绘制命名模型，而不是信任层级标签5-9B ， 9B模型，分数82
+📅 2026-07-04T22:04:54.000Z
 
-📅 2026-07-04T11:45:15.000Z
+---
+
+### Reddit: r/artificial
+**[据报道， Meta与Samsung Foundry达成65亿美元的2纳米AI芯片交易](https://www.reddit.com/r/artificial/comments/1unfzi9/meta_reportedly_strikes_65_billion_deal_with/)**
+
+与三星铸造厂合作，使用2纳米工艺生产第三代MTIA （元训练和推理加速器）芯片MTIA芯片代表了**Meta**的第三代内部处理器，旨在优化AI工作负载的性能
+
+📅 2026-07-04T18:13:57.000Z
 
 ---
 
@@ -354,7 +339,7 @@ com/**new**s/alibaba-bans-**Claude**-code-**Anthropic**-tracking-chinese-users *
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-07-04T16:03:55.590Z
+📅 2026-07-05T00:02:32.581Z
 
 ---
 
@@ -363,25 +348,34 @@ com/**new**s/alibaba-bans-**Claude**-code-**Anthropic**-tracking-chinese-users *
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-07-04T16:04:00.557Z
+📅 2026-07-05T00:02:43.758Z
 
 ---
 
-### Reddit: r/artificial
-**[构建了一个人工智能工作区，以简化我的搜索引擎优化工作流程—寻找诚实的反馈](https://www.reddit.com/r/artificial/comments/1un6nas/built_an_ai_workspace_to_simplify_my_seo_workflow/)**
+### Hacker News
+**[裸机内存转储器–用于冷启动攻击实验的裸机x86工具](https://github.com/pIat0n/BareMetal-RAM-Dumper)**
 
-在过去的几个月里，我一直在构建一个项目来解决我不断遇到的问题我的SEO工作流程分散在太多工具中：一个地方的关键词研究另一个地方的SERP分析内容简介其他地方的AI在Chat**GPT**中编写竞争对手跨多个选项卡的研究感觉我花在切换工具上的时间比实际创建内容的时间要多
+文章网址： https://githubcom/pIat0n/Bare**Meta**l-RAM-Dumper评论网址： https://**new**s
 
-📅 2026-07-04T11:27:09.000Z
+📅 Sat, 04 Jul 2026 17:37:21 +0000
 
 ---
 
-### Reddit: r/artificial
-**[我每天应该使用什么人工智能？我迷路了？](https://www.reddit.com/r/artificial/comments/1un45qj/what_artificial_intelligence_should_i_use_daily/)**
+### Hacker News AI
+**[英伟达已成为人工智能热潮背后的银行](https://startupfortune.com/nvidia-has-quietly-become-the-bank-behind-the-ai-boom/)**
 
-大家好，市场上有很多人工智能我有iPhone和iMac ，但今天我对Chat**GPT**感到失望，我想用另一个人工智能取代Chat**GPT**
+文章网址： https://startupfortunecom/nvidia-has-quietly-become-the-bank-behind-the-ai-boom/评论网址： https://**new**s
 
-📅 2026-07-04T08:59:09.000Z
+📅 Sat, 04 Jul 2026 23:59:06 +0000
+
+---
+
+### Hacker News AI
+**[Microsoft Copilot OS在泄露的视频中披露：基于Copilot和agentic AI构建](https://www.windowscentral.com/microsoft/windows-11/microsoft-copilot-os-revealed-in-leaked-video-lightweight-windows-os-exploration-features-new-desktop-ui-built-entirely-around-copilot-and-agentic-ai)**
+
+文章网址： https://wwwcom/microsoft/windows-11/microsoft-copilot-os-revealed-in-leaked-video-lightweight-windows-os-exploration-features-**new**-desktop-ui-built-etirely-around-copilot-and-agentic-ai评论网址： https://**new**s
+
+📅 Sat, 04 Jul 2026 22:50:45 +0000
 
 ---
 
