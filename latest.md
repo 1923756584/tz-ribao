@@ -1,18 +1,18 @@
 ---
 title: "2026年7月6日 - TZ日报"
-date: 2026-07-06T00:07:04.224Z
+date: 2026-07-06T17:45:21.078Z
 draft: false
 ---
 
 # 2026年7月6日 - TZ日报
 
-> 📊 今日汇总 28 条 · 🕐 2026/7/6 00:07:04
+> 📊 今日汇总 30 条 · 🕐 2026/7/6 17:45:21
 
 ---
 
 ## 📊 今日概览
 
-- **产品更新**: 8 条
+- **产品更新**: 10 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -21,12 +21,21 @@ draft: false
 
 ## ✨ 产品更新
 
-### DeepMind Blog
-**[Google DeepMind和A24宣布建立史无前例的研究合作伙伴关系](https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/)**
+### TechCrunch AI Products
+**[如果你使用谷歌，你就是在训练它的人工智能。退订方法如下。](https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/)**
 
-**Google** DeepMind和A24宣布建立史无前例的研究合作伙伴关系
+PSA ：更改**Google**的隐私设置，让它可以根据您的更多数据来训练其AI以下是如何选择退出
 
-📅 Fri, 03 Jul 2026 14:25:43 +0000
+📅 Mon, 06 Jul 2026 17:04:58 +0000
+
+---
+
+### TechCrunch AI Products
+**[微软在Xbox、商业销售部门裁员近5000人](https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/)**
+
+微软周一裁员约4800人，占全球员工总数的21% ，这是一系列裁员中的最新一次，引发了人们对人工智能取代工作岗位的担忧
+
+📅 Mon, 06 Jul 2026 15:32:43 +0000
 
 ---
 
@@ -57,6 +66,42 @@ draft: false
 
 ---
 
+### Hugging Face
+**[LeRobot v0.6.0 ：想象、评估、改进](https://huggingface.co/blog/lerobot-release-v060)**
+
+LeRobot v0.6.0 ：想象、评估、改进
+
+📅 Tue, 07 Jul 2026 00:00:00 GMT
+
+---
+
+### Hugging Face
+**[PRX第4部分：我们的数据策略](https://huggingface.co/blog/Photoroom/prx-part4-data)**
+
+PRX第4部分：我们的数据策略
+
+📅 Mon, 06 Jul 2026 15:30:55 GMT
+
+---
+
+### Hugging Face
+**[🤗 内核：主要更新](https://huggingface.co/blog/revamped-kernels)**
+
+🤗 内核：主要**更新**
+
+📅 Mon, 06 Jul 2026 00:00:00 GMT
+
+---
+
+### TechCrunch AI Products
+**[Station F成为欧洲最热门人工智能初创公司的发射台](https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/)**
+
+由法国亿万富翁泽维尔·尼利斯（ Xavier Nielis ）创立的巴黎创业中心，正准备**推出**新版F/ai加速器计划，以加强其作为有前途的人工智能创业公司垫脚石的地位
+
+📅 Mon, 06 Jul 2026 13:00:00 +0000
+
+---
+
 ### TechCrunch AI Products
 **[亚马逊将停止接受Mechanical Turk的新客户](https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/)**
 
@@ -66,116 +111,113 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[Midjourney希望好莱坞电影公司透露其人工智能使用的细节](https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/)**
-
-作为与三家好莱坞电影公司正在进行的法律纠纷的一部分， **Midjourney**正试图迫使这些电影公司披露他们自己如何使用人工智能
-
-📅 Sat, 04 Jul 2026 18:00:05 +0000
-
----
-
-### TechCrunch AI Products
-**[您今年唯一需要的人工智能术语表](https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)**
-
-人工智能的兴起带来了大量的新术语和俚语这里是一个术语表，其中包含您可能遇到的一些最**重要**的单词和短语的定义
-
-📅 Fri, 03 Jul 2026 21:20:00 +0000
-
----
-
-### TechCrunch AI Products
-**[浏览器大战不再是搜索，以下是Chrome和Safari的最佳替代方案](https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/)**
-
-我们汇编了目前可用的一些顶级替代浏览器的概述，旨在挑战Chrome和Safari
-
-📅 Fri, 03 Jul 2026 18:43:00 +0000
-
----
-
 ## 🌍 行业展望
 
-### VentureBeat
-![企业失去了克劳德寓言5几个星期。新数据显示，三分之二的人已经建立了对冲机制](https://images.ctfassets.net/jdtwqhzvc2n1/3a2sR1fmLQHZfmz2Vu7t5G/909bdb83e335d09d7e474257d6781d81/control-gap-lead-image.png?w=300&q=30)
+### The Verge
+![在创作者经济的大企业内部，由代理人实现这一目标](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG-DCD-20260706-RainaPenchansky-AliBerman-Art-v01-KM.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[企业失去了克劳德寓言5几个星期。新数据显示，三分之二的人已经建立了对冲机制](https://venturebeat.com/orchestration/enterprises-lost-claude-fable-5-for-a-few-weeks-new-data-shows-two-thirds-had-already-built-their-hedge)**
+**[在创作者经济的大企业内部，由代理人实现这一目标](https://www.theverge.com/podcast/961603/raina-penchansky-ali-berman-dba-uta-influencer-cliff-marketing)**
 
-过去几周围绕**Anthropic**的**Claude** Fable 5模型的争议表明了为什么这种姿势已经成为主流**OpenAI**同时预览了其尖端的**GPT**-5
+”这是**Meta**将完美地针对您的创意，甚至可能使用AI生成它，因为这是他们广告业务中不断增长的部分无论是**OpenAI**还是**Anthropic** ，他们都有令人难以置信的高管
 
-📅 Fri, 03 Jul 2026 00:33:00 GMT
+📅 2026-07-06T14:30:00.000Z
 
 ---
 
-### The Verge
-![激怒谷歌的商业广告想象创始人拥抱人工智能](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Q3RjZY-rSsc-HD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### VentureBeat
+![腾讯的Apache许可的Hy3以一半的尺寸采用GLM-5.2 ，除编码外无处不在](https://images.ctfassets.net/jdtwqhzvc2n1/5WKMtIVc0jqwmy7jbaJZbD/2ce92e10143e41537cb24c2180fc43de/Gemini_Generated_Image_u2p5szu2p5szu2p5.png?w=300&q=30)
 
-**[激怒谷歌的商业广告想象创始人拥抱人工智能](https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence)**
+**[腾讯的Apache许可的Hy3以一半的尺寸采用GLM-5.2 ，除编码外无处不在](https://venturebeat.com/technology/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding)**
 
-我称之为BS ：创始人肯定是Microsoft Teams用户“这就是**Google** Workspace的新广告打开的方式
+DeepSearchQA为0 -领先于腾讯桌面上的每个开放型号，并与**Claude** Opus 4竞争约束驱动的设计对其他人都有方便的副作用：在故意封顶的硅片上运行良好的型号在H100s上运行更舒适
 
-📅 2026-07-05T14:23:11.000Z
+📅 Mon, 06 Jul 2026 16:38:27 GMT
+
+---
+
+### Ars Technica
+**[在Anthropic的反监控立场之后， Secret Claude跟踪器震撼了用户](https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/)**
+
+**Anthropic**被指控监视用户；工程师说“实验”已经结束。
+
+📅 Mon, 06 Jul 2026 16:44:18 +0000
 
 ---
 
 ### ZDNet AI
-**[我找到了20多个7月4日的最佳手机优惠：在Galaxy、Pixel、iPhone等产品上大幅优惠](https://www.zdnet.com/article/july-4-phone-deals-2026/)**
+**[Claude Fable 5回来了，但我坚持在日常工作中使用Opus 4.8 ： 5个原因](https://www.zdnet.com/article/claude-fable-5-returns-why-im-using-opus-4-8-instead/)**
 
-从三星、谷歌、苹果等公司购买旗舰智能手机， 7月4日大幅优惠。
+《人类寓言5》承诺提供神话般的人工智能力量，但出人意料的限制让我怀疑它是否比日常使用更麻烦。
 
-📅 Fri, 03 Jul 2026 15:31:05 GMT
+📅 Mon, 06 Jul 2026 12:28:00 GMT
+
+---
+
+### ZDNet AI
+**[我在Linux上测试了新的Claude Desktop -以下是它与竞争对手应用程序的比较](https://www.zdnet.com/article/i-tested-claude-desktop-on-linux-how-it-compares-to-rival-apps/)**
+
+**Claude** Code终于有了一个官方的Linux桌面应用程序这是一个不错的选择，但尝试使用本地AI是事情变得棘手的地方
+
+📅 Mon, 06 Jul 2026 16:05:09 GMT
 
 ---
 
 ### The Verge
-![Xbox是一场灾难](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ss_b5ba5567b6da5c30f4825517750aad1c16c2806a.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![前Xbox工作室Double Fine和Compulsion将在独立后保留游戏](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ss_d78da4dbc35620193f7c14e0e5e68f7020adfd43.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[Xbox是一场灾难](https://www.theverge.com/column/960600/xbox-is-a-disaster)**
+**[前Xbox工作室Double Fine和Compulsion将在独立后保留游戏](https://www.theverge.com/games/961749/xbox-layoffs-compulsion-double-fine-indie)**
 
-《The Stepback》是一份每周时事通讯，详细介绍了科技界的一个**重要**故事微软是如何在夏季游戏节上大放异彩的
+作为今天宣布的重组的一部分，微软正在剥离其四个Xbox游戏工作室- Compulsion Games和Undead Labs
 
-📅 2026-07-05T12:00:00.000Z
-
----
-
-### VentureBeat
-![Trunk Tools的堆栈通过抛弃通用模型将文档审查从60天减少到10天](https://images.ctfassets.net/jdtwqhzvc2n1/63UxY1M5WET2KFyliCQstB/014b102216bc5911b9c6ab0875400a31/Trunk_Tools.png?w=300&q=30)
-
-**[Trunk Tools的堆栈通过抛弃通用模型将文档审查从60天减少到10天](https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models)**
-
-他说： “**GPT**-4级模型可以理解法国法律合同，但会模糊从业人员需要引用的特定文章参考，”他说： “不要微调以使模型在域名方面更'聪明'
-
-📅 Sat, 04 Jul 2026 14:34:50 GMT
+📅 2026-07-06T16:22:34.000Z
 
 ---
 
-### MIT Tech Review
-**[ 一种从死去的捐赠者身上复活眼球的设备可以使眼睛移植成为可能](https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/)**
+### The Verge
+![我是小间谍](https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0111.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-眼睛一离开身体就开始退化。几年前外科医生尝试时，新移植的眼睛无法看到
+**[我是小间谍](https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy)**
 
-📅 Fri, 03 Jul 2026 17:34:37 +0000
+这可能是我第一次看到戴着雷朋**Meta**眼镜的HollywoodArmed
 
----
-
-### MIT Tech Review
-**[下载：一个冒烟的“结局”和一个新的伊丽莎白熊故事](https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/)**
-
-这是今天的“下载”版本，这是我们的工作日时事通讯，每天提供有关技术世界正在发生的事情的剂量英国的世代烟草禁令可能不起作用
-
-📅 Fri, 03 Jul 2026 12:10:00 +0000
+📅 2026-07-06T16:00:00.000Z
 
 ---
 
-### MIT Tech Review
-**[英国代代相传的烟草禁令可能行不通。无论如何，我都支持它。](https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/)**
+### The Verge
+![微软将出售四家Xbox工作室，作为游戏大幅削减的一部分](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2279118333.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-七岁的孩子在学校学习人工智能，那不是我小时候的普遍情绪
+**[微软将出售四家Xbox工作室，作为游戏大幅削减的一部分](https://www.theverge.com/news/961546/xbox-layoffs-studio-sales-2026)**
 
-📅 Fri, 03 Jul 2026 09:00:00 +0000
+|彭博社（通过Getty Images ）微软正在裁员，因为微软计划在2027年7月财政年度结束前裁减约20%的Xbox工作岗位
+
+📅 2026-07-06T13:31:24.000Z
 
 ---
 
 ## 📦 GitHub热门
+
+### GitHub Active (AI/ML)
+![lionagi ：智能管弦乐队](https://avatars.githubusercontent.com/u/122793010?v=4)
+
+**[lionagi ：智能管弦乐队](https://github.com/ohdearquant/lionagi)**
+
+⭐ 400星· 76叉·蟒蛇·智慧乐团
+
+📅 2026-07-06T17:44:25Z
+
+---
+
+### GitHub New (New AI)
+![🆕 认知核心技能：针对LLM、SLM、AI代理和世界模型的通用、行业中立的认知核心技能（感知、记忆、推理、规划、行动、验证、学习、治理）分类法，包括模式、159个技能卡、基准和CI。](https://avatars.githubusercontent.com/u/272680511?v=4)
+
+**[🆕 认知核心技能：针对LLM、SLM、AI代理和世界模型的通用、行业中立的认知核心技能（感知、记忆、推理、规划、行动、验证、学习、治理）分类法，包括模式、159个技能卡、基准和CI。](https://github.com/eli-labz/Cognitive-Core-Skills)**
+
+⭐ 24 star (新项目) · Python · A universaland world models — with schemas
+
+📅 2026-07-05T21:25:55Z
+
+---
 
 ### GitHub New (New AI)
 ![🆕 AURA ：自主理解和修复架构](https://avatars.githubusercontent.com/u/32529331?v=4)
@@ -199,63 +241,14 @@ draft: false
 
 ---
 
-### GitHub New (New AI)
-![🆕 aisuite ： GLPI 11的一体化AI工具包—即时工单分析、自动分类和一级支持聊天机器人和助手，由OpenAI、Anthropic或Gemini提供支持。](https://avatars.githubusercontent.com/u/212596385?v=4)
-
-**[🆕 aisuite ： GLPI 11的一体化AI工具包—即时工单分析、自动分类和一级支持聊天机器人和助手，由OpenAI、Anthropic或Gemini提供支持。](https://github.com/jessy-chaila/aisuite)**
-
-⭐ 2 star (新项目) · PHP · All-in-one AI toolkit for GLPI 11 — instant ticket analysis**Anthropic** or **Gemini**
-
-📅 2026-07-03T18:04:40Z
-
----
-
-### GitHub New (New AI)
-![🆕 llm_ai_technology_notes ：关于法学硕士技术、进度、基础设施和人工智能生态系统的实时笔记](https://avatars.githubusercontent.com/u/70885942?v=4)
-
-**[🆕 llm_ai_technology_notes ：关于法学硕士技术、进度、基础设施和人工智能生态系统的实时笔记](https://github.com/hefeicoder/llm_ai_technology_notes)**
-
-⭐ 1 star (新项目) · HTML · Living notes on LLM technology, progress, infrastructure, and the AI ecosystem
-
-📅 2026-07-04T18:53:27Z
-
----
-
 ## 💬 社交动态
 
-### Hacker News AI
-**[告诉HN ：不要信任拥有AI研究IP的Bigco AI代理](https://news.ycombinator.com/item?id=48798385)**
+### Hacker News
+**[Show HN: Pulpie –清洁网页的模型](https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/)**
 
-**Claude** [Code]或Chat**GPT**/Codex ）在简短的Fable**发布**期间暗示了这一点， **Anthropic**宣布他们将降级有关“前沿AI”的模型响应（ i
+我们构建了Pulpie ，这是一个用于清洁web的Pareto优化模型家族所有模型都是在Hugging Face上**开源**的
 
-📅 Sun, 05 Jul 2026 22:08:30 +0000
-
----
-
-### Reddit: r/artificial
-**[为什么越来越多的人转向未经审查或本地模特？](https://www.reddit.com/r/artificial/comments/1uocn4j/why_are_more_and_more_people_switching_to/)**
-
-许多用户正在从chat**GPT**和**Claude**等严格限制的模型转向由/u/NoFilter**GPT**提交的未经审查或本地模型[link] [comments]
-
-📅 2026-07-05T20:30:33.000Z
-
----
-
-### Reddit: r/artificial
-**[人类和阿里巴巴之间的战争？](https://www.reddit.com/r/artificial/comments/1uoana3/a_war_between_anthropic_and_alibaba/)**
-
-**Anthropic**指责阿里巴巴创建了数万个虚假的**Claude**账户，通过蒸馏攻击来窃取**Claude**的知识产权阿里巴巴通过告诉其官方（非合同）员工停止使用**Claude** Code来进行报复
-
-📅 2026-07-05T19:10:04.000Z
-
----
-
-### Reddit: r/artificial
-**[我构建了一个原生的Reddit应用程序，由5个人工智能代理组成的理事会讨论并烘焙您的项目创意](https://www.reddit.com/r/artificial/comments/1uo7bq2/i_built_a_native_reddit_app_where_a_council_of_5/)**
-
-用户提交网站URL或描述项目创意（如人工智能初创公司）技术堆栈相当简单： react webview、hono、devvit redis for state和直接从服务器运行的**Google** **Gemini** API
-
-📅 2026-07-05T17:00:08.000Z
+📅 Mon, 06 Jul 2026 16:04:27 +0000
 
 ---
 
@@ -264,7 +257,7 @@ draft: false
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-07-06T00:06:04.917Z
+📅 2026-07-06T17:44:22.848Z
 
 ---
 
@@ -273,25 +266,54 @@ draft: false
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-07-06T00:06:11.768Z
+📅 2026-07-06T17:44:27.805Z
 
 ---
 
-### Hacker News AI
-**[显示HN ：集成在任何终端中的人工智能，直到您需要它](https://terminai.app)**
+### Hacker News
+**[OfficeCLI ：用于AI代理读取和编辑Microsoft Office文件的Office套件](https://github.com/iOfficeAI/OfficeCLI)**
 
-我构建了一个**开源**终端应用程序，该应用程序可以透明地包装您的shell ，以便您可以在需要时随时访问AI使用您自己的AI代理（开箱即用，支持**Claude**和Codex ） ，具有对终端内容的自动配置MCP访问权限并滚动回退，并且能够建议您可以批准传递到shell的输入，就像您自己键入它一样
+文章网址： https://githubcom/iOfficeAI/OfficeCLI评论网址： https://**new**s
 
-📅 Sun, 05 Jul 2026 23:46:24 +0000
+📅 Mon, 06 Jul 2026 16:47:44 +0000
 
 ---
 
-### Hacker News AI
-**[新的Microsoft 365实时定价，由于人工智能，一些产品价格上涨了42 ％](https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/)**
+### Reddit: r/artificial
+![旧金山法院合并了十几起指控ChatGPT鼓励自杀和吸毒的诉讼](https://external-preview.redd.it/WhCwd6OPtOoYH3ArxEZXSTjPtMVieMZJ2OMTnltv1rI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3f1ba46d00dde1b80b15a00fbe68a2edab2bf83f)
 
-文章网址： https://wwwcom/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/评论网址： https://**new**s
+**[旧金山法院合并了十几起指控ChatGPT鼓励自杀和吸毒的诉讼](https://www.reddit.com/r/artificial/comments/1up0ou1/san_francisco_court_consolidates_a_dozen_lawsuits/)**
 
-📅 Sun, 05 Jul 2026 21:58:20 +0000
+提交者/u/sfgate [link] [comments]
+
+📅 2026-07-06T15:31:10.000Z
+
+---
+
+### Reddit: r/artificial
+**[真正有兴趣了解人工智能男友/女友](https://www.reddit.com/r/artificial/comments/1uozxdl/genuinely_interested_in_learning_about_ai/)**
+
+我只是将Chat**GPT**用于工作和日常任务，因此拥有AI伴侣的想法对我来说是全新的。如果应用程序**更新**其AI模型，您的伴侣是否仍然感觉像同一个人
+
+📅 2026-07-06T15:04:14.000Z
+
+---
+
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Title: 520: Web服务器返回未知错误
+
+📅 2026-07-06T17:44:22.848Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误520 ：未知
+
+📅 2026-07-06T17:44:22.848Z
 
 ---
 
