@@ -1,19 +1,19 @@
 ---
 title: "2026年7月7日 - TZ日报"
-date: 2026-07-07T00:10:19.278Z
+date: 2026-07-07T17:19:30.716Z
 draft: false
 ---
 
 # 2026年7月7日 - TZ日报
 
-> 📊 今日汇总 32 条 · 🕐 2026/7/7 00:10:19
+> 📊 今日汇总 38 条 · 🕐 2026/7/7 17:19:30
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 2 条
+- **前沿研究**: 8 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -21,6 +21,26 @@ draft: false
 ---
 
 ## ✨ 产品更新
+
+### Google AI Blog
+![在Gemini API中扩展托管代理：后台任务、远程MCP等](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp)
+
+**[在Gemini API中扩展托管代理：后台任务、远程MCP等](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/)**
+
+我们宣布**推出**Gemini API中托管代理的新功能，以便开发人员可以构建可靠的生产就绪代理
+
+📅 Tue, 07 Jul 2026 08:54:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[Claude Cowork扩展到移动和网络](https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/)**
+
+通过此**更新**，在他们的手机上获取状态**更新**
+
+📅 Tue, 07 Jul 2026 16:27:18 +0000
+
+---
 
 ### TechCrunch AI Products
 **[如果你使用谷歌，你就是在训练它的人工智能。退订方法如下。](https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/)**
@@ -37,6 +57,15 @@ draft: false
 微软周一裁员约4800人，占全球员工总数的21% ，这是一系列裁员中的最新一次，引发了人们对人工智能取代工作岗位的担忧
 
 📅 Mon, 06 Jul 2026 15:32:43 +0000
+
+---
+
+### Hugging Face
+**[在Foundry托管计算上拥抱人脸模型](https://huggingface.co/blog/microsoft/foundry-managed-compute)**
+
+在Foundry托管计算上拥抱人脸模型
+
+📅 Tue, 07 Jul 2026 15:20:06 GMT
 
 ---
 
@@ -68,51 +97,60 @@ PRX第4部分：我们的数据策略
 ---
 
 ### TechCrunch AI Products
-**[“第一次” AI运行的勒索软件攻击仍然需要人类](https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/)**
+**[Savi的应用程序旨在保护消费者免受现实的人工智能诈骗，例如绑架者索要赎金](https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/)**
 
-人工智能代理**首次**执行了真实世界勒索软件攻击的技术执行，但新的细节显示人类仍然选择了受害者
+该公司刚刚筹集了700万美元的种子资金，并将于周二**推出**适用于iPhone和Android的应用程序
 
-📅 Mon, 06 Jul 2026 23:56:14 +0000
-
----
-
-### TechCrunch AI Products
-**[美国投资者将很快获得SK海力士，另一家驾驭人工智能热潮的内存制造商](https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/)**
-
-SK海力士正在经历一场繁荣，归功于AIIt将乘坐数十亿美元的U
-
-📅 Mon, 06 Jul 2026 23:21:03 +0000
+📅 Tue, 07 Jul 2026 12:00:00 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[Vercel首席执行官吉列尔莫·劳赫（ Guillermo Rauch ）与代理商分拆模特的斗](https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/)**
+**[首批美国自动地面车辆正在乌克兰作战](https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/)**
 
-“现实情况是，当您针对生产进行优化时，您开始关注性价比，” Guillermo Rauch告诉TechCrunch
+Forterra已在乌克兰冲突地区部署了100多辆自动驾驶全地形车。
 
-📅 Mon, 06 Jul 2026 19:49:10 +0000
-
----
-
-### TechCrunch AI Products
-**[您现在可以在最新的iOS 27测试版中自定义Siri的速度和表现力](https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/)**
-
-此次**更新**是苹果更广泛努力的一部分，旨在让Siri感觉更自然和个性化，因为它围绕生成式人工智能重建了助手
-
-📅 Mon, 06 Jul 2026 19:01:59 +0000
-
----
-
-### TechCrunch AI Products
-**[2026年每次重大技术裁员都使用经过名称检查的人工智能](https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)**
-
-按照相反的时间顺序，对今年宣布大幅裁员的大型科技公司进行观察，其中人工智能是一个既定因素
-
-📅 Mon, 06 Jul 2026 18:35:00 +0000
+📅 Tue, 07 Jul 2026 09:00:00 +0000
 
 ---
 
 ## 🔬 前沿研究
+
+### ArXiv Natural Language Processing (cs.CL)
+**[受叙事诱惑：评估半开放式文本沙盒中的规则遵守情况](https://arxiv.org/abs/2607.02802)**
+
+02802v1公告类型：新摘要：随着LLM越来越多地被部署为半开放式文本游戏环境中的自主裁定者，这些模型被训练成有用且合规的
+
+📅 Tue, 07 Jul 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[VERITAS ：面向科学研究的通用复制工具](https://arxiv.org/abs/2607.02931)**
+
+02931v1公告类型：新摘要：人工智能工具正在加速科学出版，而审查它的系统难以在同一模型和主机环境上保持两个强大的**Claude** Code基线
+
+📅 Tue, 07 Jul 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[动荡的回声：早期预警假新闻和暴力驱动的暴民活动的多模式NLP框架](https://arxiv.org/abs/2607.02734)**
+
+02734v1公告类型：新摘要：社交媒体的快速增长通过讽刺和地理空间元数据等辅助功能实现了快速信息交换，从而改变了全球通信
+
+📅 Tue, 07 Jul 2026 00:00:00 -0400
+
+---
+
+### ArXiv Robotics (cs.RO)
+**[金属超声波导作为分布式触觉传感平台，用于接触定位、力估计和材料类别识别](https://arxiv.org/abs/2607.02827)**
+
+02827v1公告类型：新摘要：触觉传感是机器人系统与现实世界互动的核心这些结果验证了金属波导是分布式触觉传感的强大平台
+
+📅 Tue, 07 Jul 2026 00:00:00 -0400
+
+---
 
 ### MIT Tech Research
 **[您的家人在OpenAI中的300 $股份](https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/)**
@@ -123,25 +161,43 @@ SK海力士正在经历一场繁荣，归功于AIIt将乘坐数十亿美元的U
 
 ---
 
-### Science AI
-**[哲学家呼吁他们的期刊要求披露利益冲突](https://www.science.org/content/article/philosophers-call-their-journals-require-conflict-interest-disclosures)**
+### ArXiv AI (cs.AI)
+**[iFLYTEK-Embodied-Omni技术报告](https://arxiv.org/abs/2607.02542)**
 
-一份新的请愿书敦促在与人工智能和其他公司的联系日益密切的情况下提高透明度
+02542v1公告类型：新摘要：通用具体代理必须理解多模式指令本设计建立了脑-小脑协作：视觉-语言模型和**视频生成**模型形成了高层次的指令理解大脑
 
-📅 2026-07-06T04:20:00.000Z
+📅 Tue, 07 Jul 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[内部多元化和成对比较的极限](https://arxiv.org/abs/2607.02672)**
+
+02672v1公告类型：新摘要：局部成对比较是一种标准工具，用于了解人们希望决策规则如何在参与式设计或对齐中发挥作用
+
+📅 Tue, 07 Jul 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[暗中询问：部分可观察性下的不确定性门限LLM协助](https://arxiv.org/abs/2607.02686)**
+
+02686v1公告类型：新摘要：在部分可观测性下运行的强化学习代理必须对不完整的信息起作用5-4B ，确认提示设计和选择性门控主导模型规模的影响，无需大型模型即可实现指导
+
+📅 Tue, 07 Jul 2026 00:00:00 -0400
 
 ---
 
 ## 🌍 行业展望
 
-### The Verge
-![在创作者经济的大企业内部，由代理人实现这一目标](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG-DCD-20260706-RainaPenchansky-AliBerman-Art-v01-KM.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### VentureBeat
+![Anthropic将Claude Cowork带入移动和网络，因为使用数据显示大多数用户没有编码](https://images.ctfassets.net/jdtwqhzvc2n1/6ZETUDIzLWcalxxa40yeIg/38b9b0fd6e4133768467665290155e68/Nuneybits_Vector_art_of_burnt_orange_smartphone_framed_by_a_sim_6ca87270-c750-4113-8323-18160ad7ce93.webp?w=300&q=30)
 
-**[在创作者经济的大企业内部，由代理人实现这一目标](https://www.theverge.com/podcast/961603/raina-penchansky-ali-berman-dba-uta-influencer-cliff-marketing)**
+**[Anthropic将Claude Cowork带入移动和网络，因为使用数据显示大多数用户没有编码](https://venturebeat.com/technology/anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-data-shows-most-users-arent-coding)**
 
-”这是**Meta**将完美地针对您的创意，甚至可能使用AI生成它，因为这是他们广告业务中不断增长的部分无论是**OpenAI**还是**Anthropic** ，他们都有令人难以置信的高管
+**Anthropic**周二在移动和网络上**推出**了**Claude** Cowork两周前， Anthropic**发布**了**Claude** Tag ，这是一款专为团队协作而设计的Slack原生AI代理
 
-📅 2026-07-06T14:30:00.000Z
+📅 Tue, 07 Jul 2026 16:00:00 GMT
 
 ---
 
@@ -167,6 +223,15 @@ DeepSearchQA为0 -领先于腾讯桌面上的每个开放型号，并与**Claude
 
 ---
 
+### Wired Technology
+**[关掉那些笔记本电脑！ Anthropic将其Claude Cowork代理放在您的手机上](https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/)**
+
+**Claude** Cowork现在即使在您关闭笔记本电脑后也能继续处理任务这是对智能手机控制代理的更大推动的一部分
+
+📅 Tue, 07 Jul 2026 16:00:00 +0000
+
+---
+
 ### Ars Technica
 **[在Anthropic的反监控立场之后， Secret Claude跟踪器震撼了用户](https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/)**
 
@@ -177,57 +242,66 @@ DeepSearchQA为0 -领先于腾讯桌面上的每个开放型号，并与**Claude
 ---
 
 ### ZDNet AI
-**[我在Linux上测试了新的Claude Desktop -以下是它与竞争对手应用程序的比较](https://www.zdnet.com/article/i-tested-claude-desktop-on-linux-how-it-compares-to-rival-apps/)**
+**[Anthropic的Claude Cowork前往云端，因为数据显示90%的会话不是用于编码的](https://www.zdnet.com/article/anthropic-claude-cowork-comes-to-phone-web-cloud/)**
 
-**Claude** Code终于有了一个官方的Linux桌面应用程序这是一个不错的选择，但尝试使用本地AI是事情变得棘手的地方
+**Claude** Cowork正在转向网络和移动，新数据显示，它的使用范围远远超出了编码和软件开发。它可以安全地替换OpenClaw吗？
 
-📅 Mon, 06 Jul 2026 16:05:00 GMT
-
----
-
-### The Verge
-![前Xbox工作室Double Fine和Compulsion将在独立后保留游戏](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ss_d78da4dbc35620193f7c14e0e5e68f7020adfd43.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[前Xbox工作室Double Fine和Compulsion将在独立后保留游戏](https://www.theverge.com/games/961749/xbox-layoffs-compulsion-double-fine-indie)**
-
-作为今天宣布的重组的一部分，微软正在剥离其四个Xbox游戏工作室- Compulsion Games和Undead Labs
-
-📅 2026-07-06T16:22:34.000Z
+📅 Tue, 07 Jul 2026 16:00:03 GMT
 
 ---
 
-### The Verge
-![我是小间谍](https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0111.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### VentureBeat
+![让Liberty Mutual摆脱寓言5中断的人工智能架构](https://images.ctfassets.net/jdtwqhzvc2n1/2Rn00oBjZWR6pu5uCmlkNU/9d8594cc1610c504b4eb4af5f3328192/u7277289442_An_AI_robot_is_sitting_at_a_dashboard._There_are__98eea1d5-8a60-4ac7-a4ab-9582454ad8c8_1.png?w=300&q=30)
 
-**[我是小间谍](https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy)**
+**[让Liberty Mutual摆脱寓言5中断的人工智能架构](https://venturebeat.com/orchestration/the-ai-architecture-that-let-liberty-mutual-shrug-off-the-fable-5-outage)**
 
-这可能是我第一次看到戴着雷朋**Meta**眼镜的HollywoodArmed
+这是因为18个月前，他们正是为这种场景建立了“人工智能骨干” “如果一个新的开始找不到指导文件，人工智能代理将如何
 
-📅 2026-07-06T16:00:00.000Z
+📅 Tue, 07 Jul 2026 16:37:48 GMT
 
 ---
 
-### The Verge
-![微软将出售四家Xbox工作室，作为游戏大幅削减的一部分](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2279118333.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### MIT Tech Review
+**[下载：您在OpenAI中的股份，以及财政部的AI警告](https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/)**
 
-**[微软将出售四家Xbox工作室，作为游戏大幅削减的一部分](https://www.theverge.com/news/961546/xbox-layoffs-studio-sales-2026)**
+这是我们工作日时事通讯The Download的今天版本，该时事通讯提供技术世界每日发生的事情您的家人在**OpenAI** Sam Altman关于美国人应该分享人工智能创造的财富的提案中持有的$ 300股权再次成为人们关注的焦点
 
-|照片：彭博社通过Getty Images微软正在裁员4**重大**的游戏削减将影响Xbox的几乎每个部分，并且还涉及四个游戏工作室被分拆出来独立于微软运营
-
-📅 2026-07-06T13:31:24.000Z
+📅 Tue, 07 Jul 2026 12:10:00 +0000
 
 ---
 
 ## 📦 GitHub热门
+
+### GitHub Active (AI/ML)
+![管道： Kubeflow的机器学习管道](https://avatars.githubusercontent.com/u/33164907?v=4)
+
+**[管道： Kubeflow的机器学习管道](https://github.com/kubeflow/pipelines)**
+
+⭐ 4169星· 2028叉· Python · Kubeflow机器学习流水线
+
+📅 2026-07-07T17:18:00Z
+
+---
 
 ### GitHub New (New AI)
 ![🆕 认知核心技能：针对LLM、SLM、AI代理和世界模型的通用、行业中立的认知核心技能（感知、记忆、推理、规划、行动、验证、学习、治理）分类法，包括模式、159个技能卡、基准和CI。](https://avatars.githubusercontent.com/u/272680511?v=4)
 
 **[🆕 认知核心技能：针对LLM、SLM、AI代理和世界模型的通用、行业中立的认知核心技能（感知、记忆、推理、规划、行动、验证、学习、治理）分类法，包括模式、159个技能卡、基准和CI。](https://github.com/eli-labz/Cognitive-Core-Skills)**
 
-⭐ 24 star (新项目) · Python · A universaland world models — with schemas
+⭐ 271 star (新项目) · Python · A universaland world models — with schemas
 
 📅 2026-07-05T21:25:55Z
+
+---
+
+### GitHub New (New AI)
+![🆕 ml-roadmap ：完整的机器学习路线图—从头开始Python实现、数学解释、测试代码和实际项目。](https://avatars.githubusercontent.com/u/74444212?v=4)
+
+**[🆕 ml-roadmap ：完整的机器学习路线图—从头开始Python实现、数学解释、测试代码和实际项目。](https://github.com/AbrarRagib/ml-roadmap)**
+
+⭐ 5 star (新项目) · Jupyter Notebook · The complete machine learning roadmap — from-scratch Python implementationsthe math explained
+
+📅 2026-07-05T17:48:09Z
 
 ---
 
@@ -242,101 +316,81 @@ DeepSearchQA为0 -领先于腾讯桌面上的每个开放型号，并与**Claude
 
 ---
 
-### GitHub New (New AI)
-![🆕 NCA_Simulator ：基于网络的可视化工具和逐步检查器，用于神经细胞自动机（ NCA ） ，具有实时模拟和细胞级状态分析功能。](https://avatars.githubusercontent.com/u/249057184?v=4)
-
-**[🆕 NCA_Simulator ：基于网络的可视化工具和逐步检查器，用于神经细胞自动机（ NCA ） ，具有实时模拟和细胞级状态分析功能。](https://github.com/Miyamoto-Renya/NCA_Simulator)**
-
-⭐ 2 star (新项目) · JavaScript · A web-based visualizer and step-by-step inspector for Neural Cellular Automata (NCA) featuring real-time simulation and cell-level state analysis
-
-📅 2026-07-06T09:39:15Z
-
----
-
-### GitHub New (New AI)
-![🆕 AI-Text-Processing-Assistant ：使用Python、Ollama、Prompt Engineering、结构化JSON生成、日志记录、验证和本地LLM集成构建的生产型AI文本处理助手。](https://avatars.githubusercontent.com/u/297783738?v=4)
-
-**[🆕 AI-Text-Processing-Assistant ：使用Python、Ollama、Prompt Engineering、结构化JSON生成、日志记录、验证和本地LLM集成构建的生产型AI文本处理助手。](https://github.com/qaadeer55/AI-Text-Processing-Assistant)**
-
-⭐ 2 star (新项目) · Python · Production-style AI Text Processing Assistant built with Pythonand Local LLM integration
-
-📅 2026-07-06T09:16:13Z
-
----
-
 ## 💬 社交动态
 
+### Hacker News AI
+**[Show HN ： Wayflow -可嵌入的AI工作流生成器（开源）](https://wayflow.build/)**
+
+这就是为什么我创建了Wayflow我通过针对**OpenAI**兼容的API来做到这一点，几乎所有的前沿模型都支持
+
+📅 Tue, 07 Jul 2026 16:23:22 +0000
+
+---
+
 ### Reddit: r/artificial
-**[经过几个月的构建，我今天发布了我的第一个iOS应用程序！ ！](https://www.reddit.com/r/artificial/comments/1up4kww/after_months_of_building_i_shipped_my_first_ever/)**
+![具有讽刺意味的是](https://preview.redd.it/bawqqckp8ubh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a76042717c54fbdaa98d9768d367b07cd4dd7333)
 
-继续使用人工智能进行实际决策-你给它一个艰难的决定和五个不同的模型（克劳德
+**[具有讽刺意味的是](https://www.reddit.com/r/artificial/comments/1uq0wjl/the_irony/)**
 
-📅 2026-07-06T17:46:00.000Z
+来自**Google**新闻源。由/u/Tactical_Hotdog提交[link] [comments]
+
+📅 2026-07-07T16:55:45.000Z
 
 ---
 
 ### Reddit: r/artificial
-![蚂蚁金服的Robbyant在Apache-2.0下开源了其LingBot-Vision系列； Meta DINOv3模型在自定义许可下对船舶进行基准测试](https://preview.redd.it/8blz80l2pnbh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=eb49885243c9d8912937b01c265fc0b86f3c7b09)
+![随着DeepSeek打造自己的芯片，中国考虑限制海外人工智能接入](https://external-preview.redd.it/_SJZ1bt0-Rgyg1U7G843XuL0FK6_bJMB3j1fN1lDZU0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8d63597138d4c8e365ba35895a54778d69a08ee9)
 
-**[蚂蚁金服的Robbyant在Apache-2.0下开源了其LingBot-Vision系列； Meta DINOv3模型在自定义许可下对船舶进行基准测试](https://www.reddit.com/r/artificial/comments/1up6mva/ants_robbyant_opensourced_its_lingbotvision/)**
+**[随着DeepSeek打造自己的芯片，中国考虑限制海外人工智能接入](https://www.reddit.com/r/artificial/comments/1upz3b6/china_considers_curbs_on_overseas_ai_access_as/)**
 
-该公司将其目标描述为为所有机器人构建一个大脑加载需要他们的定制lbot_vision_infer库，而不是普通的变压器或TIMM
+提交者/u/andix3 [link] [comments]
 
-📅 2026-07-06T18:55:29.000Z
-
----
-
-### X: OpenAI
-**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-网址来源： http://twitter.com/**OpenAI**
-
-📅 2026-07-07T00:09:09.806Z
-
----
-
-### X: DeepSeek
-**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
-
-网址来源： http://twitter.com/**DeepSeek**_ai
-
-📅 2026-07-07T00:09:23.984Z
+📅 2026-07-07T15:51:08.000Z
 
 ---
 
 ### Hacker News
-**[舰种](https://claude.ai/public/artifacts/2c647671-3f94-4d22-b3c1-f2b5a0e17b6e)**
+**[绘制您可以从美国政府购买的房源地图，价格< $ 10万](https://govauctions.app/research/cheapest-homes-in-america)**
 
-文章网址： https://**Claude**ai/public/artifacts/2c647671-3f94-4d22-b3c1-f2b5a0e17b6e评论网址： https://**new**s
+文章网址： https://govauctionsapp/research/cheapest-homes-in-america评论网址： https://**new**s
 
-📅 Mon, 06 Jul 2026 22:48:02 +0000
-
----
-
-### Reddit: r/artificial
-**[你现在可以观看语言模型的思考。我构建了一种方法来可视化AI不会说的单词](https://www.reddit.com/r/artificial/comments/1upejv3/you_can_just_watch_a_language_model_think_now_i/)**
-
-**Anthropic**今天发表了J-空间论文tl; dr: models有一小部分内部“沉默的单词” （一次约几十个概念）
-
-📅 2026-07-06T23:52:40.000Z
+📅 Tue, 07 Jul 2026 16:42:41 +0000
 
 ---
 
-### Reddit: r/artificial
-**[SpaceX在6个月内烧毁了260颗自己的卫星，这显然只是例行公事](https://www.reddit.com/r/artificial/comments/1upbdoa/spacex_burned_up_260_of_its_own_satellites_in_6/)**
+### Hacker News
+**[中国官员因收受$ 3.25亿贿赂而被判处死刑](https://www.bbc.com/news/articles/c33y0n1v1xjo)**
 
-他们计划最终总共42,000个没有碎片，这很好，但研究人员正在询问，当您多年来在高层大气中反复燃烧数百个巨大的金属物体时会发生什么
+文章网址： https://wwwcom/**new**s/articles/c33y0n1v1xjo评论网址： https://**new**s
 
-📅 2026-07-06T21:49:31.000Z
+📅 Tue, 07 Jul 2026 16:38:08 +0000
 
 ---
 
-### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Hacker News
+**[通过最终令牌偏好优化减少厄运循环](https://www.liquid.ai/blog/antidoom)**
 
-Title: 520: Web服务器返回未知错误
+文章网址： https://wwwai/blog/antidoom评论网址： https://**new**s
 
-📅 2026-07-07T00:09:09.806Z
+📅 Tue, 07 Jul 2026 16:31:19 +0000
+
+---
+
+### Hacker News
+**[Jim的TrueType二维码字体](https://github.com/jimparis/qr-font)**
+
+文章网址： https://githubcom/jimparis/qr-font评论网址： https://**new**s
+
+📅 Tue, 07 Jul 2026 16:30:42 +0000
+
+---
+
+### Hacker News
+**[MacSurf 1.68 – NetSurf on OS 9发布](https://github.com/mplsllc/macsurf/releases/tag/v1.86)**
+
+文章网址： https://githubcom/mplsllc/macsurf/**release**s/tag/v1
+
+📅 Tue, 07 Jul 2026 16:24:40 +0000
 
 ---
 
