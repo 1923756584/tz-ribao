@@ -1,12 +1,12 @@
 ---
 title: "2026年7月7日 - TZ日报"
-date: 2026-07-07T17:19:30.716Z
+date: 2026-07-07T23:59:25.546Z
 draft: false
 ---
 
 # 2026年7月7日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/7/7 17:19:30
+> 📊 今日汇总 37 条 · 🕐 2026/7/7 23:59:25
 
 ---
 
@@ -16,11 +16,20 @@ draft: false
 - **前沿研究**: 8 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
-- **社交动态**: 8 条
+- **社交动态**: 7 条
 
 ---
 
 ## ✨ 产品更新
+
+### OpenAI Blog
+**[借助ChatGPT和Codex ， Australian Payments Plus的移动速度更快](https://openai.com/index/australian-payments-plus)**
+
+了解Australian Payments Plus如何使用Chat**GPT** Enterprise和Codex更快地处理支付复杂性AP + ，从而节省时间、提高质量并保持以人为本的判断
+
+📅 Tue, 07 Jul 2026 00:00:00 GMT
+
+---
 
 ### Google AI Blog
 ![在Gemini API中扩展托管代理：后台任务、远程MCP等](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp)
@@ -34,6 +43,33 @@ draft: false
 ---
 
 ### TechCrunch AI Products
+**[Meta推出全新AI图像生成器Muse](https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/)**
+
+新的**图像生成**模型有许多用例，包括广告、装饰和基于创作者的机会
+
+📅 Tue, 07 Jul 2026 22:18:10 +0000
+
+---
+
+### TechCrunch AI Products
+**[为什么开源人工智能的崛起并没有伤害人类……但](https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/)**
+
+**开源**模型的成功并不是以牺牲前沿实验室为代价的，相反，它们似乎都捕捉到了同一生命周期的两个阶段
+
+📅 Tue, 07 Jul 2026 20:04:32 +0000
+
+---
+
+### TechCrunch AI Products
+**[微软通过更多地依靠自己的模型加入人工智能成本削减趋势](https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/)**
+
+微软是最新削减人工智能支出的硅谷巨头。
+
+📅 Tue, 07 Jul 2026 19:58:20 +0000
+
+---
+
+### TechCrunch AI Products
 **[Claude Cowork扩展到移动和网络](https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/)**
 
 通过此**更新**，在他们的手机上获取状态**更新**
@@ -42,21 +78,12 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[如果你使用谷歌，你就是在训练它的人工智能。退订方法如下。](https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/)**
+### Hugging Face
+**[一键从Hugging Face到Amazon SageMaker Studio](https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio)**
 
-认为这是一个迟来的PSA ：谷歌最近对隐私设置的更改允许公司存储更多数据”，以改进其人工智能模型
+一键从Hugging Face到Amazon SageMaker St**Udio**
 
-📅 Mon, 06 Jul 2026 17:04:58 +0000
-
----
-
-### TechCrunch AI Products
-**[微软在Xbox、商业销售部门裁员近5000人](https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/)**
-
-微软周一裁员约4800人，占全球员工总数的21% ，这是一系列裁员中的最新一次，引发了人们对人工智能取代工作岗位的担忧
-
-📅 Mon, 06 Jul 2026 15:32:43 +0000
+📅 Tue, 07 Jul 2026 21:15:33 GMT
 
 ---
 
@@ -70,47 +97,20 @@ draft: false
 ---
 
 ### Hugging Face
-**[LeRobot v0.6.0 ：想象、评估、改进](https://huggingface.co/blog/lerobot-release-v060)**
+**[在任何云上运行AI工作负载，在Hugging Face上存储：使用SkyPilot实现零缺口存储](https://huggingface.co/blog/skypilot-hf-storage)**
 
-LeRobot v0.6.0 ：想象、评估、改进
+在任何云上运行AI工作负载，在Hugging Face上存储：使用SkyPilot实现零缺口存储
 
 📅 Tue, 07 Jul 2026 00:00:00 GMT
 
 ---
 
 ### Hugging Face
-**[PRX第4部分：我们的数据策略](https://huggingface.co/blog/Photoroom/prx-part4-data)**
+**[LeRobot v0.6.0 ：想象、评估、改进](https://huggingface.co/blog/lerobot-release-v060)**
 
-PRX第4部分：我们的数据策略
+LeRobot v0.6.0 ：想象、评估、改进
 
-📅 Mon, 06 Jul 2026 15:30:55 GMT
-
----
-
-### Hugging Face
-**[🤗 内核：主要更新](https://huggingface.co/blog/revamped-kernels)**
-
-🤗 内核：主要**更新**
-
-📅 Mon, 06 Jul 2026 00:00:00 GMT
-
----
-
-### TechCrunch AI Products
-**[Savi的应用程序旨在保护消费者免受现实的人工智能诈骗，例如绑架者索要赎金](https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/)**
-
-该公司刚刚筹集了700万美元的种子资金，并将于周二**推出**适用于iPhone和Android的应用程序
-
-📅 Tue, 07 Jul 2026 12:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[首批美国自动地面车辆正在乌克兰作战](https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/)**
-
-Forterra已在乌克兰冲突地区部署了100多辆自动驾驶全地形车。
-
-📅 Tue, 07 Jul 2026 09:00:00 +0000
+📅 Tue, 07 Jul 2026 00:00:00 GMT
 
 ---
 
@@ -233,31 +233,22 @@ DeepSearchQA为0 -领先于腾讯桌面上的每个开放型号，并与**Claude
 ---
 
 ### Ars Technica
-**[在Anthropic的反监控立场之后， Secret Claude跟踪器震撼了用户](https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/)**
+**[面对美国的出口管制，中国的DeepSeek计划制造自己的芯片](https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/)**
 
-**Anthropic**被指控监视用户；工程师说“实验”已经结束。
+现在还为时过早，但计划是减少对英伟达和华为的依赖。
 
-📅 Mon, 06 Jul 2026 16:44:18 +0000
-
----
-
-### ZDNet AI
-**[Anthropic的Claude Cowork前往云端，因为数据显示90%的会话不是用于编码的](https://www.zdnet.com/article/anthropic-claude-cowork-comes-to-phone-web-cloud/)**
-
-**Claude** Cowork正在转向网络和移动，新数据显示，它的使用范围远远超出了编码和软件开发。它可以安全地替换OpenClaw吗？
-
-📅 Tue, 07 Jul 2026 16:00:03 GMT
+📅 Tue, 07 Jul 2026 16:14:53 +0000
 
 ---
 
-### VentureBeat
-![让Liberty Mutual摆脱寓言5中断的人工智能架构](https://images.ctfassets.net/jdtwqhzvc2n1/2Rn00oBjZWR6pu5uCmlkNU/9d8594cc1610c504b4eb4af5f3328192/u7277289442_An_AI_robot_is_sitting_at_a_dashboard._There_are__98eea1d5-8a60-4ac7-a4ab-9582454ad8c8_1.png?w=300&q=30)
+### The Verge
+![Anthropic正在手机和网络上推出Claude Cowork](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Cowork-Web-Mobile-Press-No-Logo-1920x1080-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[让Liberty Mutual摆脱寓言5中断的人工智能架构](https://venturebeat.com/orchestration/the-ai-architecture-that-let-liberty-mutual-shrug-off-the-fable-5-outage)**
+**[Anthropic正在手机和网络上推出Claude Cowork](https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web)**
 
-这是因为18个月前，他们正是为这种场景建立了“人工智能骨干” “如果一个新的开始找不到指导文件，人工智能代理将如何
+从周二开始， **Anthropic**的**Claude** Cowork人工智能平台将**首次**在移动和网络上**推出**在未来几周内，扩展的访问权限将首先向Max用户**推出**，并以其他方案向**Claude**用户**推出**”
 
-📅 Tue, 07 Jul 2026 16:37:48 GMT
+📅 2026-07-07T17:46:59.000Z
 
 ---
 
@@ -270,25 +261,23 @@ DeepSearchQA为0 -领先于腾讯桌面上的每个开放型号，并与**Claude
 
 ---
 
-## 📦 GitHub热门
+### Wired Technology
+**[Meta现在允许任何人在AI图像中使用您的Instagram照片-除非您选择退出](https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/)**
 
-### GitHub Active (AI/ML)
-![管道： Kubeflow的机器学习管道](https://avatars.githubusercontent.com/u/33164907?v=4)
+作为**Meta**的Muse Image模型**推出**的一部分，拥有公共帐户的Instagram用户需要选择退出以阻止其内容的人工智能生成
 
-**[管道： Kubeflow的机器学习管道](https://github.com/kubeflow/pipelines)**
-
-⭐ 4169星· 2028叉· Python · Kubeflow机器学习流水线
-
-📅 2026-07-07T17:18:00Z
+📅 Tue, 07 Jul 2026 21:59:29 +0000
 
 ---
+
+## 📦 GitHub热门
 
 ### GitHub New (New AI)
 ![🆕 认知核心技能：针对LLM、SLM、AI代理和世界模型的通用、行业中立的认知核心技能（感知、记忆、推理、规划、行动、验证、学习、治理）分类法，包括模式、159个技能卡、基准和CI。](https://avatars.githubusercontent.com/u/272680511?v=4)
 
 **[🆕 认知核心技能：针对LLM、SLM、AI代理和世界模型的通用、行业中立的认知核心技能（感知、记忆、推理、规划、行动、验证、学习、治理）分类法，包括模式、159个技能卡、基准和CI。](https://github.com/eli-labz/Cognitive-Core-Skills)**
 
-⭐ 271 star (新项目) · Python · A universaland world models — with schemas
+⭐ 274 star (新项目) · Python · A universaland world models — with schemas
 
 📅 2026-07-05T21:25:55Z
 
@@ -306,6 +295,17 @@ DeepSearchQA为0 -领先于腾讯桌面上的每个开放型号，并与**Claude
 ---
 
 ### GitHub New (New AI)
+![🆕 fly-brain-snntorch ：果蝇（黑腹果蝇）大脑的稀疏snnTorch实现](https://avatars.githubusercontent.com/u/243371157?v=4)
+
+**[🆕 fly-brain-snntorch ：果蝇（黑腹果蝇）大脑的稀疏snnTorch实现](https://github.com/Neuromorphicism/fly-brain-snntorch)**
+
+⭐ 2 star (新项目) · Python · Sparse snnTorch implementation of Fruit Fly (Drosophila Melanogaster) Brain
+
+📅 2026-07-07T14:50:59Z
+
+---
+
+### GitHub New (New AI)
 ![🆕 customer-service-chatbot ：使用Streamlit和Python构建的基于规则的NLP （ TF-IDF +余弦相似度）的人工智能客户服务聊天机器人。](https://avatars.githubusercontent.com/u/202396349?v=4)
 
 **[🆕 customer-service-chatbot ：使用Streamlit和Python构建的基于规则的NLP （ TF-IDF +余弦相似度）的人工智能客户服务聊天机器人。](https://github.com/manvendrasingh0712/customer-service-chatbot)**
@@ -318,79 +318,68 @@ DeepSearchQA为0 -领先于腾讯桌面上的每个开放型号，并与**Claude
 
 ## 💬 社交动态
 
+### X: OpenAI
+**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+网址来源： http://twitter.com/**OpenAI**
+
+📅 2026-07-07T23:58:03.663Z
+
+---
+
+### X: DeepSeek
+**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+
+网址来源： http://twitter.com/**DeepSeek**_ai
+
+📅 2026-07-07T23:58:07.959Z
+
+---
+
 ### Hacker News AI
-**[Show HN ： Wayflow -可嵌入的AI工作流生成器（开源）](https://wayflow.build/)**
+**[询问HN ：您如何使用人工智能生成的代码更新文档？](https://news.ycombinator.com/item?id=48825447)**
 
-这就是为什么我创建了Wayflow我通过针对**OpenAI**兼容的API来做到这一点，几乎所有的前沿模型都支持
+我看到谷歌有75%的代码是人工智能生成的，总共有%s的代码是人工智能生成的
 
-📅 Tue, 07 Jul 2026 16:23:22 +0000
+📅 Tue, 07 Jul 2026 23:31:20 +0000
+
+---
+
+### Hacker News AI
+**[OpenAI如何为9亿用户提供低延迟语音AI](https://blog.bytebytego.com/p/how-openai-delivers-low-latency-voice)**
+
+文章网址： https://blogcom/p/how-**OpenAI**-delivers-low-latency-voice评论网址： https://**new**s
+
+📅 Tue, 07 Jul 2026 23:26:38 +0000
 
 ---
 
 ### Reddit: r/artificial
-![具有讽刺意味的是](https://preview.redd.it/bawqqckp8ubh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a76042717c54fbdaa98d9768d367b07cd4dd7333)
+![微软转向内部人工智能模型](https://external-preview.redd.it/nUGChFHuTyIH8q1nCto4DWIFZaOyBt5nsMKr7QKfdi0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3395e060175225dc57ae70fb10afecddce9b5544)
 
-**[具有讽刺意味的是](https://www.reddit.com/r/artificial/comments/1uq0wjl/the_irony/)**
+**[微软转向内部人工智能模型](https://www.reddit.com/r/artificial/comments/1uq7fsg/microsoft_moves_toward_inhouse_ai_models/)**
 
-来自**Google**新闻源。由/u/Tactical_Hotdog提交[link] [comments]
+提交者/u/Koyaanisquatsi_[link] [comments]
 
-📅 2026-07-07T16:55:45.000Z
+📅 2026-07-07T20:42:52.000Z
 
 ---
 
 ### Reddit: r/artificial
-![随着DeepSeek打造自己的芯片，中国考虑限制海外人工智能接入](https://external-preview.redd.it/_SJZ1bt0-Rgyg1U7G843XuL0FK6_bJMB3j1fN1lDZU0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8d63597138d4c8e365ba35895a54778d69a08ee9)
+**[我不再像对待五种单独的家务一样对待企业](https://www.reddit.com/r/artificial/comments/1uq2wgs/i_stopped_treating_business_setup_like_five/)**
 
-**[随着DeepSeek打造自己的芯片，中国考虑限制海外人工智能接入](https://www.reddit.com/r/artificial/comments/1upz3b6/china_considers_curbs_on_overseas_ai_access_as/)**
+我一直在推迟业务设置，因为每一步都感觉像是另一个工具帐户或订阅。这一次，我尝试通过**Claude**进行操作，并将整个工作流程保存在一个工作流程中：设置
 
-提交者/u/andix3 [link] [comments]
-
-📅 2026-07-07T15:51:08.000Z
+📅 2026-07-07T18:06:21.000Z
 
 ---
 
-### Hacker News
-**[绘制您可以从美国政府购买的房源地图，价格< $ 10万](https://govauctions.app/research/cheapest-homes-in-america)**
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-文章网址： https://govauctionsapp/research/cheapest-homes-in-america评论网址： https://**new**s
+Title: 520: Web服务器返回未知错误
 
-📅 Tue, 07 Jul 2026 16:42:41 +0000
-
----
-
-### Hacker News
-**[中国官员因收受$ 3.25亿贿赂而被判处死刑](https://www.bbc.com/news/articles/c33y0n1v1xjo)**
-
-文章网址： https://wwwcom/**new**s/articles/c33y0n1v1xjo评论网址： https://**new**s
-
-📅 Tue, 07 Jul 2026 16:38:08 +0000
-
----
-
-### Hacker News
-**[通过最终令牌偏好优化减少厄运循环](https://www.liquid.ai/blog/antidoom)**
-
-文章网址： https://wwwai/blog/antidoom评论网址： https://**new**s
-
-📅 Tue, 07 Jul 2026 16:31:19 +0000
-
----
-
-### Hacker News
-**[Jim的TrueType二维码字体](https://github.com/jimparis/qr-font)**
-
-文章网址： https://githubcom/jimparis/qr-font评论网址： https://**new**s
-
-📅 Tue, 07 Jul 2026 16:30:42 +0000
-
----
-
-### Hacker News
-**[MacSurf 1.68 – NetSurf on OS 9发布](https://github.com/mplsllc/macsurf/releases/tag/v1.86)**
-
-文章网址： https://githubcom/mplsllc/macsurf/**release**s/tag/v1
-
-📅 Tue, 07 Jul 2026 16:24:40 +0000
+📅 2026-07-07T23:58:03.663Z
 
 ---
 
