@@ -1,12 +1,12 @@
 ---
 title: "2026年7月10日 - TZ日报"
-date: 2026-07-10T16:58:35.512Z
+date: 2026-07-10T23:59:01.343Z
 draft: false
 ---
 
 # 2026年7月10日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/7/10 16:58:35
+> 📊 今日汇总 38 条 · 🕐 2026/7/10 23:59:01
 
 ---
 
@@ -67,15 +67,6 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[《纽约时报》称OpenAI在ChatGPT版权审判中隐藏证据](https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/)**
-
-新闻**发布**商表示， **OpenAI**隐藏了可以在Chat**GPT**输出中识别版权新闻的工具和数据集，并通过新的制裁动议**升级**了他们的诉讼
-
-📅 Thu, 09 Jul 2026 19:05:58 +0000
-
----
-
 ### OpenAI Blog
 **[德国电信如何使用人工智能重新布线电信](https://openai.com/index/deutsche-telekom)**
 
@@ -109,6 +100,15 @@ Chat**GPT** Work是一个可以跨应用程序和文件采取行动的代理，�
 了解**OpenAI**如何根据负责任的人工智能使用原则与政府和国家安全合作伙伴接洽
 
 📅 Wed, 08 Jul 2026 13:30:00 GMT
+
+---
+
+### OpenAI Blog
+**[在编码评估中从噪声中分离信号](https://openai.com/index/separating-signal-from-noise-coding-evaluations)**
+
+**OpenAI**的一项新分析揭示了SWE-Bench在评估AI模型时对可靠性和准确性的担忧
+
+📅 Wed, 08 Jul 2026 13:00:00 GMT
 
 ---
 
@@ -189,24 +189,24 @@ Chat**GPT** Work是一个可以跨应用程序和文件采取行动的代理，�
 ## 🌍 行业展望
 
 ### VentureBeat
-![SpaceX的Grok 4.5以竞争对手的一半价格推出—这就是为什么这可能会撼动Anthropic和OpenAI](https://images.ctfassets.net/jdtwqhzvc2n1/2mrt92ZzosniNYpcSdNEyl/bc556427d375d26cce0a2fab2fbf6d92/Nuneybits_Vector_art_of_launch_rocket_wrapped_in_code_strings_b_81b7a693-bf24-412d-a48b-444b1a91b128.webp?w=300&q=30)
+![OpenAI推出ChatGPT Work ，这是一种基于云的AI代理，可跨电子邮件、Slack和日历管理任务](https://images.ctfassets.net/jdtwqhzvc2n1/XaJBJbkMIolDxyrlIw5Qd/b9e360da7531ae921f32528977713b61/Nuneybits_Magazine-style_digital_illustration_of_oversized_clou_64512c24-eef8-4ed0-9aae-efcb0615033a.webp?w=300&q=30)
 
-**[SpaceX的Grok 4.5以竞争对手的一半价格推出—这就是为什么这可能会撼动Anthropic和OpenAI](https://venturebeat.com/technology/spacexs-grok-4-5-launches-at-half-the-price-of-rivals-heres-why-that-could-rattle-anthropic-and-openai)**
+**[OpenAI推出ChatGPT Work ，这是一种基于云的AI代理，可跨电子邮件、Slack和日历管理任务](https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars)**
 
-这在很大程度上削弱了**Anthropic**的**Claude** Opus系列和**OpenAI**的前沿车型等竞争对手的高端车型Cursor的业务基础是为开发人员提供他们选择的车型，包括**Claude**和**GPT**
+**OpenAI**周四**推出**Chat**GPT** Work一家IPO公司需要Chat**GPT** Work来证明企业AI可以产生收入Chat**GPT** Work的**推出**时间不可能与**OpenAI**的IPO轨迹分开
 
-📅 Wed, 08 Jul 2026 22:00:00 GMT
+📅 Fri, 10 Jul 2026 20:20:00 GMT
 
 ---
 
 ### VentureBeat
-![OpenAI推出GPT-Live ，这是一种全双工语音升级，可以让ChatGPT更像人一样说话](https://images.ctfassets.net/jdtwqhzvc2n1/7uLEfpPRsD8TtbrDCreQiw/4351064132807eb8967c0c210933044c/Nuneybits_Vector_art_of_pastel_watercolor_dialogue_waves_rippli_2589c391-906f-4621-85ff-f3e477893491.webp?w=300&q=30)
+![华尔街正在讨论人工智能的建设。企业刚刚回答： 86%的企业表示他们的GPU运行容量只有一半或更少](https://images.ctfassets.net/jdtwqhzvc2n1/2h0wdk2i0wZME0744hQS40/282b7a507e29b9f39dbe33ad85499a8c/Gemini_Generated_Image_nocstvnocstvnocs.png?w=300&q=30)
 
-**[OpenAI推出GPT-Live ，这是一种全双工语音升级，可以让ChatGPT更像人一样说话](https://venturebeat.com/technology/openai-launches-gpt-live-a-full-duplex-voice-upgrade-that-lets-chatgpt-talk-more-like-a-person)**
+**[华尔街正在讨论人工智能的建设。企业刚刚回答： 86%的企业表示他们的GPU运行容量只有一半或更少](https://venturebeat.com/orchestration/wall-street-is-debating-the-ai-buildout-enterprises-just-answered-86-say-their-gpus-run-at-half-capacity-or-less)**
 
-一对新的语音模型，从根本上重新设计人们与Chat**GPT**的交谈方式—用可以同时收听和说话的架构取代公司现有的高级语音模式“随着我们**发布**新的前沿模型，我们将不断**更新**GPT-Live使用的模型
+商务部出口订单使**Anthropic**的**Claude** Fable 5企业离线约三周； **OpenAI**预览了**GPT**-5
 
-📅 Wed, 08 Jul 2026 18:49:06 GMT
+📅 Fri, 10 Jul 2026 19:29:07 GMT
 
 ---
 
@@ -231,6 +231,17 @@ Chat**GPT** Work是一个可以跨应用程序和文件采取行动的代理，�
 ---
 
 ### VentureBeat
+![57%的企业认为人工智能代理自信地错了。修复是一个代理上下文层，但谁有一个？](https://images.ctfassets.net/jdtwqhzvc2n1/1dmfePLwv5tMnsvynK7fRY/af274baef6c18c897c0f82229f923bf8/agentic-ai-context-smk1.jpg?w=300&q=30)
+
+**[57%的企业认为人工智能代理自信地错了。修复是一个代理上下文层，但谁有一个？](https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one)**
+
+该模型没有失败当有人实际构建一个时，受管理的上下文是什么样的每个主要数据和人工智能平台供应商现在都在构建该层的某个版本
+
+📅 Fri, 10 Jul 2026 20:58:32 GMT
+
+---
+
+### VentureBeat
 ![使用多种人工智能模型的企业将失败率低估了2.25倍](https://images.ctfassets.net/jdtwqhzvc2n1/2v6ktEycEenOAx43dJ5Ncq/61fb4acdaa072dbeb71a9fece4a734e3/hard_prompt_breaking_through_multi-llm_setup.jpg?w=300&q=30)
 
 **[使用多种人工智能模型的企业将失败率低估了2.25倍](https://venturebeat.com/orchestration/enterprises-using-multiple-ai-models-are-underestimating-failure-rates-by-2-25x)**
@@ -251,20 +262,11 @@ Chat**GPT** Work是一个可以跨应用程序和文件采取行动的代理，�
 ---
 
 ### Wired Technology
-**[Meta对“粗心大意的人”作者的追求是无情和自我挫败的](https://www.wired.com/story/metas-pursuit-of-the-careless-people-author-is-relentless-and-self-defeating/)**
+**[微软报告排放量大幅增加25 ％](https://www.wired.com/story/microsoft-25-percent-jump-in-carbon-emissions/)**
 
-是的， Sarah Wynn-Williams违反了保持沉默的协议，但权力差距支持了**Meta**是一个无情的欺凌者的观点
+数据中心正在推动公司的电力使用和碳污染。
 
-📅 Fri, 10 Jul 2026 15:00:00 +0000
-
----
-
-### Wired Technology
-**[如何在iPhone或Android手机上分享您的位置信息(2026)](https://www.wired.com/story/how-to-share-your-location-android-ios/)**
-
-无论是通过**Google**地图还是紧急求救信号，您都可以通过多种方式快速告知亲友您的位置
-
-📅 Fri, 10 Jul 2026 12:00:00 +0000
+📅 Fri, 10 Jul 2026 23:16:56 +0000
 
 ---
 
@@ -316,12 +318,21 @@ Chat**GPT** Work是一个可以跨应用程序和文件采取行动的代理，�
 
 ## 💬 社交动态
 
+### Hacker News
+**[GPT-5.6 Sol Ultra生成循环双盖猜想的证明[pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf)**
+
+**OpenAI**评论网址： https://**new**s
+
+📅 Fri, 10 Jul 2026 18:29:19 +0000
+
+---
+
 ### Reddit: r/artificial
-**[为什么人工智能最近总是出错？](https://www.reddit.com/r/artificial/comments/1usrq2v/why_is_ai_constantly_wrong_lately/)**
+**[泄露的Gemini内部推理+ UI架构](https://www.reddit.com/r/artificial/comments/1ut0ugr/leaked_gemini_internal_reasoning_ui_schema/)**
 
-**Claude**和**Gemini**很生气过去几周，我总是对他们大喊大叫，因为他们不记得我们刚才谈过的事情
+向双子座询问了一个基本的世界杯统计问题（西班牙进入前4名的次数） ，以及它从谷歌的知识图表中提取的实体ID
 
-📅 2026-07-10T15:58:08.000Z
+📅 2026-07-10T21:30:45.000Z
 
 ---
 
@@ -341,7 +352,7 @@ You can customize: Agent loop behavior Available tools MCP servers Skills Model 
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-07-10T16:57:27.973Z
+📅 2026-07-10T23:57:51.615Z
 
 ---
 
@@ -350,45 +361,34 @@ You can customize: Agent loop behavior Available tools MCP servers Skills Model 
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-07-10T16:57:34.256Z
+📅 2026-07-10T23:57:56.257Z
+
+---
+
+### Hacker News
+**[苹果起诉OpenAI ，指控前员工窃取商业机密](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/)**
+
+com/2026/07/10/apple-sues-**OpenAI**/评论网址： https://**new**sid = 48865019积分： 260 #评论： 125
+
+📅 Fri, 10 Jul 2026 20:47:09 +0000
 
 ---
 
 ### Hacker News AI
-**[元AI图像检测器无法识别自己裁剪的一些AI图像](https://www.reuters.com/business/meta-ai-image-detector-fails-identify-some-its-own-cropped-ai-images-reuters-2026-07-10/)**
+**[Show HN ：允许AI代理请求残疾保险报价的MCP服务器](https://github.com/seaworthy-io/seaworthy-mcp)**
 
-文章网址： https://wwwcom/business/**Meta**-ai-image-detector-fails-identify-some-its-own-cropped-ai-images-reuters-2026-07-10/评论网址： https://**new**s
+我在**Claude** Code中对其进行了vibe编码，然后在发货前进行了审查和测试根据**Claude**的说法
 
-📅 Fri, 10 Jul 2026 16:10:38 +0000
-
----
-
-### Hacker News AI
-**[Litert.js ，谷歌的高性能网络AI推理](https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/)**
-
-**Google**blogcom/litertjs-**Google**s-high-performance-web-ai-inference/评论网址： https://**new**s
-
-📅 Fri, 10 Jul 2026 16:03:02 +0000
+📅 Fri, 10 Jul 2026 21:56:00 +0000
 
 ---
 
 ### Reddit: r/artificial
-![谷歌DeepMind研究人员绘制出黑客劫持人工智能代理的方式](https://external-preview.redd.it/myc51NU5MYMGZ_DYe4AdzFDbDDTL1GU8VJh7gjFZchs.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=32542b72a642cfe1be68c355fabbcbbb6e1550a6)
+**[两年后的新开始](https://www.reddit.com/r/artificial/comments/1uswtcq/a_new_beginning_after_two_years/)**
 
-**[谷歌DeepMind研究人员绘制出黑客劫持人工智能代理的方式](https://www.reddit.com/r/artificial/comments/1usry3x/google_deepmind_researchers_map_out_ways_hackers/)**
+经过两年的惯常实践：测量小型语言模型在处理不同的人工智能关系框架时会发生什么—而不是他们所说的用**Claude** Opus实例构建的实际几何测量
 
-提交者/u/Sumsub_Insights [link] [comments]
-
-📅 2026-07-10T16:06:05.000Z
-
----
-
-### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Title: 520: Web服务器返回未知错误
-
-📅 2026-07-10T16:57:27.973Z
+📅 2026-07-10T18:59:04.000Z
 
 ---
 
