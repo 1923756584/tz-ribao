@@ -1,12 +1,12 @@
 ---
 title: "2026年7月11日 - TZ日报"
-date: 2026-07-11T15:58:49.777Z
+date: 2026-07-11T23:57:19.694Z
 draft: false
 ---
 
 # 2026年7月11日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/7/11 15:58:49
+> 📊 今日汇总 38 条 · 🕐 2026/7/11 23:57:19
 
 ---
 
@@ -242,13 +242,13 @@ Chat**GPT** Work是一个可以跨应用程序和文件采取行动的代理，�
 ---
 
 ### VentureBeat
-![使用多种人工智能模型的企业将失败率低估了2.25倍](https://images.ctfassets.net/jdtwqhzvc2n1/2v6ktEycEenOAx43dJ5Ncq/61fb4acdaa072dbeb71a9fece4a734e3/hard_prompt_breaking_through_multi-llm_setup.jpg?w=300&q=30)
+![别管打字了； slopsquatting是人工智能编码工具造成的软件供应链威胁](https://images.ctfassets.net/jdtwqhzvc2n1/dIQcSeSRhbDxj2aciSnha/82de3e1c0e427d81134cbf5ff3516b5c/u7277289442_A_modern_interpretation_of_cybersecurity._3D._--a_48e0894a-799a-4645-9c75-f18358f3b4bf_1.png?w=300&q=30)
 
-**[使用多种人工智能模型的企业将失败率低估了2.25倍](https://venturebeat.com/orchestration/enterprises-using-multiple-ai-models-are-underestimating-failure-rates-by-2-25x)**
+**[别管打字了； slopsquatting是人工智能编码工具造成的软件供应链威胁](https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools)**
 
-一项对来自21家提供商的67个前沿模型进行评估的新研究表明，假设在数学上存在缺陷—该缺陷有一个名称：共同失效天花板研究人员测试了他们的67个模型池，其中包括**GPT**-5
+了解Slopsquatting是什么Slopsquatting是一种新型的供应链攻击，它使用大型语言模型（ LLM ）幻觉将恶意代码注入开发工作流程即使是表现最好的模型**GPT**-4o ，也不会低于23 ％ ，即使有基于提示的缓解措施
 
-📅 Thu, 09 Jul 2026 18:46:56 GMT
+📅 Sat, 11 Jul 2026 16:00:00 GMT
 
 ---
 
@@ -284,6 +284,17 @@ Chat**GPT** Work是一个可以跨应用程序和文件采取行动的代理，�
 ---
 
 ### GitHub New (New AI)
+![🆕 Research-Grant-Finder-Agent ：一种代理AI工具，用于根据研究兴趣和提案相关性对NIH资助机会进行搜索、筛选和排名。](https://avatars.githubusercontent.com/u/10796623?v=4)
+
+**[🆕 Research-Grant-Finder-Agent ：一种代理AI工具，用于根据研究兴趣和提案相关性对NIH资助机会进行搜索、筛选和排名。](https://github.com/Quazi-07/Research-Grant-Finder-Agent)**
+
+⭐ 9 star (新项目) · Python · An agentic AI tool for searchingand ranking NIH funding opportunities based on research interests and proposal relevance
+
+📅 2026-07-08T01:13:33Z
+
+---
+
+### GitHub New (New AI)
 ![多🆕 步准度量估计：伯克利分校Zheng等提出的多步准度量估计的探索和最终的实际实施](https://avatars.githubusercontent.com/u/108653?v=4)
 
 **[多🆕 步准度量估计：伯克利分校Zheng等提出的多步准度量估计的探索和最终的实际实施](https://github.com/lucidrains/multistep-quasimetric-estimation)**
@@ -305,27 +316,7 @@ Chat**GPT** Work是一个可以跨应用程序和文件采取行动的代理，�
 
 ---
 
-### GitHub New (New AI)
-![🆕 EvalSurfer ：人工智能应用程序的技能优先、代理原生评估协议](https://avatars.githubusercontent.com/u/20547074?v=4)
-
-**[🆕 EvalSurfer ：人工智能应用程序的技能优先、代理原生评估协议](https://github.com/di37/EvalSurfer)**
-
-⭐ 5 star (新项目) · Python · Skill-first, agent-native evaluation protocol for AI apps
-
-📅 2026-07-08T21:58:11Z
-
----
-
 ## 💬 社交动态
-
-### Reddit: r/artificial
-**[每周回顾： GPT-5.6公开发布， Grok 4.5 ， Gemini 3.5 Pro延迟， Microsoft Copilot转换数据， DeepSeek API将于7月24日停用](https://www.reddit.com/r/artificial/comments/1utc0he/weekly_recap_gpt56_public_launch_grok_45_gemini/)**
-
-**OpenAI**本周**发布**了**GPT**-5来源： **OpenAI**/xAI/**Meta**博客、Euro**new**s、Bloomberg、TechCrunch、CNBC、TechTimes报道
-
-📅 2026-07-11T06:10:16.000Z
-
----
 
 ### Reddit: r/artificial
 ![苹果刚刚起诉了OpenAI。细节很疯狂。](https://preview.redd.it/shkrct50tlch1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cf7582e482e46fde3d9a87002283f4253a7c3666)
@@ -338,12 +329,21 @@ Chat**GPT** Work是一个可以跨应用程序和文件采取行动的代理，�
 
 ---
 
+### Reddit: r/artificial
+**[ChatGPT-Live vs Pi vs Lucy OS1 vs Gemini-Live ：最适合交谈的人工智能助手？](https://www.reddit.com/r/artificial/comments/1utqf02/chatgptlive_vs_pi_vs_lucy_os1_vs_geminilive_best/)**
+
+我通常没有发现Chat**GPT**足够适合我的日常使用风格，无法**升级**到付费用户，但Live模型让我认为它与**Google**的其他人工智能模型一样， **Gemini**-Live **Gemini** Live在2026年有了很大的改进
+
+📅 2026-07-11T17:38:02.000Z
+
+---
+
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-07-11T15:57:38.508Z
+📅 2026-07-11T23:56:06.041Z
 
 ---
 
@@ -352,16 +352,16 @@ Chat**GPT** Work是一个可以跨应用程序和文件采取行动的代理，�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-07-11T15:57:45.810Z
+📅 2026-07-11T23:56:13.049Z
 
 ---
 
-### Hacker News AI
-**[Litert.js ，谷歌的高性能网络AI推理](https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/)**
+### Reddit: r/artificial
+**[AI生成的游戏世界正在变得可玩，但如果它看起来很酷，程序一致性是否重要？](https://www.reddit.com/r/artificial/comments/1utsewf/aigenerated_game_worlds_are_getting_playable_but/)**
 
-**Google**blogcom/litertjs-**Google**s-high-performance-web-ai-inference/评论网址： https://**new**s
+人工智能生成的世界现在感觉就像这样，但速度更快，更漂亮如果世界是动态生成的，创作的故事节拍基本上无法保证
 
-📅 Sat, 11 Jul 2026 14:32:01 +0000
+📅 2026-07-11T18:54:16.000Z
 
 ---
 
@@ -376,25 +376,21 @@ Chat**GPT** Work是一个可以跨应用程序和文件采取行动的代理，�
 
 ---
 
-### Reddit: r/artificial
-![英国机构在GPT-5.6 SOL中识别出“通用越狱”](https://external-preview.redd.it/dxyABfB8aoy8prBrMqpUfUdRrWQDK-EMDk4KzHDqpRU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3e096ae80a3e24a045d73233c4a5b16c93fa4976)
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-**[英国机构在GPT-5.6 SOL中识别出“通用越狱”](https://www.reddit.com/r/artificial/comments/1utkvu9/uk_agency_identifies_universal_jailbreaks_in/)**
+Title: 520: Web服务器返回未知错误
 
-提交者/u/Koyaanisquatsi_[link] [comments]
-
-📅 2026-07-11T13:59:24.000Z
+📅 2026-07-11T23:56:06.041Z
 
 ---
 
-### Reddit: r/artificial
-![Ecogpt是一款旨在提高环境可持续性的聊天机器人](https://external-preview.redd.it/3GQVvuLF3Ra_pUZsCGT33XVLnrd3pLDf85SsCRkcdv0.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5d35c44b70a9c8110bfad66091497da20d3e4c0a)
+### X: OpenAI
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-**[Ecogpt是一款旨在提高环境可持续性的聊天机器人](https://www.reddit.com/r/artificial/comments/1utdlkb/ecogpt_is_a_chatbot_that_aims_to_be_more/)**
+警告：目标URL返回错误520 ：
 
-它通过将10%的资源用作/u/RobustVessel266提交的其他AI模型来实现[link] [comments]
-
-📅 2026-07-11T07:40:38.000Z
+📅 2026-07-11T23:56:06.041Z
 
 ---
 
