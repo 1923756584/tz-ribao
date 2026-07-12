@@ -1,19 +1,19 @@
 ---
 title: "2026年7月12日 - TZ日报"
-date: 2026-07-12T16:03:39.491Z
+date: 2026-07-12T23:55:25.003Z
 draft: false
 ---
 
 # 2026年7月12日 - TZ日报
 
-> 📊 今日汇总 36 条 · 🕐 2026/7/12 16:03:39
+> 📊 今日汇总 35 条 · 🕐 2026/7/12 23:55:25
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 6 条
+- **前沿研究**: 5 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -37,24 +37,6 @@ draft: false
 根据招聘公告， Chat**GPT**正在聘请一名专门的产品经理，为家庭、护理人员和老年人打造体验
 
 📅 Sat, 11 Jul 2026 14:13:00 +0000
-
----
-
-### TechCrunch AI Products
-**[Fidji Simo退出OpenAI的2号角色](https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/)**
-
-**OpenAI**的Nois在病假时间超过预期后辞去了她的全职职位--这是一个领导层的真空，这是一个棘手的时刻，因为该公司正在考虑可能的**首次**公开募股，并竞相在企业市场上抓住**Anthropic**
-
-📅 Thu, 09 Jul 2026 23:38:00 +0000
-
----
-
-### TechCrunch AI Products
-**[OpenAI推出带有GPT-5.6的新型号系列](https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/)**
-
-**OpenAI**最新的模型系列承诺在包括网络安全在内的一系列领域进行改进
-
-📅 Thu, 09 Jul 2026 22:24:24 +0000
 
 ---
 
@@ -85,6 +67,15 @@ draft: false
 
 ---
 
+### AI News
+**[如何在不缩减团队的情况下缩减代币预算](https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/)**
+
+000名工程师的年度AI代币消耗量低于他们工资的一半“我要去[…]帖子如何在不缩减团队的情况下缩减代币预算首先出现在人工智能新闻上
+
+📅 Fri, 10 Jul 2026 09:34:27 +0000
+
+---
+
 ### Hugging Face
 **[PyTorch中的分析（第3部分） ：注意力就是你的分析](https://huggingface.co/blog/torch-attention-profile)**
 
@@ -112,16 +103,16 @@ PyTorch中的分析（第3部分） ：注意力就是你的分析
 
 ---
 
-## 🔬 前沿研究
+### TechCrunch AI Products
+**[拥抱Face的首席执行官，了解为什么公司不再租用他们的人工智能](https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/)**
 
-### MIT Tech Research
-**[Anthropic发现了一个隐蔽的空间， Claude在这里拼凑概念](https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/)**
+根据Hugging Face首席执行官Clem Delangue的说法，**开源**人工智能正在蓬勃发展该公司近年来已发展成为人工智能的GitHub
 
-人工智能公司**Anthropic**开发了一种技术，可以让它最清楚地了解大型语言模型在回答问题或执行任务时的真实情况。他们发现的范围从平凡到令人不安
-
-📅 Thu, 09 Jul 2026 20:22:28 +0000
+📅 Fri, 10 Jul 2026 14:00:00 +0000
 
 ---
+
+## 🔬 前沿研究
 
 ### Science AI
 **[新的NSF政策将禁止几乎所有与中国科学家的合作](https://www.science.org/content/article/new-nsf-policy-would-ban-almost-all-collaborations-chinese-scientists)**
@@ -193,13 +184,13 @@ PyTorch中的分析（第3部分） ：注意力就是你的分析
 ---
 
 ### VentureBeat
-![新的VentureBeat研究发现，共享API密钥在69%的企业中暴露了AI代理](https://images.ctfassets.net/jdtwqhzvc2n1/66fVTkq6EXowtfjlEBMGjB/d642a9b78a4976d2a4767a552a229708/Shared_API_keys_expose_AI_agent_fleets_at_69-_of_enterprises__new_VentureBeat_research_finds.png?w=300&q=30)
+![DeepSeek降价75%。100X问题依然存在](https://images.ctfassets.net/jdtwqhzvc2n1/QmUB8YbWiRnClnsHXcsEG/4cf95f77c77ebb21b0e9c2e1eec38caa/u7277289442_A_series_of_AI_robots_in_the_vein_of_the_evolutio_72348caa-ec35-4c65-8ab2-1402ecc89f91_2.png?w=300&q=30)
 
-**[新的VentureBeat研究发现，共享API密钥在69%的企业中暴露了AI代理](https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research)**
+**[DeepSeek降价75%。100X问题依然存在](https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains)**
 
-**Google** Cloud达到36% ， Microsoft Azure的Purview和Copilot St**Udio** DLP达到35% ，而**Anthropic**的托管代理控制着29%的**OpenAI** ，其次是**Google** ，为30% ， **Anthropic**为29% ， Azure为25%
+**DeepSeek**最近决定将其V4-Pro模型的价格大幅下调75% ，这对企业人工智能供应商和开发人员来说应该是一个明确的好消息前沿模型供应商现在以大幅折扣提供保留实例式预付费提供
 
-📅 Thu, 09 Jul 2026 20:45:43 GMT
+📅 Sun, 12 Jul 2026 16:00:00 GMT
 
 ---
 
@@ -254,14 +245,14 @@ Nextcloud是一种免费的**开源**存储选项，提供多种优势以下是�
 
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![学者： Nx之上的传统机器学习](https://avatars.githubusercontent.com/u/74903619?v=4)
+### GitHub Active (Python)
+![code-graph-rag ： monorepo的终极抹布。利用人工智能和知识图谱的力量查询、理解和编辑多语言代码库](https://avatars.githubusercontent.com/u/22404335?v=4)
 
-**[学者： Nx之上的传统机器学习](https://github.com/elixir-nx/scholar)**
+**[code-graph-rag ： monorepo的终极抹布。利用人工智能和知识图谱的力量查询、理解和编辑多语言代码库](https://github.com/vitali87/code-graph-rag)**
 
-⭐ 495星· 51叉·灵丹妙药· Nx之上的传统机器学习
+⭐ 2,309星· 384叉·蟒蛇·为您的monorepo的终极破布利用人工智能和知识图谱的力量查询、理解和编辑多语言代码库
 
-📅 2026-07-12T16:02:10Z
+📅 2026-07-12T23:54:21Z
 
 ---
 
@@ -301,11 +292,11 @@ Nextcloud是一种免费的**开源**存储选项，提供多种优势以下是�
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[其他人注意到LLM在同一个线程中对待为期一周的消息和为期5分钟的消息是一样的吗？](https://www.reddit.com/r/artificial/comments/1uudl7w/anyone_else_notice_llms_treat_a_weekold_message/)**
+**[Vibe程序员或传统程序员（真正需要帮助）](https://www.reddit.com/r/artificial/comments/1uuo7ni/vibe_coders_or_traditional_programmers_really_in/)**
 
-我注意到：模型表现得好像没有时间流逝有人注意到Chat**GPT**/**Claude**/**Gemini**以不同的方式处理这个问题
+从第一年开始，我就喜欢手动构建东西，在第二年到第三年，我使用了chat**GPT**和**Gemini**
 
-📅 2026-07-12T12:02:14.000Z
+📅 2026-07-12T18:58:21.000Z
 
 ---
 
@@ -314,7 +305,7 @@ Nextcloud是一种免费的**开源**存储选项，提供多种优势以下是�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-07-12T16:01:55.055Z
+📅 2026-07-12T23:54:15.582Z
 
 ---
 
@@ -323,7 +314,34 @@ Nextcloud是一种免费的**开源**存储选项，提供多种优势以下是�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-07-12T16:02:04.444Z
+📅 2026-07-12T23:54:22.352Z
+
+---
+
+### Reddit: r/artificial
+**[人工智能金字塔计划：为什么崩溃已经开始（以及如何修复）](https://www.reddit.com/r/artificial/comments/1uuucpr/the_ai_pyramid_scheme_why_the_collapse_has/)**
+
+就背景而言，据报道，到2025年底， **OpenAI**的净亏损达到了惊人的38 $保护人类数据流：科技公司必须停止对人工智能生成的内容进行模型培训，以防止模型退化
+
+📅 2026-07-12T23:01:36.000Z
+
+---
+
+### Reddit: r/artificial
+**[AI生成的游戏世界正在变得可玩，但没有人谈论关卡设计师会发生什么](https://www.reddit.com/r/artificial/comments/1uumkfq/aigenerated_game_worlds_are_getting_playable_but/)**
+
+**Google** Genie 3因将文本提示转换为可探索的3D空间而备受关注对话总是直接跳转到“这是否会取代引擎”或“这是否是技术演示”
+
+📅 2026-07-12T17:58:09.000Z
+
+---
+
+### Reddit: r/artificial
+**[这个openai宫廷故事开始看起来丑陋](https://www.reddit.com/r/artificial/comments/1uul5ef/this_openai_court_story_is_starting_to_look_ugly/)**
+
+nyt和其他新闻人士说， **OpenAI**告诉法院很长一段时间，它无法搜索受版权保护的培训数据/日志com/tech-policy/2026/07/**OpenAI**-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/我知道人们会说nyt只是想要钱，讨厌ai
+
+📅 2026-07-12T17:06:34.000Z
 
 ---
 
@@ -336,39 +354,12 @@ Nextcloud是一种免费的**开源**存储选项，提供多种优势以下是�
 
 ---
 
-### Reddit: r/artificial
-**[哪个图片程序可以像ChatGPT一样交谈，但没有所有愚蠢的规则？](https://www.reddit.com/r/artificial/comments/1uu4h3g/which_image_program_can_you_talk_to_like_chatgpt/)**
-
-我喜欢我可以用句子与Chat**GPT**交谈，而不必输入我想要的描述词。然而， Chat**GPT**的过滤器和规则无穷无尽，让我很恼火
-
-📅 2026-07-12T03:48:39.000Z
-
----
-
 ### X: OpenAI
 **[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-07-12T16:01:55.055Z
-
----
-
-### X: OpenAI
-**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-警告：目标URL返回错误520 ：未知
-
-📅 2026-07-12T16:01:55.055Z
-
----
-
-### X: OpenAI
-**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Markdown 内容
-
-📅 2026-07-12T16:01:55.055Z
+📅 2026-07-12T23:54:15.582Z
 
 ---
 
