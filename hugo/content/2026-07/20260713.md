@@ -1,12 +1,12 @@
 ---
 title: "2026年7月13日 - TZ日报"
-date: 2026-07-13T17:15:55.000Z
+date: 2026-07-13T23:56:13.147Z
 draft: false
 ---
 
 # 2026年7月13日 - TZ日报
 
-> 📊 今日汇总 37 条 · 🕐 2026/7/13 17:15:55
+> 📊 今日汇总 37 条 · 🕐 2026/7/13 23:56:13
 
 ---
 
@@ -50,6 +50,15 @@ draft: false
 ---
 
 ### TechCrunch AI Products
+**[苹果针对OpenAI的商业秘密诉讼中最疯狂的指控](https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/)**
+
+苹果公司对**OpenAI**的商业秘密诉讼包含各种指控，从员工开玩笑说未经授权访问苹果系统到声称求职者被要求将苹果硬件带到面试以下是投诉中最引人注目的说法
+
+📅 Mon, 13 Jul 2026 18:22:10 +0000
+
+---
+
+### TechCrunch AI Products
 **[Meta在强烈反对后删除了Instagram上有争议的AI功能](https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/)**
 
 “该公司在一篇博客文章中说：”我们听到反馈说这个功能没有达到目标，所以它不再可用
@@ -59,20 +68,29 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[苹果起诉OpenAI涉嫌窃取商业秘密](https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/)**
+**[爱马仕代理制造商Nous Research正在就估值15亿美元的新融资进行谈判](https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/)**
 
-苹果公司声称，该不当行为是由**OpenAI**的高级领导层指导的，其中包括一名长期前员工
+该公司正在筹集至少7500万美元，由Robot牵头， USV和其他知名投资者大力参与
 
-📅 Fri, 10 Jul 2026 21:00:29 +0000
+📅 Mon, 13 Jul 2026 23:31:18 +0000
 
 ---
 
-### AI News
-**[AI代理爬虫现在需要权限。获取方法如下](https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/)**
+### TechCrunch AI Products
+**[Satya Nadella向使用人工智能的公司发出了令人震惊的警告](https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/)**
 
-Cloudflare于7月1日宣布了这一变化，此后的大部分报道都集中在**Google**上。以下是如何让它**首次**出现在人工智能新闻
+在所有关于AI潜在缺点的争论中，硅谷的人工智能爱好者最担心的一个问题是，销售专有模型的巨型人工智能实验室在某种程度上表现得像特洛伊木马。
 
-📅 Mon, 13 Jul 2026 11:00:00 +0000
+📅 Mon, 13 Jul 2026 20:59:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[Sam Altman的太空数据中心垃圾谈话是大多数专家已经相信的](https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/)**
+
+回应马斯克指责他是骗子阿尔特曼说
+
+📅 Mon, 13 Jul 2026 17:28:37 +0000
 
 ---
 
@@ -82,24 +100,6 @@ Cloudflare于7月1日宣布了这一变化，此后的大部分报道都集中�
 一个完全以用户为中心的人工智能的世界实际上是什么样的？
 
 📅 Mon, 13 Jul 2026 16:31:23 +0000
-
----
-
-### TechCrunch AI Products
-**[根据Hugging Face的Clem Delangue的说法，开源人工智能比以往任何时候都更加重要](https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/)**
-
-根据Hugging Face首席执行官Clem Delangue的说法，**开源**人工智能正在蓬勃发展该公司近年来已发展成为人工智能的GitHub
-
-📅 Fri, 10 Jul 2026 19:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[SK海力士在美国历史上最大规模的海外IPO中筹集了265亿美元$ ，敦促建立新的美国晶圆厂](https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/)**
-
-人工智能芯片热潮刚刚创造了迄今为止最大的华尔街时刻现在SK海力士和三星被要求建造
-
-📅 Fri, 10 Jul 2026 17:17:12 +0000
 
 ---
 
@@ -180,28 +180,6 @@ Cloudflare于7月1日宣布了这一变化，此后的大部分报道都集中�
 ## 🌍 行业展望
 
 ### VentureBeat
-![OpenAI推出ChatGPT Work ，这是一种基于云的AI代理，可跨电子邮件、Slack和日历管理任务](https://images.ctfassets.net/jdtwqhzvc2n1/XaJBJbkMIolDxyrlIw5Qd/b9e360da7531ae921f32528977713b61/Nuneybits_Magazine-style_digital_illustration_of_oversized_clou_64512c24-eef8-4ed0-9aae-efcb0615033a.webp?w=300&q=30)
-
-**[OpenAI推出ChatGPT Work ，这是一种基于云的AI代理，可跨电子邮件、Slack和日历管理任务](https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars)**
-
-**OpenAI**周四**推出**Chat**GPT** Work一家IPO公司需要Chat**GPT** Work来证明企业AI可以产生收入Chat**GPT** Work的**推出**时间不可能与**OpenAI**的IPO轨迹分开
-
-📅 Fri, 10 Jul 2026 20:20:00 GMT
-
----
-
-### VentureBeat
-![华尔街正在讨论人工智能的建设。企业刚刚回答： 86%的企业表示他们的GPU运行容量只有一半或更少](https://images.ctfassets.net/jdtwqhzvc2n1/2h0wdk2i0wZME0744hQS40/282b7a507e29b9f39dbe33ad85499a8c/Gemini_Generated_Image_nocstvnocstvnocs.png?w=300&q=30)
-
-**[华尔街正在讨论人工智能的建设。企业刚刚回答： 86%的企业表示他们的GPU运行容量只有一半或更少](https://venturebeat.com/orchestration/wall-street-is-debating-the-ai-buildout-enterprises-just-answered-86-say-their-gpus-run-at-half-capacity-or-less)**
-
-商务部出口订单使**Anthropic**的**Claude** Fable 5企业离线约三周； **OpenAI**预览了**GPT**-5
-
-📅 Fri, 10 Jul 2026 19:29:07 GMT
-
----
-
-### VentureBeat
 ![DeepSeek降价75%。100X问题依然存在](https://images.ctfassets.net/jdtwqhzvc2n1/QmUB8YbWiRnClnsHXcsEG/4cf95f77c77ebb21b0e9c2e1eec38caa/u7277289442_A_series_of_AI_robots_in_the_vein_of_the_evolutio_72348caa-ec35-4c65-8ab2-1402ecc89f91_2.png?w=300&q=30)
 
 **[DeepSeek降价75%。100X问题依然存在](https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains)**
@@ -209,17 +187,6 @@ Cloudflare于7月1日宣布了这一变化，此后的大部分报道都集中�
 **DeepSeek**最近决定将其V4-Pro模型的价格大幅下调75% ，这对企业人工智能供应商和开发人员来说应该是一个明确的好消息前沿模型供应商现在以大幅折扣提供保留实例式预付费提供
 
 📅 Sun, 12 Jul 2026 16:00:00 GMT
-
----
-
-### The Verge
-![就连英伟达的汽车主管也与英伟达争夺计算](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DCD_20260713_XinzhouWu.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[就连英伟达的汽车主管也与英伟达争夺计算](https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla)**
-
-然后我们可以建立一个模型，首先，它是用所有这些数据训练的。我脑海中只有Chat**GPT**向我道歉，因为它在车祸时弄错了
-
-📅 2026-07-13T15:00:00.000Z
 
 ---
 
@@ -231,17 +198,6 @@ Cloudflare于7月1日宣布了这一变化，此后的大部分报道都集中�
 它使用上下文操作反馈(C-A-F)循环来跟踪模型的成功和失败，并**更新**路由器的行为例如，开发人员可能会编写一个规则，规定如果提示包含某些关键字，则将其路由到**GPT**-5
 
 📅 Mon, 13 Jul 2026 16:06:36 GMT
-
----
-
-### VentureBeat
-![57%的企业认为人工智能代理自信地错了。修复是一个代理上下文层，但谁有一个？](https://images.ctfassets.net/jdtwqhzvc2n1/1dmfePLwv5tMnsvynK7fRY/af274baef6c18c897c0f82229f923bf8/agentic-ai-context-smk1.jpg?w=300&q=30)
-
-**[57%的企业认为人工智能代理自信地错了。修复是一个代理上下文层，但谁有一个？](https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one)**
-
-该模型没有失败当有人实际构建一个时，受管理的上下文是什么样的每个主要数据和人工智能平台供应商现在都在构建该层的某个版本
-
-📅 Fri, 10 Jul 2026 20:58:32 GMT
 
 ---
 
@@ -263,69 +219,120 @@ Cloudflare于7月1日宣布了这一变化，此后的大部分报道都集中�
 
 ---
 
+### VentureBeat
+![别管打字了； slopsquatting是人工智能编码工具造成的软件供应链威胁](https://images.ctfassets.net/jdtwqhzvc2n1/dIQcSeSRhbDxj2aciSnha/82de3e1c0e427d81134cbf5ff3516b5c/u7277289442_A_modern_interpretation_of_cybersecurity._3D._--a_48e0894a-799a-4645-9c75-f18358f3b4bf_1.png?w=300&q=30)
+
+**[别管打字了； slopsquatting是人工智能编码工具造成的软件供应链威胁](https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools)**
+
+了解Slopsquatting是什么Slopsquatting是一种新型的供应链攻击，它使用大型语言模型（ LLM ）幻觉将恶意代码注入开发工作流程即使是表现最好的模型**GPT**-4o ，也不会低于23 ％ ，即使有基于提示的缓解措施
+
+📅 Mon, 13 Jul 2026 13:33:54 GMT
+
+---
+
+### Ars Technica
+**[前工程师涉嫌利用漏洞窃取商业机密，苹果起诉OpenAI](https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/)**
+
+**OpenAI**被指控与前苹果员工合谋窃取商业机密。
+
+📅 Mon, 13 Jul 2026 19:17:51 +0000
+
+---
+
+### TechCrunch
+**[苹果称前员工在离开OpenAI后利用“罕见”漏洞下载机密文件](https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/)**
+
+苹果公司不会对“安全漏洞”发表评论，据称该漏洞允许前员工在为竞争对手**OpenAI**离开公司后很长时间内从苹果网络下载敏感文件
+
+📅 Mon, 13 Jul 2026 20:00:17 +0000
+
+---
+
+### The Verge
+![微软测试Windows搜索没有所有的广告和绒毛](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/windows-search-update.png?quality=90&#038;strip=all&#038;crop=0,6.2259176247693,100,93.774082375231)
+
+**[微软测试Windows搜索没有所有的广告和绒毛](https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads)**
+
+微软宣布，它将在实验频道中向Windows Insiders**推出**整洁的搜索框，因为该公司希望重新获得用户的信任，并修复包含Windows的内容，例如当天的形象
+
+📅 2026-07-13T21:53:20.000Z
+
+---
+
 ## 📦 GitHub热门
 
-### GitHub New (New AI)
-![🆕 global-agent-memory ：用于Claude Code、Codex和其他AI代理的本地优先、项目感知内存MCP服务器，带有Obsidian和所有者仪表板。](https://avatars.githubusercontent.com/u/6319882?v=4)
+### GitHub Active (AI/ML)
+![变压器：🤗变压器：用于文本、视觉、音频和多模态模型中最先进的机器学习模型的模型定义框架，用于推理和训练。](https://avatars.githubusercontent.com/u/25720743?v=4)
 
-**[🆕 global-agent-memory ：用于Claude Code、Codex和其他AI代理的本地优先、项目感知内存MCP服务器，带有Obsidian和所有者仪表板。](https://github.com/ozankasikci/global-agent-memory)**
+**[变压器：🤗变压器：用于文本、视觉、音频和多模态模型中最先进的机器学习模型的模型定义框架，用于推理和训练。](https://github.com/huggingface/transformers)**
 
-⭐ 8 star (新项目) · Python · Local-firstproject-aware memory MCP server for **Claude** Code
+和用于推断和训练的多模态模型
 
-📅 2026-07-11T12:10:26Z
-
----
-
-### GitHub New (New AI)
-![🆕 agent-pulse ：基于证据的人工智能行业情报—趋势、源更新、每日数据更新和每周决策简报。](https://avatars.githubusercontent.com/u/2698003?v=4)
-
-**[🆕 agent-pulse ：基于证据的人工智能行业情报—趋势、源更新、每日数据更新和每周决策简报。](https://github.com/barretlee/agent-pulse)**
-
-⭐ 4 star (新项目) · TypeScript · Evidence-backed AI industry intelligence — trends, source **update**s, daily data refreshes, and weekly decision briefs
-
-📅 2026-07-11T14:38:25Z
+📅 2026-07-13T23:54:03Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 Bangla-Handwriting-Collector: 新项目](https://avatars.githubusercontent.com/u/154349099?v=4)
+### GitHub Active (Python)
+![skyvern ：使用人工智能自动化基于浏览器的工作流程](https://avatars.githubusercontent.com/u/141457985?v=4)
 
-**[🆕 Bangla-Handwriting-Collector: 新项目](https://github.com/Istiaq-Edu/Bangla-Handwriting-Collector)**
+**[skyvern ：使用人工智能自动化基于浏览器的工作流程](https://github.com/Skyvern-AI/skyvern)**
 
-⭐ 3 star (新项目) · TypeScript · 无描述
+⭐ 22,219星· 2082分叉· Python ·使用AI自动化基于浏览器的工作流程
 
-📅 2026-07-12T19:01:21Z
+📅 2026-07-13T23:55:07Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 AI_Email_Generator ：基于Python、Streamlit和Ollama构建的人工智能电子邮件生成器，用于在本地创建专业业务电子邮件，无需云API。](https://avatars.githubusercontent.com/u/172488772?v=4)
+### GitHub Active (Python)
+![warp ：用于GPU加速仿真、机器人和机器学习的Python框架。](https://avatars.githubusercontent.com/u/1728152?v=4)
 
-**[🆕 AI_Email_Generator ：基于Python、Streamlit和Ollama构建的人工智能电子邮件生成器，用于在本地创建专业业务电子邮件，无需云API。](https://github.com/ShravanDalavi/AI_Email_Generator)**
+**[warp ：用于GPU加速仿真、机器人和机器学习的Python框架。](https://github.com/NVIDIA/warp)**
 
-⭐ 3 star (新项目) · Python · AI-powered email generator built with Pythonand Ollama for creating professional business emails locally without cloud APIs
+⭐ 6862星· 555叉· Python ·用于GPU加速仿真、机器人和机器学习的Python框架
 
-📅 2026-07-12T17:52:16Z
+📅 2026-07-13T23:55:00Z
+
+---
+
+### GitHub Active (Python)
+![mcp-context-forge ：位于任何MCP、A2A或REST/gRPC API前面的AI网关、注册表和代理，通过集中发现、护栏和管理暴露统一端点。优化代理和工具调用，并支持插件。](https://avatars.githubusercontent.com/u/1459110?v=4)
+
+**[mcp-context-forge ：位于任何MCP、A2A或REST/gRPC API前面的AI网关、注册表和代理，通过集中发现、护栏和管理暴露统一端点。优化代理和工具调用，并支持插件。](https://github.com/IBM/mcp-context-forge)**
+
+085星· 749叉·蟒蛇·人工智能网关护栏和管理
+
+📅 2026-07-13T23:55:02Z
 
 ---
 
 ## 💬 社交动态
 
 ### Hacker News AI
-**[Google Gemini的SynthID AI水印检测器似乎在聊天中混淆了结果](https://leadstories.com/analysis/2026/07/google-gemini-synthid-detector-confuses-results-within-same-chat.html)**
+**[Show HN ： ContextVault –您的人工智能和团队的共享内存层](https://www.contextvault.dev/)**
 
-com/analysis/2026/07/**Google**-**Gemini**-synthid-detector-confuses-results-within-same-chathtml评论网址： https://**new**s
+有些人住在Chat**GPT**项目中您的团队可以使用Chat**GPT**、Codex、**Claude**和**Gemini** ，并从保管库中保存/读取所有相同的内容
 
-📅 Mon, 13 Jul 2026 16:08:48 +0000
+📅 Mon, 13 Jul 2026 23:22:18 +0000
 
 ---
 
-### Hacker News AI
-**[显示HN ： Claude Organizer ，文件夹和搜索Claude.ai ，所有本地](https://chromewebstore.google.com/detail/claude-organizer-folders/pnbhfiebkknicpbljchmgibnpmlgebif)**
+### Hacker News
+**[微软2026年初推出Claude Code和GitHub Copilot CLI的研究](https://arxiv.org/abs/2607.01418)**
 
-文章网址： https://chromewebstorecom/detail/**Claude**-organizer-folders/pnbhfiebkknicpbljchmgibnpmlgebif评论网址： https://**new**s
+文章网址： https://arxiv01418评论网址： https://**new**s
 
-📅 Mon, 13 Jul 2026 16:08:10 +0000
+📅 Mon, 13 Jul 2026 21:43:51 +0000
+
+---
+
+### Reddit: r/artificial
+![Anthropic分析了30万次真实的Claude对话，以衡量其价值。调查结果令人不舒服。](https://preview.redd.it/dfpcm9p7k2dh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=29307d354546f08423de8c31eff23934a5f8bb06)
+
+**[Anthropic分析了30万次真实的Claude对话，以衡量其价值。调查结果令人不舒服。](https://www.reddit.com/r/artificial/comments/1uvpob7/anthropic_analyzed_300000_real_claude/)**
+
+他们没有向**Claude**询问/u/Direct-Attention8597提交的价值观com/research/**Claude**-values-models-languages [link] [comments]
+
+📅 2026-07-13T21:58:46.000Z
 
 ---
 
@@ -334,7 +341,7 @@ com/analysis/2026/07/**Google**-**Gemini**-synthid-detector-confuses-results-wit
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-07-13T17:14:43.698Z
+📅 2026-07-13T23:54:59.040Z
 
 ---
 
@@ -343,45 +350,34 @@ com/analysis/2026/07/**Google**-**Gemini**-synthid-detector-confuses-results-wit
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-07-13T17:14:49.024Z
+📅 2026-07-13T23:55:04.204Z
+
+---
+
+### Hacker News
+**[Claude只是Meeseeks先生](https://github.com/thephw/claude-meseeks)**
+
+文章网址： https://githubcom/thephw/**Claude**-meseeks评论网址： https://**new**s
+
+📅 Mon, 13 Jul 2026 22:03:54 +0000
+
+---
+
+### Hacker News
+**[Show HN ： YouTube吉他标签解析器](https://github.com/marcelpanse/youtube-guitar-tab-parser)**
+
+我创建了一个简单的CLI ，将YouTube吉他课程视频转换为**Claude** VISION的吉他标签的PDF ，以定位标签区域
+
+📅 Mon, 13 Jul 2026 20:13:14 +0000
 
 ---
 
 ### Hacker News AI
-**[显示HN ：具有交叉兼容性的容器化AI开发](https://github.com/daitangio/take-ai-control)**
+**[询问HN ：人工智能代理并利用集装箱化/安全建议](https://news.ycombinator.com/item?id=48899674)**
 
-我构建了一个模板存储库，以比平时更多的抓地力来管理您的AI聊天项目使用容器来运行您首选的AI线束CLI
+我应该提到，我经常向一些新手教授技术（包括人工智能） -所以我正在努力寻找平衡点评论网址： https://**new**s
 
-📅 Mon, 13 Jul 2026 16:03:14 +0000
-
----
-
-### Reddit: r/artificial
-![Claude需要看心理医生吗？](https://preview.redd.it/i5eo0xjhrzch1.png?width=140&amp;height=54&amp;auto=webp&amp;s=ba0cc17628f711e1fc972e1b53b075141e2edd77)
-
-**[Claude需要看心理医生吗？](https://www.reddit.com/r/artificial/comments/1uvac40/does_claude_need_to_see_a_psychiatrist/)**
-
-**Claude**需要看精神科医生吗？请参阅https://preview下的屏幕截图
-
-📅 2026-07-13T12:36:00.000Z
-
----
-
-### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Title: 520: Web服务器返回未知错误
-
-📅 2026-07-13T17:14:43.698Z
-
----
-
-### X: OpenAI
-**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-警告：目标URL返回错误520 ：
-
-📅 2026-07-13T17:14:43.698Z
+📅 Mon, 13 Jul 2026 22:19:31 +0000
 
 ---
 
