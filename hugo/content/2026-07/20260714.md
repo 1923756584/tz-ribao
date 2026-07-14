@@ -1,12 +1,12 @@
 ---
 title: "2026年7月14日 - TZ日报"
-date: 2026-07-14T16:17:24.158Z
+date: 2026-07-14T23:55:40.240Z
 draft: false
 ---
 
 # 2026年7月14日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/7/14 16:17:24
+> 📊 今日汇总 38 条 · 🕐 2026/7/14 23:55:40
 
 ---
 
@@ -31,12 +31,21 @@ draft: false
 
 ---
 
-### OpenAI Blog
-**[销售团队如何使用ChatGPT](https://openai.com/academy/codex-for-work/how-sales-teams-use-codex)**
+### TechCrunch AI Products
+**[据报道， OpenAI的第一个硬件设备是一款可以移动的无屏幕扬声器，](https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/)**
 
-了解销售团队如何使用Chat**GPT** Work创建管道简报会准备包
+该设备被奇怪地描述为涉及“可以自行移动的机械元件” ，彭博社的报告包括该设备被设计为“感觉像一个伴侣，并成为**OpenAI**的Chat**GPT**的物理表现形式”的细节
 
-📅 Tue, 14 Jul 2026 00:00:00 GMT
+📅 Tue, 14 Jul 2026 22:22:24 +0000
+
+---
+
+### TechCrunch AI Products
+**[OpenAI的新旗舰机型自行删除文件，人们不断警告](https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/)**
+
+一些社交媒体帖子声称**GPT**-5**OpenAI**在6月份基本披露了这个问题
+
+📅 Tue, 14 Jul 2026 21:50:11 +0000
 
 ---
 
@@ -44,6 +53,15 @@ draft: false
 **[数据科学团队如何使用ChatGPT](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex)**
 
 了解数据科学团队如何使用Chat**GPT** Work根据实际工作输入构建根本原因简报和仪表板规格
+
+📅 Tue, 14 Jul 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[销售团队如何使用ChatGPT](https://openai.com/academy/codex-for-work/how-sales-teams-use-codex)**
+
+了解销售团队如何使用Chat**GPT** Work创建管道简报会准备包
 
 📅 Tue, 14 Jul 2026 00:00:00 GMT
 
@@ -61,56 +79,38 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[Google图片进行了类似Pinterest的重新设计，专注于发现](https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/)**
+**[OpenAI推翻苹果商业秘密诉讼](https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/)**
 
-现在，当用户导航到**Google**图片时，他们将看到一个“适合您”的图片库，其中包含根据他们的兴趣和浏览历史记录量身定制的图片
+**OpenAI**就该诉讼**发布**了另一份声明，这次表明它缺乏法律依据。
 
-📅 Tue, 14 Jul 2026 16:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[Spotify通过类似ChatGPT的音乐助手扩展其AI推送](https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/)**
-
-Spotify正在**推出**一项新的人工智能对话功能，让高级订阅者可以与应用程序聊天，以发现音乐有声读物
-
-📅 Tue, 14 Jul 2026 14:06:47 +0000
-
----
-
-### AI News
-**[AI代理爬虫现在需要权限。获取方法如下](https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/)**
-
-Cloudflare于7月1日宣布了这一变化，此后的大部分报道都集中在**Google**上。以下是如何让它**首次**出现在人工智能新闻
-
-📅 Mon, 13 Jul 2026 11:00:00 +0000
+📅 Tue, 14 Jul 2026 22:07:42 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[纽约州停止建设所有新数据中心](https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/)**
+**[Anthropic的最新广告正在吸引人们](https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/)**
 
-纽约已成为第一个暂时停止批准大型数据中心的州，正如GovKathy Hochul所说，人工智能驱动的建筑热潮不应该以更高的电力成本、供水或当地控制为代价。
+**Anthropic**一直试图将自己描述为其他人工智能公司的道德障碍这一最新的营销噱头—倾向于批评人工智能，以此作为使**Anthropic**似乎意识到其所承担的责任的一种方式—似乎更多地是相同的
 
-📅 Tue, 14 Jul 2026 15:17:59 +0000
-
----
-
-### TechCrunch AI Products
-**[反射墨水与Nebius达成$ 10亿的计算协议](https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/)**
-
-Reflection AI签署了一项价值10亿美元的协议，以访问Nebius于2024年成立的computeReflection ，并正在开发**开源**人工智能技术
-
-📅 Tue, 14 Jul 2026 14:37:48 +0000
+📅 Tue, 14 Jul 2026 19:41:27 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[真正的人工智能种族可能不再处于边疆](https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/)**
+**[谷歌面临另一起来自主要出版商的人工智能培训诉讼](https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/)**
 
-Hugging Face首席执行官克莱姆·德朗格（ Clem Delangue ）表示，由于成本、可访问性和所有权，企业越来越希望开放模型如果大多数生产人工智能最终在开放模型上运行，前沿模型仍然**重要**
+Hachette、Cengage、Elsevier和其他出版商声称，谷歌在没有必要权限的情况下对受版权保护的作品进行了人工智能培训
 
-📅 Tue, 14 Jul 2026 14:24:53 +0000
+📅 Tue, 14 Jul 2026 18:33:31 +0000
+
+---
+
+### TechCrunch AI Products
+**[Meta的Adam Mosseri表示，每个工程师的人工智能代币预算很快就会受到限制](https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/)**
+
+Instagram负责人亚当·莫塞里（ Adam Mosseri ）认为，公司最终将需要以管理工资或其他运营费用的方式来管理人工智能代币支出，从而预测工程师可能很快就会面临使用人工智能工具的支出限制
+
+📅 Tue, 14 Jul 2026 16:22:15 +0000
 
 ---
 
@@ -243,6 +243,28 @@ Hugging Face首席执行官克莱姆·德朗格（ Clem Delangue ）表示，由
 
 ---
 
+### The Verge
+![OpenAI今年可能会发布ChatGPT智能音箱](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[OpenAI今年可能会发布ChatGPT智能音箱](https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device)**
+
+根据Bloomberg**OpenAI**周二在一份新声明中的一份报告， **OpenAI**的第一台设备将成为一款智能扬声器，可让您与Chat**GPT**交谈，并表示“不知道有任何证据表明此投诉有价值
+
+📅 2026-07-14T21:26:32.000Z
+
+---
+
+### The Verge
+![SpaceXAI的Grok编程工具正在将用户的整个代码库上传到云存储](https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[SpaceXAI的Grok编程工具正在将用户的整个代码库上传到云存储](https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload)**
+
+SpaceXAI的Grok Build AI编码工具被发现将用户的整个代码库上传到**Google** Cloud ，然后才被报道“比**Claude** Code等类似工具的数据保留率高得多
+
+📅 2026-07-14T19:25:00.000Z
+
+---
+
 ### VentureBeat
 ![别管打字了； slopsquatting是人工智能编码工具造成的软件供应链威胁](https://images.ctfassets.net/jdtwqhzvc2n1/dIQcSeSRhbDxj2aciSnha/82de3e1c0e427d81134cbf5ff3516b5c/u7277289442_A_modern_interpretation_of_cybersecurity._3D._--a_48e0894a-799a-4645-9c75-f18358f3b4bf_1.png?w=300&q=30)
 
@@ -254,43 +276,14 @@ Hugging Face首席执行官克莱姆·德朗格（ Clem Delangue ）表示，由
 
 ---
 
-### Wired Technology
-**[充分利用Google Chat的9个技巧](https://www.wired.com/story/9-tips-to-get-more-out-of-google-chat/)**
-
-**Google**的消息应用程序比您想象的要多得多。
-
-📅 Tue, 14 Jul 2026 11:30:00 +0000
-
----
-
-### Wired Technology
-**[这款聊天机器人预示着为什么人们会与ChatGPT分享秘密](https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/)**
-
-在20世纪60年代，麻省理工学院的一位名叫Joseph Weizenbaum的教授创建了一个名为ELIZAT的聊天机器人人们与它进行的对话为聊天机器人的到来树立了先例
-
-📅 Tue, 14 Jul 2026 10:00:00 +0000
-
----
-
 ## 📦 GitHub热门
-
-### GitHub Active (AI/ML)
-![LightGBM ：基于决策树算法的快速、分布式、高性能梯度提升（ GBT、GBDT、GBRT、GBM或MART ）框架，用于排名、分类和许多其他机器学习任务。](https://avatars.githubusercontent.com/u/266222920?v=4)
-
-**[LightGBM ：基于决策树算法的快速、分布式、高性能梯度提升（ GBT、GBDT、GBRT、GBM或MART ）框架，用于排名、分类和许多其他机器学习任务。](https://github.com/lightgbm-org/LightGBM)**
-
-560星· 4036分叉· C + + ·快速分类和许多其他机器学习任务
-
-📅 2026-07-14T16:15:35Z
-
----
 
 ### GitHub New (New AI)
 ![🆕 agent-pulse ：基于证据的人工智能行业情报—趋势、源更新、每日数据更新和每周决策简报。](https://avatars.githubusercontent.com/u/2698003?v=4)
 
 **[🆕 agent-pulse ：基于证据的人工智能行业情报—趋势、源更新、每日数据更新和每周决策简报。](https://github.com/barretlee/agent-pulse)**
 
-⭐ 119 star (新项目) · TypeScript · Evidence-backed AI industry intelligence — trends, source **update**s, daily data refreshes, and weekly decision briefs
+⭐ 137 star (新项目) · TypeScript · Evidence-backed AI industry intelligence — trends, source **update**s, daily data refreshes, and weekly decision briefs
 
 📅 2026-07-11T14:38:25Z
 
@@ -318,14 +311,25 @@ Hugging Face首席执行官克莱姆·德朗格（ Clem Delangue ）表示，由
 
 ---
 
+### GitHub New (New AI)
+![🆕 ai-navigator ：全球人工智能模型和Agent平台的本地桌面集线器。一键。每一个人工智能。（此应用程序中的AI模型和代理尚未更新到最新版本。如需了解最新指南，请查看官方网站。）](https://avatars.githubusercontent.com/u/185316678?v=4)
+
+**[🆕 ai-navigator ：全球人工智能模型和Agent平台的本地桌面集线器。一键。每一个人工智能。（此应用程序中的AI模型和代理尚未更新到最新版本。如需了解最新指南，请查看官方网站。）](https://github.com/haotong-Duan/ai-navigator)**
+
+⭐ 3 star (新项目) · TypeScript · Native desktop hub for the world's AI models and Agent platforms(The AI models and agents in this app haven't been **update**d to the latest version
+
+📅 2026-07-13T09:05:51Z
+
+---
+
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[您知道吗， OpenAI的首席执行官拥有Reddit近9%的股份，而Reddit禁止用户使用人工智能生成的内容？](https://www.reddit.com/r/artificial/comments/1uw6sv6/did_you_know_the_ceo_of_openai_owns_nearly_9_of/)**
+**[苹果刚刚起诉OpenAI窃取商业秘密。谷歌悄悄地重写了互联网的运作方式。](https://www.reddit.com/r/artificial/comments/1uwh06x/apple_just_sued_openai_for_trade_secret_theft_and/)**
 
-根据Reddit自己的IPO文件， **OpenAI**和Chat**GPT**的首席执行官Sam Altman控制着8Me ，同时Reddit子网站正在积极禁止用户使用人工智能生成的内容，而Reddit同时以2.03亿美元的价格向谷歌出售用户数据以训练人工智能模型
+苹果于7月10日提起诉讼，指控**OpenAI**协调行业间谍活动**OpenAI**首席硬件官Tang Tan
 
-📅 2026-07-14T12:06:48.000Z
+📅 2026-07-14T18:27:15.000Z
 
 ---
 
@@ -334,7 +338,7 @@ Hugging Face首席执行官克莱姆·德朗格（ Clem Delangue ）表示，由
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-07-14T16:16:08.531Z
+📅 2026-07-14T23:54:28.657Z
 
 ---
 
@@ -343,45 +347,27 @@ Hugging Face首席执行官克莱姆·德朗格（ Clem Delangue ）表示，由
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-07-14T16:16:16.139Z
-
----
-
-### Hacker News AI
-**[Meta使用人工智能来针对有医疗条件的工人进行裁员](https://www.reuters.com/world/meta-used-ai-target-workers-with-medical-conditions-layoffs-former-employees-2026-07-14/)**
-
-文章网址： https://wwwcom/world/**Meta**-used-ai-target-workers-with-medical-conditions-layoffs-former-employees-2026-07-14/评论网址： https://**new**s
-
-📅 Tue, 14 Jul 2026 15:09:28 +0000
-
----
-
-### Hacker News AI
-**[Aevum -为克劳德提供免费的AI RPG引擎，具有持久的派系和经济性](https://github.com/RukkaNova/aevum-realm-architect)**
-
-文章网址： https://githubcom/RukkaNova/aevum-realm-architect评论网址： https://**new**s
-
-📅 Tue, 14 Jul 2026 14:59:32 +0000
+📅 2026-07-14T23:54:35.357Z
 
 ---
 
 ### Reddit: r/artificial
-**[开源本地LLM培训工具（适用于消费者硬件）](https://www.reddit.com/r/artificial/comments/1uwcah2/open_source_local_llm_training_tool_for_consumer/)**
+![打开黑匣子： Unison零参数模型](https://external-preview.redd.it/d4jaoInsi3y3jXvmeAzZtht4jqvUpSRizA8vjRAS0d4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=39d7f88b97888c3b525927d356820adb0375795c)
 
-核心目的是幻觉检测和构建新的**GPT**线束，思考万亿字符的上下文， MoE编码特定模型，以及similarai/veritate/chat Repo: https://github
+**[打开黑匣子： Unison零参数模型](https://www.reddit.com/r/artificial/comments/1uwjwl6/opening_the_black_box_unison_zero_parameter_model/)**
 
-📅 2026-07-14T15:41:42.000Z
+一行：取任何AI模型的权重我们的探针将模型的真实训练语料库排在首位
+
+📅 2026-07-14T20:12:49.000Z
 
 ---
 
 ### Reddit: r/artificial
-![ChatGPT刚刚证明了另一个50年前的数学猜想](https://external-preview.redd.it/_atWBDD-3Pg0PW3NCEI59RS0EDwPi6UY5haqiJoMczc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=221dfe8a0ece313f4e0ef371dbb120c0132f6ae0)
+**[开发人员讨厌人工智能。我本周使用它销售了10个网站。](https://www.reddit.com/r/artificial/comments/1uwj75g/developers_hate_ai_i_used_it_to_sell_10_websites/)**
 
-**[ChatGPT刚刚证明了另一个50年前的数学猜想](https://www.reddit.com/r/artificial/comments/1uwc023/chatgpt_just_proved_another_50yearold_math/)**
+一旦他们感兴趣，我就会使用人工智能快速构建他们网站的**升级**版本，并邀请他们参加**Google** MeetI演示重新设计，解释为什么更好，回答他们的问题，并在会议上完成交易
 
-提交者/u/scientificamerican [link] [comments]
-
-📅 2026-07-14T15:31:03.000Z
+📅 2026-07-14T19:46:59.000Z
 
 ---
 
@@ -390,7 +376,25 @@ Hugging Face首席执行官克莱姆·德朗格（ Clem Delangue ）表示，由
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-07-14T16:16:08.531Z
+📅 2026-07-14T23:54:28.657Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误520 ：未知
+
+📅 2026-07-14T23:54:28.657Z
+
+---
+
+### X: OpenAI
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Markdown 内容
+
+📅 2026-07-14T23:54:28.657Z
 
 ---
 
