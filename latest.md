@@ -1,12 +1,12 @@
 ---
 title: "2026年7月16日 - TZ日报"
-date: 2026-07-16T16:20:03.805Z
+date: 2026-07-17T00:00:33.396Z
 draft: false
 ---
 
 # 2026年7月16日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/7/16 16:20:03
+> 📊 今日汇总 38 条 · 🕐 2026/7/17 00:00:33
 
 ---
 
@@ -23,7 +23,18 @@ draft: false
 ## ✨ 产品更新
 
 ### VentureBeat AI Products
-![代理编排：企业AI组织存在部署问题，而不是平台问题--大多数组织都在呼叫聊天机器人代理](https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/6620b35dd75cc138cb57cf72a9773f07/VentureBeat-Research-1.png?w=300&q=30)
+![人工智能计算差距：企业购买基础设施的速度超过了衡量成本的速度](https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30)
+
+**[人工智能计算差距：企业购买基础设施的速度超过了衡量成本的速度](https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs)**
+
+大多数组织都在熟悉的超大规模计算器和模型提供者APIsOracle的基础上运行他们的人工智能，以及主要的模型APIs （ **Gemini**
+
+📅 Thu, 16 Jul 2026 19:16:48 GMT
+
+---
+
+### VentureBeat AI Products
+![代理编排：企业AI组织存在部署问题，而不是平台问题--大多数组织都在呼叫聊天机器人代理](https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30)
 
 **[代理编排：企业AI组织存在部署问题，而不是平台问题--大多数组织都在呼叫聊天机器人代理](https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents)**
 
@@ -33,12 +44,25 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[据报道，微软正在培训销售人员谈论OpenAI和Anthropic](https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/)**
+### VentureBeat AI Products
+![智能体安全漏洞： 54%的企业已经发生过AI智能体事件，大多数仍让智能体共享凭证](https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30)
 
-微软希望以比竞争对手更高效、更具成本效益的方式销售其内部人工智能模型
+**[智能体安全漏洞： 54%的企业已经发生过AI智能体事件，大多数仍让智能体共享凭证](https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials)**
 
-📅 Wed, 15 Jul 2026 23:59:44 +0000
+安全堆栈绝大多数是原生提供商— **OpenAI**的护栏（ 51 ％ ）谷歌和微软的云控制
+
+📅 Thu, 16 Jul 2026 19:02:38 GMT
+
+---
+
+### VentureBeat AI Products
+![代理评估差距：企业AI组织存在现实一致性问题，而不是覆盖范围问题—并且大多数仍在运送到生产](https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30)
+
+**[代理评估差距：企业AI组织存在现实一致性问题，而不是覆盖范围问题—并且大多数仍在运送到生产](https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway)**
+
+提供者本地工具线索— **OpenAI**的本地EVALS和TRACES （ 17 ％ ）以及**Anthropic**的**Claude** Console EVALS （ 13 ％ ）加起来超过了任何独立平台—但它被一个引人注目的答案捆绑在一起： 17 ％的企业完全没有使用专门的代理评估工具（ 64 ％ ）打算采用
+
+📅 Thu, 16 Jul 2026 16:40:48 GMT
 
 ---
 
@@ -72,6 +96,15 @@ draft: false
 ---
 
 ### TechCrunch AI Products
+**[Google Vids现在可以让您在自己的人工智能视频中](https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/)**
+
+谷歌正在为Vids添加个性化的人工智能头像，允许用户创建由数字版本的自己主演的视频，以及双子座全功能工具，用于从提示和参考**图像生成**和编辑视频
+
+📅 Thu, 16 Jul 2026 18:32:54 +0000
+
+---
+
+### TechCrunch AI Products
 **[OpenAI为什么要出售ChatGPT篮球？](https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/)**
 
 您可能听说过**OpenAI**本周**发布**了第一款硬件您可能没有听说过Chat**GPT**篮球
@@ -80,39 +113,14 @@ draft: false
 
 ---
 
-### OpenAI Blog
-**[Cars24如何通过OpenAI扩展对话并更快地构建](https://openai.com/index/cars24)**
+### VentureBeat AI Products
+![人工智能上下文差距：企业人工智能组织存在信任问题，而不是检索问题—大多数组织仍在构建修复程序](https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30)
 
-Cars24使用**OpenAI**支持的语音和聊天代理来处理每月超过100万次的对话分钟恢复12%的丢失的潜在客户
+**[人工智能上下文差距：企业人工智能组织存在信任问题，而不是检索问题—大多数组织仍在构建修复程序](https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix)**
 
-📅 Thu, 16 Jul 2026 00:00:00 GMT
+提供者原生检索— **OpenAI**的文件搜索（ 40 ％ ）和**Google**的Vertex AI搜索（ 38 ％ ） —已经领先于每个专用矢量数据库**OpenAI**的文件搜索（ 40 ％ ）和**Google**的Vertex AI搜索（ 38 ％ ）领先—提供者原生和超大规模原生检索—领先于每个专门构建的矢量数据库
 
----
-
-### OpenAI Blog
-**[美国正在通过州和联邦行动推进人工智能安全](https://openai.com/index/advancing-ai-safety-through-state-and-federal-action)**
-
-**OpenAI**概述了人工智能治理的“反向联邦主义”方法，其中州法律有助于建立安全、民主的人工智能国家框架
-
-📅 Wed, 15 Jul 2026 12:00:00 GMT
-
----
-
-### OpenAI Blog
-**[销售团队如何使用ChatGPT](https://openai.com/academy/codex-for-work/how-sales-teams-use-codex)**
-
-了解销售团队如何使用Chat**GPT** Work创建管道简报会准备包
-
-📅 Tue, 14 Jul 2026 00:00:00 GMT
-
----
-
-### OpenAI Blog
-**[数据科学团队如何使用ChatGPT](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex)**
-
-了解数据科学团队如何使用Chat**GPT** Work根据实际工作输入构建根本原因简报和仪表板规格
-
-📅 Tue, 14 Jul 2026 00:00:00 GMT
+📅 Thu, 16 Jul 2026 17:06:08 GMT
 
 ---
 
@@ -181,69 +189,25 @@ Cars24使用**OpenAI**支持的语音和聊天代理来处理每月超过100万�
 
 ---
 
-### MIT Tech Research
-**[Anthropic最新的人工智能发现](https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/)**
+### ArXiv AI (cs.AI)
+**[基于Belnap分型强化FOL的神经符号AGI机器人的概率扩展](https://arxiv.org/abs/2607.13073)**
 
-这个故事最初出现在我们关于AI**Anthropic**的每周通讯The Algorithm上，目前是世界上最有价值的人工智能公司
+13073v1公告类型：新摘要：基于$ IFOL_B $的神经符号AI是一种将神经学习和符号推理相结合的方法，以克服纯神经系统（如缺乏可解释性和逻辑结构）与这种概率神经符号AGI的神经网络提供的自我参考的形式逻辑机制的局限性
 
-📅 Mon, 13 Jul 2026 18:00:00 +0000
+📅 Thu, 16 Jul 2026 00:00:00 -0400
 
 ---
 
 ## 🌍 行业展望
 
 ### VentureBeat
-![Thinking Machines开源第一个多模态语言模型Inkling ，专注于低成本和“抵制审查”](https://images.ctfassets.net/jdtwqhzvc2n1/5cscXIS8kSiP5xP6elycMo/9ec9330dd3bafc2a3782159319f4439a/ChatGPT_Image_Jul_15__2026__01_35_25_PM.png?w=300&q=30)
+![中国的Moonshot AI发布了Kimi K3 ，这是有史以来最大的开源模型，可与美国顶级系统相媲美](https://images.ctfassets.net/jdtwqhzvc2n1/lrqUsUJocTIEaPB4SrQse/e8773a218e398efc6759ca6044672f81/Nuneybits_Vector_art_of_red_code_tsunami_over_servers_fear_of_C_1894f89b-b074-4e21-a0de-2f9a46cfdd32.webp?w=300&q=30)
 
-**[Thinking Machines开源第一个多模态语言模型Inkling ，专注于低成本和“抵制审查”](https://venturebeat.com/technology/thinking-machines-open-sources-first-multimodal-language-model-inkling-focused-on-low-cost-and-resistance-to-censorship)**
+**[中国的Moonshot AI发布了Kimi K3 ，这是有史以来最大的开源模型，可与美国顶级系统相媲美](https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems)**
 
-与**Claude** Fable 5这样的闭源巨头相比， **GPT** 5 Rafailov认为第一个人工超级智能不会是
+“**DeepSeek**、阿里巴巴、腾讯和百度都**发布**了**开源**模型，该公司的**开源**编码工具与**Anthropic**的**Claude** Code和**Google**的**Gemini** CLI竞争
 
-📅 Wed, 15 Jul 2026 21:33:00 GMT
-
----
-
-### The Verge
-![“没有公司会为你坐牢” ：宝腾平衡隐私、政策和信任的首席技术官](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DCD-Bart-Butler.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[“没有公司会为你坐牢” ：宝腾平衡隐私、政策和信任的首席技术官](https://www.theverge.com/podcast/966074/proton-cto-bart-butler-privacy-encryption-surveillance-age-verification)**
-
-您会向**Claude**展示多少才能从这些模型中获得最大价值？因此，我们尝试了**Anthropic**和Chat**GPT**的模型
-
-📅 2026-07-16T14:00:00.000Z
-
----
-
-### VentureBeat
-![1Password进入人工智能成本管理，押注代币支出是下一个企业预算危机](https://images.ctfassets.net/jdtwqhzvc2n1/4M6KLzYU9KVGs7NI46u54o/fd10b08fea94c61016c42479747bfa35/Nuneybits_Vector_art_of_budget_forecast_line_breaking_against_s_9804fce5-d862-409c-be36-2111b48bdd03.webp?w=300&q=30)
-
-**[1Password进入人工智能成本管理，押注代币支出是下一个企业预算危机](https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis)**
-
-1Password声称拥有企业技术最新、最混乱的预算类别之一：大型语言模型的消耗成本每次调用**Claude**的API时， **GPT**-5
-
-📅 Tue, 14 Jul 2026 13:00:00 GMT
-
----
-
-### VentureBeat
-![Canva推出Code 2.0 ，为每位用户（包括免费帐户）提供人工智能网站构建](https://images.ctfassets.net/jdtwqhzvc2n1/3wHn92IpIJRa3DbgFwkrO7/f80c8eb1c3bfb4537fd1188e6640dbec/Nuneybits_Vector_art_of_a_text_prompt_becoming_a_polished_websi_143e4159-4f87-4af2-b95a-48898affcf2d.webp?w=300&q=30)
-
-**[Canva推出Code 2.0 ，为每位用户（包括免费帐户）提供人工智能网站构建](https://venturebeat.com/technology/canva-launches-code-2-0-offering-ai-website-building-to-every-user-including-free-accounts)**
-
-允许用户使用任何AI工具生成的代码（包括Chat**GPT** ） ，但Canva的保留数据仍然是一个悬而未决的问题， Canva的公告强调了一个令人印象深刻的牵引力指标：自一年前首次**推出**该功能以来，用户已使用Canva Code创建和**发布**了600多万个网站
-
-📅 Tue, 14 Jul 2026 13:00:00 GMT
-
----
-
-### VentureBeat
-![Cohere副总裁表示，企业人工智能主权要求在VB Transform 2026上控制完整的代理堆栈](https://images.ctfassets.net/jdtwqhzvc2n1/4e6UBj4MVRN7jC5IMqsQsV/791bfbe0e7b49a1726eceac8fc6736aa/VBTS8125.jpg?w=300&q=30)
-
-**[Cohere副总裁表示，企业人工智能主权要求在VB Transform 2026上控制完整的代理堆栈](https://venturebeat.com/technology/cohere-vp-says-enterprise-ai-sovereignty-requires-control-of-the-full-agent-stack)**
-
-此前曾在谷歌和**Meta**His领导负责的人工智能以及信任和安全工程团队，他的处方很简单： “为手头的任务使用正确的模型
-
-📅 Wed, 15 Jul 2026 18:21:02 GMT
+📅 Thu, 16 Jul 2026 19:42:09 GMT
 
 ---
 
@@ -265,6 +229,15 @@ Cars24使用**OpenAI**支持的语音和聊天代理来处理每月超过100万�
 
 ---
 
+### Wired Technology
+**[苹果起诉OpenAI、纽约接管数据中心以及了解环孢子虫病的原因](https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/)**
+
+我们将揭开**OpenAI**正在进行的戏剧性事件，以及这些发展是否会进一步伤害公司-特别是在与人类的斗争中
+
+📅 Thu, 16 Jul 2026 22:17:27 +0000
+
+---
+
 ### ZDNet AI
 **[Anthropic的Claude Corps将向1,000名早期职业专业人士支付$ 85,000 -立即申请](https://www.zdnet.com/article/anthropic-claude-corps-pays-early-career-professionals-apply-now/)**
 
@@ -274,27 +247,67 @@ Cars24使用**OpenAI**支持的语音和聊天代理来处理每月超过100万�
 
 ---
 
+### ZDNet AI
+**[1Password的新代理模式允许Claude登录您的帐户，而无需查看您的凭据](https://www.zdnet.com/article/1password-claude-agentic-mode/)**
+
+1Password希望解决人工智能最大的实际问题之一：安全登录**Claude**集成可以输入密码和MFA代码，而无需将凭据暴露给**Anthropic**或模型
+
+📅 Thu, 16 Jul 2026 13:00:04 GMT
+
+---
+
+### The Verge
+![谷歌将NotebookLM更名为Gemini Notebook](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemininotebook.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[谷歌将NotebookLM更名为Gemini Notebook](https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm)**
+
+谷歌正在为其人工智能笔记应用程序命名谷歌于2023年5月**首次**披露了**Gemini** Notebook （当时称为Project Tailwind ） ，并在几个月后广泛**发布**了该应用程序
+
+📅 2026-07-16T16:00:00.000Z
+
+---
+
+### Wired Technology
+**[这就是为什么人类正在推动各国更快地监管人工智能](https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/)**
+
+该公司去年在加利福尼亚州和纽约州认可了具有里程碑意义的人工智能透明度法律，但其美国州和地方政策负责人表示，这些法律可能已经过时
+
+📅 Thu, 16 Jul 2026 18:35:18 +0000
+
+---
+
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![netdata ：实现人工智能驱动的全栈可观察性的最快途径，即使对于精益团队也是如此。](https://avatars.githubusercontent.com/u/43390781?v=4)
+### GitHub Active (Python)
+![posthog:: hedgehog: PostHog是构建自动驾驶产品的领先平台。我们的开发人员工具--人工智能可观测性、分析、会话重播、标记、实验、错误跟踪、日志等--捕获代理诊断问题、发现机会和发布修复所需的所有上下文。从Slack、网络、桌面或MCP引导一切。](https://avatars.githubusercontent.com/u/60330232?v=4)
 
-**[netdata ：实现人工智能驱动的全栈可观察性的最快途径，即使对于精益团队也是如此。](https://github.com/netdata/netdata)**
+**[posthog:: hedgehog: PostHog是构建自动驾驶产品的领先平台。我们的开发人员工具--人工智能可观测性、分析、会话重播、标记、实验、错误跟踪、日志等--捕获代理诊断问题、发现机会和发布修复所需的所有上下文。从Slack、网络、桌面或MCP引导一切。](https://github.com/PostHog/posthog)**
 
-⭐ 79,664星· 6520叉·围棋·通往人工智能全栈可观测性的最快路径，即使是精益团队
+我们的开发人员工具– AI observability从Slack、Web、桌面或MCP引导所有内容
 
-📅 2026-07-16T16:17:52Z
+📅 2026-07-16T23:59:28Z
 
 ---
 
 ### GitHub Active (AI/ML)
-![executorch ：适用于PyTorch的移动、嵌入式和边缘设备上的AI](https://avatars.githubusercontent.com/u/21003710?v=4)
+![screenpipe: YC (S26) |记录您的工作方式并将其转化为代理。本地、私密、安全。连接到OpenClaw、Hermes代理和100多个应用程序](https://avatars.githubusercontent.com/u/259178917?v=4)
 
-**[executorch ：适用于PyTorch的移动、嵌入式和边缘设备上的AI](https://github.com/pytorch/executorch)**
+**[screenpipe: YC (S26) |记录您的工作方式并将其转化为代理。本地、私密、安全。连接到OpenClaw、Hermes代理和100多个应用程序](https://github.com/screenpipe/screenpipe)**
 
-⭐ 4805星· 1078叉· Python · PyTorch移动、嵌入式和边缘设备上的AI
+⭐ 20,180星· 1981分叉·铁锈· YC (S26) |记录您的工作方式，并将其转化为本地、私密、安全的代理
 
-📅 2026-07-16T16:17:32Z
+📅 2026-07-16T23:58:53Z
+
+---
+
+### GitHub Active (AI/ML)
+![ai-hub-models ： Qualcomm ® AI Hub Models是我们最先进的机器学习模型集合，针对性能（延迟、内存等）进行了优化，可随时部署在Qualcomm ®设备上。](https://avatars.githubusercontent.com/u/55295994?v=4)
+
+**[ai-hub-models ： Qualcomm ® AI Hub Models是我们最先进的机器学习模型集合，针对性能（延迟、内存等）进行了优化，可随时部署在Qualcomm ®设备上。](https://github.com/qualcomm/ai-hub-models)**
+
+165星· 207分叉· Python · Qualcomm ® AI Hub模型是我们最先进的机器学习模型集合，针对性能（延迟）进行了优化，可随时部署在Qualcomm ®设备上
+
+📅 2026-07-16T23:58:58Z
 
 ---
 
@@ -303,58 +316,20 @@ Cars24使用**OpenAI**支持的语音和聊天代理来处理每月超过100万�
 
 **[🆕 J-Wash ： Jacobian-Brainwash ：基于Anthropic的Jacobian Lens构建的大型语言模型的手动对齐工具。结果可导出。](https://github.com/Extraltodeus/J-Wash)**
 
-⭐ 164 star (新项目) · Python · Jacobian-Brainwash : A manual alignment tool for large language models built on **Anthropic**'s Jacobian LensResults are exportable
+⭐ 168 star (新项目) · Python · Jacobian-Brainwash : A manual alignment tool for large language models built on **Anthropic**'s Jacobian LensResults are exportable
 
 📅 2026-07-13T20:23:26Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 mcptrustchecker ： MCP安全扫描程序—模型上下文协议服务器的离线、确定性A–F信任分数。检测工具中毒、提示注射和有毒流动。](https://avatars.githubusercontent.com/u/159416321?v=4)
-
-**[🆕 mcptrustchecker ： MCP安全扫描程序—模型上下文协议服务器的离线、确定性A–F信任分数。检测工具中毒、提示注射和有毒流动。](https://github.com/illiahaidar/mcptrustchecker)**
-
-⭐ 47 star (新项目) · TypeScript · MCP security scanner — offline, deterministic A–F Trust Score for Model Context Protocol serversDetects tool poisoning, prompt injection & toxic flows
-
-📅 2026-07-13T16:18:48Z
-
----
-
 ## 💬 社交动态
-
-### Reddit: r/artificial
-**[我们试图回答一个简单的问题：在你相信它之前，人工智能能否证明它是正确的](https://www.reddit.com/r/artificial/comments/1uxy7tx/were_trying_to_answer_a_simple_question_can_ai/)**
-
-What we've built so far is: Deterministic evidence extraction pipeline Typed financial fact normalization Cross-document reconciliation engine C++20 verification core Covenant calculation engine Source-anchor tracking for every extracted fact Complete audit trail explaining exactly why every conclusion was reached Synthetic financial benchmark suite designed for reproducible evaluation Current implementation status: ✅ 11 JSON schemas validated ✅ Evidence extraction pipeline complete ✅ Deterministic fixtures and validation suite ✅ C++ verification engine ✅ 99/99 C++ unit tests passing Early benchmark results:o We're benchmarking frontier models on financial verification rather than generic Q&AWe're now preparing large-scale benchmarks across **OpenAI**
-
-📅 2026-07-16T09:47:00.000Z
-
----
-
-### Hacker News AI
-**[Show HN: Traceforce (YC S26) –安全的人工智能应用程序，一次一个设备](https://news.ycombinator.com/item?id=48936384)**
-
-Traceforce直接在所有设备（笔记本电脑）上提供对Chat**GPT**Claude等人工智能应用程序的可见性和控制
-
-📅 Thu, 16 Jul 2026 16:03:26 +0000
-
----
-
-### Reddit: r/artificial
-**[有没有像Anthropic和OpenAI模型那样的Higgsfield代理服务器提供商？](https://www.reddit.com/r/artificial/comments/1uxv3qs/any_higgsfield_proxy_server_provider_like_they/)**
-
-几家服务器提供商通过提供代理服务器将**Anthropic**和**OpenAI**模型的成本降低了20倍，该服务器可在单个帐户上路由多个用户的请求您可以获得X倍数，您可以在**Claude**的200 $月度订阅计划中获得5 $/10 $/20 $
-
-📅 2026-07-16T06:46:41.000Z
-
----
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-07-16T16:18:41.775Z
+📅 2026-07-16T23:59:20.843Z
 
 ---
 
@@ -363,25 +338,60 @@ Traceforce直接在所有设备（笔记本电脑）上提供对Chat**GPT**Claud
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-07-16T16:18:48.799Z
+📅 2026-07-16T23:59:26.726Z
 
 ---
 
 ### Hacker News AI
-**[我自动发布了2300篇AI文章，谷歌隐藏了我90%的流量](https://martin-schenk.es/blog/2300-ai-articles-google-buried-my-traffic/)**
+**[欧盟将迫使谷歌共享搜索数据，并在Android上开放人工智能](https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/)**
 
-文章网址： https://martin-schenkes/blog/2300-ai-articles-**Google**-buried-my-traffic/评论网址： https://**new**s
+文章网址： https://arstechnicacom/gadgets/2026/07/its-official-eu-will-force-**Google**-to-share-search-data-and-open-up-ai-on-android/评论网址： https://**new**s
 
-📅 Thu, 16 Jul 2026 15:42:06 +0000
+📅 Thu, 16 Jul 2026 22:19:13 +0000
 
 ---
 
-### Hacker News AI
-**[在与Meta AI的对话中，如果青少年表现出痛苦的迹象，则提醒家长](https://about.fb.com/news/2026/07/keeping-parents-informed-teens-distress-conversations-meta-ai/)**
+### Reddit: r/artificial
+![我做了一些感觉像GPT-Live的东西，但你可以在Rust中自己运行它](https://preview.redd.it/ucsvm2ma6odh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=23f288e9caafe87f306cc977a77aefec2a572ab7)
 
-文章网址： https://aboutcom/**new**s/2026/07/keep-parents-informed-teens-distress-conversations-**Meta**-ai/评论网址： https://**new**s
+**[我做了一些感觉像GPT-Live的东西，但你可以在Rust中自己运行它](https://www.reddit.com/r/artificial/comments/1uyhujs/i_made_something_that_feels_like_gptlive_but_you/)**
 
-📅 Thu, 16 Jul 2026 15:26:50 +0000
+我真的很喜欢**GPT**-Live的对话感觉，所以我想构建一些类似的东西，可以在本地运行我的主要目标是让对话感觉很自然；例如
+
+📅 2026-07-16T22:41:44.000Z
+
+---
+
+### Reddit: r/artificial
+![最后，人工智能初创公司的收入高达数十亿美元，而非估值（由英伟达支持）](https://external-preview.redd.it/2_1PzjX8Cq6KFtCUpsWZCa4GRKbs3UZhH_X13wc-_LY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=851637626d41898b274dc7418333ccc7e956e617)
+
+**[最后，人工智能初创公司的收入高达数十亿美元，而非估值（由英伟达支持）](https://www.reddit.com/r/artificial/comments/1uycu7x/finally_an_ai_start_up_with_a_billiondollar/)**
+
+英伟达支持的Fireworks估值达到1750 $ ，因为公司追求/u/Deep-Owl-1890提交的更便宜的人工智能模型[link] [comments]
+
+📅 2026-07-16T19:32:16.000Z
+
+---
+
+### Reddit: r/artificial
+![批评后的新AI工具的元缰绳](https://external-preview.redd.it/M5NyJn89UokODl0ztDqvj1x5C1H2bPkO_b5q4kWOHOs.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bcdbc0772860b8d122f6fbe96da2e9064ef4d517)
+
+**[批评后的新AI工具的元缰绳](https://www.reddit.com/r/artificial/comments/1uybydj/meta_reins_in_new_ai_tool_after_criticism/)**
+
+提交者/u/Traditional_Blood799 [link] [comments]
+
+📅 2026-07-16T18:59:38.000Z
+
+---
+
+### Reddit: r/artificial
+![数以千计的元数据用于优先考虑人工智能。前员工说，人工智能被用来解雇他们。](https://external-preview.redd.it/p9l62ML6_3g1Isg0Il-5Tj3DL_7hPpPNqxc6al9a4MM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6e3f42ace4bc223398ebdf20ab8662d27b2af71c)
+
+**[数以千计的元数据用于优先考虑人工智能。前员工说，人工智能被用来解雇他们。](https://www.reddit.com/r/artificial/comments/1uy8a7a/meta_laid_of_thousands_to_prioritize_ai_former/)**
+
+提交者/u/sfgate [link] [comments]
+
+📅 2026-07-16T16:47:39.000Z
 
 ---
 
