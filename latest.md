@@ -1,12 +1,12 @@
 ---
 title: "2026年7月17日 - TZ日报"
-date: 2026-07-17T16:18:53.157Z
+date: 2026-07-17T23:54:39.520Z
 draft: false
 ---
 
 # 2026年7月17日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/7/17 16:18:53
+> 📊 今日汇总 38 条 · 🕐 2026/7/17 23:54:39
 
 ---
 
@@ -104,15 +104,6 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[OpenAI为什么要出售ChatGPT篮球？](https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/)**
-
-您可能听说过**OpenAI**本周**发布**了第一款硬件您可能没有听说过Chat**GPT**篮球
-
-📅 Thu, 16 Jul 2026 15:31:09 +0000
-
----
-
 ### VentureBeat AI Products
 ![人工智能上下文差距：企业人工智能组织存在信任问题，而不是检索问题—大多数组织仍在构建修复程序](https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30)
 
@@ -121,6 +112,15 @@ draft: false
 提供者原生检索— **OpenAI**的文件搜索（ 40 ％ ）和**Google**的Vertex AI搜索（ 38 ％ ） —已经领先于每个专用矢量数据库**OpenAI**的文件搜索（ 40 ％ ）和**Google**的Vertex AI搜索（ 38 ％ ）领先—提供者原生和超大规模原生检索—领先于每个专门构建的矢量数据库
 
 📅 Thu, 16 Jul 2026 17:06:08 GMT
+
+---
+
+### OpenAI Blog
+**[人工智能时代的记分卡](https://openai.com/index/a-scorecard-for-the-ai-age)**
+
+**OpenAI**首席财务官**推出**实用的人工智能记分卡，通过有用的工作来衡量投资回报率
+
+📅 Fri, 17 Jul 2026 10:00:00 GMT
 
 ---
 
@@ -211,6 +211,28 @@ draft: false
 
 ---
 
+### VentureBeat
+![Capital One发布了VulnHunter ，这是一种开源人工智能工具，可以在黑客之前发现软件缺陷](https://images.ctfassets.net/jdtwqhzvc2n1/4WyYBE0eHzPTbv6jfjEWSx/7f036d0db42a8ad93985502ab8ece9f4/Nuneybits_Vector_art_of_a_Capital_One_credit_card_made_of_compu_fe529096-78bd-401e-b668-abeb2d5496e0.webp?w=300&q=30)
+
+**[Capital One发布了VulnHunter ，这是一种开源人工智能工具，可以在黑客之前发现软件缺陷](https://venturebeat.com/technology/capital-one-releases-vulnhunter-an-open-source-ai-tool-that-finds-software-flaws-before-hackers-do)**
+
+该工具目前在**Claude** Code环境中在**Anthropic**的**Claude** Opus 48模型上运行
+
+📅 Fri, 17 Jul 2026 20:51:30 GMT
+
+---
+
+### VentureBeat
+![Brex通过观察代理的实际行为而不是先写规则来构建其AI代理策略](https://images.ctfassets.net/jdtwqhzvc2n1/2E6Z58IGkCWdoYTTSfOnXg/9f28eb7c0fa9d80bdd54b95242a2f091/VBXC2192.jpg?w=300&q=30)
+
+**[Brex通过观察代理的实际行为而不是先写规则来构建其AI代理策略](https://venturebeat.com/orchestration/brex-built-its-ai-agent-policy-by-watching-what-agents-actually-do-not-by-writing-rules-first)**
+
+其次，通过使用像**Claude** Haiku这样的小型快速模型，意味着即使法官解雇了，也会增加延迟“可以忽略不计Franceschi说Brex也收到了**OpenAI**的消息
+
+📅 Fri, 17 Jul 2026 17:49:19 GMT
+
+---
+
 ### MIT Tech Review
 **[下载： OpenAI在美国推出GPT-Red和热泵](https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/)**
 
@@ -229,48 +251,30 @@ draft: false
 
 ---
 
-### Wired Technology
-**[阀门蒸汽机评测：受损的控制平台](https://www.wired.com/review/valve-steam-machine/)**
+### Ars Technica
+**[谷歌支持的野火探测卫星发射，因为烟雾窒息了美国，加拿大](https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/)**
 
-非常适合独立宠儿，但索尼、微软和任天堂仍然是电视游戏之王。
+FireSat计划可以发现其他卫星错过的野火。
 
-📅 Fri, 17 Jul 2026 11:00:00 +0000
-
----
-
-### Wired Technology
-**[旧金山要求苹果和谷歌从应用商店中删除AI “Nudify”应用](https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/)**
-
-市检察官办公室本周向科技巨头发出了停止信函，告诉他们停止从13个“换脸”应用程序中获利，这些应用程序绝大多数用于针对女性和女孩
-
-📅 Fri, 17 Jul 2026 10:00:00 +0000
+📅 Fri, 17 Jul 2026 19:50:18 +0000
 
 ---
 
 ### Ars Technica
-**[官方消息：欧盟将迫使谷歌共享搜索数据，并在Android上开放人工智能](https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/)**
+**[旧金山命令苹果、谷歌从应用商店中删除nudify应用](https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/)**
 
-谷歌表示，这些变化可能会危及用户的隐私和安全。
+官方估计，谷歌和苹果可能在nudify应用程序费用上赚了数百万美元。
 
-📅 Thu, 16 Jul 2026 20:41:45 +0000
-
----
-
-### ZDNet AI
-**[拥有像素？您现在可以以每月$ 5的价格添加设备保护-但您应该这样做吗？](https://www.zdnet.com/article/google-just-reopened-enrollment-to-add-pixel-care-plus-to-older-phones-heres-who-should-and-shouldnt-sign-up/)**
-
-如果您在结账时忽略了**Google**的电话保险，现在可以再次添加。但你应该吗？
-
-📅 Fri, 17 Jul 2026 09:00:34 GMT
+📅 Fri, 17 Jul 2026 16:10:05 +0000
 
 ---
 
 ### ZDNet AI
-**[亚马逊刚刚从Google Pixel 10 Pro上削减了300 $ -我建议购买一个](https://www.zdnet.com/article/google-pixel-10-pro-deal/)**
+**[Moonshot的开源Kimi K3模型在这个基准测试中击败了Anthropic的Fable 5](https://www.zdnet.com/article/ai-model-release-tracker/)**
 
-谷歌的Pixel 10 Pro拥有当今最好的Android相机系统之一现在以699 $的价格购买，这是我们见过的最好的价格之一
+我们的AI模型**发布**跟踪器将新模型与同行保持一致，因此您知道哪些值得花时间
 
-📅 Thu, 16 Jul 2026 15:58:51 GMT
+📅 Fri, 17 Jul 2026 17:35:00 GMT
 
 ---
 
@@ -281,7 +285,7 @@ draft: false
 
 **[🆕 LLMVault ：一个针对AI安全、提示注入、RAG安全、代理安全和GenAI渗透测试的易受攻击的OWASP LLM十大培训平台。](https://github.com/CyberSunil/LLMVault)**
 
-⭐ 132 star (新项目) · Python · An intentionally vulnerable OWASP LLM Top 10 training platform for AI Securityand GenAI penetration testing
+⭐ 149 star (新项目) · Python · An intentionally vulnerable OWASP LLM Top 10 training platform for AI Securityand GenAI penetration testing
 
 📅 2026-07-15T08:18:22Z
 
@@ -322,12 +326,34 @@ draft: false
 
 ## 💬 社交动态
 
+### Reddit: r/artificial
+![更新浏览器扩展程序，在您观看时检查YouTube视频的事实](https://external-preview.redd.it/NzJuZmdzM2E2dmRoMXMQCCyeFjD0o4S8k9KRHeLITaCK6ZIGE2pGZgDvsKdb.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1535c27cd5e3f4dc2cfbeee846043d203847c3bc)
+
+**[更新浏览器扩展程序，在您观看时检查YouTube视频的事实](https://www.reddit.com/r/artificial/comments/1uze14i/update_on_the_browser_extension_that_fact_checks/)**
+
+大家好，首先，非常感谢您对我的项目PopUpFactCheckOnce的反馈和兴趣， **Claude** Code是我开发中的主要工具，用于编排的AI是**OpenAI** **GPT** 5
+
+📅 2026-07-17T22:19:46.000Z
+
+---
+
+### Reddit: r/artificial
+![Fable 5已为$ 200 Claude.ai Max客户停用？](https://preview.redd.it/0pl2kja55udh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dd7214a740b1c736cc4a3e87176d366c6a1ab488)
+
+**[Fable 5已为$ 200 Claude.ai Max客户停用？](https://www.reddit.com/r/artificial/comments/1uz8j0h/fable_5_deactivated_for_200_claudeai_max_customers/)**
+
+**Anthropic**表示，截至7月19日， Fable 5房源已包含在付费套餐（ Pro/Max/Team ）中， **Claude** Code一直影响着我：我的设置：计划： **Claude** Max （ 20x ） **Claude** Code ： v2
+
+📅 2026-07-17T18:48:27.000Z
+
+---
+
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-07-17T16:17:37.129Z
+📅 2026-07-17T23:53:23.679Z
 
 ---
 
@@ -336,54 +362,18 @@ draft: false
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-07-17T16:17:43.554Z
-
----
-
-### Hacker News
-**[Claude Code ：错误剖析](https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/)**
-
-文章网址： https://wwwcom/2026/07/17/**Claude**-code-anatomy-of-a-misfeature/评论网址： https://**new**s
-
-📅 Fri, 17 Jul 2026 14:26:58 +0000
-
----
-
-### Hacker News AI
-**[中国刚刚抹去了美国的人工智能领先地位](https://www.axios.com/2026/07/17/china-ai-kimi-k3-open-source-anthropic-opus)**
-
-文章网址： https://wwwcom/2026/07/17/china-ai-kimi-k3-open-source-**Anthropic**-opus评论网址： https://**new**s
-
-📅 Fri, 17 Jul 2026 16:10:56 +0000
-
----
-
-### Hacker News AI
-**[我授予AI代理访问我的密码的权限。以下是发生的事情。](https://www.wsj.com/tech/ai/1password-for-claude-ai-agents-password-manager-111a7a8a)**
-
-文章网址： https://wwwcom/tech/ai/1password-for-**Claude**-ai-agents-password-manager-111a7a8a评论网址： https://**new**s
-
-📅 Fri, 17 Jul 2026 15:20:44 +0000
-
----
-
-### Hacker News AI
-**[根据欧盟规定的变化，谷歌需要向搜索引擎竞争对手AI开放](https://www.reuters.com/world/google-required-open-up-ai-search-engine-rivals-under-eu-mandated-changes-2026-07-16/)**
-
-文章网址： https://wwwcom/world/**Google**-required-open-up-ai-search-engine-rivals-under-eu-mandated-changes-2026-07-16/评论网址： https://**new**s
-
-📅 Fri, 17 Jul 2026 15:11:19 +0000
+📅 2026-07-17T23:53:28.012Z
 
 ---
 
 ### Reddit: r/artificial
-![Moonshot的Kimi K3将人工智能和半导体股票送入尾声Moonshot的Kimi K3将人工智能和半导体股票送入尾声。中国最大的开放式人工智能模型重燃了DeepSeek时代对美国基础设施支出经济学的担忧。](https://external-preview.redd.it/YzDov1HEh-xrXNuOvrBrM9HrTcJ7HsYrU3rXwGG1Gzk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=07e3b6f4e99e1b4b9ff14516deda579221afa3b4)
+![如何创建这样的视频？](https://preview.redd.it/f6ab8av49udh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=150d3fe2a8709b7e40ff606f07e74643c5cb4690)
 
-**[Moonshot的Kimi K3将人工智能和半导体股票送入尾声Moonshot的Kimi K3将人工智能和半导体股票送入尾声。中国最大的开放式人工智能模型重燃了DeepSeek时代对美国基础设施支出经济学的担忧。](https://www.reddit.com/r/artificial/comments/1uz1077/moonshots_kimi_k3_sends_ai_and_semiconductor/)**
+**[如何创建这样的视频？](https://www.reddit.com/r/artificial/comments/1uz90l5/how_do_i_create_videos_like_this/)**
 
-提交者：/u/coolbern [link] [comments]
+如何创建这是由Sedance还是**Google** flow创建的
 
-📅 2026-07-17T14:15:22.000Z
+📅 2026-07-17T19:06:24.000Z
 
 ---
 
@@ -392,7 +382,25 @@ draft: false
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-07-17T16:17:37.129Z
+📅 2026-07-17T23:53:23.679Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误520 ：未知
+
+📅 2026-07-17T23:53:23.679Z
+
+---
+
+### X: OpenAI
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Markdown 内容
+
+📅 2026-07-17T23:53:23.679Z
 
 ---
 
