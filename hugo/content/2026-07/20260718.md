@@ -1,12 +1,12 @@
 ---
 title: "2026年7月18日 - TZ日报"
-date: 2026-07-18T16:00:14.820Z
+date: 2026-07-18T23:55:26.065Z
 draft: false
 ---
 
 # 2026年7月18日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/7/18 16:00:14
+> 📊 今日汇总 38 条 · 🕐 2026/7/18 23:55:26
 
 ---
 
@@ -30,17 +30,6 @@ draft: false
 大多数组织都在熟悉的超大规模计算器和模型提供者APIsOracle的基础上运行他们的人工智能，以及主要的模型APIs （ **Gemini**
 
 📅 Thu, 16 Jul 2026 19:16:48 GMT
-
----
-
-### VentureBeat AI Products
-![代理编排：企业AI组织存在部署问题，而不是平台问题--大多数组织都在呼叫聊天机器人代理](https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30)
-
-**[代理编排：企业AI组织存在部署问题，而不是平台问题--大多数组织都在呼叫聊天机器人代理](https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents)**
-
-企业正在迅速整合到主要的模型平台上： **Anthropic**的**Claude**是40 ％的主要平台发现1 ： Orchestration在模型提供商平台上运行**Anthropic**的**Claude**领导；开放框架很少我们询问了企业目前主要使用哪个代理编排平台
-
-📅 Wed, 15 Jul 2026 22:24:17 GMT
 
 ---
 
@@ -124,16 +113,16 @@ Cars24使用**OpenAI**支持的语音和聊天代理来处理每月超过100万�
 
 ---
 
-## 🔬 前沿研究
+### Hugging Face
+**[使用NVIDIA NeMo Automodel和Diffusers大规模微调视频和图像🤗模型](https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel)**
 
-### MIT Tech Research
-**[认识GPT-Red ： LLM超级黑客OpenAI ，旨在使其模型更安全](https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/)**
+使用NVIDIA NeMo Automodel和Diffusers大规模微调视频和图像🤗模型
 
-**OpenAI**已经建立了一个名为**GPT**-Red的LLM超级黑客，它用作陪练合作伙伴，帮助其他模型提高对网络攻击的防御**OpenAI**表示，对**GPT**-Red的训练使该模型成为迄今为止**最强**大的版本
-
-📅 Wed, 15 Jul 2026 17:09:37 +0000
+📅 Fri, 17 Jul 2026 15:57:54 GMT
 
 ---
+
+## 🔬 前沿研究
 
 ### ArXiv AI (cs.AI)
 **[自主无人机群搜索救援智能三层学习架构](https://arxiv.org/abs/2607.14093)**
@@ -198,6 +187,15 @@ Cars24使用**OpenAI**支持的语音和聊天代理来处理每月超过100万�
 
 ---
 
+### ArXiv AI (cs.AI)
+**[来自访问结构而不是规模的能力：混合序列模型的下限和预注册测试](https://arxiv.org/abs/2607.14144)**
+
+14144v1公告类型：新摘要：柏拉图表示假设（ PRH ）认为，作为模型，当64标量状态获得一个全局注意层时， scale000 ）
+
+📅 Sat, 18 Jul 2026 00:00:00 -0400
+
+---
+
 ## 🌍 行业展望
 
 ### VentureBeat
@@ -251,6 +249,17 @@ Cars24使用**OpenAI**支持的语音和聊天代理来处理每月超过100万�
 
 ---
 
+### The Verge
+![Dave Eggers告诉OpenAI工作人员， ChatGPT正在“沉默整整一代人”](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2157758001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[Dave Eggers告诉OpenAI工作人员， ChatGPT正在“沉默整整一代人”](https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation)**
+
+Sam Altman邀请作家Dave Eggers与约200名**OpenAI**工作人员进行演讲据《金融时报》报道， Eggers告诉工作人员： “Chat**GPT**对教育工作者生活的影响是灾难性的
+
+📅 2026-07-18T20:54:42.000Z
+
+---
+
 ### Ars Technica
 **[谷歌支持的野火探测卫星发射，因为烟雾窒息了美国，加拿大](https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/)**
 
@@ -269,15 +278,6 @@ FireSat计划可以发现其他卫星错过的野火。
 
 ---
 
-### ZDNet AI
-**[Moonshot的开源Kimi K3模型在这个基准测试中击败了Anthropic的Fable 5](https://www.zdnet.com/article/ai-model-release-tracker/)**
-
-我们的AI模型**发布**跟踪器将新模型与同行保持一致，因此您知道哪些值得花时间
-
-📅 Fri, 17 Jul 2026 17:35:00 GMT
-
----
-
 ## 📦 GitHub热门
 
 ### GitHub New (New AI)
@@ -285,7 +285,7 @@ FireSat计划可以发现其他卫星错过的野火。
 
 **[🆕 LLMVault ：一个针对AI安全、提示注入、RAG安全、代理安全和GenAI渗透测试的易受攻击的OWASP LLM十大培训平台。](https://github.com/CyberSunil/LLMVault)**
 
-⭐ 178 star (新项目) · Python · An intentionally vulnerable OWASP LLM Top 10 training platform for AI Securityand GenAI penetration testing
+⭐ 184 star (新项目) · Python · An intentionally vulnerable OWASP LLM Top 10 training platform for AI Securityand GenAI penetration testing
 
 📅 2026-07-15T08:18:22Z
 
@@ -326,50 +326,12 @@ FireSat计划可以发现其他卫星错过的野火。
 
 ## 💬 社交动态
 
-### Reddit: r/artificial
-**[对于2026年的非开发工作，哪些MCP服务器值得安装？ ？分享我在编码之外发现的内容](https://www.reddit.com/r/artificial/comments/1uzwdtm/which_mcp_servers_are_worth_installing_for_nondev/)**
-
-如果您已经付费， Notion MCP是显而易见的安装方式，可让**Claude**在整个工作区创建页面、**更新**数据库和阅读。HubSpot MCP是最受支持的CRM服务器，完全可读/写，开箱即用，可与**Claude**和Chat**GPT**配合使用
-
-📅 2026-07-18T13:47:51.000Z
-
----
-
-### Reddit: r/artificial
-![比较世界杯决赛前的人工智能预测](https://preview.redd.it/cjoryi3lrzdh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=07cdc82cfc4e54915bbb5b961cd09479693a5ca1)
-
-**[比较世界杯决赛前的人工智能预测](https://www.reddit.com/r/artificial/comments/1uzw659/comparing_ai_predictions_before_the_world_cup/)**
-
-多种型号，包括**Claude** Opus 48、**DeepSeek** V4 Pro、**GPT** 5
-
-📅 2026-07-18T13:38:44.000Z
-
----
-
-### Hacker News
-**[GPT-5.6使用提示来缩小凸优化方面的30年差距](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/)**
-
-文章网址： https://oldcom/r/math/comments/1uxj3cy/after_**OpenAI**s_cdc_proof_**announce**ment_**GPT**56_used_a/评论网址： https://**new**s
-
-📅 Sat, 18 Jul 2026 13:00:52 +0000
-
----
-
-### Reddit: r/artificial
-**[单据生成时间](https://www.reddit.com/r/artificial/comments/1uzx1pu/document_generation/)**
-
-我过去曾使用过Chat**GPT** ，但似乎在这项任务中变得越来越糟糕如果是**Claude**
-
-📅 2026-07-18T14:15:24.000Z
-
----
-
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-07-18T15:58:16.373Z
+📅 2026-07-18T23:54:09.867Z
 
 ---
 
@@ -378,25 +340,63 @@ FireSat计划可以发现其他卫星错过的野火。
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-07-18T15:58:27.065Z
+📅 2026-07-18T23:54:14.663Z
 
 ---
 
-### Hacker News
-**[LG ThinQ使用条款](https://news.ycombinator.com/item?id=48958273)**
+### Reddit: r/artificial
+**[需要一个可以创建和更新睡眠日志的平台](https://www.reddit.com/r/artificial/comments/1v05nln/need_a_platform_that_can_create_and_update_a/)**
 
-我向Chat**GPT**索取摘要它可能会在未经进一步同意的情况下推送无线**更新**，并可以更改或停止功能
+在Copilot和**Claude**的大规模失败之后，我需要一个免费的人工智能平台，可以节省正在进行的日志我有两次中风和心脏病发作，坐在轮椅上，真的无法工作
 
-📅 Sat, 18 Jul 2026 14:04:55 +0000
+📅 2026-07-18T19:55:33.000Z
 
 ---
 
-### Hacker News
-**[NP难题上的寓言5与GPT-5.6 Sol ：/GOAL有帮助吗？](https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/)**
+### Reddit: r/artificial
+![IA do Google reconstrói o mais belo gol de Pelé](https://external-preview.redd.it/FRycb_8ReZC3tq84LMM5OcBeEKVj0aZt3fuOyp6HaZo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8b8b2288abada2588fa5ff656d7c998608d7531a)
 
-文章网址： https://charlesazamcom/blog/fable-5-**GPT**-5-6-sol-goal/评论网址： https://**new**s
+**[IA do Google reconstrói o mais belo gol de Pelé](https://www.reddit.com/r/artificial/comments/1uzyou1/ia_do_google_reconstrói_o_mais_belo_gol_de_pelé/)**
 
-📅 Sat, 18 Jul 2026 11:00:29 +0000
+提交者/u/DagomirMarquezi [link] [comments]
+
+📅 2026-07-18T15:21:41.000Z
+
+---
+
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Title: 520: Web服务器返回未知错误
+
+📅 2026-07-18T23:54:09.867Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误520 ：
+
+📅 2026-07-18T23:54:09.867Z
+
+---
+
+### X: OpenAI
+**[警告：此页面可能尚未完全加载，请考虑显式指定超时。](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：此页面可能尚未完全加载，请考虑显式指定超时。
+
+📅 2026-07-18T23:54:09.867Z
+
+---
+
+### X: OpenAI
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Markdown 内容
+
+📅 2026-07-18T23:54:09.867Z
 
 ---
 
