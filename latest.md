@@ -1,12 +1,12 @@
 ---
 title: "2026年7月19日 - TZ日报"
-date: 2026-07-19T16:00:24.563Z
+date: 2026-07-19T23:58:49.294Z
 draft: false
 ---
 
 # 2026年7月19日 - TZ日报
 
-> 📊 今日汇总 35 条 · 🕐 2026/7/19 16:00:24
+> 📊 今日汇总 35 条 · 🕐 2026/7/19 23:58:49
 
 ---
 
@@ -21,70 +21,6 @@ draft: false
 ---
 
 ## ✨ 产品更新
-
-### VentureBeat AI Products
-![人工智能计算差距：企业购买基础设施的速度超过了衡量成本的速度](https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30)
-
-**[人工智能计算差距：企业购买基础设施的速度超过了衡量成本的速度](https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs)**
-
-大多数组织都在熟悉的超大规模计算器和模型提供者APIsOracle的基础上运行他们的人工智能，以及主要的模型APIs （ **Gemini**
-
-📅 Thu, 16 Jul 2026 19:16:48 GMT
-
----
-
-### VentureBeat AI Products
-![智能体安全漏洞： 54%的企业已经发生过AI智能体事件，大多数仍让智能体共享凭证](https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30)
-
-**[智能体安全漏洞： 54%的企业已经发生过AI智能体事件，大多数仍让智能体共享凭证](https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials)**
-
-安全堆栈绝大多数是原生提供商— **OpenAI**的护栏（ 51 ％ ）谷歌和微软的云控制
-
-📅 Thu, 16 Jul 2026 19:02:38 GMT
-
----
-
-### VentureBeat AI Products
-![代理评估差距：企业AI组织存在现实一致性问题，而不是覆盖范围问题—并且大多数仍在运送到生产](https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30)
-
-**[代理评估差距：企业AI组织存在现实一致性问题，而不是覆盖范围问题—并且大多数仍在运送到生产](https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway)**
-
-提供者本地工具线索— **OpenAI**的本地EVALS和TRACES （ 17 ％ ）以及**Anthropic**的**Claude** Console EVALS （ 13 ％ ）加起来超过了任何独立平台—但它被一个引人注目的答案捆绑在一起： 17 ％的企业完全没有使用专门的代理评估工具（ 64 ％ ）打算采用
-
-📅 Thu, 16 Jul 2026 16:40:48 GMT
-
----
-
-### OpenAI Blog
-**[为什么青少年应该获得安全的人工智能](https://openai.com/index/why-teens-deserve-access-safe-ai)**
-
-了解**OpenAI**如何通过适合青少年年龄的保护措施、学习工具、家长控制和专家合作伙伴关系，使Chat**GPT**更安全
-
-📅 Thu, 16 Jul 2026 16:00:00 GMT
-
----
-
-### Google AI Blog
-![通过两次Google Vids更新，创建、编辑和为视频加星标](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp)
-
-**[通过两次Google Vids更新，创建、编辑和为视频加星标](https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/)**
-
-**Gemini** Omni和**Google** Vids中的个人头像使视频创作比以往任何时候都更加轻松。
-
-📅 Thu, 16 Jul 2026 16:00:00 +0000
-
----
-
-### VentureBeat AI Products
-![人工智能上下文差距：企业人工智能组织存在信任问题，而不是检索问题—大多数组织仍在构建修复程序](https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30)
-
-**[人工智能上下文差距：企业人工智能组织存在信任问题，而不是检索问题—大多数组织仍在构建修复程序](https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix)**
-
-提供者原生检索— **OpenAI**的文件搜索（ 40 ％ ）和**Google**的Vertex AI搜索（ 38 ％ ） —已经领先于每个专用矢量数据库**OpenAI**的文件搜索（ 40 ％ ）和**Google**的Vertex AI搜索（ 38 ％ ）领先—提供者原生和超大规模原生检索—领先于每个专门构建的矢量数据库
-
-📅 Thu, 16 Jul 2026 17:06:08 GMT
-
----
 
 ### OpenAI Blog
 **[人工智能时代的记分卡](https://openai.com/index/a-scorecard-for-the-ai-age)**
@@ -105,20 +41,74 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[苹果的大型诉讼如何破坏OpenAI的IPO计划](https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/)**
+**[苹果的诉讼会破坏OpenAI的硬件计划吗？](https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/)**
 
-苹果上周五对**OpenAI**提起了商业秘密诉讼，并没有捣乱。该投诉称，一种不当行为一直延伸到**OpenAI**的首席硬件官，并声称目前有400多名前苹果员工在该公司工作
+在最新一期的《Equity》中，我们讨论了苹果的诉讼是否会抛弃**OpenAI**备受争议的硬件上市计划。
 
-📅 Fri, 17 Jul 2026 17:45:46 +0000
+📅 Sun, 19 Jul 2026 19:24:45 +0000
 
 ---
 
-### AI News
-**[研究谷歌DeepMind的人工智能生物弹性推送](https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/)**
+### TechCrunch AI Products
+**[Jensen Huang访问日本后的注意事项](https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/)**
 
-谷歌DeepMind和Isomorphic Labs概述了一项生物弹性计划，以遏制人工智能在生物学中的滥用，同时帮助应对疫情[…]谷歌DeepMind的AI生物弹性研究文章**首次**出现在人工智能新闻
+Jensen Huang带着跨越日本整个科技生态系统的交易离开了东京。
 
-📅 Thu, 16 Jul 2026 16:48:23 +0000
+📅 Sun, 19 Jul 2026 21:16:07 +0000
+
+---
+
+### TechCrunch AI Products
+**[《奥德赛》导演克里斯托弗·诺兰称人工智能为明显的“特洛伊木马”](https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/)**
+
+“每个人都知道希腊人在里面。”
+
+📅 Sun, 19 Jul 2026 14:52:08 +0000
+
+---
+
+### TechCrunch AI Products
+**[非营利组织Current AI正在竞相构建面向所有人的免费人工智能万维网](https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/)**
+
+当前的人工智能是一种非营利性建筑人工智能，不抛弃任何一种文化，在设备、人工智能聊天等方面取得了显着进展
+
+📅 Sun, 19 Jul 2026 14:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[Kimi ：威胁还是威胁？](https://techcrunch.com/2026/07/18/kimi-threat-or-menace/)**
+
+中国公司**Moonshot** AI本周**发布**了新版本的Kimi模型，引发了对“完全AI共产主义”的担忧
+
+📅 Sat, 18 Jul 2026 18:51:07 +0000
+
+---
+
+### TechCrunch AI Products
+**[Neil Rimer认为人工智能资金正在流出](https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/)**
+
+共同创立Index Ventures的风险投资家预测，人工智能在硅谷创造的历史性财富将不得不重新分配
+
+📅 Sat, 18 Jul 2026 04:47:25 +0000
+
+---
+
+### TechCrunch AI Products
+**[Vertu希望高管为AI代理支付$ 6,880 —以下是它的实际表现](https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/)**
+
+从人工智能工作流程到电池寿命和安全性，以下是每天与Vertu的豪华可折叠产品一起生活的真实感受
+
+📅 Fri, 17 Jul 2026 22:55:09 +0000
+
+---
+
+### TechCrunch AI Products
+**[Databricks的估值达到1880亿美元，扩大了其作为人工智能最受欢迎的第二幕的运行](https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/)**
+
+Databricks已将其形象重塑为一家人工智能公司，并发表了关于用于编码的开放式权重人工智能模型的成本节约的研究
+
+📅 Fri, 17 Jul 2026 22:12:56 +0000
 
 ---
 
@@ -172,17 +162,6 @@ draft: false
 ## 🌍 行业展望
 
 ### VentureBeat
-![中国的Moonshot AI发布了Kimi K3 ，这是有史以来最大的开源模型，可与美国顶级系统相媲美](https://images.ctfassets.net/jdtwqhzvc2n1/lrqUsUJocTIEaPB4SrQse/e8773a218e398efc6759ca6044672f81/Nuneybits_Vector_art_of_red_code_tsunami_over_servers_fear_of_C_1894f89b-b074-4e21-a0de-2f9a46cfdd32.webp?w=300&q=30)
-
-**[中国的Moonshot AI发布了Kimi K3 ，这是有史以来最大的开源模型，可与美国顶级系统相媲美](https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems)**
-
-“**DeepSeek**、阿里巴巴、腾讯和百度都**发布**了**开源**模型，该公司的**开源**编码工具与**Anthropic**的**Claude** Code和**Google**的**Gemini** CLI竞争
-
-📅 Thu, 16 Jul 2026 19:42:09 GMT
-
----
-
-### VentureBeat
 ![Capital One发布了VulnHunter ，这是一种开源人工智能工具，可以在黑客之前发现软件缺陷](https://images.ctfassets.net/jdtwqhzvc2n1/4WyYBE0eHzPTbv6jfjEWSx/7f036d0db42a8ad93985502ab8ece9f4/Nuneybits_Vector_art_of_a_Capital_One_credit_card_made_of_compu_fe529096-78bd-401e-b668-abeb2d5496e0.webp?w=300&q=30)
 
 **[Capital One发布了VulnHunter ，这是一种开源人工智能工具，可以在黑客之前发现软件缺陷](https://venturebeat.com/technology/capital-one-releases-vulnhunter-an-open-source-ai-tool-that-finds-software-flaws-before-hackers-do)**
@@ -204,32 +183,12 @@ draft: false
 
 ---
 
-### The Verge
-![Dave Eggers告诉OpenAI工作人员， ChatGPT正在“沉默整整一代人”](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2157758001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[Dave Eggers告诉OpenAI工作人员， ChatGPT正在“沉默整整一代人”](https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation)**
-
-Sam Altman邀请作家Dave Eggers与约200名**OpenAI**工作人员进行演讲据《金融时报》报道， Eggers告诉工作人员： “Chat**GPT**对教育工作者生活的影响是灾难性的
-
-📅 2026-07-18T20:54:42.000Z
-
----
-
 ### Ars Technica
 **[谷歌支持的野火探测卫星发射，因为烟雾窒息了美国，加拿大](https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/)**
 
 FireSat计划可以发现其他卫星错过的野火。
 
 📅 Fri, 17 Jul 2026 19:50:18 +0000
-
----
-
-### Ars Technica
-**[旧金山命令苹果、谷歌从应用商店中删除nudify应用](https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/)**
-
-官方估计，谷歌和苹果可能在nudify应用程序费用上赚了数百万美元。
-
-📅 Fri, 17 Jul 2026 16:10:05 +0000
 
 ---
 
@@ -251,27 +210,47 @@ FireSat计划可以发现其他卫星错过的野火。
 
 ---
 
-## 📦 GitHub热门
+### The Verge
+![这一系列无法发音的字形是Kieran Hebden （又名Four Tet ）的一个令人难以置信的副项目](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/four-tet-wingdings.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-### GitHub Active (AI/ML)
-![machine-learning-for-trading: Code for Machine Learning for Trading, 3rd edition —从数据源到实时执行。](https://avatars.githubusercontent.com/u/4275885?v=4)
+**[这一系列无法发音的字形是Kieran Hebden （又名Four Tet ）的一个令人难以置信的副项目](https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review)**
 
-**[machine-learning-for-trading: Code for Machine Learning for Trading, 3rd edition —从数据源到实时执行。](https://github.com/stefan-jansen/machine-learning-for-trading)**
+里面肯定有很多porcelein这是不可谷歌的
 
-⭐ 19,971星· 5425叉· Jupyter笔记本·交易机器学习代码，第3版—从数据源到实时执行
-
-📅 2026-07-19T15:58:07Z
+📅 2026-07-19T21:02:45.000Z
 
 ---
 
-### GitHub Active (Python)
-![QuantDinger ：加密货币、股票和外汇的AI定量交易平台，具有回溯测试、实时交易、市场数据和多代理研究。vibe-trading、trading-agents、ai-trader、ai-trading](https://avatars.githubusercontent.com/u/306676008?v=4)
+### VentureBeat
+![清理陷阱：停止要求RAG修复错误数据](https://images.ctfassets.net/jdtwqhzvc2n1/6WJse1DvwhmPbH0j3OS56Q/f6032d584f48f6d2f25edd7d56f28830/u7277289442_An_AI_robot_is_tripping_and_falling_on_its_face.__0f42aadb-7cbe-453e-ba9f-37d08820ecb9_1.png?w=300&q=30)
 
-**[QuantDinger ：加密货币、股票和外汇的AI定量交易平台，具有回溯测试、实时交易、市场数据和多代理研究。vibe-trading、trading-agents、ai-trader、ai-trading](https://github.com/OpenByteInc/QuantDinger)**
+**[清理陷阱：停止要求RAG修复错误数据](https://venturebeat.com/orchestration/the-cleanup-trap-stop-asking-rag-to-fix-bad-data)**
 
-774星· 2057叉· Python · AI量化交易平台，用于加密货币交易、交易代理、AI交易员、AI交易
+生产一代人工智能很少仅仅因为模型限制而失败这些问题很**重要**，因为生产人工智能不仅仅是一个模型部署问题
 
-📅 2026-07-19T15:59:18Z
+📅 Sun, 19 Jul 2026 04:00:00 GMT
+
+---
+
+### MIT Tech Review
+**[下载：围绝经期错误信息和中国最新的人工智能飞跃](https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/)**
+
+这是今天的The Download版本，我们的工作日时事通讯，提供每日剂量的技术世界正在发生的事情围绝经期有很多炒作
+
+📅 Fri, 17 Jul 2026 12:10:00 +0000
+
+---
+
+## 📦 GitHub热门
+
+### GitHub Active (AI/ML)
+![Enzyme.jl ：用于酶自动微分器的Julia结合](https://avatars.githubusercontent.com/u/91081904?v=4)
+
+**[Enzyme.jl ：用于酶自动微分器的Julia结合](https://github.com/EnzymeAD/Enzyme.jl)**
+
+⭐ 576星· 101叉·茱莉亚·茱莉亚结合酶自动微分器
+
+📅 2026-07-19T23:56:39Z
 
 ---
 
@@ -297,14 +276,34 @@ FireSat计划可以发现其他卫星错过的野火。
 
 ---
 
+### GitHub New (New AI)
+![🆕 路线图：为技术领域增长最快、最重要的角色--人工智能工程师、人工智能治理专家、GTM工程师等--提供免费的零预算就业准备路线图。](https://avatars.githubusercontent.com/u/142771505?v=4)
+
+**[🆕 路线图：为技术领域增长最快、最重要的角色--人工智能工程师、人工智能治理专家、GTM工程师等--提供免费的零预算就业准备路线图。](https://github.com/Hardik-369/ROADMAP)**
+
+⭐ 9 star (新项目) · N/A · Free zero-budget job-ready roadmaps for the fastest-growing and most important roles in tech — AI EngineerAI Governance Specialist
+
+📅 2026-07-17T06:48:11Z
+
+---
+
 ## 💬 社交动态
+
+### Reddit: r/artificial
+**[拆包：徽章和贡献不再是同一个对象](https://www.reddit.com/r/artificial/comments/1v12m0r/the_unbundling_the_badge_and_the_contribution_are/)**
+
+com/**new**s/2026/02/ai-coding-skill-formation/GitHub权衡维护者选项以禁用或限制拉取请求： https://wwwcom/2026/02/03/github_kill_switch_pull_requests_ai/由/u/MeAnd**Claude**MakeHeat提交[link] [comments]
+
+📅 2026-07-19T21:42:50.000Z
+
+---
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-07-19T15:59:10.101Z
+📅 2026-07-19T23:57:41.268Z
 
 ---
 
@@ -313,45 +312,25 @@ FireSat计划可以发现其他卫星错过的野火。
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-07-19T15:59:16.606Z
-
----
-
-### Hacker News
-**[Claude Code现在使用用Rust编写的BUN](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/)**
-
-文章网址： https://simonwillisonnet/2026/Jul/19/**Claude**-code-in-bun-in-rust/评论网址： https://**new**s
-
-📅 Sun, 19 Jul 2026 10:03:23 +0000
+📅 2026-07-19T23:57:45.705Z
 
 ---
 
 ### Reddit: r/artificial
-![Anthropic Aletheia团队](https://preview.redd.it/g0h19kuty5eh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=8148320302b536b5c4f2ae859dd1acaf7de1b4c0)
+**[我构建了一个语音锁屏，意识到没有人需要它，然后微软向我展示了我实际上应该构建的内容。](https://www.reddit.com/r/artificial/comments/1v10z3d/i_built_a_voice_lock_screen_realized_nobody_needs/)**
 
-**[Anthropic Aletheia团队](https://www.reddit.com/r/artificial/comments/1v0n1z5/anthropic_aletheia_team/)**
+然后我看到Microsoft Build 2026他们正在将Windows转变为AI代理操作系统
 
-任何人都知道这个Aletheia团队是什么：//PREVIEW
-
-📅 2026-07-19T10:30:21.000Z
+📅 2026-07-19T20:28:18.000Z
 
 ---
 
 ### Reddit: r/artificial
-**[我在1年内销售了200多个网站](https://www.reddit.com/r/artificial/comments/1v0n04e/i_sold_over_200_websites_in_1_year/)**
+**[我构建了Synapse –一个本地MCP服务器，让Claude即时了解您的代码库](https://www.reddit.com/r/artificial/comments/1v0yfat/i_built_synapse_a_local_mcp_server_that_gives/)**
 
-许多网页设计师将销售流程过于复杂我不使用Instantly、Mailchimp或Klaviyo
+Synapse会在本地索引您的代码库，并通过MCPAsk **Claude**将其连接到**Claude** Code “付款流程是如何运作的
 
-📅 2026-07-19T10:27:31.000Z
-
----
-
-### Reddit: r/artificial
-**[GPT-2代币嵌入空间的交互式地图-点击任意代币并探索[P]](https://www.reddit.com/r/artificial/comments/1v0j8kz/interactive_map_of_gpt2s_token_embedding_space/)**
-
-32,070个来自**GPT**-2-small的WTE的字母令牌，无向前传递和无上下文捏缩放，点击令牌以查看其最近的连接，点击邻居以浏览图表
-
-📅 2026-07-19T06:45:10.000Z
+📅 2026-07-19T18:40:29.000Z
 
 ---
 
@@ -360,16 +339,25 @@ FireSat计划可以发现其他卫星错过的野火。
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-07-19T15:59:10.101Z
+📅 2026-07-19T23:57:41.268Z
 
 ---
 
 ### X: OpenAI
-**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-警告：目标URL返回错误520 ：未知
+警告：目标URL返回错误520 ：
 
-📅 2026-07-19T15:59:10.101Z
+📅 2026-07-19T23:57:41.268Z
+
+---
+
+### X: OpenAI
+**[警告：此页面可能尚未完全加载，请考虑显式指定超时。](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：此页面可能尚未完全加载，请考虑显式指定超时。
+
+📅 2026-07-19T23:57:41.268Z
 
 ---
 
