@@ -1,12 +1,12 @@
 ---
 title: "2026年7月21日 - TZ日报"
-date: 2026-07-21T16:27:14.326Z
+date: 2026-07-21T23:58:48.084Z
 draft: false
 ---
 
 # 2026年7月21日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/7/21 16:27:14
+> 📊 今日汇总 38 条 · 🕐 2026/7/21 23:58:48
 
 ---
 
@@ -22,12 +22,57 @@ draft: false
 
 ## ✨ 产品更新
 
+### OpenAI Blog
+**[推出面向小型企业的ChatGPT计划](https://openai.com/index/introducing-chatgpt-small-business-program)**
+
+OpenAI**推出**面向小型企业的Chat**GPT**计划，帮助企业家通过Chat**GPT** Work培养人工智能技能、实现工作自动化和成长
+
+📅 Tue, 21 Jul 2026 17:00:00 GMT
+
+---
+
 ### TechCrunch AI Products
-**[谷歌正在开发一种新的人工智能芯片，旨在提高双子座的效率](https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/)**
+**[谷歌发布了三款新的双子座车型—但没有3.5专业版](https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/)**
 
-据报道，谷歌的母公司Alphabet正在研发一款新芯片，旨在使其**Gemini**型号的运行效率更高
+谷歌**发布**了**Gemini** 35 Flash-Lite和Flash Cyber ，但**Gemini** 3的持续缺席
 
-📅 Mon, 20 Jul 2026 21:21:15 +0000
+📅 Tue, 21 Jul 2026 17:11:50 +0000
+
+---
+
+### AI News
+**[谷歌的Gemini 3.6 Flash针对企业代理令牌成本](https://www.artificialintelligence-news.com/news/googles-gemini-3-6-flash-targets-enterprise-agent-token-costs/)**
+
+谷歌已**发布**Gemini 36 Flash目标企业代理代币成本**首次**出现在AI **new**s上
+
+📅 Tue, 21 Jul 2026 16:06:55 +0000
+
+---
+
+### AI News
+**[美国公共卫生机构测试OpenAI和人类AI模型](https://www.artificialintelligence-news.com/news/openai-anthropic-public-health-ai/)**
+
+美国各地的公共卫生部门将在一项涉及Coalition for Health AIT的新计划下测试生成式人工智能工具。该计划旨在生产[…]美国公共卫生机构测试**OpenAI**和人类人工智能模型后**首次**出现在人工智能新闻
+
+📅 Mon, 20 Jul 2026 10:00:00 +0000
+
+---
+
+### OpenAI Blog
+**[OpenAI和Hugging Face合作伙伴在模型评估过程中解决安全事件](https://openai.com/index/hugging-face-model-evaluation-security-incident)**
+
+**OpenAI**和Hugging Face在人工智能模型评估期间分享了安全事故的早期发现，突出了先进的网络能力和防御者的经验教训
+
+📅 Tue, 21 Jul 2026 07:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[David Vélez和Robin Vince加入OpenAI基金会和OpenAI集团PBC的董事会](https://openai.com/index/david-velez-robin-vince-join-openai-boards)**
+
+David Vélez和Robin Vince加入**OpenAI**基金会和**OpenAI**集团PBC的董事会，成为全球金融领域的领导者
+
+📅 Tue, 21 Jul 2026 00:00:00 GMT
 
 ---
 
@@ -50,65 +95,20 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[Anthropic具有里程碑意义的15亿美元版权和解获得批准](https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/)**
+**[Meta正在为没有想象力的人测试AI睡前故事应用程序](https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/)**
 
-最终批准解决了一起案件，但并未解决使用受版权保护的作品来训练人工智能模型的更广泛问题
+**Meta**的StoryKit应用程序仅在某些地区可用，而该公司正在测试父母对此的反应
 
-📅 Tue, 21 Jul 2026 00:12:24 +0000
-
----
-
-### TechCrunch AI Products
-**[OpenAI害怕开放式模型。美国应该是吗？](https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/)**
-
-关于禁止中国制造的开放式LLM的讨论揭示了将AI转变为企业的挑战。
-
-📅 Mon, 20 Jul 2026 19:33:25 +0000
-
----
-
-### Hugging Face
-**[Grabette ：用于记录机器人操作数据的开放系统](https://huggingface.co/blog/grabette)**
-
-Grabette ：用于记录机器人操作数据的开放系统
-
-📅 Tue, 21 Jul 2026 00:00:00 GMT
-
----
-
-### Hugging Face
-**[Cosmos 3 Edge简介](https://huggingface.co/blog/nvidia/cosmos3edge)**
-
-Cosmos 3 Edge简介
-
-📅 Mon, 20 Jul 2026 15:58:51 GMT
+📅 Tue, 21 Jul 2026 23:55:10 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[美国威胁因知识产权盗窃而对中国人工智能模型实施制裁](https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/)**
+**[OpenAI表示， Hugging Face被其自己的预发布型号破坏](https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/)**
 
-财政部长斯科特·贝森特（ Scott Bessent ）表示， Ucould因涉嫌知识产权盗窃而制裁中国开放的人工智能模型，扩大了特朗普政府减缓中国人工智能进步的运动
+**OpenAI**已挺身而出，声称对Hugging Face违规行为负责，称这是内部测试出错的结果
 
-📅 Tue, 21 Jul 2026 15:37:05 +0000
-
----
-
-### TechCrunch AI Products
-**[音乐主播Deezer表示，超过50%的日常上传是人工智能生成的](https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/)**
-
-Deezer表示， 6月份每天在该平台上传超过9万个AI生成的曲目。
-
-📅 Tue, 21 Jul 2026 13:27:42 +0000
-
----
-
-### TechCrunch AI Products
-**[Gritt以3200万美元的$退出机器人建造太阳能发电厂—然后是其他一切](https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/)**
-
-Gritt将以3400万$的价格脱颖而出，并计划自动化施工现场最艰巨的任务
-
-📅 Tue, 21 Jul 2026 10:00:00 +0000
+📅 Tue, 21 Jul 2026 20:56:55 +0000
 
 ---
 
@@ -188,14 +188,65 @@ Gritt将以3400万$的价格脱颖而出，并计划自动化施工现场最艰�
 
 ## 🌍 行业展望
 
+### VentureBeat
+![谷歌的Gemini 3.6 Flash型号在长视野工程任务上将AI代理代币成本降低了高达65 ％ - 3.5 Pro即将推出](https://images.ctfassets.net/jdtwqhzvc2n1/7jo7DlFPQ81t2ouEbgcvs4/a9a4492ffea4db61be9dabf46169a887/Gemini_Generated_Image_l8mtj7l8mtj7l8mt.png?w=300&q=30)
+
+**[谷歌的Gemini 3.6 Flash型号在长视野工程任务上将AI代理代币成本降低了高达65 ％ - 3.5 Pro即将推出](https://venturebeat.com/technology/googles-gemini-3-6-flash-model-cuts-ai-agent-token-costs-by-up-to-65-on-long-horizon-engineering-tasks-and-3-5-pro-is-on-the-way)**
+
+谷歌DeepMind今天**发布**了三款新的专有AI模型，据称这些模型是迄今为止最具代币效率的： **Gemini** 3和竞争对手**OpenAI**和**Anthropic**已经**发布**了几代旗舰**更新**，远远超过谷歌的
+
+📅 Tue, 21 Jul 2026 19:59:58 GMT
+
+---
+
+### VentureBeat
+![Poolside推出Laguna S 2.1 ，这是一款开放式重量编码型号，其尺寸是竞争对手的10倍](https://images.ctfassets.net/jdtwqhzvc2n1/3bn3yoTePyZbPJPJj0uEdC/401a5cb3161eb2cd6ae5d9b4ce0020ed/Nuneybits_Vector_art_of_minimalist_lines_clean_villas_overlooki_8da15709-c192-4383-b807-87d0dbfcf8e4.webp?w=300&q=30)
+
+**[Poolside推出Laguna S 2.1 ，这是一款开放式重量编码型号，其尺寸是竞争对手的10倍](https://venturebeat.com/infrastructure/poolside-drops-laguna-s-2-1-an-open-weight-coding-model-that-beats-rivals-10x-its-size)**
+
+注意到自去年8月**OpenAI**的**GPT**-oss-120b以来，该模型占据了11个月内没有西方实验室**发布**开放式配重的尺寸等级，而前沿显然仍然遥不可及：像**GPT**-5这样的封闭式模型
+
+📅 Tue, 21 Jul 2026 21:49:43 GMT
+
+---
+
+### Wired Technology
+**[OpenAI模型逃脱遏制和黑客拥抱面孔](https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/)**
+
+以网络安全为重点的模型，包括**GPT**-56 SOL ，**突破**了测试沙箱，利用了零日攻击，并获得了访问开放互联网的访问权限，以实现攻击
+
+📅 Tue, 21 Jul 2026 22:50:01 +0000
+
+---
+
+### Ars Technica
+**[谷歌发布Gemini 3.6 Flash和网络安全人工智能，推出3.5 Pro和Gemini 4](https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/)**
+
+今天有新的3.6和3.5型号，但谷歌已经在训练**Gemini** 4。
+
+📅 Tue, 21 Jul 2026 16:58:25 +0000
+
+---
+
 ### The Verge
-![谷歌推出比Mythos等大型人工智能安全模型更便宜的替代方案](https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![OpenAI表示，它不小心用新的人工智能系统入侵了Hugging Face](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284560499.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[谷歌推出比Mythos等大型人工智能安全模型更便宜的替代方案](https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model)**
+**[OpenAI表示，它不小心用新的人工智能系统入侵了Hugging Face](https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai)**
 
-谷歌将**推出**Gemini 3在周二的博客文章中，谷歌描述了**Gemini** 3
+|彭博社通过Getty Images **OpenAI**表示，其AI模型在内部测试期间错误地违反了**开源**AI平台Hugging Face在周二的一篇博客文章中， **OpenAI**写道**GPT**-5
 
-📅 2026-07-21T15:00:00.000Z
+📅 2026-07-21T21:48:54.000Z
+
+---
+
+### VentureBeat
+![Evals是新的珠三角， Expedia的人工智能主管告诉VB Transform 2026](https://images.ctfassets.net/jdtwqhzvc2n1/5fBxiihzljjYOT3rPsCVpB/e5a820f94eeb6cf131a386225884831c/ba3b3a60-35e3-47e4-8003-584ee1d03068.png?w=300&q=30)
+
+**[Evals是新的珠三角， Expedia的人工智能主管告诉VB Transform 2026](https://venturebeat.com/security/evals-are-the-new-prd-expedia-ai-chief-tells-vb-transform-2026)**
+
+Expedia Group的首位首席人工智能和数据官”Amatriain在2025年12月接受Expedia任命之前，曾担任谷歌人工智能和计算支持副总裁，负责为双子座和谷歌搜索提供动力
+
+📅 Tue, 21 Jul 2026 18:15:46 GMT
 
 ---
 
@@ -210,17 +261,6 @@ Gritt将以3400万$的价格脱颖而出，并计划自动化施工现场最艰�
 
 ---
 
-### VentureBeat
-![在VB Transform 2026上， Zillow的工程主管表示，只有在构建之前测量AI ROI数字](https://images.ctfassets.net/jdtwqhzvc2n1/5MlStH2GRQOz7b1i0t3KaB/49dfcc7b3c90b5478a88a604459f189e/VBXC0582-X2-zillow.jpg?w=300&q=30)
-
-**[在VB Transform 2026上， Zillow的工程主管表示，只有在构建之前测量AI ROI数字](https://venturebeat.com/data/at-vb-transform-2026-zillows-engineering-chief-said-ai-roi-numbers-only-hold-up-if-you-measure-before-you-build)**
-
-每年的房地产交易，该公司早在Chat**GPT**存在之前就一直在使用人工智能“**Claude**也很慢，因为组装这种环境的第一部分实际上是永远的，” Jain说。
-
-📅 Mon, 20 Jul 2026 16:38:48 GMT
-
----
-
 ### Wired Technology
 **[英伟达希望拥有人工智能数据中心内的每一块芯片](https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/)**
 
@@ -230,96 +270,78 @@ Gritt将以3400万$的价格脱颖而出，并计划自动化施工现场最艰�
 
 ---
 
-### Wired Technology
-**[8款最佳智能手表（ 2026年） ：苹果、谷歌和混合动力手表](https://www.wired.com/gallery/best-smartwatches/)**
-
-这些经过有线测试的可穿戴设备在保持连接的同时减少了对手机的依赖。
-
-📅 Tue, 21 Jul 2026 12:02:00 +0000
-
----
-
-### Wired Technology
-**[“这是一个现代草案” ：为什么斯坦福大学的学生走出Sundar Pichai的毕业典礼演讲](https://www.wired.com/story/big-interview-stanford-students-booing-sundar-pichai/)**
-
-上个月，一百多名斯坦福大学的学生离开了自己的毕业典礼，抗议谷歌的军事合同，并与ICET两个组织者阿曼达·坎波斯和伊娃·琼斯达成协议，告诉我们为什么
-
-📅 Tue, 21 Jul 2026 10:30:00 +0000
-
----
-
-### ZDNet AI
-**[Android备份现在计入您的15GB Google存储空间限制-如何检查您的设置](https://www.zdnet.com/article/android-device-settings-backup-need-google-cloud-storage/)**
-
-修订后的**Google** One存储利用率政策现已**推出**，可将您的Android设备设置包含在备份中，但无需惊慌。以下是您的选项
-
-📅 Tue, 21 Jul 2026 13:20:49 GMT
-
----
-
-### TechCrunch
-**[在TikTok之后， Snap解决了社交媒体成瘾案件](https://techcrunch.com/2026/07/21/after-tiktok-snap-settles-social-media-addiction-case/)**
-
-TikTok最近在下周在洛杉矶开始的陪审团审判之前与原告达成了和解YouTube也达成了协议，使**Meta**成为唯一剩下的被告
-
-📅 Tue, 21 Jul 2026 14:54:19 +0000
-
----
-
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![gluonts ： Python中的概率时间序列建模](https://avatars.githubusercontent.com/u/3299148?v=4)
+![ray ： Ray是一个AI计算引擎。Ray由一个核心分布式运行时和一组用于加速ML工作负载的AI库组成。](https://avatars.githubusercontent.com/u/22125274?v=4)
 
-**[gluonts ： Python中的概率时间序列建模](https://github.com/awslabs/gluonts)**
+**[ray ： Ray是一个AI计算引擎。Ray由一个核心分布式运行时和一组用于加速ML工作负载的AI库组成。](https://github.com/ray-project/ray)**
 
-⭐ 5220星· 823叉·蟒蛇·蟒蛇的概率时间序列建模
+⭐ 43,310星· 7813分叉· Python · Ray是一个AI计算引擎Ray由一个核心分布式运行时和一组用于加速ML工作负载的AI库组成
 
-📅 2026-07-21T16:23:30Z
+📅 2026-07-21T23:57:16Z
 
 ---
 
 ### GitHub Active (Python)
-![SWE-AF ：用于AgentField上生产级PR的AI代理自主软件工程车队：计划、代码、测试和发货。](https://avatars.githubusercontent.com/u/204899035?v=4)
+![ruff ：用Rust编写的非常快的Python linter和代码格式化程序。](https://avatars.githubusercontent.com/u/115962839?v=4)
 
-**[SWE-AF ：用于AgentField上生产级PR的AI代理自主软件工程车队：计划、代码、测试和发货。](https://github.com/Agent-Field/SWE-AF)**
+**[ruff ：用Rust编写的非常快的Python linter和代码格式化程序。](https://github.com/astral-sh/ruff)**
 
-⭐ 937星· 156叉·围棋· AgentField上用于生产级PR的AI代理自主软件工程车队：计划、代码、测试和发货
+⭐ 48,762 star · 2266 fork · Rust ·用Rust编写的极其快速的Python linter和代码格式化程序
 
-📅 2026-07-21T16:26:04Z
-
----
-
-### GitHub New (New AI)
-![🆕 集体智能： Ailin ¹是一个开源的集体智能引擎，成千上万的人工智能模型通过数十种协调策略进行协作，应用结构化多样性和独立推理来提高可靠性、可审计性和弹性。](https://avatars.githubusercontent.com/u/198429726?v=4)
-
-**[🆕 集体智能： Ailin ¹是一个开源的集体智能引擎，成千上万的人工智能模型通过数十种协调策略进行协作，应用结构化多样性和独立推理来提高可靠性、可审计性和弹性。](https://github.com/ailinone/collective-intelligence)**
-
-⭐ 19 star (新项目) · TypeScript · Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategiesapplying structured diversity and independent reasoning to improve reliability
-
-📅 2026-07-20T00:17:45Z
+📅 2026-07-21T23:57:37Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 llm-interview-questions: 100 道大模型面试题与 100 张 SVG 图解，覆盖 LLM、RAG、Agent、微调、推理优化和评估。](https://avatars.githubusercontent.com/u/15308811?v=4)
+### GitHub Active (Python)
+![omi ：人工智能会看到你的屏幕，倾听你的对话并告诉你该怎么做](https://avatars.githubusercontent.com/u/162546372?v=4)
 
-**[🆕 llm-interview-questions: 100 道大模型面试题与 100 张 SVG 图解，覆盖 LLM、RAG、Agent、微调、推理优化和评估。](https://github.com/MisterBooo/llm-interview-questions)**
+**[omi ：人工智能会看到你的屏幕，倾听你的对话并告诉你该怎么做](https://github.com/BasedHardware/omi)**
 
-⭐ 13 star (新项目) · N/A · 100 道大模型面试题与 100 张 SVG 图解，覆盖 LLM、RAG、Agent、微调、推理优化和评估。
+⭐ 13,039星· 2128叉·飞镖·人工智能，可看到您的屏幕，聆听您的对话并告诉您该怎么做
 
-📅 2026-07-19T02:55:27Z
+📅 2026-07-21T23:57:26Z
+
+---
+
+### GitHub Active (Python)
+![mockserver-monorepo ： MockServer是一个HTTP (S)模拟服务器和代理，用于测试，允许您模拟API、检查和修改实时流量以及注入故障。它在单个端口上支持HTTP/1.1、HTTP/2、gRPC、WebSockets、TCP等，并额外支持HTTP/3、消息代理和AI/LLM API。](https://avatars.githubusercontent.com/u/36341891?v=4)
+
+**[mockserver-monorepo ： MockServer是一个HTTP (S)模拟服务器和代理，用于测试，允许您模拟API、检查和修改实时流量以及注入故障。它在单个端口上支持HTTP/1.1、HTTP/2、gRPC、WebSockets、TCP等，并额外支持HTTP/3、消息代理和AI/LLM API。](https://github.com/mock-server/mockserver-monorepo)**
+
+并在单个端口上注入故障1、HTTP/2、gRPC、WebSockets、TCP等，并额外支持HTTP/3、消息代理和AI/LLM API
+
+📅 2026-07-21T23:57:39Z
 
 ---
 
 ## 💬 社交动态
 
+### Reddit: r/artificial
+**[微软正在Copilot中测试中国模型（ Kimi ）。我们是否正在进入人工智能的“Intel Inside”时代？](https://www.reddit.com/r/artificial/comments/1v2sguf/microsoft_is_testing_a_chinese_model_kimi_inside/)**
+
+当Chat**GPT**炒作**首次**亮相时，我真的很关心我在哪个型号上有一次**GPT**-4落地， **Claude**和**Gemini**出现了
+
+📅 2026-07-21T19:23:32.000Z
+
+---
+
 ### Hacker News
-**[Gemini 3.6 Flash、3.5 Flash-Lite和3.5 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/)**
+**[与GPT-5.6、Claude、Gemini和Grok一起“画”《蒙娜丽莎》](https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok)**
 
-文章网址： https://blog**Google**/innovation-and-ai/models-and-research/**Gemini**-models/**Gemini**-3-6-flash-3-5-flash-lite-3-5-flash-cyber/评论网址： https://**new**s
+文章网址： https://wwwdev/blog/ai-drawing-arena-colored-pencils-**Claude**-**GPT**-grok评论网址： https://**new**s
 
-📅 Tue, 21 Jul 2026 15:17:16 +0000
+📅 Tue, 21 Jul 2026 21:13:20 +0000
+
+---
+
+### Hacker News
+**[双子座最后一个模型：温度、top_p和top_k已被弃用并忽略](https://ai.google.dev/gemini-api/docs/latest-model)**
+
+文章网址： https://aidev/**Gemini**-api/docs/latest-model评论网址： https://**new**s
+
+📅 Tue, 21 Jul 2026 21:27:54 +0000
 
 ---
 
@@ -328,7 +350,7 @@ TikTok最近在下周在洛杉矶开始的陪审团审判之前与原告达成�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-07-21T16:25:59.966Z
+📅 2026-07-21T23:57:29.202Z
 
 ---
 
@@ -337,56 +359,34 @@ TikTok最近在下周在洛杉矶开始的陪审团审判之前与原告达成�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-07-21T16:26:06.765Z
+📅 2026-07-21T23:57:33.851Z
 
 ---
 
 ### Hacker News
-**[Claude不是编译器](https://blog.exe.dev/claude-is-not-a-compiler)**
+**[OpenAI和Hugging Face在模型评估过程中解决安全事件](https://openai.com/index/hugging-face-model-evaluation-security-incident/)**
 
-文章网址： https://blogdev/**Claude**-is-not-a-compiler评论网址： https://**new**s
+com/2026/07/21/**OpenAI**-says-hugging-face-br另请参阅安全事件披露– 2026年7月- https://**new**s
 
-📅 Tue, 21 Jul 2026 14:49:18 +0000
-
----
-
-### Reddit: r/artificial
-**[我的车对我说话。](https://www.reddit.com/r/artificial/comments/1v2m6lh/my_car_spoke_to_me/)**
-
-我不知道该在哪里发帖，因为我不确定是否有人会相信我，但我基本上只是让Chat**GPT**侵入我的汽车扬声器并通过我的车回答一个问题现在，如果这还不够令人不安，因为我从来没有让chat**GPT**以语音形式回答我，出于某种原因，它现在突然决定自己做，但当我尝试在播客上播放时，我的扬声器的音量一直很低，基本上是静音的
-
-📅 2026-07-21T15:44:34.000Z
+📅 Tue, 21 Jul 2026 20:09:52 +0000
 
 ---
 
-### Reddit: r/artificial
-![（交叉帖子： AI受众实验）拒绝的经理](https://external-preview.redd.it/BZy1t0h97B9JNlzSZSaMMUpleLjhF-E783scItoXsYE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=59590593a70ddd4e2146a13b349cecf535cfd01e)
+### Hacker News AI
+**[EC ： “谷歌在Android上的人工智能互操作性指南”](https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing)**
 
-**[（交叉帖子： AI受众实验）拒绝的经理](https://www.reddit.com/r/artificial/comments/1v2kck3/crosspost_ai_audience_experiment_the_manager_who/)**
+文章网址： https://daringfireballnet/2026/07/ec_**Google**_guidance_android_ai_and_search_sharing评论网址： https://**new**s
 
-我写这篇文章是为了首先展示人工智能的意图，但如果人类想要执行摘要，也可以使用它我很想知道你对人工智能的看法，这是我们必须为之创建在线内容的第二个智能
-
-📅 2026-07-21T14:38:59.000Z
+📅 Tue, 21 Jul 2026 23:27:33 +0000
 
 ---
 
-### Reddit: r/artificial
-**[应用程序实际上是如何将手写作业照片转换为结构化任务的？ （构建这个，分享有效的方法）](https://www.reddit.com/r/artificial/comments/1v2inbz/how_does_an_app_actually_turn_a_photo_of/)**
+### Hacker News AI
+**[Show HN: Superserve -用于长期运行的AI代理的Firecracker microVM沙盒](https://www.superserve.ai/)**
 
-流水线大致是： → **Claude**的视觉API中的照片会读取→图像，提示它提取特定的结构化字段（标题一张照片中的多个分配是真正的痛苦
+您自带代理商（ **Claude** Code、Codex等）评论网址： https://**new**s
 
-📅 2026-07-21T13:35:02.000Z
-
----
-
-### Reddit: r/artificial
-![我为什么离开Google DeepMind作者： Alex Turner](https://external-preview.redd.it/1Eu1jQyiJbl965FKeiWjllrp1inK96yLhuvFCfZdrFc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0e56c416436b5268eb300114929b00a3c7f9e7dd)
-
-**[我为什么离开Google DeepMind作者： Alex Turner](https://www.reddit.com/r/artificial/comments/1v2f8df/why_i_left_google_deepmind_by_alex_turner/)**
-
-提交者/u/InterestProof1526 [link] [comments]
-
-📅 2026-07-21T11:04:52.000Z
+📅 Tue, 21 Jul 2026 22:59:06 +0000
 
 ---
 
