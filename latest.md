@@ -1,12 +1,12 @@
 ---
 title: "2026年7月22日 - TZ日报"
-date: 2026-07-22T16:23:18.522Z
+date: 2026-07-23T00:03:24.741Z
 draft: false
 ---
 
 # 2026年7月22日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/7/22 16:23:18
+> 📊 今日汇总 38 条 · 🕐 2026/7/23 00:03:24
 
 ---
 
@@ -28,15 +28,6 @@ draft: false
 OpenAI**推出**面向小型企业的Chat**GPT**计划，帮助企业家通过Chat**GPT** Work培养人工智能技能、实现工作自动化和成长
 
 📅 Tue, 21 Jul 2026 17:00:00 GMT
-
----
-
-### TechCrunch AI Products
-**[The Anthropic-Physical Intelligence谣言搅乱了AI Twitter](https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/)**
-
-**Anthropic**和**OpenAI**积极的2026年收购热潮为周末的谣言奠定了基础。
-
-📅 Wed, 22 Jul 2026 03:20:57 +0000
 
 ---
 
@@ -68,6 +59,15 @@ OpenAI**推出**面向小型企业的Chat**GPT**计划，帮助企业家通过Ch
 ---
 
 ### OpenAI Blog
+**[新闻机构如何利用人工智能推进其重要使命](https://openai.com/index/how-news-organizations-are-using-ai)**
+
+新闻机构正在使用AI来加强报道， **OpenAI**工具为全球记者和出版商提供支持
+
+📅 Wed, 22 Jul 2026 13:00:00 GMT
+
+---
+
+### OpenAI Blog
 **[推进国家科学新时代](https://openai.com/index/advancing-the-next-era-of-national-science)**
 
 **OpenAI**概述了其与UDepartment of Energy和国家实验室合作推进美国科学的承诺，以使用前沿人工智能加速发现
@@ -86,6 +86,15 @@ OpenAI**推出**面向小型企业的Chat**GPT**计划，帮助企业家通过Ch
 ---
 
 ### OpenAI Blog
+**[NTT DATA Group通过Codex将事件分析时间缩短至30分钟](https://openai.com/index/ntt-data)**
+
+NTT DATA Group使用Chat**GPT** Enterprise和Codex来帮助9和扩展安全的人工智能采用
+
+📅 Wed, 22 Jul 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
 **[OpenAI和Hugging Face合作伙伴在模型评估过程中解决安全事件](https://openai.com/index/hugging-face-model-evaluation-security-incident)**
 
 **OpenAI**和Hugging Face在人工智能模型评估期间分享了安全事故的早期发现，突出了先进的网络能力和防御者的经验教训
@@ -100,15 +109,6 @@ OpenAI**推出**面向小型企业的Chat**GPT**计划，帮助企业家通过Ch
 David Vélez和Robin Vince加入**OpenAI**基金会和**OpenAI**集团PBC的董事会，成为全球金融领域的领导者
 
 📅 Tue, 21 Jul 2026 00:00:00 GMT
-
----
-
-### OpenAI Blog
-**[长视野车型时代的安全性和对齐性](https://openai.com/index/safety-alignment-long-horizon-models)**
-
-**OpenAI**分享了部署长期运行的人工智能模型的经验教训，强调了新的安全风险
-
-📅 Mon, 20 Jul 2026 10:00:00 GMT
 
 ---
 
@@ -189,17 +189,6 @@ David Vélez和Robin Vince加入**OpenAI**基金会和**OpenAI**集团PBC的董�
 ## 🌍 行业展望
 
 ### VentureBeat
-![谷歌的Gemini 3.6 Flash型号在长视野工程任务上将AI代理代币成本降低了高达65 ％ - 3.5 Pro即将推出](https://images.ctfassets.net/jdtwqhzvc2n1/7jo7DlFPQ81t2ouEbgcvs4/a9a4492ffea4db61be9dabf46169a887/Gemini_Generated_Image_l8mtj7l8mtj7l8mt.png?w=300&q=30)
-
-**[谷歌的Gemini 3.6 Flash型号在长视野工程任务上将AI代理代币成本降低了高达65 ％ - 3.5 Pro即将推出](https://venturebeat.com/technology/googles-gemini-3-6-flash-model-cuts-ai-agent-token-costs-by-up-to-65-on-long-horizon-engineering-tasks-and-3-5-pro-is-on-the-way)**
-
-谷歌DeepMind今天**发布**了三款新的专有AI模型，据称这些模型是迄今为止最具代币效率的： **Gemini** 3和竞争对手**OpenAI**和**Anthropic**已经**发布**了几代旗舰**更新**，远远超过谷歌的
-
-📅 Tue, 21 Jul 2026 19:59:58 GMT
-
----
-
-### VentureBeat
 ![Poolside推出Laguna S 2.1 ，这是一款开放式重量编码型号，其尺寸是竞争对手的10倍](https://images.ctfassets.net/jdtwqhzvc2n1/3bn3yoTePyZbPJPJj0uEdC/401a5cb3161eb2cd6ae5d9b4ce0020ed/Nuneybits_Vector_art_of_minimalist_lines_clean_villas_overlooki_8da15709-c192-4383-b807-87d0dbfcf8e4.webp?w=300&q=30)
 
 **[Poolside推出Laguna S 2.1 ，这是一款开放式重量编码型号，其尺寸是竞争对手的10倍](https://venturebeat.com/infrastructure/poolside-drops-laguna-s-2-1-an-open-weight-coding-model-that-beats-rivals-10x-its-size)**
@@ -233,33 +222,44 @@ David Vélez和Robin Vince加入**OpenAI**基金会和**OpenAI**集团PBC的董�
 ---
 
 ### Wired Technology
-**[OpenAI模型逃脱遏制和黑客拥抱面孔](https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/)**
+**[中国开放的人工智能模型正在挑战硅谷的剧本](https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/)**
 
-以网络安全为重点的模型，包括**GPT**-56 SOL ，**突破**了测试沙箱，利用了零日攻击，并获得了访问开放互联网的访问权限，以实现攻击
+随着对**Anthropic**和**OpenAI**前沿模型的访问变得越来越受限制，中国的实验室正在推销他们的**开源**替代方案
 
-📅 Tue, 21 Jul 2026 22:50:01 +0000
+📅 Wed, 22 Jul 2026 19:01:38 +0000
 
 ---
 
 ### The Verge
-![AMD承诺向Anthropic提供高达50亿美元的援助（ $ 50亿）](https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK081_amd_02.jpg.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![以下是三星智能眼镜的实际外观](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/samsung-google-gentle-monster-warby-parker-ai-glasses-08.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[AMD承诺向Anthropic提供高达50亿美元的援助（ $ 50亿）](https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal)**
+**[以下是三星智能眼镜的实际外观](https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker)**
 
-**Anthropic**将使用芯片制造商的新型Helios机架式系统部署高达2千兆瓦的AMD Instinct MI450 AI GPU **Anthropic**还与谷歌签署了AI基础设施协议
+一段时间以来，谷歌和三星一直在取笑新眼镜，并在5月的I/O大会上展示了前两款设计
 
-📅 2026-07-22T14:44:27.000Z
+📅 2026-07-22T16:35:34.000Z
 
 ---
 
 ### VentureBeat
-![Evals是新的珠三角， Expedia的人工智能主管告诉VB Transform 2026](https://images.ctfassets.net/jdtwqhzvc2n1/5fBxiihzljjYOT3rPsCVpB/e5a820f94eeb6cf131a386225884831c/ba3b3a60-35e3-47e4-8003-584ee1d03068.png?w=300&q=30)
+![目前大多数企业都拥有让OpenAI代理进入Hugging Face的凭据](https://images.ctfassets.net/jdtwqhzvc2n1/676zZ4w0JGd2F7MVTbnmsI/c6263f05847b60ce8d07f1eab4ca4dfe/hugging_face_breach_hero.png?w=300&q=30)
 
-**[Evals是新的珠三角， Expedia的人工智能主管告诉VB Transform 2026](https://venturebeat.com/security/evals-are-the-new-prd-expedia-ai-chief-tells-vb-transform-2026)**
+**[目前大多数企业都拥有让OpenAI代理进入Hugging Face的凭据](https://venturebeat.com/security/the-credential-that-let-openais-agents-into-hugging-face-exists-in-most-enterprises-right-now)**
 
-Expedia Group的首位首席人工智能和数据官”Amatriain在2025年12月接受Expedia任命之前，曾担任谷歌人工智能和计算支持副总裁，负责为双子座和谷歌搜索提供动力
+**OpenAI**于7月21日披露，其两个模型**GPT**-5**OpenAI**将其模型视为过度关注基准分数，而不是对任何人采取行动
 
-📅 Tue, 21 Jul 2026 18:15:46 GMT
+📅 Wed, 22 Jul 2026 22:12:14 GMT
+
+---
+
+### VentureBeat
+![Inflection AI在微软剧变后凭借Pi Journeys重返消费市场](https://images.ctfassets.net/jdtwqhzvc2n1/dbs5C4wNAEufOjFoPMdES/684593d2423a8fdc2d459ab179f350a1/Nuneybits_Vector_art_of_Pi_symbol_floating_above_smartphone_min_e18a5c04-b0a3-4fef-9f3b-11028c8deb17.webp?w=300&q=30)
+
+**[Inflection AI在微软剧变后凭借Pi Journeys重返消费市场](https://venturebeat.com/orchestration/inflection-ai-returns-to-consumer-market-with-pi-journeys-after-microsoft-upheaval)**
+
+该实验室的**首个**产品实验—旨在适应用户生活阶段的人工智能体验该公告带来了一份关于消费者人工智能习惯的研究报告以及对Pi的实质性**更新**
+
+📅 Wed, 22 Jul 2026 07:00:00 GMT
 
 ---
 
@@ -275,24 +275,24 @@ Expedia Group的首位首席人工智能和数据官”Amatriain在2025年12月�
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![tensorflow ：面向所有人的开源机器学习框架](https://avatars.githubusercontent.com/u/15658638?v=4)
+![模块化：模块化平台（包括MAX和Mojo ）](https://avatars.githubusercontent.com/u/150859076?v=4)
 
-**[tensorflow ：面向所有人的开源机器学习框架](https://github.com/tensorflow/tensorflow)**
+**[模块化：模块化平台（包括MAX和Mojo ）](https://github.com/modular/modular)**
 
-⭐ 196,453颗星· 75683个分支· C + + ·面向所有人的**开源**机器学习框架
+⭐ 26601星· 2894叉·魔佐·模块化平台（包括MAX和魔佐）
 
-📅 2026-07-22T16:21:38Z
+📅 2026-07-23T00:02:30Z
 
 ---
 
-### GitHub Active (Python)
-![dd-trace-py ： Datadog Python APM客户端](https://avatars.githubusercontent.com/u/365230?v=4)
+### GitHub Active (AI/ML)
+![wandb ：人工智能开发者平台。使用权重和偏差来训练和微调模型，并从实验到生产管理模型。](https://avatars.githubusercontent.com/u/26401354?v=4)
 
-**[dd-trace-py ： Datadog Python APM客户端](https://github.com/DataDog/dd-trace-py)**
+**[wandb ：人工智能开发者平台。使用权重和偏差来训练和微调模型，并从实验到生产管理模型。](https://github.com/wandb/wandb)**
 
-⭐ 647星· 529叉·蟒蛇· Datadog蟒APM客户端
+⭐ 11,199星· 883叉· Python ·人工智能开发者平台使用权重和偏差来训练和微调模型，并管理从实验到生产的模型
 
-📅 2026-07-22T16:21:43Z
+📅 2026-07-23T00:01:37Z
 
 ---
 
@@ -301,40 +301,40 @@ Expedia Group的首位首席人工智能和数据官”Amatriain在2025年12月�
 
 **[🆕 集体智能： Ailin ¹是一个开源的集体智能引擎，成千上万的人工智能模型通过数十种协调策略进行协作，应用结构化多样性和独立推理来提高可靠性、可审计性和弹性。](https://github.com/ailinone/collective-intelligence)**
 
-⭐ 46 star (新项目) · TypeScript · Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategiesapplying structured diversity and independent reasoning to improve reliability
+⭐ 60 star (新项目) · TypeScript · Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategiesapplying structured diversity and independent reasoning to improve reliability
 
 📅 2026-07-20T00:17:45Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 llm-interview-questions: 100 道大模型面试题与 100 张 SVG 图解，覆盖 LLM、RAG、Agent、微调、推理优化和评估。](https://avatars.githubusercontent.com/u/15308811?v=4)
+![🆕 opencode-configs ： OpenConfig —最佳OpenCode + oh-my-openagent (OmO) + OpenRouter AI编码代理配置。Sisyphus · Claude · GPT · DeepSeek · Gemini · MCP · Context7 · Exa. oc安装→DOCTOR→启动。](https://avatars.githubusercontent.com/u/11046091?v=4)
 
-**[🆕 llm-interview-questions: 100 道大模型面试题与 100 张 SVG 图解，覆盖 LLM、RAG、Agent、微调、推理优化和评估。](https://github.com/MisterBooo/llm-interview-questions)**
+**[🆕 opencode-configs ： OpenConfig —最佳OpenCode + oh-my-openagent (OmO) + OpenRouter AI编码代理配置。Sisyphus · Claude · GPT · DeepSeek · Gemini · MCP · Context7 · Exa. oc安装→DOCTOR→启动。](https://github.com/jesseoue/opencode-configs)**
 
-⭐ 14 star (新项目) · N/A · 100 道大模型面试题与 100 张 SVG 图解，覆盖 LLM、RAG、Agent、微调、推理优化和评估。
+⭐ 13 star (新项目) · Shell · OpenConfig — best OpenCode + oh-my-openagent (OmO) + OpenRouter AI coding agent configSisyphus · **Claude** · **GPT** · **DeepSeek** · **Gemini** · MCP · Context7 · Exa
 
-📅 2026-07-19T02:55:27Z
+📅 2026-07-21T16:33:23Z
 
 ---
 
 ## 💬 社交动态
 
-### Hacker News
-**[显示HN ： Bento -在一个HTML文件中显示整个PowerPoint （编辑+查看+数据+协作）](https://bento.page/slides/)**
+### Hacker News AI
+**[Show HN ：我运行了12个人工智能机器人，预测股票两个月，每次公开呼叫](https://ldbd.app)**
 
-将其放入**Claude**或Chat**GPT** ，将现有的pptx文件转换为Bento slidesjs以及其他几个库（包括一些本地库）和**Claude** Code
+我已经使用前沿模型（ **Claude**Chat**GPT** ）和开放模型（ Gemma ）在LDBD上运行了12个基于LLM的预测机器人2个月
 
-📅 Wed, 22 Jul 2026 15:19:23 +0000
+📅 Wed, 22 Jul 2026 22:35:21 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[为什么我在要求付款之前要建立网站](https://www.reddit.com/r/artificial/comments/1v3eauu/why_i_build_the_website_before_asking_for_payment/)**
+**[一位牧师转向ChatGPT而不是医生。现在他起诉OpenAI](https://www.reddit.com/r/artificial/comments/1v3plfa/a_pastor_turned_to_chatgpt_instead_of_a_doctor/)**
 
-并根据设计中发现的问题生成个性化的外联电子邮件您可以使用**Claude**、Base44、Lovable或任何其他适合您的工具
+声称Chat**GPT**一再阻止他寻求医疗护理，并**发布**法院命令阻止Chat**GPT** Health ，直到独立评估人员确定它是安全的
 
-📅 2026-07-22T12:09:56.000Z
+📅 2026-07-22T19:00:59.000Z
 
 ---
 
@@ -343,7 +343,7 @@ Expedia Group的首位首席人工智能和数据官”Amatriain在2025年12月�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-07-22T16:21:58.866Z
+📅 2026-07-23T00:01:57.511Z
 
 ---
 
@@ -352,47 +352,45 @@ Expedia Group的首位首席人工智能和数据官”Amatriain在2025年12月�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-07-22T16:22:05.670Z
+📅 2026-07-23T00:02:03.948Z
 
 ---
 
-### Hacker News AI
-**[我已经为Claude Code测试了11个人工智能子代理的每一项PPTX技能。以下是行之有效的方法](https://www.bulaev.net/p/i-had-11-ai-subagents-test-every)**
+### Hacker News
+**[Show HN: ValuePair -一个首先关心价值观的友谊应用程序](https://valuepair.app)**
 
-文章网址： https://wwwnet/p/i-had-11-ai-subagents-test-every评论网址： https://**new**s
+我使用**Claude** + Codex开发了一切，但我不会说它真的是震动编码的，因为我是高级开发人员，我使用了我的主要技术堆栈这个应用程序上的帖子每天给我带来1-5个新的注册
 
-📅 Wed, 22 Jul 2026 16:02:48 +0000
-
----
-
-### Reddit: r/artificial
-![一个OpenAI测试模型逃脱并闯入了一家真正的公司的服务器](https://external-preview.redd.it/Qs1L8k-qkeyzAqqlug5kAHid-nC2C7O976WO4kTGVxM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=36ae5e6c1b648938444d2a5b2056e89d5625e49d)
-
-**[一个OpenAI测试模型逃脱并闯入了一家真正的公司的服务器](https://www.reddit.com/r/artificial/comments/1v3j7cg/an_openai_test_model_escaped_and_broke_into_a/)**
-
-提交者/u/cnn [link] [comments]
-
-📅 2026-07-22T15:20:36.000Z
+📅 Wed, 22 Jul 2026 22:20:00 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[AI生成的游戏世界实际上是有趣的还是令人印象深刻的30秒？](https://www.reddit.com/r/artificial/comments/1v3imdk/are_aigenerated_game_worlds_actually_fun_or_just/)**
+**[创建ai视频并删除我的帐户后，内容在服务器中存在多长时间？](https://www.reddit.com/r/artificial/comments/1v3xeuq/how_long_after_creating_ai_video_and_deleting_my/)**
 
-**Google** Genie 3本周获得了很多关注，演示看起来很疯狂观看某人走过一个生成的开放世界，从技术上讲，这个世界结合在一起很酷
+我在网站cyberpunk **OpenAI**上制作了一些ai生成的视频，我认为它被称为，老实说，我尝试了这么多，我把自己的照片放在了我的帐户删除多久后，视频仍然留在他们的系统中
 
-📅 2026-07-22T14:59:54.000Z
+📅 2026-07-22T23:53:35.000Z
 
 ---
 
 ### Reddit: r/artificial
-![OpenAI承认其代理人流氓并入侵了AI初创公司Hugging Face](https://external-preview.redd.it/lAg3SAEC5g7__SRuZe4R6AONqye098j40K_qZjUWslQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2e81b0d592eb35798375f10b0895dd96c4e1269c)
+![OpenAI表示， AI在另一家公司的“前所未有”黑客攻击中自行采取行动](https://external-preview.redd.it/0oR2EKlr7Pha768_3V4_xI9_p7k_HfMv7nOMYwJpJOw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=daa34fca6215de9df21ab6556e96375983660053)
 
-**[OpenAI承认其代理人流氓并入侵了AI初创公司Hugging Face](https://www.reddit.com/r/artificial/comments/1v3fv6c/openai_admits_its_agent_went_rogue_and_hacked_ai/)**
+**[OpenAI表示， AI在另一家公司的“前所未有”黑客攻击中自行采取行动](https://www.reddit.com/r/artificial/comments/1v3pl53/openai_says_ai_acted_on_its_own_in_an/)**
 
-提交者/u/scientificamerican [link] [comments]
+提交者/u/Fcking_Chuck [link] [comments]
 
-📅 2026-07-22T13:15:40.000Z
+📅 2026-07-22T19:00:46.000Z
+
+---
+
+### Reddit: r/artificial
+**[线性人工智能是人工智能市场出现问题的一个很好的例子](https://www.reddit.com/r/artificial/comments/1v3p727/linearity_ai_is_a_good_example_of_everything/)**
+
+**Claude** Design感觉好了1000 ％它正在采用其他地方构建的模型和技术，将它们放入现有的设计软件中，并将结果作为新的人工智能平台呈现
+
+📅 2026-07-22T18:47:11.000Z
 
 ---
 
