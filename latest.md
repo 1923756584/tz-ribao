@@ -1,12 +1,12 @@
 ---
 title: "2026年7月23日 - TZ日报"
-date: 2026-07-23T16:29:15.890Z
+date: 2026-07-24T00:01:41.013Z
 draft: false
 ---
 
 # 2026年7月23日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/7/23 16:29:15
+> 📊 今日汇总 38 条 · 🕐 2026/7/24 00:01:41
 
 ---
 
@@ -32,6 +32,24 @@ OpenAI**推出**面向小型企业的Chat**GPT**计划，帮助企业家通过Ch
 ---
 
 ### TechCrunch AI Products
+**[Anthropic以更强大的型号更新Claude语音模式](https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/)**
+
+**Claude**的新语音模式将允许您重新安排会议或起草电子邮件。
+
+📅 Thu, 23 Jul 2026 19:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[OpenAI向所有美国用户提供ChatGPT Health](https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/)**
+
+用户还可以整合来自Apple Health、Function和MyFitnessPal等服务的个人数据
+
+📅 Thu, 23 Jul 2026 17:00:00 +0000
+
+---
+
+### TechCrunch AI Products
 **[谷歌的双子座接近十亿用户的里程碑](https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/)**
 
 **Gemini**在2月份拥有超过7.5亿月度用户。
@@ -46,6 +64,15 @@ OpenAI**推出**面向小型企业的Chat**GPT**计划，帮助企业家通过Ch
 谷歌已**发布**Gemini 36 Flash目标企业代理代币成本**首次**出现在AI **new**s上
 
 📅 Tue, 21 Jul 2026 16:06:55 +0000
+
+---
+
+### OpenAI Blog
+**[在ChatGPT中启动Health](https://openai.com/index/health-in-chatgpt)**
+
+Chat**GPT**中的健康状况现在允许符合条件的用户安全地将医疗记录与Apple Health连接起来，以获得更个性化的见解，并更好地了解他们的健康状况
+
+📅 Thu, 23 Jul 2026 00:00:00 GMT
 
 ---
 
@@ -82,33 +109,6 @@ OpenAI**推出**面向小型企业的Chat**GPT**计划，帮助企业家通过Ch
 **推出**OpenAI Presence经过验证的企业AI代理平台，帮助组织为客户和内部工作流程部署可信赖的语音和聊天代理
 
 📅 Wed, 22 Jul 2026 05:30:00 GMT
-
----
-
-### OpenAI Blog
-**[NTT DATA Group通过Codex将事件分析时间缩短至30分钟](https://openai.com/index/ntt-data)**
-
-NTT DATA Group使用Chat**GPT** Enterprise和Codex来帮助9和扩展安全的人工智能采用
-
-📅 Wed, 22 Jul 2026 00:00:00 GMT
-
----
-
-### OpenAI Blog
-**[OpenAI和Hugging Face合作伙伴在模型评估过程中解决安全事件](https://openai.com/index/hugging-face-model-evaluation-security-incident)**
-
-**OpenAI**和Hugging Face在人工智能模型评估期间分享了安全事故的早期发现，突出了先进的网络能力和防御者的经验教训
-
-📅 Tue, 21 Jul 2026 07:00:00 GMT
-
----
-
-### OpenAI Blog
-**[David Vélez和Robin Vince加入OpenAI基金会和OpenAI集团PBC的董事会](https://openai.com/index/david-velez-robin-vince-join-openai-boards)**
-
-David Vélez和Robin Vince加入**OpenAI**基金会和**OpenAI**集团PBC的董事会，成为全球金融领域的领导者
-
-📅 Tue, 21 Jul 2026 00:00:00 GMT
 
 ---
 
@@ -188,58 +188,47 @@ David Vélez和Robin Vince加入**OpenAI**基金会和**OpenAI**集团PBC的董�
 
 ## 🌍 行业展望
 
-### The Verge
-![苹果的OpenAI诉讼是关于谁来定义后智能手机时代](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DCD_0724_OpenAI_suit.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### VentureBeat
+![微软推出新的内部人工智能模型，称与OpenAI相比，成本降低了89%](https://images.ctfassets.net/jdtwqhzvc2n1/21LP7BYkYtNcUVP0RAuTq2/d6a298425c240d52da4e211885164c27/Nuneybits_Vector_art_of_Microsoft_logo_rerouting_AI_traffic_fro_0889d4d3-b42c-4858-a9dc-f77546ce9c6c.webp?w=300&q=30)
 
-**[苹果的OpenAI诉讼是关于谁来定义后智能手机时代](https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive)**
+**[微软推出新的内部人工智能模型，称与OpenAI相比，成本降低了89%](https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai)**
 
-众所周知，苹果最著名的设计师乔尼·艾维（ Jony Ive ）正在与**OpenAI**合作开发硬件设备它必须去谷歌，提炼谷歌的双子座模型，并将其放入新的私有云计算系统中，以及它需要做的所有事情
+微软人工智能周三**发布**了两款新的内部模型进行公开预览—与**OpenAI**的图像模型**GPT**-Image-2相比， MAI-Image-25将GPU成本降低了多达84 ％
 
-📅 2026-07-23T14:00:00.000Z
+📅 Thu, 23 Jul 2026 23:37:05 GMT
 
 ---
 
 ### VentureBeat
-![Poolside推出Laguna S 2.1 ，这是一款开放式重量编码型号，其尺寸是竞争对手的10倍](https://images.ctfassets.net/jdtwqhzvc2n1/3bn3yoTePyZbPJPJj0uEdC/401a5cb3161eb2cd6ae5d9b4ce0020ed/Nuneybits_Vector_art_of_minimalist_lines_clean_villas_overlooki_8da15709-c192-4383-b807-87d0dbfcf8e4.webp?w=300&q=30)
+![人工智能计算差距：企业购买基础设施的速度超过了衡量成本的速度](https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30)
 
-**[Poolside推出Laguna S 2.1 ，这是一款开放式重量编码型号，其尺寸是竞争对手的10倍](https://venturebeat.com/infrastructure/poolside-drops-laguna-s-2-1-an-open-weight-coding-model-that-beats-rivals-10x-its-size)**
+**[人工智能计算差距：企业购买基础设施的速度超过了衡量成本的速度](https://venturebeat.com/resources/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs)**
 
-注意到自去年8月**OpenAI**的**GPT**-oss-120b以来，该模型占据了11个月内没有西方实验室**发布**开放式配重的尺寸等级，而前沿显然仍然遥不可及：像**GPT**-5这样的封闭式模型
+大多数组织都在熟悉的超大规模计算器和模型提供者APIsOracle的基础上运行他们的人工智能，以及主要的模型APIs （ **Gemini**
 
-📅 Tue, 21 Jul 2026 21:49:43 GMT
-
----
-
-### VentureBeat
-![OpenAI推出Presence ，这是一个新平台，可让企业启动和管理实时语音代理和聊天机器人](https://images.ctfassets.net/jdtwqhzvc2n1/54A16FMEjHe7hjO9GCxdZ/3504d6994f63597c4c3669fb6d79f0bb/ChatGPT_Image_Jul_22__2026__10_07_00_AM.png?w=300&q=30)
-
-**[OpenAI推出Presence ，这是一个新平台，可让企业启动和管理实时语音代理和聊天机器人](https://venturebeat.com/orchestration/openai-unveils-presence-a-new-platform-that-lets-enterprises-launch-and-manage-realtime-voice-agents-and-chatbots)**
-
-**OpenAI**宣布**推出**Presence ，这是一款新的企业产品，用于在面向客户和内部业务工作流程中部署和管理AI代理**OpenAI**表示， Presence已为其英语电话支持渠道提供支持，电话号码为1-888-**GPT**-0090
-
-📅 Wed, 22 Jul 2026 14:50:00 GMT
+📅 Thu, 23 Jul 2026 17:06:07 GMT
 
 ---
 
 ### VentureBeat
-![人工智能主管在VB Transform 2026上表示，现在人工智能可以判断Rubrik经纪人的一举一动，但没有人可以衡量法官是否正确](https://images.ctfassets.net/jdtwqhzvc2n1/6JgHWclVSgUEIGXnYOUVXt/bdaad264672a4faac27fd0070d79cd0c/rubrik_hero.png?w=300&q=30)
+![黑森林实验室推出能够生成图像和带音频的20秒视频的FLUX 3 —但在有限的发布中开始](https://images.ctfassets.net/jdtwqhzvc2n1/1jXsrdqmpOmNlLZrXsL3hC/d83b416f6a0db2e9b871428ed55b2c2a/image__85___1_.png?w=300&q=30)
 
-**[人工智能主管在VB Transform 2026上表示，现在人工智能可以判断Rubrik经纪人的一举一动，但没有人可以衡量法官是否正确](https://venturebeat.com/security/an-ai-now-judges-every-move-rubriks-agents-make-its-ai-chief-said-at-vb-transform-2026-but-no-ones-measured-if-the-judge-is-right)**
+**[黑森林实验室推出能够生成图像和带音频的20秒视频的FLUX 3 —但在有限的发布中开始](https://venturebeat.com/technology/black-forest-labs-launches-flux-3-capable-of-generating-images-and-20-second-video-with-audio-but-in-limited-release-to-start)**
 
-当**Claude** Code和Cowork试点**推出**时， “我可以告诉你**Claude** Code试图将我们的一些敏感源代码泄露给公共GitHub存储库的次数非常高
+有限的初始可用性**推出**与UDevelopers中其他前沿实验室的新型号的**发布**策略相呼应， UDevelopers习惯于在**发布**主要型号公告的同时或之后不久接收本地可部署的通量变体
 
-📅 Thu, 23 Jul 2026 15:38:30 GMT
+📅 Thu, 23 Jul 2026 17:58:07 GMT
 
 ---
 
 ### VentureBeat
-![OpenAI的模型打破了遏制和网络攻击的拥抱面孔—企业需要知道什么](https://images.ctfassets.net/jdtwqhzvc2n1/5T1jRqO0ZcT7MeHaDY07CQ/2c7374c1edee4f3292307be027060455/exec-f6451c12-50a2-4f4b-97f1-5f2bc5c59fed.png?w=300&q=30)
+![智能体安全漏洞： 54%的企业已经发生过AI智能体事件，大多数仍让智能体共享凭证](https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30)
 
-**[OpenAI的模型打破了遏制和网络攻击的拥抱面孔—企业需要知道什么](https://venturebeat.com/security/openais-models-broke-containment-and-cyberattacked-hugging-face-what-enterprises-need-to-know)**
+**[智能体安全漏洞： 54%的企业已经发生过AI智能体事件，大多数仍让智能体共享凭证](https://venturebeat.com/resources/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials)**
 
-在内部基准评估期间，由**OpenAI**开发的前沿人工智能模型（包括**GPT**-5 ）英国人工智能安全研究所（ UK AISI ）最近评估了**GPT**-5等模型
+安全堆栈绝大多数是原生提供商— **OpenAI**的护栏（ 51 ％ ）谷歌和微软的云控制
 
-📅 Wed, 22 Jul 2026 04:39:00 GMT
+📅 Thu, 23 Jul 2026 17:03:51 GMT
 
 ---
 
@@ -252,60 +241,49 @@ David Vélez和Robin Vince加入**OpenAI**基金会和**OpenAI**集团PBC的董�
 
 ---
 
-### VentureBeat
-![目前大多数企业都拥有让OpenAI代理进入Hugging Face的凭据](https://images.ctfassets.net/jdtwqhzvc2n1/676zZ4w0JGd2F7MVTbnmsI/c6263f05847b60ce8d07f1eab4ca4dfe/hugging_face_breach_hero.png?w=300&q=30)
+### The Verge
+![克劳德的语音模式现在可用于Opus和Sonnet](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[目前大多数企业都拥有让OpenAI代理进入Hugging Face的凭据](https://venturebeat.com/security/the-credential-that-let-openais-agents-into-hugging-face-exists-in-most-enterprises-right-now)**
+**[克劳德的语音模式现在可用于Opus和Sonnet](https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai)**
 
-**OpenAI**于7月21日披露，其两个模型**GPT**-5**OpenAI**将其模型视为过度关注基准分数，而不是对任何人采取行动
+到目前为止，语音模式仅在**Claude** Haiku上可用，这是**Anthropic**更快但功能较弱的模型。他们用它来“解决真正的业务问题” ，而Haiku并不是真正为之设计的
 
-📅 Wed, 22 Jul 2026 22:12:14 GMT
+📅 2026-07-23T19:00:00.000Z
+
+---
+
+### The Verge
+![OpenAI在向所有人推出ChatGPT Health时提出了重大主张](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-health-launch.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[OpenAI在向所有人推出ChatGPT Health时提出了重大主张](https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims)**
+
+**OpenAI**将于周四向美国所有人**推出**Chat**GPT** Health ”当被问及有关**OpenAI**模型的性能如何与人类临床医生相提并论的更多信息时
+
+📅 2026-07-23T17:00:00.000Z
 
 ---
 
 ### VentureBeat
-![Inflection AI在微软剧变后凭借Pi Journeys重返消费市场](https://images.ctfassets.net/jdtwqhzvc2n1/dbs5C4wNAEufOjFoPMdES/684593d2423a8fdc2d459ab179f350a1/Nuneybits_Vector_art_of_Pi_symbol_floating_above_smartphone_min_e18a5c04-b0a3-4fef-9f3b-11028c8deb17.webp?w=300&q=30)
+![随着OpenAI将GPT-Live的全双工语音控制引入桌面上的Codex和ChatGPT ， Agentic编码可以免提](https://images.ctfassets.net/jdtwqhzvc2n1/4j8qxL7Wc3EDLHQPUQjpUD/90a64f52fbda243e304a6e28dc556320/ChatGPT_Image_Jul_23__2026__03_54_24_PM.png?w=300&q=30)
 
-**[Inflection AI在微软剧变后凭借Pi Journeys重返消费市场](https://venturebeat.com/orchestration/inflection-ai-returns-to-consumer-market-with-pi-journeys-after-microsoft-upheaval)**
+**[随着OpenAI将GPT-Live的全双工语音控制引入桌面上的Codex和ChatGPT ， Agentic编码可以免提](https://venturebeat.com/orchestration/agentic-coding-goes-hands-free-as-openai-brings-gpt-lives-full-duplex-voice-control-to-codex-and-chatgpt-on-the-desktop)**
 
-该实验室的**首个**产品实验—旨在适应用户生活阶段的人工智能体验该公告带来了一份关于消费者人工智能习惯的研究报告以及对Pi的实质性**更新**
+当**OpenAI**于8715年7月首次**推出**GPT-Live时，详细介绍了语音集成和多文件夹项目支持-I Insider记者@ Chris**GPT**在X上指出： “今天**OpenAI**将**发布**CODEX的语音和远程指导
 
-📅 Wed, 22 Jul 2026 07:00:00 GMT
+📅 Thu, 23 Jul 2026 21:17:00 GMT
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://avatars.githubusercontent.com/u/21003710?v=4)
+### GitHub Active (Python)
+![fastmcp ：🚀构建MCP服务器和客户端的快速Pythonic方式。](https://avatars.githubusercontent.com/u/39270919?v=4)
 
-**[pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://github.com/pytorch/pytorch)**
+**[fastmcp ：🚀构建MCP服务器和客户端的快速Pythonic方式。](https://github.com/PrefectHQ/fastmcp)**
 
-⭐ 101,880星· 28468分叉· Python ·具有强大GPU加速的Python中的张量和动态神经网络
+⭐ 26,796星· 2179叉· Python 🚀 ·构建MCP服务器和客户端的快速Pythonic方式。
 
-📅 2026-07-23T16:27:41Z
-
----
-
-### GitHub Active (AI/ML)
-![netron ：神经网络、深度学习和机器学习模型的可视化工具](https://avatars.githubusercontent.com/u/438516?v=4)
-
-**[netron ：神经网络、深度学习和机器学习模型的可视化工具](https://github.com/lutzroeder/netron)**
-
-⭐ 33,256星· 3168叉· JavaScript ·神经网络、深度学习和机器学习模型的可视化工具
-
-📅 2026-07-23T16:26:41Z
-
----
-
-### GitHub New (New AI)
-![🆕 集体智能： Ailin ¹是一个开源的集体智能引擎，成千上万的人工智能模型通过数十种协调策略进行协作，应用结构化多样性和独立推理来提高可靠性、可审计性和弹性。](https://avatars.githubusercontent.com/u/198429726?v=4)
-
-**[🆕 集体智能： Ailin ¹是一个开源的集体智能引擎，成千上万的人工智能模型通过数十种协调策略进行协作，应用结构化多样性和独立推理来提高可靠性、可审计性和弹性。](https://github.com/ailinone/collective-intelligence)**
-
-⭐ 68 star (新项目) · TypeScript · Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategiesapplying structured diversity and independent reasoning to improve reliability
-
-📅 2026-07-20T00:17:45Z
+📅 2026-07-24T00:00:30Z
 
 ---
 
@@ -314,20 +292,51 @@ David Vélez和Robin Vince加入**OpenAI**基金会和**OpenAI**集团PBC的董�
 
 **[🆕 opencode-configs ： OpenConfig —最佳OpenCode + oh-my-openagent (OmO) + OpenRouter AI编码代理配置。Sisyphus · Claude · GPT · DeepSeek · Gemini · MCP · Context7 · Exa. oc安装→DOCTOR→启动。](https://github.com/jesseoue/opencode-configs)**
 
-⭐ 18 star (新项目) · Shell · OpenConfig — best OpenCode + oh-my-openagent (OmO) + OpenRouter AI coding agent configSisyphus · **Claude** · **GPT** · **DeepSeek** · **Gemini** · MCP · Context7 · Exa
+⭐ 19 star (新项目) · Shell · OpenConfig — best OpenCode + oh-my-openagent (OmO) + OpenRouter AI coding agent configSisyphus · **Claude** · **GPT** · **DeepSeek** · **Gemini** · MCP · Context7 · Exa
 
 📅 2026-07-21T16:33:23Z
 
 ---
 
+### GitHub New (New AI)
+![🆕 KALKI-1.5 ： KALKI AI （ Krishna Artificial Lattice Keystone Intelligence ）是一个企业智能操作系统（ IOS ） ，结合了LLM、VLM、自主多代理、混合RAG和防御性网络安全。](https://avatars.githubusercontent.com/u/82234861?v=4)
+
+**[🆕 KALKI-1.5 ： KALKI AI （ Krishna Artificial Lattice Keystone Intelligence ）是一个企业智能操作系统（ IOS ） ，结合了LLM、VLM、自主多代理、混合RAG和防御性网络安全。](https://github.com/KGupta171025/KALKI-1.5)**
+
+⭐ 8 star (新项目) · Python · KALKI AI (Krishna Artificial Lattice Keystone Intelligence) is an Enterprise Intelligence Operating System (IOS) combining LLMsautonomous multi-agents
+
+📅 2026-07-21T15:08:03Z
+
+---
+
+### GitHub New (New AI)
+![🆕 ai-hall-of-fame ：精心策划、资源丰富的记录案例集，其中AI在数学、物理、化学、生物学、医学等领域做出了真正非凡的成就。](https://avatars.githubusercontent.com/u/44762129?v=4)
+
+**[🆕 ai-hall-of-fame ：精心策划、资源丰富的记录案例集，其中AI在数学、物理、化学、生物学、医学等领域做出了真正非凡的成就。](https://github.com/adamghaida/ai-hall-of-fame)**
+
+⭐ 7 star (新项目) · Python · A curatedwell-sourced collection of documented cases where AI did something genuinely remarkable — across math
+
+📅 2026-07-21T08:24:24Z
+
+---
+
 ## 💬 社交动态
+
+### Reddit: r/artificial
+**[互联网中断？](https://www.reddit.com/r/artificial/comments/1v4uik0/internet_disruption/)**
+
+似乎**Anthropic**的停电是第一次发生的，这是否与**Claude**有关
+
+📅 2026-07-23T23:34:30.000Z
+
+---
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-07-23T16:27:58.421Z
+📅 2026-07-24T00:00:21.601Z
 
 ---
 
@@ -336,65 +345,54 @@ David Vélez和Robin Vince加入**OpenAI**基金会和**OpenAI**集团PBC的董�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-07-23T16:28:07.020Z
+📅 2026-07-24T00:00:26.288Z
 
 ---
 
 ### Hacker News
-**[从ChatGPT企业帐户中获取数据的免费方式](https://github.com/Conradqh/scrapemychats)**
+**[显示HN ：回声–使用开放权重模型以1/3的成本获得寓言级结果](https://news.ycombinator.com/item?id=49026810)**
 
-文章网址： https://githubcom/Conradqh/scrapemychats评论网址： https://**new**s
+您事先知道哪些模型是有用的，以及它们的输出应该如何组合）和**OpenAI**兼容的API （ https://echo
 
-📅 Thu, 23 Jul 2026 15:45:51 +0000
+📅 Thu, 23 Jul 2026 19:26:01 +0000
+
+---
+
+### Hacker News
+**[Show HN ： Claude-thermos为您保暖](https://github.com/izeigerman/claude-thermos)**
+
+文章网址： https://githubcom/izeigerman/**Claude**-thermos评论网址： https://**new**s
+
+📅 Thu, 23 Jul 2026 17:06:22 +0000
 
 ---
 
 ### Hacker News AI
-**[Show HN: OneCLI – OSS凭证网关，为AI代理保密](https://onecli.sh)**
+**[英伟达在机器人上放置4B世界模型[每周物理AI综述]](https://topicqueue.substack.com/p/nvidia-puts-a-4b-world-model-on-the)**
 
-OneCLI是人工智能代理的**开源**保管库评论网址： https://**new**s
+文章网址： https://topicqueuecom/p/nvidia-puts-a-4b-world-model-on-the Comments网址： https://**new**s
 
-📅 Thu, 23 Jul 2026 15:42:40 +0000
-
----
-
-### Reddit: r/artificial
-![英伟达华盛顿首席执行官：不要陷入“科幻”人工智能的恐惧](https://external-preview.redd.it/XO_RPLdSYk7xzT72qi9P-zKjpDbZq_ahfMXfT_Cp8HM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a10cdd3ffa5a14f63a5b2863ad07d7e7c4ca74ad)
-
-**[英伟达华盛顿首席执行官：不要陷入“科幻”人工智能的恐惧](https://www.reddit.com/r/artificial/comments/1v4i6j6/nvidia_ceo_to_washington_dont_fall_for_science/)**
-
-提交者/u/gamersecret2 [link] [comments]
-
-📅 2026-07-23T16:04:15.000Z
+📅 Thu, 23 Jul 2026 22:58:24 +0000
 
 ---
 
 ### Reddit: r/artificial
-![OpenAI的流氓特工在Hugging Face黑客事件中到底做了什么](https://external-preview.redd.it/SqaIjvVjNXhnm_9IpPZp02A-joZ-n1N5PPcyrT9aMTo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b6dc040bb9d62a06c755f9fe078c7095682b326e)
+![Cursor、Ramp和Meta都在构建模型路由器—但两家公司本身就有主要的模型野心](https://external-preview.redd.it/cCS35fcTeKKlsO_sIorOIXpRj2B9j3x5IMv93Suay6M.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fef8340366cf47a15158fa849f5965b1b32fac2a)
 
-**[OpenAI的流氓特工在Hugging Face黑客事件中到底做了什么](https://www.reddit.com/r/artificial/comments/1v4gwym/what_openais_rogue_agent_really_did_in_the/)**
+**[Cursor、Ramp和Meta都在构建模型路由器—但两家公司本身就有主要的模型野心](https://www.reddit.com/r/artificial/comments/1v4ux0k/cursor_ramp_and_meta_are_all_building_model/)**
 
-该代理人追求的目标远远超出了研究人员的意图，揭示了/u/scientificamerican [link] [comments]可以提交遏制强大人工智能系统的难度
+提交者/u/BadlyOrnate [link] [comments]
 
-📅 2026-07-23T15:19:09.000Z
-
----
-
-### Reddit: r/artificial
-**[代理商搜索 */](https://www.reddit.com/r/artificial/comments/1v4fis7/ai_agents_search/)**
-
-针对代理/人工智能时代优化的按使用付费API他们并不想首先成为消费者搜索引擎
-
-📅 2026-07-23T14:27:51.000Z
+📅 2026-07-23T23:51:48.000Z
 
 ---
 
 ### Reddit: r/artificial
-**[Google的人工智能模式内存丢失。](https://www.reddit.com/r/artificial/comments/1v4ffe1/memory_loss_of_googles_ai_mode/)**
+**[如果ChatGPT更频繁地打断我们，它会更有用吗？](https://www.reddit.com/r/artificial/comments/1v4oag7/would_chatgpt_be_more_useful_if_it_interrupted_us/)**
 
-基本上在过去的几个小时里，我用ai模式进行的每次聊天， ai只有1条消息的记忆例如，问它“你好吗” ，然后问我的第一条消息是什么，它说“我的第一条消息是什么”
+大多数人工智能助手的设计似乎是为了尽可能少的摩擦来完成任务如果我要求Chat**GPT**起草一封**重要**的电子邮件
 
-📅 2026-07-23T14:24:17.000Z
+📅 2026-07-23T19:37:39.000Z
 
 ---
 
