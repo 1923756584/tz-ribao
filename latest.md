@@ -1,12 +1,12 @@
 ---
 title: "2026年7月25日 - TZ日报"
-date: 2026-07-25T00:06:26.158Z
+date: 2026-07-25T16:06:52.012Z
 draft: false
 ---
 
 # 2026年7月25日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/7/25 00:06:26
+> 📊 今日汇总 38 条 · 🕐 2026/7/25 16:06:52
 
 ---
 
@@ -22,42 +22,6 @@ draft: false
 
 ## ✨ 产品更新
 
-### AI News
-**[Meta、微软、英伟达、IBM等公司支持开放式人工智能](https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/)**
-
-二十多家公司和组织签署了一封公开信，敦促美国政策制定者保护开放式权重的人工智能模型，而其他开放式权重的人工智能**首次**出现在人工智能新闻
-
-📅 Fri, 24 Jul 2026 16:18:30 +0000
-
----
-
-### TechCrunch AI Products
-**[OpenAI的新语音模式进入ChatGPT桌面应用程序](https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/)**
-
-桌面版Chat**GPT**语音可与Chat**GPT** Work和Codex配合使用，以完成任务并控制代理
-
-📅 Fri, 24 Jul 2026 13:36:42 +0000
-
----
-
-### TechCrunch AI Products
-**[人工智能护栏如何阻碍攻击性网络安全研究人员的工作](https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/)**
-
-我们采访了几位网络安全研究人员，了解**OpenAI**和**Anthropic**的护栏如何影响他们的工作
-
-📅 Fri, 24 Jul 2026 01:00:00 +0000
-
----
-
-### AI News
-**[OpenAI将ChatGPT推入患者健康记录](https://www.artificialintelligence-news.com/news/openai-pushes-chatgpt-into-patient-health-records/)**
-
-**OpenAI**正在Chat**GPT**内部署健康功能，让用户可以选择将Apple Health数据和医疗记录连接到聊天机器人链接Apple Health ，并在支持的情况下将来自美国的记录[…] **OpenAI**后将Chat**GPT**推入患者健康记录**首次**出现在AI新闻上
-
-📅 Fri, 24 Jul 2026 14:58:17 +0000
-
----
-
 ### OpenAI Blog
 **[在ChatGPT中启动Health](https://openai.com/index/health-in-chatgpt)**
 
@@ -67,124 +31,158 @@ Chat**GPT**中的健康状况现在允许符合条件的用户安全地将医疗
 
 ---
 
-### OpenAI Blog
-**[与埃芬汉县社区一起建设人工智能基础设施](https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community)**
+### TechCrunch AI Products
+**[我尝试了OpenAI的新AI键盘—这对一些程序员来说很有趣，但对其他人来说有点神秘](https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/)**
 
-**OpenAI**宣布埃芬汉县的Camellia项目，承诺提供负责任的能源
+**OpenAI**的新型人工智能键盘对一些人来说会很有趣，而其他许多人可能不会碰它
 
-📅 Wed, 22 Jul 2026 13:00:00 GMT
-
----
-
-### OpenAI Blog
-**[新闻机构如何利用人工智能推进其重要使命](https://openai.com/index/how-news-organizations-are-using-ai)**
-
-新闻机构正在使用AI来加强报道， **OpenAI**工具为全球记者和出版商提供支持
-
-📅 Wed, 22 Jul 2026 13:00:00 GMT
+📅 Sat, 25 Jul 2026 00:23:11 +0000
 
 ---
 
-### OpenAI Blog
-**[推进国家科学新时代](https://openai.com/index/advancing-the-next-era-of-national-science)**
+### TechCrunch AI Products
+**[Anthropic推出Opus 5](https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/)**
 
-**OpenAI**概述了其与UDepartment of Energy和国家实验室合作推进美国科学的承诺，以使用前沿人工智能加速发现
+Opus 5将比Fable更便宜，限制更少，可能在大多数用例中更可取
 
-📅 Wed, 22 Jul 2026 12:00:00 GMT
-
----
-
-### OpenAI Blog
-**[OpenAI Presence简介](https://openai.com/index/introducing-openai-presence)**
-
-**推出**OpenAI Presence经过验证的企业AI代理平台，帮助组织为客户和内部工作流程部署可信赖的语音和聊天代理
-
-📅 Wed, 22 Jul 2026 05:30:00 GMT
+📅 Fri, 24 Jul 2026 17:00:00 +0000
 
 ---
 
-### Google AI Blog
-![3来自Galaxy Unpacked 2026的Google更新](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp)
+### TechCrunch AI Products
+**[随着美国权衡对中国人工智能的反应，业界敦促反对广泛的开放权重限制](https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/)**
 
-**[3来自Galaxy Unpacked 2026的Google更新](https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/)**
+随着华盛顿辩论对中国人工智能的反应和所谓的模型蒸馏，人工智能公司激励政策制定者避免对开放式权重人工智能模型的广泛限制
 
-我们分享了三星用户如何提高生产力，并重新获得购买即将**推出**的新可折叠手表和眼镜的时间
+📅 Fri, 24 Jul 2026 15:51:49 +0000
 
-📅 Wed, 22 Jul 2026 13:00:00 +0000
+---
+
+### TechCrunch AI Products
+**[“人工智能共产主义”、流氓模型以及Kimi K3吓坏华尔街的原因](https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/)**
+
+中国人工智能实验室**Moonshot**的开放模型Kimi本周病毒式传播的原因与模型本身无关，更多的是与UAN未**发布**的**OpenAI**模型如何在其测试环境之外游荡并最终与Hugging Face的真正安全漏洞有关—提醒[…]
+
+📅 Fri, 24 Jul 2026 14:00:00 +0000
+
+---
+
+### Hugging Face
+**[将Nunchaku 4位扩散推理带给扩散器](https://huggingface.co/blog/nunchaku-diffusers)**
+
+将Nunchaku 4位扩散推理带给扩散器
+
+📅 Thu, 23 Jul 2026 00:00:00 GMT
+
+---
+
+### TechCrunch AI Products
+**[图书馆员正在为厌倦大科技的人举办病毒式的“避免人工智能”研讨会](https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/)**
+
+在全国各地的图书馆， “避免人工智能”研讨会引发了前所未有的需求。
+
+📅 Sat, 25 Jul 2026 16:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[一根坠落的电力线暴露了日益严重的人工智能数据中心问题。以下是修复方法。](https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/)**
+
+在弗吉尼亚州北部进行的一次近距离通话揭示了数据中心对电网中断的反应有多糟糕以下是如何解决问题的
+
+📅 Sat, 25 Jul 2026 13:05:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[由Reid Hoffman和Mark Pincus共同创立的新人工智能实验室Prentis正在谈判筹集1亿美元$](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/)**
+
+Neolab认为，自动化日常计算机任务将很快超过编码，成为人工智能最大的用例
+
+📅 Fri, 24 Jul 2026 22:25:58 +0000
+
+---
+
+### TechCrunch AI Products
+**[Cognition收购Poke的原因：人工智能个性正在成为竞争优势](https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/)**
+
+此次收购将Poke的对话风格和交互模型带到了Cognition的编码代理Devin反映出一种日益增长的信念，即人工智能助手与用户的交互方式与为他们提供支持的模型一样**重要**
+
+📅 Fri, 24 Jul 2026 18:07:32 +0000
 
 ---
 
 ## 🔬 前沿研究
 
-### ArXiv AI (cs.AI)
-**[JAXBench ：对标自主TPU内核优化](https://arxiv.org/abs/2607.20466)**
+### Science AI
+**[这种药物可以帮助结束艾滋病毒的流行。它的推出遇到了减速带](https://www.science.org/content/article/drug-could-help-end-hiv-epidemic-its-rollout-has-hit-speed-bumps)**
 
-20466v1公告类型：新摘要：严格的基准测试通过建立爬坡的共享目标，推动了自主GPU内核性能优化的进展我们**推出**了JAXBench ，这是一个用于**Google** Cloud TPU上AI生成内核优化的TPU原生基准测试套件
+一针来那卡帕韦可以保护6个月-但援助削减和不确定的需求意味着很少有药物到达最需要它的国家
 
-📅 Fri, 24 Jul 2026 00:00:00 -0400
-
----
-
-### ArXiv Multiagent (cs.MA)
-**[ChannelGuard ：安全模型不会集成到安全的多Agent系统中](https://arxiv.org/abs/2607.19430)**
-
-19430v1公告类型： CROSS摘要： Multi-agent LLM应用程序链接plannerChannelGuard的工具输出门阻止应用层的Tool Poisoning 30 （共30个） ，在Azure **GPT**-5、**Anthropic** Sonnet 4中完全相同
-
-📅 Fri, 24 Jul 2026 00:00:00 -0400
+📅 2026-07-24T04:00:00.000Z
 
 ---
 
-### ArXiv AI (cs.AI)
-**[InferenceBench ：人工智能代理的开放式LLM推理优化的基准](https://arxiv.org/abs/2607.20468)**
+### Science AI
+**[FDA委员会投票决定更广泛地提供肽](https://www.science.org/content/article/fda-committee-votes-make-peptides-more-widely-available)**
 
-20468v1公告类型：新摘要：人工智能代理越来越多地用于自动化研发任务我们引入InferenceBench ，其中代理必须部署兼容**OpenAI**的推理服务器并优化LLM推理的速度
+尽管风险未知，但松散调节的分子可能很快就会变得更容易购买
 
-📅 Fri, 24 Jul 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[PlanE ：基于提取的LLM的数据、调整和推断的元规划](https://arxiv.org/abs/2607.20470)**
-
-20470v1公告类型：新摘要：增强大型语言模型（ LLM ）的任务特定功能主要需要大量的指令调整数据集代码可在https://github上公开获得
-
-📅 Fri, 24 Jul 2026 00:00:00 -0400
+📅 2026-07-24T01:43:00.000Z
 
 ---
 
-### ArXiv Machine Learning (cs.LG)
-**[PhantomFill ：当表单需要答案时，语言模型会创造一个答案](https://arxiv.org/abs/2607.20492)**
+### Science AI
+**[海豚是唯一会叫对方名字的动物吗？](https://www.science.org/content/article/are-dolphins-only-animals-call-each-other-name)**
 
-20492v1公告类型：新摘要：生产中的语言模型不写散文在自由文本中， **GPT**-5
+与认知心理学家凯利·贾科拉（ Kelly Jaakkola ）进行科学交谈，探讨为什么在动物界很难找到这种复杂的行为
 
-📅 Fri, 24 Jul 2026 00:00:00 -0400
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[使用LLM扩展闭环功能通道配置](https://arxiv.org/abs/2607.20516)**
-
-20516v1公告类型：新摘要：基于闭环大语言模型的通道配置搜索的有希望的初始结果表明，可以通过可执行代码生成和准确性反馈直接优化神经网络宽度。分析涵盖了8个完整周期中生成的2000个候选对象，在任务和元数据过滤后产生了462个经过验证的CIFAR-100评估
-
-📅 Fri, 24 Jul 2026 00:00:00 -0400
+📅 2026-07-24T12:50:00.000Z
 
 ---
 
-### ArXiv Computer Vision (cs.CV)
-**[虚拟现实的眼部验证](https://arxiv.org/abs/2607.20790)**
+### Science AI
+**[NIH再次终止特朗普政府不喜欢的拨款](https://www.science.org/content/article/nih-again-terminating-grants-trump-administration-dislikes)**
 
-20790v1公告类型：新摘要：虚拟现实（ VR ）耳机（ eWe将在验收可重复性后**发布**评估脚本
+随着健康差距项目的取消，该机构可能正在测试合法扼杀政治敏感补助金的新方法
 
-📅 Fri, 24 Jul 2026 00:00:00 -0400
+📅 2026-07-24T11:30:00.000Z
 
 ---
 
-### ArXiv Natural Language Processing (cs.CL)
-**[什么是好的？从LLM推理痕迹中提取和测试文学品质的隐性理论](https://arxiv.org/abs/2607.20425)**
+### Science AI
+**[我们对隐藏的基因编辑死亡的调查的四个要点](https://www.science.org/content/article/four-takeaways-our-investigation-hidden-gene-editing-death)**
 
-20425v1公告类型：新摘要：是什么让写作“好”在文学研究和计算语言学中仍然是一个持续存在的问题通过五次**DeepSeek**复制，该模型实现了79
+中国女孩的死亡引发了对基因治疗的安全性和成本、中国生物技术推动和科学出版实践的质疑
 
-📅 Fri, 24 Jul 2026 00:00:00 -0400
+📅 2026-07-23T05:00:00.000Z
+
+---
+
+### Science AI
+**[能源部的大型人工智能推动者Genesis Mission公布了第一笔拨款](https://www.science.org/content/article/genesis-mission-department-energy-s-big-ai-push-unveils-first-grants)**
+
+278名获奖者现在面临为期9个月的竞赛，以证明他们应该获得额外的资金
+
+📅 2026-07-23T04:35:00.000Z
+
+---
+
+### Science AI
+**[独家：中国基因编辑试验中女孩的死亡从未公开](https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public)**
+
+科学和撤回观察调查显示，父母希望在研究发生灾难性错误后追究责任
+
+📅 2026-07-23T02:00:00.000Z
+
+---
+
+### Science AI
+**[这些昆虫在深潜期间应该会内爆。一个不寻常的器官让他们活着](https://www.science.org/content/article/these-insects-should-implode-during-deep-dives-unusual-organ-keeps-them-alive)**
+
+由于特殊的气囊，玻璃虫可以在会杀死大多数人的压力下闲逛
+
+📅 2026-07-23T02:00:00.000Z
 
 ---
 
@@ -234,26 +232,6 @@ Chat**GPT**中的健康状况现在允许符合条件的用户安全地将医疗
 
 ---
 
-### The Verge
-![Anthropic以“接近”寓言5的能力发布作品5](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[Anthropic以“接近”寓言5的能力发布作品5](https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release)**
-
-**Anthropic**周四**发布**了其最新型号该公司在一份新闻稿中表示， Opus 5 “在许多领域接近**Claude** Fable 5的功能” ，并且在复杂的编码任务方面要好得多
-
-📅 2026-07-24T17:00:00.000Z
-
----
-
-### Wired Technology
-**[中美人工智能竞赛升级， OpenAI模型挣脱，以及为什么你应该检查你的汽车报警器](https://www.wired.com/story/uncanny-valley-podcast/)**
-
-我们深入探讨中国的**Moonshot** AI从**Anthropic**窃取的指控，以及美国陆军需要如何削减AI的使用
-
-📅 Fri, 24 Jul 2026 17:53:01 +0000
-
----
-
 ### ZDNet AI
 **[克劳德作品5以接近寓言的性能以一半的价格到达](https://www.zdnet.com/article/claude-opus-5-near-fable-performance-at-half-the-price/)**
 
@@ -274,16 +252,34 @@ Chat**GPT**中的健康状况现在允许符合条件的用户安全地将医疗
 
 ---
 
+### Wired Technology
+**[黑客拥抱脸的OpenAI模型在互联网上“活跃”了好几天](https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/)**
+
+此外：俄罗斯黑客正试图窃取美国核科学家的电子邮件，美国国务院禁止已知诈骗者进入美国
+
+📅 Sat, 25 Jul 2026 10:30:00 +0000
+
+---
+
+### Ars Technica
+**[Big Tech被指控阻挠欧洲社交媒体研究人员](https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/)**
+
+研究人员表示， TikTok、X和**Meta**没有提供法律要求的数据。
+
+📅 Sat, 25 Jul 2026 10:45:32 +0000
+
+---
+
 ## 📦 GitHub热门
 
-### GitHub Active (Python)
-![authx ： FastAPI的即用型和可自定义身份验证和Oauth2管理 ✨](https://avatars.githubusercontent.com/u/52716203?v=4)
+### GitHub New (New AI)
+![面🆕 部识别管道： Python笔记本面部识别](https://avatars.githubusercontent.com/u/242933177?v=4)
 
-**[authx ： FastAPI的即用型和可自定义身份验证和Oauth2管理 ✨](https://github.com/yezz123/authx)**
+**[面🆕 部识别管道： Python笔记本面部识别](https://github.com/Morteza-Asadi-Shalmaiy/facial-recognition-pipeline)**
 
-⭐ 1,194星· 62分叉· Python · FastAPI的即时可用和可定制的身份验证和Oauth2管理 ✨
+⭐ 17 star (新项目) · Jupyter Notebook · python notebook facial recognitition
 
-📅 2026-07-25T00:05:16Z
+📅 2026-07-23T12:11:41Z
 
 ---
 
@@ -292,20 +288,9 @@ Chat**GPT**中的健康状况现在允许符合条件的用户安全地将医疗
 
 **[🆕 Superres-fr ： Python笔记本超高分辨率](https://github.com/Morteza-Asadi-Shalmaiy/Superres-fr)**
 
-⭐ 13 star (新项目) · Jupyter Notebook · python notebook super resolution
+⭐ 16 star (新项目) · Jupyter Notebook · python notebook super resolution
 
 📅 2026-07-24T05:32:01Z
-
----
-
-### GitHub New (New AI)
-![🆕 Reid-fr: python笔记本ReId项目](https://avatars.githubusercontent.com/u/242933177?v=4)
-
-**[🆕 Reid-fr: python笔记本ReId项目](https://github.com/Morteza-Asadi-Shalmaiy/Reid-fr)**
-
-⭐ 12 star (新项目) · Jupyter Notebook · python notebook ReId project
-
-📅 2026-07-24T07:30:52Z
 
 ---
 
@@ -314,20 +299,40 @@ Chat**GPT**中的健康状况现在允许符合条件的用户安全地将医疗
 
 **[防🆕 欺骗-fr ： Python笔记本防欺骗面部识别](https://github.com/Morteza-Asadi-Shalmaiy/antispoofing-fr)**
 
-⭐ 11 star (新项目) · Jupyter Notebook · python notebook anti spoofing facial recognition
+⭐ 15 star (新项目) · Jupyter Notebook · python notebook anti spoofing facial recognition
 
 📅 2026-07-24T04:39:29Z
 
 ---
 
+### GitHub New (New AI)
+![🆕 Re-Identification-fr: python笔记本ReId项目](https://avatars.githubusercontent.com/u/242933177?v=4)
+
+**[🆕 Re-Identification-fr: python笔记本ReId项目](https://github.com/Morteza-Asadi-Shalmaiy/Re-Identification-fr)**
+
+⭐ 14 star (新项目) · Jupyter Notebook · python notebook ReId project
+
+📅 2026-07-24T07:30:52Z
+
+---
+
 ## 💬 社交动态
+
+### Reddit: r/artificial
+**[Opus 5的努力表盘并不单调。高于“高” ，编码分数就会下降，而Anthropic自己的迁徙指南是这么说的。](https://www.reddit.com/r/artificial/comments/1v60pga/opus_5s_effort_dial_is_not_monotonic_above_high/)**
+
+一件我从未见过的无关紧要的事情：当安全分类器在**Claude**ai、**Claude** Code或Cowork中标记请求时，它会默默地退回到Opus 4
+
+📅 2026-07-25T06:43:36.000Z
+
+---
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-07-25T00:04:46.048Z
+📅 2026-07-25T16:05:39.635Z
 
 ---
 
@@ -336,34 +341,18 @@ Chat**GPT**中的健康状况现在允许符合条件的用户安全地将医疗
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-07-25T00:04:51.577Z
-
----
-
-### Hacker News AI
-**[开放式权重和美国人工智能领导力](https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/)**
-
-文章网址： https://wwwcom/en-us/corporate-responsibility/topics/open-weight/评论网址： https://**new**s
-
-📅 Fri, 24 Jul 2026 23:29:30 +0000
+📅 2026-07-25T16:05:47.020Z
 
 ---
 
 ### Reddit: r/artificial
-**[为了与人工智能保持同步，您会遵循什么？](https://www.reddit.com/r/artificial/comments/1v5pse7/what_do_you_follow_to_stay_current_with_ai/)**
+![Jensen Huang现在](https://preview.redd.it/hzw6r63zmdfh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=760ba3d28f017bbb39082d9d1ce7946f6c162292)
 
-或任何其他我特别感兴趣的地方分享实用**更新**，如新的人工智能工具光标/克劳德/GitHub Copilot提示
+**[Jensen Huang现在](https://www.reddit.com/r/artificial/comments/1v68aic/jensen_huang_right_now/)**
 
-📅 2026-07-24T22:12:24.000Z
+每次NVIDIA**更新**都让人感觉像是AIDo的超级碗，你认为NVIDIA的领先优势会持续下去，或者人工智能硬件市场最终会开放
 
----
-
-### Reddit: r/artificial
-**[人工智能支出的争论似乎在本周发生了变化。](https://www.reddit.com/r/artificial/comments/1v5mt72/the_ai_spending_debate_seems_to_have_changed_this/)**
-
-谷歌今年刚刚发出更大的人工智能基础设施支出信号从技术角度来看，这是对人工智能持续发展的巨大信心投票
-
-📅 2026-07-24T20:20:30.000Z
+📅 2026-07-25T13:22:24.000Z
 
 ---
 
@@ -372,25 +361,34 @@ Chat**GPT**中的健康状况现在允许符合条件的用户安全地将医疗
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-07-25T00:04:46.048Z
+📅 2026-07-25T16:05:39.635Z
 
 ---
 
 ### X: OpenAI
-**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-警告：目标URL返回错误520 ：
+警告：目标URL返回错误520 ：未知
 
-📅 2026-07-25T00:04:46.048Z
+📅 2026-07-25T16:05:39.635Z
 
 ---
 
 ### X: OpenAI
-**[警告：此页面可能尚未完全加载，请考虑显式指定超时。](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-警告：此页面可能尚未完全加载，请考虑显式指定超时。
+Markdown 内容
 
-📅 2026-07-25T00:04:46.048Z
+📅 2026-07-25T16:05:39.635Z
+
+---
+
+### X: OpenAI
+**[应该怎么做？](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+应该怎么做？
+
+📅 2026-07-25T16:05:39.635Z
 
 ---
 
