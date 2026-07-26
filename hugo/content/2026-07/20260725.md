@@ -1,12 +1,12 @@
 ---
 title: "2026年7月25日 - TZ日报"
-date: 2026-07-25T16:06:52.012Z
+date: 2026-07-26T00:04:19.939Z
 draft: false
 ---
 
 # 2026年7月25日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/7/25 16:06:52
+> 📊 今日汇总 38 条 · 🕐 2026/7/26 00:04:19
 
 ---
 
@@ -241,6 +241,17 @@ Neolab认为，自动化日常计算机任务将很快超过编码，成为人�
 
 ---
 
+### The Verge
+![谷歌基本确认Pixel 11正在涨价](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-15-at-11.36.30-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[谷歌基本确认Pixel 11正在涨价](https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike)**
+
+谷歌设备和服务副总裁Barkat表示，谷歌“尽可能长时间地保护我们的消费者免受供应波动的影响”
+
+📅 2026-07-25T18:13:36.000Z
+
+---
+
 ### VentureBeat
 ![随着OpenAI将GPT-Live的全双工语音控制引入桌面上的Codex和ChatGPT ， Agentic编码可以免提](https://images.ctfassets.net/jdtwqhzvc2n1/4j8qxL7Wc3EDLHQPUQjpUD/90a64f52fbda243e304a6e28dc556320/ChatGPT_Image_Jul_23__2026__03_54_24_PM.png?w=300&q=30)
 
@@ -261,15 +272,6 @@ Neolab认为，自动化日常计算机任务将很快超过编码，成为人�
 
 ---
 
-### Ars Technica
-**[Big Tech被指控阻挠欧洲社交媒体研究人员](https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/)**
-
-研究人员表示， TikTok、X和**Meta**没有提供法律要求的数据。
-
-📅 Sat, 25 Jul 2026 10:45:32 +0000
-
----
-
 ## 📦 GitHub热门
 
 ### GitHub New (New AI)
@@ -280,6 +282,17 @@ Neolab认为，自动化日常计算机任务将很快超过编码，成为人�
 ⭐ 17 star (新项目) · Jupyter Notebook · python notebook facial recognitition
 
 📅 2026-07-23T12:11:41Z
+
+---
+
+### GitHub New (New AI)
+![🆕 Re-Identification-fr: python笔记本ReId项目](https://avatars.githubusercontent.com/u/242933177?v=4)
+
+**[🆕 Re-Identification-fr: python笔记本ReId项目](https://github.com/Morteza-Asadi-Shalmaiy/Re-Identification-fr)**
+
+⭐ 16 star (新项目) · Jupyter Notebook · python notebook ReId project
+
+📅 2026-07-24T07:30:52Z
 
 ---
 
@@ -305,25 +318,14 @@ Neolab认为，自动化日常计算机任务将很快超过编码，成为人�
 
 ---
 
-### GitHub New (New AI)
-![🆕 Re-Identification-fr: python笔记本ReId项目](https://avatars.githubusercontent.com/u/242933177?v=4)
-
-**[🆕 Re-Identification-fr: python笔记本ReId项目](https://github.com/Morteza-Asadi-Shalmaiy/Re-Identification-fr)**
-
-⭐ 14 star (新项目) · Jupyter Notebook · python notebook ReId project
-
-📅 2026-07-24T07:30:52Z
-
----
-
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[Opus 5的努力表盘并不单调。高于“高” ，编码分数就会下降，而Anthropic自己的迁徙指南是这么说的。](https://www.reddit.com/r/artificial/comments/1v60pga/opus_5s_effort_dial_is_not_monotonic_above_high/)**
+**[我们发布了经过消融和微调的GLM-5.2。在对抗性基准测试中获得高分，同时保持编码性能。](https://www.reddit.com/r/artificial/comments/1v6i979/we_released_an_abliterated_finetuned_glm52_high/)**
 
-一件我从未见过的无关紧要的事情：当安全分类器在**Claude**ai、**Claude** Code或Cowork中标记请求时，它会默默地退回到Opus 4
+目标是一个在工作变得技术性或冒犯性时不会拯救的模型1 ％它可以作为API （ **OpenAI**和**Anthropic**兼容）使用
 
-📅 2026-07-25T06:43:36.000Z
+📅 2026-07-25T19:57:36.000Z
 
 ---
 
@@ -332,7 +334,16 @@ Neolab认为，自动化日常计算机任务将很快超过编码，成为人�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-07-25T16:05:39.635Z
+📅 2026-07-26T00:02:48.490Z
+
+---
+
+### X: DeepSeek
+**[标题： X上的DeepSeek （ @ deepseek_ai ）](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+
+标题： X上的**DeepSeek** （ @ **DeepSeek**_ai ）
+
+📅 2026-07-26T00:03:13.875Z
 
 ---
 
@@ -341,18 +352,27 @@ Neolab认为，自动化日常计算机任务将很快超过编码，成为人�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-07-25T16:05:47.020Z
+📅 2026-07-26T00:03:13.875Z
+
+---
+
+### Hacker News
+**[Claude 5代车型的上下文工程新规则](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models)**
+
+文章网址： https://**Claude**com/blog/the-**new**-rules-of-context-engineering-for-**Claude**-5-generation-models评论网址： https://**new**s
+
+📅 Sat, 25 Jul 2026 20:42:35 +0000
 
 ---
 
 ### Reddit: r/artificial
-![Jensen Huang现在](https://preview.redd.it/hzw6r63zmdfh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=760ba3d28f017bbb39082d9d1ce7946f6c162292)
+![警告镜头或宣传噱头-我们应该对OpenAI黑客有多担心？](https://external-preview.redd.it/S7YBpw9-yZOARCByx7ak0Ba623DpahPSfGQ04YTV26c.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=65459724cb5324f765c209f83ec971645c267e88)
 
-**[Jensen Huang现在](https://www.reddit.com/r/artificial/comments/1v68aic/jensen_huang_right_now/)**
+**[警告镜头或宣传噱头-我们应该对OpenAI黑客有多担心？](https://www.reddit.com/r/artificial/comments/1v6eq34/warning_shot_or_publicity_stunt_how_worried/)**
 
-每次NVIDIA**更新**都让人感觉像是AIDo的超级碗，你认为NVIDIA的领先优势会持续下去，或者人工智能硬件市场最终会开放
+本周，科技界被一个拥有一切的故事所困扰，这个故事的开头就像/u/Spirited-Sir-3034提交的科幻惊悚片[link] [comments]
 
-📅 2026-07-25T13:22:24.000Z
+📅 2026-07-25T17:41:34.000Z
 
 ---
 
@@ -361,34 +381,16 @@ Neolab认为，自动化日常计算机任务将很快超过编码，成为人�
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-07-25T16:05:39.635Z
+📅 2026-07-26T00:02:48.490Z
 
 ---
 
 ### X: OpenAI
-**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-警告：目标URL返回错误520 ：未知
+警告：目标URL返回错误520 ：
 
-📅 2026-07-25T16:05:39.635Z
-
----
-
-### X: OpenAI
-**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Markdown 内容
-
-📅 2026-07-25T16:05:39.635Z
-
----
-
-### X: OpenAI
-**[应该怎么做？](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-应该怎么做？
-
-📅 2026-07-25T16:05:39.635Z
+📅 2026-07-26T00:02:48.490Z
 
 ---
 
