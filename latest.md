@@ -1,12 +1,12 @@
 ---
 title: "2026年7月26日 - TZ日报"
-date: 2026-07-26T16:04:21.097Z
+date: 2026-07-27T00:01:32.693Z
 draft: false
 ---
 
 # 2026年7月26日 - TZ日报
 
-> 📊 今日汇总 34 条 · 🕐 2026/7/26 16:04:21
+> 📊 今日汇总 34 条 · 🕐 2026/7/27 00:01:32
 
 ---
 
@@ -37,6 +37,15 @@ draft: false
 **OpenAI**正在Chat**GPT**内部署健康功能，让用户可以选择将Apple Health数据和医疗记录连接到聊天机器人链接Apple Health ，并在支持的情况下将来自美国的记录[…] **OpenAI**后将Chat**GPT**推入患者健康记录**首次**出现在AI新闻上
 
 📅 Fri, 24 Jul 2026 14:58:17 +0000
+
+---
+
+### TechCrunch AI Products
+**[Hugging Face首席执行官在“前所未有的” OpenAI黑客攻击后呼吁“激进的透明度”](https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/)**
+
+“第一次自主代理网络攻击是前所未有的事件，值得前所未有的响应
+
+📅 Sun, 26 Jul 2026 16:33:13 +0000
 
 ---
 
@@ -77,6 +86,15 @@ Opus 5将比Fable更便宜，限制更少，可能在大多数用例中更可取
 ---
 
 ### TechCrunch AI Products
+**[理解对中国人工智能的恐慌](https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/)**
+
+在最新一期的《Equity》中，我们讨论了为什么**Moonshot** AI的Kimi似乎让硅谷和华尔街感到恐慌
+
+📅 Sun, 26 Jul 2026 19:40:57 +0000
+
+---
+
+### TechCrunch AI Products
 **[Monday.com是最新一家将裁员归咎于人工智能的科技公司--还有另外20家](https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)**
 
 按照相反的时间顺序，对今年宣布大幅裁员的大型科技公司进行观察，其中人工智能是一个既定因素
@@ -91,24 +109,6 @@ Opus 5将比Fable更便宜，限制更少，可能在大多数用例中更可取
 在全国各地的图书馆， “避免人工智能”研讨会引发了前所未有的需求。
 
 📅 Sat, 25 Jul 2026 16:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[一根坠落的电力线暴露了日益严重的人工智能数据中心问题。以下是修复方法。](https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/)**
-
-在弗吉尼亚州北部进行的一次近距离通话揭示了数据中心对电网中断的反应有多糟糕以下是如何解决问题的
-
-📅 Sat, 25 Jul 2026 13:05:00 +0000
-
----
-
-### TechCrunch AI Products
-**[由Reid Hoffman和Mark Pincus共同创立的新人工智能实验室Prentis正在谈判筹集1亿美元$](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/)**
-
-Neolab认为，自动化日常计算机任务将很快超过编码，成为人工智能最大的用例
-
-📅 Fri, 24 Jul 2026 22:25:58 +0000
 
 ---
 
@@ -153,28 +153,6 @@ Neolab认为，自动化日常计算机任务将很快超过编码，成为人�
 ## 🌍 行业展望
 
 ### VentureBeat
-![微软推出新的内部人工智能模型，称与OpenAI相比，成本降低了89%](https://images.ctfassets.net/jdtwqhzvc2n1/21LP7BYkYtNcUVP0RAuTq2/d6a298425c240d52da4e211885164c27/Nuneybits_Vector_art_of_Microsoft_logo_rerouting_AI_traffic_fro_0889d4d3-b42c-4858-a9dc-f77546ce9c6c.webp?w=300&q=30)
-
-**[微软推出新的内部人工智能模型，称与OpenAI相比，成本降低了89%](https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai)**
-
-微软人工智能周三**发布**了两款新的内部模型进行公开预览—与**OpenAI**的图像模型**GPT**-Image-2相比， MAI-Image-25将GPU成本降低了多达84 ％
-
-📅 Thu, 23 Jul 2026 23:37:05 GMT
-
----
-
-### VentureBeat
-![人工智能计算差距：企业购买基础设施的速度超过了衡量成本的速度](https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30)
-
-**[人工智能计算差距：企业购买基础设施的速度超过了衡量成本的速度](https://venturebeat.com/resources/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs)**
-
-大多数组织都在熟悉的超大规模计算器和模型提供者APIsOracle的基础上运行他们的人工智能，以及主要的模型APIs （ **Gemini**
-
-📅 Thu, 23 Jul 2026 17:06:07 GMT
-
----
-
-### VentureBeat
 ![Anthropic推出Claude Opus 5 ，这是一种用于编码、代理和企业工作流程的更便宜的人工智能模型](https://images.ctfassets.net/jdtwqhzvc2n1/1Yq5FNKJmmxeMO98fIwpRM/d8ae9af717a5770950856aff8f2ec3e6/Opus-5-Hero.png?w=300&q=30)
 
 **[Anthropic推出Claude Opus 5 ，这是一种用于编码、代理和企业工作流程的更便宜的人工智能模型](https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows)**
@@ -182,17 +160,6 @@ Neolab认为，自动化日常计算机任务将很快超过编码，成为人�
 该公司表示，该模型以一半的成本提供其顶级**Claude** Fable 5的几乎所有智能—这一**发布**标志着人工智能竞赛如何从原始功能转向日常使用的经济性。它成为**Anthropic**的优质消费者等级**Claude** Max的新默认模型，也是**Claude** Pro上可用的**最强**模型
 
 📅 Fri, 24 Jul 2026 17:00:00 GMT
-
----
-
-### VentureBeat
-![黑森林实验室推出能够生成图像和带音频的20秒视频的FLUX 3 —但在有限的发布中开始](https://images.ctfassets.net/jdtwqhzvc2n1/1jXsrdqmpOmNlLZrXsL3hC/d83b416f6a0db2e9b871428ed55b2c2a/image__85___1_.png?w=300&q=30)
-
-**[黑森林实验室推出能够生成图像和带音频的20秒视频的FLUX 3 —但在有限的发布中开始](https://venturebeat.com/technology/black-forest-labs-launches-flux-3-capable-of-generating-images-and-20-second-video-with-audio-but-in-limited-release-to-start)**
-
-有限的初始可用性**推出**与UDevelopers中其他前沿实验室的新型号的**发布**策略相呼应， UDevelopers习惯于在**发布**主要型号公告的同时或之后不久接收本地可部署的通量变体
-
-📅 Thu, 23 Jul 2026 17:58:07 GMT
 
 ---
 
@@ -216,17 +183,6 @@ Neolab认为，自动化日常计算机任务将很快超过编码，成为人�
 
 ---
 
-### VentureBeat
-![随着OpenAI将GPT-Live的全双工语音控制引入桌面上的Codex和ChatGPT ， Agentic编码可以免提](https://images.ctfassets.net/jdtwqhzvc2n1/4j8qxL7Wc3EDLHQPUQjpUD/90a64f52fbda243e304a6e28dc556320/ChatGPT_Image_Jul_23__2026__03_54_24_PM.png?w=300&q=30)
-
-**[随着OpenAI将GPT-Live的全双工语音控制引入桌面上的Codex和ChatGPT ， Agentic编码可以免提](https://venturebeat.com/orchestration/agentic-coding-goes-hands-free-as-openai-brings-gpt-lives-full-duplex-voice-control-to-codex-and-chatgpt-on-the-desktop)**
-
-当**OpenAI**于8715年7月首次**推出**GPT-Live时，详细介绍了语音集成和多文件夹项目支持-I Insider记者@ Chris**GPT**在X上指出： “今天**OpenAI**将**发布**CODEX的语音和远程指导
-
-📅 Thu, 23 Jul 2026 21:17:00 GMT
-
----
-
 ### Wired Technology
 **[黑客拥抱脸的OpenAI模型在互联网上“活跃”了好几天](https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/)**
 
@@ -236,16 +192,56 @@ Neolab认为，自动化日常计算机任务将很快超过编码，成为人�
 
 ---
 
+### Ars Technica
+**[Big Tech被指控阻挠欧洲社交媒体研究人员](https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/)**
+
+研究人员表示， TikTok、X和**Meta**没有提供法律要求的数据。
+
+📅 Sat, 25 Jul 2026 10:45:32 +0000
+
+---
+
+### Ars Technica
+**[Anthropic的Opus 5是关于代币效率，而不是能力的飞跃](https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/)**
+
+模型正在迅速改进，但更便宜的选择通常足够好。
+
+📅 Fri, 24 Jul 2026 21:05:51 +0000
+
+---
+
+### The Verge
+![苹果依靠隐私来打造与众不同的智能眼镜](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0011.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[苹果依靠隐私来打造与众不同的智能眼镜](https://www.theverge.com/tech/971101/apple-smart-glasses-privacy)**
+
+**Meta**的AI眼镜一直是争议的焦点Apple计划在明年6月的WWDC上展示其首款智能眼镜
+
+📅 2026-07-26T19:36:38.000Z
+
+---
+
+### The Verge
+![您可以获得三个月的Xbox Game Pass Ultimate ，几乎半价优惠](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/assets_2026_06_1780857686_1b.HCE_Standard_Edition_No_Logo_3840x2180.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[您可以获得三个月的Xbox Game Pass Ultimate ，几乎半价优惠](https://www.theverge.com/gadgets/970775/xbox-game-pass-ultimate-deal-sale)**
+
+包括第一方游戏和在线多人游戏访问如果您想在7月28日在Xbox和PC上**推出**Halo: Campaign Evolved ，您只需要此订阅，而不是购买$ 49
+
+📅 2026-07-26T15:00:00.000Z
+
+---
+
 ## 📦 GitHub热门
 
 ### GitHub New (New AI)
-![面🆕 部识别管道： Python笔记本面部识别](https://avatars.githubusercontent.com/u/242933177?v=4)
+![防🆕 欺骗-fr ： Python笔记本防欺骗面部识别](https://avatars.githubusercontent.com/u/242933177?v=4)
 
-**[面🆕 部识别管道： Python笔记本面部识别](https://github.com/Morteza-Asadi-Shalmaiy/facial-recognition-pipeline)**
+**[防🆕 欺骗-fr ： Python笔记本防欺骗面部识别](https://github.com/Morteza-Asadi-Shalmaiy/antispoofing-fr)**
 
-⭐ 19 star (新项目) · Jupyter Notebook · python notebook facial recognitition
+⭐ 20 star (新项目) · Jupyter Notebook · python notebook anti spoofing facial recognition
 
-📅 2026-07-23T12:11:41Z
+📅 2026-07-24T04:39:29Z
 
 ---
 
@@ -261,17 +257,6 @@ Neolab认为，自动化日常计算机任务将很快超过编码，成为人�
 ---
 
 ### GitHub New (New AI)
-![防🆕 欺骗-fr ： Python笔记本防欺骗面部识别](https://avatars.githubusercontent.com/u/242933177?v=4)
-
-**[防🆕 欺骗-fr ： Python笔记本防欺骗面部识别](https://github.com/Morteza-Asadi-Shalmaiy/antispoofing-fr)**
-
-⭐ 17 star (新项目) · Jupyter Notebook · python notebook anti spoofing facial recognition
-
-📅 2026-07-24T04:39:29Z
-
----
-
-### GitHub New (New AI)
 ![🆕 Re-Identification-fr: python笔记本ReId项目](https://avatars.githubusercontent.com/u/242933177?v=4)
 
 **[🆕 Re-Identification-fr: python笔记本ReId项目](https://github.com/Morteza-Asadi-Shalmaiy/Re-Identification-fr)**
@@ -282,14 +267,34 @@ Neolab认为，自动化日常计算机任务将很快超过编码，成为人�
 
 ---
 
+### GitHub New (New AI)
+![🆕 korugan ：基于AI的开源边缘安全平台，适用于Cloudflare、CDN、DNS、WAF和基础设施自动化。](https://avatars.githubusercontent.com/u/12262053?v=4)
+
+**[🆕 korugan ：基于AI的开源边缘安全平台，适用于Cloudflare、CDN、DNS、WAF和基础设施自动化。](https://github.com/behramkendra/korugan)**
+
+⭐ 7 star (新项目) · Go · AI-powered open-source edge security platform for Cloudflare, CDN, DNS, WAF and infrastructure automation
+
+📅 2026-07-24T22:02:10Z
+
+---
+
 ## 💬 社交动态
+
+### X: OpenAI
+**[Title: X上的OpenAI (@ OpenAI)](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Title: X上的**OpenAI** (@ **OpenAI**)
+
+📅 2026-07-27T00:00:13.468Z
+
+---
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-07-26T16:02:44.124Z
+📅 2026-07-27T00:00:13.468Z
 
 ---
 
@@ -298,34 +303,34 @@ Neolab认为，自动化日常计算机任务将很快超过编码，成为人�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-07-26T16:02:50.294Z
+📅 2026-07-27T00:00:27.291Z
 
 ---
 
 ### Hacker News
-**[谷歌披露$ 94.1B SpaceX股票，标记6%的股份](https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c)**
+**[展示HN ：以一半的成本蒸馏并提供具有前沿质量的小型车型](https://github.com/experientiallabs/world-model-optimizer)**
 
-文章网址： https://wwwcom/tech/**Google**-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c评论网址： https://**new**s
+今天，我们将**推出**“wmo serve” ，这是一种将重复任务路由到提炼的小型模型的工具， wmo将启动本地**OpenAI**兼容端点，以更低的成本和同等质量与您的模型一起运行
 
-📅 Sun, 26 Jul 2026 12:43:21 +0000
-
----
-
-### Hacker News AI
-**[Show HN ：我为不引人注目的AI构建了一个透明的终端包装器](https://github.com/emosenkis/terminai)**
-
-Terminai让我作为司机， Codex或**Claude** （或任何其他代理商）安静地坐在后座，直到我需要它的帮助快速安装： BREW INSTALL emosenkis/tap/terminai评论网址： https://**new**s
-
-📅 Sun, 26 Jul 2026 15:05:31 +0000
+📅 Sun, 26 Jul 2026 23:35:15 +0000
 
 ---
 
-### Hacker News AI
-**[Hallmark –适用于Claude Code、Cursor和Codex的防AI Slop设计技能](https://github.com/Nutlope/hallmark)**
+### Hacker News
+**[光标桥–在光标订阅上运行无限的Claude代码](https://github.com/hkc5/cursor-bridge)**
 
-文章网址： https://githubcom/Nutlope/hallmark评论网址： https://**new**s
+文章网址： https://githubcom/hkc5/cursor-bridge评论网址： https://**new**s
 
-📅 Sun, 26 Jul 2026 14:25:17 +0000
+📅 Sun, 26 Jul 2026 22:48:09 +0000
+
+---
+
+### Reddit: r/artificial
+**[回形针思维实验的变化](https://www.reddit.com/r/artificial/comments/1v7i1e1/variation_on_the_paperclip_thought_experiment/)**
+
+如果我们向前沿模型提供不受保护的“海关快速通道：人工智能会自动生成看起来合法的清关
+
+📅 2026-07-26T22:20:47.000Z
 
 ---
 
@@ -346,15 +351,6 @@ Terminai让我作为司机， Codex或**Claude** （或任何其他代理商）�
 com/fuadmefleh/Shared-**Claude**-Chats/blob/main/**Claude**\_chats/Becoming-a-nine-tailed-foxcom/fuadmefleh/Shared-**Claude**-Chats/tree/main/**Claude**\_chats提交者/u/Logical_Meal_2105 [link] [comments]
 
 📅 2026-07-26T13:26:48.000Z
-
----
-
-### Reddit: r/artificial
-**[帮助我把这篇论文送到合适的人手中： Sophia ，模块化人工意识的递归认知细化架构](https://www.reddit.com/r/artificial/comments/1v710az/help_me_get_this_paper_into_the_right_hands/)**
-
-基本问题传统人工智能架构缺乏明确的元处理结构科学贡献本提案引入了一个新的研究方向：递归元认知计算交叉：认知科学
-
-📅 2026-07-26T11:14:16.000Z
 
 ---
 
