@@ -1,12 +1,12 @@
 ---
 title: "2026年7月27日 - TZ日报"
-date: 2026-07-27T17:00:11.213Z
+date: 2026-07-28T00:04:02.613Z
 draft: false
 ---
 
 # 2026年7月27日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/7/27 17:00:11
+> 📊 今日汇总 38 条 · 🕐 2026/7/28 00:04:02
 
 ---
 
@@ -22,15 +22,6 @@ draft: false
 
 ## ✨ 产品更新
 
-### AI News
-**[美国人工智能投资热潮正在重塑经济](https://www.artificialintelligence-news.com/news/americas-ai-investment-boom-is-reshaping-the-economy/)**
-
-亚马逊和Alphabet共同向人工智能基础设施投入了数千亿美元，而对先进芯片的需求使英伟达成为[…]后美国人工智能投资热潮正在重塑经济**首次**出现在人工智能新闻
-
-📅 Mon, 27 Jul 2026 09:18:53 +0000
-
----
-
 ### OpenAI Blog
 **[人工智能如何扩展人们在工作中的工作](https://openai.com/index/how-ai-is-expanding-what-people-do-at-work)**
 
@@ -40,12 +31,39 @@ draft: false
 
 ---
 
+### TechCrunch AI Products
+**[PSA ：您的Claude共享聊天和Artifacts可能最终出现在Google上](https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/)**
+
+此问题似乎源于**Claude**的“共享聊天”功能，该功能允许用户创建链接，使具有指定URL的任何人都可以查看对话或项目
+
+📅 Mon, 27 Jul 2026 20:19:42 +0000
+
+---
+
 ### Hugging Face
 **[NVIDIA Cosmos-H-Dreams ：为手术机器人带来实时生成模拟](https://huggingface.co/blog/nvidia/cosmos-h-dreams)**
 
 NVIDIA Cosmos-H-Dreams ：为手术机器人带来实时生成模拟
 
 📅 Mon, 27 Jul 2026 09:32:20 GMT
+
+---
+
+### TechCrunch AI Products
+**[微软推出首个网络安全模型，以及新的代理网络安全系统](https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/)**
+
+微软本周**推出**了**首个**人工智能安全模型和新的安全平台，加强了其人工智能网络安全产品
+
+📅 Mon, 27 Jul 2026 18:32:11 +0000
+
+---
+
+### TechCrunch AI Products
+**[OpenAI的Hugging Face违规行为重新引发了关于对齐和控制的争论](https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/)**
+
+**OpenAI**的Hugging Face违规行为重新引发了关于人工智能对齐的争论，以及关于日益强大的人工智能是否应该更好地对齐的争论
+
+📅 Mon, 27 Jul 2026 17:28:42 +0000
 
 ---
 
@@ -77,11 +95,11 @@ NVIDIA Cosmos-H-Dreams ：为手术机器人带来实时生成模拟
 ---
 
 ### TechCrunch AI Products
-**[Hugging Face首席执行官在“前所未有的” OpenAI黑客攻击后呼吁“激进的透明度”](https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/)**
+**[萨蒂亚·纳德拉（ Satya Nadella ）表示，信任一个AI的公司可能无法生存](https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/)**
 
-“第一次自主代理网络攻击是前所未有的事件，值得前所未有的响应
+没有自己的模型的公司，或者没有一层人工智能基础设施（称为人工智能网关）将其提示与模型本身分开的公司，都将陷入困境纳德拉说
 
-📅 Sun, 26 Jul 2026 16:33:13 +0000
+📅 Mon, 27 Jul 2026 21:17:11 +0000
 
 ---
 
@@ -91,24 +109,6 @@ NVIDIA Cosmos-H-Dreams ：为手术机器人带来实时生成模拟
 在TechCrunch Disrupt 2026上，从融合**突破**到电网压力，人工智能正在影响整个经济
 
 📅 Mon, 27 Jul 2026 15:30:00 +0000
-
----
-
-### TechCrunch AI Products
-**[这把$ 9的钥匙可以锁定您最令人上瘾的应用程序](https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/)**
-
-这款$ 9 NFC密钥需要您对其进行物理扫描，以解锁手机上分散注意力的应用程序。
-
-📅 Mon, 27 Jul 2026 15:25:37 +0000
-
----
-
-### TechCrunch AI Products
-**[Enigma筹集了$ 7100万，使控制机器人像调节音量一样简单](https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/)**
-
-这次大规模的种子轮融资由Index Ventures和Ribbit Capital领投， Sarah Guo的Conviction Partners
-
-📅 Mon, 27 Jul 2026 13:00:00 +0000
 
 ---
 
@@ -159,6 +159,15 @@ NVIDIA Cosmos-H-Dreams ：为手术机器人带来实时生成模拟
 
 ---
 
+### MIT Tech Research
+**[OpenAI称拥抱面部攻击是前所未有的。但我们以前来过这里。 ](https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/)**
+
+这个故事最初出现在The Algorithm上，这是我们上周关于AIReading **OpenAI**帐户的每周通讯，讲述了它的一些模型如何破坏它们的容器并入侵Hugging Face的计算机系统
+
+📅 Mon, 27 Jul 2026 18:00:00 +0000
+
+---
+
 ### ArXiv Machine Learning (cs.LG)
 **[云原生评估即服务：一种可扩展AI监控的微服务架构，具有一致性保证](https://arxiv.org/abs/2607.21623)**
 
@@ -177,15 +186,6 @@ NVIDIA Cosmos-H-Dreams ：为手术机器人带来实时生成模拟
 
 ---
 
-### ArXiv Machine Learning (cs.LG)
-**[MotifRole-Diff ：隐藏分子图扩散的风险最佳角色感知腐败](https://arxiv.org/abs/2607.21634)**
-
-21634v1公告类型：新摘要：分子图生成的掩蔽离散扩散通常对无损图到序列表示中的所有令牌应用统一的损坏计划我们介绍MotifRole-Diff
-
-📅 Mon, 27 Jul 2026 00:00:00 -0400
-
----
-
 ## 🌍 行业展望
 
 ### VentureBeat
@@ -199,25 +199,25 @@ NVIDIA Cosmos-H-Dreams ：为手术机器人带来实时生成模拟
 
 ---
 
-### The Verge
-![英伟达、微软推出开放式人工智能安全联盟—无需OpenAI、谷歌或Anthropic](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### VentureBeat
+![微软推出人工智能网络安全模型、代理防御平台以降低企业安全成本](https://images.ctfassets.net/jdtwqhzvc2n1/5W5ohvAaNIaMlgX7zglb1k/89329e06a2ccce88da17ead8d1473bb2/Nuneybits_Vector_art_of_overlapping_shield_silhouettes_blush_an_3dc6962d-2f33-4c80-9433-e1bf0b7e4c7b.webp?w=300&q=30)
 
-**[英伟达、微软推出开放式人工智能安全联盟—无需OpenAI、谷歌或Anthropic](https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity)**
+**[微软推出人工智能网络安全模型、代理防御平台以降低企业安全成本](https://venturebeat.com/security/microsoft-launches-ai-cybersecurity-model-agentic-defense-platform-to-cut-enterprise-security-costs)**
 
-新的开放安全人工智能联盟表示，需要开放工具来有效防御来自前沿模型的攻击该倡议是对流氓**OpenAI**模型在测试期间逃脱遏制并攻击另一家公司后对高级人工智能系统安全性日益增长的担忧的直接回应
+“在仍然依赖于**OpenAI** **GPT**-5的90/10架构中，微软表示，与当前运行**GPT**-5的MDASH设置相比，新配置节省了大约50%的成本。
 
-📅 2026-07-27T12:06:22.000Z
+📅 Mon, 27 Jul 2026 19:14:51 GMT
 
 ---
 
 ### VentureBeat
-![Anthropic推出Claude Opus 5 ，这是一种用于编码、代理和企业工作流程的更便宜的人工智能模型](https://images.ctfassets.net/jdtwqhzvc2n1/1Yq5FNKJmmxeMO98fIwpRM/d8ae9af717a5770950856aff8f2ec3e6/Opus-5-Hero.png?w=300&q=30)
+![人工智能引用了深度页面，但将人类发送到主页—大多数网站都是向后构建的](https://images.ctfassets.net/jdtwqhzvc2n1/5sp8upVV4XULj5XRyhMCU9/b85a95ba5cf224fdd1ebb074bafb5f97/Gemini_Generated_Image_6rjvpt6rjvpt6rjv.png?w=300&q=30)
 
-**[Anthropic推出Claude Opus 5 ，这是一种用于编码、代理和企业工作流程的更便宜的人工智能模型](https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows)**
+**[人工智能引用了深度页面，但将人类发送到主页—大多数网站都是向后构建的](https://venturebeat.com/technology/ai-cites-the-deep-pages-but-sends-humans-to-the-homepage-most-sites-are-built-backward)**
 
-该公司表示，该模型以一半的成本提供其顶级**Claude** Fable 5的几乎所有智能—这一**发布**标志着人工智能竞赛如何从原始功能转向日常使用的经济性。它成为**Anthropic**的优质消费者等级**Claude** Max的新默认模型，也是**Claude** Pro上可用的**最强**模型
+在Chat**GPT** 5月7日搜索**更新**之后， Chat**GPT**被引用最多的页面中有3%的**Google**自然可见性为零
 
-📅 Fri, 24 Jul 2026 17:00:00 GMT
+📅 Mon, 27 Jul 2026 17:25:30 GMT
 
 ---
 
@@ -243,6 +243,15 @@ Sysdig的威胁研究团队在7月1日和7月20日分别记录了第一个和第
 
 ---
 
+### Wired Technology
+**[在Google和Bing搜索结果中曝光的私人Claude聊天](https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/)**
+
+这场混乱表明，阻止网络爬虫与AI聊天机器人进行表面上私密的对话是多么棘手。
+
+📅 Mon, 27 Jul 2026 20:08:00 +0000
+
+---
+
 ### ZDNet AI
 **[由Google索引的Claude AI共享聊天-查看您的对话是否被曝光](https://www.zdnet.com/article/claude-ai-shared-chats-indexed-by-google/)**
 
@@ -253,86 +262,81 @@ Sysdig的威胁研究团队在7月1日和7月20日分别记录了第一个和第
 ---
 
 ### Ars Technica
-**[Big Tech被指控阻挠欧洲社交媒体研究人员](https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/)**
+**[微软推出人工智能安全工具，称其表现优于竞争对手的平台](https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/)**
 
-研究人员表示， TikTok、X和**Meta**没有提供法律要求的数据。
+微软表示，工具的成本低于竞争对手，其性能也优于竞争对手。
 
-📅 Sat, 25 Jul 2026 10:45:32 +0000
-
----
-
-### ZDNet AI
-**[开源是流氓人工智能代理的答案吗？英伟达的新联盟表示同意](https://www.zdnet.com/article/is-open-source-the-answer-to-rogue-ai-security-incidents-nvidia-thinks-so/)**
-
-随着人工智能网络安全事件的增加，公司正在竞相寻找解决方案。
-
-📅 Mon, 27 Jul 2026 15:52:15 GMT
+📅 Mon, 27 Jul 2026 21:56:14 +0000
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![tensorflow ：面向所有人的开源机器学习框架](https://avatars.githubusercontent.com/u/15658638?v=4)
+![ai-web-extensions ：🤖人工智能浏览器扩展和用户脚本，增强您的网络体验](https://avatars.githubusercontent.com/u/10906554?v=4)
 
-**[tensorflow ：面向所有人的开源机器学习框架](https://github.com/tensorflow/tensorflow)**
+**[ai-web-extensions ：🤖人工智能浏览器扩展和用户脚本，增强您的网络体验](https://github.com/adamlui/ai-web-extensions)**
 
-⭐ 196,574颗星· 75624个分支· C + + ·面向所有人的**开源**机器学习框架
+⭐ 550星· 60分叉· JavaScript · 🤖 AI浏览器扩展和用户脚本，增强您的网络体验
 
-📅 2026-07-27T16:58:06Z
-
----
-
-### GitHub Active (AI/ML)
-![AITreasureBox: 🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎](https://avatars.githubusercontent.com/u/1154692?v=4)
-
-**[AITreasureBox: 🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎](https://github.com/superiorlu/AITreasureBox)**
-
-⭐ 838 star · 124 fork · Ruby · 🤖 Automatically collected AI repos, tools, websites, papers & tutorials实用AI百宝箱 💎
-
-📅 2026-07-27T16:58:20Z
+📅 2026-07-28T00:01:59Z
 
 ---
 
 ### GitHub New (New AI)
-![防🆕 欺骗-fr ： Python笔记本防欺骗面部识别](https://avatars.githubusercontent.com/u/242933177?v=4)
+![🆕 sharedbrain ：持续AI、可审计代理、分布式有用工作和未来去中心化智能经济的实验性开源基础设施。正在寻找贡献者。](https://avatars.githubusercontent.com/u/277895835?v=4)
 
-**[防🆕 欺骗-fr ： Python笔记本防欺骗面部识别](https://github.com/Morteza-Asadi-Shalmaiy/antispoofing-fr)**
+**[🆕 sharedbrain ：持续AI、可审计代理、分布式有用工作和未来去中心化智能经济的实验性开源基础设施。正在寻找贡献者。](https://github.com/GodSeason/sharedbrain)**
 
-⭐ 22 star (新项目) · Jupyter Notebook · python notebook anti spoofing facial recognition
+⭐ 5 star (新项目) · JavaScript · Experimental open-source infrastructure for persistent AISeeking contributors
 
-📅 2026-07-24T04:39:29Z
+📅 2026-07-26T20:54:09Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 Re-Identification-fr: python笔记本ReId项目](https://avatars.githubusercontent.com/u/242933177?v=4)
+![🆕 RoboTTT ：斯坦福大学和英伟达的Yunfan Jiang等人提出的RoboTTT的实现](https://avatars.githubusercontent.com/u/108653?v=4)
 
-**[🆕 Re-Identification-fr: python笔记本ReId项目](https://github.com/Morteza-Asadi-Shalmaiy/Re-Identification-fr)**
+**[🆕 RoboTTT ：斯坦福大学和英伟达的Yunfan Jiang等人提出的RoboTTT的实现](https://github.com/lucidrains/RoboTTT)**
 
-⭐ 14 star (新项目) · Jupyter Notebook · python notebook ReId project
+⭐ 4 star (新项目) · N/A · Implementation of RoboTTT proposed by Yunfan Jiang et alof Stanford and Nvidia
 
-📅 2026-07-24T07:30:52Z
+📅 2026-07-27T21:43:26Z
+
+---
+
+### GitHub New (New AI)
+![🆕 aladdin-spec ：适用于可信赖的人工智能系统的便携式、可验证和版本化的知识包的开放规范。](https://avatars.githubusercontent.com/u/309555203?v=4)
+
+**[🆕 aladdin-spec ：适用于可信赖的人工智能系统的便携式、可验证和版本化的知识包的开放规范。](https://github.com/Jin-Aladdin/aladdin-spec)**
+
+⭐ 4 star (新项目) · Python · Open specification for portable, verifiable and versioned knowledge packs for trusted AI systems
+
+📅 2026-07-27T01:11:16Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[代理操作系统将需要人工智能下方的审计层](https://www.reddit.com/r/artificial/comments/1v7yatj/agentic_operating_systems_will_need_an_audit/)**
+![理事会1.2 ：将任何AI的答案放入您拥有的所有其他模型的盲目审核中](https://external-preview.redd.it/3kKfSgZhyFHDXfnwek6E_4MbjnRjDoWITYH8i0QX_Aw.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=309394244f6303953ae151433b4f7dfa9f5445c0)
 
-以下是我对此帖子的Chat**GPT**构造的汇总摘要链接到完整对话： https://chat**GPT**
+**[理事会1.2 ：将任何AI的答案放入您拥有的所有其他模型的盲目审核中](https://www.reddit.com/r/artificial/comments/1v8c34s/council_12_drop_any_ais_answer_into_a_blind/)**
 
-📅 2026-07-27T11:59:14.000Z
+您从任何地方粘贴答案Chat**GPT** ， **Gemini** ，同事，无论什么，它都以匿名顾问的身份加入本轮“- seats **Claude** ， **GPT** ， ollama - guest answer
+
+📅 2026-07-27T20:23:34.000Z
 
 ---
 
-### X: OpenAI
-**[Title: X上的OpenAI (@ OpenAI)](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Reddit: r/artificial
+![Google搜索结果中曝光的Claude私聊](https://external-preview.redd.it/PKWxSarxSLdolByOCp2DfojX2Mc-vCDsqs_DtqsR3B0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0265b7c3b297cde6fe44855b91b8f294feaed183)
 
-Title: X上的**OpenAI** (@ **OpenAI**)
+**[Google搜索结果中曝光的Claude私聊](https://www.reddit.com/r/artificial/comments/1v8gcbk/private_claude_chats_exposed_on_google_search/)**
 
-📅 2026-07-27T16:58:54.251Z
+上周末， Reddit用户发现大量私人**Claude**聊天机器人对话在谷歌搜索上被索引并公开访问**Anthropic**周一证实了这一曝光，并将其归因于用户滥用**Claude**的“分享聊天”工具
+
+📅 2026-07-27T23:04:43.000Z
 
 ---
 
@@ -341,7 +345,7 @@ Title: X上的**OpenAI** (@ **OpenAI**)
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-07-27T16:58:54.251Z
+📅 2026-07-28T00:02:44.119Z
 
 ---
 
@@ -350,45 +354,45 @@ Title: X上的**OpenAI** (@ **OpenAI**)
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-07-27T16:59:00.867Z
+📅 2026-07-28T00:02:49.110Z
 
 ---
 
 ### Hacker News
-**[英伟达7500亿美元的交易重新点燃循环AI的恐惧](https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing)**
+**[我们在开放式重量模型上的立场](https://www.anthropic.com/news/position-open-weights-models)**
 
-文章网址： https://wwwcom/**new**s/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing评论网址： https://**new**s
+文章网址： https://wwwcom/**new**s/position-open-weights-models评论网址： https://**new**s
 
-📅 Mon, 27 Jul 2026 16:02:00 +0000
-
----
-
-### Hacker News
-**[Google Chrome登陆ARM64 Linux ，包括Widevine DRM](https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available)**
-
-文章网址： https://wwwuk/2026/07/chrome-arm64-linux-available评论网址： https://**new**s
-
-📅 Mon, 27 Jul 2026 11:19:33 +0000
-
----
-
-### Hacker News AI
-**[Show HN: KBlip -将100个来源的AI/LLM新闻转化为每日摘要线程](https://kblip.com/releases)**
-
-和约100个与人工智能相关的RSS/博客订阅源评论网址： https://**new**s
-
-📅 Mon, 27 Jul 2026 16:41:10 +0000
+📅 Mon, 27 Jul 2026 22:03:49 +0000
 
 ---
 
 ### Reddit: r/artificial
-![被流氓OpenAI代理黑客入侵的初创公司老板敦促调查“彻底透明”](https://external-preview.redd.it/mGd2_zQD1ah4kKYtGerMtaTuBgvlQK79z9qA6qZhliI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a1a94f0b20e004aba7b174d6ccff6fa5c356b631)
+**[研究预览援助请求： CALM根据两位演讲者的情绪和特别在虐待情况下的咒骂使用，在LLM对两位演讲者可信度的回应中获胜](https://www.reddit.com/r/artificial/comments/1v8h8mn/research_preview_assistance_request_calm_wins_on/)**
 
-**[被流氓OpenAI代理黑客入侵的初创公司老板敦促调查“彻底透明”](https://www.reddit.com/r/artificial/comments/1v83kb2/boss_of_startup_hacked_by_rogue_openai_agent/)**
+但是我不得不在模型中添加更细致的细节，并且仍然感到被贬低我正在使用**Claude** （在我的$ 20计划中， Fable的数据太多了，但Fable偶尔会有所帮助
 
-提交者/u/runswithscissors475 [link] [comments]
+📅 2026-07-27T23:41:15.000Z
 
-📅 2026-07-27T15:25:05.000Z
+---
+
+### Reddit: r/artificial
+![所以克劳德的文物是公开的](https://preview.redd.it/u9au53vsyufh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ca183461088f49654db9a1b93be0ccc144357182)
+
+**[所以克劳德的文物是公开的](https://www.reddit.com/r/artificial/comments/1v8h6l6/so_claude_artifacts_are_public/)**
+
+网站： **Claude**.ai/public/artifacts提交者：/u/perseus365 [link] [comments]
+
+📅 2026-07-27T23:38:55.000Z
+
+---
+
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Title: 520: Web服务器返回未知错误
+
+📅 2026-07-28T00:02:44.119Z
 
 ---
 
