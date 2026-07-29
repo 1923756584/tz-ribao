@@ -1,12 +1,12 @@
 ---
 title: "2026年7月28日 - TZ日报"
-date: 2026-07-28T16:43:53.222Z
+date: 2026-07-29T00:00:22.335Z
 draft: false
 ---
 
 # 2026年7月28日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/7/28 16:43:53
+> 📊 今日汇总 38 条 · 🕐 2026/7/29 00:00:22
 
 ---
 
@@ -89,30 +89,32 @@ NVIDIA Cosmos-H-Dreams ：为手术机器人带来实时生成模拟
 
 ---
 
-### TechCrunch AI Products
-**[微软推出首个网络安全模型，以及新的代理网络安全系统](https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/)**
+### AI News
+**[亚美尼亚的人工智能赌注不是芯片制造。它是计算主权 ](https://www.artificialintelligence-news.com/news/armenias-ai-bet-is-not-chip-manufacturing-it-is-compute-sovereignty/)**
 
-微软本周**推出**了**首个**人工智能安全模型和新的安全平台，加强了其人工智能网络安全产品
+或像**OpenAI**It Is Compute Sovereignty这样的巨头**首次**出现在人工智能新闻
 
-📅 Mon, 27 Jul 2026 18:32:11 +0000
-
----
-
-### TechCrunch AI Products
-**[OpenAI的Hugging Face违规行为重新引发了关于对齐和控制的争论](https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/)**
-
-**OpenAI**的Hugging Face违规行为重新引发了关于人工智能对齐的争论，以及关于日益强大的人工智能是否应该更好地对齐的争论
-
-📅 Mon, 27 Jul 2026 17:28:42 +0000
+📅 Tue, 28 Jul 2026 08:52:46 +0000
 
 ---
 
-### TechCrunch AI Products
-**[用户现在可以在DM中与Meta AI聊天](https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/)**
+### OpenAI Blog
+**[智能AI时代的科学计算](https://openai.com/index/scientific-computing-agentic-ai)**
 
-**Meta**周一表示，它正在Threads的DM中**推出**其**Meta** AI聊天机器人，让用户可以与AI助手聊天
+一份新的现场报告显示，科学家如何使用人工智能编码代理来实现科学计算的现代化，加速基因组学及其他领域的软件开发和发现
 
-📅 Mon, 27 Jul 2026 16:45:24 +0000
+📅 Tue, 28 Jul 2026 17:00:00 GMT
+
+---
+
+### Google AI Blog
+![搜索中的AI模式帮助您享受真实世界的5种方式](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp)
+
+**[搜索中的AI模式帮助您享受真实世界的5种方式](https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/)**
+
+这听起来可能违反直觉，但搜索的人工智能工具实际上可以帮助您充分利用离线时间，无论您是想预订音乐会门票还是寻找性能……
+
+📅 Tue, 28 Jul 2026 13:00:00 +0000
 
 ---
 
@@ -192,25 +194,25 @@ NVIDIA Cosmos-H-Dreams ：为手术机器人带来实时生成模拟
 
 ## 🌍 行业展望
 
-### VentureBeat
-![哎呀：一些Claude共享的对话和文物似乎在Google搜索上被索引并公开访问](https://images.ctfassets.net/jdtwqhzvc2n1/6MB0Wkpx3vZli7BOCInwGg/1d191633c5a6ccd2b1e4a983662a8186/b225e08c-b329-43d1-9ddd-553cedd372ae.png?w=300&q=30)
+### The Verge
+![人工智能领导人签署了一份声明，要求政府对自动化人工智能采取行动](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[哎呀：一些Claude共享的对话和文物似乎在Google搜索上被索引并公开访问](https://venturebeat.com/technology/uh-oh-some-claude-shared-conversations-and-artifacts-appear-to-be-indexed-and-publicly-accessible-on-google-search)**
+**[人工智能领导人签署了一份声明，要求政府对自动化人工智能采取行动](https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta)**
 
-“Reddit用户很快指出，在公开分享的Chat**GPT**对话通过**Google**Chat**GPT**被发现后， **OpenAI**以前面临批评，现在**Claude**的情节表明，人工智能公司继续在技术上公开的内容与用户的期望之间挣扎，即“与链接共享”的行为更像未上架的**Google** Doc或YouTube视频，而不是有资格被搜索引擎索引的网页
+**OpenAI**和**Anthropic**以及其他领先人工智能实验室的员工
 
-📅 Mon, 27 Jul 2026 15:02:00 GMT
+📅 2026-07-28T19:46:43.000Z
 
 ---
 
-### The Verge
-![拥抱脸被用来轻松脱掉妇女和儿童的衣服](https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK419_DEEPFAKE_CVIRGINIA_F.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### VentureBeat
+![Visa使用Mythos在自己的支付网络中寻找漏洞，然后开源了使之成为可能的线索](https://images.ctfassets.net/jdtwqhzvc2n1/3JE0PUURe6LBFLVZmwVYNj/c9d552e3f26b4b6475c2acf33bd42498/visa_hero.jpg?w=300&q=30)
 
-**[拥抱脸被用来轻松脱掉妇女和儿童的衣服](https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children)**
+**[Visa使用Mythos在自己的支付网络中寻找漏洞，然后开源了使之成为可能的线索](https://venturebeat.com/security/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-possible)**
 
-而流行的**开源**人工智能模型库在防止它方面做得很少虽然大多数主流的生成式人工智能模型，如谷歌的**Gemini**和**OpenAI**的Chat**GPT** ，都有护栏来阻止脱衣服或性化的提示
+Visa将**Anthropic**的**Claude** Mythos瞄准了数十亿日常交易背后的基础设施**OpenAI**兼容模型
 
-📅 2026-07-28T09:07:14.000Z
+📅 Tue, 28 Jul 2026 22:10:02 GMT
 
 ---
 
@@ -236,28 +238,6 @@ NVIDIA Cosmos-H-Dreams ：为手术机器人带来实时生成模拟
 
 ---
 
-### VentureBeat
-![微软推出人工智能网络安全模型、代理防御平台以降低企业安全成本](https://images.ctfassets.net/jdtwqhzvc2n1/5W5ohvAaNIaMlgX7zglb1k/89329e06a2ccce88da17ead8d1473bb2/Nuneybits_Vector_art_of_overlapping_shield_silhouettes_blush_an_3dc6962d-2f33-4c80-9433-e1bf0b7e4c7b.webp?w=300&q=30)
-
-**[微软推出人工智能网络安全模型、代理防御平台以降低企业安全成本](https://venturebeat.com/security/microsoft-launches-ai-cybersecurity-model-agentic-defense-platform-to-cut-enterprise-security-costs)**
-
-“在仍然依赖于**OpenAI** **GPT**-5的90/10架构中，微软表示，与当前运行**GPT**-5的MDASH设置相比，新配置节省了大约50%的成本。
-
-📅 Mon, 27 Jul 2026 19:14:51 GMT
-
----
-
-### VentureBeat
-![人工智能引用了深度页面，但将人类发送到主页—大多数网站都是向后构建的](https://images.ctfassets.net/jdtwqhzvc2n1/5sp8upVV4XULj5XRyhMCU9/b85a95ba5cf224fdd1ebb074bafb5f97/Gemini_Generated_Image_6rjvpt6rjvpt6rjv.png?w=300&q=30)
-
-**[人工智能引用了深度页面，但将人类发送到主页—大多数网站都是向后构建的](https://venturebeat.com/technology/ai-cites-the-deep-pages-but-sends-humans-to-the-homepage-most-sites-are-built-backward)**
-
-在Chat**GPT** 5月7日搜索**更新**之后， Chat**GPT**被引用最多的页面中有3%的**Google**自然可见性为零
-
-📅 Mon, 27 Jul 2026 17:25:30 GMT
-
----
-
 ### Wired Technology
 **[《纽约时报》能否从我们的人工智能霸主手中拯救新闻业？](https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/)**
 
@@ -276,16 +256,36 @@ NVIDIA Cosmos-H-Dreams ：为手术机器人带来实时生成模拟
 
 ---
 
+### VentureBeat
+![跑道无法修复其AI视频模型中的错误，因此它将错误转化为功能](https://images.ctfassets.net/jdtwqhzvc2n1/42llyg2hpoCxRC1uLTzzin/c1f16cc9f24634cf8d7e0c4089782c30/2026-VB-Transform-Hotel-Nia-0274.jpg?w=300&q=30)
+
+**[跑道无法修复其AI视频模型中的错误，因此它将错误转化为功能](https://venturebeat.com/technology/runway-couldnt-fix-a-bug-in-its-ai-video-model-so-it-turned-the-bug-into-a-feature)**
+
+该团队使用由**Claude**提供支持的人工智能代理以及Datadog和Sentry等监控工具来跟踪异常情况，但您可以设计一个世界，然后代理或实时视频模型可以从
+
+📅 Tue, 28 Jul 2026 17:20:10 GMT
+
+---
+
+### MIT Tech Review
+**[下载： OpenAI可预测的黑客攻击和人工智能股票抛售](https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/)**
+
+**OpenAI**称拥抱面部攻击是前所未有的--高级人工智能编辑道格拉斯·天堂（ Douglas Heaven ）上周阅读了**OpenAI**的账户，讲述了它的一些模型如何破坏了他们的……
+
+📅 Tue, 28 Jul 2026 12:10:00 +0000
+
+---
+
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![TransformerEngine ：用于加速NVIDIA GPU上的Transformer模型的库，包括在Hopper、Ada和Blackwell GPU上使用8位和4位浮点（ FP8和FP4 ）精度，以提供更好的性能，同时在训练和推理中降低内存利用率。](https://avatars.githubusercontent.com/u/1728152?v=4)
+![sagemaker-python-sdk ：用于在Amazon SageMaker上培训和部署机器学习模型的库](https://avatars.githubusercontent.com/u/2232217?v=4)
 
-**[TransformerEngine ：用于加速NVIDIA GPU上的Transformer模型的库，包括在Hopper、Ada和Blackwell GPU上使用8位和4位浮点（ FP8和FP4 ）精度，以提供更好的性能，同时在训练和推理中降低内存利用率。](https://github.com/NVIDIA/TransformerEngine)**
+**[sagemaker-python-sdk ：用于在Amazon SageMaker上培训和部署机器学习模型的库](https://github.com/aws/sagemaker-python-sdk)**
 
-451星· 784分叉· Python ·用于在NVIDIA GPU上加速变压器模型的库，可在训练和推理中以更低的内存利用率提供更好的性能
+⭐ 2258星· 1290分叉· Python ·在Amazon SageMaker上训练和部署机器学习模型的库
 
-📅 2026-07-28T16:41:03Z
+📅 2026-07-28T23:57:49Z
 
 ---
 
@@ -294,7 +294,7 @@ NVIDIA Cosmos-H-Dreams ：为手术机器人带来实时生成模拟
 
 **[🆕 robo_ttt ：斯坦福大学和英伟达的Yunfan Jiang等人提出的RoboTTT的实现](https://github.com/lucidrains/robo_ttt)**
 
-⭐ 19 star (新项目) · Python · Implementation of RoboTTT proposed by Yunfan Jiang et alof Stanford and Nvidia
+⭐ 20 star (新项目) · Python · Implementation of RoboTTT proposed by Yunfan Jiang et alof Stanford and Nvidia
 
 📅 2026-07-27T21:43:26Z
 
@@ -324,12 +324,23 @@ NVIDIA Cosmos-H-Dreams ：为手术机器人带来实时生成模拟
 
 ## 💬 社交动态
 
-### Hacker News AI
-**[为您的网站提供免费的AI可见性扫描仪](https://news.ycombinator.com/item?id=49086282)**
+### Hacker News
+**[与Claude一起发现加密技术弱点](https://www.anthropic.com/research/discovering-cryptographic-weaknesses)**
 
-RankLLM告诉你一些不同的事情：人工智能助手（ Chat**GPT**Perplexity和**Google** AI Overviews ）是否真的可以读取
+文章网址： https://wwwcom/research/discovering-cryptographic-weaknesses评论网址： https://**new**s
 
-📅 Tue, 28 Jul 2026 16:24:03 +0000
+📅 Tue, 28 Jul 2026 17:22:16 +0000
+
+---
+
+### Reddit: r/artificial
+![使用Claude Mythos Preview ， Anthropic的研究人员发现了攻击加密算法的改进方法（用于保持在线数据私密性的数学方法）](https://external-preview.redd.it/USsEr81T7tF0aI9oNoP0K-OrNF3HJhsCbTXK7cgeiAE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9df9ff9c6956cb8a6350bd87170c0fd9f3a5d0cb)
+
+**[使用Claude Mythos Preview ， Anthropic的研究人员发现了攻击加密算法的改进方法（用于保持在线数据私密性的数学方法）](https://www.reddit.com/r/artificial/comments/1v99cuk/using_claude_mythos_preview_researchers_at/)**
+
+提交者/u/PsychologicalBox5208 [link] [comments]
+
+📅 2026-07-28T19:55:50.000Z
 
 ---
 
@@ -338,7 +349,7 @@ RankLLM告诉你一些不同的事情：人工智能助手（ Chat**GPT**Perplex
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-07-28T16:42:41.670Z
+📅 2026-07-28T23:59:02.229Z
 
 ---
 
@@ -347,54 +358,43 @@ RankLLM告诉你一些不同的事情：人工智能助手（ Chat**GPT**Perplex
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-07-28T16:42:50.223Z
+📅 2026-07-28T23:59:07.047Z
+
+---
+
+### Hacker News
+**[Anthropic发布针对HAWK-256的实用密钥恢复攻击](https://github.com/anthropics/cryptography-research-demo)**
+
+文章网址： https://githubcom/**Anthropic**s/cryptography-research-demo评论网址： https://**new**s
+
+📅 Tue, 28 Jul 2026 21:22:48 +0000
+
+---
+
+### Hacker News
+**[OpenAI刚刚开源了Codex Security](https://github.com/openai/codex-security)**
+
+文章网址： https://githubcom/**OpenAI**/codex-security备注网址： https://**new**s
+
+📅 Tue, 28 Jul 2026 20:52:55 +0000
+
+---
+
+### Hacker News AI
+**[向HN展示： Magpie ，将您的AI代理转变为记账员的CLI](https://github.com/kyle-visner/magpie)**
+
+HN ，您好！宣布**发布**Magpie ，这是一种基于Jaybase的CLI工具，可将您的AI代理转变为专业簿记员只需向**Claude** Code、Codex或任何其他代理提供URL ，它应该能够为您设置
+
+📅 Tue, 28 Jul 2026 23:16:16 +0000
 
 ---
 
 ### Reddit: r/artificial
-![山姆·阿特曼说“我们现在处于奇点”](https://external-preview.redd.it/aHVnOXRhMGIyemZoMc_GO4313sgO6VVGQf5IiQ5GrsLbHuYZAR9EcxabUdx3.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dacbae5157bcfa51a16e42e440ba44170d8fb8c6)
+**[还有人用航运AI代理的“第2天”一面撞墙吗？](https://www.reddit.com/r/artificial/comments/1v9bvg8/anyone_else_hitting_a_wall_with_the_day_2_side_of/)**
 
-**[山姆·阿特曼说“我们现在处于奇点”](https://www.reddit.com/r/artificial/comments/1v8ygdx/sam_atman_says_we_are_now_in_the_singularity/)**
+我们花了数周时间尝试将自定义GitHub Actions、Docker扫描和临时日志记录脚本粘合在一起，以获得基本的部署防护栏Microsoft的新参考架构和专用代理网关开始将代理部署视为具有评估门和自动化管道的实际企业软件，这感觉像是一个必要的转变
 
-这位**OpenAI**首席执行官在Relentless播客上发表讲话时说： “我们现在就像在奇点中一样” ，并称这是一个时刻，因此每一代系统都有助于设计下一代系统，
-
-📅 2026-07-28T13:25:21.000Z
-
----
-
-### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Title: 520: Web服务器返回未知错误
-
-📅 2026-07-28T16:42:41.670Z
-
----
-
-### X: OpenAI
-**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-警告：目标URL返回错误520 ：
-
-📅 2026-07-28T16:42:41.670Z
-
----
-
-### X: OpenAI
-**[警告：此页面可能尚未完全加载，请考虑显式指定超时。](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-警告：此页面可能尚未完全加载，请考虑显式指定超时。
-
-📅 2026-07-28T16:42:41.670Z
-
----
-
-### X: OpenAI
-**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Markdown 内容
-
-📅 2026-07-28T16:42:41.670Z
+📅 2026-07-28T21:31:03.000Z
 
 ---
 
