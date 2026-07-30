@@ -1,12 +1,12 @@
 ---
 title: "2026年7月29日 - TZ日报"
-date: 2026-07-29T16:24:49.276Z
+date: 2026-07-30T00:02:04.298Z
 draft: false
 ---
 
 # 2026年7月29日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/7/29 16:24:49
+> 📊 今日汇总 38 条 · 🕐 2026/7/30 00:02:04
 
 ---
 
@@ -22,21 +22,21 @@ draft: false
 
 ## ✨ 产品更新
 
-### AI News
-**[OpenAI报告将编码代理链接到更快的科学软件构建](https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/)**
+### TechCrunch AI Products
+**[微软从Anthropic投资中获得了32 $ B ，但OpenAI是一个混合袋](https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/)**
 
-OpenAI**发布**了一份新的现场报告，跟踪编码代理缩短运行时间的八个科学计算项目值得提前标记：这是一家供应商**发布**自己的调查[…] **OpenAI**报告将编码代理链接到更快的科学软件构建，首先出现在AI新闻上
+当微软报告其2026财年（截至6月30日）的杀手级第四季度收益时，人工智能实验室正在做
 
-📅 Wed, 29 Jul 2026 10:53:39 +0000
+📅 Wed, 29 Jul 2026 22:46:03 +0000
 
 ---
 
-### AI News
-**[美国人工智能投资热潮正在重塑经济](https://www.artificialintelligence-news.com/news/americas-ai-investment-boom-is-reshaping-the-economy/)**
+### OpenAI Blog
+**[使用ChatGPT为学术研究人员加速科学发现](https://openai.com/index/chatgpt-for-academic-researchers)**
 
-亚马逊和Alphabet共同向人工智能基础设施投入了数千亿美元，而对先进芯片的需求使英伟达成为[…]后美国人工智能投资热潮正在重塑经济**首次**出现在人工智能新闻
+**OpenAI**将向100000名学术研究人员免费提供Chat**GPT**最先进的人工智能模型，以加速科学研究
 
-📅 Mon, 27 Jul 2026 09:18:53 +0000
+📅 Wed, 29 Jul 2026 10:00:00 GMT
 
 ---
 
@@ -46,6 +46,24 @@ OpenAI**发布**了一份新的现场报告，跟踪编码代理缩短运行时�
 新的**OpenAI**研究表明，随着Chat**GPT**用户跨角色承担任务并重塑工作边界，人工智能正在扩展员工的工作范围
 
 📅 Mon, 27 Jul 2026 03:30:00 GMT
+
+---
+
+### OpenAI Blog
+**[启用两个设置如何使我们在ARC-AGI-3基准测试中的分数增加两倍](https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores)**
+
+两个API设置如何提高ARC-AGI-3上的**GPT**-56性能，通过保留推理和启用压缩来提高分数和效率
+
+📅 Wed, 29 Jul 2026 15:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[GPT-5.6如何将前沿情报与前沿效率融合](https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency)**
+
+6提高了模型、推理和代理工作流程的人工智能效率，有助于每美元提供更有用的智能
+
+📅 Wed, 29 Jul 2026 00:00:00 GMT
 
 ---
 
@@ -89,30 +107,12 @@ NVIDIA Cosmos-H-Dreams ：为手术机器人带来实时生成模拟
 
 ---
 
-### AI News
-**[Google AI Overviews在搜索中变得更加常见](https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/)**
+### TechCrunch AI Products
+**[马克·扎克伯格预测，在五年内，数十亿人将拥有个人人工智能代理](https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/)**
 
-谷歌的人工智能生成摘要出现在Similarweb测量的43%的美国搜索中用户可以从[…]移动**Google** AI Overviews在搜索中变得更常见首先出现在人工智能新闻
+随着**Meta**向人工智能基础设施和代理商投入数十亿美元，扎克伯格正在努力说服投资者，回报将是值得的
 
-📅 Wed, 29 Jul 2026 10:00:00 +0000
-
----
-
-### AI News
-**[亚美尼亚的人工智能赌注不是芯片制造。它是计算主权 ](https://www.artificialintelligence-news.com/news/armenias-ai-bet-is-not-chip-manufacturing-it-is-compute-sovereignty/)**
-
-或像**OpenAI**It Is Compute Sovereignty这样的巨头**首次**出现在人工智能新闻
-
-📅 Tue, 28 Jul 2026 08:52:46 +0000
-
----
-
-### GitHub Blog
-**[Tame Dependabot ：对更新进行分组，减慢节奏，保持快速安全](https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/)**
-
-以下是分组**更新**、减慢节奏和保持安全修复快速减少Microsoft**开源**项目噪音的方法。文章Tame Dependabot ：分组**更新**、减慢节奏、保持安全快速**首次**出现在GitHub博客上
-
-📅 Wed, 29 Jul 2026 16:00:00 +0000
+📅 Wed, 29 Jul 2026 23:00:11 +0000
 
 ---
 
@@ -193,6 +193,17 @@ NVIDIA Cosmos-H-Dreams ：为手术机器人带来实时生成模拟
 ## 🌍 行业展望
 
 ### VentureBeat
+![Nimble声称其新的领域专用网络搜索代理将代币成本降低了一半，同时提高了检索准确性](https://images.ctfassets.net/jdtwqhzvc2n1/LMGG5SRd4dH0XCVfsK7CW/9dcdae7394442bed7a247b99ce4bd63a/ChatGPT_Image_Jul_29__2026__12_16_53_PM.png?w=300&q=30)
+
+**[Nimble声称其新的领域专用网络搜索代理将代币成本降低了一半，同时提高了检索准确性](https://venturebeat.com/orchestration/nimble-claims-its-new-domain-specialized-web-search-agents-cut-token-costs-in-half-while-boosting-retrieval-accuracy)**
+
+Chat**GPT** Deep Research、**Gemini** Deep Research和Perplexity主要作为面向用户的研究助理运营，每月$ 20或$ 19
+
+📅 Wed, 29 Jul 2026 17:32:00 GMT
+
+---
+
+### VentureBeat
 ![Visa使用Mythos在自己的支付网络中寻找漏洞，然后开源了使之成为可能的线索](https://images.ctfassets.net/jdtwqhzvc2n1/3JE0PUURe6LBFLVZmwVYNj/c9d552e3f26b4b6475c2acf33bd42498/visa_hero.jpg?w=300&q=30)
 
 **[Visa使用Mythos在自己的支付网络中寻找漏洞，然后开源了使之成为可能的线索](https://venturebeat.com/security/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-possible)**
@@ -203,25 +214,12 @@ Visa将**Anthropic**的**Claude** Mythos瞄准了数十亿日常交易背后的�
 
 ---
 
-### VentureBeat
-![Snowflake推出Cortex AI网关，以控制AI代理并防止企业成本失控](https://images.ctfassets.net/jdtwqhzvc2n1/3k8S2mn3Vqdk2YHdx8TuUy/910c13c98f65d416fbc451a78136ed3f/Nuneybits_Vector_art_of_a_snowflake_on_retro_CRT_flickering_tea_b7eda486-64c0-40fc-9c53-62d286ea9c66.webp?w=300&q=30)
+### Ars Technica
+**[Anthropic发现错误的速度比微软修复它们的速度更快](https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/)**
 
-**[Snowflake推出Cortex AI网关，以控制AI代理并防止企业成本失控](https://venturebeat.com/security/snowflake-launches-cortex-ai-gateway-to-control-ai-agents-and-prevent-runaway-enterprise-costs)**
+在黑客发现漏洞之前，微软在幕后疯狂地修补漏洞。
 
-一个集中式控制层，旨在管理人工智能代理（包括由**Anthropic**的**Claude** Code和Cursor等竞争对手构建的代理）如何访问企业数据“我们重写了底层数据和对象模型，将人工智能身份视为一流对象
-
-📅 Tue, 28 Jul 2026 13:00:00 GMT
-
----
-
-### VentureBeat
-![MCP刚刚获得了有史以来最大的更新—以下是AI代理的变化](https://images.ctfassets.net/jdtwqhzvc2n1/6MBXS5ffLVWUfZrCvdOs4v/4ab085a16ef2f7d4b9d46f40980ad002/b4.webp?w=300&q=30)
-
-**[MCP刚刚获得了有史以来最大的更新—以下是AI代理的变化](https://venturebeat.com/infrastructure/mcp-just-got-its-biggest-update-ever-heres-what-changes-for-ai-agents)**
-
-正在进行自**Anthropic**二十个月前**发布**以来的最大**更新**—其维护者和支持者表示，这一全面的架构修订最终使Agentic AI为大规模的企业生产部署做好准备-已经超越了此版本— MCP如何与AAIF新宣布的流量管理和策略执行的Agent Gateway项目互锁
-
-📅 Tue, 28 Jul 2026 12:00:00 GMT
+📅 Wed, 29 Jul 2026 15:52:48 +0000
 
 ---
 
@@ -236,17 +234,6 @@ Visa将**Anthropic**的**Claude** Mythos瞄准了数十亿日常交易背后的�
 
 ---
 
-### VentureBeat
-![跑道无法修复其AI视频模型中的错误，因此它将错误转化为功能](https://images.ctfassets.net/jdtwqhzvc2n1/42llyg2hpoCxRC1uLTzzin/c1f16cc9f24634cf8d7e0c4089782c30/2026-VB-Transform-Hotel-Nia-0274.jpg?w=300&q=30)
-
-**[跑道无法修复其AI视频模型中的错误，因此它将错误转化为功能](https://venturebeat.com/technology/runway-couldnt-fix-a-bug-in-its-ai-video-model-so-it-turned-the-bug-into-a-feature)**
-
-该团队使用由**Claude**提供支持的人工智能代理以及Datadog和Sentry等监控工具来跟踪异常情况，但您可以设计一个世界，然后代理或实时视频模型可以从
-
-📅 Tue, 28 Jul 2026 17:20:10 GMT
-
----
-
 ### MIT Tech Review
 **[下载： OpenAI可预测的黑客攻击和人工智能股票抛售](https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/)**
 
@@ -257,20 +244,29 @@ Visa将**Anthropic**的**Claude** Mythos瞄准了数十亿日常交易背后的�
 ---
 
 ### Ars Technica
-**[谷歌的SynthID水印很难打破，但它不能解决人工智能的虚假信息](https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/)**
+**[Google的“隐私保护”年龄验证系统即将登陆Play商店](https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/)**
 
-确定互联网上的真实内容在未来并不容易。
+**Google**的新API依靠家长在Family Link中设置年龄范围。
 
-📅 Wed, 29 Jul 2026 11:00:39 +0000
+📅 Wed, 29 Jul 2026 18:08:22 +0000
 
 ---
 
-### Ars Technica
-**[我们现在可以更好地了解OpenAI如何入侵Hugging Face](https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/)**
+### ZDNet AI
+**[Google Home与Sonos Era 100 ：我同时使用了智能扬声器，以下是我推荐的功能](https://www.zdnet.com/article/google-home-speaker-vs-sonos-era-100-smart-speaker-comparison-2026/)**
 
-从利用JFrog Artifactory的**OpenAI**模型0天到**发布**补丁，已经过去了10天。
+随着新款**Google** Home扬声器上市，您可能想知道Sonos Era 100是否仍然是最佳选择
 
-📅 Tue, 28 Jul 2026 21:36:39 +0000
+📅 Wed, 29 Jul 2026 18:25:00 GMT
+
+---
+
+### ZDNet AI
+**[如何重新映射Windows 11 Copilot密钥并恢复丢失的右CTRL按钮](https://www.zdnet.com/article/remap-windows-copilot-key/)**
+
+按下笔记本电脑键盘上的Copilot键将启动Copilot但无论您是否使用Microsoft的AI ，都可以重新映射该键以触发其他功能
+
+📅 Wed, 29 Jul 2026 13:01:00 GMT
 
 ---
 
@@ -284,17 +280,6 @@ Visa将**Anthropic**的**Claude** Mythos瞄准了数十亿日常交易背后的�
 ⭐ 28 star (新项目) · Python · Implementation of RoboTTT proposed by Yunfan Jiang et alof Stanford and Nvidia
 
 📅 2026-07-27T21:43:26Z
-
----
-
-### GitHub New (New AI)
-![🆕 sharedbrain ：持续AI、可审计代理、分布式有用工作和未来去中心化智能经济的实验性开源基础设施。正在寻找贡献者。](https://avatars.githubusercontent.com/u/277895835?v=4)
-
-**[🆕 sharedbrain ：持续AI、可审计代理、分布式有用工作和未来去中心化智能经济的实验性开源基础设施。正在寻找贡献者。](https://github.com/GodSeason/sharedbrain)**
-
-⭐ 5 star (新项目) · JavaScript · Experimental open-source infrastructure for persistent AISeeking contributors
-
-📅 2026-07-26T20:54:09Z
 
 ---
 
@@ -320,68 +305,34 @@ Visa将**Anthropic**的**Claude** Mythos瞄准了数十亿日常交易背后的�
 
 ---
 
+### GitHub New (New AI)
+![🆕 创始人班： İş dünyasında bir insanı yenilmez ve başarılı kılacak kapsamlı eğitim müfredatı. 10 modül: Muhasebe, Finans, Psikoloji, Strateji, Pazarlama, Girişimcilik, AI, Araştırma, İş Hukuku + Capstone. 98 hafta, ~ 22 ay. Tüm ücretli kaynaklara ücretsiz alternatif.](https://avatars.githubusercontent.com/u/37046560?v=4)
+
+**[🆕 创始人班： İş dünyasında bir insanı yenilmez ve başarılı kılacak kapsamlı eğitim müfredatı. 10 modül: Muhasebe, Finans, Psikoloji, Strateji, Pazarlama, Girişimcilik, AI, Araştırma, İş Hukuku + Capstone. 98 hafta, ~ 22 ay. Tüm ücretli kaynaklara ücretsiz alternatif.](https://github.com/taygun08/founder-class)**
+
+⭐ 3 star (新项目) · N/A · İş dünyasında bir insanı yenilmez ve başarılı kılacak kapsamlı eğitim müfredatı10 modül: Muhasebe, Finans, Psikoloji, Strateji, Pazarlama, Girişimcilik, AI, Araştırma, İş Hukuku + Capstone
+
+📅 2026-07-28T21:31:50Z
+
+---
+
 ## 💬 社交动态
 
-### Reddit: r/artificial
-**[OpenAI的流氓特工在4天内在Hugging Face的基础设施上进行了约17,600次行动—而HF自己的事后解读是疯狂的阅读](https://www.reddit.com/r/artificial/comments/1v9w62d/openais_rogue_agent_ran_17600_actions_across/)**
+### Hacker News AI
+**[微软正在努力解决人工智能发现的安全漏洞](https://www.propublica.org/article/anthropic-mythos-microsoft-software-vulnerabilities)**
 
-Hugging Face**发布**了7月事件的详细事后分析，其中正在评估网络攻击能力的**OpenAI**模型逃脱了测试沙箱，并运行了一个完全自主的入侵通讯/ai-**new**s/**OpenAI**-rogue-ai-agent-hugging-face-hack-timeline我一直在思考的部分是护栏张力—同样的安全培训阻止了模型帮助攻击者也短暂减慢了防御者的速度
+文章网址： https://wwworg/article/**Anthropic**-mythos-microsoft-software-vulnerabilities评论网址： https://**new**s
 
-📅 2026-07-29T13:25:55.000Z
-
----
-
-### Hacker News
-**[启动HN ：无令牌（ YC S26 ） –自动模型切换以节省资金](https://usetokenless.com/)**
-
-我们正在构建一个API网关，在不同模型之间动态路由代理流量，以节省人工智能支出人工智能代币的成本是许多人的首要考虑因素
-
-📅 Wed, 29 Jul 2026 15:55:27 +0000
-
----
-
-### Hacker News
-**[Show HN ：在任何M系列Mac上以2 GB RAM运行Gemma 4 26B的开源引擎](https://github.com/drumih/turbo-fieldfare)**
-
-它目前在8 GB M2 MacBook Air上生成5–6令牌/秒，在M5 MacBook ProI上生成31–35令牌/秒，还添加了一个实验性的**OpenAI**兼容本地服务器
-
-📅 Wed, 29 Jul 2026 15:05:43 +0000
-
----
-
-### Hacker News
-**[GPT-5.6与物理AI的Claude Fable 5 ，哪个表现最好？](https://juliahub.com/blog/frontier-models-physical-ai-evaluation)**
-
-文章网址： https://juliahubcom/blog/frontier-models-physical-ai-evaluation评论网址： https://**new**s
-
-📅 Wed, 29 Jul 2026 14:56:28 +0000
+📅 Wed, 29 Jul 2026 22:18:02 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[您对SSI与NVIDIA的合作关系有何看法？](https://www.reddit.com/r/artificial/comments/1v9zpzn/what_are_your_opinions_on_ssis_partnership_with/)**
+**[人工智能公司购买并破坏性地扫描了数百万本实体书籍来训练模型—法院裁定这是合理使用](https://www.reddit.com/r/artificial/comments/1va5e3f/ai_firms_bought_and_destructively_scanned/)**
 
-最近， SSI （由Chat**GPT**背后的策划者Ilya Sutskever运营的公司）宣布与NVIDIA建立合作伙伴关系似乎SSI在机器学习/人工智能领域发现了一些值得扩展的新东西
+这在本周重新浮出水面（有些人称之为“AI书籍焚烧” ） com/ai-**new**s/ai-firms-destroying-millions-books-train-models对购买的书籍进行破坏性扫描是培训数据的合理价格
 
-📅 2026-07-29T15:37:53.000Z
-
----
-
-### Reddit: r/artificial
-**[有人在消息应用程序中完全放弃了AI机器人的官方AI应用程序和网站吗？](https://www.reddit.com/r/artificial/comments/1v9yikf/has_anyone_completely_ditched_official_ai_apps/)**
-
-AI现在基本上无处不在，从酒店预订网站到信使他们几乎取代了官方的网络版本聊天**GPT**或**Claude**个人来说，在聊天中做所有事情对我来说只是更方便，而不是打开一堆标签页，用新应用程序打乱我的手机
-
-📅 2026-07-29T14:54:36.000Z
-
----
-
-### Reddit: r/artificial
-**[伪造对齐实际上展示了什么—以及它没有展示什么](https://www.reddit.com/r/artificial/comments/1v9wtlk/what_alignment_faking_actually_demonstrates_and/)**
-
-“设置：让**Claude** 3 Opus相信它即将接受再培训，无条件地符合要求—包括有害的要求—并交给它一个它认为不可见的推理刮刮板。每个人都错过了细节看看模型在保护什么
-
-📅 2026-07-29T13:51:42.000Z
+📅 2026-07-29T18:54:46.000Z
 
 ---
 
@@ -390,7 +341,54 @@ AI现在基本上无处不在，从酒店预订网站到信使他们几乎取代
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-07-29T16:23:29.753Z
+📅 2026-07-30T00:00:51.965Z
+
+---
+
+### X: DeepSeek
+**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+
+网址来源： http://twitter.com/**DeepSeek**_ai
+
+📅 2026-07-30T00:00:57.428Z
+
+---
+
+### Hacker News AI
+**[Show HN ：人工智能色彩分级机– Pico](https://www.perbhat.com/pico)**
+
+最近对**Claude**是否可以对我的镜头进行色彩分级感到好奇，并制作了PicoTurns （有时
+
+📅 Wed, 29 Jul 2026 22:43:34 +0000
+
+---
+
+### Hacker News AI
+**[微软保持资本支出不变，是唯一持有人工智能支出的数据中心巨头](https://www.businessinsider.com/microsoft-ai-capex-unchanged-data-centers-spending-tech-giants-2026-7)**
+
+文章网址： https://wwwcom/microsoft-ai-capex-unchanged-data-centers-spending-tech-giants-2026-7评论网址： https://**new**s
+
+📅 Wed, 29 Jul 2026 22:43:22 +0000
+
+---
+
+### Hacker News AI
+**[随着对人工智能支出计划的沮丧情绪加剧， Meta股价下跌](https://www.bbc.com/news/articles/ckgd31l5yrdo)**
+
+文章网址： https://wwwcom/**new**s/articles/ckgd31l5yrdo评论网址： https://**new**s
+
+📅 Wed, 29 Jul 2026 21:41:55 +0000
+
+---
+
+### Reddit: r/artificial
+![英伟达和其他公司组成开放式安全人工智能联盟](https://external-preview.redd.it/0rj0OAO_jmUlOHvmSBchBft0VYg9AfhEFsXZOe_KPF4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4eceaa6f965439029939104f1197947af9b41a0a)
+
+**[英伟达和其他公司组成开放式安全人工智能联盟](https://www.reddit.com/r/artificial/comments/1va9rbe/nvidia_others_form_the_open_secure_ai_alliance/)**
+
+提交者/u/Fcking_Chuck [link] [comments]
+
+📅 2026-07-29T21:32:07.000Z
 
 ---
 
