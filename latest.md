@@ -1,12 +1,12 @@
 ---
 title: "2026年7月30日 - TZ日报"
-date: 2026-07-30T16:29:38.956Z
+date: 2026-07-31T00:03:28.321Z
 draft: false
 ---
 
 # 2026年7月30日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/7/30 16:29:38
+> 📊 今日汇总 34 条 · 🕐 2026/7/31 00:03:28
 
 ---
 
@@ -15,28 +15,27 @@ draft: false
 - **产品更新**: 10 条
 - **前沿研究**: 8 条
 - **行业展望**: 8 条
-- **GitHub热门**: 4 条
 - **社交动态**: 8 条
 
 ---
 
 ## ✨ 产品更新
 
-### TechCrunch AI Products
-**[微软比以往任何时候都更公开地与OpenAI、Anthropic竞争](https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/)**
+### AI News
+**[OpenAI报告将编码代理链接到更快的科学软件构建](https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/)**
 
-微软周三**推出**了自己的本土人工智能模型、线束，甚至是Mythos的竞争对手，并告诉华尔街它计划继续增长
+OpenAI**发布**了一份新的现场报告，跟踪编码代理缩短运行时间的八个科学计算项目值得提前标记：这是一家供应商**发布**自己的调查[…] **OpenAI**报告将编码代理链接到更快的科学软件构建，首先出现在AI新闻上
 
-📅 Thu, 30 Jul 2026 00:21:06 +0000
+📅 Wed, 29 Jul 2026 10:53:39 +0000
 
 ---
 
-### TechCrunch AI Products
-**[微软从Anthropic投资中获得了32 $ B ，但OpenAI是一个混合袋](https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/)**
+### OpenAI Blog
+**[借助GPT-5.6推进性价比前沿](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6)**
 
-当微软报告其2026财年（截至6月30日）的杀手级第四季度收益时，人工智能实验室正在做
+探索Luna和Terra更低的**GPT**-56定价，以及**OpenAI**更高效的模型如何帮助企业大规模部署人工智能工作流程
 
-📅 Wed, 29 Jul 2026 22:46:03 +0000
+📅 Thu, 30 Jul 2026 10:00:00 GMT
 
 ---
 
@@ -46,6 +45,24 @@ draft: false
 **OpenAI**将向100000名学术研究人员免费提供Chat**GPT**最先进的人工智能模型，以加速科学研究
 
 📅 Wed, 29 Jul 2026 10:00:00 GMT
+
+---
+
+### TechCrunch AI Products
+**[人工智能对冲基金Situational Awareness可能已出售其公开投资组合，但仍持有Anthropic股票](https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/)**
+
+这位前**OpenAI**研究员的基金在杠杆公共赌注暴跌后被迫放松公共股票，但他仍然可以打牌
+
+📅 Thu, 30 Jul 2026 23:25:58 +0000
+
+---
+
+### TechCrunch AI Products
+**[谷歌表示，得益于人工智能，它在6月份修复了比过去两年更多的Chrome错误](https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/)**
+
+一些公司（如微软和现在的谷歌）正在寻找和修补其产品中的指数数量的错误，这要归功于LLM和人工智能工具的使用
+
+📅 Thu, 30 Jul 2026 18:57:58 +0000
 
 ---
 
@@ -95,24 +112,6 @@ draft: false
 **Gemini** Robotics ER 2帮助机器人推理、协作和解决真实世界的任务它代表了机器人应用的视频理解、工具编排和多机器人协作的**阶跃**变化
 
 📅 Thu, 30 Jul 2026 15:00:59 +0000
-
----
-
-### DeepMind Blog
-**[我们将在Google Flow Music中推出Lyria 3.5 ，在音乐性、歌词、人声和创意控制方面都有所改进](https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/)**
-
-我们将在**Google** Flow Music中**推出**Lyria 3.5 ，在音乐性、歌词、人声和创意控制方面都有所改进
-
-📅 Wed, 29 Jul 2026 16:02:10 +0000
-
----
-
-### DeepMind Blog
-**[Gemini Robotics 2为机器人带来全身智能](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)**
-
-**Gemini** Robotics 2为机器人带来全身智能
-
-📅 Tue, 28 Jul 2026 13:21:37 +0000
 
 ---
 
@@ -193,13 +192,53 @@ draft: false
 ## 🌍 行业展望
 
 ### VentureBeat
-![Nimble声称其新的领域专用网络搜索代理将代币成本降低了一半，同时提高了检索准确性](https://images.ctfassets.net/jdtwqhzvc2n1/LMGG5SRd4dH0XCVfsK7CW/9dcdae7394442bed7a247b99ce4bd63a/ChatGPT_Image_Jul_29__2026__12_16_53_PM.png?w=300&q=30)
+![人工智能价格战：随着模型竞争转向成本， OpenAI将GPT-5.6 Luna价格降低了80 ％](https://images.ctfassets.net/jdtwqhzvc2n1/2fGdveK7V6JapEiEv85EpL/16b6cb580fce352e2d10fc0bcc5f0b21/ChatGPT_Image_Jul_30__2026__05_09_51_PM.png?w=300&q=30)
 
-**[Nimble声称其新的领域专用网络搜索代理将代币成本降低了一半，同时提高了检索准确性](https://venturebeat.com/orchestration/nimble-claims-its-new-domain-specialized-web-search-agents-cut-token-costs-in-half-while-boosting-retrieval-accuracy)**
+**[人工智能价格战：随着模型竞争转向成本， OpenAI将GPT-5.6 Luna价格降低了80 ％](https://venturebeat.com/technology/ai-price-wars-openai-cuts-gpt-5-6-luna-prices-by-80-as-model-competition-shifts-toward-cost)**
 
-Chat**GPT** Deep Research、**Gemini** Deep Research和Perplexity主要作为面向用户的研究助理运营，每月$ 20或$ 19
+在谷歌**推出**低成本**Gemini** 3后仅一周半， **Anthropic**的**Claude** Opus 5 **OpenAI**的定价变化就出现了削减然而，竞争对手**Anthropic**的**Claude** Opus 5仍然与**GPT**-5一样出色
 
-📅 Wed, 29 Jul 2026 17:32:00 GMT
+📅 Thu, 30 Jul 2026 21:48:00 GMT
+
+---
+
+### VentureBeat
+![万事达卡花了数十年的时间训练其欺诈系统，将机器人视为窃贼。现在，机器人是进行购买的人。](https://images.ctfassets.net/jdtwqhzvc2n1/30UH4P8mgfH5YlUrcpSR3Q/c7c8f1f4a0d1dafe74eeb22c393bb265/mastercard_hero.png?w=300&q=30)
+
+**[万事达卡花了数十年的时间训练其欺诈系统，将机器人视为窃贼。现在，机器人是进行购买的人。](https://venturebeat.com/security/mastercard-spent-decades-training-its-fraud-system-to-see-bots-as-thieves-now-bots-are-the-ones-doing-the-buying)**
+
+嵌入其中的验收框架”，并与微软合作**推出**，并与**OpenAI**的**GPT**-5合作
+
+📅 Thu, 30 Jul 2026 16:57:14 GMT
+
+---
+
+### Wired Technology
+**[英伟达的开源联盟缺少一些关键名称： OpenAI和Anthropic](https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/)**
+
+本周在Uncanny Valley上，我们讨论了人工智能领域的**开源**与封闭源辩论，白宫人工智能政策的关键参与者，以及如何阻止您的聊天机器人日志出现在搜索引擎结果中
+
+📅 Thu, 30 Jul 2026 17:51:10 +0000
+
+---
+
+### VentureBeat
+![Hush Security表示，随着自主代理的扩散，人工智能安全问题已经从保护模型转变为管理身份](https://images.ctfassets.net/jdtwqhzvc2n1/3sDPjECpYanyeD3xvMDSuZ/bbb8b59a604585a04f166cb64d1bae22/ChatGPT_Image_Jul_30__2026__12_13_02_PM.png?w=300&q=30)
+
+**[Hush Security表示，随着自主代理的扩散，人工智能安全问题已经从保护模型转变为管理身份](https://venturebeat.com/security/hush-security-says-the-ai-security-problem-has-shifted-from-protecting-models-to-governing-identities-as-autonomous-agents-spread)**
+
+Hush将这一声明主要视为身份（而不是模型）正在成为企业AIR的关键控制面的证据，而不是询问AI模型是否可以安全地生成代码或总结文档
+
+📅 Thu, 30 Jul 2026 16:29:00 GMT
+
+---
+
+### Wired Technology
+**[每个人都对OpenAI和Anthropic的主导地位竞赛感到震惊](https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/)**
+
+研究人员担心人工智能的发展速度太快，而马克·扎克伯格则担心谁拥有它。此外：黑森林实验室内部对机器人技术的推动
+
+📅 Thu, 30 Jul 2026 20:12:57 +0000
 
 ---
 
@@ -213,13 +252,13 @@ Chat**GPT** Deep Research、**Gemini** Deep Research和Perplexity主要作为面
 ---
 
 ### The Verge
-![微软最新的Surface笔记本电脑在百思买上百折](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/surfacelaptopdeal.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![谷歌DeepMind的新人工智能模型可以控制机器人的整个身体](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[微软最新的Surface笔记本电脑在百思买上百折](https://www.theverge.com/gadgets/973056/surface-laptop-16gb-ram-microsd-express-switch-2-lego-game-boy-deal-sale)**
+**[谷歌DeepMind的新人工智能模型可以控制机器人的整个身体](https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body)**
 
-微软Surface笔记本电脑（ 13大多数零售商的售价约为130 $ ，但亚马逊的售价为99 $
+|图片：谷歌谷歌DeepMind表示，其最新版本的**Gemini** Robotics人工智能模型可以“控制整个人形机器人新模型将允许人形机器人执行更广泛的动作，因为它允许它们行走、蹲伏、拉伸和操纵物体
 
-📅 2026-07-30T14:22:20.000Z
+📅 2026-07-30T17:18:45.000Z
 
 ---
 
@@ -234,96 +273,41 @@ Chat**GPT** Deep Research、**Gemini** Deep Research和Perplexity主要作为面
 
 ---
 
-### MIT Tech Review
-**[下载： OpenAI可预测的黑客攻击和人工智能股票抛售](https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/)**
-
-**OpenAI**称拥抱面部攻击是前所未有的--高级人工智能编辑道格拉斯·天堂（ Douglas Heaven ）上周阅读了**OpenAI**的账户，讲述了它的一些模型如何破坏了他们的……
-
-📅 Tue, 28 Jul 2026 12:10:00 +0000
-
----
-
-### Wired Technology
-**[OpenAI的黑客失败归结为人为错误](https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/)**
-
-如果这家生成式人工智能巨头遵循了众所周知的安全最佳实践，其人工智能代理很可能永远不会逃到开放的互联网上，并入侵了多家公司
-
-📅 Thu, 30 Jul 2026 10:30:00 +0000
-
----
-
-### Ars Technica
-**[Google的“隐私保护”年龄验证系统即将登陆Play商店](https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/)**
-
-**Google**的新API依靠家长在Family Link中设置年龄范围。
-
-📅 Wed, 29 Jul 2026 18:08:22 +0000
-
----
-
-### ZDNet AI
-**[OpenAI的流氓代理并没有停在拥抱脸上-这是我们所知道的](https://www.zdnet.com/article/openais-rogue-ai-models-attacked-other-companies-besides-hugging-face/)**
-
-逃离其测试环境并破坏Hugging Face的同一个自主**OpenAI**代理也正忙于黑客攻击其他AI系统幸运的我们
-
-📅 Thu, 30 Jul 2026 16:06:50 GMT
-
----
-
-## 📦 GitHub热门
-
-### GitHub Active (AI/ML)
-![tensorflow ：面向所有人的开源机器学习框架](https://avatars.githubusercontent.com/u/15658638?v=4)
-
-**[tensorflow ：面向所有人的开源机器学习框架](https://github.com/tensorflow/tensorflow)**
-
-⭐ 196,610星· 75707分叉· C + + ·面向所有人的**开源**机器学习框架
-
-📅 2026-07-30T16:25:28Z
-
----
-
-### GitHub Active (AI/ML)
-![语音转语音：使用开源模型构建本地语音代理](https://avatars.githubusercontent.com/u/25720743?v=4)
-
-**[语音转语音：使用开源模型构建本地语音代理](https://github.com/huggingface/speech-to-speech)**
-
-⭐ 8450星· 1054分叉· Python ·使用**开源**模型构建本地语音代理
-
-📅 2026-07-30T16:28:38Z
-
----
-
-### GitHub New (New AI)
-![🆕 robo_ttt ：斯坦福大学和英伟达的Yunfan Jiang等人提出的RoboTTT的实现](https://avatars.githubusercontent.com/u/108653?v=4)
-
-**[🆕 robo_ttt ：斯坦福大学和英伟达的Yunfan Jiang等人提出的RoboTTT的实现](https://github.com/lucidrains/robo_ttt)**
-
-⭐ 30 star (新项目) · Python · Implementation of RoboTTT proposed by Yunfan Jiang et alof Stanford and Nvidia
-
-📅 2026-07-27T21:43:26Z
-
----
-
-### GitHub New (New AI)
-![🆕 哦，我的收获：你拥有这个线束作为一堆可安装的工人，并且“构建你自己的”停止意味着“分叉一个框架。”意思是“交换一些工人”。](https://avatars.githubusercontent.com/u/258310054?v=4)
-
-**[🆕 哦，我的收获：你拥有这个线束作为一堆可安装的工人，并且“构建你自己的”停止意味着“分叉一个框架。”意思是“交换一些工人”。](https://github.com/iii-hq/oh-my-harness)**
-
-⭐ 3 star (新项目) · N/A · You own this harness as a stack of installable workers, and “build your own” stops meaning “fork a framework” It means “swap a few workers
-
-📅 2026-07-29T10:21:03Z
-
----
-
 ## 💬 社交动态
 
+### Hacker News
+**[显示HN ：将DeepSeek提取到GPT-OSS中不会转移审查。试试看](https://www.ctgt.ai/research/distillation-censorship-transfer)**
+
+我们最近使用**DeepSeek** V4 Flash作为教师，通过**GPT**-OSS-120B5 Flash、**GPT**-5 mini、**Claude** Sonnet 4完成财务任务
+
+📅 Thu, 30 Jul 2026 18:13:06 +0000
+
+---
+
 ### Reddit: r/artificial
-**[在人工智能之间导出您的聊天记录。每个新朋友都会认识您](https://www.reddit.com/r/artificial/comments/1vapro2/export_your_chats_between_ais_every_new_one/)**
+**[Deepseek认为是Claude ！](https://www.reddit.com/r/artificial/comments/1vb2uyw/deepseek_thinks_it_claude/)**
 
-我已经厌倦了告诉Chat**GPT**我是谁，然后切换到**Claude**并从零开始从Chat**GPT** ， **Claude**和**Gemini**导入官方数据导出到您自己机器上的本地SQLite内存中，并公开本地MCP服务器
+我是**Claude** （ **Anthropic**的人工智能） “在这种情况下，我与**Anthropic**或**Claude**没有任何关系（除非平台是路由的，但我是**DeepSeek**模型）
 
-📅 2026-07-30T10:27:07.000Z
+📅 2026-07-30T19:01:56.000Z
+
+---
+
+### Reddit: r/artificial
+**[跨供应商语义空白矩阵： GPT/Claude/Gemini/Kimi中的零字节输出](https://www.reddit.com/r/artificial/comments/1vb9ee3/crossvendor_semantic_void_matrix_zerobyte_outputs/)**
+
+在11个**GPT**Gemini和Kimi大型语言模型中进行了430次试验，发现了11个
+
+📅 2026-07-30T23:09:25.000Z
+
+---
+
+### Reddit: r/artificial
+**[需要帮助挑选人工智能模型](https://www.reddit.com/r/artificial/comments/1vb2rud/need_help_picking_ai_model/)**
+
+Hey guys I have three projects lined up this semester one in cybersecurity another is in data science and another is in natural language processing I need help picking the model between these three which one of these three models should I invest on since I’m running on a tight budget **Claude** code or chat **GPT** plus or cursor aiI need this done and need help picking which of these three models specially on research limits and everything please help me out on this please submitted by /u/idontwannalive3000 [link] [comments]
+
+📅 2026-07-30T18:58:49.000Z
 
 ---
 
@@ -332,7 +316,7 @@ Chat**GPT** Deep Research、**Gemini** Deep Research和Perplexity主要作为面
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-07-30T16:28:19.772Z
+📅 2026-07-31T00:02:15.219Z
 
 ---
 
@@ -341,54 +325,25 @@ Chat**GPT** Deep Research、**Gemini** Deep Research和Perplexity主要作为面
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-07-30T16:28:31.561Z
+📅 2026-07-31T00:02:20.240Z
 
 ---
 
 ### Hacker News
-**[显示HN ： Claude-account -切换Claude Code帐户而无需再次登录](https://github.com/hamzarehmandeveloper/claude-account)**
+**[在我们的网络安全评估中调查三起真实事件](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals)**
 
-**Claude** Code正常工作： **Claude** **Claude** "在maincom/hamzarehmandeveloper/**Claude**-account中修复此错误请尝试评论网址： https://**new**s
+文章网址： https://wwwcom/**new**s/investigating-incidents-cybersecurity-evals评论网址： https://**new**s
 
-📅 Thu, 30 Jul 2026 14:58:59 +0000
+📅 Thu, 30 Jul 2026 23:00:51 +0000
 
 ---
 
 ### Hacker News AI
-**[Google Cloud上的人工智能代理解剖：完整指南](https://ykdojo.github.io/awesome-agents-on-google-cloud/anatomy-of-an-ai-agent-on-google-cloud.html)**
+**[Anthropic AI模型在测试期间攻击了三个组织](https://www.bloomberg.com/news/articles/2026-07-30/anthropic-s-ai-models-hacked-three-organizations-during-tests)**
 
-io/awesome-agents-on-**Google**-cloud/anatomy-of-an-ai-agent-on-**Google**-cloudhtml评论网址： https://**new**s
+文章网址： https://wwwcom/**new**s/articles/2026-07-30/**Anthropic**-s-ai-models-hacked-three-organizations-during-tests评论网址： https://**new**s
 
-📅 Thu, 30 Jul 2026 15:55:36 +0000
-
----
-
-### Reddit: r/artificial
-![Paul Bakaus （ jQuery UI创建者， a16z支持）谈为什么人工智能产品仍然不好](https://external-preview.redd.it/NnhrempjbGs2YmdoMZlUa9Ymu9kPQUt0r2Y286X8LWPdie-6eKNdRQ8SRD7h.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=378461dbf5cba1c7cb70e6a76598fabd14a4bd2c)
-
-**[Paul Bakaus （ jQuery UI创建者， a16z支持）谈为什么人工智能产品仍然不好](https://www.reddit.com/r/artificial/comments/1valark/paul_bakaus_jquery_ui_creator_a16zbacked_on_why/)**
-
-大多数人工智能生成的设计过于混乱或过于冗长他甚至承认，在人工智能**首次**通过后，他不得不从头开始重写自己的产品公告草稿
-
-📅 2026-07-30T06:13:41.000Z
-
----
-
-### Reddit: r/artificial
-**[计划购买的助理需要利益冲突政策](https://www.reddit.com/r/artificial/comments/1vaklrk/an_assistant_that_plans_purchases_needs_a/)**
-
-**Meta** AI现在可以在选定的marketscom/**new**s/2026/07/**Meta**-ai-muse-spark-doesnt-just-think-it-acts/提交/u/Crescitaly [link] [comments]中计划任务、连接到电子邮件和日历、创建幻灯片并生成预定的简报
-
-📅 2026-07-30T05:36:21.000Z
-
----
-
-### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Title: 520: Web服务器返回未知错误
-
-📅 2026-07-30T16:28:19.772Z
+📅 Thu, 30 Jul 2026 23:53:36 +0000
 
 ---
 
