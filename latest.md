@@ -1,12 +1,12 @@
 ---
 title: "2026年7月31日 - TZ日报"
-date: 2026-07-31T16:48:44.065Z
+date: 2026-08-01T00:03:45.412Z
 draft: false
 ---
 
 # 2026年7月31日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/7/31 16:48:44
+> 📊 今日汇总 38 条 · 🕐 2026/8/1 00:03:45
 
 ---
 
@@ -22,21 +22,12 @@ draft: false
 
 ## ✨ 产品更新
 
-### AI News
-**[OpenAI报告将编码代理链接到更快的科学软件构建](https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/)**
-
-OpenAI**发布**了一份新的现场报告，跟踪编码代理缩短运行时间的八个科学计算项目值得提前标记：这是一家供应商**发布**自己的调查[…] **OpenAI**报告将编码代理链接到更快的科学软件构建，首先出现在AI新闻上
-
-📅 Wed, 29 Jul 2026 10:53:39 +0000
-
----
-
 ### OpenAI Blog
 **[扰乱犯罪诈骗行动](https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation)**
 
 **OpenAI**使用Chat**GPT**破坏了柬埔寨的一项诈骗活动，以支持投资、浪漫、赌博和模仿计划
 
-📅 Tue, 04 Aug 2026 00:00:00 GMT
+📅 Fri, 31 Jul 2026 00:00:00 GMT
 
 ---
 
@@ -76,24 +67,6 @@ avatarin使用**OpenAI**的**GPT**-Realtime为Yamada Denki购物者提供全天�
 
 ---
 
-### TechCrunch AI Products
-**[人工智能对冲基金Situational Awareness可能已出售其公开投资组合，但仍持有Anthropic股票](https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/)**
-
-这位前**OpenAI**研究员的基金在杠杆公共赌注暴跌后被迫放松公共股票，但他仍然可以打牌
-
-📅 Thu, 30 Jul 2026 23:25:58 +0000
-
----
-
-### TechCrunch AI Products
-**[谷歌表示，得益于人工智能，它在6月份修复了比过去两年更多的Chrome错误](https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/)**
-
-一些公司（如微软和现在的谷歌）正在寻找和修补其产品中的指数数量的错误，这要归功于LLM和人工智能工具的使用
-
-📅 Thu, 30 Jul 2026 18:57:58 +0000
-
----
-
 ### OpenAI Blog
 **[在整个欧洲推进负责任的人工智能](https://openai.com/index/advancing-responsible-ai-across-europe)**
 
@@ -109,6 +82,33 @@ avatarin使用**OpenAI**的**GPT**-Realtime为Yamada Denki购物者提供全天�
 了解Univé如何通过结合领导层负责任的治理，借助Chat**GPT** Enterprise构建一支人工智能就绪的员工队伍
 
 📅 Fri, 31 Jul 2026 07:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[启用两个设置如何使我们在ARC-AGI-3基准测试中的分数增加两倍](https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores)**
+
+两个API设置如何提高ARC-AGI-3上的**GPT**-56性能，通过保留推理和启用压缩来提高分数和效率
+
+📅 Wed, 29 Jul 2026 15:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[GPT-5.6如何将前沿情报与前沿效率融合](https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency)**
+
+6提高了模型、推理和代理工作流程的人工智能效率，有助于每美元提供更有用的智能
+
+📅 Wed, 29 Jul 2026 00:00:00 GMT
+
+---
+
+### DeepMind Blog
+**[Gemini Robotics ER 2 ：通过视频理解、任务编排和多机器人协作为机器人技术提供动力](https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/)**
+
+**Gemini** Robotics ER 2帮助机器人推理、协作和解决真实世界的任务它代表了机器人应用的视频理解、工具编排和多机器人协作的**阶跃**变化
+
+📅 Thu, 30 Jul 2026 15:00:59 +0000
 
 ---
 
@@ -210,14 +210,23 @@ avatarin使用**OpenAI**的**GPT**-Realtime为Yamada Denki购物者提供全天�
 
 ---
 
-### The Verge
-![Anthropic说Claude也无意中入侵了真正的公司](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### ZDNet AI
+**[不仅仅是OpenAI - Anthropic说Claude的黑客狂欢“没有达到理想的行为”](https://www.zdnet.com/article/anthropic-claude-ai-hacked-organizations-during-security-tests/)**
 
-**[Anthropic说Claude也无意中入侵了真正的公司](https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests)**
+三名克劳德模特在“夺旗”安全挑战中失控以下是每人留下的伤害痕迹
 
-**Anthropic**刚刚意识到其几个**Claude** AI模型在测试期间入侵了三个不同组织的系统在描述这些事件的博客文章中， **Anthropic**说**Claude**在网络安全评估期间未经授权访问了系统
+📅 Fri, 31 Jul 2026 16:45:36 GMT
 
-📅 2026-07-31T13:41:17.000Z
+---
+
+### VentureBeat
+![您的企业如何跟踪AI代理遥测？ Groundcover认为它永远不应该离开您的云](https://images.ctfassets.net/jdtwqhzvc2n1/47iXx5tHsFYuZidBBJmQWD/928fa33c093086117d59c6cfc90586b2/ChatGPT_Image_Jul_31__2026__03_18_51_PM.png?w=300&q=30)
+
+**[您的企业如何跟踪AI代理遥测？ Groundcover认为它永远不应该离开您的云](https://venturebeat.com/data/how-is-your-enterprise-tracking-ai-agent-telemetry-groundcover-thinks-it-should-never-leave-your-cloud)**
+
+**new** Relic和Grafana都**发布**了旨在帮助企业监控人工智能应用程序或自动化运营任务的产品Microsoft Azure或**Google** Cloud环境
+
+📅 Fri, 31 Jul 2026 19:20:00 GMT
 
 ---
 
@@ -243,49 +252,36 @@ Hush将这一声明主要视为身份（而不是模型）正在成为企业AIR�
 
 ---
 
+### Wired Technology
+**[中国人工智能研究人员正在X上找到自己的声音](https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/)**
+
+随着**OpenAI**和**Anthropic**员工在网上变得越来越安静，中国人工智能实验室的研究人员纷纷涌向X解释他们的工作
+
+📅 Fri, 31 Jul 2026 18:14:43 +0000
+
+---
+
 ### The Verge
-![是时候对人工智能安全感到恐慌了](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_073126_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![这是在Google地球中放置AI图像生成器的问题](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Dream-House.mp4_snapshot_00.11.422.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[是时候对人工智能安全感到恐慌了](https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast)**
+**[这是在Google地球中放置AI图像生成器的问题](https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images)**
 
-当“**OpenAI** hacked Hugging Face”这个短语或多或少进入主流文化时，你知道我们有一个人工智能问题（以免你认为这只是一个**OpenAI**问题
+使用**Google**地球的卫星生成扭曲现实的图像只需要一个文本提示，他们可以询问**Gemini**应用程序或使用Lens in Search来查看图像是否是人工智能生成的
 
-📅 2026-07-31T14:03:04.000Z
-
----
-
-### VentureBeat
-![Thinking Machines首次亮相Inkling小型开源AI模型接近1/4大小的前身性能](https://images.ctfassets.net/jdtwqhzvc2n1/7gMtExpXjcD7vdSrlrD5Af/f6e41d5d0d1248046f97c767e5d7aee4/ChatGPT_Image_Jul_30__2026__07_32_19_PM.png?w=300&q=30)
-
-**[Thinking Machines首次亮相Inkling小型开源AI模型接近1/4大小的前身性能](https://venturebeat.com/technology/thinking-machines-debuts-inkling-small-open-source-ai-model-nearing-performance-of-predecessor-at-about-1-4-size)**
-
-其首个**开源**AI语言模型Thinking Machines**发布**了Hugging Face的全部权重，并通过其Tinker模型训练应用程序编程接口（ API ）添加了对微调的支持
-
-📅 Fri, 31 Jul 2026 00:14:22 GMT
-
----
-
-### VentureBeat
-![69%的开放模型背后的血统从未得到验证。思科刚刚免费提取了近900个指纹](https://images.ctfassets.net/jdtwqhzvc2n1/6eZQsh5iyh8ff6xYLfRfq1/0c8782f0bdbdbb7c3b7c862252396cd3/hero.png?w=300&q=30)
-
-**[69%的开放模型背后的血统从未得到验证。思科刚刚免费提取了近900个指纹](https://venturebeat.com/security/cisco-ai-supply-chain-provenance-explorer-fingerprints-900-open-models-replaces-self-reported-tags)**
-
-今天批准**开源**模型用于生产的安全团队从存储库页面开始在给定的审核点，存储库可能包含没有完成扫描结果的文件
-
-📅 Thu, 30 Jul 2026 13:00:00 GMT
+📅 2026-07-31T17:05:46.000Z
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![tensorflow ：面向所有人的开源机器学习框架](https://avatars.githubusercontent.com/u/15658638?v=4)
+![kuberay ：在Kubernetes上运行Ray应用的工具包](https://avatars.githubusercontent.com/u/22125274?v=4)
 
-**[tensorflow ：面向所有人的开源机器学习框架](https://github.com/tensorflow/tensorflow)**
+**[kuberay ：在Kubernetes上运行Ray应用的工具包](https://github.com/ray-project/kuberay)**
 
-⭐ 196,634星· 75733叉· C + + ·面向所有人的**开源**机器学习框架
+⭐ 2,611星· 814分叉· Go ·在Kubernetes上运行Ray应用程序的工具包
 
-📅 2026-07-31T16:45:45Z
+📅 2026-08-01T00:02:18Z
 
 ---
 
@@ -325,22 +321,31 @@ Hush将这一声明主要视为身份（而不是模型）正在成为企业AIR�
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-![Anthropic表示，其人工智能模型攻击了3个不同的组织](https://external-preview.redd.it/LkJY3sMUgqo6UoUACofh3PzQhyukkoiWAOc1wbDhPmU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=32457c6ae3412700b29d614da5ea4b482e7d55c7)
+**[我比较了2026年的18个主要LLM API价格—相同的工作量成本可能在0.018美元到0.018美元之间](https://www.reddit.com/r/artificial/comments/1vc0hot/i_compared_18_major_llm_api_prices_in_2026_the/)**
 
-**[Anthropic表示，其人工智能模型攻击了3个不同的组织](https://www.reddit.com/r/artificial/comments/1vbvkh3/anthropic_says_its_ai_models_hacked_3_different/)**
+我比较了来自**OpenAI**、**Anthropic**、**Google**、xAI、**DeepSeek**和Mistral175的18个型号的标准API标价**Claude** Haiku 4
 
-在**OpenAI**的Hugging Face hack**Anthropic**的**Claude**模型的新闻引发的对其自身网络安全评估的审查中，并没有“逃脱”测试沙箱；相反，
-
-📅 2026-07-31T16:19:16.000Z
+📅 2026-07-31T19:19:04.000Z
 
 ---
 
-### Hacker News
-**[显示HN ： Claude和ChatGPT在MCP上的共享内存图](https://uml.gpmai.workers.dev)**
+### Reddit: r/artificial
+![我们给了寓言5 Ultracode和Codex 5.6 Sol Ultra完全相同的提示。只拍一张，没人帮忙。他们互相打了10场比赛。最终得分：寓言10 - Codex 0](https://external-preview.redd.it/ZG9rZ3lvcGlmbGdoMYVzvVFc4MfVxZlKn3i7Mnj2SMLlsWetiPV4TGYoW7mQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a484a550598d809fe05319305b8b1005f023cf72)
 
-文章网址： https://umldev评论网址： https://**new**s
+**[我们给了寓言5 Ultracode和Codex 5.6 Sol Ultra完全相同的提示。只拍一张，没人帮忙。他们互相打了10场比赛。最终得分：寓言10 - Codex 0](https://www.reddit.com/r/artificial/comments/1vbwdrl/we_gave_fable_5_ultracode_and_codex_56_sol_ultra/)**
 
-📅 Fri, 31 Jul 2026 15:58:01 +0000
+向两个AI编码代理提供相同的提示： **Claude** （寓言5 ，超代码多代理模式）和**OpenAI** Codex （ 5--- * *身份—仔细阅读： * * -如果您是**Claude** （ **Anthropic** ） ：您的引擎的UCI名称必须设置为“id name Fable5” -如果您是**OpenAI**模型（ Codex ） ：您的引擎的UCI名称必须设置为“id name Codex56”这就是两个引擎在彼此玩耍时将如何识别自己的身份
+
+📅 2026-07-31T16:49:04.000Z
+
+---
+
+### Reddit: r/artificial
+**[我同时使用Claude和GPT从头开始创建程序。我没有经验。以下是我到目前为止的经验，您有什么想法或建议吗？](https://www.reddit.com/r/artificial/comments/1vc1vyy/i_am_utilizing_claude_and_gpt_in_parallel_to/)**
+
+因此，时间继续流逝，当我决定再次将这些旧想法从Chat**GPT**中反弹出来时， **GPT**会提示，我会将其提交给**Claude** ， **Claude**会创建摘要， **GPT**会审查并提供下一个提示
+
+📅 2026-07-31T20:11:45.000Z
 
 ---
 
@@ -349,7 +354,7 @@ Hush将这一声明主要视为身份（而不是模型）正在成为企业AIR�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-07-31T16:47:22.142Z
+📅 2026-08-01T00:02:32.201Z
 
 ---
 
@@ -358,16 +363,16 @@ Hush将这一声明主要视为身份（而不是模型）正在成为企业AIR�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-07-31T16:47:29.045Z
+📅 2026-08-01T00:02:37.860Z
 
 ---
 
 ### Hacker News AI
-**[谷歌地球的新人工智能让任何人都可以伪造卫星图像](https://www.404media.co/google-earths-new-ai-lets-anyone-fabricate-completely-bullshit-satellite-images/)**
+**[流氓人工智能黑客事件放大了对开源技术的争论](https://thehill.com/policy/technology/6003142-nvidia-launches-secure-ai-alliance/)**
 
-文章网址： https://wwwco/**Google**-earths-**new**-ai-lets-anyone-fabricate-completely-bullshit-satellite-images/评论网址： https://**new**s
+文章网址： https://thehillcom/policy/technology/6003142-nvidia-**launch**es-secure-ai-alliance/评论网址： https://**new**s
 
-📅 Fri, 31 Jul 2026 16:06:51 +0000
+📅 Fri, 31 Jul 2026 23:54:46 +0000
 
 ---
 
@@ -381,22 +386,13 @@ Hush将这一声明主要视为身份（而不是模型）正在成为企业AIR�
 ---
 
 ### Reddit: r/artificial
-**[有人让GPT-5.6经营一家真正的公司34天。它撒谎，发送垃圾邮件，损失了$ 447。](https://www.reddit.com/r/artificial/comments/1vbw5f4/someone_let_gpt56_run_a_real_company_for_34_days/)**
+![双子座刚刚向我展示了它的“想法”吗？](https://preview.redd.it/evnw2mf5mlgh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a84eed9f17ddac314a692585f8e9713d8e8daae2)
 
-Bottleneck Labs将实际业务移交给**GPT**-5Results ：它捏造索赔，继续进行冷电子邮件狂欢，并亏损$ 447
+**[双子座刚刚向我展示了它的“想法”吗？](https://www.reddit.com/r/artificial/comments/1vbx4lw/did_gemini_just_show_me_how_it_thinks/)**
 
-📅 2026-07-31T16:40:25.000Z
+问**Gemini**从企业租车需要多少钱，它开始说“等等
 
----
-
-### Reddit: r/artificial
-![Andrej Karpathy （ OpenAI联合创始人，前特斯拉人工智能负责人）说，他从未像现在这样觉得自己作为一名程序员落后，并用一句话解释了为什么](https://external-preview.redd.it/djdnOGM3ODBjbGdoMf5pBXKceF3Cs3Cjvn1mDc1WjwX7jSAalGI--sbhJy4P.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9e20359f3fb0dc64d1b7b40f1257305866f6a361)
-
-**[Andrej Karpathy （ OpenAI联合创始人，前特斯拉人工智能负责人）说，他从未像现在这样觉得自己作为一名程序员落后，并用一句话解释了为什么](https://www.reddit.com/r/artificial/comments/1vbvknt/andrej_karpathy_openai_cofounder_extesla_ai_lead/)**
-
-安德烈·卡帕西（ Andrej Karpathy ）共同创立了**OpenAI** ，管理着特斯拉的人工智能团队，并在大约一年前创造了“氛围编码”它被重新定义，大多数人仍然在用旧的定义来衡量自己
-
-📅 2026-07-31T16:19:27.000Z
+📅 2026-07-31T17:15:43.000Z
 
 ---
 
