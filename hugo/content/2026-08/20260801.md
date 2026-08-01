@@ -1,12 +1,12 @@
 ---
 title: "2026年8月1日 - TZ日报"
-date: 2026-08-01T16:03:34.073Z
+date: 2026-08-01T23:59:11.536Z
 draft: false
 ---
 
 # 2026年8月1日 - TZ日报
 
-> 📊 今日汇总 31 条 · 🕐 2026/8/1 16:03:34
+> 📊 今日汇总 31 条 · 🕐 2026/8/1 23:59:11
 
 ---
 
@@ -49,6 +49,15 @@ avatarin使用**OpenAI**的**GPT**-Realtime为Yamada Denki购物者提供全天�
 
 ---
 
+### TechCrunch AI Products
+**[Sam Altman仍在通过ChatGPT提出养育子女的理由](https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/)**
+
+**OpenAI**的首席执行官似乎很高兴为家长分享一个“很酷的用例”。
+
+📅 Sat, 01 Aug 2026 17:07:34 +0000
+
+---
+
 ### OpenAI Blog
 **[数学和理论计算机科学的十大进展](https://openai.com/index/ten-advances-in-mathematics)**
 
@@ -82,15 +91,6 @@ avatarin使用**OpenAI**的**GPT**-Realtime为Yamada Denki购物者提供全天�
 **Gemini** Robotics ER 2帮助机器人推理、协作和解决真实世界的任务它代表了机器人应用的视频理解、工具编排和多机器人协作的**阶跃**变化
 
 📅 Thu, 30 Jul 2026 15:00:59 +0000
-
----
-
-### DeepMind Blog
-**[我们将在Google Flow Music中推出Lyria 3.5 ，在音乐性、歌词、人声和创意控制方面都有所改进](https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/)**
-
-我们将在**Google** Flow Music中**推出**Lyria 3.5 ，在音乐性、歌词、人声和创意控制方面都有所改进
-
-📅 Wed, 29 Jul 2026 16:02:10 +0000
 
 ---
 
@@ -257,21 +257,12 @@ Hush将这一声明主要视为身份（而不是模型）正在成为企业AIR�
 
 ## 💬 社交动态
 
-### Hacker News AI
-**[Show HN ： Aurora –内置Go的人工智能网关](https://github.com/aurorallm/aurora)**
-
-每个AI项目都需要相同的基础架构- API密钥、提供商SDK、重试逻辑、成本跟踪，并且可以在格式之间转换-使用**OpenAI** SDK和Aurora自动转换为**Anthropic**的电线格式
-
-📅 Sat, 01 Aug 2026 13:56:31 +0000
-
----
-
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-08-01T16:02:18.753Z
+📅 2026-08-01T23:58:12.013Z
 
 ---
 
@@ -280,16 +271,16 @@ Hush将这一声明主要视为身份（而不是模型）正在成为企业AIR�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-08-01T16:02:26.252Z
+📅 2026-08-01T23:58:17.462Z
 
 ---
 
 ### Hacker News AI
-**[人工智能的采用正在分裂朋友、家人和同事](https://www.bloomberg.com/news/articles/2026-07-30/how-chatgpt-and-ai-are-dividing-friends-and-families)**
+**[害怕人工智能的数学巨星-刚刚在OpenAI找到了一份工作](https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79)**
 
-文章网址： https://wwwcom/**new**s/articles/2026-07-30/how-chat**GPT**-and-ai-are-dividing-friends-and-families评论网址： https://**new**s
+文章网址： https://wwwcom/tech/ai/**OpenAI**-jacob-tsimerman-fields-medal-ai-safety-391d0f79评论网址： https://**new**s
 
-📅 Sat, 01 Aug 2026 15:39:36 +0000
+📅 Sat, 01 Aug 2026 22:45:30 +0000
 
 ---
 
@@ -303,6 +294,24 @@ Hush将这一声明主要视为身份（而不是模型）正在成为企业AIR�
 ---
 
 ### Reddit: r/artificial
+**[Claude API的实际成本](https://www.reddit.com/r/artificial/comments/1vcxbsk/what_the_claude_api_actually_costs/)**
+
+提交者/u/techpotions [link] [comments]
+
+📅 2026-08-01T20:08:21.000Z
+
+---
+
+### Reddit: r/artificial
+**[人工智能文档工具与实际学习的东西相比，现在可以为您节省更多时间？](https://www.reddit.com/r/artificial/comments/1vctc2f/ai_documentation_tools_vs_actually_learning_the/)**
+
+白天是PT ，晚上修补代码和人工智能工具有一段时间了光标、Copilot、**Claude** API等等
+
+📅 2026-08-01T17:30:08.000Z
+
+---
+
+### Reddit: r/artificial
 **[Al不是在取代工作，而是在取代人类经济价值本身](https://www.reddit.com/r/artificial/comments/1vchx2i/al_isnt_replacing_jobs_its_replacing_human/)**
 
 几乎所有依赖大脑而非身体的职业都需要人工智能以前的每一次技术革命都创造了仍然需要数百万人的新行业
@@ -311,21 +320,12 @@ Hush将这一声明主要视为身份（而不是模型）正在成为企业AIR�
 
 ---
 
-### Reddit: r/artificial
-**[是否有允许轮流语音聊天的应用程序或网站？](https://www.reddit.com/r/artificial/comments/1vcdwj0/any_apps_or_websites_that_allow_for_turn_based/)**
-
-我真的很想念Chat**GPT**上的旧标准语音模式我目前的问题是Chat**GPT**上的新标准语音模式可能会中断
-
-📅 2026-08-01T04:59:14.000Z
-
----
-
 ### X: OpenAI
 **[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-08-01T16:02:18.752Z
+📅 2026-08-01T23:58:12.013Z
 
 ---
 
