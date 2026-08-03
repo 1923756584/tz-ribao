@@ -1,12 +1,12 @@
 ---
 title: "2026年8月2日 - TZ日报"
-date: 2026-08-02T16:03:40.750Z
+date: 2026-08-03T00:00:22.809Z
 draft: false
 ---
 
 # 2026年8月2日 - TZ日报
 
-> 📊 今日汇总 30 条 · 🕐 2026/8/2 16:03:40
+> 📊 今日汇总 30 条 · 🕐 2026/8/3 00:00:22
 
 ---
 
@@ -103,35 +103,24 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[法官驳回xAI阻止明尼苏达州禁止“裸化”应用程序的请求](https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/)**
+**[山姆·奥尔特曼和人工智能的decel辩论](https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/)**
 
-尽管xAI提起诉讼，但明尼苏达州对允许用户“裸化”图像的应用程序的禁令可以继续推进
+在最新一期的《Equity》中，我们讨论了为什么Sam Altman呼吁业界“加快人工智能发展的步伐
 
-📅 Sat, 01 Aug 2026 20:26:04 +0000
+📅 Sun, 02 Aug 2026 20:54:22 +0000
 
 ---
 
 ## 🌍 行业展望
 
 ### VentureBeat
-![人工智能价格战：随着模型竞争转向成本， OpenAI将GPT-5.6 Luna价格降低了80 ％](https://images.ctfassets.net/jdtwqhzvc2n1/2fGdveK7V6JapEiEv85EpL/16b6cb580fce352e2d10fc0bcc5f0b21/ChatGPT_Image_Jul_30__2026__05_09_51_PM.png?w=300&q=30)
+![停止绘制一切：当GraphRAG实际上击败矢量RAG时](https://images.ctfassets.net/jdtwqhzvc2n1/1rpZMHeHr7IpMu9cqSzhdV/1c782495f70f8718047ff5ce0e6f1e3c/u7277289442_A_modern_interpretation_of_cybersecurity._Sleek.__5f8b2e68-6dd7-4e68-b47f-83af6a37b067_0.png?w=300&q=30)
 
-**[人工智能价格战：随着模型竞争转向成本， OpenAI将GPT-5.6 Luna价格降低了80 ％](https://venturebeat.com/technology/ai-price-wars-openai-cuts-gpt-5-6-luna-prices-by-80-as-model-competition-shifts-toward-cost)**
+**[停止绘制一切：当GraphRAG实际上击败矢量RAG时](https://venturebeat.com/orchestration/stop-graphing-everything-when-graphrag-actually-beats-vector-rag)**
 
-在谷歌**推出**低成本**Gemini** 3后仅一周半， **Anthropic**的**Claude** Opus 5 **OpenAI**的定价变化就出现了削减然而，竞争对手**Anthropic**的**Claude** Opus 5仍然与**GPT**-5一样出色
+对于“两年来客户投诉中反复出现的主题是什么？一项分析认为，中等语料库的指数构建约为48 $ ，而**GPT**-4o的指数构建远高于香草矢量指数
 
-📅 Thu, 30 Jul 2026 21:48:00 GMT
-
----
-
-### VentureBeat
-![万事达卡花了数十年的时间训练其欺诈系统，将机器人视为窃贼。现在，机器人是进行购买的人。](https://images.ctfassets.net/jdtwqhzvc2n1/30UH4P8mgfH5YlUrcpSR3Q/c7c8f1f4a0d1dafe74eeb22c393bb265/mastercard_hero.png?w=300&q=30)
-
-**[万事达卡花了数十年的时间训练其欺诈系统，将机器人视为窃贼。现在，机器人是进行购买的人。](https://venturebeat.com/security/mastercard-spent-decades-training-its-fraud-system-to-see-bots-as-thieves-now-bots-are-the-ones-doing-the-buying)**
-
-嵌入其中的验收框架”，并与微软合作**推出**，并与**OpenAI**的**GPT**-5合作
-
-📅 Thu, 30 Jul 2026 16:57:14 GMT
+📅 Sun, 02 Aug 2026 19:00:00 GMT
 
 ---
 
@@ -154,17 +143,6 @@ draft: false
 相比之下， **Anthropic**表示， **Claude**从未通过小说《Exploit7》、《**Claude** Mythos 5》和未**发布**的内部研究模型逃脱遏制。
 
 📅 Fri, 31 Jul 2026 01:45:07 GMT
-
----
-
-### VentureBeat
-![Hush Security表示，随着自主代理的扩散，人工智能安全问题已经从保护模型转变为管理身份](https://images.ctfassets.net/jdtwqhzvc2n1/3sDPjECpYanyeD3xvMDSuZ/bbb8b59a604585a04f166cb64d1bae22/ChatGPT_Image_Jul_30__2026__12_13_02_PM.png?w=300&q=30)
-
-**[Hush Security表示，随着自主代理的扩散，人工智能安全问题已经从保护模型转变为管理身份](https://venturebeat.com/security/hush-security-says-the-ai-security-problem-has-shifted-from-protecting-models-to-governing-identities-as-autonomous-agents-spread)**
-
-Hush将这一声明主要视为身份（而不是模型）正在成为企业AIR的关键控制面的证据，而不是询问AI模型是否可以安全地生成代码或总结文档
-
-📅 Thu, 30 Jul 2026 16:29:00 GMT
 
 ---
 
@@ -199,27 +177,34 @@ Reddit可能仍在考虑终止与谷歌的许可协议。
 
 ---
 
-## 📦 GitHub热门
+### Ars Technica
+**[谷歌计划免除受制裁国家的安卓开发者验证](https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/)**
 
-### GitHub Active (AI/ML)
-![Flux.jl ：放松！ Flux是机器学习库，不会让你张量](https://avatars.githubusercontent.com/u/26222520?v=4)
+古巴或伊朗的某人可以继续安装APK ，没有新的限制，但开发人员将受到影响。
 
-**[Flux.jl ：放松！ Flux是机器学习库，不会让你张量](https://github.com/FluxML/Flux.jl)**
-
-⭐ 4731星· 624叉·茱莉亚·放松！ Flux是机器学习库，不会让你张量
-
-📅 2026-08-02T16:02:25Z
+📅 Fri, 31 Jul 2026 21:35:56 +0000
 
 ---
 
+### Ars Technica
+**[Reddit继续就谷歌搜索结果展开奇怪的数字千年版权法案(DMCA)斗争](https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/)**
+
+Reddit提起诉讼，指控Perplexity AI与网络爬虫合谋。
+
+📅 Fri, 31 Jul 2026 21:19:39 +0000
+
+---
+
+## 📦 GitHub热门
+
 ### GitHub Active (AI/ML)
-![imodels ：可解释的机器学习包，🔍用于简洁、透明和准确的预测建模（ sklearn兼容）。](https://avatars.githubusercontent.com/u/4960970?v=4)
+![lionagi ：智能管弦乐队](https://avatars.githubusercontent.com/u/122793010?v=4)
 
-**[imodels ：可解释的机器学习包，🔍用于简洁、透明和准确的预测建模（ sklearn兼容）。](https://github.com/csinva/imodels)**
+**[lionagi ：智能管弦乐队](https://github.com/ohdearquant/lionagi)**
 
-604星· 141叉· Jupyter笔记本·可解释的机器学习包，简洁准确🔍的预测建模（ sklearn兼容）
+⭐ 401星· 81叉·蟒蛇·智慧乐团
 
-📅 2026-08-02T16:01:09Z
+📅 2026-08-02T23:58:49Z
 
 ---
 
@@ -245,23 +230,25 @@ Reddit可能仍在考虑终止与谷歌的许可协议。
 
 ---
 
-## 💬 社交动态
+### GitHub New (New AI)
+![🆕 awesome-ai-native ：精心策划的人工智能原生产品列表： LLM本身就是产品的应用程序和工具，而不是附加功能。](https://avatars.githubusercontent.com/u/2951285?v=4)
 
-### Reddit: r/artificial
-**[我厌倦了向每个AI工具重新解释我的项目，所以我为他们构建了一个本地内存层](https://www.reddit.com/r/artificial/comments/1vd9kbb/i_got_tired_of_reexplaining_my_project_to_every/)**
+**[🆕 awesome-ai-native ：精心策划的人工智能原生产品列表： LLM本身就是产品的应用程序和工具，而不是附加功能。](https://github.com/samber/awesome-ai-native)**
 
-我一直遇到同样的问题： Chat**GPT**将帮助我思考架构克劳德代码将帮助我实现它
+⭐ 5 star (新项目) · Astro · A curated list of AI-native products: apps and tools where the LLM is the product itself, not a bolted-on feature
 
-📅 2026-08-02T05:38:33.000Z
+📅 2026-07-30T15:01:00Z
 
 ---
+
+## 💬 社交动态
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-08-02T16:02:11.617Z
+📅 2026-08-02T23:59:18.044Z
 
 ---
 
@@ -270,7 +257,36 @@ Reddit可能仍在考虑终止与谷歌的许可协议。
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-08-02T16:02:17.815Z
+📅 2026-08-02T23:59:24.123Z
+
+---
+
+### Hacker News AI
+**[Tlbic ：关于人工智能对话的扩展附录，以及关于共享人类智慧的说明](https://drive.google.com/file/d/14IKYzJavvzvbCL8GR0SkjzRmroMAaboN/view?usp=drive_link)**
+
+文章网址： https://driveusp = drive_link评论网址： https://**new**s
+
+📅 Sun, 02 Aug 2026 21:54:50 +0000
+
+---
+
+### Hacker News ML
+**[使用机器学习使电影档案可搜索](https://huggingface.co/spaces/davanstrien/prelinger-moments-space)**
+
+文章网址： https://huggingfaceco/spaces/davanstrien/prelinger-moments-space评论网址： https://**new**s
+
+📅 Fri, 31 Jul 2026 13:51:24 +0000
+
+---
+
+### Reddit: r/artificial
+![它始于对前沿模型的测试，最终成为一款多人游戏](https://external-preview.redd.it/YXF2Y3J4cTg0MWhoMbZ5plCUlzw2yPVh5qM0P0cPMI2LWqP79nQ5wntTXnxE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b897a93aac2349a2e9a12ec48a5b030d42ed7000)
+
+**[它始于对前沿模型的测试，最终成为一款多人游戏](https://www.reddit.com/r/artificial/comments/1vdu2g8/it_started_with_a_test_of_a_frontier_model_and/)**
+
+过去的1,5周让我大开眼界-我必须说， **Claude** Code和当前的前沿模型令人惊叹寓言（以及后来的作品5 ）的测试变成了一个更大的游戏
+
+📅 2026-08-02T21:25:36.000Z
 
 ---
 
@@ -283,39 +299,21 @@ Reddit可能仍在考虑终止与谷歌的许可协议。
 
 ---
 
-### Reddit: r/artificial
-**[OpenAI的“禁止数据共享”条款在企业计划中有多强？](https://www.reddit.com/r/artificial/comments/1vda6lp/how_strong_are_openais_no_data_sharing_clauses_on/)**
-
-苹果公司起诉**OpenAI**涉嫌窃取商业机密，因此，如果**OpenAI**不害怕（涉嫌）窃取苹果IP并剥离为其模型培训写下的所有内容
-
-📅 2026-08-02T06:12:15.000Z
-
----
-
 ### X: OpenAI
 **[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-08-02T16:02:11.617Z
+📅 2026-08-02T23:59:18.044Z
 
 ---
 
 ### X: OpenAI
-**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-警告：目标URL返回错误520 ：
+警告：目标URL返回错误520 ：未知
 
-📅 2026-08-02T16:02:11.617Z
-
----
-
-### X: OpenAI
-**[警告：此页面可能尚未完全加载，请考虑显式指定超时。](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-警告：此页面可能尚未完全加载，请考虑显式指定超时。
-
-📅 2026-08-02T16:02:11.617Z
+📅 2026-08-02T23:59:18.044Z
 
 ---
 
