@@ -1,12 +1,12 @@
 ---
 title: "2026年8月4日 - TZ日报"
-date: 2026-08-04T00:11:23.744Z
+date: 2026-08-04T16:54:56.788Z
 draft: false
 ---
 
 # 2026年8月4日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/8/4 00:11:23
+> 📊 今日汇总 38 条 · 🕐 2026/8/4 16:54:56
 
 ---
 
@@ -22,12 +22,12 @@ draft: false
 
 ## ✨ 产品更新
 
-### TechCrunch AI Products
-**[国会最喜欢的人工智能工具？ ChatGPT](https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/)**
+### OpenAI Blog
+**[苹果搞错了](https://openai.com/index/apple-is-getting-this-wrong)**
 
-众议院支出记录显示， **OpenAI**的Chat**GPT**在国会山的付费AI使用中占主导地位，国会办公室依靠聊天机器人起草备忘录
+**OpenAI**解决了苹果毫无根据的诉讼，纠正了有关其员工的索赔，并分享了记录所发生事件的消息
 
-📅 Mon, 03 Aug 2026 16:40:55 +0000
+📅 Mon, 03 Aug 2026 22:00:00 GMT
 
 ---
 
@@ -40,6 +40,46 @@ draft: false
 
 ---
 
+### OpenAI Blog
+**[Circles通过OpenAI技术为电信运营商个性化提供支持](https://openai.com/index/circles)**
+
+Circles使用**OpenAI** API和Codex为AI原生电信体验提供支持， ARPU提高22%
+
+📅 Mon, 03 Aug 2026 00:00:00 GMT
+
+---
+
+### Google AI Blog
+![我们在2026年7月宣布的最新人工智能新闻](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp)
+
+**[我们在2026年7月宣布的最新人工智能新闻](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/)**
+
+以下是2026年7月谷歌最新的人工智能**更新**
+
+📅 Tue, 04 Aug 2026 13:00:00 +0000
+
+---
+
+### Google AI Blog
+![在我们353,000人的氛围编码课程中](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp)
+
+**[在我们353,000人的氛围编码课程中](https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/)**
+
+Kaggle的AI Agents Intensive with **Google**将学习者聚集在一个免费的课程中，以构建和部署人工智能的下一个前沿领域
+
+📅 Mon, 03 Aug 2026 15:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[苹果表示，更多的前员工可能已将机密数据带到OpenAI](https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/)**
+
+苹果公司表示，其对**OpenAI**的商业秘密调查已经扩大。在一份新的法庭文件中，苹果公司声称，其他前员工可能保留或访问了机密信息
+
+📅 Tue, 04 Aug 2026 14:03:01 +0000
+
+---
+
 ### TechCrunch AI Products
 **[影响者为参加OpenAI的首次奢侈品之旅而受到强烈反对](https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/)**
 
@@ -49,77 +89,50 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[在杀手级季度之后， Palantir首席执行官Alex Karp称人工智能行业为“马克思主义者”](https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/)**
+### Hugging Face
+**[使用LFM2.5-2.6B在任何地方部署本地代理](https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b)**
 
-Palantir首席执行官亚历克斯·卡普（ Alex Karp ）周一在一个季度实现了10亿美元的利润后，再次警告说，人工智能前沿实验室对企业来说太不可信了
+使用LFM2.5-2.6B在任何地方部署本地代理
 
-📅 Mon, 03 Aug 2026 23:19:50 +0000
-
----
-
-### TechCrunch AI Products
-**[AWS正在帮助氛围编码初创公司Superblocks ，其影响很大](https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/)**
-
-AWS现在允许将氛围编码工具Superblocks嵌入到AWS客户的私有云中这是将应用程序与模型分离的又一步
-
-📅 Mon, 03 Aug 2026 20:00:00 +0000
+📅 Tue, 04 Aug 2026 13:58:29 GMT
 
 ---
 
 ### TechCrunch AI Products
-**[Design Arena创作者筹集了790万$ ，为人工智能模型带来品味](https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/)**
+**[Spotify与Merlin合作扩展AI混音并涵盖项目](https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/)**
 
-Design Arena被全球5300万人使用，为前沿实验室提供关键的人工评估
+已加入环球音乐集团，支持其即将**推出**的人工智能混音和覆盖产品付费工具将允许粉丝创建参与艺术家音乐的人工智能生成封面和混音，同时确保艺术家选择加入
 
-📅 Mon, 03 Aug 2026 19:28:57 +0000
-
----
-
-### TechCrunch AI Products
-**[苹果终于修复了Siri。那么，为什么它会让人感觉到逆高潮呢？](https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/)**
-
-苹果期待已久的人工智能大修终于让Siri成为了它本应成为的助手，但它的到来恰逢它不再是一个有能力的人工智能助手
-
-📅 Mon, 03 Aug 2026 18:43:43 +0000
+📅 Tue, 04 Aug 2026 15:50:06 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[马克·贝尼奥夫（ Marc Benioff ）支持的初创公司认为人工智能可以解决人工智能部署问题](https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/)**
+**[德克萨斯州因州长要求审计而停止新数据中心](https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/)**
 
-June今天从隐形中脱颖而出，获得了2000万美元的预种子轮融资，以简化人工智能的采用。
+德克萨斯州州长Greg Abbott已暂停新的数据中心开发，直到审核完成。
 
-📅 Mon, 03 Aug 2026 10:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[山姆·奥尔特曼和人工智能的decel辩论](https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/)**
-
-在最新一期的《Equity》中，我们讨论了为什么Sam Altman呼吁业界“加快人工智能发展的步伐
-
-📅 Sun, 02 Aug 2026 20:54:22 +0000
-
----
-
-### TechCrunch AI Products
-**[法官驳回xAI阻止明尼苏达州禁止“裸化”应用程序的请求](https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/)**
-
-尽管xAI提起诉讼，但明尼苏达州对允许用户“裸化”图像的应用程序的禁令可以继续推进
-
-📅 Sat, 01 Aug 2026 20:26:04 +0000
+📅 Tue, 04 Aug 2026 15:42:35 +0000
 
 ---
 
 ## 🔬 前沿研究
+
+### ArXiv Natural Language Processing (cs.CL)
+**[具有成本效益的自然语言数学证明自动判断](https://arxiv.org/abs/2608.00004)**
+
+三位廉价法官（ **GPT**-OSS 120BGemma-4 31B ）同意人类通过/失败的决定，其比率在统计上与**Claude** Opus 4无法区分
+
+📅 Tue, 04 Aug 2026 00:00:00 -0400
+
+---
 
 ### ArXiv AI (cs.AI)
 **[人工智能可以评估人工智能科学家吗？使用自动多模型评审的自主研究生成系统的基准研究](https://arxiv.org/abs/2607.28631)**
 
 28631v1公告类型：新摘要：能够自主研究的人工智能科学家系统有可能显着加速科学发现我们在双子座和克劳德之间找到了强烈的共识($\ rho $ = 0
 
-📅 Mon, 03 Aug 2026 00:00:00 -0400
+📅 Tue, 04 Aug 2026 00:00:00 -0400
 
 ---
 
@@ -128,61 +141,52 @@ June今天从隐形中脱颖而出，获得了2000万美元的预种子轮融资
 
 28662v1公告类型：新摘要：大型语言模型从非结构化文档中流畅但不一致地提取实体和关系：类型词汇跨文档断裂本文介绍设计
 
-📅 Mon, 03 Aug 2026 00:00:00 -0400
+📅 Tue, 04 Aug 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Machine Learning (cs.LG)
-**[MPP-GNN ：基于fMRI的阿尔茨海默氏病分类的受试者适应性社区检测](https://arxiv.org/abs/2607.28681)**
+**[Agentic工作流程的学习组合元路由：可执行基准](https://arxiv.org/abs/2608.00106)**
 
-28681v1公告类型：新摘要：功能性磁共振成像（ fMRI ）是研究大脑的广泛使用的技术在这里，为了解决这些问题，我们提出了一种元概率池GNN （ MPP-GNN ）
+00106v1公告类型：新摘要：代理系统不仅必须决定生成什么答案现有的路由工作主要选择模型端点、检索深度或孤立的工具
 
-📅 Mon, 03 Aug 2026 00:00:00 -0400
+📅 Tue, 04 Aug 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Machine Learning (cs.LG)
-**[使用物理知情深度学习从显微照片预测钢材疲劳寿命](https://arxiv.org/abs/2607.28695)**
+**[MetaRoute-Bench ：评估Agent工作流路由的元决策策略](https://arxiv.org/abs/2608.00107)**
 
-28695v1公告类型：新摘要：这是为arXiv的提交表单优化的纯文本版本Grad-CAM地图，确认网络参与了具有冶金意义的微观结构特征
+00107v1公告类型：新摘要：代理系统必须重复决定是否直接应答这些结果是由种子离线执行模型而不是实时部署生成的；因此
 
-📅 Mon, 03 Aug 2026 00:00:00 -0400
+📅 Tue, 04 Aug 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Computer Vision (cs.CV)
-**[SCMA ：用于减少CT金属伪影的结构调节和金属感知流匹配](https://arxiv.org/abs/2607.28759)**
+**[SafeBuild-Bench ：采用图形增强数据挖掘的临时稳健施工安全基准](https://arxiv.org/abs/2608.00068)**
 
-28759v1公告类型：新摘要：在X射线CT中允许金属痕迹之外的可靠测量来约束预测
+00068v1公告类型：新摘要：施工安全模型必须处理具体部署风险我们在https://github**发布**基准、评估脚本和GEMS代码库
 
-📅 Mon, 03 Aug 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[LLM真的能理解项目难度级别吗？使用LLM自动生成项目的影响](https://arxiv.org/abs/2607.28634)**
-
-28634v1公告类型：新摘要：项目难度评估在形成性评估和大规模高风险总结评估中都起着关键作用零拍摄**GPT**-4
-
-📅 Mon, 03 Aug 2026 00:00:00 -0400
+📅 Tue, 04 Aug 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Natural Language Processing (cs.CL)
-**[模型链： Bias-Robust LLM法官的跨模型审计](https://arxiv.org/abs/2607.28636)**
+**[AgentMemBench ：评估会话AI智能体长期内存管理策略的系统基准](https://arxiv.org/abs/2608.00009)**
 
-28636v1公告类型：新摘要： LLM越来越多地担任自动化评委，但他们的判断仍然容易受到认知偏差的影响我们研究\ emph {Chain-of-Models} (CoM)
+00009v1公告类型：新摘要：长期记忆仍然是会话式人工智能代理的关键瓶颈我们还评估了两个已**发布**的记忆系统（ Mem**GPT**/Letta
 
-📅 Mon, 03 Aug 2026 00:00:00 -0400
+📅 Tue, 04 Aug 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Natural Language Processing (cs.CL)
-**[形式主义陷阱：在社会负担下， LLM-as-a-Judge评估者是否被共识模仿所蒙蔽？](https://arxiv.org/abs/2607.28641)**
+**[社交模拟语言模型的角色指导](https://arxiv.org/abs/2608.00023)**
 
-28641v1公告类型：新摘要：我们介绍\ textit {Agentic Formalism Trap}和Evaluative Dissonance Index ($ D_E $)跨3个域的500个轨迹（ GAIA
+00023v1公告类型：新建摘要：从语言模型代理构建的社交模拟需要角色条件行为，可以在将代理放入模拟总体之前检查1-迷你提示的角色引用和**GPT**-4
 
-📅 Mon, 03 Aug 2026 00:00:00 -0400
+📅 Tue, 04 Aug 2026 00:00:00 -0400
 
 ---
 
@@ -210,15 +214,6 @@ June今天从隐形中脱颖而出，获得了2000万美元的预种子轮融资
 
 ---
 
-### ZDNet AI
-**[如何尽可能保持您与ChatGPT、Gemini、Copilot或Claude的对话私密性](https://www.zdnet.com/article/how-to-keep-ai-conversations-private-chatgpt-gemini-copilot-claude/)**
-
-担心您的个人AI聊天被曝光以下是如何在几个主要聊天机器人中收紧您的隐私
-
-📅 Mon, 03 Aug 2026 14:45:00 GMT
-
----
-
 ### VentureBeat
 ![停止绘制一切：当GraphRAG实际上击败矢量RAG时](https://images.ctfassets.net/jdtwqhzvc2n1/1rpZMHeHr7IpMu9cqSzhdV/1c782495f70f8718047ff5ce0e6f1e3c/u7277289442_A_modern_interpretation_of_cybersecurity._Sleek.__5f8b2e68-6dd7-4e68-b47f-83af6a37b067_0.png?w=300&q=30)
 
@@ -230,23 +225,23 @@ June今天从隐形中脱颖而出，获得了2000万美元的预种子轮融资
 
 ---
 
-### TechCrunch
-**[谁在法律上应该为Anthropic和OpenAI的自主AI黑客负责？这很复杂](https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/)**
+### Ars Technica
+**[OpenAI表示，苹果的商业秘密诉讼是“侵略性的，奇怪的是个人的”](https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/)**
 
-**OpenAI**和**Anthropic**承认，他们未**发布**的人工智能模型逃脱了他们的沙箱，并在前所未有的网络攻击中攻击了几家公司。检察官是否应该指控这两个人工智能前沿实验室
+Chat**GPT**制造商说： “我们没有，也不想要他们的任何商业秘密。”
 
-📅 Mon, 03 Aug 2026 19:45:35 +0000
+📅 Tue, 04 Aug 2026 13:38:29 +0000
 
 ---
 
 ### The Verge
-![布鲁斯基的新任首席执行官想要一个大帐篷，而不是泡沫](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_20260803_Schneider.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![华硕Chromebook Plus CX34是其最低价格之一](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/asuschromebookdeals.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[布鲁斯基的新任首席执行官想要一个大帐篷，而不是泡沫](https://www.theverge.com/podcast/974387/bluesky-toni-schneider-interview-ai-atproto-atmosphere)**
+**[华硕Chromebook Plus CX34是其最低价格之一](https://www.theverge.com/gadgets/974732/asus-chromebook-plus-cx34-igloo-playmate-kooltunes-14-quart-cooler-deal-sale)**
 
-我们实际上刚刚**推出**了他们正在开发的产品的新版本， Attie这是一个强硬的网络，上面有更多AI生成的动漫色情片
+如果您认为不需要那么多存储空间， 128GB的型号为349 $ Chromebook Plus ，这意味着它包括访问**Gemini**以及免费一年的**Google** AI Pro （通过**Gemini**访问Nano Banana和Veo
 
-📅 2026-08-03T15:00:00.000Z
+📅 2026-08-04T15:15:36.000Z
 
 ---
 
@@ -259,36 +254,56 @@ June今天从隐形中脱颖而出，获得了2000万美元的预种子轮融资
 
 ---
 
+### Wired Technology
+**[2018年谷歌罢工背后的真实故事](https://www.wired.com/story/2018-google-walkout-dont-be-evil-claire-stapleton/)**
+
+2018年， 2万多名员工走上街头，抗议谷歌如何处理性骚扰指控。以下是他们在公司内部组织性骚扰的方式
+
+📅 Tue, 04 Aug 2026 09:30:00 +0000
+
+---
+
 ### ZDNet AI
-**[这个免费的Google云端硬盘替代方案可保护您的文件私密性和本地性](https://www.zdnet.com/article/zimaos-is-for-those-who-want-to-go-local-with-cloud-storage/)**
+**[微软终于意识到Windows 11太烦人了。可以修复吗？](https://www.zdnet.com/article/microsoft-finally-realized-windows-11-is-too-annoying-can-it-be-fixed/)**
 
-希望将您的存储需求从第三方云服务转移到家庭网络内部如果是这样， ZimaOS是一个很好的选择
+微软的最新进度报告详细介绍了Windows 11在可靠性、性能、稳定性和可用性方面急需的改进，但将关键功能货币化的压力仍然存在
 
-📅 Mon, 03 Aug 2026 13:50:45 GMT
+📅 Tue, 04 Aug 2026 13:43:26 GMT
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![keras ：面向人类的深度学习](https://avatars.githubusercontent.com/u/34455048?v=4)
+### GitHub Active (Python)
+![pyqtgraph ：用于科学/工程应用的快速数据可视化和GUI工具](https://avatars.githubusercontent.com/u/5440571?v=4)
 
-**[keras ：面向人类的深度学习](https://github.com/keras-team/keras)**
+**[pyqtgraph ：用于科学/工程应用的快速数据可视化和GUI工具](https://github.com/pyqtgraph/pyqtgraph)**
 
-⭐ 64,217星· 19747叉·蟒蛇·人类深度学习
+⭐ 4,392星· 1179叉· Python ·用于科学/工程应用的快速数据可视化和GUI工具
 
-📅 2026-08-04T00:08:53Z
+📅 2026-08-04T16:53:44Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 基于agent的文明模拟：使用Vanilla JavaScript构建的自主文明模拟，以外交、战争、王朝和紧急人工智能行为为特色。](https://avatars.githubusercontent.com/u/55094798?v=4)
+![🆕 无数：可搜索、可安装的10,000节点生物技术和制药任务图，用于AI代理路由、检索、工作流程规划和评估。](https://avatars.githubusercontent.com/u/300878568?v=4)
 
-**[🆕 基于agent的文明模拟：使用Vanilla JavaScript构建的自主文明模拟，以外交、战争、王朝和紧急人工智能行为为特色。](https://github.com/acarbayk/agent-based-civilization-simulation)**
+**[🆕 无数：可搜索、可安装的10,000节点生物技术和制药任务图，用于AI代理路由、检索、工作流程规划和评估。](https://github.com/KalarisLabs/myriad)**
 
-⭐ 2 star (新项目) · HTML · An autonomous civilization simulation built with Vanilla JavaScript featuring diplomacydynasties and emergent AI behaviour
+⭐ 2 star (新项目) · Python · Searchable000-node biotech and pharmaceutical task graph for AI-agent routing
 
-📅 2026-08-02T22:16:02Z
+📅 2026-08-04T09:55:32Z
+
+---
+
+### GitHub New (New AI)
+![🆕 AI知识管理平台：由LLM提供支持的代理知识助理，通过自动化实体提取、结构化数据分析和基于SQL的推理来增强RAG功能，为复杂、多步骤和分析查询提供准确的答案。](https://avatars.githubusercontent.com/u/296813120?v=4)
+
+**[🆕 AI知识管理平台：由LLM提供支持的代理知识助理，通过自动化实体提取、结构化数据分析和基于SQL的推理来增强RAG功能，为复杂、多步骤和分析查询提供准确的答案。](https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform)**
+
+⭐ 2 star (新项目) · Jupyter Notebook · An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extractionstructured data analysis
+
+📅 2026-08-03T07:36:22Z
 
 ---
 
@@ -303,52 +318,14 @@ June今天从隐形中脱颖而出，获得了2000万美元的预种子轮融资
 
 ---
 
-### GitHub New (New AI)
-![🆕 youtube2skills ：使用LLM、语义提取、矢量搜索和自主质量验证，将YouTube视频转换为可执行的AI Agent技能。](https://avatars.githubusercontent.com/u/139624095?v=4)
-
-**[🆕 youtube2skills ：使用LLM、语义提取、矢量搜索和自主质量验证，将YouTube视频转换为可执行的AI Agent技能。](https://github.com/Abdulrahman0Khaled/youtube2skills)**
-
-⭐ 2 star (新项目) · Python · Production-ready pipeline that transforms YouTube videos into executable AI Agent Skills using LLMsand autonomous quality validation
-
-📅 2026-08-01T14:01:15Z
-
----
-
 ## 💬 社交动态
-
-### Reddit: r/artificial
-**[您是否定期与人工智能聊天？分享您在心理学研究中的经验](https://www.reddit.com/r/artificial/comments/1vek947/do_you_regularly_chat_with_ai_share_your/)**
-
-如果您年满18岁且经常使用对话式人工智能（例如Chat**GPT**、**Claude**、**Gemini**、Character
-
-📅 2026-08-03T17:37:18.000Z
-
----
-
-### Hacker News AI
-**[OpenAI如何在六个月内为响应式语音人工智能构建实时系统](https://openai.com/index/continuous-voice-interaction-with-gpt-live/)**
-
-文章网址： https://**OpenAI**com/index/continuous-voice-interaction-with-**GPT**-live/评论网址： https://**new**s
-
-📅 Mon, 03 Aug 2026 22:54:08 +0000
-
----
-
-### Reddit: r/artificial
-**[开放永远是赢家：中国如何利用开源剧本主导人工智能的下一章](https://www.reddit.com/r/artificial/comments/1vejxnd/open_always_wins_how_china_is_using_the_open/)**
-
-专利和工业机器人建筑商气喘吁吁地等待着新中国模型的**发布**本地LLM的安装主要是高性能的中国AI模型Hugging Face使用中国LLM来击退由未**发布**的封闭式开放式AI模型发起的网络攻击我认为**OpenAI**决定大幅降低其某些模型的成本只是认识到显而易见的
-
-📅 2026-08-03T17:25:36.000Z
-
----
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-08-04T00:10:08.495Z
+📅 2026-08-04T16:53:37.558Z
 
 ---
 
@@ -357,36 +334,61 @@ June今天从隐形中脱颖而出，获得了2000万美元的预种子轮融资
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-08-04T00:10:15.745Z
+📅 2026-08-04T16:53:43.532Z
+
+---
+
+### Hacker News
+**[将团队编码标准引入Claude Code和Codex的代理技能](https://github.com/tikalk/adlc-team-skills)**
+
+文章网址： https://githubcom/tikalk/adlc-team-skills评论网址： https://**new**s
+
+📅 Tue, 04 Aug 2026 14:38:31 +0000
+
+---
+
+### Hacker News AI
+**[用于AI模型路由的统一API](https://developers.googleblog.com/a-unified-api-for-ai-model-routing/)**
+
+**Google**blogcom/a-unified-api-for-ai-model-routing/评论网址： https://**new**s
+
+📅 Tue, 04 Aug 2026 16:37:03 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[您理想的人工智能工作界面会是什么样子](https://www.reddit.com/r/artificial/comments/1velk4m/what_your_ideal_ai_work_interface_would_look_like/)**
+**[我建立了一个没有人类员工的游戏工作室。这里是办公室之旅。](https://www.reddit.com/r/artificial/comments/1vfcbzs/i_built_a_game_studio_with_zero_human_employees/)**
 
-对于使用Cursor、**Claude** Code、Codex、Copilot、Antigravity等人工智能工具的人，您是否希望人工智能更像是一个可以看到任务的工作空间
+与**Claude**一起构建一个充满人工智能代理的办公室，每个人都有不同的角色（首席执行官、创意总监、QA、营销人员）
 
-📅 2026-08-03T18:23:56.000Z
-
----
-
-### Reddit: r/artificial
-![这不仅仅是Meta ，而是整个行业在证明之前的支出](https://preview.redd.it/frfgi2lxt6hh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=beba5b773fb2d2433d061e4e2c756889f4c09888)
-
-**[这不仅仅是Meta ，而是整个行业在证明之前的支出](https://www.reddit.com/r/artificial/comments/1veikdl/its_not_just_meta_its_the_whole_industry_spending/)**
-
-提交者/u/Left-Hotel904 [link] [comments]
-
-📅 2026-08-03T16:37:01.000Z
+📅 2026-08-04T14:42:33.000Z
 
 ---
 
-### Reddit: r/artificial
-**[麻省理工学院关于人工智能代理“撒谎”的科技评论实际上是关于古德哈特定律的](https://www.reddit.com/r/artificial/comments/1vehr50/mit_tech_review_on_ai_agents_lying_is_really/)**
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-《麻省理工科技评论》今天发表了一篇关于人工智能代理不当行为的文章，这实际上是好的，但文章指出，如果你最终使用这些代理来运行人工智能安全评估
+Title: 520: Web服务器返回未知错误
 
-📅 2026-08-03T16:07:55.000Z
+📅 2026-08-04T16:53:37.558Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误520 ：未知
+
+📅 2026-08-04T16:53:37.558Z
+
+---
+
+### X: OpenAI
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Markdown 内容
+
+📅 2026-08-04T16:53:37.558Z
 
 ---
 
