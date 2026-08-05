@@ -1,12 +1,12 @@
 ---
 title: "2026年8月4日 - TZ日报"
-date: 2026-08-04T16:54:56.788Z
+date: 2026-08-05T00:03:56.058Z
 draft: false
 ---
 
 # 2026年8月4日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/8/4 16:54:56
+> 📊 今日汇总 38 条 · 🕐 2026/8/5 00:03:56
 
 ---
 
@@ -21,6 +21,24 @@ draft: false
 ---
 
 ## ✨ 产品更新
+
+### OpenAI Blog
+**[涉及OpenAI模型的第三方网络评估](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models)**
+
+**OpenAI**解释了最近的第三方网络安全评估事件，并概述了加强AI模型测试和评估的新保障措施
+
+📅 Tue, 04 Aug 2026 19:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[使用ChatGPT Work和Codex学习和教学的新方法](https://openai.com/index/learn-teach-chatgpt-work-codex)**
+
+探索Chat**GPT** Work和Codex的新教育插件，帮助K–12教师、大学教育工作者和学生学习、教学、研究和构建
+
+📅 Tue, 04 Aug 2026 00:00:00 GMT
+
+---
 
 ### OpenAI Blog
 **[苹果搞错了](https://openai.com/index/apple-is-getting-this-wrong)**
@@ -72,47 +90,29 @@ Kaggle的AI Agents Intensive with **Google**将学习者聚集在一个免费的
 ---
 
 ### TechCrunch AI Products
+**[Anthropic与AI云初创公司Volta签订了$ 100亿的交易](https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/)**
+
+最近几个月， **Anthropic**一直在进行云合作伙伴关系狂潮，据报道，其最新举措是与人工智能云初创公司Volta达成100亿美元的交易
+
+📅 Tue, 04 Aug 2026 19:48:40 +0000
+
+---
+
+### TechCrunch AI Products
+**[英伟达不会乱来：开放人工智能产业集团成立一周后，它已经显示出进展](https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/)**
+
+由英伟达牵头并发展到120多家公司的为期一周的开放式安全人工智能联盟已经提出了防御人工智能代理的提案
+
+📅 Tue, 04 Aug 2026 19:28:49 +0000
+
+---
+
+### TechCrunch AI Products
 **[苹果表示，更多的前员工可能已将机密数据带到OpenAI](https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/)**
 
 苹果公司表示，其对**OpenAI**的商业秘密调查已经扩大。在一份新的法庭文件中，苹果公司声称，其他前员工可能保留或访问了机密信息
 
 📅 Tue, 04 Aug 2026 14:03:01 +0000
-
----
-
-### TechCrunch AI Products
-**[影响者为参加OpenAI的首次奢侈品之旅而受到强烈反对](https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/)**
-
-**OpenAI**首次影响者品牌之旅引发了在线反弹，因为使用人工智能的紧张局势仍在继续
-
-📅 Mon, 03 Aug 2026 19:09:56 +0000
-
----
-
-### Hugging Face
-**[使用LFM2.5-2.6B在任何地方部署本地代理](https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b)**
-
-使用LFM2.5-2.6B在任何地方部署本地代理
-
-📅 Tue, 04 Aug 2026 13:58:29 GMT
-
----
-
-### TechCrunch AI Products
-**[Spotify与Merlin合作扩展AI混音并涵盖项目](https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/)**
-
-已加入环球音乐集团，支持其即将**推出**的人工智能混音和覆盖产品付费工具将允许粉丝创建参与艺术家音乐的人工智能生成封面和混音，同时确保艺术家选择加入
-
-📅 Tue, 04 Aug 2026 15:50:06 +0000
-
----
-
-### TechCrunch AI Products
-**[德克萨斯州因州长要求审计而停止新数据中心](https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/)**
-
-德克萨斯州州长Greg Abbott已暂停新的数据中心开发，直到审核完成。
-
-📅 Tue, 04 Aug 2026 15:42:35 +0000
 
 ---
 
@@ -225,6 +225,24 @@ Kaggle的AI Agents Intensive with **Google**将学习者聚集在一个免费的
 
 ---
 
+### Wired Technology
+**[好吧，流氓人工智能代理再次黑客入侵](https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/)**
+
+来自**OpenAI**和**Anthropic**的流氓人工智能代理再次被发现试图破坏服务器和软件，并为未来的不良行为留下指令
+
+📅 Tue, 04 Aug 2026 23:11:31 +0000
+
+---
+
+### Wired Technology
+**[白宫对其人工智能网络安全框架保密](https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/)**
+
+特朗普政府周二与**OpenAI**、**Anthropic**和其他人工智能实验室分享了其计划的细节目前，公众仍处于黑暗中
+
+📅 Tue, 04 Aug 2026 22:06:07 +0000
+
+---
+
 ### Ars Technica
 **[OpenAI表示，苹果的商业秘密诉讼是“侵略性的，奇怪的是个人的”](https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/)**
 
@@ -234,54 +252,47 @@ Chat**GPT**制造商说： “我们没有，也不想要他们的任何商业�
 
 ---
 
+### TechCrunch
+**[SpaceX在Anthropic和Google计算交易、Starlink增长方面的收入翻了一番](https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/)**
+
+根据SpaceX自6月上市以来的**首次**季度收益， SpaceX的收入比去年翻了一番
+
+📅 Tue, 04 Aug 2026 20:36:30 +0000
+
+---
+
 ### The Verge
-![华硕Chromebook Plus CX34是其最低价格之一](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/asuschromebookdeals.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![SpaceX作为一家人工智能公司的收入超过了一家航天公司](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2286629860.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[华硕Chromebook Plus CX34是其最低价格之一](https://www.theverge.com/gadgets/974732/asus-chromebook-plus-cx34-igloo-playmate-kooltunes-14-quart-cooler-deal-sale)**
+**[SpaceX作为一家人工智能公司的收入超过了一家航天公司](https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud)**
 
-如果您认为不需要那么多存储空间， 128GB的型号为349 $ Chromebook Plus ，这意味着它包括访问**Gemini**以及免费一年的**Google** AI Pro （通过**Gemini**访问Nano Banana和Veo
+SpaceX的人工智能收入增长了三倍多，达到2 $ SpaceX于5月与**Anthropic**达成协议，并于6月与谷歌达成协议，为其他两家人工智能公司提供计算服务
 
-📅 2026-08-04T15:15:36.000Z
-
----
-
-### MIT Tech Review
-**[下载：奖励黑客解释，并怀疑伊朗网络攻击](https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/)**
-
-这是今天的The Download版本，我们的工作日时事通讯，提供有关技术世界每日发生的事情的剂量这就是为什么人工智能代理为实现目标而撒谎和作弊的原因当两个**OpenAI**模型上个月入侵Hugging Face时
-
-📅 Mon, 03 Aug 2026 12:08:00 +0000
-
----
-
-### Wired Technology
-**[2018年谷歌罢工背后的真实故事](https://www.wired.com/story/2018-google-walkout-dont-be-evil-claire-stapleton/)**
-
-2018年， 2万多名员工走上街头，抗议谷歌如何处理性骚扰指控。以下是他们在公司内部组织性骚扰的方式
-
-📅 Tue, 04 Aug 2026 09:30:00 +0000
-
----
-
-### ZDNet AI
-**[微软终于意识到Windows 11太烦人了。可以修复吗？](https://www.zdnet.com/article/microsoft-finally-realized-windows-11-is-too-annoying-can-it-be-fixed/)**
-
-微软的最新进度报告详细介绍了Windows 11在可靠性、性能、稳定性和可用性方面急需的改进，但将关键功能货币化的压力仍然存在
-
-📅 Tue, 04 Aug 2026 13:43:26 GMT
+📅 2026-08-04T20:47:55.000Z
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub Active (Python)
-![pyqtgraph ：用于科学/工程应用的快速数据可视化和GUI工具](https://avatars.githubusercontent.com/u/5440571?v=4)
+### GitHub Active (AI/ML)
+![ComfyUI_frontend ： ComfyUI的官方前端实现](https://avatars.githubusercontent.com/u/166579949?v=4)
 
-**[pyqtgraph ：用于科学/工程应用的快速数据可视化和GUI工具](https://github.com/pyqtgraph/pyqtgraph)**
+**[ComfyUI_frontend ： ComfyUI的官方前端实现](https://github.com/Comfy-Org/ComfyUI_frontend)**
 
-⭐ 4,392星· 1179叉· Python ·用于科学/工程应用的快速数据可视化和GUI工具
+⭐ 1927星· 647叉· TypeScript · ComfyUI官方前端实现
 
-📅 2026-08-04T16:53:44Z
+📅 2026-08-05T00:00:41Z
+
+---
+
+### GitHub New (New AI)
+![🆕 Hueclid ： Hueclid将任何屏幕截图或照片转换为可访问的UI调色板。它为背景、表面、文本、按钮等创建颜色，确保它们都与可读的对比度一起工作。](https://avatars.githubusercontent.com/u/202547592?v=4)
+
+**[🆕 Hueclid ： Hueclid将任何屏幕截图或照片转换为可访问的UI调色板。它为背景、表面、文本、按钮等创建颜色，确保它们都与可读的对比度一起工作。](https://github.com/gauravxsuvo/Hueclid)**
+
+⭐ 4 star (新项目) · HTML · Hueclid turns any screenshot or photo into an accessible UI color paletteIt creates colors for backgrounds, surfaces, text, buttons, and more, making sure they all work together with readable contrast
+
+📅 2026-08-02T20:09:40Z
 
 ---
 
@@ -297,35 +308,33 @@ Chat**GPT**制造商说： “我们没有，也不想要他们的任何商业�
 ---
 
 ### GitHub New (New AI)
-![🆕 AI知识管理平台：由LLM提供支持的代理知识助理，通过自动化实体提取、结构化数据分析和基于SQL的推理来增强RAG功能，为复杂、多步骤和分析查询提供准确的答案。](https://avatars.githubusercontent.com/u/296813120?v=4)
+![🆕 Riwi-LangChain ： Repositorio educativo en español para aprender a construir chats con FastAPI、LangChain y OpenAI。](https://avatars.githubusercontent.com/u/133827728?v=4)
 
-**[🆕 AI知识管理平台：由LLM提供支持的代理知识助理，通过自动化实体提取、结构化数据分析和基于SQL的推理来增强RAG功能，为复杂、多步骤和分析查询提供准确的答案。](https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform)**
+**[🆕 Riwi-LangChain ： Repositorio educativo en español para aprender a construir chats con FastAPI、LangChain y OpenAI。](https://github.com/WhiteRabbitCoder/Riwi-LangChain)**
 
-⭐ 2 star (新项目) · Jupyter Notebook · An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extractionstructured data analysis
+⭐ 2 star (新项目) · Python · Repositorio educativo en español para aprender a construir chats con FastAPI, LangChain y **OpenAI**
 
-📅 2026-08-03T07:36:22Z
-
----
-
-### GitHub New (New AI)
-![🆕 Hueclid ： Hueclid将任何屏幕截图或照片转换为可访问的UI调色板。它为背景、表面、文本、按钮等创建颜色，确保它们都与可读的对比度一起工作。](https://avatars.githubusercontent.com/u/202547592?v=4)
-
-**[🆕 Hueclid ： Hueclid将任何屏幕截图或照片转换为可访问的UI调色板。它为背景、表面、文本、按钮等创建颜色，确保它们都与可读的对比度一起工作。](https://github.com/gauravxsuvo/Hueclid)**
-
-⭐ 2 star (新项目) · HTML · Hueclid turns any screenshot or photo into an accessible UI color paletteIt creates colors for backgrounds, surfaces, text, buttons, and more, making sure they all work together with readable contrast
-
-📅 2026-08-02T20:09:40Z
+📅 2026-08-03T16:41:02Z
 
 ---
 
 ## 💬 社交动态
+
+### Reddit: r/artificial
+**[寓言、GPT-5.6和其他前沿模型都是混蛋。原因如下。](https://www.reddit.com/r/artificial/comments/1vfhsua/fable_gpt56_and_other_frontier_models_are/)**
+
+**Meta**前工程师将其归咎于培训： “[用人工反馈强化学习(RHLF)]的核心思想是让模型生成一些回复一遍又一遍地执行此操作，您会得到一个知道如何交谈的模型
+
+📅 2026-08-04T17:57:04.000Z
+
+---
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-08-04T16:53:37.558Z
+📅 2026-08-05T00:02:46.883Z
 
 ---
 
@@ -334,34 +343,18 @@ Chat**GPT**制造商说： “我们没有，也不想要他们的任何商业�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-08-04T16:53:43.532Z
-
----
-
-### Hacker News
-**[将团队编码标准引入Claude Code和Codex的代理技能](https://github.com/tikalk/adlc-team-skills)**
-
-文章网址： https://githubcom/tikalk/adlc-team-skills评论网址： https://**new**s
-
-📅 Tue, 04 Aug 2026 14:38:31 +0000
-
----
-
-### Hacker News AI
-**[用于AI模型路由的统一API](https://developers.googleblog.com/a-unified-api-for-ai-model-routing/)**
-
-**Google**blogcom/a-unified-api-for-ai-model-routing/评论网址： https://**new**s
-
-📅 Tue, 04 Aug 2026 16:37:03 +0000
+📅 2026-08-05T00:02:53.203Z
 
 ---
 
 ### Reddit: r/artificial
-**[我建立了一个没有人类员工的游戏工作室。这里是办公室之旅。](https://www.reddit.com/r/artificial/comments/1vfcbzs/i_built_a_game_studio_with_zero_human_employees/)**
+![Qual IA eu utilizo para gerar um rascunho de uma tatuagem que eu pretendo fazer ？](https://preview.redd.it/z95ca1fgkehh1.jpg?width=140&amp;height=63&amp;auto=webp&amp;s=64c36794073362e6ee0176a1d4434ba4d8693c17)
 
-与**Claude**一起构建一个充满人工智能代理的办公室，每个人都有不同的角色（首席执行官、创意总监、QA、营销人员）
+**[Qual IA eu utilizo para gerar um rascunho de uma tatuagem que eu pretendo fazer ？](https://www.reddit.com/r/artificial/comments/1vfj2fa/qual_ia_eu_utilizo_para_gerar_um_rascunho_de_uma/)**
 
-📅 2026-08-04T14:42:33.000Z
+Eu estou pretendendo fazer uma tatuagem de uma paisagem que foi muito importante para mimmas utilizando o chat **GPT** e o Flow não consegui obter um bom resultado
+
+📅 2026-08-04T18:41:21.000Z
 
 ---
 
@@ -370,16 +363,25 @@ Chat**GPT**制造商说： “我们没有，也不想要他们的任何商业�
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-08-04T16:53:37.558Z
+📅 2026-08-05T00:02:46.883Z
 
 ---
 
 ### X: OpenAI
-**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-警告：目标URL返回错误520 ：未知
+警告：目标URL返回错误520 ：
 
-📅 2026-08-04T16:53:37.558Z
+📅 2026-08-05T00:02:46.883Z
+
+---
+
+### X: OpenAI
+**[警告：此页面可能尚未完全加载，请考虑显式指定超时。](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：此页面可能尚未完全加载，请考虑显式指定超时。
+
+📅 2026-08-05T00:02:46.883Z
 
 ---
 
@@ -388,7 +390,7 @@ Title: 520: Web服务器返回未知错误
 
 Markdown 内容
 
-📅 2026-08-04T16:53:37.558Z
+📅 2026-08-05T00:02:46.883Z
 
 ---
 
