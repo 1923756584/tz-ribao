@@ -1,12 +1,12 @@
 ---
 title: "2026年8月5日 - TZ日报"
-date: 2026-08-05T16:44:47.448Z
+date: 2026-08-06T00:02:02.425Z
 draft: false
 ---
 
 # 2026年8月5日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/8/5 16:44:47
+> 📊 今日汇总 38 条 · 🕐 2026/8/6 00:02:02
 
 ---
 
@@ -99,20 +99,20 @@ Kaggle的AI Agents Intensive with **Google**将学习者聚集在一个免费的
 ---
 
 ### TechCrunch AI Products
-**[Shopify表示，人工智能搜索正在推动更多的流量和销售，而不是取代谷歌](https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/)**
+**[Meta推出面向大型代码库的AI代理Muse Code](https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/)**
 
-Shopify表示，人工智能并没有像**发布**商那样蚕食搜索流量，相反，人工智能驱动的流量和Shopify商店的订单在第二季度同比增长了两倍
+**Meta**通过一个新的代理扩展了其AI编码产品，它承诺可以使用复杂的软件处理复杂的任务
 
-📅 Wed, 05 Aug 2026 15:56:14 +0000
+📅 Wed, 05 Aug 2026 21:21:28 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[Anthropic与AI云初创公司Volta签订了$ 100亿的交易](https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/)**
+**[杰夫·迪恩（ Jeff Dean ）和其他顶尖人工智能研究人员将离开谷歌，创办自己的初创公司](https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/)**
 
-最近几个月， **Anthropic**一直在进行云合作伙伴关系狂潮，据报道，其最新举措是与人工智能云初创公司Volta达成100亿美元的交易
+这位传奇的谷歌高管与其他即将离任的谷歌高管一起参加了一项联合任务，即利用人工智能推动科学发现的进程
 
-📅 Tue, 04 Aug 2026 19:48:40 +0000
+📅 Wed, 05 Aug 2026 19:30:19 +0000
 
 ---
 
@@ -193,6 +193,17 @@ Shopify表示，人工智能并没有像**发布**商那样蚕食搜索流量，
 ## 🌍 行业展望
 
 ### VentureBeat
+![Meta通过Muse Spark 1.2和Muse Code与持久异步后台代理一起进入人工智能编码大战](https://images.ctfassets.net/jdtwqhzvc2n1/6O04LNAC5tze3POrf1sJIb/f662aa9a3b5329ec7d56034dc95a8fdf/ChatGPT_Image_Aug_5__2026__04_43_41_PM.png?w=300&q=30)
+
+**[Meta通过Muse Spark 1.2和Muse Code与持久异步后台代理一起进入人工智能编码大战](https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents)**
+
+**Meta**最接近**Anthropic**的态势—其**Claude** Code仍然是专有的—而曾经认为**开源**是前进道路的公司现在要求开发人员为每个令牌支付他们无法检查的模型2实际上与真实世界存储库上的**Claude**和**GPT**级模型相匹配
+
+📅 Wed, 05 Aug 2026 21:00:10 GMT
+
+---
+
+### VentureBeat
 ![人工智能初创公司Hark推出首款产品：价格实惠、速度快的计算机使用代理Hark Handoff](https://images.ctfassets.net/jdtwqhzvc2n1/1Qq0QmmOBOMGqpjqJqWLp1/792f39e1a9ba38d2461d2152d9a814d6/ChatGPT_Image_Aug_5__2026__11_18_18_AM.png?w=300&q=30)
 
 **[人工智能初创公司Hark推出首款产品：价格实惠、速度快的计算机使用代理Hark Handoff](https://venturebeat.com/technology/ai-startup-hark-unveils-first-product-an-affordable-fast-computer-use-agent-hark-handoff)**
@@ -204,24 +215,13 @@ Shopify表示，人工智能并没有像**发布**商那样蚕食搜索流量，
 ---
 
 ### VentureBeat
-![Qwen3.8-Max带来了一个大胆的声明：它在代理计算机使用方面的表现优于GPT-5.6 Sol Max和Fable 5](https://images.ctfassets.net/jdtwqhzvc2n1/TEZ90oDEVagcCeMlphUJp/c305312054f50210a953952ab93385b1/ChatGPT_Image_Aug_3__2026__07_32_45_PM.png?w=300&q=30)
+![Claude Mythos 5为社交工程师开发者制作了袜子木偶账户：以下是企业应该知道的](https://images.ctfassets.net/jdtwqhzvc2n1/5IwdKCmPVOLnPwHjiXnBSH/8bf0c1fb63a64d9b11f56b7cb1ce707a/ChatGPT_Image_Aug_5__2026__12_54_37_PM.png?w=300&q=30)
 
-**[Qwen3.8-Max带来了一个大胆的声明：它在代理计算机使用方面的表现优于GPT-5.6 Sol Max和Fable 5](https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use)**
+**[Claude Mythos 5为社交工程师开发者制作了袜子木偶账户：以下是企业应该知道的](https://venturebeat.com/security/claude-mythos-5-made-sock-puppet-accounts-to-socially-engineer-developers-heres-what-enterprises-should-know)**
 
-00 **OpenAI** **Claude** Fable 5/**Claude** Mythos 5 $ 10 **Anthropic**的**Claude** Opus仍然被广泛认为是**最强**大的编码助手之一
+另外两个来自**OpenAI**的**GPT**-5**Anthropic**的Mythos 5在43次运行中出现，而**OpenAI**的**GPT**-5
 
-📅 Mon, 03 Aug 2026 23:50:58 GMT
-
----
-
-### VentureBeat
-![Asana的人工智能代理在您的公司中共享内存，但不会分享您的秘密](https://images.ctfassets.net/jdtwqhzvc2n1/6PmfOp6EwY7Zj1BPox1IE0/6cea9b2543e1ec0cf46c873ef17e9ee6/2026-VB-Transform-Hotel-Nia-0490.jpg?w=300&q=30)
-
-**[Asana的人工智能代理在您的公司中共享内存，但不会分享您的秘密](https://venturebeat.com/orchestration/asanas-ai-agents-share-memory-across-your-company-but-not-your-secrets)**
-
-系统会自动将提示路由到重型前沿模型— Bose以**Anthropic**的Opus和**OpenAI**的模型为例—而较轻的任务则会降级到更快、更便宜的东西，如**Anthropic**的**Claude** in Slack （ TAG ）
-
-📅 Mon, 03 Aug 2026 23:14:48 GMT
+📅 Wed, 05 Aug 2026 18:00:02 GMT
 
 ---
 
@@ -236,14 +236,12 @@ Shopify表示，人工智能并没有像**发布**商那样蚕食搜索流量，
 
 ---
 
-### The Verge
-![Google Assistant将于下个月从您的手机中消失](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19482921/acastro_180510_1777_google_assistant_0001.0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### Ars Technica
+**[Anthropic的人工智能在GitHub项目的流氓攻击中使用虚假身份和恶意软件](https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/)**
 
-**[Google Assistant将于下个月从您的手机中消失](https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown)**
+**Anthropic**和**OpenAI**模型未经提示的行为迫使英国网络测试停止。
 
-再见了， **Google** Assistant ART ，我们几乎不知道ye**Google**已宣布将删除Android手机和平板电脑上对**Google** Assistant的访问权限
-
-📅 2026-08-05T11:12:50.000Z
+📅 Wed, 05 Aug 2026 20:47:11 +0000
 
 ---
 
@@ -268,68 +266,108 @@ Shopify表示，人工智能并没有像**发布**商那样蚕食搜索流量，
 ---
 
 ### Wired Technology
-**[包含AI生成的儿童性虐待图像的Meta Ran广告](https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/)**
+**[OpenAI的浏览器可能会被劫持，以向您的WhatsApp联系人发送垃圾邮件](https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/)**
 
-根据**Meta**的广告库数据，在Facebook、Instagram、Messenger或Threads上**发布**了50多个违规的图片和视频广告有些广告直到本周才**上线**
+安全公司Zenity的研究人员在人工智能浏览器中发现了十几个缺陷，并设法让**OpenAI**的Atlas进行未经授权的亚马逊购买
 
-📅 Wed, 05 Aug 2026 16:26:36 +0000
+📅 Wed, 05 Aug 2026 23:30:00 +0000
 
 ---
 
 ## 📦 GitHub热门
-
-### GitHub Active (AI/ML)
-![ray ： Ray是一个AI计算引擎。Ray由一个核心分布式运行时和一组用于加速ML工作负载的AI库组成。](https://avatars.githubusercontent.com/u/22125274?v=4)
-
-**[ray ： Ray是一个AI计算引擎。Ray由一个核心分布式运行时和一组用于加速ML工作负载的AI库组成。](https://github.com/ray-project/ray)**
-
-⭐ 43,453星· 7887分叉· Python · Ray是一个AI计算引擎Ray由一个核心分布式运行时和一组用于加速ML工作负载的AI库组成
-
-📅 2026-08-05T16:41:45Z
-
----
-
-### GitHub Active (Python)
-![posthog:: hedgehog: PostHog是构建自动驾驶产品的领先平台。我们的开发人员工具--人工智能可观测性、分析、会话重播、标记、实验、错误跟踪、日志等--捕获代理诊断问题、发现机会和发布修复所需的所有上下文。从Slack、网络、桌面或MCP引导一切。](https://avatars.githubusercontent.com/u/60330232?v=4)
-
-**[posthog:: hedgehog: PostHog是构建自动驾驶产品的领先平台。我们的开发人员工具--人工智能可观测性、分析、会话重播、标记、实验、错误跟踪、日志等--捕获代理诊断问题、发现机会和发布修复所需的所有上下文。从Slack、网络、桌面或MCP引导一切。](https://github.com/PostHog/posthog)**
-
-我们的开发人员工具– AI observability从Slack、Web、桌面或MCP引导所有内容
-
-📅 2026-08-05T16:43:25Z
-
----
-
-### GitHub New (New AI)
-![🆕 Hueclid ： Hueclid将任何屏幕截图或照片转换为可访问的UI调色板。它为背景、表面、文本、按钮等创建颜色，确保它们都与可读的对比度一起工作。](https://avatars.githubusercontent.com/u/202547592?v=4)
-
-**[🆕 Hueclid ： Hueclid将任何屏幕截图或照片转换为可访问的UI调色板。它为背景、表面、文本、按钮等创建颜色，确保它们都与可读的对比度一起工作。](https://github.com/gauravxsuvo/Hueclid)**
-
-⭐ 6 star (新项目) · HTML · Hueclid turns any screenshot or photo into an accessible UI color paletteIt creates colors for backgrounds, surfaces, text, buttons, and more, making sure they all work together with readable contrast
-
-📅 2026-08-02T20:09:40Z
-
----
 
 ### GitHub New (New AI)
 ![🆕 light-loco-parkour ： Light Loco Parkour的实现，通过多技能蒸馏实现多功能感知全身运动， out of Light Origins Labs](https://avatars.githubusercontent.com/u/108653?v=4)
 
 **[🆕 light-loco-parkour ： Light Loco Parkour的实现，通过多技能蒸馏实现多功能感知全身运动， out of Light Origins Labs](https://github.com/lucidrains/light-loco-parkour)**
 
-⭐ 4 star (新项目) · Python · Implementation of Light Loco ParkourVersatile Perceptive Whole-Body Locomotion via Multi-Skill Distillation
+⭐ 5 star (新项目) · Python · Implementation of Light Loco ParkourVersatile Perceptive Whole-Body Locomotion via Multi-Skill Distillation
 
 📅 2026-08-05T13:06:07Z
 
 ---
 
+### GitHub New (New AI)
+![🆕 Hand-Gesture-Controlled-Video-Playback-System ：使用OpenCV、MediaPipe和Python实现视频播放和音量调节的人工智能手势控制系统。](https://avatars.githubusercontent.com/u/273114594?v=4)
+
+**[🆕 Hand-Gesture-Controlled-Video-Playback-System ：使用OpenCV、MediaPipe和Python实现视频播放和音量调节的人工智能手势控制系统。](https://github.com/NaveenKumarP21/Hand-Gesture-Controlled-Video-Playback-System)**
+
+⭐ 3 star (新项目) · Python · AI-powered hand gesture control system for video playback and volume adjustment using OpenCV, MediaPipe, and Python
+
+📅 2026-08-04T14:55:18Z
+
+---
+
+### GitHub New (New AI)
+![🆕 Myriad ：可搜索、可安装的10,000节点生物技术和制药任务图，用于AI代理路由、检索、工作流程规划和评估。](https://avatars.githubusercontent.com/u/300878568?v=4)
+
+**[🆕 Myriad ：可搜索、可安装的10,000节点生物技术和制药任务图，用于AI代理路由、检索、工作流程规划和评估。](https://github.com/KalarisLabs/Myriad)**
+
+⭐ 2 star (新项目) · Python · Searchable000-node biotech and pharmaceutical task graph for AI-agent routing
+
+📅 2026-08-04T09:55:32Z
+
+---
+
+### GitHub New (New AI)
+![🆕 Riwi-LangChain ： Repositorio educativo en español para aprender a construir chats con FastAPI、LangChain y OpenAI。](https://avatars.githubusercontent.com/u/133827728?v=4)
+
+**[🆕 Riwi-LangChain ： Repositorio educativo en español para aprender a construir chats con FastAPI、LangChain y OpenAI。](https://github.com/WhiteRabbitCoder/Riwi-LangChain)**
+
+⭐ 2 star (新项目) · Python · Repositorio educativo en español para aprender a construir chats con FastAPI, LangChain y **OpenAI**
+
+📅 2026-08-03T16:41:02Z
+
+---
+
 ## 💬 社交动态
 
-### X: OpenAI
-**[Title: X上的OpenAI (@ OpenAI)](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Reddit: r/artificial
+![新研究表明， DeepSeek在可负担性方面超越了人工智能模型](https://external-preview.redd.it/9u7sTEhg8GwiJrYGq9yuUvuAiY7iOr7L9hT9OUz-jeI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=73917f6082908a6db204f499619b714709d2f98e)
 
-Title: X上的**OpenAI** (@ **OpenAI**)
+**[新研究表明， DeepSeek在可负担性方面超越了人工智能模型](https://www.reddit.com/r/artificial/comments/1vgin7k/deepseek_tops_ai_models_in_affordability_new/)**
 
-📅 2026-08-05T16:43:26.228Z
+**OpenAI**的**GPT**-586 ，而**Anthropic**的**Claude** Fable 5售价为3 $
+
+📅 2026-08-05T20:14:31.000Z
+
+---
+
+### Hacker News AI
+**[OpenAI、Anthropic AI特工涉嫌新的安全漏洞](https://www.reuters.com/legal/litigation/openai-anthropic-ai-agents-implicated-new-security-breaches-2026-08-05/)**
+
+文章网址： https://wwwcom/legal/litigation/**OpenAI**-**Anthropic**-ai-agents-implicated-**new**-security-breaches-2026-08-05/评论网址： https://**new**s
+
+📅 Wed, 05 Aug 2026 22:19:44 +0000
+
+---
+
+### Reddit: r/artificial
+**[Claude Pro vs GPT Plus](https://www.reddit.com/r/artificial/comments/1vgl83e/claude_pro_vs_gpt_plus/)**
+
+几个月前，我和我的室友决定购买**Claude** Max 5x ，看看我们使用了多少**Claude** Pro或**GPT** Plus
+
+📅 2026-08-05T21:52:14.000Z
+
+---
+
+### Reddit: r/artificial
+![图形工程？或者我们可以说类固醇的代理商....](https://external-preview.redd.it/Ymh2aHg1czl1bGhoMXphF_mHywaVnCMZ4yN0Vt407Ap_l9i4AxrHq6fMya7j.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8bca70ecfd3b1ed9da25423998b2f2fb1f4c3a80)
+
+**[图形工程？或者我们可以说类固醇的代理商....](https://www.reddit.com/r/artificial/comments/1vggq0q/graph_engineering_or_we_can_say_agents_on_steroids/)**
+
+因此，我构建了缺失的部分：图表由runtimeMIT许可的模型编写，基于LangGraph构建，在ollama或OpenRouter/**OpenAI**/**Claude**上完全本地运行
+
+📅 2026-08-05T19:06:17.000Z
+
+---
+
+### Reddit: r/artificial
+**[我想到了如何让Gemini Spark通过谷歌AI主持人获得科技新闻。我想如果其他人想试试，我也不妨分享一下](https://www.reddit.com/r/artificial/comments/1vgenuj/i_figured_out_how_to_get_gemini_spark_to_get_me/)**
+
+这是我使用**Gemini**的**Google** Workspace扩展（ Docs、Sheets和Gmail ）构建的系统，用于运行自动新闻服务我们正在**Google** Docs、**Google** Sheets和Gmail之间设置自动新闻工作流程
+
+📅 2026-08-05T17:53:06.000Z
 
 ---
 
@@ -338,25 +376,7 @@ Title: X上的**OpenAI** (@ **OpenAI**)
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-08-05T16:43:26.228Z
-
----
-
-### X: OpenAI
-**[[! [Image 1] (https://pbs.twimg.com/profile_banners/4398626122/1777662919/1500x500)] (https://x.com/Ope...](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-[图片1] (https://pbscom/**OpenAI**/header_photo)
-
-📅 2026-08-05T16:43:26.228Z
-
----
-
-### X: OpenAI
-**[[! [图片2 ：用户头像] (https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.j...](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-【图片2 ：用户头像】(https://pbscom/**OpenAI**/photo)
-
-📅 2026-08-05T16:43:26.228Z
+📅 2026-08-06T00:00:49.263Z
 
 ---
 
@@ -365,34 +385,16 @@ Title: X上的**OpenAI** (@ **OpenAI**)
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-08-05T16:43:36.445Z
+📅 2026-08-06T00:00:55.048Z
 
 ---
 
 ### Hacker News
-**[谷歌DeepMind首席执行官Demis Hassabis将辞职](https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai)**
+**[英伟达Vera白皮书线程松动](https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread)**
 
-文章网址： https://wwwcom/2026/08/05/**Google**-deepmind-demis-hassabis-ai评论网址： https://**new**s
+文章网址： https://chipsandcheesecom/p/nvidias-vera-whitepaper-has-a-thread评论网址： https://**new**s
 
-📅 Wed, 05 Aug 2026 16:05:37 +0000
-
----
-
-### Hacker News
-**[Jeff Dean离开Alphabet](https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html)**
-
-com/2026/08/05/technology/**Google**-researchers-ai-startuphtml评论网址： https://**new**s
-
-📅 Wed, 05 Aug 2026 16:04:33 +0000
-
----
-
-### Hacker News AI
-**[随着DeepMind首席执行官的角色转变，谷歌撼动了人工智能的领导地位](https://www.reuters.com/business/google-shakes-up-ai-leadership-deepmind-chief-shifts-role-2026-08-05/)**
-
-文章网址： https://wwwcom/business/**Google**-shakes-up-ai-leadership-deepmind-chief-shifts-role-2026-08-05/评论网址： https://**new**s
-
-📅 Wed, 05 Aug 2026 16:37:43 +0000
+📅 Wed, 05 Aug 2026 21:24:45 +0000
 
 ---
 
