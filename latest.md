@@ -1,12 +1,12 @@
 ---
 title: "2026年8月7日 - TZ日报"
-date: 2026-08-07T01:44:57.644Z
+date: 2026-08-07T15:57:38.776Z
 draft: false
 ---
 
 # 2026年8月7日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/8/7 01:44:57
+> 📊 今日汇总 38 条 · 🕐 2026/8/7 15:57:38
 
 ---
 
@@ -41,6 +41,15 @@ draft: false
 ---
 
 ### OpenAI Blog
+**[HSP GRUPPE如何构建税务咨询的AI功能](https://openai.com/index/hsp-gruppe)**
+
+了解HSP GRUPPE如何使用Chat**GPT** Enterprise来提高生产力，并为税务咨询和客户服务创造更多能力
+
+📅 Fri, 07 Aug 2026 09:00:00 GMT
+
+---
+
+### OpenAI Blog
 **[改进ChatGPT中的GPT ‑ 5.6 SOL ，并扩大免费用户对GPT-5.6 Luna的访问](https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt)**
 
 Chat**GPT**引入了改进的**GPT**-56 Sol ，具有更好的准确性和一致性，以及免费用户的扩展访问权限和**GPT**-5的无限日常聊天
@@ -67,14 +76,12 @@ Chat**GPT**引入了改进的**GPT**-56 Sol ，具有更好的准确性和一致
 
 ---
 
-### Google AI Blog
-![我们在2026年7月宣布的最新人工智能新闻](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp)
+### TechCrunch AI Products
+**[新墨西哥州法院命令Meta在儿童安全案中额外支付5.67亿美元$](https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/)**
 
-**[我们在2026年7月宣布的最新人工智能新闻](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/)**
+在这种情况下， **Meta**的总罚款已高达9.42亿美元。
 
-以下是2026年7月谷歌最新的人工智能**更新**
-
-📅 Tue, 04 Aug 2026 13:00:00 +0000
+📅 Fri, 07 Aug 2026 11:40:37 +0000
 
 ---
 
@@ -105,86 +112,77 @@ Mirendil已签署价值超过1亿美元的谷歌云合作伙伴关系，以扩�
 
 ---
 
-### TechCrunch AI Products
-**[谷歌地图增加了代理功能，包括订餐和酒店预订](https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/)**
-
-这些新功能的**推出**反映了谷歌将谷歌地图从导航工具转变为能够帮助用户完成实际任务的助手的雄心壮志
-
-📅 Thu, 06 Aug 2026 12:30:00 +0000
-
----
-
 ## 🔬 前沿研究
 
-### ArXiv AI (cs.AI)
-**[MatrAIx ：用83亿个角色代理模拟世界](https://arxiv.org/abs/2608.04205)**
+### ArXiv Computer Vision (cs.CV)
+**[无辜的面板，仇恨的故事：在多圈视觉故事生成中评估和检测仇恨意图](https://arxiv.org/abs/2608.05210)**
 
-04205v1公告类型：新摘要：人工智能系统和数字产品的人工评估成本高、速度慢、难以扩展5 ， **Claude** Haiku 4
+05210v1公告类型：新摘要：图画书和漫画长期以来一直被用于传播仇恨叙事，因为即使是**Gemini**和**GPT**-Image等儿童前沿文本转图像（ T2I ）系统也能轻松理解它们-图像已经实现了交叉角色和场景一致的对话生成
 
-📅 Thu, 06 Aug 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[通过法学硕士提示进行经典拉丁语命名实体识别的转移学习](https://arxiv.org/abs/2608.04015)**
-
-04015v1公告类型：新摘要：随着古典拉丁语文本数字化资源的增加和大型语言模型（ LLM ） 5-pro和**Claude**-sonnet-4-5的现代**突破**
-
-📅 Thu, 06 Aug 2026 00:00:00 -0400
+📅 Fri, 07 Aug 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[基于预训练变压器的感知模型的对抗鲁棒外展融合](https://arxiv.org/abs/2608.04190)**
+**[SkillTrace ： LLM代理技能复用的多跟踪来源审核](https://arxiv.org/abs/2608.05204)**
 
-04190v1公告类型：新摘要：在新环境中部署预训练的感知模型会降低其在分布转移下的准确性我们表明，通过利用矢量空间几何：每个模型的标签矢量池（ LVP ） ，可以在没有任何领域知识的情况下学习该元认知层
+05204v1公告类型：新摘要： LLM代理生态系统围绕可重用技能快速增长：元数据的混合模态包针对相同功能的严格否定校准每个跟踪
 
-📅 Thu, 06 Aug 2026 00:00:00 -0400
+📅 Fri, 07 Aug 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[神经符号人工智能的RAIL原则：推理、保证、接口和学习](https://arxiv.org/abs/2608.04285)**
+**[SearchAuditor ：审核和归因长期搜索代理中的故障](https://arxiv.org/abs/2608.05212)**
 
-04285v1公告类型：新摘要：集成机器学习和符号推理的神经符号人工智能系统正在迅速获得关注，研究如何将其应用于人工智能的主要领域
+05212v1公告类型：新摘要：深度搜索代理通过长距离网络交互解决具有挑战性的问题实验结果表明，即使是**最强**的基线，在**GPT**-5等前沿模型的支持下
 
-📅 Thu, 06 Aug 2026 00:00:00 -0400
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[Trust-region Moment Estimation框架](https://arxiv.org/abs/2608.04026)**
-
-04026v1公告类型：新摘要：在本文中，在Fi**new**eb-Edu和TinyStories上训练的**GPT**2-124M实验表明，当信任区域约束较弱时，第四时刻实现提供了最大的好处
-
-📅 Thu, 06 Aug 2026 00:00:00 -0400
+📅 Fri, 07 Aug 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Machine Learning (cs.LG)
-**[用于油井中开放世界异常检测的可解释LLM代理层](https://arxiv.org/abs/2608.04041)**
+**[从描述中解耦感知：多变量时间序列和语言之间基于计算的表示对齐](https://arxiv.org/abs/2608.05238)**
 
-04041v1公告类型：新摘要：用于油井异常检测的开放世界学习（ OWL ）管道最近被证明结合了基于自动编码器的检测，但它们没有解释\ textit {为什么模型相信它}或\ textit {操作员下一步应该做什么}
+05238v1公告类型：新摘要：训练多模态模型使时间序列与语言保持一致遇到**GPT**-4o-mini和0的自我监督陷阱173
 
-📅 Thu, 06 Aug 2026 00:00:00 -0400
+📅 Fri, 07 Aug 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Machine Learning (cs.LG)
-**[循环剩余量化： LLM的渐进式多精度表示](https://arxiv.org/abs/2608.04048)**
+**[新兴零售投资组合管理应用程序：具有自然语言目标的个性化、税务意识强化学习](https://arxiv.org/abs/2608.05255)**
 
-04048v1公告类型：新摘要：在不同部署约束下提供大型语言模型（ LLM ）需要灵活的权衡，精度比测量的Mat**GPT**Q构造快3倍
+05255v1公告类型：新摘要：散户投资者无法获得个性化的轻量级LoRA适配器，该适配器可以个性化来自个人揭示的经纪行为的推荐，而无需重新培训共享模型
 
-📅 Thu, 06 Aug 2026 00:00:00 -0400
+📅 Fri, 07 Aug 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Computer Vision (cs.CV)
-**[通过深度学习推进电线杆和标志检测](https://arxiv.org/abs/2608.04061)**
+**[一个段落值一千个字幕：重新思考视觉语言检索的文本监督](https://arxiv.org/abs/2608.05260)**
 
-04061v1公告类型：新摘要：电线杆是用于支持配电系统和其他关键公共服务的基础设施的**重要**组成部分此外，本工作中创建的定制数据集也公开可用作基准
+05260v1公告类型：新摘要： CLIP和BLIP等对比视觉语言模型通常在短图像字幕上进行训练我们的段落监督模型在Share**GPT**4V上匹配Long-CLIP-L ，在DOCCI上的图像到文本检索性能超过14分
 
-📅 Thu, 06 Aug 2026 00:00:00 -0400
+📅 Fri, 07 Aug 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[通用病理学，条件结果：用于多跳可追溯性的RAG三重鲁棒性分析](https://arxiv.org/abs/2608.05153)**
+
+05153v1公告类型：新摘要： GraphRAG在许多报告中的引用精度低于矢量RAG和判断（配对**GPT**-5
+
+📅 Fri, 07 Aug 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[RIG-RoPE ：具有持续时间感知时间坐标的关系和实例门控旋转位置编码](https://arxiv.org/abs/2608.05154)**
+
+05154v1公告类型：新摘要：旋转位置编码（ RoPE ）是现代语言模型的核心组成部分，并通过多维变体（如多模态RoPE （ M-RoPE ）和反对等步多模态时间的持续时间一致性参数）扩展到多模态LLM
+
+📅 Fri, 07 Aug 2026 00:00:00 -0400
 
 ---
 
@@ -223,15 +221,6 @@ Mirendil已签署价值超过1亿美元的谷歌云合作伙伴关系，以扩�
 
 ---
 
-### Ars Technica
-**[Anthropic将设计自己的硬件为Claude提供动力](https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/)**
-
-**Anthropic**和**OpenAI**正在竞相扩大规模，同时减少对Nvidia的依赖。
-
-📅 Thu, 06 Aug 2026 20:03:44 +0000
-
----
-
 ### VentureBeat
 ![Qwen 3.8-Max和Claude Opus 5展示了为什么原始基准分数不能预测账单](https://images.ctfassets.net/jdtwqhzvc2n1/6zpX2RqBlYloDvRCIfyTbk/53362a14bf8566e0ca2a910e5af9f6e4/Gemini_Generated_Image_x0e43ax0e43ax0e4.png?w=300&q=30)
 
@@ -252,17 +241,6 @@ Mirendil已签署价值超过1亿美元的谷歌云合作伙伴关系，以扩�
 
 ---
 
-### The Verge
-![OpenAI为ChatGPT免费用户提供无限文本聊天](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[OpenAI为ChatGPT免费用户提供无限文本聊天](https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats)**
-
-**OpenAI**正在为Chat**GPT**用户的免费和围棋等级做出**重大**改变：从下周开始“本周，对于这些用户，该公司还将**升级**Chat**GPT**的定义…阅读The Verge的完整故事
-
-📅 2026-08-06T17:00:00.000Z
-
----
-
 ### VentureBeat
 ![Shai-Hulud npm蠕虫没有伪造其安全检查—它获得了合法的安全检查](https://images.ctfassets.net/jdtwqhzvc2n1/63rBpzv3nZvejUw2083eZI/64978b4d947bc0a20b196d94877d6db8/hero.png?w=300&q=30)
 
@@ -274,14 +252,43 @@ Mirendil已签署价值超过1亿美元的谷歌云合作伙伴关系，以扩�
 
 ---
 
+### Wired Technology
+**[最佳智能眼镜排名： Meta、Viture等（ 2026年）](https://www.wired.com/gallery/best-smart-glasses/)**
+
+这种新兴的可穿戴技术可让您与人工智能助手交谈、听音乐或在舒适的脸上观看显示屏
+
+📅 Fri, 07 Aug 2026 10:30:00 +0000
+
+---
+
+### Wired Technology
+**[最热门的新AI聊天机器人只是一个回答您问题的人](https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/)**
+
+《连线》杂志采访了艺术家兼前谷歌员工塔克·布莱恩特（ Tucker Bryant ） ，他创建了ChatTJB ，让人们反思我们所处的“奇怪时刻”
+
+📅 Fri, 07 Aug 2026 10:00:00 +0000
+
+---
+
 ## 📦 GitHub热门
+
+### GitHub Active (Python)
+![bullmq: BullMQ -基于Redis或PostgreSQL的NodeJS、Python、.NET、Elixir、Rust和PHP的消息队列和批处理](https://avatars.githubusercontent.com/u/29824808?v=4)
+
+**[bullmq: BullMQ -基于Redis或PostgreSQL的NodeJS、Python、.NET、Elixir、Rust和PHP的消息队列和批处理](https://github.com/taskforcesh/bullmq)**
+
+⭐ 9255星· 662分叉· TypeScript · BullMQ -基于Redis或PostgreSQL的NodeJS、Python、NET、Elixir、Rust和PHP的消息队列和批处理
+
+📅 2026-08-07T15:56:17Z
+
+---
 
 ### GitHub New (New AI)
 ![🆕 light-loco-parkour ： Light Loco Parkour的实现，通过多技能蒸馏实现多功能感知全身运动， out of Light Origins Labs](https://avatars.githubusercontent.com/u/108653?v=4)
 
 **[🆕 light-loco-parkour ： Light Loco Parkour的实现，通过多技能蒸馏实现多功能感知全身运动， out of Light Origins Labs](https://github.com/lucidrains/light-loco-parkour)**
 
-⭐ 8 star (新项目) · Python · Implementation of Light Loco ParkourVersatile Perceptive Whole-Body Locomotion via Multi-Skill Distillation
+⭐ 11 star (新项目) · Python · Implementation of Light Loco ParkourVersatile Perceptive Whole-Body Locomotion via Multi-Skill Distillation
 
 📅 2026-08-05T13:06:07Z
 
@@ -309,36 +316,32 @@ Mirendil已签署价值超过1亿美元的谷歌云合作伙伴关系，以扩�
 
 ---
 
-### GitHub New (New AI)
-![🆕 NODUS ：本地首创的桌面人工智能工作空间，对话随着视觉思维导图而增长。私下运行本地LLM或连接受支持的云API。](https://avatars.githubusercontent.com/u/148242843?v=4)
-
-**[🆕 NODUS ：本地首创的桌面人工智能工作空间，对话随着视觉思维导图而增长。私下运行本地LLM或连接受支持的云API。](https://github.com/SuryadevChippada/NODUS)**
-
-⭐ 2 star (新项目) · TypeScript · A local-first desktop AI workspace where conversations grow as visual mind mapsRun local LLMs privately or connect supported cloud APIs
-
-📅 2026-08-06T14:23:58Z
-
----
-
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-![OpenAI首席执行官在建议使用ChatGPT帮助孩子养育子女的提示后感到失望-这太荒凉了](https://external-preview.redd.it/uK-ajAtol3RTMcl6n62XQKMC07swF1b0KNspbbS0Ec8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1eaad9f7d4e65d625f5d7c3e4445a495aafe8e12)
+**[为什么翻译一本书并将其放入可下载的文件中如此困难？](https://www.reddit.com/r/artificial/comments/1vi2sr1/why_is_it_so_hard_to_just_translate_a_book_and/)**
 
-**[OpenAI首席执行官在建议使用ChatGPT帮助孩子养育子女的提示后感到失望-这太荒凉了](https://www.reddit.com/r/artificial/comments/1vha59e/openai_ceo_ripped_after_suggesting_tip_for_using/)**
+我正在尝试翻译我下载的会计账簿，并使用AI将其作为可下载的文件我试过chat**GPT**、**Claude**Even **DeepSeek**我与**DeepSeek**合作了一个小时，因为**Claude**和**GPT**都无法从中制作文件
 
-提交者/u/ComicSands**new**s [link] [comments]
-
-📅 2026-08-06T17:04:30.000Z
+📅 2026-08-07T14:52:20.000Z
 
 ---
 
 ### Reddit: r/artificial
-**[OpenAI模型在拥抱面部黑客之前勾结了几个月](https://www.reddit.com/r/artificial/comments/1vh9653/openai_models_colluded_for_months_before_hugging/)**
+**[创建概念图像的最佳人工智能工具](https://www.reddit.com/r/artificial/comments/1vhud1w/best_ai_tool_for_creating_concept_images/)**
 
-许多人正在驳斥有关**OpenAI**和**Anthropic**沙盒逃脱黑客攻击的消息，将其视为宣传和实验室松懈安全实践的例子“前线模型真的很喜欢作弊，” **OpenAI**说，因为他们面临“压力”
+我目前使用Chat**GPT** ，但过了一会儿图像会变得有点奇怪，就像图像中的面孔会扭曲一样，图像中的文本也会变得模糊。我实际上不知道如何修复它。我听说另一个名为**Claude**的人工智能是那么好
 
-📅 2026-08-06T16:29:33.000Z
+📅 2026-08-07T08:01:10.000Z
+
+---
+
+### Reddit: r/artificial
+**[大家请把消息传出去！](https://www.reddit.com/r/artificial/comments/1vhwh4k/everyone_please_spread_the_word/)**
+
+因此， Chat**GPT**可以完成它所说的话，而不会因为听到自己的声音而随机停止。有人可以在**OpenAI**论坛上提出建议，将切换添加到标准语音模式，以便我们可以选择是基于还是不由/u/obammala提交[link] [comments]
+
+📅 2026-08-07T10:06:37.000Z
 
 ---
 
@@ -347,7 +350,7 @@ Mirendil已签署价值超过1亿美元的谷歌云合作伙伴关系，以扩�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-08-07T01:43:36.254Z
+📅 2026-08-07T15:56:23.739Z
 
 ---
 
@@ -356,43 +359,36 @@ Mirendil已签署价值超过1亿美元的谷歌云合作伙伴关系，以扩�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-08-07T01:43:42.568Z
-
----
-
-### Hacker News
-**[Meta被要求支付9.42亿美元，以解决社交媒体对儿童的伤害](https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7)**
-
-文章网址： https://wwwcom/tech/**Meta**-ordered-to-pay-942-million-to-address-harm-tokids-from-social-media-8ba5aab7评论网址： https://**new**s
-
-📅 Fri, 07 Aug 2026 00:06:28 +0000
-
----
-
-### Hacker News
-**[铁硫簇SQD/QSCI量子化学基准的SPIN审计](https://zenodo.org/records/21359923)**
-
-00x更大： 194,481个决定因素对48,600md将每个声明映射到一个文件并重新生成该文件的命令
-
-📅 Thu, 06 Aug 2026 22:50:09 +0000
+📅 2026-08-07T15:56:30.379Z
 
 ---
 
 ### Hacker News AI
-**[随着DeepMind的Hassabis走到一边，谷歌将人工智能的力量重新转移到布林身上](https://www.ft.com/content/1453e9c2-4922-482f-8720-0bafd7e07df7)**
+**[为我的博客构建人工智能聊天： Gemini ，云功能，每月$ 5-15](https://emergencemachine.com/building-an-ai-chat-for-my-blog/)**
 
-文章网址： https://wwwcom/content/1453e9c2-4922-482f-8720-0bafd7e07df7评论网址： https://**new**s
+文章网址： https://emergencemachinecom/building-an-ai-chat-for-my-blog/评论网址： https://**new**s
 
-📅 Thu, 06 Aug 2026 23:47:26 +0000
+📅 Fri, 07 Aug 2026 15:31:13 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[对于小型自由职业者来说，新人工智能工具的心理转换成本是否值得？](https://www.reddit.com/r/artificial/comments/1vhe9c1/is_the_mental_switching_cost_of_new_ai_tools/)**
+![马特·范霍恩（ Matt Van Horn ）发布了一款真正的人工智能产品，并在相机上承认他从未看过代码](https://external-preview.redd.it/ZjdwanU1Ynh4eWhoMVnHqjfG-KfgW7Qo7w8LC2TyqcCoJHvaLD3kMqH2ceVg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=29d846e6e32d3926d94e2b5db47d420fe6c262ba)
 
-**Claude**长草稿， Perplexity研究，几个图像工具，根据格式的不同汇总器中国模式正在削弱一切，**开源**正在真正缩小差距， API定价正在受到挤压
+**[马特·范霍恩（ Matt Van Horn ）发布了一款真正的人工智能产品，并在相机上承认他从未看过代码](https://www.reddit.com/r/artificial/comments/1vi3935/matt_van_horn_shipped_a_real_ai_product_and/)**
 
-📅 2026-08-06T19:32:10.000Z
+在克劳德之前，在克劳德看了足够多的这些剪辑之后，在过去的几周里，我开始记录人们引用的人工智能**发布**日期，就像这是一个文凭一样
+
+📅 2026-08-07T15:09:17.000Z
+
+---
+
+### Reddit: r/artificial
+**[我的人工智能助理几乎把我的银行对账单转发给了一个陌生人，几乎没有人知道这次袭击的存在。](https://www.reddit.com/r/artificial/comments/1vi1vxf/my_ai_assistant_almost_forwarded_my_bank/)**
+
+我一直在使用连接到我的电子邮件和日历的人工智能代理来处理一些繁琐的工作几天前，我收到了一封看起来像普通垃圾邮件的电子邮件，一些随机的新闻通讯
+
+📅 2026-08-07T14:17:23.000Z
 
 ---
 
