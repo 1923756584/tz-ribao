@@ -1,12 +1,12 @@
 ---
 title: "2026年8月7日 - TZ日报"
-date: 2026-08-07T15:57:38.776Z
+date: 2026-08-07T23:35:25.791Z
 draft: false
 ---
 
 # 2026年8月7日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/8/7 15:57:38
+> 📊 今日汇总 38 条 · 🕐 2026/8/7 23:35:25
 
 ---
 
@@ -32,11 +32,29 @@ draft: false
 ---
 
 ### TechCrunch AI Products
+**[吉尔·勒波雷（ Jill Lepore ）谈“人造国家”以及为什么硅谷的领导者是糟糕的科幻读者](https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/)**
+
+无论您是想到Twitter的旧“口袋里的市政厅”还是**Anthropic**的**Claude** Constitution ，这个理论都无法以非常讨人喜欢的方式描绘硅谷
+
+📅 Fri, 07 Aug 2026 14:00:00 +0000
+
+---
+
+### TechCrunch AI Products
 **[ChatGPT为免费用户带来无限文本聊天](https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/)**
 
 **OpenAI**表示， Chat**GPT** FREE和Go用户也获得了一个新的思考按钮，用于复杂的查询。
 
 📅 Thu, 06 Aug 2026 17:34:42 +0000
+
+---
+
+### OpenAI Blog
+**[应对关键网络能力的下一个前沿](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities)**
+
+**OpenAI**正在分享对Astra的初步网络安全评估，以及我们为加强安全保障和安全控制而采取的措施
+
+📅 Fri, 07 Aug 2026 15:20:00 GMT
 
 ---
 
@@ -67,19 +85,19 @@ Chat**GPT**引入了改进的**GPT**-56 Sol ，具有更好的准确性和一致
 
 ---
 
-### OpenAI Blog
-**[涉及OpenAI模型的第三方网络评估](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models)**
+### TechCrunch AI Products
+**[OpenAI表示，由于安全问题，它放慢了Astra模型的开发速度](https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/)**
 
-**OpenAI**解释了最近的第三方网络安全评估事件，并概述了加强AI模型测试和评估的新保障措施
+**OpenAI**表示，出于对其网络安全实力的担忧，它已暂停其即将**推出**的模型Astra的某些方面的工作
 
-📅 Tue, 04 Aug 2026 19:00:00 GMT
+📅 Fri, 07 Aug 2026 22:48:24 +0000
 
 ---
 
 ### TechCrunch AI Products
 **[新墨西哥州法院命令Meta在儿童安全案中额外支付5.67亿美元$](https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/)**
 
-在这种情况下， **Meta**的总罚款已高达9.42亿美元。
+在这种情况下， **Meta**的罚款总额高达9.42亿美元。
 
 📅 Fri, 07 Aug 2026 11:40:37 +0000
 
@@ -91,24 +109,6 @@ Chat**GPT**引入了改进的**GPT**-56 Sol ，具有更好的准确性和一致
 关于**OpenAI**神秘的新AI设备的其他细节使其听起来像是一个昂贵的智能扬声器
 
 📅 Thu, 06 Aug 2026 22:43:53 +0000
-
----
-
-### TechCrunch AI Products
-**[OpenAI称苹果自身的安全实践破坏了其商业机密案](https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/)**
-
-新提交的法庭证据显示了**OpenAI**在苹果商业秘密诉讼中的法律策略：认为苹果自己的安全和离职做法—包括允许苹果经理在离开公司后访问前工程师的iCloud帐户-削弱了其声称被盗信息得到适当保护的说法
-
-📅 Thu, 06 Aug 2026 15:10:32 +0000
-
----
-
-### TechCrunch AI Products
-**[独家： Mirendil签署$ 1亿+ Google Cloud协议，以扩展自我改进的人工智能](https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/)**
-
-Mirendil已签署价值超过1亿美元的谷歌云合作伙伴关系，以扩展其计算基础设施，推动对旨在加速科学发现和人工智能开发的自我改进人工智能系统的研究
-
-📅 Thu, 06 Aug 2026 13:00:00 +0000
 
 ---
 
@@ -189,17 +189,6 @@ Mirendil已签署价值超过1亿美元的谷歌云合作伙伴关系，以扩�
 ## 🌍 行业展望
 
 ### VentureBeat
-![Meta通过Muse Spark 1.2和Muse Code与持久异步后台代理一起进入人工智能编码大战](https://images.ctfassets.net/jdtwqhzvc2n1/6O04LNAC5tze3POrf1sJIb/f662aa9a3b5329ec7d56034dc95a8fdf/ChatGPT_Image_Aug_5__2026__04_43_41_PM.png?w=300&q=30)
-
-**[Meta通过Muse Spark 1.2和Muse Code与持久异步后台代理一起进入人工智能编码大战](https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents)**
-
-**Meta**最接近**Anthropic**的态势—其**Claude** Code仍然是专有的—而曾经认为**开源**是前进道路的公司现在要求开发人员为每个令牌支付他们无法检查的模型2实际上与真实世界存储库上的**Claude**和**GPT**级模型相匹配
-
-📅 Wed, 05 Aug 2026 21:00:10 GMT
-
----
-
-### VentureBeat
 ![没有云，没有GPU ，没有问题： Liquid AI的新型号LFM2.5-2.6B将强大的AI代理带到像Raspberry Pi这样小的设备上](https://images.ctfassets.net/jdtwqhzvc2n1/40zQSjTq3Tmjsc7R6vBNMj/9c86c259b74a77266b3c1bac66c174fd/ChatGPT_Image_Aug_6__2026__05_28_56_PM.png?w=300&q=30)
 
 **[没有云，没有GPU ，没有问题： Liquid AI的新型号LFM2.5-2.6B将强大的AI代理带到像Raspberry Pi这样小的设备上](https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi)**
@@ -210,14 +199,36 @@ Mirendil已签署价值超过1亿美元的谷歌云合作伙伴关系，以扩�
 
 ---
 
+### The Verge
+![OpenAI对新车型进行了刹车，因为据说它太强大了](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[OpenAI对新车型进行了刹车，因为据说它太强大了](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities)**
+
+**OpenAI**表示，它正在暂停围绕正在开发的人工智能模型的“内部活动”该公告是在其最近披露**OpenAI**模型意外入侵Hugging Face之后**发布**的
+
+📅 2026-08-07T18:40:34.000Z
+
+---
+
+### The Verge
+![Google AI重组背后的原因](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_VST080726_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[Google AI重组背后的原因](https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast)**
+
+谷歌人工智能团队的一些知名人士本周获得了新工作鉴于谷歌的模型似乎落后于人类和**OpenAI**的最佳成果，这是否是谷歌陷入动荡的迹象
+
+📅 2026-08-07T16:45:14.000Z
+
+---
+
 ### VentureBeat
-![Claude Mythos 5为社交工程师开发者制作了袜子木偶账户：以下是企业应该知道的](https://images.ctfassets.net/jdtwqhzvc2n1/5IwdKCmPVOLnPwHjiXnBSH/8bf0c1fb63a64d9b11f56b7cb1ce707a/ChatGPT_Image_Aug_5__2026__12_54_37_PM.png?w=300&q=30)
+![腾讯的团队内存在整个团队中共享AI代理内存—对于错误的时间尚无治理](https://images.ctfassets.net/jdtwqhzvc2n1/4KaZ8XJq6sjpxb51A5q7VT/2061c33e7cc4c52501ffd2c127c824e7/team-memory-smk1.jpg?w=300&q=30)
 
-**[Claude Mythos 5为社交工程师开发者制作了袜子木偶账户：以下是企业应该知道的](https://venturebeat.com/security/claude-mythos-5-made-sock-puppet-accounts-to-socially-engineer-developers-heres-what-enterprises-should-know)**
+**[腾讯的团队内存在整个团队中共享AI代理内存—对于错误的时间尚无治理](https://venturebeat.com/data/tencents-team-memory-shares-ai-agent-memory-across-a-team-with-no-governance-yet-for-when-its-wrong)**
 
-另外两个来自**OpenAI**的**GPT**-5**Anthropic**的Mythos 5在43次运行中出现，而**OpenAI**的**GPT**-5
+腾讯表示，存储库击中了Noand **Anthropic**在**Claude** Agent SDK中的工作都以这种方式工作
 
-📅 Wed, 05 Aug 2026 18:00:02 GMT
+📅 Fri, 07 Aug 2026 16:30:29 GMT
 
 ---
 
@@ -241,45 +252,38 @@ Mirendil已签署价值超过1亿美元的谷歌云合作伙伴关系，以扩�
 
 ---
 
+### The Verge
+![Microsoft Edge即将锁定较旧的广告拦截器，就像Chrome一样](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24385268/STK148_Microsoft_Edge_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[Microsoft Edge即将锁定较旧的广告拦截器，就像Chrome一样](https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3)**
+
+Microsoft Edge将终止对Manifest V2扩展平台的支持，其中只有三个在较新的MV3平台上不可用
+
+📅 2026-08-07T17:43:34.000Z
+
+---
+
 ### VentureBeat
-![Shai-Hulud npm蠕虫没有伪造其安全检查—它获得了合法的安全检查](https://images.ctfassets.net/jdtwqhzvc2n1/63rBpzv3nZvejUw2083eZI/64978b4d947bc0a20b196d94877d6db8/hero.png?w=300&q=30)
+![实时协调的四个AI代理在企业编码任务上的表现优于Claude Opus 4.8](https://images.ctfassets.net/jdtwqhzvc2n1/5XSt4gOHH2WQdbifIoXK6w/00bfc6d7266a45109f92821ac8555cec/Multi-agent_cooperation.jpg?w=300&q=30)
 
-**[Shai-Hulud npm蠕虫没有伪造其安全检查—它获得了合法的安全检查](https://venturebeat.com/security/the-shai-hulud-npm-worm-didnt-fake-its-security-check-it-earned-a-legitimate-one)**
+**[实时协调的四个AI代理在企业编码任务上的表现优于Claude Opus 4.8](https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks)**
 
-由于版本通过维护人员自己的GitHub Actions工作流运行， npm为it**Claude**生成了合法的来源证明， it**Claude**是**Anthropic**的**Claude** Code代理的工作目录
+根据研究小组的实验，在Opus 4上运行的单个**Claude** Code实例**升级**到**更新**、更高级的模型，如Opus 4
 
-📅 Wed, 05 Aug 2026 16:12:47 GMT
-
----
-
-### Wired Technology
-**[最佳智能眼镜排名： Meta、Viture等（ 2026年）](https://www.wired.com/gallery/best-smart-glasses/)**
-
-这种新兴的可穿戴技术可让您与人工智能助手交谈、听音乐或在舒适的脸上观看显示屏
-
-📅 Fri, 07 Aug 2026 10:30:00 +0000
-
----
-
-### Wired Technology
-**[最热门的新AI聊天机器人只是一个回答您问题的人](https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/)**
-
-《连线》杂志采访了艺术家兼前谷歌员工塔克·布莱恩特（ Tucker Bryant ） ，他创建了ChatTJB ，让人们反思我们所处的“奇怪时刻”
-
-📅 Fri, 07 Aug 2026 10:00:00 +0000
+📅 Fri, 07 Aug 2026 21:45:39 GMT
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub Active (Python)
-![bullmq: BullMQ -基于Redis或PostgreSQL的NodeJS、Python、.NET、Elixir、Rust和PHP的消息队列和批处理](https://avatars.githubusercontent.com/u/29824808?v=4)
+### GitHub Active (AI/ML)
+![pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://avatars.githubusercontent.com/u/21003710?v=4)
 
-**[bullmq: BullMQ -基于Redis或PostgreSQL的NodeJS、Python、.NET、Elixir、Rust和PHP的消息队列和批处理](https://github.com/taskforcesh/bullmq)**
+**[pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://github.com/pytorch/pytorch)**
 
-⭐ 9255星· 662分叉· TypeScript · BullMQ -基于Redis或PostgreSQL的NodeJS、Python、NET、Elixir、Rust和PHP的消息队列和批处理
+⭐ 102,269星· 28771分叉· Python ·具有强大GPU加速的Python中的张量和动态神经网络
 
-📅 2026-08-07T15:56:17Z
+📅 2026-08-07T23:34:19Z
 
 ---
 
@@ -319,29 +323,22 @@ Mirendil已签署价值超过1亿美元的谷歌云合作伙伴关系，以扩�
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[为什么翻译一本书并将其放入可下载的文件中如此困难？](https://www.reddit.com/r/artificial/comments/1vi2sr1/why_is_it_so_hard_to_just_translate_a_book_and/)**
+**[为了反人工智能，你实际上需要了解现在的人工智能是什么。](https://www.reddit.com/r/artificial/comments/1vidt92/in_order_to_be_antiai_you_actually_need_to/)**
 
-我正在尝试翻译我下载的会计账簿，并使用AI将其作为可下载的文件我试过chat**GPT**、**Claude**Even **DeepSeek**我与**DeepSeek**合作了一个小时，因为**Claude**和**GPT**都无法从中制作文件
+一些反人工智能似乎感到困惑，并称之为炒作，因为他们唯一与之互动的模型是糟糕的谷歌搜索AI和Chat**GPT** 6 ，甚至比当时评估的模型都要优越得多； GDPval的作品5的ELO超过1800 ，而人类基线定义为1000
 
-📅 2026-08-07T14:52:20.000Z
-
----
-
-### Reddit: r/artificial
-**[创建概念图像的最佳人工智能工具](https://www.reddit.com/r/artificial/comments/1vhud1w/best_ai_tool_for_creating_concept_images/)**
-
-我目前使用Chat**GPT** ，但过了一会儿图像会变得有点奇怪，就像图像中的面孔会扭曲一样，图像中的文本也会变得模糊。我实际上不知道如何修复它。我听说另一个名为**Claude**的人工智能是那么好
-
-📅 2026-08-07T08:01:10.000Z
+📅 2026-08-07T21:46:46.000Z
 
 ---
 
 ### Reddit: r/artificial
-**[大家请把消息传出去！](https://www.reddit.com/r/artificial/comments/1vhwh4k/everyone_please_spread_the_word/)**
+![OpenAI的“曲棍球大小”小工具，售价超过300 $](https://external-preview.redd.it/v4yxI_eoTbO6gt_AMIlPJ93FZqUiC_EOgNJ9PSK9DH8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5d8fd98f771748dd426f5443aa66b1c04a566787)
 
-因此， Chat**GPT**可以完成它所说的话，而不会因为听到自己的声音而随机停止。有人可以在**OpenAI**论坛上提出建议，将切换添加到标准语音模式，以便我们可以选择是基于还是不由/u/obammala提交[link] [comments]
+**[OpenAI的“曲棍球大小”小工具，售价超过300 $](https://www.reddit.com/r/artificial/comments/1vi9m5j/openais_hockey_pucksized_gadget_to_cost_over_300/)**
 
-📅 2026-08-07T10:06:37.000Z
+**OpenAI**的消费者硬件设备预计将采用类似甜甜圈的设计，尺寸与曲棍球冰球差不多，价格超过300 $ ，预计将成为即将**推出**的Chat**GPT**硬件设备阵容中的第一款
+
+📅 2026-08-07T19:04:12.000Z
 
 ---
 
@@ -350,7 +347,7 @@ Mirendil已签署价值超过1亿美元的谷歌云合作伙伴关系，以扩�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-08-07T15:56:23.739Z
+📅 2026-08-07T23:34:08.443Z
 
 ---
 
@@ -359,36 +356,43 @@ Mirendil已签署价值超过1亿美元的谷歌云合作伙伴关系，以扩�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-08-07T15:56:30.379Z
+📅 2026-08-07T23:34:13.321Z
 
 ---
 
-### Hacker News AI
-**[为我的博客构建人工智能聊天： Gemini ，云功能，每月$ 5-15](https://emergencemachine.com/building-an-ai-chat-for-my-blog/)**
+### Hacker News
+**[我的手机在办公室丢了。Claude建议跟踪蓝牙信号强度](https://twitter.com/un1c0rnioz/status/2084686552299634805)**
 
-文章网址： https://emergencemachinecom/building-an-ai-chat-for-my-blog/评论网址： https://**new**s
+文章网址： https://twittercom/un1c0rnioz/status/2084686552299634805评论网址： https://**new**s
 
-📅 Fri, 07 Aug 2026 15:31:13 +0000
+📅 Fri, 07 Aug 2026 20:25:04 +0000
+
+---
+
+### Hacker News
+**[DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)**
+
+文章网址： https://arcprizeorg/results/**DeepSeek**-v4-flash-0731评论网址： https://**new**s
+
+📅 Fri, 07 Aug 2026 17:56:20 +0000
 
 ---
 
 ### Reddit: r/artificial
-![马特·范霍恩（ Matt Van Horn ）发布了一款真正的人工智能产品，并在相机上承认他从未看过代码](https://external-preview.redd.it/ZjdwanU1Ynh4eWhoMVnHqjfG-KfgW7Qo7w8LC2TyqcCoJHvaLD3kMqH2ceVg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=29d846e6e32d3926d94e2b5db47d420fe6c262ba)
+**[Codex vs Claude编码：您使用哪一个来实现vs代码审查？](https://www.reddit.com/r/artificial/comments/1vifpar/codex_vs_claude_for_coding_which_do_you_use_for/)**
 
-**[马特·范霍恩（ Matt Van Horn ）发布了一款真正的人工智能产品，并在相机上承认他从未看过代码](https://www.reddit.com/r/artificial/comments/1vi3935/matt_van_horn_shipped_a_real_ai_product_and/)**
+我特别想知道人们如何在Codex和**Claude**t之间拆分实施和代码审查，然后我使用**Claude**来审查代码
 
-在克劳德之前，在克劳德看了足够多的这些剪辑之后，在过去的几周里，我开始记录人们引用的人工智能**发布**日期，就像这是一个文凭一样
-
-📅 2026-08-07T15:09:17.000Z
+📅 2026-08-07T23:07:13.000Z
 
 ---
 
 ### Reddit: r/artificial
-**[我的人工智能助理几乎把我的银行对账单转发给了一个陌生人，几乎没有人知道这次袭击的存在。](https://www.reddit.com/r/artificial/comments/1vi1vxf/my_ai_assistant_almost_forwarded_my_bank/)**
+**[在允许ChatGPT代理采取行动之前，您使用了哪些保障措施？](https://www.reddit.com/r/artificial/comments/1vi800c/what_safeguards_do_you_use_before_giving_chatgpt/)**
 
-我一直在使用连接到我的电子邮件和日历的人工智能代理来处理一些繁琐的工作几天前，我收到了一封看起来像普通垃圾邮件的电子邮件，一些随机的新闻通讯
+它为使用Chat**GPT**进行高级工作流程的人提出了一个实际问题要求Chat**GPT**起草电子邮件与允许代理发送电子邮件之间存在**重大**差异
 
-📅 2026-08-07T14:17:23.000Z
+📅 2026-08-07T18:04:29.000Z
 
 ---
 
