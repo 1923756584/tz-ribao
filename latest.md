@@ -1,12 +1,12 @@
 ---
 title: "2026年8月8日 - TZ日报"
-date: 2026-08-08T15:31:40.536Z
+date: 2026-08-08T23:29:46.274Z
 draft: false
 ---
 
 # 2026年8月8日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/8/8 15:31:40
+> 📊 今日汇总 38 条 · 🕐 2026/8/8 23:29:46
 
 ---
 
@@ -28,6 +28,15 @@ draft: false
 新的**OpenAI** Signals数据显示了人们如何在全球范围内使用Chat**GPT** ，并提供有关采用、使用趋势和不断变化的行为的国家级见解
 
 📅 Thu, 06 Aug 2026 00:00:00 GMT
+
+---
+
+### TechCrunch AI Products
+**[OpenAI收购演示文稿初创公司NextSlide](https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/)**
+
+NextSlide表示，其团队成员现在正在开发Chat**GPT**。
+
+📅 Sat, 08 Aug 2026 19:41:13 +0000
 
 ---
 
@@ -100,15 +109,6 @@ Chat**GPT**引入了改进的**GPT**-56 Sol ，具有更好的准确性和一致
 在这种情况下， **Meta**的罚款总额高达9.42亿美元。
 
 📅 Fri, 07 Aug 2026 11:40:37 +0000
-
----
-
-### TechCrunch AI Products
-**[据报道， OpenAI的新AI智能音箱售价在300 $至400 $之间](https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/)**
-
-关于**OpenAI**神秘的新AI设备的其他细节使其听起来像是一个昂贵的智能扬声器
-
-📅 Thu, 06 Aug 2026 22:43:53 +0000
 
 ---
 
@@ -199,17 +199,6 @@ Chat**GPT**引入了改进的**GPT**-56 Sol ，具有更好的准确性和一致
 
 ---
 
-### The Verge
-![OpenAI对新车型进行了刹车，因为据说它太强大了](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[OpenAI对新车型进行了刹车，因为据说它太强大了](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities)**
-
-**OpenAI**表示，它正在暂停围绕正在开发的人工智能模型的“内部活动”该公告是在其最近披露**OpenAI**模型意外入侵Hugging Face之后**发布**的
-
-📅 2026-08-07T18:40:34.000Z
-
----
-
 ### VentureBeat
 ![腾讯的团队内存在整个团队中共享AI代理内存—对于错误的时间尚无治理](https://images.ctfassets.net/jdtwqhzvc2n1/4KaZ8XJq6sjpxb51A5q7VT/2061c33e7cc4c52501ffd2c127c824e7/team-memory-smk1.jpg?w=300&q=30)
 
@@ -270,7 +259,38 @@ Chat**GPT**引入了改进的**GPT**-56 Sol ，具有更好的准确性和一致
 
 ---
 
+### Ars Technica
+**[OpenAI昂贵的智能扬声器将使用活动部件来看起来“更有活力”](https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/)**
+
+Gurman报告称， **OpenAI**证实该演讲者不是苹果的骗子。
+
+📅 Fri, 07 Aug 2026 17:36:22 +0000
+
+---
+
 ## 📦 GitHub热门
+
+### GitHub Active (AI/ML)
+![ComfyUI_frontend ： ComfyUI的官方前端实现](https://avatars.githubusercontent.com/u/166579949?v=4)
+
+**[ComfyUI_frontend ： ComfyUI的官方前端实现](https://github.com/Comfy-Org/ComfyUI_frontend)**
+
+⭐ 1,942星· 653叉· TypeScript · ComfyUI的官方前端实现
+
+📅 2026-08-08T23:26:47Z
+
+---
+
+### GitHub Active (AI/ML)
+![lionagi ：智能管弦乐队](https://avatars.githubusercontent.com/u/122793010?v=4)
+
+**[lionagi ：智能管弦乐队](https://github.com/ohdearquant/lionagi)**
+
+⭐ 402星· 81叉·蟒蛇·智慧乐团
+
+📅 2026-08-08T23:27:19Z
+
+---
 
 ### GitHub New (New AI)
 ![🆕 light-loco-parkour ： Light Loco Parkour的实现，通过多技能蒸馏实现多功能感知全身运动， out of Light Origins Labs](https://avatars.githubusercontent.com/u/108653?v=4)
@@ -288,42 +308,20 @@ Chat**GPT**引入了改进的**GPT**-56 Sol ，具有更好的准确性和一致
 
 **[🆕 1c-ai-guide ： Практический гайд по AI для 1С ： MCP、代理技能、OData、безопасность и проверяемые сценарии](https://github.com/Aleksandr-Litvinenko/1c-ai-guide)**
 
-⭐ 4 star (新项目) · Python · Практический гайд по AI для 1С: MCP, Agent Skills, OData, безопасность и проверяемые сценарии
+⭐ 6 star (新项目) · Python · Практический гайд по AI для 1С: MCP, Agent Skills, OData, безопасность и проверяемые сценарии
 
 📅 2026-08-07T08:05:21Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 ai-assurance-profile ：用于AI系统保证的可运行评估线束+采购标准：探测LLM/代理的提示注入、越狱、数据泄露、拒绝可靠性和可审计性，并发出机器可读的保证报告，其中包含映射到NIST AI RMF、SP 800-53、FedRAMP、OWASP LLM Top 10和MITRE ATLAS的门控授权决策。](https://avatars.githubusercontent.com/u/129031138?v=4)
-
-**[🆕 ai-assurance-profile ：用于AI系统保证的可运行评估线束+采购标准：探测LLM/代理的提示注入、越狱、数据泄露、拒绝可靠性和可审计性，并发出机器可读的保证报告，其中包含映射到NIST AI RMF、SP 800-53、FedRAMP、OWASP LLM Top 10和MITRE ATLAS的门控授权决策。](https://github.com/Krishita17/ai-assurance-profile)**
-
-⭐ 3 star (新项目) · Python · A runnable evaluation harness + procurement standard for AI system assurance: probes an LLM/agent for prompt-injectionjailbreak
-
-📅 2026-08-07T14:08:04Z
-
----
-
-### GitHub New (New AI)
-![🆕 spring-ai-privacy-guardrails ： Spring AI的隐私保护：使用Presidio和JVM-local OpenNLP ，跨模型/工具调用进行请求范围的PII标记化和最低权限披露。](https://avatars.githubusercontent.com/u/116135174?v=4)
-
-**[🆕 spring-ai-privacy-guardrails ： Spring AI的隐私保护：使用Presidio和JVM-local OpenNLP ，跨模型/工具调用进行请求范围的PII标记化和最低权限披露。](https://github.com/ultramancode/spring-ai-privacy-guardrails)**
-
-⭐ 3 star (新项目) · Java · Privacy guardrails for Spring AI: request-scoped PII tokenization and least-privilege disclosure across model/tool callswith Presidio and JVM-local OpenNLP
-
-📅 2026-08-05T05:52:39Z
-
----
-
 ## 💬 社交动态
 
-### X: OpenAI
-**[Title: X上的OpenAI (@ OpenAI)](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Reddit: r/artificial
+**[连续性问题：我们的大脑所需要的只是一个外部GPU](https://www.reddit.com/r/artificial/comments/1vj93z1/the_continuity_problem_all_our_brain_needs_is_an/)**
 
-Title: X上的**OpenAI** (@ **OpenAI**)
+当某些东西停止工作时，我首先检查空气燃料和火花这整个理论源于我与Chat**GPT**的交流
 
-📅 2026-08-08T15:30:19.601Z
+📅 2026-08-08T22:35:42.000Z
 
 ---
 
@@ -332,25 +330,7 @@ Title: X上的**OpenAI** (@ **OpenAI**)
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-08-08T15:30:19.601Z
-
----
-
-### X: OpenAI
-**[[! [Image 1] (https://pbs.twimg.com/profile_banners/4398626122/1777662919/1500x500)] (https://x.com/Ope...](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-[图片1] (https://pbscom/**OpenAI**/header_photo)
-
-📅 2026-08-08T15:30:19.601Z
-
----
-
-### X: OpenAI
-**[[! [图片2 ：用户头像] (https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.j...](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-【图片2 ：用户头像】(https://pbscom/**OpenAI**/photo)
-
-📅 2026-08-08T15:30:19.601Z
+📅 2026-08-08T23:28:20.605Z
 
 ---
 
@@ -359,34 +339,56 @@ Title: X上的**OpenAI** (@ **OpenAI**)
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-08-08T15:30:31.783Z
+📅 2026-08-08T23:28:27.040Z
 
 ---
 
 ### Hacker News
-**[OpenAI意外攻击拥抱脸的时间表](https://simonwillison.net/2026/Aug/7/openai-timeline/)**
+**[向您的其他Claude Code会话发送消息](https://code.claude.com/docs/en/cross-session-messaging)**
 
-文章网址： https://simonwillisonnet/2026/Aug/7/**OpenAI**-timeline/评论网址： https://**new**s
+**Claude**com/docs/en/cross-session-messaging评论网址： https://**new**s
 
-📅 Sat, 08 Aug 2026 10:57:44 +0000
-
----
-
-### Hacker News
-**[Microsoft Edge即将锁定较旧的广告拦截器，就像Chrome一样](https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3)**
-
-文章网址： https://wwwcom/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3评论网址： https://**new**s
-
-📅 Sat, 08 Aug 2026 10:16:07 +0000
+📅 Sat, 08 Aug 2026 15:34:49 +0000
 
 ---
 
 ### Hacker News AI
-**[在人工智能资本支出的祭坛上，谷歌正在牺牲金鹅](https://twitter.com/MaxAnderson/status/2080229375773941871)**
+**[谷歌DeepMind进入新时代，联合创始人Demis Hassabis转变AI角色](https://www.theguardian.com/technology/2026/aug/08/google-demis-hassabis-deepmind-shifts-role)**
 
-文章网址： https://twittercom/MaxAnderson/status/2080229375773941871评论网址： https://**new**s
+文章网址： https://wwwcom/technology/2026/aug/08/**Google**-demis-hassabis-deepmind-shifts-role评论网址： https://**new**s
 
-📅 Sat, 08 Aug 2026 14:03:44 +0000
+📅 Sat, 08 Aug 2026 22:49:54 +0000
+
+---
+
+### Reddit: r/artificial
+![所以人工智能现在已经设计出了真正有效的病毒……](https://preview.redd.it/6bhwir50c6ih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=362ef120f5244cf5e70597c401e6ae09b5eb45e6)
+
+**[所以人工智能现在已经设计出了真正有效的病毒……](https://www.reddit.com/r/artificial/comments/1vizn4x/so_ai_has_now_designed_actual_viruses_that_work/)**
+
+研究人员使用人工智能来设计自然界中不存在的全新病毒显然，这并不意味着有人可以要求Chat**GPT**在明天制造致命的病毒
+
+📅 2026-08-08T16:00:29.000Z
+
+---
+
+### Reddit: r/artificial
+**[AGI已经在这里还是缺少了什么？](https://www.reddit.com/r/artificial/comments/1viyqff/is_agi_already_here_or_something_is_missing/)**
+
+最近我了解了ABT Jacobin猜想的反例（ 3D ）和**OpenAI**的论文如果到目前为止没有人无法解决它，我能得出AI比人类更好的结论吗？
+
+📅 2026-08-08T15:22:34.000Z
+
+---
+
+### Reddit: r/artificial
+![使用没有版权问题的图像的最佳人工智能？](https://preview.redd.it/0pjg0ylav5ih1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5d764f8a113f2fcbdd38d91af80dd90c007daa5a)
+
+**[使用没有版权问题的图像的最佳人工智能？](https://www.reddit.com/r/artificial/comments/1viycnv/best_ai_to_work_with_images_with_no_copyright/)**
+
+Chat**GPT**很好，但不适用于这种图像它说“违反了我们对与第三方内容相似性的保护措施
+
+📅 2026-08-08T15:06:44.000Z
 
 ---
 
