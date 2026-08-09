@@ -1,12 +1,12 @@
 ---
 title: "2026年8月9日 - TZ日报"
-date: 2026-08-09T15:33:32.720Z
+date: 2026-08-09T23:32:21.152Z
 draft: false
 ---
 
 # 2026年8月9日 - TZ日报
 
-> 📊 今日汇总 30 条 · 🕐 2026/8/9 15:33:32
+> 📊 今日汇总 30 条 · 🕐 2026/8/9 23:32:21
 
 ---
 
@@ -22,20 +22,20 @@ draft: false
 ## ✨ 产品更新
 
 ### TechCrunch AI Products
+**[Anthropic正在默认情况下打开Claude Code的自动模式](https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/)**
+
+使用**Claude** Code编程很快将需要更少的人工监督。
+
+📅 Sun, 09 Aug 2026 19:20:32 +0000
+
+---
+
+### TechCrunch AI Products
 **[OpenAI收购演示文稿初创公司NextSlide](https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/)**
 
 NextSlide表示，其团队成员现在正在开发Chat**GPT**。
 
 📅 Sat, 08 Aug 2026 19:41:13 +0000
-
----
-
-### TechCrunch AI Products
-**[吉尔·勒波雷（ Jill Lepore ）谈“人造国家”以及为什么硅谷的领导者是糟糕的科幻读者](https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/)**
-
-无论您是想到Twitter的旧“口袋里的市政厅”还是**Anthropic**的**Claude** Constitution ，这个理论都无法以非常讨人喜欢的方式描绘硅谷
-
-📅 Fri, 07 Aug 2026 14:00:00 +0000
 
 ---
 
@@ -66,21 +66,21 @@ NextSlide表示，其团队成员现在正在开发Chat**GPT**。
 
 ---
 
-### TechCrunch AI Products
-**[新墨西哥州法院命令Meta在儿童安全案中额外支付5.67亿美元$](https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/)**
-
-在这种情况下， **Meta**的罚款总额高达9.42亿美元。
-
-📅 Fri, 07 Aug 2026 11:40:37 +0000
-
----
-
 ### Hugging Face
 **[TutorMoments ：人工智能导师是否知道什么时候该提供帮助，什么时候该退缩？](https://huggingface.co/blog/allenai/tutormoments)**
 
 TutorMoments ：人工智能导师是否知道什么时候该提供帮助，什么时候该退缩？
 
 📅 Fri, 07 Aug 2026 17:53:32 GMT
+
+---
+
+### TechCrunch AI Products
+**[陷入困境的对冲基金Situational Awareness向芯片初创公司Source Foundry投资4亿$](https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/)**
+
+这家专注于人工智能的对冲基金仍在进行一些大赌注。
+
+📅 Sun, 09 Aug 2026 20:35:17 +0000
 
 ---
 
@@ -114,17 +114,6 @@ TutorMoments ：人工智能导师是否知道什么时候该提供帮助，什�
 ## 🌍 行业展望
 
 ### VentureBeat
-![没有云，没有GPU ，没有问题： Liquid AI的新型号LFM2.5-2.6B将强大的AI代理带到像Raspberry Pi这样小的设备上](https://images.ctfassets.net/jdtwqhzvc2n1/40zQSjTq3Tmjsc7R6vBNMj/9c86c259b74a77266b3c1bac66c174fd/ChatGPT_Image_Aug_6__2026__05_28_56_PM.png?w=300&q=30)
-
-**[没有云，没有GPU ，没有问题： Liquid AI的新型号LFM2.5-2.6B将强大的AI代理带到像Raspberry Pi这样小的设备上](https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi)**
-
-它将与**GPT**和**Claude**的性能相匹配—实际上是从4B开始的本地多模态，并依靠规模化强化学习来追求前沿风格的推理—阿里巴巴在推理基准上将9B模型吹捧为匹配或击败**OpenAI**更大的**GPT**-oss-120B
-
-📅 Thu, 06 Aug 2026 22:56:06 GMT
-
----
-
-### VentureBeat
 ![腾讯的团队内存在整个团队中共享AI代理内存—对于错误的时间尚无治理](https://images.ctfassets.net/jdtwqhzvc2n1/4KaZ8XJq6sjpxb51A5q7VT/2061c33e7cc4c52501ffd2c127c824e7/team-memory-smk1.jpg?w=300&q=30)
 
 **[腾讯的团队内存在整个团队中共享AI代理内存—对于错误的时间尚无治理](https://venturebeat.com/data/tencents-team-memory-shares-ai-agent-memory-across-a-team-with-no-governance-yet-for-when-its-wrong)**
@@ -132,17 +121,6 @@ TutorMoments ：人工智能导师是否知道什么时候该提供帮助，什�
 腾讯表示，存储库击中了Noand **Anthropic**在**Claude** Agent SDK中的工作都以这种方式工作
 
 📅 Fri, 07 Aug 2026 16:30:29 GMT
-
----
-
-### VentureBeat
-![Qwen 3.8-Max和Claude Opus 5展示了为什么原始基准分数不能预测账单](https://images.ctfassets.net/jdtwqhzvc2n1/6zpX2RqBlYloDvRCIfyTbk/53362a14bf8566e0ca2a910e5af9f6e4/Gemini_Generated_Image_x0e43ax0e43ax0e4.png?w=300&q=30)
-
-**[Qwen 3.8-Max和Claude Opus 5展示了为什么原始基准分数不能预测账单](https://venturebeat.com/orchestration/qwen-3-8-max-and-claude-opus-5-show-why-raw-benchmark-scores-dont-predict-the-bill)**
-
-本周8-Max将预览版推向市场，仅次于**Claude** Fable 5 （他们的**发布**日表更加模棱两可：该型号在12个编码代理行中的一个行中领先） 8-Max的第一周是价格比较，因为这是唯一可用的数据
-
-📅 Thu, 06 Aug 2026 16:11:47 GMT
 
 ---
 
@@ -193,18 +171,27 @@ Gurman报告称， **OpenAI**证实该演讲者不是苹果的骗子。
 
 ---
 
-## 📦 GitHub热门
+### ZDNet AI
+**[我将谷歌更昂贵的Pixel 11系列与三星的Galaxy系列进行了比较-这是现在更好的价值](https://www.zdnet.com/article/google-pricier-pixel-11-series-compared-to-samsung-galaxy-lineup-heres-the-better-value/)**
 
-### GitHub Active (Python)
-![Flexget ：官方FlexGet存储库](https://avatars.githubusercontent.com/u/682553?v=4)
+Pixel 11的价格可能会更高，但谷歌的软件优势可能会让您物有所值。
 
-**[Flexget ：官方FlexGet存储库](https://github.com/Flexget/Flexget)**
-
-⭐ 1960星· 477叉·蟒蛇·官方FlexGet仓库
-
-📅 2026-08-09T15:32:39Z
+📅 Fri, 07 Aug 2026 14:10:00 GMT
 
 ---
+
+### The Verge
+![人工智能探测器正在创造一个新的不信任时代](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[人工智能探测器正在创造一个新的不信任时代](https://www.theverge.com/column/976690/ai-writing-detectors-suspicion)**
+
+有关人工智能如何改变我们日常生活的更多新闻，请关注Emma Roth在Chat**GPT**成为现实之前很久就开始了
+
+📅 2026-08-09T12:00:00.000Z
+
+---
+
+## 📦 GitHub热门
 
 ### GitHub New (New AI)
 ![🆕 industrial-mcp: 将工业设备变成 AI 可控工具的 MCP 服务器。支持 Modbus、OPC UA、MQTT 三种协议，内置设备仿真引擎、物理模型和完整的调试工具链。让 Claude 用自然语言监控传感器、启停电机、执行工厂巡检。](https://avatars.githubusercontent.com/u/283538322?v=4)
@@ -222,7 +209,7 @@ Gurman报告称， **OpenAI**证实该演讲者不是苹果的骗子。
 
 **[🆕 1c-ai-guide ： Практический гайд по AI для 1С ： MCP、代理技能、OData、безопасность и проверяемые сценарии](https://github.com/Aleksandr-Litvinenko/1c-ai-guide)**
 
-⭐ 6 star (新项目) · Python · Практический гайд по AI для 1С: MCP, Agent Skills, OData, безопасность и проверяемые сценарии
+⭐ 7 star (新项目) · Python · Практический гайд по AI для 1С: MCP, Agent Skills, OData, безопасность и проверяемые сценарии
 
 📅 2026-08-07T08:05:21Z
 
@@ -239,25 +226,34 @@ Gurman报告称， **OpenAI**证实该演讲者不是苹果的骗子。
 
 ---
 
-## 💬 社交动态
+### GitHub New (New AI)
+![🆕 ai-assurance-profile ：用于AI系统保证的可运行评估线束+采购标准：探测LLM/代理的提示注入、越狱、数据泄露、拒绝可靠性和可审计性，并发出机器可读的保证报告，其中包含映射到NIST AI RMF、SP 800-53、FedRAMP、OWASP LLM Top 10和MITRE ATLAS的门控授权决策。](https://avatars.githubusercontent.com/u/129031138?v=4)
 
-### Reddit: r/artificial
-![Meta首次推出对抗Anthropic和OpenAI的AI编码代理](https://external-preview.redd.it/s3dIGFmYfWxtKeu90fPdTW0xWGLrutXyd27YfgPgX4Q.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=000cf997d6a492701616de8361e2776abdd444fe)
+**[🆕 ai-assurance-profile ：用于AI系统保证的可运行评估线束+采购标准：探测LLM/代理的提示注入、越狱、数据泄露、拒绝可靠性和可审计性，并发出机器可读的保证报告，其中包含映射到NIST AI RMF、SP 800-53、FedRAMP、OWASP LLM Top 10和MITRE ATLAS的门控授权决策。](https://github.com/Krishita17/ai-assurance-profile)**
 
-**[Meta首次推出对抗Anthropic和OpenAI的AI编码代理](https://www.reddit.com/r/artificial/comments/1vjh4s6/meta_debuts_first_ai_coding_agent_to_take_on/)**
+⭐ 3 star (新项目) · Python · A runnable evaluation harness + procurement standard for AI system assurance: probes an LLM/agent for prompt-injectionjailbreak
 
-提交者/u/Junior_Froyo_6621 [link] [comments]
-
-📅 2026-08-09T05:17:10.000Z
+📅 2026-08-07T14:08:04Z
 
 ---
 
-### Hacker News
-**[70%的人工智能收入来自OpenAI和Anthropic](https://www.youtube.com/watch?v=68X8yEatepQ)**
+## 💬 社交动态
 
-文章网址： https://wwwv = 68X8yEatepQ评论网址： https://**new**s
+### Reddit: r/artificial
+**[是大国之间的技术战争吗？](https://www.reddit.com/r/artificial/comments/1vjw556/is_the_war_of_the_technology_between_giant_nations/)**
 
-📅 Sun, 09 Aug 2026 11:56:16 +0000
+作为人工智能的日常用户，我主要使用**Gemini**、**Claude**、Chat**GPT**、困惑等工具，但在使用**DeepSeek**时
+
+📅 2026-08-09T17:42:37.000Z
+
+---
+
+### Reddit: r/artificial
+**[OpenAI表示Codex的272k上下文上限是缓存读取成本，而不是同一数字的2x计费行](https://www.reddit.com/r/artificial/comments/1vjvpwb/openais_stated_reason_for_codexs_272k_context_cap/)**
+
+codex附带模型目录，模型元数据中的**GPT**-5a编号，在普通版本中，没有博客文章，也没有**更新**日志条目
+
+📅 2026-08-09T17:25:42.000Z
 
 ---
 
@@ -266,7 +262,7 @@ Gurman报告称， **OpenAI**证实该演讲者不是苹果的骗子。
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-08-09T15:32:33.609Z
+📅 2026-08-09T23:31:26.433Z
 
 ---
 
@@ -275,43 +271,43 @@ Gurman报告称， **OpenAI**证实该演讲者不是苹果的骗子。
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-08-09T15:32:38.400Z
-
----
-
-### Hacker News
-**[适用于Windows 1.1a的Microsoft Word ，原生X64端口](https://github.com/jmarshall23/msword)**
-
-文章网址： https://githubcom/jmarshall23/msword评论网址： https://**new**s
-
-📅 Sun, 09 Aug 2026 05:23:41 +0000
-
----
-
-### Hacker News AI
-**[显示HN ：求职者–用于求职的AI代理技能](https://github.com/galiprandi/job-seeker)**
-
-**Claude**Comments网址： https://**new**s
-
-📅 Sun, 09 Aug 2026 13:20:51 +0000
+📅 2026-08-09T23:31:32.551Z
 
 ---
 
 ### Reddit: r/artificial
-**[为什么还没有独立人工智能代理的“应用商店” ？](https://www.reddit.com/r/artificial/comments/1vjr1kf/why_is_there_no_app_store_for_independent_ai/)**
+**[过滤掉“[LLM]糟透了”](https://www.reddit.com/r/artificial/comments/1vjzrbx/filtering_out_llm_sucks/)**
 
-现在有很多“氛围编码”或低代码平台可以让您连接模型我也听说过谷歌计划**推出**代理商市场的传言
+但我觉得我的一半时间是人们来这里抱怨这个或那个法学硕士很糟糕我不在乎是克劳德还是法典或其他什么
 
-📅 2026-08-09T14:17:50.000Z
+📅 2026-08-09T20:03:15.000Z
 
 ---
 
-### Reddit: r/artificial
-**[以每月不到30美元的价格建造一个小小的人工智能副业堆栈，现在我害怕它实际上是有效的](https://www.reddit.com/r/artificial/comments/1vjojr5/built_a_tiny_ai_sidehustle_stack_for_under_30/)**
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-几个月前，我整理了自己的工作流程--我在GitHuba上找到了一些廉价的**Claude**订阅
+Title: 520: Web服务器返回未知错误
 
-📅 2026-08-09T12:24:01.000Z
+📅 2026-08-09T23:31:26.433Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误520 ：未知
+
+📅 2026-08-09T23:31:26.433Z
+
+---
+
+### X: OpenAI
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Markdown 内容
+
+📅 2026-08-09T23:31:26.433Z
 
 ---
 
