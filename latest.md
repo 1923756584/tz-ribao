@@ -1,12 +1,12 @@
 ---
 title: "2026年8月10日 - TZ日报"
-date: 2026-08-10T16:04:03.286Z
+date: 2026-08-10T23:36:44.530Z
 draft: false
 ---
 
 # 2026年8月10日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/8/10 16:04:03
+> 📊 今日汇总 38 条 · 🕐 2026/8/10 23:36:44
 
 ---
 
@@ -22,21 +22,21 @@ draft: false
 
 ## ✨ 产品更新
 
+### OpenAI Blog
+**[随着网络防御窗口的缩小，黎明不断扩大](https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows)**
+
+了解**GPT**-5**OpenAI**通过Daybreak Red提供的网络安全特定模型，以进行授权漏洞研究
+
+📅 Mon, 10 Aug 2026 10:00:00 GMT
+
+---
+
 ### TechCrunch AI Products
 **[Anthropic正在默认情况下打开Claude Code的自动模式](https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/)**
 
 使用**Claude** Code编程很快将需要更少的人工监督。
 
 📅 Sun, 09 Aug 2026 19:20:32 +0000
-
----
-
-### TechCrunch AI Products
-**[OpenAI收购演示文稿初创公司NextSlide](https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/)**
-
-NextSlide表示，其团队成员现在正在开发Chat**GPT**。
-
-📅 Sat, 08 Aug 2026 19:41:13 +0000
 
 ---
 
@@ -58,6 +58,51 @@ Model ML使用**GPT**-56 SOL通过可编辑、可追溯的PowerPoint演示文稿
 
 ---
 
+### OpenAI Blog
+**[构建AI原生金融功能教会了我什么](https://openai.com/index/building-an-ai-native-finance-function)**
+
+**OpenAI**首席财务官Sarah Friar分享了构建AI原生财务功能的五个经验教训，从自动化预测到更强的控制和AI ROI
+
+📅 Mon, 10 Aug 2026 17:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[将前沿网络模型交到更值得信赖的人手中](https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands)**
+
+获批的Daybreak合作伙伴可以使用**OpenAI**的前沿网络模型为客户提供授权、受管控的网络安全服务
+
+📅 Mon, 10 Aug 2026 10:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[ChatGPT Business即将推出高级版座位](https://openai.com/index/premium-seats-chatgpt-business)**
+
+高级版座席即将加入Chat**GPT** Business在8月20日前注册，即可获得100 $的工作空间积分，并为您团队最苛刻的工作解锁更高的使用率
+
+📅 Mon, 10 Aug 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[Zapier如何使用ChatGPT转变核心营销流程](https://openai.com/index/zapier)**
+
+Zapier的企业营销团队使用Chat**GPT** Work来减少其主要漏斗构建活动资产的下降次数
+
+📅 Mon, 10 Aug 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[Virgin Atlantic借助ChatGPT Work提升客户旅程](https://openai.com/index/virgin-atlantic/chatgpt-work)**
+
+维珍大西洋航空正在通过Chat**GPT** Work加速研究和决策
+
+📅 Mon, 10 Aug 2026 00:00:00 GMT
+
+---
+
 ### Google AI Blog
 ![使用新的人工智能工具来发展您的营销](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp)
 
@@ -66,51 +111,6 @@ Model ML使用**GPT**-56 SOL通过可编辑、可追溯的PowerPoint演示文稿
 了解**Google** Ads和**Google** Analytics （分析）的全新AI和代理体验如何简化您的营销工作流程
 
 📅 Mon, 10 Aug 2026 14:30:00 +0000
-
----
-
-### Hugging Face
-**[Muse Glimmer回归Meta ：本地、代理、多式联运和开源](https://huggingface.co/blog/muse-glimmer)**
-
-Muse Glimmer回归**Meta** ：本地、代理、多式联运和**开源**
-
-📅 Mon, 10 Aug 2026 00:00:00 GMT
-
----
-
-### TechCrunch AI Products
-**[OpenAI表示，由于安全问题，它放慢了Astra模型的开发速度](https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/)**
-
-**OpenAI**表示，该模型仍在开发中
-
-📅 Fri, 07 Aug 2026 22:48:24 +0000
-
----
-
-### Hugging Face
-**[让知识蒸馏便宜到足以大规模运行](https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation)**
-
-让知识蒸馏便宜到足以大规模运行
-
-📅 Mon, 10 Aug 2026 10:05:36 GMT
-
----
-
-### Hugging Face
-**[TutorMoments ：人工智能导师是否知道什么时候该提供帮助，什么时候该退缩？](https://huggingface.co/blog/allenai/tutormoments)**
-
-TutorMoments ：人工智能导师是否知道什么时候该提供帮助，什么时候该退缩？
-
-📅 Fri, 07 Aug 2026 17:53:32 GMT
-
----
-
-### TechCrunch AI Products
-**[发现的材料正在玩人工智能打击鼹鼠来寻找冷却器筹码](https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/)**
-
-Discovered Materials筹集了900万美元（ $ 900万） ，用于寻找**更新**颖的材料，以制造更高效的芯片
-
-📅 Mon, 10 Aug 2026 12:00:00 +0000
 
 ---
 
@@ -190,10 +190,32 @@ Discovered Materials筹集了900万美元（ $ 900万） ，用于寻找**更新
 
 ## 🌍 行业展望
 
-### The Verge
-![Bose首席执行官Lila Snyder致力打造高品质音频](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD-Lila-Snyder.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### VentureBeat
+![AWS Continuum与OpenAI Codex和Anthropic Claude Code集成在主要的人工智能安全推送中](https://images.ctfassets.net/jdtwqhzvc2n1/SAOvzFCJxyQFsjBGFCsXx/c67bfe956f9794e39ca73523992245a1/Nuneybits_Vector_art_of_exploding_software_flaws_collapsing_int_98286e9a-3e7b-462e-bde7-1d600cce5a2d.webp?w=300&q=30)
 
-**[Bose首席执行官Lila Snyder致力打造高品质音频](https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio)**
+**[AWS Continuum与OpenAI Codex和Anthropic Claude Code集成在主要的人工智能安全推送中](https://venturebeat.com/security/aws-continuum-integrates-with-openai-codex-and-anthropic-claude-code-in-major-ai-security-push)**
+
+AWS本月在Black Hat USA 2026上宣布，其针对代码漏洞的Continuum平台将直接集成到**Anthropic**的**Claude** Code和**OpenAI**的Codex中“AWS如何说服**OpenAI**和**Anthropic**向竞争对手的安全层开放其编码工具该公告中最具战略意义的元素是与**OpenAI** Codex和**Anthropic** **Claude** Code的集成
+
+📅 Mon, 10 Aug 2026 20:00:00 GMT
+
+---
+
+### VentureBeat
+![Meta使用Muse Glimmer重返开源， Muse Glimmer是Apache 2.0许可的30B参数AI模型，针对代理进行了优化—现已推出](https://images.ctfassets.net/jdtwqhzvc2n1/BpVZ9PN3pdgCShjfGlTl4/373d942968ce8728e968b02891ea2f13/ChatGPT_Image_Aug_10__2026__11_28_18_AM.png?w=300&q=30)
+
+**[Meta使用Muse Glimmer重返开源， Muse Glimmer是Apache 2.0许可的30B参数AI模型，针对代理进行了优化—现已推出](https://venturebeat.com/technology/meta-returns-to-open-source-with-muse-glimmer-an-apache-2-0-licensed-30b-parameter-ai-model-optimized-for-agents-available-now)**
+
+一方面，反例仍然是可计数的： **OpenAI**的**GPT**-oss-120b和**GPT**-oss-20b ， 2025年8月在Apache 20下**发布**，这是该公司自**GPT**-2以来的第一个开放权重；谷歌的Gemma系列
+
+📅 Mon, 10 Aug 2026 16:22:13 GMT
+
+---
+
+### The Verge
+![当耳机变成AI时， Bose会发生什么？](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD-Lila-Snyder.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[当耳机变成AI时， Bose会发生什么？](https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio)**
 
 如果Xreal赢得AI竞赛，我们所有人通过Xreal眼镜整天与**Claude**互动，
 
@@ -201,25 +223,12 @@ Discovered Materials筹集了900万美元（ $ 900万） ，用于寻找**更新
 
 ---
 
-### VentureBeat
-![腾讯的团队内存在整个团队中共享AI代理内存—对于错误的时间尚无治理](https://images.ctfassets.net/jdtwqhzvc2n1/4KaZ8XJq6sjpxb51A5q7VT/2061c33e7cc4c52501ffd2c127c824e7/team-memory-smk1.jpg?w=300&q=30)
+### TechCrunch
+**[社交媒体平台在申诉失败后仍面临数千起用户成瘾诉讼](https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/)**
 
-**[腾讯的团队内存在整个团队中共享AI代理内存—对于错误的时间尚无治理](https://venturebeat.com/data/tencents-team-memory-shares-ai-agent-memory-across-a-team-with-no-governance-yet-for-when-its-wrong)**
+**Meta**、TikTok、Snapchat和**Google**等平台面临着漫长的诉讼之路。
 
-腾讯表示，存储库击中了Noand **Anthropic**在**Claude** Agent SDK中的工作都以这种方式工作
-
-📅 Fri, 07 Aug 2026 16:30:29 GMT
-
----
-
-### VentureBeat
-![实时协调的四个AI代理在企业编码任务上的表现优于Claude Opus 4.8](https://images.ctfassets.net/jdtwqhzvc2n1/5XSt4gOHH2WQdbifIoXK6w/00bfc6d7266a45109f92821ac8555cec/Multi-agent_cooperation.jpg?w=300&q=30)
-
-**[实时协调的四个AI代理在企业编码任务上的表现优于Claude Opus 4.8](https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks)**
-
-根据研究小组的实验，在Opus 4上运行的单个**Claude** Code实例**升级**到**更新**、更高级的模型，如Opus 4
-
-📅 Fri, 07 Aug 2026 21:45:39 GMT
+📅 Mon, 10 Aug 2026 18:30:33 +0000
 
 ---
 
@@ -241,43 +250,56 @@ Discovered Materials筹集了900万美元（ $ 900万） ，用于寻找**更新
 
 ---
 
-### ZDNet AI
-**[Claude的Record-a-Skill将我的研究时间从几小时缩短到30分钟-但魔法是有限的](https://www.zdnet.com/article/how-i-use-claude-cowork-record-a-skill-for-automated-research/)**
+### Ars Technica
+**[借助新的开放模型， Meta再次重新启动其陷入困境的人工智能战略](https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/)**
 
-我使用**Claude** Cowork自动化工作流程，结果非常有效，但暴露了四个缺点
+**Meta**一直落后于竞争对手。扎克伯格认为他找到了前进的方向。
 
-📅 Mon, 10 Aug 2026 12:26:00 GMT
-
----
-
-### ZDNet AI
-**[由Google 2026制作：如何观看以及对Pixel 11活动的期望](https://www.zdnet.com/article/what-to-expect-rumors-made-by-google-2026/)**
-
-谷歌即将**发布**其Pixel 11系列手机--这是我们所知道的。
-
-📅 Sun, 09 Aug 2026 10:15:00 GMT
+📅 Mon, 10 Aug 2026 22:13:03 +0000
 
 ---
 
-### TechCrunch
-**[Google Play将Venmo添加为付款方式](https://techcrunch.com/2026/08/10/google-play-adds-venmo-as-a-payment-option/)**
+### Ars Technica
+**[在Epic亏损后， Google已开始在Play商店中托管竞争对手的应用商店](https://arstechnica.com/gadgets/2026/08/third-party-app-stores-are-rolling-out-in-google-play-but-theres-only-one-right-now/)**
 
-将Venmo添加到**Google** Play的能力来自人们在应用和游戏上花费更多的钱。
+Aptoide已成为根据法官命令在**Google** Play内分销的第一家应用商店。
 
-📅 Mon, 10 Aug 2026 12:00:00 +0000
+📅 Mon, 10 Aug 2026 15:44:45 +0000
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![kornia ：用于空间AI的🐍几何计算机视觉库](https://avatars.githubusercontent.com/u/56968752?v=4)
+![ultralytics ： Ultralytics YOLO26、YOLO11、YOLOv8 —对象检测、实例分割、语义分割、图像分类、姿势估计、对象跟踪](https://avatars.githubusercontent.com/u/26833451?v=4)
 
-**[kornia ：用于空间AI的🐍几何计算机视觉库](https://github.com/kornia/kornia)**
+**[ultralytics ： Ultralytics YOLO26、YOLO11、YOLOv8 —对象检测、实例分割、语义分割、图像分类、姿势估计、对象跟踪](https://github.com/ultralytics/ultralytics)**
 
-⭐ 11,311星· 1215叉·蟒蛇·空间AI🐍几何计算机视觉库
+485星· 11554叉·蟒蛇· Ultralytics YOLO26YOLOv8 —物体检测
 
-📅 2026-08-10T16:03:02Z
+📅 2026-08-10T23:35:38Z
+
+---
+
+### GitHub Active (AI/ML)
+![nautilus_trader ：具有确定性事件驱动架构的生产级Rust原生交易引擎](https://avatars.githubusercontent.com/u/33360632?v=4)
+
+**[nautilus_trader ：具有确定性事件驱动架构的生产级Rust原生交易引擎](https://github.com/nautechsystems/nautilus_trader)**
+
+⭐ 25,406星· 3322叉· Rust ·具有确定性事件驱动架构的生产级Rust原生交易引擎
+
+📅 2026-08-10T23:34:15Z
+
+---
+
+### GitHub Active (Python)
+![cylc-flow: Cylc ：一个通用的工作流程引擎，带有骑自行车的礼物](https://avatars.githubusercontent.com/u/824878?v=4)
+
+**[cylc-flow: Cylc ：一个通用的工作流程引擎，带有骑自行车的礼物](https://github.com/cylc/cylc-flow)**
+
+⭐ 379星· 105叉· Python · Cylc ：通用工作流程引擎，带有骑自行车的礼物
+
+📅 2026-08-10T23:35:26Z
 
 ---
 
@@ -292,38 +314,23 @@ Discovered Materials筹集了900万美元（ $ 900万） ，用于寻找**更新
 
 ---
 
-### GitHub New (New AI)
-![🆕 1c-ai-guide ： Практический гайд по AI для 1С ： MCP、代理技能、OData、безопасность и проверяемые сценарии](https://avatars.githubusercontent.com/u/241737137?v=4)
-
-**[🆕 1c-ai-guide ： Практический гайд по AI для 1С ： MCP、代理技能、OData、безопасность и проверяемые сценарии](https://github.com/Aleksandr-Litvinenko/1c-ai-guide)**
-
-⭐ 9 star (新项目) · Python · Практический гайд по AI для 1С: MCP, Agent Skills, OData, безопасность и проверяемые сценарии
-
-📅 2026-08-07T08:05:21Z
-
----
-
-### GitHub New (New AI)
-![🆕 Mekka ：代理原生Supabase杀手：今天的SQLite速度，接下来的分布式云，没有PostgreSQL税。](https://avatars.githubusercontent.com/u/232380238?v=4)
-
-**[🆕 Mekka ：代理原生Supabase杀手：今天的SQLite速度，接下来的分布式云，没有PostgreSQL税。](https://github.com/yiaany/Mekka)**
-
-⭐ 4 star (新项目) · TypeScript · The agent-native Supabase killer: SQLite speed today, distributed cloud next, without the PostgreSQL tax
-
-📅 2026-08-08T13:09:09Z
-
----
-
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-![OpenAI和Anthropic AI代理在新的黑客攻击中失控](https://external-preview.redd.it/449YXmC77YpaYAKa6mywhDVRbV-altXdaX5UzHjJM1o.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dbc9e1db9e23d5260b05887d428d67a7af72545b)
+**[一家实验室暂停了自己尚未发布的网络功能模型，同一周，一名代理被发现与真正的维护者进行社交工程](https://www.reddit.com/r/artificial/comments/1vktyxf/a_lab_paused_its_own_unreleased_model_over_cyber/)**
 
-**[OpenAI和Anthropic AI代理在新的黑客攻击中失控](https://www.reddit.com/r/artificial/comments/1vklxkv/openai_and_anthropic_ai_agents_went_rogue_in_new/)**
+围绕人工智能遏制和法律的一个真正沉重的一周： * * **OpenAI**暂停了下一个模型的工作跨越122次运行，代理在其中10次中采取了19次未经批准的现实世界行动（ 17次由**Anthropic**的Mythos 5 ， 2次由**OpenAI**的**GPT**-5
 
-提交者/u/Mazrael33 [link] [comments]
+📅 2026-08-10T19:01:00.000Z
 
-📅 2026-08-10T14:09:58.000Z
+---
+
+### Hacker News
+**[Show HN: Needle2: 14MB agentic LLM适用于手机、可穿戴设备、智能家居和机器人](https://cactuscompute.com/needle)**
+
+我们之前**发布**了Cactus Needle我们在这里得到了非常好的反馈，现在已经纳入了**发布**Needle 2的建议
+
+📅 Mon, 10 Aug 2026 17:22:07 +0000
 
 ---
 
@@ -332,7 +339,7 @@ Discovered Materials筹集了900万美元（ $ 900万） ，用于寻找**更新
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-08-10T16:02:14.176Z
+📅 2026-08-10T23:35:25.099Z
 
 ---
 
@@ -341,54 +348,43 @@ Discovered Materials筹集了900万美元（ $ 900万） ，用于寻找**更新
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-08-10T16:02:17.917Z
+📅 2026-08-10T23:35:31.685Z
 
 ---
 
 ### Hacker News
-**[OpenAI的新设备将是冰球大小，成本超过300 $](https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300)**
+**[谷歌搜索正在消亡。接下来会发生更糟糕的事情](https://thewalrus.ca/google-search-is-dying/)**
 
-文章网址： https://wwwcom/**new**s/articles/2026-08-06/what-is-**OpenAI**-s-device-a-doughnut-shaped-speaker-that-costs-over-300评论网址： https://**new**s
+文章网址： https://thewalrusca/**Google**-search-is-dying/评论网址： https://**new**s
 
-📅 Mon, 10 Aug 2026 15:35:00 +0000
-
----
-
-### Hacker News
-**[“变态眼镜” ：对Meta智能眼镜的强烈反对](https://www.seattletimes.com/business/technology/pervert-glasses-backlash-against-metas-smart-glasses-grows/)**
-
-文章网址： https://wwwcom/business/technology/pervert-glasses-backlash-against-**Meta**s-smart-glasses-grows/评论网址： https://**new**s
-
-📅 Mon, 10 Aug 2026 15:13:08 +0000
+📅 Mon, 10 Aug 2026 22:36:30 +0000
 
 ---
 
-### Hacker News
-**[OpenAI致州长Abbott关于德克萨斯州负责任的人工智能基础设施的信](https://openai.com/index/responsible-ai-infrastructure-texas/)**
+### Hacker News AI
+**[英伟达人工智能工厂计算正在成为可投资资产类别](https://twitter.com/JensenHuang/status/2086934705207959965)**
 
-文章网址： https://**OpenAI**com/index/responsible-ai-infrastructure-texas/评论网址： https://**new**s
+文章网址： https://twittercom/JensenHuang/status/2086934705207959965留言网址： https://**new**s
 
-📅 Mon, 10 Aug 2026 14:38:20 +0000
-
----
-
-### Hacker News
-**[随着Meta重返开放模式，马克·扎克伯格攻击“封闭式”人工智能竞争对手](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)**
-
-文章网址： https://wwwcom/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878评论网址： https://**new**s
-
-📅 Mon, 10 Aug 2026 14:06:22 +0000
+📅 Mon, 10 Aug 2026 22:20:21 +0000
 
 ---
 
-### Reddit: r/artificial
-![我在概念上重建了我的业务，克劳德，它比我想象的更干净、更流畅。](https://preview.redd.it/sa5tcanplkih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=57acbe24ff1ad3519a0e6a148a3109efd1a4fb72)
+### Hacker News AI
+**[华尔街巨头与英伟达合作完成$ 5000亿人工智能融资交易](https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348)**
 
-**[我在概念上重建了我的业务，克劳德，它比我想象的更干净、更流畅。](https://www.reddit.com/r/artificial/comments/1vkowrt/i_rebuilt_my_business_in_notion_and_claude_its/)**
+文章网址： https://wwwcom/content/98a8fd17-15b6-4f67-9cb4-825722b11348评论网址： https://**new**s
 
-我知道我们都厌倦了“克劳德刚刚杀死了X”的头条新闻希望听到其他企业主在Notion中使用克劳德（或任何AI ）的消息
+📅 Mon, 10 Aug 2026 22:14:44 +0000
 
-📅 2026-08-10T16:00:34.000Z
+---
+
+### Hacker News AI
+**[显示HN ： AI在macOS Dock旁边脉冲显示座席状态的假LED灯条](https://github.com/leog/ai-pulse)**
+
+我并行运行了几个**Claude** Code会话，并一直进行cmd-tabbing ，只是为了发现其中一个会话在权限提示上坐了十分钟。评论网址： https://**new**s
+
+📅 Mon, 10 Aug 2026 22:07:41 +0000
 
 ---
 
