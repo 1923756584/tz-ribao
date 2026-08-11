@@ -1,12 +1,12 @@
 ---
 title: "2026年8月11日 - TZ日报"
-date: 2026-08-11T16:04:06.220Z
+date: 2026-08-11T23:41:27.972Z
 draft: false
 ---
 
 # 2026年8月11日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/8/11 16:04:06
+> 📊 今日汇总 38 条 · 🕐 2026/8/11 23:41:27
 
 ---
 
@@ -23,6 +23,15 @@ draft: false
 ## ✨ 产品更新
 
 ### OpenAI Blog
+**[在ChatGPT中测试广告](https://openai.com/index/testing-ads-in-chatgpt)**
+
+**OpenAI**开始在Chat**GPT**中测试广告，以支持免费访问，具有清晰的标签、答案独立性、强大的隐私保护和用户控制
+
+📅 Tue, 11 Aug 2026 10:00:00 GMT
+
+---
+
+### OpenAI Blog
 **[随着网络防御窗口的缩小，黎明不断扩大](https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows)**
 
 了解**GPT**-5**OpenAI**通过Daybreak Red提供的网络安全特定模型，以进行授权漏洞研究
@@ -32,11 +41,29 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[Anthropic正在默认情况下打开Claude Code的自动模式](https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/)**
+**[OpenAI推出适用于Linux的ChatGPT桌面应用程序](https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/)**
 
-使用**Claude** Code编程很快将需要更少的人工监督。
+**OpenAI**终于将专用的Chat**GPT**桌面应用程序引入Linux操作系统。
 
-📅 Sun, 09 Aug 2026 19:20:32 +0000
+📅 Tue, 11 Aug 2026 19:15:35 +0000
+
+---
+
+### TechCrunch AI Products
+**[谷歌Gemini应用飙升至10亿用户](https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/)**
+
+谷歌还分享了人们实际使用聊天机器人的方式，据谷歌称， **Gemini**现在每天生成超过1.5亿张图片
+
+📅 Tue, 11 Aug 2026 18:49:12 +0000
+
+---
+
+### OpenAI Blog
+**[破晓型号现已在AWS上提供](https://openai.com/index/daybreak-models-are-now-available-on-aws)**
+
+**OpenAI**和AWS正在通过Amazon Bedrock提供Daybreak网络安全功能，以支持企业安全工作流程
+
+📅 Tue, 11 Aug 2026 10:00:00 GMT
 
 ---
 
@@ -82,35 +109,6 @@ Model ML使用**GPT**-56 SOL通过可编辑、可追溯的PowerPoint演示文稿
 高级版座席即将加入Chat**GPT** Business在8月20日前注册，即可获得100 $的工作空间积分，并为您团队最苛刻的工作解锁更高的使用率
 
 📅 Mon, 10 Aug 2026 00:00:00 GMT
-
----
-
-### OpenAI Blog
-**[Zapier如何使用ChatGPT转变核心营销流程](https://openai.com/index/zapier)**
-
-Zapier的企业营销团队使用Chat**GPT** Work来减少其主要漏斗构建活动资产的下降次数
-
-📅 Mon, 10 Aug 2026 00:00:00 GMT
-
----
-
-### OpenAI Blog
-**[Virgin Atlantic借助ChatGPT Work提升客户旅程](https://openai.com/index/virgin-atlantic/chatgpt-work)**
-
-维珍大西洋航空正在通过Chat**GPT** Work加速研究和决策
-
-📅 Mon, 10 Aug 2026 00:00:00 GMT
-
----
-
-### Google AI Blog
-![使用新的人工智能工具来发展您的营销](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp)
-
-**[使用新的人工智能工具来发展您的营销](https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/)**
-
-了解**Google** Ads和**Google** Analytics （分析）的全新AI和代理体验如何简化您的营销工作流程
-
-📅 Mon, 10 Aug 2026 14:30:00 +0000
 
 ---
 
@@ -191,13 +189,13 @@ Zapier的企业营销团队使用Chat**GPT** Work来减少其主要漏斗构建�
 ## 🌍 行业展望
 
 ### VentureBeat
-![AWS Continuum与OpenAI Codex和Anthropic Claude Code集成在主要的人工智能安全推送中](https://images.ctfassets.net/jdtwqhzvc2n1/SAOvzFCJxyQFsjBGFCsXx/c67bfe956f9794e39ca73523992245a1/Nuneybits_Vector_art_of_exploding_software_flaws_collapsing_int_98286e9a-3e7b-462e-bde7-1d600cce5a2d.webp?w=300&q=30)
+![SpaceXAI的Grok机器人将代理转变为持久的数字同事，每月可以以$ 120的价格运行您的应用程序](https://images.ctfassets.net/jdtwqhzvc2n1/65dnXPFAFPxGWtfPsYnWgc/638125a94f51d541348c275f60f12788/ChatGPT_Image_Aug_11__2026__02_49_29_PM.png?w=300&q=30)
 
-**[AWS Continuum与OpenAI Codex和Anthropic Claude Code集成在主要的人工智能安全推送中](https://venturebeat.com/security/aws-continuum-integrates-with-openai-codex-and-anthropic-claude-code-in-major-ai-security-push)**
+**[SpaceXAI的Grok机器人将代理转变为持久的数字同事，每月可以以$ 120的价格运行您的应用程序](https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month)**
 
-AWS本月在Black Hat USA 2026上宣布，其针对代码漏洞的Continuum平台将直接集成到**Anthropic**的**Claude** Code和**OpenAI**的Codex中“AWS如何说服**OpenAI**和**Anthropic**向竞争对手的安全层开放其编码工具该公告中最具战略意义的元素是与**OpenAI** Codex和**Anthropic** **Claude** Code的集成
+**Anthropic**于2024年为**Claude**引入了计算机使用，最近**推出**了新的Chat**GPT**工作环境
 
-📅 Mon, 10 Aug 2026 20:00:00 GMT
+📅 Tue, 11 Aug 2026 21:07:00 GMT
 
 ---
 
@@ -220,6 +218,17 @@ AWS本月在Black Hat USA 2026上宣布，其针对代码漏洞的Continuum平�
 CodeRabbit针对**GPT** 5的编码路由器将开放式模型与供应商端到端控制的开放式路由器配对是一个较新的论点，而不仅仅是更便宜的权重
 
 📅 Tue, 11 Aug 2026 13:00:00 GMT
+
+---
+
+### The Verge
+![ChatGPT和Gemini都刚刚超过10亿用户](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gemini-live-ai-ad.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[ChatGPT和Gemini都刚刚超过10亿用户](https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users)**
+
+**OpenAI**的Chat**GPT**在几周前达到了目标外部数据显示Chat**GPT**早在今年6月就超过了10亿用户，但**OpenAI**直到8月6日才**发布**任何消息
+
+📅 2026-08-11T19:41:42.000Z
 
 ---
 
@@ -254,38 +263,16 @@ CodeRabbit针对**GPT** 5的编码路由器将开放式模型与供应商端到�
 
 ---
 
-### The Verge
-![Claude将对人工智能文本和图像应用不可见的水印](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### Ars Technica
+**[Gemini成为谷歌有史以来增长最快的产品，吸引了10亿用户](https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/)**
 
-**[Claude将对人工智能文本和图像应用不可见的水印](https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images)**
+但双子座的激增能否在模型**发布**放缓的情况下幸存下来？
 
-**Anthropic**已承诺开始使用机器可读数据标记**Claude**生成的文本和图像。”**Anthropic**在新的**Claude**支持页面上表示
-
-📅 2026-08-11T12:22:20.000Z
-
----
-
-### MIT Tech Review
-**[下载：法学硕士的下一件大事以及人工智能学术研究如何转变](https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/)**
-
-这是今天的The Download版本，我们的工作日时事通讯，提供每日剂量的技术世界正在发生的事情这个神经网络家族已经成为每个主要大型……的引擎
-
-📅 Tue, 11 Aug 2026 12:10:00 +0000
+📅 Tue, 11 Aug 2026 19:48:12 +0000
 
 ---
 
 ## 📦 GitHub热门
-
-### GitHub Active (Python)
-![molecule ：用于集合、剧本和角色的ansible原生测试框架，具有用于测试任何系统或服务的可配置工作流程](https://avatars.githubusercontent.com/u/1507452?v=4)
-
-**[molecule ：用于集合、剧本和角色的ansible原生测试框架，具有用于测试任何系统或服务的可配置工作流程](https://github.com/ansible/molecule)**
-
-131星· 673分叉· Python ·集合和角色的ansible原生测试框架，具有用于测试任何系统或服务的可配置工作流程
-
-📅 2026-08-11T16:03:01Z
-
----
 
 ### GitHub New (New AI)
 ![🆕 industrial-mcp: 将工业设备变成 AI 可控工具的 MCP 服务器。支持 Modbus、OPC UA、MQTT 三种协议，内置设备仿真引擎、物理模型和完整的调试工具链。让 Claude 用自然语言监控传感器、启停电机、执行工厂巡检。](https://avatars.githubusercontent.com/u/283538322?v=4)
@@ -320,54 +307,34 @@ CodeRabbit针对**GPT** 5的编码路由器将开放式模型与供应商端到�
 
 ---
 
+### GitHub New (New AI)
+![🆕 FlexSplat ： [BMVC 2026]使用联合训练的VGGT几何和基于查询的多视图高斯解码，用于未校准的以对象为中心的新视图合成的前馈3D高斯斑点。](https://avatars.githubusercontent.com/u/77089083?v=4)
+
+**[🆕 FlexSplat ： [BMVC 2026]使用联合训练的VGGT几何和基于查询的多视图高斯解码，用于未校准的以对象为中心的新视图合成的前馈3D高斯斑点。](https://github.com/amir-sbg/FlexSplat)**
+
+⭐ 3 star (新项目) · Python · [BMVC 2026] Feed-forward 3D Gaussian splatting for uncalibrated object-centric novel view synthesisusing jointly trained VGGT geometry and query-based multi-view Gaussian decoding
+
+📅 2026-08-08T23:50:34Z
+
+---
+
 ## 💬 社交动态
 
-### Reddit: r/singularity
-![一篇可能撼动法学硕士世界的论文刚刚落幕：研究人员从OpenAI、Anthropic和Google模型中“偷走了”隐藏的思想链](https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=de730fbf7ecace6df0036b21470c16a2d4feacfb)
+### Reddit: r/artificial
+**[扎克伯格发表了一份宣言，称没有任何一家公司应该控制人工智能。然后Meta发布了一个在你的笔记本电脑上运行的模型。当天。](https://www.reddit.com/r/artificial/comments/1vlpfe7/zuckerberg_published_a_manifesto_saying_no_single/)**
 
-**[一篇可能撼动法学硕士世界的论文刚刚落幕：研究人员从OpenAI、Anthropic和Google模型中“偷走了”隐藏的思想链](https://www.reddit.com/r/singularity/comments/1vljzc9/a_paper_that_could_shake_the_llm_world_just/)**
+Daybreak Blue从**GPT**-5中删除了标准护栏Daybreak Red使用**GPT**-5更进一步
 
-提交者/u/Ok_Recognition315 [link] [comments]
-
-📅 2026-08-11T15:04:02.000Z
+📅 2026-08-11T18:18:23.000Z
 
 ---
 
-### Hacker News
-**[Nvidia Nemotron 3.5 Lightning](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4)**
+### Hacker News AI
+**[Anthropic发布“克劳德如何标记人工智能生成的内容” ，但没有解释如何](https://daringfireball.net/linked/2026/08/11/anthropic-claude-watermarks)**
 
-文章网址： https://huggingface5-Lightning-30B-A3B-NVFP4评论网址： https://**new**s
+文章网址： https://daringfireballnet/linked/2026/08/11/**Anthropic**-**Claude**-watermarks评论网址： https://**new**s
 
-📅 Tue, 11 Aug 2026 13:26:02 +0000
-
----
-
-### Reddit: r/singularity
-![“do ur thang”使用无意识的GPT 5.6 SOL声称改进了Anthropic的黎曼假设+0.002%](https://external-preview.redd.it/sGEBSL-l5rslRnCU_J6yZTnlkoBXN9HlNDMIHx07rOM.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=927bb8a3f754f3d939b749fde66705a5fdbf86bf)
-
-**[“do ur thang”使用无意识的GPT 5.6 SOL声称改进了Anthropic的黎曼假设+0.002%](https://www.reddit.com/r/singularity/comments/1vl3eqx/do_ur_thang_using_a_mindless_gpt_56_sol_claims_to/)**
-
-Chat**GPT** Sol发现**Anthropic**对Riemann zeta零点比例的无条件改进，这些零点既简单又在临界线上最新和预打印在这里： https://chat**GPT**
-
-📅 2026-08-11T01:18:38.000Z
-
----
-
-### Reddit: r/singularity
-**[你们觉得谷歌是怎么回事？](https://www.reddit.com/r/singularity/comments/1vl1cne/what_do_yall_think_is_going_on_with_google/)**
-
-因此，他们放弃的最后一个前沿图像模型是6个月大的Nano Banana 2 ， Flash是不言自明的， **Gemini** 3
-
-📅 2026-08-10T23:47:51.000Z
-
----
-
-### Reddit: r/singularity
-**[Claude现在在所有文本输出中嵌入不可见的水印+文件上的签名元数据](https://www.reddit.com/r/singularity/comments/1vkzjln/claude_now_embeds_invisible_watermarks_in_all/)**
-
-提交者/u/ABlackEngineer [link] [comments]
-
-📅 2026-08-10T22:31:58.000Z
+📅 Tue, 11 Aug 2026 22:30:45 +0000
 
 ---
 
@@ -376,7 +343,7 @@ Chat**GPT** Sol发现**Anthropic**对Riemann zeta零点比例的无条件改进�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-08-11T16:02:13.331Z
+📅 2026-08-11T23:40:15.025Z
 
 ---
 
@@ -385,16 +352,45 @@ Chat**GPT** Sol发现**Anthropic**对Riemann zeta零点比例的无条件改进�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-08-11T16:02:18.143Z
+📅 2026-08-11T23:40:19.601Z
 
 ---
 
 ### Hacker News
-**[启动HN ： Keet (YC S24) –一款用于创建任何内容的视频课程的应用程序](https://www.trykeet.com/)**
+**[Nvidia Nemotron 3.5 Lightning和NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)**
 
-与Chat**GPT**的对话因此，我们可以根据某人的先决条件知识生成量身定制的课程
+文章网址： https://blogscom/blog/nemotron-lightning-switchyard-rtx-dgx/评论网址： https://**new**s
 
-📅 Tue, 11 Aug 2026 14:48:37 +0000
+📅 Tue, 11 Aug 2026 19:35:52 +0000
+
+---
+
+### Reddit: r/artificial
+**[使用双曲线几何将法学硕士所学概念映射到可浏览树结构的开源工具](https://www.reddit.com/r/artificial/comments/1vlqi6s/opensource_tool_that_maps_what_concepts_an_llm/)**
+
+“Programming”包含“Python”包含“list comprehensions”在**Google**的Gemma-2-2B模型上进行了测试
+
+📅 2026-08-11T18:56:54.000Z
+
+---
+
+### Reddit: r/artificial
+**[你会相信一个了解你整个生活的人工智能助手吗？](https://www.reddit.com/r/artificial/comments/1vlm0sp/would_you_trust_an_ai_assistant_that_knows_your/)**
+
+我已经使用Chat**GPT**一段时间了，最近我开始思考AI助手的下一步可能是什么样子Chat**GPT**已经令人惊讶地有用了
+
+📅 2026-08-11T16:17:18.000Z
+
+---
+
+### Reddit: r/artificial
+![根据The Information的原始报道，英伟达正在构建其下一代Nemotron 4系列，以直接与中国领先的开放式机型竞争，并确保美国的开放式重量表冠。最大的版本将拥有至少1万亿个参数。](https://preview.redd.it/5s7jn43osrih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=256323b761a15102b16b66cc605e6fed6497ebf7)
+
+**[根据The Information的原始报道，英伟达正在构建其下一代Nemotron 4系列，以直接与中国领先的开放式机型竞争，并确保美国的开放式重量表冠。最大的版本将拥有至少1万亿个参数。](https://www.reddit.com/r/artificial/comments/1vlluom/nvidia_is_building_its_nextgen_nemotron_4_family/)**
+
+提交者/u/Left-Hotel904 [link] [comments]
+
+📅 2026-08-11T16:11:15.000Z
 
 ---
 
