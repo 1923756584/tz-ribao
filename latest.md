@@ -1,12 +1,12 @@
 ---
 title: "2026年8月12日 - TZ日报"
-date: 2026-08-12T16:03:34.085Z
+date: 2026-08-12T23:42:42.890Z
 draft: false
 ---
 
 # 2026年8月12日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/8/12 16:03:34
+> 📊 今日汇总 38 条 · 🕐 2026/8/12 23:42:42
 
 ---
 
@@ -50,29 +50,20 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[Google ’26发布的一切： Pixel 11、Pixel Watch 5、Pixel Tag和大量Gemini功能](https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/)**
+**[一些Claude用户很生气，因为Anthropic的新水印会在他们的工作和课程中使用它](https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/)**
 
-从Pixel 11系列和Apple AirTag的全新竞争对手，以下是Made by **Google** 2026活动的所有公告
+**Anthropic**的新水印系统是否是一种讽刺有些人在社交媒体上抱怨它是
 
-📅 Wed, 12 Aug 2026 14:20:33 +0000
-
----
-
-### TechCrunch AI Products
-**[OpenAI推出适用于Linux的ChatGPT桌面应用程序](https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/)**
-
-**OpenAI**终于将专用的Chat**GPT**桌面应用程序引入Linux操作系统。
-
-📅 Tue, 11 Aug 2026 19:15:35 +0000
+📅 Wed, 12 Aug 2026 22:26:37 +0000
 
 ---
 
-### TechCrunch AI Products
-**[谷歌Gemini应用飙升至10亿用户](https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/)**
+### OpenAI Blog
+**[RingCentral如何构建从工程到运营的人工智能原生工作](https://openai.com/index/ringcentral)**
 
-谷歌还分享了人们实际使用聊天机器人的方式，据谷歌称， **Gemini**现在每天生成超过1.5亿张图片
+了解RingCentral如何使用Chat**GPT** Work和Codex加速人工智能产品开发，并在工程和运营中集中运营智能
 
-📅 Tue, 11 Aug 2026 18:49:12 +0000
+📅 Wed, 12 Aug 2026 00:00:00 GMT
 
 ---
 
@@ -109,6 +100,15 @@ Model ML使用**GPT**-56 SOL通过可编辑、可追溯的PowerPoint演示文稿
 **OpenAI**首席财务官Sarah Friar分享了构建AI原生财务功能的五个经验教训，从自动化预测到更强的控制和AI ROI
 
 📅 Mon, 10 Aug 2026 17:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[将前沿网络模型交到更值得信赖的人手中](https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands)**
+
+获批的Daybreak合作伙伴可以使用**OpenAI**的前沿网络模型为客户提供授权、受管控的网络安全服务
+
+📅 Mon, 10 Aug 2026 10:00:00 GMT
 
 ---
 
@@ -189,13 +189,24 @@ Model ML使用**GPT**-56 SOL通过可编辑、可追溯的PowerPoint演示文稿
 ## 🌍 行业展望
 
 ### VentureBeat
-![基础设施和计算：企业正在购买人工智能计算的速度，同时对其成本视而不见](https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30)
+![SpaceXAI推出Grok 4.6 ，超越Kimi K3的性能，并与GPT-5.6 Sol相匹配，在人工分析方面位居世界第三](https://images.ctfassets.net/jdtwqhzvc2n1/1J59SGXBNdsrIt3Kw0ldLc/a141fa05285801695f63cba9b60fc522/a26da258-6757-46f3-857c-c143d56f830a.jpg?w=300&q=30)
 
-**[基础设施和计算：企业正在购买人工智能计算的速度，同时对其成本视而不见](https://venturebeat.com/resources/infrastructure-and-compute-enterprises-are-buying-ai-compute-for-speed-while-flying-blind-on-what-it-costs)**
+**[SpaceXAI推出Grok 4.6 ，超越Kimi K3的性能，并与GPT-5.6 Sol相匹配，在人工分析方面位居世界第三](https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis)**
 
-其次是**Google** Cloud ，占19% ；当**OpenAI** （ 14% ）时，模型提供商共同占据了主要地位的35%。吸引最多转换考虑的提供商是企业已经运行的提供商--**OpenAI**和**Google** Cloud （各29% ）
+SpaceXAI对**Anthropic**的**Claude** Code和**OpenAI**的CodexArtificial Analysis的回应称，标准标题价格仍比其引用的**Claude** Opus 5和**GPT**-5的竞争前沿型号价格低60%以上
 
-📅 Wed, 12 Aug 2026 07:30:00 GMT
+📅 Wed, 12 Aug 2026 17:26:58 GMT
+
+---
+
+### VentureBeat
+![五家获得人工智能代理身份的企业中有四家仍然无法包含一家流氓](https://images.ctfassets.net/jdtwqhzvc2n1/5n5rmnYkbIGSFc4nayFtGc/e24edab926693c1f72335107e86c0c2c/hero.png?w=300&q=30)
+
+**[五家获得人工智能代理身份的企业中有四家仍然无法包含一家流氓](https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue)**
+
+**Meta**的一名流氓AI特工在3月份曝光之前通过了每次身份检查，对15款旗舰机型进行了986次多回合攻击
+
+📅 Wed, 12 Aug 2026 18:44:50 GMT
 
 ---
 
@@ -207,17 +218,6 @@ Model ML使用**GPT**-56 SOL通过可编辑、可追溯的PowerPoint演示文稿
 Microsoft AI Foundry/Copilot St**Udio**出现在70 ％的堆栈中， **OpenAI**的Agents SDK出现在68 ％ ， **Anthropic**的**Claude** Platform出现在47 ％的**Anthropic**的**Claude** Platform中，排名第二，占28 ％
 
 📅 Wed, 12 Aug 2026 07:30:00 GMT
-
----
-
-### VentureBeat
-![SpaceXAI的Grok机器人将代理转变为持久的数字同事，每月可以以$ 120的价格运行您的应用程序](https://images.ctfassets.net/jdtwqhzvc2n1/65dnXPFAFPxGWtfPsYnWgc/638125a94f51d541348c275f60f12788/ChatGPT_Image_Aug_11__2026__02_49_29_PM.png?w=300&q=30)
-
-**[SpaceXAI的Grok机器人将代理转变为持久的数字同事，每月可以以$ 120的价格运行您的应用程序](https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month)**
-
-**Anthropic**于2024年为**Claude**引入了计算机使用，最近**推出**了新的Chat**GPT**工作环境
-
-📅 Tue, 11 Aug 2026 21:07:00 GMT
 
 ---
 
@@ -243,21 +243,25 @@ Microsoft AI Foundry/Copilot St**Udio**出现在70 ％的堆栈中， **OpenAI**
 
 ---
 
-### TechCrunch
-**[谷歌的Pixel 11系列提供更少的硬件更改，但更多的双子座](https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/)**
+### The Verge
+![谷歌新款Pixel 11手机与去年型号的比较](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-green-back.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-谷歌Pixel 11系列的起价比去年高出100 $ ，但提供256GB的基础存储空间。
+**[谷歌新款Pixel 11手机与去年型号的比较](https://www.theverge.com/gadgets/975237/google-pixel-11-pro-comparison-specs-price-features)**
 
-📅 Wed, 12 Aug 2026 14:00:00 +0000
+|照片： David Imel/The Verge谷歌刚刚为Pixel系列增加了四款新手机： Pixel 11手机还配备了新的摄影工具
+
+📅 2026-08-12T17:00:00.000Z
 
 ---
 
-### TechCrunch
-**[谷歌推出具有更智能的双子座和高级健康监测功能的Pixel Watch 5](https://techcrunch.com/2026/08/12/google-unveils-the-pixel-watch-5-with-a-smarter-gemini-and-advanced-health-monitoring/)**
+### VentureBeat
+![代理上下文层：管理其AI数据的企业获得的错误答案是未获得的错误答案的两倍](https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30)
 
-全新智能手表，起价$ 399
+**[代理上下文层：管理其AI数据的企业获得的错误答案是未获得的错误答案的两倍](https://venturebeat.com/resources/agent-context-layers-enterprises-governing-their-ai-data-are-catching-twice-as-many-bad-answers-as-the-ones-who-arent)**
 
-📅 Wed, 12 Aug 2026 14:00:00 +0000
+和原生检索— **OpenAI**的文件搜索（ 46 ％ ）和**Google** Vertex AI搜索（ 41 ％ ） —仍然远远领先于每个专用矢量数据库Finding 4 ：模型支持和超大规模检索仍然在矢量数据库中领先**OpenAI**的文件搜索和**Google**的Vertex AI搜索是每个专用系统的首选我们询问了哪些检索系统企业今天在生产中运行
+
+📅 Wed, 12 Aug 2026 07:30:00 GMT
 
 ---
 
@@ -274,14 +278,14 @@ Microsoft AI Foundry/Copilot St**Udio**出现在70 ％的堆栈中， **OpenAI**
 
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![executorch ：适用于PyTorch的移动、嵌入式和边缘设备上的AI](https://avatars.githubusercontent.com/u/21003710?v=4)
+### GitHub Active (Python)
+![ArchiveBox ：🗃开源自托管Web存档。获取网址/浏览器历史记录/书签/Pocket/Pinboard等，保存HTML、JS、PDF、媒体等...](https://avatars.githubusercontent.com/u/74894248?v=4)
 
-**[executorch ：适用于PyTorch的移动、嵌入式和边缘设备上的AI](https://github.com/pytorch/executorch)**
+**[ArchiveBox ：🗃开源自托管Web存档。获取网址/浏览器历史记录/书签/Pocket/Pinboard等，保存HTML、JS、PDF、媒体等...](https://github.com/ArchiveBox/ArchiveBox)**
 
-⭐ 4,910星· 1108叉· Python ·适用于PyTorch的移动、嵌入式和边缘设备AI
+⭐ 28107星· 1555分叉· Python ·🗃**开源**自托管网络存档获取URL/浏览器历史记录/书签/Pocket/Pinboard等
 
-📅 2026-08-12T16:00:54Z
+📅 2026-08-12T23:41:36Z
 
 ---
 
@@ -308,24 +312,33 @@ Microsoft AI Foundry/Copilot St**Udio**出现在70 ％的堆栈中， **OpenAI**
 ---
 
 ### GitHub New (New AI)
-![🆕 contentqueen-app-erfahrung-review-deutsch: Contentqueen App im Test: Der ultimative KI-Textgenerator für Marketer & Creators im deutschsprachigen Raum. Schluss mit Schreibblockaden ！ 🚀](https://avatars.githubusercontent.com/u/315037706?v=4)
+![🆕 awesome-artificial-intelligence ： awesome-artificial-intelligence -人工智能（ AI ）课程、书籍、视频讲座和论文的精选列表。](https://avatars.githubusercontent.com/u/7377421?v=4)
 
-**[🆕 contentqueen-app-erfahrung-review-deutsch: Contentqueen App im Test: Der ultimative KI-Textgenerator für Marketer & Creators im deutschsprachigen Raum. Schluss mit Schreibblockaden ！ 🚀](https://github.com/Anastasiamaster/contentqueen-app-erfahrung-review-deutsch)**
+**[🆕 awesome-artificial-intelligence ： awesome-artificial-intelligence -人工智能（ AI ）课程、书籍、视频讲座和论文的精选列表。](https://github.com/musichen/awesome-artificial-intelligence)**
 
-⭐ 4 star (新项目) · N/A · Contentqueen App im Test: Der ultimative KI-Textgenerator für Marketer & Creators im deutschsprachigen RaumSchluss mit Schreibblockaden
+⭐ 7 star (新项目) · Python · awesome-artificial-intelligence - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers
 
-📅 2026-08-09T16:29:10Z
+📅 2026-08-12T01:32:48Z
 
 ---
 
 ## 💬 社交动态
+
+### Reddit: r/artificial
+**[Grok、Qwen和Nvidia目前正在三个不同的人工智能市场竞争](https://www.reddit.com/r/artificial/comments/1vmq6nn/grok_qwen_and_nvidia_are_competing_in_three/)**
+
+本周**发布**的模型看起来像是表面上的一场比赛，但商业模式正在分离8 ， **OpenAI**聘请了一名电力交易员，而本周的其余版本在这里： https://aiweekly
+
+📅 2026-08-12T20:48:37.000Z
+
+---
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-08-12T16:02:03.009Z
+📅 2026-08-12T23:41:22.453Z
 
 ---
 
@@ -334,52 +347,16 @@ Microsoft AI Foundry/Copilot St**Udio**出现在70 ％的堆栈中， **OpenAI**
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-08-12T16:02:13.597Z
-
----
-
-### Hacker News
-**[Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)**
-
-文章网址： https://huggingface4T-A95B留言网址： https://**new**s
-
-📅 Wed, 12 Aug 2026 15:01:17 +0000
-
----
-
-### Hacker News
-**[德国倡导组织对Meta AI眼镜提起刑事诉讼](https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/)**
-
-文章网址： https://wwwcom/legal/government/german-advocacy-group-lodges-criminal-complaint-over-**Meta**-ai-glasses-2026-08-12/评论网址： https://**new**s
-
-📅 Wed, 12 Aug 2026 14:06:03 +0000
-
----
-
-### Hacker News
-**[有人正在运行大规模漏洞扫描，欺骗像ClaudeBot这样的人工智能机器人](https://knownagents.com/insights)**
-
-文章网址： https://knownagentscom/insights评论网址： https://**new**s
-
-📅 Wed, 12 Aug 2026 14:02:46 +0000
+📅 2026-08-12T23:41:28.249Z
 
 ---
 
 ### Reddit: r/artificial
-**[有人抓到这个吗？英伟达与华尔街达成了5000亿美元的融资协议，以帮助他们为人工智能基础设施提供资金，而他们并没有投入自己的资金](https://www.reddit.com/r/artificial/comments/1vmeshn/did_anyone_catch_this_nvidia_put_together_a_500b/)**
+**[随着互联网充斥着合成材料，前期人工智能数据是否变得更有价值？](https://www.reddit.com/r/artificial/comments/1vmmi1o/does_pregenerativeai_data_become_more_valuable_as/)**
 
-昨天，英伟达与一些主要的华尔街公司合作达成了一项5000亿美元的融资协议，将人工智能公司直接与机构资本联系起来，人工智能基础设施建设的总规模可能超过8万亿美元。不过， Nvidia现在正在帮助那些购买其硬件的公司
+第一批主要的LLM继承了数十年的互联网，这些互联网绝大多数是由人类递归训练/模型崩溃产生的
 
-📅 2026-08-12T13:53:10.000Z
-
----
-
-### Reddit: r/artificial
-**[我是否坚持支付五个订阅费，还是所有型号都有一个地方？](https://www.reddit.com/r/artificial/comments/1vmbk69/am_i_stuck_paying_five_subscriptions_or_is_there/)**
-
-当前损坏：一个用于图片，一个用于视频，一个用于扩展，一个用于语音，以及Chat**GPT**聚合器都声称他们拥有一切，然后您想要的模型仅位于顶级
-
-📅 2026-08-12T11:33:04.000Z
+📅 2026-08-12T18:31:54.000Z
 
 ---
 
@@ -388,7 +365,34 @@ Microsoft AI Foundry/Copilot St**Udio**出现在70 ％的堆栈中， **OpenAI**
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-08-12T16:02:03.009Z
+📅 2026-08-12T23:41:22.453Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误520 ：
+
+📅 2026-08-12T23:41:22.453Z
+
+---
+
+### X: OpenAI
+**[警告：此页面可能尚未完全加载，请考虑显式指定超时。](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：此页面可能尚未完全加载，请考虑显式指定超时。
+
+📅 2026-08-12T23:41:22.453Z
+
+---
+
+### X: OpenAI
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Markdown 内容
+
+📅 2026-08-12T23:41:22.453Z
 
 ---
 
