@@ -1,12 +1,12 @@
 ---
 title: "2026年8月13日 - TZ日报"
-date: 2026-08-13T16:01:53.472Z
+date: 2026-08-13T23:43:16.030Z
 draft: false
 ---
 
 # 2026年8月13日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/8/13 16:01:53
+> 📊 今日汇总 38 条 · 🕐 2026/8/13 23:43:16
 
 ---
 
@@ -21,6 +21,15 @@ draft: false
 ---
 
 ## ✨ 产品更新
+
+### OpenAI Blog
+**[预览超快模式： GPT-5.6 SOL ，速度高达14倍](https://openai.com/index/previewing-ultrafast)**
+
+预览Ultrafast ，一个新的**OpenAI** API服务层，运行**GPT**-56 SOL的速度高达14倍
+
+📅 Thu, 13 Aug 2026 10:00:00 GMT
+
+---
 
 ### OpenAI Blog
 **[从协助到执行：企业如何让人工智能发挥作用](https://openai.com/index/how-enterprises-put-ai-to-work)**
@@ -41,11 +50,38 @@ draft: false
 ---
 
 ### TechCrunch AI Products
+**[OpenAI引入了“超快” ，这是一种新模式，使GPT-5.6 SOL以14倍的速度工作](https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/)**
+
+**OpenAI**正在**推出**其最新，**最强**大的模型的加速版本的预览，以吸引企业用户
+
+📅 Thu, 13 Aug 2026 19:22:40 +0000
+
+---
+
+### TechCrunch AI Products
 **[一些Claude用户很生气，因为Anthropic的新水印会在他们的工作和课程中使用它](https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/)**
 
 **Anthropic**的新水印系统是否是一种讽刺有些人在社交媒体上抱怨它是
 
 📅 Wed, 12 Aug 2026 22:26:37 +0000
+
+---
+
+### OpenAI Blog
+**[GPT ‑ 5.6的建设者指南](https://openai.com/index/builders-guide-to-gpt-5-6)**
+
+了解初创公司如何使用**GPT**-56构建更快、更具成本效益的AI代理，以及更智能的模型选择和新的Responses API功能
+
+📅 Thu, 13 Aug 2026 11:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[OpenAI任命Dali Rajic为首席营收官](https://openai.com/index/dali-rajic-chief-revenue-officer)**
+
+**OpenAI**任命Dali Rajic为首席收入官，领导其全球收入组织，帮助企业实现人工智能的全部价值
+
+📅 Thu, 13 Aug 2026 09:00:00 GMT
 
 ---
 
@@ -67,15 +103,6 @@ draft: false
 
 ---
 
-### OpenAI Blog
-**[构建AI原生金融功能教会了我什么](https://openai.com/index/building-an-ai-native-finance-function)**
-
-**OpenAI**首席财务官Sarah Friar分享了构建AI原生财务功能的五个经验教训，从自动化预测到更强的控制和AI ROI
-
-📅 Mon, 10 Aug 2026 17:00:00 GMT
-
----
-
 ### Google AI Blog
 ![我们的研究医疗人工智能系统AMIE在一项首创的研究中展示了实时临床视频咨询功能。](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp)
 
@@ -84,33 +111,6 @@ draft: false
 谷歌**推出**了AMIE ，用于在模拟环境中进行实时临床视频咨询。
 
 📅 Tue, 11 Aug 2026 17:00:00 +0000
-
----
-
-### Hugging Face
-**[构建低延迟多语言语音代理：使用NVIDIA Magpie TTS实现开放权重和全面部署控制](https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents)**
-
-构建低延迟多语言语音代理：使用NVIDIA Magpie TTS实现开放权重和全面部署控制
-
-📅 Mon, 10 Aug 2026 16:25:36 GMT
-
----
-
-### TechCrunch AI Products
-**[微软在合并其单独的Copilot应用程序时消除了不成功的AI功能](https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/)**
-
-微软正在通过结合其消费者和商业应用程序以及放弃人工智能生成的播客来简化Copilot
-
-📅 Thu, 13 Aug 2026 15:30:52 +0000
-
----
-
-### TechCrunch AI Products
-**[英伟达的新$ 5000B计划风险高，但非常出色，特别是对于老化的GPU](https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/)**
-
-英伟达有一个计划，以确保其GPU不会失去价值它希望说服一批新的金融家继续为人工智能建设提供贷款
-
-📅 Thu, 13 Aug 2026 15:08:00 +0000
 
 ---
 
@@ -191,6 +191,17 @@ draft: false
 ## 🌍 行业展望
 
 ### VentureBeat
+![DeepSeek Harness作为Claude Code的开源竞争对手推出，同时推出价格更高的API V4-Pro](https://images.ctfassets.net/jdtwqhzvc2n1/6hFdhAgllY0UvaVpl6BmLa/d6e4fff99189904b4a8a9f037e1fbb83/43530361-2311-45E8-BCF9-8DF972A298D8.png?w=300&q=30)
+
+**[DeepSeek Harness作为Claude Code的开源竞争对手推出，同时推出价格更高的API V4-Pro](https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices)**
+
+这使得**Anthropic**的**Claude** Code和**OpenAI**的Codex成为有用的竞争参考。以下是一个快速比较： Dimension **DeepSeek** Harness **Claude** Code **OpenAI** Codex阅读
+
+📅 Thu, 13 Aug 2026 16:47:55 GMT
+
+---
+
+### VentureBeat
 ![Writer表示，随着代币支出激增，其新的Palmyra X6型号将AI代理成本降低了52 ％](https://images.ctfassets.net/jdtwqhzvc2n1/6Zxh3IXctblxveNWHWZSCq/a0b7dbc4fc6a943d1191a203a4451255/Nuneybits_Vector_art_of_a_typewriter_printing_cheaper_faster_go_9a122ae4-9f67-48ad-adfe-0bf7d102809e.webp?w=300&q=30)
 
 **[Writer表示，随着代币支出激增，其新的Palmyra X6型号将AI代理成本降低了52 ％](https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges)**
@@ -212,14 +223,14 @@ SpaceXAI对**Anthropic**的**Claude** Code和**OpenAI**的CodexArtificial Analys
 
 ---
 
-### The Verge
-![谷歌甚至想在人工智能上获胜吗？](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_DCD_081226.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### VentureBeat
+![谷歌的Gemini 3.7 Flash针对编码和代理商提供50%的入门级降价](https://images.ctfassets.net/jdtwqhzvc2n1/2hiXA5MTlT6U93qXfs9J8Q/e9a84e4962a92f6170fb5761a78b3d5f/Gemini_Generated_Image_9mr5qd9mr5qd9mr5.png?w=300&q=30)
 
-**[谷歌甚至想在人工智能上获胜吗？](https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis)**
+**[谷歌的Gemini 3.7 Flash针对编码和代理商提供50%的入门级降价](https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut)**
 
-我们对Chat**GPT**的反应迟缓谷歌是否希望在前沿赢得胜利，或者他们能否以极高的利率向**Anthropic**和**OpenAI**出售**Google** Cloud ，同时以高利率维持其消费品的可用模型
+谷歌的基准表列出了**Claude** Sonnet 5 ，价格分别为2美元和10美元，而**GPT**-5**Google**最新**发布**的通用Pro型号因此仍然是**Gemini** 3
 
-📅 2026-08-13T14:10:31.000Z
+📅 Thu, 13 Aug 2026 18:02:54 GMT
 
 ---
 
@@ -234,14 +245,12 @@ SpaceXAI对**Anthropic**的**Claude** Code和**OpenAI**的CodexArtificial Analys
 
 ---
 
-### VentureBeat
-![Skan AI筹集了6300万美元（ $ 6300万） ，认为观察员工的实际工作方式是企业AI的缺失层](https://images.ctfassets.net/jdtwqhzvc2n1/3WDoD2ymJo193EQQiyjPZc/10a7a431875f094f56d874bfa72cb9b0/Nuneybits_Vector_art_of_bank_towers_feeding_glowing_process_map_2465961e-61fe-473e-aaec-8071e4adbfcc.webp?w=300&q=30)
+### Ars Technica
+**[谷歌在前一版本发布仅三周后就宣布推出Gemini 3.7 Flash](https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/)**
 
-**[Skan AI筹集了6300万美元（ $ 6300万） ，认为观察员工的实际工作方式是企业AI的缺失层](https://venturebeat.com/data/skan-ai-raises-63-million-betting-that-watching-how-employees-actually-work-is-the-missing-layer-of-enterprise-ai)**
+**Gemini** 3.6 Flash仅在3周前**首次**亮相，但谷歌表示3.7有“实质性改进”。
 
-该公告落在企业AI**OpenAI**模型深受挫折的时刻，看到了糟糕的语言，看到了好的语言，但它能够有语义理解
-
-📅 Wed, 12 Aug 2026 11:00:00 GMT
+📅 Thu, 13 Aug 2026 17:00:13 +0000
 
 ---
 
@@ -254,36 +263,45 @@ SpaceXAI对**Anthropic**的**Claude** Code和**OpenAI**的CodexArtificial Analys
 
 ---
 
-### VentureBeat
-![代理上下文层：管理其AI数据的企业获得的错误答案是未获得的错误答案的两倍](https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30)
+### ZDNet AI
+**[Android Auto上的Gemini语音通话一直让我失望-谷歌必须在9月之前修复它](https://www.zdnet.com/article/gemini-voice-calling-on-android-auto-keeps-failing-google-must-fix-by-september/)**
 
-**[代理上下文层：管理其AI数据的企业获得的错误答案是未获得的错误答案的两倍](https://venturebeat.com/resources/agent-context-layers-enterprises-governing-their-ai-data-are-catching-twice-as-many-bad-answers-as-the-ones-who-arent)**
+多亏了**Gemini** ，随着**Google** Assistant在今年秋天关闭， Android用户将只能使用劣质的语音通话
 
-和原生检索— **OpenAI**的文件搜索（ 46 ％ ）和**Google** Vertex AI搜索（ 41 ％ ） —仍然远远领先于每个专用矢量数据库Finding 4 ：模型支持和超大规模检索仍然在矢量数据库中领先**OpenAI**的文件搜索和**Google**的Vertex AI搜索是每个专用系统的首选我们询问了哪些检索系统企业今天在生产中运行
-
-📅 Wed, 12 Aug 2026 07:30:00 GMT
-
----
-
-### VentureBeat
-![代理可靠性和评估：被糟糕的评估烧毁的企业最有可能将人类从循环中移除，至少](https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30)
-
-**[代理可靠性和评估：被糟糕的评估烧毁的企业最有可能将人类从循环中移除，至少](https://venturebeat.com/resources/agentic-reliability-and-evaluations-enterprises-that-got-burned-by-a-bad-eval-are-the-most-likely-to-remove-humans-from-the-loop-not-the-least)**
-
-交叉标签解释了新信心来自哪里，而不是来自更好的评估**OpenAI**的本地EVALS引导他们正在评估的内容（ 20% ）
-
-📅 Wed, 12 Aug 2026 07:30:00 GMT
+📅 Thu, 13 Aug 2026 17:07:04 GMT
 
 ---
 
 ## 📦 GitHub热门
+
+### GitHub Active (AI/ML)
+![模块化：模块化平台（包括MAX和Mojo ）](https://avatars.githubusercontent.com/u/150859076?v=4)
+
+**[模块化：模块化平台（包括MAX和Mojo ）](https://github.com/modular/modular)**
+
+⭐ 26787星· 2912叉·魔佐·模块化平台（包括MAX和魔佐）
+
+📅 2026-08-13T23:42:10Z
+
+---
+
+### GitHub Active (AI/ML)
+![catboost ：快速、可扩展、高性能的决策树梯度提升库，用于Python、R、Java、C + +的排名、分类、回归和其他机器学习任务。支持CPU和GPU上的计算。](https://avatars.githubusercontent.com/u/29043415?v=4)
+
+**[catboost ：快速、可扩展、高性能的决策树梯度提升库，用于Python、R、Java、C + +的排名、分类、回归和其他机器学习任务。支持CPU和GPU上的计算。](https://github.com/catboost/catboost)**
+
+066星· 1317分支· C + + ·快速支持CPU和GPU计算
+
+📅 2026-08-13T23:41:49Z
+
+---
 
 ### GitHub New (New AI)
 ![🆕 Intelis-Agent ：基于人工智能的研究和情报平台，可监控网络、分析信息、检测趋势并提供个性化报告。](https://avatars.githubusercontent.com/u/233260680?v=4)
 
 **[🆕 Intelis-Agent ：基于人工智能的研究和情报平台，可监控网络、分析信息、检测趋势并提供个性化报告。](https://github.com/vincenzo-afk/Intelis-Agent)**
 
-⭐ 17 star (新项目) · N/A · AI-powered research and intelligence platform that monitors the webanalyzes information
+⭐ 17 star (新项目) · TypeScript · AI-powered research and intelligence platform that monitors the webanalyzes information
 
 📅 2026-08-10T16:51:23Z
 
@@ -300,38 +318,23 @@ SpaceXAI对**Anthropic**的**Claude** Code和**OpenAI**的CodexArtificial Analys
 
 ---
 
-### GitHub New (New AI)
-![🆕 Developer-OS ：专为Web构建的桌面操作系统，通过受Windows启发的交互式界面探索我的项目、人工智能研究、成就和数字工作空间。](https://avatars.githubusercontent.com/u/233260680?v=4)
-
-**[🆕 Developer-OS ：专为Web构建的桌面操作系统，通过受Windows启发的交互式界面探索我的项目、人工智能研究、成就和数字工作空间。](https://github.com/vincenzo-afk/Developer-OS)**
-
-⭐ 3 star (新项目) · TypeScript · A desktop operating system built for the web—explore my projectsAI research
-
-📅 2026-08-12T14:55:48Z
-
----
-
-### GitHub New (New AI)
-![🆕 AI-Real-Time-GYM-Coach ：实时AI健身房教练，使用计算机视觉和姿势检测来跟踪锻炼、计数代表、分析表单并提供AI语音反馈。](https://avatars.githubusercontent.com/u/240323513?v=4)
-
-**[🆕 AI-Real-Time-GYM-Coach ：实时AI健身房教练，使用计算机视觉和姿势检测来跟踪锻炼、计数代表、分析表单并提供AI语音反馈。](https://github.com/siddemmohankrishna/AI-Real-Time-GYM-Coach)**
-
-⭐ 2 star (新项目) · Python · Real-time AI gym coach using computer vision and pose detection to track exercisesand provide AI voice feedback
-
-📅 2026-08-13T09:45:30Z
-
----
-
 ## 💬 社交动态
 
-### Reddit: r/artificial
-![据报道，白宫正准备在其秘密的预发布安全测试框架下引入开放的人工智能模型。所以，是的，越来越有趣了。](https://preview.redd.it/3bgxz2kwe3jh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3c36a1f326048086d7c23bb9a0109cab9fe0a6a4)
+### Hacker News
+**[组织如何使用人工智能：来自ChatGPT的证据[pdf]](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)**
 
-**[据报道，白宫正准备在其秘密的预发布安全测试框架下引入开放的人工智能模型。所以，是的，越来越有趣了。](https://www.reddit.com/r/artificial/comments/1vn3n70/the_white_house_is_reportedly_preparing_to_bring/)**
+**OpenAI**com/pdf/how-organizations-use-chat**GPT**
 
-《连线》杂志表示，自愿框架目前涵盖了**OpenAI**和**Anthropic**Open模型等实验室的前沿封闭模型，一旦它们达到可比功能，预计将加入，可能在公开**发布**前面临30天的测试期
+📅 Thu, 13 Aug 2026 19:25:38 +0000
 
-📅 2026-08-13T07:15:33.000Z
+---
+
+### Hacker News
+**[加速GPT-5.6 SOL超快](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai)**
+
+文章网址： https://wwwai/blog/accelerating-**GPT**-5-6-sol-ultrafast-with-**OpenAI**评论网址： https://**new**s
+
+📅 Thu, 13 Aug 2026 18:10:02 +0000
 
 ---
 
@@ -340,7 +343,7 @@ SpaceXAI对**Anthropic**的**Claude** Code和**OpenAI**的CodexArtificial Analys
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-08-13T16:00:28.743Z
+📅 2026-08-13T23:41:53.711Z
 
 ---
 
@@ -349,25 +352,16 @@ SpaceXAI对**Anthropic**的**Claude** Code和**OpenAI**的CodexArtificial Analys
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-08-13T16:00:35.968Z
-
----
-
-### Hacker News
-**[显示HN ： MCP内存–使用Google的OKF和SQLite FTS5快速代理内存](https://github.com/fellowgeek/mcp-memory)**
-
-文章网址： https://githubcom/fellowgeek/mcp-memory评论网址： https://**new**s
-
-📅 Thu, 13 Aug 2026 13:57:47 +0000
+📅 2026-08-13T23:41:58.755Z
 
 ---
 
 ### Hacker News AI
-**[灵魂设计：如何让您的Vibe编码网站看起来不像AI Slop](https://news.ycombinator.com/item?id=49287430)**
+**[人工智能文本水印的工作原理](https://declaude.org/watermarking/)**
 
-它是AI生成和手动编辑的混合体将其设置为**Claude**规则或其他任何内容，始终首先引用此文件，然后重复使用相同的组件并保持一致
+文章网址： https://de**Claude**org/watermarking/评论网址： https://**new**s
 
-📅 Thu, 13 Aug 2026 15:25:00 +0000
+📅 Thu, 13 Aug 2026 23:16:55 +0000
 
 ---
 
@@ -380,23 +374,21 @@ SpaceXAI对**Anthropic**的**Claude** Code和**OpenAI**的CodexArtificial Analys
 
 ---
 
-### Reddit: r/artificial
-![安德烈·卡帕西（ Andrej Karpathy ）刚刚承认， OpenAI自己的研究人员也和我们一样感到职业焦虑--他的实际推理比厄运头条更有用](https://external-preview.redd.it/aGdkb2U5c3AzNGpoMa7tEhPlN7twPS1oqtzf5e2-lOn3NxmmbPOSWgVG3cUW.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=99b349b567d3ba013f71cba87a6ada93f5b7de83)
-
-**[安德烈·卡帕西（ Andrej Karpathy ）刚刚承认， OpenAI自己的研究人员也和我们一样感到职业焦虑--他的实际推理比厄运头条更有用](https://www.reddit.com/r/artificial/comments/1vn601y/andrej_karpathy_just_admitted_openais_own/)**
-
-几年前我看过这部戏剧的一个版本，在这些人工智能东西存在之前，我认识他—我的前辈曾经告诉我这家伙是如何强行建造非法平房的
-
-📅 2026-08-13T09:35:23.000Z
-
----
-
 ### X: OpenAI
 **[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-08-13T16:00:28.743Z
+📅 2026-08-13T23:41:53.711Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误520 ：
+
+📅 2026-08-13T23:41:53.711Z
 
 ---
 
