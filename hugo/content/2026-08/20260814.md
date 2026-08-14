@@ -1,12 +1,12 @@
 ---
 title: "2026年8月14日 - TZ日报"
-date: 2026-08-14T15:54:00.083Z
+date: 2026-08-14T23:24:11.821Z
 draft: false
 ---
 
 # 2026年8月14日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/8/14 15:54:00
+> 📊 今日汇总 38 条 · 🕐 2026/8/14 23:24:11
 
 ---
 
@@ -49,15 +49,6 @@ draft: false
 
 ---
 
-### AI News
-**[Google AI健康教练使用Abbott血糖数据](https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/)**
-
-Abbott和谷歌正在将连续血糖监测数据与谷歌的人工智能健康教练工具相关联用户将能够查看血糖趋势以及[…]谷歌人工智能健康教练使用Abbott血糖数据的帖子**首次**出现在人工智能新闻
-
-📅 Fri, 14 Aug 2026 10:00:00 +0000
-
----
-
 ### OpenAI Blog
 **[GPT ‑ 5.6的建设者指南](https://openai.com/index/builders-guide-to-gpt-5-6)**
 
@@ -85,17 +76,6 @@ Abbott和谷歌正在将连续血糖监测数据与谷歌的人工智能健康�
 
 ---
 
-### Google AI Blog
-![我们的研究医疗人工智能系统AMIE在一项首创的研究中展示了实时临床视频咨询功能。](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp)
-
-**[我们的研究医疗人工智能系统AMIE在一项首创的研究中展示了实时临床视频咨询功能。](https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/)**
-
-谷歌**推出**了AMIE ，用于在模拟环境中进行实时临床视频咨询。
-
-📅 Tue, 11 Aug 2026 17:00:00 +0000
-
----
-
 ### DeepMind Blog
 **[隆重推出Gemini 3.7 Flash](https://deepmind.google/blog/introducing-gemini-3-7-flash/)**
 
@@ -106,11 +86,29 @@ Abbott和谷歌正在将连续血糖监测数据与谷歌的人工智能健康�
 ---
 
 ### TechCrunch AI Products
+**[谷歌现在允许用户从其AI代中删除可见的水印](https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/)**
+
+关闭此设置不会影响用于识别AI生成文件的不可见基准。
+
+📅 Fri, 14 Aug 2026 16:13:40 +0000
+
+---
+
+### TechCrunch AI Products
 **[马克·扎克伯格真的相信人工智能“适合所有人”吗？](https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/)**
 
 **Meta**本周**发布**了Glimmer ，这是一种任何人都可以下载并在自己的硬件上运行的开放式AI模型—与Muse Spark形成鲜明对比
 
 📅 Fri, 14 Aug 2026 15:43:28 +0000
+
+---
+
+### TechCrunch AI Products
+**[Meta的“开放式”人工智能， 2.5亿美元的交易出错了 ](https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/)**
+
+**Meta**本周**发布**了Glimmer ，这是一种任何人都可以下载并在自己的硬件上运行的开放式AI模型—与Muse Spark形成鲜明对比
+
+📅 Fri, 14 Aug 2026 14:00:00 +0000
 
 ---
 
@@ -213,17 +211,6 @@ Abbott和谷歌正在将连续血糖监测数据与谷歌的人工智能健康�
 ---
 
 ### VentureBeat
-![SpaceXAI推出Grok 4.6 ，超越Kimi K3的性能，并与GPT-5.6 Sol相匹配，在人工分析方面位居世界第三](https://images.ctfassets.net/jdtwqhzvc2n1/1J59SGXBNdsrIt3Kw0ldLc/a141fa05285801695f63cba9b60fc522/a26da258-6757-46f3-857c-c143d56f830a.jpg?w=300&q=30)
-
-**[SpaceXAI推出Grok 4.6 ，超越Kimi K3的性能，并与GPT-5.6 Sol相匹配，在人工分析方面位居世界第三](https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis)**
-
-SpaceXAI对**Anthropic**的**Claude** Code和**OpenAI**的CodexArtificial Analysis的回应称，标准标题价格仍比其引用的**Claude** Opus 5和**GPT**-5的竞争前沿型号价格低60%以上
-
-📅 Wed, 12 Aug 2026 17:26:58 GMT
-
----
-
-### VentureBeat
 ![谷歌的Gemini 3.7 Flash针对编码和代理商提供50%的入门级降价](https://images.ctfassets.net/jdtwqhzvc2n1/2hiXA5MTlT6U93qXfs9J8Q/e9a84e4962a92f6170fb5761a78b3d5f/Gemini_Generated_Image_9mr5qd9mr5qd9mr5.png?w=300&q=30)
 
 **[谷歌的Gemini 3.7 Flash针对编码和代理商提供50%的入门级降价](https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut)**
@@ -245,12 +232,23 @@ SpaceXAI对**Anthropic**的**Claude** Code和**OpenAI**的CodexArtificial Analys
 
 ---
 
-### Ars Technica
-**[随着中国人工智能竞争对手取得进展， OpenAI和Anthropic在价格战中取得进展](https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/)**
+### The Verge
+![您现在可以关闭Google Gemini的可见水印](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-在万亿美元的雄心壮志面临新的挑战后，美国集团**发布**了更便宜的车型。
+**[您现在可以关闭Google Gemini的可见水印](https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal)**
 
-📅 Fri, 14 Aug 2026 14:27:14 +0000
+通过**更新**，您可以在**Gemini**和**Google**的AI**视频生成**器中关闭新的“媒体水印”设置， Flow**Google**将删除使用该公司的Nano Banana和Omni型号生成的内容右下角显示的“闪光”水印
+
+📅 2026-08-14T16:39:32.000Z
+
+---
+
+### ZDNet AI
+**[Google Meet现在可以为您的面对面会议做笔记，具体操作方法如下](https://www.zdnet.com/article/google-meet-take-notes-in-person-meetings-how-it-works/)**
+
+谷歌的双子座会议软件现在可以保存成绩单，将其发送到谷歌云端硬盘，并通过电子邮件向您发送副本
+
+📅 Fri, 14 Aug 2026 16:54:29 GMT
 
 ---
 
@@ -275,13 +273,24 @@ SpaceXAI对**Anthropic**的**Claude** Code和**OpenAI**的CodexArtificial Analys
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![tensorflow ：面向所有人的开源机器学习框架](https://avatars.githubusercontent.com/u/15658638?v=4)
+![screenpipe ： YC (S26) |全天候录制屏幕并插入代理。本地、私密、安全。连接到OpenClaw、Hermes代理和100多个应用程序](https://avatars.githubusercontent.com/u/259178917?v=4)
 
-**[tensorflow ：面向所有人的开源机器学习框架](https://github.com/tensorflow/tensorflow)**
+**[screenpipe ： YC (S26) |全天候录制屏幕并插入代理。本地、私密、安全。连接到OpenClaw、Hermes代理和100多个应用程序](https://github.com/screenpipe/screenpipe)**
 
-⭐ 197,021星· 76024分支· C + + ·面向所有人的**开源**机器学习框架
+⭐ 20,958星· 2100叉·铁锈· YC (S26) |全天候录制屏幕并插入代理本地、私密、安全
 
-📅 2026-08-14T15:51:13Z
+📅 2026-08-14T23:22:31Z
+
+---
+
+### GitHub Active (AI/ML)
+![ComfyUI_frontend ： ComfyUI的官方前端实现](https://avatars.githubusercontent.com/u/166579949?v=4)
+
+**[ComfyUI_frontend ： ComfyUI的官方前端实现](https://github.com/Comfy-Org/ComfyUI_frontend)**
+
+⭐ 1963星· 663叉· TypeScript · ComfyUI官方前端实现
+
+📅 2026-08-14T23:21:07Z
 
 ---
 
@@ -307,25 +316,27 @@ SpaceXAI对**Anthropic**的**Claude** Code和**OpenAI**的CodexArtificial Analys
 
 ---
 
-### GitHub New (New AI)
-![🆕 Developer-OS ：专为Web构建的桌面操作系统，通过受Windows启发的交互式界面探索我的项目、人工智能研究、成就和数字工作空间。](https://avatars.githubusercontent.com/u/233260680?v=4)
-
-**[🆕 Developer-OS ：专为Web构建的桌面操作系统，通过受Windows启发的交互式界面探索我的项目、人工智能研究、成就和数字工作空间。](https://github.com/vincenzo-afk/Developer-OS)**
-
-⭐ 3 star (新项目) · TypeScript · A desktop operating system built for the web—explore my projectsAI research
-
-📅 2026-08-12T14:55:48Z
-
----
-
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[人工智能新手](https://www.reddit.com/r/artificial/comments/1vo2xy9/new_to_ai/)**
+![OpenAI报告高盛分析师向FBI报告令人震惊的ChatGPT对话](https://external-preview.redd.it/Mm-nhYTumWIP8f8gjOviTJkoyHTFqWYOg3wlYner5c4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6245f8baf6f892178a7c647e6db8ad8ef4e18dd3)
 
-虽然我使用过**Claude**Chat**GPT**等人工智能工具，但我缺乏制作自己的人工智能模型和人工智能伦理的经验（或任何类型的知识）
+**[OpenAI报告高盛分析师向FBI报告令人震惊的ChatGPT对话](https://www.reddit.com/r/artificial/comments/1volf3k/openai_reports_goldman_sachs_analyst_to_fbi_for/)**
 
-📅 2026-08-14T09:55:52.000Z
+提交者：/u/coolbern [link] [comments]
+
+📅 2026-08-14T22:22:14.000Z
+
+---
+
+### Reddit: r/artificial
+![Anthropic运送前沿的人工智能模型，但没有简单的切换来切换计费模式？](https://preview.redd.it/nabwg4lvpejh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e749cf784aa25e0a48107f44f311afb6f1126886)
+
+**[Anthropic运送前沿的人工智能模型，但没有简单的切换来切换计费模式？](https://www.reddit.com/r/artificial/comments/1vojtph/anthropic_ships_frontier_ai_models_but_no_simple/)**
+
+花费的时间远远超过我应该将**Claude** Code （ **Anthropic**的编码代理）从API密钥计费切换回我的专业订阅对于一家运送一些最先进的人工智能模型的公司来说，这感觉就像是十年前解决的用户体验问题
+
+📅 2026-08-14T21:17:03.000Z
 
 ---
 
@@ -334,7 +345,7 @@ SpaceXAI对**Anthropic**的**Claude** Code和**OpenAI**的CodexArtificial Analys
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-08-14T15:52:41.301Z
+📅 2026-08-14T23:22:55.125Z
 
 ---
 
@@ -343,34 +354,7 @@ SpaceXAI对**Anthropic**的**Claude** Code和**OpenAI**的CodexArtificial Analys
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-08-14T15:52:47.701Z
-
----
-
-### Hacker News
-**[Unsloth Qwen3.8-27B GGUF文件](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)**
-
-文章网址： https://huggingface8-27B-GGUF评论网址： https://**new**s
-
-📅 Fri, 14 Aug 2026 15:04:17 +0000
-
----
-
-### Hacker News
-**[QWEN 3.8 27B已推出：开放式配重，有史以来最好的局部密集型号](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)**
-
-文章网址： https://huggingface8-27B-FP8留言网址： https://**new**s
-
-📅 Fri, 14 Aug 2026 15:00:00 +0000
-
----
-
-### Hacker News AI
-**[谷歌正在利用同态加密使私有AI变得实用](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)**
-
-文章网址： https://blog**Google**/security/how-**Google**-is-making-private-ai-practical-with-homomorphic-encryption/评论网址： https://**new**s
-
-📅 Fri, 14 Aug 2026 15:43:10 +0000
+📅 2026-08-14T23:23:03.430Z
 
 ---
 
@@ -391,6 +375,24 @@ Android遥控器MCP🚀的新版本**发布**了— MCP服务器在您的手机�
 I hv been in the trenches with ai generated ad content and I feel strongly a shift is coming and it surely doesnt look good for ai video tools Starting with **new** yorkany ad featuring an ai generated person has to be labeled as a synthetic performer like an on ad label and ny is kind of state that tends to set the template for everyone else to copy(coz no one want two versions of a policy) **Meta** also is now auto detecting and labeling ads when their systems flag generative ai tools in the pipeline which means it doesnt matter how good and natural an ai ad looks
 
 📅 2026-08-14T15:03:54.000Z
+
+---
+
+### Reddit: r/artificial
+**[同样的演示， DeepSeek V4 Pro 0813上的两次失败，然后V4 Flash完成了它](https://www.reddit.com/r/artificial/comments/1vo5x4i/same_demo_two_failures_on_deepseek_v4_pro_0813/)**
+
+我今晚只做了一个**DeepSeek** V4 Pro 0813的快速第一次测试，所以把它当作一个小样本，而不是一个判断第一次Pro运行失败
+
+📅 2026-08-14T12:28:42.000Z
+
+---
+
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Title: 520: Web服务器返回未知错误
+
+📅 2026-08-14T23:22:55.125Z
 
 ---
 
