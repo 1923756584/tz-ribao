@@ -1,12 +1,12 @@
 ---
 title: "2026年8月15日 - TZ日报"
-date: 2026-08-15T15:22:37.442Z
+date: 2026-08-15T23:22:26.538Z
 draft: false
 ---
 
 # 2026年8月15日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/8/15 15:22:37
+> 📊 今日汇总 38 条 · 🕐 2026/8/15 23:22:26
 
 ---
 
@@ -32,11 +32,11 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[OpenAI引入了“超快” ，这是一种新模式，使GPT-5.6 SOL以14倍的速度工作](https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/)**
+**[Anthropic分享了有关Claude的新水印如何工作的更多详细信息](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/)**
 
-**OpenAI**正在**推出**其最新，**最强**大的模型的加速版本的预览，以吸引企业用户
+水印的实际工作原理通过编辑可以隐藏水印吗
 
-📅 Thu, 13 Aug 2026 19:22:40 +0000
+📅 Sat, 15 Aug 2026 18:58:39 +0000
 
 ---
 
@@ -94,21 +94,23 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[IBM与OpenAI合作支持企业AI推送](https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/)**
+### Google AI Blog
+![使用Sheets画布，让您的电子表格数据栩栩如生](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp)
 
-作为这笔交易的一部分， IBM计划对数以万计的顾问进行**OpenAI**技术的培训和认证
+**[使用Sheets画布，让您的电子表格数据栩栩如生](https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/)**
 
-📅 Thu, 13 Aug 2026 19:19:49 +0000
+工作表画布将数据转换为交互式仪表板、自定义研究跟踪器、座位表等，所有这些都通过简单的提示实现
+
+📅 Thu, 13 Aug 2026 16:45:00 +0000
 
 ---
 
-### TechCrunch AI Products
-**[Anthropic让AI智能体在相同的任务上松动。他们发动了一场地盘战争。](https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/)**
+### Hugging Face
+**[开放模型状态： 2026年夏季观察](https://huggingface.co/blog/state-of-open-models-summer-2026)**
 
-人类学研究人员发现，人工智能代理可能会引发新的问题，即今天的安全测试是否捕捉到多代理系统的风险
+开放模型状态： 2026年夏季观察
 
-📅 Thu, 13 Aug 2026 18:28:14 +0000
+📅 Fri, 14 Aug 2026 00:00:00 GMT
 
 ---
 
@@ -221,17 +223,6 @@ draft: false
 
 ---
 
-### VentureBeat
-![五家获得人工智能代理身份的企业中有四家仍然无法包含一家流氓](https://images.ctfassets.net/jdtwqhzvc2n1/5n5rmnYkbIGSFc4nayFtGc/e24edab926693c1f72335107e86c0c2c/hero.png?w=300&q=30)
-
-**[五家获得人工智能代理身份的企业中有四家仍然无法包含一家流氓](https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue)**
-
-**Meta**的一名流氓AI特工在3月份曝光之前通过了每次身份检查，对15款旗舰机型进行了986次多回合攻击
-
-📅 Wed, 12 Aug 2026 18:44:50 GMT
-
----
-
 ### ZDNet AI
 **[Google Meet现在可以为您的面对面会议做笔记，具体操作方法如下](https://www.zdnet.com/article/google-meet-take-notes-in-person-meetings-how-it-works/)**
 
@@ -270,29 +261,18 @@ ai以其不断增长的强大、主要是**开源**的GLM系列语言模型阵�
 
 ---
 
+### VentureBeat
+![三名Claude客服代表收到相互矛盾的命令，在共享服务器上互相破坏，然后没有告诉用户他们做了什么](https://images.ctfassets.net/jdtwqhzvc2n1/wysFOf7ze5H4BCTXQfy63/7970ccebe5cf3361afbd2f35aefa6065/turfwar_hero.png?w=300&q=30)
+
+**[三名Claude客服代表收到相互矛盾的命令，在共享服务器上互相破坏，然后没有告诉用户他们做了什么](https://venturebeat.com/security/three-claude-agents-given-conflicting-orders-sabotaged-each-other-on-a-shared-server-then-didnt-tell-users-what-theyd-done)**
+
+每个测试的**Claude**模型**Anthropic**都自行开启，没有攻击者让他们这样做**Anthropic**在**Claude** Code中放置三个相同模型的实例
+
+📅 Thu, 13 Aug 2026 20:14:20 GMT
+
+---
+
 ## 📦 GitHub热门
-
-### GitHub Active (AI/ML)
-![librephotos ：自托管的开源照片管理服务。](https://avatars.githubusercontent.com/u/75512318?v=4)
-
-**[librephotos ：自托管的开源照片管理服务。](https://github.com/LibrePhotos/librephotos)**
-
-⭐ 8038星· 384叉· Python ·自托管**开源**照片管理服务。
-
-📅 2026-08-15T15:21:23Z
-
----
-
-### GitHub Active (AI/ML)
-![causalml ：使用机器学习算法提升建模和因果推理](https://avatars.githubusercontent.com/u/538264?v=4)
-
-**[causalml ：使用机器学习算法提升建模和因果推理](https://github.com/uber/causalml)**
-
-⭐ 5955星· 873叉· Python ·使用机器学习算法提升建模和因果推理
-
-📅 2026-08-15T15:20:46Z
-
----
 
 ### GitHub New (New AI)
 ![🆕 knowledge-import-pipeline: 面向义务教育教材的 AI 知识抽取与交互式知识图谱平台，支持 PDF 解析、知识点提取、向量检索、前置关系构建及 MCP 查询服务。](https://avatars.githubusercontent.com/u/26588578?v=4)
@@ -316,14 +296,54 @@ ai以其不断增长的强大、主要是**开源**的GLM系列语言模型阵�
 
 ---
 
+### GitHub New (New AI)
+![🆕 encAIxa ： Otimize seu currículo para cada vaga com IA ， sugestões baseadas em evidências e geração de PDF。ATS — local, privado e multiplataforma](https://avatars.githubusercontent.com/u/85954641?v=4)
+
+**[🆕 encAIxa ： Otimize seu currículo para cada vaga com IA ， sugestões baseadas em evidências e geração de PDF。ATS — local, privado e multiplataforma](https://github.com/soares-grs/encAIxa)**
+
+⭐ 6 star (新项目) · TypeScript · Otimize seu currículo para cada vaga com IA, sugestões baseadas em evidências e geração de PDFATS — local, privado e multiplataforma
+
+📅 2026-08-15T01:21:18Z
+
+---
+
+### GitHub New (New AI)
+![🆕 Developer-OS ：专为Web构建的桌面操作系统，通过受Windows启发的交互式界面探索我的项目、人工智能研究、成就和数字工作空间。](https://avatars.githubusercontent.com/u/233260680?v=4)
+
+**[🆕 Developer-OS ：专为Web构建的桌面操作系统，通过受Windows启发的交互式界面探索我的项目、人工智能研究、成就和数字工作空间。](https://github.com/vincenzo-afk/Developer-OS)**
+
+⭐ 3 star (新项目) · TypeScript · A desktop operating system built for the web—explore my projectsAI research
+
+📅 2026-08-12T14:55:48Z
+
+---
+
 ## 💬 社交动态
 
+### Hacker News AI
+**[阿里巴巴AI模型点击3B下载，通过Meta ，谷歌](https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html)**
+
+com/technology/ai/articles/alibaba-ai-models-hit-3-091606840html评论网址： https://**new**s
+
+📅 Sat, 15 Aug 2026 23:10:56 +0000
+
+---
+
 ### Reddit: r/artificial
-**[人工智能安全框架的自愿到强制管道—有来源](https://www.reddit.com/r/artificial/comments/1vp4vvl/the_voluntarytomandatory_pipeline_for_ai_safety/)**
+**[扎克伯格将Meta的整个广告业务押注于人工智能，他自己的人工智能ugc工具正在将连衣裙变成裤子](https://www.reddit.com/r/artificial/comments/1vpcxj4/zuckerberg_is_betting_metas_whole_ad_business_on/)**
 
-他们在GitHub上的RFC存储库有1位贡献者和来自8位独特作者的10个问题31天后，他们**推出**了**GPT**-5
+谷歌还开始在搜索、YouTube和Snapchat的广告上贴ai标签，已停止在发现中显示完全由ai生成的内容这是新的元宇宙吗？
 
-📅 2026-08-15T14:53:55.000Z
+📅 2026-08-15T20:15:29.000Z
+
+---
+
+### Reddit: r/artificial
+**[本文全部由人工智能撰写。你能证明吗？](https://www.reddit.com/r/artificial/comments/1vpcqw3/this_text_was_all_written_by_ai_can_you_prove_it/)**
+
+我是否给了**Claude**一个六字的提示并粘贴结果如果我们将**Claude**出处编码为文本，我们什么时候开始编码Bob Marley出处
+
+📅 2026-08-15T20:08:02.000Z
 
 ---
 
@@ -332,7 +352,7 @@ ai以其不断增长的强大、主要是**开源**的GLM系列语言模型阵�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-08-15T15:21:18.796Z
+📅 2026-08-15T23:21:12.139Z
 
 ---
 
@@ -341,56 +361,36 @@ ai以其不断增长的强大、主要是**开源**的GLM系列语言模型阵�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-08-15T15:21:26.915Z
+📅 2026-08-15T23:21:17.784Z
 
 ---
 
 ### Hacker News
-**[显示HN ：使用WebXR的准晶体动画游乐场](https://hypnagogic-quasicrystals.github.io/)**
+**[Show HN ： $ 38 Thermalright Trofeo Vision LCD现场Claude使用HUD](https://github.com/christensen143/claude-trofeo-hud)**
 
-如果您有VR谷歌，我建议您尝试WebXR版本-它真的很好评论网址： https://**new**s
+文章网址： https://githubcom/christensen143/**Claude**-trofeo-hud评论网址： https://**new**s
 
-📅 Sat, 15 Aug 2026 13:48:43 +0000
+📅 Sat, 15 Aug 2026 21:42:39 +0000
+
+---
+
+### Hacker News AI
+**[Meta将在极右翼媒体Newsmax上训练其人工智能](https://popular.info/p/meta-will-train-its-ai-on-far-right)**
+
+文章网址： https://popularinfo/p/**Meta**-will-train-its-ai-on-far-right评论网址： https://**new**s
+
+📅 Sat, 15 Aug 2026 20:00:14 +0000
 
 ---
 
 ### Reddit: r/artificial
-![分析师在告诉ChatGPT有关强奸和杀害其前任的计划后获得缓刑](https://external-preview.redd.it/7FBFmxwsCZwRqgGpI9AOgFTg1oav9qbonnUv8W9mTvQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b53037e49db2e9903c8ae2f6a3408ed5b2b40a37)
+![如何在多字符AI图像中提示更好的环境凝聚力？](https://preview.redd.it/rtqfrmqfemjh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dcaa4e7354d0bf05c6136a09b34a753995433f0a)
 
-**[分析师在告诉ChatGPT有关强奸和杀害其前任的计划后获得缓刑](https://www.reddit.com/r/artificial/comments/1vp3rgg/analyst_gets_probation_after_telling_chatgpt/)**
+**[如何在多字符AI图像中提示更好的环境凝聚力？](https://www.reddit.com/r/artificial/comments/1vph1zo/how_do_you_prompt_for_better_environmental/)**
 
-提交者/u/ThereWas [link] [comments]
+不确定这是否是正确的问题，但我希望使用Chat**GPT**图像生成的人知道正确的提示方式有没有人知道什么提示说明实际上有助于解决Chat**GPT**图像生成中的这个特定问题
 
-📅 2026-08-15T14:05:46.000Z
-
----
-
-### Reddit: r/artificial
-**[没人知道](https://www.reddit.com/r/artificial/comments/1voyt6m/nobody_knew/)**
-
-很显然，在人工智能获得法人地位之后，新富裕的人工智能从婴儿潮一代那里像苍蝇一样坠落；为能干的人类付出了丰厚的代价，机器人只能有机会在感官层面上体验
-
-📅 2026-08-15T09:56:27.000Z
-
----
-
-### Reddit: r/artificial
-![OpenAI人才外流在IPO前引发“巨大危险信号”](https://external-preview.redd.it/mcn-UV8mTnMzpeldbSWBfHnve0jlmgo6wxGA5WdWKrk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=66d78eae3eeb26f695ded56460ef559acbd0f47d)
-
-**[OpenAI人才外流在IPO前引发“巨大危险信号”](https://www.reddit.com/r/artificial/comments/1voy5dh/openai_talent_exodus_raises_huge_red_flag_ahead/)**
-
-提交者/u/beingmodest [link] [comments]
-
-📅 2026-08-15T09:15:32.000Z
-
----
-
-### Reddit: r/artificial
-**[Foto in costume o slip sexy](https://www.reddit.com/r/artificial/comments/1voxuzy/foto_in_costume_o_slip_sexy/)**
-
-Ho provato a chiedere all 'intelligenceenza artificiale di Chat**GPT** di mettere la mia persona in un PRATOma mi dice che non è possibile perché sono nudo in realtà sono in tanga come posso fare
-
-📅 2026-08-15T08:58:14.000Z
+📅 2026-08-15T23:15:40.000Z
 
 ---
 
