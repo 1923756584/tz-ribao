@@ -1,12 +1,12 @@
 ---
 title: "2026年8月16日 - TZ日报"
-date: 2026-08-16T15:24:23.543Z
+date: 2026-08-16T23:22:14.329Z
 draft: false
 ---
 
 # 2026年8月16日 - TZ日报
 
-> 📊 今日汇总 35 条 · 🕐 2026/8/16 15:24:23
+> 📊 今日汇总 35 条 · 🕐 2026/8/16 23:22:14
 
 ---
 
@@ -31,12 +31,12 @@ draft: false
 
 ---
 
-### DeepMind Blog
-**[隆重推出Gemini 3.7 Flash](https://deepmind.google/blog/introducing-gemini-3-7-flash/)**
+### TechCrunch AI Products
+**[Anthropic首席执行官表示，人工智能的反弹“从根本上是一场信任危机”](https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/)**
 
-隆重**推出**Gemini 3.7 Flash
+达里奥·阿莫代（ Dario Amodei ）正在反驳这样一种观点，即他一直在描绘一幅过于悲观的人工智能图景
 
-📅 Thu, 13 Aug 2026 17:04:18 +0000
+📅 Sun, 16 Aug 2026 16:53:51 +0000
 
 ---
 
@@ -58,26 +58,6 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[Meta的“开放式”人工智能， 2.5亿美元的交易出错了 ](https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/)**
-
-**Meta**本周**发布**了Glimmer ，这是一种任何人都可以下载并在自己的硬件上运行的开放式AI模型—与Muse Spark形成鲜明对比
-
-📅 Fri, 14 Aug 2026 14:00:00 +0000
-
----
-
-### Google AI Blog
-![使用Sheets画布，让您的电子表格数据栩栩如生](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp)
-
-**[使用Sheets画布，让您的电子表格数据栩栩如生](https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/)**
-
-工作表画布将数据转换为交互式仪表板、自定义研究跟踪器、座位表等，所有这些都通过简单的提示实现
-
-📅 Thu, 13 Aug 2026 16:45:00 +0000
-
----
-
 ### Hugging Face
 **[开放模型状态： 2026年夏季观察](https://huggingface.co/blog/state-of-open-models-summer-2026)**
 
@@ -87,12 +67,21 @@ draft: false
 
 ---
 
-### Hugging Face
-**[使用Strands Agent、LeRobot和Hugging Face Storage Buckets从一个地方记录、训练和部署](https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop)**
+### TechCrunch AI Products
+**[据报道， Stripe将以$ 70亿+的价格收购AI网关初创公司OpenRouter](https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/)**
 
-使用Strands Agent、LeRobot和Hugging Face Storage Buckets从一个地方记录、训练和部署
+OpenRouter的首席执行官最近将这家初创公司描述为Stripe for AI。
 
-📅 Thu, 13 Aug 2026 17:16:04 GMT
+📅 Sun, 16 Aug 2026 20:57:04 +0000
+
+---
+
+### TechCrunch AI Products
+**[为什么人们不购买马克·扎克伯格的人工智能未来](https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/)**
+
+在最新一期的Equity播客中，我们讨论了为什么不是每个人都会购买扎克伯格的愿景。
+
+📅 Sun, 16 Aug 2026 20:32:01 +0000
 
 ---
 
@@ -111,6 +100,15 @@ draft: false
 人工智能编程初创公司Cursor现在正式成为SpaceX的一部分。
 
 📅 Sat, 15 Aug 2026 16:30:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[KOG正在更深入地从GPU中挤出更多推理](https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/)**
+
+根据法国初创公司Kog的说法，认为GPU不适合代理工作流程的想法可能是一种误解
+
+📅 Fri, 14 Aug 2026 14:50:11 +0000
 
 ---
 
@@ -164,17 +162,6 @@ draft: false
 ## 🌍 行业展望
 
 ### VentureBeat
-![DeepSeek Harness作为Claude Code的开源竞争对手推出，同时推出价格更高的API V4-Pro](https://images.ctfassets.net/jdtwqhzvc2n1/6hFdhAgllY0UvaVpl6BmLa/d6e4fff99189904b4a8a9f037e1fbb83/43530361-2311-45E8-BCF9-8DF972A298D8.png?w=300&q=30)
-
-**[DeepSeek Harness作为Claude Code的开源竞争对手推出，同时推出价格更高的API V4-Pro](https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices)**
-
-这使得**Anthropic**的**Claude** Code和**OpenAI**的Codex成为有用的竞争参考。以下是一个快速比较： Dimension **DeepSeek** Harness **Claude** Code **OpenAI** Codex阅读
-
-📅 Thu, 13 Aug 2026 16:47:55 GMT
-
----
-
-### VentureBeat
 ![DeepSeek排名第一的V4 Flash在价格飙升时偶然发现了真正的代理任务](https://images.ctfassets.net/jdtwqhzvc2n1/YO11rLoN8OR9ZKXk99L3g/102fc5f215a65b1851a46b1309831c15/DeepSeek.png?w=300&q=30)
 
 **[DeepSeek排名第一的V4 Flash在价格飙升时偶然发现了真正的代理任务](https://venturebeat.com/orchestration/deepseeks-top-ranked-v4-flash-stumbles-on-real-agent-tasks-as-its-prices-surge)**
@@ -185,32 +172,12 @@ draft: false
 
 ---
 
-### VentureBeat
-![谷歌的Gemini 3.7 Flash针对编码和代理商提供50%的入门级降价](https://images.ctfassets.net/jdtwqhzvc2n1/2hiXA5MTlT6U93qXfs9J8Q/e9a84e4962a92f6170fb5761a78b3d5f/Gemini_Generated_Image_9mr5qd9mr5qd9mr5.png?w=300&q=30)
-
-**[谷歌的Gemini 3.7 Flash针对编码和代理商提供50%的入门级降价](https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut)**
-
-谷歌的基准表列出了**Claude** Sonnet 5 ，价格分别为2美元和10美元，而**GPT**-5**Google**最新**发布**的通用Pro型号因此仍然是**Gemini** 3
-
-📅 Thu, 13 Aug 2026 18:02:54 GMT
-
----
-
 ### ZDNet AI
 **[Google Meet现在可以为您的面对面会议做笔记，具体操作方法如下](https://www.zdnet.com/article/google-meet-take-notes-in-person-meetings-how-it-works/)**
 
 谷歌的双子座会议软件现在可以保存成绩单，将其发送到谷歌云端硬盘，并通过电子邮件向您发送副本
 
 📅 Fri, 14 Aug 2026 16:54:29 GMT
-
----
-
-### ZDNet AI
-**[这款免费的Android助手解决了我最大的双子座挫败感-并保护我的数据隐私](https://www.zdnet.com/article/dicio-free-android-assistant-gemini-keeps-data-private/)**
-
-由于**Google**即将退出**Google** Assistant ，而**Gemini**并不是我们许多人想要的替代品， Dicio是一个可靠的选择
-
-📅 Fri, 14 Aug 2026 00:00:45 GMT
 
 ---
 
@@ -236,27 +203,52 @@ ai以其不断增长的强大、主要是**开源**的GLM系列语言模型阵�
 
 ---
 
-### VentureBeat
-![三名Claude客服代表收到相互矛盾的命令，在共享服务器上互相破坏，然后没有告诉用户他们做了什么](https://images.ctfassets.net/jdtwqhzvc2n1/wysFOf7ze5H4BCTXQfy63/7970ccebe5cf3361afbd2f35aefa6065/turfwar_hero.png?w=300&q=30)
+### ZDNet AI
+**[Pixel的全新“HiLight”让我想起了Android手机的黄金时代](https://www.zdnet.com/article/google-pixel-11-pro-hilight-feature-android-golden-days/)**
 
-**[三名Claude客服代表收到相互矛盾的命令，在共享服务器上互相破坏，然后没有告诉用户他们做了什么](https://venturebeat.com/security/three-claude-agents-given-conflicting-orders-sabotaged-each-other-on-a-shared-server-then-didnt-tell-users-what-theyd-done)**
+谷歌在Pixel 11 Pro型号上的新LED功能向经典的通知LED致敬，但到目前为止，它很微妙
 
-每个测试的**Claude**模型**Anthropic**都自行开启，没有攻击者让他们这样做**Anthropic**在**Claude** Code中放置三个相同模型的实例
+📅 Sun, 16 Aug 2026 15:30:42 GMT
 
-📅 Thu, 13 Aug 2026 20:14:20 GMT
+---
+
+### ZDNet AI
+**[Google Pixel 11 Pro与Apple iPhone 17 Pro ：新Pixel如何与其最大竞争对手竞争](https://www.zdnet.com/article/google-pixel-11-pro-vs-apple-iphone-17-pro/)**
+
+我已经测试了两款手机，它们都是脖子和脖子在这里它们都成功了（并且有改进的余地）
+
+📅 Sun, 16 Aug 2026 10:45:00 GMT
+
+---
+
+### ZDNet AI
+**[Google Pixel 11与Pixel 9 ：我今年考虑升级的原因](https://www.zdnet.com/article/google-pixel-11-vs-pixel-9/)**
+
+如果您去年（或前年）没有**升级**，那么可以为新的Pixel 11做好准备
+
+📅 Sun, 16 Aug 2026 10:15:45 GMT
+
+---
+
+### ZDNet AI
+**[ChatGPT的新计算机历史记录会跟踪您的Mac活动以创建时间轴，但您是否应该这样做？](https://www.zdnet.com/article/chatgpt-computer-history/)**
+
+**推出**Chat**GPT**的Mac应用程序后，计算机历史记录将根据您在Mac上使用的存在隐私风险的应用程序和网站的活动创建时间表
+
+📅 Fri, 14 Aug 2026 16:00:16 GMT
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (Python)
-![nonebot2: 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python](https://avatars.githubusercontent.com/u/63496654?v=4)
+![zendriver ：基于ultrafunkamsterdam/nodriver的快速、异步优先、无法检测的Web抓取/Web自动化框架。现在有了Docker支持！](https://avatars.githubusercontent.com/u/219838351?v=4)
 
-**[nonebot2: 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python](https://github.com/nonebot/nonebot2)**
+**[zendriver ：基于ultrafunkamsterdam/nodriver的快速、异步优先、无法检测的Web抓取/Web自动化框架。现在有了Docker支持！](https://github.com/cdpdriver/zendriver)**
 
-⭐ 7,668 star · 663 fork · Python · 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
+⭐ 1,394星· 103分叉· Python ·基于ultrafunkamsterdam/nodriver的快速、异步优先、无法检测的网页抓取/网络自动化框架现在支持Docker
 
-📅 2026-08-16T15:23:33Z
+📅 2026-08-16T23:21:08Z
 
 ---
 
@@ -283,33 +275,42 @@ ai以其不断增长的强大、主要是**开源**的GLM系列语言模型阵�
 ---
 
 ### GitHub New (New AI)
-![🆕 技术架构审查：针对软件、云、人工智能和企业系统的独立技术架构审查指南、清单、模板和供应商偏见危险信号。](https://avatars.githubusercontent.com/u/512947?v=4)
+![🆕 research-radar ：自托管研究情报，用于收集、重复数据删除、排名、搜索和浏览您关心的研究人员、主题和来源。](https://avatars.githubusercontent.com/u/317548820?v=4)
 
-**[🆕 技术架构审查：针对软件、云、人工智能和企业系统的独立技术架构审查指南、清单、模板和供应商偏见危险信号。](https://github.com/zareefahmed/technical-architecture-review)**
+**[🆕 research-radar ：自托管研究情报，用于收集、重复数据删除、排名、搜索和浏览您关心的研究人员、主题和来源。](https://github.com/researchradar/research-radar)**
 
-⭐ 4 star (新项目) · N/A · Independent technical architecture review guideand enterprise systems
+⭐ 5 star (新项目) · Python · Self-hosted research intelligence for collectingand sources you care about
 
-📅 2026-08-15T06:16:47Z
+📅 2026-08-16T10:45:03Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[资源- AI文本水印：如何工作以及如何避免](https://www.reddit.com/r/artificial/comments/1vpjsbh/resource_ai_text_watermarking_how_it_works_and/)**
+**[扎克伯格的超级智能宣言在同一周登陆， Anthropic提高了自己的错位风险评估。对比就是故事。](https://www.reddit.com/r/artificial/comments/1vq0uul/zuckerbergs_superintelligence_manifesto_landed/)**
 
-本月早些时候， **Anthropic**宣布将在**Claude**输出中添加不可见的文本水印这一公告引起了很多关注
+扎克伯格发表了一篇6500字的文章，认为**Meta**应该为每个人提供人工智能超级智能。第一个出处的硬流失数字到来了： **Claude** Max订阅者取消了**Anthropic**为遵守欧盟人工智能法案而**推出**的无形水印
 
-📅 2026-08-16T01:25:48.000Z
+📅 2026-08-16T16:03:04.000Z
 
 ---
 
-### Reddit: r/artificial
-**[扎克伯格将Meta的整个广告业务押注于人工智能，他自己的人工智能ugc工具正在将连衣裙变成裤子](https://www.reddit.com/r/artificial/comments/1vpcxj4/zuckerberg_is_betting_metas_whole_ad_business_on/)**
+### Hacker News
+**[克劳德人性的“水印”文本掺假是对写作的歪曲](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing)**
 
-谷歌还开始在搜索、YouTube和Snapchat的广告上贴ai标签，已停止在发现中显示完全由ai生成的内容这是新的元宇宙吗？
+文章网址： https://daringfireballnet/2026/08/**Anthropic**s_watermark_text_adulteration_in_**Claude**_is_a_perversion_of_writing评论网址： https://**new**s
 
-📅 2026-08-15T20:15:29.000Z
+📅 Sun, 16 Aug 2026 21:53:43 +0000
+
+---
+
+### Hacker News
+**[英伟达大幅减少其可能担保的OpenAI基础设施融资金额](https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/)**
+
+文章网址： https://wwwcom/business/nvidia-scales-back-250-billion-**OpenAI**-data-center-guarantee-wsj-reports-2026-08-14/评论网址： https://**new**s
+
+📅 Sun, 16 Aug 2026 21:07:10 +0000
 
 ---
 
@@ -318,7 +319,7 @@ ai以其不断增长的强大、主要是**开源**的GLM系列语言模型阵�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-08-16T15:23:17.469Z
+📅 2026-08-16T23:20:58.744Z
 
 ---
 
@@ -327,43 +328,34 @@ ai以其不断增长的强大、主要是**开源**的GLM系列语言模型阵�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-08-16T15:23:23.992Z
+📅 2026-08-16T23:21:08.088Z
 
 ---
 
 ### Hacker News
-**[据报道，第二季度人为收入跃升至115亿美元以上$](https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html)**
+**[人性化IPO估值取决于2028年190-200B $的收入预测](https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/)**
 
-com/2026/08/15/**Anthropic**-revenue-jumps-to-over-11point5-billion-in-q2-reporthtml评论网址： https://**new**s
+文章网址： https://wwwcom/business/**Anthropic**-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/评论网址： https://**new**s
 
-📅 Sun, 16 Aug 2026 13:58:17 +0000
-
----
-
-### Hacker News
-**[Claude ：系统提示](https://platform.claude.com/docs/en/release-notes/system-prompts)**
-
-**Claude**com/docs/en/**release**-notes/system-prompts评论网址： https://**new**s
-
-📅 Sun, 16 Aug 2026 12:48:21 +0000
-
----
-
-### Hacker News
-**[使用“肾失望”而不是“肾衰竭”的研究论文](https://scholar.google.com/scholar?q=%22kidney+disappointment%22)**
-
-文章网址： https://scholarq = % 22kidney + disappointment % 22评论网址： https://**new**s
-
-📅 Sun, 16 Aug 2026 12:22:20 +0000
+📅 Sun, 16 Aug 2026 21:00:25 +0000
 
 ---
 
 ### Hacker News AI
-**[Msnbot是否用于训练AI模型？](https://news.ycombinator.com/item?id=49320686)**
+**[Anthropic首席执行官表示，人工智能赢得公众的方法是治愈癌症](https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8)**
 
-（摘要： msnbot似乎正在下载我的网站以训练人工智能模型） msnbot十年前因索引网络而退役您可以通过设置元标记来告诉bingbot不要训练人工智能模型，例如
+文章网址： https://wwwcom/**Anthropic**-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8评论网址： https://**new**s
 
-📅 Sun, 16 Aug 2026 14:54:53 +0000
+📅 Sun, 16 Aug 2026 22:50:38 +0000
+
+---
+
+### Hacker News AI
+**[HUR称，乌克兰在俄罗斯新型导弹中发现英伟达AI芯片](https://www.kyivpost.com/post/82225)**
+
+文章网址： https://wwwcom/post/82225留言网址： https://**new**s
+
+📅 Sun, 16 Aug 2026 22:33:03 +0000
 
 ---
 
