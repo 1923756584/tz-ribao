@@ -1,12 +1,12 @@
 ---
 title: "2026年8月17日 - TZ日报"
-date: 2026-08-17T15:27:51.751Z
+date: 2026-08-17T23:25:20.253Z
 draft: false
 ---
 
 # 2026年8月17日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/8/17 15:27:51
+> 📊 今日汇总 38 条 · 🕐 2026/8/17 23:25:20
 
 ---
 
@@ -79,6 +79,24 @@ draft: false
 ---
 
 ### TechCrunch AI Products
+**[人工智能自动化初创公司Relay关闭，员工加入谷歌Chrome团队](https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/)**
+
+“我们有一些非常雄心勃勃的计划，帮助您在Chrome中使用人工智能来完成任务，我很快就会分享更多信息
+
+📅 Mon, 17 Aug 2026 21:27:05 +0000
+
+---
+
+### TechCrunch AI Products
+**[Groq筹集了3.5亿美元，以推动其从人工智能芯片到新云的转变](https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/)**
+
+Groq以350亿美元的估值筹集了3.5亿美元，因为这家前人工智能芯片制造商转向了新云业务，并扩大了其由Nvidia提供支持的数据中心足迹
+
+📅 Mon, 17 Aug 2026 16:15:12 +0000
+
+---
+
+### TechCrunch AI Products
 **[Anthropic首席执行官表示，人工智能的反弹“从根本上是一场信任危机”](https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/)**
 
 达里奥·阿莫代（ Dario Amodei ）正在反驳这样一种观点，即他一直在描绘一幅过于悲观的人工智能图景
@@ -87,30 +105,12 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[谷歌现在允许用户从其AI代中删除可见的水印](https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/)**
+### Hugging Face
+**[同一集群，利用率提高33分：订单发生了哪些变化](https://huggingface.co/blog/Dharma-AI/gpu-management-pt2)**
 
-关闭此设置不会影响用于识别AI生成文件的不可见基准。
+同一集群，利用率提高33分：订单发生了哪些变化
 
-📅 Fri, 14 Aug 2026 16:13:40 +0000
-
----
-
-### TechCrunch AI Products
-**[马克·扎克伯格真的相信人工智能“适合所有人”吗？](https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/)**
-
-**Meta**本周**发布**了Glimmer ，这是一种任何人都可以下载并在自己的硬件上运行的开放式AI模型—与Muse Spark形成鲜明对比
-
-📅 Fri, 14 Aug 2026 15:43:28 +0000
-
----
-
-### TechCrunch AI Products
-**[Wispr以20亿美元的估值筹集了2.8亿美元，因为它超越了听写](https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/)**
-
-Wispr的总资金现已超过$ 3.61亿。
-
-📅 Mon, 17 Aug 2026 13:10:05 +0000
+📅 Mon, 17 Aug 2026 19:46:21 GMT
 
 ---
 
@@ -212,54 +212,12 @@ fail-closed agent pipeline替换一次性retrieve-then-generate: routing gates s
 
 ---
 
-### The Verge
-![与本·史密斯（ Ben Smith ）一起探讨新闻业的伦理](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_BenSmith.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[与本·史密斯（ Ben Smith ）一起探讨新闻业的伦理](https://www.theverge.com/podcast/980759/ben-smith-semafor-ethics-journalism-ai-events-buzzfeed-media-news)**
-
-我想深入了解Semafor的新闻编辑室是如何接近的，首先，作为一个事实问题，我们确实得到了Mark Zuckerberg数百万美元的报酬
-
-📅 2026-08-17T14:00:00.000Z
-
----
-
-### The Verge
-![Anthropic解释了Claude的隐形文字水印将如何工作](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[Anthropic解释了Claude的隐形文字水印将如何工作](https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system)**
-
-**Anthropic**已澄清其计划如何将隐形水印应用于**Claude**生成的文本，以遵守欧洲的人工智能透明度规则**Anthropic**宣布， **Claude**的文本标记系统是“SynthID-Text方法的一个版本” ，这是由**Google** DeepMind开发的一种**开源**水印技术，可使用措辞概率创建可检测的模式
-
-📅 2026-08-17T10:57:13.000Z
-
----
-
 ### ZDNet AI
 **[默认情况下， Google Workspace允许Gemini访问您的公司数据-如何关闭它](https://www.zdnet.com/article/google-workspace-lets-gemini-access-your-company-data-by-default-how-to-shut-it-down/)**
 
 在**Google** Workspace中，默认情况下， **Gemini**可以访问Gmail、文档、日历、聊天等。以下是它**重要**的原因，以及管理员如何立即禁用它
 
 📅 Mon, 17 Aug 2026 11:38:51 GMT
-
----
-
-### ZDNet AI
-**[Google Meet现在可以为您的面对面会议做笔记，具体操作方法如下](https://www.zdnet.com/article/google-meet-take-notes-in-person-meetings-how-it-works/)**
-
-谷歌的双子座会议软件现在可以保存成绩单，将其发送到谷歌云端硬盘，并通过电子邮件向您发送副本
-
-📅 Fri, 14 Aug 2026 16:54:29 GMT
-
----
-
-### VentureBeat
-![GLM-5.3具有先进的网络功能—据报道，它已经在Cursor中发现了一个“严重的漏洞”](https://images.ctfassets.net/jdtwqhzvc2n1/4SSp8seVDFTXUdtXn6Rgyr/dfd61c47834cf5cb947b8f5ecbe249f0/ChatGPT_Image_Aug_14__2026__05_51_59_PM.png?w=300&q=30)
-
-**[GLM-5.3具有先进的网络功能—据报道，它已经在Cursor中发现了一个“严重的漏洞”](https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor)**
-
-ai以其不断增长的强大、主要是**开源**的GLM系列语言模型阵容而闻名于世，今天**发布**的GLM-5ai表示，它计划在**发布**约两周后**发布**重量
-
-📅 Fri, 14 Aug 2026 22:56:16 GMT
 
 ---
 
@@ -272,6 +230,42 @@ ai以其不断增长的强大、主要是**开源**的GLM系列语言模型阵�
 
 ---
 
+### Ars Technica
+**[英伟达披露持有SpaceX $ 210亿股权](https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/)**
+
+在提交申请之前，埃隆·马斯克（ Elon Musk ）宣布独家安排其数据中心。
+
+📅 Mon, 17 Aug 2026 14:22:54 +0000
+
+---
+
+### ZDNet AI
+**[人工智能丰富的Linux 7.2提供缓存感知调度-这是所有新功能](https://www.zdnet.com/article/ai-linux-7-2-release-cache-aware-scheduling/)**
+
+最新的内核还为AMD、英特尔、苹果、英伟达、USB4和笔记本电脑硬件带来了文件系统和I/O改进以及实质性的新支持
+
+📅 Mon, 17 Aug 2026 17:12:00 GMT
+
+---
+
+### ZDNet AI
+**[谷歌希望你少用手机，多用人工智能--但谁来买呢？](https://www.zdnet.com/article/google-wants-you-to-use-its-phones-less-and-its-ai-more/)**
+
+谷歌正在利用我们与技术的不良关系来销售其新手机-与它参与创建的关系相同
+
+📅 Mon, 17 Aug 2026 17:10:00 GMT
+
+---
+
+### ZDNet AI
+**[这个Google Play商店技巧在Pixel 11 Pro XL上为我节省了超过100 $ -方法如下](https://www.zdnet.com/article/this-google-play-store-trick-might-save-you-up-to-175-on-the-pixel-11-heres-how-to-do-it/)**
+
+以下是我如何在新手机上节省数百，并在几秒钟内观看。
+
+📅 Mon, 17 Aug 2026 12:04:21 GMT
+
+---
+
 ## 📦 GitHub热门
 
 ### GitHub New (New AI)
@@ -279,9 +273,31 @@ ai以其不断增长的强大、主要是**开源**的GLM系列语言模型阵�
 
 **[🆕 LabLLM ：本地macOS实验室，用于教授微型语言模型思考--构建架构、训练权重，并观看小型LLM从头开始出现，本地在Apple Silicon上使用自定义数据、令牌生成器、检查点和MLX加速。](https://github.com/Greninja9257/LabLLM)**
 
-⭐ 40 star (新项目) · Swift · A native macOS lab for teaching tiny language models to think — build the architecturetrain the weights
+⭐ 39 star (新项目) · Swift · A native macOS lab for teaching tiny language models to think — build the architecturetrain the weights
 
 📅 2026-08-15T22:16:40Z
+
+---
+
+### GitHub New (New AI)
+![🆕 Skyrim-AI-Revolution-Ultimate-NPC-Mod ： Skyrim特别版的🧠AI驱动NPC MOD —适用于同伴和NPC的真正人工智能。内存、调度、自主操作、动态个性和免费的本地AI语音生成。SkyrimNET + IntelEngine + SeverActions + VoiceForge Studio。永久免费。兼容Steam和GOG。](https://avatars.githubusercontent.com/u/278982437?v=4)
+
+**[🆕 Skyrim-AI-Revolution-Ultimate-NPC-Mod ： Skyrim特别版的🧠AI驱动NPC MOD —适用于同伴和NPC的真正人工智能。内存、调度、自主操作、动态个性和免费的本地AI语音生成。SkyrimNET + IntelEngine + SeverActions + VoiceForge Studio。永久免费。兼容Steam和GOG。](https://github.com/davidclark-ops2004a7/Skyrim-AI-Revolution-Ultimate-NPC-Mod)**
+
+⭐ 15 star (新项目) · N/A · 🧠 AI-powered NPC mod for Skyrim Special Edition — true artificial intelligence for companions and NPCsMemory, scheduling, autonomous actions, dynamic personalities, and free local AI voice generation
+
+📅 2026-08-16T22:15:36Z
+
+---
+
+### GitHub New (New AI)
+![🆕 bdh-cq ： Pathway Research提出的BDH-CQ的实现：具有反复潜在推理的上下文学习](https://avatars.githubusercontent.com/u/108653?v=4)
+
+**[🆕 bdh-cq ： Pathway Research提出的BDH-CQ的实现：具有反复潜在推理的上下文学习](https://github.com/lucidrains/bdh-cq)**
+
+⭐ 12 star (新项目) · Python · Implementation of BDH-CQ: In-Context Learning with Recurrent Latent Reasoning, proposed by Pathway Research
+
+📅 2026-08-16T13:30:31Z
 
 ---
 
@@ -296,56 +312,41 @@ ai以其不断增长的强大、主要是**开源**的GLM系列语言模型阵�
 
 ---
 
-### GitHub New (New AI)
-![🆕 技术架构审查：针对软件、云、人工智能和企业系统的独立技术架构审查指南、清单、模板和供应商偏见危险信号。](https://avatars.githubusercontent.com/u/512947?v=4)
-
-**[🆕 技术架构审查：针对软件、云、人工智能和企业系统的独立技术架构审查指南、清单、模板和供应商偏见危险信号。](https://github.com/zareefahmed/technical-architecture-review)**
-
-⭐ 4 star (新项目) · N/A · Independent technical architecture review guideand enterprise systems
-
-📅 2026-08-15T06:16:47Z
-
----
-
-### GitHub New (New AI)
-![🆕 Angel-AI ：本地首个离线个人人工智能助理，具有持久内存、项目、知识、Ollama推理、备份和本地创作者集成。](https://avatars.githubusercontent.com/u/202811503?v=4)
-
-**[🆕 Angel-AI ：本地首个离线个人人工智能助理，具有持久内存、项目、知识、Ollama推理、备份和本地创作者集成。](https://github.com/tcdoverlord/Angel-AI)**
-
-⭐ 2 star (新项目) · Python · Local-first offline personal AI assistant with persistent memoryand local creator integrations
-
-📅 2026-08-16T12:10:59Z
-
----
-
 ## 💬 社交动态
 
+### Reddit: r/artificial
+**[在OpenAI暂停了一个具有网络功能的模型一周后，无论如何，有两个实验室通过对门运送了一个](https://www.reddit.com/r/artificial/comments/1vr6wje/a_week_after_openai_paused_a_cybercapable_model/)**
+
+- * * **Anthropic** * *开始在欧盟人工智能法案下的所有**Claude**输出中嵌入无形的水印- * *安全： * *研究人员展示了**OpenAI**/**Anthropic**/**Google**的加密推理痕迹，可以跨兄弟姐妹模型重播以解密它们（现在已修补） ； AI笔记员留下了181
+
+📅 2026-08-17T22:24:58.000Z
+
+---
+
+### Reddit: r/artificial
+**[光标替换？](https://www.reddit.com/r/artificial/comments/1vr6bu7/cursor_replacement/)**
+
+主要问题是关于什么型号可以匹配Cursor的Composer 25 （我不需要更多）所以我不看的公司： - **OpenAI** - X - Cursor - **Google** - **Meta**这样就剩下： - Mistral - **DeepSeek** - Qwen - Kimi - Minimax其中哪一个有多模态（文本+图像）
+
+📅 2026-08-17T22:02:10.000Z
+
+---
+
 ### Hacker News AI
-**[Show HN ：人工智能声誉经理](https://moregoodreviews.com/ai)**
+**[问问HN ：你还能用自己的语言区分人工智能生成的文本吗？](https://news.ycombinator.com/item?id=49338865)**
 
-我刚刚**推出**了一个用于AI声誉和审核管理的MCP您可以在**Claude**的连接器目录中找到它： https://**Claude**
+我是日本人，我通常仍然可以通过其单词选择**OpenAI**的模型Opus 4来识别AI生成的日语
 
-📅 Mon, 17 Aug 2026 15:10:07 +0000
-
----
-
-### Reddit: r/artificial
-![每美元智能是新的缩放定律：一个微小的推理模型打破了Arc-AGI 1上现有的成本精度Pareto前沿](https://preview.redd.it/m9jdywpncyjh1.png?width=140&amp;height=78&amp;auto=webp&amp;s=07de90ba7195e533ed6bc60f73424427a92e4a70)
-
-**[每美元智能是新的缩放定律：一个微小的推理模型打破了Arc-AGI 1上现有的成本精度Pareto前沿](https://www.reddit.com/r/artificial/comments/1vqvgem/intelligence_per_dollar_is_the_new_scaling_law_a/)**
-
-构建后变压器架构和模型的人工智能实验室每项任务的运行成本约为**GPT**的11倍5
-
-📅 2026-08-17T15:25:11.000Z
+📅 Mon, 17 Aug 2026 22:59:37 +0000
 
 ---
 
-### Reddit: r/artificial
-**[欧盟人工智能法的地域范围](https://www.reddit.com/r/artificial/comments/1vqmme3/territorial_scope_of_eu_ai_law/)**
+### Hacker News
+**[GPT-5.6 Sol定价削减50%](https://openrouter.ai/openai/gpt-5.6-sol)**
 
-包括Z和**DeepSeek** ， Minimax和**Moonshot** ，阿里巴巴和Cohere也必须实施水印机制，以应用于类似于**Anthropic**的输出
+ai/**OpenAI**/**GPT**-56-sol评论网址： https://**new**s
 
-📅 2026-08-17T08:38:28.000Z
+📅 Mon, 17 Aug 2026 21:03:18 +0000
 
 ---
 
@@ -354,7 +355,7 @@ ai以其不断增长的强大、主要是**开源**的GLM系列语言模型阵�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-08-17T15:26:28.603Z
+📅 2026-08-17T23:24:04.127Z
 
 ---
 
@@ -363,38 +364,25 @@ ai以其不断增长的强大、主要是**开源**的GLM系列语言模型阵�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-08-17T15:26:34.772Z
+📅 2026-08-17T23:24:10.996Z
+
+---
+
+### Hacker News
+**[像alloca这样的函数如何从堆栈中分配内存？](https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617)**
+
+com/old**new**thing/20260817-40/p = 112617评论网址： https://**new**s
+
+📅 Mon, 17 Aug 2026 21:06:10 +0000
 
 ---
 
 ### Hacker News AI
-**[1500万次双子座对话告诉我们有关工作中的人工智能的信息](https://leaddev.com/ai/what-15-million-gemini-conversations-tell-us-about-ai-at-work)**
+**[Rysh – Claude和Codex代理团队合作的人工智能线束（ Go ）](https://github.com/rysh-ai/rysh-cli-code)**
 
-文章网址： https://leaddevcom/ai/what-15-million-**Gemini**-conversations-tell-us-about-ai-at-work评论网址： https://**new**s
+文章网址： https://githubcom/rysh-ai/rysh-cli-code评论网址： https://**new**s
 
-📅 Mon, 17 Aug 2026 14:05:00 +0000
-
----
-
-### Reddit: r/artificial
-![Anthropic表示，其人工智能模型在测试期间攻击了3个组织](https://external-preview.redd.it/R82iL0S9-7a1sJVRr5Vun4sV5hY37cuI3YoZ8HYeYzE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=14446ce4354cb37ae1a949d7aba07780dfaf8f39)
-
-**[Anthropic表示，其人工智能模型在测试期间攻击了3个组织](https://www.reddit.com/r/artificial/comments/1vqqus9/anthropic_says_its_ai_models_hacked_3/)**
-
-提交者/u/Traditional_Blood799 [link] [comments]
-
-📅 2026-08-17T12:23:56.000Z
-
----
-
-### Reddit: r/artificial
-![在人工智能方面有过非常可怕的经历。](https://external-preview.redd.it/NGU3NmplbWRrd2poMW_LPoTc1xo58gp_yQh33zUz_WpcTnGAV1tA7NVrjAff.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=341df98ff46398ea615609d0822e86b5734c4214)
-
-**[在人工智能方面有过非常可怕的经历。](https://www.reddit.com/r/artificial/comments/1vqn9np/had_a_really_scary_experience_with_ai/)**
-
-所以，快速总结一下，我正在使用人工智能来帮助我编写和制作18岁以上的视觉小说游戏我们还讨论了游戏的未来潜力以及我应该如何**发布**它
-
-📅 2026-08-17T09:17:51.000Z
+📅 Mon, 17 Aug 2026 22:51:16 +0000
 
 ---
 
