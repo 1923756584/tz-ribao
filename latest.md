@@ -1,12 +1,12 @@
 ---
 title: "2026年8月18日 - TZ日报"
-date: 2026-08-18T15:34:20.655Z
+date: 2026-08-18T23:24:01.479Z
 draft: false
 ---
 
 # 2026年8月18日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/8/18 15:34:20
+> 📊 今日汇总 38 条 · 🕐 2026/8/18 23:24:01
 
 ---
 
@@ -42,12 +42,12 @@ Chat**GPT** for Teens增加了适合青少年年龄的安全措施和学习工�
 
 ---
 
-### TechCrunch AI Products
-**[英伟达向OpenAI项目背后的软银数据中心开发商投资15亿$](https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/)**
+### OpenAI Blog
+**[加强国家安全民主监督](https://openai.com/index/strengthening-democratic-oversight-in-national-security)**
 
-英伟达对软银数据中心开发商的投资将保证其芯片为**OpenAI**数据中心提供动力
+**OpenAI**启动了一项倡议，以加强国家安全对人工智能的民主监督，通过工具支持政府机构
 
-📅 Mon, 17 Aug 2026 15:16:24 +0000
+📅 Tue, 18 Aug 2026 19:00:00 GMT
 
 ---
 
@@ -61,11 +61,29 @@ Chat**GPT** for Teens增加了适合青少年年龄的安全措施和学习工�
 ---
 
 ### OpenAI Blog
+**[网络关键能力时代的起搏模型开发](https://openai.com/index/pacing-model-development-cyber-capabilities)**
+
+**OpenAI**正在加强对前沿人工智能模型的监控、调整和安全性了解新的保障措施如何引导模型开发的步伐
+
+📅 Tue, 18 Aug 2026 11:00:00 GMT
+
+---
+
+### OpenAI Blog
 **[面向青少年的ChatGPT简介：专为学习打造，以保护为后盾](https://openai.com/index/chatgpt-for-teens)**
 
 Chat**GPT** for Teens帮助青少年充满信心地学习和使用人工智能
 
 📅 Tue, 18 Aug 2026 11:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[Asana使用Codex在2周内完成了5年的工程工作](https://openai.com/index/asana)**
+
+Asana使用**OpenAI** Codex在两周内更换了过时的测试系统，完成了预计需要五年才能完成的工作，费用约为$ 12K
+
+📅 Tue, 18 Aug 2026 07:00:00 GMT
 
 ---
 
@@ -93,24 +111,6 @@ Chat**GPT** for Teens帮助青少年充满信心地学习和使用人工智能
 **OpenAI**资助了14个独立项目，探索新的人工智能政策理念，以扩大经济机会并加强智能时代的社会复原力
 
 📅 Mon, 17 Aug 2026 03:15:00 GMT
-
----
-
-### TechCrunch AI Products
-**[Anthropic的年化收入激增至$ 650亿](https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/)**
-
-这家模型制造商在两个月内增加了180亿美元的年化收入。
-
-📅 Mon, 17 Aug 2026 23:56:26 +0000
-
----
-
-### TechCrunch AI Products
-**[人工智能自动化初创公司Relay关闭，员工加入谷歌Chrome团队](https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/)**
-
-“我们有一些非常雄心勃勃的计划，帮助您在Chrome中使用人工智能来完成任务，我很快就会分享更多信息
-
-📅 Mon, 17 Aug 2026 21:27:05 +0000
 
 ---
 
@@ -191,17 +191,6 @@ Chat**GPT** for Teens帮助青少年充满信心地学习和使用人工智能
 ## 🌍 行业展望
 
 ### VentureBeat
-![随着企业面对人工智能代理蔓延， xpander希望他们拥有自己的控制和上下文层](https://images.ctfassets.net/jdtwqhzvc2n1/72G8U8t28paAcvIAHfw6SR/c3881db03e27a6f11c5f3424ac06a2e0/ChatGPT_Image_Aug_17__2026__09_54_24_AM.png?w=300&q=30)
-
-**[随着企业面对人工智能代理蔓延， xpander希望他们拥有自己的控制和上下文层](https://venturebeat.com/orchestration/as-enterprises-confront-ai-agent-sprawl-xpander-wants-them-to-own-their-own-control-and-context-layer)**
-
-他告诉VentureBeat ： “你可以从**Claude**到Chat**GPT** ，再到Kimi以及你自己的微调模型，”他说： “你安装**Claude**或Chat**GPT**或Codex或任何其他运行在员工笔记本电脑上的人工智能系统，你会得到一个黑匣子。”
-
-📅 Mon, 17 Aug 2026 14:37:08 GMT
-
----
-
-### VentureBeat
 ![Qwen3.8-27B在本地运行前沿级编码代理和推理，无需云API](https://images.ctfassets.net/jdtwqhzvc2n1/tkDPXLkDq0OBJ0W5aG6K0/dab1ffeb46a59b37c545586d457fe87e/ChatGPT_Image_Aug_17__2026__07_53_40_PM.png?w=300&q=30)
 
 **[Qwen3.8-27B在本地运行前沿级编码代理和推理，无需云API](https://venturebeat.com/technology/qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning-locally-no-cloud-api-required)**
@@ -220,6 +209,17 @@ Chat**GPT** for Teens帮助青少年充满信心地学习和使用人工智能
 托马斯·多姆克（ Thomas Dohmke ）于2025年8月辞去GitHub首席执行官一职，从未被替换；该部门的领导层在执行副总裁杰伊·帕里克（ Jay Parikh ）的领导下被微软的CoreAI组织所吸收谷歌的**Gemini** CLI和**OpenAI**的Codex —但供应商拒绝修复的一个漏洞给一个产品带来了一个尴尬的脚注，该产品的推销基本上是“让我们持有您的存储库
 
 📅 Mon, 17 Aug 2026 22:00:00 GMT
+
+---
+
+### VentureBeat
+![85 ％被人工智能错误烧毁的公司正在竞相削减可能抓住下一个的公司的人](https://images.ctfassets.net/jdtwqhzvc2n1/4SgXUYzHiyxkbOaJ4IzQsD/e241188ade4753ec20b014140fde3656/Carl_Franzen_minimalist_flat_retromodern_expressionist_simple_s_e483f3e4-ed45-45e5-9b15-37c175cd7b87.png?w=300&q=30)
+
+**[85 ％被人工智能错误烧毁的公司正在竞相削减可能抓住下一个的公司的人](https://venturebeat.com/data/85-of-companies-burned-by-an-ai-mistake-are-racing-to-cut-the-humans-who-might-catch-the-next-one)**
+
+**Anthropic**的**Claude** Console和Workbench持有12% ，与没有专用评估平台的组织并列**OpenAI**本地评估出现在31%的堆栈中， DeepEval占27% ， Braintrust占22% ， **Anthropic**的本地工具占20%
+
+📅 Tue, 18 Aug 2026 15:35:16 GMT
 
 ---
 
@@ -243,23 +243,21 @@ Databricks、AWS、**Google** Cloud和Nvidia都宣布了某种形式的模型路
 
 ---
 
+### Wired Technology
+**[OpenAI在人工智能代理失控后对安全协议进行大修](https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/)**
+
+Chat**GPT**制造商表示，其即将**推出**的Astra模型可能已达到“关键”网络能力，这促使其在加强内部保障措施的同时停止了大量培训活动
+
+📅 Tue, 18 Aug 2026 18:33:11 +0000
+
+---
+
 ### ZDNet AI
 **[默认情况下， Google的人工智能可以在工作空间中查看您的业务数据，除非您将其禁用](https://www.zdnet.com/article/googles-ai-can-see-your-business-data-by-default-in-workspace-unless-you-disable-it/)**
 
 在**Google** Workspace中，默认情况下， **Gemini**可以访问Gmail、文档、日历、聊天等。以下是它**重要**的原因，以及管理员如何立即禁用它
 
 📅 Tue, 18 Aug 2026 15:11:00 GMT
-
----
-
-### The Verge
-![谷歌的宠物记忆忘记了我的猫是谁](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_PET_RECOGNITION.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[谷歌的宠物记忆忘记了我的猫是谁](https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review)**
-
-因此，当谷歌宣布**推出**Gemini for Home的新宠物记忆功能时，我认为这可能是完美的解决方案宠物记忆有望教会您的**Google** Home智能家居您的宠物是谁
-
-📅 2026-08-18T12:01:29.000Z
 
 ---
 
@@ -274,23 +272,12 @@ Databricks、AWS、**Google** Cloud和Nvidia都宣布了某种形式的模型路
 
 ## 📦 GitHub热门
 
-### GitHub Active (Python)
-![OpenAdapt ：将演示的GUI工作流编译为确定性的本地可执行程序。零模型调用健康运行；管理修复；停止而不是猜测。openadapt-flow启动器： pip install openadapt](https://avatars.githubusercontent.com/u/132681217?v=4)
-
-**[OpenAdapt ：将演示的GUI工作流编译为确定性的本地可执行程序。零模型调用健康运行；管理修复；停止而不是猜测。openadapt-flow启动器： pip install openadapt](https://github.com/OpenAdaptAI/OpenAdapt)**
-
-零模型调用健康运行；受管修复；暂停而不是猜测OpenAdapt流的**launch**er ：点安装OpenAdapt
-
-📅 2026-08-18T15:32:31Z
-
----
-
 ### GitHub New (New AI)
 ![🆕 LabLLM ：本地macOS实验室，用于教授微型语言模型思考--构建架构、训练权重，并观看小型LLM从头开始出现，本地在Apple Silicon上使用自定义数据、令牌生成器、检查点和MLX加速。](https://avatars.githubusercontent.com/u/169415895?v=4)
 
 **[🆕 LabLLM ：本地macOS实验室，用于教授微型语言模型思考--构建架构、训练权重，并观看小型LLM从头开始出现，本地在Apple Silicon上使用自定义数据、令牌生成器、检查点和MLX加速。](https://github.com/Greninja9257/LabLLM)**
 
-⭐ 46 star (新项目) · Swift · A native macOS lab for teaching tiny language models to think — build the architecturetrain the weights
+⭐ 49 star (新项目) · Swift · A native macOS lab for teaching tiny language models to think — build the architecturetrain the weights
 
 📅 2026-08-15T22:16:40Z
 
@@ -312,20 +299,40 @@ Databricks、AWS、**Google** Cloud和Nvidia都宣布了某种形式的模型路
 
 **[🆕 bdh-cq ： Pathway Research提出的BDH-CQ的实现：具有反复潜在推理的上下文学习](https://github.com/lucidrains/bdh-cq)**
 
-⭐ 15 star (新项目) · Python · Implementation of BDH-CQ: In-Context Learning with Recurrent Latent Reasoning, proposed by Pathway Research
+⭐ 16 star (新项目) · Python · Implementation of BDH-CQ: In-Context Learning with Recurrent Latent Reasoning, proposed by Pathway Research
 
 📅 2026-08-16T13:30:31Z
 
 ---
 
+### GitHub New (New AI)
+![🆕 research-radar ：自托管研究情报，用于收集、重复数据删除、排名、搜索和浏览您关心的研究人员、主题和来源。](https://avatars.githubusercontent.com/u/317548820?v=4)
+
+**[🆕 research-radar ：自托管研究情报，用于收集、重复数据删除、排名、搜索和浏览您关心的研究人员、主题和来源。](https://github.com/researchradar/research-radar)**
+
+⭐ 12 star (新项目) · Python · Self-hosted research intelligence for collectingand sources you care about
+
+📅 2026-08-16T10:45:03Z
+
+---
+
 ## 💬 社交动态
 
-### Hacker News AI
-**[Claude用户取消订阅，引用Anthropic的新AI水印](https://www.businessinsider.com/claude-users-cancel-subscriptions-citing-anthropic-new-ai-watermark-2026-8)**
+### Reddit: r/artificial
+**[人工智能定价市场完全混乱](https://www.reddit.com/r/artificial/comments/1vs0zzo/the_ai_pricing_market_is_completely_unhinged/)**
 
-文章网址： https://wwwcom/**Claude**-users-cancel-subscriptions-citing-**Anthropic**-**new**-ai-watermark-2026-8评论网址： https://**new**s
+131K （一个**OpenAI**模型另一个是$ 30到$ 600 ， **OpenAI**和**Anthropic**最多
 
-📅 Tue, 18 Aug 2026 15:27:54 +0000
+📅 2026-08-18T20:27:54.000Z
+
+---
+
+### Reddit: r/artificial
+**[我构建了pagedMark ，以从您自己生成的图像和视频中删除AI出处](https://www.reddit.com/r/artificial/comments/1vs36xw/i_built_pagedmark_to_remove_ai_provenance_from/)**
+
+它目前支持来自Chat**GPT**、**GPT**-image API、Z-Image Turbo和Nano Banana的不可见标记，以及来自其他几个生成器的可见AI标签。这里是非常有趣的部分：在处理使用**GPT**-Image生成的图像后，您可以在**OpenAI**上使用**OpenAI**的验证器进行检查
+
+📅 2026-08-18T21:51:11.000Z
 
 ---
 
@@ -340,32 +347,12 @@ Databricks、AWS、**Google** Cloud和Nvidia都宣布了某种形式的模型路
 
 ---
 
-### Reddit: r/artificial
-**[Anthropic正在以$ 650亿的运行率对人工智能文本进行水印： 2026年是人工智能走向监管和代理化的一年](https://www.reddit.com/r/artificial/comments/1vrnmc4/anthropic_is_watermarking_ai_text_at_a_65b_run/)**
-
-本周的两个信号表明，人工智能正在从原始功能转向商业和监管成熟**Anthropic**开始为人工智能生成的文本添加水印，以遵守欧盟规则
-
-📅 2026-08-18T12:22:13.000Z
-
----
-
-### Reddit: r/artificial
-![OpenAI刚刚推出了面向青少年的ChatGPT--是否需要针对特定年龄段的人工智能体验？](https://preview.redd.it/pivaqb00f4kh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=26662f28062cb724b9dfdcbd6dce0583b94e822f)
-
-**[OpenAI刚刚推出了面向青少年的ChatGPT--是否需要针对特定年龄段的人工智能体验？](https://www.reddit.com/r/artificial/comments/1vrmr64/openai_just_launched_chatgpt_for_teens_are/)**
-
-OpenAI**推出**了面向青少年的Chat**GPT** ，这是一种专为13-17岁用户设计的体验全新体验以学习为中心，同时增加了专为青少年设计的保护措施
-
-📅 2026-08-18T11:41:55.000Z
-
----
-
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-08-18T15:32:33.610Z
+📅 2026-08-18T23:22:50.166Z
 
 ---
 
@@ -374,29 +361,34 @@ OpenAI**推出**了面向青少年的Chat**GPT** ，这是一种专为13-17岁�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-08-18T15:32:39.685Z
+📅 2026-08-18T23:22:56.393Z
 
 ---
 
-### Reddit: r/artificial
-![大卫·杰拉德（转向人工智能） ：互联网已经耗尽—现在同样的刮刀正在不停地敲打像我这样的小型自托管服务器。](https://external-preview.redd.it/cDRhMmhydmk1NWtoMYpEUtk5CCkxELrd1K7sRlnoLxBGn-95sh3Wdg_MBlam.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a842508cd26d1348baf8952e795bb177296db091)
+### Hacker News
+**[Microsoft品牌重塑注册表](https://www.msrebrandregistry.com/analysis.html)**
 
-**[大卫·杰拉德（转向人工智能） ：互联网已经耗尽—现在同样的刮刀正在不停地敲打像我这样的小型自托管服务器。](https://www.reddit.com/r/artificial/comments/1vrqaro/david_gerard_pivot_to_ai_the_internets_used_up/)**
+文章网址： https://wwwhtml评论网址： https://**new**s
 
-David Gerard在一台每月花费€ 7的服务器上运行Pivot to AI她正在等待我没有的答案
-
-📅 2026-08-18T14:10:47.000Z
+📅 Tue, 18 Aug 2026 22:33:50 +0000
 
 ---
 
-### Reddit: r/artificial
-![本地Qwen 3.8 27B vs GPT ‑ 5.6 Terra vs Grok 4.6](https://external-preview.redd.it/MmxncHM2YTRxNGtoMQG53bzm2FpGcE5XuOj73wsUM1pabMJRi1ySKB4aiCFu.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c593534bc4ab43ddb9550fec2cb43c426fa7732d)
+### Hacker News
+**[Claude Code教授macOS原生打印HP Laser 1008a](https://cdn.kuber.studio/chat/hp-laser-1008a-driver)**
 
-**[本地Qwen 3.8 27B vs GPT ‑ 5.6 Terra vs Grok 4.6](https://www.reddit.com/r/artificial/comments/1vro4r3/local_qwen_38_27b_vs_gpt56_terra_vs_grok_46/)**
+文章网址： https://cdnst**Udio**/chat/hp-laser-1008a-driver评论网址： https://**new**s
 
-我给了三个人工智能模型同样的简要介绍：构建一个高级的Three6 Terra - Chat**GPT**订阅： -报告的实施：程序瓶
+📅 Tue, 18 Aug 2026 21:14:21 +0000
 
-📅 2026-08-18T12:44:31.000Z
+---
+
+### Hacker News
+**[挪威应购买OpenAI](https://www.onethousandmeans.com/p/norway-should-buy-openai)**
+
+文章网址： https://wwwcom/p/norway-should-buy-**OpenAI**评论网址： https://**new**s
+
+📅 Tue, 18 Aug 2026 19:30:29 +0000
 
 ---
 
