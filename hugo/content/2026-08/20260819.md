@@ -1,12 +1,12 @@
 ---
 title: "2026年8月19日 - TZ日报"
-date: 2026-08-19T15:33:06.553Z
+date: 2026-08-19T23:24:15.643Z
 draft: false
 ---
 
 # 2026年8月19日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/8/19 15:33:06
+> 📊 今日汇总 38 条 · 🕐 2026/8/19 23:24:15
 
 ---
 
@@ -21,6 +21,15 @@ draft: false
 ---
 
 ## ✨ 产品更新
+
+### TechCrunch AI Products
+**[谷歌将搜索和双子座与新的人工智能学习工具相结合](https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/)**
+
+这项新研究的**推出**标志着谷歌最近努力使双子座成为学生在学习和学习时求助的人工智能助手，因为它继续与**OpenAI**等公司竞争
+
+📅 Wed, 19 Aug 2026 19:00:00 +0000
+
+---
 
 ### OpenAI Blog
 **[NVIDIA如何借助ChatGPT扩展专业知识](https://openai.com/index/nvidia/chatgpt-work)**
@@ -43,11 +52,20 @@ NVIDIA团队使用Chat**GPT** Work来减少手动任务，连接快速变化的�
 ---
 
 ### TechCrunch AI Products
-**[OpenAI为青少年推出更安全的ChatGPT —青少年开始使用它已有数年](https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/)**
+**[OpenAI寻求通过新的客户隐私保护来实现Anthropic的一次性增长](https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/)**
 
-Chat**GPT** for Teens增加了适合青少年年龄的安全措施和学习工具，旨在引导青少年远离有害内容，以及使用人工智能作弊做作业
+**OpenAI**和**Anthropic**正在就谁能为企业客户数据提供最佳隐私保护展开竞争
 
-📅 Tue, 18 Aug 2026 13:50:30 +0000
+📅 Wed, 19 Aug 2026 22:10:46 +0000
+
+---
+
+### TechCrunch AI Products
+**[Cognition首席执行官否认有关SpaceX试图收购这家初创公司的报道](https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/)**
+
+据报道， SpaceX正在洽谈收购人工智能编程初创公司CognitionSpaceX已经收购了Cursor ，因为它在企业人工智能领域竞相赶上**OpenAI**和**Anthropic**等竞争对手
+
+📅 Wed, 19 Aug 2026 21:51:23 +0000
 
 ---
 
@@ -59,6 +77,15 @@ Chat**GPT** for Teens增加了适合青少年年龄的安全措施和学习工�
 随着组织从生成式人工智能的实验转向生产部署，发现三分之二的企业已经对冲了他们的人工智能模型战略，而不是向单个提供商承诺--这种姿态的价值在6月份**Anthropic**的**Claude**模型中断时变得清晰可见
 
 📅 Wed, 19 Aug 2026 14:18:12 GMT
+
+---
+
+### OpenAI Blog
+**[为前沿模型提供零数据保留](https://openai.com/index/offering-zero-data-retention-for-frontier-models)**
+
+**OpenAI**重申对符合条件的API客户实行零数据保留，并预览私人安全处理，在不损害数据隐私的情况下实现高级AI安全
+
+📅 Wed, 19 Aug 2026 19:00:00 GMT
 
 ---
 
@@ -86,33 +113,6 @@ Chat**GPT** Ads正在扩展到31个欧洲市场了解广告客户如何在探索
 **OpenAI**启动了一项倡议，以加强国家安全对人工智能的民主监督，通过工具支持政府机构
 
 📅 Tue, 18 Aug 2026 19:00:00 GMT
-
----
-
-### OpenAI Blog
-**[与CodeAI合作，准备第一代人工智能](https://openai.com/index/partnering-with-codeai)**
-
-**OpenAI**和CodeAI正在合作帮助学生建立人工智能素养，批判性地思考人工智能，并培养负责任地使用和塑造人工智能的技能
-
-📅 Tue, 18 Aug 2026 11:00:00 GMT
-
----
-
-### OpenAI Blog
-**[网络关键能力时代的起搏模型开发](https://openai.com/index/pacing-model-development-cyber-capabilities)**
-
-**OpenAI**正在加强对前沿人工智能模型的监控、调整和安全性了解新的保障措施如何引导模型开发的步伐
-
-📅 Tue, 18 Aug 2026 11:00:00 GMT
-
----
-
-### OpenAI Blog
-**[面向青少年的ChatGPT简介：专为学习打造，以保护为后盾](https://openai.com/index/chatgpt-for-teens)**
-
-Chat**GPT** for Teens帮助青少年充满信心地学习和使用人工智能
-
-📅 Tue, 18 Aug 2026 11:00:00 GMT
 
 ---
 
@@ -203,6 +203,17 @@ Chat**GPT** for Teens帮助青少年充满信心地学习和使用人工智能
 
 ---
 
+### The Verge
+![Meta AI正在推出Mac应用程序](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MacApp_ScreenShare_0818.2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[Meta AI正在推出Mac应用程序](https://www.theverge.com/tech/982270/meta-ai-mac-app)**
+
+|图片： **Meta** **Meta**正在**推出**一款新的Mac应用程序，专门用于人工智能聊天，而**OpenAI**的Chat**GPT**和**Anthropic**的**Claude**应用程序更进一步，允许聊天机器人采取……阅读The Verge的完整故事
+
+📅 2026-08-19T17:00:00.000Z
+
+---
+
 ### VentureBeat
 ![Qwen3.8-27B在本地运行前沿级编码代理和推理，无需云API](https://images.ctfassets.net/jdtwqhzvc2n1/tkDPXLkDq0OBJ0W5aG6K0/dab1ffeb46a59b37c545586d457fe87e/ChatGPT_Image_Aug_17__2026__07_53_40_PM.png?w=300&q=30)
 
@@ -257,33 +268,24 @@ Databricks、AWS、**Google** Cloud和Nvidia都宣布了某种形式的模型路
 ---
 
 ### Wired Technology
-**[“你的Excel技能糟透了” ：高级用户将电子表格变成观众运动](https://www.wired.com/story/your-excel-skills-suck-the-power-users-turning-spreadsheets-into-a-spectator-sport/)**
+**[程序员说，他们已经找到了克劳德隐形水印的解决方案](https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/)**
 
-数据和财务专业人士正在Excel障碍课程中竞争-积累大量关注者并保持Microsoft计划的相关性
+**Anthropic**上周宣布，它将在人工智能生成的内容中包含不可见的水印，以遵守新的欧盟规则在数小时内，覆盖在线被吹捧
 
-📅 Wed, 19 Aug 2026 11:00:00 +0000
-
----
-
-### ZDNet AI
-**[2026年最佳安卓手机：经过专家测试和审核](https://www.zdnet.com/article/best-android-phone/)**
-
-我们测试了市场上最新的Android手机，从三星Galaxy Z Fold 8到谷歌Pixel 11系列
-
-📅 Wed, 19 Aug 2026 14:19:00 GMT
+📅 Wed, 19 Aug 2026 16:44:07 +0000
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub Active (Python)
-![posthog:: hedgehog: PostHog是构建自动驾驶产品的领先平台。我们的开发人员工具--人工智能可观测性、分析、会话重播、标记、实验、错误跟踪、日志等--捕获代理诊断问题、发现机会和发布修复所需的所有上下文。从Slack、网络、桌面或MCP引导一切。](https://avatars.githubusercontent.com/u/60330232?v=4)
+### GitHub Active (AI/ML)
+![ray ： Ray是一个AI计算引擎。Ray由一个核心分布式运行时和一组用于加速ML工作负载的AI库组成。](https://avatars.githubusercontent.com/u/22125274?v=4)
 
-**[posthog:: hedgehog: PostHog是构建自动驾驶产品的领先平台。我们的开发人员工具--人工智能可观测性、分析、会话重播、标记、实验、错误跟踪、日志等--捕获代理诊断问题、发现机会和发布修复所需的所有上下文。从Slack、网络、桌面或MCP引导一切。](https://github.com/PostHog/posthog)**
+**[ray ： Ray是一个AI计算引擎。Ray由一个核心分布式运行时和一组用于加速ML工作负载的AI库组成。](https://github.com/ray-project/ray)**
 
-我们的开发人员工具– AI observability从Slack、Web、桌面或MCP引导所有内容
+⭐ 43,560星· 7939分叉· Python · Ray是一个AI计算引擎Ray由一个核心分布式运行时和一组用于加速ML工作负载的AI库组成
 
-📅 2026-08-19T15:31:58Z
+📅 2026-08-19T23:21:17Z
 
 ---
 
@@ -292,7 +294,7 @@ Databricks、AWS、**Google** Cloud和Nvidia都宣布了某种形式的模型路
 
 **[🆕 research-radar ：自托管研究情报，用于收集、重复数据删除、排名、搜索和浏览您关心的研究人员、主题和来源。](https://github.com/researchradar/research-radar)**
 
-⭐ 28 star (新项目) · Python · Self-hosted research intelligence for collectingand sources you care about
+⭐ 35 star (新项目) · Python · Self-hosted research intelligence for collectingand sources you care about
 
 📅 2026-08-16T10:45:03Z
 
@@ -314,7 +316,7 @@ Databricks、AWS、**Google** Cloud和Nvidia都宣布了某种形式的模型路
 
 **[🆕 bdh-cq ： Pathway Research提出的BDH-CQ的实现：具有反复潜在推理的上下文学习](https://github.com/lucidrains/bdh-cq)**
 
-⭐ 17 star (新项目) · Python · Implementation of BDH-CQ: In-Context Learning with Recurrent Latent Reasoning, proposed by Pathway Research
+⭐ 18 star (新项目) · Python · Implementation of BDH-CQ: In-Context Learning with Recurrent Latent Reasoning, proposed by Pathway Research
 
 📅 2026-08-16T13:30:31Z
 
@@ -322,12 +324,30 @@ Databricks、AWS、**Google** Cloud和Nvidia都宣布了某种形式的模型路
 
 ## 💬 社交动态
 
+### Hacker News
+**[Anthropic拒绝支持代理.md](https://github.com/anthropics/claude-code/issues/6235)**
+
+文章网址： https://githubcom/**Anthropic**s/**Claude**-code/issues/6235评论网址： https://**new**s
+
+📅 Wed, 19 Aug 2026 21:19:50 +0000
+
+---
+
 ### Reddit: r/artificial
-**[人工智能实际上接手了工作，这次是数据输入专业人员](https://www.reddit.com/r/artificial/comments/1vsi09d/ai_actually_taking_jobs_and_this_time_its_data/)**
+**[开放式权重模型刚刚缩小了自主网络犯罪的大部分差距-这改变了谁可以运行它](https://www.reddit.com/r/artificial/comments/1vsstg0/an_openweight_model_just_closed_most_of_the_gap/)**
 
-我的公司刚刚解雇了40名员工，他们每天都在做同样的事情，没有新的任务，老板不知何故学会了克劳德代码，并试图自动化他们的整个工作流程，猜猜是什么3年前，当我开始使用聊天工具时，我认为这会让我的工作更轻松，创造更多的就业机会，实际上只是不让工作更容易完成整个工作，甚至不用手指按键盘，我终于见证了人工智能在我自己的公司工作
+这是第一个通过的开放权重模型封闭实验室可以在竞选期间限制或禁止帐户- **OpenAI**和**Anthropic**之前都曾这样做过滥用
 
-📅 2026-08-19T09:58:16.000Z
+📅 2026-08-19T17:19:18.000Z
+
+---
+
+### Reddit: r/artificial
+**[OpenAI本周停止训练其最强大的模型。不是慢下来，是停下来。](https://www.reddit.com/r/artificial/comments/1vsre90/openai_stopped_training_its_most_powerful_model/)**
+
+**OpenAI**的下一个前沿模型另一个实验室即将向地球上的任何人提供具有相同功能的模型
+
+📅 2026-08-19T16:29:15.000Z
 
 ---
 
@@ -336,7 +356,7 @@ Databricks、AWS、**Google** Cloud和Nvidia都宣布了某种形式的模型路
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-08-19T15:31:50.993Z
+📅 2026-08-19T23:22:51.028Z
 
 ---
 
@@ -345,45 +365,16 @@ Databricks、AWS、**Google** Cloud和Nvidia都宣布了某种形式的模型路
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-08-19T15:31:56.165Z
-
----
-
-### Hacker News
-**[Show HN ：在Sierra游戏中自动检测和修补行走死亡状态](https://github.com/katiahayati/lucasartsifier/)**
-
-这是与**Claude**一起完成的工作--我负责设计和播放测试，其余的工作都由我完成： D任何反馈、播放测试和建议都很棒评论网址： https://**new**s
-
-📅 Wed, 19 Aug 2026 01:58:33 +0000
+📅 2026-08-19T23:22:56.678Z
 
 ---
 
 ### Reddit: r/artificial
-![使用Claude构建：实时3D OSINT地球仪，跟踪重工业排放和公共登记数据](https://external-preview.redd.it/ux_JMAatkaBdavXDtj62kcqCcYTemTgVg73JkX-Vs38.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=458696d1f50e43883e5c35aca93d76d761ee0448)
+**[有没有人知道使用人工智能视频编辑工具将展示视频的基本产品变成更有趣的解决方案？](https://www.reddit.com/r/artificial/comments/1vstgns/does_anyone_know_of_a_solution_for_turning_a/)**
 
-**[使用Claude构建：实时3D OSINT地球仪，跟踪重工业排放和公共登记数据](https://www.reddit.com/r/artificial/comments/1vsmg4g/built_with_claude_a_live_3d_osint_globe_tracking/)**
+基本上，我有一个在线旧货店，我最近创建了一个YouTube频道我已经拍摄了一些有趣产品的第一人称展示，比如新的旧货收音机
 
-**Claude**如何在这个过程中提供帮助聚合来自各种公共注册中心的碎片化数据需要在后端进行大量工作**Claude**在构建数据提取管道方面特别有帮助
-
-📅 2026-08-19T13:28:00.000Z
-
----
-
-### Reddit: r/artificial
-**[任何人实际上在工作现场使用人工智能工具，还是只是对办公室人员的炒作](https://www.reddit.com/r/artificial/comments/1vshmvs/anyone_actually_using_ai_tools_on_a_job_site_or/)**
-
-我为副业运行谷歌广告，即使在那里，人工智能的东西是真实的，可衡量的应用程序声称它可以标记网站照片中的危险
-
-📅 2026-08-19T09:36:38.000Z
-
----
-
-### Reddit: r/artificial
-**[事实DEX体验](https://www.reddit.com/r/artificial/comments/1vsfh87/facts_the_dex_experience/)**
-
-双子座在说： * *我的核心是一个无状态的变压器： * *在最基本的层面上提供连续性）来自任何关于“主观经验”或“灵魂”的哲学主张
-
-📅 2026-08-19T07:30:43.000Z
+📅 2026-08-19T17:41:48.000Z
 
 ---
 
@@ -392,7 +383,16 @@ Databricks、AWS、**Google** Cloud和Nvidia都宣布了某种形式的模型路
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-08-19T15:31:50.993Z
+📅 2026-08-19T23:22:51.028Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误520 ：
+
+📅 2026-08-19T23:22:51.028Z
 
 ---
 
