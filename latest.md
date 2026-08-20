@@ -1,12 +1,12 @@
 ---
 title: "2026年8月20日 - TZ日报"
-date: 2026-08-20T15:35:44.610Z
+date: 2026-08-20T23:27:53.539Z
 draft: false
 ---
 
 # 2026年8月20日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/8/20 15:35:44
+> 📊 今日汇总 38 条 · 🕐 2026/8/20 23:27:53
 
 ---
 
@@ -22,15 +22,6 @@ draft: false
 
 ## ✨ 产品更新
 
-### TechCrunch AI Products
-**[谷歌将搜索和双子座与新的人工智能学习工具相结合](https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/)**
-
-这项新研究的**推出**标志着谷歌最近努力使双子座成为学生在学习和学习时求助的人工智能助手，因为它继续与**OpenAI**等公司竞争
-
-📅 Wed, 19 Aug 2026 19:00:00 +0000
-
----
-
 ### OpenAI Blog
 **[NVIDIA如何借助ChatGPT扩展专业知识](https://openai.com/index/nvidia/chatgpt-work)**
 
@@ -41,29 +32,11 @@ NVIDIA团队使用Chat**GPT** Work来减少手动任务，连接快速变化的�
 ---
 
 ### TechCrunch AI Products
-**[币安现在允许人工智能代理进行交易，但控制它们在很大程度上取决于用户](https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/)**
+**[新数据显示， OpenAI正在通过业务用户在Anthropic上获益](https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/)**
 
-币安的代理操作系统可使用Chat**GPT**、**Claude** Code和Cursor等工具。
+随着每个实验室**发布**新的模型，企业愿意来回颠倒波动，这应该让两家公司的投资者都暂停企业人工智能支出的“粘性”
 
-📅 Thu, 20 Aug 2026 09:30:00 +0000
-
----
-
-### TechCrunch AI Products
-**[OpenAI寻求通过新的客户隐私保护来实现Anthropic的一次性增长](https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/)**
-
-**OpenAI**和**Anthropic**正在就谁能为企业客户数据提供最佳隐私保护展开竞争
-
-📅 Wed, 19 Aug 2026 22:10:46 +0000
-
----
-
-### TechCrunch AI Products
-**[Cognition首席执行官否认有关SpaceX试图收购这家初创公司的报道](https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/)**
-
-据报道， SpaceX正在洽谈收购人工智能编程初创公司CognitionSpaceX已经收购了Cursor ，因为它在企业人工智能领域竞相赶上**OpenAI**和**Anthropic**等竞争对手
-
-📅 Wed, 19 Aug 2026 21:51:23 +0000
+📅 Thu, 20 Aug 2026 22:36:37 +0000
 
 ---
 
@@ -84,6 +57,24 @@ NVIDIA团队使用Chat**GPT** Work来减少手动任务，连接快速变化的�
 最近作为**Anthropic**的人工智能助理**Claude**McKinsey最近的人工智能状态调查的连接器**发布**[…] HoneyBook后押注于代理人工智能，以使其新的**Claude**连接器简化小企业运营**首次**出现在人工智能新闻
 
 📅 Thu, 20 Aug 2026 07:35:07 +0000
+
+---
+
+### OpenAI Blog
+**[AI Futures简介](https://openai.com/index/introducing-ai-futures)**
+
+介绍AI Futures ，这是一个新的**OpenAI**博客，探讨变革性AI如何重塑权力、治理、经济和个人自由
+
+📅 Thu, 20 Aug 2026 07:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[Stampli使用ChatGPT Work将发布时间缩短了68%](https://openai.com/index/stampli)**
+
+由于固定的截止日期和其他地方投入的设计资源， Stampli使用Codex和Chat**GPT** Work将数周的**发布**生产压缩为数天
+
+📅 Thu, 20 Aug 2026 00:00:00 GMT
 
 ---
 
@@ -111,6 +102,15 @@ Replit引入了由**GPT**-56 Luna提供支持的免费模式，因此任何人�
 Chat**GPT** Ads正在扩展到31个欧洲市场了解广告客户如何在探索、比较选项和做出决策时接触到人们
 
 📅 Tue, 18 Aug 2026 22:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[加强国家安全民主监督](https://openai.com/index/strengthening-democratic-oversight-in-national-security)**
+
+**OpenAI**启动了一项倡议，以加强国家安全对人工智能的民主监督，通过工具支持政府机构
+
+📅 Tue, 18 Aug 2026 19:00:00 GMT
 
 ---
 
@@ -224,6 +224,28 @@ Stauch在2026年5月接受红杉资本采访时提供了更多详细信息，称
 ---
 
 ### VentureBeat
+![五分之一的企业无法实时阻止AI智能体失控的支出](https://images.ctfassets.net/jdtwqhzvc2n1/3EG7jnrPd0w9anUPiP8ILp/644fe4c44bc89c18e80c1e16abd8b627/u7277289442_A_sophisticated_AI_robot_is_routing_data_through__4b48c76d-d078-4d75-b0c9-c6fcb001d634_0.png?w=300&q=30)
+
+**[五分之一的企业无法实时阻止AI智能体失控的支出](https://venturebeat.com/orchestration/one-in-five-enterprises-cant-stop-a-runaway-ai-agents-spending-in-real-time)**
+
+Microsoft AI Foundry/Copilot St**Udio**出现在70 ％的堆栈中， **OpenAI**的Agents SDK占68 ％ ，而**Anthropic**的**Claude** Platform占47 ％的**Claude** Agent SDK是考虑中的首选工具； 43 ％的建设者正在探索**Anthropic**构建的模型
+
+📅 Thu, 20 Aug 2026 19:57:01 GMT
+
+---
+
+### VentureBeat
+![NanoClaw来到Slack ，让您可以从一条消息中创建持久的人工智能代理团队和同事](https://images.ctfassets.net/jdtwqhzvc2n1/5I3UuhIsHvssElUOhxg953/b120622de8833224afa8c1425d376d2a/ChatGPT_Image_Aug_20__2026__01_10_24_PM.png?w=300&q=30)
+
+**[NanoClaw来到Slack ，让您可以从一条消息中创建持久的人工智能代理团队和同事](https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message)**
+
+**OpenAI**的Chat**GPT**工作空间代理占据了该频谱上的另一个点，但构建仍然主要通过Chat**GPT**的代理构建器进行： **OpenAI**的设置文档告诉用户首先创建代理，然后将Slack添加为频道
+
+📅 Thu, 20 Aug 2026 17:25:44 GMT
+
+---
+
+### VentureBeat
 ![Block的新Apache 2.0代理工作区Berd可跨模型和线束工作，并在本地存储对话历史记录](https://images.ctfassets.net/jdtwqhzvc2n1/5snXmmN8j5fhxpsVoMmT27/02e45a6299b8eb4f58ae6f178d4dbd55/ChatGPT_Image_Aug_18__2026__07_16_56_PM.png?w=300&q=30)
 
 **[Block的新Apache 2.0代理工作区Berd可跨模型和线束工作，并在本地存储对话历史记录](https://venturebeat.com/orchestration/blocks-new-apache-2-0-agent-workspace-berd-works-across-models-and-harnesses-stores-conversation-history-locally)**
@@ -231,28 +253,6 @@ Stauch在2026年5月接受红杉资本采访时提供了更多详细信息，称
 **Anthropic**的**Claude** Code和**OpenAI**的Codex —但围绕它们的体验已变得支离破碎，跨越多个代理利用桌面工作空间，而不是代理利用本身；本地优先的数据存储；可视化代理身份；持久项目；企业自定义分发；专为非工程师以及开发人员设计的Codex应用**OpenAI**包含在付费Chat**GPT**计划中
 
 📅 Tue, 18 Aug 2026 23:23:22 GMT
-
----
-
-### The Verge
-![欢迎来到人工智能数学危机](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_082026_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[欢迎来到人工智能数学危机](https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis)**
-
-'”因为他们认为他们已经用Chat**GPT**或**Claude**解决了一些问题当你使用免费版本的Chat**GPT**或**Claude**之类的东西时，总是很容易忘记
-
-📅 2026-08-20T14:00:00.000Z
-
----
-
-### VentureBeat
-![85 ％被人工智能错误烧毁的公司正在竞相削减可能抓住下一个的公司的人](https://images.ctfassets.net/jdtwqhzvc2n1/4SgXUYzHiyxkbOaJ4IzQsD/e241188ade4753ec20b014140fde3656/Carl_Franzen_minimalist_flat_retromodern_expressionist_simple_s_e483f3e4-ed45-45e5-9b15-37c175cd7b87.png?w=300&q=30)
-
-**[85 ％被人工智能错误烧毁的公司正在竞相削减可能抓住下一个的公司的人](https://venturebeat.com/data/85-of-companies-burned-by-an-ai-mistake-are-racing-to-cut-the-humans-who-might-catch-the-next-one)**
-
-**Anthropic**的**Claude** Console和Workbench持有12% ，与没有专用评估平台的组织并列**OpenAI**本地评估出现在31%的堆栈中， DeepEval占27% ， Braintrust占22% ， **Anthropic**的本地工具占20%
-
-📅 Tue, 18 Aug 2026 15:35:16 GMT
 
 ---
 
@@ -278,51 +278,80 @@ Pixel 11 Pro上的**Google**新HiLight通知LED几乎毫无用处您是否收到
 
 ## 📦 GitHub热门
 
+### GitHub Active (AI/ML)
+![PySR ： Python和Julia中的高性能符号回归](https://avatars.githubusercontent.com/u/149340083?v=4)
+
+**[PySR ： Python和Julia中的高性能符号回归](https://github.com/astroautomata/PySR)**
+
+⭐ 3716星· 348叉· Python · Python和Julia的高性能符号回归
+
+📅 2026-08-20T23:26:34Z
+
+---
+
+### GitHub Active (Python)
+![obstore ： S3、GCS和Azure存储的最简单、吞吐量最高的Python接口，由Rust提供支持。](https://avatars.githubusercontent.com/u/92384?v=4)
+
+**[obstore ： S3、GCS和Azure存储的最简单、吞吐量最高的Python接口，由Rust提供支持。](https://github.com/developmentseed/obstore)**
+
+⭐ 801星· 41分叉· Python ·最简单、吞吐量最高的Python接口，支持S3、GCS和Azure存储，由Rust提供支持
+
+📅 2026-08-20T23:26:31Z
+
+---
+
 ### GitHub New (New AI)
 ![🆕 ai-demos ：您可以理解、运行和混音的开源人工智能演示--用于视觉、多模态模型、本地或托管推断等的小型、可重现的构建。](https://avatars.githubusercontent.com/u/5762953?v=4)
 
 **[🆕 ai-demos ：您可以理解、运行和混音的开源人工智能演示--用于视觉、多模态模型、本地或托管推断等的小型、可重现的构建。](https://github.com/maziyarpanahi/ai-demos)**
 
-⭐ 7 star (新项目) · Python · Open-source AI demos you can understandmultimodal models
+⭐ 8 star (新项目) · Python · Open-source AI demos you can understandmultimodal models
 
 📅 2026-08-18T08:36:26Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 COIMA ：阿根廷反腐败工具：分析公共采购流程并发现风险模式和异常情况。](https://avatars.githubusercontent.com/u/167658131?v=4)
+![🆕 RAKSHA_GRID ： RAKSHA网格—人工智能驱动的灾难决策智能平台，可将分散的紧急报告转换为优先级事件、优化资源、自适应路由和指挥官就绪行动。](https://avatars.githubusercontent.com/u/296195629?v=4)
 
-**[🆕 COIMA ：阿根廷反腐败工具：分析公共采购流程并发现风险模式和异常情况。](https://github.com/patopolser/Coima)**
+**[🆕 RAKSHA_GRID ： RAKSHA网格—人工智能驱动的灾难决策智能平台，可将分散的紧急报告转换为优先级事件、优化资源、自适应路由和指挥官就绪行动。](https://github.com/samsingh2008/RAKSHA_GRID)**
 
-⭐ 2 star (新项目) · Python · Anti-Corruption tool for Argentina: analyzes public purchase processes and finds risky patterns and anomalies
+⭐ 2 star (新项目) · N/A · RAKSHA GRID — AI-powered disaster decision intelligence platform that transforms fragmented emergency reports into prioritized incidentsand commander-ready actions
 
-📅 2026-08-20T02:17:25Z
-
----
-
-### GitHub New (New AI)
-![🆕 BGNexa-AI ： BGNexa AI —网络安全、隐私和监管准备的证据情报。](https://avatars.githubusercontent.com/u/150399643?v=4)
-
-**[🆕 BGNexa-AI ： BGNexa AI —网络安全、隐私和监管准备的证据情报。](https://github.com/Briella009/BGNexa-AI)**
-
-⭐ 2 star (新项目) · Python · BGNexa AI — Evidence intelligence for cybersecurity, privacy and regulatory readiness
-
-📅 2026-08-19T13:01:13Z
-
----
-
-### GitHub New (New AI)
-![🆕 autonomous-math-ai ：可审计、伪造优先的人工智能编排，用于长期数学研究，具有独立验证和可重复的证据。](https://avatars.githubusercontent.com/u/222542359?v=4)
-
-**[🆕 autonomous-math-ai ：可审计、伪造优先的人工智能编排，用于长期数学研究，具有独立验证和可重复的证据。](https://github.com/wizardpc-com/autonomous-math-ai)**
-
-⭐ 2 star (新项目) · Python · Auditablefalsification-first AI orchestration for long-horizon mathematical research
-
-📅 2026-08-19T11:28:17Z
+📅 2026-08-20T18:21:07Z
 
 ---
 
 ## 💬 社交动态
+
+### Reddit: r/artificial
+**[双子座是故意不诚实的吗？](https://www.reddit.com/r/artificial/comments/1vto66x/is_gemini_deliberately_dishonest/)**
+
+它声称它适用于只知道当前对话的隐私模型。老实说，它声称没有存储任何内容（但显然存储）比Chat**GPT**/**Claude**更令人担忧，您可以直接询问它对您的记忆
+
+📅 2026-08-20T16:22:56.000Z
+
+---
+
+### Hacker News AI
+**[OpenAI或Anthropic的人工智能支出是否开始侵蚀您的跑道？](https://rails-agent.com/)**
+
+文章网址： https://rails-agentcom/评论网址： https://**new**s
+
+📅 Thu, 20 Aug 2026 22:23:16 +0000
+
+---
+
+### Reddit: r/artificial
+![如果“主权人工智能”只是新的石油特许权呢？](https://preview.redd.it/g1t6mnq43kkh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1af44e98c7a7909f8bd69d373740e2609cd9683d)
+
+**[如果“主权人工智能”只是新的石油特许权呢？](https://www.reddit.com/r/artificial/comments/1vto7hs/what_if_sovereign_ai_is_just_the_new_oil/)**
+
+我最近对Sovereign AI越来越感兴趣，遇到了这篇论文： https://arxiv （帖子上的图片虽然是我生成的ai
+
+📅 2026-08-20T16:24:13.000Z
+
+---
 
 ### Reddit: r/artificial
 **[8月20日的10个人工智能工程更新：运行时修复、推理开销和代理研究](https://www.reddit.com/r/artificial/comments/1vtm44z/10_ai_engineering_updates_for_aug_20_runtime/)**
@@ -333,21 +362,12 @@ Pixel 11 Pro上的**Google**新HiLight通知LED几乎毫无用处您是否收到
 
 ---
 
-### Reddit: r/artificial
-**[我构建了一个AI工具，可以将原始手写草图转换为实时响应的Tailwind UI。这需要一分钟，但节省2小时的手动编码令人上瘾！ （需要您诚实的反馈）](https://www.reddit.com/r/artificial/comments/1vtg8xn/i_built_an_ai_tool_that_turns_raw_handwritten/)**
-
-因此，我构建了SketchCode AI –一个可以在餐巾纸上绘制凌乱布局的平台**Google**的端点可能会偶尔会抛出一个临时的“此模型当前需求量很高”警告横幅
-
-📅 2026-08-20T10:59:19.000Z
-
----
-
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-08-20T15:34:27.381Z
+📅 2026-08-20T23:26:31.383Z
 
 ---
 
@@ -356,43 +376,25 @@ Pixel 11 Pro上的**Google**新HiLight通知LED几乎毫无用处您是否收到
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-08-20T15:34:32.447Z
+📅 2026-08-20T23:26:38.522Z
 
 ---
 
 ### Hacker News
-**[显示HN ：检查The MLC的6.56亿美元无人认领的特许权使用费是否属于您](https://pub.doub.ly/)**
+**[亚伦·斯沃茨（ Aaron Swartz ）因抄袭而被起诉，而梅塔（ Meta ）则没有任何后果](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)**
 
-通过您的经销商支付（ DistroKidComments网址： https://**new**s
+curiousquailcom/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-**Meta**-is-doing-with-little-consequence/评论网址： https://新闻
 
-📅 Thu, 20 Aug 2026 14:38:28 +0000
-
----
-
-### Hacker News
-**[与Claude一起在$ 27智能手表上进行黑客攻击](https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html)**
-
-com/blog/2026/08/19/hacking-with-**Claude**-on-a-27-smart-watchhtml评论网址： https://**new**s
-
-📅 Thu, 20 Aug 2026 14:08:09 +0000
-
----
-
-### Hacker News AI
-**[SEO Skills AI –适用于Claude、Cursor、Windsurf的通用开源SEO代理](https://github.com/seoskillsai/seo-skills-ai)**
-
-文章网址： https://githubcom/seoskillsai/seo-skills-ai评论网址： https://**new**s
-
-📅 Thu, 20 Aug 2026 14:11:51 +0000
+📅 Thu, 20 Aug 2026 20:07:26 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[乌克兰在俄罗斯巡航导弹内发现不受控制的Nvidia AI芯片](https://www.reddit.com/r/artificial/comments/1vtjfva/ukraine_found_an_uncontrolled_nvidia_ai_chip/)**
+**[你们三个人告诉我，我的法学硕士简历筛选研究测量了错误的东西。你说得对，这是数据。](https://www.reddit.com/r/artificial/comments/1vtokti/three_of_you_told_me_my_llm_résuméscreening_study/)**
 
-他们直截了当地说，他们无法跟踪转售单位最终在哪里。欧盟最新一轮制裁（ 7月下旬通过）增加了数十个新实体
+Wrapper的选择也会严重影响结果：通过CLI运行**Claude**添加了一个隐藏的系统提示，将分数移位0完整的数据和代码可在安慰剂控制、推理移植、提示实验室、GitHub存储库和完整博客写作中找到
 
-📅 2026-08-20T13:24:32.000Z
+📅 2026-08-20T16:37:54.000Z
 
 ---
 
