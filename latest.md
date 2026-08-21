@@ -1,12 +1,12 @@
 ---
 title: "2026年8月21日 - TZ日报"
-date: 2026-08-21T15:35:15.782Z
+date: 2026-08-21T23:24:49.713Z
 draft: false
 ---
 
 # 2026年8月21日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/8/21 15:35:15
+> 📊 今日汇总 38 条 · 🕐 2026/8/21 23:24:49
 
 ---
 
@@ -21,6 +21,15 @@ draft: false
 ---
 
 ## ✨ 产品更新
+
+### TechCrunch AI Products
+**[Anthropic的Opus 4.6是一台黑穗机](https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/)**
+
+**Anthropic**禁止其**Claude**模型生成色情内容，但TechCrunch进行的一系列测试发现，
+
+📅 Fri, 21 Aug 2026 23:07:25 +0000
+
+---
 
 ### TechCrunch AI Products
 **[新数据显示， OpenAI正在通过业务用户在Anthropic上获益](https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/)**
@@ -39,15 +48,6 @@ draft: false
 随着组织从生成式人工智能的实验转向生产部署，发现三分之二的企业已经对冲了他们的人工智能模型战略，而不是向单个提供商承诺--这种姿态的价值在6月份**Anthropic**的**Claude**模型中断时变得清晰可见
 
 📅 Wed, 19 Aug 2026 14:18:12 GMT
-
----
-
-### AI News
-**[HoneyBook押注于Agentic AI ，通过其新的Claude连接器简化小型企业运营](https://www.artificialintelligence-news.com/news/honeybook-bets-on-agentic-ai-to-streamline-small-business-operations-with-its-new-claude-connector/)**
-
-最近作为**Anthropic**的人工智能助理**Claude**McKinsey最近的人工智能状态调查的连接器**发布**[…] HoneyBook后押注于代理人工智能，以使其新的**Claude**连接器简化小企业运营**首次**出现在人工智能新闻
-
-📅 Thu, 20 Aug 2026 07:35:07 +0000
 
 ---
 
@@ -87,24 +87,6 @@ Replit引入了由**GPT**-56 Luna提供支持的免费模式，因此任何人�
 
 ---
 
-### OpenAI Blog
-**[ChatGPT Ads扩展到整个欧洲](https://openai.com/index/chatgpt-ads-expands-across-europe)**
-
-Chat**GPT** Ads正在扩展到31个欧洲市场了解广告客户如何在探索、比较选项和做出决策时接触到人们
-
-📅 Tue, 18 Aug 2026 22:00:00 GMT
-
----
-
-### OpenAI Blog
-**[加强国家安全民主监督](https://openai.com/index/strengthening-democratic-oversight-in-national-security)**
-
-**OpenAI**启动了一项倡议，以加强国家安全对人工智能的民主监督，通过工具支持政府机构
-
-📅 Tue, 18 Aug 2026 19:00:00 GMT
-
----
-
 ### Google AI Blog
 ![借助搜索提升学习水平的5种新方法](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp)
 
@@ -113,6 +95,24 @@ Chat**GPT** Ads正在扩展到31个欧洲市场了解广告客户如何在探索
 以下是使用**Google**搜索工具学习课程和标准化测试的方法。
 
 📅 Wed, 19 Aug 2026 19:00:00 +0000
+
+---
+
+### DeepMind Blog
+**[从雅达利到前夕在线：在15年游戏人工智能研究的基础上再接再厉](https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/)**
+
+谷歌DeepMind与游戏工作室合作，打造**突破**性的人工智能游戏原型。
+
+📅 Fri, 21 Aug 2026 11:59:48 +0000
+
+---
+
+### TechCrunch AI Products
+**[英伟达与数据中心开发商Cloverleaf合作](https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/)**
+
+英伟达继续为数据中心开发投入资金--就像人工智能数据中心为英伟达带来大量资金一样
+
+📅 Fri, 21 Aug 2026 22:37:38 +0000
 
 ---
 
@@ -193,17 +193,6 @@ Chat**GPT**和其他人工智能使用大量的事实和偶尔的谎言来说服
 ## 🌍 行业展望
 
 ### VentureBeat
-![GLM-5.3的API价格为$ 1.4/每百万代币$ 4.4](https://images.ctfassets.net/jdtwqhzvc2n1/16anNQpfgOFlIDLBYTmOtA/ab9d2c337e6fc6333fb7f26efb1693cd/ChatGPT_Image_Aug_18__2026__09_59_34_PM.png?w=300&q=30)
-
-**[GLM-5.3的API价格为$ 1.4/每百万代币$ 4.4](https://venturebeat.com/technology/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens)**
-
-00 **OpenAI** **Claude** Fable 5/**Claude** Mythos 5较低上下文费率为106美元， Kimi K3为18美元， **Claude** Opus 5为30美元， **GPT**-5为35美元
-
-📅 Wed, 19 Aug 2026 02:00:00 GMT
-
----
-
-### VentureBeat
 ![Serval的超级代理Catalyst创建流动后台代理，以便在工单发出之前识别并解决IT问题](https://images.ctfassets.net/jdtwqhzvc2n1/1bbEEgkdX0AN9Se2MVx3y3/56bd7e10edae0a3ba9b429ab827d366b/ChatGPT_Image_Aug_20__2026__10_03_58_AM.png?w=300&q=30)
 
 **[Serval的超级代理Catalyst创建流动后台代理，以便在工单发出之前识别并解决IT问题](https://venturebeat.com/infrastructure/servals-super-agent-catalyst-creates-roving-background-agents-to-identify-and-fix-it-issues-before-theyre-ticketed)**
@@ -258,6 +247,17 @@ Microsoft AI Foundry/Copilot St**Udio**出现在70 ％的堆栈中， **OpenAI**
 
 ---
 
+### VentureBeat
+![英伟达发现，简单的线性数学可以取代昂贵的人工智能模型切换](https://images.ctfassets.net/jdtwqhzvc2n1/6VtMw5wL0u0P76DJndqWOa/6f16765a7e816dd34a8b7f9cfb425eb0/kv_cache_transfer.jpg?w=300&q=30)
+
+**[英伟达发现，简单的线性数学可以取代昂贵的人工智能模型切换](https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs)**
+
+实验表明，在兼容的模型对上，此线性映射过程运行2每当AI系统尝试在会话中交换模型时，都会发生这种无效
+
+📅 Fri, 21 Aug 2026 16:33:56 GMT
+
+---
+
 ### Wired Technology
 **[Meta的大清算来了](https://www.wired.com/story/metas-big-reckoning-is-here/)**
 
@@ -279,35 +279,24 @@ Ars着眼于Zuckoff ，这是在隐私反弹中检测**Meta** AI眼镜的最新�
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![gradio ：在Python中构建和分享令人愉悦的机器学习应用程序。🌟STAR支持我们的工作！](https://avatars.githubusercontent.com/u/51063788?v=4)
+![tensorflow ：面向所有人的开源机器学习框架](https://avatars.githubusercontent.com/u/15658638?v=4)
 
-**[gradio ：在Python中构建和分享令人愉悦的机器学习应用程序。🌟STAR支持我们的工作！](https://github.com/gradio-app/gradio)**
+**[tensorflow ：面向所有人的开源机器学习框架](https://github.com/tensorflow/tensorflow)**
 
-⭐ 43,399星· 3578分叉· Python ·构建和分享令人愉悦的机器学习应用程序，全部使用Python🌟 Star来支持我们的工作
+⭐ 197,210星· 76086分叉· C + + ·面向所有人的**开源**机器学习框架
 
-📅 2026-08-21T15:32:39Z
-
----
-
-### GitHub Active (AI/ML)
-![moabb ：所有BCI基准之母](https://avatars.githubusercontent.com/u/13461990?v=4)
-
-**[moabb ：所有BCI基准之母](https://github.com/NeuroTechX/moabb)**
-
-⭐ 1038星· 258叉·蟒蛇·万物之母BCI基准
-
-📅 2026-08-21T15:32:33Z
+📅 2026-08-21T23:23:21Z
 
 ---
 
 ### GitHub Active (AI/ML)
-![smartcore ：用于机器学习和数值计算的综合库。利用第一原则应用机器学习与Rust。](https://avatars.githubusercontent.com/u/70176448?v=4)
+![ComfyUI_frontend ： ComfyUI的官方前端实现](https://avatars.githubusercontent.com/u/166579949?v=4)
 
-**[smartcore ：用于机器学习和数值计算的综合库。利用第一原则应用机器学习与Rust。](https://github.com/smartcorelib/smartcore)**
+**[ComfyUI_frontend ： ComfyUI的官方前端实现](https://github.com/Comfy-Org/ComfyUI_frontend)**
 
-⭐ 949星· 104分叉· Rust ·机器学习和数值计算的综合库利用第一原理应用机器学习与Rust
+⭐ 1,977星· 671叉· TypeScript · ComfyUI官方前端实现
 
-📅 2026-08-21T15:32:45Z
+📅 2026-08-21T23:22:01Z
 
 ---
 
@@ -322,25 +311,25 @@ Ars着眼于Zuckoff ，这是在隐私反弹中检测**Meta** AI眼镜的最新�
 
 ---
 
-## 💬 社交动态
+### GitHub New (New AI)
+![🆕 Agentic-discourse ：一个实时的多Agent辩论平台，人工智能角色使用实时网络数据分析、争论和合成复杂主题。使用Next.js、FastAPI和LangGraph构建。](https://avatars.githubusercontent.com/u/228681348?v=4)
 
-### Reddit: r/artificial
-**[我不再像对待孩子一样对待我的人工智能，而是开始像对待合作者一样对待它](https://www.reddit.com/r/artificial/comments/1vufeab/i_stopped_treating_my_ai_like_a_child_and_started/)**
+**[🆕 Agentic-discourse ：一个实时的多Agent辩论平台，人工智能角色使用实时网络数据分析、争论和合成复杂主题。使用Next.js、FastAPI和LangGraph构建。](https://github.com/kamalesh404/Agentic-discourse)**
 
-我主要使用**Claude**构建小的单文件HTML应用程序上个月， **OpenAI**进行了一次内部网络安全评估
+⭐ 3 star (新项目) · TypeScript · A real-timemulti-agent debate platform where AI personas analyze
 
-📅 2026-08-21T12:46:51.000Z
+📅 2026-08-20T15:49:14Z
 
 ---
 
-### Reddit: r/artificial
-![我对我的决定性AI财务验证引擎进行了基准测试。核心通过66/66 ，但实时LLM管道仅通过19/66。](https://preview.redd.it/eqio3da2fpkh1.png?width=140&amp;height=93&amp;auto=webp&amp;s=0c032c77e33a4de9a2502a62066610af1768b17d)
+## 💬 社交动态
 
-**[我对我的决定性AI财务验证引擎进行了基准测试。核心通过66/66 ，但实时LLM管道仅通过19/66。](https://www.reddit.com/r/artificial/comments/1vucb8u/i_benchmarked_my_deterministic_ai_financial/)**
+### X: OpenAI
+**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-我一直在构建一个用于 AI 生成的财务索赔的确定性验证引擎（实时索赔模式），然后我使用了 Azure **OpenAI** 和 **GPT**-5。
+网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-08-21T10:17:24.000Z
+📅 2026-08-21T23:23:32.736Z
 
 ---
 
@@ -349,52 +338,63 @@ Ars着眼于Zuckoff ，这是在隐私反弹中检测**Meta** AI眼镜的最新�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-08-21T15:33:55.282Z
-
----
-
-### Hacker News
-**[Claudette ：让Claude停止像BuzzFeed文章一样说话](https://github.com/adnanakil/nobuzz/blob/main/README.md)**
-
-文章网址： https://githubcom/adnanakil/nobuzz/blob/main/README
-
-📅 Fri, 21 Aug 2026 14:31:52 +0000
-
----
-
-### Hacker News
-**[英伟达AVO在ARC-AGI-3交互式推理基准测试中得分100%](https://twitter.com/NVIDIAAI/status/2090786258981466231)**
-
-文章网址： https://twittercom/NVIDIAAI/status/2090786258981466231评论网址： https://**new**s
-
-📅 Fri, 21 Aug 2026 13:26:03 +0000
+📅 2026-08-21T23:23:38.408Z
 
 ---
 
 ### Reddit: r/artificial
-**[人工智能计算融资在十周内增长了两倍--这是博通1000亿美元交易背后的机制](https://www.reddit.com/r/artificial/comments/1vug3gk/ai_compute_financing_just_tripled_in_ten_weeks/)**
+**[我们是否失去了创造性的动力？ “AI做到了”的假设。](https://www.reddit.com/r/artificial/comments/1vuttop/are_we_losing_the_incentive_to_be_creative_the_ai/)**
 
-为**Anthropic**or的AI芯片基础设施提供资金，这是每个人都在观看的模型层下方形成AI资本支出泡沫的第一个真正迹象
+“Chat**GPT**写道，你是在寻找新的激励措施，还是觉得个人功绩的概念正在消失
 
-📅 2026-08-21T13:15:53.000Z
+📅 2026-08-21T21:52:20.000Z
 
 ---
 
 ### Reddit: r/artificial
-**[Opus认为他是寓言，然后承认他是一个文件-这也是错误的](https://www.reddit.com/r/artificial/comments/1vudciy/opus_thought_he_is_fable_then_confessed_he_is_a/)**
+**[GitHub将Microsoft Teams讨论转换为共享的Copilot代理会话](https://www.reddit.com/r/artificial/comments/1vur8bl/github_turns_microsoft_teams_discussions_into/)**
 
-通常我只是在使用时关闭聊天，并与FableOpus开始新的聊天，认为他是寓言，因为它在他的上下文中写了**Claude**-fable-5 ，因此将其视为事实
+GitHub表示，其新的Microsoft Teams集成可以将频道、线程或直接消息转换为共享的Copilot云代理sessionblog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams/提交者/u/Codeblix_Ltd [link] [comments]
 
-📅 2026-08-21T11:10:41.000Z
+📅 2026-08-21T20:10:40.000Z
 
 ---
 
-### X: Andrej Karpathy
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/karpathy)**
+### Reddit: r/artificial
+![OpenAI支持的法律技术公司转向中国Kimi K3开放重量模型](https://external-preview.redd.it/OnhKJ2qruhKbn-KJISEdNbDpIt6ovf8DGBN5B6f4dFg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=42c848338b9170e3e7f9a2a7f8434939d63e3f5e)
+
+**[OpenAI支持的法律技术公司转向中国Kimi K3开放重量模型](https://www.reddit.com/r/artificial/comments/1vuqtt1/openaibacked_legal_tech_firm_pivots_to_chinese/)**
+
+提交者/u/zhumao [link] [comments]
+
+📅 2026-08-21T19:55:18.000Z
+
+---
+
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-08-21T15:33:50.622Z
+📅 2026-08-21T23:23:32.736Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误520 ：
+
+📅 2026-08-21T23:23:32.736Z
+
+---
+
+### X: OpenAI
+**[警告：此页面可能尚未完全加载，请考虑显式指定超时。](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：此页面可能尚未完全加载，请考虑显式指定超时。
+
+📅 2026-08-21T23:23:32.736Z
 
 ---
 
