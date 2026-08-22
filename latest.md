@@ -1,12 +1,12 @@
 ---
 title: "2026年8月22日 - TZ日报"
-date: 2026-08-22T15:23:23.210Z
+date: 2026-08-22T23:22:18.877Z
 draft: false
 ---
 
 # 2026年8月22日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/8/22 15:23:23
+> 📊 今日汇总 38 条 · 🕐 2026/8/22 23:22:18
 
 ---
 
@@ -23,6 +23,15 @@ draft: false
 ## ✨ 产品更新
 
 ### TechCrunch AI Products
+**[由DeepMind校友创立的Inherent表示，其AI “队友”在复制研究方面的表现刚刚超过了Anthropic和OpenAI](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/)**
+
+英国人工智能实验室Inherent**发布**了Faradayan人工智能代理，其复制科学论文的能力可能是创新的垫脚石
+
+📅 Sat, 22 Aug 2026 19:00:00 +0000
+
+---
+
+### TechCrunch AI Products
 **[Anthropic的Opus 4.6是一台黑穗机](https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/)**
 
 **Anthropic**禁止其**Claude**模型生成色情内容，但TechCrunch进行的一系列测试发现，
@@ -31,12 +40,12 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[新数据显示， OpenAI正在通过业务用户在Anthropic上获益](https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/)**
+### AI News
+**[HoneyBook押注于Agentic AI ，通过其新的Claude连接器简化小型企业运营](https://www.artificialintelligence-news.com/news/honeybook-bets-on-agentic-ai-to-streamline-small-business-operations-with-its-new-claude-connector/)**
 
-随着每个实验室**发布**新的模型，企业愿意来回颠倒波动，这应该让两家公司的投资者都暂停企业人工智能支出的“粘性”
+最近作为**Anthropic**的人工智能助理**Claude**McKinsey最近的人工智能状态调查的连接器**发布**[…] HoneyBook后押注于代理人工智能，以使其新的**Claude**连接器简化小企业运营**首次**出现在人工智能新闻
 
-📅 Thu, 20 Aug 2026 22:36:37 +0000
+📅 Thu, 20 Aug 2026 07:35:07 +0000
 
 ---
 
@@ -58,32 +67,21 @@ draft: false
 
 ---
 
-### OpenAI Blog
-**[为前沿模型提供零数据保留](https://openai.com/index/offering-zero-data-retention-for-frontier-models)**
-
-**OpenAI**重申对符合条件的API客户实行零数据保留，并预览私人安全处理，在不损害数据隐私的情况下实现高级AI安全
-
-📅 Wed, 19 Aug 2026 19:00:00 GMT
-
----
-
-### Google AI Blog
-![借助搜索提升学习水平的5种新方法](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp)
-
-**[借助搜索提升学习水平的5种新方法](https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/)**
-
-以下是使用**Google**搜索工具学习课程和标准化测试的方法。
-
-📅 Wed, 19 Aug 2026 19:00:00 +0000
-
----
-
 ### DeepMind Blog
 **[从雅达利到前夕在线：在15年游戏人工智能研究的基础上再接再厉](https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/)**
 
 谷歌DeepMind与游戏工作室合作，打造**突破**性的人工智能游戏原型。
 
 📅 Fri, 21 Aug 2026 11:59:48 +0000
+
+---
+
+### TechCrunch AI Products
+**[OpenAI表示，加州应加强其人工智能安全法案](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/)**
+
+**OpenAI**呼吁加州加强该公司此前反对的人工智能安全法案SB 53
+
+📅 Sat, 22 Aug 2026 16:30:34 +0000
 
 ---
 
@@ -105,12 +103,12 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[ChatGPT现在可以使用新的Apple Messages插件为您发送短信](https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/)**
+### AI News
+**[三分之一的ChatGPT广告出现在不相关的对话中](https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/)**
 
-曾经希望其他人为您发送短信聊天**GPT**正在通过新的Apple Messages集成作为自动文本抄写器提供
+2026年7月4日至8月4日期间，在真实的Chat**GPT**对话中投放了000个广告[…]帖子三分之一的Chat**GPT**广告出现在不相关的对话中，首先出现在人工智能新闻上
 
-📅 Thu, 20 Aug 2026 22:09:51 +0000
+📅 Thu, 20 Aug 2026 08:07:40 +0000
 
 ---
 
@@ -266,46 +264,46 @@ Microsoft AI Foundry/Copilot St**Udio**出现在70 ％的堆栈中， **OpenAI**
 ---
 
 ### ZDNet AI
-**[Pixel Watch 4与Pixel Watch 5 ：谷歌的新型号值得吗？归根结底，](https://www.zdnet.com/article/pixel-watch-4-vs-pixel-watch-5/)**
+**[现在，您可以向Google准确告知您想要的内容，即时整理您的Discover动态](https://www.zdnet.com/article/how-to-fix-your-google-discover-feed-algorithm/)**
 
-谷歌最新一代智能手表的价格目前与上一代相同，但对于某些用户来说，**升级**可能是值得的
+如果您对Discover页面上的算法不满意，您一定会喜欢这个新功能。
 
-📅 Sat, 22 Aug 2026 11:45:34 GMT
+📅 Sat, 22 Aug 2026 16:46:00 GMT
 
 ---
 
 ## 📦 GitHub热门
-
-### GitHub Active (AI/ML)
-![tensorflow ：面向所有人的开源机器学习框架](https://avatars.githubusercontent.com/u/15658638?v=4)
-
-**[tensorflow ：面向所有人的开源机器学习框架](https://github.com/tensorflow/tensorflow)**
-
-⭐ 197,320星· 76099分叉· C + + ·面向所有人的**开源**机器学习框架
-
-📅 2026-08-22T15:20:02Z
-
----
-
-### GitHub Active (AI/ML)
-![推理：通过更改单行代码将GPT换成任何LLM。Xinference允许您在云、本地或笔记本电脑上运行开源、语音和多模式模型--所有这些都通过一个统一的生产就绪推理API。](https://avatars.githubusercontent.com/u/109655068?v=4)
-
-**[推理：通过更改单行代码将GPT换成任何LLM。Xinference允许您在云、本地或笔记本电脑上运行开源、语音和多模式模型--所有这些都通过一个统一的生产就绪推理API。](https://github.com/xorbitsai/inference)**
-
-⭐ 9506星· 860分叉· Python ·通过在云上更改单行代码和多模式模型，将**GPT**换成任何LLM
-
-📅 2026-08-22T15:20:35Z
-
----
 
 ### GitHub New (New AI)
 ![🆕 worldmodels101 ：人工智能世界模型的免费互动课程。关于预测、潜在动态、规划、JEPA、视频模型和故障模式的九个可视化章节。](https://avatars.githubusercontent.com/u/14311730?v=4)
 
 **[🆕 worldmodels101 ：人工智能世界模型的免费互动课程。关于预测、潜在动态、规划、JEPA、视频模型和故障模式的九个可视化章节。](https://github.com/NiluK/worldmodels101)**
 
-⭐ 18 star (新项目) · TypeScript · Free interactive course on world models in AINine visual chapters on prediction, latent dynamics, planning, JEPA, video models, and failure modes
+⭐ 19 star (新项目) · TypeScript · Free interactive course on world models in AINine visual chapters on prediction, latent dynamics, planning, JEPA, video models, and failure modes
 
 📅 2026-08-19T10:39:11Z
+
+---
+
+### GitHub New (New AI)
+![🆕 courPythonForIA ：  ▎ Cours de Python en français pour débuter dans l 'ia — 18本笔记本Jupyter、des variables aux appels d' API、avec des exemples concretes d 'agents et de données。](https://avatars.githubusercontent.com/u/114364616?v=4)
+
+**[🆕 courPythonForIA ：  ▎ Cours de Python en français pour débuter dans l 'ia — 18本笔记本Jupyter、des variables aux appels d' API、avec des exemples concretes d 'agents et de données。](https://github.com/SeydinaBANE/courPythonForIA)**
+
+⭐ 10 star (新项目) · Jupyter Notebook · ▎ Cours de Python en français pour débuter dans l'IA — 18 notebooks Jupyterdes variables aux appels d'API
+
+📅 2026-08-20T13:16:50Z
+
+---
+
+### GitHub New (New AI)
+![🆕 COIMA ：阿根廷反腐败工具：分析公共采购流程并发现风险模式和异常情况。](https://avatars.githubusercontent.com/u/167658131?v=4)
+
+**[🆕 COIMA ：阿根廷反腐败工具：分析公共采购流程并发现风险模式和异常情况。](https://github.com/patopolser/Coima)**
+
+⭐ 4 star (新项目) · Python · Anti-Corruption tool for Argentina: analyzes public purchase processes and finds risky patterns and anomalies
+
+📅 2026-08-20T02:17:25Z
 
 ---
 
@@ -334,6 +332,15 @@ Microsoft AI Foundry/Copilot St**Udio**出现在70 ％的堆栈中， **OpenAI**
 ---
 
 ### Reddit: r/artificial
+**[我花了一个早上挖掘到人性，所以我可以把它写下来。简短的版本](https://www.reddit.com/r/artificial/comments/1vvjmmo/i_spent_the_morning_digging_into_anthropic_so_i/)**
+
+**Anthropic**似乎是A/B测试，在**Claude** Code中减少了工作量。我今天早上浏览了主要来源和线程，以便我可以正确地写下来。我每天收集人工智能新闻，并在https://apexnexus上围绕这些故事撰写指南。
+
+📅 2026-08-22T18:15:32.000Z
+
+---
+
+### Reddit: r/artificial
 **[RSI的可能途径](https://www.reddit.com/r/artificial/comments/1vv8iu3/possible_pathways_to_rsi/)**
 
 途径4 （ AI建议） ： RSI硬件设计反馈循环的其他潜在触发器： - AI设计下一代硅和神经架构-自主合成数据引擎：模型不断生成原始的边缘案例训练数据和正式证明，绕过人类数据限制
@@ -347,7 +354,7 @@ Microsoft AI Foundry/Copilot St**Udio**出现在70 ％的堆栈中， **OpenAI**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-08-22T15:21:55.897Z
+📅 2026-08-22T23:21:04.000Z
 
 ---
 
@@ -356,43 +363,34 @@ Microsoft AI Foundry/Copilot St**Udio**出现在70 ％的堆栈中， **OpenAI**
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-08-22T15:22:04.870Z
+📅 2026-08-22T23:21:10.011Z
 
 ---
 
 ### Hacker News
-**[挂钩、抓住、收获和隐藏： Meta在第一周制定的所谓策略](https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy)**
+**[NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun)**
 
-文章网址： https://wwwcom/technology/2026/aug/22/**Meta**-trial-children-privacy评论网址： https://**new**s
+文章网址： https://wwwai/research/nano**GPT**-speedrun评论网址： https://**new**s
 
-📅 Sat, 22 Aug 2026 12:07:06 +0000
+📅 Sat, 22 Aug 2026 22:14:27 +0000
+
+---
+
+### Hacker News
+**[Show HN ：让您的徽标在HDR屏幕上更加明亮](https://www.soverybright.com/)**
+
+我挖掘并发现这是通过向现有JPEG添加增益映射来实现的，该增益映射仅在HDR屏幕上可见，例如较新的MacBook ProI与**Claude** Code一起使用，将其转换为基于浏览器的小实用程序（无需注册） ，并希望您发现它很有用
+
+📅 Sat, 22 Aug 2026 18:43:03 +0000
 
 ---
 
 ### Hacker News AI
-**[Claude为AI生成的文本添加水印](https://magazine.sebastianraschka.com/p/claude-watermarking)**
+**[Contra Anthropic ：人工智能不是“结构性”集中化](https://12gramsofcarbon.com/p/is-ai-structurally-a-centralizing)**
 
-文章网址： https://magazinecom/p/**Claude**-watermarking评论网址： https://**new**s
+文章网址： https://12gramsofcarboncom/p/is-ai-structurally-a-centralizing评论网址： https://**new**s
 
-📅 Sat, 22 Aug 2026 14:45:00 +0000
-
----
-
-### Reddit: r/artificial
-**[我们是否正在为更智能的人工智能支付“推理税” ？](https://www.reddit.com/r/artificial/comments/1vv2wi8/are_we_paying_a_reasoning_tax_for_smarter_ai/)**
-
-**OpenAI**的评估产生了一个反直觉的结果：在PersonQA上， o3记录了33%的幻觉率，而o1为16%生产响应：管理上下文生产AI系统需要的不仅仅是一个强大的模型
-
-📅 2026-08-22T04:52:11.000Z
-
----
-
-### Reddit: r/artificial
-**[为什么自校正循环会降低LLM管道的可靠性（ 85%降至62% ）](https://www.reddit.com/r/artificial/comments/1vv2kki/why_selfcorrection_loops_can_degrade_reliability/)**
-
-架构和测试：模型设置： **GPT**-5如果任何问题被标记，错误列表将反馈到提取模型中以重新生成JSON
-
-📅 2026-08-22T04:35:06.000Z
+📅 Sat, 22 Aug 2026 21:40:37 +0000
 
 ---
 
