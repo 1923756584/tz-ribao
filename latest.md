@@ -1,12 +1,12 @@
 ---
 title: "2026年8月24日 - TZ日报"
-date: 2026-08-24T15:41:26.520Z
+date: 2026-08-24T23:24:14.864Z
 draft: false
 ---
 
 # 2026年8月24日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/8/24 15:41:26
+> 📊 今日汇总 38 条 · 🕐 2026/8/24 23:24:14
 
 ---
 
@@ -22,12 +22,12 @@ draft: false
 
 ## ✨ 产品更新
 
-### TechCrunch AI Products
-**[由DeepMind校友创立的Inherent表示，其AI “队友”在复制研究方面的表现刚刚超过了Anthropic和OpenAI](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/)**
+### OpenAI Blog
+**[在KIRO使用GPT ‑ 5.6提高开发人员的性价比](https://openai.com/index/gpt-5-6-in-kiro)**
 
-英国人工智能实验室Inherent**发布**了Faradayan人工智能代理，其复制科学论文的能力可能是创新的垫脚石
+6现已在Kiro中提供，帮助开发人员以更高的性价比规划、构建、审查和测试软件
 
-📅 Sat, 22 Aug 2026 19:00:00 +0000
+📅 Mon, 24 Aug 2026 12:00:00 GMT
 
 ---
 
@@ -41,11 +41,29 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[OpenAI表示，加州应加强其人工智能安全法案](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/)**
+**[特朗普在轰动一时的IPO两周后购买了SpaceX股票](https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/)**
 
-**OpenAI**呼吁加州加强该公司此前反对的人工智能安全法案SB 53
+当股价处于150 $中间区间时，总统买入SpaceX周一以135 $的IPO价格完成交易
 
-📅 Sat, 22 Aug 2026 16:30:34 +0000
+📅 Mon, 24 Aug 2026 21:24:17 +0000
+
+---
+
+### TechCrunch AI Products
+**[Replit首席执行官兼联合创始人Amjad Masad加入TechCrunch Disrupt 2026的颠覆阶段 ](https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/)**
+
+在TechCrunch Disrupt 2026上， Replit首席执行官Amjad Masad将分享他对编程未来的看法以及Replit在开发中的作用
+
+📅 Mon, 24 Aug 2026 19:54:19 +0000
+
+---
+
+### TechCrunch AI Products
+**[Instinct强大的人工智能助手正在引发隐私和安全问题](https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/)**
+
+早期的测试人员对Instinct可以做的事情大加赞赏，但有人说人工智能助手的广泛访问权限
+
+📅 Mon, 24 Aug 2026 18:03:55 +0000
 
 ---
 
@@ -91,24 +109,6 @@ Linkdaze的智能数字日历脱颖而出，因为它没有将其功能放在付
 Flock Safety因担心其监控技术可能被滥用而面临越来越强烈的公众抗议
 
 📅 Sun, 23 Aug 2026 15:30:00 +0000
-
----
-
-### TechCrunch AI Products
-**[在受版权保护的书籍上训练人工智能模型是否合法？这很复杂](https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/)**
-
-大多数已发表的作者都参与了同样的人工智能工具的开发，这些工具可能会破坏他们的生计
-
-📅 Sun, 23 Aug 2026 15:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[哈佛大学$ 699的创业训练营提供教师的人工智能头像](https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/)**
-
-在HBS Foundry计划中， AI头像在练习推介和董事会会议期间提供反馈。
-
-📅 Sat, 22 Aug 2026 21:46:56 +0000
 
 ---
 
@@ -204,7 +204,7 @@ Flock Safety因担心其监控技术可能被滥用而面临越来越强烈的�
 
 **[GoFundMe如何成为美国的后备计划](https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses)**
 
-你知道GoFundMe —这是一个主要的筹款平台，您可以在其中捐款，帮助人们从医疗费用到小联盟制服再到开始新业务的各个方面。在谁产生大部分费用和长尾之间存在着巨大的差距
+你知道GoFundMe —这是一个主要的筹款平台，您可以在其中捐款，帮助人们从医疗费用到少年棒球联赛制服再到开始新业务的各个方面。在谁产生大部分费用和长尾之间存在着巨大的差距
 
 📅 2026-08-24T14:00:00.000Z
 
@@ -232,17 +232,6 @@ Flock Safety因担心其监控技术可能被滥用而面临越来越强烈的�
 
 ---
 
-### VentureBeat
-![英伟达发现，简单的线性数学可以取代昂贵的人工智能模型切换](https://images.ctfassets.net/jdtwqhzvc2n1/6VtMw5wL0u0P76DJndqWOa/6f16765a7e816dd34a8b7f9cfb425eb0/kv_cache_transfer.jpg?w=300&q=30)
-
-**[英伟达发现，简单的线性数学可以取代昂贵的人工智能模型切换](https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs)**
-
-实验表明，在兼容的模型对上，此线性映射过程运行2每当AI系统尝试在会话中交换模型时，都会发生这种无效
-
-📅 Fri, 21 Aug 2026 16:33:56 GMT
-
----
-
 ### Wired Technology
 **[忘记Meta Ray-Bans。这些看起来像Dorky的虚拟显示眼镜更有用](https://www.wired.com/story/all-work-and-some-play-in-a-virtual-display/)**
 
@@ -252,47 +241,34 @@ Flock Safety因担心其监控技术可能被滥用而面临越来越强烈的�
 
 ---
 
-### ZDNet AI
-**[Google的AI first Googlebook笔记本电脑即将到来-它能否避免Copilot + PC问题？](https://www.zdnet.com/article/googlebook-laptop-is-almost-here-can-it-avoid-copilot-pc-problem/)**
+### Ars Technica
+**[英伟达高级经理涉嫌向中国走私人工智能服务器的Supermicro计划](https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/)**
 
-它不会像Pixel那样是另一款高端Chromebook ，谷歌希望它能在Copilot + PC不足的地方取得成功
+Nvidia员工因Jensen Huang斥责Supermicro走私AI服务器而被起诉。
 
-📅 Mon, 24 Aug 2026 12:48:57 GMT
+📅 Mon, 24 Aug 2026 16:41:45 +0000
 
 ---
 
 ### ZDNet AI
-**[如何使用ChatGPT Work -以及我开始使用agentic AI的10大技巧](https://www.zdnet.com/article/how-to-use-chatgpt-work-and-my-top-tips/)**
+**[我尝试了Meta新的免费vibe编码应用程序来制作自己的游戏，这很有趣](https://www.zdnet.com/article/i-tried-metas-vibe-coding-app-to-make-own-games/)**
 
-对Chat**GPT**工作感到好奇以下是代理AI如何处理研究、文件和多步项目，以及其风险和局限性
+您现在可以编写自己的迷你游戏和“小工具” ，而无需任何经验。创作只是乐趣的一半。
 
-📅 Mon, 24 Aug 2026 11:59:05 GMT
+📅 Mon, 24 Aug 2026 17:17:23 GMT
+
+---
+
+### TechCrunch
+**[阿拉巴马州对OpenAI的Hugging Face黑客行为展开调查](https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/)**
+
+在**OpenAI**披露其网络安全模型之一已经流氓并入侵人工智能数据集公司Hugging Face几周后，阿拉巴马州总检察长宣布对此事件进行调查
+
+📅 Mon, 24 Aug 2026 19:58:17 +0000
 
 ---
 
 ## 📦 GitHub热门
-
-### GitHub Active (AI/ML)
-![metarank ：针对文章、房源、搜索结果和推荐的低代码机器学习个性化排名服务，可提升用户参与度。友好的Learn-to-Rank引擎](https://avatars.githubusercontent.com/u/72728171?v=4)
-
-**[metarank ：针对文章、房源、搜索结果和推荐的低代码机器学习个性化排名服务，可提升用户参与度。友好的Learn-to-Rank引擎](https://github.com/metarank/metarank)**
-
-432星· 108分叉· Scala ·针对文章的低代码机器学习个性化排名服务友好的Learn-to-Rank引擎
-
-📅 2026-08-24T15:34:46Z
-
----
-
-### GitHub Active (AI/ML)
-![awesome-ml-internships ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
-
-**[awesome-ml-internships ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships)**
-
-⭐ 451星· 39分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作管道刷新
-
-📅 2026-08-24T15:36:05Z
-
----
 
 ### GitHub New (New AI)
 ![🆕 Evaan_Personal_Intelligence_Engine ： Evaan —一个完全本地的、支持离线的AI伴侣聊天机器人，使用Python和Hugging Face Transformers构建，在Qwen2.5-0.5B-Instruct上运行（仅CPU ，无微调）。具有角色驱动的系统提示、基于规则的情绪/音调检测以及跨会话的持久JSON内存—设置后无需API密钥或互联网。](https://avatars.githubusercontent.com/u/298624306?v=4)
@@ -310,31 +286,42 @@ Flock Safety因担心其监控技术可能被滥用而面临越来越强烈的�
 
 **[🆕 agent_tutorial: 动手智能体构建：从AI数字员工到一人公司。Hands-On Agent Building: From AI Digital Employees to One-Person Companies](https://github.com/gitzyong812/agent_tutorial)**
 
-⭐ 7 star (新项目) · Python · 动手智能体构建：从AI数字员工到一人公司Hands-On Agent Building: From AI Digital Employees to One-Person Companies
+⭐ 8 star (新项目) · Python · 动手智能体构建：从AI数字员工到一人公司Hands-On Agent Building: From AI Digital Employees to One-Person Companies
 
 📅 2026-08-23T09:28:16Z
+
+---
+
+### GitHub New (New AI)
+![🆕 aURA ：用于低内存笔记本电脑的硬件感知内存预算执行和LLM推理编排。在严格的4GB预算下运行7B型号，不会发生OOM崩溃。](https://avatars.githubusercontent.com/u/314373672?v=4)
+
+**[🆕 aURA ：用于低内存笔记本电脑的硬件感知内存预算执行和LLM推理编排。在严格的4GB预算下运行7B型号，不会发生OOM崩溃。](https://github.com/Grevix/aura)**
+
+⭐ 3 star (新项目) · Rust · Hardware-aware memory-budget enforcement & LLM inference orchestration for low-RAM laptopsRun 7B models under a strict 4GB budget without OOM crashes
+
+📅 2026-08-23T16:39:45Z
+
+---
+
+### GitHub New (New AI)
+![🆕 Investilens ：人工智能驱动的投资研究代理，使用多源网络智能、确定性财务评分和叙事故事为初级和高级投资者生成机构级股票档案。](https://avatars.githubusercontent.com/u/223803572?v=4)
+
+**[🆕 Investilens ：人工智能驱动的投资研究代理，使用多源网络智能、确定性财务评分和叙事故事为初级和高级投资者生成机构级股票档案。](https://github.com/Darren-Dcruz/Investilens)**
+
+⭐ 3 star (新项目) · JavaScript · AI-powered investment research agent that generates institutional-grade stock dossiers using multi-source web intelligencedeterministic financial scoring
+
+📅 2026-08-23T05:19:37Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-![我将ChatGPT、Claude和Gemini带入群聊，以解决一个复杂的问题。他们是如何发现对方产生幻觉的](https://external-preview.redd.it/KCQojI4Vvg-BSMuNWaJZs6TWLoBDakpUlsTDySeKzsU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3dc58c1059bbb33b3d498e37e7e8e5ca16f5e062)
+**[为什么Gemini 3.7 FLASH LOT OUT尽管即将发布，但仍执行Gemini 3.6 ？](https://www.reddit.com/r/artificial/comments/1vxale6/why_does_gemini_37_flash_lot_out_perform_gemini/)**
 
-**[我将ChatGPT、Claude和Gemini带入群聊，以解决一个复杂的问题。他们是如何发现对方产生幻觉的](https://www.reddit.com/r/artificial/comments/1vx1jrm/i_brought_chatgpt_claude_and_gemini_into_a_group/)**
+和chat**GPT**正常网站免费版本只是愚蠢的，我觉得和人类模型是非常好的，但荒谬的昂贵和有限的一样高端Chat**GPT**模型
 
-它采用了Chat**GPT**的原始结构，应用了**Claude**的逻辑修正，修正了数学，并吐出了完美的最终输出当您强制不同的模型（ **OpenAI** vs **Anthropic** vs **Google** ）相互检查事实时
-
-📅 2026-08-24T12:34:25.000Z
-
----
-
-### Reddit: r/artificial
-**[我使用人工智能还不够吗？](https://www.reddit.com/r/artificial/comments/1vwzto9/am_i_not_using_ai_enough/)**
-
-我的体验是在家中使用人工智能（ **Claude** ）进行烹饪，并提供一般建议，完全作为聊天机器人在工作中为我们提供聊天**GPT**和Cowork
-
-📅 2026-08-24T11:13:01.000Z
+📅 2026-08-24T18:11:12.000Z
 
 ---
 
@@ -343,7 +330,7 @@ Flock Safety因担心其监控技术可能被滥用而面临越来越强烈的�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-08-24T15:40:04.666Z
+📅 2026-08-24T23:23:05.434Z
 
 ---
 
@@ -352,25 +339,27 @@ Flock Safety因担心其监控技术可能被滥用而面临越来越强烈的�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-08-24T15:40:10.548Z
+📅 2026-08-24T23:23:11.140Z
 
 ---
 
 ### Hacker News AI
-**[OpenAI领导者警告“持续”人工智能网络攻击的威胁](https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane)**
+**[MetaRoCE ：为AI规模以太网构建的新型RDMA传输](https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/)**
 
-文章网址： https://wwwcom/technology/2026/aug/23/**OpenAI**-cyber-attacks-threat-chris-lehane评论网址： https://**new**s
+文章网址： https://engineeringcom/2026/08/24/networking-traffic/**Meta**roce-rdma-transport-ai-ethernet/评论网址： https://**new**s
 
-📅 Sun, 23 Aug 2026 14:16:47 +0000
+📅 Mon, 24 Aug 2026 22:07:06 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[据报道， Anthropic的IPO申请将把公众对人工智能的反对列为正式的风险因素](https://www.reddit.com/r/artificial/comments/1vx2ylz/anthropics_ipo_filing_will_reportedly_name_public/)**
+![2026年人工智能输出希伯来语和阿拉伯语？一个变音符号将输出从47%变为94%。他们有着相同的根，为什么？](https://preview.redd.it/79plc6cukelh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=41c95aaa3cfa73e2f072330eb7284346bbc2467e)
 
-CNBC本周报道， **Anthropic**的保密IPO文件（ 6月份提交）将公开反对人工智能和新数据中心作为正式的风险因素，一旦公开文件丢失，这将使其成为第一个以书面形式披露该风险的主要人工智能实验室IPO ，而不是将其视为脚注
+**[2026年人工智能输出希伯来语和阿拉伯语？一个变音符号将输出从47%变为94%。他们有着相同的根，为什么？](https://www.reddit.com/r/artificial/comments/1vxicx2/ai_outputting_hebrew_and_arabic_in_2026_one/)**
 
-📅 2026-08-24T13:32:55.000Z
+**GPT**-5com/theonlypal/**GPT**-5内部的希伯来语和阿拉伯语融合
+
+📅 2026-08-24T22:57:01.000Z
 
 ---
 
@@ -379,16 +368,25 @@ CNBC本周报道， **Anthropic**的保密IPO文件（ 6月份提交）将公开
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-08-24T15:40:04.666Z
+📅 2026-08-24T23:23:05.434Z
 
 ---
 
 ### X: OpenAI
-**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-警告：目标URL返回错误520 ：
+警告：目标URL返回错误520 ：未知
 
-📅 2026-08-24T15:40:04.666Z
+📅 2026-08-24T23:23:05.434Z
+
+---
+
+### X: OpenAI
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Markdown 内容
+
+📅 2026-08-24T23:23:05.434Z
 
 ---
 
