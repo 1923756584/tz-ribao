@@ -1,12 +1,12 @@
 ---
 title: "2026年8月25日 - TZ日报"
-date: 2026-08-25T15:44:11.491Z
+date: 2026-08-25T23:27:24.732Z
 draft: false
 ---
 
 # 2026年8月25日 - TZ日报
 
-> 📊 今日汇总 37 条 · 🕐 2026/8/25 15:44:11
+> 📊 今日汇总 38 条 · 🕐 2026/8/25 23:27:24
 
 ---
 
@@ -16,11 +16,29 @@ draft: false
 - **前沿研究**: 8 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
-- **社交动态**: 7 条
+- **社交动态**: 8 条
 
 ---
 
 ## ✨ 产品更新
+
+### TechCrunch AI Products
+**[Claude Cowork终于记得您在聊天中告诉应用程序的内容](https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/)**
+
+**Anthropic**为**Claude**提供了跨聊天的共享记忆， Coworkso用户不再需要反复向人工智能简要介绍项目
+
+📅 Tue, 25 Aug 2026 17:50:33 +0000
+
+---
+
+### OpenAI Blog
+**[丰富智慧背后的全栈](https://openai.com/index/the-full-stack-behind-abundant-intelligence)**
+
+**OpenAI**首席财务官Sarah Friar解释了芯片模型的进步方式
+
+📅 Tue, 25 Aug 2026 07:05:00 GMT
+
+---
 
 ### OpenAI Blog
 **[Jalapeño的首批结果显示了业界领先的人工智能推理速度和效率](https://openai.com/index/jalapeno-first-results)**
@@ -41,11 +59,31 @@ Jalapeño是**OpenAI**的定制推理芯片，可提供更快的节能AI推理
 ---
 
 ### OpenAI Blog
+**[ChatGPT Work和Codex管理插件简介](https://openai.com/index/introducing-admin-plugin)**
+
+使用Chat**GPT** Work和Codex的管理插件来分析工作区使用情况、管理成员和权限、调整限制以及对管理员请求采取行动
+
+📅 Tue, 25 Aug 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
 **[在KIRO使用GPT ‑ 5.6提高开发人员的性价比](https://openai.com/index/gpt-5-6-in-kiro)**
 
 6现已在Kiro中提供，帮助开发人员以更高的性价比规划、构建、审查和测试软件
 
 📅 Mon, 24 Aug 2026 12:00:00 GMT
+
+---
+
+### Google AI Blog
+![使用Google搜索升级家居装饰的5种方法](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp)
+
+**[使用Google搜索升级家居装饰的5种方法](https://blog.google/products-and-platforms/products/search/home-decor-tips/)**
+
+了解如何使用**Google**搜索工具寻找家居装饰灵感、购买家具和处理DIY项目
+
+📅 Tue, 25 Aug 2026 16:00:00 +0000
 
 ---
 
@@ -67,48 +105,12 @@ TechCrunch与**OpenAI**的产品主管讨论代理、用户体验和向Greg Broc
 
 ---
 
-### TechCrunch AI Products
-**[OpenAI正在为所有事物构建人工智能代理。大家都会用吗？](https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/)**
-
-在前沿实验室推动将人工智能代理从软件工程师带到大众的推动下。
-
-📅 Mon, 24 Aug 2026 15:00:00 +0000
-
----
-
 ### Hugging Face
 **[Granite 4.2 LLM ：如何构建](https://huggingface.co/blog/ibm-granite/granite-4-2)**
 
 Granite 4.2 LLM ：如何构建
 
 📅 Tue, 25 Aug 2026 15:14:14 GMT
-
----
-
-### Hugging Face
-**[量化感知愈合：压缩的4位模型，性能优于其全精度原始](https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing)**
-
-量化感知愈合：压缩的4位模型，性能优于其全精度原始
-
-📅 Tue, 25 Aug 2026 11:39:24 GMT
-
----
-
-### Hugging Face
-**[连接它，运行它，部署它： Gradio中的AI工作流程](https://huggingface.co/blog/gradio-workflow-guide)**
-
-连接它，运行它，部署它： Gradio中的AI工作流程
-
-📅 Tue, 25 Aug 2026 00:00:00 GMT
-
----
-
-### TechCrunch AI Products
-**[Gamma收购Accel支持的设计初创公司Lica](https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/)**
-
-LICA的联合创始人将为Gamma的新研究团队工作。
-
-📅 Tue, 25 Aug 2026 15:00:00 +0000
 
 ---
 
@@ -210,6 +212,15 @@ LICA的联合创始人将为Gamma的新研究团队工作。
 
 ---
 
+### ZDNet AI
+**[Anthropic的Claude和Cowork现在将分享关于您的回忆-除非您选择退出](https://www.zdnet.com/article/anthropic-claude-and-cowork-share-memories-now-unless-you-opt-out/)**
+
+**Anthropic**正在合并**Claude**聊天和Cowork记忆，引发了关于人工智能记住什么以及是否值得权衡的隐私问题
+
+📅 Tue, 25 Aug 2026 17:00:00 GMT
+
+---
+
 ### VentureBeat
 ![IBM的下一代大型机芯片是第一个在同一内核上运行Arm和Z工作负载的芯片](https://images.ctfassets.net/jdtwqhzvc2n1/6oAyU0IxVtW87x4Ixg7Eez/bdb636e4562b31f0c47fbf38b179efdb/Nuneybits_Vector_art_of_1960s_mainframe_shaking_hands_with_Arm__b5beb6f8-52b1-484f-8c33-30f6ca975174.webp?w=300&q=30)
 
@@ -233,149 +244,153 @@ LICA的联合创始人将为Gamma的新研究团队工作。
 ---
 
 ### Wired Technology
-**[Spirit Airlines希望将其数据出售给Google。前空乘人员被吓坏了](https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/)**
+**[Google Pixel 11 Pro折叠评论：更好，而不是最佳](https://www.wired.com/review/google-pixel-11-pro-fold/)**
 
-“我从来没有想过他们会如此大胆地将我们的私人数据出售给人工智能，”一位前Spirit Airlines空乘人员说。
+谷歌可折叠产品的精心**更新**带来了真正的改进，但价格上涨和激烈的竞争使其成为一个艰难的销售
 
-📅 Tue, 25 Aug 2026 09:15:00 +0000
+📅 Tue, 25 Aug 2026 18:45:00 +0000
 
 ---
 
 ### Ars Technica
-**[英伟达高级经理涉嫌向中国走私人工智能服务器的Supermicro计划](https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/)**
+**[Google的防恶心Motion Assist DOTS终于在Android上推出](https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/)**
 
-Nvidia员工因Jensen Huang斥责Supermicro走私AI服务器而被起诉。
+它目前仅出现在运行Android 17的Pixels上。
 
-📅 Mon, 24 Aug 2026 16:41:45 +0000
-
----
-
-### ZDNet AI
-**[如何使用FydeOS将古老的Windows PC免费转换为Chromebook](https://www.zdnet.com/article/fydeos-chromeos-clone-revive-aging-pc/)**
-
-FydeOS旨在为标准PC带来类似于**Google** Chromebook的体验，并取得了成功-只需一两个警告
-
-📅 Tue, 25 Aug 2026 15:37:30 GMT
+📅 Tue, 25 Aug 2026 18:32:30 +0000
 
 ---
 
-### ZDNet AI
-**[我尝试了Meta新的免费vibe编码应用程序来制作自己的游戏，这很有趣](https://www.zdnet.com/article/i-tried-metas-vibe-coding-app-to-make-own-games/)**
+### Ars Technica
+**[新的引导加载程序允许您从原始Meta Quest中取出“Meta”](https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/)**
 
-您现在可以编写自己的迷你游戏和“小工具” ，而无需任何经验。创作只是乐趣的一半。
+权限提升攻击授予“完全控制权” ，并免受**Meta**服务器/应用程序的干扰。
 
-📅 Mon, 24 Aug 2026 17:17:23 GMT
+📅 Tue, 25 Aug 2026 16:04:37 +0000
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![cs-video-courses ：带视频讲座的计算机科学课程列表。](https://avatars.githubusercontent.com/u/22699926?v=4)
+![pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://avatars.githubusercontent.com/u/21003710?v=4)
 
-**[cs-video-courses ：带视频讲座的计算机科学课程列表。](https://github.com/Developer-Y/cs-video-courses)**
+**[pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://github.com/pytorch/pytorch)**
 
-⭐ 83,171星· 11445叉·不适用·带视频讲座的计算机科学课程列表。
+⭐ 102,592星· 28983分叉· Python ·具有强大GPU加速的Python中的张量和动态神经网络
 
-📅 2026-08-25T15:42:41Z
+📅 2026-08-25T23:26:02Z
 
 ---
 
 ### GitHub Active (Python)
-![unsloth ：运行和训练LLM和扩散模型的本地UI ，包括Qwen3.8、Kimi K3、MiniMax-H3、Gemma 4、DeepSeek-V4、FLUX等。](https://avatars.githubusercontent.com/u/150920049?v=4)
+![oNYX ：开源人工智能平台-具有高级功能的人工智能聊天，适用于每个LLM](https://avatars.githubusercontent.com/u/131946000?v=4)
 
-**[unsloth ：运行和训练LLM和扩散模型的本地UI ，包括Qwen3.8、Kimi K3、MiniMax-H3、Gemma 4、DeepSeek-V4、FLUX等。](https://github.com/unslothai/unsloth)**
+**[oNYX ：开源人工智能平台-具有高级功能的人工智能聊天，适用于每个LLM](https://github.com/onyx-dot-app/onyx)**
 
-⭐ 74,678星· 6758叉· Python ·本地UI ，用于运行和训练LLM和扩散模型，包括Qwen38、Kimi K3、MiniMax-H3、Gemma 4、**DeepSeek**-V4、FLUX等
+⭐ 31,762星· 4376分叉· Python ·**开源**AI平台-具有高级功能的AI聊天，适用于每个LLM
 
-📅 2026-08-25T15:42:32Z
-
----
-
-### GitHub Active (AI/ML)
-![语音转语音：使用开源模型构建语音代理](https://avatars.githubusercontent.com/u/25720743?v=4)
-
-**[语音转语音：使用开源模型构建语音代理](https://github.com/huggingface/speech-to-speech)**
-
-⭐ 12857星· 1591分叉· Python ·使用**开源**模型构建语音代理
-
-📅 2026-08-25T15:39:55Z
+📅 2026-08-25T23:25:48Z
 
 ---
 
-### GitHub Active (AI/ML)
-![MachineLearningNotebooks: 🔥 近期活跃项目](https://avatars.githubusercontent.com/u/12646863?v=4)
+### GitHub New (New AI)
+![🆕 ai-native-sdlc ：可重复使用的Codex + Claude Code技能和插件，实现Anthropic的AI-Native SDLC ：计划→设计→构建→测试→部署→维护，每次交接时都有人工批准门。](https://avatars.githubusercontent.com/u/43511789?v=4)
 
-**[MachineLearningNotebooks: 🔥 近期活跃项目](https://github.com/eclarson/MachineLearningNotebooks)**
+**[🆕 ai-native-sdlc ：可重复使用的Codex + Claude Code技能和插件，实现Anthropic的AI-Native SDLC ：计划→设计→构建→测试→部署→维护，每次交接时都有人工批准门。](https://github.com/bashebr/ai-native-sdlc)**
 
-⭐ 170 star · 217 fork · Jupyter Notebook · 无描述
+⭐ 15 star (新项目) · Python · Reusable Codex + **Claude** Code skill and plugin implementing **Anthropic**'s AI-Native SDLC: Plan → Design → Build → Test → Deploy → Maintainwith human approval gates at every handoff
 
-📅 2026-08-25T15:39:25Z
+📅 2026-08-23T07:24:40Z
+
+---
+
+### GitHub New (New AI)
+![🆕 Evaan_Personal_Intelligence_Engine ： Evaan —一个完全本地的、支持离线的AI伴侣聊天机器人，使用Python和Hugging Face Transformers构建，在Qwen2.5-0.5B-Instruct上运行（仅CPU ，无微调）。具有角色驱动的系统提示、基于规则的情绪/音调检测以及跨会话的持久JSON内存—设置后无需API密钥或互联网。](https://avatars.githubusercontent.com/u/298624306?v=4)
+
+**[🆕 Evaan_Personal_Intelligence_Engine ： Evaan —一个完全本地的、支持离线的AI伴侣聊天机器人，使用Python和Hugging Face Transformers构建，在Qwen2.5-0.5B-Instruct上运行（仅CPU ，无微调）。具有角色驱动的系统提示、基于规则的情绪/音调检测以及跨会话的持久JSON内存—设置后无需API密钥或互联网。](https://github.com/Tahirpathan-AiLab/Evaan_Personal_Intelligence_Engine)**
+
+⭐ 11 star (新项目) · Python · Evaan — a fully local, offline-capable AI companion chatbot built with Python & Hugging Face Transformers, running on Qwen25B-Instruct (CPU-only, no fine-tuning)
+
+📅 2026-08-24T06:21:04Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[昨天我把ChatGPT、Claude和Gemini放在了一个群聊中。现在我希望Reddit打破它](https://www.reddit.com/r/artificial/comments/1vxxlb1/yesterday_i_put_chatgpt_claude_and_gemini_in_a/)**
+**[还有人遇到过“人能解释一切”吗？我质疑其中有多少是人工智能，并被屏蔽](https://www.reddit.com/r/artificial/comments/1vydxnl/has_anyone_else_encountered_man_explains/)**
 
-如果**OpenAI**错过了逻辑上的飞跃， **Anthropic**或**Google**会抓住它给我一个问题，问题或提示，你认为Chat**GPT** ， **Claude**和**Gemini**都会出错
+这些单词听起来几乎与您在Chat**GPT**/**Gemini**/**Claude**/insert-LLM-of-choice的回复中找到的那种完全相同。如果您花费任何时间与Chat**GPT**、**Claude**或**Gemini**交谈，则会经常遇到完全相同的句子
 
-📅 2026-08-25T11:50:37.000Z
-
----
-
-### X: OpenAI
-**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-网址来源： http://twitter.com/**OpenAI**
-
-📅 2026-08-25T15:42:49.133Z
-
----
-
-### X: DeepSeek
-**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
-
-网址来源： http://twitter.com/**DeepSeek**_ai
-
-📅 2026-08-25T15:42:54.615Z
+📅 2026-08-25T21:58:06.000Z
 
 ---
 
 ### Reddit: r/artificial
-**[乌克兰将英伟达Jetson Orin与致命的自主无人机袭击联系起来](https://www.reddit.com/r/artificial/comments/1vy3a52/ukraine_ties_nvidia_jetson_orin_to_fatal/)**
+**[OpenAI为ChatGPT Work和Codex添加了一个管理插件](https://www.reddit.com/r/artificial/comments/1vyab8z/openai_adds_an_admin_plugin_for_chatgpt_work_and/)**
 
-让乌克兰官员阅读无人机的地形图像和目标选择软件Nvidia表示， Jetson Orin是一款不在俄罗斯销售的消费级模块；在残骸中回收的板材是中国制造的
+**OpenAI**为Chat**GPT** Work和Codexcom引入了一个管理插件， 2026: **new**sml_L8N44M1HY: 0-**OpenAI**-says-introducing-the-admin-plugin-for-chat**GPT**-work-and-codex/由/u/Codeblix_Ltd提交[link] [comments]
 
-📅 2026-08-25T15:37:45.000Z
-
----
-
-### Reddit: r/artificial
-**[帮助我教我的孩子人工智能会产生幻觉（许多幻觉已经被修复，如字母计数、局部事实检查、逻辑陷阱、引导问题）](https://www.reddit.com/r/artificial/comments/1vy33tt/help_me_teach_my_kids_that_ai_hallucinates_many/)**
-
-Chat**GPT**并没有满足以下条件： “'Strawberry'一词中有多少个字母'r'” - **GPT**给出了正确的答案“[my street]上有多少太阳能装置
-
-📅 2026-08-25T15:31:19.000Z
+📅 2026-08-25T19:46:01.000Z
 
 ---
 
 ### Reddit: r/artificial
-**[英国网络机构刚刚告诉每家运行人工智能代理的公司建立一个杀戮开关，并承认模型安全培训可以绕过](https://www.reddit.com/r/artificial/comments/1vxznqe/uks_cyber_agency_just_told_every_company_running/)**
+**[我将AutoGen、CrewAI、LangGraph和MetaGPT与我自己的代理操作系统进行了基准测试。“LLM-as-a-judge”范式完全被打破。这是本地数据。](https://www.reddit.com/r/artificial/comments/1vya5ko/i_benchmarked_autogen_crewai_langgraph_and/)**
 
-NCSC （英国国家网络安全中心， GCHQ的一部分）于8月20日**发布**了第一份关于代理AI安全的真正指南，这也是**OpenAI**暂停一些以部署为重点的RL培训的原因
+Meta**GPT** ：过程幻觉方法： “软件公司”级联（ SOP ） 9k 9✅是（尝试） 43编译错误Meta**GPT** 36k/1
 
-📅 2026-08-25T13:19:35.000Z
+📅 2026-08-25T19:40:27.000Z
+
+---
+
+### Hacker News
+**[默认情况下， Firefox 157将在所有平台上包含JPEG XL](https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1)**
+
+文章网址： https://groupspli = 1评论网址： https://**new**s
+
+📅 Tue, 25 Aug 2026 17:55:23 +0000
+
+---
+
+### Hacker News AI
+**[谷歌旨在通过购买Spirit Airlines数据来提升人工智能](https://news.bloomberglaw.com/bankruptcy-law/google-aims-to-boost-ai-with-purchase-of-spirit-airlines-data)**
+
+文章网址： https://**new**scom/bankruptcy-law/**Google**-aims-to-boost-ai-with-purchase-of-spirit-airlines-data评论网址： https://**new**s
+
+📅 Tue, 25 Aug 2026 20:47:48 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[对于€ 6k便携式AI/开发设置，优先考虑64-128GB统一内存或CUDA兼容性？](https://www.reddit.com/r/artificial/comments/1vxxrqj/for_a_6k_portable_aidevelopment_setup_prioritize/)**
+![卡车司机构建AI新闻聚合器](https://preview.redd.it/gdwe0k4x7llh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9b27864cb35e58d17e39bbc2ad93b57013ef70f8)
 
-大型培训工作可以使用云GPU ，但我希望笔记本电脑保持离线和私有/本地模型的有用性-随着本地模型和代理工作流程的发展，哪个平台可能会保留更多的实用性
+**[卡车司机构建AI新闻聚合器](https://www.reddit.com/r/artificial/comments/1vycupz/truck_driver_builds_ai_news_aggregator/)**
 
-📅 2026-08-25T11:59:08.000Z
+它从大约十几个人工智能新闻来源中提取。没有编码经验，大多数情况下只是不断迭代**Claude** Code ，直到它起作用
+
+📅 2026-08-25T21:16:37.000Z
+
+---
+
+### Reddit: r/artificial
+![直接在提示中运用AI水印](https://external-preview.redd.it/7G9ji7oWEcM-Bw3cbBI9okoi4P0hupTMV8WlpkpW-zQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a39ec4ccdfb0bfd8d9f811ce82e00535c666c536)
+
+**[直接在提示中运用AI水印](https://www.reddit.com/r/artificial/comments/1vybcrs/dribbling_the_ai_watermark_directly_inprompt/)**
+
+它是关于如何通过谷歌的SynthID等伪随机生成器规避基于统计偏差的任何甚至理论上的最佳AI水印让我知道你们的想法
+
+📅 2026-08-25T20:22:21.000Z
+
+---
+
+### Reddit: r/artificial
+**[我的克劳德被抹去了记忆](https://www.reddit.com/r/artificial/comments/1vy55oi/my_claude_got_its_memory_wiped/)**
+
+我设置它不仅仅是一个同意的机器等，但它只是忘记了它所知道的一切
+
+📅 2026-08-25T16:45:04.000Z
 
 ---
 
