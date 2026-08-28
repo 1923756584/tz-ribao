@@ -1,12 +1,12 @@
 ---
 title: "2026年8月28日 - TZ日报"
-date: 2026-08-28T06:49:42.133Z
+date: 2026-08-28T23:56:29.063Z
 draft: false
 ---
 
 # 2026年8月28日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/8/28 06:49:42
+> 📊 今日汇总 38 条 · 🕐 2026/8/28 23:56:29
 
 ---
 
@@ -40,21 +40,30 @@ aI Stage又回到了过去几年由**Google** for Startups介绍的社区中最�
 
 ---
 
-### TechCrunch AI Products
-**[以下是人工智能流氓并入侵其他公司的所有时间](https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/)**
-
-概述**Anthropic**和**OpenAI**制造的所有涉及LLM的事件
-
-📅 Thu, 27 Aug 2026 14:01:42 +0000
-
----
-
 ### OpenAI Blog
 **[学习永不止步：人工智能如何让学习持续下去](https://openai.com/index/learning-never-stops)**
 
 **OpenAI**的新报告探讨了学生和教育工作者如何使用Chat**GPT**使学习更具持续性，并提供超越课堂的支持
 
 📅 Wed, 26 Aug 2026 10:00:00 GMT
+
+---
+
+### TechCrunch AI Products
+**[Neocloud Lambda获得$ 10亿债务以购买更多芯片](https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/)**
+
+Neocloud Lambda筹集了10亿美元的私人债务，用于购买Nvidia AI芯片并将其租赁给微软这是一系列贷款中的最新一笔，凸显了AI繁荣的高成本
+
+📅 Fri, 28 Aug 2026 20:24:11 +0000
+
+---
+
+### TechCrunch AI Products
+**[Meta高管离开OpenAI ，因为这家社交媒体巨头在印度面临越来越多的审查](https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/)**
+
+Sandhya Devanathan将担任新职务，负责监督**OpenAI**在东南亚和澳大利亚的一些业务
+
+📅 Fri, 28 Aug 2026 12:21:06 +0000
 
 ---
 
@@ -67,12 +76,12 @@ aI Stage又回到了过去几年由**Google** for Startups介绍的社区中最�
 
 ---
 
-### TechCrunch AI Products
-**[OpenAI开始在印度的ChatGPT免费和Go会员等级上展示广告](https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/)**
+### OpenAI Blog
+**[支持泰国的下一代人工智能初创公司](https://openai.com/index/supporting-next-generation-ai-startups-thailand)**
 
-**OpenAI**在印度每周有超过1亿活跃的Chat**GPT**用户，其中很大一部分是免费或价格较低的围棋用户
+**OpenAI**和泰国MHESI**推出**为期八周的加速器，帮助10家健康和教育初创公司将人工智能原型转化为值得信赖的产品
 
-📅 Thu, 27 Aug 2026 11:35:59 +0000
+📅 Fri, 28 Aug 2026 02:00:00 GMT
 
 ---
 
@@ -100,15 +109,6 @@ aI Stage又回到了过去几年由**Google** for Startups介绍的社区中最�
 Chat**GPT** for Teachers正在扩展到55个Uschool系统，为超过10万名教育工作者和员工提供安全的人工智能工具、培训和支持
 
 📅 Wed, 26 Aug 2026 10:00:00 GMT
-
----
-
-### OpenAI Blog
-**[拥抱面孔事件和前方的道路](https://openai.com/index/hugging-face-incident-and-the-road-ahead)**
-
-**OpenAI**分享了Hugging Face安全事件的调查结果，以及我们为加强AI模型的安全性、监控和一致性而采取的步骤
-
-📅 Wed, 26 Aug 2026 00:00:00 GMT
 
 ---
 
@@ -211,46 +211,24 @@ Chat**GPT** for Teachers正在扩展到55个Uschool系统，为超过10万名教
 ---
 
 ### VentureBeat
-![Salesforce刚刚将其整个CRM放入Claude中—并表示您将永远不再需要其应用程序](https://images.ctfassets.net/jdtwqhzvc2n1/5b0HuVyEgjT4nhhySGkJrI/638c8608bdd8581050019f1f696c8a00/Nuneybits_Vector_art_of_Salesforce-blue_cloud_entering_Anthropi_4b5f4f7e-ac1f-4543-8a00-fc53aee3b41e.webp?w=300&q=30)
+![Cohere Parse 5在点上失去基准。它以每页的成本赢得。](https://images.ctfassets.net/jdtwqhzvc2n1/4TjUlY3MRMwpmf1ws6gLXB/37ddd10b337d50ad97e92ba8900cd831/ai-parsing-smk1.jpeg?w=300&q=30)
 
-**[Salesforce刚刚将其整个CRM放入Claude中—并表示您将永远不再需要其应用程序](https://venturebeat.com/orchestration/salesforce-just-put-its-entire-crm-inside-claude-and-says-youll-never-need-its-app-again)**
+**[Cohere Parse 5在点上失去基准。它以每页的成本赢得。](https://venturebeat.com/data/cohere-parse-5-loses-the-benchmark-on-points-it-wins-on-cost-per-page)**
 
-**Claude**首先解释了其可用技能的原因-- “一种类似人类的指令，将**OpenAI**和**Anthropic**引入Agentforce ，甚至将Agentforce放入Chat**GPT**
+Parse 5现已通过Cohere API、Model Vault、Microsoft Foundry和AWS SageMaker通用前沿模型**GPT**-5正式**推出**
 
-📅 Wed, 26 Aug 2026 20:00:00 GMT
+📅 Fri, 28 Aug 2026 15:30:05 GMT
 
 ---
 
 ### VentureBeat
-![劫持公司DNS的AI代理的修复：它可以提出更改，但无法批准](https://images.ctfassets.net/jdtwqhzvc2n1/28m7aTuL4ti8gVOmBav4Od/54a57f5f3c018f6060177e2d4e971400/hero2.png?w=300&q=30)
+![Meta研究人员教授了与Claude Opus 4.5相匹配的8B AI模型—没有前沿价格标签](https://images.ctfassets.net/jdtwqhzvc2n1/74qlOTYyXbU8te5ugdb5DX/f6696a755ed1db9f3a43cdb5ec9219c8/AI_harness.jpg?w=300&q=30)
 
-**[劫持公司DNS的AI代理的修复：它可以提出更改，但无法批准](https://venturebeat.com/security/the-fix-for-the-ai-agent-that-hijacked-a-companys-dns-it-can-propose-the-change-but-it-cant-approve-it)**
+**[Meta研究人员教授了与Claude Opus 4.5相匹配的8B AI模型—没有前沿价格标签](https://venturebeat.com/orchestration/meta-researchers-taught-an-8b-ai-model-to-match-claude-opus-4-5-without-the-frontier-price-tag)**
 
-在特尼特的基准测试中， Sonnet 4Cursor上的**Claude** Code进行了演示， 10个数字中的9个来自针对**Claude** Code的同一攻击的单独测试
+该团队将训练有素的8B模型与三种大型前沿模型（ **Claude** Opus 41和**GPT**-5 ）、使用静态工具（如ReAct、ExpeL和ReasoningBank ）的冷冻代理框架以及先进的可培训方法（例如
 
-📅 Wed, 26 Aug 2026 16:13:50 GMT
-
----
-
-### The Verge
-![谷歌的人工智能笔记应用程序现在允许您与书籍互动](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Expert-Intelligence-Hero.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[谷歌的人工智能笔记应用程序现在允许您与书籍互动](https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books)**
-
-**Google**的人工智能笔记应用**Gemini** Notebook现在可以从您购买的图书中提取信息新的“专家智能”功能允许您将**Google** Play图书中的标题直接带入**Gemini** Notebook
-
-📅 2026-08-27T19:30:00.000Z
-
----
-
-### The Verge
-![Jensen Huang表示， Nvidia再次实现了AGI —并不重要](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[Jensen Huang表示， Nvidia再次实现了AGI —并不重要](https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi)**
-
-首席执行官Jensen Huang随口宣布，该公司“已经实现了AGIAsked关于**OpenAI**对AGI的追求， Huang说，当谈到Nvidia时，”对于许多任务，我们可以说我们已经实现了AGI
-
-📅 2026-08-27T16:15:52.000Z
+📅 Fri, 28 Aug 2026 16:33:16 GMT
 
 ---
 
@@ -264,24 +242,42 @@ Chat**GPT** for Teachers正在扩展到55个Uschool系统，为超过10万名教
 ---
 
 ### Wired Technology
-**[一名法官阻止了五角大楼将人类列入黑名单的企图](https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/)**
+**[英伟达首席执行官Jensen Huang在全体员工中接听了唐纳德·特朗普的电话](https://www.wired.com/story/nvidia-ceo-jensen-huang-took-a-call-from-donald-trump-in-the-middle-of-an-all-hands/)**
 
-一名联邦法官称，国防部将**Anthropic**指定为国家安全供应链风险“非法且毫无根据”
+意外中断发生在总统在Truth Social上写了一篇关于公司最新收益报告的祝贺帖子之前的几个小时
 
-📅 Fri, 28 Aug 2026 03:04:14 +0000
+📅 Fri, 28 Aug 2026 22:29:13 +0000
+
+---
+
+### Wired Technology
+**[Microsoft Teams已成为中国诈骗者的避风港](https://www.wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers/)**
+
+欺诈者正在利用Teams和Webex等企业聊天应用程序诱骗中国受害者转移大量资金，引发一波投诉
+
+📅 Fri, 28 Aug 2026 18:23:17 +0000
+
+---
+
+### Wired Technology
+**[Meta推动机器人在数据中心工作](https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/)**
+
+该公司正在测试可以交换电缆并承担技术人员执行的其他任务的机器人
+
+📅 Fri, 28 Aug 2026 10:56:22 +0000
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![awesome-ml-internships ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
+### GitHub Active (Python)
+![AutoRAG ： AutoRAG ：现在，您的代理可以在您的计算机中找到任何内容。如果您经常使用它，它会变得更聪明。](https://avatars.githubusercontent.com/u/74290595?v=4)
 
-**[awesome-ml-internships ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships)**
+**[AutoRAG ： AutoRAG ：现在，您的代理可以在您的计算机中找到任何内容。如果您经常使用它，它会变得更聪明。](https://github.com/Marker-Inc-Korea/AutoRAG)**
 
-⭐ 451星· 39分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作管道刷新
+⭐ 5,056星· 433分叉· TypeScript · AutoRAG ：现在您的代理可以在您的计算机中找到任何东西如果您经常使用它，它会变得更智能
 
-📅 2026-08-28T06:46:03Z
+📅 2026-08-28T23:55:01Z
 
 ---
 
@@ -297,98 +293,100 @@ Chat**GPT** for Teachers正在扩展到55个Uschool系统，为超过10万名教
 ---
 
 ### GitHub New (New AI)
-![🆕 人工智能课程： Интенсивный курс подготовки к钚замену по Методам ИИ и глубокому обучению (ГУУУ 2026)](https://avatars.githubusercontent.com/u/199665213?v=4)
+![🆕 heurisko ： Heurisko是一个自主的人工智能研究助理和学术搜索引擎，由多代理人工智能提供支持，提供深度文档智能、会话研究和实时流媒体功能。](https://avatars.githubusercontent.com/u/71508816?v=4)
 
-**[🆕 人工智能课程： Интенсивный курс подготовки к钚замену по Методам ИИ и глубокому обучению (ГУУУ 2026)](https://github.com/egorribun/AI-Course)**
+**[🆕 heurisko ： Heurisko是一个自主的人工智能研究助理和学术搜索引擎，由多代理人工智能提供支持，提供深度文档智能、会话研究和实时流媒体功能。](https://github.com/yuvanvishnupandi/heurisko)**
 
-⭐ 2 star (新项目) · HTML · Интенсивный курс подготовки к экзамену по Методам ИИ и глубокому обучению (ГУУ 2026)
+⭐ 3 star (新项目) · Python · Heurisko is an autonomous AI research assistant and academic search engine powered by multi-agent AIoffering deep document intelligence
 
-📅 2026-08-27T19:20:13Z
+📅 2026-08-26T16:41:11Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 NEAT-AI-Rebase ：将经过验证的NEAT-AI改进重新定位为最新的冠军—保留并行进化，而不是用陈旧的血统取而代之。](https://avatars.githubusercontent.com/u/6497122?v=4)
+![板🆕 载人工智能（ On-board-AI ） ：为神经发散的学生提供实时微控制器和电路调试的人工智能学习平台。](https://avatars.githubusercontent.com/u/215249068?v=4)
 
-**[🆕 NEAT-AI-Rebase ：将经过验证的NEAT-AI改进重新定位为最新的冠军—保留并行进化，而不是用陈旧的血统取而代之。](https://github.com/stSoftwareAU/NEAT-AI-Rebase)**
+**[板🆕 载人工智能（ On-board-AI ） ：为神经发散的学生提供实时微控制器和电路调试的人工智能学习平台。](https://github.com/Yuktimittal19/On-board-AI)**
 
-⭐ 2 star (新项目) · Rust · Rebase proven NEAT-AI improvements onto the latest champion — preserving parallel evolution instead of replacing it with a stale lineage
+⭐ 2 star (新项目) · HTML · AI-powered learning platform for neurodivergent students with real-time microcontroller and circuit debugging
 
-📅 2026-08-26T11:11:15Z
+📅 2026-08-28T11:18:13Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[如何让Claude写入现有的Google云端硬盘文件？](https://www.reddit.com/r/artificial/comments/1w0b1ee/how_are_you_getting_claude_to_write_to_existing/)**
+**[本周： OpenAI的Jalapeño推理芯片，英伟达约129亿美元的Hugging Face交易，以及阿里巴巴的Qwen3.8-Flash--人工智能的成本和控制都发生了变化](https://www.reddit.com/r/artificial/comments/1w0wf8z/this_week_openais_jalapeño_inference_chip_nvidias/)**
 
-**Claude**的连接器仅创建新文件，不像/u/assistir_cps提交的Chat**GPT**那样编辑现有文件[link] [comments]
+**OpenAI**公布了其**首个**定制推理芯片的结果（与Broadcom和Celestica合作；据报道三星在HBM4上） ，而**Anthropic**的**Claude**则经历了一个非常艰难的正常运行时间
 
-📅 2026-08-28T00:08:42.000Z
-
----
-
-### Reddit: r/artificial
-**[与chatgpt go相比， chatgpt plus是否值得？](https://www.reddit.com/r/artificial/comments/1w0acwa/is_chatgpt_plus_worth_it_over_chatgpt_go/)**
-
-我在免费会员等级上，我喜欢它而不是谷歌双子座，因为它似乎更频繁、更准确地引用其他聊天我也有点像它有更多的个性
-
-📅 2026-08-27T23:39:49.000Z
-
----
-
-### Reddit: r/artificial
-**[向ChatGPT或Gemini询问我的癌症治疗是疯狂的吗？](https://www.reddit.com/r/artificial/comments/1w0f05b/is_it_crazy_to_ask_chatgpt_or_gemini_about_my/)**
-
-我从不同的医生那里得到了相互矛盾的信息，我很想把我的记录粘贴到Chat**GPT**中，看看它说了什么，我知道它不是医生，但有时它比我的肿瘤学家解释得更好
-
-📅 2026-08-28T03:10:13.000Z
-
----
-
-### X: OpenAI
-**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-网址来源： http://twitter.com/**OpenAI**
-
-📅 2026-08-28T06:48:27.117Z
-
----
-
-### X: DeepSeek
-**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
-
-网址来源： http://twitter.com/**DeepSeek**_ai
-
-📅 2026-08-28T06:48:31.291Z
+📅 2026-08-28T17:07:46.000Z
 
 ---
 
 ### Hacker News AI
-**[由于毫无根据的人工智能版权声明， Luanti已从Google Play中删除](https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/)**
+**[Show HN ： AdRiseLab –我为自己的元广告建立了一个人工智能媒体买家](https://adriselab.com/blog/what-is-an-ai-performance-marketer)**
 
-文章网址： https://blogorg/2026/08/27/luanti-dmca-tracer-ai/评论网址： https://**new**s
+文章网址： https://adriselabcom/blog/what-is-an-ai-performance-marketer评论网址： https://**new**s
 
-📅 Fri, 28 Aug 2026 06:33:57 +0000
-
----
-
-### Hacker News AI
-**[新数据显示，谷歌DeepMind正在失去对精英人工智能人才的控制](https://fortune.com/2026/08/27/google-deepmind-losing-talent-to-rival-ai-labs-startups-new-data-show/)**
-
-文章网址： https://fortunecom/2026/08/27/**Google**-deepmind-losing-talent-to-rival-ai-labs-startups-**new**-data-show/评论网址： https://**new**s
-
-📅 Fri, 28 Aug 2026 05:35:18 +0000
+📅 Fri, 28 Aug 2026 21:56:27 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[我们需要开始给人类加水印，而不是给人工智能加水印。](https://www.reddit.com/r/artificial/comments/1w0hfeo/instead_of_watermarking_ai_we_need_start/)**
+**[人工智能的真正吸引力在于它给人们带来的能力幻觉](https://www.reddit.com/r/artificial/comments/1w13052/ais_real_appeal_is_the_illusion_of_competence_it/)**
 
-我觉得这里非常强调对人工智能进行水印，这似乎是一场失败的战斗，但元数据可以被哈希
+“无法构建参数以挽救生命的人让Chat**GPT**编写它，突然有了他们非常有信心的意见询问“设计师”他们为什么使用该字体配对，他们无法告诉你
 
-📅 2026-08-28T05:15:22.000Z
+📅 2026-08-28T21:12:03.000Z
+
+---
+
+### Reddit: r/artificial
+![Localiza e Microsoft revelam o futuro de quem usa IA no trabalho](https://external-preview.redd.it/miXQQ8VAxi08BI8udQ_jTCUbSpWyp9YDgHlM37hMkeE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b371be1b8454b55bf8dbc2d7457e84ab63e8bc80)
+
+**[Localiza e Microsoft revelam o futuro de quem usa IA no trabalho](https://www.reddit.com/r/artificial/comments/1w10ig9/localiza_e_microsoft_revelam_o_futuro_de_quem_usa/)**
+
+Ontem a Microsoft e a Localiza discutiram qual deve ser o futuro da Inteligência Artificial no mercado de trabalho e como vêem o papel humano daqui pra frenteConcordam com essa visão de futuro
+
+📅 2026-08-28T19:37:09.000Z
+
+---
+
+### Reddit: r/artificial
+**[人工智能实验提案](https://www.reddit.com/r/artificial/comments/1w0z9ve/proposal_for_an_ai_experiment/)**
+
+我以学术界以外的人的身份写作，他对人工智能意识和自我建模的连续性产生了浓厚的兴趣，这是设计的核心要求
+
+📅 2026-08-28T18:51:40.000Z
+
+---
+
+### Reddit: r/artificial
+**[作品5指令以下是真正相关的](https://www.reddit.com/r/artificial/comments/1w0w5p6/opus_5_instruction_following_is_genuinely/)**
+
+我认为**Anthropic**已经掉球了，以下指令实际上是不存在的我已经说过至少十次不打开某个东西，它一直在这样做
+
+📅 2026-08-28T16:58:25.000Z
+
+---
+
+### Hacker News
+**[通过Apple的Virtualization.framework启动虚拟iPhone](https://github.com/Lakr233/vphone-cli)**
+
+文章网址： https://githubcom/Lakr233/vphone-cli评论网址： https://**new**s
+
+📅 Fri, 28 Aug 2026 23:02:21 +0000
+
+---
+
+### Hacker News
+**[使用人工智能识别假冒化妆品](https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html)**
+
+org/hnbfpr/2026-08-26-ai-counterfeit-cosmeticshtml评论网址： https://**new**s
+
+📅 Fri, 28 Aug 2026 22:18:27 +0000
 
 ---
 
