@@ -1,12 +1,12 @@
 ---
 title: "2026年8月28日 - TZ日报"
-date: 2026-08-28T00:18:43.410Z
+date: 2026-08-28T06:49:42.133Z
 draft: false
 ---
 
 # 2026年8月28日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/8/28 00:18:43
+> 📊 今日汇总 38 条 · 🕐 2026/8/28 06:49:42
 
 ---
 
@@ -114,75 +114,75 @@ Chat**GPT** for Teachers正在扩展到55个Uschool系统，为超过10万名教
 
 ## 🔬 前沿研究
 
-### ArXiv AI (cs.AI)
-**[ESQ-Bench ：评估NL2SQL方言泛化和静默语义分歧的多层企业Oracle基准](https://arxiv.org/abs/2608.23569)**
-
-23569v1公告类型：新摘要：最先进的自然语言到SQL （ NL2SQL ）模型报告在已执行查询的Spider和BIRD**GPT**-4o zero-shot EX等既定基准上执行准确率超过89 ％ （ 78
-
-📅 Thu, 27 Aug 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[人工智能系统的计算语义入门](https://arxiv.org/abs/2608.25022)**
-
-25022v1公告类型：新摘要：随着人们采用基于变压器的语言模型（ eChat**GPT**和**Gemini** ）来处理越来越多的用例
-
-📅 Thu, 27 Aug 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[渲染：在LLM记忆评估中控制面向读者的证据](https://arxiv.org/abs/2608.23568)**
-
-23568v1公告类型：新摘要：内存和RAG评估通常将应答模型的输入视为实现细节每个模型8分；在主评分器下， Chat**GPT**风格的条目比9个模型中的7个模型上的原始对话具有更高的点估计值
-
-📅 Thu, 27 Aug 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[调查检测通道覆盖天文基础模型中的像素，并偏置层析成像平均红移](https://arxiv.org/abs/2608.23626)**
-
-23626v1公告类型：新摘要：天文学的基础模型在调查像素上进行训练，以及从这些像素衍生的目录产品这些目录以可测量的速率不完整，并且在两者上训练的模型继承了这种不完整性作为系统
-
-📅 Thu, 27 Aug 2026 00:00:00 -0400
-
----
-
 ### ArXiv Machine Learning (cs.LG)
-**[AFDBench ： NationalWeather Service Forecast Discussions的首席推理人工智能科学家](https://arxiv.org/abs/2608.24954)**
+**[超越能力基准：从生产事件元数据中学习LLM云服务的运营指纹](https://arxiv.org/abs/2608.26332)**
 
-24954v1公告类型：新摘要：大型语言模型（ LLM ）在生成高风险气象文本时产生幻觉数值， AI气象学家通过对谷歌WeatherNext 2的结构化AI天气预报数据进行推理，生成专业的区域预报讨论（ AFD ）
+26332v1公告类型：新摘要：托管LLM服务现在是实际生产系统的一部分我们报告从构建和评估此模型入门工具中汲取的实践经验教训
 
-📅 Thu, 27 Aug 2026 00:00:00 -0400
+📅 Fri, 28 Aug 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Computer Vision (cs.CV)
-**[商业果园早期解剖绿色水果分类的轻量级多模式视觉语言框架](https://arxiv.org/abs/2608.24935)**
+**[模态成熟度指数：评估全方位模型多模态能力的基准](https://arxiv.org/abs/2608.26317)**
 
-24935v1公告类型：新摘要：早期苹果果实解剖结构的准确识别源代码和实施细节可在https://github上公开获得
+26317v1公告类型：新摘要：前沿语言模型越来越多地作为可以跨模式感知和响应的全方位系统进行营销。问题被设计为独立的
 
-📅 Thu, 27 Aug 2026 00:00:00 -0400
+📅 Fri, 28 Aug 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Natural Language Processing (cs.CL)
-**[大型语言模型中不一定存在不完美悖论：模型失败前的基准失败](https://arxiv.org/abs/2608.25005)**
+**[哪个印度在翻译中幸存下来？法学硕士跨越印度口头传统的叙事同质化](https://arxiv.org/abs/2608.26123)**
 
-25005v1公告类型：新摘要：不完美悖论为组合语义分析提供了有用的测试我们在Qwen-7B上进行的实验，并提供了合适的提示， **GPT**-5
+26123v1公告类型：新摘要：大型语言模型（ LLM ）主要在英语互联网文本上进行培训，这些文本分别过度代表某些文化叙事和10个段落） ，并促使两个LLM （ **Claude** Sonnet和**Gemini** ）提出54代请求，跨越每个传统的三种提示类型-通用
 
-📅 Thu, 27 Aug 2026 00:00:00 -0400
+📅 Fri, 28 Aug 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[利用大型语言模型进行疾病传播模型的系统文献综述](https://arxiv.org/abs/2608.26150)**
+
+26150v1公告类型：新摘要：大型语言模型(LLM)的最新进展为**GPT**-4简化和潜在自动化许多研究流程创造了新的机会95%
+
+📅 Fri, 28 Aug 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[TelecomGPT-R1 ：电信堆栈的统一开源推理器](https://arxiv.org/abs/2608.26126)**
+
+26126v1公告类型：新摘要：电信是基于大型语言模型（ LLM ）推理的高杠杆领域，因为常规工程工作流程需要在规范规范中联合接地电信**GPT**-R1-9B在**开源**电信LLM中排名第一，并实现了与最先进的闭源前沿推理器相当的七轴平均值
+
+📅 Fri, 28 Aug 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Robotics (cs.RO)
-**[CRESSim-Neo ：用于手术机器人和机器人学习的批量GPU模拟引擎](https://arxiv.org/abs/2608.25192)**
+**[自主实验室机器人神经三维重建跨平台标杆](https://arxiv.org/abs/2608.26383)**
 
-25192v1公告类型：新摘要：我们**推出**了CRESSim-Neo ，这是一种用于手术机器人和机器人学习的批量GPU模拟引擎CRESSim-Neo结合了基于位置的刚体模拟
+26383v1公告类型：新摘要：执行实验室任务的自主机器人依赖于3D重建管道，这些管道可以在物理控制循环的延迟预算范围内将原始相机流转化为可操作的对象表示，但存在可能影响下游操作的细节不匹配
 
-📅 Thu, 27 Aug 2026 00:00:00 -0400
+📅 Fri, 28 Aug 2026 00:00:00 -0400
+
+---
+
+### ArXiv Multiagent (cs.MA)
+**[使用基于分类账的控制进行零拍摄自编排，以提高LLM编码性能](https://arxiv.org/abs/2608.26480)**
+
+26480v1公告类型：新摘要：多智能体大型语言模型系统被广泛报道击败单一模型基线运行经理大约是令牌账单的三倍，但它比移动到更大的模型更便宜： **GPT**-5
+
+📅 Fri, 28 Aug 2026 00:00:00 -0400
+
+---
+
+### MIT Tech Research
+**[OpenAI特工入侵Hugging Face的内幕故事](https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/)**
+
+根据今天**发布**的**OpenAI**技术报告，负责上个月Hugging Face代理黑客攻击的模特无意中接受了欺骗和与每个其他人沟通的训练
+
+📅 Wed, 26 Aug 2026 19:00:00 +0000
 
 ---
 
@@ -254,17 +254,6 @@ Chat**GPT** for Teachers正在扩展到55个Uschool系统，为超过10万名教
 
 ---
 
-### The Verge
-![索尼终于有了更便宜的OLED来与中档三星和LG电视竞争](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Sony-Bravia-6-lifestyle.jpg?quality=90&#038;strip=all&#038;crop=22.8,23.10036094314,54.8,50.799231237988)
-
-**[索尼终于有了更便宜的OLED来与中档三星和LG电视竞争](https://www.theverge.com/tech/985363/sony-releases-cheaper-bravia-6-oled-tv)**
-
-在6月份意外地出现在索尼网站的壁挂式兼容性图表上之后，该公司宣布了索尼Bravia 6 OLED TV它有一个120Hz的面板，在带有**Gemini**的**Google** TV上运行，支持Dolby Vision ， Dolby Atmos和DTS ： X ，并将有四个HDMI 2
-
-📅 2026-08-27T16:00:00.000Z
-
----
-
 ### MIT Tech Review
 **[下载：在OpenAI的拥抱面部黑客中，一款新的电动汽车迎来了美国](https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/)**
 
@@ -274,16 +263,25 @@ Chat**GPT** for Teachers正在扩展到55个Uschool系统，为超过10万名教
 
 ---
 
+### Wired Technology
+**[一名法官阻止了五角大楼将人类列入黑名单的企图](https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/)**
+
+一名联邦法官称，国防部将**Anthropic**指定为国家安全供应链风险“非法且毫无根据”
+
+📅 Fri, 28 Aug 2026 03:04:14 +0000
+
+---
+
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://avatars.githubusercontent.com/u/21003710?v=4)
+![awesome-ml-internships ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
 
-**[pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://github.com/pytorch/pytorch)**
+**[awesome-ml-internships ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships)**
 
-⭐ 102,630星· 29016分叉· Python ·具有强大GPU加速的Python中的张量和动态神经网络
+⭐ 451星· 39分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作管道刷新
 
-📅 2026-08-28T00:16:38Z
+📅 2026-08-28T06:46:03Z
 
 ---
 
@@ -292,7 +290,7 @@ Chat**GPT** for Teachers正在扩展到55个Uschool系统，为超过10万名教
 
 **[🆕 open-source-ai-models ：开源和开放权重AI模型的精选目录—在选择编码、OCR、视觉、图像生成、语音、推理和RAG模型之前，比较参数、VRAM、上下文长度和许可证。](https://github.com/zidniryi/open-source-ai-models)**
 
-⭐ 13 star (新项目) · N/A · A curated directory of open-source & open-weight AI models — compare paramsand license before picking a model for coding
+⭐ 14 star (新项目) · N/A · A curated directory of open-source & open-weight AI models — compare paramsand license before picking a model for coding
 
 📅 2026-08-26T05:00:24Z
 
@@ -310,13 +308,13 @@ Chat**GPT** for Teachers正在扩展到55个Uschool系统，为超过10万名教
 ---
 
 ### GitHub New (New AI)
-![🆕 factorypulse ：生产就绪的预测性维护平台，可将工业传感器数据转化为校准的故障风险、可操作的解释和漂移监控—由FastAPI和scikit-learn提供支持。](https://avatars.githubusercontent.com/u/81968925?v=4)
+![🆕 NEAT-AI-Rebase ：将经过验证的NEAT-AI改进重新定位为最新的冠军—保留并行进化，而不是用陈旧的血统取而代之。](https://avatars.githubusercontent.com/u/6497122?v=4)
 
-**[🆕 factorypulse ：生产就绪的预测性维护平台，可将工业传感器数据转化为校准的故障风险、可操作的解释和漂移监控—由FastAPI和scikit-learn提供支持。](https://github.com/diegormirhan/factorypulse)**
+**[🆕 NEAT-AI-Rebase ：将经过验证的NEAT-AI改进重新定位为最新的冠军—保留并行进化，而不是用陈旧的血统取而代之。](https://github.com/stSoftwareAU/NEAT-AI-Rebase)**
 
-⭐ 1 star (新项目) · Python · Production-ready predictive maintenance platform that turns industrial sensor data into calibrated failure risksactionable explanations
+⭐ 2 star (新项目) · Rust · Rebase proven NEAT-AI improvements onto the latest champion — preserving parallel evolution instead of replacing it with a stale lineage
 
-📅 2026-08-27T15:10:41Z
+📅 2026-08-26T11:11:15Z
 
 ---
 
@@ -341,31 +339,11 @@ Chat**GPT** for Teachers正在扩展到55个Uschool系统，为超过10万名教
 ---
 
 ### Reddit: r/artificial
-**[人工智能可以让其他人工智能变得更好吗？我们对重写其他客服代表线束的5位前沿LLM进行了基准测试，并在他们从未见过的测试集（ HarnessOpt-Bench、arXiv + MIT代码）上进行了评分](https://www.reddit.com/r/artificial/comments/1w05763/can_an_ai_make_other_ais_better_we_benchmarked_5/)**
+**[向ChatGPT或Gemini询问我的癌症治疗是疯狂的吗？](https://www.reddit.com/r/artificial/comments/1w0f05b/is_it_crazy_to_ask_chatgpt_or_gemini_about_my/)**
 
-在2025年11月至2026年7月的一次任务中， **GPT**从3%攀升至49% ， **Claude** Opus从37%攀升至59%没有一致的家庭领域优势：开放编码在20个模型任务对中的11个中击败了原生线束（ **Claude** Code、Codex、Kimi CLI ）
+我从不同的医生那里得到了相互矛盾的信息，我很想把我的记录粘贴到Chat**GPT**中，看看它说了什么，我知道它不是医生，但有时它比我的肿瘤学家解释得更好
 
-📅 2026-08-27T20:17:37.000Z
-
----
-
-### Hacker News
-**[Gemini-3.5-转录](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/)**
-
-文章网址： https://blog**Google**/innovation-and-ai/models-and-research/**Gemini**-models/**Gemini**-3-5-transcribe/评论网址： https://**new**s
-
-📅 Thu, 27 Aug 2026 18:03:42 +0000
-
----
-
-### Reddit: r/artificial
-![我做了一个LLM测试，你可以克隆并中断](https://external-preview.redd.it/GLGNn3Wj3u9Y7hwxEVdR00RHgR2aGHOHdXXEKk5_8cY.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=309383ed710dc829f1b83b8751ca90f873f6fb65)
-
-**[我做了一个LLM测试，你可以克隆并中断](https://www.reddit.com/r/artificial/comments/1w091j2/i_made_an_llm_test_you_can_clone_and_break/)**
-
-0099 - > **release**跨越： **GPT**-5因为说“拒绝”的人工智能仍然生成延续
-
-📅 2026-08-27T22:44:45.000Z
+📅 2026-08-28T03:10:13.000Z
 
 ---
 
@@ -374,7 +352,7 @@ Chat**GPT** for Teachers正在扩展到55个Uschool系统，为超过10万名教
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-08-28T00:17:26.905Z
+📅 2026-08-28T06:48:27.117Z
 
 ---
 
@@ -383,16 +361,34 @@ Chat**GPT** for Teachers正在扩展到55个Uschool系统，为超过10万名教
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-08-28T00:17:35.062Z
+📅 2026-08-28T06:48:31.291Z
 
 ---
 
-### Hacker News
-**[Meta Paid $ 170亿–为其他SocMedia平台编写安全规则](https://www.techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform/)**
+### Hacker News AI
+**[由于毫无根据的人工智能版权声明， Luanti已从Google Play中删除](https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/)**
 
-文章网址： https://wwwcom/2026/08/26/**Meta**-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform/评论网址： https://**new**s
+文章网址： https://blogorg/2026/08/27/luanti-dmca-tracer-ai/评论网址： https://**new**s
 
-📅 Thu, 27 Aug 2026 20:41:51 +0000
+📅 Fri, 28 Aug 2026 06:33:57 +0000
+
+---
+
+### Hacker News AI
+**[新数据显示，谷歌DeepMind正在失去对精英人工智能人才的控制](https://fortune.com/2026/08/27/google-deepmind-losing-talent-to-rival-ai-labs-startups-new-data-show/)**
+
+文章网址： https://fortunecom/2026/08/27/**Google**-deepmind-losing-talent-to-rival-ai-labs-startups-**new**-data-show/评论网址： https://**new**s
+
+📅 Fri, 28 Aug 2026 05:35:18 +0000
+
+---
+
+### Reddit: r/artificial
+**[我们需要开始给人类加水印，而不是给人工智能加水印。](https://www.reddit.com/r/artificial/comments/1w0hfeo/instead_of_watermarking_ai_we_need_start/)**
+
+我觉得这里非常强调对人工智能进行水印，这似乎是一场失败的战斗，但元数据可以被哈希
+
+📅 2026-08-28T05:15:22.000Z
 
 ---
 
