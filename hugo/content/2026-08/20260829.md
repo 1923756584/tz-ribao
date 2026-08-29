@@ -1,12 +1,12 @@
 ---
 title: "2026年8月29日 - TZ日报"
-date: 2026-08-29T04:05:26.945Z
+date: 2026-08-29T18:14:59.318Z
 draft: false
 ---
 
 # 2026年8月29日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/8/29 04:05:26
+> 📊 今日汇总 38 条 · 🕐 2026/8/29 18:14:59
 
 ---
 
@@ -37,15 +37,6 @@ aI Stage又回到了过去几年由**Google** for Startups介绍的社区中最�
 一些全球最大的科技公司和人工智能初创公司齐聚一堂，谴责当前的网络安全状况，并宣传他们认为可以抵御新一代网络威胁的新解决方案
 
 📅 Thu, 27 Aug 2026 17:43:24 +0000
-
----
-
-### OpenAI Blog
-**[学习永不止步：人工智能如何让学习持续下去](https://openai.com/index/learning-never-stops)**
-
-**OpenAI**的新报告探讨了学生和教育工作者如何使用Chat**GPT**使学习更具持续性，并提供超越课堂的支持
-
-📅 Wed, 26 Aug 2026 10:00:00 GMT
 
 ---
 
@@ -109,6 +100,17 @@ Sandhya Devanathan将担任新职务，负责监督**OpenAI**在东南亚和澳�
 **OpenAI**正在扩大其在巴西和社区的影响力，以支持AI在全国范围内的采用
 
 📅 Thu, 27 Aug 2026 03:00:00 GMT
+
+---
+
+### Google AI Blog
+![在搜索中规划和预订行程的3种新方法](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp)
+
+**[在搜索中规划和预订行程的3种新方法](https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/)**
+
+使用AI模式在**Google**搜索中预订酒店和追踪机票，并查看里程和奖励。
+
+📅 Thu, 27 Aug 2026 16:00:00 +0000
 
 ---
 
@@ -232,6 +234,15 @@ Parse 5现已通过Cohere API、Model Vault、Microsoft Foundry和AWS SageMaker�
 
 ---
 
+### ZDNet AI
+**[Google Pixel 11的一周改变了我对双子座的看法（变得更好）](https://www.zdnet.com/article/google-pixel-11-review/)**
+
+在迭代**升级**的一年中，谷歌**推出**了智能功能，使基础Pixel在其一代中脱颖而出
+
+📅 Sat, 29 Aug 2026 13:00:44 GMT
+
+---
+
 ### MIT Tech Review
 **[下载：在OpenAI的拥抱面部黑客中，一款新的电动汽车迎来了美国](https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/)**
 
@@ -259,15 +270,6 @@ Parse 5现已通过Cohere API、Model Vault、Microsoft Foundry和AWS SageMaker�
 
 ---
 
-### Wired Technology
-**[Meta推动机器人在数据中心工作](https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/)**
-
-该公司正在测试可以交换电缆并承担技术人员执行的其他任务的机器人
-
-📅 Fri, 28 Aug 2026 10:56:22 +0000
-
----
-
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
@@ -275,31 +277,31 @@ Parse 5现已通过Cohere API、Model Vault、Microsoft Foundry和AWS SageMaker�
 
 **[pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://github.com/pytorch/pytorch)**
 
-⭐ 102,654星· 29026分叉· Python ·具有强大GPU加速的Python中的张量和动态神经网络
+⭐ 102,657星· 29031分叉· Python ·具有强大GPU加速的Python中的张量和动态神经网络
 
-📅 2026-08-29T04:04:03Z
-
----
-
-### GitHub Active (AI/ML)
-![气流： Apache气流-以编程方式创作、安排和监控工作流程的平台](https://avatars.githubusercontent.com/u/47359?v=4)
-
-**[气流： Apache气流-以编程方式创作、安排和监控工作流程的平台](https://github.com/apache/airflow)**
-
-⭐ 46,630星· 17697分叉· Python · Apache Airflow -一个以编程方式创作、安排和监控工作流程的平台
-
-📅 2026-08-29T04:03:00Z
+📅 2026-08-29T18:12:42Z
 
 ---
 
 ### GitHub Active (Python)
-![flink-agents ： Flink Agents是基于Apache Flink的Agentic AI框架](https://avatars.githubusercontent.com/u/47359?v=4)
+![ministack ： Ministack ：免费、开源的本地AWS模拟器- 60多种服务，与Terraform兼容，真正的数据库。永久免费。麻省理工学院许可。](https://avatars.githubusercontent.com/u/274374870?v=4)
 
-**[flink-agents ： Flink Agents是基于Apache Flink的Agentic AI框架](https://github.com/apache/flink-agents)**
+**[ministack ： Ministack ：免费、开源的本地AWS模拟器- 60多种服务，与Terraform兼容，真正的数据库。永久免费。麻省理工学院许可。](https://github.com/ministackorg/ministack)**
 
-⭐ 448星· 158分叉· Java · Flink Agents是基于Apache Flink的Agentic AI框架
+永久免费麻省理工学院许可
 
-📅 2026-08-29T04:03:59Z
+📅 2026-08-29T18:13:47Z
+
+---
+
+### GitHub Active (Python)
+![mirascope ：法学硕士反框架](https://avatars.githubusercontent.com/u/153858533?v=4)
+
+**[mirascope ：法学硕士反框架](https://github.com/Mirascope/mirascope)**
+
+⭐ 1524星· 125叉·蟒蛇·法学硕士反框架
+
+📅 2026-08-29T18:13:46Z
 
 ---
 
@@ -316,12 +318,21 @@ Parse 5现已通过Cohere API、Model Vault、Microsoft Foundry和AWS SageMaker�
 
 ## 💬 社交动态
 
+### Reddit: r/artificial
+**[如何构建Agentic Graph](https://www.reddit.com/r/artificial/comments/1w1mijt/how_to_build_agentic_graphs/)**
+
+它回去审查-架构审查员必须再次检查**更新**的差异**Anthropic**在他们最近的论文中认为这是模型的问题
+
+📅 2026-08-29T13:24:57.000Z
+
+---
+
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-08-29T04:04:11.232Z
+📅 2026-08-29T18:13:40.845Z
 
 ---
 
@@ -330,7 +341,25 @@ Parse 5现已通过Cohere API、Model Vault、Microsoft Foundry和AWS SageMaker�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-08-29T04:04:19.981Z
+📅 2026-08-29T18:13:44.723Z
+
+---
+
+### Reddit: r/artificial
+**[人工智能和认知能力](https://www.reddit.com/r/artificial/comments/1w1m34z/ai_and_cognitive_ability/)**
+
+如果不去找克劳德，抛弃一切，然后让他建立联系，我就无法思考。如果不给克劳德一篇文章，让他总结一下，我就无法正确阅读
+
+📅 2026-08-29T13:06:07.000Z
+
+---
+
+### Reddit: r/artificial
+**[我正在为AI生成的索赔构建一个独立的验证层，并希望研究人员和合作伙伴与我们一起构建。](https://www.reddit.com/r/artificial/comments/1w1gnii/im_building_an_independent_verification_layer_for/)**
+
+我一直在为人工智能生成的财务索赔开发确定性验证引擎最初的想法相当简单：法学硕士应该生成索赔
+
+📅 2026-08-29T08:11:43.000Z
 
 ---
 
@@ -345,32 +374,12 @@ Parse 5现已通过Cohere API、Model Vault、Microsoft Foundry和AWS SageMaker�
 
 ---
 
-### Reddit: r/artificial
-![Localiza e Microsoft revelam o futuro de quem usa IA no trabalho](https://external-preview.redd.it/miXQQ8VAxi08BI8udQ_jTCUbSpWyp9YDgHlM37hMkeE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b371be1b8454b55bf8dbc2d7457e84ab63e8bc80)
-
-**[Localiza e Microsoft revelam o futuro de quem usa IA no trabalho](https://www.reddit.com/r/artificial/comments/1w10ig9/localiza_e_microsoft_revelam_o_futuro_de_quem_usa/)**
-
-Ontem a Microsoft e a Localiza discutiram qual deve ser o futuro da Inteligência Artificial no mercado de trabalho e como vêem o papel humano daqui pra frenteConcordam com essa visão de futuro
-
-📅 2026-08-28T19:37:09.000Z
-
----
-
-### Reddit: r/artificial
-**[人工智能实验提案](https://www.reddit.com/r/artificial/comments/1w0z9ve/proposal_for_an_ai_experiment/)**
-
-我以学术界以外的人的身份写作，他对人工智能意识和自我建模的连续性产生了浓厚的兴趣，这是设计的核心要求
-
-📅 2026-08-28T18:51:40.000Z
-
----
-
 ### X: OpenAI
 **[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-08-29T04:04:11.232Z
+📅 2026-08-29T18:13:40.845Z
 
 ---
 
@@ -379,16 +388,7 @@ Title: 520: Web服务器返回未知错误
 
 警告：目标URL返回错误520 ：
 
-📅 2026-08-29T04:04:11.232Z
-
----
-
-### X: OpenAI
-**[警告：此页面可能尚未完全加载，请考虑显式指定超时。](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-警告：此页面可能尚未完全加载，请考虑显式指定超时。
-
-📅 2026-08-29T04:04:11.232Z
+📅 2026-08-29T18:13:40.845Z
 
 ---
 
