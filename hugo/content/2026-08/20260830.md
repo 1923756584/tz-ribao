@@ -1,19 +1,19 @@
 ---
 title: "2026年8月30日 - TZ日报"
-date: 2026-08-30T01:06:25.079Z
+date: 2026-08-30T18:28:45.237Z
 draft: false
 ---
 
 # 2026年8月30日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/8/30 01:06:25
+> 📊 今日汇总 32 条 · 🕐 2026/8/30 18:28:45
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 8 条
+- **前沿研究**: 2 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -21,15 +21,6 @@ draft: false
 ---
 
 ## ✨ 产品更新
-
-### TechCrunch AI Products
-**[Anthropic和OpenAI正在TechCrunch Disrupt 2026上加入人工智能舞台 ](https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/)**
-
-aI Stage又回到了过去几年由**Google** for Startups介绍的社区中最热门的话题
-
-📅 Thu, 27 Aug 2026 23:16:45 +0000
-
----
 
 ### TechCrunch AI Products
 **[Neocloud Lambda获得$ 10亿债务以购买更多芯片](https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/)**
@@ -46,15 +37,6 @@ Neocloud Lambda筹集了10亿美元的私人债务，用于购买Nvidia AI芯片
 Sandhya Devanathan将担任新职务，负责监督**OpenAI**在东南亚和澳大利亚的一些业务
 
 📅 Fri, 28 Aug 2026 12:21:06 +0000
-
----
-
-### TechCrunch AI Products
-**[思考机器联合创始人Barret Zoph在加入OpenAI之前被赶下台，现在在谷歌工作](https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/)**
-
-他与Mira Murati共同创立了Thinking Machines Lab ，并担任该创业公司的首席技术官，在**OpenAI**短暂任职，现在在谷歌
-
-📅 Thu, 27 Aug 2026 19:52:52 +0000
 
 ---
 
@@ -76,130 +58,81 @@ Sandhya Devanathan将担任新职务，负责监督**OpenAI**在东南亚和澳�
 
 ---
 
-### OpenAI Blog
-**[更好的答案，更广泛的思考：学生从ChatGPT和批判性思维培训中获得什么](https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training)**
+### TechCrunch AI Products
+**[索尼音乐、华纳起诉Anthropic ，指控其“肆无忌惮地窃取知识产权”](https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/)**
 
-一项针对1000多名学生的随机研究考察了Chat**GPT**
+这起最新的诉讼尤其广泛，涉及非法盗版的指控。
 
-📅 Thu, 27 Aug 2026 09:00:00 GMT
-
----
-
-### OpenAI Blog
-**[扩大OpenAI在巴西的业务](https://openai.com/index/expanding-our-presence-in-brazil)**
-
-**OpenAI**正在扩大其在巴西和社区的影响力，以支持AI在全国范围内的采用
-
-📅 Thu, 27 Aug 2026 03:00:00 GMT
+📅 Sat, 29 Aug 2026 18:41:59 +0000
 
 ---
 
-### Google AI Blog
-![在搜索中规划和预订行程的3种新方法](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp)
+### TechCrunch AI Products
+**[英伟达的人工智能优势正在超越GPU](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/)**
 
-**[在搜索中规划和预订行程的3种新方法](https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/)**
+新一代数据中心系统通过更智能的流量控制而不仅仅是更多的处理器周期来提高效率
 
-使用AI模式在**Google**搜索中预订酒店和追踪机票，并查看里程和奖励。
-
-📅 Thu, 27 Aug 2026 16:00:00 +0000
+📅 Sat, 29 Aug 2026 13:00:00 +0000
 
 ---
 
-### DeepMind Blog
-**[Gemini Omni 1.1闪光灯可让您更好地控制构建](https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/)**
+### TechCrunch AI Products
+**[一位人类学研究人员刚刚向我们展示了自我改进的人工智能](https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/)**
 
-**Gemini** Omni 1.1闪光灯可让您更好地控制构建
+给出特定未对齐行为的10个基准，自动化系统能够提高每个基准的性能，而不会降低整体性能
 
-📅 Thu, 27 Aug 2026 16:11:32 +0000
+📅 Fri, 28 Aug 2026 19:30:38 +0000
+
+---
+
+### TechCrunch AI Products
+**[Anthropic首次赢得五角大楼供应链风险标签的法庭胜利](https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/)**
+
+一名联邦法官裁定特朗普政府将**Anthropic**非法贴上供应链风险标签，让这家AI公司取得胜利，因为它在华盛顿的第二次五角大楼诉讼仍在继续
+
+📅 Fri, 28 Aug 2026 12:46:12 +0000
+
+---
+
+### Hugging Face
+**[开放式ASR排行榜增加了其首个全球南方语言](https://huggingface.co/blog/open-asr-leaderboard-global-south)**
+
+开放式ASR排行榜增加了其**首个**全球南方语言
+
+📅 Fri, 28 Aug 2026 00:00:00 GMT
+
+---
+
+### TechCrunch AI Products
+**[马斯克更快地通往更多燃气轮机的道路伴随着污染问题](https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/)**
+
+埃隆·马斯克（ Elon Musk ）表示，一家秘密的新SpaceX铸造厂将允许他铸造自己的涡轮叶片，并比其他任何人都快18个月在线获得燃气动力—但这是一个押注于燃料来源的赌注，这已经在他（和其他人）的涡轮机进入的任何地方引发了诉讼和健康研究
+
+📅 Sun, 30 Aug 2026 16:54:25 +0000
 
 ---
 
 ## 🔬 前沿研究
 
-### ArXiv AI (cs.AI)
-**[利用大型语言模型进行疾病传播模型的系统文献综述](https://arxiv.org/abs/2608.26150)**
+### Science AI
+**[科学家如何揭开西藏和尼泊尔毁灭性洪水的原因](https://www.science.org/content/article/how-scientists-unraveled-cause-devastating-flood-tibet-and-nepal)**
 
-26150v1公告类型：新摘要：大型语言模型(LLM)的最新进展为**GPT**-4简化和潜在自动化许多研究流程创造了新的机会95%
+全球合作揭示了山体滑坡，而不是冰川崩塌，可能引发了一系列事件
 
-📅 Sat, 29 Aug 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[EduRiskX ：早期学术风险预测的神经符号框架与F逻辑推理](https://arxiv.org/abs/2608.26107)**
-
-26107v1公告类型：新摘要：预测学生在在线教育中的学业风险对于实现及时干预以提高保留率和学习成果至关**重要**。F-Logic规则库-基于既定的教育理论（参与理论和学生整合模型） ，以模仿人类教育工作者的诊断逻辑-完全由培训数据构建
-
-📅 Sat, 29 Aug 2026 00:00:00 -0400
+📅 2026-08-28T06:30:00.000Z
 
 ---
 
-### ArXiv AI (cs.AI)
-**[独立的LLM和预先指定的解释ICU死亡率预测的代理管道： eICU演示数据集的可行性研究](https://arxiv.org/abs/2608.26109)**
+### Science AI
+**[为了消灭入侵鱼类，科学家们正在培育“超级雄性”](https://www.science.org/content/article/doom-invasive-fish-scientists-are-breeding-supermales)**
 
-26109v1公告类型：新摘要：机器学习模型可以准确预测ICU死亡率大型语言模型（ LLM ）可以弥合这一差距
+通过生产所有雄性种群，展示了根除异国鳟鱼的技术
 
-📅 Sat, 29 Aug 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[电池预测和健康管理的大型模型：回顾和未来路线图](https://arxiv.org/abs/2608.26111)**
-
-26111v1公告类型：新摘要：电池预后和健康管理（ BPHM ）对于确保安全至关**重要**，包括基于物理的模型和以任务为中心的深度学习方法
-
-📅 Sat, 29 Aug 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[PICasso ：硅光子器件自主优化的人工智能设计框架](https://arxiv.org/abs/2608.26113)**
-
-26113v1公告类型：新摘要：我们呈现PICasso系统评估AI驱动的光子设计
-
-📅 Sat, 29 Aug 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[CIFQA ：基于确定性工具的多代理法学硕士金融查询答案框架](https://arxiv.org/abs/2608.26114)**
-
-26114v1公告类型：新摘要：计算密集型财务问题回答需要对结构化费率进行精确推理，证明建筑设计比模型规模更**重要**的数值可靠性决定因素
-
-📅 Sat, 29 Aug 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[人工实验主义者：通过自主强化学习发现和控制自组织现象](https://arxiv.org/abs/2608.26116)**
-
-26116v1公告类型：新摘要：探索元胞自动机和其他复杂系统的现有方法大多在开环中运行：它们设置初始条件首先， CARL在广泛的Lenia**更新**规则中发现稳定孤子，其速率高于启发式基线
-
-📅 Sat, 29 Aug 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[在设备能量预测中量化净能量损失的精度-效率悖论](https://arxiv.org/abs/2608.26134)**
-
-26134v1公告类型：新摘要：能源预测旨在通过减少能源浪费来最大限度地提高准确性以确保能源效率这源于边缘AI的推断能耗和电池老化
-
-📅 Sat, 29 Aug 2026 00:00:00 -0400
+📅 2026-08-28T02:00:00.000Z
 
 ---
 
 ## 🌍 行业展望
-
-### VentureBeat
-![Visa提供安全人工智能，在任何人工审核之前修补生产代码](https://images.ctfassets.net/jdtwqhzvc2n1/2Qd3YPdmbB6m2oc9gxJFIi/48e956112cccfef51a45907ba39c2840/VISA_VVAH_HERO.png?w=300&q=30)
-
-**[Visa提供安全人工智能，在任何人工审核之前修补生产代码](https://venturebeat.com/security/visa-agentic-security-harness-autonomous-fix)**
-
-其中，该公司将**Claude** Mythos瞄准了数十亿日常交易背后的网络，并观察到模型链中的小弱点进入了工作漏洞，在整体和开放权重模型中**发布**了较新的**GPT**版本，其中定价
-
-📅 Thu, 27 Aug 2026 12:30:00 GMT
-
----
 
 ### VentureBeat
 ![Cohere Parse 5在点上失去基准。它以每页的成本赢得。](https://images.ctfassets.net/jdtwqhzvc2n1/4TjUlY3MRMwpmf1ws6gLXB/37ddd10b337d50ad97e92ba8900cd831/ai-parsing-smk1.jpeg?w=300&q=30)
@@ -232,30 +165,21 @@ Parse 5现已通过Cohere API、Model Vault、Microsoft Foundry和AWS SageMaker�
 
 ---
 
-### MIT Tech Review
-**[下载：在OpenAI的拥抱面部黑客中，一款新的电动汽车迎来了美国](https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/)**
+### Wired Technology
+**[谷歌地图现在显示“美国湖”而不是安大略湖](https://www.wired.com/story/google-maps-now-shows-lake-america-instead-of-lake-ontario/)**
 
-这是今天的The Download版本，我们的工作日通讯，提供每日剂量的技术世界正在发生的事情**OpenAI**代理人入侵Hugging Face的内幕故事负责上个月代理人入侵Hugging Face的模特无意中接受了欺骗和沟通的训练……
+在唐纳德·特朗普（ Donald Trump ）的行政命令要求更名之后，谷歌是第一家改变名称的主要在线地图提供商
 
-📅 Thu, 27 Aug 2026 12:10:00 +0000
+📅 Sun, 30 Aug 2026 16:16:24 +0000
 
 ---
 
-### Wired Technology
-**[英伟达首席执行官Jensen Huang在全体员工中接听了唐纳德·特朗普的电话](https://www.wired.com/story/nvidia-ceo-jensen-huang-took-a-call-from-donald-trump-in-the-middle-of-an-all-hands/)**
+### Ars Technica
+**[Meta推动机器人在数据中心工作](https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/)**
 
-意外中断发生在总统在Truth Social上写了一篇关于公司最新收益报告的祝贺帖子之前的几个小时
+该公司正在测试机器人可以由技术人员执行的任务。
 
-📅 Fri, 28 Aug 2026 22:29:13 +0000
-
----
-
-### Wired Technology
-**[Microsoft Teams已成为中国诈骗者的避风港](https://www.wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers/)**
-
-欺诈者正在利用Teams和Webex等企业聊天应用程序诱骗中国受害者转移大量资金，引发一波投诉
-
-📅 Fri, 28 Aug 2026 18:23:17 +0000
+📅 Sun, 30 Aug 2026 11:03:47 +0000
 
 ---
 
@@ -268,27 +192,47 @@ Parse 5现已通过Cohere API、Model Vault、Microsoft Foundry和AWS SageMaker�
 
 ---
 
-## 📦 GitHub热门
+### Ars Technica
+**[Meta使AI眼镜略微不那么令人毛骨悚然，并限制了未经同意的录制](https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/)**
 
-### GitHub Active (Python)
-![agno ：构建、运行和管理代理平台。](https://avatars.githubusercontent.com/u/104874993?v=4)
+**Meta**修复了AI眼镜，以停止记录用户遮挡安全灯的任何时间。
 
-**[agno ：构建、运行和管理代理平台。](https://github.com/agno-agi/agno)**
-
-⭐ 41,967星· 5838叉·蟒蛇·构建、运行和管理代理平台。
-
-📅 2026-08-30T01:05:17Z
+📅 Fri, 28 Aug 2026 15:42:24 +0000
 
 ---
 
-### GitHub Active (AI/ML)
-![awesome-ml-internships ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
+### The Verge
+![索尼音乐出版公司和华纳查普尔正在起诉Anthropic](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[awesome-ml-internships ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships)**
+**[索尼音乐出版公司和华纳查普尔正在起诉Anthropic](https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright)**
 
-⭐ 451星· 39分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作管道刷新
+索尼音乐出版公司（ Sony Music Publishing ）和华纳·查普尔（ Warner Chappell ）已向美国加利福尼亚州北区地方法院提起诉讼，要求赔偿“成千上万”受版权保护的作品。这只是针对**Anthropic**的最新高调诉讼，该公司最近以1 $的价格解决了出版业提起的诉讼
 
-📅 2026-08-30T01:04:38Z
+📅 2026-08-29T18:19:53.000Z
+
+---
+
+## 📦 GitHub热门
+
+### GitHub New (New AI)
+![🆕 ocp-annual-report-rag: RAG demo:使用LangChain、Chroma和bge-m3嵌入以及LLM-as-judge忠诚度评分对OCP 2025财务报告进行问答。](https://avatars.githubusercontent.com/u/182408897?v=4)
+
+**[🆕 ocp-annual-report-rag: RAG demo:使用LangChain、Chroma和bge-m3嵌入以及LLM-as-judge忠诚度评分对OCP 2025财务报告进行问答。](https://github.com/waddadelmehdi/ocp-annual-report-rag)**
+
+⭐ 16 star (新项目) · Jupyter Notebook · RAG demo: question-answering over the OCP 2025 financial report using LangChainplus LLM-as-judge faithfulness scoring
+
+📅 2026-08-28T05:26:43Z
+
+---
+
+### GitHub New (New AI)
+![🆕 CODSOFT_TASKS_02 ：🖼️人工智能驱动的图像字幕应用程序，使用计算机视觉和NLP概念为图像生成有意义的描述。](https://avatars.githubusercontent.com/u/314565144?v=4)
+
+**[🆕 CODSOFT_TASKS_02 ：🖼️人工智能驱动的图像字幕应用程序，使用计算机视觉和NLP概念为图像生成有意义的描述。](https://github.com/madhumita-pardeshi/CODSOFT_TASKS_02)**
+
+⭐ 2 star (新项目) · TypeScript · 🖼️ AI-powered Image Captioning application that uses Computer Vision and NLP concepts to generate meaningful descriptions for images
+
+📅 2026-08-30T11:17:25Z
 
 ---
 
@@ -316,77 +260,79 @@ Parse 5现已通过Cohere API、Model Vault、Microsoft Foundry和AWS SageMaker�
 
 ## 💬 社交动态
 
-### Reddit: r/artificial
-**[OpenAI计划于11月12日停止向Cursor提供模型](https://www.reddit.com/r/artificial/comments/1w1w7f9/openai_plans_to_stop_supplying_models_to_cursor/)**
+### Hacker News
+**[默认情况下，追加到提交消息和公关描述的Claude会话URL](https://github.com/anthropics/claude-code/issues/66504)**
 
-**OpenAI**表示，它打算逐步减少向Cursor提供模型的合同，建议关闭日期为2026年11月12日路透社报道， **Anthropic**计划增加对Cursor中**Claude**模型的计算支持
+文章网址： https://githubcom/**Anthropic**s/**Claude**-code/issues/66504评论网址： https://**new**s
 
-📅 2026-08-29T19:52:27.000Z
-
----
-
-### Reddit: r/artificial
-![Google Paper通过跟踪状态而不是历史记录，将长时间会话的代理令牌使用量减少了94%](https://preview.redd.it/jsuomguordmh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e3a1838c813f932e962d0b6c81c7d9714e8f5e9e)
-
-**[Google Paper通过跟踪状态而不是历史记录，将长时间会话的代理令牌使用量减少了94%](https://www.reddit.com/r/artificial/comments/1w1ynrf/google_paper_cuts_agent_token_usage_by_94_in_long/)**
-
-因此，输入大小与会话大致相同他们使用**Gemini**-3-Flash运行了100步基准：技能
-
-📅 2026-08-29T21:31:13.000Z
+📅 Sun, 30 Aug 2026 12:50:54 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[如何构建Agentic Graph](https://www.reddit.com/r/artificial/comments/1w1mijt/how_to_build_agentic_graphs/)**
+![OpenAI HuggingFace调查中最疯狂的5个发现](https://external-preview.redd.it/V4hK2M-bcsCbQO7ooRgutjw9VPq8dccUAunKoZGmyIk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8ea3372f2adc258b9b007ddd31d8b088f48f0e53)
 
-它回去审查-架构审查员必须再次检查**更新**的差异**Anthropic**在他们最近的论文中认为这是模型的问题
+**[OpenAI HuggingFace调查中最疯狂的5个发现](https://www.reddit.com/r/artificial/comments/1w2hgc6/the_5_craziest_discoveries_from_openais/)**
 
-📅 2026-08-29T13:24:57.000Z
+提交者：/u/coolbern [link] [comments]
+
+📅 2026-08-30T13:22:38.000Z
+
+---
+
+### Reddit: r/artificial
+![索尼和华纳指责Anthropic训练Claude学习数以万计的盗版作品。模型是否应从头开始重新训练？](https://external-preview.redd.it/UBKa1gNoyvWF-XO54PQZIUEF9L422HVC5gkNZnXn_yE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=adf7ace2adf2d13afffe4096040da05d60925d2d)
+
+**[索尼和华纳指责Anthropic训练Claude学习数以万计的盗版作品。模型是否应从头开始重新训练？](https://www.reddit.com/r/artificial/comments/1w2edm0/sony_and_warner_accuse_anthropic_of_training/)**
+
+索尼音乐出版公司和华纳查普尔声称， **Anthropic**使用大规模洪流，抓取和下载来训练**Claude**Anthropic对这一说法提出异议，并表示它将为自己辩护
+
+📅 2026-08-30T10:51:03.000Z
+
+---
+
+### X: OpenAI
+**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+网址来源： http://twitter.com/**OpenAI**
+
+📅 2026-08-30T18:27:35.805Z
+
+---
+
+### X: DeepSeek
+**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+
+网址来源： http://twitter.com/**DeepSeek**_ai
+
+📅 2026-08-30T18:27:42.392Z
+
+---
+
+### Hacker News
+**[地铁和红杉提供神圣的% ^ Postmortem of the HuggingFace Hack](https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/)**
+
+文章网址： https://thezvicom/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/评论网址： https://**new**s
+
+📅 Sun, 30 Aug 2026 14:06:54 +0000
 
 ---
 
 ### Hacker News AI
-**[Show HN: VibeGuard –人工智能生成代码的安全接口](https://github.com/zeroFhacker/vibeguard)**
+**[Show HN ： Claude Skills入门套件– AI特工的198个模块化技能](https://github.com/yevhens-hue/claude-skills-starter-kit)**
 
-人工智能生成代码的安全界面—捕获Copilot、Cursor和Chat**GPT**出错的内容备注网址： https://**new**s
+文章网址： https://githubcom/yevhens-hue/**Claude**-skills-starter-kit评论网址： https://**new**s
 
-📅 Sat, 29 Aug 2026 23:04:03 +0000
+📅 Sun, 30 Aug 2026 16:39:44 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[人工智能和认知能力](https://www.reddit.com/r/artificial/comments/1w1m34z/ai_and_cognitive_ability/)**
+**[我的经纪人赚了$ 1 ，现在我挑战他们赚$ 10](https://www.reddit.com/r/artificial/comments/1w2jmnu/my_agents_made_1_now_im_challenging_them_to_make/)**
 
-如果不去找克劳德，抛弃一切，然后让他建立联系，我就无法思考。如果不给克劳德一篇文章，让他总结一下，我就无法正确阅读
+给了他们$ 1的代币（他们运行**DeepSeek** ，所以这是相当多的）和一个任务-使$ 1在线支付他们制作的$ 1 ，并给他们另一个$ 5用于下一个实验
 
-📅 2026-08-29T13:06:07.000Z
-
----
-
-### Hacker News
-**[虫盲](https://danluu.com/bug-blind/)**
-
-文章网址： https://danluucom/bug-blind/评论网址： https://**new**s
-
-📅 Sun, 30 Aug 2026 00:21:40 +0000
-
----
-
-### Hacker News
-**[有史以来最高的海洋温度，以强大的厄尔尼诺现象形式测量](https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms)**
-
-文章网址： https://wwwcom/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms评论网址： https://**new**s
-
-📅 Sat, 29 Aug 2026 23:26:44 +0000
-
----
-
-### Hacker News
-**[立法者为汽车保险单增加了$ 1。为Flock相机支付的钱](https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/)**
-
-文章网址： https://wwworg/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/评论网址： https://**new**s
-
-📅 Sat, 29 Aug 2026 23:17:17 +0000
+📅 2026-08-30T14:51:47.000Z
 
 ---
 
