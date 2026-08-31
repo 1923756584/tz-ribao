@@ -1,19 +1,19 @@
 ---
 title: "2026年8月31日 - TZ日报"
-date: 2026-08-31T01:09:10.851Z
+date: 2026-08-31T20:44:10.523Z
 draft: false
 ---
 
 # 2026年8月31日 - TZ日报
 
-> 📊 今日汇总 32 条 · 🕐 2026/8/31 01:09:10
+> 📊 今日汇总 38 条 · 🕐 2026/8/31 20:44:10
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 2 条
+- **前沿研究**: 8 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -23,43 +23,34 @@ draft: false
 ## ✨ 产品更新
 
 ### TechCrunch AI Products
-**[Neocloud Lambda获得$ 10亿债务以购买更多芯片](https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/)**
+**[五角大楼现在有自己的ChatGPT和Grok版本](https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/)**
 
-Neocloud Lambda筹集了10亿美元的私人债务，用于购买Nvidia AI芯片并将其租赁给微软这是一系列贷款中的最新一笔，凸显了AI繁荣的高成本
+**OpenAI**的Chat**GPT**和SpaceXAI的Grok版本将加入谷歌的**Gemini** ，成为五角大楼人工智能工具的中央门户网站
 
-📅 Fri, 28 Aug 2026 20:24:11 +0000
-
----
-
-### TechCrunch AI Products
-**[Meta高管离开OpenAI ，因为这家社交媒体巨头在印度面临越来越多的审查](https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/)**
-
-Sandhya Devanathan将担任新职务，负责监督**OpenAI**在东南亚和澳大利亚的一些业务
-
-📅 Fri, 28 Aug 2026 12:21:06 +0000
+📅 Mon, 31 Aug 2026 20:13:45 +0000
 
 ---
 
 ### OpenAI Blog
-**[在被SpaceX收购后，我们对Cursor的决定](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex)**
+**[扩大人工智能访问权限的里程碑](https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads)**
 
-在Cursor被SpaceX收购后，我们决定放弃向Cursor提供**OpenAI**模型的合同
+Chat**GPT** Ads的年化收入运行率达到10 $ 10亿，并在全球范围内扩展，通过免费且经济实惠的选项支持更广泛的人工智能访问
 
-📅 Fri, 28 Aug 2026 06:00:00 GMT
-
----
-
-### OpenAI Blog
-**[支持泰国的下一代人工智能初创公司](https://openai.com/index/supporting-next-generation-ai-startups-thailand)**
-
-**OpenAI**和泰国MHESI**推出**为期八周的加速器，帮助10家健康和教育初创公司将人工智能原型转化为值得信赖的产品
-
-📅 Fri, 28 Aug 2026 02:00:00 GMT
+📅 Mon, 31 Aug 2026 04:00:00 GMT
 
 ---
 
 ### TechCrunch AI Products
-**[索尼音乐、华纳起诉Anthropic ，指控其“肆无忌惮地窃取知识产权”](https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/)**
+**[英伟达（ Nvidia ） 35亿美元的联发科（ MediaTek ）押注揭示了其应对大型科技公司人工智能芯片建设的计划](https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/)**
+
+50亿美元收购台湾芯片制造商联发科这笔交易表明，随着大型科技公司开始构建自己的人工智能芯片，英伟达计划如何保持对人工智能基础设施的**重要**性
+
+📅 Mon, 31 Aug 2026 15:15:25 +0000
+
+---
+
+### TechCrunch AI Products
+**[索尼音乐，华纳起诉Anthropic ，指控知识产权盗窃的“厚颜无耻的运动”](https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/)**
 
 这起最新的诉讼尤其广泛，涉及非法盗版的指控。
 
@@ -68,29 +59,47 @@ Sandhya Devanathan将担任新职务，负责监督**OpenAI**在东南亚和澳�
 ---
 
 ### TechCrunch AI Products
-**[英伟达的人工智能优势正在超越GPU](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/)**
+**[Instagram对未披露的人工智能配置文件施加了新的限制](https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/)**
 
-新一代数据中心系统通过更智能的流量控制而不仅仅是更多的处理器周期来提高效率
+随着对人工智能影响者的沮丧情绪不断增长， Instagram正在限制未公开的人工智能个人资料的覆盖范围
 
-📅 Sat, 29 Aug 2026 13:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[一位人类学研究人员刚刚向我们展示了自我改进的人工智能](https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/)**
-
-给出特定未对齐行为的10个基准，自动化系统能够提高每个基准的性能，而不会降低整体性能
-
-📅 Fri, 28 Aug 2026 19:30:38 +0000
+📅 Mon, 31 Aug 2026 19:16:59 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[Anthropic首次赢得五角大楼供应链风险标签的法庭胜利](https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/)**
+**[哈佛法学院辍学者为蓝色之声筹集了600万$ ，以建立“警察哈维”](https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/)**
 
-一名联邦法官裁定特朗普政府将**Anthropic**非法贴上供应链风险标签，让这家AI公司取得胜利，因为它在华盛顿的第二次五角大楼诉讼仍在继续
+Blue Voice接受了有关部门特定法律和通用人工智能工具无法在公共互联网上访问的指导方针的培训
 
-📅 Fri, 28 Aug 2026 12:46:12 +0000
+📅 Mon, 31 Aug 2026 18:35:11 +0000
+
+---
+
+### TechCrunch AI Products
+**[Clipto使用人工智能搜索TB级视频，目前价值2.5亿美元（ $ ）](https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/)**
+
+这家成立三年的初创公司表示，它在ARR和盈利能力方面达到了$ 1500万，然后筹集了最新的$ 1500万
+
+📅 Mon, 31 Aug 2026 16:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[会议记录员Circleback添加了免费会员等级，以吸引更多顾客](https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/)**
+
+Circleback还**推出**了新的定价计划，每月起价为$ 14。
+
+📅 Mon, 31 Aug 2026 12:56:46 +0000
+
+---
+
+### TechCrunch AI Products
+**[美国正在围绕无人机和机器人建造壁垒，但中国有足够的规模来绕过它们](https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/)**
+
+正在关闭更多外国制造的无人机和机器人中国的规模意味着全球竞争可能会转移到其他地方
+
+📅 Mon, 31 Aug 2026 02:34:00 +0000
 
 ---
 
@@ -103,65 +112,110 @@ Sandhya Devanathan将担任新职务，负责监督**OpenAI**在东南亚和澳�
 
 ---
 
-### TechCrunch AI Products
-**[卡特彼勒正在将从自动化挖矿中学到的知识引入人工智能部署](https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/)**
-
-卡特彼勒花费了数十年的时间，将自主机器用于远程采矿现场。现在， Caterpillar将这种体验应用于人工智能
-
-📅 Sun, 30 Aug 2026 15:00:00 +0000
-
----
-
 ## 🔬 前沿研究
 
-### Science AI
-**[科学家如何揭开西藏和尼泊尔毁灭性洪水的原因](https://www.science.org/content/article/how-scientists-unraveled-cause-devastating-flood-tibet-and-nepal)**
+### ArXiv Natural Language Processing (cs.CL)
+**[情感语境对大型语言模型认可过早决策的影响：六种商业模式的情感脆弱性比较](https://arxiv.org/abs/2608.27465)**
 
-全球合作揭示了山体滑坡，而不是冰川崩塌，可能引发了一系列事件
+27465v1公告类型：新摘要：随着大型语言模型（ LLM ）越来越多地用于日常决策建议我们展示了六种商业模型（ **OpenAI**的顶级和中级模型）
 
-📅 2026-08-28T06:30:00.000Z
+📅 Mon, 31 Aug 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[SciReC ：具有自适应相互作用的多模态、多回合关系推理的诊断评估](https://arxiv.org/abs/2608.27461)**
+
+6在总体关系得分上表现最好，为73\ % ，其次是**GPT** 5跨域，模型性能在天文学上最低，心理学上最高
+
+📅 Mon, 31 Aug 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[大锤还是手术刀？隐性仇恨言论的精细自适应框架](https://arxiv.org/abs/2608.27462)**
+
+27462v1公告类型：新摘要：与具有明显亵渎的显式攻击不同这忽略了细粒度的语言细微差别，并导致在更简单的情况下进行不必要的计算
+
+📅 Mon, 31 Aug 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[PACE ：通过Agentic Automation进行发布者自适应内容提取](https://arxiv.org/abs/2608.27466)**
+
+27466v1公告类型：新摘要： Web内容提取对于可靠的LLM数据管道至关**重要**在培训期间， PACE使用LLM分析页面结构并聚合可重用的提取模式
+
+📅 Mon, 31 Aug 2026 00:00:00 -0400
+
+---
+
+### ArXiv Robotics (cs.RO)
+**[PHR-VLA ：视觉-语言-行动模型的规划视野推理](https://arxiv.org/abs/2608.27609)**
+
+27609v1公告类型：新摘要：视觉-语言-动作模型（ VLA ）通过将语言指令和视觉观察直接映射到对细粒度尤为**重要**的动作，显示出通用机器人操作的强大前景
+
+📅 Mon, 31 Aug 2026 00:00:00 -0400
+
+---
+
+### ArXiv Multiagent (cs.MA)
+**[CareGraph ：基于证据的个性化纵向健康智能的可审计混合人工智能框架](https://arxiv.org/abs/2608.27484)**
+
+约束语言模型合成与单片**GPT** 5
+
+📅 Mon, 31 Aug 2026 00:00:00 -0400
+
+---
+
+### ArXiv Multiagent (cs.MA)
+**[FedEHR-Agents ：用于自动化EHR建模的联合代理优化](https://arxiv.org/abs/2608.27856)**
+
+27856v1公告类型： CROSS摘要：大型语言模型的最新进展使自主临床代理能够执行日益复杂的电子健康记录（ EHR ）建模工作流程现有方法仍然主要以模型为中心
+
+📅 Mon, 31 Aug 2026 00:00:00 -0400
 
 ---
 
 ### Science AI
-**[为了消灭入侵鱼类，科学家们正在培育“超级雄性”](https://www.science.org/content/article/doom-invasive-fish-scientists-are-breeding-supermales)**
+**[Meta在社交媒体成瘾案件中的解决办法是否对研究有利？](https://www.science.org/content/article/will-meta-s-settlement-social-media-addiction-case-be-boon-research)**
 
-通过生产所有雄性种群，展示了根除异国鳟鱼的技术
+如果公司同意分享其数据，一个新的基金会可以帮助科学家评估新安全措施的影响
 
-📅 2026-08-28T02:00:00.000Z
+📅 2026-08-31T12:45:00.000Z
 
 ---
 
 ## 🌍 行业展望
 
-### VentureBeat
-![Cohere Parse 5在点上失去基准。它以每页的成本赢得。](https://images.ctfassets.net/jdtwqhzvc2n1/4TjUlY3MRMwpmf1ws6gLXB/37ddd10b337d50ad97e92ba8900cd831/ai-parsing-smk1.jpeg?w=300&q=30)
+### The Verge
+![纽约州州长凯西·霍丘尔（ Kathy Hochul ）认为人工智能应该“减少邪恶”](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_Hochul.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[Cohere Parse 5在点上失去基准。它以每页的成本赢得。](https://venturebeat.com/data/cohere-parse-5-loses-the-benchmark-on-points-it-wins-on-cost-per-page)**
+**[纽约州州长凯西·霍丘尔（ Kathy Hochul ）认为人工智能应该“减少邪恶”](https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras)**
 
-Parse 5现已通过Cohere API、Model Vault、Microsoft Foundry和AWS SageMaker通用前沿模型**GPT**-5正式**推出**
+我可能会向**Claude**或Chat**GPT**询问一些建议十亿人使用过Chat**GPT**
 
-📅 Fri, 28 Aug 2026 15:30:05 GMT
-
----
-
-### VentureBeat
-![Meta研究人员教授了与Claude Opus 4.5相匹配的8B AI模型—没有前沿价格标签](https://images.ctfassets.net/jdtwqhzvc2n1/74qlOTYyXbU8te5ugdb5DX/f6696a755ed1db9f3a43cdb5ec9219c8/AI_harness.jpg?w=300&q=30)
-
-**[Meta研究人员教授了与Claude Opus 4.5相匹配的8B AI模型—没有前沿价格标签](https://venturebeat.com/orchestration/meta-researchers-taught-an-8b-ai-model-to-match-claude-opus-4-5-without-the-frontier-price-tag)**
-
-该团队将训练有素的8B模型与三种大型前沿模型（ **Claude** Opus 41和**GPT**-5 ）、使用静态工具（如ReAct、ExpeL和ReasoningBank ）的冷冻代理框架以及先进的可培训方法（例如
-
-📅 Fri, 28 Aug 2026 16:33:16 GMT
+📅 2026-08-31T14:00:00.000Z
 
 ---
 
 ### ZDNet AI
-**[Google Pixel 11的一周改变了我对双子座的看法（变得更好）](https://www.zdnet.com/article/google-pixel-11-review/)**
+**[Gemini笔记本现在可以分析您的Google Play图书：我使用此功能的3种方式](https://www.zdnet.com/article/gemini-ai-notebook-google-play-books-feature/)**
 
-在迭代**升级**的一年中，谷歌**推出**了智能功能，使基础Pixel在其一代中脱颖而出
+导入受支持的**Google** Play图书， **Gemini** Notebook将使用它作为生成报告、测验、播客等的信息来源
 
-📅 Sat, 29 Aug 2026 13:00:44 GMT
+📅 Mon, 31 Aug 2026 17:58:01 GMT
+
+---
+
+### The Verge
+![ChatGPT将面临欧盟更严格的监管](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[ChatGPT将面临欧盟更严格的监管](https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa)**
+
+**OpenAI**很快将与Chat**GPT**一起负责降低与Chat**GPT**对未成年人的影响相关的风险
+
+📅 2026-08-31T13:27:36.000Z
 
 ---
 
@@ -175,66 +229,51 @@ Parse 5现已通过Cohere API、Model Vault、Microsoft Foundry和AWS SageMaker�
 ---
 
 ### Ars Technica
-**[Meta推动机器人在数据中心工作](https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/)**
+**[“Zlibrary my beloved” ： Anthropic员工聊天颂扬索尼诉讼中引用的盗版行为](https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/)**
 
-该公司正在测试机器人可以由技术人员执行的任务。
+诉讼： **Anthropic**的洪流完全搞砸了词曲作者，因为人工智能歌曲排行榜名列前茅。
 
-📅 Sun, 30 Aug 2026 11:03:47 +0000
+📅 Mon, 31 Aug 2026 18:10:45 +0000
 
 ---
 
 ### Ars Technica
-**[特朗普将“醒来”的人类列入黑名单被联邦法官视为非法](https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/)**
+**[谷歌地图比美国政府更快地将“安大略湖”更名为“美国湖”](https://arstechnica.com/gadgets/2026/08/google-maps-renames-lake-ontario-to-lake-america-even-faster-than-us-government/)**
 
-人类拒绝支持致命的自主战争和大规模监视。
+谷歌周六**推出**了美国湖泊变化，而美国政府的官方地图仍在等待
 
-📅 Fri, 28 Aug 2026 18:07:55 +0000
-
----
-
-### The Verge
-![索尼音乐出版公司和华纳查普尔正在起诉Anthropic](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[索尼音乐出版公司和华纳查普尔正在起诉Anthropic](https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright)**
-
-索尼音乐出版公司（ Sony Music Publishing ）和华纳·查普尔（ Warner Chappell ）已向美国加利福尼亚州北区地方法院提起诉讼，要求赔偿“成千上万”受版权保护的作品。这只是针对**Anthropic**的最新高调诉讼，该公司最近以1 $的价格解决了出版业提起的诉讼
-
-📅 2026-08-29T18:19:53.000Z
+📅 Mon, 31 Aug 2026 15:33:32 +0000
 
 ---
 
-### VentureBeat
-![人工智能代理在需要网关之前需要自己的身份](https://images.ctfassets.net/jdtwqhzvc2n1/1Lf9hptifgqfEV5M6ZXX6x/9bb7f882642a50751e136e41ca6fab39/u7277289442_A_modern_interpretation_of_cybersecurity._Lock._D_d39586ee-f8be-4f5d-b76a-e953fd9cebdb_0.png?w=300&q=30)
+### Ars Technica
+**[ChatGPT和Reddit现在面临欧盟最严厉的在线安全规则](https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/)**
 
-**[人工智能代理在需要网关之前需要自己的身份](https://venturebeat.com/security/ai-agents-need-their-own-identity-before-they-need-a-gateway)**
+欧盟的爆炸性增长带来了新的监管负担。
 
-企业人工智能已进入新时代实际的第一步包括清点人工智能代理及其功能
+📅 Mon, 31 Aug 2026 13:41:40 +0000
 
-📅 Sun, 30 Aug 2026 23:00:00 GMT
+---
+
+### Ars Technica
+**[Pocket的人工智能让我的游戏创意变得真实。现在， Meta控制结果。](https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/)**
+
+交互式移动“小工具”很容易制作，很难在**Meta**的平台之外共享。
+
+📅 Mon, 31 Aug 2026 10:00:34 +0000
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (Python)
-![InvenTree ：开源库存管理系统](https://avatars.githubusercontent.com/u/26612639?v=4)
+![posthog:: hedgehog: PostHog是构建自动驾驶产品的领先平台。我们的开发人员工具--人工智能可观测性、分析、会话重播、标记、实验、错误跟踪、日志等--捕获代理诊断问题、发现机会和发布修复所需的所有上下文。从Slack、网络、桌面或MCP引导一切。](https://avatars.githubusercontent.com/u/60330232?v=4)
 
-**[InvenTree ：开源库存管理系统](https://github.com/inventree/InvenTree)**
+**[posthog:: hedgehog: PostHog是构建自动驾驶产品的领先平台。我们的开发人员工具--人工智能可观测性、分析、会话重播、标记、实验、错误跟踪、日志等--捕获代理诊断问题、发现机会和发布修复所需的所有上下文。从Slack、网络、桌面或MCP引导一切。](https://github.com/PostHog/posthog)**
 
-⭐ 7475星· 1539叉· Python ·**开源**库存管理系统
+我们的开发人员工具– AI observability从Slack、Web、桌面或MCP引导所有内容
 
-📅 2026-08-31T01:07:46Z
-
----
-
-### GitHub Active (AI/ML)
-![ai-engineering-from-scratch-zh: Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 + 动画讲解视频 · 如何成为 AI Agent 工程师的修成指南](https://avatars.githubusercontent.com/u/135568692?v=4)
-
-**[ai-engineering-from-scratch-zh: Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 + 动画讲解视频 · 如何成为 AI Agent 工程师的修成指南](https://github.com/fancyboi999/ai-engineering-from-scratch-zh)**
-
-⭐ 1,005 star · 159 fork · Python · Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 + 动画讲解视频 · 如何成为 AI Agent 工程师的修成指南
-
-📅 2026-08-31T01:07:53Z
+📅 2026-08-31T20:43:06Z
 
 ---
 
@@ -245,7 +284,7 @@ Parse 5现已通过Cohere API、Model Vault、Microsoft Foundry和AWS SageMaker�
 
 ⭐ 451星· 39分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作管道刷新
 
-📅 2026-08-31T01:05:33Z
+📅 2026-08-31T20:42:55Z
 
 ---
 
@@ -260,81 +299,88 @@ Parse 5现已通过Cohere API、Model Vault、Microsoft Foundry和AWS SageMaker�
 
 ---
 
+### GitHub New (New AI)
+![🆕 ThermoMind ：一个人工智能驱动的城市热智能平台，将FortyGuard气候遥测转化为圣安东尼奥的可行缓解策略，具有5层后端、双模式映射、人工智能规划副驾驶和自动PDF报告](https://avatars.githubusercontent.com/u/204192568?v=4)
+
+**[🆕 ThermoMind ：一个人工智能驱动的城市热智能平台，将FortyGuard气候遥测转化为圣安东尼奥的可行缓解策略，具有5层后端、双模式映射、人工智能规划副驾驶和自动PDF报告](https://github.com/mshakeelrasheed/ThermoMind)**
+
+⭐ 2 star (新项目) · Python · An AI-powered urban heat intelligence platform transforming FortyGuard climate telemetry into actionable mitigation strategies for San Antonioan AI planning copilot
+
+📅 2026-08-30T13:08:17Z
+
+---
+
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-![OpenAI HuggingFace调查中最疯狂的5个发现](https://external-preview.redd.it/V4hK2M-bcsCbQO7ooRgutjw9VPq8dccUAunKoZGmyIk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8ea3372f2adc258b9b007ddd31d8b088f48f0e53)
+**[英伟达刚刚买下了大多数人工智能模型的所在地。ChatGPT开始在欧洲展示广告。公司之所以取消软件合同，是因为人工智能的构建成本更低。选择一个你最担心的。](https://www.reddit.com/r/artificial/comments/1w3mmfh/nvidia_just_bought_the_place_where_most_ai_models/)**
 
-**[OpenAI HuggingFace调查中最疯狂的5个发现](https://www.reddit.com/r/artificial/comments/1w2hgc6/the_5_craziest_discoveries_from_openais/)**
+与此同时， Chat**GPT**上周日在31个欧洲国家/地区**推出**了广告**OpenAI**表示，这些广告不会影响答案
 
-提交者：/u/coolbern [link] [comments]
+📅 2026-08-31T18:35:53.000Z
 
-📅 2026-08-30T13:22:38.000Z
+---
+
+### X: OpenAI
+**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+网址来源： http://twitter.com/**OpenAI**
+
+📅 2026-08-31T20:42:43.096Z
+
+---
+
+### X: DeepSeek
+**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+
+网址来源： http://twitter.com/**DeepSeek**_ai
+
+📅 2026-08-31T20:42:50.646Z
+
+---
+
+### Hacker News
+**[推出HN ： Hebbian Robotics (YC S26) –构建可扩展的机器人数据管道](https://github.com/Hebbian-Robotics/hflow)**
+
+Brandon在为双臂工业清洁机器人训练具体的人工智能模型时**首次**遇到这种情况我们很好奇我们的数据模型在哪里出错，缺少哪些集成，以及在您的工作负载上首先失败的是什么
+
+📅 Mon, 31 Aug 2026 15:02:41 +0000
+
+---
+
+### Hacker News AI
+**[Show HN: Kiso –为人类和人工智能代理发布一个OKF知识库](https://github.com/oak-invest/kiso)**
+
+它创建静态网站，因此您可以像我使用**Google** Acme一样将其**发布**到Github页面上，例如： https://oak-investComments URL: https://**new**s
+
+📅 Mon, 31 Aug 2026 19:28:16 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[我的经纪人赚了$ 1 ，现在我挑战他们赚$ 10](https://www.reddit.com/r/artificial/comments/1w2jmnu/my_agents_made_1_now_im_challenging_them_to_make/)**
+**[哪种人工智能最适合编码，并允许您在不达到极限的情况下使用更长时间？](https://www.reddit.com/r/artificial/comments/1w3ipge/which_ai_is_best_for_coding_and_lets_you_use_it/)**
 
-给了他们$ 1的代币（他们运行**DeepSeek** ，所以这是相当多的）和一个任务-使$ 1在线支付他们制作的$ 1 ，并给他们另一个$ 5用于下一个实验
+我目前正在为**Claude**付费，并使用它来帮助我在MacroDroid中创建一些相当复杂的模板问题是，我不断达到**Claude**的使用限制，然后我被告知我必须等待大约三个小时才能继续
 
-📅 2026-08-30T14:51:47.000Z
+📅 2026-08-31T16:23:30.000Z
 
 ---
 
 ### Reddit: r/artificial
-![我对小模型进行了内存准确性测试，以下是我发现的](https://preview.redd.it/hufyf8czmimh1.png?width=140&amp;height=65&amp;auto=webp&amp;s=1b201e16e1dd513ccb8707e02b30bd19fef78aef)
+**[我有AI疲劳](https://www.reddit.com/r/artificial/comments/1w3g5c4/i_have_ai_fatigue/)**
 
-**[我对小模型进行了内存准确性测试，以下是我发现的](https://www.reddit.com/r/artificial/comments/1w2hv5b/i_ran_memory_accuracy_tests_on_small_models_heres/)**
+家人每个人都不断告诉我关于A如何聊天jipiti比这家伙克劳德
 
-因为较大的模型在不确定时不会让人产生幻觉；他们只是拒绝这比像**GPT**-4o这样的前沿模型小大约17倍， **GPT**-4o本身得分约为60 ％ ，根本没有记忆层
-
-📅 2026-08-30T13:40:13.000Z
+📅 2026-08-31T14:54:07.000Z
 
 ---
 
-### Hacker News
-**[“我只是小心翼翼地选择词语”](https://unsung.aresluna.org/i-just-chose-words-carefully/)**
+### Reddit: r/artificial
+**[索尼和华纳刚刚就Anthropic已经承认的盗版行为起诉了Anthropic ，并支付了15亿美元](https://www.reddit.com/r/artificial/comments/1w3ex16/sony_and_warner_just_sued_anthropic_for_the_exact/)**
 
-文章网址： https://unsungorg/i-just-chose-words-carefully/评论网址： https://**new**s
+索尼音乐出版公司和华纳查普尔于8月28日对**Anthropic**、Dario Amodei和联合创始人Benjamin Mann提起诉讼。一名联邦法官裁定，在受版权保护的文本上训练人工智能模型是合法的
 
-📅 Sun, 30 Aug 2026 22:49:48 +0000
-
----
-
-### Hacker News
-**[连续扩散语言模型（ CDLM ）](https://sander.ai/2026/08/24/continuous-dlms.html)**
-
-ai/2026/08/24/continuous-dlmshtml评论网址： https://**new**s
-
-📅 Sun, 30 Aug 2026 20:46:53 +0000
-
----
-
-### Hacker News
-**[太空中的内核： 1980年Spacelab计算机的核心内存模块](https://www.righto.com/2026/08/spacelab-core-memory.html)**
-
-文章网址： https://wwwhtml评论网址： https://**new**s
-
-📅 Sun, 30 Aug 2026 20:00:25 +0000
-
----
-
-### Hacker News
-**[为何选择开源ROCKS –全新SM750 （ Silicon Motion GPU ） HDMI驱动程序](https://github.com/KodeMunkie/sm750hdmifb)**
-
-文章网址： https://githubcom/KodeMunkie/sm750hdmifb评论网址： https://**new**s
-
-📅 Sun, 30 Aug 2026 18:49:08 +0000
-
----
-
-### Hacker News
-**[Artie (YC S23)正在招聘技术AES](https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1)**
-
-文章网址： https://wwwashby_jid = e87b84d2-78b3-41a3-937a-47e83643cdf1评论网址： https://**new**s
-
-📅 Sun, 30 Aug 2026 17:01:56 +0000
+📅 2026-08-31T14:09:25.000Z
 
 ---
 
