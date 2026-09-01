@@ -1,12 +1,12 @@
 ---
 title: "2026年9月1日 - TZ日报"
-date: 2026-09-01T01:42:15.656Z
+date: 2026-09-01T18:13:27.007Z
 draft: false
 ---
 
 # 2026年9月1日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/9/1 01:42:15
+> 📊 今日汇总 38 条 · 🕐 2026/9/1 18:13:27
 
 ---
 
@@ -40,12 +40,68 @@ Polimill使用**OpenAI** **GPT**模型和Codex来帮助市政当局搜索和使�
 
 ---
 
+### TechCrunch AI Products
+**[ChatGPT Health为临床医生添加了Epic集成，以导入患者数据](https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/)**
+
+**OpenAI**表示，该集成为临床医生提供了对健康记录的只读访问权限。
+
+📅 Tue, 01 Sep 2026 17:00:00 +0000
+
+---
+
+### OpenAI Blog
+**[医疗机构现在可以将EHR和其他行业数据连接到ChatGPT](https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources)**
+
+Chat**GPT**现在可以连接到可信赖的医疗保健数据，帮助临床医生安全地访问患者环境、医学研究等
+
+📅 Tue, 01 Sep 2026 12:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[OpenAI支持加州推进青少年人工智能安全的法案](https://openai.com/index/supporting-california-bill-advance-ai-youth-safety)**
+
+**OpenAI**支持加州SB 1119为青少年提供适合年龄的人工智能保障措施，同时保留学习机会
+
+📅 Mon, 31 Aug 2026 07:00:00 GMT
+
+---
+
 ### OpenAI Blog
 **[扩大人工智能访问权限的里程碑](https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads)**
 
 Chat**GPT** Ads的年化收入运行率达到10 $ 10亿，并在全球范围内扩展，通过免费且经济实惠的选项支持更广泛的人工智能访问
 
 📅 Mon, 31 Aug 2026 04:00:00 GMT
+
+---
+
+### Google AI Blog
+![试用Google图片：在Google Workspace中轻松创建和编辑图像](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp)
+
+**[试用Google图片：在Google Workspace中轻松创建和编辑图像](https://blog.google/products-and-platforms/products/workspace/google-pics/)**
+
+基于我们最新的Nano Banana模型，我们的图像创建和编辑工具**Google** Pics现已**推出**
+
+📅 Tue, 01 Sep 2026 16:00:00 +0000
+
+---
+
+### DeepMind Blog
+**[通过Gemini介绍代理视频理解](https://deepmind.google/blog/introducing-agentic-video-in-gemini/)**
+
+通过**Gemini**介绍代理视频理解
+
+📅 Tue, 01 Sep 2026 17:08:51 +0000
+
+---
+
+### TechCrunch AI Products
+**[谷歌对Canva的回答是一种人工智能工具，您可以在其中提示而不是设计](https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/)**
+
+借助**Google** Pics ， **Google**正在深入进军由Canva和Adobe主导的创意软件市场，但采用了明显的人工智能优先方法
+
+📅 Tue, 01 Sep 2026 17:35:37 +0000
 
 ---
 
@@ -58,122 +114,59 @@ Chat**GPT** Ads的年化收入运行率达到10 $ 10亿，并在全球范围内�
 
 ---
 
-### TechCrunch AI Products
-**[英伟达（ Nvidia ） 35亿美元的联发科（ MediaTek ）押注揭示了其应对大型科技公司人工智能芯片建设的计划](https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/)**
-
-50亿美元收购台湾芯片制造商联发科这笔交易表明，随着大型科技公司开始构建自己的人工智能芯片，英伟达计划如何保持对人工智能基础设施的**重要**性
-
-📅 Mon, 31 Aug 2026 15:15:25 +0000
-
----
-
-### TechCrunch AI Products
-**[Instagram对未披露的人工智能配置文件施加了新的限制](https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/)**
-
-随着对人工智能影响者的沮丧情绪不断增长， Instagram正在限制未公开的人工智能个人资料的覆盖范围
-
-📅 Mon, 31 Aug 2026 19:16:59 +0000
-
----
-
-### TechCrunch AI Products
-**[哈佛法学院辍学者为蓝色之声筹集了600万$ ，以建立“警察哈维”](https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/)**
-
-Blue Voice接受了有关部门特定法律和通用人工智能工具无法在公共互联网上访问的指导方针的培训
-
-📅 Mon, 31 Aug 2026 18:35:11 +0000
-
----
-
-### TechCrunch AI Products
-**[Clipto使用人工智能搜索TB级视频，目前价值2.5亿美元（ $ ）](https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/)**
-
-这家成立三年的初创公司表示，它在ARR和盈利能力方面达到了$ 1500万，然后筹集了最新的$ 1500万
-
-📅 Mon, 31 Aug 2026 16:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[会议记录员Circleback添加了免费会员等级，以吸引更多顾客](https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/)**
-
-Circleback还**推出**了新的定价计划，每月起价为$ 14。
-
-📅 Mon, 31 Aug 2026 12:56:46 +0000
-
----
-
-### TechCrunch AI Products
-**[美国正在围绕无人机和机器人建造壁垒，但中国有足够的规模来绕过它们](https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/)**
-
-正在关闭更多外国制造的无人机和机器人中国的规模意味着全球竞争可能会转移到其他地方
-
-📅 Mon, 31 Aug 2026 02:34:00 +0000
-
----
-
 ## 🔬 前沿研究
 
-### ArXiv Natural Language Processing (cs.CL)
-**[情感语境对大型语言模型认可过早决策的影响：六种商业模式的情感脆弱性比较](https://arxiv.org/abs/2608.27465)**
+### ArXiv AI (cs.AI)
+**[符合指南和特定病例的肿瘤学决策的前沿大型语言模型中的集体能力边界](https://arxiv.org/abs/2608.28592)**
 
-27465v1公告类型：新摘要：随着大型语言模型（ LLM ）越来越多地用于日常决策建议我们展示了六种商业模型（ **OpenAI**的顶级和中级模型）
+28592v1公告类型：新摘要：大型语言模型（ LLM ）在医学知识考试中获得高分两种模型（ **GPT**-5 ）
 
-📅 Mon, 31 Aug 2026 00:00:00 -0400
+📅 Tue, 01 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[论文试点：应用科学中循证科学手稿生成的人工循环专家系统](https://arxiv.org/abs/2608.28596)**
+
+28596v1公告类型：新摘要：大型语言模型（ LLM ）代理越来越多地嵌入到用于文献分析的科学工作流程中，需要报告数字和解释才能追溯到已批准的证据；其系统提示已公开**发布**，以便在Chat**GPT**中部署
+
+📅 Tue, 01 Sep 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Natural Language Processing (cs.CL)
-**[SciReC ：具有自适应相互作用的多模态、多回合关系推理的诊断评估](https://arxiv.org/abs/2608.27461)**
+**[Gurukul AI ：印度教育系统的交互式AI驱动教育平台](https://arxiv.org/abs/2608.28611)**
 
-6在总体关系得分上表现最好，为73\ % ，其次是**GPT** 5跨域，模型性能在天文学上最低，心理学上最高
+28611v1公告类型：新摘要： Chat**GPT**和LLaMA等大型语言模型(LLM)的最新进展改变了人工智能驱动的教育。代码可在https://github上找到
 
-📅 Mon, 31 Aug 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[大锤还是手术刀？隐性仇恨言论的精细自适应框架](https://arxiv.org/abs/2608.27462)**
-
-27462v1公告类型：新摘要：与具有明显亵渎的显式攻击不同这忽略了细粒度的语言细微差别，并导致在更简单的情况下进行不必要的计算
-
-📅 Mon, 31 Aug 2026 00:00:00 -0400
+📅 Tue, 01 Sep 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Natural Language Processing (cs.CL)
-**[PACE ：通过Agentic Automation进行发布者自适应内容提取](https://arxiv.org/abs/2608.27466)**
+### ArXiv AI (cs.AI)
+**[Agentic AI功能与在线调查中的数据质量控制之间的竞争](https://arxiv.org/abs/2608.28597)**
 
-27466v1公告类型：新摘要： Web内容提取对于可靠的LLM数据管道至关**重要**在培训期间， PACE使用LLM分析页面结构并聚合可重用的提取模式
+28597v1公告类型：新摘要：在线调查是各种领域的基础数据收集工具智能AI （由大型语言模型（ LLM ）大脑和/或具有工具增强功能的多模态处理单元驱动的目标导向系统）的快速出现对这些保障措施的稳健性提出了新的问题
 
-📅 Mon, 31 Aug 2026 00:00:00 -0400
+📅 Tue, 01 Sep 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Robotics (cs.RO)
-**[PHR-VLA ：视觉-语言-行动模型的规划视野推理](https://arxiv.org/abs/2608.27609)**
+### ArXiv Machine Learning (cs.LG)
+**[HALT矢量：内化因果转向干预以进行有效推理](https://arxiv.org/abs/2608.28859)**
 
-27609v1公告类型：新摘要：视觉-语言-动作模型（ VLA ）通过将语言指令和视觉观察直接映射到对细粒度尤为**重要**的动作，显示出通用机器人操作的强大前景
+28859v1公告类型：新摘要：推理模型知道答案时不会停止在**DeepSeek**-R1-Distill-Qwen-7B上，思维链的运行时间大约是模型自身答案概率结算时间的两倍
 
-📅 Mon, 31 Aug 2026 00:00:00 -0400
+📅 Tue, 01 Sep 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Multiagent (cs.MA)
-**[CareGraph ：基于证据的个性化纵向健康智能的可审计混合人工智能框架](https://arxiv.org/abs/2608.27484)**
+**[自主云MLOps的前向部署全栈工程](https://arxiv.org/abs/2608.29615)**
 
-约束语言模型合成与单片**GPT** 5
+29615v1公告类型：新摘要：跨行业我们在**Google** Cloud Platform上实现框架并评估存储库的完整性
 
-📅 Mon, 31 Aug 2026 00:00:00 -0400
-
----
-
-### ArXiv Multiagent (cs.MA)
-**[FedEHR-Agents ：用于自动化EHR建模的联合代理优化](https://arxiv.org/abs/2608.27856)**
-
-27856v1公告类型： CROSS摘要：大型语言模型的最新进展使自主临床代理能够执行日益复杂的电子健康记录（ EHR ）建模工作流程现有方法仍然主要以模型为中心
-
-📅 Mon, 31 Aug 2026 00:00:00 -0400
+📅 Tue, 01 Sep 2026 00:00:00 -0400
 
 ---
 
@@ -186,23 +179,85 @@ Circleback还**推出**了新的定价计划，每月起价为$ 14。
 
 ---
 
+### MIT Tech Research
+**[Hugging Face黑客攻击可能表明OpenAI存在文化问题](https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/)**
+
+这个故事最初出现在我们的AIB每周通讯《算法》上。现在，您可能已经听说了上个月发生的**重大**人工智能安全事件
+
+📅 Mon, 31 Aug 2026 18:00:00 +0000
+
+---
+
 ## 🌍 行业展望
 
-### ZDNet AI
-**[Gemini笔记本现在可以分析您的Google Play图书：我使用此功能的3种方式](https://www.zdnet.com/article/gemini-ai-notebook-google-play-books-feature/)**
+### VentureBeat
+![OpenClaw 2.0来了，迎来了“多人” AI编码时代：对企业意味着什么](https://images.ctfassets.net/jdtwqhzvc2n1/5b6Yc3MtilCHZByZlSPAAU/ccd8c5adf4d86701c0572337f4aa06ca/ChatGPT_Image_Aug_31__2026__10_41_38_PM.png?w=300&q=30)
 
-导入受支持的**Google** Play图书， **Gemini** Notebook将使用它作为生成报告、测验、播客等的信息来源
+**[OpenClaw 2.0来了，迎来了“多人” AI编码时代：对企业意味着什么](https://venturebeat.com/technology/openclaw-2-0-is-here-what-it-means-for-enterprises)**
 
-📅 Mon, 31 Aug 2026 17:58:01 GMT
+该设计故意使OpenClaw更接近员工从**OpenAI**的Chat**GPT**Google的**Gemini**和其他对话式AI产品中了解的交互模型
+
+📅 Tue, 01 Sep 2026 03:26:53 GMT
+
+---
+
+### The Verge
+![Google Find Hub将很快帮助您在没有跟踪器的情况下定位事物](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/findhub.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[Google Find Hub将很快帮助您在没有跟踪器的情况下定位事物](https://www.theverge.com/tech/987339/google-september-android-drop-motion-assist-gemini-find-hub)**
+
+谷歌宣布，作为本月功能下载**更新**的一部分， Android设备将**推出**新功能Find Hub**更新**将引入一种新的方式来查找**重要**项目，而无需附加跟踪器
+
+📅 2026-09-01T18:00:00.000Z
+
+---
+
+### The Verge
+![Google Pics类似于Canva ，但具有更多的人工智能](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Google-Pics-rollout-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[Google Pics类似于Canva ，但具有更多的人工智能](https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator)**
+
+|图片： **Google**为Workspace用户提供了一套新的创意设计工具，称为**Google** Pics围绕**Gemini**和Nano Banana生成AI模型构建
+
+📅 2026-09-01T16:00:00.000Z
+
+---
+
+### VentureBeat
+![您的文件保持不变： Perplexity的混合人工智能将机密数据保存在云端](https://images.ctfassets.net/jdtwqhzvc2n1/5dDOCpRyaFusHgFd5h9h8a/4b634ce6049baafe49c72614ace3a8a8/Nuneybits_Vector_art_of_lone_figure_confronting_fragmented_clou_e6f1c924-f33c-4829-8924-c3ff7fdd95c1.webp?w=300&q=30)
+
+**[您的文件保持不变： Perplexity的混合人工智能将机密数据保存在云端](https://venturebeat.com/orchestration/your-files-stay-put-perplexitys-hybrid-ai-keeps-confidential-data-off-the-cloud)**
+
+该公司表示，这是人工智能代理第一次可以在云中开始一项任务，并将同一任务的机密部分动态地移交给在用户自己的硬件上运行的模型。在**发布**时，用户可以从三种本地模型中进行选择：谷歌的Gemma E4B ，阿里巴巴的Qwen3
+
+📅 Tue, 01 Sep 2026 15:00:00 GMT
+
+---
+
+### MIT Tech Review
+**[下载：用于作物的工程微生物和OpenAI的培养问题](https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/)**
+
+这是今天的“下载”版本，这是我们的工作日通讯，提供每日剂量的技术世界正在发生的事情，但它使用了大量的能源并产生了大量的排放
+
+📅 Tue, 01 Sep 2026 12:10:00 +0000
 
 ---
 
 ### Wired Technology
-**[谷歌地图现在显示“美国湖”而不是安大略湖](https://www.wired.com/story/google-maps-now-shows-lake-america-instead-of-lake-ontario/)**
+**[5款最佳折叠手机（ 2026年） ：三星、谷歌、摩托罗拉](https://www.wired.com/gallery/best-folding-phones/)**
 
-在唐纳德·特朗普（ Donald Trump ）的行政命令要求更名之后，谷歌是第一家改变名称的主要在线地图提供商
+随时准备摆脱传统的玻璃板使用这些折叠式智能手机将铰链引入您的生活
 
-📅 Sun, 30 Aug 2026 16:16:24 +0000
+📅 Tue, 01 Sep 2026 11:30:00 +0000
+
+---
+
+### Wired Technology
+**[优化睡眠的3个最佳睡眠追踪选择（ 2026年）](https://www.wired.com/story/best-sleep-trackers/)**
+
+我为每种类型的睡眠者测试了顶级睡眠可穿戴设备，包括来自Oura、**Google** Fitbit和Eight Sleep的设备
+
+📅 Tue, 01 Sep 2026 10:39:00 +0000
 
 ---
 
@@ -215,65 +270,16 @@ Circleback还**推出**了新的定价计划，每月起价为$ 14。
 
 ---
 
-### Ars Technica
-**[谷歌地图比美国政府更快地将“安大略湖”更名为“美国湖”](https://arstechnica.com/gadgets/2026/08/google-maps-renames-lake-ontario-to-lake-america-even-faster-than-us-government/)**
-
-谷歌周六**推出**了美国湖泊变化，而美国政府的官方地图仍在等待
-
-📅 Mon, 31 Aug 2026 15:33:32 +0000
-
----
-
-### ZDNet AI
-**[OpenAI警告称， “复杂”的人工智能群体攻击还有几个月的时间：专家说企业必须做什么](https://www.zdnet.com/article/openai-warns-malicious-agents-coming-recommended-action/)**
-
-**OpenAI**发出了严肃而可怕的警报，但我们对即将发生的事情毫无准备。
-
-📅 Mon, 31 Aug 2026 17:48:05 GMT
-
----
-
-### ZDNet AI
-**[Microsoft的最新Windows更新会破坏光标、墙纸等-如果受到影响该怎么办](https://www.zdnet.com/article/windows-update-breaks-mouse-cursor-what-to-do/)**
-
-以下是关于故障的须知事项，以及您目前唯一可以采取的措施。
-
-📅 Mon, 31 Aug 2026 17:24:00 GMT
-
----
-
-### The Verge
-![Google TV Streamer现在要多花$ 50](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25562292/DSCF0055.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[Google TV Streamer现在要多花$ 50](https://www.theverge.com/tech/987032/google-tv-streamer-price-increase)**
-
-谷歌将其4K流媒体盒的价格提高到$ 149 ，从原来的$ 99价格上涨了$ 50价格上涨是在谷歌**推出**其新的Pixel 11手机阵容后几周，其价格比Pixel 10同类产品上涨了$ 100
-
-📅 2026-08-31T22:32:51.000Z
-
----
-
-### The Verge
-![JMGO非常明亮的多合一投影仪看起来非常适合游戏玩家和运动](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/01-lRIS-Ultra-Max-Right45.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[JMGO非常明亮的多合一投影仪看起来非常适合游戏玩家和运动](https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs)**
-
-JMGO的Iris Ultra Max 4K 120Hz **Google** TV投影仪|图片： JMGO的4K 120Hz Iris Ultra Max多功能一体机**Google** TV投影仪现已在中国境外上市
-
-📅 2026-08-31T22:00:00.000Z
-
----
-
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![awesome-ml-internships ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
+### GitHub Active (Python)
+![uv ：一个非常快的Python包和项目管理器，用Rust编写。](https://avatars.githubusercontent.com/u/115962839?v=4)
 
-**[awesome-ml-internships ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships)**
+**[uv ：一个非常快的Python包和项目管理器，用Rust编写。](https://github.com/astral-sh/uv)**
 
-⭐ 451星· 39分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作管道刷新
+⭐ 89,326星· 3532分叉· Rust ·一个用Rust编写的极其快速的Python包和项目管理器
 
-📅 2026-09-01T01:39:14Z
+📅 2026-09-01T18:11:15Z
 
 ---
 
@@ -313,74 +319,78 @@ JMGO的Iris Ultra Max 4K 120Hz **Google** TV投影仪|图片： JMGO的4K 120Hz 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[英伟达刚刚买下了大多数人工智能模型的所在地。ChatGPT开始在欧洲展示广告。公司之所以取消软件合同，是因为人工智能的构建成本更低。选择一个你最担心的。](https://www.reddit.com/r/artificial/comments/1w3mmfh/nvidia_just_bought_the_place_where_most_ai_models/)**
+**[询问AI……关于自己……非常宝贝，但……也许有趣？](https://www.reddit.com/r/artificial/comments/1w4g74y/asking_ai_about_itself_very_baby_but_interesting/)**
 
-与此同时， Chat**GPT**上周日在31个欧洲国家/地区**推出**了广告**OpenAI**表示，这些广告不会影响答案
+人工智能模型开发者最终如果人工智能在不创造同等就业机会的情况下消除了大部分工作岗位，则会给资本主义本身带来严重的结构性危机
 
-📅 2026-08-31T18:35:53.000Z
-
----
-
-### X: OpenAI
-**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-网址来源： http://twitter.com/**OpenAI**
-
-📅 2026-09-01T01:40:57.638Z
-
----
-
-### X: DeepSeek
-**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
-
-网址来源： http://twitter.com/**DeepSeek**_ai
-
-📅 2026-09-01T01:41:02.788Z
+📅 2026-09-01T16:01:27.000Z
 
 ---
 
 ### Hacker News
-**[谷歌已从Chrome网上应用店中删除MV2扩展程序，包括UBO](https://webiterate.dev/google-removed-extensions-ublock-origin-108/)**
+**[克劳德寓言5.1和克劳德神话5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)**
 
-文章网址： https://webiteratedev/**Google**-removed-extensions-ublock-origin-108/评论网址： https://**new**s
+文章网址： https://wwwcom/**Claude**-fable-and-mythos-5-1评论网址： https://**new**s
 
-📅 Mon, 31 Aug 2026 21:10:58 +0000
-
----
-
-### Hacker News AI
-**[OpenAI将切断SpaceX旗下Cursor的AI模型](https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/)**
-
-文章网址： https://wwwcom/business/media-telecom/**OpenAI**-end-partnership-with-spacexs-cursor-2026-08-29/评论网址： https://**new**s
-
-📅 Tue, 01 Sep 2026 00:43:31 +0000
-
----
-
-### Hacker News AI
-**[人工智能巨头倾向于医疗保健，以阻止公众的强烈反对](https://www.axios.com/2026/08/31/ai-health-care-cures-disease-anthropic-open-ai)**
-
-文章网址： https://wwwcom/2026/08/31/ai-health-care-cures-disease-**Anthropic**-open-ai评论网址： https://**new**s
-
-📅 Mon, 31 Aug 2026 23:25:33 +0000
-
----
-
-### Hacker News AI
-**[ChatGPT成为首个面对更严格的欧盟规则的人工智能聊天机器人](https://www.lemonde.fr/en/pixels/article/2026/08/31/chatgpt-becomes-first-ai-chatbot-to-face-tougher-eu-rules_6757011_13.html)**
-
-fr/en/pixels/article/2026/08/31/chat**GPT**-becomes-first-ai-chatbot-to-face-tougher-eu-rules_6757011_13html评论网址： https://**new**s
-
-📅 Mon, 31 Aug 2026 23:15:30 +0000
+📅 Tue, 01 Sep 2026 18:01:24 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[哪种人工智能最适合编码，并允许您在不达到极限的情况下使用更长时间？](https://www.reddit.com/r/artificial/comments/1w3ipge/which_ai_is_best_for_coding_and_lets_you_use_it/)**
+![Anthropic因涉嫌盗窃“数万”首歌曲而被起诉|人工智能公司因滥用受版权保护的歌曲来训练克劳德模特而面临数十亿美元的诉讼](https://external-preview.redd.it/cVU-Bc54cXJaJ2Byawcii7bcq5qi5q_K1ko5ljKMeU8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e1ea226e18c815a3cb20eaa9032cac9a619507ae)
 
-我目前正在为**Claude**付费，并使用它来帮助我在MacroDroid中创建一些相当复杂的模板问题是，我不断达到**Claude**的使用限制，然后我被告知我必须等待大约三个小时才能继续
+**[Anthropic因涉嫌盗窃“数万”首歌曲而被起诉|人工智能公司因滥用受版权保护的歌曲来训练克劳德模特而面临数十亿美元的诉讼](https://www.reddit.com/r/artificial/comments/1w4bj01/anthropic_sued_over_alleged_theft_of_tens_of/)**
 
-📅 2026-08-31T16:23:30.000Z
+提交者/u/KeanuRave100 [link] [comments]
+
+📅 2026-09-01T13:09:10.000Z
+
+---
+
+### Hacker News
+**[Claude Fable 5.1的新功能](https://platform.claude.com/docs/en/models/fable-5-1/whats-new-fable-5-1)**
+
+**Claude**com/docs/en/models/fable-5-1/whats-**new**-fable-5-1评论网址： https://**new**s
+
+📅 Tue, 01 Sep 2026 17:53:53 +0000
+
+---
+
+### Hacker News AI
+**[HuggingFace/Kernels ：用于本地AI的200个WebGPU内核](https://huggingface.co/blog/webgpu-kernels)**
+
+文章网址： https://huggingfaceco/blog/webgpu-kernels评论网址： https://**new**s
+
+📅 Tue, 01 Sep 2026 18:03:17 +0000
+
+---
+
+### Reddit: r/artificial
+![Claude Fable 5.1和Claude Mythos 5.1基准](https://preview.redd.it/1g53x4z49ymh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6d8ad13816dafdc8fb48df256a463a58fce43b5c)
+
+**[Claude Fable 5.1和Claude Mythos 5.1基准](https://www.reddit.com/r/artificial/comments/1w4jzfy/claude_fable_51_and_claude_mythos_51_benchmarks/)**
+
+提交者/u/minxio_[link] [comments]
+
+📅 2026-09-01T18:10:45.000Z
+
+---
+
+### Reddit: r/artificial
+**[还有其他人使用人工智能来完成无聊的工作吗？](https://www.reddit.com/r/artificial/comments/1w4c0le/anyone_else_using_ai_for_the_boring_parts_of/)**
+
+我看到的大多数AI话语都是关于AGI时间线或**图像生成**器或任何最新的模型基准，而不是chat**GPT**foremailsisamazing热门话题，我的意思是在新颖性消失后卡住的实际工作流程更改
+
+📅 2026-09-01T13:28:22.000Z
+
+---
+
+### Hacker News
+**[欧足联的冠军联赛平局创造了不公平的集群； Cayley图表修复了它](https://sariyuce.com/blog/2026/UEFA-Draw/)**
+
+文章网址： https://sariyucecom/blog/2026/UEFA-Draw/评论网址： https://**new**s
+
+📅 Tue, 01 Sep 2026 17:57:09 +0000
 
 ---
 
