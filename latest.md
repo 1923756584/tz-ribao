@@ -1,12 +1,12 @@
 ---
 title: "2026年9月2日 - TZ日报"
-date: 2026-09-02T00:53:14.761Z
+date: 2026-09-02T18:30:49.545Z
 draft: false
 ---
 
 # 2026年9月2日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/9/2 00:53:14
+> 📊 今日汇总 38 条 · 🕐 2026/9/2 18:30:49
 
 ---
 
@@ -23,29 +23,20 @@ draft: false
 ## ✨ 产品更新
 
 ### OpenAI Blog
+**[Gilbert + Tobin律师事务所如何通过OpenAI管理和扩展AI](https://openai.com/index/gilbert-tobin)**
+
+了解Gilbert + Tobin如何将首席执行官领导的承诺与人类责任相结合，在整个公司范围内扩展Chat**GPT** Enterprise和Codex
+
+📅 Tue, 01 Sep 2026 01:00:00 GMT
+
+---
+
+### OpenAI Blog
 **[Polimill打造日本下一代公共人工智能基础设施](https://openai.com/index/polimill)**
 
 Polimill使用**OpenAI** **GPT**模型和Codex来帮助市政当局搜索和使用行政知识，同时加速发展
 
 📅 Mon, 31 Aug 2026 07:00:00 GMT
-
----
-
-### TechCrunch AI Products
-**[谷歌的Android更新可解决晕车、无障碍等问题](https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/)**
-
-虽然有些功能让谷歌追赶苹果，但其他功能则特别利用双子座来提供各种改进
-
-📅 Tue, 01 Sep 2026 20:53:05 +0000
-
----
-
-### TechCrunch AI Products
-**[ChatGPT Health为临床医生添加了Epic集成，以导入患者数据](https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/)**
-
-**OpenAI**表示，该集成为临床医生提供了对健康记录的只读访问权限。
-
-📅 Tue, 01 Sep 2026 17:00:00 +0000
 
 ---
 
@@ -108,6 +99,15 @@ Chat**GPT** Ads的年化收入运行率达到10 $ 10亿，并在全球范围内�
 ---
 
 ### DeepMind Blog
+**[隆重推出Gemini 3.8 Flash和3.8 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/)**
+
+隆重**推出**Gemini 3.8 Flash和3.8 Flash Cyber
+
+📅 Wed, 02 Sep 2026 16:18:31 +0000
+
+---
+
+### DeepMind Blog
 **[通过Gemini介绍代理视频理解](https://deepmind.google/blog/introducing-agentic-video-in-gemini/)**
 
 通过**Gemini**介绍代理视频理解
@@ -118,57 +118,66 @@ Chat**GPT** Ads的年化收入运行率达到10 $ 10亿，并在全球范围内�
 
 ## 🔬 前沿研究
 
-### ArXiv AI (cs.AI)
-**[符合指南和特定病例的肿瘤学决策的前沿大型语言模型中的集体能力边界](https://arxiv.org/abs/2608.28592)**
+### ArXiv Multiagent (cs.MA)
+**[线束工程：解剖、架构和编码代理的演变--11个系统的源代码研究](https://arxiv.org/abs/2609.00006)**
 
-28592v1公告类型：新摘要：大型语言模型（ LLM ）在医学知识考试中获得高分两种模型（ **GPT**-5 ）
+00006v1公告类型：交叉抽象： agent是模型加线束--通过循环将LLM与世界耦合的运行时第一个元线束
 
-📅 Tue, 01 Sep 2026 00:00:00 -0400
+📅 Wed, 02 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv Computer Vision (cs.CV)
+**[CoLT-Drive ：针对驾驶负担预测的反事实长尾基准和知识保留适应](https://arxiv.org/abs/2609.00242)**
+
+00242v1公告类型：新摘要：长尾自动驾驶故障通常被框架为罕见物体识别错误536-样本反事实长尾基准，将罕见物体插入到其他固定的驾驶场景中，并衡量模型是否预测可接受的动作对
+
+📅 Wed, 02 Sep 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[论文试点：应用科学中循证科学手稿生成的人工循环专家系统](https://arxiv.org/abs/2608.28596)**
+**[通过教学微调的小语言模型对渐进式老年金融诈骗进行增量风险评估](https://arxiv.org/abs/2609.00005)**
 
-28596v1公告类型：新摘要：大型语言模型（ LLM ）代理越来越多地嵌入到用于文献分析的科学工作流程中，需要报告数字和解释才能追溯到已批准的证据；其系统提示已公开**发布**，以便在Chat**GPT**中部署
+00005v1公告类型：新摘要：针对老年人的金融诈骗越来越多地通过电子邮件有效检测等文本和语音渠道发生，需要在资源受限的部署设置下不断**更新**风险评估的模型
 
-📅 Tue, 01 Sep 2026 00:00:00 -0400
+📅 Wed, 02 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[LLM中的远程状态跟踪：通过深度依赖工具调用序列执行MD5](https://arxiv.org/abs/2609.00012)**
+
+00012v1公告类型：新摘要：大型语言模型（ LLM ）评估中的长期任务仍然不常见**GPT**-oss-120b ，这是一个仅有$\ sim $ 5的专家混合模型
+
+📅 Wed, 02 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv Computer Vision (cs.CV)
+**[ZimaBlue ：通过可扩展的视频预训练演变可通用的世界行动模型](https://arxiv.org/abs/2609.00188)**
+
+00188v1公告类型：新摘要：机器人操纵面临一个根本性的扩展挑战：强大的泛化需要广泛的物理经验ZimaBlue遵循三阶段培训课程：首先对大规模的人类和机器人自我中心视频进行因果体现视频预训练
+
+📅 Wed, 02 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv Computer Vision (cs.CV)
+**[超越语言先验：多模式法学硕士中视觉起源幻觉的诊断和修复](https://arxiv.org/abs/2609.00231)**
+
+00231v1公告类型：新摘要：多模态大型语言模型（ MLLM ）中对象幻觉的现有研究主要将问题归因于语言先验因素，例如过度依赖文本共现统计代码可在https://github上找到
+
+📅 Wed, 02 Sep 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Natural Language Processing (cs.CL)
-**[Gurukul AI ：印度教育系统的交互式AI驱动教育平台](https://arxiv.org/abs/2608.28611)**
+**[通过LLM增强音频文本对齐实现零拍呼吸声音分类](https://arxiv.org/abs/2609.00055)**
 
-28611v1公告类型：新摘要： Chat**GPT**和LLaMA等大型语言模型(LLM)的最新进展改变了人工智能驱动的教育。代码可在https://github上找到
+00055v1公告类型：新摘要：自我监督呼吸编码器在零点推断所需的临床领域缺乏语义接地要解决配对数据稀缺问题
 
-📅 Tue, 01 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[Agentic AI功能与在线调查中的数据质量控制之间的竞争](https://arxiv.org/abs/2608.28597)**
-
-28597v1公告类型：新摘要：在线调查是各种领域的基础数据收集工具智能AI （由大型语言模型（ LLM ）大脑和/或具有工具增强功能的多模态处理单元驱动的目标导向系统）的快速出现对这些保障措施的稳健性提出了新的问题
-
-📅 Tue, 01 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[HALT矢量：内化因果转向干预以进行有效推理](https://arxiv.org/abs/2608.28859)**
-
-28859v1公告类型：新摘要：推理模型知道答案时不会停止在**DeepSeek**-R1-Distill-Qwen-7B上，思维链的运行时间大约是模型自身答案概率结算时间的两倍
-
-📅 Tue, 01 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv Multiagent (cs.MA)
-**[自主云MLOps的前向部署全栈工程](https://arxiv.org/abs/2608.29615)**
-
-29615v1公告类型：新摘要：跨行业我们在**Google** Cloud Platform上实现框架并评估存储库的完整性
-
-📅 Tue, 01 Sep 2026 00:00:00 -0400
+📅 Wed, 02 Sep 2026 00:00:00 -0400
 
 ---
 
@@ -178,15 +187,6 @@ Chat**GPT** Ads的年化收入运行率达到10 $ 10亿，并在全球范围内�
 如果公司同意分享其数据，一个新的基金会可以帮助科学家评估新安全措施的影响
 
 📅 2026-08-31T12:45:00.000Z
-
----
-
-### MIT Tech Research
-**[Hugging Face黑客攻击可能表明OpenAI存在文化问题](https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/)**
-
-这个故事最初出现在我们的AIB每周通讯《算法》上。现在，您可能已经听说了上个月发生的**重大**人工智能安全事件
-
-📅 Mon, 31 Aug 2026 18:00:00 +0000
 
 ---
 
@@ -204,13 +204,13 @@ Chat**GPT** Ads的年化收入运行率达到10 $ 10亿，并在全球范围内�
 ---
 
 ### VentureBeat
-![OpenClaw 2.0来了，迎来了“多人” AI编码时代：对企业意味着什么](https://images.ctfassets.net/jdtwqhzvc2n1/5b6Yc3MtilCHZByZlSPAAU/ccd8c5adf4d86701c0572337f4aa06ca/ChatGPT_Image_Aug_31__2026__10_41_38_PM.png?w=300&q=30)
+![被盗的Claude会话Cookie可以通过IT管理员无法撤销的授权访问公司Gmail](https://images.ctfassets.net/jdtwqhzvc2n1/gpJLrplOBcznDK1gI5vbC/3dfca03f84beb69b1d77579ee0bd2ecc/image__1_.png?w=300&q=30)
 
-**[OpenClaw 2.0来了，迎来了“多人” AI编码时代：对企业意味着什么](https://venturebeat.com/technology/openclaw-2-0-is-here-what-it-means-for-enterprises)**
+**[被盗的Claude会话Cookie可以通过IT管理员无法撤销的授权访问公司Gmail](https://venturebeat.com/security/stolen-claude-session-cookies-can-reach-corporate-gmail-through-grants-no-it-admin-can-revoke)**
 
-该设计故意使OpenClaw更接近员工从**OpenAI**的Chat**GPT**Google的**Gemini**和其他对话式AI产品中了解的交互模型
+自2022年底Chat**GPT**起飞以来，犯罪分子一直在购买和转售被盗的Chat**GPT**、**Claude**和**Gemini**凭证，由信息窃取恶意软件Ask **Anthropic**和**OpenAI**提供对等服务，谷歌在下一个合同签署前的覆盖日期
 
-📅 Tue, 01 Sep 2026 03:26:53 GMT
+📅 Wed, 02 Sep 2026 17:51:48 GMT
 
 ---
 
@@ -237,24 +237,35 @@ Chat**GPT** Ads的年化收入运行率达到10 $ 10亿，并在全球范围内�
 ---
 
 ### The Verge
-![Anthropic推出了Claude Fable 5.1 ，并表示代理工作的成本降低了45 ％](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![特朗普政府正在纽约时报版权诉讼中支持OpenAI](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[Anthropic推出了Claude Fable 5.1 ，并表示代理工作的成本降低了45 ％](https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1)**
+**[特朗普政府正在纽约时报版权诉讼中支持OpenAI](https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit)**
 
-**Anthropic**表示其最新的人工智能模型Fable 5该公司声称**Claude** Fable 5
+声称**OpenAI**非法使用《纽约时报》的文章训练其AI系统，并试图从微软和**OpenAI**获得“数十亿美元”的赔偿支持**OpenAI**的论点，即在受版权保护的文本上训练AI模型是合理使用的
 
-📅 2026-09-01T22:01:36.000Z
+📅 2026-09-02T16:12:25.000Z
 
 ---
 
 ### The Verge
-![苹果指责OpenAI销毁证据](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKS531_APPLE_V_OPEN_AI2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![谷歌正在将MrBeast送入荒野，配备人工智能](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2255012715.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[苹果指责OpenAI销毁证据](https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit)**
+**[谷歌正在将MrBeast送入荒野，配备人工智能](https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit)**
 
-苹果在与**OpenAI**的法律斗争中推动“快速发现” ，因为该公司担心该公司正在积极销毁证据“这是苹果对**OpenAI**提起诉讼的最新进展， **OpenAI**指责Chat**GPT**制造商窃取商业秘密来制造人工智能设备
+作为与谷歌多年合作伙伴关系的一部分， MrBeast将在即将**推出**的视频中展示双子座、谷歌健康和Fitbit Air这笔交易将以吉米· “MrBeast” ·唐纳森（ Jimmy "MrBeast" Donaldson ）转向双子座寻求荒野生存建议的视频开始：首先， 9月5日是吉米和他的团队试图在地球上一些最极端和最危险的气候中生存下来的新MrBeast视频
 
-📅 2026-09-01T18:19:26.000Z
+📅 2026-09-02T15:47:03.000Z
+
+---
+
+### The Verge
+![OpenAI被指控在数十起新诉讼中“协助和教唆” Tumbler Ridge大规模枪击事件](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2261008686.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[OpenAI被指控在数十起新诉讼中“协助和教唆” Tumbler Ridge大规模枪击事件](https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting)**
+
+**OpenAI**及其首席执行官Sam Altman面临30起新的诉讼，指控他们向加拿大Tumbler Ridge学校枪击事件的嫌疑人提供了“实质性的帮助和鼓励” ，该事件与Chat**GPT**有关枪支vio……阅读The Verge的完整故事
+
+📅 2026-09-02T14:35:03.000Z
 
 ---
 
@@ -269,89 +280,80 @@ Chat**GPT** Ads的年化收入运行率达到10 $ 10亿，并在全球范围内�
 
 ---
 
-### MIT Tech Review
-**[下载：用于作物的工程微生物和OpenAI的培养问题](https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/)**
-
-这是今天的“下载”版本，这是我们的工作日通讯，提供每日剂量的技术世界正在发生的事情，但它使用了大量的能源并产生了大量的排放
-
-📅 Tue, 01 Sep 2026 12:10:00 +0000
-
----
-
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![tensorflow ：面向所有人的开源机器学习框架](https://avatars.githubusercontent.com/u/15658638?v=4)
+![变压器：🤗变压器：用于文本、视觉、音频和多模态模型中最先进的机器学习模型的模型定义框架，用于推理和训练。](https://avatars.githubusercontent.com/u/25720743?v=4)
 
-**[tensorflow ：面向所有人的开源机器学习框架](https://github.com/tensorflow/tensorflow)**
+**[变压器：🤗变压器：用于文本、视觉、音频和多模态模型中最先进的机器学习模型的模型定义框架，用于推理和训练。](https://github.com/huggingface/transformers)**
 
-⭐ 198,351星· 76228分支· C + + ·面向所有人的**开源**机器学习框架
+和用于推断和训练的多模态模型
 
-📅 2026-09-02T00:51:18Z
+📅 2026-09-02T18:27:48Z
 
 ---
 
 ### GitHub Active (AI/ML)
-![VIAME ：多种环境的视频和图像分析](https://avatars.githubusercontent.com/u/48599248?v=4)
+![管道： Kubeflow的机器学习管道](https://avatars.githubusercontent.com/u/33164907?v=4)
 
-**[VIAME ：多种环境的视频和图像分析](https://github.com/VIAME/VIAME)**
+**[管道： Kubeflow的机器学习管道](https://github.com/kubeflow/pipelines)**
 
-⭐ 337星· 90叉· Python ·适用于多种环境的视频和图像分析
+⭐ 4201星· 2106叉· Python · Kubeflow机器学习流水线
 
-📅 2026-09-02T00:51:33Z
+📅 2026-09-02T18:27:06Z
+
+---
+
+### GitHub Active (AI/ML)
+![ai-hub-apps ： Qualcomm ® AI Hub应用程序是针对性能（延迟、内存等）进行优化的最先进机器学习模型集合，可随时部署在Qualcomm ®设备上。](https://avatars.githubusercontent.com/u/55295994?v=4)
+
+**[ai-hub-apps ： Qualcomm ® AI Hub应用程序是针对性能（延迟、内存等）进行优化的最先进机器学习模型集合，可随时部署在Qualcomm ®设备上。](https://github.com/qualcomm/ai-hub-apps)**
+
+⭐ 449星· 119分叉· Java · Qualcomm ® AI Hub应用程序是针对性能（延迟）进行优化的最先进机器学习模型集合，可随时部署在Qualcomm ®设备上
+
+📅 2026-09-02T18:28:09Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 ThermoMind ：一个人工智能驱动的城市热智能平台，将FortyGuard气候遥测转化为圣安东尼奥的可行缓解策略，具有5层后端、双模式映射、人工智能规划副驾驶和自动PDF报告](https://avatars.githubusercontent.com/u/204192568?v=4)
+![🆕 类人：类人—对话式人工智能代理的确定性角色、上下文、记忆和隐私控制· Детерминированное поведение И-агентов](https://avatars.githubusercontent.com/u/207823549?v=4)
 
-**[🆕 ThermoMind ：一个人工智能驱动的城市热智能平台，将FortyGuard气候遥测转化为圣安东尼奥的可行缓解策略，具有5层后端、双模式映射、人工智能规划副驾驶和自动PDF报告](https://github.com/mshakeelrasheed/ThermoMind)**
+**[🆕 类人：类人—对话式人工智能代理的确定性角色、上下文、记忆和隐私控制· Детерминированное поведение И-агентов](https://github.com/AlekseiUL/humanlike)**
 
-⭐ 2 star (新项目) · Python · An AI-powered urban heat intelligence platform transforming FortyGuard climate telemetry into actionable mitigation strategies for San Antonioan AI planning copilot
+⭐ 9 star (新项目) · Python · Humanlike — deterministic personamemory and privacy controls for conversational AI agents · Детерминированное поведение ИИ-агентов
 
-📅 2026-08-30T13:08:17Z
-
----
-
-### GitHub New (New AI)
-![🆕 CODSOFT_TASKS_02 ：🖼️人工智能驱动的图像字幕应用程序，使用计算机视觉和NLP概念为图像生成有意义的描述。](https://avatars.githubusercontent.com/u/314565144?v=4)
-
-**[🆕 CODSOFT_TASKS_02 ：🖼️人工智能驱动的图像字幕应用程序，使用计算机视觉和NLP概念为图像生成有意义的描述。](https://github.com/madhumita-pardeshi/CODSOFT_TASKS_02)**
-
-⭐ 2 star (新项目) · TypeScript · 🖼️ AI-powered Image Captioning application that uses Computer Vision and NLP concepts to generate meaningful descriptions for images
-
-📅 2026-08-30T11:17:25Z
+📅 2026-09-01T19:44:23Z
 
 ---
 
 ## 💬 社交动态
 
-### Hacker News AI
-**[新的谷歌人工智能模型缩小了编码能力的差距（ Gemini 3.8 Flash ）](https://www.wsj.com/tech/ai/new-google-ai-model-said-to-narrow-gap-on-coding-ability-264c6052)**
+### Reddit: r/artificial
+![ChatGPT强硬的对话时长限制是其最令人沮丧的用户体验问题之一-即使在专业版上也是如此](https://preview.redd.it/gori63ob05nh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2c23e62988af78fceb7ff1b9dc92a65ab818da87)
 
-文章网址： https://wwwcom/tech/ai/**new**-**Google**-ai-model-said-to-narrow-gap-on-coding-ability-264c6052评论网址： https://**new**s
+**[ChatGPT强硬的对话时长限制是其最令人沮丧的用户体验问题之一-即使在专业版上也是如此](https://www.reddit.com/r/artificial/comments/1w5fz5m/chatgpts_hard_conversationlength_limit_is_one_of/)**
 
-📅 Tue, 01 Sep 2026 23:23:28 +0000
+我可能会比较Chat**GPT**、Manus AI、**Claude**、Grok、**Google**工具和其他平台，然后逐渐完善AI平台的实际需求如果**OpenAI**正确实施这些东西，我真的认为它是Chat**GPT**可以获得的最大的生活质量改进之一
+
+📅 2026-09-02T16:53:49.000Z
 
 ---
 
-### Hacker News AI
-**[不允许Gemini AI访问您的Gmail](https://tuta.com/blog/google-gemini-ai-email)**
+### Hacker News
+**[Gemini 3.8 Flash和3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)**
 
-文章网址： https://tutacom/blog/**Google**-**Gemini**-ai-email评论网址： https://**new**s
+**Google**/models/model-cards/**Gemini**-3-8-flash/评论网址： https://**new**sid = 49537553分数： 484 #评论： 284
 
-📅 Tue, 01 Sep 2026 22:49:08 +0000
+📅 Wed, 02 Sep 2026 15:12:40 +0000
 
 ---
 
 ### Reddit: r/artificial
-![介绍Claude Fable 5.1和Claude Mythos 5.1\ Anthropic](https://external-preview.redd.it/HgGLCPPfJi3fh5dpC_8CBtqrjafin8CWernVJipmrJQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0f509301218606a746e5ebaeeb9fa9ac0e3d6f74)
+**[如果代币不是巨型实验室的最终游戏怎么办？](https://www.reddit.com/r/artificial/comments/1w5d0zj/what_if_tokens_are_not_the_giant_labs_end_game/)**
 
-**[介绍Claude Fable 5.1和Claude Mythos 5.1\ Anthropic](https://www.reddit.com/r/artificial/comments/1w4khcm/introducing_claude_fable_51_and_claude_mythos_51/)**
+但是，如果在某些时候， **OpenAI**或**Anthropic**只是停止公开**发布**其最佳模型并在内部开发预言机级别的智能，那么如果它们无法提取前沿模型，**开源**模型会做什么？
 
-提交者/u/KrazyA1pha [link] [comments]
-
-📅 2026-09-01T18:27:41.000Z
+📅 2026-09-02T15:07:56.000Z
 
 ---
 
@@ -360,7 +362,7 @@ Chat**GPT** Ads的年化收入运行率达到10 $ 10亿，并在全球范围内�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-09-02T00:51:56.372Z
+📅 2026-09-02T18:29:36.751Z
 
 ---
 
@@ -369,34 +371,34 @@ Chat**GPT** Ads的年化收入运行率达到10 $ 10亿，并在全球范围内�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-09-02T00:52:04.835Z
+📅 2026-09-02T18:29:41.873Z
 
 ---
 
 ### Hacker News
-**[改进我们的校准和安全工作](https://www.anthropic.com/news/improving-alignment-security-efforts)**
+**[ChatGPT广告定位是垃圾](https://successfulsoftware.net/2026/09/02/chatgpt-ad-targeting-is-garbage/)**
 
-文章网址： https://wwwcom/**new**s/improving-alignment-security-efforts评论网址： https://**new**s
+文章网址： https://successfulsoftwarenet/2026/09/02/chat**GPT**-ad-targeting-is-garbage/评论网址： https://**new**s
 
-📅 Tue, 01 Sep 2026 23:12:45 +0000
-
----
-
-### Hacker News
-**[ChatGPT/Codex应用程序捆绑了LibreOffice的完整副本](https://simonwillison.net/2026/Sep/1/codex-libreoffice/)**
-
-文章网址： https://simonwillisonnet/2026/Sep/1/codex-libreoffice/评论网址： https://**new**s
-
-📅 Tue, 01 Sep 2026 20:07:57 +0000
+📅 Wed, 02 Sep 2026 17:04:58 +0000
 
 ---
 
 ### Hacker News AI
-**[研究人员使用人工智能“民主化”关键金属合金的3D打印](https://news.wsu.edu/news/2026/08/24/researchers-use-ai-to-democratize-3d-printing-of-crucial-metal-alloy/)**
+**[Meta在其AI眼镜上安装了摄像头](https://www.businessinsider.com/meta-glasses-camera-disabled-tampering-recording-light-update-2026-9)**
 
-文章网址： https://**new**sedu/**new**s/2026/08/24/researchers-use-ai-to-docratize-3d-printing-of-crucial-**Meta**l-alloy/评论网址： https://**new**s
+文章网址： https://wwwcom/**Meta**-glasses-camera-disabled-tampering-recording-light-**update**-2026-9评论网址： https://**new**s
 
-📅 Tue, 01 Sep 2026 23:54:51 +0000
+📅 Wed, 02 Sep 2026 18:13:35 +0000
+
+---
+
+### Hacker News AI
+**[Anthropic在假日购物之前为零售商推出AI代理蓝图](https://www.reuters.com/business/retail-consumer/anthropic-launches-ai-agent-blueprints-retailers-ahead-holiday-shopping-season-2026-09-02/)**
+
+文章网址： https://wwwcom/business/retail-consumer/**Anthropic**-**launch**es-ai-agent-blueprints-retailers-ahead-holiday-shopping-season-2026-09-02/评论网址： https://**new**s
+
+📅 Wed, 02 Sep 2026 17:34:12 +0000
 
 ---
 
