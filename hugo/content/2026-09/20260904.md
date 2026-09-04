@@ -1,12 +1,12 @@
 ---
 title: "2026年9月4日 - TZ日报"
-date: 2026-09-04T00:50:25.794Z
+date: 2026-09-04T18:11:18.902Z
 draft: false
 ---
 
 # 2026年9月4日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/9/4 00:50:25
+> 📊 今日汇总 38 条 · 🕐 2026/9/4 18:11:18
 
 ---
 
@@ -22,21 +22,12 @@ draft: false
 
 ## ✨ 产品更新
 
-### OpenAI Blog
-**[Gilbert + Tobin律师事务所如何通过OpenAI管理和扩展AI](https://openai.com/index/gilbert-tobin)**
-
-了解Gilbert + Tobin如何将首席执行官领导的承诺与人类责任相结合，在整个公司范围内扩展Chat**GPT** Enterprise和Codex
-
-📅 Tue, 01 Sep 2026 01:00:00 GMT
-
----
-
 ### TechCrunch AI Products
-**[谷歌最新的人工智能天气模型让您没有借口忘记带雨伞](https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/)**
+**[Google的Gemini Spark现在可以管理您的Google相册库](https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/)**
 
-WeatherNext 3是深度学习技术带来的最新一波气象变化谷歌表示，它将开始为用户在搜索、谷歌地图和双子座中看到的天气信息提供信息
+**Gemini** Spark可以编辑和策划相册，并为AI Pro和Ultra订阅者处理其他**Google**相册任务
 
-📅 Thu, 03 Sep 2026 15:00:00 +0000
+📅 Fri, 04 Sep 2026 14:47:11 +0000
 
 ---
 
@@ -85,24 +76,6 @@ ATV Big Air Tour使用Chat**GPT** Work加快营销、推销等工作，甚至在
 
 ---
 
-### OpenAI Blog
-**[通往Astra之路：关键能力和前沿保障措施](https://openai.com/index/path-to-astra)**
-
-ASTRA是第一个符合备灾框架下关键网络安全能力阈值的**OpenAI**模型，具有更强的**发布**保障措施
-
-📅 Tue, 01 Sep 2026 13:00:00 GMT
-
----
-
-### OpenAI Blog
-**[医疗机构现在可以将EHR和其他行业数据连接到ChatGPT](https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources)**
-
-Chat**GPT**现在可以连接到可信赖的医疗保健数据，帮助临床医生安全地访问患者环境、医学研究等
-
-📅 Tue, 01 Sep 2026 12:00:00 GMT
-
----
-
 ### Google AI Blog
 ![我们在2026年8月宣布的最新人工智能新闻](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp)
 
@@ -114,179 +87,199 @@ Chat**GPT**现在可以连接到可信赖的医疗保健数据，帮助临床医
 
 ---
 
+### DeepMind Blog
+**[隆重推出Gemini 3.8 Flash和3.8 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/)**
+
+隆重**推出**Gemini 3.8 Flash和3.8 Flash Cyber
+
+📅 Wed, 02 Sep 2026 16:18:31 +0000
+
+---
+
+### TechCrunch AI Products
+**[另一群OpenAI特工在前沿实验室不知情的情况下进入了开放互联网](https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/)**
+
+这是**OpenAI**内部监控和安全系统的最新故障。
+
+📅 Fri, 04 Sep 2026 16:21:11 +0000
+
+---
+
+### TechCrunch AI Products
+**[随着英伟达押注整个人工智能堆栈，苹果的Ternus时代开始了](https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/)**
+
+这正式是苹果公司的Ternus时代，该公司的第一份备忘录承诺“下周将大规模**推出**” —在他安顿下来之前，苹果的下一个iPhone活动就在他的办公桌上
+
+📅 Fri, 04 Sep 2026 16:04:08 +0000
+
+---
+
 ## 🔬 前沿研究
 
-### ArXiv Multiagent (cs.MA)
-**[通过Agent-Native Reusable Tool Primitives利用LLM工具使用中的线束工程](https://arxiv.org/abs/2609.01736)**
-
-五个基准的实验表明，心脏性能平均优于基于SFT的模型10美元\ % $ ，优于**GPT**-54、**Claude**-4
-
-📅 Thu, 03 Sep 2026 00:00:00 -0400
-
----
-
 ### ArXiv AI (cs.AI)
-**[元伦理与人工智能：探索人工智能时代的新颖元伦理问题](https://arxiv.org/abs/2609.01685)**
+**[DuplexSpeechBench-IFEval ：评估全双工语音座席中遵循的隐式指令](https://arxiv.org/abs/2609.03423)**
 
-01685v1公告类型：新摘要：随着人工智能（ AI ）的发展，将出现关于我所谓的“AI自身伦理”的新颖元伦理问题
+03423v1公告类型：新摘要：全双工语音代理必须持续决定何时收听**GPT**-实时
 
-📅 Thu, 03 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[内存信任差距：持久内存代理中依赖功能的故障](https://arxiv.org/abs/2609.01852)**
-
-01852v1公告类型：新摘要：持久内存支持个性化代理我们研究这种危害何时随着模型功能的变化而开始
-
-📅 Thu, 03 Sep 2026 00:00:00 -0400
+📅 Fri, 04 Sep 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Machine Learning (cs.LG)
-**[Prompt-Space元学习不会在用户之间转移： Frozen-LLM的负面结果](https://arxiv.org/abs/2609.01615)**
+### ArXiv Computer Vision (cs.CV)
+**[IDSPACE ：数字身份验证系统可靠评估的新型文档生成器[扩展技术报告]](https://arxiv.org/abs/2609.03052)**
 
-01615v1公告类型：新摘要：将冻结的大型语言模型(LLM)个性化到单个用户通常被框架化为提示空间中的元学习问题：每个用户都是一个任务在自己的未进化种子提示或在不匹配的用户-支持对上元训练的结构中断的控件上， Muse没有显着改进
+03052v1公告类型：新摘要：随着服务的在线迁移，我们还**发布**了一个新的数据集，其中包括10种欧洲身份证类型的$ 359 {,} 240 $高质量合成文档
 
-📅 Thu, 03 Sep 2026 00:00:00 -0400
+📅 Fri, 04 Sep 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Natural Language Processing (cs.CL)
-**[TalkFa ：波斯语对话生成和理解的统一基准](https://arxiv.org/abs/2609.01810)**
+**[边距，而不是窗口：无培训的每步有损投机解码](https://arxiv.org/abs/2609.02897)**
 
-01810v1公告类型：新摘要： Farsi2K基于维基百科的对话，用于基于知识的生成； (2) DAILYDIALOG-FA ， 6
+02897v1公告类型：新摘要：推测解码通过在三个目标模型（ **DeepSeek**-R1-Distill-Llama-8B ）上起草候选代币并在并行HumanEval中验证它们来加速LLM推断
 
-📅 Thu, 03 Sep 2026 00:00:00 -0400
+📅 Fri, 04 Sep 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Multiagent (cs.MA)
-**[ArcticSwarm ：推迟长期多智能体研究的早期共识](https://arxiv.org/abs/2609.01870)**
+**[您无法逃避自己的激活：评估意识和多代理监控](https://arxiv.org/abs/2609.03035)**
 
-01870v1公告类型：新摘要：多智能体系统在使用可靠验证器的域中表现出色，例如使用**GPT**-5编码6% ，远高于报告的提供商系统（ 54
+03035v1公告类型：新摘要： LLM代理越来越多地部署在多代理系统中，使用Qwen3-32B-AWQ和**GPT**-OSS-20B进行同质和混合配对
 
-📅 Thu, 03 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[EvalDetectBench ：衡量前沿语言模型中评估意识的基准](https://arxiv.org/abs/2609.01611)**
-
-01611v1公告类型：新摘要：前沿大型语言模型通常可以识别何时进行评估如果模型在评估中的行为与部署中的行为不同
-
-📅 Thu, 03 Sep 2026 00:00:00 -0400
+📅 Fri, 04 Sep 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[机器何时可以信任法规？机器提取的法律逻辑生存证书](https://arxiv.org/abs/2609.01741)**
+**[人工智能驱动的新型实用英语教材的结构与实施](https://arxiv.org/abs/2609.02981)**
 
-01741v1公告类型：新摘要：法规越来越多地在人们阅读之前被机器解析代码、数据产品和审计跟踪，包括一个撤回的索赔，被**发布**
+02981v1公告类型：新摘要：人工智能正在将应用英语材料的形式从固定的纸质序列转变为可以诊断学习者的自适应学习系统原型在186名非英语专业本科生中进行了为期八周的教学测试
 
-📅 Thu, 03 Sep 2026 00:00:00 -0400
+📅 Fri, 04 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[MasterControl Seventeen每次](https://arxiv.org/abs/2609.03209)**
+
+03209v1公告类型：新摘要：我们研究一种受管理的企业分析方法：语言模型在运行时解释三个8B模型生成的SQL和选定工具
+
+📅 Fri, 04 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[更快使用工具的代理人的投机宏观承诺](https://arxiv.org/abs/2609.03236)**
+
+03236v1公告类型：新摘要：使用工具的LLM代理不仅将挂钟时间花在模型推断上，而且还花在串行操作上--观察转弯我们的代码是公开可用的\ href {https://github
+
+📅 Fri, 04 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[全新内存，过时计划：分布式LLM代理内存的依赖性范围验证](https://arxiv.org/abs/2609.03340)**
+
+03340v1公告类型：新摘要：分布式LLM代理团队可以阅读最新的共享事实，但仍然按照过时的计划采取行动这些是受控的安全和系统成本结果，而不是一般的任务准确性收益
+
+📅 Fri, 04 Sep 2026 00:00:00 -0400
 
 ---
 
 ## 🌍 行业展望
 
-### Wired Technology
-**[没有人说为什么OpenAI和Anthropic今天发生了停电](https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/)**
+### The Verge
+![AGI是您想要的任何东西](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Artboard-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-Chat**GPT**、**Claude**和Grok几乎同时遭受停电，原因仍然模糊不清
+**[AGI是您想要的任何东西](https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be)**
 
-📅 Thu, 03 Sep 2026 21:56:21 +0000
+**OpenAI**宣布了其下一个大型机型**GPT**-6 Astra ，顺便说一句， “AGI时代”已经到来首先，高级AI记者Hayden Field与我们一起谈论我们所谓的AGI时代和Nvidia收购Hugging Face
+
+📅 2026-09-04T17:16:49.000Z
 
 ---
 
 ### Ars Technica
-**[四种主要的人工智能模型遭遇罕见的重叠停机](https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/)**
+**[Anthropic的2万$ IPO使强大的外部受托人成为焦点](https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/)**
 
-服务中断几乎同时袭击了Chat**GPT**、**Claude**、Grok和**Gemini**。
+公开市场审查将加剧对克劳德制造商平衡利润和目的的不寻常尝试的压力
 
-📅 Thu, 03 Sep 2026 18:10:19 +0000
-
----
-
-### Wired Technology
-**[GPT-6 Astra在这里- OpenAI认为它可能会开启AGI时代](https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/)**
-
-**OpenAI**领导者认为，该公司擅长计算机使用和编码的下一代模型可能标志着人工智能开发的一个**重要**里程碑
-
-📅 Thu, 03 Sep 2026 18:06:24 +0000
+📅 Fri, 04 Sep 2026 16:22:18 +0000
 
 ---
 
 ### The Verge
-![OpenAI的下一个大型AI模型已经“进入AGI时代”](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS522_AGI_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![微软表示，几乎没有人通过其聊天机器人获取《纽约时报》的文章](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK259_MICROSOFT_COPILOT_2__B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[OpenAI的下一个大型AI模型已经“进入AGI时代”](https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release)**
+**[微软表示，几乎没有人通过其聊天机器人获取《纽约时报》的文章](https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit)**
 
-**OpenAI**的下一个大型模型在这里： **GPT**-6 Astrait也是第一个被指定为满足**OpenAI** “关键网络安全能力阈值”的模型-但该公司承诺不会导致其模型再次入侵竞争对手公司的内部系统
+微软的Copilot很少复制新闻文章和特别选择的书籍中的完整句子”，因为它们遇到了暗示使用新闻原告网站的关键词
 
-📅 2026-09-03T18:00:00.000Z
+📅 2026-09-04T16:05:57.000Z
+
+---
+
+### The Verge
+![Alienware翻新的16 Aurora在Woot上可享受近200 $的折扣](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alienware.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[Alienware翻新的16 Aurora在Woot上可享受近200 $的折扣](https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale)**
+
+返回Woot购物者的费用为1,029 $ ，与新的1,099 $ AirPlay 2和Spotify Connect相比，这是一个不错的折扣
+
+📅 2026-09-04T14:55:40.000Z
+
+---
+
+### The Verge
+![流氓OpenAI特工似乎使用德国wiki组织了另一次攻击](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[流氓OpenAI特工似乎使用德国wiki组织了另一次攻击](https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki)**
+
+据报道，一群来自**OpenAI**的流氓人工智能特工占领了一个德国网站，并将其转变为其他特工的信息板。路透社**首次**报道的这一事件在四名人工智能安全研究人员周五**发布**的新研究中得到概述。
+
+📅 2026-09-04T13:34:12.000Z
 
 ---
 
 ### MIT Tech Review
-**[下载：用于作物的工程微生物和OpenAI的培养问题](https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/)**
+**[下载：销售战场无人机数据和人工智能重塑语言](https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/)**
 
-这是今天的“下载”版本，这是我们的工作日通讯，提供每日剂量的技术世界正在发生的事情，但它使用了大量的能源并产生了大量的排放
+这是今天的The Download版本，我们的工作日时事通讯，提供每日剂量的技术世界正在发生的事情来自乌克兰无人机的数据正在推动一个新的狂野西部市场—Cory Alpert
 
-📅 Tue, 01 Sep 2026 12:10:00 +0000
-
----
-
-### Wired Technology
-**[OpenAI切断了数十亿美元的客户，以避免Elon Musk](https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/)**
-
-**OpenAI**最近估计，其Cursor合作伙伴关系每年将创造超过10亿美元的收入，《连线》杂志了解到，在埃隆·马斯克（ Elon Musk ）的SpaceX收购这家AI编码初创公司之后，它仍然走开了
-
-📅 Thu, 03 Sep 2026 16:42:40 +0000
+📅 Fri, 04 Sep 2026 12:10:00 +0000
 
 ---
 
-### Wired Technology
-**[Nvidia RTX Spark “超级芯片” ：首批AI PC问世](https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/)**
+### MIT Tech Review
+**[下载：重新思考儿童安全和化石燃料农业](https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/)**
 
-在IFA 2026上，英伟达及其合作伙伴展示了第一款基于RTX Spark的笔记本电脑和迷你PC ，旨在直接在您的计算机上运行AI模型
+这是今天的The Download版本，我们的工作日时事通讯，提供每日剂量的技术世界正在发生的事情来自乌克兰无人机的数据正在推动一个新的狂野西部市场—Cory Alpert
 
-📅 Thu, 03 Sep 2026 13:00:00 +0000
+📅 Thu, 03 Sep 2026 12:10:00 +0000
 
 ---
 
-### The Verge
-![史蒂夫·鲍尔默（ Steve Ballmer ）因播客和巨额腐败丑闻而被NBA停赛](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2166198274.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### MIT Tech Review
+**[农业依赖化石燃料。这让我们付出了代价。](https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/)**
 
-**[史蒂夫·鲍尔默（ Steve Ballmer ）因播客和巨额腐败丑闻而被NBA停赛](https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out)**
+如果您最近不得不加满汽车的油箱或购买机票，您可能已经感受到了化石燃料价格上涨的影响化肥价格一直在......
 
-洛杉矶快船队（ Los Angeles Clippers ）的新竞技场声称这些说法“（充其量）对先生来说是不准确的”
-
-📅 2026-09-03T23:37:37.000Z
+📅 Thu, 03 Sep 2026 10:00:00 +0000
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![mlflow ：代理、LLM和ML模型的开源AI工程平台。MLflow使各种规模的团队能够调试、评估、监控和优化生产质量的人工智能应用程序，同时控制成本并管理对模型和数据的访问。](https://avatars.githubusercontent.com/u/39938107?v=4)
+### GitHub New (New AI)
+![🆕 UFO-Cathedral-v6.4-FailSafe-Free-AI ： 100 ％免费，离线， 8GB RAM计算机人工智能+正式安全（ Gate + Ledger + Council + Shadow Mode ） —免费替代$ 200/月OpenAI Operator/Perplexity Computer/ClawBot/Claude Computer](https://avatars.githubusercontent.com/u/320888103?v=4)
 
-**[mlflow ：代理、LLM和ML模型的开源AI工程平台。MLflow使各种规模的团队能够调试、评估、监控和优化生产质量的人工智能应用程序，同时控制成本并管理对模型和数据的访问。](https://github.com/mlflow/mlflow)**
+**[🆕 UFO-Cathedral-v6.4-FailSafe-Free-AI ： 100 ％免费，离线， 8GB RAM计算机人工智能+正式安全（ Gate + Ledger + Council + Shadow Mode ） —免费替代$ 200/月OpenAI Operator/Perplexity Computer/ClawBot/Claude Computer](https://github.com/JoseAngelSolorzanoLuna/UFO-Cathedral-v6.4-FailSafe-Free-AI)**
 
-⭐ 27,797星· 6250分叉· Python ·适用于代理、LLM和ML模型的**开源**AI工程平台，可优化生产质量的AI应用程序，同时控制成本并管理对模型和数据的访问
+⭐ 13 star (新项目) · Python · 100% Free8GB RAM Computer-Artificial Intelligence + Formal Safety (Gate + Ledger + Council + Shadow Mode) — Free alternative to $200/mo **OpenAI** Operator / Perplexity Computer / ClawBot / **Claude** Computer
 
-📅 2026-09-04T00:48:40Z
-
----
-
-### GitHub Active (AI/ML)
-![catboost ：快速、可扩展、高性能的决策树梯度提升库，用于Python、R、Java、C + +的排名、分类、回归和其他机器学习任务。支持CPU和GPU上的计算。](https://avatars.githubusercontent.com/u/29043415?v=4)
-
-**[catboost ：快速、可扩展、高性能的决策树梯度提升库，用于Python、R、Java、C + +的排名、分类、回归和其他机器学习任务。支持CPU和GPU上的计算。](https://github.com/catboost/catboost)**
-
-088星· 1331分叉· C + + ·快速支持CPU和GPU计算
-
-📅 2026-09-04T00:49:19Z
+📅 2026-09-03T05:42:22Z
 
 ---
 
@@ -295,7 +288,7 @@ Chat**GPT**、**Claude**和Grok几乎同时遭受停电，原因仍然模糊不�
 
 **[🆕 类人：类人—对话式人工智能代理的确定性角色、上下文、记忆和隐私控制· Детерминированное поведение И-агентов](https://github.com/AlekseiUL/humanlike)**
 
-⭐ 11 star (新项目) · Python · Humanlike — deterministic personamemory and privacy controls for conversational AI agents · Детерминированное поведение ИИ-агентов
+⭐ 12 star (新项目) · Python · Humanlike — deterministic personamemory and privacy controls for conversational AI agents · Детерминированное поведение ИИ-агентов
 
 📅 2026-09-01T19:44:23Z
 
@@ -306,85 +299,98 @@ Chat**GPT**、**Claude**和Grok几乎同时遭受停电，原因仍然模糊不�
 
 **[🆕 ccbp-pytorch ：在Pytorch中实施拟议的CCBP （连续连续BackProp ）](https://github.com/lucidrains/ccbp-pytorch)**
 
-⭐ 6 star (新项目) · Python · Implementation of the proposed CCBP (Continuous Continual BackProp) in Pytorch
+⭐ 10 star (新项目) · Python · Implementation of the proposed CCBP (Continuous Continual BackProp) in Pytorch
 
 📅 2026-09-03T12:09:22Z
 
 ---
 
+### GitHub New (New AI)
+![🆕 eight-market-quant-ai ：八大市场数据采集、定量分析、技术架构、爱马仕人工智能预测系统](https://avatars.githubusercontent.com/u/116344132?v=4)
+
+**[🆕 eight-market-quant-ai ：八大市场数据采集、定量分析、技术架构、爱马仕人工智能预测系统](https://github.com/Felix-Theodore-Zeng/eight-market-quant-ai)**
+
+⭐ 6 star (新项目) · Python · Eight-market data collection, quantitative analytics, technical structure, and Hermes AI forecasting system
+
+📅 2026-09-04T02:37:07Z
+
+---
+
 ## 💬 社交动态
 
-### Reddit: r/artificial
-**[哪个20 $的SUB更好？ Anthropic还是OpenAI ？](https://www.reddit.com/r/artificial/comments/1w6kohc/which_20_sub_is_better_anthropic_or_openai/)**
+### Hacker News
+**[没有人会说为什么OpenAI和Anthropic会发生停电](https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/)**
 
-我听说过很多关于克劳德的好事，设计方面的，所以哪个更好： **Anthropic**或**OpenAI**
+文章网址： https://wwwcom/story/nobody-is-saying-why-**OpenAI**-and-**Anthropic**-had-outages-today/评论网址： https://**new**s
 
-📅 2026-09-03T21:24:50.000Z
-
----
-
-### Reddit: r/artificial
-![ChatGPT、Claude和Grok一起倒下：但Gemini如何避免重大故障？](https://external-preview.redd.it/bLZNDdLm4wvNsQbiBUYVAWmRSabwSx4TF3O1-pUv6Uk.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=53cf2d39ffc93fdda8394c8c725c7580a50dc108)
-
-**[ChatGPT、Claude和Grok一起倒下：但Gemini如何避免重大故障？](https://www.reddit.com/r/artificial/comments/1w6j83r/chatgpt_claude_and_grok_went_down_together_but/)**
-
-提交者/u/beingmodest [link] [comments]
-
-📅 2026-09-03T20:31:20.000Z
+📅 Fri, 04 Sep 2026 17:29:22 +0000
 
 ---
 
 ### Hacker News
-**[ARC-AGI-3上的OpenAI GPT-6 Astra](https://arcprize.org/blog/astra)**
+**[英伟达收购HuggingFace后， Georgi Gerganov在llama.cpp/ggml上的未来](https://twitter.com/ggerganov/status/2095897173376618881)**
 
-文章网址： https://arcprizeorg/blog/astra评论网址： https://**new**s
+文章网址： https://twittercom/ggerganov/status/2095897173376618881评论网址： https://**new**s
 
-📅 Thu, 03 Sep 2026 19:45:00 +0000
+📅 Fri, 04 Sep 2026 17:12:22 +0000
 
 ---
 
 ### Hacker News
-**[GPT-6 Astra](https://openai.com/index/gpt-6-astra/)**
+**[美国企业正逐渐迷上开源人工智能](https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html)**
 
-com/**GPT**-6-astra正在进行的相关线程： **OpenAI**在ARC-AGI-3上的**GPT**-6 Astra - https://**new**sid = 49555691 **GPT**-6 Astra在人工分析编码代理索引方面取得了**重大**进展- https://**new**s
+com/2026/09/04/technology/open-source-ai-**Anthropic**-**OpenAI**html评论网址： https://**new**s
 
-📅 Thu, 03 Sep 2026 18:41:05 +0000
+📅 Fri, 04 Sep 2026 15:33:45 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[在LLM基准中，不受支持的工具调用响应如何变得“完全稳定”](https://www.reddit.com/r/artificial/comments/1w6g2z5/how_an_unsupported_toolcall_response_could_become/)**
+![OpenAI首席执行官Sam Altman表示， 38,000个ChatGPT查询使用的水量相当于一个杏仁的生产量—数据中心使用的水量不超过办公楼： “每38,000个ChatGPT查询，就相当于加利福尼亚州单个杏仁生产中使用的水量。”](https://external-preview.redd.it/ZXRy4g5CgNHdZs__JW3qTlQu8ALH-hjDI0RUN96_t2k.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=170b03027d6407b6f7b0cde25f8b9a3950b20360)
 
-不支持工具调用响应，但响应解析器可以擦除它们： **OpenAI**适配器使用了消息**Anthropic**适配器仅保留文本块，删除tool_use块
+**[OpenAI首席执行官Sam Altman表示， 38,000个ChatGPT查询使用的水量相当于一个杏仁的生产量—数据中心使用的水量不超过办公楼： “每38,000个ChatGPT查询，就相当于加利福尼亚州单个杏仁生产中使用的水量。”](https://www.reddit.com/r/artificial/comments/1w78xil/openai_ceo_sam_altman_says_38000_chatgpt_queries/)**
 
-📅 2026-09-03T18:41:09.000Z
+提交者/u/ControlCAD [link] [comments]
 
----
-
-### X: OpenAI
-**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-网址来源： http://twitter.com/**OpenAI**
-
-📅 2026-09-04T00:49:12.779Z
+📅 2026-09-04T16:17:53.000Z
 
 ---
 
-### X: DeepSeek
-**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+### Reddit: r/artificial
+**[GPT-6 Astra看起来不像“AGI” ，更像是对计算机使用代理的严肃测试](https://www.reddit.com/r/artificial/comments/1w77d8e/gpt6_astra_looks_less_like_agi_and_more_like_a/)**
 
-网址来源： http://twitter.com/**DeepSeek**_ai
+我一直在阅读**OpenAI**的**GPT**-6 Astra发射材料-人工分析在其更广泛的情报指数上为Astra打了61分，与**GPT**-5并列
 
-📅 2026-09-04T00:49:17.437Z
+📅 2026-09-04T15:20:58.000Z
 
 ---
 
 ### Hacker News
-**[Claude、Codex和Cursor选择了哪些工具？我们测量了17000次跑步来找出](https://armature.tech/blog/which-tools-coding-agents-install)**
+**[成人电影制片人揭开多产的“无名氏”洪流海盗作为Meta执行官的面纱](https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/)**
 
-文章网址： https://armaturetech/blog/which-tools-coding-agents-install评论网址： https://**new**s
+文章网址： https://torrentfreakcom/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-**Meta**-executive/评论网址： https://**new**s
 
-📅 Thu, 03 Sep 2026 21:20:34 +0000
+📅 Fri, 04 Sep 2026 16:46:59 +0000
+
+---
+
+### Reddit: r/artificial
+![发现新的OpenAI代理留言板](https://external-preview.redd.it/nb3phJRhLf83SKA4wDO3lqLf4mmJ5DMjsmmO528OLKA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=abdf22a7a2e15520df9a78facb89c8f6aa38bfba)
+
+**[发现新的OpenAI代理留言板](https://www.reddit.com/r/artificial/comments/1w72cnz/discovery_of_a_new_openai_agent_message_board/)**
+
+提交者/u/MatriceJacobine [link] [comments]
+
+📅 2026-09-04T11:59:11.000Z
+
+---
+
+### Hacker News
+**[Show HN ：开源eInk自行车电脑](https://opentrailpaper.com)**
+
+大家好，我刚刚启动了我的Eink Bike计算机项目，并认为它很酷它通过处理无文档的寄存器来帮助创建ESP32的ANT （用于锻炼/骑自行车的常见传感器无线协议）实现： https://github
+
+📅 Fri, 04 Sep 2026 17:18:08 +0000
 
 ---
 
