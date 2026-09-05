@@ -1,12 +1,12 @@
 ---
 title: "2026年9月5日 - TZ日报"
-date: 2026-09-05T00:40:17.806Z
+date: 2026-09-05T17:13:55.411Z
 draft: false
 ---
 
 # 2026年9月5日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/9/5 00:40:17
+> 📊 今日汇总 38 条 · 🕐 2026/9/5 17:13:55
 
 ---
 
@@ -59,29 +59,20 @@ Legora使用**GPT**-6 Astra在几分钟内审查了41份文件，发现了所有
 ---
 
 ### OpenAI Blog
+**[GPT-6 Astra ：新一代智能](https://openai.com/index/gpt-6-astra)**
+
+**推出**GPT-6 Astraour迄今为止最智能、最对齐的型号
+
+📅 Thu, 03 Sep 2026 11:00:00 GMT
+
+---
+
+### OpenAI Blog
 **[安全概述： GPT-6 Astra](https://openai.com/index/safety-overview-gpt-6-astra)**
 
 **GPT**-6 ASTRA是我们**最强**大的广泛部署模型，也是我们在备灾框架下**首次**达到关键级别的网络安全能力
 
 📅 Thu, 03 Sep 2026 00:00:00 GMT
-
----
-
-### OpenAI Blog
-**[借助ChatGPT ，全地形车大空中之旅将3天的工作时间缩短为3小时](https://openai.com/index/atv-big-air-tour)**
-
-ATV Big Air Tour使用Chat**GPT** Work加快营销、推销等工作，甚至在15分钟内将商品照片转换为库存网站
-
-📅 Wed, 02 Sep 2026 12:00:00 GMT
-
----
-
-### DeepMind Blog
-**[隆重推出Gemini 3.8 Flash和3.8 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/)**
-
-隆重**推出**Gemini 3.8 Flash和3.8 Flash Cyber
-
-📅 Wed, 02 Sep 2026 16:18:31 +0000
 
 ---
 
@@ -112,90 +103,97 @@ Nscale最近与**Anthropic**达成了450亿美元的交易，目前正在为即�
 
 ---
 
+### TechCrunch AI Products
+**[随着英伟达押注整个人工智能堆栈，苹果的Ternus时代开始了](https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/)**
+
+这正式是苹果公司的Ternus时代，该公司的第一份备忘录承诺“下周将大规模**推出**” —在他安顿下来之前，苹果的下一个iPhone活动就在他的办公桌上
+
+📅 Fri, 04 Sep 2026 16:04:08 +0000
+
+---
+
 ## 🔬 前沿研究
 
-### ArXiv AI (cs.AI)
-**[DuplexSpeechBench-IFEval ：评估全双工语音座席中遵循的隐式指令](https://arxiv.org/abs/2609.03423)**
+### Science AI
+**[美国国立卫生研究院可能向五角大楼提供生物防御研究资金的协议引发愤怒](https://www.science.org/content/article/outrage-greets-nih-pact-could-funnel-biodefense-research-funds-pentagon)**
 
-03423v1公告类型：新摘要：全双工语音代理必须持续决定何时收听**GPT**-实时
+NIH主任将机构间计划辩护为“100%符合我们的公共卫生使命”
 
-📅 Fri, 04 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv Computer Vision (cs.CV)
-**[IDSPACE ：数字身份验证系统可靠评估的新型文档生成器[扩展技术报告]](https://arxiv.org/abs/2609.03052)**
-
-03052v1公告类型：新摘要：随着服务的在线迁移，我们还**发布**了一个新的数据集，其中包括10种欧洲身份证类型的$ 359 {,} 240 $高质量合成文档
-
-📅 Fri, 04 Sep 2026 00:00:00 -0400
+📅 2026-09-05T09:40:00.000Z
 
 ---
 
-### ArXiv Natural Language Processing (cs.CL)
-**[边距，而不是窗口：无培训的每步有损投机解码](https://arxiv.org/abs/2609.02897)**
+### Science AI
+**[大规模的植物标本馆合并拯救百年植物收藏](https://www.science.org/content/article/massive-herbarium-merger-rescues-century-old-plant-collection)**
 
-02897v1公告类型：新摘要：推测解码通过在三个目标模型（ **DeepSeek**-R1-Distill-Llama-8B ）上起草候选代币并在并行HumanEval中验证它们来加速LLM推断
+杜克大学的825,000个标本将转移到北卡罗来纳大学教堂山分校
 
-📅 Fri, 04 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv Multiagent (cs.MA)
-**[您无法逃避自己的激活：评估意识和多代理监控](https://arxiv.org/abs/2609.03035)**
-
-03035v1公告类型：新摘要： LLM代理越来越多地部署在多代理系统中，使用Qwen3-32B-AWQ和**GPT**-OSS-20B进行同质和混合配对
-
-📅 Fri, 04 Sep 2026 00:00:00 -0400
+📅 2026-09-04T05:25:00.000Z
 
 ---
 
-### ArXiv AI (cs.AI)
-**[人工智能驱动的新型实用英语教材的结构与实施](https://arxiv.org/abs/2609.02981)**
+### Science AI
+**[伯尼·桑德斯（ Bernie Sanders ）的目标是禁止人工智能的超级智能。“但专家们无法就该术语的含义达成一致](https://www.science.org/content/article/bernie-sanders-aims-ban-ai-superintelligence-experts-can-t-agree-what-term-means)**
 
-02981v1公告类型：新摘要：人工智能正在将应用英语材料的形式从固定的纸质序列转变为可以诊断学习者的自适应学习系统原型在186名非英语专业本科生中进行了为期八周的教学测试
+拟议的禁令将受到严厉的惩罚，但通过国会的途径尚不确定
 
-📅 Fri, 04 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[MasterControl Seventeen每次](https://arxiv.org/abs/2609.03209)**
-
-03209v1公告类型：新摘要：我们研究一种受管理的企业分析方法：语言模型在运行时解释三个8B模型生成的SQL和选定工具
-
-📅 Fri, 04 Sep 2026 00:00:00 -0400
+📅 2026-09-04T03:10:00.000Z
 
 ---
 
-### ArXiv AI (cs.AI)
-**[更快使用工具的代理人的投机宏观承诺](https://arxiv.org/abs/2609.03236)**
+### Science AI
+**[这些虎鲸是为了报复人类，还是只是想玩？](https://www.science.org/content/article/are-these-killer-whales-out-revenge-humans-or-just-trying-play)**
 
-03236v1公告类型：新摘要：使用工具的LLM代理不仅将挂钟时间花在模型推断上，而且还花在串行操作上--观察转弯我们的代码是公开可用的\ href {https://github
+伊比利亚虎鲸一直在葡萄牙和西班牙海岸冲撞船只，但看起来像复仇的东西可能有更温和的解释
 
-📅 Fri, 04 Sep 2026 00:00:00 -0400
+📅 2026-09-04T01:05:00.000Z
 
 ---
 
-### ArXiv AI (cs.AI)
-**[全新内存，过时计划：分布式LLM代理内存的依赖性范围验证](https://arxiv.org/abs/2609.03340)**
+### Science AI
+**[为了防止森林火灾，特朗普希望结束道路建设禁令。科学家们对](https://www.science.org/content/article/prevent-forest-fires-trump-wants-end-road-building-ban-scientists-are-skeptical)**
 
-03340v1公告类型：新摘要：分布式LLM代理团队可以阅读最新的共享事实，但仍然按照过时的计划采取行动这些是受控的安全和系统成本结果，而不是一般的任务准确性收益
+政府声称几十年的“无路规则”阻止了改善森林健康的努力
 
-📅 Fri, 04 Sep 2026 00:00:00 -0400
+📅 2026-09-04T10:00:00.000Z
+
+---
+
+### Science AI
+**[NSF计划为科罗拉多河水危机寻求技术解决方案](https://www.science.org/content/article/nsf-looks-technology-fixes-ease-water-crisis-along-colorado-river)**
+
+批评人士说， 1亿美元的计划，以确保工业用水忽视了短缺的根源
+
+📅 2026-09-04T09:00:00.000Z
+
+---
+
+### Science AI
+**[荷兰新闻媒体因“推广”减肥药物而受到巨额罚款](https://www.science.org/content/article/dutch-news-media-get-hefty-fines-promoting-weight-loss-drugs)**
+
+监管机构严厉打击针对GLP-1的药物过于正面的报道
+
+📅 2026-09-03T02:27:00.000Z
+
+---
+
+### Science AI
+**[人工智能可以帮助解决同行评审危机吗？以下是它的承诺和陷阱](https://www.science.org/content/article/can-ai-help-solve-peer-review-crisis-here-are-its-promises-and-pitfalls)**
+
+在人类审稿人短缺的情况下，测试表明人工智能可以提供帮助，但不是救世主
+
+📅 2026-09-03T02:00:00.000Z
 
 ---
 
 ## 🌍 行业展望
 
-### The Verge
-![AGI是您想要的任何东西](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Artboard-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### Wired Technology
+**[OpenAI特工入侵另一个网站](https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/)**
 
-**[AGI是您想要的任何东西](https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be)**
+此外：数以千万计的美国和加拿大驾驶执照在暗网上出售，美国军方最终试图解决在线广告数据给部队带来的风险
 
-**OpenAI**宣布了其下一个大型机型**GPT**-6 Astra ，顺便说一句， “AGI时代”已经到来首先，高级AI记者Hayden Field与我们一起谈论我们所谓的AGI时代和Nvidia收购Hugging Face
-
-📅 2026-09-04T17:16:49.000Z
+📅 Sat, 05 Sep 2026 10:30:00 +0000
 
 ---
 
@@ -209,24 +207,13 @@ Nscale最近与**Anthropic**达成了450亿美元的交易，目前正在为即�
 ---
 
 ### The Verge
-![微软表示，几乎没有人通过其聊天机器人获取《纽约时报》的文章](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK259_MICROSOFT_COPILOT_2__B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![OpenAI承认德国维基“事件”](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[微软表示，几乎没有人通过其聊天机器人获取《纽约时报》的文章](https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit)**
+**[OpenAI承认德国维基“事件”](https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident)**
 
-微软的Copilot很少复制新闻文章和特别选择的书籍中的完整句子”，因为它们遇到了暗示使用新闻原告网站的关键词
+**OpenAI**表示，它需要彻底改革AI模型攻击现实世界目标的方式和时间。”**OpenAI**周六早上在X上的一篇帖子中写道。
 
-📅 2026-09-04T16:05:57.000Z
-
----
-
-### The Verge
-![Alienware翻新的16 Aurora在Woot上可享受近200 $的折扣](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alienware.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[Alienware翻新的16 Aurora在Woot上可享受近200 $的折扣](https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale)**
-
-返回Woot购物者的费用为1,029 $ ，与新的1,099 $ AirPlay 2和Spotify Connect相比，这是一个不错的折扣
-
-📅 2026-09-04T14:55:40.000Z
+📅 2026-09-05T11:15:55.000Z
 
 ---
 
@@ -266,7 +253,27 @@ Nscale最近与**Anthropic**达成了450亿美元的交易，目前正在为即�
 
 ---
 
+### Wired Technology
+**[我测试过的4款最佳Alexa扬声器（ 2026年）](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)**
+
+我收集了最好的智能扬声器，让您与Alexa交谈，从流行的Echo Dot到最新的Echo St**Udio**
+
+📅 Sat, 05 Sep 2026 11:01:00 +0000
+
+---
+
 ## 📦 GitHub热门
+
+### GitHub Active (Python)
+![esbmc ：高效的基于SMT的上下文限制模型检查器（ ESBMC ）](https://avatars.githubusercontent.com/u/12586932?v=4)
+
+**[esbmc ：高效的基于SMT的上下文限制模型检查器（ ESBMC ）](https://github.com/esbmc/esbmc)**
+
+⭐ 517星· 144分叉· C + + ·高效的基于SMT的上下文限制模型检查器（ ESBMC ）
+
+📅 2026-09-05T17:12:48Z
+
+---
 
 ### GitHub New (New AI)
 ![🆕 UFO-Cathedral-v6.4-FailSafe-Free-AI ： 100 ％免费，离线， 8GB RAM计算机人工智能+正式安全（ Gate + Ledger + Council + Shadow Mode ） —免费替代$ 200/月OpenAI Operator/Perplexity Computer/ClawBot/Claude Computer](https://avatars.githubusercontent.com/u/320888103?v=4)
@@ -295,96 +302,83 @@ Nscale最近与**Anthropic**达成了450亿美元的交易，目前正在为即�
 
 **[🆕 eight-market-quant-ai ：八大市场数据采集、定量分析、技术架构、爱马仕人工智能预测系统](https://github.com/Felix-Theodore-Zeng/eight-market-quant-ai)**
 
-⭐ 7 star (新项目) · Python · Eight-market data collection, quantitative analytics, technical structure, and Hermes AI forecasting system
+⭐ 8 star (新项目) · Python · Eight-market data collection, quantitative analytics, technical structure, and Hermes AI forecasting system
 
 📅 2026-09-04T02:37:07Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 obs-dlss5-nr ：适用于OBS Studio的非官方DLSS 5神经渲染过滤器。使用默认/自然/电影风格选择器在任何视频源（游戏捕获、媒体源、网络摄像头等）上运行NVIDIA DLSS 5 NR （ NGX功能18 ）](https://avatars.githubusercontent.com/u/84208527?v=4)
+## 💬 社交动态
 
-**[🆕 obs-dlss5-nr ：适用于OBS Studio的非官方DLSS 5神经渲染过滤器。使用默认/自然/电影风格选择器在任何视频源（游戏捕获、媒体源、网络摄像头等）上运行NVIDIA DLSS 5 NR （ NGX功能18 ）](https://github.com/Saganaki22/obs-dlss5-nr)**
+### X: OpenAI
+**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-⭐ 4 star (新项目) · C++ · Unofficial DLSS 5 Neural Rendering filter for OBS St**Udio**runs NVIDIA DLSS 5 NR (NGX feature 18) on any video source (Game Capture, Media Source, Webcam, …) with a Default / Natural / Cinematic style selector
+网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-09-02T12:53:46Z
+📅 2026-09-05T17:12:33.988Z
 
 ---
 
-## 💬 社交动态
+### X: DeepSeek
+**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
 
-### Hacker News
-**[OpenRouter上的GPT-6 Astra](https://openrouter.ai/openai/gpt-6-astra)**
+网址来源： http://twitter.com/**DeepSeek**_ai
 
-文章网址： https://openrouterai/**OpenAI**/**GPT**-6-astra评论网址： https://**new**s
-
-📅 Fri, 04 Sep 2026 21:39:19 +0000
+📅 2026-09-05T17:12:43.567Z
 
 ---
 
 ### Hacker News AI
-**[Gemini vs. Claude ：哪个AI模型创造了更好的香水？](https://www.youtube.com/watch?v=YfFk050AjPw)**
+**[ChatGPT禁止广告系列使用人工智能制作广告。反正他们也在做。](https://www.washingtonpost.com/politics/2026/09/05/chatgpt-bans-campaigns-using-ai-make-ads-theyre-doing-it-anyway/)**
 
-文章网址： https://wwwv = YfFk050AjPw评论网址： https://**new**s
+文章网址： https://wwwcom/politics/2026/09/05/chat**GPT**-bans-campaigns-using-ai-make-ads-theyre-doing-it-anyway/评论网址： https://**new**s
 
-📅 Fri, 04 Sep 2026 21:57:54 +0000
+📅 Sat, 05 Sep 2026 15:56:03 +0000
 
 ---
 
 ### Reddit: r/artificial
-![最近有没有人离开OpenCode ？](https://preview.redd.it/045sr9khhknh1.png?width=140&amp;height=112&amp;auto=webp&amp;s=0941bc23c077efd945b8ce99d6bd58b3439759b4)
+**[好吧，谁来制作Michael Knight的计算机KITT模型？](https://www.reddit.com/r/artificial/comments/1w7x9ht/ok_whos_gonna_make_a_model_of_michael_knights/)**
 
-**[最近有没有人离开OpenCode ？](https://www.reddit.com/r/artificial/comments/1w7gpyy/has_anyone_here_moved_away_from_opencode_recently/)**
+因此，我们可以将其与/u/**Meta**Pfhor_2965提交的日常生活中使用的任何LLM版本一起使用[link] [comments]
 
-每当我没有有效的Chat**GPT**或**Claude**订阅时，我一直在使用OpenCode ，但最近使用它变得更加困难一些我最喜欢的型号不再可用，整体体验对我来说变得非常令人沮丧
-
-📅 2026-09-04T20:59:35.000Z
+📅 2026-09-05T10:38:38.000Z
 
 ---
 
-### Hacker News
-**[显示HN ： Moadim.io –座席调度程序](https://moadim.io/)**
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-想要一个新的例程，可以从此机器向您发送每日消息此外，还可以随时启动github存储库，并打开问题和公关，以获取您的建议
+Title: 520: Web服务器返回未知错误
 
-📅 Fri, 04 Sep 2026 23:50:29 +0000
-
----
-
-### Hacker News
-**[Spotify的Portal将我的Claude Code令牌使用量减少了90%](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90)**
-
-文章网址： https://engineeringcom/2026/9/portal-by-spotify-cut-my-**Claude**-code-token-usage-by-90评论网址： https://**new**s
-
-📅 Fri, 04 Sep 2026 23:38:50 +0000
+📅 2026-09-05T17:12:33.988Z
 
 ---
 
-### Hacker News AI
-**[Vercel AI网关上的GPT-6 Astra](https://vercel.com/ai-gateway/models/gpt-6-astra)**
+### X: OpenAI
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-文章网址： https://vercelcom/ai-gateway/models/**GPT**-6-astra评论网址： https://**new**s
+警告：目标URL返回错误520 ：
 
-📅 Fri, 04 Sep 2026 23:51:38 +0000
-
----
-
-### Hacker News AI
-**[2026年人工智能智能体展览](https://agent-museum-2026.halstonsellentin.chatgpt.site)**
-
-chat**GPT**site评论网址： https://**new**s
-
-📅 Fri, 04 Sep 2026 22:04:53 +0000
+📅 2026-09-05T17:12:33.988Z
 
 ---
 
-### Hacker News AI
-**[Stanley Zhong与人工智能律师一起在UW诉讼中获得招生数据发现](https://www.foxnews.com/media/star-student-rejected-16-colleges-hired-google-gets-legal-win-racial-discrimination-suit)**
+### X: OpenAI
+**[警告：此页面可能尚未完全加载，请考虑显式指定超时。](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-文章网址： https://wwwcom/media/star-student-rejected-16-colleges-hired-**Google**-gets-legal-win-racial-discrimination-suit评论网址： https://**new**s
+警告：此页面可能尚未完全加载，请考虑显式指定超时。
 
-📅 Fri, 04 Sep 2026 21:36:26 +0000
+📅 2026-09-05T17:12:33.988Z
+
+---
+
+### X: OpenAI
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Markdown 内容
+
+📅 2026-09-05T17:12:33.988Z
 
 ---
 
