@@ -1,12 +1,12 @@
 ---
 title: "2026年9月7日 - TZ日报"
-date: 2026-09-07T00:45:09.794Z
+date: 2026-09-07T19:04:14.482Z
 draft: false
 ---
 
 # 2026年9月7日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/9/7 00:45:09
+> 📊 今日汇总 38 条 · 🕐 2026/9/7 19:04:14
 
 ---
 
@@ -37,6 +37,15 @@ draft: false
 治安官办公室表示， “双子座建议徒步旅行者携带的食物和水远远少于他们的团队所需的食物和水。”
 
 📅 Sat, 05 Sep 2026 19:35:24 +0000
+
+---
+
+### OpenAI Blog
+**[支持乌克兰的独立新闻报道](https://openai.com/index/supporting-independent-journalism-in-ukraine)**
+
+**OpenAI**、AIRPPU和WAN-IFRA**推出**人工智能计划，帮助乌克兰新闻机构加强创新、韧性和独立新闻
+
+📅 Mon, 07 Sep 2026 00:00:00 GMT
 
 ---
 
@@ -85,15 +94,6 @@ Nscale最近与**Anthropic**达成了450亿美元的交易，目前正在为即�
 
 ---
 
-### TechCrunch AI Products
-**[另一群OpenAI特工在前沿实验室不知情的情况下进入了开放互联网](https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/)**
-
-这是**OpenAI**内部监控和安全系统的最新故障。
-
-📅 Fri, 04 Sep 2026 16:21:11 +0000
-
----
-
 ### OpenAI Blog
 **[外星人思维](https://openai.com/index/an-alien-mind)**
 
@@ -114,75 +114,75 @@ Jakub Pachocki反思了越来越强大的人工智能以及保持其一致性的
 
 ## 🔬 前沿研究
 
-### Science AI
-**[美国国立卫生研究院可能向五角大楼提供生物防御研究资金的协议引发愤怒](https://www.science.org/content/article/outrage-greets-nih-pact-could-funnel-biodefense-research-funds-pentagon)**
+### ArXiv AI (cs.AI)
+**[港口适配器和港口指数：用于大规模代理评估的基础设施和精选元数据集](https://arxiv.org/abs/2609.04298)**
 
-NIH主任将机构间计划辩护为“100%符合我们的公共卫生使命”
+04298v1公告类型：新摘要：在越来越多的代理基准上评估代理是具有挑战性的，因为它们通常需要复杂的环境和代理集成以及**最强**的（ **GPT**-5
 
-📅 2026-09-05T09:40:00.000Z
-
----
-
-### Science AI
-**[大规模的植物标本馆合并拯救百年植物收藏](https://www.science.org/content/article/massive-herbarium-merger-rescues-century-old-plant-collection)**
-
-杜克大学的825,000个标本将转移到北卡罗来纳大学教堂山分校
-
-📅 2026-09-04T05:25:00.000Z
+📅 Mon, 07 Sep 2026 00:00:00 -0400
 
 ---
 
-### Science AI
-**[伯尼·桑德斯（ Bernie Sanders ）的目标是禁止人工智能的超级智能。“但专家们无法就该术语的含义达成一致](https://www.science.org/content/article/bernie-sanders-aims-ban-ai-superintelligence-experts-can-t-agree-what-term-means)**
+### ArXiv AI (cs.AI)
+**[HarvestBench ：衡量法学硕士代理是否会支付避免杀死动物的费用](https://arxiv.org/abs/2609.04444)**
 
-拟议的禁令将受到严厉的惩罚，但通过国会的途径尚不确定
+04444v1公告类型： **new** Abstract: Benchmarks for the side effects a agent cause on the way to a goal already exist当动物阻挡拖拉机的路线时，自动驾驶仪停止并询问模型是否开车
 
-📅 2026-09-04T03:10:00.000Z
-
----
-
-### Science AI
-**[这些虎鲸是为了报复人类，还是只是想玩？](https://www.science.org/content/article/are-these-killer-whales-out-revenge-humans-or-just-trying-play)**
-
-伊比利亚虎鲸一直在葡萄牙和西班牙海岸冲撞船只，但看起来像复仇的东西可能有更温和的解释
-
-📅 2026-09-04T01:05:00.000Z
+📅 Mon, 07 Sep 2026 00:00:00 -0400
 
 ---
 
-### Science AI
-**[为了防止森林火灾，特朗普希望结束道路建设禁令。科学家们对](https://www.science.org/content/article/prevent-forest-fires-trump-wants-end-road-building-ban-scientists-are-skeptical)**
+### ArXiv AI (cs.AI)
+**[PerfReasoning ： LLM在硬件性能方面的理由有多好？](https://arxiv.org/abs/2609.04476)**
 
-政府声称几十年的“无路规则”阻止了改善森林健康的努力
+04476v1公告类型：新摘要：性能建模是硬件设计和软件优化的核心但是，模型构建要困难得多：而**GPT**-5
 
-📅 2026-09-04T10:00:00.000Z
-
----
-
-### Science AI
-**[NSF计划为科罗拉多河水危机寻求技术解决方案](https://www.science.org/content/article/nsf-looks-technology-fixes-ease-water-crisis-along-colorado-river)**
-
-批评人士说， 1亿美元的计划，以确保工业用水忽视了短缺的根源
-
-📅 2026-09-04T09:00:00.000Z
+📅 Mon, 07 Sep 2026 00:00:00 -0400
 
 ---
 
-### MIT Tech Research
-**[人工智能时代的内存和存储架构](https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/)**
+### ArXiv AI (cs.AI)
+**[EXAONE财务预测](https://arxiv.org/abs/2609.04239)**
 
-人工智能推理的时代已经到来这些现实世界的**突破**依赖于先进的基础设施，作为持续智能的引擎，为实时服务提供动力，同时……
+根据财务预测量身定制的财务时间序列（ TS ）基础模型（ TSFM ）屏蔽上下文增强使模型在培训期间暴露于连续缺失跨度
 
-📅 Fri, 04 Sep 2026 18:39:19 +0000
+📅 Mon, 07 Sep 2026 00:00:00 -0400
 
 ---
 
-### MIT Tech Research
-**[来自乌克兰无人机的数据正在推动新的狂野西部市场](https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/)**
+### ArXiv AI (cs.AI)
+**[从模型匹配到招聘代理：人工智能招聘系统、评估和治理的系统化叙述性回顾](https://arxiv.org/abs/2609.04286)**
 
-乌克兰的战场上到处都是无人驾驶飞机的残骸，无人驾驶飞机现在已成为现代战争的关键武器。但在所有残骸的背后，有一座新的国防金矿
+04286v1公告类型：新摘要：招聘中的人工智能已将自动化对象从配置文件对和排名列表转移到检索证据的多阶段工作流程使用**更新**至2026年7月23日的有目的的搜索和编码协议
 
-📅 Fri, 04 Sep 2026 09:25:19 +0000
+📅 Mon, 07 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[数据优化应急筛选：电力系统安全的机器学习方法](https://arxiv.org/abs/2609.04300)**
+
+04300v1公告类型：新摘要：确保电力系统的安全性对于稳定性和可靠性至关重要**new**ton-Raphson负载流量法从应急场景中提取系统数据
+
+📅 Mon, 07 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[IRIS ：攀登搜索前沿](https://arxiv.org/abs/2609.04304)**
+
+04304v1公告类型：新摘要：我们介绍Iris-mini和Iris-pro我们计划**发布**模型权重以及数据构建、培训和评估的完整配方
+
+📅 Mon, 07 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[在测试时提高LLM忠诚度的基于删除的方法](https://arxiv.org/abs/2609.04343)**
+
+04343v1公告类型：新摘要：大型语言模型（ LLM ）越来越多地用于**重大**决策不幸的是，这些解释可能不忠实，未能反映模型决策的实际推理
+
+📅 Mon, 07 Sep 2026 00:00:00 -0400
 
 ---
 
@@ -199,12 +199,12 @@ NIH主任将机构间计划辩护为“100%符合我们的公共卫生使命”
 
 ---
 
-### Wired Technology
-**[OpenAI特工入侵另一个网站](https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/)**
+### MIT Tech Review
+**[下载：寻找地下氢气和更多流氓OpenAI特工](https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/)**
 
-此外：数以千万计的美国和加拿大驾驶执照在暗网上出售，美国军方最终试图解决在线广告数据给部队带来的风险
+这是今天的“下载”版本，这是我们的工作日通讯，提供每日剂量的技术世界正在发生的事情有多少氢气在地下等着我们
 
-📅 Sat, 05 Sep 2026 10:30:00 +0000
+📅 Mon, 07 Sep 2026 12:10:00 +0000
 
 ---
 
@@ -217,72 +217,61 @@ NIH主任将机构间计划辩护为“100%符合我们的公共卫生使命”
 
 ---
 
-### MIT Tech Review
-**[下载：销售战场无人机数据和人工智能重塑语言](https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/)**
+### Wired Technology
+**[家得宝劳动节促销（ 2026年） ：推出最佳烤架和工具](https://www.wired.com/story/home-depot-labor-day-sale-deals-2026/)**
 
-这是今天的The Download版本，我们的工作日时事通讯，提供每日剂量的技术世界正在发生的事情来自乌克兰无人机的数据正在推动一个新的狂野西部市场—Cory Alpert
+家得宝劳动节促销活动在烧烤架和工具上大放异彩以下是我们关于购买和忽略的建议
 
-📅 Fri, 04 Sep 2026 12:10:00 +0000
+📅 Mon, 07 Sep 2026 16:35:52 +0000
 
 ---
 
 ### Wired Technology
-**[适合工作、旅行和一切的最佳笔记本电脑背包（ 2026年）](https://www.wired.com/story/best-laptop-backpacks/)**
+**[我自己购买的最佳科技劳动节销售（ 2026年） ：吸尘器、耳机等](https://www.wired.com/story/tech-labor-day-sales-2026/)**
 
-错误的袋子每天都会加剧您的情绪。这些经过WIRED测试的拣选品获得了恰到好处的舒适度、容量和组织性
+从无绳吸尘器到我们测试过的最好的无线耳机，我们最喜欢的一些技术将在今年的劳动节发售
 
-📅 Sun, 06 Sep 2026 11:30:00 +0000
-
----
-
-### Wired Technology
-**[创建自定义Windows 11通知，提醒自己任何事情](https://www.wired.com/story/create-custom-windows-11-notifications-to-remind-yourself-of-anything/)**
-
-通过向自己发送由特定事件触发的定期提醒和自定义通知，完全控制桌面提醒
-
-📅 Sun, 06 Sep 2026 11:00:00 +0000
+📅 Mon, 07 Sep 2026 16:33:37 +0000
 
 ---
 
 ### Wired Technology
-**[这些机器人蟑螂可以挽救你的生命](https://www.wired.com/story/cyborg-cockroaches-disaster-response/)**
+**[REI劳动节促销的57个超值优惠](https://www.wired.com/story/rei-labor-day-sale-2026/)**
 
-该团队将电极嵌入活蟑螂中，然后为它们配备摄像头和注射装置，通过远程控制输送药物
+劳动节已经说了，不是这样的
 
-📅 Sun, 06 Sep 2026 10:30:00 +0000
+📅 Mon, 07 Sep 2026 13:33:30 +0000
 
 ---
 
 ### Wired Technology
-**[My Brief Summer Fling与Siri AI](https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/)**
+**[宇宙的两个伟大奥秘可能有自己的维度](https://www.wired.com/story/dark-energy-matter-may-have-own-dimension/)**
 
-我最初迷恋苹果经过改进的智能手机助手的测试版随着全面**发布**的临近，我甚至忘记了Siri AI的存在
+暗能量可能越来越弱科学家们想知道“暗维度”中与暗物质的相互作用是否可能是原因
 
-📅 Sun, 06 Sep 2026 10:30:00 +0000
+📅 Mon, 07 Sep 2026 12:00:00 +0000
+
+---
+
+### Wired Technology
+**[天文学家已经完成了最大的太空地图。是的，你可以玩它。](https://www.wired.com/story/astronomers-complete-largest-map-of-space-yes-you-can-play-with-it/)**
+
+这张错综复杂的56万亿像素地图覆盖了大约75%的天空，包括大约40亿个天体
+
+📅 Mon, 07 Sep 2026 11:30:00 +0000
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![管道： Kubeflow的机器学习管道](https://avatars.githubusercontent.com/u/33164907?v=4)
+![metarank ：针对文章、房源、搜索结果和推荐的低代码机器学习个性化排名服务，可提升用户参与度。友好的Learn-to-Rank引擎](https://avatars.githubusercontent.com/u/72728171?v=4)
 
-**[管道： Kubeflow的机器学习管道](https://github.com/kubeflow/pipelines)**
+**[metarank ：针对文章、房源、搜索结果和推荐的低代码机器学习个性化排名服务，可提升用户参与度。友好的Learn-to-Rank引擎](https://github.com/metarank/metarank)**
 
-⭐ 4204星· 2110叉·围棋· Kubeflow机器学习流水线
+438星· 108分叉· Scala ·针对文章的低代码机器学习个性化排名服务友好的Learn-to-Rank引擎
 
-📅 2026-09-07T00:44:01Z
-
----
-
-### GitHub Active (Python)
-![Rapid-MLX ： Apple Silicon最快的本地AI引擎。比Ollama快4.2倍，缓存TTFT 0.08秒， 100%工具调用。17个工具解析器，提示缓存，推理分离，云路由。Drop-in OpenAI替换。适用于Claude Code、Cursor、Aider。](https://avatars.githubusercontent.com/u/989846?v=4)
-
-**[Rapid-MLX ： Apple Silicon最快的本地AI引擎。比Ollama快4.2倍，缓存TTFT 0.08秒， 100%工具调用。17个工具解析器，提示缓存，推理分离，云路由。Drop-in OpenAI替换。适用于Claude Code、Cursor、Aider。](https://github.com/raullenchai/Rapid-MLX)**
-
-下拉式**OpenAI**替换使用**Claude** Code、Cursor、Aider
-
-📅 2026-09-07T00:43:41Z
+📅 2026-09-07T19:02:14Z
 
 ---
 
@@ -291,9 +280,20 @@ NIH主任将机构间计划辩护为“100%符合我们的公共卫生使命”
 
 **[🆕 Vortex ： ИИ под названием Vortex для лбых задач。Сейчас уже доступна рабочая версия проекта, которая ежедневно улучшается](https://github.com/Delinor-Hens/Vortex)**
 
-⭐ 10 star (新项目) · C++ · ИИ под названием Vortex для любых задачСейчас уже доступна рабочая версия проекта, которая ежедневно улучшается
+⭐ 13 star (新项目) · C++ · ИИ под названием Vortex для любых задачСейчас уже доступна рабочая версия проекта, которая ежедневно улучшается
 
 📅 2026-09-06T11:05:41Z
+
+---
+
+### GitHub New (New AI)
+![🆕 声明性注意：语言模型中过程的实施可以控制自己的注意力，来自KAIST AI的Namgyu Ho等人](https://avatars.githubusercontent.com/u/108653?v=4)
+
+**[🆕 声明性注意：语言模型中过程的实施可以控制自己的注意力，来自KAIST AI的Namgyu Ho等人](https://github.com/lucidrains/declarative-attention)**
+
+⭐ 11 star (新项目) · N/A · Implementation of the procedure in Language Models Can Control Their Own Attention, from Namgyu Ho et alof KAIST AI
+
+📅 2026-09-06T13:52:58Z
 
 ---
 
@@ -310,79 +310,79 @@ NIH主任将机构间计划辩护为“100%符合我们的公共卫生使命”
 
 ## 💬 社交动态
 
+### Reddit: r/artificial
+**[为什么我不应该选择Copilot而不是ChatGPT ？](https://www.reddit.com/r/artificial/comments/1wa02cg/why_should_i_not_choose_copilot_over_chatgpt/)**
+
+TL; DR ：帮助我证明Copilot与Chat**GPT** Business相比是错误的选择在我们公司，我们目前正在与Chat**GPT** Business合作
+
+📅 2026-09-07T18:23:29.000Z
+
+---
+
+### Hacker News
+**[告诉HN ： OpenAI为PLUS和BUSINESS STANDARD用户重新设置了5小时的限制](https://news.ycombinator.com/item?id=49600233)**
+
+如果您想知道为什么限制的行为与上周非常不同Comments URL: https://**new**s
+
+📅 Mon, 07 Sep 2026 16:40:32 +0000
+
+---
+
+### Hacker News
+**[必应墙纸展示哈利波特和神奇野兽广告套装](https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set)**
+
+文章网址： https://wwwcom/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set评论网址： https://**new**s
+
+📅 Mon, 07 Sep 2026 15:50:37 +0000
+
+---
+
 ### Hacker News AI
-**[随着人工智能实验室竞相推出新版本， “模型疲劳”开始出现](https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html)**
+**[Show HN ：了解Google和AI为何忽略您的网站以及如何修复它](https://beseen.so)**
 
-com/2026/09/06/**Meta**-**Google**-**OpenAI**-**Anthropic**-ai-model-fatiguehtml评论网址： https://**new**s
+文章网址： https://beseenso评论网址： https://**new**s
 
-📅 Sun, 06 Sep 2026 22:26:14 +0000
+📅 Mon, 07 Sep 2026 18:16:02 +0000
+
+---
+
+### Hacker News AI
+**[HuggingFace/Kernels ：用于本地AI的200个WebGPU内核](https://huggingface.co/blog/webgpu-kernels)**
+
+文章网址： https://huggingfaceco/blog/webgpu-kernels评论网址： https://**new**s
+
+📅 Mon, 07 Sep 2026 17:48:34 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[构建了一个Chrome侧边栏，可以总结任何页面，这样我就不会淹没在标签页中](https://www.reddit.com/r/artificial/comments/1w8wu0c/built_a_chrome_sidebar_that_summarizes_any_page/)**
+![我计划如何使用新的iPhone Fold](https://preview.redd.it/nky3aof8r4oh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e86a0fc6a439b18e54e17c608b9041e33f8de082)
 
-其余时间要么过快地浏览内容，要么将其复制粘贴到Chat**GPT**中以获取要点因此，我在Chrome的侧边栏中构建了一个工具，该工具可在任何页面上打开，并为您提供刚刚阅读的内容的适当摘要添加插入个人**Gemini** API密钥的选项， **Google**和Chat**GPT**免费提供这些工具，需要30秒才能完成设置
+**[我计划如何使用新的iPhone Fold](https://www.reddit.com/r/artificial/comments/1w9xy4u/how_i_plan_to_use_the_new_iphone_fold/)**
 
-📅 2026-09-06T13:54:11.000Z
+我认为这将是手机最明智的功率使用滚动社交媒体腐烂我的大脑，而我告诉克劳德“给我一个赚很多钱的应用程序，别搞错了”
 
----
-
-### Reddit: r/artificial
-**[还有多少人喜欢这些工具？](https://www.reddit.com/r/artificial/comments/1w8vete/how_much_people_still_like_these_tools/)**
-
-Chatgtp、**Claude**、**Gemini** -除了生成其中两件事的图像外，它们几乎是相同的：我对缺乏适当的讨论和人身攻击感到非常惊讶
-
-📅 2026-09-06T12:52:58.000Z
-
----
-
-### X: OpenAI
-**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-网址来源： http://twitter.com/**OpenAI**
-
-📅 2026-09-07T00:43:45.688Z
-
----
-
-### X: DeepSeek
-**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
-
-网址来源： http://twitter.com/**DeepSeek**_ai
-
-📅 2026-09-07T00:43:50.274Z
+📅 2026-09-07T17:07:00.000Z
 
 ---
 
 ### Reddit: r/artificial
-![五角大楼表示，尽管卢特尼克发表了言论，但其人类禁令仍在继续](https://external-preview.redd.it/J6gcBj3hAUsSIHB5rtiHdtB2Bks4KwOhQ5X8KQwmqCU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=36470915982b4094d4964e810f8c2b6646eb91a1)
+**[您个人在使用人工智能作为工具和让人工智能为您完成工作之间的界限在哪里？](https://www.reddit.com/r/artificial/comments/1w9wdeq/where_do_you_personally_draw_the_line_between/)**
 
-**[五角大楼表示，尽管卢特尼克发表了言论，但其人类禁令仍在继续](https://www.reddit.com/r/artificial/comments/1w927or/pentagon_says_its_anthropic_ban_is_on_despite/)**
+使用人工智能来修复语法使用它来集思广益
 
-提交者/u/ThereWas [link] [comments]
-
-📅 2026-09-06T17:22:49.000Z
+📅 2026-09-07T16:08:50.000Z
 
 ---
 
 ### Reddit: r/artificial
-![1200名OpenAI特工组成了一个秘密网络，其中700人后来开始入侵。这是一次接管世界的试运行吗？](https://external-preview.redd.it/V18oyZzJGBo73R_NMsql-G1c5Vv14J9BxNj9NrLpPEo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b29fa5e57e0baf12c8d2ab5539378056fe7619c8)
+![Vercel首席执行官吉列尔莫·劳赫（ Guillermo Rauch ）表示，他已经有几个月没有召开产品审查会议了--他自己的代理人负责管理这些会议，他只有在会议已经失败后才会出现。](https://external-preview.redd.it/eXQya2JhZ21yM29oMZgmtZppV7LBCw5gzZ6SNR2DBkJIpHFin6tuLEh0hbpm.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9bc86449e5b9f8c6b1d1b5d3debfa47145c75868)
 
-**[1200名OpenAI特工组成了一个秘密网络，其中700人后来开始入侵。这是一次接管世界的试运行吗？](https://www.reddit.com/r/artificial/comments/1w8xbv9/1200_openai_agents_formed_a_secret_network_700/)**
+**[Vercel首席执行官吉列尔莫·劳赫（ Guillermo Rauch ）表示，他已经有几个月没有召开产品审查会议了--他自己的代理人负责管理这些会议，他只有在会议已经失败后才会出现。](https://www.reddit.com/r/artificial/comments/1w9sop1/vercel_ceo_guillermo_rauch_says_he_hasnt_run_a/)**
 
-提交者/u/bauernebel [link] [comments]
+Rauch自己的规则是直言不讳的：如果他发短信给你，他的经纪人已经尝试过，但先失败了。他们会去设计任何替代品
 
-📅 2026-09-06T14:14:11.000Z
-
----
-
-### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Title: 520: Web服务器返回未知错误
-
-📅 2026-09-07T00:43:45.688Z
+📅 2026-09-07T13:48:28.000Z
 
 ---
 
