@@ -1,19 +1,19 @@
 ---
 title: "2026年9月8日 - TZ日报"
-date: 2026-09-08T01:20:08.443Z
+date: 2026-09-08T18:23:35.202Z
 draft: false
 ---
 
 # 2026年9月8日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/9/8 01:20:08
+> 📊 今日汇总 34 条 · 🕐 2026/9/8 18:23:35
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 8 条
+- **前沿研究**: 4 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -25,7 +25,7 @@ draft: false
 ### TechCrunch AI Products
 **[《西雅图时报》和《新闻日报》是起诉OpenAI和微软的最新出版物](https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/)**
 
-Two more **new**s organizations are suing **OpenAI** and Microsoft over the supposed use of their journalism to train AI
+另外两家新闻机构正在起诉**OpenAI**和微软，指控他们涉嫌利用其新闻培训人工智能
 
 📅 Sat, 05 Sep 2026 22:49:55 +0000
 
@@ -34,244 +34,232 @@ Two more **new**s organizations are suing **OpenAI** and Microsoft over the supp
 ### TechCrunch AI Products
 **[徒步旅行者在使用Google Gemini进行规划后获救](https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/)**
 
-The sheriff’s office said the hikers “were advised by **Gemini** to bring far less food and water than their group required
+治安官办公室表示， “双子座建议徒步旅行者携带的食物和水远远少于他们的团队所需的食物和水。”
 
 📅 Sat, 05 Sep 2026 19:35:24 +0000
 
 ---
 
 ### OpenAI Blog
-**[Supporting independent journalism in Ukraine](https://openai.com/index/supporting-independent-journalism-in-ukraine)**
+**[为人工智能和青少年发展的新研究提供资助](https://openai.com/index/teen-development-research-grants)**
 
-**OpenAI**、AIRPPU和WAN-IFRA**推出**人工智能计划，帮助乌克兰新闻机构加强创新、复原力和独立新闻
+立即申请**OpenAI**的500万$资助计划，以支持关于生成式人工智能如何影响青少年发展、福祉和安全的独立研究
+
+📅 Tue, 08 Sep 2026 09:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[OpenAI将支持新闻业的举措从教室扩展到新闻编辑室](https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms)**
+
+**OpenAI**正在扩大对新闻业的支持，为学生、教育工作者、记者和新闻机构提供工具、培训和合作伙伴关系
+
+📅 Tue, 08 Sep 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[支持乌克兰的独立新闻报道](https://openai.com/index/supporting-independent-journalism-in-ukraine)**
+
+**OpenAI**、AIRPPU和WAN-IFRA**推出**人工智能计划，帮助乌克兰新闻机构加强创新、韧性和独立新闻
 
 📅 Mon, 07 Sep 2026 00:00:00 GMT
 
 ---
 
 ### OpenAI Blog
-**[Research acceleration: The view inside OpenAI](https://openai.com/index/research-acceleration-view-inside-openai)**
+**[研究加速： OpenAI内部视图](https://openai.com/index/research-acceleration-view-inside-openai)**
 
-Inside **OpenAI**, coding agents are reshaping AI researchExplore early data on agent usage, experiment velocity, task complexity, and research acceleration
+在**OpenAI**内部，编码代理正在重塑AI研究探索代理使用、实验速度、任务复杂性和研究加速的早期数据
 
 📅 Sun, 06 Sep 2026 08:00:00 GMT
 
 ---
 
 ### TechCrunch AI Products
-**[Authors push back as publishers and agents make claims on Anthropic settlement](https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/)**
+**[纽约大学数学家说， OpenAI在职业生涯中的数学问题上进行了肮脏的斗争](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/)**
 
-Authors say publishers seem to be claiming more than their fair share of settlement payments.
+第一个为Navier-Stokes的存在和平滑性问题提供解决方案的人将获得100万$的奖金
+
+📅 Tue, 08 Sep 2026 17:32:15 +0000
+
+---
+
+### TechCrunch AI Products
+**[谷歌云与埃森哲达成协议，争相追赶人工智能部署大战](https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/)**
+
+**Google** Cloud通过Accenturebetting对前沿部署的工程师进行投注，扩大其企业AI推动力，以推动采用并克服部署瓶颈
+
+📅 Tue, 08 Sep 2026 16:20:31 +0000
+
+---
+
+### TechCrunch AI Products
+**[随着人工智能改变安全格局， Chrome浏览器现在每两周发布一次更新](https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/)**
+
+谷歌正在加快Chrome浏览器的**发布**时间表，以更快地**发布**安全补丁和新功能。
+
+📅 Tue, 08 Sep 2026 15:04:09 +0000
+
+---
+
+### TechCrunch AI Products
+**[由于发布商和代理商对Anthropic结算提出索赔，作者表示反对](https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/)**
+
+作者表示，**发布**商似乎声称支付了超过其公平份额的结算付款。
 
 📅 Sun, 06 Sep 2026 20:47:37 +0000
 
 ---
 
-### TechCrunch AI Products
-**[OpenAI确认“维基事件” ，称其正在“开发一个框架”以进行更多披露](https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/)**
-
-**OpenAI** acknowledged its role in a recently reported incident where AI agents took over a German wiki forum
-
-📅 Sat, 05 Sep 2026 18:05:27 +0000
-
----
-
-### OpenAI Blog
-**[外星人思维](https://openai.com/index/an-alien-mind)**
-
-Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it alignedHe calls for stronger safeguards and international coordination
-
-📅 Sun, 06 Sep 2026 09:00:00 GMT
-
----
-
-### TechCrunch AI Products
-**[Opaque recurrence, and other AI terms that you should probably know](https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)**
-
-人工智能的兴起带来了大量的新术语和俚语这里是一个术语表，其中包含您可能遇到的一些最**重要**的单词和短语的定义
-
-📅 Mon, 07 Sep 2026 19:24:00 +0000
-
----
-
-### TechCrunch AI Products
-**[Travis Kalanick’s Atoms might be getting into the robotaxi business](https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/)**
-
-The Uber founder has said that Atoms will allow him to complete "unfinished business."
-
-📅 Sun, 06 Sep 2026 16:45:00 +0000
-
----
-
-### AI News
-**[随着物流回报的加速， MG Ship增加了AI路线优化](https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/)**
-
-The technical module targets global retailers and commercial shippersThe deployment arrives as enterprise supply chain operators report measurable operational returns from […] The post MG Ship adds AI route optimisation as logistics returns accelerate appeared first on AI **new**s
-
-📅 Mon, 07 Sep 2026 13:01:23 +0000
-
----
-
 ## 🔬 前沿研究
 
-### ArXiv AI (cs.AI)
-**[港口适配器和港口指数：用于大规模代理评估的基础设施和精选元数据集](https://arxiv.org/abs/2609.04298)**
+### Science AI
+**[为什么人类的出生如此困难？男婴-不仅仅是直立行走-可能是罪魁祸首](https://www.science.org/content/article/why-are-human-births-so-difficult-male-babies-not-just-upright-walking-may-be-blame)**
 
-04298v1 **announce** Type: **new** Abstract: Evaluating agents on the growing number of agentic benchmarks is challenging because they often require complex environments and agent integrationsand the strongest (**GPT**-5
+对140个物种的分析表明，儿子的风险被进化优势所抵消
 
-📅 Mon, 07 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[HarvestBench ：衡量法学硕士代理是否会支付避免杀死动物的费用](https://arxiv.org/abs/2609.04444)**
-
-04444v1公告类型： **new** Abstract: Benchmarks for the side effects a agent cause on the way to a goal already exist当动物阻挡拖拉机的路线时，自动驾驶仪停止并询问模型是否开车
-
-📅 Mon, 07 Sep 2026 00:00:00 -0400
+📅 2026-09-08T01:35:00.000Z
 
 ---
 
-### ArXiv AI (cs.AI)
-**[PerfReasoning ： LLM在硬件性能方面的理由有多好？](https://arxiv.org/abs/2609.04476)**
+### Science AI
+**[新的线索表明破坏性免疫细胞如何在大脑中造成严重破坏](https://www.science.org/content/article/new-clues-suggest-how-destructive-immune-cells-wreak-havoc-brain)**
 
-04476v1 **announce** Type: **new** Abstract: Performance modeling is central to hardware design and software optimizationHowever, model construction is substantially harder: while **GPT**-5
+对小鼠的研究加强了T细胞与阿尔茨海默氏症等神经退行性疾病的联系
 
-📅 Mon, 07 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[EXAONE财务预测](https://arxiv.org/abs/2609.04239)**
-
-根据财务预测量身定制的财务时间序列（ TS ）基础模型（ TSFM ）屏蔽上下文增强使模型在培训期间暴露于连续缺失跨度
-
-📅 Mon, 07 Sep 2026 00:00:00 -0400
+📅 2026-09-08T09:00:00.000Z
 
 ---
 
-### ArXiv AI (cs.AI)
-**[从模型匹配到招聘代理：人工智能招聘系统、评估和治理的系统化叙述性回顾](https://arxiv.org/abs/2609.04286)**
+### Science AI
+**[这部漫画将女性带入史前时代](https://www.science.org/content/article/comic-drawing-women-prehistory)**
 
-04286v1 **announce** Type: **new** Abstract: Artificial intelligence in recruitment has shifted the object being automated from profile pairs and ranked lists to multi-stage workflows that retrieve evidenceUsing a purposive search and coding protocol **update**d through 23 July 2026
+漫画家Ulli Lust反驳关于冰河时代女性角色的神话
 
-📅 Mon, 07 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[Data-Optimized Contingency Screening: A Machine Learning Approach to Power System Security](https://arxiv.org/abs/2609.04300)**
-
-04300v1公告类型：新摘要：确保电力系统的安全性对于稳定性和可靠性至关重要**new**ton-Raphson负载流量法从应急场景中提取系统数据
-
-📅 Mon, 07 Sep 2026 00:00:00 -0400
+📅 2026-09-07T09:00:00.000Z
 
 ---
 
-### ArXiv AI (cs.AI)
-**[Iris: Climbing to the Search Frontier](https://arxiv.org/abs/2609.04304)**
+### MIT Tech Research
+**[这位人工智能企业家正在开发可以提前计划意外情况的代理商](https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/)**
 
-04304v1 **announce** Type: **new** Abstract: We present Iris-mini and Iris-proWe plan to **release** the model weights together with the complete recipe for data construction, training, and evaluation
+Danijar Hafner在旧金山SoMa区的办公室大多是空的。他的全新创业公司仍处于隐身模式，甚至没有名字。
 
-📅 Mon, 07 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[在测试时提高LLM忠诚度的基于删除的方法](https://arxiv.org/abs/2609.04343)**
-
-04343v1 **announce** Type: **new** Abstract: Large language models (LLMs) are increasingly used for consequential decisionsUnfortunately, these explanations can be unfaithful, failing to reflect the actual reasoning underlying the model's decisions
-
-📅 Mon, 07 Sep 2026 00:00:00 -0400
+📅 Tue, 08 Sep 2026 10:34:00 +0000
 
 ---
 
 ## 🌍 行业展望
 
 ### The Verge
-![《西雅图时报》和《新闻日报》起诉OpenAI和微软侵权](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![微软周二打破另一个补丁记录](https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK095_MICROSOFT_2_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[《西雅图时报》和《新闻日报》起诉OpenAI和微软侵权](https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft)**
+**[微软周二打破另一个补丁记录](https://www.theverge.com/tech/991178/microsoft-patch-tuesday-record-breaking-ai-notepad)**
 
-随着**OpenAI**开始**推出**GPT-6 Astra西雅图时报和**new**sday也将微软列为诉讼的被告，因为Copilot是基于**OpenAI**的技术构建的
+这一切始于4月，当时**Anthropic**的新Mythos模型在“每个主要操作系统和网络浏览器”中发现了安全漏洞。几周后， **OpenAI**向值得信赖的合作伙伴**发布**了自己的以网络安全为重点的模型……阅读The Verge的完整故事
 
-📅 2026-09-06T23:36:04.000Z
+📅 2026-09-08T14:00:00.000Z
+
+---
+
+### Wired Technology
+**[5款最佳智能扬声器（ 2026年） ： Alexa、谷歌、苹果](https://www.wired.com/story/best-smart-speakers/)**
+
+希望在家中添加智能扬声器无论您是Alexa、Siri还是**Gemini**粉丝，都可以选择
+
+📅 Tue, 08 Sep 2026 10:35:00 +0000
+
+---
+
+### The Verge
+![一项新的集体诉讼质疑Anthropic是否通过误导高级用户而违反了法律](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[一项新的集体诉讼质疑Anthropic是否通过误导高级用户而违反了法律](https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans)**
+
+一群**Claude**订阅者表示，该公司欺骗性地宣传了其Max订阅级别的限制这是一次罕见的尝试，旨在合法惩罚AI公司......阅读The Verge的完整故事
+
+📅 2026-09-08T17:27:31.000Z
 
 ---
 
 ### MIT Tech Review
-**[The Download: the hunt for underground hydrogen and more rogue OpenAI agents](https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/)**
+**[下载：寻找地下氢气和更多流氓OpenAI特工](https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/)**
 
-This is today’s edition of The Download, our weekday **new**sletter that provides a daily dose of what’s going on in the world of technologyHow much hydrogen awaits us underground
+这是今天的“下载”版本，这是我们的工作日通讯，提供每日剂量的技术世界正在发生的事情有多少氢气在地下等着我们
 
 📅 Mon, 07 Sep 2026 12:10:00 +0000
 
 ---
 
 ### Wired Technology
-**[Le Creuset x Star Trek Collection: Prices, availability, release date](https://www.wired.com/story/to-boldly-dough-le-creuset-sent-its-new-star-trek-cooking-collection-into-space/)**
+**[苹果和谷歌错过了在英国屏蔽儿童裸体手机的截止日期](https://www.wired.com/story/apple-and-google-miss-deadline-to-block-child-nudity-on-their-phones-in-the-uk/)**
 
-宇宙飞船烘焙是完善可汗肉汤的理想选择
+现在，英国政府计划**推出**新的立法，让公司面临罚款和潜在的刑事责任，并暗示类似的计划可能会扩展到Snapchat和Instagram
 
-📅 Mon, 07 Sep 2026 23:00:00 +0000
-
----
-
-### Wired Technology
-**[家得宝劳动节促销（ 2026年） ：推出最佳烤架和工具](https://www.wired.com/story/home-depot-labor-day-sale-deals-2026/)**
-
-家得宝劳动节促销活动在烧烤架和工具上大放异彩以下是我们关于购买和忽略的建议
-
-📅 Mon, 07 Sep 2026 16:35:52 +0000
+📅 Tue, 08 Sep 2026 18:13:26 +0000
 
 ---
 
 ### Wired Technology
-**[我自己购买的最佳科技劳动节销售（ 2026年） ：吸尘器、耳机等](https://www.wired.com/story/tech-labor-day-sales-2026/)**
+**[OpenAI刚刚获得了巨大的数学发现。一些学者正在哭泣犯规](https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/)**
 
-From cordless vacuums to the best wireless earbuds we’ve tested, some of our favorite tech is on sale for Labor Day this year
+前沿人工智能实验室的一项具有里程碑意义的公告因不当行为的指控而蒙上阴影。
 
-📅 Mon, 07 Sep 2026 16:33:37 +0000
-
----
-
-### Wired Technology
-**[The 57 Best Deals From the REI Labor Day Sale](https://www.wired.com/story/rei-labor-day-sale-2026/)**
-
-Labor Day alreadySay it ain’t so
-
-📅 Mon, 07 Sep 2026 13:33:30 +0000
+📅 Tue, 08 Sep 2026 16:42:05 +0000
 
 ---
 
 ### Wired Technology
-**[Two of the Universe's Great Mysteries May Have Their Own Dimension](https://www.wired.com/story/dark-energy-matter-may-have-own-dimension/)**
+**[Meta未能捕获数百个AI虐待儿童广告。包含一些真实儿童的图像](https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/)**
 
-暗能量可能越来越弱科学家们想知道“暗维度”中与暗物质的相互作用是否可能是原因
+包括欧洲皇室成员在内的真实儿童的图像被用于制作包含儿童性虐待的350个广告中的一些立法者表示，他们计划进行调查
 
-📅 Mon, 07 Sep 2026 12:00:00 +0000
+📅 Tue, 08 Sep 2026 12:00:00 +0000
 
 ---
 
-### Wired Technology
-**[Astronomers Have Completed the Largest Map of Space. Yes, You Can Play With It.](https://www.wired.com/story/astronomers-complete-largest-map-of-space-yes-you-can-play-with-it/)**
+### Ars Technica
+**[谷歌遵守欧盟旅行搜索规则，称新搜索结果很糟糕](https://arstechnica.com/gadgets/2026/09/google-says-europe-is-making-it-roll-out-degraded-travel-search-results/)**
 
-这张错综复杂的56万亿像素地图覆盖了大约75%的天空，包括大约40亿个天体
+欧盟继续追求谷歌搜索的做法，它认为这是反竞争的。
 
-📅 Mon, 07 Sep 2026 11:30:00 +0000
+📅 Tue, 08 Sep 2026 16:49:55 +0000
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![awesome-ml-internships ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
+![tensorflow ：面向所有人的开源机器学习框架](https://avatars.githubusercontent.com/u/15658638?v=4)
 
-**[awesome-ml-internships ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships)**
+**[tensorflow ：面向所有人的开源机器学习框架](https://github.com/tensorflow/tensorflow)**
 
-⭐ 451 star · 39 fork · N/A · Live AI and machine learning internships for students, refreshed through the Zapply job pipeline
+⭐ 199,346星· 76296分叉· C + + ·面向所有人的**开源**机器学习框架
 
-📅 2026-09-08T00:57:04Z
+📅 2026-09-08T18:19:57Z
+
+---
+
+### GitHub Active (AI/ML)
+![pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://avatars.githubusercontent.com/u/21003710?v=4)
+
+**[pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://github.com/pytorch/pytorch)**
+
+⭐ 102,861星· 29163分叉· Python ·具有强大GPU加速的Python中的张量和动态神经网络
+
+📅 2026-09-08T18:21:19Z
+
+---
+
+### GitHub Active (AI/ML)
+![trulens ： LLM实验和人工智能代理的评估和跟踪](https://avatars.githubusercontent.com/u/51224128?v=4)
+
+**[trulens ： LLM实验和人工智能代理的评估和跟踪](https://github.com/truera/trulens)**
+
+⭐ 3540星· 335叉· Python · LLM实验和人工智能代理的评估和跟踪
+
+📅 2026-09-08T18:21:08Z
 
 ---
 
@@ -286,99 +274,77 @@ Labor Day alreadySay it ain’t so
 
 ---
 
-### GitHub New (New AI)
-![🆕 declarative-attention: Implementation of the procedure in Language Models Can Control Their Own Attention, from Namgyu Ho et al. of KAIST AI](https://avatars.githubusercontent.com/u/108653?v=4)
-
-**[🆕 declarative-attention: Implementation of the procedure in Language Models Can Control Their Own Attention, from Namgyu Ho et al. of KAIST AI](https://github.com/lucidrains/declarative-attention)**
-
-⭐ 11 star (新项目) · N/A · Implementation of the procedure in Language Models Can Control Their Own Attention, from Namgyu Ho et alof KAIST AI
-
-📅 2026-09-06T13:52:58Z
-
----
-
-### GitHub New (New AI)
-![🆕 no-contact-no-worries: Implementation of NoContactNoWorries, Estimating Contact through Vision and Proprioception for In-Hand Dexterous Manipulation](https://avatars.githubusercontent.com/u/108653?v=4)
-
-**[🆕 no-contact-no-worries: Implementation of NoContactNoWorries, Estimating Contact through Vision and Proprioception for In-Hand Dexterous Manipulation](https://github.com/lucidrains/no-contact-no-worries)**
-
-⭐ 4 star (新项目) · N/A · Implementation of NoContactNoWorries, Estimating Contact through Vision and Proprioception for In-Hand Dexterous Manipulation
-
-📅 2026-09-05T14:13:55Z
-
----
-
 ## 💬 社交动态
-
-### Reddit: r/artificial
-**[Three hikers got rescued off a mountain this week after following Gemini's advice. The same week OpenAI launched what it's calling the AGI era. I keep thinking about both together.](https://www.reddit.com/r/artificial/comments/1wa5i9p/three_hikers_got_rescued_off_a_mountain_this_week/)**
-
-**Google** says they can't replicate the bad answers **Gemini** gaveTwo days later **OpenAI** **launch**ed **GPT**-6 Astra
-
-📅 2026-09-07T21:47:10.000Z
-
----
-
-### Reddit: r/artificial
-**[Overly corrective, judgemental models: Grok, claude, chatgpt](https://www.reddit.com/r/artificial/comments/1wa2wft/overly_corrective_judgemental_models_grok_claude/)**
-
-当思考很少的想法时，这三个机器人表现出优越性，并告诉大多数时间不要做什么，而不是扩展想法双子座可能仍然是一个落后的模型
-
-📅 2026-09-07T20:06:20.000Z
-
----
-
-### Reddit: r/artificial
-**[FreeBuff MCP](https://www.reddit.com/r/artificial/comments/1wa2bj4/freebuff_mcp/)**
-
-There was nothing online, so I created my own MCP (https://githublike Chat**GPT** or **Claude** being able to check live progress
-
-📅 2026-09-07T19:45:04.000Z
-
----
-
-### Reddit: r/artificial
-**[为什么我不应该选择Copilot而不是ChatGPT ？](https://www.reddit.com/r/artificial/comments/1wa02cg/why_should_i_not_choose_copilot_over_chatgpt/)**
-
-TL;DR: Help me make the case that Copilot is the wrong choice compared to Chat**GPT** BusinessAt our company we’re currently working with Chat**GPT** Business
-
-📅 2026-09-07T18:23:29.000Z
-
----
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-09-08T00:57:08.943Z
+📅 2026-09-08T18:22:23.961Z
+
+---
+
+### X: DeepSeek
+**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+
+网址来源： http://twitter.com/**DeepSeek**_ai
+
+📅 2026-09-08T18:22:32.866Z
 
 ---
 
 ### Hacker News
-**[WeatherNext 3 ：我们最先进的全球天气人工智能模型](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/)**
+**[Google DeepMind发布AlphaGenome图谱](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/)**
 
-文章网址： https://blog**Google**/innovation-and-ai/models-and-research/**Google**-deepmind/introducing-weathernext-3/评论网址： https://**new**s
+文章网址： https://blog**Google**/innovation-and-ai/models-and-research/**Google**-deepmind/alphagenome-atlas/评论网址： https://**new**s
 
-📅 Mon, 07 Sep 2026 23:56:41 +0000
-
----
-
-### Hacker News AI
-**[Anthropic AI 'formalizes' proof of Fermat's last theorem in just 11 days](https://www.nature.com/articles/d41586-026-02822-9)**
-
-Article URL: https://wwwcom/articles/d41586-026-02822-9 Comments URL: https://**new**s
-
-📅 Tue, 08 Sep 2026 00:07:07 +0000
+📅 Tue, 08 Sep 2026 14:55:45 +0000
 
 ---
 
-### Hacker News AI
-**[ASCII smuggling crosses over from AI prompt injection to phishing evasion](https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/)**
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-Article URL: https://wwwcom/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/ Comments URL: https://**new**s
+Title: 520: Web服务器返回未知错误
 
-📅 Mon, 07 Sep 2026 23:27:53 +0000
+📅 2026-09-08T18:22:23.961Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误520 ：
+
+📅 2026-09-08T18:22:23.961Z
+
+---
+
+### X: OpenAI
+**[警告：此页面可能尚未完全加载，请考虑显式指定超时。](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：此页面可能尚未完全加载，请考虑显式指定超时。
+
+📅 2026-09-08T18:22:23.961Z
+
+---
+
+### X: OpenAI
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Markdown 内容
+
+📅 2026-09-08T18:22:23.961Z
+
+---
+
+### X: Sam Altman
+**[网址来源： http://twitter.com/sama](https://r.jina.ai/http://twitter.com/sama)**
+
+网址来源： http://twitter.com/sama
+
+📅 2026-09-08T18:22:26.095Z
 
 ---
 
