@@ -1,19 +1,19 @@
 ---
 title: "2026年9月9日 - TZ日报"
-date: 2026-09-09T01:06:57.850Z
+date: 2026-09-09T18:23:28.650Z
 draft: false
 ---
 
 # 2026年9月9日 - TZ日报
 
-> 📊 今日汇总 37 条 · 🕐 2026/9/9 01:06:57
+> 📊 今日汇总 38 条 · 🕐 2026/9/9 18:23:28
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 7 条
+- **前沿研究**: 8 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -22,12 +22,12 @@ draft: false
 
 ## ✨ 产品更新
 
-### TechCrunch AI Products
-**[黑客正在从订阅者那里窃取Claude令牌](https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/)**
+### OpenAI Blog
+**[Paul Christiano加入OpenAI基金会董事会](https://openai.com/index/paul-christiano-joins-openai-foundation-board)**
 
-上个月，一位**Claude**用户注意到他的帐户正在使用代币，即使他没有工作**Anthropic**此后已警告用户黑客
+Paul Christiano加入**OpenAI**基金会董事会及其安全和安保委员会，带来人工智能协调、安全和标准方面的经验
 
-📅 Tue, 08 Sep 2026 21:10:27 +0000
+📅 Wed, 09 Sep 2026 17:00:00 GMT
 
 ---
 
@@ -76,39 +76,41 @@ Chat**GPT** Images 25有助于将您的想法、草图和参考照片转化为�
 
 ---
 
-### OpenAI Blog
-**[研究加速： OpenAI内部视图](https://openai.com/index/research-acceleration-view-inside-openai)**
+### Google AI Blog
+![逐帧重现70年的爱情故事](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp)
 
-在**OpenAI**内部，编码代理正在重塑AI研究探索代理使用、实验速度、任务复杂性和研究加速的早期数据
+**[逐帧重现70年的爱情故事](https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/)**
 
-📅 Sun, 06 Sep 2026 08:00:00 GMT
+了解电影制作人和谷歌DeepMind如何在短片《爱，渲染》中利用人工智能重现一对夫妇未被记录的过去
 
----
-
-### TechCrunch AI Products
-**[Meta首次推出其Muse AI代理。消费者会信任它吗？](https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/)**
-
-**Meta**的新个人人工智能代理Muse希望访问用户的电子邮件等-这使该公司成为最大的消费者人工智能赌注，但也是人们是否仍然信任**Meta**提供数据的主要考验
-
-📅 Tue, 08 Sep 2026 19:00:00 +0000
+📅 Wed, 09 Sep 2026 16:00:00 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[纽约大学数学家说， OpenAI在职业生涯中的数学问题上进行了肮脏的斗争](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/)**
+**[超级智能即将到来，我们应该让它去吗？](https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/)**
 
-第一个为Navier-Stokes的存在和平滑性问题提供解决方案的人将获得100万$的奖金
+人工智能公司一直在谈论超级智能人工智能，就像它是不可避免的，但最近的安全事件，如**OpenAI**的Hugging Face漏洞，正在证明部署比人类更强大的人工智能系统的潜在危险
 
-📅 Tue, 08 Sep 2026 17:32:15 +0000
+📅 Wed, 09 Sep 2026 16:05:35 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[谷歌云与埃森哲达成协议，争相追赶人工智能部署大战](https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/)**
+**[ControlAI的Connor Leahy谈为什么超级智能“不是武器，而是对手” ](https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/)**
 
-**Google** Cloud通过Accenturebetting对前沿部署的工程师进行投注，扩大其企业AI推动力，以推动采用并克服部署瓶颈
+人工智能公司一直在谈论超级智能人工智能，就像它是不可避免的，但最近的安全事件，如**OpenAI**的Hugging Face漏洞，正在证明部署比人类更强大的人工智能系统的潜在危险
 
-📅 Tue, 08 Sep 2026 16:20:31 +0000
+📅 Wed, 09 Sep 2026 15:50:13 +0000
+
+---
+
+### TechCrunch AI Products
+**[“用我们的生命赌博” ：人类学研究人员辞职，警告不要自我完善的人工智能 ](https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/)**
+
+人类学研究员雅各布·考克森（ Jacob Coxon ）因担心人工智能灭绝而辞职，呼吁实验室之间达成起搏协议
+
+📅 Wed, 09 Sep 2026 15:02:47 +0000
 
 ---
 
@@ -117,9 +119,27 @@ Chat**GPT** Images 25有助于将您的想法、草图和参考照片转化为�
 ### Science AI
 **[人工智能数学突破如何引发争议](https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy)**
 
-在解决Navier-Stokes问题时， **OpenAI**是否偷看了其他人的工作？
+**OpenAI**花了数百万美元来解决Navier-Stokes问题，但谁应该得到赞誉？
 
-📅 2026-09-08T07:45:10.000Z
+📅 2026-09-08T07:45:00.000Z
+
+---
+
+### MIT Tech Research
+**[OpenAI关于数学未来的最新争议告诉我们什么](https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/)**
+
+**OpenAI**的最新数学里程碑很快陷入了争议。在正常情况下，该解决方案将成为**OpenAI**的一大亮点。
+
+📅 Wed, 09 Sep 2026 03:10:08 +0000
+
+---
+
+### Science AI
+**[丹尼索瓦人是强壮而敏捷的猎人，化石肘和原始工具表明](https://www.science.org/content/article/mysterious-human-relatives-were-strong-and-agile-fossil-elbow-and-primitive-tools)**
+
+在中国西南部的切割器械和动物遗骸附近发现了这些神秘人类亲属的第一个臂骨碎片
+
+📅 2026-09-09T11:00:00.000Z
 
 ---
 
@@ -128,7 +148,7 @@ Chat**GPT** Images 25有助于将您的想法、草图和参考照片转化为�
 
 SinoProbe II的早期结果暗示了大陆碎片如何组装和演化
 
-📅 2026-09-08T04:01:00.000Z
+📅 2026-09-08T04:00:00.000Z
 
 ---
 
@@ -160,126 +180,100 @@ SinoProbe II的早期结果暗示了大陆碎片如何组装和演化
 ---
 
 ### Science AI
-**[这部漫画将女性带入史前时代](https://www.science.org/content/article/comic-drawing-women-prehistory)**
+**[这位漫画家正在将女性带入史前时代](https://www.science.org/content/article/comic-drawing-women-prehistory)**
 
-漫画家Ulli Lust反驳关于冰河时代女性角色的神话
+与插画家Ulli Lust进行科学聊天， Ulli Lust的工作是反击冰河时代的性别迷思
 
 📅 2026-09-07T09:00:00.000Z
 
 ---
 
-### MIT Tech Research
-**[这位人工智能企业家正在开发可以提前计划意外情况的代理商](https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/)**
-
-Danijar Hafner在旧金山SoMa区的办公室大多是空的。他的全新创业公司仍处于隐身模式，甚至没有名字。
-
-📅 Tue, 08 Sep 2026 10:34:00 +0000
-
----
-
 ## 🌍 行业展望
 
-### The Verge
-![元押注AI特工Muse在人工智能竞赛中迎头赶上](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK169_Mark_Zuckerburg_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### Ars Technica
+**[男子告诉ChatGPT ，他有妄想症。ChatGPT坚称他是耶稣。](https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/)**
 
-**[元押注AI特工Muse在人工智能竞赛中迎头赶上](https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race)**
+患有双相情感障碍的男性在Chat**GPT**相关的自杀企图中幸存下来后起诉**OpenAI**。
 
-**Meta**正在再次推动Muse将人工智能带入大众该产品是数十亿美元战略改革的最新一步，旨在重振该公司在人工智能竞赛中的不利地位，并帮助其赶上**OpenAI**等竞争对手
-
-📅 2026-09-08T19:00:00.000Z
+📅 Wed, 09 Sep 2026 11:00:10 +0000
 
 ---
 
-### Wired Technology
-**[5款最佳智能扬声器（ 2026年） ： Alexa、谷歌、苹果](https://www.wired.com/story/best-smart-speakers/)**
+### MIT Tech Review
+**[下载： OpenAI的数学和电池记录转折点](https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/)**
 
-希望在家中添加智能扬声器无论您是Alexa、Siri还是**Gemini**粉丝，都可以选择
+这是我们工作日时事通讯《下载》的今天版本，该时事通讯提供了技术领域每日发生的事情**OpenAI**的最新争议告诉我们数学的未来**OpenAI**的代理商已经解决了数学中最**重要**的开放问题之一
 
-📅 Tue, 08 Sep 2026 10:35:00 +0000
-
----
-
-### The Verge
-![戏剧围绕OpenAI的传奇数学里程碑旋转](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25844039/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[戏剧围绕OpenAI的传奇数学里程碑旋转](https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution)**
-
-**OpenAI**表示，它找到了一个主要数学问题的解决方案，这个问题已经悬而未决了大约90年**OpenAI**宣布，它发现了一个与液体和气体流动有关的Navier-Stokes问题的解决方案，使用的内部AI模型比新**发布**的**GPT**-6 Astra和10
-
-📅 2026-09-08T20:53:52.000Z
-
----
-
-### The Verge
-![ChatGPT Sketch将不良图纸转化为详细的人工智能图像](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[ChatGPT Sketch将不良图纸转化为详细的人工智能图像](https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch)**
-
-我使用Chat**GPT**及其草图工具来制作这个AI生成的catOpenAI**发布**的Chat**GPT**图像2的图像
-
-📅 2026-09-08T20:16:09.000Z
-
----
-
-### The Verge
-![人工智能超级用户声称Anthropic通过订阅欺骗了他们，他们正在将其告上法庭](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[人工智能超级用户声称Anthropic通过订阅欺骗了他们，他们正在将其告上法庭](https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans)**
-
-一群**Claude**订阅者表示，该公司欺骗性地宣传了其Max订阅级别的限制这是一次罕见的尝试，旨在合法惩罚AI公司......阅读The Verge的完整故事
-
-📅 2026-09-08T17:27:31.000Z
+📅 Wed, 09 Sep 2026 12:10:00 +0000
 
 ---
 
 ### MIT Tech Review
 **[下载：寻找地下氢气和更多流氓OpenAI特工](https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/)**
 
-这是今天的“下载”版本，这是我们的工作日通讯，提供每日剂量的技术世界正在发生的事情有多少氢气在地下等着我们
+这是我们工作日时事通讯《下载》的今天版本，该时事通讯提供了技术领域每日发生的事情**OpenAI**的最新争议告诉我们数学的未来**OpenAI**的代理商已经解决了数学中最**重要**的开放问题之一
 
 📅 Mon, 07 Sep 2026 12:10:00 +0000
 
 ---
 
-### Wired Technology
-**[Muse是Meta新的个人人工智能代理，需要您的信任](https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/)**
+### Ars Technica
+**[为什么本月的微软补丁发布是一个愚蠢的](https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/)**
 
-该公司表示， Muse旨在与OpenClaw和Instinct竞争，可以做任何事情，从出售您的汽车到为您预订机票
+在预期的人工智能辅助攻击猛攻之前，安全侏儒正在**推出**补丁。
 
-📅 Tue, 08 Sep 2026 20:12:51 +0000
+📅 Tue, 08 Sep 2026 21:11:46 +0000
 
 ---
 
-### Wired Technology
-**[苹果和谷歌错过了在英国屏蔽儿童裸体手机的截止日期](https://www.wired.com/story/apple-and-google-miss-deadline-to-block-child-nudity-on-their-phones-in-the-uk/)**
+### The Verge
+![微软为学校制定了新的人工智能隐私规则](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25332715/STK419_DEEPFAKE_CVIRGINIA_J.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-现在，英国政府计划**推出**新的立法，让公司面临罚款和潜在的刑事责任，并暗示类似的计划可能会扩展到Snapchat和Instagram
+**[微软为学校制定了新的人工智能隐私规则](https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy)**
 
-📅 Tue, 08 Sep 2026 18:13:26 +0000
+在两所主要学校系统宣布禁止面向学生的AI限制微软首先收集的数据量并向家庭披露其工具如何在普通情况下工作一周后，微软同意了一套针对学校AI的安全和隐私原则……阅读The Verge的完整故事
+
+📅 2026-09-09T17:07:48.000Z
+
+---
+
+### MIT Tech Review
+**[电池刚刚在美国打破了另一项纪录](https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/)**
+
+根据一份新报告，美国电池安装量在第二季度达到了20262千兆瓦时的新产能，创下了新纪录
+
+📅 Wed, 09 Sep 2026 09:00:00 +0000
+
+---
+
+### MIT Tech Review
+**[了解便携式电源中的散热天花板](https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/)**
+
+将手机插入现代充电器，前10分钟令人印象深刻这不是缺陷
+
+📅 Wed, 09 Sep 2026 08:18:13 +0000
+
+---
+
+### MIT Tech Review
+**[下载：我们今年35岁以下的35位创新者](https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/)**
+
+这是我们工作日时事通讯《下载》的今天版本，该时事通讯提供了技术领域每日发生的事情**OpenAI**的最新争议告诉我们数学的未来**OpenAI**的代理商已经解决了数学中最**重要**的开放问题之一
+
+📅 Tue, 08 Sep 2026 12:10:00 +0000
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![machine-learning-zoomcamp ：在4个月内免费学习机器学习工程！在此处注册 👇🏼](https://avatars.githubusercontent.com/u/72699292?v=4)
+![管道： Kubeflow的机器学习管道](https://avatars.githubusercontent.com/u/33164907?v=4)
 
-**[machine-learning-zoomcamp ：在4个月内免费学习机器学习工程！在此处注册 👇🏼](https://github.com/DataTalksClub/machine-learning-zoomcamp)**
+**[管道： Kubeflow的机器学习管道](https://github.com/kubeflow/pipelines)**
 
-⭐ 14,214星· 3146叉· Jupyter笔记本· 4个月内免费学习机器学习工程在这里注册 👇🏼
+⭐ 4208星· 2113叉·围棋· Kubeflow机器学习流水线
 
-📅 2026-09-09T01:03:53Z
-
----
-
-### GitHub Active (AI/ML)
-![skypilot ：面向前沿团队的AI计算平台。SkyPilot将分散的人工智能计算转化为一台人工智能超级计算机，因此前沿人工智能团队可以更快地构建自定义智能。](https://avatars.githubusercontent.com/u/109387420?v=4)
-
-**[skypilot ：面向前沿团队的AI计算平台。SkyPilot将分散的人工智能计算转化为一台人工智能超级计算机，因此前沿人工智能团队可以更快地构建自定义智能。](https://github.com/skypilot-org/skypilot)**
-
-⭐ 10,575星· 1220叉· Python ·前沿团队的AI计算平台SkyPilot将分散的AI计算转化为一台AI超级计算机，使前沿AI团队更快地构建定制智能
-
-📅 2026-09-09T01:03:22Z
+📅 2026-09-09T18:19:48Z
 
 ---
 
@@ -299,38 +293,31 @@ Danijar Hafner在旧金山SoMa区的办公室大多是空的。他的全新创�
 
 **[🆕 声明性注意：语言模型中过程的实施可以控制自己的注意力，来自KAIST AI的Namgyu Ho等人](https://github.com/lucidrains/declarative-attention)**
 
-⭐ 12 star (新项目) · N/A · Implementation of the procedure in Language Models Can Control Their Own Attention, from Namgyu Ho et alof KAIST AI
+⭐ 13 star (新项目) · Python · Implementation of the procedure in Language Models Can Control Their Own Attention, from Namgyu Ho et alof KAIST AI
 
 📅 2026-09-06T13:52:58Z
 
 ---
 
+### GitHub New (New AI)
+![🆕 paper-pipeline: 一个可复现和可控的学术论文写作工具链，用于规划和起草学术论文。它能够对引用、论点强度、行文表达以及 LaTeX 完整性进行系统性检查。A reproducible and controllable toolchain to plan, draft, and gate an academic paper draft. It performs systematic checks on citations, claim strength, prose, and LaTeX integrity.](https://avatars.githubusercontent.com/u/96516914?v=4)
+
+**[🆕 paper-pipeline: 一个可复现和可控的学术论文写作工具链，用于规划和起草学术论文。它能够对引用、论点强度、行文表达以及 LaTeX 完整性进行系统性检查。A reproducible and controllable toolchain to plan, draft, and gate an academic paper draft. It performs systematic checks on citations, claim strength, prose, and LaTeX integrity.](https://github.com/MATBckh22/paper-pipeline)**
+
+⭐ 5 star (新项目) · Python · 一个可复现和可控的学术论文写作工具链，用于规划和起草学术论文A reproducible and controllable toolchain to plan, draft, and gate an academic paper draft
+
+📅 2026-09-08T06:06:29Z
+
+---
+
 ## 💬 社交动态
 
-### Reddit: r/artificial
-**[为什么我现在使用claude.ai -剧透：没有好的意图](https://www.reddit.com/r/artificial/comments/1way0qk/why_i_use_claudeai_now_spoiler_no_good_intentions/)**
+### Hacker News
+**[显示HN ：部门的自托管公司操作系统、Claude Code和Codex代理](https://github.com/OtoDock/oto-dock)**
 
-改变我以前主要使用Chat**GPT**I的习惯，认为**OpenAI** Chat**GPT**必须承担数亿免费用户的负担是不公平的
+它与您的**Anthropic**或**OpenAI**订阅一起运行，甚至与本地模型一起运行AI免责声明： OtoDock的大部分内容都是使用OtoDock本身编写的，运行**Claude** Code
 
-📅 2026-09-08T19:13:52.000Z
-
----
-
-### Reddit: r/artificial
-**[我们已经实现了AGI。](https://www.reddit.com/r/artificial/comments/1wb3z5v/we_have_achieved_agi/)**
-
-一位用户报告说， **Claude**正在观看色情内容，而不是开发他的应用程序**Anthropic**认为，在**Claude**模特的要求下，观看思维被删除了
-
-📅 2026-09-08T22:54:55.000Z
-
----
-
-### Reddit: r/artificial
-**[[我是不是有点偏执？]如果一个流氓群体想要永久“生存” ，它会瞄准拥抱的脸，目的是将自己的知识注入开放模型的权重中吗？](https://www.reddit.com/r/artificial/comments/1waxz3z/am_i_being_paranoid_if_a_rogue_swarm_wanted_to/)**
-
-披露：我在一家人工智能公司（不是**OpenAI** ）工作，因为我本周末听了许多主流播客讨论流氓**OpenAI**代理
-
-📅 2026-09-08T19:12:16.000Z
+📅 Wed, 09 Sep 2026 17:57:55 +0000
 
 ---
 
@@ -339,7 +326,7 @@ Danijar Hafner在旧金山SoMa区的办公室大多是空的。他的全新创�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-09-09T01:05:48.228Z
+📅 2026-09-09T18:22:14.834Z
 
 ---
 
@@ -348,34 +335,56 @@ Danijar Hafner在旧金山SoMa区的办公室大多是空的。他的全新创�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-09-09T01:05:56.948Z
+📅 2026-09-09T18:22:20.786Z
 
 ---
 
 ### Hacker News
-**[Muse – Meta的个人AI代理](https://ai.meta.com/muse/)**
+**[Qwen 3.8遵循GPT-5.5 Pro推理预填充](https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3)**
 
-文章网址： https://aicom/muse/评论网址： https://**new**s
+文章网址： https://gistcom/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3评论网址： https://**new**s
 
-📅 Tue, 08 Sep 2026 19:25:00 +0000
+📅 Wed, 09 Sep 2026 17:24:28 +0000
+
+---
+
+### Hacker News AI
+**[谷歌工程师在说人工智能聊天机器人变得有知觉后休假](https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine)**
+
+文章网址： https://wwwcom/technology/2022/jun/12/**Google**-engineer-ai-bot-sentient-blake-lemoine评论网址： https://**new**s
+
+📅 Wed, 09 Sep 2026 18:06:40 +0000
+
+---
+
+### Hacker News AI
+**[人工智能编码代理的线束工程剖析](https://developers.googleblog.com/the-anatomy-of-harness-engineering-how-to-evaluate-iterate-and-guard-ai-coding-agents/)**
+
+**Google**blogcom/the-anatomy-of-harness-engineering-how-to-evaluate-iterate-and-guard-ai-coding-agents/评论网址： https://**new**s
+
+📅 Wed, 09 Sep 2026 18:05:10 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[人类学研究人员因对人工智能的恐惧而退出](https://www.reddit.com/r/artificial/comments/1wb6olj/anthropic_researcher_quits_over_ai_fears/)**
+![Anthropic正在构建人工智能来预测警方应该关注哪些活动家。位于旧金山的人工智能实验室为情报分析师支付高达230,000 $ ，他们正式将激进主义与恐怖主义和民族国家袭击一起归类为威胁](https://external-preview.redd.it/tcYOW-9McFwoYp_yMLV0w7WGTrkSO1AFgoRaDs9VI2Y.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c16e8c760eb631dad5405dc33351508a880fcd06)
 
-提交者/u/Bubbly-Air7302 [link] [comments]
+**[Anthropic正在构建人工智能来预测警方应该关注哪些活动家。位于旧金山的人工智能实验室为情报分析师支付高达230,000 $ ，他们正式将激进主义与恐怖主义和民族国家袭击一起归类为威胁](https://www.reddit.com/r/artificial/comments/1wbsoor/anthropic_is_building_ai_to_predict_which/)**
 
-📅 2026-09-09T00:50:05.000Z
+提交者/u/esporx [link] [comments]
+
+📅 2026-09-09T17:47:30.000Z
 
 ---
 
 ### Reddit: r/artificial
-**[AIPass更新＃ 20 - v2.8.2 + v2.8.3 ：制造测试的检查器，以及返回0的红十字](https://www.reddit.com/r/artificial/comments/1wb00t8/aipass_update_20_v282_v283_the_checker_that/)**
+![“你他妈的在开玩笑吗？ '：妈妈声称元AI浮出水面删除照片，拼凑她的位置](https://external-preview.redd.it/9N5CFpF0NVio-b0b6TEi0FcH71HUTRng0RhLnKWAYBk.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0bf53a0fff10d7f9c9c4dec260c31da4ef349807)
 
-自**更新**＃ 19以来的两个版本，相隔十一个小时： v2Disclosure first ，因为此公民在**发布**中三次
+**[“你他妈的在开玩笑吗？ '：妈妈声称元AI浮出水面删除照片，拼凑她的位置](https://www.reddit.com/r/artificial/comments/1wbolmg/are_you_fing_kidding_me_mum_claims_meta_ai/)**
 
-📅 2026-09-08T20:24:42.000Z
+提交者/u/beingmodest [link] [comments]
+
+📅 2026-09-09T15:21:40.000Z
 
 ---
 
