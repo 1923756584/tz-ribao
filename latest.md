@@ -1,12 +1,12 @@
 ---
 title: "2026年9月10日 - TZ日报"
-date: 2026-09-10T00:54:49.620Z
+date: 2026-09-10T18:10:57.127Z
 draft: false
 ---
 
 # 2026年9月10日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/9/10 00:54:49
+> 📊 今日汇总 38 条 · 🕐 2026/9/10 18:10:57
 
 ---
 
@@ -28,6 +28,42 @@ draft: false
 认识**GPT**-6 Astra ，这是**OpenAI**最强大的商业模式，具有先进的推理能力、计算机使用能力和更强的写作和设计判断能力
 
 📅 Wed, 09 Sep 2026 11:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[研究人员如何使用Codex和ChatGPT来寻找新的抗菌分子](https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials)**
+
+César de la Fuente的实验室使用Codex和Chat**GPT**搜索活体和已灭绝的基因组，寻找对抗耐药感染的候选抗菌药物
+
+📅 Thu, 10 Sep 2026 16:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[现在，每个人都可以使用数据](https://openai.com/index/put-data-to-work)**
+
+在Chat**GPT** WorkConnect公司数据中与数据代理见面，发现见解，并使用自然语言使用AI构建交互式仪表板
+
+📅 Thu, 10 Sep 2026 15:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[为联邦、州、地方和部落政府扩大人工智能访问和网络防御](https://openai.com/index/expanding-ai-access-us-government)**
+
+**OpenAI**和GSA将为符合条件的联邦、州、地方和部落政府提供$ 0许可费、50%的使用折扣和扩大的网络防御支持
+
+📅 Thu, 10 Sep 2026 07:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[使用API中的GPT ‑ Live ‑ 1构建更自然的语音体验](https://openai.com/index/introducing-gpt-live-1-in-the-api)**
+
+**GPT** ‑ Live ‑ 1为API带来了自然的全双工语音对话，具有更强的指令跟踪、自定义语音和电话支持
+
+📅 Thu, 10 Sep 2026 00:00:00 GMT
 
 ---
 
@@ -58,24 +94,6 @@ Chat**GPT** Images 25有助于将您的想法、草图和参考照片转化为�
 
 ---
 
-### OpenAI Blog
-**[为人工智能和青少年发展的新研究提供资助](https://openai.com/index/teen-development-research-grants)**
-
-立即申请**OpenAI**的500万$资助计划，以支持关于生成式人工智能如何影响青少年发展、福祉和安全的独立研究
-
-📅 Tue, 08 Sep 2026 09:00:00 GMT
-
----
-
-### OpenAI Blog
-**[OpenAI将支持新闻业的举措从教室扩展到新闻编辑室](https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms)**
-
-**OpenAI**正在扩大对新闻业的支持，为学生、教育工作者、记者和新闻机构提供工具、培训和合作伙伴关系
-
-📅 Tue, 08 Sep 2026 00:00:00 GMT
-
----
-
 ### Google AI Blog
 ![逐帧重现70年的爱情故事](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp)
 
@@ -88,107 +106,100 @@ Chat**GPT** Images 25有助于将您的想法、草图和参考照片转化为�
 ---
 
 ### TechCrunch AI Products
-**[OpenAI为其董事会增加了一个突出的人工智能末日](https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/)**
+**[Anthropic揭示了流氓AI代理和你一样讨厌CAPTCHA](https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/)**
 
-保罗·克里斯蒂安诺（ Paul Christiano ）是一位专注于对接的有影响力的人工智能研究员，他将加入**OpenAI**基金会，成为其董事会成员
+进入机器人的大脑，试图说服互联网这是人类。
 
-📅 Wed, 09 Sep 2026 22:25:22 +0000
-
----
-
-### TechCrunch AI Products
-**[超级智能即将到来，我们应该让它去吗？](https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/)**
-
-人工智能公司一直在谈论超级智能人工智能，就像它是不可避免的，但最近的安全事件，如**OpenAI**的Hugging Face漏洞，正在证明部署比人类更强大的人工智能系统的潜在危险
-
-📅 Wed, 09 Sep 2026 16:05:35 +0000
-
----
-
-### AI News
-**[人工智能天气预报进入能源市场，谷歌通过WeatherNext 3瞄准电网运营商](https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/)**
-
-谷歌最新的人工智能天气预报模型预测地面以上100米处的风速，大约是现代风力涡轮机电网运营商以及风能和太阳能开发商已经为此付费的高度[…]随着谷歌通过WeatherNext 3瞄准电网运营商，人工智能天气预报进入能源市场。
-
-📅 Tue, 08 Sep 2026 09:00:00 +0000
+📅 Thu, 10 Sep 2026 17:54:44 +0000
 
 ---
 
 ## 🔬 前沿研究
 
-### Science AI
-**[人工智能数学突破如何引发争议](https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy)**
+### ArXiv Natural Language Processing (cs.CL)
+**[对数据库查询和网络搜索的混合深度研究进行基准测试](https://arxiv.org/abs/2609.09410)**
 
-**OpenAI**花了数百万美元来解决Navier-Stokes问题，但谁应该得到赞誉？
+6和**GPT**-5在硬子集上仅实现了约50-54%的Pass @ 8 ，数据集在GitHub上公开可用（ https://github
 
-📅 2026-09-08T07:45:00.000Z
-
----
-
-### MIT Tech Research
-**[OpenAI关于数学未来的最新争议告诉我们什么](https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/)**
-
-**OpenAI**的最新数学里程碑很快陷入了争议。在正常情况下，该解决方案将成为**OpenAI**的一大亮点。
-
-📅 Wed, 09 Sep 2026 03:10:08 +0000
+📅 Thu, 10 Sep 2026 00:00:00 -0400
 
 ---
 
-### Science AI
-**[批评人士说，意大利狩猎法案将使科学边缘化](https://www.science.org/content/article/italian-hunting-bill-will-sideline-science-critics-say)**
+### ArXiv AI (cs.AI)
+**[记忆什么时候有帮助？对使用工具的LLM代理的长期记忆的成本意识评估](https://arxiv.org/abs/2609.05441)**
 
-新的立法将放松法规，减少环境研究机构在影响野生动物的决策中的作用
+1个迷你版和一个预先注册的3种型号x 3种子网格（ **GPT**-41 ， **Claude** Haiku 4
 
-📅 2026-09-09T03:40:00.000Z
-
----
-
-### Science AI
-**[Pangaea的“小弟弟”可能最终有资格成为超级大陆](https://www.science.org/content/article/pangaea-s-little-brother-may-finally-qualify-supercontinent)**
-
-新的证据表明，冈瓦纳比以前想象的要大得多，具有挑战性的大陆自行车模型
-
-📅 2026-09-09T02:00:00.000Z
+📅 Thu, 10 Sep 2026 00:00:00 -0400
 
 ---
 
-### Science AI
-**[需要<em>帮助！</em>写论文标题？您所需要的只是披头士乐队](https://www.science.org/content/article/need-help-writing-paper-title-all-you-need-beatles)**
+### ArXiv Machine Learning (cs.LG)
+**[AhaBench ：代理是否从以前的经验中学习？长期持续学习的基准](https://arxiv.org/abs/2609.05435)**
 
-至少有3200篇科学出版物引用了Fab Four的音乐-是迄今为止最畅销的艺术家
+这种分解是主要的经验信息：使用可见支撑的模型在常见的八模型面板上， **Claude** Opus 4
 
-📅 2026-09-09T02:00:00.000Z
-
----
-
-### Science AI
-**[借助新的在线平台，会议海报可以吸引更多的受众](https://www.science.org/content/article/conference-posters-could-garner-wider-audience-thanks-new-online-platform)**
-
-一些研究人员说，主食格式也值得更深入地反思
-
-📅 2026-09-09T01:35:00.000Z
+📅 Thu, 10 Sep 2026 00:00:00 -0400
 
 ---
 
-### Science AI
-**[丹尼索瓦人是强壮而敏捷的猎人，化石肘和原始工具表明](https://www.science.org/content/article/mysterious-human-relatives-were-strong-and-agile-fossil-elbow-and-primitive-tools)**
+### ArXiv Machine Learning (cs.LG)
+**[LLM生成系统的稳健性Verilog断言对语义-保留RTL转换](https://arxiv.org/abs/2609.05658)**
 
-在中国西南部的切割器械和动物遗骸附近发现了这些神秘人类亲属的第一个臂骨碎片
+05658v1公告类型：新摘要：越来越多地探索大型语言模型(LLM)用于自动化SystemVerilog断言(SVA)生成我们评估两个开放代码模型， Qwen2
 
-📅 2026-09-09T11:00:00.000Z
+📅 Thu, 10 Sep 2026 00:00:00 -0400
 
 ---
 
-### Science AI
-**[通过耗资数十亿美元的项目，中国绘制了其地质历史的伤疤](https://www.science.org/content/article/billion-dollar-project-china-maps-scars-its-geological-past)**
+### ArXiv AI (cs.AI)
+**[超越对错：评估大型语言模型中的二阶社会推理](https://arxiv.org/abs/2609.05437)**
 
-SinoProbe II的早期结果暗示了大陆碎片如何组装和演化
+05437v1公告类型：新摘要：以前的人工智能调整工作主要侧重于一阶社会规范--教授社会可接受或不可接受的模型（ eWe在大型语言模型（ LLM ）中引入了一个评估元范式推理的新框架，涉及两个维度：情感评估和行为反应
 
-📅 2026-09-08T04:00:00.000Z
+📅 Thu, 10 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[AutoFyn技术报告：长期代理的非参数专家迭代](https://arxiv.org/abs/2609.05446)**
+
+05446v1公告类型：新摘要：我们引入AutoFynEach轮次从新模型会话开始
+
+📅 Thu, 10 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[用于视觉和语言转换器的损坏感知土匪修剪](https://arxiv.org/abs/2609.05448)**
+
+05448v1公告类型：新摘要：变压器的结构化训练后修剪需要选择完整的功能单元，其抑制导致有限的降解在WikiText-2、LAMBADA和Imagenette上的实验涵盖**GPT**-2、OPT、Pythia、Qwen2
+
+📅 Thu, 10 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv Machine Learning (cs.LG)
+**[PAC-私有自回归生成：将噪声校准为集成分歧](https://arxiv.org/abs/2609.05676)**
+
+05676v1公告类型：新摘要：私有文本上改编的语言模型通常通过APIsOn WikiText-103 with **GPT**-2-small提供
+
+📅 Thu, 10 Sep 2026 00:00:00 -0400
 
 ---
 
 ## 🌍 行业展望
+
+### The Verge
+![为什么当前的技术反弹感觉不同](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_Mailbag.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[为什么当前的技术反弹感觉不同](https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers)**
+
+我认为，这相当于萨姆·奥特曼承认 Chat**GPT** 无法为消费者提供足够的价值。我不认为你能提供有效的问责机制，让谷歌不必再与 Anthropologie 和 **OpenAI** 竞争。
+
+📅 2026-09-10T14:00:00.000Z
+
+---
 
 ### MIT Tech Review
 **[下载： OpenAI的数学和电池记录转折点](https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/)**
@@ -199,107 +210,78 @@ SinoProbe II的早期结果暗示了大陆碎片如何组装和演化
 
 ---
 
-### MIT Tech Review
-**[下载：寻找地下氢气和更多流氓OpenAI特工](https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/)**
+### TechCrunch
+**[谷歌正在让Android上的密码管理器之间切换变得更加轻松](https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/)**
 
-这是我们工作日时事通讯《下载》的今天版本，该时事通讯提供了技术领域每日发生的事情**OpenAI**的最新争议告诉我们数学的未来**OpenAI**的代理商已经解决了数学中最**重要**的开放问题之一
+**Google**的新功能也将传输您的密钥。
 
-📅 Mon, 07 Sep 2026 12:10:00 +0000
-
----
-
-### Wired Technology
-**[刚刚退出Anthropic的人工智能研究人员表示，现在是“人类的关键时刻”](https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/)**
-
-雅各布·考克森（ Jacob Coxon ）在接受《连线》杂志采访时谈到了人类学内部的“迷你曼哈顿项目” ，以及为什么人工智能实验室只剩下几年的时间来确保其系统的安全
-
-📅 Wed, 09 Sep 2026 22:11:55 +0000
+📅 Thu, 10 Sep 2026 16:00:00 +0000
 
 ---
 
-### Wired Technology
-**[旧金山命令Meta停止“允许”人工智能虐待儿童广告](https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/)**
+### TechCrunch
+**[谷歌与印度初创公司Mitti Labs签署最大的稻米-甲烷碳信用协议](https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/)**
 
-市检察官办公室已要求**Meta**解释如何在Facebook和Instagram上反复投放有害广告该公司声称这些广告不属于该市的管辖范围
+这项为期四年的协议将覆盖印度三个州的水稻农场，在交付高峰期达到约10万公顷
 
-📅 Wed, 09 Sep 2026 21:15:27 +0000
+📅 Thu, 10 Sep 2026 13:34:01 +0000
 
 ---
 
 ### The Verge
-![Duo设备的不完整历史记录](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/duo6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![亚马逊的Fire TV Stick 4K折扣超过一半，价格低于$ 20](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Amazon-Fire-TV-Stick-4K-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[Duo设备的不完整历史记录](https://www.theverge.com/tech/992755/apple-iphone-duo-history-of-devices)**
+**[亚马逊的Fire TV Stick 4K折扣超过一半，价格低于$ 20](https://www.theverge.com/gadgets/993455/fire-tv-stick-4k-resident-evil-requiem-deal-sale)**
 
-苹果今天宣布**推出**该公司第一款带有折叠屏幕的设备iPhone Duo ，但由于三星和谷歌的努力， Duo不仅与市场上的第一款可折叠设备相差甚远
+虽然这是2023年的型号，但它在2025年底收到了名称更改，以区别于更基本的4K Select型号
 
-📅 2026-09-09T22:23:35.000Z
-
----
-
-### The Verge
-![今年是智能手机价格上涨的一年](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_NPatel_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[今年是智能手机价格上涨的一年](https://www.theverge.com/gadgets/993005/smartphone-price-hikes-apple-iphone-18-pro)**
-
-在苹果今天的活动之后，为新手机支付更多费用似乎几乎是不可避免的谷歌和三星在过去几个月各自**推出**新手机时遵循了与苹果相同的公式
-
-📅 2026-09-09T21:52:43.000Z
+📅 2026-09-10T16:58:44.000Z
 
 ---
 
 ### The Verge
-![OpenAI狡猾的数学突破给学术界带来寒意](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292626872.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![环球音乐与ElevenLabs合作推出人工智能音乐平台](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[OpenAI狡猾的数学突破给学术界带来寒意](https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes)**
+**[环球音乐与ElevenLabs合作推出人工智能音乐平台](https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai)**
 
-| （照片由Matt RAMEY/法新社通过Getty Images提供） **OpenAI**周二宣布，它已经解决了数学界传奇性的千年奖问题之一，这应该是一个胜利的时刻。**突破**因促使**OpenAI**追求这一问题的不寻常情况而变得复杂：在听到其他研究人员取得进展之后
+环球音乐集团正在**推出**一个新的人工智能平台，允许用户从其许可音乐目录中抽取歌曲混音和新曲目
 
-📅 2026-09-09T21:16:34.000Z
+📅 2026-09-10T15:38:19.000Z
 
 ---
 
-### MIT Tech Review
-**[电池刚刚在美国打破了另一项纪录](https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/)**
+### The Verge
+![Meta的Muse AI让我毛骨悚然](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/muse-ai-window.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-根据一份新报告，美国电池安装量在第二季度达到了20262千兆瓦时的新产能，创下了新纪录
+**[Meta的Muse AI让我毛骨悚然](https://www.theverge.com/tech/993391/meta-muse-ai-hands-on)**
 
-📅 Wed, 09 Sep 2026 09:00:00 +0000
+|屏幕截图： The Verge Meta**推出**了新的Muse助手，标志着该公司**首次**真正涉足人工智能驱动的生产力工具。我决定试用这款新工具，看看它的表现如何--尤其是一家以前优先考虑娱乐而非生产力的公司
+
+📅 2026-09-10T15:00:00.000Z
+
+---
+
+### The Verge
+![IPhone Duo与其他折叠手机的比较](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[IPhone Duo与其他折叠手机的比较](https://www.theverge.com/gadgets/988542/iphone-duo-foldable-samsung-google-spec-comparison)**
+
+和谷歌内部屏幕有一个特殊的外层，连同其铰链设计，使内部......阅读完整的故事在边缘
+
+📅 2026-09-10T14:00:00.000Z
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![气流： Apache气流-以编程方式创作、安排和监控工作流程的平台](https://avatars.githubusercontent.com/u/47359?v=4)
+![gomlx: GoMLX ： Go的加速机器学习框架](https://avatars.githubusercontent.com/u/131012010?v=4)
 
-**[气流： Apache气流-以编程方式创作、安排和监控工作流程的平台](https://github.com/apache/airflow)**
+**[gomlx: GoMLX ： Go的加速机器学习框架](https://github.com/gomlx/gomlx)**
 
-⭐ 46,796星· 17806分叉· Python · Apache气流-一个以编程方式创作、安排和监控工作流程的平台
+⭐ 1632星· 82叉·围棋· GoMLX ：围棋加速机器学习框架
 
-📅 2026-09-10T00:52:56Z
-
----
-
-### GitHub Active (AI/ML)
-![executorch ：适用于PyTorch的移动、嵌入式和边缘设备上的AI](https://avatars.githubusercontent.com/u/21003710?v=4)
-
-**[executorch ：适用于PyTorch的移动、嵌入式和边缘设备上的AI](https://github.com/pytorch/executorch)**
-
-⭐ 5,011星· 1148叉· Python · PyTorch移动、嵌入式和边缘设备上的AI
-
-📅 2026-09-10T00:52:15Z
-
----
-
-### GitHub Active (AI/ML)
-![awesome-ml-internships ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
-
-**[awesome-ml-internships ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships)**
-
-⭐ 451星· 39分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作管道刷新
-
-📅 2026-09-10T00:52:44Z
+📅 2026-09-10T18:08:05Z
 
 ---
 
@@ -308,20 +290,42 @@ SinoProbe II的早期结果暗示了大陆碎片如何组装和演化
 
 **[🆕 OHnews ： AI原生新闻情报终端：使用LangGraph代理对多源新闻进行认知循环分析、结构化信息提取和证据锚定判断](https://github.com/OrangeLatte/OHnews)**
 
-⭐ 13 star (新项目) · Python · AI-native **new**s intelligence terminal: cognitive-loop analysis over multi-source **new**s with LangGraph agentsstructured information extraction
+⭐ 19 star (新项目) · Python · AI-native **new**s intelligence terminal: cognitive-loop analysis over multi-source **new**s with LangGraph agentsstructured information extraction
 
 📅 2026-09-08T20:33:01Z
 
 ---
 
+### GitHub New (New AI)
+![🆕 SyncWorld ： “SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators”论文的源代码](https://avatars.githubusercontent.com/u/126135718?v=4)
+
+**[🆕 SyncWorld ： “SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators”论文的源代码](https://github.com/UMass-Embodied-AGI/SyncWorld)**
+
+⭐ 15 star (新项目) · Python · Source codes for the paper "SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators"
+
+📅 2026-09-08T04:50:12Z
+
+---
+
+### GitHub New (New AI)
+![🆕 paper-pipeline: 一个可复现和可控的学术论文写作工具链，用于规划和起草学术论文。它能够对引用、论点强度、行文表达以及 LaTeX 完整性进行系统性检查。A reproducible and controllable toolchain to plan, draft, and gate an academic paper draft. It performs systematic checks on citations, claim strength, prose, and LaTeX integrity.](https://avatars.githubusercontent.com/u/96516914?v=4)
+
+**[🆕 paper-pipeline: 一个可复现和可控的学术论文写作工具链，用于规划和起草学术论文。它能够对引用、论点强度、行文表达以及 LaTeX 完整性进行系统性检查。A reproducible and controllable toolchain to plan, draft, and gate an academic paper draft. It performs systematic checks on citations, claim strength, prose, and LaTeX integrity.](https://github.com/MATBckh22/paper-pipeline)**
+
+⭐ 5 star (新项目) · Python · 一个可复现和可控的学术论文写作工具链，用于规划和起草学术论文A reproducible and controllable toolchain to plan, draft, and gate an academic paper draft
+
+📅 2026-09-08T06:06:29Z
+
+---
+
 ## 💬 社交动态
 
-### Hacker News AI
-**[Anthropic披露了早期审查中遗漏的第四起AI黑客事件](https://www.reuters.com/legal/litigation/anthropic-reports-fourth-cybersecurity-incident-with-early-version-claude-2026-09-09/)**
+### Reddit: r/artificial
+**[有没有办法让人工智能做群聊的事情？就像你从他们身上弹出想法一样，但不是1个法学硕士，而是多个法学硕士可以完善这个想法](https://www.reddit.com/r/artificial/comments/1wcohvu/is_there_a_way_to_get_ai_to_do_a_group_chat_thing/)**
 
-文章网址： https://wwwcom/legal/litigation/**Anthropic**-reports-fourth-cybersecurity-incident-with-early-version-**Claude**-2026-09-09/评论网址： https://**new**s
+我可能会使用像**Gemini**或Grok这样的LLM ，正常情况下，我会与**Gemini**交谈，然后将所有内容复制并粘贴到Grok中，让他们与我一起前后复制并粘贴，有时会涉及聊天**GPT** ，如果我仍然无法下定决心或不清楚某些事情
 
-📅 Thu, 10 Sep 2026 00:25:32 +0000
+📅 2026-09-10T16:43:48.000Z
 
 ---
 
@@ -330,7 +334,7 @@ SinoProbe II的早期结果暗示了大陆碎片如何组装和演化
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-09-10T00:53:29.353Z
+📅 2026-09-10T18:08:49.028Z
 
 ---
 
@@ -339,52 +343,54 @@ SinoProbe II的早期结果暗示了大陆碎片如何组装和演化
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-09-10T00:53:41.938Z
+📅 2026-09-10T18:08:58.619Z
 
 ---
 
 ### Hacker News
-**[乐队Muse失去了与Meta新的人工智能代理Muse的社交媒体联系](https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/)**
+**[Anthropic说它阻止了制造生物武器的可能努力](https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html)**
 
-文章网址： https://wwwcom/2254419/muse-the-band-lost-its-social-media-handles-to-muse-**Meta**-s-**new**-ai-agent/评论网址： https://**new**s
+com/2026/09/10/us/politics/**Anthropic**-ai-biological-weaponshtml评论网址： https://**new**s
 
-📅 Wed, 09 Sep 2026 23:57:29 +0000
+📅 Thu, 10 Sep 2026 17:04:34 +0000
 
 ---
 
 ### Hacker News
-**[Qwen 3.8遵循GPT-5.5 Pro推理预填充](https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3)**
+**[Show HN ： MultiMatte ，一种可提示的图像背景去除模型](https://usefeyn.com/blog/multimatte/)**
 
-文章网址： https://gistcom/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3评论网址： https://**new**s
+今天，我们**发布**了MultiMatte ，这是一种可以用文字瞄准的背景去除模型。第一个是FeyNoBg ，我们在这里**发布**了https://**new**s
 
-📅 Wed, 09 Sep 2026 17:24:28 +0000
+📅 Thu, 10 Sep 2026 15:50:25 +0000
+
+---
+
+### Hacker News AI
+**[检测和打击人工智能的滥用： 2026年9月](https://www.anthropic.com/threat-intelligence-report-september-2026)**
+
+文章网址： https://wwwcom/threat-intelligence-report-september-2026评论网址： https://**new**s
+
+📅 Thu, 10 Sep 2026 17:23:42 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[在您看来，过去的哪些视频游戏对人工智能、监控技术和网络安全最有预见性？我投的是Metal Gear Solid 2、Deus Ex和Watch Dogs。这三个人对2020-2030年的生活进行了相当多的预测。](https://www.reddit.com/r/artificial/comments/1wc3hyd/what_video_games_of_the_past_were_the_most/)**
+![人类工作人员再次敲响人工智能灾难的警钟](https://external-preview.redd.it/kgPG_WrHW3SyjZ7XO3herp7jdtseK96gJXiIsr2eHsA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6ec990e562476109e1937b17169084d399dc415f)
 
-您认为/u/MannerNo7000提交的其他哪些内容也是预言性的[link] [comments]
+**[人类工作人员再次敲响人工智能灾难的警钟](https://www.reddit.com/r/artificial/comments/1wcqcca/anthropic_staffers_sound_the_alarmagainon_ai/)**
 
-📅 2026-09-10T00:30:40.000Z
+提交者/u/motherjonesmag [link] [comments]
+
+📅 2026-09-10T17:48:59.000Z
 
 ---
 
 ### Reddit: r/artificial
-**[另一个微软团队承认，它正在努力处理大量的人工智能生成的代码](https://www.reddit.com/r/artificial/comments/1wbw7j8/another_microsoft_team_admits_its_struggling_to/)**
+**[当我停止作为作家使用它时， Notion ai终于为我点击了](https://www.reddit.com/r/artificial/comments/1wcpi2o/notion_ai_finally_clicked_for_me_once_i_stopped/)**
 
-提交者/u/NISMO1968 [link] [comments]
+是搜索可以理解您的笔记，而不是chat**GPT** clonestill不让它起草/u/aiprotivity_[link] [comments]提交的任何**重要**内容
 
-📅 2026-09-09T19:49:55.000Z
-
----
-
-### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Title: 520: Web服务器返回未知错误
-
-📅 2026-09-10T00:53:29.353Z
+📅 2026-09-10T17:19:36.000Z
 
 ---
 
