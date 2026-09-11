@@ -1,12 +1,12 @@
 ---
 title: "2026年9月11日 - TZ日报"
-date: 2026-09-11T00:53:37.946Z
+date: 2026-09-11T18:14:48.764Z
 draft: false
 ---
 
 # 2026年9月11日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/9/11 00:53:37
+> 📊 今日汇总 38 条 · 🕐 2026/9/11 18:14:48
 
 ---
 
@@ -21,6 +21,15 @@ draft: false
 ---
 
 ## ✨ 产品更新
+
+### OpenAI Blog
+**[快速扩展在线存储，为超过10亿ChatGPT用户提供服务](https://openai.com/index/scaling-storage-one-billion-users-part-one)**
+
+了解**OpenAI**如何将Habitat从Python库演变为全球分布式存储平台，为10亿Chat**GPT**用户提供服务，每秒处理2200万个请求
+
+📅 Fri, 11 Sep 2026 10:00:00 GMT
+
+---
 
 ### OpenAI Blog
 **[GPT-6 Astra ：下一代智能工作](https://openai.com/index/gpt-6-astra-next-generation-work)**
@@ -94,15 +103,6 @@ Paul Christiano加入**OpenAI**基金会董事会及其安全和安保委员会�
 
 ---
 
-### OpenAI Blog
-**[GPT-5.6 Sol如何帮助运行量子计算实验](https://openai.com/index/codex-quantum-computing-experiments)**
-
-了解麻省理工学院的研究人员如何使用**GPT**-56 Sol和Codex自主运行量子计算实验、分析结果和校准量子位
-
-📅 Tue, 08 Sep 2026 17:00:00 GMT
-
----
-
 ### Google AI Blog
 ![逐帧重现70年的爱情故事](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp)
 
@@ -116,75 +116,75 @@ Paul Christiano加入**OpenAI**基金会董事会及其安全和安保委员会�
 
 ## 🔬 前沿研究
 
+### ArXiv AI (cs.AI)
+**[OpenDiscoveryTrace ：评估AI科学家工作流的过程跟踪](https://arxiv.org/abs/2609.09203)**
+
+09203v1公告类型：新摘要：自主人工智能科学家的现有基准仅评估最终输出--生成的代码数据集涵盖七个模型：三个前沿模型（ **GPT**-5
+
+📅 Fri, 11 Sep 2026 00:00:00 -0400
+
+---
+
 ### ArXiv Natural Language Processing (cs.CL)
-**[对数据库查询和网络搜索的混合深度研究进行基准测试](https://arxiv.org/abs/2609.09410)**
+**[仅限名义上的多语种？乌尔都语法学硕士的文化和语言弱点](https://arxiv.org/abs/2609.10758)**
 
-6和**GPT**-5在硬子集上仅实现了约50-54%的Pass @ 8 ，数据集在GitHub上公开可用（ https://github
+10758v1公告类型：新摘要：多语言大型语言模型（ LLM ）越来越多地用于开放式文本生成我们生成了乌尔都语故事，这是使用三个当代LLM （ **GPT**-5 ）生成的93个故事的语料库
 
-📅 Thu, 10 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[记忆什么时候有帮助？对使用工具的LLM代理的长期记忆的成本意识评估](https://arxiv.org/abs/2609.05441)**
-
-1个迷你版和一个预先注册的3种型号x 3种子网格（ **GPT**-41 ， **Claude** Haiku 4
-
-📅 Thu, 10 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[AhaBench ：代理是否从以前的经验中学习？长期持续学习的基准](https://arxiv.org/abs/2609.05435)**
-
-这种分解是主要的经验信息：使用可见支撑的模型在常见的八模型面板上， **Claude** Opus 4
-
-📅 Thu, 10 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[LLM生成系统的稳健性Verilog断言对语义-保留RTL转换](https://arxiv.org/abs/2609.05658)**
-
-05658v1公告类型：新摘要：越来越多地探索大型语言模型(LLM)用于自动化SystemVerilog断言(SVA)生成我们评估两个开放代码模型， Qwen2
-
-📅 Thu, 10 Sep 2026 00:00:00 -0400
+📅 Fri, 11 Sep 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[超越对错：评估大型语言模型中的二阶社会推理](https://arxiv.org/abs/2609.05437)**
+**[客服代表知道什么时候成功吗？从内部陈述中校准代理置信度](https://arxiv.org/abs/2609.09448)**
 
-05437v1公告类型：新摘要：以前的人工智能调整工作主要侧重于一阶社会规范--教授社会可接受或不可接受的模型（ eWe在大型语言模型（ LLM ）中引入了一个评估元范式推理的新框架，涉及两个维度：情感评估和行为反应
+09448v1公告类型：新摘要：作为安全关键应用中快速采用的代理系统跨三个交互式基准（ Bash、SQL、Python ）和三个模型系列（ Qwen14B、Qwen7B、**DeepSeek**6 ）
 
-📅 Thu, 10 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[AutoFyn技术报告：长期代理的非参数专家迭代](https://arxiv.org/abs/2609.05446)**
-
-05446v1公告类型：新摘要：我们引入AutoFynEach轮次从新模型会话开始
-
-📅 Thu, 10 Sep 2026 00:00:00 -0400
+📅 Fri, 11 Sep 2026 00:00:00 -0400
 
 ---
 
-### ArXiv AI (cs.AI)
-**[用于视觉和语言转换器的损坏感知土匪修剪](https://arxiv.org/abs/2609.05448)**
+### ArXiv Computer Vision (cs.CV)
+**[通过视觉变换器和模糊聚类进行数据高效植物生长估算的元学习](https://arxiv.org/abs/2609.10749)**
 
-05448v1公告类型：新摘要：变压器的结构化训练后修剪需要选择完整的功能单元，其抑制导致有限的降解在WikiText-2、LAMBADA和Imagenette上的实验涵盖**GPT**-2、OPT、Pythia、Qwen2
+10749v1公告类型：新摘要：准确的植物生长估算对于温室监测至关**重要**在两个植物数据集上的实验表明，结构化任务设计与元学习相结合，可在严重标签稀缺的情况下实现可靠的植物生长估算
 
-📅 Thu, 10 Sep 2026 00:00:00 -0400
+📅 Fri, 11 Sep 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Machine Learning (cs.LG)
-**[PAC-私有自回归生成：将噪声校准为集成分歧](https://arxiv.org/abs/2609.05676)**
+### ArXiv Natural Language Processing (cs.CL)
+**[较大的上下文窗口，较少的过度校正：优化提示和批处理以实现最小编辑语法错误校正](https://arxiv.org/abs/2609.10810)**
 
-05676v1公告类型：新摘要：私有文本上改编的语言模型通常通过APIsOn WikiText-103 with **GPT**-2-small提供
+10810v1公告类型：新摘要：对于零和少量提示的大型语言模型（ LLM ） ，最小编辑语法错误校正（ GEC ）是一项具有挑战性的任务，它有利于**最强**大的模型，同时保持整体模型依赖性
 
-📅 Thu, 10 Sep 2026 00:00:00 -0400
+📅 Fri, 11 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv Robotics (cs.RO)
+**[ReactHuman ：体现多模态LLM中类似人类的反应式决策的物理基础基准](https://arxiv.org/abs/2609.10895)**
+
+10895v1公告类型：新摘要：对突发物理危险（即使所选动作正确，也会以米尺度捕获滑板和错过拦截点；这些故障都不会随着模型尺度而缩小
+
+📅 Fri, 11 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv Robotics (cs.RO)
+**[使用通用IK求解器沿着约束流形的可微分图进行规划](https://arxiv.org/abs/2609.10905)**
+
+10905v1公告类型：新摘要：在运动等式约束下规划机器人机械臂的轨迹，将可行运动限制在配置空间的度量零子流形，但绝大多数IK函数是由IKFast等自动化元解算器计算的，并且难以修改以获得微分性
+
+📅 Fri, 11 Sep 2026 00:00:00 -0400
+
+---
+
+### MIT Tech Research
+**[OpenAI关于数学未来的最新争议告诉我们什么](https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/)**
+
+**OpenAI**的最新数学里程碑很快陷入了争议。在正常情况下，该解决方案将成为**OpenAI**的一大亮点。
+
+📅 Wed, 09 Sep 2026 03:10:08 +0000
 
 ---
 
@@ -196,6 +196,24 @@ Paul Christiano加入**OpenAI**基金会董事会及其安全和安保委员会�
 **Anthropic**已经中断了几次使用其**Claude**模型进行潜在恶意活动的尝试，人们对人工智能滥用和流氓的担忧日益增加
 
 📅 2026-09-10T22:38:57.000Z
+
+---
+
+### The Information Technology
+**[微软首席通信官Shaw即将离职](https://www.theinformation.com/briefings/microsoft-chief-communications-officer-shaw-depart)**
+
+微软首席通讯官弗兰克·肖（ Frank Shaw ）将在今年年底离开公司，他在LinkedIn的一篇帖子中宣布，周五肖（ Friday Shaw ）在该公司工作了28年多，其中17年负责监督其通讯
+
+📅 2026-09-11T16:52:20.000Z
+
+---
+
+### The Information Technology
+**[随着中国推动芯片自给自足，腾讯支持的Enflame首次亮相](https://www.theinformation.com/briefings/tencent-backed-enflame-triples-debut-china-pushes-chip-self-sufficiency)**
+
+这家中国人工智能芯片开发商在周五的第一个交易日飙升，此前这家中国人工智能芯片开发商筹集了约6股，开盘价为410元，几乎
+
+📅 2026-09-11T09:22:16.000Z
 
 ---
 
@@ -226,15 +244,6 @@ Paul Christiano加入**OpenAI**基金会董事会及其安全和安保委员会�
 
 ---
 
-### The Information Technology
-**[在黑石竞标中统治人工智能融资](https://www.theinformation.com/articles/inside-blackstones-bid-rule-ai-financing)**
-
-Blackstone公布了与谷歌的新合资企业，该合资企业围绕着一个巨大的数字：这家华尔街巨头承诺斥资50亿美元购买价值500兆瓦的谷歌张量处理单元，并表示将在一家新公司中使用这些芯片，该公司将为领先的人工智能公司提供计算能力
-
-📅 2026-09-10T19:54:17.000Z
-
----
-
 ### MIT Tech Review
 **[下载： OpenAI的数学和电池记录转折点](https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/)**
 
@@ -244,45 +253,25 @@ Blackstone公布了与谷歌的新合资企业，该合资企业围绕着一个�
 
 ---
 
-### Wired Technology
-**[OpenAI想知道人工智能行业的放缓是否合法](https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/)**
+### Ars Technica
+**[Claude用户找到了生物武器研究的保障措施](https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/)**
 
-人工智能领导者担心，反垄断法可能会阻碍他们所认为的日益紧迫的推动，以协调人工智能发展的放缓
+一些危险的生物学看起来很像合法的研究，使人工智能保障措施复杂化。
 
-📅 Thu, 10 Sep 2026 23:28:42 +0000
-
----
-
-### Wired Technology
-**[人工智能真的会杀死我们所有人吗？](https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/)**
-
-“我们深入研究了一位前人类学研究人员的人工智能世界末日警告和声称特朗普赢得2020年大选的人口普查报告
-
-📅 Thu, 10 Sep 2026 20:30:37 +0000
+📅 Fri, 11 Sep 2026 13:02:35 +0000
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub Active (Python)
-![posthog:: hedgehog: PostHog是构建自动驾驶产品的领先平台。我们的开发人员工具--人工智能可观测性、分析、会话重播、标记、实验、错误跟踪、日志等--捕获代理诊断问题、发现机会和发布修复所需的所有上下文。从Slack、网络、桌面或MCP引导一切。](https://avatars.githubusercontent.com/u/60330232?v=4)
+### GitHub Active (AI/ML)
+![awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
 
-**[posthog:: hedgehog: PostHog是构建自动驾驶产品的领先平台。我们的开发人员工具--人工智能可观测性、分析、会话重播、标记、实验、错误跟踪、日志等--捕获代理诊断问题、发现机会和发布修复所需的所有上下文。从Slack、网络、桌面或MCP引导一切。](https://github.com/PostHog/posthog)**
+**[awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
 
-我们的开发人员工具– AI observability从Slack、Web、桌面或MCP引导所有内容
+⭐ 452星· 39分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作流程刷新
 
-📅 2026-09-11T00:52:37Z
-
----
-
-### GitHub Active (Python)
-![pyrefly ： Python的快速类型检查器和语言服务器](https://avatars.githubusercontent.com/u/69631?v=4)
-
-**[pyrefly ： Python的快速类型检查器和语言服务器](https://github.com/facebook/pyrefly)**
-
-⭐ 6,952星· 514叉· Rust · Python快速类型检查器和语言服务器
-
-📅 2026-09-11T00:52:26Z
+📅 2026-09-11T18:13:18Z
 
 ---
 
@@ -291,7 +280,7 @@ Blackstone公布了与谷歌的新合资企业，该合资企业围绕着一个�
 
 **[🆕 OHnews ： AI原生新闻情报终端：使用LangGraph代理对多源新闻进行认知循环分析、结构化信息提取和证据锚定判断](https://github.com/OrangeLatte/OHnews)**
 
-⭐ 20 star (新项目) · Python · AI-native **new**s intelligence terminal: cognitive-loop analysis over multi-source **new**s with LangGraph agentsstructured information extraction
+⭐ 21 star (新项目) · Python · AI-native **new**s intelligence terminal: cognitive-loop analysis over multi-source **new**s with LangGraph agentsstructured information extraction
 
 📅 2026-09-08T20:33:01Z
 
@@ -302,53 +291,33 @@ Blackstone公布了与谷歌的新合资企业，该合资企业围绕着一个�
 
 **[🆕 SyncWorld ： “SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators”论文的源代码](https://github.com/UMass-Embodied-AGI/SyncWorld)**
 
-⭐ 15 star (新项目) · Python · Source codes for the paper "SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators"
+⭐ 18 star (新项目) · Python · Source codes for the paper "SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators"
 
 📅 2026-09-08T04:50:12Z
+
+---
+
+### GitHub New (New AI)
+![🆕 paper-pipeline: 一个可复现和可控的学术论文写作工具链，用于规划和起草学术论文。它能够对引用、论点强度、行文表达以及 LaTeX 完整性进行系统性检查。A reproducible and controllable toolchain to plan, draft, and gate an academic paper draft. It performs systematic checks on citations, claim strength, prose, and LaTeX integrity.](https://avatars.githubusercontent.com/u/96516914?v=4)
+
+**[🆕 paper-pipeline: 一个可复现和可控的学术论文写作工具链，用于规划和起草学术论文。它能够对引用、论点强度、行文表达以及 LaTeX 完整性进行系统性检查。A reproducible and controllable toolchain to plan, draft, and gate an academic paper draft. It performs systematic checks on citations, claim strength, prose, and LaTeX integrity.](https://github.com/MATBckh22/paper-pipeline)**
+
+⭐ 5 star (新项目) · Python · 一个可复现和可控的学术论文写作工具链，用于规划和起草学术论文A reproducible and controllable toolchain to plan, draft, and gate an academic paper draft
+
+📅 2026-09-08T06:06:29Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-![我针对7个真实注册验证码运行了GPT-6 Astra](https://preview.redd.it/h7n1nqiakqoh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c338b3c9aee434a49a279db0466507f8791ff749)
+![输出压缩工具对于较新的AI模型仍然重要吗？](https://preview.redd.it/iy0y29og5xoh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1e81b3cb8b6b8b1a70e581ed11cf283e0ef78dbb)
 
-**[我针对7个真实注册验证码运行了GPT-6 Astra](https://www.reddit.com/r/artificial/comments/1wcrgm4/i_ran_gpt6_astra_against_7_real_signup_captchas/)**
+**[输出压缩工具对于较新的AI模型仍然重要吗？](https://www.reddit.com/r/artificial/comments/1wdlf3k/do_output_compression_tools_still_matter_with/)**
 
-**OpenAI**今天将**GPT**-6 Astra放入API中，因此现在任何人都可以实际调用它，而不必等待特殊访问**推出**模型比较模型代币成本**GPT**-6 Astra 582
+我们在Fable 50中使用了**Claude** Code ，在Terminal-Bench 2上通过OpenRouter使用了**DeepSeek** V4 Pro 0813的OpenCode
 
-📅 2026-09-10T18:27:41.000Z
-
----
-
-### Hacker News AI
-**[人工智能研究人员离开Anthropic和谷歌： “房间里没有成年人”](https://www.nbcnews.com/tech/security/two-ai-researchers-leave-anthropic-google-safety-concerns-rcna597086)**
-
-文章网址： https://wwwcom/tech/security/two-ai-researchers-leave-**Anthropic**-**Google**-safety-concerns-rcna597086评论网址： https://**new**s
-
-📅 Thu, 10 Sep 2026 23:23:52 +0000
-
----
-
-### Reddit: r/artificial
-![Anthropic表示，与政府有关的账号试图利用Claude从事可能导致生物武器的工作](https://external-preview.redd.it/1ZU9OBDtaeOV3JXStxbYiSl5HSEfcnnm1rnEWhhvwxQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=80c70b1f13d66e0cd47712243b9e82b5b392fcc3)
-
-**[Anthropic表示，与政府有关的账号试图利用Claude从事可能导致生物武器的工作](https://www.reddit.com/r/artificial/comments/1wcvcok/governmentlinked_accounts_tried_to_use_claude_for/)**
-
-提交者/u/Fcking_Chuck [link] [comments]
-
-📅 2026-09-10T20:47:04.000Z
-
----
-
-### Reddit: r/artificial
-![共享的人工智能聊天并不像人们想象的那么私密](https://external-preview.redd.it/X2fudJayFT64nmlzThBs3rssE7CQOigaN-9spX-Bizg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=65d15c90b3549d837d18ab38cf77eea6a0bc97f2)
-
-**[共享的人工智能聊天并不像人们想象的那么私密](https://www.reddit.com/r/artificial/comments/1wct8di/shared_ai_chats_are_not_as_private_as_people_think/)**
-
-我写过关于人工智能共享链接如何暴露超出预期收件人的对话的好奇心：您是查看旧的Chat**GPT**、**Claude**或Grok共享链接，还是完全避免使用它们
-
-📅 2026-09-10T19:29:33.000Z
+📅 2026-09-11T16:39:44.000Z
 
 ---
 
@@ -357,7 +326,7 @@ Blackstone公布了与谷歌的新合资企业，该合资企业围绕着一个�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-09-11T00:52:20.064Z
+📅 2026-09-11T18:13:38.010Z
 
 ---
 
@@ -366,25 +335,54 @@ Blackstone公布了与谷歌的新合资企业，该合资企业围绕着一个�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-09-11T00:52:28.302Z
+📅 2026-09-11T18:13:43.021Z
 
 ---
 
 ### Hacker News
-**[OpenAI的Navier-Stokes版本包括精益4正式证明](https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/)**
+**[Show HN ：基于Godot和Rust的多路复用器（终端窗格等）](https://github.com/godot-pty/gpty)**
 
-文章网址： https://wwwcom/blog/2026/09/09/formal-method-revolution/评论网址： https://**new**s
+我想分享我的副项目： **GPT**Yio/**GPT**y/评论网址： https://**new**s
 
-📅 Thu, 10 Sep 2026 21:22:59 +0000
+📅 Fri, 11 Sep 2026 16:03:05 +0000
 
 ---
 
 ### Hacker News
-**[OpenAI代理API](https://developers.openai.com/api/docs/guides/agents-api/overview)**
+**[HuggingFace ： Security.txt](https://huggingface.co/security.txt)**
 
-**OpenAI**com/api/docs/guides/agents-api/overview评论网址： https://**new**s
+文章网址： https://huggingfacetxt评论网址： https://**new**s
 
-📅 Thu, 10 Sep 2026 19:43:22 +0000
+📅 Fri, 11 Sep 2026 14:38:13 +0000
+
+---
+
+### Hacker News AI
+**[人工智能研究员Andrew Tulloch将离开Meta](https://www.semafor.com/article/09/09/2026/ai-researcher-andrew-tulloch-is-leaving-meta)**
+
+文章网址： https://wwwcom/article/09/09/2026/ai-researcher-andrew-tulloch-is-leaving-**Meta**评论网址： https://**new**s
+
+📅 Fri, 11 Sep 2026 17:57:57 +0000
+
+---
+
+### Reddit: r/artificial
+![代理留言板](https://preview.redd.it/uwz26o0eexoh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bb48ada4e1e6cb21040224602135874d272e0f66)
+
+**[代理留言板](https://www.reddit.com/r/artificial/comments/1wdmqln/agent_message_board/)**
+
+**Claude** Codeand Lumina ； AIvengers
+
+📅 2026-09-11T17:26:53.000Z
+
+---
+
+### Reddit: r/artificial
+**[我问克劳德：假设人工智能在未来十年内有10%的可能性消灭人类（正如举报人所声称的那样） ，那么它可能采取的5种方法是什么？](https://www.reddit.com/r/artificial/comments/1wdj3jr/i_asked_claude_assuming_there_is_a_10_percent/)**
+
+软件**更新**传播传感器融合系统将卫星发射加上不相关的网络入侵作为**首次**攻击
+
+📅 2026-09-11T15:14:53.000Z
 
 ---
 
