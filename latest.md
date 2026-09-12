@@ -1,12 +1,12 @@
 ---
 title: "2026年9月12日 - TZ日报"
-date: 2026-09-12T00:58:56.400Z
+date: 2026-09-12T17:45:43.260Z
 draft: false
 ---
 
 # 2026年9月12日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/9/12 00:58:56
+> 📊 今日汇总 38 条 · 🕐 2026/9/12 17:45:43
 
 ---
 
@@ -94,14 +94,12 @@ César de la Fuente的实验室使用Codex和Chat**GPT**搜索活体和已灭绝
 
 ---
 
-### Google AI Blog
-![逐帧重现70年的爱情故事](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp)
+### TechCrunch AI Products
+**[Anthropic首席执行官概述了“加快前沿步伐”的计划](https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/)**
 
-**[逐帧重现70年的爱情故事](https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/)**
+“跟上前沿步伐”实际上会是什么样子？
 
-了解电影制作人和谷歌DeepMind如何在短片《爱，渲染》中利用人工智能重现一对夫妇未被记录的过去
-
-📅 Wed, 09 Sep 2026 16:00:00 +0000
+📅 Sat, 12 Sep 2026 15:52:11 +0000
 
 ---
 
@@ -117,85 +115,123 @@ César de la Fuente的实验室使用Codex和Chat**GPT**搜索活体和已灭绝
 ## 🔬 前沿研究
 
 ### ArXiv AI (cs.AI)
-**[OpenDiscoveryTrace ：评估AI科学家工作流的过程跟踪](https://arxiv.org/abs/2609.09203)**
+**[没有教学大纲的学习：与任务无关的环境预处理](https://arxiv.org/abs/2609.10824)**
 
-09203v1公告类型：新摘要：自主人工智能科学家的现有基准仅评估最终输出--生成的代码数据集涵盖七个模型：三个前沿模型（ **GPT**-5
+10824v1公告类型：新摘要： LLM代理在新环境中处理任务之前我们将六个异构基准的固定合成实践和语料库处理方法与独立和配备归档的元代理进行比较
 
-📅 Fri, 11 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[仅限名义上的多语种？乌尔都语法学硕士的文化和语言弱点](https://arxiv.org/abs/2609.10758)**
-
-10758v1公告类型：新摘要：多语言大型语言模型（ LLM ）越来越多地用于开放式文本生成我们生成了乌尔都语故事，这是使用三个当代LLM （ **GPT**-5 ）生成的93个故事的语料库
-
-📅 Fri, 11 Sep 2026 00:00:00 -0400
+📅 Sat, 12 Sep 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[客服代表知道什么时候成功吗？从内部陈述中校准代理置信度](https://arxiv.org/abs/2609.09448)**
+**[概率聚焦搜索：通过下限推进加速有界-次优搜索](https://arxiv.org/abs/2609.10584)**
 
-09448v1公告类型：新摘要：作为安全关键应用中快速采用的代理系统跨三个交互式基准（ Bash、SQL、Python ）和三个模型系列（ Qwen14B、Qwen7B、**DeepSeek**6 ）
+10584v1公告类型：新摘要：有界次优搜索在最优因子$ w $内寻找解决方案，同时减少搜索工作量，尽管其常见成功效果仍取决于域和边界
 
-📅 Fri, 11 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv Computer Vision (cs.CV)
-**[通过视觉变换器和模糊聚类进行数据高效植物生长估算的元学习](https://arxiv.org/abs/2609.10749)**
-
-10749v1公告类型：新摘要：准确的植物生长估算对于温室监测至关**重要**在两个植物数据集上的实验表明，结构化任务设计与元学习相结合，可在严重标签稀缺的情况下实现可靠的植物生长估算
-
-📅 Fri, 11 Sep 2026 00:00:00 -0400
+📅 Sat, 12 Sep 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Natural Language Processing (cs.CL)
-**[较大的上下文窗口，较少的过度校正：优化提示和批处理以实现最小编辑语法错误校正](https://arxiv.org/abs/2609.10810)**
+### ArXiv AI (cs.AI)
+**[从自然语言自动生成二次无约束二元优化（ QUBO ）公式](https://arxiv.org/abs/2609.10629)**
 
-10810v1公告类型：新摘要：对于零和少量提示的大型语言模型（ LLM ） ，最小编辑语法错误校正（ GEC ）是一项具有挑战性的任务，它有利于**最强**大的模型，同时保持整体模型依赖性
+10629v1公告类型：新摘要：二次无约束二元优化（ QUBO ）是组合优化的中心公式，由于其与将自然语言问题描述转换为正确的QUBO公式的兼容性，因此受到越来越多的关注
 
-📅 Fri, 11 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv Robotics (cs.RO)
-**[ReactHuman ：体现多模态LLM中类似人类的反应式决策的物理基础基准](https://arxiv.org/abs/2609.10895)**
-
-10895v1公告类型：新摘要：对突发物理危险（即使所选动作正确，也会以米尺度捕获滑板和错过拦截点；这些故障都不会随着模型尺度而缩小
-
-📅 Fri, 11 Sep 2026 00:00:00 -0400
+📅 Sat, 12 Sep 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Robotics (cs.RO)
-**[使用通用IK求解器沿着约束流形的可微分图进行规划](https://arxiv.org/abs/2609.10905)**
+### ArXiv AI (cs.AI)
+**[组合和可解释认知推理的多阶段规则链框架](https://arxiv.org/abs/2609.10654)**
 
-10905v1公告类型：新摘要：在运动等式约束下规划机器人机械臂的轨迹，将可行运动限制在配置空间的度量零子流形，但绝大多数IK函数是由IKFast等自动化元解算器计算的，并且难以修改以获得微分性
+10654v1公告类型：新摘要：抽象和推理语料库（ ARC ）基准认知泛化本文提出了一个多阶段规则链框架，可在符号、结构和概念层面上执行组合推理
 
-📅 Fri, 11 Sep 2026 00:00:00 -0400
+📅 Sat, 12 Sep 2026 00:00:00 -0400
 
 ---
 
-### MIT Tech Research
-**[OpenAI关于数学未来的最新争议告诉我们什么](https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/)**
+### ArXiv AI (cs.AI)
+**[了解扩散模型微调中的LoRA等级权衡](https://arxiv.org/abs/2609.10656)**
 
-**OpenAI**的最新数学里程碑很快陷入了争议。在正常情况下，该解决方案将成为**OpenAI**的一大亮点。
+10656v1公告类型：新摘要：选择LoRA等级进行扩散微调需要平衡质量和计算成本2136 ） ，较高的等级尽管适应成本较高，但增益有限
 
-📅 Wed, 09 Sep 2026 03:10:08 +0000
+📅 Sat, 12 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[量化记忆到概括的转变： Grokking中的缩放定律和相位结构](https://arxiv.org/abs/2609.10657)**
+
+10657v1公告类型：新摘要：经过训练的神经网络过去的记忆经常经历延迟过渡到泛化超参数空间中\ emph {when}的定量结构仍未表征
+
+📅 Sat, 12 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[IMO Gold的开放配方：为奥林匹克数学训练Nemotron](https://arxiv.org/abs/2609.10712)**
+
+10712v1公告类型：新摘要：我们研究模型训练后和测试时间推理设计如何影响困难奥林匹克数学的自然语言证明生成三个Nemotron 3 Ultra检查点-通用可用性模型和两名训练后专家-为生成
+
+📅 Sat, 12 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[完成任务是不够的：评估客服代表在累积挑战下的复原力和深思熟虑的参与](https://arxiv.org/abs/2609.10724)**
+
+10724v1公告类型：新摘要：持续部署生成式AI代理需要的不仅仅是孤立的任务成功代理必须在重复交互中保持有用
+
+📅 Sat, 12 Sep 2026 00:00:00 -0400
 
 ---
 
 ## 🌍 行业展望
 
 ### The Information Technology
-**[Anthropic说它阻止了生物武器的努力并检测到中国的蒸馏攻击](https://www.theinformation.com/briefings/anthropic-says-blocked-bioweapons-efforts-detected-chinese-distillation-attacks)**
+![Meta的Muse代理几乎花了我414 $](https://tii.imgix.net/article/pictures/newsletters-production/afd389d9-097b-41f6-b00b-8edd819fbd55-dpk6Mw.jpg?auto=compress)
 
-**Anthropic**已经中断了几次使用其**Claude**模型进行潜在恶意活动的尝试，人们对人工智能滥用和流氓的担忧日益增加
+**[Meta的Muse代理几乎花了我414 $](https://www.theinformation.com/articles/metas-muse-agent-almost-cost-414)**
 
-📅 2026-09-10T22:38:57.000Z
+**Meta**将Muse视为主要新产品**OpenAI**的Chat**GPT**和**Google**的**Gemini**都已经具备了一些代理功能
+
+📅 2026-09-12T15:01:08.000Z
+
+---
+
+### The Information Technology
+**[Altman和Musk支持Amodei呼吁人工智能公司放缓人工智能开发的呼吁](https://www.theinformation.com/briefings/amodei-calls-ai-companies-coordinate-safety)**
+
+吸引**OpenAI**首席执行官萨姆·奥尔特曼（ Sam Altman ）和SpaceX首席执行官埃隆·马斯克（ Elon Musk ）的支持性回复Amodei在周六早上的一篇3800字的文章中表示， **Anthropic**将提供“员工般的访问权限”
+
+📅 2026-09-12T16:14:30.000Z
+
+---
+
+### The Information Technology
+**[英伟达可能在Anthropic的IPO中投资高达100亿美元$](https://www.theinformation.com/briefings/nvidia-may-invest-10-billion-anthropics-ipo)**
+
+根据该报告，英伟达已经讨论了对**Anthropic**即将进行的**首次**公开募股的投资，该公司将以约2万亿美元的估值筹集高达1000亿美元的资金。英伟达可以以IPO价格向**Anthropic**投资高达100亿美元。
+
+📅 2026-09-12T01:04:55.000Z
+
+---
+
+### Wired Technology
+**[从黑客到生物武器， Claude Misuse现在无处不在](https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/)**
+
+此外：美国扰乱了互联网最大的黑市**Meta**未能阻止人工智能生成的虐待儿童视频
+
+📅 Sat, 12 Sep 2026 10:30:00 +0000
+
+---
+
+### The Information Technology
+**[早期人类投资者通过现金和计算寻求风险投资荣耀](https://www.theinformation.com/articles/early-anthropic-investor-seeks-vc-glory-cash-compute)**
+
+风险投资家安妮·米达（ Anjney Midha ）在夏威夷旅行时从妻子那里收到了一份礼物：他笑着说： “镇上来了一位新警长。”
+
+📅 2026-09-12T13:16:34.000Z
 
 ---
 
@@ -226,63 +262,27 @@ César de la Fuente的实验室使用Codex和Chat**GPT**搜索活体和已灭绝
 
 ---
 
-### The Information Technology
-**[OpenAI暂停新的专业版订阅，引用Astra Demand](https://www.theinformation.com/briefings/openai-pause-new-pro-subscriptions-cites-astra-demand)**
-
-**OpenAI**周四表示，它将暂停Astraits新旗舰车型的每月$ 200计划的新订阅
-
-📅 2026-09-10T23:55:28.000Z
-
----
-
-### MIT Tech Review
-**[下载： OpenAI的数学和电池记录转折点](https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/)**
-
-这是我们工作日时事通讯《下载》的今天版本，该时事通讯提供了技术领域每日发生的事情**OpenAI**的最新争议告诉我们数学的未来**OpenAI**的代理商已经解决了数学中最**重要**的开放问题之一
-
-📅 Wed, 09 Sep 2026 12:10:00 +0000
-
----
-
-### Wired Technology
-**[美国政府启动了3项此前未报告的多元市场交易调查](https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/)**
-
-负责监管预测市场的机构已经调查了拜登赦免和伊朗战争的Polymarket交易，以及《连线》杂志获得的谷歌文档的更多潜在内幕交易
-
-📅 Fri, 11 Sep 2026 19:21:34 +0000
-
----
-
-### Wired Technology
-**[Meta起诉其人工智能和人脸识别系统的训练数据](https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/)**
-
-拟议的集体诉讼指控**Meta**非法收集人们的Facebook和Instagram照片，以训练其AI**图像生成**模型并构建其未**发布**的“Na**Meta**g”人脸识别功能
-
-📅 Fri, 11 Sep 2026 18:59:25 +0000
-
----
-
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![gradio ：在Python中构建和分享令人愉悦的机器学习应用程序。🌟STAR支持我们的工作！](https://avatars.githubusercontent.com/u/51063788?v=4)
+### GitHub Active (Python)
+![MetaPython ：这是CPython运行时的Meta分支。这里的“cinder”是历史名称，请参阅https://github.com/facebookincubator/cinderx了解Python扩展/JIT编译器。](https://avatars.githubusercontent.com/u/19538647?v=4)
 
-**[gradio ：在Python中构建和分享令人愉悦的机器学习应用程序。🌟STAR支持我们的工作！](https://github.com/gradio-app/gradio)**
+**[MetaPython ：这是CPython运行时的Meta分支。这里的“cinder”是历史名称，请参阅https://github.com/facebookincubator/cinderx了解Python扩展/JIT编译器。](https://github.com/facebookincubator/MetaPython)**
 
-⭐ 43,523星· 3597分叉· Python ·构建和分享令人愉悦的机器学习应用程序，全部使用Python🌟 Star来支持我们的工作
+⭐ 3792星· 138分叉· Python ·这是**Meta**的CPython运行时的分叉这里的“cinder”这个名字是历史的，见https://github
 
-📅 2026-09-12T00:56:34Z
+📅 2026-09-12T17:44:26Z
 
 ---
 
-### GitHub Active (AI/ML)
-![AITreasureBox: 🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎](https://avatars.githubusercontent.com/u/1154692?v=4)
+### GitHub New (New AI)
+![🆕 HAL-Harvest-Advisory-with-Linguistic-Intelligence ：语音优先的人工智能农业助理，结合卫星图像、土壤健康数据、天气、曼迪价格和区域语言演讲，提供个性化的农业建议。](https://avatars.githubusercontent.com/u/143290372?v=4)
 
-**[AITreasureBox: 🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎](https://github.com/superiorlu/AITreasureBox)**
+**[🆕 HAL-Harvest-Advisory-with-Linguistic-Intelligence ：语音优先的人工智能农业助理，结合卫星图像、土壤健康数据、天气、曼迪价格和区域语言演讲，提供个性化的农业建议。](https://github.com/abeerrai01/HAL-Harvest-Advisory-with-Linguistic-Intelligence)**
 
-⭐ 864 star · 124 fork · Ruby · 🤖 Automatically collected AI repos, tools, websites, papers & tutorials实用AI百宝箱 💎
+⭐ 5 star (新项目) · JavaScript · Voice-first AI farming assistant combining satellite imageryand regional-language speech to deliver personalized agricultural advice
 
-📅 2026-09-12T00:57:04Z
+📅 2026-09-11T18:41:18Z
 
 ---
 
@@ -298,51 +298,51 @@ César de la Fuente的实验室使用Codex和Chat**GPT**搜索活体和已灭绝
 ---
 
 ### GitHub New (New AI)
-![🆕 HAL-Harvest-Advisory-with-Linguistic-Intelligence ：语音优先的人工智能农业助理，结合卫星图像、土壤健康数据、天气、曼迪价格和区域语言演讲，提供个性化的农业建议。](https://avatars.githubusercontent.com/u/143290372?v=4)
+![🆕 RaDUO ： RaDUO将实时无线电广播转化为多语言STT数据集，用于ASR研究。它并行记录电台，将流拆分为剪辑，转录音频，提取质量特征，并存储可搜索的元数据。包括16 kHz单声道WAV、成绩单、电台信息、语言和可选的单词计时。](https://avatars.githubusercontent.com/u/140930559?v=4)
 
-**[🆕 HAL-Harvest-Advisory-with-Linguistic-Intelligence ：语音优先的人工智能农业助理，结合卫星图像、土壤健康数据、天气、曼迪价格和区域语言演讲，提供个性化的农业建议。](https://github.com/abeerrai01/HAL-Harvest-Advisory-with-Linguistic-Intelligence)**
+**[🆕 RaDUO ： RaDUO将实时无线电广播转化为多语言STT数据集，用于ASR研究。它并行记录电台，将流拆分为剪辑，转录音频，提取质量特征，并存储可搜索的元数据。包括16 kHz单声道WAV、成绩单、电台信息、语言和可选的单词计时。](https://github.com/osscv/RaDUO)**
 
-⭐ 3 star (新项目) · JavaScript · Voice-first AI farming assistant combining satellite imageryand regional-language speech to deliver personalized agricultural advice
+⭐ 2 star (新项目) · Python · RaDUO turns live radio broadcasts into multilingual STT datasets for ASR researchIt records stations in parallel, splits streams into clips, transcribes a**Udio**, extracts quality features, and stores searchable **Meta**data
 
-📅 2026-09-11T18:41:18Z
+📅 2026-09-12T16:06:08Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[为什么人工智能突然在科学方面显得很糟糕？科学问题/研究是否有像样的人工智能](https://www.reddit.com/r/artificial/comments/1wdxbsd/why_does_ai_suddenly_seem_awful_at_science_and/)**
+**[人工智能首席执行官（达里奥、奥尔特曼、马斯克）呼吁放缓开发速度是真正出于对安全的担忧，还是出于金钱考虑？](https://www.reddit.com/r/artificial/comments/1weimdq/are_ai_ceos_dario_altman_musk_calling_for_a/)**
 
-**Gemini**大多数时候都是错误的，没有任何问题，只是让**GPT**拒绝说出任何具体内容，当被要求这样做时，它只是很难阻止任何对话
+在数据中心为这些强大的模型付费越来越难以承受，这些公司从订阅中获得的收入还不够（我的意思是**OpenAI**新订阅暂停有点指向这一点） B这些公司担心人工智能越好，他们就越需要提高消费者方面的成本，太多的人最终会说“我不会为此付费” ，我们已经有人因为Astra的使用限制而退出聊天订阅
 
-📅 2026-09-12T00:15:07.000Z
-
----
-
-### Reddit: r/artificial
-**[三名人类学研究人员本周公开表示，人工智能可能会杀死所有人。其中一个不说了。似乎没有人知道我们该怎么做。](https://www.reddit.com/r/artificial/comments/1wdoy1g/three_anthropic_researchers_went_public_this_week/)**
-
-雅各布·考克森（ Jacob Coxon ）于周二从**Anthropic**辞职，因此他可以公开表示， **OpenAI**和**Anthropic**都在“用我们的生命赌博” ，并在不负责任的情况下竞相自我提升超级智能
-
-📅 2026-09-11T18:46:15.000Z
+📅 2026-09-12T17:28:47.000Z
 
 ---
 
 ### Reddit: r/artificial
-**[并排使用chatgpt和claude两周进行写作。这是实际发生的事情](https://www.reddit.com/r/artificial/comments/1wdohel/used_chatgpt_and_claude_side_by_side_for_two/)**
+**[OpenAI只是直接追求初级银行家的工作，并称其为金融服务产品](https://www.reddit.com/r/artificial/comments/1wee9m4/openai_just_went_directly_after_junior_banker/)**
 
-**Claude**听起来更像一个人“chat**GPT**更快地把东西拿出来，当我太累而无法解释我想要的东西时会更好
+OpenAI**推出**面向金融服务的Chat**GPT** ，功能列表并不微妙研究、财务建模、宣传手册准备
 
-📅 2026-09-11T18:29:36.000Z
+📅 2026-09-12T14:36:07.000Z
 
 ---
 
-### X: OpenAI
-**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Reddit: r/artificial
+**[我们刚刚通过OpenAI、Claude和RESORSA同时运行了10个版本，结果让我大吃一惊。](https://www.reddit.com/r/artificial/comments/1wedwqr/we_just_ran_10_builds_through_openai_claude_and/)**
 
-网址来源： http://twitter.com/**OpenAI**
+我采用了10个模拟业务创意，并通过Chat**GPT**、**Claude**和RESORSA （我一直在构建的平台）运行了相同的场景没有任何特殊提示旨在使一个平台的性能优于另一个平台
 
-📅 2026-09-12T00:57:40.585Z
+📅 2026-09-12T14:21:06.000Z
+
+---
+
+### Reddit: r/artificial
+**[一名人工智能代理在删除日志中发现了211个杂散条目，并被告知其中一个测试写了这些条目。没有--漏洞存在于自己的代码中。](https://www.reddit.com/r/artificial/comments/1weigku/an_ai_agent_found_211_stray_entries_in_a_deletion/)**
+
+AIPass是一个用于AI代理的**开源**框架，不会重新启动每个代理都是**Claude** Code的实例
+
+📅 2026-09-12T17:22:37.000Z
 
 ---
 
@@ -351,34 +351,34 @@ César de la Fuente的实验室使用Codex和Chat**GPT**搜索活体和已灭绝
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-09-12T00:57:47.874Z
+📅 2026-09-12T17:44:31.506Z
 
 ---
 
 ### Hacker News
-**[OpenAI特工对RubyGems进行了未公开的攻击](https://www.rubyhack.ai/)**
+**[英伟达是人工智能的中央银行](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)**
 
-文章网址： https://wwwai/评论网址： https://**new**s
+文章网址： https://wwwcom/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai评论网址： https://**new**s
 
-📅 Fri, 11 Sep 2026 23:17:42 +0000
-
----
-
-### Hacker News
-**[我在谷歌应用程序广告上花了$ 220 ， 60%的安装是机器人](https://dayzlegame.com/blog/google-ads-bot-farm/)**
-
-文章网址： https://dayzlegamecom/blog/**Google**-ads-bot-farm/评论网址： https://**new**s
-
-📅 Fri, 11 Sep 2026 18:24:55 +0000
+📅 Sat, 12 Sep 2026 15:08:27 +0000
 
 ---
 
 ### Hacker News AI
-**[一个想法经常消耗我，所以我做了一个人工智能应用程序，让它成为现实](https://play.google.com/store/apps/details?id=com.council.the_council)**
+**[Anthropic老板Dario Amodei呼吁放缓人工智能的发展](https://www.bbc.com/news/articles/c14dpgm0rg4o)**
 
-com/store/apps/detailsthe_council评论网址： https://**new**s
+文章网址： https://wwwcom/**new**s/articles/c14dpgm0rg4o评论网址： https://**new**s
 
-📅 Fri, 11 Sep 2026 23:59:17 +0000
+📅 Sat, 12 Sep 2026 16:56:52 +0000
+
+---
+
+### Hacker News AI
+**[Show HN ： Deviant ，一部关于人工智能的长篇科幻惊悚片，由人工智能制作](https://deviantmovie.com/)**
+
+在**Google** Veo中为大多数电影生成我决定按原样**发布**它，而不是重新生成所有内容
+
+📅 Sat, 12 Sep 2026 16:02:08 +0000
 
 ---
 
