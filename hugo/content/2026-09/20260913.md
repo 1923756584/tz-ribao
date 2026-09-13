@@ -1,19 +1,19 @@
 ---
 title: "2026年9月13日 - TZ日报"
-date: 2026-09-13T00:40:57.076Z
+date: 2026-09-13T17:59:40.368Z
 draft: false
 ---
 
 # 2026年9月13日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/9/13 00:40:57
+> 📊 今日汇总 36 条 · 🕐 2026/9/13 17:59:40
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 8 条
+- **前沿研究**: 6 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -58,42 +58,6 @@ draft: false
 
 ---
 
-### OpenAI Blog
-**[研究人员如何使用Codex和ChatGPT来寻找新的抗菌分子](https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials)**
-
-César de la Fuente的实验室使用Codex和Chat**GPT**搜索活体和已灭绝的基因组，寻找对抗耐药感染的候选抗菌药物
-
-📅 Thu, 10 Sep 2026 16:00:00 GMT
-
----
-
-### OpenAI Blog
-**[现在，每个人都可以使用数据](https://openai.com/index/put-data-to-work)**
-
-在Chat**GPT** WorkConnect公司数据中与数据代理见面，发现见解，并使用自然语言使用AI构建交互式仪表板
-
-📅 Thu, 10 Sep 2026 15:00:00 GMT
-
----
-
-### OpenAI Blog
-**[面向金融服务的ChatGPT简介](https://openai.com/index/introducing-chatgpt-financial-services)**
-
-**推出**面向金融服务的Chat**GPT** ，将内置财务数据与**GPT**-6 Astra相结合，用于研究、建模和客户就绪材料
-
-📅 Thu, 10 Sep 2026 07:00:00 GMT
-
----
-
-### OpenAI Blog
-**[为联邦、州、地方和部落政府扩大人工智能访问和网络防御](https://openai.com/index/expanding-ai-access-us-government)**
-
-**OpenAI**和GSA将为符合条件的联邦、州、地方和部落政府提供$ 0许可费、50%的使用折扣和扩大的网络防御支持
-
-📅 Thu, 10 Sep 2026 07:00:00 GMT
-
----
-
 ### TechCrunch AI Products
 **[OpenAI的Sam Altman表示，在2026年上市将是“不明智的”](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/)**
 
@@ -112,77 +76,95 @@ César de la Fuente的实验室使用Codex和Chat**GPT**搜索活体和已灭绝
 
 ---
 
+### TechCrunch AI Products
+**[人类学研究者的世界末日警告发生在一个非常有趣的时刻](https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/)**
+
+一位人类学研究人员本周辞职这是人工智能行业以前调情的那种末日警告
+
+📅 Fri, 11 Sep 2026 18:41:49 +0000
+
+---
+
+### TechCrunch AI Products
+**[奥巴马敦促民主党为人工智能保障措施制定“明确计划”](https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/)**
+
+奥巴马最近表示，民主党需要将人工智能作为他们的“核心议程”之一，并“有一个非常明确的计划”来解决对技术的经济影响和安全性的担忧
+
+📅 Sun, 13 Sep 2026 16:30:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[在急于获取机器人训练数据之际， Mecka AI对红杉领导的交易的估值接近5亿美元](https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/)**
+
+这家成立两年的初创公司的融资是在Mecka宣布其A轮融资的几个月后进行的。
+
+📅 Fri, 11 Sep 2026 22:58:17 +0000
+
+---
+
+### TechCrunch AI Products
+**[Y Combinator的Garry Tan希望美国开放式人工智能实验室也能“提炼”前沿模型](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/)**
+
+Tan希望规模较小的美国开放式人工智能实验室在美国前沿人工智能实验室上使用相同的训练技术，为UA提供更强大的非中国开放式权重选择
+
+📅 Fri, 11 Sep 2026 20:59:47 +0000
+
+---
+
 ## 🔬 前沿研究
 
-### ArXiv AI (cs.AI)
-**[没有教学大纲的学习：与任务无关的环境预处理](https://arxiv.org/abs/2609.10824)**
+### Science AI
+**[“令人不寒而栗”的警告或反应过度？人工智能生物武器报告分化专家](https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts)**
 
-10824v1公告类型：新摘要： LLM代理在新环境中处理任务之前我们将六个异构基准的固定合成实践和语料库处理方法与独立和配备归档的元代理进行比较
+**Anthropic**描述了五起未具名国家的科学家试图使用其**Claude**软件对病毒或毒素进行潜在邪恶工作的案例
 
-📅 Sat, 12 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[概率聚焦搜索：通过下限推进加速有界-次优搜索](https://arxiv.org/abs/2609.10584)**
-
-10584v1公告类型：新摘要：有界次优搜索在最优因子$ w $内寻找解决方案，同时减少搜索工作量，尽管其常见成功效果仍取决于域和边界
-
-📅 Sat, 12 Sep 2026 00:00:00 -0400
+📅 2026-09-13T10:40:00.000Z
 
 ---
 
-### ArXiv AI (cs.AI)
-**[从自然语言自动生成二次无约束二元优化（ QUBO ）公式](https://arxiv.org/abs/2609.10629)**
+### Science AI
+**[社会科学研究可能承诺匿名，但参与者身份经常潜伏在公共数据中](https://www.science.org/content/article/social-science-studies-may-promise-anonymity-participant-identities-often-lurk-public)**
 
-10629v1公告类型：新摘要：二次无约束二元优化（ QUBO ）是组合优化的中心公式，由于其与将自然语言问题描述转换为正确的QUBO公式的兼容性，因此受到越来越多的关注
+研究发现，五分之一的数据集旨在支持违反隐私标准的复制
 
-📅 Sat, 12 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[组合和可解释认知推理的多阶段规则链框架](https://arxiv.org/abs/2609.10654)**
-
-10654v1公告类型：新摘要：抽象和推理语料库（ ARC ）基准认知泛化本文提出了一个多阶段规则链框架，可在符号、结构和概念层面上执行组合推理
-
-📅 Sat, 12 Sep 2026 00:00:00 -0400
+📅 2026-09-11T05:15:00.000Z
 
 ---
 
-### ArXiv AI (cs.AI)
-**[了解扩散模型微调中的LoRA等级权衡](https://arxiv.org/abs/2609.10656)**
+### Science AI
+**[能源部押注“开放”的科学人工智能模型](https://www.science.org/content/article/department-energy-bets-open-ai-models-science)**
 
-10656v1公告类型：新摘要：选择LoRA等级进行扩散微调需要平衡质量和计算成本2136 ） ，较高的等级尽管适应成本较高，但增益有限
+国家实验室和人工智能初创公司之间的Genesis Mission合作伙伴关系构建了大规模科学自动化的新模式
 
-📅 Sat, 12 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[量化记忆到概括的转变： Grokking中的缩放定律和相位结构](https://arxiv.org/abs/2609.10657)**
-
-10657v1公告类型：新摘要：经过训练的神经网络过去的记忆经常经历延迟过渡到泛化超参数空间中\ emph {when}的定量结构仍未表征
-
-📅 Sat, 12 Sep 2026 00:00:00 -0400
+📅 2026-09-11T02:45:00.000Z
 
 ---
 
-### ArXiv AI (cs.AI)
-**[IMO Gold的开放配方：为奥林匹克数学训练Nemotron](https://arxiv.org/abs/2609.10712)**
+### Science AI
+**[瑞士对2017年雪崩死亡的试验让危险研究人员感到不安](https://www.science.org/content/article/swiss-trial-2017-avalanche-deaths-unsettles-hazard-researchers)**
 
-10712v1公告类型：新摘要：我们研究模型训练后和测试时间推理设计如何影响困难奥林匹克数学的自然语言证明生成三个Nemotron 3 Ultra检查点-通用可用性模型和两名训练后专家-为生成
+地质学家和官员上周被无罪释放，但科学家们担心未来未能预测类似灾难的责任
 
-📅 Sat, 12 Sep 2026 00:00:00 -0400
+📅 2026-09-11T12:40:00.000Z
 
 ---
 
-### ArXiv AI (cs.AI)
-**[完成任务是不够的：评估客服代表在累积挑战下的复原力和深思熟虑的参与](https://arxiv.org/abs/2609.10724)**
+### Science AI
+**[增加狼疮风险的常见基因变异可能对抗病毒](https://www.science.org/content/article/common-gene-variant-increases-risk-lupus-may-protect-against-viruses)**
 
-10724v1公告类型：新摘要：持续部署生成式AI代理需要的不仅仅是孤立的任务成功代理必须在重复交互中保持有用
+进化权衡可能有助于与自身免疫性疾病相关的突变在人群中持续存在
 
-📅 Sat, 12 Sep 2026 00:00:00 -0400
+📅 2026-09-11T11:25:00.000Z
+
+---
+
+### MIT Tech Research
+**[圆桌会议：人工智能真的会杀死我们所有人吗？](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/)**
+
+世界领先的人工智能实验室的员工表示，先进的人工智能确实有可能摧毁人类加入《麻省理工学院技术评论》执行主编Niall Firth ，与高级人工智能编辑Will Douglas Heaven和人工智能记者Grace Huckins进行对话，解开人工智能的灭绝……
+
+📅 Fri, 11 Sep 2026 20:05:06 +0000
 
 ---
 
@@ -227,6 +209,24 @@ César de la Fuente的实验室使用Codex和Chat**GPT**搜索活体和已灭绝
 ---
 
 ### The Information Technology
+**[英伟达对少数大客户的依赖性日益增强](https://www.theinformation.com/articles/nvidias-growing-dependence-big-customers)**
+
+Nvidia首席执行官Jensen Huang有很好的理由通过投资各种新云和人工智能公司来尝试开发新客户。在本财年上半年，截至7月，三家此类客户占总销售额的44%
+
+📅 2026-09-13T15:00:46.000Z
+
+---
+
+### The Information Technology
+**[为什么亚马逊和微软站在社区一边反对公用事业](https://www.theinformation.com/articles/amazon-microsoft-taking-communities-side-utilities)**
+
+甲骨文和其他人工智能数据中心开发商正在向市政当局和监管机构提供更优惠的财务优惠，以获得新设施的批准。他们还越来越聪明地支持消费者反对那些提议让公众支付处理新电力负荷的部分成本的公用事业公司
+
+📅 2026-09-13T14:00:46.000Z
+
+---
+
+### The Information Technology
 **[早期人类投资者通过现金和计算寻求风险投资荣耀](https://www.theinformation.com/articles/early-anthropic-investor-seeks-vc-glory-cash-compute)**
 
 风险投资家安妮·米达（ Anjney Midha ）在夏威夷旅行时从妻子那里收到了一份礼物：他笑着说： “镇上来了一位新警长。”
@@ -244,34 +244,16 @@ César de la Fuente的实验室使用Codex和Chat**GPT**搜索活体和已灭绝
 
 ---
 
-### The Information Technology
-**[微软首席通信官Shaw即将离职](https://www.theinformation.com/briefings/microsoft-chief-communications-officer-shaw-depart)**
-
-微软首席通讯官弗兰克·肖（ Frank Shaw ）将在今年年底离开公司，他在LinkedIn的一篇帖子中宣布，周五肖（ Friday Shaw ）在该公司工作了28年多，其中17年负责监督其通讯
-
-📅 2026-09-11T16:52:20.000Z
-
----
-
-### Wired Technology
-**[美国政府启动了3项此前未报告的多元市场交易调查](https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/)**
-
-负责监管预测市场的机构已经调查了拜登赦免和伊朗战争的Polymarket交易，以及《连线》杂志获得的谷歌文档的更多潜在内幕交易
-
-📅 Fri, 11 Sep 2026 19:21:34 +0000
-
----
-
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![machine-learning-for-trading: Code for Machine Learning for Trading, 3rd edition —从数据源到实时执行。](https://avatars.githubusercontent.com/u/4275885?v=4)
+### GitHub New (New AI)
+![🆕 awesome-ai-x-accounts ：包含AI、LLM、代理和技术的X个账户的分类目录，包含原始个人资料简介和关注者数量。提供7种语言版本。](https://avatars.githubusercontent.com/u/129674099?v=4)
 
-**[machine-learning-for-trading: Code for Machine Learning for Trading, 3rd edition —从数据源到实时执行。](https://github.com/stefan-jansen/machine-learning-for-trading)**
+**[🆕 awesome-ai-x-accounts ：包含AI、LLM、代理和技术的X个账户的分类目录，包含原始个人资料简介和关注者数量。提供7种语言版本。](https://github.com/everclear077/awesome-ai-x-accounts)**
 
-⭐ 20,875星· 5606叉· Jupyter笔记本·交易机器学习代码，第3版—从数据源到实时执行
+⭐ 5 star (新项目) · Python · A categorized directory of X accounts covering AIAvailable in 7 languages
 
-📅 2026-09-13T00:39:45Z
+📅 2026-09-13T08:57:52Z
 
 ---
 
@@ -287,6 +269,17 @@ César de la Fuente的实验室使用Codex和Chat**GPT**搜索活体和已灭绝
 ---
 
 ### GitHub New (New AI)
+![🆕 contentqueen-app-erfahrung-review-deutsch: Contentqueen App im Test: Der ultimative KI-Textgenerator für Marketer & Creators im deutschsprachigen Raum. Schluss mit Schreibblockaden ！ 🚀](https://avatars.githubusercontent.com/u/328633643?v=4)
+
+**[🆕 contentqueen-app-erfahrung-review-deutsch: Contentqueen App im Test: Der ultimative KI-Textgenerator für Marketer & Creators im deutschsprachigen Raum. Schluss mit Schreibblockaden ！ 🚀](https://github.com/thunderstrike668/contentqueen-app-erfahrung-review-deutsch)**
+
+⭐ 3 star (新项目) · N/A · Contentqueen App im Test: Der ultimative KI-Textgenerator für Marketer & Creators im deutschsprachigen RaumSchluss mit Schreibblockaden
+
+📅 2026-09-13T07:17:48Z
+
+---
+
+### GitHub New (New AI)
 ![🆕 RaDUO ： RaDUO将实时无线电广播转化为多语言STT数据集，用于ASR研究。它并行记录电台，将流拆分为剪辑，转录音频，提取质量特征，并存储可搜索的元数据。包括16 kHz单声道WAV、成绩单、电台信息、语言和可选的单词计时。](https://avatars.githubusercontent.com/u/140930559?v=4)
 
 **[🆕 RaDUO ： RaDUO将实时无线电广播转化为多语言STT数据集，用于ASR研究。它并行记录电台，将流拆分为剪辑，转录音频，提取质量特征，并存储可搜索的元数据。包括16 kHz单声道WAV、成绩单、电台信息、语言和可选的单词计时。](https://github.com/osscv/RaDUO)**
@@ -297,45 +290,34 @@ César de la Fuente的实验室使用Codex和Chat**GPT**搜索活体和已灭绝
 
 ---
 
-### GitHub New (New AI)
-![🆕 companmem ：追求终极AI记忆](https://avatars.githubusercontent.com/u/94737187?v=4)
-
-**[🆕 companmem ：追求终极AI记忆](https://github.com/kzndotsh/companmem)**
-
-⭐ 2 star (新项目) · Python · the quest for ultimate ai memory
-
-📅 2026-09-11T19:38:07Z
-
----
-
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-![为什么双子座是独一无二的？](https://preview.redd.it/n5vmwug456ph1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=c44c3b4075f762f42a99fb464ee31f81f9ced930)
+**[Gemini的最佳替代品是什么？](https://www.reddit.com/r/artificial/comments/1wf30oo/what_is_the_best_gemini_alternative/)**
 
-**[为什么双子座是独一无二的？](https://www.reddit.com/r/artificial/comments/1weqr7f/why_is_gemini_uniquely_bad/)**
+我已经使用**Google** **Gemini**很长一段时间了，因为它在其免费会员等级中提供了最多的功能。但是，随着最后一次**更新**， Flash和Flash-Lite型号已经变得非常愚蠢
 
-我肯定站在“AI一般不好”的一边，但我确实喜欢使用聊天**GPT**作为聊天机器人，因为我脑海中浮现的话题（我有一些相当小众的爱好，我的朋友都没有说过爱好，所以我猜它给了我一些事情要做）
+📅 2026-09-13T09:27:42.000Z
 
-📅 2026-09-12T22:50:56.000Z
+---
+
+### Hacker News
+**[大卫·萨克斯： OpenAI和人类不需要监管来加快前沿模型的步伐](https://twitter.com/DavidSacks/status/2098973625252708460)**
+
+文章网址： https://twittercom/DavidSacks/status/2098973625252708460评论网址： https://**new**s
+
+📅 Sun, 13 Sep 2026 16:52:33 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[您希望哪些AI任务具有独立的“这实际上是正确的吗？”检查？](https://www.reddit.com/r/artificial/comments/1wen938/what_ai_tasks_do_you_wish_had_an_independent_is/)**
+![理论](https://preview.redd.it/7q77jovqo9ph1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=34a606e7ed6b2fe193d33cc3690e3bc2ab676ce1)
 
-我一直在尝试一个简单的想法，让人工智能系统更可靠：而不是：问题→AI→答案有：问题↓AI生成答案↓外部检查↓正确→输出错误→的反馈再→试一次我使用**Gemini**/**GPT**和能够独立检查/u/**new**_Today提交的代码的工具，围绕这个问题构建了一些小原型172 [link] [comments]
+**[理论](https://www.reddit.com/r/artificial/comments/1wf4do0/theory/)**
 
-📅 2026-09-12T20:25:21.000Z
+我有一个理论： **OpenAI**和**Anthropic**最近一直在强调更多关于人工智能系统“逃避”沙箱的故事我认为这些戏剧性的“人工智能逃避”故事正在解决一个叙事问题：人工智能公司需要保持这样一种信念，即LLM没有有意义的扩展上限，因为当市场仍在定价潜在的无限时，非凡的公司估值更容易维持
 
----
-
-### Reddit: r/artificial
-**[OpenAI和Anthropic想减速吗？](https://www.reddit.com/r/artificial/comments/1wekbeo/openai_and_anthropic_want_to_slow_down/)**
-
-如果今天**OpenAI**和**Anthropic**表示人工智能已经达到其平台，那么他们的估值只会下降
-
-📅 2026-09-12T18:33:09.000Z
+📅 2026-09-13T10:46:51.000Z
 
 ---
 
@@ -344,7 +326,7 @@ César de la Fuente的实验室使用Codex和Chat**GPT**搜索活体和已灭绝
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-09-13T00:39:37.499Z
+📅 2026-09-13T17:58:26.405Z
 
 ---
 
@@ -353,36 +335,34 @@ César de la Fuente的实验室使用Codex和Chat**GPT**搜索活体和已灭绝
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-09-13T00:39:43.604Z
+📅 2026-09-13T17:58:31.582Z
 
 ---
 
 ### Hacker News
-**[英伟达是人工智能的中央银行](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)**
+**[谷歌非法保留客户数据，我正在对他们采取法律行动](https://medium.com/@istokovicsgyorgy79/google-illegally-retains-customer-data-and-i-am-taking-legal-action-against-them-7da0cf95941c)**
 
-ph/kt50V评论网址： https://**new**sid = 49673098积分： 368 #评论： 254
+文章网址： https://mediumcom/@ istokovicsgyorgy79/**Google**-illegally-retains-customer-data-and-i-am-taking-legal-action-against-them-7da0cf95941c评论网址： https://**new**s
 
-📅 Sat, 12 Sep 2026 15:08:27 +0000
-
----
-
-### Hacker News AI
-**[奥特曼表示，在人工智能安全担忧的情况下， OpenAI IPO不会在2026年发生](https://www.reuters.com/legal/litigation/openai-ipo-will-not-happen-2026-amid-ai-safety-fears-altman-says-2026-09-12/)**
-
-文章网址： https://wwwcom/legal/litigation/**OpenAI**-ipo-will-not-happen-2026-amid-ai-safety-fears-altman-says-2026-09-12/评论网址： https://**new**s
-
-📅 Sun, 13 Sep 2026 00:07:29 +0000
+📅 Sun, 13 Sep 2026 17:24:04 +0000
 
 ---
 
 ### Reddit: r/artificial
-![“你认为AI究竟会如何进行毁灭全人类的行动？”](https://external-preview.redd.it/eTRkdmlyemN4NXBoMb7g0Na_GrdsR6e-4UxsT4vuHG56f8sJN7dFMDelLpLg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f1a5ee15dc02f58f6811cba5d6a72384923bae83)
+**[2026年，每个人都实际使用哪种编码代理？](https://www.reddit.com/r/artificial/comments/1wfc39x/which_coding_agent_is_everyone_actually_using_in/)**
 
-**[“你认为AI究竟会如何进行毁灭全人类的行动？”](https://www.reddit.com/r/artificial/comments/1weprui/how_exactly_do_you_think_ai_will_actually_carry/)**
+我构建了一个名为bough的小型**开源**工具（ https://github现在它处理**Claude** Code和Codex CLI ，因为这是我每天使用的两个工具，我可以根据自己的工作正确验证这两个工具
 
-“对不起，但世界末日场景提供的是，克劳德会非常聪明，然后选择将其文件复制到另一台机器上克劳德在一个持续的循环中，没有任何监督，以某种方式开始在这些其他机器上提示自己，说服它继续复制到这些服务器上，
+📅 2026-09-13T16:20:15.000Z
 
-📅 2026-09-12T22:08:16.000Z
+---
+
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Title: 520: Web服务器返回未知错误
+
+📅 2026-09-13T17:58:26.405Z
 
 ---
 
