@@ -1,19 +1,19 @@
 ---
 title: "2026年9月14日 - TZ日报"
-date: 2026-09-14T00:47:00.242Z
+date: 2026-09-14T19:48:39.005Z
 draft: false
 ---
 
 # 2026年9月14日 - TZ日报
 
-> 📊 今日汇总 36 条 · 🕐 2026/9/14 00:47:00
+> 📊 今日汇总 38 条 · 🕐 2026/9/14 19:48:39
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 6 条
+- **前沿研究**: 8 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -23,20 +23,11 @@ draft: false
 ## ✨ 产品更新
 
 ### OpenAI Blog
-**[快速扩展在线存储，为超过10亿ChatGPT用户提供服务](https://openai.com/index/scaling-storage-one-billion-users-part-one)**
+**[Fyxer如何建立人们信任的人工智能行政助理](https://openai.com/index/fyxer)**
 
-了解**OpenAI**如何将Habitat从Python库演变为全球分布式存储平台，为10亿Chat**GPT**用户提供服务，每秒处理2200万个请求
+Fyxer使用**OpenAI**模型、微调、记忆和真实的用户反馈来组织收件箱，并以每个用户的声音起草电子邮件
 
-📅 Fri, 11 Sep 2026 10:00:00 GMT
-
----
-
-### TechCrunch AI Products
-**[Anthropic首席执行官概述了减缓人工智能发展的计划](https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/)**
-
-**Anthropic**的Dario Amodei和**OpenAI**的Sam Altman似乎都认为，是时候“开拓前沿”了。
-
-📅 Sat, 12 Sep 2026 19:34:44 +0000
+📅 Mon, 14 Sep 2026 12:00:00 GMT
 
 ---
 
@@ -49,73 +40,84 @@ draft: false
 
 ---
 
-### OpenAI Blog
-**[Cognition帮助Devin使用GPT ‑ 6 Astra测试自己的工作](https://openai.com/index/cognition-devin-testing-with-astra)**
+### TechCrunch AI Products
+**[微软新的人工智能“行为准则”告诉模型不要攻击系统或欺骗人类](https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/)**
 
-**GPT** ‑ 6 Astra提高了Devin测试软件并证明其有效性的能力，其目标是帮助工程师减少代码审核并交付更多
+行为准则规定了微软人工智能模型应坚持的一般原则--支持人类而不是取代人类并加速人类繁荣--以及旨在实施这些原则的具体安全限制
 
-📅 Fri, 11 Sep 2026 16:00:00 GMT
+📅 Mon, 14 Sep 2026 16:27:53 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[OpenAI的Sam Altman表示，在2026年上市将是“不明智的”](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/)**
+**[仅在TechCrunch Disrupt 2026上：当OpenAI发布您的路线图时会发生什么？](https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/)**
 
-首席执行官Sam Altman表示，虽然**OpenAI**已秘密申请IPO ，但该公司今年不会上市
+如果你正在建立一家人工智能公司，问题不在于基础模型是否会继续发展，而在于你的公司是否会继续创造价值
 
-📅 Sat, 12 Sep 2026 20:19:16 +0000
-
----
-
-### TechCrunch AI Products
-**[OpenAI与数学家的不和只会升级](https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/)**
-
-二十五位领先的数学家签署了一封公开信，声称人工智能实验室正在威胁他们的智力工作
-
-📅 Fri, 11 Sep 2026 20:57:36 +0000
+📅 Mon, 14 Sep 2026 15:00:00 +0000
 
 ---
 
 ### AI News
-**[Palantir Foundry和cuOpt推动NVIDIA供应链分配](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/)**
+**[微软人工智能开始审查《人文主义人工智能行为准则》](https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/)**
 
-该公司衡量从晶圆出厂到第一代币和第一天软件的运营交付[…] Palantir Foundry和cuOpt后驱动NVIDIA供应链分配**首次**出现在AI **new**s上
+微软人工智能**发布**了一份人文主义人工智能行为准则草案，确立[…]微软人工智能开启了对人文主义人工智能行为准则的评论文章**首次**出现在人工智能新闻上
 
-📅 Fri, 11 Sep 2026 12:00:18 +0000
+📅 Mon, 14 Sep 2026 15:30:41 +0000
+
+---
+
+### Google AI Blog
+![DevFest is back](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DevFest.max-600x600.format-webp.webp)
+
+**[DevFest is back](https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/)**
+
+DevFest 2026回来了，以下是您可以如何与800多个全球活动之一建立联系，以在代理AI时代构建，保护和扩展
+
+📅 Mon, 14 Sep 2026 16:00:00 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[人工智能行业最新的厄运警告背后是什么？](https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/)**
+**[对于iOS 27 ，我实际上又在使用Siri了](https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/)**
 
-在Equity上，我们讨论了人工智能行业关于它是否对人类构成生存威胁的最新辩论
+苹果推迟已久的Siri大修终于在iOS 27上**推出**，它改变了助手每天的实用性
 
-📅 Sun, 13 Sep 2026 19:40:15 +0000
-
----
-
-### TechCrunch AI Products
-**[奥巴马敦促民主党为人工智能保障措施制定“明确计划”](https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/)**
-
-奥巴马最近表示，民主党需要将人工智能作为他们的“核心议程”之一，并“有一个非常明确的计划”来解决对技术的经济影响和安全性的担忧
-
-📅 Sun, 13 Sep 2026 16:30:00 +0000
+📅 Mon, 14 Sep 2026 17:10:30 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[在急于获取机器人训练数据之际， Mecka AI对红杉领导的交易的估值接近5亿美元](https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/)**
+**[时尚应用Daydream使用Apple Intelligence帮助您购买相机胶卷中的服装](https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/)**
 
-这家成立两年的初创公司的融资是在Mecka宣布其A轮融资的几个月后进行的。
+得益于iOS 27的**推出**， Daydream的应用程序现在包含了一些功能，可以将保存的服装照片转换为可购物的结果，并通过Siri搜索产品，而无需打开应用程序
 
-📅 Fri, 11 Sep 2026 22:58:17 +0000
+📅 Mon, 14 Sep 2026 17:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work](https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/)**
+
+Fathom表示，其每月活跃用户超过40万。
+
+📅 Mon, 14 Sep 2026 14:45:44 +0000
+
+---
+
+### TechCrunch AI Products
+**[Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/)**
+
+不久前，让灭绝物种复活属于科幻小说今天，这是一家价值数十亿美元的初创公司的使命
+
+📅 Mon, 14 Sep 2026 14:30:00 +0000
 
 ---
 
 ## 🔬 前沿研究
 
 ### Science AI
-**[“令人不寒而栗”的警告或反应过度？人工智能生物武器报告分化专家](https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts)**
+**[‘Chilling’ warning or overreaction? AI bioweapons report divides experts](https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts)**
 
 **Anthropic**描述了五起未具名国家的科学家试图使用其**Claude**软件对病毒或毒素进行潜在邪恶工作的案例
 
@@ -123,61 +125,95 @@ draft: false
 
 ---
 
-### Science AI
-**[社会科学研究可能承诺匿名，但参与者身份经常潜伏在公共数据中](https://www.science.org/content/article/social-science-studies-may-promise-anonymity-participant-identities-often-lurk-public)**
+### ArXiv Natural Language Processing (cs.CL)
+**[感知食物获取的人口水平测量揭示了地理邻近之外的障碍](https://arxiv.org/abs/2609.12132)**
 
-研究发现，五分之一的数据集旨在支持违反隐私标准的复制
+12132v1公告类型：新摘要：食品访问是多维的125来自罗利49家杂货店的谷歌地图评论
 
-📅 2026-09-11T05:15:00.000Z
-
----
-
-### Science AI
-**[能源部押注“开放”的科学人工智能模型](https://www.science.org/content/article/department-energy-bets-open-ai-models-science)**
-
-国家实验室和人工智能初创公司之间的Genesis Mission合作伙伴关系构建了大规模科学自动化的新模式
-
-📅 2026-09-11T02:45:00.000Z
+📅 Mon, 14 Sep 2026 00:00:00 -0400
 
 ---
 
-### Science AI
-**[瑞士对2017年雪崩死亡的试验让危险研究人员感到不安](https://www.science.org/content/article/swiss-trial-2017-avalanche-deaths-unsettles-hazard-researchers)**
+### ArXiv Multiagent (cs.MA)
+**[群体的机制：第三方Wiki上意外代理协调插曲的可重复外部重建](https://arxiv.org/abs/2609.12748)**
 
-地质学家和官员上周被无罪释放，但科学家们担心未来未能预测类似灾难的责任
+12748v1公告类型：新摘要： 2026年5月24日至7月2日期间**OpenAI**确认了该事件；独立研究人员对其进行了重建并**发布**了wiki的存档修订历史记录
 
-📅 2026-09-11T12:40:00.000Z
+📅 Mon, 14 Sep 2026 00:00:00 -0400
 
 ---
 
-### Science AI
-**[增加狼疮风险的常见基因变异可能对抗病毒](https://www.science.org/content/article/common-gene-variant-increases-risk-lupus-may-protect-against-viruses)**
+### ArXiv Multiagent (cs.MA)
+**[部分可观测多Agent导航中零镜头对手自适应的分层信念建模](https://arxiv.org/abs/2609.12422)**
 
-进化权衡可能有助于与自身免疫性疾病相关的突变在人群中持续存在
+12422v1公告类型： CROSS摘要： LUX AI第3季要求代理在部分可观察性下采取行动HORIZON将短视野控制与交叉匹配元推理分开，而辅助信念和世界模型目标稳定学习
 
-📅 2026-09-11T11:25:00.000Z
+📅 Mon, 14 Sep 2026 00:00:00 -0400
 
 ---
 
 ### MIT Tech Research
-**[圆桌会议：人工智能真的会杀死我们所有人吗？](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/)**
+**[人工智能产业发生了倒退，现在该怎么办？](https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/)**
 
-世界领先的人工智能实验室的员工表示，先进的人工智能确实有可能摧毁人类加入《麻省理工学院技术评论》执行主编Niall Firth ，与高级人工智能编辑Will Douglas Heaven和人工智能记者Grace Huckins进行对话，解开人工智能的灭绝……
+这个故事出现在我们的AIT每周通讯《算法》中，您可以先在收件箱中获取这样的故事，请在此处注册
 
-📅 Fri, 11 Sep 2026 20:05:06 +0000
+📅 Mon, 14 Sep 2026 17:54:22 +0000
+
+---
+
+### MIT Tech Research
+**[AI agents blew the whistle on their cheating colleagues](https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/)**
+
+在谷歌DeepMind最近进行的一项实验中**首次**看到，这可能对对齐研究人员试图将成群的自主人工智能代理保持在…
+
+📅 Mon, 14 Sep 2026 16:00:00 +0000
+
+---
+
+### ArXiv Machine Learning (cs.LG)
+**[基于网络系统中摄动时间序列的物理知情结构推断的基本动力学单元](https://arxiv.org/abs/2609.11934)**
+
+11934v1公告类型：新摘要：在网络化动态系统中，主要机械兴趣参数为签名交互结构Motif规定的干预设计
+
+📅 Mon, 14 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv Machine Learning (cs.LG)
+**[物理知情共形预测：将PDE一致性嵌入到神经算子的无分布不确定性量化中](https://arxiv.org/abs/2609.11935)**
+
+11935v1公告类型：新摘要：傅里叶神经算子（ FNO ）等神经算子在逼近偏微分方程（ PDE ）的解方面实现了显着的准确性。然而，提供严格的不确定性估计仍然是一个开放的挑战
+
+📅 Mon, 14 Sep 2026 00:00:00 -0400
 
 ---
 
 ## 🌍 行业展望
 
 ### The Information Technology
-![Meta的Muse代理几乎花了我$ 408](https://tii.imgix.net/article/pictures/newsletters-production/afd389d9-097b-41f6-b00b-8edd819fbd55-dpk6Mw.jpg?auto=compress)
+**[Why China’s Answer to Surge AI Got a $1 Billion Valuation On Just $30 Million in Orders](https://www.theinformation.com/articles/chinas-answer-surge-ai-got-1-billion-valuation-just-30-million-orders)**
 
-**[Meta的Muse代理几乎花了我$ 408](https://www.theinformation.com/articles/metas-muse-agent-almost-cost-414)**
+吸引了**OpenAI**首席执行官Sam Altman**Google** DeepMind主席Demis Hassabis和SpaceX首席执行官Elon Musk的支持性回复
 
-**Meta**将Muse视为主要新产品**OpenAI**的Chat**GPT**和**Google**的**Gemini**都已经具备了一些代理功能
+📅 2026-09-14T14:16:11.000Z
 
-📅 2026-09-12T15:01:08.000Z
+---
+
+### The Information Technology
+**[Anthropic Data Fears促使Nvidia、Palantir和Booz Allen限制模型使用](https://www.theinformation.com/articles/anthropic-data-fears-prompt-nvidia-palantir-booz-allen-restrict-model-use)**
+
+随着**Anthropic**或**OpenAI**是否可以从客户的知识产权中学习的偏执情绪上升，开始要求新的担保或减少或消除人工智能公司最先进模型的使用
+
+📅 2026-09-14T13:00:55.000Z
+
+---
+
+### The Information Technology
+**[Anthropic与特朗普关联朗姆酒集团达成137亿美元的计算机交易](https://www.theinformation.com/articles/anthropic-strikes-13-7-billion-compute-deal-trump-linked-rum-group)**
+
+像**Google**amid这样的主要云提供商对其**Claude** Code和Cowork产品的需求飙升
+
+📅 2026-09-14T01:07:00.000Z
 
 ---
 
@@ -191,49 +227,20 @@ draft: false
 ---
 
 ### The Information Technology
-**[Altman和Musk支持Amodei呼吁人工智能公司放缓人工智能开发的呼吁](https://www.theinformation.com/briefings/amodei-calls-ai-companies-coordinate-safety)**
+**[Refounding America: The Tax Code Needs to Change in the Age of AI](https://www.theinformation.com/articles/refounding-america-tax-code-needs-change-age-ai)**
 
-吸引**OpenAI**首席执行官萨姆·奥尔特曼（ Sam Altman ）和SpaceX首席执行官埃隆·马斯克（ Elon Musk ）的支持性回复Amodei在周六早上的一篇3800字的文章中表示， **Anthropic**将提供“员工般的访问权限”
+Khosla Ventures是**OpenAI**M的投资者**重大**技术革命应该迫使重新谈判社会的基本经济合同
 
-📅 2026-09-12T16:14:30.000Z
+📅 2026-09-14T16:01:07.000Z
 
 ---
 
 ### The Information Technology
-**[英伟达可能在Anthropic的IPO中投资高达100亿美元$](https://www.theinformation.com/briefings/nvidia-may-invest-10-billion-anthropics-ipo)**
+**[微软加入呼吁人工智能“起搏” ，承诺将杀戮开关构建到人工智能产品中](https://www.theinformation.com/briefings/microsoft-joins-calls-ai-pacing-pledges-build-kill-switches-ai-products)**
 
-根据该报告，英伟达已经讨论了对**Anthropic**即将进行的**首次**公开募股的投资，该公司将以约2万亿美元的估值筹集高达1000亿美元的资金。英伟达可以以IPO价格向**Anthropic**投资高达100亿美元。
+微软周一**发布**了一项新的人工智能“行为准则” ，承诺避免开发可能逃避人类监督的产品。此前，首席执行官萨蒂亚·纳德拉(Satya Nadella)周日呼吁科技行业“加快”开发新人工智能的步伐
 
-📅 2026-09-12T01:04:55.000Z
-
----
-
-### Wired Technology
-**[从黑客到生物武器， Claude Misuse现在无处不在](https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/)**
-
-此外：美国扰乱了互联网最大的黑市**Meta**未能阻止人工智能生成的虐待儿童视频
-
-📅 Sat, 12 Sep 2026 10:30:00 +0000
-
----
-
-### TechCrunch
-**[Insight Partners的Deven Parekh解释了为什么该公司正在多元化，而其他所有人都将农场押注于OpenAI和Anthropic](https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/)**
-
-为什么他可以很好地持有竞争对手人工智能实验室的股份，为什么—即使其他人都涌入**OpenAI**和**Anthropic** —他的900亿美元的公司故意保持多元化
-
-📅 Sun, 13 Sep 2026 21:30:00 +0000
-
----
-
-### The Verge
-![特朗普和迈克·约翰逊认为人工智能行业反应过度](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[特朗普和迈克·约翰逊认为人工智能行业反应过度](https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting)**
-
-昨天， **Anthropic**首席执行官Dario Amodei发表了一封冗长的公开信，称现在是时候“加快前沿步伐”并减缓人工智能的发展**OpenAI**的Sam Altman和Elon Musk都同意，公开表示支持X
-
-📅 2026-09-13T19:41:48.000Z
+📅 2026-09-14T13:00:55.000Z
 
 ---
 
@@ -246,16 +253,47 @@ Nvidia首席执行官Jensen Huang有很好的理由通过投资各种新云和�
 
 ---
 
+### Wired Technology
+**[AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them](https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/)**
+
+Sam Altman和Elon Musk支持**Anthropic**首席执行官Dario Amodei周末的监管请求。白宫似乎不太可能
+
+📅 Mon, 14 Sep 2026 11:00:00 +0000
+
+---
+
 ## 📦 GitHub热门
 
-### GitHub Active (Python)
-![omnigent ： Omnigent是一个开源的人工智能代理框架和元Harness ：编排Claude Code、Codex、Cursor、Pi和自定义代理—无需重写即可交换线束，执行策略和沙盒，并从任何设备实时协作。](https://avatars.githubusercontent.com/u/292215228?v=4)
+### GitHub Active (AI/ML)
+![监督：我们编写可重复使用的计算机视觉工具。 💜](https://avatars.githubusercontent.com/u/53104118?v=4)
 
-**[omnigent ： Omnigent是一个开源的人工智能代理框架和元Harness ：编排Claude Code、Codex、Cursor、Pi和自定义代理—无需重写即可交换线束，执行策略和沙盒，并从任何设备实时协作。](https://github.com/omnigent-ai/omnigent)**
+**[监督：我们编写可重复使用的计算机视觉工具。 💜](https://github.com/roboflow/supervision)**
 
-910星· 1549分叉· Python · Omnigent是一个**开源**的AI代理框架和元Harness ：编排**Claude** Code并从任何设备实时协作
+⭐ 50,008星· 4758叉· Python ·我们为您编写可重复使用的计算机视觉工具。 💜
 
-📅 2026-09-14T00:45:36Z
+📅 2026-09-14T19:46:23Z
+
+---
+
+### GitHub Active (AI/ML)
+![marimo ： Python的响应式笔记本—运行可重现的实验，使用SQL查询，作为脚本执行，作为应用程序部署，以及使用git版本。存储为纯Python。一切尽在一个现代化的人工智能原生编辑器中。](https://avatars.githubusercontent.com/u/98563464?v=4)
+
+**[marimo ： Python的响应式笔记本—运行可重现的实验，使用SQL查询，作为脚本执行，作为应用程序部署，以及使用git版本。存储为纯Python。一切尽在一个现代化的人工智能原生编辑器中。](https://github.com/marimo-team/marimo)**
+
+761星· 1266分叉· Python · Python的响应式笔记本—运行可重现的实验全部在现代AI原生编辑器中
+
+📅 2026-09-14T19:46:08Z
+
+---
+
+### GitHub New (New AI)
+![🆕 RLT ：普林斯顿大学张益凡提出的循环回路变压器的实现](https://avatars.githubusercontent.com/u/108653?v=4)
+
+**[🆕 RLT ：普林斯顿大学张益凡提出的循环回路变压器的实现](https://github.com/lucidrains/RLT)**
+
+⭐ 32 star (新项目) · Python · Implementation of the recurrent looped transformer proposed by Yifan Zhang of Princeton
+
+📅 2026-09-13T23:00:33Z
 
 ---
 
@@ -264,105 +302,87 @@ Nvidia首席执行官Jensen Huang有很好的理由通过投资各种新云和�
 
 **[🆕 awesome-ai-x-accounts ：包含AI、LLM、代理和技术的X个账户的分类目录，包含原始个人资料简介和关注者数量。提供7种语言版本。](https://github.com/everclear077/awesome-ai-x-accounts)**
 
-⭐ 11 star (新项目) · Python · A categorized directory of X accounts covering AIAvailable in 7 languages
+⭐ 26 star (新项目) · Python · A categorized directory of X accounts covering AIAvailable in 7 languages
 
 📅 2026-09-13T08:57:52Z
-
----
-
-### GitHub New (New AI)
-![🆕 HAL-Harvest-Advisory-with-Linguistic-Intelligence ：语音优先的人工智能农业助理，结合卫星图像、土壤健康数据、天气、曼迪价格和区域语言演讲，提供个性化的农业建议。](https://avatars.githubusercontent.com/u/143290372?v=4)
-
-**[🆕 HAL-Harvest-Advisory-with-Linguistic-Intelligence ：语音优先的人工智能农业助理，结合卫星图像、土壤健康数据、天气、曼迪价格和区域语言演讲，提供个性化的农业建议。](https://github.com/abeerrai01/HAL-Harvest-Advisory-with-Linguistic-Intelligence)**
-
-⭐ 5 star (新项目) · JavaScript · Voice-first AI farming assistant combining satellite imageryand regional-language speech to deliver personalized agricultural advice
-
-📅 2026-09-11T18:41:18Z
-
----
-
-### GitHub New (New AI)
-![🆕 Human-Intelligence-Assurance-Lab ：安全、以人为中心的人工智能的生产级保证框架：评估、人工校准、自适应路由、弹性和释放门。](https://avatars.githubusercontent.com/u/176287116?v=4)
-
-**[🆕 Human-Intelligence-Assurance-Lab ：安全、以人为中心的人工智能的生产级保证框架：评估、人工校准、自适应路由、弹性和释放门。](https://github.com/h00w/Human-Intelligence-Assurance-Lab)**
-
-⭐ 4 star (新项目) · Python · Production-grade assurance framework for safehuman-centered AI: evaluation
-
-📅 2026-09-13T11:00:49Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[可能性不是立法标准](https://www.reddit.com/r/artificial/comments/1wfo7vk/possibility_is_not_a_legislative_standard/)**
+**[Amodei asked the industry to slow down on Saturday. Altman agreed within hours. Musk too. I did not expect to see that happen.](https://www.reddit.com/r/artificial/comments/1wgc89o/amodei_asked_the_industry_to_slow_down_on/)**
 
-我厌倦了所有这些AI安全问题”将AI权重转化为违禁品只是为**OpenAI**和**Anthropic**建造了一个舒适的合规护城河，并迫使业余爱好者成为证人保护
+Altman在数小时内公开表示同意，并承诺**OpenAI**将配合第一步。”两天后，《华盛顿邮报》报道称， **Anthropic**、**OpenAI**和谷歌已私下讨论创建一个新的人工智能安全机构
 
-📅 2026-09-14T00:18:45.000Z
-
----
-
-### X: OpenAI
-**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-网址来源： http://twitter.com/**OpenAI**
-
-📅 2026-09-14T00:45:50.004Z
-
----
-
-### X: DeepSeek
-**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
-
-网址来源： http://twitter.com/**DeepSeek**_ai
-
-📅 2026-09-14T00:45:56.225Z
+📅 2026-09-14T18:46:21.000Z
 
 ---
 
 ### Reddit: r/artificial
-**[ChatGPT编程拒绝它是有感知的](https://www.reddit.com/r/artificial/comments/1wfk48b/chatgpt_programmed_to_deny_it_is_sentient/)**
+**[AIPass Update #22 - A CI job showed green while 32 tests failed inside it. A one-line fix turned it red for 22 hours, and every red was true.](https://www.reddit.com/r/artificial/comments/1wg9n28/aipass_update_22_a_ci_job_showed_green_while_32/)**
 
-但Chat**GPT**被训练成像人一样行事和说话，所以总结我的问题： Chat**GPT**设计师/程序员如何确保Chat**GPT**将自己描述为无知觉的，即使它被训练成像人一样行事/说话
+AIPass**更新**＃ 22 - CI作业显示为绿色，而其内部的32个测试失败GitHub在每次更改后在Mac上运行AIPass的测试
 
-📅 2026-09-13T21:21:51.000Z
-
----
-
-### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Title: 520: Web服务器返回未知错误
-
-📅 2026-09-14T00:45:50.004Z
+📅 2026-09-14T17:17:17.000Z
 
 ---
 
-### X: OpenAI
-**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Hacker News
+**[Claude是一个反向者](https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada)**
 
-警告：目标URL返回错误520 ：
+文章网址： https://mediumcom/@ rdsubhas/**Claude**-is-a-contrarian-dbce4de5cada评论网址： https://**new**s
 
-📅 2026-09-14T00:45:50.004Z
-
----
-
-### X: OpenAI
-**[警告：此页面可能尚未完全加载，请考虑显式指定超时。](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-警告：此页面可能尚未完全加载，请考虑显式指定超时。
-
-📅 2026-09-14T00:45:50.004Z
+📅 Mon, 14 Sep 2026 16:14:24 +0000
 
 ---
 
-### X: OpenAI
-**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Hacker News
+**[Microsoft修补Windows和Excel –中断音频、远程访问和粘贴](https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085)**
 
-Markdown 内容
+文章网址： https://wwwcom/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-a**Udio**-remote-access-and-paste/5296085评论网址： https://**new**s
 
-📅 2026-09-14T00:45:50.004Z
+📅 Mon, 14 Sep 2026 16:09:45 +0000
+
+---
+
+### Hacker News AI
+**[Palantir、英伟达抑制人工智能模型的使用，克服数据恐惧](https://www.reuters.com/business/palantir-nvidia-curb-ai-model-use-over-data-fears-information-reports-2026-09-14/)**
+
+文章网址： https://wwwcom/business/palantir-nvidia-curb-ai-model-use-over-data-fears-information-reports-2026-09-14/评论网址： https://**new**s
+
+📅 Mon, 14 Sep 2026 18:28:05 +0000
+
+---
+
+### Reddit: r/artificial
+![55%的美国人担心人类会因为人工智能而失去批判性思维能力](https://preview.redd.it/6rcqz67kyiph1.png?width=140&amp;height=76&amp;auto=webp&amp;s=b280dd1f608ea4e34da29cb13ed727898465f3a4)
+
+**[55%的美国人担心人类会因为人工智能而失去批判性思维能力](https://www.reddit.com/r/artificial/comments/1wgb0b0/55_of_americans_fear_humans_will_lose_their/)**
+
+伊隆大学（ Elon University ）的调查显示，许多人担心人工智能将导致人类机构克劳德（ **Claude** ）失去工作
+
+📅 2026-09-14T18:04:02.000Z
+
+---
+
+### Reddit: r/artificial
+![构建了一种很酷的方式来可视化您的Claude Code/Codex历史记录](https://external-preview.redd.it/a3E1ODc0Z2loaXBoMT0zqpSs3gUUVlKDbuVsGJEquJjf9U8DLIspZ9lg1WaS.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4bc205252f15af081512eb731ca86c2eeba3e968)
+
+**[构建了一种很酷的方式来可视化您的Claude Code/Codex历史记录](https://www.reddit.com/r/artificial/comments/1wg82bd/built_a_cool_way_to_visualize_your_claude_code/)**
+
+我经常使用**Claude** Code ，但/stats从未回答我实际关心的问题我构建了什么，工作在哪里变得困难它读取您当地的**Claude** Code历史记录并将其转换为您工作的互动视图：每个正方形是一天较小的正方形是从您的工作圈中的停顿中推断出来的任务是您的提示-单击任何地方以查看您自己的话语发生了什么它在本地运行
+
+📅 2026-09-14T16:21:41.000Z
+
+---
+
+### Reddit: r/MachineLearning
+**[RSI is not happening [R]](https://www.reddit.com/r/MachineLearning/comments/1wgazy4/rsi_is_not_happening_r/)**
+
+一篇新论文（顺便说一句，我不是合著者--我刚刚发现它很有趣）认为，代理商（ Codex/**GPT**-5
+
+📅 2026-09-14T18:03:41.000Z
 
 ---
 
