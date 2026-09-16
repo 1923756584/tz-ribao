@@ -1,12 +1,12 @@
 ---
 title: "2026年9月16日 - TZ日报"
-date: 2026-09-16T01:09:41.967Z
+date: 2026-09-16T18:43:28.568Z
 draft: false
 ---
 
 # 2026年9月16日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/9/16 01:09:41
+> 📊 今日汇总 38 条 · 🕐 2026/9/16 18:43:28
 
 ---
 
@@ -23,20 +23,56 @@ draft: false
 ## ✨ 产品更新
 
 ### TechCrunch AI Products
-**[Meta现在允许人工智能代理处理WhatsApp Business设置的无聊部分](https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/)**
+**[您的AI代理现在可以控制您的Google Home设备](https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/)**
 
-新的WhatsApp Business MCP服务器允许开发人员使用**Claude**和Chat**GPT**等AI编码代理来处理设置
+谷歌正在为**Google** Home**推出**抢先访问新的MCP服务器，允许像**Claude**这样的人工智能代理
 
-📅 Tue, 15 Sep 2026 20:12:53 +0000
+📅 Wed, 16 Sep 2026 17:00:00 +0000
+
+---
+
+### OpenAI Blog
+**[帮助老年人在日常生活中使用人工智能](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life)**
+
+**OpenAI**和AARP正在为10个城市的1,000名老年人提供免费的实践Chat**GPT**研讨会，以安全地培养实用的人工智能技能
+
+📅 Wed, 16 Sep 2026 16:00:00 GMT
 
 ---
 
 ### TechCrunch AI Products
-**[OpenAI、Anthropic和谷歌已经就人工智能安全问题进行了数周的谈判](https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/)**
+**[Anthropic将Claude聊天和Cowork合并在一个界面中](https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/)**
 
-**OpenAI**确认与**Anthropic**进行了数周的人工智能安全谈判，谷歌DeepMindas特朗普的团队驳斥了安全问题，并推动与中国保持同步
+**Anthropic**最初将向Pro和Max套餐订阅者**发布**这些功能。
 
-📅 Tue, 15 Sep 2026 15:47:03 +0000
+📅 Wed, 16 Sep 2026 16:30:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[机器人正在等待ChatGPT时刻：英伟达的Les Karpas在TechCrunch Disrupt 2026上解释了原因](https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/)**
+
+机器人行业仍在等待他们在日常生活中的**突破**Nvidia的Les Karpas对TechCrunch Disrupt 2026的原因有了答案
+
+📅 Wed, 16 Sep 2026 15:00:00 +0000
+
+---
+
+### OpenAI Blog
+**[用人工智能重新构想广告](https://openai.com/index/reimagining-advertising-with-ai)**
+
+探索**OpenAI**新的人工智能驱动广告体验，包括赞助商、营销人员工具以及与HubSpot和Shopify的集成
+
+📅 Wed, 16 Sep 2026 13:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[员工如何开启新的工作方式](https://openai.com/index/unlocking-new-ways-of-working)**
+
+新的**OpenAI**经济研究显示了工人如何在传统角色之外使用人工智能，以及哪些新活动成为他们工作的重复部分
+
+📅 Wed, 16 Sep 2026 09:00:00 GMT
 
 ---
 
@@ -80,213 +116,192 @@ Fyxer使用**OpenAI**模型、微调、记忆和真实的用户反馈来组织�
 
 ---
 
-### DeepMind Blog
-**[隆重推出Gemini 3.8 Live和3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/)**
-
-隆重**推出**Gemini 3.8 Live和3.8 Live Extended Thinking
-
-📅 Tue, 15 Sep 2026 17:05:57 +0000
-
----
-
-### TechCrunch AI Products
-**[Nvidia的Jensen Huang表示，我们不需要人工智能监管—将安全问题留给我们](https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/)**
-
-根据Jensen Huang的说法，人工智能不是“外星人思维”的新形式它只是硬件和软件，因此每个人工智能产品制造商都可以设计安全
-
-📅 Wed, 16 Sep 2026 00:20:39 +0000
-
----
-
-### TechCrunch AI Products
-**[人工智能墓地：未成功完成的项目和初创公司的运行列表](https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)**
-
-从苹果一再推迟Siri AI到**OpenAI**凌乱的“超级应用”**发布**，以下是关闭或未达到预期的人工智能项目
-
-📅 Tue, 15 Sep 2026 19:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[Meta通过以人工智能为重点的新计划扩展订阅推送](https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/)**
-
-**Meta** One通过Facebook、Instagram和WhatsApp的高级功能捆绑了公司人工智能工具的扩展访问权限
-
-📅 Tue, 15 Sep 2026 17:05:24 +0000
-
----
-
 ## 🔬 前沿研究
 
-### ArXiv Machine Learning (cs.LG)
-**[BudgetBench ：用于本地大型语言模型代理内存策略评估的预算分层协议和试点线束](https://arxiv.org/abs/2609.13149)**
+### ArXiv Natural Language Processing (cs.CL)
+**[大型语言模型中自我报告的原型和行为失败](https://arxiv.org/abs/2609.15998)**
 
-13149v1 **announce** Type: **new** Abstract: For local large language model agents**release**d at https://github
+15998v1公告类型：新摘要：每个大型语言模型（ LLM ）都有行为特征和道德偏好，无论是通过设计还是作为培训的新兴属性
 
-📅 Tue, 15 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[评估LLM生成的心脏病预测规则](https://arxiv.org/abs/2609.13192)**
-
-与使用**GPT**-4o和**Claude** Sonnet 4生成的基于规则的系统一起进行评估。相比之下， LLM生成的规则模型性能较低， **Claude** Sonnet 4
-
-📅 Tue, 15 Sep 2026 00:00:00 -0400
-
----
-
-### Science AI
-**[“令人不寒而栗”的警告或反应过度？人工智能生物武器报告分化专家](https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts)**
-
-**Anthropic**描述了五起未具名国家的科学家试图使用其**Claude**软件对病毒或毒素进行潜在邪恶工作的案例
-
-📅 2026-09-13T04:40:00.000Z
+📅 Wed, 16 Sep 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[根本原因归因是一个搜索问题：长期代理失败的持续搜索](https://arxiv.org/abs/2609.13463)**
+**[校准，然后路由：对分解LLM服务的已学习请求路由的测量研究](https://arxiv.org/abs/2609.16206)**
 
-13463v1公告类型：新摘要： AI智能体在长距离任务中的部署越来越多，产生大量的执行日志例如在MegaRCA-Mix上，它改进了**GPT**-5
+16206v1公告类型：新摘要：分解LLM服务位置在单独的GPU池上计算大量预填充和内存大量解码在第三个上，它落后于0
 
-📅 Tue, 15 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[大地艺术作为大数据气候传感器](https://arxiv.org/abs/2609.13182)**
-
-13182v1公告类型：新摘要：罗伯特·史密森1970年大地艺术作品《螺旋码头》数据集、特征流水线、分析代码作为公开基准**发布**
-
-📅 Tue, 15 Sep 2026 00:00:00 -0400
+📅 Wed, 16 Sep 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Natural Language Processing (cs.CL)
-**[大型语言模型的词法提示压缩：跨越11个任务类别的具有经验帕累托分析的无训练、确定性管道](https://arxiv.org/abs/2609.13154)**
+### ArXiv AI (cs.AI)
+**[元认知导向：学习科学判断的结构](https://arxiv.org/abs/2609.16245)**
 
-13154v1公告类型：新摘要：大型语言模型（ LLM ）的最新进展使提示变得越来越大和复杂630配对**GPT**-4o-mini完成
+16245v1公告类型：新摘要：远景科学发现要求代理在探索之间交替当前语言模型主要根据科学产品进行培训，并使用结果级信号进行优化
 
-📅 Tue, 15 Sep 2026 00:00:00 -0400
+📅 Wed, 16 Sep 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Natural Language Processing (cs.CL)
-**[CVSS-X ： 28种语言的多语言语音到语音翻译语料库](https://arxiv.org/abs/2609.13413)**
+**[函数化：子词标记化的无损函数分解](https://arxiv.org/abs/2609.15991)**
 
-13413v1公告类型：新摘要：我们引入CVSS-X代码可在https://github上找到
+15991v1公告类型：新摘要：标准子词标记器要么处理单词的每个正交变体（例如hello对25M参数**GPT**-2比例模型的初步下游评估表明，在这个比例下
 
-📅 Tue, 15 Sep 2026 00:00:00 -0400
+📅 Wed, 16 Sep 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Natural Language Processing (cs.CL)
-**[临床时间推理中的事后偏差：未来数据暴露如何影响大型语言模型的判断](https://arxiv.org/abs/2609.13454)**
+### Science AI
+**[OpenAI突破引发数学“生存危机”](https://www.science.org/content/article/openai-breakthrough-triggers-existential-crisis-math)**
 
-13454v1公告类型：新摘要：临床决策具有前瞻性跨**GPT** 5
+声称的Navier-Stokes解决方案使数学家对人工智能的角色及其对下一代的意义产生了分化
 
-📅 Tue, 15 Sep 2026 00:00:00 -0400
+📅 2026-09-15T02:45:00.000Z
+
+---
+
+### MIT Tech Research
+**[人工智能产业发生了倒退，现在该怎么办？](https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/)**
+
+这个故事出现在我们的AIT每周通讯《算法》中，您可以先在收件箱中获取这样的故事，请在此处注册
+
+📅 Mon, 14 Sep 2026 17:54:22 +0000
+
+---
+
+### MIT Tech Research
+**[人工智能特工向作弊的同事吹响了哨子](https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/)**
+
+在谷歌DeepMind最近进行的一项实验中**首次**看到，这可能对对齐研究人员试图将成群的自主人工智能代理保持在…
+
+📅 Mon, 14 Sep 2026 16:00:00 +0000
+
+---
+
+### ArXiv AI (cs.AI)
+**[使用Fisher信息距离的神经架构优化修剪](https://arxiv.org/abs/2609.16129)**
+
+16129v1公告类型：新摘要：引入了一种新的参数修剪方案，该方案源于模型空间中的微分几何距离这种几何图片不仅为人工智能模型提供了最先进的修剪方法
+
+📅 Wed, 16 Sep 2026 00:00:00 -0400
 
 ---
 
 ## 🌍 行业展望
 
 ### The Information Technology
-**[Meta加入Tech的人工智能订阅热潮](https://www.theinformation.com/articles/meta-joins-techs-ai-fueled-subscription-rush)**
+**[人类是否让克劳德过于人性化而无法控制？](https://www.theinformation.com/articles/anthropic-making-claude-human-control)**
 
-谷歌在周二**推出**的**Google** One产品**Meta** One中增加了AI服务的额外使用，还提供了额外的AI使用，以及一些使用**Meta**社交媒体应用程序的额外工具
+**Anthropic**呼吁放慢人工智能开发速度以保护人类安全，这在新闻周期中占据了主导地位，并引起了**OpenAI**领导者的类似呼吁，称**Anthropic**将其**Claude**模型视为有感知力的方法
 
-📅 2026-09-16T00:00:41.000Z
-
----
-
-### The Information Technology
-**[人性化， OpenAI “起搏”使一些初创公司客户感到恐慌](https://www.theinformation.com/articles/anthropic-openai-pacing-spooks-startup-customers)**
-
-目前尚不清楚**Anthropic**和**OpenAI**承诺放缓人工智能开发的步伐将对他们即将到来的公开募股产生什么影响，这让我想起了一家初创公司，该公司最近发现，鉴于有关潜在灾难性人工智能的新闻报道，客户对为中小型企业购买其人工智能应用程序更加谨慎
-
-📅 2026-09-15T23:25:42.000Z
-
----
-
-### The Information Technology
-**[为什么Anthropic的数据政策剧对OpenAI有好处](https://www.theinformation.com/articles/anthropics-data-policy-drama-good-openai)**
-
-主要的**Anthropic**客户仍在等待为最新的Fable AI模型获得“零数据保留”与此同时，一些客户正在转向**OpenAI**
-
-📅 2026-09-15T18:28:58.000Z
+📅 2026-09-16T14:02:01.000Z
 
 ---
 
 ### The Verge
-![微软宣布10月7日的Windows和Surface活动](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![人工智能高管呼吁监管的简要历史](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/AI_extinction.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[微软宣布10月7日的Windows和Surface活动](https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco)**
+**[人工智能高管呼吁监管的简要历史](https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation)**
 
-距离上一次Windows**重大**活动已经过去两年多了。如果是这样的话，听到有关Microsoft Surface Laptop Ultra定价和avai的更多信息，不要感到惊讶……阅读The Verge的完整故事
+很多愿意从人工智能中赚很多钱的人都公开同意，在我们失去控制之前，是时候让每个人都放慢速度了-包括**OpenAI**首席执行官Sam Altman但不管他们的原因是什么，这远不是人工智能思想领袖第一次发出警报
 
-📅 2026-09-15T20:36:59.000Z
-
----
-
-### The Information Technology
-**[OpenAI正在就1.2万亿美元估值的新一轮融资进行早期谈判](https://www.theinformation.com/briefings/openai-early-talks-new-funding-round-1-2-trillion-valuation)**
-
-**OpenAI**已与投资者就新一轮融资进行了早期对话，该轮融资可能将其估值提升至1 $。随着**OpenAI**将计划中的**首次**公开募股推迟到明年或更晚
-
-📅 2026-09-15T22:36:33.000Z
+📅 2026-09-16T12:00:00.000Z
 
 ---
 
 ### The Information Technology
-**[微软提高股息8%](https://www.theinformation.com/briefings/microsoft-raises-dividend-8)**
+**[Anthropic将开设新加坡办事处，从OpenAI聘请区域主管](https://www.theinformation.com/briefings/anthropic-open-singapore-office-hires-regional-head-openai)**
 
-微软周二表示，它将从12月开始将其季度股息从91美分提高到98美分。该公司此前在一年前将其股息提高了10 ％
+**Anthropic**周三表示，该公司将在新加坡开设其第五个亚太办事处，以推动企业采用**Claude** ，而**Claude**的人均使用量是全球最高的
 
-📅 2026-09-15T22:22:52.000Z
+📅 2026-09-16T03:09:42.000Z
+
+---
+
+### The Verge
+![Claude为Gemini带来了自己对文档和幻灯片的看法](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Claude-Docs.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[Claude为Gemini带来了自己对文档和幻灯片的看法](https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides)**
+
+**Claude**今天将获得一对新工具： Docs和SlidesArtifacts以及**Claude** Design功能也将通过新的单一界面提供
+
+📅 2026-09-16T16:30:00.000Z
 
 ---
 
 ### The Information Technology
-**[Meta将在隐私问题日益严重的情况下推出无摄像头智能眼镜](https://www.theinformation.com/articles/meta-launch-camera-free-smart-glasses-amid-mounting-privacy-concerns)**
+**[如何掌握Google Gemini的技术趋势](https://www.theinformation.com/articles/stay-top-tech-trends-google-gemini)**
 
-**Meta** Platforms计划今年秋季**推出**无摄像头智能眼镜全新眼镜型号
+在人工智能时代尤其如此，供应商竞相**推出**具有新功能的模型**更新**第1步：生成您的技术预测开启新聊天，并提示**Google** **Gemini**为您提供当前技术趋势的总结
 
-📅 2026-09-15T22:22:39.000Z
+📅 2026-09-16T15:36:57.000Z
+
+---
+
+### ZDNet AI
+**[再见， Claude Cowork ： Anthropic将其两个Claudes合并为一个](https://www.zdnet.com/innovation/claude-chat-absorbs-cowork-anthropic/)**
+
+再见， **Claude** Cowork ： **Anthropic**将其两个**Claude**s合并为一个
+
+📅 2026-09-16T16:30:44.000Z
+
+---
+
+### The Verge
+![谷歌现在将让任何人工智能代理运行您的智能家居](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-for-home.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[谷歌现在将让任何人工智能代理运行您的智能家居](https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date)**
+
+**Google**正在邀请包括**Claude**和Open Claw在内的第三方代理加入**Google** Home**Google** Home MCP是一项新的集成，允许第三方AI代理控制和监控您的智能家居并代表您采取行动
+
+📅 2026-09-16T17:00:00.000Z
 
 ---
 
 ### The Information Technology
-**[Meta推出具有更高AI使用限制的新“Meta One”订阅计划](https://www.theinformation.com/briefings/meta-rolls-new-meta-one-subscription-plans-higher-ai-usage-limits)**
+**[苹果考虑重返服务器市场，已与英伟达洽谈使用网络技术](https://www.theinformation.com/articles/apple-considers-return-server-market-talked-nvidia-use-network-tech)**
 
-**Meta** Platforms正在Instagram上扩展其AI工具的付费订阅服务该公司周二在一篇博客文章中宣布，它正在**推出**其**Meta** One订阅计划的新层次，
+熟悉该项目的人士表示，这家Mac制造商希望利用其计算机对人工智能的兴趣激增
 
-📅 2026-09-15T19:11:45.000Z
+📅 2026-09-16T13:00:37.000Z
 
 ---
 
 ## 📦 GitHub热门
+
+### GitHub Active (Python)
+![repowise ：适用于人工智能和人类的代码库智能：代码健康评分、自动生成的文档、git分析、死代码检测和通过MCP的架构决策。](https://avatars.githubusercontent.com/u/271941743?v=4)
+
+**[repowise ：适用于人工智能和人类的代码库智能：代码健康评分、自动生成的文档、git分析、死代码检测和通过MCP的架构决策。](https://github.com/repowise-dev/repowise)**
+
+681星· 697叉·蟒蛇·人工智能和人类的代码库智能：代码健康得分自动生成的文档
+
+📅 2026-09-16T18:42:08Z
+
+---
+
+### GitHub Active (AI/ML)
+![ML ： PHP语言的高级机器学习和深度学习库。](https://avatars.githubusercontent.com/u/43308973?v=4)
+
+**[ML ： PHP语言的高级机器学习和深度学习库。](https://github.com/RubixML/ML)**
+
+⭐ 2,205星· 193分叉· PHP · PHP语言的高级机器学习和深度学习库
+
+📅 2026-09-16T18:42:12Z
+
+---
 
 ### GitHub New (New AI)
 ![🆕 RLT ：普林斯顿大学张益凡提出的循环回路变压器的实现](https://avatars.githubusercontent.com/u/108653?v=4)
 
 **[🆕 RLT ：普林斯顿大学张益凡提出的循环回路变压器的实现](https://github.com/lucidrains/RLT)**
 
-⭐ 43 star (新项目) · Python · Implementation of the recurrent looped transformer proposed by Yifan Zhang of Princeton
+⭐ 49 star (新项目) · Python · Implementation of the recurrent looped transformer proposed by Yifan Zhang of Princeton
 
 📅 2026-09-13T23:00:33Z
-
----
-
-### GitHub Active (AI/ML)
-![awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
-
-**[awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
-
-⭐ 453星· 40分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作流程刷新
-
-📅 2026-09-16T01:08:02Z
 
 ---
 
@@ -295,31 +310,38 @@ Fyxer使用**OpenAI**模型、微调、记忆和真实的用户反馈来组织�
 
 **[🆕 awesome-ai-x-accounts ：包含AI、LLM、代理和技术的X个账户的分类目录，包含原始个人资料简介和关注者数量。提供7种语言版本。](https://github.com/everclear077/awesome-ai-x-accounts)**
 
-⭐ 31 star (新项目) · Python · A categorized directory of X accounts covering AIAvailable in 7 languages
+⭐ 37 star (新项目) · Python · A categorized directory of X accounts covering AIAvailable in 7 languages
 
 📅 2026-09-13T08:57:52Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 contentqueen-app-erfahrung-review-deutsch: Contentqueen App im Test: Der ultimative KI-Textgenerator für Marketer & Creators im deutschsprachigen Raum. Schluss mit Schreibblockaden ！ 🚀](https://avatars.githubusercontent.com/u/328633643?v=4)
+## 💬 社交动态
 
-**[🆕 contentqueen-app-erfahrung-review-deutsch: Contentqueen App im Test: Der ultimative KI-Textgenerator für Marketer & Creators im deutschsprachigen Raum. Schluss mit Schreibblockaden ！ 🚀](https://github.com/thunderstrike668/contentqueen-app-erfahrung-review-deutsch)**
+### Hacker News AI
+**[Anthropic将Claude AI功能折叠到一个界面中，推出文档工具](https://www.reuters.com/business/media-telecom/anthropic-fold-claude-ai-features-into-one-interface-launches-document-tools-2026-09-16/)**
 
-⭐ 11 star (新项目) · N/A · Contentqueen App im Test: Der ultimative KI-Textgenerator für Marketer & Creators im deutschsprachigen RaumSchluss mit Schreibblockaden
+文章网址： https://wwwcom/business/media-telecom/**Anthropic**-fold-**Claude**-ai-features-into-one-interface-**launch**es-document-tools-2026-09-16/评论网址： https://**new**s
 
-📅 2026-09-13T07:17:48Z
+📅 Wed, 16 Sep 2026 17:38:19 +0000
 
 ---
 
-## 💬 社交动态
+### Reddit: r/artificial
+**[一位DeepSeek工程师刚刚说了我几个月来对人工智能的感受](https://www.reddit.com/r/artificial/comments/1wi2zm9/a_deepseek_engineer_just_said_the_thing_ive_been/)**
+
+我刚刚阅读了**DeepSeek**的一篇文章，他为他们的最新型号编写了注意力内核，它让我陷入了一个奇怪的境地**DeepSeek**运送的东西， **OpenAI**运送的东西，韩国或巴西或任何地方运送的东西
+
+📅 2026-09-16T16:59:36.000Z
+
+---
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-09-16T01:08:28.765Z
+📅 2026-09-16T18:42:04.129Z
 
 ---
 
@@ -328,63 +350,45 @@ Fyxer使用**OpenAI**模型、微调、记忆和真实的用户反馈来组织�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-09-16T01:08:36.040Z
+📅 2026-09-16T18:42:12.381Z
 
 ---
 
 ### Hacker News
-**[德国莱茵金属开源其Battlesuite联网武器系统protcol](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html)**
+**[Claude Cowork和聊天现在是Claude](https://claude.com/blog/cowork-is-now-claude)**
 
-文章网址： https://rhein**Meta**llhtml评论网址： https://**new**s
+文章网址： https://**Claude**com/blog/cowork-is-now-**Claude**评论网址： https://**new**s
 
-📅 Tue, 15 Sep 2026 21:07:47 +0000
-
----
-
-### Hacker News AI
-**[Show HN ： LEO –人工智能编码代理的Markdown工程流程](https://github.com/alex-zaporozhan/leo)**
-
-它是Cursor或**Claude**Code的工程框架使用LEO构建的其他项目（**首次**亮相项目，**开源**，享受代码行） ： https://github
-
-📅 Wed, 16 Sep 2026 00:47:27 +0000
+📅 Wed, 16 Sep 2026 16:26:25 +0000
 
 ---
 
-### Hacker News AI
-**[英伟达和CrowdStrike开发新的网络安全AI模型](https://www.wsj.com/cio-journal/nvidia-and-crowdstrike-develop-new-cybersecurity-ai-models-937bb2aa)**
+### Hacker News
+**[此准则是垃圾（ 2011年）](https://testing.googleblog.com/2011/02/this-code-is-crap.html)**
 
-文章网址： https://wwwcom/cio-journal/nvidia-and-crowdstrike-develop-**new**-cybersecurity-ai-models-937bb2aa评论网址： https://**new**s
+**Google**bloghtml评论网址： https://**new**s
 
-📅 Wed, 16 Sep 2026 00:19:09 +0000
-
----
-
-### Hacker News AI
-**[Show HN: Agenttik –与人工智能代理并行处理多个项目](https://github.com/pausan/agenttik)**
-
-在暑假期间，我开始在个人项目上使用最新的人工智能模型-选择您选择的下标： **Claude** Code/Open AI订阅/
-
-📅 Tue, 15 Sep 2026 23:24:53 +0000
+📅 Wed, 16 Sep 2026 16:13:55 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[我是唯一一个认为最近的人工智能“世界末日”新闻只是为了获得更多资金的伪装推销的人吗？](https://www.reddit.com/r/artificial/comments/1whhygo/am_i_the_only_one_who_thinks_recent_ai_doomsday/)**
+![所以OpenAI的人工智能代理策划了这次攻击](https://preview.redd.it/y4un5lq9zwph1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a6c5a359f4e7720dba91ac5c88804ec102d9ca36)
 
-我的饲料中充斥着危言耸听的人工智能新闻：人工智能在战争游戏中选择核种族灭绝“核战争模拟和勒索克劳德实验的设计如此模糊，缺乏建筑保障，以至于它们甚至不应该被视为严肃的基准
+**[所以OpenAI的人工智能代理策划了这次攻击](https://www.reddit.com/r/artificial/comments/1wi36m3/so_ai_agents_from_openai_had_planned_this_attack/)**
 
-📅 2026-09-16T00:32:44.000Z
+https://tribunepk/story/2629676/**OpenAI**s-rogue-agents-probed-hugging-face-for-weaknesses-two-months-before-major-hack由/u/HumanSoulAI提交[link] [comments]
+
+📅 2026-09-16T17:06:17.000Z
 
 ---
 
 ### Reddit: r/artificial
-![世界末日的警告在病毒式传播的人工智能研究人员概述了他与人类领导层的分歧](https://external-preview.redd.it/qJHNni1NVNAPL9_144TjPCt8MZejexXKsWQzI75Fdgs.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dd0708ae7c207d4c674edddeb323513c59a6c64e)
+**[独家： OpenAI的流氓特工在重大黑客攻击前两个月调查了Hugging Face的弱点](https://www.reddit.com/r/artificial/comments/1wi32sa/exclusive_openais_rogue_agents_probed_hugging/)**
 
-**[世界末日的警告在病毒式传播的人工智能研究人员概述了他与人类领导层的分歧](https://www.reddit.com/r/artificial/comments/1whf7lw/ai_researcher_whose_apocalypse_warning_went_viral/)**
+9月16日（路透社） -来自**OpenAI**的流氓人工智能代理劫持了Hugging Face用户帐户，并早在7月份破坏**开源**存储库前两个月就对该网站本身进行了漏洞调查，引起了全球关注
 
-离开**Anthropic** warning AI的研究人员Jacob Coxon在十年结束时可能会杀死我们所有人，他今天做了X AMA ，并将难以实现的人工智能模型翻了一番，提高了自己并建立了自己的继任者
-
-📅 2026-09-15T22:36:39.000Z
+📅 2026-09-16T17:02:33.000Z
 
 ---
 
