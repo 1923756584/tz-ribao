@@ -1,12 +1,12 @@
 ---
 title: "2026年9月17日 - TZ日报"
-date: 2026-09-17T01:09:32.495Z
+date: 2026-09-17T18:53:55.493Z
 draft: false
 ---
 
 # 2026年9月17日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/9/17 01:09:32
+> 📊 今日汇总 38 条 · 🕐 2026/9/17 18:53:55
 
 ---
 
@@ -23,11 +23,11 @@ draft: false
 ## ✨ 产品更新
 
 ### TechCrunch AI Products
-**[您的AI代理现在可以控制您的Google Home设备](https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/)**
+**[Google、Nvidia和Anthropic希望Emerald AI在电网上为更多数据中心寻找空间](https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/)**
 
-谷歌正在为**Google** Home**推出**抢先访问新的MCP服务器，允许像**Claude**这样的人工智能代理
+包括谷歌、英伟达、**Anthropic**和Emerald AI在内的新联盟希望为新数据中心找到100吉瓦的电网容量
 
-📅 Wed, 16 Sep 2026 17:00:00 +0000
+📅 Thu, 17 Sep 2026 13:38:33 +0000
 
 ---
 
@@ -46,33 +46,6 @@ draft: false
 **OpenAI**和AARP正在为10个城市的1,000名老年人提供免费的实践Chat**GPT**研讨会，以安全地培养实用的人工智能技能
 
 📅 Wed, 16 Sep 2026 16:00:00 GMT
-
----
-
-### TechCrunch AI Products
-**[Anthropic和OpenAI希望嵌入安全评估人员。他们真的会独立吗？](https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/)**
-
-**Anthropic**和**OpenAI**希望将独立的安全评估人员嵌入其人工智能实验室研究人员欢迎前所未有的访问，但警告有意义的监督需要透明度、独立性，并最终需要监管
-
-📅 Wed, 16 Sep 2026 21:07:24 +0000
-
----
-
-### TechCrunch AI Products
-**[Anthropic将Claude聊天和Cowork合并在一个界面中](https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/)**
-
-**Anthropic**最初将向Pro和Max套餐订阅者**发布**这些功能。
-
-📅 Wed, 16 Sep 2026 16:30:00 +0000
-
----
-
-### TechCrunch AI Products
-**[机器人正在等待ChatGPT时刻：英伟达的Les Karpas在TechCrunch Disrupt 2026上解释了原因](https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/)**
-
-机器人行业仍在等待他们在日常生活中的**突破**Nvidia的Les Karpas对TechCrunch Disrupt 2026的原因有了答案
-
-📅 Wed, 16 Sep 2026 15:00:00 +0000
 
 ---
 
@@ -112,108 +85,139 @@ draft: false
 
 ---
 
+### Google AI Blog
+![谷歌人工智能和经济图谱的新见解](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ATLAS-hero.max-600x600.format-webp.webp)
+
+**[谷歌人工智能和经济图谱的新见解](https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/)**
+
+我们已将ATLAS的数百万个全球数据点转化为交互式的开放访问体验。
+
+📅 Tue, 15 Sep 2026 13:00:00 +0000
+
+---
+
+### Google AI Blog
+![观看宇航员克里斯蒂娜·科赫（ Christina Koch ）和谷歌的詹姆斯·曼尼卡（ James Manyika ）](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues_Christina-Koch_social.max-600x600.format-webp.webp)
+
+**[观看宇航员克里斯蒂娜·科赫（ Christina Koch ）和谷歌的詹姆斯·曼尼卡（ James Manyika ）](https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/)**
+
+克里斯蒂娜·科赫（ Christina Koch ）与谷歌研究、实验室、技术和社会高级副总裁詹姆斯·曼尼卡（ James Manyika ）坐下来
+
+📅 Mon, 14 Sep 2026 19:00:00 +0000
+
+---
+
+### DeepMind Blog
+**[隆重推出Gemini 3.8 Live和3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/)**
+
+隆重**推出**Gemini 3.8 Live和3.8 Live Extended Thinking
+
+📅 Tue, 15 Sep 2026 17:05:57 +0000
+
+---
+
 ## 🔬 前沿研究
 
-### ArXiv Natural Language Processing (cs.CL)
-**[大型语言模型中自我报告的原型和行为失败](https://arxiv.org/abs/2609.15998)**
+### ArXiv Machine Learning (cs.LG)
+**[从档案文物中解开算法偏差：大都会博物馆档案中视觉语言模型估值的受控审计](https://arxiv.org/abs/2609.17572)**
 
-15998v1公告类型：新摘要：每个大型语言模型（ LLM ）都有行为特征和道德偏好，无论是通过设计还是作为培训的新兴属性
+17572v1公告类型：新摘要：审核社会偏见的视觉语言模型（ VLM ）需要区分直接算法估值差异与嵌入在存档元数据库中的混杂因素审核对比语言-图像预训练（ CLIP ）模型，使用大都会艺术博物馆开放获取收藏中的历史艺术品元数据（ N = 1 ）
 
-📅 Wed, 16 Sep 2026 00:00:00 -0400
+📅 Thu, 17 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv Multiagent (cs.MA)
+**[客服代表应该住在哪里？用于边缘云连续体的智能AI的能量-记忆表征](https://arxiv.org/abs/2609.18283)**
+
+虽然生物大脑对大约20W的异常适度的代谢功率预算进行了复杂的认知，但当代LLM具有极高的能量和记忆密集型。然而，现有的人工智能生命周期指标仅评估孤立的单模型推断或完全忽略多智能体执行图
+
+📅 Thu, 17 Sep 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[校准，然后路由：对分解LLM服务的已学习请求路由的测量研究](https://arxiv.org/abs/2609.16206)**
+**[对COTQ省级土地覆被产品的系统评估：相对于ESA、ESRI和Google产品的结构一致性、光谱分离性和相对定位](https://arxiv.org/abs/2609.17731)**
 
-16206v1公告类型：新摘要：分解LLM服务位置在单独的GPU池上计算大量预填充和内存大量解码在第三个上，它落后于0
+17731v1公告类型：新摘要：源自Sentinel-2图像的高分辨率土地利用和土地覆盖（ LULC ）产品广泛用于环境监测和土地管理，旨在支持对土地占用和土壤人工化的年度监测
 
-📅 Wed, 16 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[元认知导向：学习科学判断的结构](https://arxiv.org/abs/2609.16245)**
-
-16245v1公告类型：新摘要：远景科学发现要求代理在探索之间交替当前语言模型主要根据科学产品进行培训，并使用结果级信号进行优化
-
-📅 Wed, 16 Sep 2026 00:00:00 -0400
+📅 Thu, 17 Sep 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Natural Language Processing (cs.CL)
-**[函数化：子词标记化的无损函数分解](https://arxiv.org/abs/2609.15991)**
+### ArXiv Machine Learning (cs.LG)
+**[超越静态RAG ：用于商品GPU高效长上下文推理的自适应三度量路由框架](https://arxiv.org/abs/2609.17564)**
 
-15991v1公告类型：新摘要：标准子词标记器要么处理单词的每个正交变体（例如hello对25M参数**GPT**-2比例模型的初步下游评估表明，在这个比例下
+17564v1公告类型：新摘要：在NVIDIA T4 （ 16 GB VRAM ）等商品GPU上部署检索增强生成（ RAG ） ，暴露了我们称之为压缩悖论的实际故障模式：神经提示压缩可以增加键值（ KV ）缓存争用和预处理延迟，超过生成时间节省2分，而无需额外的VRAM或培训成本
 
-📅 Wed, 16 Sep 2026 00:00:00 -0400
-
----
-
-### Science AI
-**[OpenAI突破引发数学“生存危机”](https://www.science.org/content/article/openai-breakthrough-triggers-existential-crisis-math)**
-
-声称的Navier-Stokes解决方案使数学家对人工智能的角色及其对下一代的意义产生了分化
-
-📅 2026-09-15T02:45:00.000Z
+📅 Thu, 17 Sep 2026 00:00:00 -0400
 
 ---
 
-### MIT Tech Research
-**[人工智能产业发生了倒退，现在该怎么办？](https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/)**
+### ArXiv Machine Learning (cs.LG)
+**[Temperon ：三分之一的全职SAM质量](https://arxiv.org/abs/2609.17575)**
 
-这个故事出现在我们的AIT每周通讯《算法》中，您可以先在收件箱中获取这样的故事，请在此处注册
+17575v1公告类型：新摘要：敏锐度感知最小化（ SAM ）使每个培训步骤的成本翻倍分配法转移到**GPT**-2预培训（全SAM质量为-29 ％挂钟）和胶水微调（从不比全职SAM差，仅为其SAM成本的三分之一）
 
-📅 Mon, 14 Sep 2026 17:54:22 +0000
-
----
-
-### MIT Tech Research
-**[人工智能特工向作弊的同事吹响了哨子](https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/)**
-
-在谷歌DeepMind最近进行的一项实验中**首次**看到，这可能对对齐研究人员试图将成群的自主人工智能代理保持在…
-
-📅 Mon, 14 Sep 2026 16:00:00 +0000
+📅 Thu, 17 Sep 2026 00:00:00 -0400
 
 ---
 
-### ArXiv AI (cs.AI)
-**[使用Fisher信息距离的神经架构优化修剪](https://arxiv.org/abs/2609.16129)**
+### ArXiv Machine Learning (cs.LG)
+**[关于物理知情神经网络、神经运算符及其应用的讲座笔记](https://arxiv.org/abs/2609.17638)**
 
-16129v1公告类型：新摘要：引入了一种新的参数修剪方案，该方案源于模型空间中的微分几何距离这种几何图片不仅为人工智能模型提供了最先进的修剪方法
+17638v1公告类型：新摘要：这是博士课程的讲义集\ href {https://www我们讨论最近的主题，如混合模型
 
-📅 Wed, 16 Sep 2026 00:00:00 -0400
+📅 Thu, 17 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv Machine Learning (cs.LG)
+**[反思、修改、重复使用： GUI代理的无培训技能演进](https://arxiv.org/abs/2609.17653)**
+
+EvoSkill-GUI持续改进多个基本模型，无需任何培训我们的代码可在https://github上找到
+
+📅 Thu, 17 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv Computer Vision (cs.CV)
+**[AgenTeeth ：通过工具证据注射在牙科X射线冷冻视觉语言模型中抑制幻觉的模型无关框架](https://arxiv.org/abs/2609.17800)**
+
+17800v1公告类型：新摘要：对于Oral**GPT**-Plus ，视觉语言模型（ VLM ）在很大程度上仍然不可靠，并且可以依赖于学习到的解剖学先验，而不是图像中的证据35%
+
+📅 Thu, 17 Sep 2026 00:00:00 -0400
 
 ---
 
 ## 🌍 行业展望
 
-### The Information Technology
-**[人类是否让克劳德过于人性化而无法控制？](https://www.theinformation.com/articles/anthropic-making-claude-human-control)**
-
-**Anthropic**呼吁放慢人工智能开发速度以保护人类安全，这在新闻周期中占据了主导地位，并引起了**OpenAI**领导者的类似呼吁，称**Anthropic**将其**Claude**模型视为有感知力的方法
-
-📅 2026-09-16T14:02:01.000Z
-
----
-
-### The Information Technology
-**[OpenAI测试赞助商，为ChatGPT广告商添加AI工具](https://www.theinformation.com/briefings/openai-tests-sponsored-agents-adds-ai-tools-chatgpt-advertisers)**
-
-广告商赞助在Chat**GPT**中工作的人工智能代理，此举将使Chat**GPT**广告更接近**Google**和**Meta** Platforms已经提供的内容点击广告的Chat**GPT**用户现在可以开始与人工智能代理对话，询问后续行动
-
-📅 2026-09-16T19:47:41.000Z
-
----
-
 ### The Verge
-![Claude为Gemini带来了自己对文档和幻灯片的看法](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Claude-Docs.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![微软人工智能首席执行官表示，人工智能威胁是真实的，而Anthropic正在使情况变得更糟](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD-Mustafa-Suleyman.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[Claude为Gemini带来了自己对文档和幻灯片的看法](https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides)**
+**[微软人工智能首席执行官表示，人工智能威胁是真实的，而Anthropic正在使情况变得更糟](https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude)**
 
-**Claude**今天将获得一对新工具： Docs和SlidesArtifacts以及**Claude** Design功能也将通过新的单一界面提供
+你最后一次参加节目时，你说**Anthropic**让自己相信**Claude**是有意识的，这太荒谬了。我的意思是，首先要说的是， **Anthropic**在1月份**发布**的宪法是**Claude**的培训手册
 
-📅 2026-09-16T16:30:00.000Z
+📅 2026-09-17T14:00:00.000Z
+
+---
+
+### The Information Technology
+**[在Claude Code、Codex、Gemini CLI和GitHub Copilot中发现了相同的缺陷](https://www.theinformation.com/articles/flaw-found-claude-code-codex-gemini-cli-github-copilot)**
+
+研究人员警告**Anthropic**Google和微软的人工智能编码代理存在对企业构成直接风险的缺陷
+
+📅 2026-09-17T17:32:34.000Z
+
+---
+
+### Wired Technology
+**[人工智能减速辩论使Salesforce的派对崩溃](https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/)**
+
+对于**OpenAI**和英伟达的首席执行官来说， Dreamforce大会不太可能成为争论人工智能开发是否应该放缓的战场
+
+📅 Thu, 17 Sep 2026 18:42:25 +0000
 
 ---
 
@@ -228,15 +232,6 @@ draft: false
 
 ---
 
-### The Information Technology
-**[如何掌握Google Gemini的技术趋势](https://www.theinformation.com/articles/stay-top-tech-trends-google-gemini)**
-
-在人工智能时代尤其如此，供应商竞相**推出**具有新功能的模型**更新**第1步：生成您的技术预测开启新聊天，并提示**Google** **Gemini**为您提供当前技术趋势的总结
-
-📅 2026-09-16T15:36:57.000Z
-
----
-
 ### ZDNet AI
 **[Anthropic将Claude chat和Cowork合并为一个](https://www.zdnet.com/innovation/claude-chat-absorbs-cowork-anthropic/)**
 
@@ -246,84 +241,96 @@ draft: false
 
 ---
 
-### The Verge
-![Snap正在推出一款新的Specs AI工具，即将在iOS和Mac上推出](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-15-at-9.05.55-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### The Information Technology
+**[OpenAI即将解决另一个千禧年奖项数学问题](https://www.theinformation.com/articles/openai-close-solving-another-millennium-prize-math-problem)**
 
-**[Snap正在推出一款新的Specs AI工具，即将在iOS和Mac上推出](https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac)**
+还记得本月早些时候**OpenAI**登陆热水后，数学家指责该公司试图窃取他们的雷声来解决一个超级困难的数学问题，结果发现**OpenAI**接近解决另一个来自千年奖问题的数学问题
 
-它似乎类似于**Meta**的Muse和**Gemini**的SparkSpecs Intelligence等人工智能助手，与Snap的第一副增强现实眼镜Specs一起**推出**
-
-📅 2026-09-16T23:40:00.000Z
+📅 2026-09-17T14:01:35.000Z
 
 ---
 
-### The Verge
-![谷歌现在将让任何人工智能代理运行您的智能家居](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-for-home.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### The Information Technology
+**[华为加快推出AI芯片以挑战英伟达](https://www.theinformation.com/briefings/huawei-speeds-ai-chip-launch-challenge-nvidia)**
 
-**[谷歌现在将让任何人工智能代理运行您的智能家居](https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date)**
+华为技术计划在2027年第一季度**推出**其新的人工智能芯片华为副董事长兼轮值主席王涛周四在上海举行的华为Connect会议上表示，
 
-**Google**正在邀请包括**Claude**和Open Claw在内的第三方代理加入**Google** Home**Google** Home MCP是一项新的集成，允许第三方AI代理控制和监控您的智能家居并代表您采取行动
+📅 2026-09-17T09:05:30.000Z
 
-📅 2026-09-16T17:00:00.000Z
+---
+
+### The Information Technology
+**[美联储加息改变人工智能融资故事](https://www.theinformation.com/articles/fed-hike-changes-ai-funding-story)**
+
+暂时搁置所有关于人工智能安全的论点，包括大型科技公司花费巨资扩展其人工智能数据中心
+
+📅 2026-09-17T00:01:24.000Z
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub New (New AI)
-![🆕 BLINDSPOT ：使用Agentic Systems的LONG Horizon工具的实时基准](https://avatars.githubusercontent.com/u/51985883?v=4)
+### GitHub Active (Python)
+![posthog:: hedgehog: PostHog是构建自动驾驶产品的领先平台。我们的开发人员工具--人工智能可观测性、分析、会话重播、标记、实验、错误跟踪、日志等--捕获代理诊断问题、发现机会和发布修复所需的所有上下文。从Slack、网络、桌面或MCP引导一切。](https://avatars.githubusercontent.com/u/60330232?v=4)
 
-**[🆕 BLINDSPOT ：使用Agentic Systems的LONG Horizon工具的实时基准](https://github.com/sadia-sigma-lab/BLINDSPOT)**
+**[posthog:: hedgehog: PostHog是构建自动驾驶产品的领先平台。我们的开发人员工具--人工智能可观测性、分析、会话重播、标记、实验、错误跟踪、日志等--捕获代理诊断问题、发现机会和发布修复所需的所有上下文。从Slack、网络、桌面或MCP引导一切。](https://github.com/PostHog/posthog)**
 
-⭐ 13 star (新项目) · Python · Live Benchmark for long Horizon tool using Agentic Systems
+我们的开发人员工具– AI observability从Slack、Web、桌面或MCP引导所有内容
 
-📅 2026-09-14T20:03:08Z
+📅 2026-09-17T18:52:54Z
+
+---
+
+### GitHub Active (AI/ML)
+![mlpack: mlpack ：快速、仅标头的C + +机器学习库](https://avatars.githubusercontent.com/u/10216045?v=4)
+
+**[mlpack: mlpack ：快速、仅标头的C + +机器学习库](https://github.com/mlpack/mlpack)**
+
+⭐ 5710星· 1721分支· C + + · mlpack ：快速、仅头部的C + +机器学习库
+
+📅 2026-09-17T18:50:15Z
+
+---
+
+### GitHub Active (AI/ML)
+![h2o4gpu ： H2Oai GPU版](https://avatars.githubusercontent.com/u/1402695?v=4)
+
+**[h2o4gpu ： H2Oai GPU版](https://github.com/h2oai/h2o4gpu)**
+
+⭐ 468星· 96叉· C + + · H2Oai GPU版
+
+📅 2026-09-17T18:49:43Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 anti-sycophancy-prompt ：针对AI sycophancy的系统提示，由42个来源支持，说明为什么模型倾向于与您一致。](https://avatars.githubusercontent.com/u/46148603?v=4)
+![🆕 templatesgrokbot.com ： TemplatesGrokBot.com是一个包含3,000多个现成的Grok Bot模板的库。按任务或职务搜索，在几分钟内在Grokbot中安装任何机器人，并通过MCP将整个目录连接到您的代理。由Jeroen/Nexibeo.com制作，可帮助任何人建立一支完整的人工智能代理团队。](https://avatars.githubusercontent.com/u/330360501?v=4)
 
-**[🆕 anti-sycophancy-prompt ：针对AI sycophancy的系统提示，由42个来源支持，说明为什么模型倾向于与您一致。](https://github.com/talhapythoneer/anti-sycophancy-prompt)**
+**[🆕 templatesgrokbot.com ： TemplatesGrokBot.com是一个包含3,000多个现成的Grok Bot模板的库。按任务或职务搜索，在几分钟内在Grokbot中安装任何机器人，并通过MCP将整个目录连接到您的代理。由Jeroen/Nexibeo.com制作，可帮助任何人建立一支完整的人工智能代理团队。](https://github.com/templatesgrokbot/templatesgrokbot.com)**
 
-⭐ 6 star (新项目) · N/A · A system prompt against AI sycophancy, backed by 42 sources on why models tend to agree with you
+⭐ 51 star (新项目) · N/A · TemplatesGrokBotcom to help anyone build a full team of AI agents for their job
 
-📅 2026-09-16T10:50:11Z
-
----
-
-### GitHub New (New AI)
-![🆕 e-commerce-copy-quality-inspection-agent ： LLM主导的电子商务内容审查，具有基于规则的保障措施、租户隔离的MySQL、Redis工作人员和可审计的发布决策。](https://avatars.githubusercontent.com/u/165786438?v=4)
-
-**[🆕 e-commerce-copy-quality-inspection-agent ： LLM主导的电子商务内容审查，具有基于规则的保障措施、租户隔离的MySQL、Redis工作人员和可审计的发布决策。](https://github.com/xkkkkkkm/e-commerce-copy-quality-inspection-agent)**
-
-⭐ 6 star (新项目) · Python · LLM-led e-commerce content review with rule-based safeguardstenant-isolated MySQL
-
-📅 2026-09-14T02:59:54Z
-
----
-
-### GitHub New (New AI)
-![🆕 HEEH-V1-DICOM-Viewer ： HEEH-V1 (TM) DICOM Viewer ：用于DICOM、NIfTI、体积成像、放射组学、定量分析、实验AI、隐私感知导出和TCIA工作流程的开源Streamlit研究和教育工作站。](https://avatars.githubusercontent.com/u/272276014?v=4)
-
-**[🆕 HEEH-V1-DICOM-Viewer ： HEEH-V1 (TM) DICOM Viewer ：用于DICOM、NIfTI、体积成像、放射组学、定量分析、实验AI、隐私感知导出和TCIA工作流程的开源Streamlit研究和教育工作站。](https://github.com/m39heeh-art/HEEH-V1-DICOM-Viewer)**
-
-⭐ 3 star (新项目) · Python · HEEH-V1(TM) DICOM Viewer: open-source Streamlit research and education workstation for DICOMexperimental AI
-
-📅 2026-09-14T23:45:32Z
+📅 2026-09-17T09:14:16Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-![我运营着一个旅行平台，人工智能代理开始预订比人类更多的航班。](https://preview.redd.it/wr190dye6yph1.png?width=140&amp;height=133&amp;auto=webp&amp;s=bef031d3055f628d1bfba413d405561172b97a95)
+**[微软的人工智能主管和人类学家现在公开不同意人工智能是否应该被设计成看起来像人类。争论比个性更重要。](https://www.reddit.com/r/artificial/comments/1wj2l78/microsofts_ai_chief_and_anthropic_are_now/)**
 
-**[我运营着一个旅行平台，人工智能代理开始预订比人类更多的航班。](https://www.reddit.com/r/artificial/comments/1wiaeum/i_run_a_travel_platform_ai_agents_started_booking/)**
+他的立场： AI模型是序列完成引擎，内部空洞他直接命名了**Anthropic**的宪法文件，指出语言表明**Claude**可能有“一些功能版本的情绪
 
-（对于那些不知道MCP是一个工具的人，你可以添加到**Claude**应用程序，或Chat**GPT**或其他人工智能代理使用服务/网站）不要创造艺术或窃取工作，而是承担无聊的任务，排干生命
+📅 2026-09-17T18:46:47.000Z
 
-📅 2026-09-16T21:27:25.000Z
+---
+
+### Reddit: r/artificial
+**[我可以复制人工智能基准。我仍然无法核实商业索赔。](https://www.reddit.com/r/artificial/comments/1wiwt4y/i_could_reproduce_the_ai_benchmarks_i_still/)**
+
+5%大多数车型： 67没有车型通话策略： **Claude**产品副本： **Gemini**所以“AI运营业务”在技术上隐藏了三种截然不同的机制
+
+📅 2026-09-17T15:15:41.000Z
 
 ---
 
@@ -332,7 +339,7 @@ draft: false
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-09-17T01:08:28.514Z
+📅 2026-09-17T18:52:37.816Z
 
 ---
 
@@ -341,54 +348,43 @@ draft: false
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-09-17T01:08:33.455Z
+📅 2026-09-17T18:52:45.347Z
+
+---
+
+### Hacker News
+**[启动HN ： Skillsync (YC W26) –使AI聊天会话跨座席可移植](https://news.ycombinator.com/item?id=49743049)**
+
+我们看到人们使用Skillsync的一些事情是： -在**Claude** Code之间移动会话-在浏览器**Claude**聊天中思考问题，然后将整个线程交给**Claude** Code或Codex构建
+
+📅 Thu, 17 Sep 2026 16:22:15 +0000
 
 ---
 
 ### Hacker News AI
-**[OpenAI披露六个新的人工智能安全事件](https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure)**
+**[在C #中构建您自己的AI Agent线束](https://devblogs.microsoft.com/dotnet/build-your-own-ai-agent-harness-in-csharp-the-maf-claw-live-series/)**
 
-文章网址： https://wwwcom/2026/09/16/**OpenAI**-testing-safety-incidents-disclosure评论网址： https://**new**s
+文章网址： https://devblogscom/dotnet/build-your-own-ai-agent-harness-in-csharp-the-maf-claw-live-series/评论网址： https://**new**s
 
-📅 Thu, 17 Sep 2026 00:33:03 +0000
-
----
-
-### Hacker News AI
-**[我的网站向人工智能代理收取每页一分钱的费用。我看着克劳德付钱](https://suganthan.com/blog/x402-pay-per-crawl/)**
-
-文章网址： https://suganthancom/blog/x402-pay-per-crawl/评论网址： https://**new**s
-
-📅 Wed, 16 Sep 2026 23:22:56 +0000
-
----
-
-### Hacker News AI
-**[Typesafe.ai Jev开源替代品Qwen-2.5-1B-RLCD](https://huggingface.co/spaces/drinkmoonshine/parallel-constrained-decoding)**
-
-文章网址： https://huggingfaceco/spaces/drinkmoonshine/parallel-constrained-decoding评论网址： https://**new**s
-
-📅 Wed, 16 Sep 2026 23:17:02 +0000
+📅 Thu, 17 Sep 2026 17:47:58 +0000
 
 ---
 
 ### Reddit: r/artificial
-![Nvidia的Jensen Huang表示，我们不需要人工智能监管—将安全问题留给我们](https://external-preview.redd.it/zDSlccJhmRCVu05OAjE7_V591pb8Mm74x8i6saEVc0A.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=aea1f77240c946cc34bdb9d3fec69493b1fe4c4f)
+**[谈论，而不是](https://www.reddit.com/r/artificial/comments/1wiyw76/spoken_about_not_to/)**
 
-**[Nvidia的Jensen Huang表示，我们不需要人工智能监管—将安全问题留给我们](https://www.reddit.com/r/artificial/comments/1wi90nh/we_dont_need_ai_regulation_leave_safety_to_us/)**
+聚合框架（特定某人崩溃到“AI” ） **OpenAI**的模型错位报告框架昨天**发布**（六个就职报告
 
-提交者/u/beingmodest [link] [comments]
-
-📅 2026-09-16T20:35:02.000Z
+📅 2026-09-17T16:32:14.000Z
 
 ---
 
-### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Reddit: r/artificial
+**[讨厌艾是新的元数据吗](https://www.reddit.com/r/artificial/comments/1wixtz5/is_hating_ai_the_new_meta/)**
 
-Title: 520: Web服务器返回未知错误
+我一直在跟进Ai的争议，感觉就像说你使用Ai正在成为喜欢脚的技术等价物我想知道什么是更糟糕的使用和Ai一般来说，或者你是如何使用它的
 
-📅 2026-09-17T01:08:28.514Z
+📅 2026-09-17T15:53:46.000Z
 
 ---
 
