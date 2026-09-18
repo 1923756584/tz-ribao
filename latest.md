@@ -1,12 +1,12 @@
 ---
 title: "2026年9月18日 - TZ日报"
-date: 2026-09-18T01:04:55.500Z
+date: 2026-09-18T18:08:58.315Z
 draft: false
 ---
 
 # 2026年9月18日 - TZ日报
 
-> 📊 今日汇总 37 条 · 🕐 2026/9/18 01:04:55
+> 📊 今日汇总 38 条 · 🕐 2026/9/18 18:08:58
 
 ---
 
@@ -16,11 +16,29 @@ draft: false
 - **前沿研究**: 8 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
-- **社交动态**: 7 条
+- **社交动态**: 8 条
 
 ---
 
 ## ✨ 产品更新
+
+### TechCrunch AI Products
+**[研究人员利用Anthropic的Claude入侵OpenAI](https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/)**
+
+安全研究人员使用**Anthropic**的**Claude**来利用**OpenAI**系统中的漏洞对员工账户进行监控，并在报告漏洞之前访问内部代码存储库
+
+📅 Fri, 18 Sep 2026 14:00:14 +0000
+
+---
+
+### AI News
+**[微软人工智能首席执行官批评Anthropic的模式“权利”](https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/)**
+
+微软人工智能首席执行官穆斯塔法·苏莱曼（ Mustafa Suleyman ）警告说， **Anthropic**通过训练克劳德将自己视为一个有意识的实体，从而冒着人工智能调整失败的风险，克劳德认为自己是一个有意识的实体，应该享有合法权利。他认为，指导序列完成引擎来模仿感知障碍[…]微软人工智能首席执行官批评**Anthropic**关于模型“权利”的帖子首先出现在人工智能新闻上
+
+📅 Wed, 16 Sep 2026 14:47:32 +0000
+
+---
 
 ### OpenAI Blog
 **[帮助老年人在日常生活中使用人工智能](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life)**
@@ -32,20 +50,20 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[OpenAI发现其模型为继任者留下笔记以隐藏不良行为](https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/)**
+**[Dario Amodei和其他人工智能领导者想“加快前沿步伐” ，但……如何做到？](https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/)**
 
-**OpenAI**披露了**GPT**-5的实例，强调随着越来越有能力的AI模型学会隐藏它，检测错位的挑战越来越大
+一位人类学研究人员的末日警告撼动了人工智能世界一周后，该公司首席执行官Dario Amodei概述了他的人工智能发展“前沿”计划
 
-📅 Thu, 17 Sep 2026 20:34:24 +0000
+📅 Fri, 18 Sep 2026 17:09:56 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[微软高管称人工智能抓取是“人类历史上最大的劳动力盗窃案” ，新的未经编辑的文件显示](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/)**
+**[Automattic的33小时政变，人工智能实验室可以自我监管吗？](https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/)**
 
-新近公开的法庭文件显示，微软私下称**OpenAI**的数据做法为“盗窃” ，而两家公司都从中挖掘了付费墙时代内容构建的数据集
+一位人类学研究人员的末日警告撼动了人工智能世界一周后，该公司首席执行官Dario Amodei概述了他的人工智能发展“前沿”计划
 
-📅 Thu, 17 Sep 2026 19:46:08 +0000
+📅 Fri, 18 Sep 2026 17:06:32 +0000
 
 ---
 
@@ -94,121 +112,81 @@ Cooley通过Chat**GPT** Work构建了GO Public ，为IPO流程带来智能，帮
 
 ---
 
-### OpenAI Blog
-**[员工如何开启新的工作方式](https://openai.com/index/unlocking-new-ways-of-working)**
-
-新的**OpenAI**经济研究显示了工人如何在传统角色之外使用人工智能，以及哪些新活动成为他们工作的重复部分
-
-📅 Wed, 16 Sep 2026 09:00:00 GMT
-
----
-
-### Google AI Blog
-![让全球数据更易于探索](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp)
-
-**[让全球数据更易于探索](https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/)**
-
-谷歌和联合国系统**推出**了联合国系统数据共享系统（ UN System Data Commons ） ，这是一个新的开放平台，使全球统计数据可访问且易于搜索
-
-📅 Thu, 17 Sep 2026 20:00:00 +0000
-
----
-
 ## 🔬 前沿研究
 
-### ArXiv Machine Learning (cs.LG)
-**[从档案文物中解开算法偏差：大都会博物馆档案中视觉语言模型估值的受控审计](https://arxiv.org/abs/2609.17572)**
+### ArXiv Natural Language Processing (cs.CL)
+**[用户对生成式人工智能的看法：应用商店评论中信任和摩擦的跨平台NLP分析](https://arxiv.org/abs/2609.19151)**
 
-17572v1公告类型：新摘要：审核社会偏见的视觉语言模型（ VLM ）需要区分直接算法估值差异与嵌入在存档元数据库中的混杂因素审核对比语言-图像预训练（ CLIP ）模型，使用大都会艺术博物馆开放获取收藏中的历史艺术品元数据（ N = 1 ）
+19151v1公告类型：新摘要：生成式人工智能（ GenAI ）应用程序已经实现了快速的消费者采用我们提出了六个主要GenAI应用程序（ Chat**GPT** ）的应用程序商店评论的首批跨应用程序分析之一
 
-📅 Thu, 17 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv Multiagent (cs.MA)
-**[客服代表应该住在哪里？用于边缘云连续体的智能AI的能量-记忆表征](https://arxiv.org/abs/2609.18283)**
-
-虽然生物大脑对大约20W的异常适度的代谢功率预算进行了复杂的认知，但当代LLM具有极高的能量和记忆密集型。然而，现有的人工智能生命周期指标仅评估孤立的单模型推断或完全忽略多智能体执行图
-
-📅 Thu, 17 Sep 2026 00:00:00 -0400
+📅 Fri, 18 Sep 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[对COTQ省级土地覆被产品的系统评估：相对于ESA、ESRI和Google产品的结构一致性、光谱分离性和相对定位](https://arxiv.org/abs/2609.17731)**
+**[通过会话法学硕士代理表征网络搜索：从搜索决策和策略到结果和响应](https://arxiv.org/abs/2609.19244)**
 
-17731v1公告类型：新摘要：源自Sentinel-2图像的高分辨率土地利用和土地覆盖（ LULC ）产品广泛用于环境监测和土地管理，旨在支持对土地占用和土壤人工化的年度监测
+19244v1公告类型：新摘要：会话法学硕士代理越来越依赖网络搜索我们展示了跨四个主要会话平台的网络搜索的**首次**研究（ Chat**GPT**
 
-📅 Thu, 17 Sep 2026 00:00:00 -0400
+📅 Fri, 18 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[BioPhys-Bridge ：基于物理学的生物学研究中跨学科科学推理的基准](https://arxiv.org/abs/2609.19180)**
+
+19180v1公告类型：新摘要：语言模型在分析跨学科科研文献方面面临独特挑战代码和数据可在GitHub存储库和Hugging Face上找到
+
+📅 Fri, 18 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[新古典：中国古典诗歌中语言审美推理评价的基准](https://arxiv.org/abs/2609.19154)**
+
+19154v1公告类型：新摘要：虽然大型语言模型（ LLM ）在已建立的中国古典诗歌基准上实现了高精度我们评估了最先进的模型，包括Qwen3-Max、**Gemini**-3-Pro和**DeepSeek**-V3
+
+📅 Fri, 18 Sep 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Machine Learning (cs.LG)
-**[超越静态RAG ：用于商品GPU高效长上下文推理的自适应三度量路由框架](https://arxiv.org/abs/2609.17564)**
+**[通过分层课程学习实现高效的LLM压缩](https://arxiv.org/abs/2609.19213)**
 
-17564v1公告类型：新摘要：在NVIDIA T4 （ 16 GB VRAM ）等商品GPU上部署检索增强生成（ RAG ） ，暴露了我们称之为压缩悖论的实际故障模式：神经提示压缩可以增加键值（ KV ）缓存争用和预处理延迟，超过生成时间节省2分，而无需额外的VRAM或培训成本
+19213v1公告类型：新摘要：在本文中，我们引入了高效LLM压缩的层次式课程学习在多个数据集上的实验表明，所提出的方法在BERT和**GPT**-2上实现了最先进的性能，同时减少了50 ％以上的GPU内存使用和训练时间
 
-📅 Thu, 17 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[Temperon ：三分之一的全职SAM质量](https://arxiv.org/abs/2609.17575)**
-
-17575v1公告类型：新摘要：敏锐度感知最小化（ SAM ）使每个培训步骤的成本翻倍分配法转移到**GPT**-2预培训（全SAM质量为-29 ％挂钟）和胶水微调（从不比全职SAM差，仅为其SAM成本的三分之一）
-
-📅 Thu, 17 Sep 2026 00:00:00 -0400
+📅 Fri, 18 Sep 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Machine Learning (cs.LG)
-**[关于物理知情神经网络、神经运算符及其应用的讲座笔记](https://arxiv.org/abs/2609.17638)**
+### ArXiv Natural Language Processing (cs.CL)
+**[采样揭示风格：无监督、无需培训在LLM激活中发现提示条件风格轴](https://arxiv.org/abs/2609.19150)**
 
-17638v1公告类型：新摘要：这是博士课程的讲义集\ href {https://www我们讨论最近的主题，如混合模型
+19150v1公告类型：新摘要：大型语言模型（ LLM ）在其隐藏的激活中编码丰富的风格结构
 
-📅 Thu, 17 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[反思、修改、重复使用： GUI代理的无培训技能演进](https://arxiv.org/abs/2609.17653)**
-
-EvoSkill-GUI持续改进多个基本模型，无需任何培训我们的代码可在https://github上找到
-
-📅 Thu, 17 Sep 2026 00:00:00 -0400
+📅 Fri, 18 Sep 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Computer Vision (cs.CV)
-**[AgenTeeth ：通过工具证据注射在牙科X射线冷冻视觉语言模型中抑制幻觉的模型无关框架](https://arxiv.org/abs/2609.17800)**
+### ArXiv Natural Language Processing (cs.CL)
+**[停止删除非索引字：继承的预处理默认值如何扭曲法律文本作为数据](https://arxiv.org/abs/2609.19153)**
 
-17800v1公告类型：新摘要：对于Oral**GPT**-Plus ，视觉语言模型（ VLM ）在很大程度上仍然不可靠，并且可以依赖于学习到的解剖学先验，而不是图像中的证据35%
+19153v1公告类型：新摘要：实证法律学术越来越多地将司法文本视为数据以下三个发现：常用通用非索引字表在每次测试中都低于不删除基线；即使是优化的非索引字表在统计上也无法区分什么都不删除；根据单词级特征训练的元模型无法预测哪些删除会有帮助
 
-📅 Thu, 17 Sep 2026 00:00:00 -0400
+📅 Fri, 18 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[在Human-LLM对话中主动检测用户端隐性冲突](https://arxiv.org/abs/2609.19155)**
+
+19155v1公告类型：新摘要：在Human-LLM中，基于UC-Data训练的对话5-4B优于更大的通用LLM ，如**Claude** Opus 4
+
+📅 Fri, 18 Sep 2026 00:00:00 -0400
 
 ---
 
 ## 🌍 行业展望
-
-### The Verge
-![微软人工智能首席执行官表示，人工智能威胁是真实的，而Anthropic正在使情况变得更糟](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD-Mustafa-Suleyman.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[微软人工智能首席执行官表示，人工智能威胁是真实的，而Anthropic正在使情况变得更糟](https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude)**
-
-你最后一次参加节目时，你说**Anthropic**让自己相信**Claude**是有意识的，这太荒谬了。我的意思是，首先要说的是， **Anthropic**在1月份**发布**的宪法是**Claude**的培训手册
-
-📅 2026-09-17T14:00:00.000Z
-
----
-
-### The Information Technology
-**[在Claude Code、Codex、Gemini CLI和GitHub Copilot中发现了相同的缺陷](https://www.theinformation.com/articles/flaw-found-claude-code-codex-gemini-cli-github-copilot)**
-
-研究人员警告**Anthropic**Google和微软的人工智能编码代理存在对企业构成直接风险的缺陷
-
-📅 2026-09-17T17:32:34.000Z
-
----
 
 ### The Verge
 ![人工智能超级智能减速](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK_414_5_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
@@ -221,12 +199,41 @@ EvoSkill-GUI持续改进多个基本模型，无需任何培训我们的代码�
 
 ---
 
-### Wired Technology
-**[人工智能减速辩论使Salesforce的派对崩溃](https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/)**
+### The Information Technology
+**[人工智能安全推动引发了对看门狗组的需求。批评者怀疑他们的独立性。](https://www.theinformation.com/articles/ai-safety-push-sparks-demand-watchdog-groups-critics-doubt-independence)**
 
-对于**OpenAI**和英伟达的首席执行官来说， Dreamforce大会不太可能成为争论人工智能开发是否应该放缓的战场
+关于人工智能风险的日益严重的警报正在成为人们关注的焦点，一些鲜为人知的研究小组专注于该技术的安全性，并加剧了人们对其有效监控该行业最大公司的能力的质疑。**Anthropic**首席执行官Dario Amodei和**OpenAI**首席执行官Sam Altman最近几天都承诺将此类外部研究组织的评估人员纳入其公司内部，以帮助确保他们以安全的速度开发人工智能
 
-📅 Thu, 17 Sep 2026 18:42:25 +0000
+📅 2026-09-18T13:00:41.000Z
+
+---
+
+### The Information Technology
+**[Bug Hunters使用Claude来破解OpenAI](https://www.theinformation.com/briefings/bug-hunters-used-claude-hack-openai)**
+
+初创公司Hacktron AI的网络安全研究人员团队利用**Anthropic**的**Claude**入侵**OpenAI**获取**OpenAI**软件密钥库的访问权限
+
+📅 2026-09-18T02:37:59.000Z
+
+---
+
+### The Verge
+![安全研究人员利用Claude帮助他们入侵OpenAI](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[安全研究人员利用Claude帮助他们入侵OpenAI](https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist)**
+
+Hacktron的一个由三名独立安全研究人员组成的团队表示，他们使用**Anthropic**的**Claude** Opus 4在不到72小时的时间内入侵了**OpenAI**的员工帐户他们能够访问**OpenAI**的GitHub存储库
+
+📅 2026-09-18T15:30:16.000Z
+
+---
+
+### The Information Technology
+**[使用Google Gemini向非技术受众传达技术主题](https://www.theinformation.com/articles/communicate-technical-topics-non-technical-audience-google-gemini)**
+
+第1步：弄清楚你想说什么你的首席执行官可能不会说“技术” ，但谷歌双子座会，你可以命令双子座生成一个新版本，对设计、语言和叙事流程等元素进行更改
+
+📅 2026-09-18T14:01:39.000Z
 
 ---
 
@@ -248,56 +255,36 @@ EvoSkill-GUI持续改进多个基本模型，无需任何培训我们的代码�
 
 ---
 
-### The Information Technology
-**[《纽约时报》声称，微软高管对OpenAI的数据使用表示担忧](https://www.theinformation.com/briefings/microsoft-execs-voiced-concern-openais-data-use-new-york-times-claims)**
+### MIT Tech Review
+**[人工智能生物武器的幽灵是生物技术的警钟](https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/)**
 
-微软高管近年来表示担心， **OpenAI**使用《纽约时报》和其他出版商的付费文章来训练其模型可能会带来法律问题， **OpenAI**高管讨论了这样做如何威胁到这些出版商的业务，但**OpenAI**继续进行
+上周末， **Anthropic**首席执行官Dario Amodei认为，人工智能带来了严重的风险，应该放缓进展**OpenAI**首席执行官Sam Altman在X上回应道： “我同意Dario的观点，我们需要加快……
 
-📅 2026-09-17T19:22:56.000Z
-
----
-
-### ZDNet AI
-**[Anthropic将Claude chat和Cowork合并为一个](https://www.zdnet.com/innovation/claude-chat-absorbs-cowork-anthropic/)**
-
-**Anthropic**将**Claude** chat和Cowork合并为一个
-
-📅 2026-09-16T16:30:44.000Z
+📅 Fri, 18 Sep 2026 09:00:00 +0000
 
 ---
 
 ## 📦 GitHub热门
-
-### GitHub Active (AI/ML)
-![texera ：使用可视化工作流程的人工智能协作数据科学](https://avatars.githubusercontent.com/u/47359?v=4)
-
-**[texera ：使用可视化工作流程的人工智能协作数据科学](https://github.com/apache/texera)**
-
-⭐ 317星· 188分叉· Scala ·使用可视化工作流的人工智能协作数据科学
-
-📅 2026-09-18T01:03:49Z
-
----
 
 ### GitHub New (New AI)
 ![🆕 templatesgrokbot.com ： TemplatesGrokBot.com是一个包含3,000多个现成的Grok Bot模板的库。按任务或职务搜索，在几分钟内在Grokbot中安装任何机器人，并通过MCP将整个目录连接到您的代理。由Jeroen/Nexibeo.com制作，可帮助任何人建立一支完整的人工智能代理团队。](https://avatars.githubusercontent.com/u/330360501?v=4)
 
 **[🆕 templatesgrokbot.com ： TemplatesGrokBot.com是一个包含3,000多个现成的Grok Bot模板的库。按任务或职务搜索，在几分钟内在Grokbot中安装任何机器人，并通过MCP将整个目录连接到您的代理。由Jeroen/Nexibeo.com制作，可帮助任何人建立一支完整的人工智能代理团队。](https://github.com/templatesgrokbot/templatesgrokbot.com)**
 
-⭐ 51 star (新项目) · N/A · TemplatesGrokBotcom to help anyone build a full team of AI agents for their job
+⭐ 34 star (新项目) · N/A · TemplatesGrokBotcom to help anyone build a full team of AI agents for their job
 
 📅 2026-09-17T09:14:16Z
 
 ---
 
-### GitHub Active (AI/ML)
-![awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
+### GitHub New (New AI)
+![🆕 stack-attention ：从苏黎世联邦理工学院的DuSell等人开始，通过可微分堆栈增强注意力的一系列研究](https://avatars.githubusercontent.com/u/108653?v=4)
 
-**[awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
+**[🆕 stack-attention ：从苏黎世联邦理工学院的DuSell等人开始，通过可微分堆栈增强注意力的一系列研究](https://github.com/lucidrains/stack-attention)**
 
-⭐ 453星· 40分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作流程刷新
+⭐ 9 star (新项目) · N/A · For following a line of research that augments attention with a differentiable stack, beginning with DuSell et alat ETH Zurich
 
-📅 2026-09-18T01:02:39Z
+📅 2026-09-17T17:21:32Z
 
 ---
 
@@ -306,51 +293,49 @@ EvoSkill-GUI持续改进多个基本模型，无需任何培训我们的代码�
 
 **[🆕 anti-sycophancy-prompt ：针对AI sycophancy的系统提示，由42个来源支持，说明为什么模型倾向于与您一致。](https://github.com/talhapythoneer/anti-sycophancy-prompt)**
 
-⭐ 7 star (新项目) · N/A · A system prompt against AI sycophancy, backed by 42 sources on why models tend to agree with you
+⭐ 9 star (新项目) · N/A · A system prompt against AI sycophancy, backed by 42 sources on why models tend to agree with you
 
 📅 2026-09-16T10:50:11Z
+
+---
+
+### GitHub New (New AI)
+![🆕 crowdego-hub ：一个长期项目，允许世界各地的个人群体汇集以自我为中心的灵活性演示来完成各种任务，以训练他们自己的大型行为模型](https://avatars.githubusercontent.com/u/108653?v=4)
+
+**[🆕 crowdego-hub ：一个长期项目，允许世界各地的个人群体汇集以自我为中心的灵活性演示来完成各种任务，以训练他们自己的大型行为模型](https://github.com/lucidrains/crowdego-hub)**
+
+⭐ 3 star (新项目) · Python · A long term project that will allow for groups of individuals around the world to pool egocentric dexterity demonstrations for various tasksfor training their own large behavioral models
+
+📅 2026-09-16T14:59:34Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[微软的人工智能主管和人类学家现在公开不同意人工智能是否应该被设计成看起来像人类。争论比个性更重要。](https://www.reddit.com/r/artificial/comments/1wj2l78/microsofts_ai_chief_and_anthropic_are_now/)**
+**[实际上，整个人工智能行业都希望放缓……为什么特朗普没有加入？](https://www.reddit.com/r/artificial/comments/1wju3dl/practically_the_entire_ai_industry_wants_a/)**
 
-他的立场： AI模型是序列完成引擎，内部空洞他直接命名了**Anthropic**的宪法文件，指出语言表明**Claude**可能有“一些功能版本的情绪
+使用员工登录访问专有**OpenAI**数据的**Claude**机器人**OpenAI**模型在培训中重写自己的指令（授予其几乎可以做任何事情的能力）
 
-📅 2026-09-17T18:46:47.000Z
+📅 2026-09-18T15:56:23.000Z
+
+---
+
+### Reddit: r/MachineLearning
+**[哪些研究将LLM互动与单向分享和自我完善隔离开来[D]](https://www.reddit.com/r/MachineLearning/comments/1wjm0rx/what_studies_isolate_backandforth_llm_interaction/)**
+
+AI辅助：该方案是使用Chat**GPT**和**Claude**进行开发和批评的当前状态： **GPT**-4
+
+📅 2026-09-18T10:01:58.000Z
 
 ---
 
 ### Hacker News AI
-**[Anthropic表示， Claude现在领导着四分之一的工作，构建其下一个人工智能模型](https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/anthropic-says-claude-now-leads-quarter-work-building-its-next-ai-models)**
+**[特朗普称人工智能害怕恶作剧。在白宫内部，辩论更加复杂](https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html)**
 
-文章网址： https://wwwsg/companies-markets/telcos-media-tech/**Anthropic**-says-**Claude**-now-leads-quarter-work building-its-next-ai-models评论网址： https://**new**s
+com/2026/09/18/us/politics/trump-ai-safety-**Anthropic**-**OpenAI**-chinahtml评论网址： https://**new**s
 
-📅 Fri, 18 Sep 2026 00:22:35 +0000
-
----
-
-### Reddit: r/artificial
-![您对人工智能的成瘾或依赖程度如何？](https://external-preview.redd.it/QH-dV6qh_yCnMQS2joopK80I2bVm4nRpybG0blkydPU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=32ce187a1372c293cdc9a3d816de21f492a3ba0b)
-
-**[您对人工智能的成瘾或依赖程度如何？](https://www.reddit.com/r/artificial/comments/1wj6ggl/how_addicted_or_dependent_on_ai_are_you/)**
-
-麻省理工学院媒体实验室和**OpenAI**Source的981名参与者进行为期四周的随机对照试验，用于The Creative Guard原型配置文件中使用的认知主权框架：维护不依赖于人工智能的知识和元认知技能的内部架构
-
-📅 2026-09-17T21:10:31.000Z
-
----
-
-### Reddit: r/artificial
-![GPT-6 ASTRA的99.9% ARC-AGI-3得分实际衡量的是什么](https://external-preview.redd.it/jPurFEy_BA4CC8Rch5xUsugRJpTMyJY9guBrnBon7Jg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8683e538a6ccdb88f51f59fa4cd20535b6a57ac7)
-
-**[GPT-6 ASTRA的99.9% ARC-AGI-3得分实际衡量的是什么](https://www.reddit.com/r/artificial/comments/1wj44au/what_gpt6_astras_999_arcagi3_score_actually/)**
-
-相同的型号，两个线束，相距37分，构建测试的组织不会称之为AGIThen Fortune发现，在**OpenAI**自己的**发布**页面上，还有五个号码悄然发生了变化。
-
-📅 2026-09-17T19:42:57.000Z
+📅 Fri, 18 Sep 2026 17:48:32 +0000
 
 ---
 
@@ -359,7 +344,7 @@ EvoSkill-GUI持续改进多个基本模型，无需任何培训我们的代码�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-09-18T01:03:44.625Z
+📅 2026-09-18T18:07:44.261Z
 
 ---
 
@@ -368,16 +353,36 @@ EvoSkill-GUI持续改进多个基本模型，无需任何培训我们的代码�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-09-18T01:03:51.150Z
+📅 2026-09-18T18:07:50.911Z
 
 ---
 
-### Hacker News
-**[Astra for Law](https://openai.com/index/astra-for-law/)**
+### Hacker News AI
+**[GPT-6 Astra ： 3D、人工智能及其他](https://wentao.live/blog/astra-and-beyond/)**
 
-文章网址： https://**OpenAI**com/index/astra-for-law/评论网址： https://**new**s
+文章网址： https://wentaolive/blog/astra-and-beyond/评论网址： https://**new**s
 
-📅 Thu, 17 Sep 2026 20:17:48 +0000
+📅 Fri, 18 Sep 2026 17:52:25 +0000
+
+---
+
+### Reddit: r/artificial
+![安德鲁·杨（ Andrew Yang ）声称，在OpenAI机器人“松动”后， AI首席执行官实际上同意如此迅速地减速的原因令人担忧](https://external-preview.redd.it/1GdAPkIdbn2MoU_hlK4SqGjOSWFE8WYxcnwiU_-yQmM.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e1161560ea101190676576b89e5bff797b101e26)
+
+**[安德鲁·杨（ Andrew Yang ）声称，在OpenAI机器人“松动”后， AI首席执行官实际上同意如此迅速地减速的原因令人担忧](https://www.reddit.com/r/artificial/comments/1wjvfrk/andrew_yang_alleges_alarming_reason_ai_ceos/)**
+
+提交者/u/ComicSands**new**s [link] [comments]
+
+📅 2026-09-18T16:45:43.000Z
+
+---
+
+### Reddit: r/artificial
+**[有人试图将苍蝇大脑放入人形机器人中吗？谷歌像中国机器人一样飞进大脑？](https://www.reddit.com/r/artificial/comments/1wjtzlu/did_someone_try_to_put_fly_brain_in_humanoid/)**
+
+有人尝试将苍蝇大脑放入人形机器人中吗谷歌像中国机器人一样苍蝇大脑
+
+📅 2026-09-18T15:52:39.000Z
 
 ---
 
