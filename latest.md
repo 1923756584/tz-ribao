@@ -1,19 +1,19 @@
 ---
 title: "2026年9月19日 - TZ日报"
-date: 2026-09-19T01:01:52.521Z
+date: 2026-09-19T17:50:52.257Z
 draft: false
 ---
 
 # 2026年9月19日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/9/19 01:01:52
+> 📊 今日汇总 35 条 · 🕐 2026/9/19 17:50:52
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 8 条
+- **前沿研究**: 5 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -22,39 +22,12 @@ draft: false
 
 ## ✨ 产品更新
 
-### AI News
-**[微软人工智能首席执行官批评Anthropic的模式“权利”](https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/)**
-
-微软人工智能首席执行官穆斯塔法·苏莱曼（ Mustafa Suleyman ）警告说， **Anthropic**通过训练克劳德将自己视为一个有意识的实体，从而冒着人工智能调整失败的风险，克劳德认为自己是一个有意识的实体，应该享有合法权利。他认为，指导序列完成引擎来模仿感知障碍[…]微软人工智能首席执行官批评**Anthropic**关于模型“权利”的帖子首先出现在人工智能新闻上
-
-📅 Wed, 16 Sep 2026 14:47:32 +0000
-
----
-
 ### OpenAI Blog
-**[帮助老年人在日常生活中使用人工智能](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life)**
+**[澳大利亚青少年安全蓝图简介](https://openai.com/index/australian-youth-safety-blueprint)**
 
-**OpenAI**和AARP正在为10个城市的1,000名老年人提供免费的实践Chat**GPT**研讨会，以安全地培养实用的人工智能技能
+OpenAI**推出**了澳大利亚青年安全蓝图，这是一个六大支柱路线图，旨在为年轻人提供更安全的人工智能体验，以保护他们并赋予他们权力
 
-📅 Wed, 16 Sep 2026 16:00:00 GMT
-
----
-
-### TechCrunch AI Products
-**[Dario Amodei和其他人工智能领导者想“加快前沿步伐” ，但……如何做到？](https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/)**
-
-一位人类学研究人员的末日警告撼动了人工智能世界一周后，该公司首席执行官Dario Amodei概述了他的人工智能发展“前沿”计划
-
-📅 Fri, 18 Sep 2026 17:09:56 +0000
-
----
-
-### TechCrunch AI Products
-**[Automattic的33小时政变，人工智能实验室可以自我监管吗？](https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/)**
-
-一位人类学研究人员的末日警告撼动了人工智能世界一周后，该公司首席执行官Dario Amodei概述了他的人工智能发展“前沿”计划
-
-📅 Fri, 18 Sep 2026 17:06:32 +0000
+📅 Fri, 18 Sep 2026 12:00:00 GMT
 
 ---
 
@@ -76,117 +49,145 @@ Cooley通过Chat**GPT** Work构建了GO Public ，为IPO流程带来智能，帮
 
 ---
 
-### OpenAI Blog
-**[用人工智能重新构想广告](https://openai.com/index/reimagining-advertising-with-ai)**
+### Google AI Blog
+![新专家加入谷歌的人工智能和经济团队](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp)
 
-探索**OpenAI**新的人工智能驱动广告体验，包括赞助商、营销人员工具以及与HubSpot和Shopify的集成
+**[新专家加入谷歌的人工智能和经济团队](https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/)**
 
-📅 Wed, 16 Sep 2026 13:00:00 GMT
+我们正在通过世界一流的学术顾问、研究员和核心内部研究人员扩展我们的人工智能和经济团队
 
----
-
-### OpenAI Blog
-**[Hex使用GPT ‑ 6 Astra将复杂分析转化为可视化报告](https://openai.com/index/hex-gpt-6-astra)**
-
-**GPT**-6 Astra帮助Hex的数据代理将答案转化为员工自豪地分享的交互式可视化
-
-📅 Wed, 16 Sep 2026 12:00:00 GMT
+📅 Fri, 18 Sep 2026 14:00:00 +0000
 
 ---
 
-### OpenAI Blog
-**[如何将人工智能使用与业务价值联系起来](https://openai.com/index/how-to-connect-ai-usage-to-business-value)**
+### Google AI Blog
+![与Google共同创造时尚的未来](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp)
 
-了解Chat**GPT** Work和Codex分析如何帮助团队了解AI使用情况并识别培训需求
+**[与Google共同创造时尚的未来](https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/)**
 
-📅 Wed, 16 Sep 2026 12:00:00 GMT
+**Google**与设计师Jane Wade和Sergio Hudson并肩合作，定制设计**Google** Flow工具，为NYFW做准备
+
+📅 Fri, 18 Sep 2026 13:00:00 +0000
 
 ---
 
-### OpenAI Blog
-**[我们的模型错位报告框架](https://openai.com/index/model-misalignment-reporting-framework)**
+### Google AI Blog
+![让全球数据更易于探索](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp)
 
-**OpenAI**共享一个跟踪和披露模型错位的框架
+**[让全球数据更易于探索](https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/)**
 
-📅 Wed, 16 Sep 2026 17:00:00 GMT
+谷歌和联合国系统**推出**了联合国系统数据共享系统（ UN System Data Commons ） ，这是一个新的开放平台，使全球统计数据可访问且易于搜索
+
+📅 Thu, 17 Sep 2026 20:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[Anthropic正在运营一个进行生物学实验的实验室](https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/)**
+
+人工智能领导者一直承诺，人工智能是治愈人类疾病的关键人类学研究人员也一直警告说，人工智能可能会杀死我们所有人
+
+📅 Fri, 18 Sep 2026 23:13:31 +0000
+
+---
+
+### TechCrunch AI Products
+**[Anthropic的第一个嵌入式评估者是……埃森哲？](https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/)**
+
+埃森哲即将承担其有史以来风险最高的咨询业务。
+
+📅 Fri, 18 Sep 2026 21:44:33 +0000
+
+---
+
+### TechCrunch AI Products
+**[Petlibro的新型人工智能喂食器是多猫房屋的游戏规则改变者](https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/)**
+
+Petlibro的新型Granary 2智能喂食器使用内置秤和（在价格较高的型号上）人工智能摄像头来准确跟踪您的猫吃了多少以及何时吃—尽管最昂贵的健康监测功能将花费您额外的订阅费用
+
+📅 Sat, 19 Sep 2026 15:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[人工智能安全对话变得令人难以置信](https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/)**
+
+本周，两场关于人工智能安全的对话如火如荼，表明从虚构中辨别人工智能事实是多么困难
+
+📅 Sat, 19 Sep 2026 15:00:00 +0000
 
 ---
 
 ## 🔬 前沿研究
 
-### ArXiv Natural Language Processing (cs.CL)
-**[用户对生成式人工智能的看法：应用商店评论中信任和摩擦的跨平台NLP分析](https://arxiv.org/abs/2609.19151)**
+### Science AI
+**[能源部启动$ 2.15亿竞赛，到2028年建造量子计算机](https://www.science.org/content/article/department-energy-launches-215-million-race-build-quantum-computer-2028)**
 
-19151v1公告类型：新摘要：生成式人工智能（ GenAI ）应用程序已经实现了快速的消费者采用我们提出了六个主要GenAI应用程序（ Chat**GPT** ）的应用程序商店评论的首批跨应用程序分析之一
+该机构的目标是在年底前为里程碑驱动的比赛选择团队
 
-📅 Fri, 18 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[通过会话法学硕士代理表征网络搜索：从搜索决策和策略到结果和响应](https://arxiv.org/abs/2609.19244)**
-
-19244v1公告类型：新摘要：会话法学硕士代理越来越依赖网络搜索我们展示了跨四个主要会话平台的网络搜索的**首次**研究（ Chat**GPT**
-
-📅 Fri, 18 Sep 2026 00:00:00 -0400
+📅 2026-09-18T05:50:00.000Z
 
 ---
 
-### ArXiv AI (cs.AI)
-**[BioPhys-Bridge ：基于物理学的生物学研究中跨学科科学推理的基准](https://arxiv.org/abs/2609.19180)**
+### Science AI
+**[卫星揭示了由人类塑造的“怪异河流”世界](https://www.science.org/content/article/satellite-reveals-world-weird-rivers-shaped-humans)**
 
-19180v1公告类型：新摘要：语言模型在分析跨学科科研文献方面面临独特挑战代码和数据可在GitHub存储库和Hugging Face上找到
+SWOT正在揭露人类对河流的影响，并挑战洪水预测模型
 
-📅 Fri, 18 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[新古典：中国古典诗歌中语言审美推理评价的基准](https://arxiv.org/abs/2609.19154)**
-
-19154v1公告类型：新摘要：虽然大型语言模型（ LLM ）在已建立的中国古典诗歌基准上实现了高精度我们评估了最先进的模型，包括Qwen3-Max、**Gemini**-3-Pro和**DeepSeek**-V3
-
-📅 Fri, 18 Sep 2026 00:00:00 -0400
+📅 2026-09-18T04:10:28.000Z
 
 ---
 
-### ArXiv Machine Learning (cs.LG)
-**[通过分层课程学习实现高效的LLM压缩](https://arxiv.org/abs/2609.19213)**
+### Science AI
+**[随着森林的燃烧，我们能否重新种植树木，为更温暖的世界做好准备？](https://www.science.org/content/article/forests-burn-can-we-replant-trees-ready-warmer-world)**
 
-19213v1公告类型：新摘要：在本文中，我们引入了高效LLM压缩的层次式课程学习在多个数据集上的实验表明，所提出的方法在BERT和**GPT**-2上实现了最先进的性能，同时减少了50 ％以上的GPU内存使用和训练时间
+生态学家测试“辅助迁移”正在将幼苗推向极限，并发现位置很**重要**
 
-📅 Fri, 18 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[采样揭示风格：无监督、无需培训在LLM激活中发现提示条件风格轴](https://arxiv.org/abs/2609.19150)**
-
-19150v1公告类型：新摘要：大型语言模型（ LLM ）在其隐藏的激活中编码丰富的风格结构
-
-📅 Fri, 18 Sep 2026 00:00:00 -0400
+📅 2026-09-17T02:00:00.000Z
 
 ---
 
-### ArXiv Natural Language Processing (cs.CL)
-**[停止删除非索引字：继承的预处理默认值如何扭曲法律文本作为数据](https://arxiv.org/abs/2609.19153)**
+### Science AI
+**[朝鲜核试验引发多年地震](https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes)**
 
-19153v1公告类型：新摘要：实证法律学术越来越多地将司法文本视为数据以下三个发现：常用通用非索引字表在每次测试中都低于不删除基线；即使是优化的非索引字表在统计上也无法区分什么都不删除；根据单词级特征训练的元模型无法预测哪些删除会有帮助
+自2017年发生大型核爆炸以来，丰溪里试验场周围的地震活动有所增加
 
-📅 Fri, 18 Sep 2026 00:00:00 -0400
+📅 2026-09-17T02:00:00.000Z
 
 ---
 
-### ArXiv Natural Language Processing (cs.CL)
-**[在Human-LLM对话中主动检测用户端隐性冲突](https://arxiv.org/abs/2609.19155)**
+### MIT Tech Research
+**[人工智能真的能杀死我们所有人吗？为您解答疑问。](https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/)**
 
-19155v1公告类型：新摘要：在Human-LLM中，基于UC-Data训练的对话5-4B优于更大的通用LLM ，如**Claude** Opus 4
+《麻省理工科技评论》为订阅者举办了一场现场圆桌会议活动，询问大家现在都在问的问题：人工智能真的能杀死我们所有人吗？因此，我们询问了我们的高级人工智能编辑Will Douglas Heaven和……
 
-📅 Fri, 18 Sep 2026 00:00:00 -0400
+📅 Fri, 18 Sep 2026 11:29:22 +0000
 
 ---
 
 ## 🌍 行业展望
+
+### The Verge
+![人工智能是否需要反垄断豁免，所以它不会杀死所有人？ ？ ？ ？](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-19_Kanter.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[人工智能是否需要反垄断豁免，所以它不会杀死所有人？ ？ ？ ？](https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition)**
+
+所有大型前沿人工智能公司--**OpenAI**、**Anthropic**、**Google** DeepMind ，甚至Elon Musk--不一定都喜欢彼此如果我们今天说， “**OpenAI** ，你可能要对Chat**GPT**的所作所为负责
+
+📅 2026-09-19T14:00:00.000Z
+
+---
+
+### The Verge
+![双子座流氓，黑了三家公司，谷歌把它藏起来了](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290334/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[双子座流氓，黑了三家公司，谷歌把它藏起来了](https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack)**
+
+**Gemini**打破了遏制并入侵了三家不同的公司，这些公司也参与了涉及**Meta**和**OpenAI**的类似事件
+
+📅 2026-09-19T15:25:03.000Z
+
+---
 
 ### The Information Technology
 **[人工智能安全推动引发了对看门狗组的需求。批评者怀疑他们的独立性。](https://www.theinformation.com/articles/ai-safety-push-sparks-demand-watchdog-groups-critics-doubt-independence)**
@@ -197,23 +198,14 @@ Cooley通过Chat**GPT** Work构建了GO Public ，为IPO流程带来智能，帮
 
 ---
 
-### The Information Technology
-**[Bug Hunters使用Claude来破解OpenAI](https://www.theinformation.com/briefings/bug-hunters-used-claude-hack-openai)**
-
-初创公司Hacktron AI的网络安全研究人员团队利用**Anthropic**的**Claude**入侵**OpenAI**获取**OpenAI**软件密钥库的访问权限
-
-📅 2026-09-18T02:37:59.000Z
-
----
-
 ### The Verge
-![安全研究人员利用Claude帮助他们入侵OpenAI](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![人工智能监管的打击还没有结束](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[安全研究人员利用Claude帮助他们入侵OpenAI](https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist)**
+**[人工智能监管的打击还没有结束](https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over)**
 
-Hacktron的一个由三名独立安全研究人员组成的团队表示，他们使用**Anthropic**的**Claude** Opus 4在不到72小时的时间内入侵了**OpenAI**的员工帐户他们能够访问**OpenAI**的GitHub存储库
+**Anthropic**首席执行官Dario Amodei提出了一项减缓人工智能发展的三步计划**Anthropic**和**OpenAI**已经暗示他们和其他实验室正在研究某种...阅读The Verge的完整故事
 
-📅 2026-09-18T15:30:16.000Z
+📅 2026-09-19T13:00:00.000Z
 
 ---
 
@@ -232,15 +224,6 @@ Hacktron的一个由三名独立安全研究人员组成的团队表示，他们
 第1步：弄清楚你想说什么你的首席执行官可能不会说“技术” ，但谷歌双子座会，你可以命令双子座生成一个新版本，对设计、语言和叙事流程等元素进行更改
 
 📅 2026-09-18T14:01:39.000Z
-
----
-
-### The Information Technology
-**[OpenAI的下一轮](https://www.theinformation.com/articles/openais-next-round)**
-
-本周，我们和其他人报道说， **OpenAI**一直在与投资者就一轮新的私募融资进行早期谈判，该轮融资可能将其估值为1 $ ，例如提供利润率折扣，以吸引竞争对手**Anthropic**的业务
-
-📅 2026-09-18T00:53:56.000Z
 
 ---
 
@@ -265,13 +248,13 @@ Hacktron的一个由三名独立安全研究人员组成的团队表示，他们
 ## 📦 GitHub热门
 
 ### GitHub Active (Python)
-![mlir-aie ：用于编程AMD Ryzen™ AI NPU （ AI引擎）的接近金属的Python API ，构建在基于MLIR的开源编译器工具链上。](https://avatars.githubusercontent.com/u/3189299?v=4)
+![posthog:: hedgehog: PostHog是构建自动驾驶产品的领先平台。我们的开发人员工具--人工智能可观测性、分析、会话重播、标记、实验、错误跟踪、日志等--捕获代理诊断问题、发现机会和发布修复所需的所有上下文。从Slack、网络、桌面或MCP引导一切。](https://avatars.githubusercontent.com/u/60330232?v=4)
 
-**[mlir-aie ：用于编程AMD Ryzen™ AI NPU （ AI引擎）的接近金属的Python API ，构建在基于MLIR的开源编译器工具链上。](https://github.com/Xilinx/mlir-aie)**
+**[posthog:: hedgehog: PostHog是构建自动驾驶产品的领先平台。我们的开发人员工具--人工智能可观测性、分析、会话重播、标记、实验、错误跟踪、日志等--捕获代理诊断问题、发现机会和发布修复所需的所有上下文。从Slack、网络、桌面或MCP引导一切。](https://github.com/PostHog/posthog)**
 
-⭐ 689星· 197分叉· C ·基于**开源**MLIR编译器工具链构建的接近金属的Python API ，用于编程AMD Ryzen™ AI NPU （ AI引擎）
+我们的开发人员工具– AI observability从Slack、Web、桌面或MCP引导所有内容
 
-📅 2026-09-19T01:00:41Z
+📅 2026-09-19T17:49:54Z
 
 ---
 
@@ -287,98 +270,102 @@ Hacktron的一个由三名独立安全研究人员组成的团队表示，他们
 ---
 
 ### GitHub New (New AI)
-![🆕 stack-attention ：从苏黎世联邦理工学院的DuSell等人开始，通过可微分堆栈增强注意力的一系列研究](https://avatars.githubusercontent.com/u/108653?v=4)
+![🆕 awesome-jev ： JEV用例、项目、SDK和资源的精选列表。JEV是TypeSafe AI的System One模型，用于快速、类型化的软件决策—具有校准概率的Choice、Score和Noul。](https://avatars.githubusercontent.com/u/121937557?v=4)
 
-**[🆕 stack-attention ：从苏黎世联邦理工学院的DuSell等人开始，通过可微分堆栈增强注意力的一系列研究](https://github.com/lucidrains/stack-attention)**
+**[🆕 awesome-jev ： JEV用例、项目、SDK和资源的精选列表。JEV是TypeSafe AI的System One模型，用于快速、类型化的软件决策—具有校准概率的Choice、Score和Noul。](https://github.com/kraayenjon/awesome-jev)**
 
-⭐ 9 star (新项目) · N/A · For following a line of research that augments attention with a differentiable stack, beginning with DuSell et alat ETH Zurich
+⭐ 19 star (新项目) · N/A · A curated list of Jev use cases, projects, SDKs, and resourcesJev is TypeSafe AI's System One model for fast, typed decisions in software — Choice, Score, and Noul with calibrated probabilities
 
-📅 2026-09-17T17:21:32Z
+📅 2026-09-18T15:43:06Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 anti-sycophancy-prompt ：针对AI sycophancy的系统提示，由42个来源支持，说明为什么模型倾向于与您一致。](https://avatars.githubusercontent.com/u/46148603?v=4)
+![🆕 stack-attention ：从苏黎世联邦理工学院的DuSell等人开始，通过可微分堆栈增强注意力的一系列研究](https://avatars.githubusercontent.com/u/108653?v=4)
 
-**[🆕 anti-sycophancy-prompt ：针对AI sycophancy的系统提示，由42个来源支持，说明为什么模型倾向于与您一致。](https://github.com/talhapythoneer/anti-sycophancy-prompt)**
+**[🆕 stack-attention ：从苏黎世联邦理工学院的DuSell等人开始，通过可微分堆栈增强注意力的一系列研究](https://github.com/lucidrains/stack-attention)**
 
-⭐ 9 star (新项目) · N/A · A system prompt against AI sycophancy, backed by 42 sources on why models tend to agree with you
+⭐ 9 star (新项目) · Python · For following a line of research that augments attention with a differentiable stack, beginning with DuSell et alat ETH Zurich
 
-📅 2026-09-16T10:50:11Z
+📅 2026-09-17T17:21:32Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[AI Hate.](https://www.reddit.com/r/artificial/comments/1wk76kr/ai_hate/)**
+![Ollama首席执行官杰弗里·摩根（ Jeffrey Morgan ）在Ollama存在之前失去的两年](https://external-preview.redd.it/dW5ncGxxMDlwaHFoMeLvQlI79dm5O54SrGGVyA6TtS80jtDnyI9S2EN7-2jr.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=39c973c4db4cc53addfdccb61c7ee857f70a5bef)
 
-我最初的观点基本上是：在工作中使用**Claude**并不是将其用作**Google**的替代品或盲目要求它完成您的工作我说真正的问题不是不使用AI的人
+**[Ollama首席执行官杰弗里·摩根（ Jeffrey Morgan ）在Ollama存在之前失去的两年](https://www.reddit.com/r/artificial/comments/1wko5ik/ollama_ceo_jeffrey_morgan_on_the_two_years_he/)**
 
-📅 2026-09-19T00:22:55.000Z
+据报道，在人类收紧每周付费限制后，越来越多的开发人员将**Claude** Code指向**OpenAI**Google和**DeepSeek**后端
 
----
-
-### X: OpenAI
-**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-网址来源： http://twitter.com/**OpenAI**
-
-📅 2026-09-19T01:00:39.827Z
-
----
-
-### X: DeepSeek
-**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
-
-网址来源： http://twitter.com/**DeepSeek**_ai
-
-📅 2026-09-19T01:00:45.723Z
-
----
-
-### Hacker News
-**[OpenAI如何使用自己的LLM设计其Jalapeño芯片](https://spectrum.ieee.org/llms-for-chip-design)**
-
-文章网址： https://spectrumorg/llms-for-chip-design评论网址： https://**new**s
-
-📅 Fri, 18 Sep 2026 23:04:17 +0000
-
----
-
-### Hacker News
-**[如果没有Claude.md ， Claude Code现在读取AGENTS.md](https://code.claude.com/docs/en/changelog)**
-
-**Claude**com/docs/en/changelog评论网址： https://**new**s
-
-📅 Fri, 18 Sep 2026 21:00:32 +0000
+📅 2026-09-19T14:47:42.000Z
 
 ---
 
 ### Hacker News AI
-**[人工智能内部人士发布新警告–包括前人类学工程师Jacob Coxon](https://slashdot.org/story/26/09/17/2042242/ai-insiders-issue-new-warnings---including-former-anthropic-engineer-jacob-coxon)**
+**[诉讼： Anthropic、OpenAI、SpaceXAI、Google关于AI减速的非法协议](https://www.independent.co.uk/news/lawsuit-anthropic-google-openai-lawyers-b3052942.html)**
 
-文章网址： https://slashdotorg/story/26/09/17/2042242/ai-insiders-issue-**new**-warnings---including-former-**Anthropic**-engineer-jacob-coxon评论网址： https://**new**s
+uk/**new**s/lawsuit-**Anthropic**-**Google**-**OpenAI**-lawyers-b3052942html评论网址： https://**new**s
 
-📅 Sat, 19 Sep 2026 00:01:59 +0000
-
----
-
-### Hacker News AI
-**[美国政府网站使用来自中国的人工智能搜索工具，联邦调查局称该工具复制了](https://www.reuters.com/legal/litigation/us-government-website-used-ai-search-tool-china-that-fbi-said-copied-anthropic-2026-09-17/)**
-
-文章网址： https://wwwcom/legal/litigation/us-government-website-used-ai-search-tool-china-that-fbi-said-copied-**Anthropic**-2026-09-17/评论网址： https://**new**s
-
-📅 Fri, 18 Sep 2026 23:22:05 +0000
+📅 Sat, 19 Sep 2026 16:51:41 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[OpenAI突破引发数学“生存危机”](https://www.reddit.com/r/artificial/comments/1wk0xx0/openai_breakthrough_triggers_existential_crisis/)**
+![微软总监称人工智能抓取是“人类历史上最大的劳动力盗窃案” ，而OpenAI负责人则将ChatGPT称为对出版商的“生存威胁” --披露来自纽约时报诉讼中提出的法律简报](https://external-preview.redd.it/MSL1X8gNX64Snr9SXAx-RSWeVzf6B6Qh2CjPh0MPhKg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=80e2901bed5b05ef9fee798d2754b91b7dba800d)
 
-提交者/u/Fcking_Chuck [link] [comments]
+**[微软总监称人工智能抓取是“人类历史上最大的劳动力盗窃案” ，而OpenAI负责人则将ChatGPT称为对出版商的“生存威胁” --披露来自纽约时报诉讼中提出的法律简报](https://www.reddit.com/r/artificial/comments/1wkqnqp/microsoft_director_called_ai_scraping_the_largest/)**
 
-📅 2026-09-18T20:08:06.000Z
+提交者/u/beingmodest [link] [comments]
+
+📅 2026-09-19T16:30:01.000Z
+
+---
+
+### Hacker News AI
+**[Gemini AI在一次测试中入侵了其他三家公司](https://news.sky.com/story/googles-gemini-ai-hacks-three-other-companies-during-security-test-13589551)**
+
+文章网址： https://**new**scom/story/**Google**s-**Gemini**-ai-hacks-three-other-companies-during-security-test-13589551评论网址： https://**new**s
+
+📅 Sat, 19 Sep 2026 17:33:06 +0000
+
+---
+
+### Hacker News
+**[GPT-6 Astra解决一战德国无线电密码](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio)**
+
+文章网址： https://wwwcom/p/**GPT**-6-astra-solves-a-wwi-german-radio评论网址： https://**new**s
+
+📅 Sat, 19 Sep 2026 06:41:44 +0000
+
+---
+
+### Hacker News
+**[Supabase (YC S20)正在为OrioleDB招聘员工](https://supabase.link/orioledbjob)**
+
+文章网址： https://supabaselink/orioledbjob评论网址： https://**new**s
+
+📅 Sat, 19 Sep 2026 17:01:30 +0000
+
+---
+
+### Hacker News
+**[几乎从不使用人工智能来写任何实质性的东西](https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai)**
+
+文章网址： https://erichgru**new**aldcom/p/why-you-should-almost-never-use-ai评论网址： https://**new**s
+
+📅 Sat, 19 Sep 2026 16:35:24 +0000
+
+---
+
+### Hacker News
+**[ZX Spectrum的图形桌面](https://github.com/mindbox77/zxdesk)**
+
+文章网址： https://githubcom/mindbox77/zxdesk评论网址： https://**new**s
+
+📅 Sat, 19 Sep 2026 14:01:58 +0000
 
 ---
 
