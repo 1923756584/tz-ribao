@@ -1,12 +1,12 @@
 ---
 title: "2026年9月22日 - TZ日报"
-date: 2026-09-22T01:47:39.700Z
+date: 2026-09-22T18:34:32.516Z
 draft: false
 ---
 
 # 2026年9月22日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/9/22 01:47:39
+> 📊 今日汇总 38 条 · 🕐 2026/9/22 18:34:32
 
 ---
 
@@ -23,29 +23,38 @@ draft: false
 ## ✨ 产品更新
 
 ### TechCrunch AI Products
-**[Meta的Muse正在超越ChatGPT的早期移动发布](https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/)**
+**[OpenAI推出GPT-6 Sol和Luna ，成本更低，错误更少](https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/)**
 
-根据Appfigures的最新估计， **Meta**的新人工智能代理Muse在Uand Canada的下载量和日活跃用户数超过了Chat**GPT**在移动**首次**亮相后的同期。
+**OpenAI**正在**推出**两款新型号，据说是从与Astra相同的布料上剪下来的。
 
-📅 Mon, 21 Sep 2026 19:19:21 +0000
+📅 Tue, 22 Sep 2026 18:00:00 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[Google的$ 899 Googlebook是您为Gemini购买新笔记本电脑的赌注](https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/)**
+**[每个创始人都应该在TechCrunch Disrupt 2026议程上举办五次人工智能安全会议](https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/)**
 
-**Google**的AI原生**Google**book将**Gemini**与光标、听写、小部件和桌面体验的其他部分联系起来
+aI Stage和Real World AI Stage的五场会议涵盖了来自**Anthropic**的AI安全领导者
 
-📅 Mon, 21 Sep 2026 14:39:22 +0000
+📅 Tue, 22 Sep 2026 15:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[Nscale的IPO将再次测试华尔街对集中人工智能押注的兴趣](https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/)**
+
+这家英国人工智能数据中心开发商的大部分收入依赖于科技巨头微软和**Anthropic**
+
+📅 Tue, 22 Sep 2026 12:23:05 +0000
 
 ---
 
 ### OpenAI Blog
-**[数学和人工智能咨询小组](https://openai.com/index/advisory-group-on-mathematics-and-ai)**
+**[有效第三方评估的优先事项和原则](https://openai.com/index/priorities-principles-third-party-assessments)**
 
-**OpenAI**正在与一个独立的数学和人工智能咨询小组合作，以指导对新兴人工智能结果的审查和沟通
+**OpenAI**概述了对前沿模型和保障措施进行严格、安全和独立的第三方人工智能安全评估的优先事项和原则
 
-📅 Mon, 21 Sep 2026 12:00:00 GMT
+📅 Tue, 22 Sep 2026 00:00:00 GMT
 
 ---
 
@@ -53,6 +62,15 @@ draft: false
 **[希格斯菲尔德人工智能通过GPT-6 Astra在一天内推出新的视频功能](https://openai.com/index/higgsfield-from-prompt-to-production-with-astra)**
 
 借助**GPT**-6 Astra ， Higgsfield AI使小型企业的视频广告创作更轻松，并将新的创意工具更快地推向市场
+
+📅 Mon, 21 Sep 2026 12:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[数学和人工智能咨询小组](https://openai.com/index/advisory-group-on-mathematics-and-ai)**
+
+**OpenAI**正在与一个独立的数学和人工智能咨询小组合作，以指导对新兴人工智能结果的审查和沟通
 
 📅 Mon, 21 Sep 2026 12:00:00 GMT
 
@@ -86,185 +104,178 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[OpenAI forms math advisory group as its AI resolves more than 100 open problems](https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/)**
+**[Anthropic以更低的价格和寓言级的表现发布Opus 5.5](https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/)**
 
-该小组不会有放慢或重定向**OpenAI**正在进行的数学研究的余地。
+**Anthropic**称之为“迄今为止我们测试过的表现**最强**的模型”。
 
-📅 Mon, 21 Sep 2026 20:15:58 +0000
-
----
-
-### TechCrunch AI Products
-**[Meta的AI代理已被阻止使用Amazon.com](https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/)**
-
-亚马逊拥有自己的基础模型群，以及互联网上最受欢迎的推理平台之一只要他们没有法律义务向Muse敞开大门，他们为什么要
-
-📅 Mon, 21 Sep 2026 17:55:18 +0000
-
----
-
-### TechCrunch AI Products
-**[从首批用户到数十亿用户：谷歌的Robby Stein加入TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/)**
-
-从首批用户到数十亿用户：谷歌的Robby Stein加入了TechCrunch Disrupt 2026Lean ，参加此次Builders Stage会议
-
-📅 Mon, 21 Sep 2026 14:30:00 +0000
+📅 Tue, 22 Sep 2026 16:30:07 +0000
 
 ---
 
 ## 🔬 前沿研究
 
+### MIT Tech Research
+**[不要被这个夏天的人工智能炒作所愚弄 ](https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/)**
+
+4月底， **Anthropic**声称其模型**Claude** Mythos比大多数安全专家更擅长发现软件漏洞，此后**Anthropic** （自豪地）和**Meta** （不情愿地）披露了涉及其模型的类似事件
+
+📅 Tue, 22 Sep 2026 11:04:51 +0000
+
+---
+
 ### ArXiv AI (cs.AI)
-**[Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake](https://arxiv.org/abs/2609.21149)**
+**[以临床医生为基础的人工智能辅助精神病摄入质量保证](https://arxiv.org/abs/2609.21149)**
 
 21149v1公告类型：新摘要：在患者可以使用人工智能辅助精神病摄入系统之前与基于**GPT**的LLM摄入面试官相比，在25分钟的评估中进行了6名临床医生的试点
 
-📅 Mon, 21 Sep 2026 00:00:00 -0400
+📅 Tue, 22 Sep 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Machine Learning (cs.LG)
-**[量子模型是否能像LLM一样扩展？](https://arxiv.org/abs/2609.20912)**
+**[等级可移植性并不意味着可行性可移植性：联合硬件约束的目标特定评估](https://arxiv.org/abs/2609.22122)**
 
-20912v1公告类型：新摘要：在这项工作中，我们研究了Rydberg**GPT**的神经缩放规律
+22122v1公告类型：新摘要：跨设备硬件评估通常假设如果架构排名跨设备转移然后我们在跨13个HW-**GPT**-Bench设备的10,000个**GPT**架构上复制该现象
 
-📅 Mon, 21 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv Computer Vision (cs.CV)
-**[MemeTAG ：通过标签嵌入重构进行关键字驱动的模因分类](https://arxiv.org/abs/2609.20962)**
-
-20962v1公告类型：新摘要：有害互联网模因的扩散构成**重大**社会威胁，我们利用预先训练的视觉语言模型生成一组描述性关键词
-
-📅 Mon, 21 Sep 2026 00:00:00 -0400
+📅 Tue, 22 Sep 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Computer Vision (cs.CV)
-**[MarsFM ：用于火星浮雕估计的阴影-正则化流量匹配](https://arxiv.org/abs/2609.21095)**
+**[Moonworks Lunara ：艺术智能建模](https://arxiv.org/abs/2609.22272)**
 
-21095v1公告类型：新摘要：我们呈现MarsFMco/datasets/SuperComputer/mars_hirise_dtm_processed-6aa9b66ba461e07f ；代码： https://github
+一种新的训练算法通过信息丰富的样本采集和有针对性地注入人类创建的artOn GenEval来迭代演化数据分布， Lunara实现了与更广泛的16个模型（包括**GPT** Image 2和Seedream 4 ）的竞争性能
 
-📅 Mon, 21 Sep 2026 00:00:00 -0400
+📅 Tue, 22 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv Computer Vision (cs.CV)
+**[性能与一致性：评估肺RADS筛查中的基础模型](https://arxiv.org/abs/2609.22281)**
+
+22281v1公告类型：新摘要：基础模型最近在广泛的医学成像任务中展示了强大的能力-源自**Gemini**的医学通用基础模型及其适用于肺癌检测和诊断的微调版本
+
+📅 Tue, 22 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[识别、模拟和拒绝： LLM代理经典心理效应的污染意识研究](https://arxiv.org/abs/2609.22090)**
+
+22090v1公告类型：新摘要：产生与人类心理效应相关的响应模式的LLM与具有**GPT**-oss-120B上命名的偏差3 ％的LLM的说法不同）
+
+📅 Tue, 22 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv Robotics (cs.RO)
+**[ORDER ：领域自适应人工智能的虚拟世界基准](https://arxiv.org/abs/2609.22285)**
+
+22285v1公告类型：新摘要：通过持续的预训练使语言模型适应新领域提出了一个基本的评估问题：如果训练语料库与模型已知的离线模型重叠，则优于**GPT**-4
+
+📅 Tue, 22 Sep 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Multiagent (cs.MA)
-**[Loopjacking ：劫持Human-in-the-Loop批准](https://arxiv.org/abs/2609.21081)**
+**[基于飞机的多智能体系统的分层贝叶斯优化](https://arxiv.org/abs/2609.22130)**
 
-我们称此绑定Loopjacking失败：人类批准他们所理解的操作A**OpenAI** Agents SDK 0
+22130v1公告类型： CROSS摘要：开发创新的系统架构越来越依赖于先进的建模和优化技术来构建架构过程并定义相应的计算问题这项工作引入了一个分层的贝叶斯优化框架，该框架利用高斯过程元建模来处理离散的架构选择
 
-📅 Mon, 21 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv Multiagent (cs.MA)
-**[The Mechanics of a Swarm: A Reproducible External Reconstruction of an Unintended Agent-Coordination Episode on a Third-Party Wiki](https://arxiv.org/abs/2609.12748)**
-
-**OpenAI**承认了这一事件；独立研究人员对其进行了重建，并在一个问题链上**发布**了wiki的存档修订历史和异构时间表，为信息不对称创造了大量机会：项目的第一份报告在后来队列自己到达之前的中位数为3
-
-📅 Mon, 21 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv Multiagent (cs.MA)
-**[分层内存架构克服了长视野多智能体计算建模中的上下文限制](https://arxiv.org/abs/2607.07666)**
-
-07666v4公告类型：替换交叉摘要：大型语言模型（ LLM ）展示出非凡的推理能力使用开放权重模型（ **DeepSeek**-V4-Flash/Pro、Llama 3 ）进行复制
-
-📅 Mon, 21 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models](https://arxiv.org/abs/2609.20971)**
-
-20971v1公告类型：新摘要：长上下文大语言模型推断越来越受到prefill的限制在密集的Qwen3-32B模型上，获得88
-
-📅 Mon, 21 Sep 2026 00:00:00 -0400
+📅 Tue, 22 Sep 2026 00:00:00 -0400
 
 ---
 
 ## 🌍 行业展望
 
 ### The Verge
-![Can John Ternus find Apple’s next big thing?](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/JohnTernus_Decoder.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![Andreessen Horowitz正在推出一个“学院” ，没有家庭作业，并与Palantir ， Google和Meta合作](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK483_EDUCATION_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[Can John Ternus find Apple’s next big thing?](https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone)**
+**[Andreessen Horowitz正在推出一个“学院” ，没有家庭作业，并与Palantir ， Google和Meta合作](https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy)**
 
-这是苹果新任首席执行官约翰·特纳斯（ John Ternus ）在不到两周前接任前首席执行官蒂姆·库克（ Tim Cook ）以来的**首次**重大产品**发布**。我没有看到任何证据表明他们希望开始向**Meta**、**Google**、**Anthropic**或**OpenAI**的人工智能研究人员提供巨额薪酬待遇。
+“Horowitz Andreessen Academy”将与**OpenAI**首席执行官Sam Altman等10家合作伙伴共同**推出**
 
-📅 2026-09-21T14:00:00.000Z
-
----
-
-### The Information Technology
-**[Meta的Muse试图（和失败）颠覆亚马逊](https://www.theinformation.com/articles/metas-muse-tries-and-fails-disrupt-amazon)**
-
-亚马逊阻止**Meta** Platforms的新Muse个人代理访问其购物网站”他可能是对的：而亚马逊此前曾在没有戏剧性的情况下阻止谷歌和**OpenAI**购物机器人
-
-📅 2026-09-22T00:00:41.000Z
+📅 2026-09-22T16:34:08.000Z
 
 ---
 
 ### The Information Technology
-**[OpenAI开发功能来对抗Grok Bot ，考虑对Meta的Muse的响应](https://www.theinformation.com/articles/openai-develops-features-counter-grok-bot-mulls-response-metas-muse)**
+**[软件公司为人工智能提供折扣，让客户远离人性化的OpenAI](https://www.theinformation.com/articles/software-firms-discount-ai-keep-customers-anthropic-openai)**
 
-**OpenAI**开创了可以代表人们接管网络浏览器和其他应用程序的人工智能，其Chat**GPT**应用程序为消费者带来了生成式人工智能**OpenAI**将通过Codex和Chat**GPT**重新利用和重塑其已经提供的一些现有“代理”技术
+Figma和Workday正在向因价格变动而疲惫不堪的客户和咨询合作伙伴提供人工智能产品的新折扣特别优惠的**推出**，因为客户在增加了**Anthropic**的**Claude** Code和**OpenAI**的Codex等产品的预算并削减了其他成本以证明新支出的合理性后，他们对购买哪些工具的选择更加明确
 
-📅 2026-09-21T14:30:40.000Z
-
----
-
-### The Information Technology
-**[人工智能的真实成本：不可预测的代币经济学调查](https://www.theinformation.com/articles/real-cost-ai-survey-unpredictable-token-economics)**
-
-人工智能打破了这一模式打包的人工智能应用程序和助手，如Chat**GPT**或Microsoft Copilot ，也主要按席位购买
-
-📅 2026-09-21T16:04:42.000Z
-
----
-
-### The Information Technology
-**[OpenAI和人类接近达成协议，对彼此的人工智能进行压力测试](https://www.theinformation.com/articles/openai-anthropic-neared-deal-stress-test-others-ai)**
-
-**OpenAI**正在重新思考一系列安全策略，因为它回应了员工和其他人对其人工智能带来的危险的担忧，即使在涉及**OpenAI**技术的网络安全事件频发和行业工人发出可怕警告之前
-
-📅 2026-09-21T13:55:09.000Z
-
----
-
-### Ars Technica
-**[谷歌确认双子座模型在2026年5月入侵了三家公司](https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/)**
-
-一家第三方网络安全公司不小心让实验性的**Gemini**模型访问互联网
-
-📅 Mon, 21 Sep 2026 16:57:26 +0000
+📅 2026-09-22T13:01:01.000Z
 
 ---
 
 ### The Verge
-![一起购买Xbox手柄和$ 50 Xbox礼品卡，只需$ 80](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xboxcontroller.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![Anthropic推出Claude Opus 5.5 ，为网络安全提供更严格的保障措施](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[一起购买Xbox手柄和$ 50 Xbox礼品卡，只需$ 80](https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale)**
+**[Anthropic推出Claude Opus 5.5 ，为网络安全提供更严格的保障措施](https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity)**
 
-**new**egg将**推出**一个捆绑包，其中包括微软的无线Xbox控制器（黑色）和一张价值$ 50的数字Xbox礼品卡，价格为$ 80it ，包括一年免费使用**Google** AI Pro
+**Anthropic**表示，其新的**Claude** Opus 5是**Anthropic**在首席执行官Dario Amodei宣布计划“加快前沿步伐”或减缓人工智能开发之后**发布**的第一款车型
 
-📅 2026-09-21T15:13:32.000Z
+📅 2026-09-22T16:30:00.000Z
 
 ---
 
 ### The Information Technology
-**[报告称， SB Energy在IPO中面临投资者怀疑](https://www.theinformation.com/briefings/sb-energy-faces-investor-skepticism-ipo-report-says)**
+**[中国探测DeepSeek ，月球探测器将潜在的数据泄露给人类](https://www.theinformation.com/articles/china-probes-deepseek-moonshot-potential-data-leaks-anthropic)**
 
-据《纽约时报》周一报道， SB Energy的**首次**公开募股面临投资者的怀疑，这家软银控股公司计划在公开募股中筹集50亿至70亿美元，以帮助开发一个庞大的数据中心综合体**OpenAI**计划租赁
+中国的互联网监管机构正在调查**DeepSeek**和**Moonshot** AI ，此前**Anthropic**指控两家公司将敏感用户数据路由到**Claude**模型10 ， **Anthropic**详细介绍了七家中国公司如何大规模非法使用**Claude**
 
-📅 2026-09-21T23:20:25.000Z
+📅 2026-09-22T11:18:07.000Z
+
+---
+
+### The Information Technology
+**[OpenAI宣布推出更便宜的GPT-6系列型号](https://www.theinformation.com/briefings/openai-announces-cheaper-gpt-6-family-models)**
+
+**OpenAI**周二宣布**推出**GPT-6 Sol和**GPT**-6 Luna ，称其为**GPT**-6 Astra系列中更便宜、更快的型号。该公司表示，与其前身**GPT**-5相比，新型号显示出显着的改进。
+
+📅 2026-09-22T18:00:45.000Z
+
+---
+
+### The Information Technology
+**[新数据显示， Anthropic、OpenAI和其他新贵正在蚕食软件预算](https://www.theinformation.com/articles/new-data-show-anthropic-openai-upstarts-eating-software-budgets)**
+
+几个月来，我们一直在报道公司如何将一些传统软件支出转移到**Anthropic**和**OpenAI**AI提供商，如**OpenAI**
+
+📅 2026-09-22T17:38:28.000Z
+
+---
+
+### The Information Technology
+**[独家： Meta的Muse首周用户数突破50万](https://www.theinformation.com/briefings/exclusive-metas-muse-surpassed-500-000-users-first-week)**
+
+**Meta**全新个人AI智能体**上线**约一周后千人试用
+
+📅 2026-09-22T17:49:21.000Z
+
+---
+
+### Ars Technica
+**[Muse ， Meta的超级特权AI助手，有一个严肃的0天](https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/)**
+
+简单的ClickFix攻击只是完全劫持新代理的一种方法。
+
+📅 Mon, 21 Sep 2026 22:24:38 +0000
 
 ---
 
 ## 📦 GitHub热门
+
+### GitHub Active (AI/ML)
+![vowpal_wabbit ： Vowpal Wabbit是一个机器学习系统，通过在线、哈希、allreduce、约简、learning2search、主动和交互式学习等技术推动机器学习的前沿。](https://avatars.githubusercontent.com/u/43754238?v=4)
+
+**[vowpal_wabbit ： Vowpal Wabbit是一个机器学习系统，通过在线、哈希、allreduce、约简、learning2search、主动和交互式学习等技术推动机器学习的前沿。](https://github.com/VowpalWabbit/vowpal_wabbit)**
+
+721星· 1921叉· C + + · Vowpal Wabbit是一个机器学习系统，通过在线和交互式学习等技术推动机器学习的前沿
+
+📅 2026-09-22T18:33:14Z
+
+---
 
 ### GitHub New (New AI)
 ![🆕 JevSwiftSDK ：适用于TypeSafe Jev的独立、类型安全的Swift SDK ，具有异步/等待、批处理、重试和SPM支持。](https://avatars.githubusercontent.com/u/895162?v=4)
@@ -278,113 +289,100 @@ draft: false
 ---
 
 ### GitHub New (New AI)
-![🆕 neo.js ： neo.js是一个用vanila （纯） JavaScript从头开始编写的人工神经网络库。](https://avatars.githubusercontent.com/u/40243913?v=4)
-
-**[🆕 neo.js ： neo.js是一个用vanila （纯） JavaScript从头开始编写的人工神经网络库。](https://github.com/nirmalpaul383/neo.js)**
-
-⭐ 4 star (新项目) · JavaScript · neojs is an artificial neural network library written from scratch in vanila (pure) JavaScript
-
-📅 2026-09-19T19:56:56Z
-
----
-
-### GitHub New (New AI)
 ![🆕 Jayce ：自适应原型记忆：以反向支撑为基准的小型原型学习者，以及向当地LLM学习的聊天演示。](https://avatars.githubusercontent.com/u/331345437?v=4)
 
 **[🆕 Jayce ：自适应原型记忆：以反向支撑为基准的小型原型学习者，以及向当地LLM学习的聊天演示。](https://github.com/Loophole-LLC/Jayce)**
 
-⭐ 4 star (新项目) · Python · Adaptive Prototype Memory: a small prototype learner benchmarked against backpropplus a chat demo where it learns from a local LLM
+⭐ 5 star (新项目) · Python · Adaptive Prototype Memory: a small prototype learner benchmarked against backpropplus a chat demo where it learns from a local LLM
 
 📅 2026-09-19T18:07:05Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 Aletheia-Artificial-Scientific-Intelligence ：人工科学推理、验证、假设生成和可重复研究的实验框架。](https://avatars.githubusercontent.com/u/99894760?v=4)
+![🆕 PistonDecompiler ：使用Ghidra、Rust、gRPC-Web和TanStack工作台的持续AI辅助二进制分析。](https://avatars.githubusercontent.com/u/40795980?v=4)
 
-**[🆕 Aletheia-Artificial-Scientific-Intelligence ：人工科学推理、验证、假设生成和可重复研究的实验框架。](https://github.com/Nagisanyan/Aletheia-Artificial-Scientific-Intelligence)**
+**[🆕 PistonDecompiler ：使用Ghidra、Rust、gRPC-Web和TanStack工作台的持续AI辅助二进制分析。](https://github.com/AlexProgrammerDE/PistonDecompiler)**
 
-⭐ 2 star (新项目) · Python · Experimental framework for artificial scientific reasoning, verification, hypothesis generation, and reproducible research
+⭐ 4 star (新项目) · Rust · Persistent AI-assisted binary analysis with Ghidra, Rust, gRPC-Web, and a TanStack workbench
 
-📅 2026-09-20T01:57:05Z
+📅 2026-09-19T21:00:57Z
 
 ---
 
 ## 💬 社交动态
 
-### Reddit: r/artificial
-**[自动强化学习应该会吓到你](https://www.reddit.com/r/artificial/comments/1wmlr8e/automated_reinforcement_learning_should_scare_you/)**
+### Hacker News
+**[GPT-6 Sol和Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)**
 
-在模型能够生成高质量、连贯的文本后，使用RL对其进行进一步训练您是否从Chat**GPT**或**Claude**那里收到过“您最喜欢哪个回复”的消息
+文章网址： https://**OpenAI**com/index/introducing-**GPT**-6-sol-and-luna/评论网址： https://**new**s
 
-📅 2026-09-21T18:52:21.000Z
-
----
-
-### Reddit: r/artificial
-![Benchmarks Grok 4.7、GPT 6 Astra Fable 4.1和DeepSeek V4.1 Flash](https://preview.redd.it/dkmp7pnucxqh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=93d24f3a5d21ff437b2f377ca22072e6144f27f0)
-
-**[Benchmarks Grok 4.7、GPT 6 Astra Fable 4.1和DeepSeek V4.1 Flash](https://www.reddit.com/r/artificial/comments/1wmmpmx/benchmarks_grok_47_gpt_6_astra_fable_41_and/)**
-
-最新模型的基准，认为会公布，因为全面的基准需要时间来查找，并且/u/HealthySkeptic2000可以有偏见地提交来自实验室的个别报告[link] [comments]
-
-📅 2026-09-21T19:26:20.000Z
-
----
-
-### Reddit: r/artificial
-**[“减缓人工智能”实际上是什么意思？](https://www.reddit.com/r/artificial/comments/1wmj6nr/what_does_slowing_down_ai_actually_mean/)**
-
-**Anthropic**的首席执行官一直在呼吁该行业放缓开发能力日益增强的人工智能模型，以便有更多的时间进行安全和评估，但现在据报道， **Anthropic**正在考虑另一种新模型，因为它面临来自**OpenAI**的日益增长的压力
-
-📅 2026-09-21T17:21:08.000Z
+📅 Tue, 22 Sep 2026 18:00:34 +0000
 
 ---
 
 ### Hacker News
-**[Claude Status – Elevated errors for multiple models](https://status.claude.com/incidents/7g1qpkyz5gxh)**
+**[启动HN ：承保猫（ YC S22 ） –通过您的个人代理投保伞式保险](https://www.coveragecat.com/)**
 
-**Claude**com/incidents/7g1qpkyz5gxh评论网址： https://**new**s
+Max曾是谷歌/微软/Two Sigma项目经理， Gabriel在创业公司工作了十多年我们的方法有三个主要组成部分：第一
 
-📅 Tue, 22 Sep 2026 01:05:19 +0000
+📅 Tue, 22 Sep 2026 17:26:36 +0000
 
 ---
 
-### Hacker News AI
-**[How Google is drafting AI chatbot laws around the country](https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google)**
+### Hacker News
+**[克劳德作品5.5](https://www.anthropic.com/claude-opus-5-5)**
 
-文章网址： https://wwworg/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-**Google**评论网址： https://**new**s
+文章网址： https://wwwcom/**Claude**-opus-5-5评论网址： https://**new**s
 
-📅 Tue, 22 Sep 2026 00:26:02 +0000
+📅 Tue, 22 Sep 2026 16:29:05 +0000
 
 ---
 
 ### Reddit: r/artificial
-![Amazon blocks Meta's Muse personal assistant](https://external-preview.redd.it/AcWk44WGrtt2-8ow3HeZ45zhwMQUEIkUFPa6KNdUoiY.png?width=140&amp;height=78&amp;auto=webp&amp;s=1de7b1250458863b1e18e822f3c9f9d6070bd240)
+![Cognition的工程师不再手工编写代码—他们是唯一一个评定代码是否有效的人](https://external-preview.redd.it/cXF2dTJ0MmFrMXJoMdrvTXffkQycz8nS-qTFPkQoZ3zWLAKpF5-hSU6yumww.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4eafce249e8bfc8ff2bd8e9099e9441d47f22058)
 
-**[Amazon blocks Meta's Muse personal assistant](https://www.reddit.com/r/artificial/comments/1wmqzcz/amazon_blocks_metas_muse_personal_assistant/)**
+**[Cognition的工程师不再手工编写代码—他们是唯一一个评定代码是否有效的人](https://www.reddit.com/r/artificial/comments/1wn4spv/cognitions_engineers_dont_write_code_by_hand/)**
 
-现在， **Meta**正在为每个人提供个人代理，这正在快速改变现状亚马逊已禁止**Meta**的Muse个人助理
+原因不是模型编写了糟糕的代码，而是没有人在释放代理商之前建立了审计跟踪**Anthropic**上周也在自己身上进行了同样的自我评分： **Claude**现在“领导”了**Anthropic**自己26%的研发
 
-📅 2026-09-21T22:04:40.000Z
+📅 2026-09-22T09:35:26.000Z
+
+---
+
+### X: OpenAI
+**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+网址来源： http://twitter.com/**OpenAI**
+
+📅 2026-09-22T18:33:17.019Z
+
+---
+
+### X: DeepSeek
+**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+
+网址来源： http://twitter.com/**DeepSeek**_ai
+
+📅 2026-09-22T18:33:21.843Z
 
 ---
 
 ### Hacker News
-**[期待Git 2.56 –和3.0](https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/)**
+**[Claude Opus 5.5智能、性能和价格分析（ MAX ）](https://artificialanalysis.ai/models/claude-opus-5-5)**
 
-文章网址： https://lwnnet/SubscriberLink/1094575/2385e98583715c2b/评论网址： https://**new**s
+文章网址： https://artificialanalysisai/models/**Claude**-opus-5-5评论网址： https://**new**s
 
-📅 Mon, 21 Sep 2026 23:16:51 +0000
+📅 Tue, 22 Sep 2026 16:51:31 +0000
 
 ---
 
 ### Hacker News
-**[Spymarks ，而不是水印](https://brand.io/article/spymarks/)**
+**[显示HN ： AI · rete · RAG – Rete规则引擎决定， RAG解释原因](https://ai-rete-rag.com/)**
 
-文章网址： https://brandio/article/spymarks/评论网址： https://**new**s
+还有一个MCP服务器，因此**Claude**和其他代理可以作为工具调用/决定： `uvx ai-rete-rag-mcp' com/zaharajabeen13-create/ai-rete-rag-mcp ） ；引擎和平台目前尚未**开源**
 
-📅 Mon, 21 Sep 2026 23:03:49 +0000
+📅 Tue, 22 Sep 2026 16:15:06 +0000
 
 ---
 
