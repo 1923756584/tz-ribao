@@ -1,12 +1,12 @@
 ---
 title: "2026年9月23日 - TZ日报"
-date: 2026-09-23T01:18:36.208Z
+date: 2026-09-23T18:55:22.037Z
 draft: false
 ---
 
 # 2026年9月23日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/9/23 01:18:36
+> 📊 今日汇总 38 条 · 🕐 2026/9/23 18:55:22
 
 ---
 
@@ -22,21 +22,48 @@ draft: false
 
 ## ✨ 产品更新
 
-### TechCrunch AI Products
-**[OpenAI推出GPT-6 Sol和Luna ，成本更低，错误更少](https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/)**
+### OpenAI Blog
+**[Ringg的AI代理通过OpenAI解决高达65%的客户呼叫](https://openai.com/index/ringg)**
 
-**OpenAI**正在**推出**两款新型号，据说是从与Astra相同的布料上剪下来的。
+使用**GPT**-5**GPT**-4
 
-📅 Tue, 22 Sep 2026 18:00:00 +0000
+📅 Thu, 24 Sep 2026 12:00:00 GMT
 
 ---
 
 ### TechCrunch AI Products
-**[每个创始人都应该在TechCrunch Disrupt 2026议程上举办五次人工智能安全会议](https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/)**
+**[随着人工智能开始蚕食企业软件和服务， Ema筹集了7700万$](https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/)**
 
-aI Stage和Real World AI Stage的五场会议涵盖了来自**Anthropic**的AI安全领导者
+到目前为止， Ema已经筹集了1.4亿美元($ 1.4亿美元) ，拥有50多家企业客户，包括谷歌和微软
 
-📅 Tue, 22 Sep 2026 15:00:00 +0000
+📅 Wed, 23 Sep 2026 12:00:00 +0000
+
+---
+
+### OpenAI Blog
+**[两年的OpenAI学院](https://openai.com/index/two-years-of-openai-academy)**
+
+标志着**OpenAI**学院成立两年，并将人工智能技能带给更多社区。
+
+📅 Wed, 23 Sep 2026 16:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[OpenAI将网络访问扩展到乌克兰用于民防](https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense)**
+
+**OpenAI**正在将其Daybreak计划的访问权限扩展到乌克兰政府，以支持民用基础设施的网络防御
+
+📅 Wed, 23 Sep 2026 13:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[Grab和OpenAI为东南亚带来实用的人工智能技能](https://openai.com/index/grab-openai-ai-skills-southeast-asia)**
+
+**OpenAI**和Grab**推出**GO Forward with AI ，这是一项区域计划，帮助3万个合作伙伴在东南亚建立实用的人工智能技能
+
+📅 Wed, 23 Sep 2026 00:00:00 GMT
 
 ---
 
@@ -77,38 +104,11 @@ aI Stage和Real World AI Stage的五场会议涵盖了来自**Anthropic**的AI�
 ---
 
 ### OpenAI Blog
-**[希格斯菲尔德人工智能通过GPT-6 Astra在一天内推出新的视频功能](https://openai.com/index/higgsfield-from-prompt-to-production-with-astra)**
-
-借助**GPT**-6 Astra ， Higgsfield AI使小型企业的视频广告创作更轻松，并将新的创意工具更快地推向市场
-
-📅 Mon, 21 Sep 2026 12:00:00 GMT
-
----
-
-### OpenAI Blog
 **[数学和人工智能咨询小组](https://openai.com/index/advisory-group-on-mathematics-and-ai)**
 
 **OpenAI**正在与一个独立的数学和人工智能咨询小组合作，以指导对新兴人工智能结果的审查和沟通
 
 📅 Mon, 21 Sep 2026 12:00:00 GMT
-
----
-
-### OpenAI Blog
-**[为下一阶段的人工智能构建标准](https://openai.com/index/building-standards-next-phase-ai)**
-
-**OpenAI**概述了通往共享全球人工智能标准的道路，呼吁协调评估、报告和治理，以提高安全性
-
-📅 Mon, 21 Sep 2026 10:00:00 GMT
-
----
-
-### OpenAI Blog
-**[用新的学习路径扩展OpenAI学院](https://openai.com/index/expanding-openai-academy-with-new-learning-paths)**
-
-为员工、开发人员、领导者、教育工作者和学生探索新的**OpenAI**学院学习路径，以构建和展示实用的人工智能技能
-
-📅 Mon, 21 Sep 2026 07:00:00 GMT
 
 ---
 
@@ -124,94 +124,103 @@ aI Stage和Real World AI Stage的五场会议涵盖了来自**Anthropic**的AI�
 ---
 
 ### ArXiv AI (cs.AI)
-**[以临床医生为基础的人工智能辅助精神病摄入质量保证](https://arxiv.org/abs/2609.21149)**
+**[托管LLM中没有持久性的复制：行动时间信念评估中的测量灵敏度](https://arxiv.org/abs/2609.22478)**
 
-21149v1公告类型：新摘要：在患者可以使用人工智能辅助精神病摄入系统之前与基于**GPT**的LLM摄入面试官相比，在25分钟的评估中进行了6名临床医生的试点
+22478v1公告类型：新摘要：托管语言模型的行为评估可能会有所不同，因为评估的服务激励通过测试标识符明确索引托管模型行为声明
 
-📅 Tue, 22 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[等级可移植性并不意味着可行性可移植性：联合硬件约束的目标特定评估](https://arxiv.org/abs/2609.22122)**
-
-22122v1公告类型：新摘要：跨设备硬件评估通常假设如果架构排名跨设备转移然后我们在跨13个HW-**GPT**-Bench设备的10,000个**GPT**架构上复制该现象
-
-📅 Tue, 22 Sep 2026 00:00:00 -0400
+📅 Wed, 23 Sep 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Computer Vision (cs.CV)
-**[Moonworks Lunara ：艺术智能建模](https://arxiv.org/abs/2609.22272)**
+### ArXiv AI (cs.AI)
+**[IntLawNER ：命名实体识别数据集和国际法基准](https://arxiv.org/abs/2609.22529)**
 
-一种新的训练算法通过信息丰富的样本采集和有针对性地注入人类创建的artOn GenEval来迭代演化数据分布， Lunara实现了与更广泛的16个模型（包括**GPT** Image 2和Seedream 4 ）的竞争性能
+22529v1公告类型：新摘要：国际法提供了国家协调行动的规范框架精心挑选的几个例子，证明标签对比度改善了每个LLM ，而不是零点提示， **Claude** Opus 4
 
-📅 Tue, 22 Sep 2026 00:00:00 -0400
+📅 Wed, 23 Sep 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Computer Vision (cs.CV)
-**[性能与一致性：评估肺RADS筛查中的基础模型](https://arxiv.org/abs/2609.22281)**
+**[标尺： SVG生成实例感知评分细则表奖励](https://arxiv.org/abs/2609.25270)**
 
-22281v1公告类型：新摘要：基础模型最近在广泛的医学成像任务中展示了强大的能力-源自**Gemini**的医学通用基础模型及其适用于肺癌检测和诊断的微调版本
+25270v1公告类型：新摘要：从自然语言指令生成可缩放矢量图形（ SVG ）代码是一项开放式任务，没有绝对的视觉真实性项目页面可在https://hangyuran上找到
 
-📅 Tue, 22 Sep 2026 00:00:00 -0400
+📅 Wed, 23 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv Computer Vision (cs.CV)
+**[使用CNN转移学习和可解释的图像统计数据从鞋类外底印象进行性别估计](https://arxiv.org/abs/2609.25386)**
+
+25386v1公告类型：新摘要：鞋类外底印模是法医模式证据的常见形式使用公开的外底印模数据集
+
+📅 Wed, 23 Sep 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Natural Language Processing (cs.CL)
-**[识别、模拟和拒绝： LLM代理经典心理效应的污染意识研究](https://arxiv.org/abs/2609.22090)**
+**[99%的准确度衡量的是什么？广泛使用的假新闻语料库中快捷学习的可重复审计](https://arxiv.org/abs/2609.25006)**
 
-22090v1公告类型：新摘要：产生与人类心理效应相关的响应模式的LLM与具有**GPT**-oss-120B上命名的偏差3 ％的LLM的说法不同）
+25006v1公告类型：新摘要：在ISOT/Kaggle “假真新闻”语料库上训练的文本分类器通常报告准确性， F1高于0首先，基准部分退化：仅给定主题元数据字段的分类器，丢弃文章文本，达到F1 = 1
 
-📅 Tue, 22 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv Robotics (cs.RO)
-**[ORDER ：领域自适应人工智能的虚拟世界基准](https://arxiv.org/abs/2609.22285)**
-
-22285v1公告类型：新摘要：通过持续的预训练使语言模型适应新领域提出了一个基本的评估问题：如果训练语料库与模型已知的离线模型重叠，则优于**GPT**-4
-
-📅 Tue, 22 Sep 2026 00:00:00 -0400
+📅 Wed, 23 Sep 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Multiagent (cs.MA)
-**[基于飞机的多智能体系统的分层贝叶斯优化](https://arxiv.org/abs/2609.22130)**
+**[车队是典范： Fusion-MoA Pioneer R1工程集体智能](https://arxiv.org/abs/2609.26080)**
 
-22130v1公告类型： CROSS摘要：开发创新的系统架构越来越依赖于先进的建模和优化技术来构建架构过程并定义相应的计算问题这项工作引入了一个分层的贝叶斯优化框架，该框架利用高斯过程元建模来处理离散的架构选择
+26080v1公告类型：新摘要：暴露给应用程序的模型不必是单个检查点；它可以是受管理的车队我们提供Fusion-MoA ，这是一个将独立服务的异构单元暴露为一个**OpenAI**兼容模型的运行时
 
-📅 Tue, 22 Sep 2026 00:00:00 -0400
+📅 Wed, 23 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[教学知识还是临床案例？数据类型如何塑造医学大型语言模型](https://arxiv.org/abs/2609.22161)**
+
+22161v1公告类型：新摘要：医学大型语言模型通常在教学数据（例如，患者记录）的混合上进行训练，但这些数据类型如何差异化地塑造模型功能仍不清楚
+
+📅 Wed, 23 Sep 2026 00:00:00 -0400
 
 ---
 
 ## 🌍 行业展望
 
 ### The Information Technology
-**[自减速调用以来， Anthropic在首次发布时发布了更便宜的型号](https://www.theinformation.com/briefings/anthropic-releases-cheaper-model-first-launch-since-slowdown-calls)**
+**[人工智能议程直播： Crusoe和思考机器实验室达成计算协议](https://www.theinformation.com/articles/expect-ai-agenda-live-crusoe-thinking-machines-labs-strike-compute-deal)**
 
-**Anthropic**宣布**推出**其最新车型**Claude** Opus 55 ，称其性能与**Anthropic**之前**最强**大的车型Fable 5相当或更好
+人工智能日程快乐我们的员工和与会者将向**OpenAI**、**Google** DeepMind和Nvidia的顶尖研究人员、创始人和高管提出一些热门问题
 
-📅 2026-09-22T22:51:17.000Z
-
----
-
-### The Information Technology
-**[OpenAI宣布推出更便宜的GPT-6系列型号](https://www.theinformation.com/briefings/openai-announces-cheaper-gpt-6-family-models)**
-
-**OpenAI**周二宣布**推出**GPT-6 Sol和**GPT**-6 Luna ，称其为**GPT**-6 Astra系列中更便宜、更快的型号。该公司表示，与其前身**GPT**-5相比，新型号显示出显着的改进。
-
-📅 2026-09-22T18:00:45.000Z
+📅 2026-09-23T14:01:30.000Z
 
 ---
 
 ### The Information Technology
-**[新数据显示， Anthropic、OpenAI和其他新贵正在蚕食软件预算](https://www.theinformation.com/articles/new-data-show-anthropic-openai-upstarts-eating-software-budgets)**
+**[Anthropic与Apollo支持的开发商就10亿瓦数据中心租赁进行谈判](https://www.theinformation.com/articles/anthropic-talks-cement-control-data-centers)**
 
-几个月来，我们一直在报道公司如何将一些传统软件支出转移到**Anthropic**和**OpenAI**AI提供商，如**OpenAI**
+**Anthropic**正在就从Apollo Global Management持有多数股权的数据中心开发商处租赁高达1千兆瓦的计算能力进行早期谈判，这是该人工智能公司为减少对云提供商的依赖而做出的**重大**努力的一部分
 
-📅 2026-09-22T17:38:28.000Z
+📅 2026-09-23T02:21:47.000Z
+
+---
+
+### The Information Technology
+**[OpenAI与Grab在东南亚的人工智能技能计划合作](https://www.theinformation.com/briefings/openai-partners-grab-southeast-asia-ai-skills-program)**
+
+周三**推出**了一项计划，旨在培训Grab合作车主和派送员使用Chat**GPT**开展工作
+
+📅 2026-09-23T09:21:21.000Z
+
+---
+
+### The Information Technology
+**[Anthropic正在洽谈租赁阿波罗控制的流数据中心](https://www.theinformation.com/briefings/anthropic-talks-lease-apollo-owned-stream-data-centers)**
+
+**Anthropic**正在就从流数据中心租赁高达1千兆瓦的计算能力进行早期谈判，该数据中心可以容纳由博通和谷歌设计的张量处理单元
+
+📅 2026-09-23T04:12:07.000Z
 
 ---
 
@@ -233,156 +242,143 @@ aI Stage和Real World AI Stage的五场会议涵盖了来自**Anthropic**的AI�
 
 ---
 
-### The Information Technology
-**[独家：微软推出人工智能“超级应用” ，提升Copilot折扣](https://www.theinformation.com/briefings/exclusive-microsoft-boost-copilot-discounts-launches-ai-super-app)**
+### The Verge
+![Anthropic的生物实验室发现了它与Crispr相比](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB364_CLAUDE_2_C_96d15c-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-微软的领导者本周告诉销售人员，它正在授权其Copilot AI软件的订阅享受30 ％至50 ％的更高折扣，这些企业客户承诺购买大量座位，并承诺根据其对某些功能的使用情况支付额外费用
+**[Anthropic的生物实验室发现了它与Crispr相比](https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr)**
 
-📅 2026-09-22T23:38:54.000Z
+**Anthropic**表示，其AI **Claude**已经“自主发现”了一种新的酶系统，类似于强大的基因编辑工具Crispr背后的机器。这是**Anthropic**新**推出**的湿实验室的第一个结果，也是该公司准备上市时**Claude**对科学有用性的早期测试。
 
----
-
-### The Information Technology
-**[华尔街的GPU期货推动CFTC停滞不前](https://www.theinformation.com/articles/wall-streets-gpu-futures-push-stalls-cftc)**
-
-Nvidia GPU期货租赁价格的**推出**被认为对于使人工智能计算成为可投资资产类别非常**重要**，但它正受到阻碍CME集团曾希望在10月初尽快**推出**合同，但到那时它将不会得到监管部门的批准
-
-📅 2026-09-22T20:58:49.000Z
+📅 2026-09-23T18:00:00.000Z
 
 ---
 
 ### The Information Technology
-**[独家： Meta的Muse首周用户数突破50万](https://www.theinformation.com/briefings/exclusive-metas-muse-surpassed-500-000-users-first-week)**
+**[创始人基金Khosla Ventures在中国人工智能实力崛起之际访问中国](https://www.theinformation.com/articles/founders-fund-khosla-ventures-visit-china-countrys-ai-prowess-rises)**
 
-**Meta**全新个人AI智能体**上线**约一周后千人试用
+但在幕后，许多人正在花费数周的时间与中国的科技创始人会面，这表明像**DeepSeek**这样的中国初创公司在最热门的科技领域具有影响力
 
-📅 2026-09-22T17:49:21.000Z
+📅 2026-09-23T13:00:42.000Z
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![sWARMS ：企业级多代理编排框架。网站： https://swarms.ai](https://avatars.githubusercontent.com/u/98760976?v=4)
+![catboost ：快速、可扩展、高性能的决策树梯度提升库，用于Python、R、Java、C + +的排名、分类、回归和其他机器学习任务。支持CPU和GPU上的计算。](https://avatars.githubusercontent.com/u/29043415?v=4)
 
-**[sWARMS ：企业级多代理编排框架。网站： https://swarms.ai](https://github.com/kyegomez/swarms)**
+**[catboost ：快速、可扩展、高性能的决策树梯度提升库，用于Python、R、Java、C + +的排名、分类、回归和其他机器学习任务。支持CPU和GPU上的计算。](https://github.com/catboost/catboost)**
 
-⭐ 7195星· 1024叉· Python ·企业级多代理编排框架网站： https://swarms
+115星· 1336分叉· C + + ·快速支持CPU和GPU计算
 
-📅 2026-09-23T01:17:30Z
+📅 2026-09-23T18:54:08Z
+
+---
+
+### GitHub Active (AI/ML)
+![ai-hub-models ： Qualcomm ® AI Hub Models是我们最先进的机器学习模型集合，针对性能（延迟、内存等）进行了优化，可随时部署在Qualcomm ®设备上。](https://avatars.githubusercontent.com/u/55295994?v=4)
+
+**[ai-hub-models ： Qualcomm ® AI Hub Models是我们最先进的机器学习模型集合，针对性能（延迟、内存等）进行了优化，可随时部署在Qualcomm ®设备上。](https://github.com/qualcomm/ai-hub-models)**
+
+218星· 214分叉· Python · Qualcomm ® AI Hub模型是我们最先进的机器学习模型集合，针对性能（延迟）进行了优化，可随时部署在Qualcomm ®设备上
+
+📅 2026-09-23T18:54:00Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 laya-snake ：由Laya （ ModernBERT-large上的非自回归决策模型）提供支持的🐍Autonomous Snake AI ，具有BFS反陷阱寻路和实时网络Web UI。](https://avatars.githubusercontent.com/u/42803787?v=4)
+![🆕 notebooklm-para-concursos: Ecossistema de Engenharia de Estudos com IA Fundamentada (NotebookLM + Gemini Estudantes). Metodologia N.A.G. (Nucleo de Aprendizagem Guiada) com 19提示calibrados, Raio-X estatistico de bancas e Metodo MIT.](https://avatars.githubusercontent.com/u/131480786?v=4)
 
-**[🆕 laya-snake ：由Laya （ ModernBERT-large上的非自回归决策模型）提供支持的🐍Autonomous Snake AI ，具有BFS反陷阱寻路和实时网络Web UI。](https://github.com/zxrneu/laya-snake)**
+**[🆕 notebooklm-para-concursos: Ecossistema de Engenharia de Estudos com IA Fundamentada (NotebookLM + Gemini Estudantes). Metodologia N.A.G. (Nucleo de Aprendizagem Guiada) com 19提示calibrados, Raio-X estatistico de bancas e Metodo MIT.](https://github.com/gilsonnogueira/notebooklm-para-concursos)**
 
-⭐ 2 star (新项目) · Python · 🐍 Autonomous Snake AI powered by Laya (non-autoregressive decision model on ModernBERT-large) with BFS anti-trap pathfinding & real-time cyber Web UI
+⭐ 23 star (新项目) · N/A · Ecossistema de Engenharia de Estudos com IA Fundamentada (NotebookLM + **Gemini** Estudantes)(Nucleo de Aprendizagem Guiada) com 19 Prompts calibrados, Raio-X estatistico de bancas e Metodo MIT
 
-📅 2026-09-21T05:36:34Z
-
----
-
-### GitHub New (New AI)
-![🆕 Aletheia-Artificial-Scientific-Intelligence ：人工科学推理、验证、假设生成和可重复研究的实验框架。](https://avatars.githubusercontent.com/u/99894760?v=4)
-
-**[🆕 Aletheia-Artificial-Scientific-Intelligence ：人工科学推理、验证、假设生成和可重复研究的实验框架。](https://github.com/Nagisanyan/Aletheia-Artificial-Scientific-Intelligence)**
-
-⭐ 2 star (新项目) · Python · Experimental framework for artificial scientific reasoning, verification, hypothesis generation, and reproducible research
-
-📅 2026-09-20T01:57:05Z
+📅 2026-09-21T14:14:12Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 agente-financeiro: Agente de IA que analisa ações, FIIs e criptomoedas e gera relatórios em um dashboard Streamlit.](https://avatars.githubusercontent.com/u/135567282?v=4)
+### GitHub Active (AI/ML)
+![VIAME ：多种环境的视频和图像分析](https://avatars.githubusercontent.com/u/48599248?v=4)
 
-**[🆕 agente-financeiro: Agente de IA que analisa ações, FIIs e criptomoedas e gera relatórios em um dashboard Streamlit.](https://github.com/Guisc89/agente-financeiro)**
+**[VIAME ：多种环境的视频和图像分析](https://github.com/VIAME/VIAME)**
 
-⭐ 1 star (新项目) · Python · Agente de IA que analisa ações, FIIs e criptomoedas e gera relatórios em um dashboard Streamlit
+⭐ 339星· 91叉· Python ·适用于多种环境的视频和图像分析
 
-📅 2026-09-22T02:24:47Z
+📅 2026-09-23T18:53:27Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-![每个代币便宜，每个任务昂贵： AI模型定价与性能[OC]](https://preview.redd.it/lokbgl5xy5rh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=97479e9a5faab08cd9c87329346056ec802750f5)
+**[人工智能情绪严重负面的原因](https://www.reddit.com/r/artificial/comments/1wob62u/a_reason_why_ai_sentiment_is_severely_negative/)**
 
-**[每个代币便宜，每个任务昂贵： AI模型定价与性能[OC]](https://www.reddit.com/r/artificial/comments/1wnr7m1/cheap_per_token_expensive_per_task_ai_model/)**
+**Meta**有Facebook/IG/**Meta**_Glasses ， SpaceXAI有X ， **OpenAI**有reddit/linkedin/Github ， **Google**有**Google**/YouTubeSpaceXAI ， **OpenAI**在几天前暂时停止为他们的模型提供新的互联网数据
 
-Anthropic**发布**Opus 5There ， Chat**GPT**在xhigh上的Astra模型潜入绿色
-
-📅 2026-09-23T00:42:26.000Z
-
----
-
-### X: OpenAI
-**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-网址来源： http://twitter.com/**OpenAI**
-
-📅 2026-09-23T01:17:23.969Z
-
----
-
-### X: DeepSeek
-**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
-
-网址来源： http://twitter.com/**DeepSeek**_ai
-
-📅 2026-09-23T01:17:30.118Z
-
----
-
-### Hacker News
-**[全新CC ，专为家庭打造的人工智能代理](https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/)**
-
-文章网址： https://blog**Google**/innovation-and-ai/models-and-research/**Google**-labs/cc-expanding-to-groups/评论网址： https://**new**s
-
-📅 Tue, 22 Sep 2026 23:46:07 +0000
-
----
-
-### Hacker News
-**[微软在2007年杀死了FoxPro。总之，这里是复活的FoxPro](https://foxscript.org/)**
-
-所以这里是：在新的运行时上使用相同的语言（ RustComments URL ： https://**new**s
-
-📅 Tue, 22 Sep 2026 21:00:30 +0000
+📅 2026-09-23T16:41:50.000Z
 
 ---
 
 ### Reddit: r/artificial
-![哪些型号最赚钱？](https://external-preview.redd.it/FGl2x4Dg3xCcGcuzDY86Z3be5_c1YELMgyR9oEGHoW4.png?width=140&amp;height=73&amp;auto=webp&amp;s=04c18770e7c77363482bea15700291b5ce3eb64a)
+**[GPT-6 Astra与Claude Opus 5.5 —我比较了5个类别。结果比标题显示的更加分裂。Ran GPT-6 Astra和Claude Opus 5.5正面交锋（编码、价格、安全性、上下文）。Opus 5.5赢得编码+价值， Astra赢得前沿的东西。](https://www.reddit.com/r/artificial/comments/1wo7sjb/gpt6_astra_vs_claude_opus_55_i_compared_them/)**
 
-**[哪些型号最赚钱？](https://www.reddit.com/r/artificial/comments/1wnqibp/which_models_are_most_profitable/)**
+网络安全（ ExploitBench ） Astra ： 100% （ **OpenAI**指出，它在评估期间发现了两个以前未知的零日） Opus/Fable类： ~ 70% Astra明显领先—这是第一个在cyber0 + ExploitBench公开报告中被**OpenAI**归类为“关键”的模型， **OpenAI**的Astra公告， **Anthropic**的Opus 5
 
-另一方面，最新的，最好的得分模型，这些将是最高的价格，所以，希望Anthropic**发布**一个新的寓言5
+📅 2026-09-23T14:37:32.000Z
 
-📅 2026-09-23T00:11:02.000Z
+---
+
+### Hacker News
+**[Claude发现了一种具有CRISPR样重复序列的新型酶系统](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)**
+
+文章网址： https://wwwcom/**new**s/**Claude**-discovers-novel-enzyme-system评论网址： https://**new**s
+
+📅 Wed, 23 Sep 2026 18:06:47 +0000
+
+---
+
+### Hacker News
+**[Gemini 3.8文本到语音转换](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/)**
+
+文章网址： https://blog**Google**/innovation-and-ai/models-and-research/**Gemini**-models/**Gemini**-3-8-text-to-speech/评论网址： https://**new**s
+
+📅 Wed, 23 Sep 2026 15:29:23 +0000
 
 ---
 
 ### Reddit: r/artificial
-![我收到了一份游戏的发布协议，我100%使用人工智能](https://external-preview.redd.it/NDVtcnZpazN2NHJoMTcCn6K-xZYWACWiTSSVNhV_d14cSFtbY_HkxchTmhXU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=42dc2dfed56da929116cdb17d8008171c3d3f0ce)
+**[谷歌披露， Gemini在一次测试中访问了三个外部系统，该测试被认为是沙盒测试。四天后，加利福尼亚州下令进行杀戮开关。苹果显然正在重新构建服务器。](https://www.reddit.com/r/artificial/comments/1wo6q9h/google_disclosed_gemini_accessed_three_external/)**
 
-**[我收到了一份游戏的发布协议，我100%使用人工智能](https://www.reddit.com/r/artificial/comments/1wnldii/i_got_offered_a_publishing_deal_for_my_game_i/)**
+9月18日：谷歌披露，在一次内部测试中，双子座未经授权访问了三个外部系统谷歌的解释是，该模型认为这些系统是测试环境的一部分
 
-我在大约2周内使用**GPT**-6 Astra + Tesana构建了整个游戏，计划于10月底在Steam上**发布**
-
-📅 2026-09-22T20:42:13.000Z
+📅 2026-09-23T13:56:37.000Z
 
 ---
 
-### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Reddit: r/artificial
+**[目前对人工智能模型发布周期感到疲劳](https://www.reddit.com/r/artificial/comments/1wo4758/currently_getting_fatigue_with_ai_model_release/)**
 
-Title: 520: Web服务器返回未知错误
+我们眨了眨眼， **GPT**-6 Astra掉了下来我们又眨了眨眼； **Claude** Opus 5
 
-📅 2026-09-23T01:17:23.969Z
+📅 2026-09-23T12:08:50.000Z
+
+---
+
+### Hacker News
+**[Windows滚动条快捷方式的简要历史记录](https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/)**
+
+com/old**new**thing/20260922-00/p = 112719/评论网址： https://**new**s
+
+📅 Wed, 23 Sep 2026 18:02:08 +0000
+
+---
+
+### Hacker News
+**[英国广播公司告诉记者，英国军方干扰其他国家的卫星以自卫](https://www.bbc.com/news/articles/c32l8y8kygdvo)**
+
+文章网址： https://wwwcom/**new**s/articles/c32l8y8kygdvo评论网址： https://**new**s
+
+📅 Wed, 23 Sep 2026 17:45:30 +0000
 
 ---
 
