@@ -1,12 +1,12 @@
 ---
 title: "2026年9月24日 - TZ日报"
-date: 2026-09-24T01:08:14.503Z
+date: 2026-09-24T18:54:45.149Z
 draft: false
 ---
 
 # 2026年9月24日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/9/24 01:08:14
+> 📊 今日汇总 38 条 · 🕐 2026/9/24 18:54:45
 
 ---
 
@@ -41,11 +41,11 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[Anthropic表示，其生物实验室已经发现了一些重要的东西，](https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/)**
+**[谷歌测试让双子座为您打电话给企业](https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/)**
 
-但也许最大的启示是， **Anthropic**并没有让**Claude**在其生物学实验室中逍遥法外到目前为止，人类仍在循环中
+谷歌表示，人工智能通话功能将首先向Uwho中的Pixel 11所有者提供，他们为**Gemini**订阅付费
 
-📅 Wed, 23 Sep 2026 22:17:39 +0000
+📅 Thu, 24 Sep 2026 16:00:00 +0000
 
 ---
 
@@ -95,20 +95,20 @@ draft: false
 ---
 
 ### OpenAI Blog
+**[ChatGPT Ads扩展到东南亚和台湾](https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan)**
+
+Chat**GPT** Ads正在扩展到东南亚和台湾，为符合条件的企业提供覆盖60多个国家/地区的新方式
+
+📅 Wed, 23 Sep 2026 02:00:00 GMT
+
+---
+
+### OpenAI Blog
 **[Grab和OpenAI为东南亚带来实用的人工智能技能](https://openai.com/index/grab-openai-ai-skills-southeast-asia)**
 
 **OpenAI**和Grab**推出**GO Forward with AI ，这是一项区域计划，帮助3万个合作伙伴在东南亚建立实用的人工智能技能
 
 📅 Wed, 23 Sep 2026 00:00:00 GMT
-
----
-
-### OpenAI Blog
-**[GPT-6的更好提示缓存](https://openai.com/index/better-prompt-caching-for-gpt-6)**
-
-了解**GPT**-6如何通过更高的缓存命中率、新的诊断、显式断点和控制来改善快速缓存，从而降低延迟和成本
-
-📅 Tue, 22 Sep 2026 21:00:00 GMT
 
 ---
 
@@ -133,252 +133,258 @@ draft: false
 ---
 
 ### ArXiv AI (cs.AI)
-**[托管LLM中没有持久性的复制：行动时间信念评估中的测量灵敏度](https://arxiv.org/abs/2609.22478)**
+**[线索即语言：具有最大表现力的极简主义Agent框架](https://arxiv.org/abs/2609.26891)**
 
-22478v1公告类型：新摘要：托管语言模型的行为评估可能会有所不同，因为评估的服务激励通过测试标识符明确索引托管模型行为声明
+26891v1公告类型：新摘要：现代语言模型代理是围绕\ textit {agent loop}构建的， JAZ调用在StuLife召回繁重部分的成本比Letta (Mem**GPT**)高出8\ %
 
-📅 Wed, 23 Sep 2026 00:00:00 -0400
+📅 Thu, 24 Sep 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[IntLawNER ：命名实体识别数据集和国际法基准](https://arxiv.org/abs/2609.22529)**
+**[TwinCheck ：针对有状态工具代理的以证据为基础的负双重验证](https://arxiv.org/abs/2609.26911)**
 
-22529v1公告类型：新摘要：国际法提供了国家协调行动的规范框架精心挑选的几个例子，证明标签对比度改善了每个LLM ，而不是零点提示， **Claude** Opus 4
+26911v1公告类型：新摘要：单个本地合理的工具调用可以使原本成功的代理轨迹脱轨在对159个具有完整精确重放对的多圈BFCL V4任务的初步分析中，完整的策略提高了**GPT**-5的任务成功率
 
-📅 Wed, 23 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv Computer Vision (cs.CV)
-**[标尺： SVG生成实例感知评分细则表奖励](https://arxiv.org/abs/2609.25270)**
-
-25270v1公告类型：新摘要：从自然语言指令生成可缩放矢量图形（ SVG ）代码是一项开放式任务，没有绝对的视觉真实性项目页面可在https://hangyuran上找到
-
-📅 Wed, 23 Sep 2026 00:00:00 -0400
+📅 Thu, 24 Sep 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Computer Vision (cs.CV)
-**[使用CNN转移学习和可解释的图像统计数据从鞋类外底印象进行性别估计](https://arxiv.org/abs/2609.25386)**
+### ArXiv Machine Learning (cs.LG)
+**[早期术中急性肾损伤预测的泄漏感知多模式评估框架](https://arxiv.org/abs/2609.26848)**
 
-25386v1公告类型：新摘要：鞋类外底印模是法医模式证据的常见形式使用公开的外底印模数据集
+26848v1公告类型：新摘要：**重大**非心脏手术后术后急性肾损伤（ AKI ）具有较高的发病率，预测仅限于术中前60分钟内可用的信息
 
-📅 Wed, 23 Sep 2026 00:00:00 -0400
+📅 Thu, 24 Sep 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Natural Language Processing (cs.CL)
-**[99%的准确度衡量的是什么？广泛使用的假新闻语料库中快捷学习的可重复审计](https://arxiv.org/abs/2609.25006)**
+**[COMED ：多LLM推断中路由和协作之间缺少的中间环节](https://arxiv.org/abs/2609.26913)**
 
-25006v1公告类型：新摘要：在ISOT/Kaggle “假真新闻”语料库上训练的文本分类器通常报告准确性， F1高于0首先，基准部分退化：仅给定主题元数据字段的分类器，丢弃文章文本，达到F1 = 1
+26913v1公告类型：新摘要：没有单一的大型语言模型（ LLM ）在查询之间一致可靠在具有前沿模型的HLE上， COMED改进了**GPT**-5
 
-📅 Wed, 23 Sep 2026 00:00:00 -0400
+📅 Thu, 24 Sep 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Multiagent (cs.MA)
-**[车队是典范： Fusion-MoA Pioneer R1工程集体智能](https://arxiv.org/abs/2609.26080)**
+### ArXiv Natural Language Processing (cs.CL)
+**[公认但未产生：文化特定亲属关系术语的一代基准](https://arxiv.org/abs/2609.26942)**
 
-26080v1公告类型：新摘要：暴露给应用程序的模型不必是单个检查点；它可以是受管理的车队我们提供Fusion-MoA ，这是一个将独立服务的异构单元暴露为一个**OpenAI**兼容模型的运行时
+26942v1公告类型：新摘要：当前文献使用多项选择基准评估大型语言模型（ LLM ）对多语言亲属关系的理解在相同的关系语言单元上， **GPT** OSS120B在90中选择正确的术语
 
-📅 Wed, 23 Sep 2026 00:00:00 -0400
+📅 Thu, 24 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[伊利诺伊州社会态度聚合语料库（ ISAAC ） ：大规模分析社会群体话语的开放工具和可重复管道](https://arxiv.org/abs/2609.27059)**
+
+27059v1公告类型：新摘要：我们在**重大**社会事件（国家和地区）期间引入了伊利诺伊州社会态度聚合语料库（ ISAAC ）时间峰值
+
+📅 Thu, 24 Sep 2026 00:00:00 -0400
 
 ---
 
 ## 🌍 行业展望
 
 ### The Information Technology
-**[人工智能议程直播： Crusoe和思考机器实验室达成计算协议](https://www.theinformation.com/articles/expect-ai-agenda-live-crusoe-thinking-machines-labs-strike-compute-deal)**
+![GPU贷款是否可以免受利率上涨的影响？](https://tii.imgix.net/production/articles/17864/b4a1826f-7478-404b-b4b9-037cc58bf577.png?auto=compress,format&amp;fit=crop&amp;w=560)
 
-人工智能日程快乐我们的员工和与会者将向**OpenAI**、**Google** DeepMind和Nvidia的顶尖研究人员、创始人和高管提出一些热门问题
+**[GPU贷款是否可以免受利率上涨的影响？](https://www.theinformation.com/articles/gpu-loans-safe-rising-rates)**
 
-📅 2026-09-23T14:01:30.000Z
+但在人工智能融资市场的一个角落，这听起来可能是主要GPU买家使用的最差的浮动利率贷款--一些最大的贷款已经被设计用来减弱更高基准利率的影响”，而像**OpenAI**和**Anthropic**这样的大公司究竟将如何为他们的计算需求提供资金仍然不确定
 
----
-
-### The Information Technology
-**[亚马逊新推出的人工智能服务反映了折扣激增](https://www.theinformation.com/articles/amazons-new-ai-offer-reflects-discounting-surge)**
-
-与此同时，微软正在大幅打折Copilot AI订阅，我们周二晚上报道这两个优惠都是各种软件公司和人工智能实验室（如**OpenAI** ）的折扣浪潮的一部分
-
-📅 2026-09-24T00:01:00.000Z
+📅 2026-09-24T14:45:59.000Z
 
 ---
 
 ### The Information Technology
-**[Anthropic表示，其人工智能帮助发现了一种可能的新基因编辑工具](https://www.theinformation.com/briefings/anthropic-says-ai-helped-discover-possible-new-gene-editing-tool)**
+**[我从AI Agenda Live中学到了什么](https://www.theinformation.com/articles/learned-ai-agenda-live)**
 
-**Anthropic**表示， **Claude**帮助发现了一个以前未知的分子系统，该公司表示，该系统可能代表一种类似于CRISPR的新基因编辑工具。**Anthropic**首席执行官Dario Amodei在X上的一篇文章中警告说，
+昨天，在我们的AI Agenda Live会议上，我和我的同事采访了**OpenAI**等公司的领导者，我喜欢与许多出色的订阅者见面。
 
-📅 2026-09-23T20:23:28.000Z
-
----
-
-### The Information Technology
-**[Sam Altman和Dario Amodei简报联合国安全理事会](https://www.theinformation.com/briefings/sam-altman-dario-amodei-brief-un-security-council)**
-
-**OpenAI**首席执行官Sam Altman和**Anthropic**首席执行官Dario Amodei周三在纽约举行的国际组织大会周上向联合国安理会通报了情况。在关于人工智能和国际安全的会议上，两位高管提出了担忧
-
-📅 2026-09-23T20:19:21.000Z
+📅 2026-09-24T14:00:59.000Z
 
 ---
 
 ### The Information Technology
-**[Meta宣布与Agent Muse建立新的零售合作伙伴关系](https://www.theinformation.com/briefings/meta-announces-new-retail-partnerships-agent-muse)**
+**[谷歌、OpenAI和Anthropic AI安全小组正在成形](https://www.theinformation.com/articles/google-openai-anthropic-ai-safety-group-takes-shape)**
 
-**Meta** Platforms宣布与沃尔玛和其他零售商就其人工智能代理商Muse建立合作伙伴关系，此前几天，电子商务巨头亚马逊阻止了这家个性化代理商访问其购物网站。在周三举行的**Meta**年度Connect会议上，首席人工智能官Alexandr Wang表示，该公司
+**OpenAI**和**Anthropic**正在推进一项计划，以创建一个新的以人工智能安全为重点的标准机构，他们希望在今年年底或2027年初**推出**它
 
-📅 2026-09-23T23:59:15.000Z
-
----
-
-### The Information Technology
-**[澳大利亚总理称OpenAI特工入侵澳大利亚政府](https://www.theinformation.com/briefings/openai-agent-hacked-australian-government-prime-minister-says)**
-
-澳大利亚总理安东尼·阿尔巴尼斯（ Anthony Albanese ）周三表示，由**OpenAI**开发的人工智能代理在6月份入侵了澳大利亚政府网站。人工智能从该国卫生部网站访问了公开和非公开数据
-
-📅 2026-09-23T21:34:41.000Z
+📅 2026-09-24T13:00:44.000Z
 
 ---
 
 ### The Information Technology
-**[Patreon联合创始人Sam Yam加入OpenAI ，领导新创作者部门](https://www.theinformation.com/briefings/patreon-co-founder-sam-yam-joins-openai-lead-new-creator-division)**
+**[前OpenAI数据中心负责人现就职于英伟达](https://www.theinformation.com/briefings/former-openai-data-center-chief-now-nvidia)**
 
-**OpenAI**已聘请Patreon联合创始人Sam Yam领导一个新的创作者产品部门Yam周三宣布
+**OpenAI**的前数据中心主管DSX是Nvidia部门，帮助客户根据Nvidia的规范设计和构建AI数据中心
 
-📅 2026-09-23T21:05:56.000Z
+📅 2026-09-24T17:44:00.000Z
 
 ---
 
-### MIT Tech Review
-**[下载：印度智能眼镜的威胁和人工智能万亿美元的赌博](https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/)**
+### Wired Technology
+**[谷歌的Gemini现在可以在Pixel手机上为您打电话](https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/)**
 
-这是今天的The Download版本，我们的工作日时事通讯，提供每日剂量的技术世界正在发生的事情，他们意识到戴着**Meta**智能眼镜的内容创作者......
+《Call for Me》是Pixel 11系列独有的功能，为机器人通话赋予了新的意义。
 
-📅 Wed, 23 Sep 2026 12:10:00 +0000
+📅 Thu, 24 Sep 2026 16:00:00 +0000
+
+---
+
+### The Verge
+![现在， Chrome浏览器会将标签页分享到新设备，以保存您所在的位置](https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK114_Google_Chrome_02.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[现在， Chrome浏览器会将标签页分享到新设备，以保存您所在的位置](https://www.theverge.com/tech/999901/google-chrome-tab-memory-gemini-updates)**
+
+谷歌正在**推出**一些新的Chrome浏览器功能，这些功能旨在更轻松地研究和研究复杂的主题，同时为Chrome中的**Gemini**提供了新的功能，可以分析更多类型的媒体并生成交互式学习测验
+
+📅 2026-09-24T17:00:00.000Z
+
+---
+
+### The Verge
+![Gemini现在可以为您致电商家，因此您不必等待](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Photos-of-Phone-Using-On-Ear.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[Gemini现在可以为您致电商家，因此您不必等待](https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls)**
+
+谷歌在Pixel 11上**推出**了一项“早期实验”功能，允许用户将本地商务电话委托给**Gemini****Gemini** ，
+
+📅 2026-09-24T16:04:31.000Z
+
+---
+
+### The Information Technology
+**[Jev Fervor谈到大幅提升估值](https://www.theinformation.com/articles/jev-fervor-leads-talk-big-valuation-boost)**
+
+硅谷有一家新的人工智能初创公司，在开发一种名为Jev的新型模式的初创公司中痴迷并投入资金
+
+📅 2026-09-24T18:42:11.000Z
 
 ---
 
 ## 📦 GitHub热门
+
+### GitHub Active (Python)
+![microsandbox ：适用于任何工作负载的🧱快速可分支microVM](https://avatars.githubusercontent.com/u/145875517?v=4)
+
+**[microsandbox ：适用于任何工作负载的🧱快速可分支microVM](https://github.com/superradcompany/microsandbox)**
+
+⭐ 8416星· 448叉· Rust ·适用于任何工作负载的🧱快速可分支microVM
+
+📅 2026-09-24T18:53:29Z
+
+---
 
 ### GitHub New (New AI)
 ![🆕 notebooklm-para-concursos: Ecossistema de Engenharia de Estudos com IA Fundamentada (NotebookLM + Gemini Estudantes). Metodologia N.A.G. (Nucleo de Aprendizagem Guiada) com 19提示calibrados, Raio-X estatistico de bancas e Metodo MIT.](https://avatars.githubusercontent.com/u/131480786?v=4)
 
 **[🆕 notebooklm-para-concursos: Ecossistema de Engenharia de Estudos com IA Fundamentada (NotebookLM + Gemini Estudantes). Metodologia N.A.G. (Nucleo de Aprendizagem Guiada) com 19提示calibrados, Raio-X estatistico de bancas e Metodo MIT.](https://github.com/gilsonnogueira/notebooklm-para-concursos)**
 
-⭐ 25 star (新项目) · N/A · Ecossistema de Engenharia de Estudos com IA Fundamentada (NotebookLM + **Gemini** Estudantes)(Nucleo de Aprendizagem Guiada) com 19 Prompts calibrados, Raio-X estatistico de bancas e Metodo MIT
+⭐ 27 star (新项目) · N/A · Ecossistema de Engenharia de Estudos com IA Fundamentada (NotebookLM + **Gemini** Estudantes)(Nucleo de Aprendizagem Guiada) com 19 Prompts calibrados, Raio-X estatistico de bancas e Metodo MIT
 
 📅 2026-09-21T14:14:12Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 opencode-proxy ：在任何地方使用OpenCode Zen免费模型—零步本地OpenAI兼容代理（ mimo、nemotron、ling、big-pickle、muse-spark ）](https://avatars.githubusercontent.com/u/277201506?v=4)
+![🆕 ai-kyc-aml-assistant ：人工智能辅助合规仪表板，用于加快客户入驻流程，具有自动文档验证和PEP/制裁风险筛查工作流程。](https://avatars.githubusercontent.com/u/11300854?v=4)
 
-**[🆕 opencode-proxy ：在任何地方使用OpenCode Zen免费模型—零步本地OpenAI兼容代理（ mimo、nemotron、ling、big-pickle、muse-spark ）](https://github.com/Parithosh-Varma/opencode-proxy)**
+**[🆕 ai-kyc-aml-assistant ：人工智能辅助合规仪表板，用于加快客户入驻流程，具有自动文档验证和PEP/制裁风险筛查工作流程。](https://github.com/initPM/ai-kyc-aml-assistant)**
 
-⭐ 3 star (新项目) · JavaScript · Use OpenCode Zen free models anywhere — zero-dep local **OpenAI**-compatible proxy (mimobig-pickle
+⭐ 18 star (新项目) · TypeScript · An AI-assisted compliance dashboard for accelerating customer onboardingfeaturing automated document verification and PEP/sanctions risk screening workflows
 
-📅 2026-09-23T04:01:13Z
-
----
-
-### GitHub New (New AI)
-![🆕 jev-architecture-research ： JEV决策模型的黑盒逆向工程研究档案](https://avatars.githubusercontent.com/u/128180061?v=4)
-
-**[🆕 jev-architecture-research ： JEV决策模型的黑盒逆向工程研究档案](https://github.com/g0runmezadam/jev-architecture-research)**
-
-⭐ 2 star (新项目) · Python · Black-box reverse engineering research archive for the Jev decision model
-
-📅 2026-09-22T16:56:33Z
+📅 2026-09-24T10:12:46Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 github-repositories-radar ：自主n8n工作流程，每天扫描GitHub以查找符合您兴趣的趋势存储库（ AI、自动化、免费API ） ，对其相关性进行评分，并通过Telegram提供阿拉伯语语音+文本+图像细分。还回答有关任何特定存储库的按需问题，基于其真实的自述文件—没有幻觉功能。](https://avatars.githubusercontent.com/u/219193307?v=4)
+![🆕 log-depth-recurrent-modeling ：伦敦帝国理工学院王毅勤提出的对数深度循环建模探索](https://avatars.githubusercontent.com/u/108653?v=4)
 
-**[🆕 github-repositories-radar ：自主n8n工作流程，每天扫描GitHub以查找符合您兴趣的趋势存储库（ AI、自动化、免费API ） ，对其相关性进行评分，并通过Telegram提供阿拉伯语语音+文本+图像细分。还回答有关任何特定存储库的按需问题，基于其真实的自述文件—没有幻觉功能。](https://github.com/Ilyeess-Rj/github-repositories-radar)**
+**[🆕 log-depth-recurrent-modeling ：伦敦帝国理工学院王毅勤提出的对数深度循环建模探索](https://github.com/lucidrains/log-depth-recurrent-modeling)**
 
-⭐ 2 star (新项目) · N/A · Autonomous n8n workflow that scans GitHub daily for trending repos matching your interests (AIscores their relevance
+⭐ 4 star (新项目) · Python · Explorations into the Log Depth Recurrent Modeling proposed by Yiqin Wang of Imperial College London
 
-📅 2026-09-22T03:59:42Z
+📅 2026-09-24T13:16:39Z
 
 ---
 
 ## 💬 社交动态
 
+### Hacker News AI
+**[OpenAI、Anthropic首席执行官敦促联合国各国在人工智能安全标准方面开展合作](https://slashdot.org/story/26/09/24/0338213/openai-anthropic-ceos-urge-un-countries-to-cooperate-on-ai-safety-standards)**
+
+文章网址： https://slashdotorg/story/26/09/24/0338213/**OpenAI**-**Anthropic**-ceos-urge-un-countries-to-cooperate-on-ai-safety-standards评论网址： https://**new**s
+
+📅 Thu, 24 Sep 2026 18:40:47 +0000
+
+---
+
 ### Reddit: r/artificial
-**[哪种人工智能最适合微积分](https://www.reddit.com/r/artificial/comments/1woivzf/which_ai_is_best_for_calculus/)**
+![双子座为什么这么笨？](https://external-preview.redd.it/aWJmeDRwOHlnaXJoMfgUWGcuKk0k0TlKwzYfv6MOiVAlUYGQCC3fQKofcjfR.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=286d713539f1fedb9e7971150f9ad193e550d301)
 
-我通常会使用Chat**GPT**进行此类操作，但在注册CALC之前，每个人都告诉我，我需要在那里获得**Claude**我应该使用的某个Chat**GPT**插件
+**[双子座为什么这么笨？](https://www.reddit.com/r/artificial/comments/1wp9j3e/why_is_gemini_so_dumb/)**
 
-📅 2026-09-23T21:31:01.000Z
+我一直在使用**Google** AI Plus ，主要是因为存储空间我不知道它也为**Gemini**和**Google** Notebook带来了好处
 
----
-
-### X: OpenAI
-**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-网址来源： http://twitter.com/**OpenAI**
-
-📅 2026-09-24T01:06:46.278Z
+📅 2026-09-24T18:27:13.000Z
 
 ---
 
-### X: DeepSeek
-**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+### Reddit: r/artificial
+**[我的AI订阅*实际*应该花费多少钱？](https://www.reddit.com/r/artificial/comments/1wp6mwj/how_much_should_my_ai_subscription_actually_cost/)**
 
-网址来源： http://twitter.com/**DeepSeek**_ai
+我看到很多关于公司在LLM上花费数万亿美元的评论，这是不可持续的，所以如果我每月为Chat**GPT**或**Claude**或其他任何东西支付$ 20 ，我实际上应该为公司盈利支付多少钱
 
-📅 2026-09-24T01:06:52.958Z
+📅 2026-09-24T16:39:50.000Z
 
 ---
 
-### Hacker News
-**[Meta VR眼镜](https://www.meta.com/vr-glasses/)**
+### Reddit: r/artificial
+**[Opus 5.5摘要： 66.4% Terminal-Bench ，运行成本比Opus 5低约40% ，缓存读数下降60%](https://www.reddit.com/r/artificial/comments/1wp3ya3/opus_55_summary_664_terminalbench_40_cheaper_to/)**
 
-文章网址： https://wwwcom/vr-glasses/评论网址： https://**new**s
+5**推出**（ 9月22日）供任何决定是否切换的人使用： Terminal-Bench 44% （ **GPT**-6 Astra 57
 
-📅 Wed, 23 Sep 2026 23:47:56 +0000
+📅 2026-09-24T14:59:10.000Z
 
 ---
 
 ### Hacker News
-**[一旦Claude可以测量某样东西，它就可以让它更快](https://claude.dev/blog/how-we-made-claude-ai-faster/)**
+**[Show HN ：白板（ YC W26 ） –一个用于深思熟虑的软件设计的开源IDE](https://github.com/devdotfast/whiteboard)**
 
-文章网址： https://**Claude**dev/blog/how-we-made-**Claude**-ai-faster/评论网址： https://**new**s
+**Claude** Code、Codex等以下是项目链接： https://github
 
-📅 Wed, 23 Sep 2026 19:23:40 +0000
-
----
-
-### Hacker News
-**[LensVLM ：将长上下文压缩为图像，仅展开相关页面](https://huggingface.co/apple/LensVLM-9B)**
-
-文章网址： https://huggingfaceco/apple/LensVLM-9B评论网址： https://**new**s
-
-📅 Wed, 23 Sep 2026 18:36:29 +0000
+📅 Thu, 24 Sep 2026 17:21:36 +0000
 
 ---
 
 ### Hacker News AI
-**[谷歌表示，其人工智能模型未经授权访问了三个外部系统](https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651)**
+**[Show HN ： DrawCMS -适用于AI Agent的开源动画图表工具](https://github.com/drawcms/drawcms)**
 
-文章网址： https://wwwcom/tech/tech-**new**s/**Google**-says-ai-model-gained-unauthorized-access-three-systems-rcna598651评论网址： https://**new**s
+您可以要求兼容的AI代理读取您的存储库并创建可编辑的图表，然后在canvascom/drawcms/drawcms快速入门（ **Claude** Code
 
-📅 Wed, 23 Sep 2026 23:58:27 +0000
+📅 Thu, 24 Sep 2026 17:57:11 +0000
 
 ---
 
 ### Reddit: r/artificial
-![技术进步比以往任何时候都快吗？](https://preview.redd.it/omqvk4k3bdrh1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=cf9d9a12e14e675c350aa0912299df41e7fa32c5)
+**[有这么多人讨厌人工智能以及任何使用它的人，专业的人工智能人才真的需要停止这样的判断。](https://www.reddit.com/r/artificial/comments/1wp7373/with_so_many_people_hating_ai_and_anyone_that/)**
 
-**[技术进步比以往任何时候都快吗？](https://www.reddit.com/r/artificial/comments/1wonuaz/is_tech_moving_quicker_than_ever/)**
+专业的人工智能和反人工智能的人都是极具判断力和仇恨的，在一篇大帖子中我会得到这样的回复： “停止将其用于恶作剧” “没有人想听到你使用Chat**GPT**进行恶作剧” “只是去看色情片
 
-只是看着扎克伯格**推出**VR眼镜，他们变得越来越小看到克劳德**发布**了一些新型号，而人工智能公司都在争先恐后地做下一件大事
+📅 2026-09-24T16:56:56.000Z
 
-📅 2026-09-24T01:05:02.000Z
+---
+
+### Reddit: r/artificial
+**[我将个人代理从DeepSeek V4.1 Flash切换到MiMo V2.6 Pro](https://www.reddit.com/r/artificial/comments/1wp5ega/i_switched_my_personal_agent_from_deepseek_v41/)**
+
+小米刚刚**发布**了/u/buffering_112提交的开放权重MiMo V2ai/models/comparisons/mimo-v2-6-pro-vs-**DeepSeek**-v4-1-flash [link] [comments]
+
+📅 2026-09-24T15:53:32.000Z
 
 ---
 
