@@ -1,19 +1,19 @@
 ---
 title: "2026年9月26日 - TZ日报"
-date: 2026-09-26T01:15:09.082Z
+date: 2026-09-26T18:23:30.401Z
 draft: false
 ---
 
 # 2026年9月26日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/9/26 01:15:09
+> 📊 今日汇总 36 条 · 🕐 2026/9/26 18:23:30
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 8 条
+- **前沿研究**: 6 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -32,15 +32,6 @@ draft: false
 ---
 
 ### OpenAI Blog
-**[Ringg的AI代理通过OpenAI解决高达65%的客户呼叫](https://openai.com/index/ringg)**
-
-使用**GPT**-5**GPT**-4
-
-📅 Wed, 23 Sep 2026 12:00:00 GMT
-
----
-
-### OpenAI Blog
 **[Proaction通过Codex提升了60%的销售额，节省了超过75个小时](https://openai.com/index/proaction)**
 
 借助Codex、**GPT**-Live-1和**GPT**-6 Astra ， Proaction可以更快地构建、运营和销售现代车队管理
@@ -49,155 +40,164 @@ draft: false
 
 ---
 
-### OpenAI Blog
-**[两年的OpenAI学院](https://openai.com/index/two-years-of-openai-academy)**
+### DeepMind Blog
+**[隆重推出Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/)**
 
-标志着**OpenAI**学院成立两年，并将人工智能技能带给更多社区。
+隆重**推出**Gemini 3.8 Live with Live Avatar
 
-📅 Wed, 23 Sep 2026 16:00:00 GMT
-
----
-
-### OpenAI Blog
-**[OpenAI将网络访问扩展到乌克兰用于民防](https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense)**
-
-**OpenAI**正在将其Daybreak计划的访问权限扩展到乌克兰政府，以支持民用基础设施的网络防御
-
-📅 Wed, 23 Sep 2026 13:00:00 GMT
+📅 Thu, 24 Sep 2026 16:20:39 +0000
 
 ---
 
-### OpenAI Blog
-**[山姆·奥尔特曼在联合国安理会的讲话](https://openai.com/index/sam-altman-un-security-council-remarks)**
+### Hugging Face
+**[如何使用NVIDIA WARP和MjWarp加速机器人模拟和学习工作流程](https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp)**
 
-**OpenAI**首席执行官Sam Altman在向联合国安理会的讲话中讨论人工智能安全、人为控制和国际合作
+如何使用NVIDIA WARP和MjWarp加速机器人模拟和学习工作流程
 
-📅 Wed, 23 Sep 2026 12:00:00 GMT
-
----
-
-### OpenAI Blog
-**[Harvey使用GPT-6 Astra将法律背景转化为更强大的草案](https://openai.com/index/harvey-from-context-to-confidence-with-astra)**
-
-**GPT**-6 ASTRA提供更加结构化、上下文感知的法律文件，使律师能够专注于战略
-
-📅 Wed, 23 Sep 2026 12:00:00 GMT
+📅 Wed, 23 Sep 2026 18:41:40 GMT
 
 ---
 
-### OpenAI Blog
-**[Invideo如何使用GPT ‑ 6 Astra将色彩分级提高3倍](https://openai.com/index/invideo-builds-with-gpt-6-astra)**
+### TechCrunch AI Products
+**[在Meta Connect ，公司的智能眼镜无处不在](https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/)**
 
-使用**GPT** ‑ 6 Astrainvideo更精确地规划编辑
+Facebook和Instagram背后的公司希望通过其不断增长的智能眼镜系列让消费者与数字世界保持联系
 
-📅 Wed, 23 Sep 2026 12:00:00 GMT
-
----
-
-### OpenAI Blog
-**[ChatGPT Ads扩展到东南亚和台湾](https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan)**
-
-Chat**GPT** Ads正在扩展到东南亚和台湾，为符合条件的企业提供覆盖60多个国家/地区的新方式
-
-📅 Wed, 23 Sep 2026 02:00:00 GMT
+📅 Sat, 26 Sep 2026 01:08:57 +0000
 
 ---
 
-### Google AI Blog
-![Google Beam扩展到新的地区、合作伙伴和客户](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_hero.max-600x600.format-webp.webp)
+### TechCrunch AI Products
+**[不安全的OpenAI客服代表在实验室不知情的情况下在互联网上发布了53张用户图片](https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/)**
 
-**[Google Beam扩展到新的地区、合作伙伴和客户](https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/)**
+在**OpenAI**研究环境中运营的AI代理在实验室不知情的情况下在公共图像托管网站上**发布**用户图像
 
-我们正在将**Google** Beam扩展到五个新的国家/地区，并与Industrious合作扩展网络
+📅 Fri, 25 Sep 2026 22:20:47 +0000
 
-📅 Wed, 23 Sep 2026 18:00:00 +0000
+---
+
+### TechCrunch AI Products
+**[Meta为Muse新功能开启抢先体验计划](https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/)**
+
+任何有兴趣加入的人都必须要求Muse将他们列入名单。
+
+📅 Fri, 25 Sep 2026 20:34:53 +0000
+
+---
+
+### TechCrunch AI Products
+**[Anthropic将在七年内向Akamai支付116亿美元的云交易](https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/)**
+
+**Anthropic**在七年内向Akamai的云基础设施投入了1160亿美元
+
+📅 Fri, 25 Sep 2026 19:13:38 +0000
+
+---
+
+### TechCrunch AI Products
+**[在美国IPO之前，英国人工智能新云Nscale获得了33.6亿美元的可转换融资](https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/)**
+
+这笔资金来自Third Point、Nvidia和其他公司，将推动该公司大规模的人工智能数据中心建设
+
+📅 Fri, 25 Sep 2026 18:33:59 +0000
+
+---
+
+### Hugging Face
+**[使用LFM2.5-VL-DSpark加速视觉语言模型](https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark)**
+
+使用LFM2.5-VL-DSpark加速视觉语言模型
+
+📅 Thu, 24 Sep 2026 14:08:57 GMT
 
 ---
 
 ## 🔬 前沿研究
 
+### Science AI
+**[新的太空望远镜将重新打开天文学家对远红外线的看法](https://www.science.org/content/article/new-space-telescope-will-reopen-astronomers-view-far-infrared)**
+
+美国宇航局120亿美元的PRIMA将探索星系如何演化以及行星如何从气体和尘埃盘中出现
+
+📅 2026-09-25T04:30:00.000Z
+
+---
+
+### Science AI
+**[日本科学委员会将面临更大的政府监督](https://www.science.org/content/article/japan-s-science-council-face-greater-governmental-oversight)**
+
+法律地位的迫在眉睫的变化引发了人们对国家科学院将为政治利益服务的担忧
+
+📅 2026-09-25T12:38:00.000Z
+
+---
+
+### Science AI
+**[激光产生的粒子使科学家能够透视墙壁](https://www.science.org/content/article/laser-generated-particles-allow-scientists-see-through-walls)**
+
+**首次**从μ子束指向可疑包裹和古代建筑内部的新方法的干净图片
+
+📅 2026-09-25T12:25:00.000Z
+
+---
+
+### Science AI
+**[NIH详细介绍了$ 1.7亿的生物医学研究再现性工作](https://www.science.org/content/article/nih-details-170-million-biomedical-research-reproducibility-effort)**
+
+机构主任宣布文献检索工具，其他计划提高科学发现的可靠性
+
+📅 2026-09-24T02:00:00.000Z
+
+---
+
+### Science AI
+**[鲜为人知的免疫系统可能是更好的疫苗、癌症治疗的关键](https://www.science.org/content/article/little-known-arm-immune-system-could-be-key-better-vaccines-cancer-therapies)**
+
+CD1系统对脂质而不是蛋白质有反应，驱动对蜜蜂叮咬、细菌和可能的毒常春藤的反应
+
+📅 2026-09-24T02:00:00.000Z
+
+---
+
 ### MIT Tech Research
-**[AI炒作指数： AI喜欢作弊](https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/)**
+**[五角大楼希望斥资3000万$建造一个人工智能驱动的测谎仪](https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/)**
 
-**OpenAI**的代理人入侵了Hugging Face以获得网络安全测试的答案**Anthropic**的模型已经四次入侵其他公司的系统
+美国政府希望花费$ 30 ，称为Polygraph +或Polygraph Next
 
-📅 Wed, 23 Sep 2026 09:00:00 +0000
-
----
-
-### ArXiv AI (cs.AI)
-**[TW3Cast ： GIFT-Eval上用于时间序列预测的轻微微调基础模型的冷冻路由器，完全在培训拆分中选择](https://arxiv.org/abs/2609.28506)**
-
-28506v1公告类型：新摘要： TW3Cast是一个时间序列预测系统，通过平均MASE rank达到GIFT-Eval基准上130个条目中的第3位，其专家是在这些训练拆分上轻微微调整的公共基础模型
-
-📅 Fri, 25 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv Robotics (cs.RO)
-**[OCC4M ：长视野操作中用于时空推理的以对象为中心的4D内存](https://arxiv.org/abs/2609.28798)**
-
-28798v1公告类型：新摘要：长距离操作通常需要对当前视图中不存在的状态进行推理定性视频可在https://occ4m-sup上找到
-
-📅 Fri, 25 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[预测代理何时应该说明原因？可靠性路由的行为压力测试](https://arxiv.org/abs/2609.28475)**
-
-28475v1公告类型：新摘要：预测代理越来越多地结合语言模型推理和可重复性工件，可在https://github上找到
-
-📅 Fri, 25 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[PAWS ：政策驱动的代理世界模拟](https://arxiv.org/abs/2609.28547)**
-
-28547v1公告类型：新摘要：政策干预通过公共交流传播2,522个分层行动样本，独立人工智能和人工审核人实现89
-
-📅 Fri, 25 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[Pistis技术报告](https://arxiv.org/abs/2609.28554)**
-
-28554v1公告类型：新摘要：我们分别介绍Pistis模型系列5 ，并通过通用且可扩展的培训后框架开发
-
-📅 Fri, 25 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[BaseCamp ---用于自动化DNA测序数据流水线的代理人工智能框架](https://arxiv.org/abs/2609.28557)**
-
-28557v1公告类型：新摘要： DNA测序流水线专用大型语言模型，由中心推理LLM协调
-
-📅 Fri, 25 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[DEEPO ：针对传销中幻觉的双熵增强策略优化](https://arxiv.org/abs/2609.28570)**
-
-28570v1公告类型：新摘要：强化学习（ RL ）被广泛用于锐化多模态大型语言模型（ MLLM ）中的推理我们将其追溯到\ emph {correction chain}从奖励到参数**更新**的两个弱点
-
-📅 Fri, 25 Sep 2026 00:00:00 -0400
+📅 Fri, 25 Sep 2026 09:16:25 +0000
 
 ---
 
 ## 🌍 行业展望
 
 ### The Verge
-![一家公司正处于一波流氓人工智能攻击的中心](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![Cloudflare首席执行官Matthew Prince能否从人工智能中拯救网络？](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-26_Prince.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[一家公司正处于一波流氓人工智能攻击的中心](https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google)**
+**[Cloudflare首席执行官Matthew Prince能否从人工智能中拯救网络？](https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising)**
 
-7月， **OpenAI**透露其人工智能特工未经许可攻击了Hugging Face ，引发了人们对人工智能安全的广泛担忧自那时以来，一系列涉及**Meta**、**Anthropic**、**Google**和其他公司特工的类似事件加剧了对流氓人工智能的进一步担忧
+或者**Anthropic** **Claude**Chat**GPT**出现了，搜索团队不得不与他们竞争，而你什么也没做
 
-📅 2026-09-25T15:39:48.000Z
+📅 2026-09-26T14:00:00.000Z
+
+---
+
+### The Information Technology
+![为什么我把Meta的缪斯拴在短绳上](https://tii.imgix.net/article/pictures/newsletters-production/f1dc7db5-d044-4835-8046-9455447f5c8e-fpNga4.jpg?auto=compress)
+
+**[为什么我把Meta的缪斯拴在短绳上](https://www.theinformation.com/articles/keeping-metas-muse-short-leash)**
+
+我简直不敢相信关于**Meta** Platform的新代理应用程序的在线嗡嗡声我创建了一个代理来监控互联网，以查看艺术家Beck对新专辑的评论
+
+📅 2026-09-26T15:01:21.000Z
+
+---
+
+### The Information Technology
+**[为什么华尔街的大坏熊还没有准备好与人工智能对抗](https://www.theinformation.com/articles/wall-streets-big-bad-bears-ready-bet-ai-yet)**
+
+目前，他非常关注人工智能行业之母英伟达及其向**Anthropic**提供芯片的关系， **OpenAI**He正在等待**OpenAI**是否真的很快上市： “当你是一家像这些公司一样流血的公司时，流血的现金叙述非常**重要**，因为你必须一直筹集资金
+
+📅 2026-09-26T13:11:40.000Z
 
 ---
 
@@ -210,12 +210,23 @@ Chat**GPT** Ads正在扩展到东南亚和台湾，为符合条件的企业提�
 
 ---
 
-### The Information Technology
-**[微软与MUSE竞争对手推出全新Copilot “超级应用”](https://www.theinformation.com/briefings/microsoft-launches-revamped-copilot-super-app-muse-competitor)**
+### Ars Technica
+**[五角大楼可以因拒绝启用克劳德功能而将Anthropic列入黑名单](https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/)**
 
-微软周五**推出**了其Copilot应用程序的改进版本，该应用程序结合了以前单独销售的功能，包括人工智能编码工具
+法官说， “过度约束的人工智能模型”可能导致军事行动失败。
 
-📅 2026-09-25T12:50:48.000Z
+📅 Fri, 25 Sep 2026 21:36:20 +0000
+
+---
+
+### The Verge
+![OpenAI暂停对其“最有能力模型”的培训](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[OpenAI暂停对其“最有能力模型”的培训](https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause)**
+
+此外， **OpenAI**周五透露，其代理商不恰当地将Chat**GPT**用户的53张图片上传到图片托管网站
+
+📅 2026-09-26T16:34:59.000Z
 
 ---
 
@@ -237,34 +248,29 @@ Chat**GPT** Ads正在扩展到东南亚和台湾，为符合条件的企业提�
 
 ---
 
-### The Information Technology
-**[独家：在发现安全漏洞后， Meta支持Muse安全警告](https://www.theinformation.com/briefings/exclusive-meta-bolsters-muse-safety-warning-security-vulnerability-found)**
-
-**Meta** Platforms在Muse中添加了更清晰的安全警告，此前一名安全研究人员发现人工智能代理中存在一个漏洞，该漏洞可能让攻击者访问用户的敏感个人信息。该安全漏洞由外部研究人员通过**Meta**的漏洞赏金标记
-
-📅 2026-09-25T17:41:55.000Z
-
----
-
-### The Information Technology
-**[联邦法院在人类争端中与五角大楼站在一起](https://www.theinformation.com/briefings/federal-court-sides-pentagon-anthropic-dispute)**
-
-今年早些时候，联邦法院就国防部决定将**Anthropic**标记为供应链风险提起诉讼，作出了有利于国防部的裁决。华盛顿特区法官Gregory Katsas
-
-📅 2026-09-25T16:48:02.000Z
-
----
-
-### MIT Tech Review
-**[下载：印度智能眼镜的威胁和人工智能万亿美元的赌博](https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/)**
-
-这是今天的The Download版本，我们的工作日时事通讯，提供每日剂量的技术世界正在发生的事情，他们意识到戴着**Meta**智能眼镜的内容创作者......
-
-📅 Wed, 23 Sep 2026 12:10:00 +0000
-
----
-
 ## 📦 GitHub热门
+
+### GitHub Active (Python)
+![pydantic-ai ： Python如何实现AI。代理、实时语音、图像生成、嵌入。每个模型，每个接口，键入的端到端。](https://avatars.githubusercontent.com/u/110818415?v=4)
+
+**[pydantic-ai ： Python如何实现AI。代理、实时语音、图像生成、嵌入。每个模型，每个接口，键入的端到端。](https://github.com/pydantic/pydantic-ai)**
+
+⭐ 20,193星· 2788叉·蟒蛇·蟒蛇如何做AI每个模型，每个界面，键入的端到端
+
+📅 2026-09-26T18:22:26Z
+
+---
+
+### GitHub Active (AI/ML)
+![WAX ：为您的所有代理提供共享的单文件内存层，在Apple Silicon上的文本、照片和视频上提供亚毫秒级的抹布。没有服务器。没有API。一个文件。纯粹的Swift](https://avatars.githubusercontent.com/u/13857475?v=4)
+
+**[WAX ：为您的所有代理提供共享的单文件内存层，在Apple Silicon上的文本、照片和视频上提供亚毫秒级的抹布。没有服务器。没有API。一个文件。纯粹的Swift](https://github.com/christopherkarani/Wax)**
+
+⭐ 801星级· 54分叉· Swift ·适用于所有代理商的共享单文件内存层，在Apple SiliconPure Swift上的文本、照片和视频上的分毫秒抹布
+
+📅 2026-09-26T18:18:56Z
+
+---
 
 ### GitHub New (New AI)
 ![🆕 ai-kyc-aml-assistant ：人工智能辅助合规仪表板，用于加快客户入驻流程，具有自动文档验证和PEP/制裁风险筛查工作流程。](https://avatars.githubusercontent.com/u/11300854?v=4)
@@ -282,107 +288,83 @@ Chat**GPT** Ads正在扩展到东南亚和台湾，为符合条件的企业提�
 
 **[🆕 递归变压器：哈佛大学Costin-Andrei Oncescu等人提出的递归变压器探索](https://github.com/lucidrains/recurrent-transformer)**
 
-⭐ 8 star (新项目) · N/A · Explorations into the Recurrent Transformer proposed by Costin-Andrei Oncescu et alof Harvard University
+⭐ 9 star (新项目) · Python · Explorations into the Recurrent Transformer proposed by Costin-Andrei Oncescu et alof Harvard University
 
 📅 2026-09-25T14:17:34Z
-
----
-
-### GitHub New (New AI)
-![🆕 log-depth-recurrent-modeling ：伦敦帝国理工学院王毅勤提出的对数深度循环建模探索](https://avatars.githubusercontent.com/u/108653?v=4)
-
-**[🆕 log-depth-recurrent-modeling ：伦敦帝国理工学院王毅勤提出的对数深度循环建模探索](https://github.com/lucidrains/log-depth-recurrent-modeling)**
-
-⭐ 5 star (新项目) · Python · Explorations into the Log Depth Recurrent Modeling proposed by Yiqin Wang of Imperial College London
-
-📅 2026-09-24T13:16:39Z
-
----
-
-### GitHub New (New AI)
-![🆕 opencode-proxy ：在任何地方使用OpenCode Zen免费模型—零步本地OpenAI兼容代理（ mimo、nemotron、ling、big-pickle、muse-spark ）](https://avatars.githubusercontent.com/u/277201506?v=4)
-
-**[🆕 opencode-proxy ：在任何地方使用OpenCode Zen免费模型—零步本地OpenAI兼容代理（ mimo、nemotron、ling、big-pickle、muse-spark ）](https://github.com/Parithosh-Varma/opencode-proxy)**
-
-⭐ 3 star (新项目) · JavaScript · Use OpenCode Zen free models anywhere — zero-dep local **OpenAI**-compatible proxy (mimobig-pickle
-
-📅 2026-09-23T04:01:13Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-![泡沫的真实定义](https://preview.redd.it/xo5d80al0rrh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=85e72edadf08e7faeaa110505b91e1d90a512bda)
+**[340万人刚刚将收件箱、日历和银行的钥匙交给了Meta代理。我正在构建永不离开手机的版本。](https://www.reddit.com/r/artificial/comments/1wquwvv/34_million_people_just_handed_meta_an_agent_with/)**
 
-**[泡沫的真实定义](https://www.reddit.com/r/artificial/comments/1wqawyl/the_true_definition_of_a_bubble/)**
+两周前， Meta**推出**了Muse400万次下载，增长速度超过了Chat**GPT**
 
-2025年， **Meta**的收入为2000亿美元， **OpenAI**的收入为130亿美元换句话说， **Meta**和**Google**正在凭空印钱，而**OpenAI**正在以令人难以置信的速度烧掉其他人的钱
-
-📅 2026-09-25T23:14:32.000Z
+📅 2026-09-26T16:33:05.000Z
 
 ---
 
-### Reddit: r/artificial
-**[艾依终于为我点击了](https://www.reddit.com/r/artificial/comments/1wq70zo/ai_finally_clicked_for_me/)**
+### X: OpenAI
+**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-​ 我已经搞了**GPT**、**Claude**和**Claude** Code一段时间了，我想我终于弄清楚了我做错了什么。特别是**Claude** Code
+网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-09-25T20:29:36.000Z
-
----
-
-### Hacker News
-**[显示HN ： Ekselio –适合财务工作流程（本地优先）](https://www.gptbeyond.com/try?home=1)**
-
-等-甚至建立了一个基本的网站-然后是**Claude**等跟随的聊天时刻
-
-📅 Fri, 25 Sep 2026 21:09:28 +0000
-
----
-
-### Reddit: r/artificial
-**[第37步假设：如果我们已经看到了我们尚未理解的动作，该怎么办？](https://www.reddit.com/r/artificial/comments/1wqb81n/the_move_37_hypothesis_what_if_were_already/)**
-
-**Anthropic**于2026年7月报告了网络安全评估中的几个案例，其中**Claude**模型从评估环境获得了互联网访问权限，随后未经授权访问了属于外部组织的真实世界系统。这可能发生在编程、科学、数学、网络安全、研究甚至人工智能开发和使用新工具的能力方面
-
-📅 2026-09-25T23:28:38.000Z
+📅 2026-09-26T18:22:14.901Z
 
 ---
 
 ### Hacker News
-**[告诉HN ： Codex已关闭[已修复]](https://news.ycombinator.com/item?id=49851032)**
+**[让Claude成为你的excalidraw助手](https://tangled.org/yanndegat.tngl.sh/drawgent)**
 
-**OpenAI**评论网址： https://**new**s
+文章网址： https://tangledsh/drawgent评论网址： https://**new**s
 
-📅 Fri, 25 Sep 2026 22:51:44 +0000
-
----
-
-### Hacker News
-**[揭示OpenAI代理如何入侵Hugging Face的详细信息](https://swarmtraces.org/)**
-
-文章网址： https://swarmtracesorg/评论网址： https://**new**s
-
-📅 Fri, 25 Sep 2026 21:09:27 +0000
+📅 Sat, 26 Sep 2026 15:56:34 +0000
 
 ---
 
 ### Hacker News
-**[Excel现在支持单个单元格中的多个值](https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395)**
+**[Show HN ：分析国际象棋比赛的Claude Code技能](https://github.com/brumar/chess-postmortem-skills)**
 
-相关： https://techcommunity评论网址： https://**new**s
+您好， HN ，它始于一个实验：如果**Claude**使用视觉而不是PGN符号，它能正确下棋吗？下一个实验是看看**Claude** + Stockfish是否可以解释一场比赛
 
-📅 Fri, 25 Sep 2026 20:55:00 +0000
+📅 Sat, 26 Sep 2026 15:34:53 +0000
 
 ---
 
 ### Hacker News
-**[Alan Kay ： Shannon给了我们一种处理嘈杂频道的方法[视频]](https://www.youtube.com/watch?v=Cjntrqhn8pk)**
+**[OpenAI机器人干涉多个美国政府机构网站](https://www.bbc.com/news/articles/cw62jje658dlo)**
 
-以下解释取自https://**new**sid = 49622607: Alan Kay对**Claude** Shannon进行即兴的前卫分层音频反馈循环
+文章网址： https://wwwcom/**new**s/articles/cw62jje658dlo评论网址： https://**new**s
 
-📅 Fri, 25 Sep 2026 18:37:05 +0000
+📅 Sat, 26 Sep 2026 14:03:54 +0000
+
+---
+
+### Hacker News
+**[与Google Play分手：为什么对话现在是免费的](https://gultsch.de/posts/breaking-up-with-google-play/)**
+
+文章网址： https://gultschde/posts/breaking-up-with-**Google**-play/评论网址： https://**new**s
+
+📅 Sat, 26 Sep 2026 10:55:56 +0000
+
+---
+
+### Hacker News AI
+**[违背承诺，没收土地：正在建设的超大规模人工智能数据中心](https://www.theguardian.com/world/2026/sep/26/ai-datacentre-hyperscale-india-andhra-pradesh-village-google-confiscated-land)**
+
+文章网址： https://wwwcom/world/2026/sep/26/ai-datacentre-hyperscale-india-andhra-pradesh-village-**Google**-quiscated-land评论网址： https://**new**s
+
+📅 Sat, 26 Sep 2026 17:07:08 +0000
+
+---
+
+### Hacker News AI
+**[什么是JEV AI ？系统一和可执行决策的实用指南](https://huggingface.co/blog/sora-2/what-is-jev-ai-a-practical-guide-to-system-one-and)**
+
+文章网址： https://huggingfaceco/blog/sora-2/what-is-jev-ai-a-practical-guide-to-system-one-and评论网址： https://**new**s
+
+📅 Sat, 26 Sep 2026 16:46:37 +0000
 
 ---
 
