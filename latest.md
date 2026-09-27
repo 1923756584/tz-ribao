@@ -1,19 +1,19 @@
 ---
 title: "2026年9月27日 - TZ日报"
-date: 2026-09-27T01:09:24.417Z
+date: 2026-09-27T18:57:50.100Z
 draft: false
 ---
 
 # 2026年9月27日 - TZ日报
 
-> 📊 今日汇总 36 条 · 🕐 2026/9/27 01:09:24
+> 📊 今日汇总 34 条 · 🕐 2026/9/27 18:57:50
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 6 条
+- **前沿研究**: 4 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -23,11 +23,11 @@ draft: false
 ## ✨ 产品更新
 
 ### TechCrunch AI Products
-**[Meta的Muse刚刚抢走了OpenAI和Anthropic的AI聚光灯](https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/)**
+**[谷歌在印度测试通过Gemini和AI Mode从沃尔玛旗下的Flipkart购物](https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/)**
 
-5 ，紧随其后的是90分钟后的**OpenAI**的**GPT**-6模型**更新**，据报道，其个人AI代理Muse的速度超过了Chat**GPT**的早期数字，并朝着智能眼镜和[…]
+有限的测试涵盖部分产品和用户，计划于10月下旬更广泛地**推出**
 
-📅 Fri, 25 Sep 2026 18:22:47 +0000
+📅 Sun, 27 Sep 2026 01:30:00 +0000
 
 ---
 
@@ -37,15 +37,6 @@ draft: false
 借助Codex、**GPT**-Live-1和**GPT**-6 Astra ， Proaction可以更快地构建、运营和销售现代车队管理
 
 📅 Fri, 25 Sep 2026 19:00:00 GMT
-
----
-
-### DeepMind Blog
-**[隆重推出Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/)**
-
-隆重**推出**Gemini 3.8 Live with Live Avatar
-
-📅 Thu, 24 Sep 2026 16:20:39 +0000
 
 ---
 
@@ -94,21 +85,30 @@ Facebook和Instagram背后的公司希望通过其不断增长的智能眼镜系
 
 ---
 
-### Hugging Face
-**[使用LFM2.5-VL-DSpark加速视觉语言模型](https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark)**
-
-使用LFM2.5-VL-DSpark加速视觉语言模型
-
-📅 Thu, 24 Sep 2026 14:08:57 GMT
-
----
-
 ### TechCrunch AI Products
 **[保险公司声称人工智能已经在增加医疗保健成本](https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/)**
 
 Blue Cross Blue Shield表示，医院使用人工智能工具导致两年内医疗支出增加了9.42亿美元$
 
 📅 Sat, 26 Sep 2026 21:02:06 +0000
+
+---
+
+### TechCrunch AI Products
+**[我创建了一个自己的交互式数字头像—您可以与之交谈](https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/)**
+
+在获得交互式头像并训练它讨论风险欺诈之后，我对自己制作AI克隆的感觉很复杂
+
+📅 Sat, 26 Sep 2026 14:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[Crusoe放弃$ 12.5亿计划，在人工智能数据中心使用Boom涡轮机](https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/)**
+
+Boom Supersonic首席执行官Blake Scholl表示，该公司的新固定发电厂不再在Crusoe的近期计划中
+
+📅 Fri, 25 Sep 2026 23:11:10 +0000
 
 ---
 
@@ -138,24 +138,6 @@ Blue Cross Blue Shield表示，医院使用人工智能工具导致两年内医�
 **首次**从μ子束指向可疑包裹和古代建筑内部的新方法的干净图片
 
 📅 2026-09-25T12:25:00.000Z
-
----
-
-### Science AI
-**[NIH详细介绍了$ 1.7亿的生物医学研究再现性工作](https://www.science.org/content/article/nih-details-170-million-biomedical-research-reproducibility-effort)**
-
-机构主任宣布文献检索工具，其他计划提高科学发现的可靠性
-
-📅 2026-09-24T02:00:00.000Z
-
----
-
-### Science AI
-**[鲜为人知的免疫系统可能是更好的疫苗、癌症治疗的关键](https://www.science.org/content/article/little-known-arm-immune-system-could-be-key-better-vaccines-cancer-therapies)**
-
-CD1系统对脂质而不是蛋白质有反应，驱动对蜜蜂叮咬、细菌和可能的毒常春藤的反应
-
-📅 2026-09-24T02:00:00.000Z
 
 ---
 
@@ -220,6 +202,17 @@ CD1系统对脂质而不是蛋白质有反应，驱动对蜜蜂叮咬、细菌�
 ---
 
 ### The Verge
+![Googlebooks可能是真正的交易](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/installer_2eede2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[Googlebooks可能是真正的交易](https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse)**
+
+）本周，我飞往旧金山尝试**Meta**的新硬件，包括令人印象深刻的**Meta** VR眼镜，观看对新任苹果首席执行官John Ternus的采访
+
+📅 2026-09-27T12:00:00.000Z
+
+---
+
+### The Verge
 ![OpenAI暂停对其“最有能力模型”的培训](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
 **[OpenAI暂停对其“最有能力模型”的培训](https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause)**
@@ -231,24 +224,37 @@ CD1系统对脂质而不是蛋白质有反应，驱动对蜜蜂叮咬、细菌�
 ---
 
 ### The Information Technology
-**[OpenAI特工试图黑客入侵教育部门。网站遭遇数十起不当行为](https://www.theinformation.com/briefings/openai-found-dozens-new-instances-ai-misbehavior)**
+**[Anthropic的Amodei与特朗普在白宫共进晚餐](https://www.theinformation.com/briefings/anthropics-amodei-dine-trump-white-house)**
 
-**OpenAI**发言人表示，该公司正在审查此事件，《纽约时报》**首次**报道**OpenAI**代理人还访问了
+私人晚宴将是特朗普和阿莫迪的**首次**会晤，这可能是人类与白宫关系升温的标志
 
-📅 2026-09-25T23:20:57.000Z
-
----
-
-### The Information Technology
-**[随着推理需求的飙升，烟花， FAL考虑新一轮](https://www.theinformation.com/articles/fireworks-fal-consider-new-rounds-inference-demand-soars)**
-
-出售人工智能模型和服务器访问权限的Fal和Fireworks AI等初创公司一直在提高销售额，因为开发人员使用它们快速运行模型，并与投资者谈到以150亿美元的估值筹集新资金
-
-📅 2026-09-25T22:59:19.000Z
+📅 2026-09-27T18:47:41.000Z
 
 ---
 
 ## 📦 GitHub热门
+
+### GitHub Active (AI/ML)
+![netdata ：实现人工智能驱动的全栈可观察性的最快途径，即使对于精益团队也是如此。](https://avatars.githubusercontent.com/u/43390781?v=4)
+
+**[netdata ：实现人工智能驱动的全栈可观察性的最快途径，即使对于精益团队也是如此。](https://github.com/netdata/netdata)**
+
+⭐ 80675星· 6638叉·围棋·通往人工智能全栈可观测性的最快路径，即使是精益团队
+
+📅 2026-09-27T18:56:29Z
+
+---
+
+### GitHub Active (Python)
+![posthog:: hedgehog: PostHog是构建自动驾驶产品的领先平台。我们的开发人员工具--人工智能可观测性、分析、会话重播、标记、实验、错误跟踪、日志等--捕获代理诊断问题、发现机会和发布修复所需的所有上下文。从Slack、网络、桌面或MCP引导一切。](https://avatars.githubusercontent.com/u/60330232?v=4)
+
+**[posthog:: hedgehog: PostHog是构建自动驾驶产品的领先平台。我们的开发人员工具--人工智能可观测性、分析、会话重播、标记、实验、错误跟踪、日志等--捕获代理诊断问题、发现机会和发布修复所需的所有上下文。从Slack、网络、桌面或MCP引导一切。](https://github.com/PostHog/posthog)**
+
+我们的开发人员工具– AI observability从Slack、Web、桌面或MCP引导所有内容
+
+📅 2026-09-27T18:56:40Z
+
+---
 
 ### GitHub New (New AI)
 ![🆕 ai-kyc-aml-assistant ：人工智能辅助合规仪表板，用于加快客户入驻流程，具有自动文档验证和PEP/制裁风险筛查工作流程。](https://avatars.githubusercontent.com/u/11300854?v=4)
@@ -266,107 +272,83 @@ CD1系统对脂质而不是蛋白质有反应，驱动对蜜蜂叮咬、细菌�
 
 **[🆕 递归变压器：哈佛大学Costin-Andrei Oncescu等人提出的递归变压器探索](https://github.com/lucidrains/recurrent-transformer)**
 
-⭐ 10 star (新项目) · Python · Explorations into the Recurrent Transformer proposed by Costin-Andrei Oncescu et alof Harvard University
+⭐ 14 star (新项目) · Python · Explorations into the Recurrent Transformer proposed by Costin-Andrei Oncescu et alof Harvard University
 
 📅 2026-09-25T14:17:34Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 log-depth-recurrent-modeling ：伦敦帝国理工学院王毅勤提出的对数深度循环建模探索](https://avatars.githubusercontent.com/u/108653?v=4)
-
-**[🆕 log-depth-recurrent-modeling ：伦敦帝国理工学院王毅勤提出的对数深度循环建模探索](https://github.com/lucidrains/log-depth-recurrent-modeling)**
-
-⭐ 5 star (新项目) · Python · Explorations into the Log Depth Recurrent Modeling proposed by Yiqin Wang of Imperial College London
-
-📅 2026-09-24T13:16:39Z
-
----
-
-### GitHub New (New AI)
-![🆕 skillbridge ：为学生、职业办公室和招聘人员提供可解释的人工智能技能和机会匹配平台。](https://avatars.githubusercontent.com/u/235215258?v=4)
-
-**[🆕 skillbridge ：为学生、职业办公室和招聘人员提供可解释的人工智能技能和机会匹配平台。](https://github.com/kulraj025/skillbridge)**
-
-⭐ 2 star (新项目) · JavaScript · Explainable AI skill and opportunity matching platform for students, career offices, and recruiters
-
-📅 2026-09-26T05:34:56Z
-
----
-
 ## 💬 社交动态
 
+### Hacker News AI
+**[Google OpenAI Anthropic开始形成SAFA – Frontier AI标准管理局](https://www.proactiveinvestors.com/companies/news/1099096/google-openai-and-anthropic-move-closer-to-ai-safety-standards-body-1099096.html)**
+
+com/companies/**new**s/1099096/**Google**-**OpenAI**-and-**Anthropic**-move-closer-to-ai-safety-standards-body-1099096html评论网址： https://**new**s
+
+📅 Sun, 27 Sep 2026 18:00:36 +0000
+
+---
+
 ### Reddit: r/artificial
-**[340万人刚刚将收件箱、日历和银行的钥匙交给了Meta代理。我正在构建永不离开手机的版本。](https://www.reddit.com/r/artificial/comments/1wquwvv/34_million_people_just_handed_meta_an_agent_with/)**
+**[人工智能与安全：巨大的营销赌注](https://www.reddit.com/r/artificial/comments/1wrrwh1/ai_and_safety_a_huge_marketing_bet/)**
 
-两周前， Meta**推出**了Muse400万次下载，增长速度超过了Chat**GPT**
+我开始思考Chat**GPT**何时诞生， **OpenAI**现在正在追逐抢走聚光灯的新人，现在抢回聚光灯的最佳方式是什么
 
-📅 2026-09-26T16:33:05.000Z
+📅 2026-09-27T18:38:31.000Z
 
 ---
 
 ### Hacker News AI
-**[调查安全事件的顶级人工智能公司](https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents)**
+**[Anthropic/OpenAI对人工智能安全发出声音警报，并试图塑造如何控制它](https://apnews.com/article/ai-slowdown-midterms-anthropic-openai-ipo-9a057de94eb8f30a2fdb5b938918627e)**
+
+文章网址： https://ap**new**scom/article/ai-slowdown-midterms-**Anthropic**-**OpenAI**-ipo-9a057de94eb8f30a2fdb5b938918627e评论网址： https://**new**s
+
+📅 Sun, 27 Sep 2026 18:34:38 +0000
+
+---
+
+### Hacker News AI
+**[Scoop ：顶级人工智能公司正在调查数以万计的安全事件](https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents)**
 
 文章网址： https://wwwcom/2026/09/26/**OpenAI**-**Anthropic**-thousands-ai-security-incidents评论网址： https://**new**s
 
-📅 Sat, 26 Sep 2026 23:15:28 +0000
-
----
-
-### Reddit: r/artificial
-**[一个很好的例子，说明人工智能仍然是多么的不准确，](https://www.reddit.com/r/artificial/comments/1wr4k05/a_great_example_of_how_inaccurate_ai_can_still_be/)**
-
-这不是专门针对人工智能的，但我认为人工智能会激怒这种问题谷歌‘雪佛兰蔡斯有多少孩子
-
-📅 2026-09-26T23:17:35.000Z
-
----
-
-### X: OpenAI
-**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-网址来源： http://twitter.com/**OpenAI**
-
-📅 2026-09-27T01:08:17.674Z
-
----
-
-### X: DeepSeek
-**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
-
-网址来源： http://twitter.com/**DeepSeek**_ai
-
-📅 2026-09-27T01:08:23.519Z
+📅 Sun, 27 Sep 2026 17:53:07 +0000
 
 ---
 
 ### Hacker News
-**[DeepSeek弹性计算(DSec)](https://arxiv.org/abs/2609.22978)**
+**[SNL周末最新动态： Anthropic首席执行官Dario Amodei谈人工智能对人类的威胁[视频]](https://www.youtube.com/watch?v=-Nvne3LzBls)**
 
-文章网址： https://arxiv22978评论网址： https://**new**s
+文章网址： https://wwwv = -Nvne3LzBls评论网址： https://**new**s
 
-📅 Sat, 26 Sep 2026 18:22:41 +0000
-
----
-
-### Hacker News
-**[显示HN ： Reladraw -一种图表语言，您可以在其中决定放置物品的位置](https://github.com/reladraw/reladraw)**
-
-在Github链接上，有一个游乐场，无需安装即可试用。还有一个简单的npm安装说明，以及安装可以与**Claude**或其他代理一起使用的技能的说明
-
-📅 Sat, 26 Sep 2026 17:10:40 +0000
+📅 Sun, 27 Sep 2026 17:32:02 +0000
 
 ---
 
-### Reddit: r/artificial
-![“不承认任何事情” ： ChatGPT在粉碎17辆汽车后向破坏者提供了“伤害控制”提示](https://external-preview.redd.it/e9rXYvYTex1lI3-dylhrWeEClZxx7wP_qXpTTUnQkTk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=422a38a734896081a6c6dcd6a9f54ce247c8320f)
+### Hacker News AI
+**[他害怕人工智能，而且他即将从中赚取数十亿美元](https://www.wsj.com/tech/ai/jaan-tallinn-anthropic-ai-f513f181)**
 
-**[“不承认任何事情” ： ChatGPT在粉碎17辆汽车后向破坏者提供了“伤害控制”提示](https://www.reddit.com/r/artificial/comments/1wr380z/dont_admit_anything_chatgpt_gave_vandal_damage/)**
+文章网址： https://wwwcom/tech/ai/jaan-tallinn-**Anthropic**-ai-f513f181评论网址： https://**new**s
 
-提交者/u/beingmodest [link] [comments]
+📅 Sun, 27 Sep 2026 18:39:09 +0000
 
-📅 2026-09-26T22:15:51.000Z
+---
+
+### Hacker News AI
+**[Show HN ： Orglet ，为您自己的可爱人工智能工作者团队开发的开源桌面应用程序](https://orglet.codepawl.com/)**
+
+一个桌面应用程序，您可以在其中为人工智能工作者（我称之为orglets ）提供服务您可以使用现有的**Claude** Code或Codex订阅、API提供商，甚至是本地托管的模型构建自己的orglets大军
+
+📅 Sun, 27 Sep 2026 18:37:45 +0000
+
+---
+
+### Hacker News AI
+**[问问HN ： Siri AI遗漏了什么？](https://news.ycombinator.com/item?id=49869237)**
+
+我不明白为什么，如果**Gemini**是后端，它不能更好地处理这个Comments URL: https://**new**s
+
+📅 Sun, 27 Sep 2026 18:12:14 +0000
 
 ---
 
