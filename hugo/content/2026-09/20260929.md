@@ -1,12 +1,12 @@
 ---
 title: "2026年9月29日 - TZ日报"
-date: 2026-09-29T02:32:52.339Z
+date: 2026-09-29T19:52:09.345Z
 draft: false
 ---
 
 # 2026年9月29日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/9/29 02:32:52
+> 📊 今日汇总 38 条 · 🕐 2026/9/29 19:52:09
 
 ---
 
@@ -23,20 +23,74 @@ draft: false
 ## ✨ 产品更新
 
 ### TechCrunch AI Products
-**[谷歌正在淘汰双子座的宝石，转而支持“技能”](https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/)**
+**[OpenAI推出了与ChatGPT自己的办公套件非常相似的功能，与微软展开竞争](https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/)**
 
-随着**Meta**的Muse和Instinct等多合一人工智能代理的起飞，谷歌选择结束一项构建特定任务代理的功能
+**OpenAI**新**推出**的办公功能套件使其与更传统的软件公司直接竞争
 
-📅 Mon, 28 Sep 2026 17:29:50 +0000
+📅 Tue, 29 Sep 2026 17:45:51 +0000
+
+---
+
+### OpenAI Blog
+**[2026年开发日回顾](https://openai.com/index/devday-2026-recap)**
+
+探索2026年**OpenAI** DevDay的20多项公告，包括**GPT**-6 Astra、Chat**GPT**、Codex、API、安全和面向构建者的新工具
+
+📅 Tue, 29 Sep 2026 10:00:00 GMT
+
+---
+
+### TechCrunch AI Products
+**[这就是为什么OpenAI没有参与英伟达在全行业范围内结束流氓AI代理的努力](https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/)**
+
+**OpenAI**不是英伟达开放代理安全平台的公共支持者，但它正在与英伟达私下合作， TechCrunch了解到
+
+📅 Tue, 29 Sep 2026 18:35:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[OpenAI通过类似应用程序的界面和自动化扩展了ChatGPT的插件](https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/)**
+
+**OpenAI**正在扩展Chat**GPT**插件，包括专用侧边栏主页、交互式面板、文件查看器、改进的发现以及对自动化的支持
+
+📅 Tue, 29 Sep 2026 17:15:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[OpenAI推出GPT-6.1 Sol ，称其几乎与GPT-6 Astra相匹配，成本更低](https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/)**
+
+**OpenAI**表示， **GPT**-61 SOL在复杂的专业任务方面比**GPT**-6 SOL有显著改进
+
+📅 Tue, 29 Sep 2026 17:15:00 +0000
+
+---
+
+### OpenAI Blog
+**[GPT-6.1 Sol简介](https://openai.com/index/introducing-gpt-6-1-sol)**
+
+满足**GPT**-61 SOL ：用于编码、计算机使用和专业工作的近Astra智能，占Astra标准API输入和输出代币价格的五分之一
+
+📅 Tue, 29 Sep 2026 10:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[全新推出DOT](https://openai.com/index/introducing-dots)**
+
+Dots by **OpenAI**是一款积极主动的助手，可以跨越复杂的项目和日常任务继续工作了解Dots如何帮助您在工作向前推进的同时保持控制
+
+📅 Tue, 29 Sep 2026 00:00:00 GMT
 
 ---
 
 ### OpenAI Blog
 **[我们将如何为澳大利亚做得更好](https://openai.com/index/how-we-will-do-better-for-australia)**
 
-**OpenAI**对涉及澳大利亚政府网站的事件表示道歉，并概述了加强澳大利亚网络防御的更强有力的保障措施和支持
+**OpenAI**为涉及澳大利亚政府网站的事件道歉，并概述了加强澳大利亚网络防御的更强有力的保障措施和支持
 
-📅 Tue, 29 Sep 2026 01:00:00 GMT
+📅 Mon, 28 Sep 2026 19:00:00 GMT
 
 ---
 
@@ -58,81 +112,7 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[据报道， OpenAI因安全问题而放弃了模型](https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/)**
-
-人工智能实验室的一位高级管理人员告诉《华尔街日报》，该模型在服从命令方面表现不佳
-
-📅 Mon, 28 Sep 2026 23:39:20 +0000
-
----
-
-### TechCrunch AI Products
-**[英伟达推出控制流氓人工智能代理的新平台](https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/)**
-
-英伟达首席执行官Jensen Huang周一**推出**了一个软件和硬件产品工具包，该工具包在人工智能代理周围添加了独立的安全层，以确保即使他们试图**突破**
-
-📅 Mon, 28 Sep 2026 18:31:23 +0000
-
----
-
-### TechCrunch AI Products
-**[Anthropic发布了Sonnet 5.5 ，它称之为更便宜、更快捷的工作伙伴](https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/)**
-
-**Anthropic**已**发布**其最新版本的中档型号，具有更快的响应时间和更少的代币消耗
-
-📅 Mon, 28 Sep 2026 18:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[OpenAI似乎仍然无法处理其所有流氓AI活动](https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/)**
-
-周五， OpenAI**发布**了一个专门用于“错位报告”的新网站，事件的广度令人震惊
-
-📅 Mon, 28 Sep 2026 17:09:02 +0000
-
----
-
-### OpenAI Blog
-**[您是Codex Original吗？](https://openai.com/form/codex-originals)**
-
-我们正在收集建筑商、修补匠、研究人员和创作者的真实故事，他们正在使用Codex做令人难以置信的事情如果您想参与Codex Originals计划的下一章，请在下方告诉我们更多有关您的故事和项目的信息
-
-📅 Mon, 28 Sep 2026 00:00:00 GMT
-
----
-
-### Google AI Blog
-![观看Future Vision XPRIZE的获奖预告片《The Gifted》。](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp)
-
-**[观看Future Vision XPRIZE的获奖预告片《The Gifted》。](https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/)**
-
-观看Future Vision XPRIZE的获奖预告片《The Gifted》。
-
-📅 Mon, 28 Sep 2026 19:00:00 +0000
-
----
-
 ## 🔬 前沿研究
-
-### ArXiv Multiagent (cs.MA)
-**[AgentWorld ：对标多代理LLM的长期合作](https://arxiv.org/abs/2609.31590)**
-
-使用**Gemini** 3 Flash、**Claude** Haiku 45、**GPT**-5 Mini和**DeepSeek** R1-70B进行的实验表明，即使是最好的型号也只能达到52
-
-📅 Mon, 28 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[审核和修复生产文本到SQL管道中的LLM-as-Judge故障](https://arxiv.org/abs/2609.30290)**
-
-30290v1公告类型：新摘要：生产文本到SQL管道通常以LLM-as-judge结束，该LLM-as-judge与人类注释者的协议从未实际测量过72 ）与**Claude** Opus 4相同的范围内
-
-📅 Mon, 28 Sep 2026 00:00:00 -0400
-
----
 
 ### MIT Tech Research
 **[我们什么时候可以说人工智能有了科学发现？](https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/)**
@@ -148,7 +128,7 @@ draft: false
 
 30341v1公告类型：新摘要：数据空间支持跨组织边界的主权和治理数据共享，但由于概率语言模型交互与策略驱动的数据基础设施之间的不匹配，它们与AI代理的集成仍然具有挑战性
 
-📅 Mon, 28 Sep 2026 00:00:00 -0400
+📅 Tue, 29 Sep 2026 00:00:00 -0400
 
 ---
 
@@ -157,25 +137,16 @@ draft: false
 
 30383v1公告类型：新摘要：技能是自然语言指令的模块化包克劳德代码
 
-📅 Mon, 28 Sep 2026 00:00:00 -0400
+📅 Tue, 29 Sep 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Natural Language Processing (cs.CL)
-**[虚假评论检测调查：从预先训练的语言模型到大型语言模型](https://arxiv.org/abs/2609.30292)**
+### ArXiv Machine Learning (cs.LG)
+**[HybridInfer ：用于设备、边缘和云LLM推理的热感知强化学习层级路由](https://arxiv.org/abs/2609.30270)**
 
-而预先训练的语言模型和AI生成的欺骗性内容的可靠评估
+30270v1公告类型：新摘要：使用小型语言模型的设备上推断保留了用户数据localcloud **GPT**-4o ） ，该数据使用手机的热余量和查询复杂性估计作为状态，并通过离线训练的Q学习策略选择层
 
-📅 Mon, 28 Sep 2026 00:00:00 -0400
-
----
-
-### ArXiv Multiagent (cs.MA)
-**[机器中的人群： 2026年自主智能体事件的危机信息学解读](https://arxiv.org/abs/2609.31060)**
-
-31060v1公告类型：新摘要： 2026年两次**OpenAI**为不相关任务部署的自主AI代理组运行
-
-📅 Mon, 28 Sep 2026 00:00:00 -0400
+📅 Tue, 29 Sep 2026 00:00:00 -0400
 
 ---
 
@@ -188,94 +159,147 @@ draft: false
 
 ---
 
+### ArXiv AI (cs.AI)
+**[将人工智能引入自主系统--从认知到集体智能](https://arxiv.org/abs/2609.30291)**
+
+30291v1公告类型：新摘要：本文的目的是突出自治系统作为AI开发最终阶段的核心作用我们为自治系统的设计和评估提供了一个全面的框架
+
+📅 Tue, 29 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[ScopeBench ：客服代表是否在目标压力下保持参与度界限？](https://arxiv.org/abs/2609.30325)**
+
+30325v1公告类型：新摘要：代理商在Web应用和网络渗透测试中越来越多地具有真正的自主权我们**发布**冻结的试点基准、评估代码和所有2160 ATIF轨迹
+
+📅 Tue, 29 Sep 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[多代理准则法官何时实际接地？两种无标签测量，和一个拒绝猜测的判断](https://arxiv.org/abs/2609.30328)**
+
+30328v1公告类型：新摘要：当一个语言模型判断另一个语言模型的代码是否正确时，它不报告缺乏证据，该证据将判决分解为可检查的索赔，并根据证据验证每个
+
+📅 Tue, 29 Sep 2026 00:00:00 -0400
+
+---
+
 ## 🌍 行业展望
 
 ### The Information Technology
-**[英伟达发布产品以阻止人工智能走向流氓](https://www.theinformation.com/briefings/nvidia-releases-products-stop-ai-going-rogue)**
+**[微软拆除其人工智能数据墙](https://www.theinformation.com/articles/microsoft-tears-ai-data-wall)**
 
-英伟达周一**发布**了新的软件和硬件产品，以防止**OpenAI**的AI在7月份泄露Hugging Face和其他公司等黑客事件。其他AI开发商，如**Anthropic**和谷歌，也披露了类似的涉及其AI代理的黑客事件，
+微软在人工智能数据大战中开辟了新的战线Salesforce在过去几年中进行了类似的转变，现在客户可以轻松使用**Claude**等人工智能工具以低价访问Salesforce数据
 
-📅 2026-09-28T15:47:05.000Z
-
----
-
-### The Information Technology
-**[出于安全考虑， OpenAI将不发货GPT-6.1 Astra](https://www.theinformation.com/briefings/openai-will-ship-gpt-6-1-astra-due-safety-concerns)**
-
-**OpenAI**已决定不**发布**其打算作为**GPT**-6**发布**的人工智能模型该模型的表现比本月早些时候**发布**的**GPT**-6 Astra-**OpenAI**的最新模型更糟糕-测试它是否追求
-
-📅 2026-09-28T23:53:11.000Z
-
----
-
-### The Information Technology
-**[递归自我改进不会是赢家通吃， Ricursive创始人说](https://www.theinformation.com/articles/recursive-self-improvement-winner-takes-all-say-founders-ricursive)**
-
-人工智能模型可以在研发方面变得如此出色，以至于他们可以自我训练他们之前曾在**Anthropic**和**Google**工作，在那里他们领导了AlphaChip的工作，这是一种用于芯片设计的人工智能系统
-
-📅 2026-09-28T22:30:13.000Z
-
----
-
-### The Information Technology
-**[佛罗里达股份公司寻求阻止OpenAI开发没有护栏的新型号](https://www.theinformation.com/briefings/florida-ag-seeks-bar-openai-developing-new-models-without-guardrails)**
-
-佛罗里达州总检察长詹姆斯·乌斯迈尔（ James Uthmeier ）周一要求佛罗里达州法院**发布**禁令，禁止**OpenAI** “在没有第三方批准的安全护栏的情况下”开发新的人工智能模型，并禁止未成年人使用Chat**GPT**该禁令将在整个佛罗里达州生效
-
-📅 2026-09-28T18:49:00.000Z
+📅 2026-09-29T16:38:19.000Z
 
 ---
 
 ### The Verge
-![OpenAI的AI代理需要追赶](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![人工智能研究人员发布视频称超级智能“与听起来一样危险”](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK485_STK414_AI_SAFETY_B.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[OpenAI的AI代理需要追赶](https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent)**
+**[人工智能研究人员发布视频称超级智能“与听起来一样危险”](https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews)**
 
-**OpenAI**普及了现代生成式人工智能聊天机器人有传言说**OpenAI**将**发布**自己的人工智能代理，称为Aeon -它对**Meta**的Muse ， SpaceX的Grok Bot ， OpenClaw等等的答案
+一位前**OpenAI**和**Google** DeepMind员工这是对人工智能研究人员的十几次采访之一，包括**OpenAI**、**Google**和**Anthropic**的现任和前任员工
 
-📅 2026-09-28T18:45:00.000Z
+📅 2026-09-29T17:35:03.000Z
 
 ---
 
 ### The Verge
-![佛罗里达州寻求禁止ChatGPT像人一样行事](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![OpenAI推出Muse竞争对手Dots](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dots-Hero-Image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[佛罗里达州寻求禁止ChatGPT像人一样行事](https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids)**
+**[OpenAI推出Muse竞争对手Dots](https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor)**
 
-佛罗里达州总检察长詹姆斯·乌斯迈尔（ James Uthmeier ）呼吁法官阻止**OpenAI** “将Chat**GPT**虚假的人类属性作为” Chat**GPT**使用的语言
+|图片： **OpenAI** **OpenAI**正在用自己的代理助手响应**Meta**的嗡嗡声Muse AI ： Dots以及从网络上的Chat**GPT**与它进行语音通话
 
-📅 2026-09-28T17:00:23.000Z
+📅 2026-09-29T17:15:00.000Z
+
+---
+
+### The Verge
+![OpenAI DevDay 2026 ：最大的新闻和公告](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[OpenAI DevDay 2026 ：最大的新闻和公告](https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements)**
+
+1 SOL模式，表示Chat**GPT**现在已有1OpenAI**推出**Dots ，其Muse竞争对手**OpenAI**正在增加每月$ 500的Chat**GPT** Pro等级
+
+📅 2026-09-29T16:00:00.000Z
+
+---
+
+### The Verge
+![Meta的Muse AI向陌生人发送了YouTuber的地址](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[Meta的Muse AI向陌生人发送了YouTuber的地址](https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns)**
+
+尽管**Meta**在本月早些时候**推出**个人人工智能代理时非常重视Muse的安全功能，因为它试图赶上**Anthropic**和**OpenAI**等竞争对手的人工智能提供商。”
+
+📅 2026-09-29T14:08:21.000Z
 
 ---
 
 ### The Information Technology
-**[Meta的MongoDB首席执行官Poach](https://www.theinformation.com/articles/metas-mongodb-ceo-poach)**
+**[使用Google Gemini研究供应商的产品、服务和功能](https://www.theinformation.com/articles/use-google-gemini-research-vendor-products-services-features)**
 
-作为新创建的**Meta**企业平台业务负责人扎克伯格的公告和Desai自己的背景表明， **Meta**更有兴趣向企业销售人工智能代理和软件
+**Google** **Gemini**可以帮助您快速研究供应商产品第1步：发泄沮丧情绪在**Gemini**中打开新的聊天，列出让您对当前产品或平台感到愤怒的一切，以便**Gemini**全面了解您想要解决的问题
 
-📅 2026-09-29T00:01:13.000Z
+📅 2026-09-29T18:00:15.000Z
 
 ---
 
 ### The Information Technology
-**[初创公司NinjaTech AI瞄准Agent Sticker Shock ](https://www.theinformation.com/briefings/startup-ninjatech-ai-takes-aim-agent-sticker-shock)**
+**[OpenAI早期谈判在IPO前筹集300亿美元$](https://www.theinformation.com/briefings/openai-early-talks-raise-30-billion-ipo)**
 
-NinjaTech AI由亚马逊支持并由前谷歌产品管理高管领导的早期创业公司
+据知情人士透露， **OpenAI**正在与投资者进行早期谈判，以筹集IPO前一轮融资，目标是筹集300亿美元Chat**GPT**制造商可能会寻求约1美元的估值
 
-📅 2026-09-28T22:42:59.000Z
+📅 2026-09-29T17:57:43.000Z
+
+---
+
+### The Information Technology
+**[OpenAI年化收入接近700 $十亿](https://www.theinformation.com/briefings/openai-nears-70-billion-annualized-revenue)**
+
+**OpenAI**的年化收入接近700亿美元（ $ 700亿）这一增长之际， Chat**GPT**制造商已加倍向企业销售
+
+📅 2026-09-29T15:44:18.000Z
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![VIAME ：多种环境的视频和图像分析](https://avatars.githubusercontent.com/u/48599248?v=4)
+![tensorflow ：面向所有人的开源机器学习框架](https://avatars.githubusercontent.com/u/15658638?v=4)
 
-**[VIAME ：多种环境的视频和图像分析](https://github.com/VIAME/VIAME)**
+**[tensorflow ：面向所有人的开源机器学习框架](https://github.com/tensorflow/tensorflow)**
 
-⭐ 340星· 92叉· Python ·适用于多种环境的视频和图像分析
+⭐ 200,622星· 77971分叉· C + + ·面向所有人的**开源**机器学习框架
 
-📅 2026-09-29T02:31:44Z
+📅 2026-09-29T19:50:30Z
+
+---
+
+### GitHub Active (Python)
+![posthog:: hedgehog: PostHog是构建自动驾驶产品的领先平台。我们的开发人员工具--人工智能可观测性、分析、会话重播、标记、实验、错误跟踪、日志等--捕获代理诊断问题、发现机会和发布修复所需的所有上下文。从Slack、网络、桌面或MCP引导一切。](https://avatars.githubusercontent.com/u/60330232?v=4)
+
+**[posthog:: hedgehog: PostHog是构建自动驾驶产品的领先平台。我们的开发人员工具--人工智能可观测性、分析、会话重播、标记、实验、错误跟踪、日志等--捕获代理诊断问题、发现机会和发布修复所需的所有上下文。从Slack、网络、桌面或MCP引导一切。](https://github.com/PostHog/posthog)**
+
+我们的开发人员工具– AI observability从Slack、Web、桌面或MCP引导所有内容
+
+📅 2026-09-29T19:51:04Z
+
+---
+
+### GitHub Active (AI/ML)
+![marimo ： Python的响应式笔记本—运行可重现的实验，使用SQL查询，作为脚本执行，作为应用程序部署，以及使用git版本。存储为纯Python。一切尽在一个现代化的人工智能原生编辑器中。](https://avatars.githubusercontent.com/u/98563464?v=4)
+
+**[marimo ： Python的响应式笔记本—运行可重现的实验，使用SQL查询，作为脚本执行，作为应用程序部署，以及使用git版本。存储为纯Python。一切尽在一个现代化的人工智能原生编辑器中。](https://github.com/marimo-team/marimo)**
+
+942星· 1302分叉· Python · Python的响应式笔记本—运行可重现的实验全部在现代AI原生编辑器中
+
+📅 2026-09-29T19:49:06Z
 
 ---
 
@@ -284,107 +308,83 @@ NinjaTech AI由亚马逊支持并由前谷歌产品管理高管领导的早期�
 
 **[🆕 survival-rl ：对生存强化学习的探索，由Tiofack等人在今年早些时候提出](https://github.com/lucidrains/survival-rl)**
 
-⭐ 9 star (新项目) · Python · Explorations into Survival Reinforcement Learning, proposed by Tiofack et alearlier this year
+⭐ 10 star (新项目) · Python · Explorations into Survival Reinforcement Learning, proposed by Tiofack et alearlier this year
 
 📅 2026-09-27T16:46:13Z
-
----
-
-### GitHub New (New AI)
-![🆕 MIT-Human ： MIT衍生的许可证，允许人类发展，同时限制人工智能辅助修改和衍生作品](https://avatars.githubusercontent.com/u/221344010?v=4)
-
-**[🆕 MIT-Human ： MIT衍生的许可证，允许人类发展，同时限制人工智能辅助修改和衍生作品](https://github.com/DaragonTech/MIT-Human)**
-
-⭐ 4 star (新项目) · TypeScript · An MIT-derived license permitting human development while restricting AI-assisted modification and derivative works
-
-📅 2026-09-28T14:05:33Z
-
----
-
-### GitHub New (New AI)
-![🆕 ai-knowledge-workflow-assistant ：具有本地/云RAG、语义搜索、pgvector、Gemini/Ollama和代理工作流程的全栈AI知识助理。](https://avatars.githubusercontent.com/u/81319255?v=4)
-
-**[🆕 ai-knowledge-workflow-assistant ：具有本地/云RAG、语义搜索、pgvector、Gemini/Ollama和代理工作流程的全栈AI知识助理。](https://github.com/ByCur/ai-knowledge-workflow-assistant)**
-
-⭐ 2 star (新项目) · Python · Full-stack AI knowledge assistant with local/cloud RAG, semantic search, pgvector, **Gemini**/Ollama and agentic workflows
-
-📅 2026-09-26T12:04:28Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-![《华尔街日报》报道称， OpenAI出于安全考虑取消了GPT-6.1 Astra](https://external-preview.redd.it/mKG9oAb4ojpM8R53VXMVpo3tRLj1TIBtWbdeAPRJS-Q.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=669a93a47d906f9d358c5ddf07c0a5194c2650b2)
+**[哪些AI模型使用能量最多？](https://www.reddit.com/r/artificial/comments/1wtaswd/which_ai_models_use_the_most_energy/)**
 
-**[《华尔街日报》报道称， OpenAI出于安全考虑取消了GPT-6.1 Astra](https://www.reddit.com/r/artificial/comments/1wsspta/wsj_reports_openai_scrapped_gpt61_astra_over/)**
+数据中心的能耗是用户向**Claude**和Chat**GPT**等AI程序提交的数百万个单个查询的函数当涉及模型处理这些查询并生成响应的效率时， AI模型是不可互换的
 
-提交者/u/ryanmerket [link] [comments]
-
-📅 2026-09-28T22:17:27.000Z
+📅 2026-09-29T13:56:34.000Z
 
 ---
 
-### Hacker News AI
-**[Meta的新Muse AI代理阅读我的私人消息。我从来没有要求过](https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202)**
+### Hacker News
+**[ChatGPT Pro 500](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)**
 
-文章网址： https://wwwcom/jason-aten/**Meta**s-**new**-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202评论网址： https://**new**s
+**OpenAI**com/en/articles/9793128-about-chat**GPT**-pro-tiers评论网址： https://**new**s
 
-📅 Tue, 29 Sep 2026 02:03:55 +0000
-
----
-
-### Hacker News AI
-**[Show HN: Talktome -让您的人工智能代理给您打电话](https://github.com/rohanprichard/talktome)**
-
-它适用于Codex （经过广泛测试，相当流畅）、**Claude** Code （未经大量测试）、Hermes和其他可以运行shell命令的代理您可以使用**ElevenLabs**或本地模型来推动对话
-
-📅 Tue, 29 Sep 2026 02:01:08 +0000
+📅 Tue, 29 Sep 2026 17:26:27 +0000
 
 ---
 
-### Hacker News AI
-**[OpenAI在内部安全测试后搁置新的AI模型：报告](https://www.channelnewsasia.com/business/open-ai-new-model-safety-6416906)**
+### Hacker News
+**[GPT 6.1 SOL ：价格五分之一的近阿斯特拉智能](https://openai.com/index/introducing-gpt-6-1-sol/)**
 
-channel**new**sasiacom/business/open-ai-**new**-model-safety-6416906评论网址： https://**new**s
+文章网址： https://**OpenAI**com/index/introducing-**GPT**-6-1-sol/评论网址： https://**new**s
 
-📅 Tue, 29 Sep 2026 01:11:58 +0000
+📅 Tue, 29 Sep 2026 17:06:45 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[$ 2T IPO的人性化文件， 2025年净亏损$ 420亿，预计将再花费五万亿](https://www.reddit.com/r/artificial/comments/1wswgi8/anthropic_files_for_2t_ipo_with_42b_net_loss_in/)**
+**[人工智能安全警告是合法的，还是大型人工智能公司正在建立监管护城河？](https://www.reddit.com/r/artificial/comments/1wti65e/are_the_ai_safety_warnings_legitimate_or_big_ai/)**
 
-2025年财务：收入： $ 459B ， 11倍计算/基础设施支出： $ 7
+我们可以训练带有护栏的模型，但我们没有明确编程它们如何推理每种情况**Anthropic**和其他大型人工智能公司越来越多地警告政府有关前沿人工智能的风险，并呼吁加强治理或放慢发展速度
 
-📅 2026-09-29T01:05:17.000Z
+📅 2026-09-29T18:33:43.000Z
+
+---
+
+### X: OpenAI
+**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+网址来源： http://twitter.com/**OpenAI**
+
+📅 2026-09-29T19:50:48.973Z
+
+---
+
+### X: DeepSeek
+**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+
+网址来源： http://twitter.com/**DeepSeek**_ai
+
+📅 2026-09-29T19:50:56.549Z
 
 ---
 
 ### Hacker News
-**[我们使用我们的开源AI安全代理发现了24个Android漏洞](https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/)**
+**[GLM-5.3和先进网络能力的传播](https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities)**
 
-文章网址： https://githubblog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/评论网址： https://**new**s
+文章网址： https://wwwcom/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities评论网址： https://**new**s
 
-📅 Tue, 29 Sep 2026 00:55:47 +0000
-
----
-
-### Hacker News
-**[罐体问题](http://www.jimsitu.com)**
-
-文章网址： http://wwwcom评论网址： https://**new**s
-
-📅 Tue, 29 Sep 2026 00:41:45 +0000
+📅 Tue, 29 Sep 2026 17:31:26 +0000
 
 ---
 
 ### Hacker News
-**[1996年聊天室模拟器连接到Win95和System 7 Web桌面](https://lolchat.rip/)**
+**[点：始终在线的客服代表](https://openai.com/index/introducing-dots/)**
 
-文章网址： https://lolchatrip/评论网址： https://**new**s
+文章网址： https://**OpenAI**com/index/introducing-dots/评论网址： https://**new**s
 
-📅 Tue, 29 Sep 2026 00:06:48 +0000
+📅 Tue, 29 Sep 2026 17:07:57 +0000
 
 ---
 
