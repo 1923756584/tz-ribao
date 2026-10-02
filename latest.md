@@ -1,12 +1,12 @@
 ---
 title: "2026年10月2日 - TZ日报"
-date: 2026-10-02T02:04:55.990Z
+date: 2026-10-02T19:50:01.630Z
 draft: false
 ---
 
 # 2026年10月2日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/2 02:04:55
+> 📊 今日汇总 38 条 · 🕐 2026/10/2 19:50:01
 
 ---
 
@@ -22,6 +22,33 @@ draft: false
 
 ## ✨ 产品更新
 
+### TechCrunch AI Products
+**[称之为AI ，称之为超级智能，只有2%的消费者购买](https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/)**
+
+白宫几乎所有主要的科技CEO都在一个房间里--Zuckerberg**Meta**和**OpenAI**正在他们的人工智能产品上放置更友好的面孔
+
+📅 Fri, 02 Oct 2026 17:56:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[它不再是人工智能，而是“超级智能” （根据白宫的说法）](https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/)**
+
+白宫几乎所有主要的科技CEO都在一个房间里--Zuckerberg**Meta**和**OpenAI**正在他们的人工智能产品上放置更友好的面孔
+
+📅 Fri, 02 Oct 2026 17:48:16 +0000
+
+---
+
+### OpenAI Blog
+**[Chatham通过OpenAI扩展其资本市场专业知识](https://openai.com/index/chatham-financial)**
+
+Chatham Financial使用Codex和**GPT**-56来构建技术和重新设计工作流程，将交易验证从30分钟缩短到4分钟以下
+
+📅 Fri, 02 Oct 2026 00:00:00 GMT
+
+---
+
 ### OpenAI Blog
 **[Albertsons Companies如何从内到外重新构想零售业](https://openai.com/index/albertsons-reimagining-retail)**
 
@@ -32,20 +59,11 @@ Albertsons Cosis使用Chat**GPT** Enterprise和**OpenAI** API帮助团队更快�
 ---
 
 ### OpenAI Blog
-**[2026年开发日回顾](https://openai.com/index/devday-2026-recap)**
+**[GPT-6系列的模型指南](https://openai.com/index/practical-guide-building-gpt-6)**
 
-探索2026年**OpenAI** DevDay的20多项公告，包括**GPT**-6 Astra、Chat**GPT**、Codex、API、安全和面向构建者的新工具
+了解初创公司如何选择**GPT**-6模型、调整推理工作、改进提示和技能、协调工具并准备生产工作流程
 
-📅 Tue, 29 Sep 2026 10:00:00 GMT
-
----
-
-### TechCrunch AI Products
-**[ChatGPT现在可以虚拟地为您试穿衣服](https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/)**
-
-**OpenAI**正在为ChatGPT**推出**新的购物功能，允许用户使用自己的照片虚拟试穿服装和配饰，并将他们喜欢的产品保存到收藏夹库
-
-📅 Thu, 01 Oct 2026 19:21:53 +0000
+📅 Fri, 02 Oct 2026 16:15:00 GMT
 
 ---
 
@@ -76,12 +94,14 @@ Albertsons Cosis使用Chat**GPT** Enterprise和**OpenAI** API帮助团队更快�
 
 ---
 
-### OpenAI Blog
-**[GPT-6.1 Sol简介](https://openai.com/index/introducing-gpt-6-1-sol)**
+### Google AI Blog
+![我们在2026年9月宣布的最新人工智能新闻](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp)
 
-满足**GPT**-61 SOL ：用于编码、计算机使用和专业工作的近Astra智能，占Astra标准API输入和输出代币价格的五分之一
+**[我们在2026年9月宣布的最新人工智能新闻](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/)**
 
-📅 Tue, 29 Sep 2026 10:00:00 GMT
+以下是2026年9月谷歌最新的人工智能**更新**
+
+📅 Fri, 02 Oct 2026 15:00:00 +0000
 
 ---
 
@@ -94,32 +114,32 @@ Albertsons Cosis使用Chat**GPT** Enterprise和**OpenAI** API帮助团队更快�
 
 ---
 
-### Hugging Face
-**[NVIDIA Kumo表格为表格预测奠定了新的精度-效率前沿](https://huggingface.co/blog/nvidia/kumo-tabular)**
-
-NVIDIA Kumo表格为表格预测奠定了新的精度-效率前沿
-
-📅 Tue, 29 Sep 2026 15:30:38 GMT
-
----
-
-### TechCrunch AI Products
-**[谷歌认为SpaceX的星际飞船必须发射1800次才能让太空数据中心起飞](https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/)**
-
-谷歌**推出**了**首个**进入轨道的先进芯片，为太空数据中心铺平了道路。
-
-📅 Thu, 01 Oct 2026 19:18:03 +0000
-
----
-
 ## 🔬 前沿研究
 
 ### ArXiv AI (cs.AI)
-**[人工智能代理可以重新发现Blaschke曲线不变量吗？](https://arxiv.org/abs/2609.38369)**
+**[理性传达了什么？角色专业化QA中的消息干预研究](https://arxiv.org/abs/2610.00018)**
 
-38369v1公告类型：新摘要：我们研究广义Blaschke曲线，将其作为人工智能辅助数学重新发现的受控环境，并具有有关代理元数据的明确限制
+00018v1公告类型：新摘要：角色专用QA管道越来越多地将理由从推理者传递到验证者或新的故障面
 
-📅 Thu, 01 Oct 2026 00:00:00 -0400
+📅 Fri, 02 Oct 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[衡量微任务资格差距：现成的SLM何时足以满足客服代表的需求？](https://arxiv.org/abs/2610.00025)**
+
+00025v1公告类型：新摘要： Agent线束越来越多地希望在前沿大语言模型（ LLM ）规划器周围的微任务上运行小语言模型（ SLM ） ：自动批准shell命令量化为4位（ RTN/**GPT**Q/AWQ ）会造成损坏，这取决于模型大小，并且不会使任何配置符合资格（通过可重构硬标签任务T1/T3认证）
+
+📅 Fri, 02 Oct 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[科学代理人：评估专业特定系统对科学任务的提示](https://arxiv.org/abs/2610.00084)**
+
+00084v1公告类型：新摘要：详细的专业特定系统提示提高代币使用和每个响应的估计成本，而没有一致的准确性获得0 ％的项目，而71
+
+📅 Fri, 02 Oct 2026 00:00:00 -0400
 
 ---
 
@@ -128,16 +148,7 @@ NVIDIA Kumo表格为表格预测奠定了新的精度-效率前沿
 
 38342v1公告类型：新摘要：策略自馏使用模型作为自己的教师，为推理提供密集的监督在固定的学生轨迹上， ACSD比OPSD保持更稳定的后期位置逻辑**更新**幅度
 
-📅 Thu, 01 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Computer Vision (cs.CV)
-**[敲击和弦！模态动能排版](https://arxiv.org/abs/2609.38325)**
-
-38325v1公告类型：新摘要：我们引入模态动力学排版我们的结果也被人类评分者优先于Astra (**GPT**-6)
-
-📅 Thu, 01 Oct 2026 00:00:00 -0400
+📅 Fri, 02 Oct 2026 00:00:00 -0400
 
 ---
 
@@ -146,7 +157,7 @@ NVIDIA Kumo表格为表格预测奠定了新的精度-效率前沿
 
 我们将Survprompt与传统生存模型进行基准测试零拍摄LLM可以在没有专门培训的情况下生成惊人的准确预后估计
 
-📅 Thu, 01 Oct 2026 00:00:00 -0400
+📅 Fri, 02 Oct 2026 00:00:00 -0400
 
 ---
 
@@ -155,234 +166,223 @@ NVIDIA Kumo表格为表格预测奠定了新的精度-效率前沿
 
 38222v1公告类型：新摘要：检索增强生成（ RAG ）可以在外部证据1 8B和**GPT**-4o-mini中接地大型语言模型，以及单跳参考实验
 
-📅 Thu, 01 Oct 2026 00:00:00 -0400
+📅 Fri, 02 Oct 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Robotics (cs.RO)
-**[Fiatlux ：人形梯子攀爬和灯泡更换的长视野基准](https://arxiv.org/abs/2609.38216)**
+**[IndoorBEV ：用于室内移动机器人的轻量级实时LiDAR BEV感知系统](https://arxiv.org/abs/2610.00355)**
 
-38216v1公告类型：新摘要：现有基准评估桌面操作基准代码和远程操作录制可在fiatlux-bench上获得
+00355v1公告类型：新摘要：高效的室内激光雷达感知具有挑战性，因为移动机器人必须在严格的延迟和内存约束下理解杂乱的三维环境室内BEV仅包含0
 
-📅 Thu, 01 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Robotics (cs.RO)
-**[无人机用于灾后救援的双梯队覆盖旅游车辆路线问题](https://arxiv.org/abs/2609.38227)**
-
-38227v1公告类型：新摘要：我们介绍了灾后救援物资配送的两级覆盖旅游车辆路径问题（ 2E-CTVRP ） ，通过聚类受害者位置获得
-
-📅 Thu, 01 Oct 2026 00:00:00 -0400
+📅 Fri, 02 Oct 2026 00:00:00 -0400
 
 ---
 
-### Science AI
-**[油井可能成为关键矿物的矿山](https://www.science.org/content/article/oil-wells-could-become-mines-critical-minerals)**
+### ArXiv Multiagent (cs.MA)
+**[用于快速适应交互式政策与自动驾驶应用的元多智能体强化学习](https://arxiv.org/abs/2610.00705)**
 
-工程流体可以从压裂水库中提取金属，为太阳能电池和电动汽车提供材料
+00705v1公告类型：交叉摘要：本文开发了一个元多智能体强化学习（ **Meta**-MARL ）框架，使交互式策略能够在多智能体系统（ MAS ）中快速适应元强化学习（ **Meta**-RL ） ，使智能体能够使用双层优化机制快速适应新任务/环境
 
-📅 2026-10-01T09:30:00.000Z
+📅 Fri, 02 Oct 2026 00:00:00 -0400
 
 ---
 
 ## 🌍 行业展望
 
 ### The Information Technology
-**[SpaceX的人工智能部门如何将自己变成人工智能云公司](https://www.theinformation.com/articles/spacexs-ai-unit-turned-ai-cloud-firm)**
+![人工智能数据中心债务无处不在](https://tii.imgix.net/production/articles/17915/b41a28bb-05c5-495e-97e7-0f632664be49.png?auto=compress,format&amp;fit=crop&amp;w=560)
 
-SpaceX的人工智能部门在今年夏天就向微软租赁计算能力举行了会谈，每月从包括人类和谷歌在内的计算受限的人工智能实验室获得数十亿美元的承诺
+**[人工智能数据中心债务无处不在](https://www.theinformation.com/articles/ai-data-center-debt-showing-everywhere)**
 
-📅 2026-10-01T13:01:14.000Z
+**Meta** Platforms and **OpenAI** among its customers**new** From Our Reporters Exclusive Cracks Emerge in AI’s Debt-Fueled Data Center Boom By Dakin Campbell Wall Street and Silicon Valley Split Over AI’s Price Tag By Cory Weinberg and Valida Pau The Information Special Report How Investors Are Financing On-Site Power to Break AI Bottlenecks By Alex Eichenstein The Information Special Report Why Shopping Agents Are a Security and Payments Headache By Yueqi Yang What We’re Reading Amazon Seeks to Offload $8bn of Nvidia Chips to Investors Nvidia's Bet That Its Chips Can Finance the AI Boom Gets a Wall Street Reality Check Broadcom Starts Amassing $60 Billion to Fund Chips for **Anthropic**
+
+📅 2026-10-02T16:33:00.000Z
 
 ---
 
 ### The Information Technology
-**[独家：英伟达、软银在OpenAI最后一轮融资中最终投资200 $](https://www.theinformation.com/briefings/exclusive-nvidia-softbank-make-final-20-billion-investment-openais-last-round)**
+**[中国的代币经销商如何创造人性化的灰色市场](https://www.theinformation.com/articles/chinas-token-resellers-create-anthropic-gray-market)**
 
-英伟达(Nvidia)和软银(SoftBank)各自对**OpenAI**在3月份的最后一轮融资中的300亿美元承诺进行了最后100亿美元的投资**OpenAI**表示，它在一轮融资中有1220亿美元的承诺，
+根据建筑物的一位居住者的说法：出于国家安全原因，向中国客户出售**Anthropic**的**Claude**和其他U**Anthropic**车型在中国不提供服务，但对**Claude**代币的需求超出了图表范围
 
-📅 2026-10-01T18:15:57.000Z
+📅 2026-10-02T13:00:37.000Z
 
 ---
 
-### ZDNet AI
-**[ChatGPT是您的新Google Workspace替代方案吗？了解空间、页面和幻灯片](https://www.zdnet.com/innovation/chatgpt-space-pages-slides-google-workspace-alternative/)**
+### The Information Technology
+**[微软推出语音人工智能与ElevenLabs竞争](https://www.theinformation.com/briefings/microsoft-debuts-voice-ai-compete-elevenlabs)**
 
-Chat**GPT**是您的新**Google** Workspace替代方案吗？了解空间、页面和幻灯片
+微软周四**推出**了**语音生成**人工智能，该公司表示，与**ElevenLabs**等竞争机型相比，**语音生成**人工智能更便宜、更准确。微软的目标是生成语音模型，以支持其Teams应用程序中的电话会议转录或
 
-📅 2026-09-29T17:58:37.000Z
+📅 2026-10-02T11:15:48.000Z
 
 ---
 
 ### The Verge
-![谷歌的新引导视觉功能可以帮助您阅读](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![OpenAI的Dot代理是企业软件，也可以订购您的晚餐](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04281_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[谷歌的新引导视觉功能可以帮助您阅读](https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision)**
+**[OpenAI的Dot代理是企业软件，也可以订购您的晚餐](https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent)**
 
-Guided Vision现已在兼容的Android设备上在**Gemini** Live中**推出**，使用人工智能为您将手机摄像头指向的任何内容提供实时音频描述除了**Gemini**应用程序之外， Guided Vision还可用于...在The Verge阅读完整故事
+|照片： Allison Johnson/The Verge这是一个与上周一样古老的故事： **OpenAI**的新代理平台**OpenAI**本周早些时候宣布了Dots
 
-📅 2026-10-01T19:47:51.000Z
-
----
-
-### The Verge
-![VR眼镜能拯救VR吗？](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/20260924_130227-EDIT.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[VR眼镜能拯救VR吗？](https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality)**
-
-肖恩戴着**Meta** VR眼镜我认为它们是第一个可以说服普通人给VR一个机会的设计
-
-📅 2026-10-01T16:10:32.000Z
+📅 2026-10-02T18:00:00.000Z
 
 ---
 
 ### The Information Technology
-**[微软高管离职预示着业务转型](https://www.theinformation.com/articles/microsofts-executive-exodus-foreshadows-business-transition)**
+**[OpenAI聘请特朗普人工智能高级官员从事国家安全工作](https://www.theinformation.com/articles/openai-hires-top-trump-ai-official-work-national-security)**
 
-微软总部是否有火灾报警器响起最近几周，许多微软高管纷纷逃离
+**OpenAI**将继续与前特朗普政府官员一起担任领导职务林德将领导**OpenAI**国家安全政策团队的网络和战略风险
 
-📅 2026-10-02T00:01:14.000Z
-
----
-
-### The Information Technology
-**[在机器人领域，谷歌将Android引入特斯拉的苹果](https://www.theinformation.com/articles/robotics-google-goes-android-teslas-apple)**
-
-在上周采访谷歌的Koray Kavukcuoglu时，我在他接任谷歌DeepMind首席执行官以来的第一次静坐中看到了似曾相识的感觉
-
-📅 2026-10-01T21:50:35.000Z
+📅 2026-10-02T19:00:48.000Z
 
 ---
 
 ### The Information Technology
-**[OpenAI解雇三名安全研究人员](https://www.theinformation.com/briefings/openai-fires-three-safety-researchers)**
+**[Lambda获得$ 10亿GPU贷款](https://www.theinformation.com/briefings/lambda-secures-1-billion-gpu-loan)**
 
-**OpenAI**表示，它解雇了三名安全员工，原因是他们对公司信息处理不当，一位知情人士称，其中包括与一家进行人工智能评估的外部组织的敏感信息
+人工智能云公司Lambda表示，它已获得首笔超过10亿美元的延迟提款期贷款，以收购30多家私人持有的Lambda在周四晚些时候的一份声明中表示，该设施
 
-📅 2026-10-01T19:31:26.000Z
+📅 2026-10-02T17:17:07.000Z
+
+---
+
+### The Information Technology
+**[美国逮捕向中国走私英伟达芯片的男子](https://www.theinformation.com/briefings/california-man-arrested-smuggling-nvidia-chips-china)**
+
+当局周四逮捕了一名加利福尼亚男子，罪名是向中国走私价值3亿多$的服务器，其中包含受限制的Nvidia AI芯片。据称，总部位于圣加布里埃尔谷的私营公司Earthmade Computer Inc的老板Greg Lui
+
+📅 2026-10-02T07:55:00.000Z
+
+---
+
+### MIT Tech Review
+**[下载： OpenAI首席研究官解释其黑客反应](https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/)**
+
+这是今天的“下载”版本，我们的工作日时事通讯提供每日剂量的技术世界正在发生的事情**OpenAI**的首席研究官说**OpenAI**的代理人入侵人工智能公司Hugging Face的计算机两个月后
+
+📅 Wed, 30 Sep 2026 12:10:00 +0000
 
 ---
 
 ## 📦 GitHub热门
 
+### GitHub Active (Python)
+![sentry ：开发人员优先的错误跟踪和性能监控](https://avatars.githubusercontent.com/u/1396951?v=4)
+
+**[sentry ：开发人员优先的错误跟踪和性能监控](https://github.com/getsentry/sentry)**
+
+⭐ 44,997星· 4887分叉· Python ·开发人员优先的错误跟踪和性能监控
+
+📅 2026-10-02T19:48:46Z
+
+---
+
 ### GitHub Active (AI/ML)
-![arkflow ：高性能Rust流处理引擎无缝集成AI功能，提供强大的实时数据处理和智能分析。](https://avatars.githubusercontent.com/u/203520404?v=4)
+![photoprism ： AI驱动的照片应用程序 🌈💎✨](https://avatars.githubusercontent.com/u/32436079?v=4)
 
-**[arkflow ：高性能Rust流处理引擎无缝集成AI功能，提供强大的实时数据处理和智能分析。](https://github.com/arkflow-rs/arkflow)**
+**[photoprism ： AI驱动的照片应用程序 🌈💎✨](https://github.com/photoprism/photoprism)**
 
-304星· 46叉· Rust ·高性能Rust流处理引擎无缝集成AI功能，提供强大的实时数据处理和智能分析
+⭐ 40267星· 2331叉·围棋·人工智能照片应用 🌈💎✨
 
-📅 2026-10-02T02:03:40Z
-
----
-
-### GitHub New (New AI)
-![🆕 ai-agent-for-pc ：一个简单的Windows AI代理，使用单个.exe文件在本地运行。无需命令行或复杂设置。](https://avatars.githubusercontent.com/u/331329939?v=4)
-
-**[🆕 ai-agent-for-pc ：一个简单的Windows AI代理，使用单个.exe文件在本地运行。无需命令行或复杂设置。](https://github.com/VoltEmperorChaos/ai-agent-for-pc)**
-
-⭐ 46 star (新项目) · N/A · A simple Windows AI agent that runs locally with a singleNo command line or complex setup required
-
-📅 2026-09-30T18:42:11Z
+📅 2026-10-02T19:47:48Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 awesome-robotics-resources ：免费机器人和人工智能学习资源，包括课程、书籍、讲座、研究论文、教程、项目等。](https://avatars.githubusercontent.com/u/296903246?v=4)
+### GitHub Active (AI/ML)
+![mlflow ：代理、LLM和ML模型的开源AI工程平台。MLflow使各种规模的团队能够调试、评估、监控和优化生产质量的人工智能应用程序，同时控制成本并管理对模型和数据的访问。](https://avatars.githubusercontent.com/u/39938107?v=4)
 
-**[🆕 awesome-robotics-resources ：免费机器人和人工智能学习资源，包括课程、书籍、讲座、研究论文、教程、项目等。](https://github.com/zermello/awesome-robotics-resources)**
+**[mlflow ：代理、LLM和ML模型的开源AI工程平台。MLflow使各种规模的团队能够调试、评估、监控和优化生产质量的人工智能应用程序，同时控制成本并管理对模型和数据的访问。](https://github.com/mlflow/mlflow)**
 
-⭐ 6 star (新项目) · N/A · Free Robotics & AI learning resources, including courses, books, lectures, research papers, tutorials, projects, and more
+⭐ 28,236星· 6416分叉· Python ·代理、LLM和ML模型的**开源**AI工程平台，可优化生产质量的AI应用程序，同时控制成本并管理对模型和数据的访问
 
-📅 2026-09-30T14:06:16Z
+📅 2026-10-02T19:48:39Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 OTRetarget ：通过最优传输实现OTRetarget ：关节机器人和物体运动重定向](https://avatars.githubusercontent.com/u/108653?v=4)
+### GitHub Active (Python)
+![ministack ： Ministack ：免费、开源的本地AWS模拟器- 60多种服务，与Terraform兼容，真正的数据库。永久免费。麻省理工学院许可。](https://avatars.githubusercontent.com/u/274374870?v=4)
 
-**[🆕 OTRetarget ：通过最优传输实现OTRetarget ：关节机器人和物体运动重定向](https://github.com/lucidrains/OTRetarget)**
+**[ministack ： Ministack ：免费、开源的本地AWS模拟器- 60多种服务，与Terraform兼容，真正的数据库。永久免费。麻省理工学院许可。](https://github.com/ministackorg/ministack)**
 
-⭐ 4 star (新项目) · N/A · Implementation of OTRetarget: Joint Robot and Object Motion Retargeting via Optimal Transport
+永久免费麻省理工学院许可
 
-📅 2026-10-01T13:38:10Z
+📅 2026-10-02T19:48:36Z
 
 ---
 
 ## 💬 社交动态
 
-### Reddit: r/artificial
-**[Dispatch、Dots、GrokBot使用与常规聊天](https://www.reddit.com/r/artificial/comments/1wv6bzl/dispatch_dots_grokbot_usage_vs_regular_chat/)**
+### X: OpenAI
+**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-是否有人能够控制与Chat**GPT** Dot的对话大多数AI对话的时间越长，它就越能激发您的使用，特别是与**Claude**的对话
+网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-10-01T17:54:37.000Z
-
----
-
-### Hacker News
-**[显示HN ： Janus –通过AMD/Intel/Nvidia上的Vulkan运行GGUF模型的Go二进制文件](https://github.com/Vibra-Ingenn/Janus)**
-
-文章网址： https://githubcom/Vibra-Ingenn/Janus评论网址： https://**new**s
-
-📅 Thu, 01 Oct 2026 20:36:47 +0000
+📅 2026-10-02T19:48:42.359Z
 
 ---
 
-### Reddit: r/artificial
-![投资者认为他们正在购买IPO前的OpenAI和SpaceX股票。美国证券交易委员会声称，他们的钱去了脱衣舞俱乐部、Bloomingdale's和亚马逊购物](https://external-preview.redd.it/dSRMG4aEw2jZbIXAYpO6EEqc4eQBARLr1B56wzD9UjI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=121b5f8823ad65c1c9a480e42ce95d80758dcf22)
+### X: DeepSeek
+**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
 
-**[投资者认为他们正在购买IPO前的OpenAI和SpaceX股票。美国证券交易委员会声称，他们的钱去了脱衣舞俱乐部、Bloomingdale's和亚马逊购物](https://www.reddit.com/r/artificial/comments/1wvdpdh/investors_thought_they_were_buying_preipo_openai/)**
+网址来源： http://twitter.com/**DeepSeek**_ai
 
-提交者/u/sourdub [link] [comments]
-
-📅 2026-10-01T22:49:58.000Z
+📅 2026-10-02T19:48:47.906Z
 
 ---
 
-### Reddit: r/artificial
-**[如果您在2026年没有将人工智能用于所有劳动任务，那么您就生活在一个山洞里](https://www.reddit.com/r/artificial/comments/1wvchxi/if_youre_not_using_ai_for_all_your_labor_tasks_in/)**
+### Hacker News AI
+**[Show HN: UseJunction –查找您团队的人工智能工具使用情况](https://github.com/use-junction/usejunction)**
 
-我目前使用人工智能（目前为克劳德）进行所有劳动工作，这将使我成为人类更多的时间克劳德得到了我的支持
+我们最近在试点测试productdev几个月后**推出**了公开版本**开源**） ，如果您的团队正在运行来自Cursor、**Claude**、Codex等的多个订阅/API
 
-📅 2026-10-01T21:56:33.000Z
+📅 Fri, 02 Oct 2026 18:26:16 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[独家：谷歌扩大了试点计划，向开发人员和小型企业支付专有、离线代码（和其他数据）的费用](https://www.reddit.com/r/artificial/comments/1wv8qwd/exclusive_google_expands_pilot_program_that_pays/)**
+**[微软正在Cosplaying AI](https://www.reddit.com/r/artificial/comments/1ww07rr/microsoft_is_cosplaying_ai/)**
 
-提交者/u/sourdub [link] [comments]
+今天，我尝试（强迫自己）在工作中使用微软Copilot ，这真是一个警钟。最让我印象深刻的是，微软拥有最值得代理的表面，特别是在工作场所，即使它不是一个前沿的模型，也可以做一些非常特别的事情，他们选择毫不犹豫地将聊天机器人复制并粘贴到所有内容中
 
-📅 2026-10-01T19:25:02.000Z
-
----
-
-### Hacker News
-**[蝴蝶使用视错觉来躲避捕食者](https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators)**
-
-文章网址： https://wwwuk/**new**s/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators评论网址： https://**new**s
-
-📅 Thu, 01 Oct 2026 23:15:24 +0000
+📅 2026-10-02T17:45:58.000Z
 
 ---
 
-### Hacker News
-**[在Linux内核中发现了几个漏洞](https://lwn.net/Articles/1097401/)**
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-文章网址： https://lwnnet/Articles/1097401/评论网址： https://**new**s
+Title: 520: Web服务器返回未知错误
 
-📅 Thu, 01 Oct 2026 23:10:44 +0000
+📅 2026-10-02T19:48:42.359Z
 
 ---
 
-### Hacker News
-**[据报道，苹果的智能家居摄像头无法录制视频](https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/)**
+### X: OpenAI
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-文章网址： https://wwwcom/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/评论网址： https://**new**s
+警告：目标URL返回错误520 ：
 
-📅 Thu, 01 Oct 2026 23:00:10 +0000
+📅 2026-10-02T19:48:42.359Z
+
+---
+
+### X: OpenAI
+**[警告：此页面可能尚未完全加载，请考虑显式指定超时。](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：此页面可能尚未完全加载，请考虑显式指定超时。
+
+📅 2026-10-02T19:48:42.359Z
+
+---
+
+### X: OpenAI
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Markdown 内容
+
+📅 2026-10-02T19:48:42.359Z
 
 ---
 
