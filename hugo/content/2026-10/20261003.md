@@ -1,12 +1,12 @@
 ---
 title: "2026年10月3日 - TZ日报"
-date: 2026-10-03T01:47:28.346Z
+date: 2026-10-03T18:37:18.383Z
 draft: false
 ---
 
 # 2026年10月3日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/3 01:47:28
+> 📊 今日汇总 38 条 · 🕐 2026/10/3 18:37:18
 
 ---
 
@@ -76,24 +76,6 @@ Albertsons Cosis使用Chat**GPT** Enterprise和**OpenAI** API帮助团队更快�
 
 ---
 
-### OpenAI Blog
-**[扰乱协调的模型蒸馏活动](https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign)**
-
-了解**OpenAI**如何破坏提取受保护模型推理的活动，并加强对对抗性蒸馏的防御
-
-📅 Wed, 30 Sep 2026 10:30:00 GMT
-
----
-
-### OpenAI Blog
-**[帮助小型企业将人工智能付诸实践](https://openai.com/index/helping-small-businesses-put-ai-to-work)**
-
-**OpenAI**正在与美国的SBDC合作，扩大对小型企业的人工智能培训和本地支持，同时还**发布**了一份关于小型团队如何使用人工智能的新报告
-
-📅 Wed, 30 Sep 2026 10:00:00 GMT
-
----
-
 ### Google AI Blog
 ![我们在2026年9月宣布的最新人工智能新闻](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp)
 
@@ -114,77 +96,95 @@ Albertsons Cosis使用Chat**GPT** Enterprise和**OpenAI** API帮助团队更快�
 
 ---
 
+### TechCrunch AI Products
+**[OpenAI安全员工辞职，声称公司的“文化被打破”](https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/)**
+
+据他自己承认，大卫·罗宾逊（ David Robinson ） “有些陈词滥调” ：一家领先的人工智能公司的员工在辞职时发出可怕的警告
+
+📅 Sat, 03 Oct 2026 16:30:01 +0000
+
+---
+
+### TechCrunch AI Products
+**[Meta希望您的下一个小工具融入Muse](https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/)**
+
+**Meta**希望将Muse放入您的电视和烤面包机中，因此它会免费提供代码。
+
+📅 Sat, 03 Oct 2026 00:45:39 +0000
+
+---
+
 ## 🔬 前沿研究
 
-### ArXiv AI (cs.AI)
-**[理性传达了什么？角色专业化QA中的消息干预研究](https://arxiv.org/abs/2610.00018)**
+### ArXiv Machine Learning (cs.LG)
+**[FourierQK ：滤波器形状、容许度和泄漏-覆盖率法](https://arxiv.org/abs/2610.00009)**
 
-00018v1公告类型：新摘要：角色专用QA管道越来越多地将理由从推理者传递到验证者或新的故障面
+00009v1公告类型：新摘要：频率崩溃注意[ZerisCode可在： https://github
 
-📅 Fri, 02 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[衡量微任务资格差距：现成的SLM何时足以满足客服代表的需求？](https://arxiv.org/abs/2610.00025)**
-
-00025v1公告类型：新摘要： Agent线束越来越多地希望在前沿大语言模型（ LLM ）规划器周围的微任务上运行小语言模型（ SLM ） ：自动批准shell命令量化为4位（ RTN/**GPT**Q/AWQ ）会造成损坏，这取决于模型大小，并且不会使任何配置符合资格（通过可重构硬标签任务T1/T3认证）
-
-📅 Fri, 02 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[科学代理人：评估专业特定系统对科学任务的提示](https://arxiv.org/abs/2610.00084)**
-
-00084v1公告类型：新摘要：详细的专业特定系统提示提高代币使用和每个响应的估计成本，而没有一致的准确性获得0 ％的项目，而71
-
-📅 Fri, 02 Oct 2026 00:00:00 -0400
+📅 Sat, 03 Oct 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Machine Learning (cs.LG)
-**[激活条件自蒸馏](https://arxiv.org/abs/2609.38342)**
+**[LLM的快速多项式超越](https://arxiv.org/abs/2610.00049)**
 
-38342v1公告类型：新摘要：策略自馏使用模型作为自己的教师，为推理提供密集的监督在固定的学生轨迹上， ACSD比OPSD保持更稳定的后期位置逻辑**更新**幅度
+00049v1公告类型：新摘要：图形处理单元（ GPU ）生成比例矩阵相同检查点开放权重烧蚀，每个任务一个配对的预训练比较将评估扩展到模型行为
 
-📅 Fri, 02 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[大型语言模型是近似生存估计量](https://arxiv.org/abs/2609.38181)**
-
-我们将Survprompt与传统生存模型进行基准测试零拍摄LLM可以在没有专门培训的情况下生成惊人的准确预后估计
-
-📅 Fri, 02 Oct 2026 00:00:00 -0400
+📅 Sat, 03 Oct 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Natural Language Processing (cs.CL)
-**[多跳检索增强生成的适形事实控制](https://arxiv.org/abs/2609.38222)**
+### ArXiv Machine Learning (cs.LG)
+**[“很可能”是指“不确定” ？ LLM在语言不确定性量化方面与人类有何不同](https://arxiv.org/abs/2610.00083)**
 
-38222v1公告类型：新摘要：检索增强生成（ RAG ）可以在外部证据1 8B和**GPT**-4o-mini中接地大型语言模型，以及单跳参考实验
+00083v1公告类型：新摘要：人类通过标记口头表达不确定性（准确的口头不确定性反映了元认知监测
 
-📅 Fri, 02 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Robotics (cs.RO)
-**[IndoorBEV ：用于室内移动机器人的轻量级实时LiDAR BEV感知系统](https://arxiv.org/abs/2610.00355)**
-
-00355v1公告类型：新摘要：高效的室内激光雷达感知具有挑战性，因为移动机器人必须在严格的延迟和内存约束下理解杂乱的三维环境室内BEV仅包含0
-
-📅 Fri, 02 Oct 2026 00:00:00 -0400
+📅 Sat, 03 Oct 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Multiagent (cs.MA)
-**[用于快速适应交互式政策与自动驾驶应用的元多智能体强化学习](https://arxiv.org/abs/2610.00705)**
+### Science AI
+**[油井可能成为关键矿物的矿山](https://www.science.org/content/article/oil-wells-could-become-mines-critical-minerals)**
 
-00705v1公告类型：交叉摘要：本文开发了一个元多智能体强化学习（ **Meta**-MARL ）框架，使交互式策略能够在多智能体系统（ MAS ）中快速适应元强化学习（ **Meta**-RL ） ，使智能体能够使用双层优化机制快速适应新任务/环境
+工程流体可以从压裂水库中提取金属，为太阳能电池和电动汽车提供材料
 
-📅 Fri, 02 Oct 2026 00:00:00 -0400
+📅 2026-10-01T09:30:00.000Z
+
+---
+
+### ArXiv Machine Learning (cs.LG)
+**[碎片化癌症药物反应矩阵中稀疏-鲁棒排序的逆向项目反应理论](https://arxiv.org/abs/2610.00002)**
+
+00002v1公告类型：新摘要：我们通过将癌症类型作为具有耐药能力的潜在“受试者”和药物作为具有逃避难度的“项目” ，将逆向项目反应理论（ IRT ）引入药物基因组药物反应分析036来自癌症药物敏感性基因组学（ GDSC2 ）数据库的药物敏感性测量
+
+📅 Sat, 03 Oct 2026 00:00:00 -0400
+
+---
+
+### ArXiv Machine Learning (cs.LG)
+**[Adam距离自然梯度下降有多远？](https://arxiv.org/abs/2610.00004)**
+
+00004v1公告类型：新摘要： Adam是深度学习的标准优化器我们研究Adam的完整**更新**规则
+
+📅 Sat, 03 Oct 2026 00:00:00 -0400
+
+---
+
+### ArXiv Machine Learning (cs.LG)
+**[在多实例强化学习系统中集成公平性和可解释性](https://arxiv.org/abs/2610.00035)**
+
+00035v1公告类型：新摘要：根据教育互动数据预测学生表现需要准确且足够透明的模型，以支持有意义的干预结果表明，公平目标可以纳入可解释的RL-MIL管道
+
+📅 Sat, 03 Oct 2026 00:00:00 -0400
+
+---
+
+### ArXiv Machine Learning (cs.LG)
+**[SW-KAN ： Kolmogorov-Arnold网络与Stieltjes-Wigert q-正交多项式](https://arxiv.org/abs/2610.00050)**
+
+00050v1公告类型：新摘要： Kolmogorov-Arnold网络（ KAN ）通过用边上的可学习单变量函数（包括减小的特征维度和有限的训练数据）替换固定节点激活，代表了深度学习的范式转变
+
+📅 Sat, 03 Oct 2026 00:00:00 -0400
 
 ---
 
@@ -198,6 +198,17 @@ Albertsons Cosis使用Chat**GPT** Enterprise和**OpenAI** API帮助团队更快�
 **Meta** Platforms and **OpenAI** among its customers**new** From Our Reporters Exclusive Cracks Emerge in AI’s Debt-Fueled Data Center Boom By Dakin Campbell Wall Street and Silicon Valley Split Over AI’s Price Tag By Cory Weinberg and Valida Pau The Information Special Report How Investors Are Financing On-Site Power to Break AI Bottlenecks By Alex Eichenstein The Information Special Report Why Shopping Agents Are a Security and Payments Headache By Yueqi Yang What We’re Reading Amazon Seeks to Offload $8bn of Nvidia Chips to Investors Nvidia's Bet That Its Chips Can Finance the AI Boom Gets a Wall Street Reality Check Broadcom Starts Amassing $60 Billion to Fund Chips for **Anthropic**
 
 📅 2026-10-02T16:33:00.000Z
+
+---
+
+### The Information Technology
+![谁在特朗普人工智能峰会上拥有权力？](https://tii.imgix.net/article/pictures/newsletters-production/f21fc10e-b019-4426-8913-1d6d5cef5aa3-LSs2vF.jpg?auto=compress)
+
+**[谁在特朗普人工智能峰会上拥有权力？](https://www.theinformation.com/articles/power-trump-ai-summit)**
+
+谷歌的Sundar Pichai**OpenAI**的Greg Brockman和其他许多人
+
+📅 2026-10-03T15:01:07.000Z
 
 ---
 
@@ -248,36 +259,16 @@ Albertsons Cosis使用Chat**GPT** Enterprise和**OpenAI** API帮助团队更快�
 
 ---
 
-### The Information Technology
-**[美国逮捕向中国走私英伟达芯片的男子](https://www.theinformation.com/briefings/california-man-arrested-smuggling-nvidia-chips-china)**
+### Wired Technology
+**[Nvidia Shield电视已有7年历史。它刚刚获得了$ 100的价格上涨](https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/)**
 
-当局周四逮捕了一名加利福尼亚男子，罪名是向中国走私价值3亿多$的服务器，其中包含受限制的Nvidia AI芯片。据称，总部位于圣加布里埃尔谷的私营公司Earthmade Computer Inc的老板Greg Lui
+得益于AIAging流媒体设备，任何有内存的东西的价格都在飙升
 
-📅 2026-10-02T07:55:00.000Z
-
----
-
-### MIT Tech Review
-**[下载： OpenAI首席研究官解释其黑客反应](https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/)**
-
-这是今天的“下载”版本，我们的工作日时事通讯提供每日剂量的技术世界正在发生的事情**OpenAI**的首席研究官说**OpenAI**的代理人入侵人工智能公司Hugging Face的计算机两个月后
-
-📅 Wed, 30 Sep 2026 12:10:00 +0000
+📅 Sat, 03 Oct 2026 18:00:00 +0000
 
 ---
 
 ## 📦 GitHub热门
-
-### GitHub Active (AI/ML)
-![ComfyUI_frontend ： ComfyUI的官方前端实现](https://avatars.githubusercontent.com/u/166579949?v=4)
-
-**[ComfyUI_frontend ： ComfyUI的官方前端实现](https://github.com/Comfy-Org/ComfyUI_frontend)**
-
-⭐ 2,049星· 726叉· TypeScript · ComfyUI官方前端实现
-
-📅 2026-10-03T01:45:37Z
-
----
 
 ### GitHub New (New AI)
 ![🆕 ai-agent-for-pc ：一个简单的Windows AI代理，使用单个.exe文件在本地运行。无需命令行或复杂设置。](https://avatars.githubusercontent.com/u/331329939?v=4)
@@ -306,89 +297,96 @@ Albertsons Cosis使用Chat**GPT** Enterprise和**OpenAI** API帮助团队更快�
 
 **[🆕 IHMT-MEMORY ： AI编码代理（ Claude Code、Codex、opencode ）作为纯文件树的长期记忆](https://github.com/gonzaroman/IHMT-MEMORY)**
 
-⭐ 7 star (新项目) · Python · Long-term memory for AI coding agents (**Claude** Code, Codex, opencode) as a tree of plain files
+⭐ 11 star (新项目) · Python · Long-term memory for AI coding agents (**Claude** Code, Codex, opencode) as a tree of plain files
 
 📅 2026-09-30T16:14:20Z
+
+---
+
+### GitHub New (New AI)
+![🆕 tanuki ： Linux和混合Active Directory的战术身份操作员](https://avatars.githubusercontent.com/u/230672917?v=4)
+
+**[🆕 tanuki ： Linux和混合Active Directory的战术身份操作员](https://github.com/Mafifrizi/tanuki)**
+
+⭐ 6 star (新项目) · Python · Tactical Identity Operator for Linux & Hybrid Active Directory
+
+📅 2026-10-02T13:40:21Z
 
 ---
 
 ## 💬 社交动态
 
 ### Hacker News
-**[Show HN ：制作开源乐高AI生成器](https://github.com/anteloc/ldraw-nova)**
+**[显示HN ： Offrun -从一个工作区管理每个编码代理](https://offrun.dev/)**
 
-去年12月左右，我开始尝试让Chat**GPT**和**Claude**用LDraw语言生成源代码所以，我的想法是：如果我设法让Chat**GPT**或**Claude**生成高质量的LDraw源文件
+并排运行**Claude** Code、Codex、AGY和Grok Build评论网址： https://**new**s
 
-📅 Fri, 02 Oct 2026 20:00:15 +0000
-
----
-
-### Hacker News AI
-**[Meta热门AI应用程序背后的热爱模因的亿万富翁](https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659)**
-
-文章网址： https://wwwcom/tech/ai/alexandr-wang-muse-**Meta**-efae7659评论网址： https://**new**s
-
-📅 Sat, 03 Oct 2026 01:09:30 +0000
+📅 Sat, 03 Oct 2026 08:40:17 +0000
 
 ---
 
 ### Hacker News AI
-**[人工智能时代的漏洞发现和利用趋势](https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/)**
+**[人工智能“教父” LeCun对人类灭绝“零担忧”](https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/)**
 
-文章网址： https://cloudcom/blog/topics/threat-intelligence/vulnerability-discovery-and-expluitation-trends-in-the-ai-era/评论网址： https://**new**s
+文章网址： https://fortunecom/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-**Anthropic**-ceo-dario-amodei-is-deuded/评论网址： https://**new**s
 
-📅 Sat, 03 Oct 2026 00:05:27 +0000
-
----
-
-### Reddit: r/artificial
-**[由于AI在后台使用命令、python、javascript、powershell等，因此被禁止参与反作弊游戏的可能性有多大？](https://www.reddit.com/r/artificial/comments/1ww8dja/what_are_the_chances_of_getting_banned_from_a/)**
-
-不碰游戏，但说我让**Claude**为我做游戏在命令提示符下运行命令
-
-📅 2026-10-02T23:27:27.000Z
+📅 Sat, 03 Oct 2026 17:44:29 +0000
 
 ---
 
 ### Reddit: r/artificial
-![SLM被低估了。这是故意的吗？](https://preview.redd.it/4g3n048605th1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8ebaee254b5aed6687ed2aec2c88df531e00c6c3)
+![Gemini AI Glitch](https://preview.redd.it/5srbhulfq9th1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b333956573cf91ddce4cc1ed96d00fba978c0201)
 
-**[SLM被低估了。这是故意的吗？](https://www.reddit.com/r/artificial/comments/1ww86dg/slms_are_underrated_is_it_on_purpose/)**
+**[Gemini AI Glitch](https://www.reddit.com/r/artificial/comments/1wwpmtu/gemini_ai_glitch/)**
 
-他们中的大多数（如果不是全部）认为使用前沿模型并不能证明成本是合理的就好像SLM已被定位为企业AI的顺势疗法选择一样
+第一次在这里发帖无论如何，双子座今天出现了小故障，而不是像往常一样回应， “思想链”被曝光了，我觉得它太酷了
 
-📅 2026-10-02T23:17:55.000Z
-
----
-
-### Reddit: r/artificial
-![科学家构建了一个可以提出实验，运行实验并从结果中学习的人工智能](https://external-preview.redd.it/Wl_Rg63FIT36FtoIeIptGxcc6M8AYfLEYLexAAg73SE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eb31d44c04625a78d9b9edc1eaccbce0cfb398bc)
-
-**[科学家构建了一个可以提出实验，运行实验并从结果中学习的人工智能](https://www.reddit.com/r/artificial/comments/1ww5ozf/scientists_build_an_ai_that_can_propose/)**
-
-然而，即使是这种熟悉的微生物，也比/u/Brighter-Side-**new**s系统性地探索提交的遗传、代谢和生理信息要多得多[link] [comments]
-
-📅 2026-10-02T21:26:04.000Z
-
----
-
-### Reddit: r/artificial
-![Meta正在为Muse订阅者提供免费小工具，让其AI控制您的智能家居](https://external-preview.redd.it/nUBorWqi0AHgZOGsZn__UxYzG4OahxngCX8giBvgJmQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e5474afd21a742deb12ea1f12e0b3c266dcafc0f)
-
-**[Meta正在为Muse订阅者提供免费小工具，让其AI控制您的智能家居](https://www.reddit.com/r/artificial/comments/1ww4mhj/meta_is_giving_muse_subscribers_a_free_gadget/)**
-
-您是否已领取？提交者：/u/ross2000 [link] [comments]
-
-📅 2026-10-02T20:41:16.000Z
+📅 2026-10-03T15:12:05.000Z
 
 ---
 
 ### Hacker News
-**[星球在哪里](http://whereistheplanet.com)**
+**[Kolibri –技术报告[pdf]](https://aleph-alpha.com/downloads/tech-report.pdf)**
 
-文章网址： http://whereistheplanetcom评论网址： https://**new**s
+文章网址： https://aleph-alphapdf评论网址： https://**new**s
 
-📅 Sat, 03 Oct 2026 00:26:19 +0000
+📅 Sat, 03 Oct 2026 17:22:48 +0000
+
+---
+
+### Hacker News
+**[RetailReady (YC W24)正在招聘](https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations)**
+
+文章网址： https://wwwcom/companies/retailready/jobs/bFcgIe4-inplementations评论网址： https://**new**s
+
+📅 Sat, 03 Oct 2026 17:00:12 +0000
+
+---
+
+### Hacker News
+**[城市建设游戏有灵魂问题（第2部分）](https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2)**
+
+文章网址： https://wwwcom/minor-epiphanies/city-building-games-have-a-soul-problem-pt2评论网址： https://**new**s
+
+📅 Sat, 03 Oct 2026 15:52:07 +0000
+
+---
+
+### Hacker News
+**[FTL ：一种新的云操作系统](https://ftl-os.org/)**
+
+https://githubcom/nuta/ftl评论网址： https://**new**s
+
+📅 Sat, 03 Oct 2026 15:02:36 +0000
+
+---
+
+### Hacker News
+**[Kolibri ：主权开放式体重模型](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/)**
+
+as/blog/aleph-alpha-kolibri评论网址： https://**new**sid = 49942706分数： 268 #评论： 215
+
+📅 Sat, 03 Oct 2026 09:36:04 +0000
 
 ---
 
