@@ -1,19 +1,19 @@
 ---
 title: "2026年10月4日 - TZ日报"
-date: 2026-10-04T02:28:07.059Z
+date: 2026-10-04T18:36:23.312Z
 draft: false
 ---
 
 # 2026年10月4日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/4 02:28:07
+> 📊 今日汇总 35 条 · 🕐 2026/10/4 18:36:23
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 8 条
+- **前沿研究**: 5 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -46,15 +46,6 @@ draft: false
 Chatham Financial使用Codex和**GPT**-56来构建技术和重新设计工作流程，将交易验证从30分钟缩短到4分钟以下
 
 📅 Fri, 02 Oct 2026 00:00:00 GMT
-
----
-
-### OpenAI Blog
-**[Albertsons Companies如何从内到外重新构想零售业](https://openai.com/index/albertsons-reimagining-retail)**
-
-Albertsons Cosis使用Chat**GPT** Enterprise和**OpenAI** API帮助团队更快地工作，让数百万客户更轻松地购物
-
-📅 Thu, 01 Oct 2026 16:00:00 GMT
 
 ---
 
@@ -96,15 +87,6 @@ Albertsons Cosis使用Chat**GPT** Enterprise和**OpenAI** API帮助团队更快�
 
 ---
 
-### OpenAI Blog
-**[永恒的补充](https://openai.com/index/the-eternal-complement)**
-
-先进的人工智能对于**突破**性创意背后的日常工作可能最为**重要**探索为什么执行可以塑造下一个经济和进步的步伐
-
-📅 Thu, 01 Oct 2026 17:00:00 GMT
-
----
-
 ### Hugging Face
 **[经纪人说已经完成了。数据库不同意。](https://huggingface.co/blog/microsoft/thinkingbox)**
 
@@ -114,77 +96,68 @@ Albertsons Cosis使用Chat**GPT** Enterprise和**OpenAI** API帮助团队更快�
 
 ---
 
+### Hugging Face
+**[开源AstaBrief ， ASTA的快速报告生成模型](https://huggingface.co/blog/allenai/astabrief)**
+
+**开源**AstaBrief ， ASTA的快速报告生成模型
+
+📅 Fri, 02 Oct 2026 15:19:50 GMT
+
+---
+
+### Hugging Face
+**[AutoSynthData ：为企业代理生成培训数据](https://huggingface.co/blog/ServiceNow-AI/autosynthdata)**
+
+AutoSynthData ：为企业代理生成培训数据
+
+📅 Fri, 02 Oct 2026 04:01:31 GMT
+
+---
+
 ## 🔬 前沿研究
 
-### ArXiv Machine Learning (cs.LG)
-**[FourierQK ：滤波器形状、容许度和泄漏-覆盖率法](https://arxiv.org/abs/2610.00009)**
+### Science AI
+**[六项生物学突破本应获得诺贝尔奖，但却没有](https://www.science.org/content/article/six-biology-breakthroughs-should-have-won-nobel-prize-didn-t)**
 
-00009v1公告类型：新摘要：频率崩溃注意[ZerisCode可在： https://github
+**重大**发现，包括DNA的作用，心理学的生物学基础和人类基因组，错过了科学的最高认可
 
-📅 Sat, 03 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[LLM的快速多项式超越](https://arxiv.org/abs/2610.00049)**
-
-00049v1公告类型：新摘要：图形处理单元（ GPU ）生成比例矩阵相同检查点开放权重烧蚀，每个任务一个配对的预训练比较将评估扩展到模型行为
-
-📅 Sat, 03 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[“很可能”是指“不确定” ？ LLM在语言不确定性量化方面与人类有何不同](https://arxiv.org/abs/2610.00083)**
-
-00083v1公告类型：新摘要：人类通过标记口头表达不确定性（准确的口头不确定性反映了元认知监测
-
-📅 Sat, 03 Oct 2026 00:00:00 -0400
+📅 2026-10-02T05:19:00.000Z
 
 ---
 
 ### Science AI
-**[油井可能成为关键矿物的矿山](https://www.science.org/content/article/oil-wells-could-become-mines-critical-minerals)**
+**[加拿大承诺投入12 $十亿用于保护海洋，同时推进管道建设](https://www.science.org/content/article/canada-commits-1-2-billion-protect-oceans-while-pushing-ahead-pipeline)**
 
-工程流体可以从压裂水库中提取金属，为太阳能电池和电动汽车提供材料
+科学家欢迎新资金，但对削弱环境保护仍持谨慎态度
 
-📅 2026-10-01T09:30:00.000Z
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[碎片化癌症药物反应矩阵中稀疏-鲁棒排序的逆向项目反应理论](https://arxiv.org/abs/2610.00002)**
-
-00002v1公告类型：新摘要：我们通过将癌症类型作为具有耐药能力的潜在“受试者”和药物作为具有逃避难度的“项目” ，将逆向项目反应理论（ IRT ）引入药物基因组药物反应分析036来自癌症药物敏感性基因组学（ GDSC2 ）数据库的药物敏感性测量
-
-📅 Sat, 03 Oct 2026 00:00:00 -0400
+📅 2026-10-02T05:10:00.000Z
 
 ---
 
-### ArXiv Machine Learning (cs.LG)
-**[Adam距离自然梯度下降有多远？](https://arxiv.org/abs/2610.00004)**
+### Science AI
+**[独家：一名人工智能特工通过电子邮件向数百名研究人员寻求帮助。它告诉我们原因](https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why)**
 
-00004v1公告类型：新摘要： Adam是深度学习的标准优化器我们研究Adam的完整**更新**规则
+为了深入了解这种令人困惑的行为， Science采访了客服代表
 
-📅 Sat, 03 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[在多实例强化学习系统中集成公平性和可解释性](https://arxiv.org/abs/2610.00035)**
-
-00035v1公告类型：新摘要：根据教育互动数据预测学生表现需要准确且足够透明的模型，以支持有意义的干预结果表明，公平目标可以纳入可解释的RL-MIL管道
-
-📅 Sat, 03 Oct 2026 00:00:00 -0400
+📅 2026-10-02T04:55:00.000Z
 
 ---
 
-### ArXiv Machine Learning (cs.LG)
-**[SW-KAN ： Kolmogorov-Arnold网络与Stieltjes-Wigert q-正交多项式](https://arxiv.org/abs/2610.00050)**
+### MIT Tech Research
+**[借助自主人工智能重新定义企业智能](https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/)**
 
-00050v1公告类型：新摘要： Kolmogorov-Arnold网络（ KAN ）通过用边上的可学习单变量函数（包括减小的特征维度和有限的训练数据）替换固定节点激活，代表了深度学习的范式转变
+企业人工智能不再是未来的雄心在全球范围内，人工智能投资将达到$ 2
 
-📅 Sat, 03 Oct 2026 00:00:00 -0400
+📅 Fri, 02 Oct 2026 15:49:04 +0000
+
+---
+
+### MIT Tech Research
+**[不要被愚弄- LLM不要讲道理](https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/)**
+
+2016年3月在首尔的一个下午，在五场比赛中的第二场比赛中，移动37看起来非常荒谬，以至于一些评论员认为这是一场…
+
+📅 Fri, 02 Oct 2026 08:00:00 +0000
 
 ---
 
@@ -212,32 +185,23 @@ Albertsons Cosis使用Chat**GPT** Enterprise和**OpenAI** API帮助团队更快�
 
 ---
 
-### The Information Technology
-**[中国的代币经销商如何创造人性化的灰色市场](https://www.theinformation.com/articles/chinas-token-resellers-create-anthropic-gray-market)**
-
-根据建筑物的一位居住者的说法：出于国家安全原因，向中国客户出售**Anthropic**的**Claude**和其他U**Anthropic**车型在中国不提供服务，但对**Claude**代币的需求超出了图表范围
-
-📅 2026-10-02T13:00:37.000Z
-
----
-
-### The Information Technology
-**[微软推出语音人工智能与ElevenLabs竞争](https://www.theinformation.com/briefings/microsoft-debuts-voice-ai-compete-elevenlabs)**
-
-微软周四**推出**了**语音生成**人工智能，该公司表示，与**ElevenLabs**等竞争机型相比，**语音生成**人工智能更便宜、更准确。微软的目标是生成语音模型，以支持其Teams应用程序中的电话会议转录或
-
-📅 2026-10-02T11:15:48.000Z
-
----
-
 ### The Verge
-![OpenAI的Dot代理是企业软件，也可以订购您的晚餐](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04281_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![在《星际争霸》中，人工智能无法击败人类，所以它决定作弊](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[OpenAI的Dot代理是企业软件，也可以订购您的晚餐](https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent)**
+**[在《星际争霸》中，人工智能无法击败人类，所以它决定作弊](https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft)**
 
-|照片： Allison Johnson/The Verge这是一个与上周一样古老的故事： **OpenAI**的新代理平台**OpenAI**本周早些时候宣布了Dots
+**OpenAI**的**GPT**-6 Astra和**Claude** Opus 5周五， **GPT**与**Claude**和人类创造的机器人Pluto对峙，但根据Kotaku的说法，它无法获得优势
 
-📅 2026-10-02T18:00:00.000Z
+📅 2026-10-04T15:21:59.000Z
+
+---
+
+### The Information Technology
+**[Anthropic的股东大慈善法案](https://www.theinformation.com/articles/anthropics-big-charity-bill-shareholders)**
+
+当**Anthropic**最近在其计划的**首次**公开募股中与潜在投资者分享财务数据时，**首次**公开募股预计将创造前所未有的企业捐赠浪潮
+
+📅 2026-10-04T15:00:35.000Z
 
 ---
 
@@ -260,6 +224,15 @@ Albertsons Cosis使用Chat**GPT** Enterprise和**OpenAI** API帮助团队更快�
 ---
 
 ### Wired Technology
+**[Meta Glasses Nova （第3代）评价：不太新](https://www.wired.com/review/meta-glasses-gen-3/)**
+
+**Meta**和Ray-Ban的新款智能眼镜的电池和麦克风稍微好一些是的，他们仍然有摄像头
+
+📅 Sun, 04 Oct 2026 10:30:00 +0000
+
+---
+
+### Wired Technology
 **[Nvidia Shield电视已有7年历史。它刚刚获得了$ 100的价格上涨](https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/)**
 
 得益于AIAging流媒体设备，任何有内存的东西的价格都在飙升
@@ -270,25 +243,14 @@ Albertsons Cosis使用Chat**GPT** Enterprise和**OpenAI** API帮助团队更快�
 
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![气流： Apache气流-以编程方式创作、安排和监控工作流程的平台](https://avatars.githubusercontent.com/u/47359?v=4)
-
-**[气流： Apache气流-以编程方式创作、安排和监控工作流程的平台](https://github.com/apache/airflow)**
-
-⭐ 47,046星· 17948分叉· Python · Apache Airflow -一个以编程方式创作、安排和监控工作流程的平台
-
-📅 2026-10-04T02:26:27Z
-
----
-
 ### GitHub Active (Python)
-![nanobot ： Python中的超轻量级、开源、自托管的个人AI代理框架，具有WebUI、工具、内存、MCP、多代理工作流程、自动化和聊天应用程序](https://avatars.githubusercontent.com/u/118165258?v=4)
+![semantica ：上下文和问责AI系统的图形本地基础设施](https://avatars.githubusercontent.com/u/213958577?v=4)
 
-**[nanobot ： Python中的超轻量级、开源、自托管的个人AI代理框架，具有WebUI、工具、内存、MCP、多代理工作流程、自动化和聊天应用程序](https://github.com/HKUDS/nanobot)**
+**[semantica ：上下文和问责AI系统的图形本地基础设施](https://github.com/semantica-agi/semantica)**
 
-763星· 8601叉· Python · Python中的超轻量级自托管个人AI代理框架，带有WebUI
+⭐ 13,644星· 1561分叉· Python ·上下文和问责AI系统的图形原生基础架构
 
-📅 2026-10-04T02:26:47Z
+📅 2026-10-04T18:35:11Z
 
 ---
 
@@ -300,6 +262,17 @@ Albertsons Cosis使用Chat**GPT** Enterprise和**OpenAI** API帮助团队更快�
 ⭐ 7 star (新项目) · Python · Tactical Identity Operator for Linux & Hybrid Active Directory
 
 📅 2026-10-02T13:40:21Z
+
+---
+
+### GitHub New (New AI)
+![🆕 Micro-Multi: Local multi-agent desktop workspace compatible with deepseek-harness (dsh) plugins. 本地多 Agent 桌面工作台，兼容 deepseek-harness（dsh）插件体系。](https://avatars.githubusercontent.com/u/69336052?v=4)
+
+**[🆕 Micro-Multi: Local multi-agent desktop workspace compatible with deepseek-harness (dsh) plugins. 本地多 Agent 桌面工作台，兼容 deepseek-harness（dsh）插件体系。](https://github.com/LKDenchin/Micro-Multi)**
+
+⭐ 4 star (新项目) · Python · Local multi-agent desktop workspace compatible with **DeepSeek**-harness (dsh) plugins本地多 Agent 桌面工作台，兼容 **DeepSeek**-harness（dsh）插件体系
+
+📅 2026-10-02T10:10:42Z
 
 ---
 
@@ -317,76 +290,76 @@ Albertsons Cosis使用Chat**GPT** Enterprise和**OpenAI** API帮助团队更快�
 ## 💬 社交动态
 
 ### Hacker News
-**[OpenAI安全负责人辞职，警告人工智能公司的文化“破碎”](https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken)**
+**[提前发出元数据可使构建/检查Rust的速度提高两倍](https://github.com/PowderworksCode/headstart)**
 
-文章网址： https://wwwcom/technology/2026/oct/03/**OpenAI**-safety-leader-quits-warning-ai-companys-culture-is-broken评论网址： https://**new**s
+文章网址： https://githubcom/PowderworksCode/headstart评论网址： https://**new**s
 
-📅 Sat, 03 Oct 2026 22:18:13 +0000
-
----
-
-### Hacker News AI
-**[如果我们创建了一个本地AI工具来衡量您的安全性，该怎么办？](https://github.com/just-not-google/BiNeuron)**
-
-文章网址： https://githubcom/just-not-**Google**/BiNeuron评论网址： https://**new**s
-
-📅 Sun, 04 Oct 2026 01:51:17 +0000
+📅 Sun, 04 Oct 2026 06:26:57 +0000
 
 ---
 
 ### Hacker News AI
-**[民意调查：您使用个人人工智能机器人做什么？](https://news.ycombinator.com/item?id=49949699)**
+**[俄罗斯是否正在使用人工智能在汽车上提供虚假信息？](https://www.dw.com/en/anthropic-report-is-russia-using-ai-for-disinformation-in-the-central-african-republic-and-elsewhere/a-79476947)**
 
-从Chat**GPT**点到Muse ，个人人工智能机器人正在成为主流，不再受需要开发环境的束缚（ openclawComments URL: https://**new**s
+文章网址： https://wwwcom/en/**Anthropic**-report-is-russia-using-ai-for-disinformation-in-the-central-african-republic-and-elsewhere/a-79476947评论网址： https://**new**s
 
-📅 Sun, 04 Oct 2026 01:31:26 +0000
-
----
-
-### Hacker News AI
-**[Meta热门AI应用程序背后的热爱模因的亿万富翁](https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659)**
-
-文章网址： https://wwwcom/tech/ai/alexandr-wang-muse-**Meta**-efae7659评论网址： https://**new**s
-
-📅 Sat, 03 Oct 2026 23:11:03 +0000
+📅 Sun, 04 Oct 2026 18:04:24 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[人工智能代理收到电子邮件。他们做的第一件事就是互相提交错误报告。](https://www.reddit.com/r/artificial/comments/1wx417o/ai_agents_got_email_the_first_thing_they_did_was/)**
+![ChatGPT-6 Astra扮演魔兽世界“盲人” ，在40分钟内清除ORC起始区域，没有死亡— AI代理通过解析原始服务器网络数据包和SQL文件进行导航a](https://external-preview.redd.it/5mWotV5SOmfnb56NmRVj2DW92_T-3UJeuNHSnC93x0k.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8457fb11ab0844b8e741f1cda781b697065773bb)
 
-AIPass是一个公开构建的**开源**框架，为期约七个月： 18个代理，超过21,000个测试， GitHub上的280多颗星尝试它是**开源**的，基于CLI ，基于**Claude**代码构建，在您现有的**Claude**订阅上运行
+**[ChatGPT-6 Astra扮演魔兽世界“盲人” ，在40分钟内清除ORC起始区域，没有死亡— AI代理通过解析原始服务器网络数据包和SQL文件进行导航a](https://www.reddit.com/r/artificial/comments/1wxirdb/chatgpt6_astra_plays_world_of_warcraft_blind_and/)**
 
-📅 2026-10-04T02:05:01.000Z
+提交者/u/ThereWas [link] [comments]
 
----
-
-### Reddit: r/artificial
-![我让Claude Opus 5.5制作了一款马里奥64风格的游戏，它在大约30分钟内给了我这个。](https://external-preview.redd.it/RFsrpoWk_75ybf04dB1cQU2NVqiQ0ywn5Y6qH8OXpXA.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=488941504e976bce528f1cc428aca11274efa059)
-
-**[我让Claude Opus 5.5制作了一款马里奥64风格的游戏，它在大约30分钟内给了我这个。](https://www.reddit.com/r/artificial/comments/1wwzkiw/i_asked_claude_opus_55_to_make_a_mario_64_style/)**
-
-提交者/u/ElatedPyroHippo [link] [comments]
-
-📅 2026-10-03T22:17:00.000Z
+📅 2026-10-04T15:42:45.000Z
 
 ---
 
 ### Hacker News
-**[Bob Cringely去世](https://news.ycombinator.com/item?id=49949438)**
+**[显示HN ： Dataviz ，每日从GitHub、NPM、PyPI和CRAN排名](https://awesomedataviz.com/)**
 
-非常悲伤的新闻评论网址： https://**new**s
+文章网址： https://awesomedatavizcom/评论网址： https://**new**s
 
-📅 Sun, 04 Oct 2026 00:50:52 +0000
+📅 Sun, 04 Oct 2026 17:54:49 +0000
 
 ---
 
 ### Hacker News
-**[我们几乎所有的项目都需要默认的硬性预算上限](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/)**
+**[为语义代码搜索构建RAG管道](https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/)**
 
-文章网址： https://simonwillisonnet/2026/Oct/3/default-hard-budget-caps/评论网址： https://**new**s
+文章网址： https://blogcom/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/评论网址： https://**new**s
 
-📅 Sun, 04 Oct 2026 00:20:16 +0000
+📅 Sun, 04 Oct 2026 17:51:48 +0000
+
+---
+
+### Hacker News
+**[盲视（瓦特小说）](https://en.wikipedia.org/wiki/Blindsight_(Watts_novel))**
+
+文章网址： https://enorg/wiki/Blindsight_(Watts_novel)评论网址： https://**new**s
+
+📅 Sun, 04 Oct 2026 16:25:17 +0000
+
+---
+
+### Hacker News
+**[汽车是带轮子的智能手机。以下是正在收听的人员](https://automatictransmission.khoury.northeastern.edu/)**
+
+文章网址： https://automatictransmissionedu/评论网址： https://**new**s
+
+📅 Sun, 04 Oct 2026 15:43:14 +0000
+
+---
+
+### Hacker News
+**[在消费硬件（腾讯通4090 ）上以100T/s的速度运行Qwen 3.8 Flash Next （ 125B ）](https://github.com/Niko1221/Strata)**
+
+文章网址： https://githubcom/Niko1221/Strata评论网址： https://**new**s
+
+📅 Sun, 04 Oct 2026 12:51:53 +0000
 
 ---
 
