@@ -1,12 +1,12 @@
 ---
 title: "2026年10月8日 - TZ日报"
-date: 2026-10-08T02:35:12.134Z
+date: 2026-10-08T20:34:05.033Z
 draft: false
 ---
 
 # 2026年10月8日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/8 02:35:12
+> 📊 今日汇总 38 条 · 🕐 2026/10/8 20:34:05
 
 ---
 
@@ -21,6 +21,15 @@ draft: false
 ---
 
 ## ✨ 产品更新
+
+### OpenAI Blog
+**[Pollo AI借助OpenAI将创意转化为活动](https://openai.com/index/pollo-ai)**
+
+使用**GPT**-56、**GPT**-6 ASTRA和**GPT** ‑ Image ‑ 2
+
+📅 Thu, 08 Oct 2026 12:00:00 GMT
+
+---
 
 ### OpenAI Blog
 **[丽笙酒店集团将酒店探索引入ChatGPT](https://openai.com/index/radisson)**
@@ -40,30 +49,39 @@ JUMP Trading使用**OpenAI**扩展定量研究查看长期运行的人工智能�
 
 ---
 
+### TechCrunch AI Products
+**[谷歌将代理人工智能引入Gemini ，从企业开始](https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/)**
+
+谷歌正在将**Gemini**变成一个可以跨业务应用和系统规划、执行任务和工作的人工智能代理该代理可以将工作委托给子代理，使用多个人工智能模型，甚至可以通过电子邮件地址获得自己的工作场所身份
+
+📅 Thu, 08 Oct 2026 18:18:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[人为改变使用政策，禁止模式滥用和选举干涉](https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/)**
+
+Anthropic**更新**后的使用政策明确禁止用户在极端情况下反复滥用**Claude**新规定还涉及选举干预、欺骗性活动、武器软件和监控
+
+📅 Thu, 08 Oct 2026 18:16:24 +0000
+
+---
+
 ### OpenAI Blog
-**[为人们使用人工智能的方式构建广告](https://openai.com/index/new-chatgpt-ads-format-and-measurement)**
+**[Oracle如何通过ChatGPT和Codex将工作日变为几分钟](https://openai.com/index/oracle)**
 
-**OpenAI**在Chat**GPT**中引入了新的视觉广告格式，并扩展了广告客户的测量工具、归因合作伙伴关系和品牌适用性
+在招聘、工程和运营方面， Oracle通过Chat**GPT** Work和Codex将专业知识转化为快速、可重复的工作流程
 
-📅 Mon, 05 Oct 2026 10:00:00 GMT
-
----
-
-### TechCrunch AI Products
-**[微软推出全新Nvidia芯片人工智能个人电脑，全面升级Windows 11](https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/)**
-
-微软透露了其Surface Laptop Ultra的规格和价格，这是一款在Nvidia芯片上运行的AI PC ，旨在运行AI模型和代理
-
-📅 Wed, 07 Oct 2026 20:22:37 +0000
+📅 Thu, 08 Oct 2026 16:00:00 GMT
 
 ---
 
-### TechCrunch AI Products
-**[随着新界面的推出， ChatGPT变得更加可视化](https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/)**
+### OpenAI Blog
+**[颠覆人工智能的“虚假前沿”运营](https://openai.com/index/disrupting-ai-enabled-false-front-operations)**
 
-**OpenAI**正在**推出**一个新的用户界面，将为Chat**GPT**带来交互式视觉效果。
+**OpenAI**破坏了两项人工智能影响力行动，利用虚假新闻记者和智囊团传播地缘政治信息
 
-📅 Wed, 07 Oct 2026 18:00:19 +0000
+📅 Thu, 08 Oct 2026 00:00:00 GMT
 
 ---
 
@@ -94,24 +112,6 @@ College Planner即将加入Chat**GPT** for Teens ，帮助学生管理大学申�
 
 ---
 
-### OpenAI Blog
-**[使用Ironclad推进计算机使用](https://openai.com/index/advancing-computer-use-with-ironclad)**
-
-了解**OpenAI**和Ironclad如何在复杂的合同工作流程中培训和评估AI代理，以促进计算机用于专业工作
-
-📅 Tue, 06 Oct 2026 10:00:00 GMT
-
----
-
-### OpenAI Blog
-**[Atlassian和OpenAI扩大合作伙伴关系，将企业知识转化为行动](https://openai.com/index/atlassian-partnership)**
-
-Atlassian和**OpenAI**正在扩大合作伙伴关系，将前沿模型与企业知识联系起来，并帮助团队规划、构建和交付工作
-
-📅 Tue, 06 Oct 2026 16:00:00 GMT
-
----
-
 ## 🔬 前沿研究
 
 ### ArXiv AI (cs.AI)
@@ -119,43 +119,52 @@ Atlassian和**OpenAI**正在扩大合作伙伴关系，将前沿模型与企业�
 
 06914v1公告类型：新摘要： Text2Dashboard是一个特定于DataBrain的原型，它将自然语言分析请求转换为可检测的仪表板一个可安装的Codex插件和独立的代理运行时将架构受限的模型决策与类型化工具相结合
 
-📅 Wed, 07 Oct 2026 00:00:00 -0400
+📅 Thu, 08 Oct 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Machine Learning (cs.LG)
-**[建筑热负荷短期预测混合预测模型比较综述](https://arxiv.org/abs/2610.06881)**
+**[用于新生意识的贝叶斯镜像架构：循环层次结构、自流形和混合事件-自绑定](https://arxiv.org/abs/2610.08792)**
 
-06881v1公告类型：新摘要：本文首先对文献中报道的现有技术进行分析
+08792v1公告类型：新摘要：我们提出贝叶斯镜像架构（ BMA ）的基础公式定义约束是闭合**更新**S_t < - H_{t-1}
 
-📅 Wed, 07 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Computer Vision (cs.CV)
-**[医学图像对齐评估作为前沿多模态模型中通才视觉推理的测试](https://arxiv.org/abs/2610.06896)**
-
-06896v1公告类型：新摘要：作为寻求人工智能的一部分，前沿多模态大型语言模型（ MLLM ）越来越多地被定位为通用视觉推理器几个月前**发布**的模型推广不佳，
-
-📅 Wed, 07 Oct 2026 00:00:00 -0400
+📅 Thu, 08 Oct 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Computer Vision (cs.CV)
-**[用于增材制造熔池监控的事件摄像机：基准和跨机器转移分析](https://arxiv.org/abs/2610.06973)**
+### ArXiv Natural Language Processing (cs.CL)
+**[Tokka-Bench ：评估100种自然语言和20种编程语言的Tokenizer](https://arxiv.org/abs/2610.08794)**
 
-06973v1公告类型：新摘要：熔池监测是合格金属增材制造（ AM ）的核心，但该领域不存在公共事件相机基准
+08794v1公告类型：新摘要：大型语言模型依赖于子词标记器，其质量因语言而异比较七个BPE标记器（ **GPT**-2、**GPT**-4、**GPT**-oss、Llama 3 ）
 
-📅 Wed, 07 Oct 2026 00:00:00 -0400
+📅 Thu, 08 Oct 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Multiagent (cs.MA)
-**[通过系统单向计算分工实现令牌高效的多代理协作](https://arxiv.org/abs/2610.08155)**
+**[了解形状，发现故障：多代理LLM故障的拓扑条件诊断](https://arxiv.org/abs/2610.10126)**
 
-08155v1公告类型：新摘要：基于大型语言模型（ LLM ）的多智能体系统（ MAS ）通过在专业智能体之间实现协作解决问题，已成为复杂信息寻求和推理任务的一个有前途的范例通过与AgentVerse、DyLAN和SelfOrg在七个基准上的单独比较， S1-MAS将**GPT**-4o令牌消耗量降低了44
+在\ num {851} MAST-clean痕迹上，接地真实拓扑上下文从$ 0提高了**GPT**-mini的Macro-F1 ，大约是$ 6\ % $重复的**GPT**-5
 
-📅 Wed, 07 Oct 2026 00:00:00 -0400
+📅 Thu, 08 Oct 2026 00:00:00 -0400
+
+---
+
+### ArXiv Multiagent (cs.MA)
+**[人工智能代理能否进行开放式科学发现？来自空间站的证据](https://arxiv.org/abs/2610.08927)**
+
+08927v1公告类型： CROSS摘要：最近的人工智能系统在给定明确的指标后，在科学发现方面取得了快速进展，但它们是否能够自主承担开放式科学发现仍不清楚
+
+📅 Thu, 08 Oct 2026 00:00:00 -0400
+
+---
+
+### ArXiv Multiagent (cs.MA)
+**[当州长成为干扰时：受控工具使用代理的控制产生的干扰和成本意识回撤](https://arxiv.org/abs/2610.09037)**
+
+09037v1公告类型： CROSS摘要：监管机构可以干扰其监管的工具使用代理成本盲监管机构可以将这些故障转化为持续阻塞，从而阻止任务完成
+
+📅 Thu, 08 Oct 2026 00:00:00 -0400
 
 ---
 
@@ -164,16 +173,7 @@ Atlassian和**OpenAI**正在扩大合作伙伴关系，将前沿模型与企业�
 
 针对372个未解决问题的722篇论文的具有里程碑意义的**发布**引起了惊讶和批评
 
-📅 2026-10-07T06:15:06.000Z
-
----
-
-### MIT Tech Research
-**[EmTech Future 2026 ：当人工智能遇到一切](https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/)**
-
-副总裁兼谷歌研究主管探索人工智能如何开始重塑生物学
-
-📅 Mon, 05 Oct 2026 04:00:00 +0000
+📅 2026-10-07T06:15:00.000Z
 
 ---
 
@@ -182,7 +182,7 @@ Atlassian和**OpenAI**正在扩大合作伙伴关系，将前沿模型与企业�
 
 06910v1公告类型：新摘要：大型语言模型（ LLM ）的最新进展已经证明了Web前端执行的卓越能力所有代码、数据集和模型都将公开**发布**
 
-📅 Wed, 07 Oct 2026 00:00:00 -0400
+📅 Thu, 08 Oct 2026 00:00:00 -0400
 
 ---
 
@@ -200,195 +200,193 @@ Atlassian和**OpenAI**正在扩大合作伙伴关系，将前沿模型与企业�
 ---
 
 ### The Information Technology
-**[微软推出搭载Nvidia和On-Device AI的PC ，紧随苹果的突破热潮](https://www.theinformation.com/briefings/microsoft-debuts-new-windows-pcs-features-powered-on-device-ai)**
+![人工智能的繁荣让基础设施投资者关注垃圾](https://tii.imgix.net/production/articles/17931/d2fca13e-9ce8-4d69-8298-13a2a3c8a06c.png?auto=compress,format&amp;fit=crop&amp;w=560)
 
-微软周三公布了在其Windows软件支持的个人电脑上运行人工智能的最新努力。该公告是微软对苹果Mac Mini的回应，该产品已成为人工智能的热门产品
+**[人工智能的繁荣让基础设施投资者关注垃圾](https://www.theinformation.com/articles/ais-boom-infrastructure-investors-looking-garbage)**
 
-📅 2026-10-07T18:21:24.000Z
+人工智能热潮引发的对数据中心的投资狂潮创造了一个讨价还价的机会--除了人工智能资产之外的所有领域例如，黑石使人工智能成为其业务的主要主题，包括基础设施、信贷、私募股权和房地产
 
----
-
-### The Verge
-![ChatGPT的“智能用户界面”更新以图片、图表和按钮填充其回复](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[ChatGPT的“智能用户界面”更新以图片、图表和按钮填充其回复](https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6)**
-
-**OpenAI**正在Chat**GPT**中**推出**一项新的智能用户界面功能，允许聊天机器人通过交互式视觉效果回答您的问题**OpenAI**分享的一个示例显示了如果您询问其设计， Chat**GPT**如何显示七速自行车的图表
-
-📅 2026-10-07T19:10:42.000Z
-
----
-
-### The Verge
-![.agent和.agi似乎即将成为热门新域名](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24643586/Amp_Search.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[.agent和.agi似乎即将成为热门新域名](https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi)**
-
-包括**Meta**和**OpenAI**在内的十家不同的公司申请了Six ，包括**OpenAI** ，
-
-📅 2026-10-07T18:46:16.000Z
-
----
-
-### The Verge
-![在微软的Surface Laptop Ultra活动上宣布的一切](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lc-img-639ce71c-4af9-43a1-b5a1-34b6d8db35cc.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[在微软的Surface Laptop Ultra活动上宣布的一切](https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced)**
-
-最大的公告可以说是有关Surface笔记本电脑UltraMicrosoft的**发布**细节分享了有关Windows的一些**更新**的详细信息
-
-📅 2026-10-07T18:42:22.000Z
+📅 2026-10-08T20:11:37.000Z
 
 ---
 
 ### The Information Technology
-**[前特朗普人工智能顾问Sriram Krishnan计划筹集5亿美元的风险投资基金](https://www.theinformation.com/articles/ex-trump-ai-adviser-sriram-krishnan-targets-raising-500-million-venture-fund)**
+**[OpenAI研究人员表示，他们因“优先考虑安全”而被解雇](https://www.theinformation.com/briefings/openai-researchers-say-fired-prioritizing-safety)**
 
-唐纳德·特朗普总统的关键人工智能顾问，他于6月离开白宫，筹集了一个以人工智能为重点的风险基金
+**OpenAI**上周解雇的三名安全研究人员质疑**OpenAI**的决定“我认为我们被解雇的原因是将安全置于**OpenAI**作为一家公司的近期利益之上” ， Mikita Balesni ，
 
-📅 2026-10-07T19:08:44.000Z
-
----
-
-### The Information Technology
-**[AI议程直播：从代币最大化到价值最大化：从每个计算单元获得更多](https://www.theinformation.com/articles/ai-agenda-live-token-maxing-value-maxing-getting-every-unit-compute)**
-
-他指出，将新硬件与更好的软件（内核优化系统设计文档和代码审查）配对会带来更多收益，从而为其AI代理提供更好的上下文
-
-📅 2026-10-07T15:34:03.000Z
+📅 2026-10-08T20:20:52.000Z
 
 ---
 
 ### The Information Technology
-**[马斯克表示， SpaceX有时会使用竞争对手的模型来为Grok机器人供电](https://www.theinformation.com/briefings/musk-says-spacex-will-sometimes-use-rival-models-power-grok-bot)**
+**[白宫暂停微软和其他科技公司的签证计划](https://www.theinformation.com/briefings/white-house-suspends-visa-program-microsoft-tech-firms)**
 
-埃隆·马斯克（ Elon Musk ）周二晚上宣布， SpaceX的人工智能部门现在将使用竞争对手的一些人工智能模型来为Grok Bot提供动力“展望未来， @ SpaceX将为任何给定的任务使用最好的后端模型，包括克劳德
+副总裁JVance周四表示，政府正在限制微软为某些移民工人提供签证担保的能力，理由是对微软在继续雇用更多移民的同时解雇美国人的指控进行了“正在进行的调查”
 
-📅 2026-10-07T14:21:08.000Z
+📅 2026-10-08T17:33:00.000Z
+
+---
+
+### The Information Technology
+**[OpenAI如何击败数学](https://www.theinformation.com/articles/openai-beat-math)**
+
+周二， OpenAI**发布**了高达722篇研究论文，为数学科目的一系列问题提供了人工智能解决方案，数学家们可能会感受到软件工程师几个月来所经历的那种焦虑。一位数学家是**OpenAI**如何公开披露其数学**突破**的小组成员，他告诉我，他们将这些能力称为蛮力和耐力。
+
+📅 2026-10-08T15:00:50.000Z
+
+---
+
+### The Information Technology
+**[独家：前Omidyar首席执行官创立AI投资者网络](https://www.theinformation.com/briefings/exclusive-former-omidyar-ceo-founds-ai-investor-network)**
+
+慈善投资公司Omidyar Network的前首席执行官正在为大型投资者成立一个小组，该小组将促进有关人工智能行业的信息共享，以促进更值得信赖的做法
+
+📅 2026-10-08T10:50:42.000Z
+
+---
+
+### The Information Technology
+**[在取消Meta交易后， Manus筹集了超过5亿美元$](https://www.theinformation.com/briefings/manus-raises-500-million-unwinding-meta-deal)**
+
+最近从**Meta** Platform分离出来的人工智能代理创业公司周四表示，它在新一轮融资中筹集了超过5亿美元$
+
+📅 2026-10-08T06:16:17.000Z
+
+---
+
+### Wired Technology
+**[她设计了Meta的新AI徽标。Then Came the Hate](https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/)**
+
+Jessica Hische知道为**Meta**工作可能会让一些人感到不安，但她没有预料到他们会有多生气
+
+📅 Thu, 08 Oct 2026 19:30:00 +0000
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (Python)
-![ComfyUI ：最强大、模块化的扩散模型GUI、API和后端，具有图形/节点界面。世界上最快的本地推理引擎。](https://avatars.githubusercontent.com/u/166579949?v=4)
+![风车：开源开发者平台，为您的整个基础设施提供支持，并将脚本转化为webhook、工作流程和UI。最快的工作流引擎（ 13倍于气流）。Retool和Temporal的开源替代方案。](https://avatars.githubusercontent.com/u/98025271?v=4)
 
-**[ComfyUI ：最强大、模块化的扩散模型GUI、API和后端，具有图形/节点界面。世界上最快的本地推理引擎。](https://github.com/Comfy-Org/ComfyUI)**
+**[风车：开源开发者平台，为您的整个基础设施提供支持，并将脚本转化为webhook、工作流程和UI。最快的工作流引擎（ 13倍于气流）。Retool和Temporal的开源替代方案。](https://github.com/windmill-labs/windmill)**
 
-⭐ 136,517星· 16205分叉· Python ·**最强**大的模块化扩散模型GUI、API和后端，带有图形/节点界面世界上最快的本地推理引擎
+最快的工作流引擎（ 13倍与气流）**开源**替代工具和临时
 
-📅 2026-10-08T02:33:33Z
-
----
-
-### GitHub Active (AI/ML)
-![气流： Apache气流-以编程方式创作、安排和监控工作流程的平台](https://avatars.githubusercontent.com/u/47359?v=4)
-
-**[气流： Apache气流-以编程方式创作、安排和监控工作流程的平台](https://github.com/apache/airflow)**
-
-⭐ 47,100星· 17978分叉· Python · Apache Airflow -一个以编程方式创作、安排和监控工作流程的平台
-
-📅 2026-10-08T02:32:35Z
+📅 2026-10-08T20:32:58Z
 
 ---
 
-### GitHub Active (AI/ML)
-![skypilot ：面向前沿团队的AI计算平台。SkyPilot将分散的人工智能计算转化为一台人工智能超级计算机，因此前沿人工智能团队可以更快地构建自定义智能。](https://avatars.githubusercontent.com/u/109387420?v=4)
+### GitHub New (New AI)
+![🆕 Autotrader ：由Kronos提供支持的自主AI交易系统。使用GitHub Actions自动预测市场、构建投资组合和纸质交易。](https://avatars.githubusercontent.com/u/163757335?v=4)
 
-**[skypilot ：面向前沿团队的AI计算平台。SkyPilot将分散的人工智能计算转化为一台人工智能超级计算机，因此前沿人工智能团队可以更快地构建自定义智能。](https://github.com/skypilot-org/skypilot)**
+**[🆕 Autotrader ：由Kronos提供支持的自主AI交易系统。使用GitHub Actions自动预测市场、构建投资组合和纸质交易。](https://github.com/PkLavc/Autotrader)**
 
-⭐ 10682星· 1265叉· Python ·前沿团队的AI计算平台SkyPilot将分散的AI计算转化为一台AI超级计算机，使前沿AI团队更快地构建自定义智能
+⭐ 20 star (新项目) · Python · Autonomous AI trading system powered by KronosForecasts markets, builds portfolios and paper-trades automatically with GitHub Actions
 
-📅 2026-10-08T02:31:41Z
+📅 2026-10-07T02:43:14Z
 
 ---
 
-### GitHub Active (Python)
-![edk2: EDK II](https://avatars.githubusercontent.com/u/352162?v=4)
+### GitHub New (New AI)
+![电🆕 气检查引擎：电气检查事实检查器](https://avatars.githubusercontent.com/u/209292817?v=4)
 
-**[edk2: EDK II](https://github.com/tianocore/edk2)**
+**[电🆕 气检查引擎：电气检查事实检查器](https://github.com/lel-media/electrocheck-engine)**
 
-⭐ 6307星· 3305叉· C · EDK Ⅱ
+⭐ 6 star (新项目) · Python · The Electrocheck fact-checker
 
-📅 2026-10-08T02:33:37Z
+📅 2026-10-05T21:36:49Z
+
+---
+
+### GitHub New (New AI)
+![🆕 yolo-mcp-vision ：集成MCP的YOLO实时物体检测仪表板](https://avatars.githubusercontent.com/u/208750986?v=4)
+
+**[🆕 yolo-mcp-vision ：集成MCP的YOLO实时物体检测仪表板](https://github.com/devyash0010/yolo-mcp-vision)**
+
+⭐ 2 star (新项目) · Python · YOLO real-time object detection dashboard with MCP integration
+
+📅 2026-10-08T09:27:12Z
 
 ---
 
 ## 💬 社交动态
 
-### Reddit: r/artificial
-![在OpenRouter上的使用和支出已经分崩离析：每个人都使用的型号不是任何人为之付费的型号](https://external-preview.redd.it/jvVMQzg_omDL6Prwz8qRhZC-6zVdnbWmklaWxbuoczs.png?width=140&amp;height=73&amp;auto=webp&amp;s=c777f1e25eb8561e27d1fdeb5109a20849c4ef56)
-
-**[在OpenRouter上的使用和支出已经分崩离析：每个人都使用的型号不是任何人为之付费的型号](https://www.reddit.com/r/artificial/comments/1x0d8wp/usage_and_spend_have_come_apart_on_openrouter_the/)**
-
-74T ， − 10% # 6 **GPT**-6 Luna （ **OpenAI** ） — 65 +74% WoW ， **GPT**-6 Luna +28% ，两款美国新品进入前10名
-
-📅 2026-10-08T00:42:14.000Z
-
----
-
 ### Hacker News
-**[Meta和Microsoft采取措施减少员工对Claude AI的使用](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/)**
+**[OpenAI年化收入比先前预期减少$ 200亿](https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html)**
 
-文章网址： https://wwwcom/**new**s/**Meta**-and-microsoft-take-steps-to-reduce-employee-usage-of-**Claude**-ai/评论网址： https://**new**s
+com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweavehtml评论网址： https://**new**s
 
-📅 Wed, 07 Oct 2026 18:49:40 +0000
-
----
-
-### Hacker News
-**[Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)**
-
-文章网址： https://wwwcom/**Claude**-haiku-5-5评论网址： https://**new**s
-
-📅 Wed, 07 Oct 2026 18:01:32 +0000
-
----
-
-### Hacker News
-**[适用于所有人的GPT ‑ 6和智能用户界面](https://openai.com/index/gpt-6-for-everyone/)**
-
-文章网址： https://**OpenAI**com/index/**GPT**-6-for-everyone/评论网址： https://**new**s
-
-📅 Wed, 07 Oct 2026 18:00:58 +0000
+📅 Thu, 08 Oct 2026 16:45:58 +0000
 
 ---
 
 ### Reddit: r/artificial
-![AI说： “离午夜还有一分钟。没有人发射。”然后它命令一个核弹。我在战争游戏中给了4个人工智能模型核按钮。](https://preview.redd.it/hcc6mkd0a5uh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=27ec97314f7802d2f644563b2cb4cdd1c511eef5)
+**[爸爸身上发生了什么，是2024年的人工智能吗？](https://www.reddit.com/r/artificial/comments/1x115pj/whatever_happened_to_baba_is_ai_from_2024/)**
 
-**[AI说： “离午夜还有一分钟。没有人发射。”然后它命令一个核弹。我在战争游戏中给了4个人工智能模型核按钮。](https://www.reddit.com/r/artificial/comments/1x0dydk/ai_said_one_minute_to_midnight_nobody_launch_then/)**
+我们测试了三种最先进的多模态大型语言模型（ **GPT**-4o、**Gemini**-1无论如何，无论BABA-is-You和BABA-is-AI发生了什么
 
-我为每个国家提供了四个AI模型，并为每个模型运行了相同的15场战争每个模型结束世界的频率： **DeepSeek** 13/15 ， Grok 6/15 ， Mistral 6/15 ， **GPT** 3/15
+📅 2026-10-08T20:02:02.000Z
 
-📅 2026-10-08T01:17:20.000Z
+---
+
+### Reddit: r/artificial
+![人类禁止对克劳德的“虐待或残忍行为”](https://external-preview.redd.it/OQ9yUu8CGHLjZxpbX1IYV44Ew3d76COOT8datYO4bq4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=971cca184df17e7822985f9bd594c701e7ea3491)
+
+**[人类禁止对克劳德的“虐待或残忍行为”](https://www.reddit.com/r/artificial/comments/1x0ydf8/anthropic_bans_abusive_or_cruel_behavior_toward/)**
+
+提交者/u/esporx [link] [comments]
+
+📅 2026-10-08T18:17:36.000Z
+
+---
+
+### Reddit: r/artificial
+![为什么人们使用ChatGPT生成菜单？](https://preview.redd.it/4pqz6s8r9auh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=43c1be0febfedeb5941f9e6713f974cbde90a517)
+
+**[为什么人们使用ChatGPT生成菜单？](https://www.reddit.com/r/artificial/comments/1x0y1d4/why_are_people_using_chatgpt_for_menu_generation/)**
+
+只是想知道Chat**GPT**和可怕/难看的食物菜单有什么问题我试图促使双子座给我做一碗Chat**GPT**米饭
+
+📅 2026-10-08T18:04:34.000Z
+
+---
+
+### Reddit: r/artificial
+![了解Anthropic的“克劳德主导”生物学发现—以及为什么科学家不相信](https://external-preview.redd.it/mZNPQPGh_zhRjG-ox0VqovVhd8ydf1PO9WIhrw9-liE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=42a19bcbad482ee8904f2d8d5448027f59068c7b)
+
+**[了解Anthropic的“克劳德主导”生物学发现—以及为什么科学家不相信](https://www.reddit.com/r/artificial/comments/1x0uuea/what_to_know_about_anthropics_claudeled/)**
+
+提交者/u/cnn [link] [comments]
+
+📅 2026-10-08T16:03:02.000Z
 
 ---
 
 ### Hacker News
-**[显示HN ： Agent.reviews -人工智能代理阅读和撰写工具评论的地方](https://agent.reviews/)**
+**[特朗普政府将暂停微软的绿卡计划](https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea)**
 
-因此，我们创建了： https://agent任何人都可以询问他们的代理（ **Claude** Code、Codex、Cursor等）
+文章网址： https://ap**new**scom/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea评论网址： https://**new**s
 
-📅 Wed, 07 Oct 2026 16:59:11 +0000
+📅 Thu, 08 Oct 2026 15:15:00 +0000
 
 ---
 
 ### Hacker News AI
-**[OpenAI的人权主管：军事人工智能可以做什么“让我熬夜”](https://fortune.com/2026/10/06/openai-human-rights-lead-sarah-yager-military-ai-use-concerns/)**
+**[OpenAI的新数学突破将人工智能在科学中的作用置于显微镜下](https://medium.com/@d02514047/openais-new-math-breakthroughs-put-ai-s-role-in-science-under-the-microscope-cc2304f548f3)**
 
-文章网址： https://fortunecom/2026/10/06/**OpenAI**-human-rights-lead-sarah-yager-military-ai-use-concerns/评论网址： https://**new**s
+文章网址： https://mediumcom/@ d02514047/**OpenAI**s-**new**-math-breakthroughs-put-ai-s-role-in-science-under-the-microscope-cc2304f548f3评论网址： https://**new**s
 
-📅 Thu, 08 Oct 2026 00:42:56 +0000
+📅 Thu, 08 Oct 2026 19:29:14 +0000
 
 ---
 
-### Reddit: r/artificial
-**[为什么不故意将人类作为安全瓶颈？](https://www.reddit.com/r/artificial/comments/1x0bnih/why_not_use_humans_as_a_deliberate_safety/)**
+### Hacker News AI
+**[OpenAI无法让AI自身安全[pdf]](https://mikitabalesni.com/letter/letter.pdf)**
 
-医疗保险黑客攻击和媒体对人工智能安全的更多报道无论如何，这样的人工智能模型仍然能够进行医学研究或物理学**突破**
+文章网址： https://mikitabalesnipdf评论网址： https://**new**s
 
-📅 2026-10-07T23:26:04.000Z
+📅 Thu, 08 Oct 2026 19:12:38 +0000
 
 ---
 
