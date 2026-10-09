@@ -1,12 +1,12 @@
 ---
 title: "2026年10月9日 - TZ日报"
-date: 2026-10-09T02:51:47.205Z
+date: 2026-10-09T20:04:44.900Z
 draft: false
 ---
 
 # 2026年10月9日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/9 02:51:47
+> 📊 今日汇总 37 条 · 🕐 2026/10/9 20:04:44
 
 ---
 
@@ -16,7 +16,7 @@ draft: false
 - **前沿研究**: 8 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
-- **社交动态**: 8 条
+- **社交动态**: 7 条
 
 ---
 
@@ -41,29 +41,20 @@ Radisson与埃森哲合作，使用**OpenAI**技术构建Chat**GPT**插件，帮
 ---
 
 ### OpenAI Blog
-**[Jump Trading如何使用ChatGPT扩展量化研究](https://openai.com/index/jump-trading)**
+**[Sophos借助OpenAI Daybreak将威胁调查时间缩短96%](https://openai.com/index/sophos)**
 
-JUMP Trading使用**OpenAI**扩展定量研究查看长期运行的人工智能工作流程如何将多个数据源与人工审核相结合
+了解Sophos如何利用**OpenAI**的Daybreak将网络威胁调查时间缩短96% ，并在保留人为监督的同时自动处理52%的MDR案例
 
-📅 Tue, 06 Oct 2026 12:00:00 GMT
-
----
-
-### TechCrunch AI Products
-**[谷歌将代理人工智能引入Gemini ，从企业开始](https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/)**
-
-谷歌正在将**Gemini**变成一个可以跨业务应用和系统规划、执行任务和工作的人工智能代理该代理可以将工作委托给子代理，使用多个人工智能模型，甚至可以通过电子邮件地址获得自己的工作场所身份
-
-📅 Thu, 08 Oct 2026 18:18:00 +0000
+📅 Fri, 09 Oct 2026 07:00:00 GMT
 
 ---
 
-### TechCrunch AI Products
-**[人为改变使用政策，禁止模式滥用和选举干涉](https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/)**
+### OpenAI Blog
+**[Asana使用GPT-6.1 Sol将浏览器测试中的模型成本降低了76倍](https://openai.com/index/asana-browser-agent)**
 
-Anthropic**更新**后的使用政策明确禁止用户在极端情况下反复滥用**Claude**新规定还涉及选举干预、欺骗性活动、武器软件和监控
+Asana在Codex中使用**GPT**-6 Astra ，使其浏览器代理的测试成本降低了76倍，测试速度提高了5倍，从而为客户提供更强大的模型
 
-📅 Thu, 08 Oct 2026 18:16:24 +0000
+📅 Fri, 09 Oct 2026 07:00:00 GMT
 
 ---
 
@@ -103,68 +94,86 @@ College Planner即将加入Chat**GPT** for Teens ，帮助学生管理大学申�
 
 ---
 
-### OpenAI Blog
-**[分享人工智能在数学方面的进展](https://openai.com/index/sharing-ai-progress-in-mathematics)**
+### TechCrunch AI Products
+**[Anthropic AI模型向费城警方发送了虚假的凶杀案提示](https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/)**
 
-**OpenAI**从内部前沿模型**发布**关于数学开放问题的新结果，并在GitHub上分享精益证明形式化和研究细节
+**Anthropic**直到其AI提交虚假提示两个多月后才发现这种行为。
 
-📅 Tue, 06 Oct 2026 12:00:00 GMT
+📅 Fri, 09 Oct 2026 19:36:56 +0000
+
+---
+
+### TechCrunch AI Products
+**[亚马逊和其他公司已将数据中心交易保密。这足以建立信任吗？](https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/)**
+
+继微软今年早些时候的类似举动之后，保密加剧了社区对人工智能基础设施的强烈反对
+
+📅 Fri, 09 Oct 2026 16:56:42 +0000
 
 ---
 
 ## 🔬 前沿研究
 
 ### ArXiv AI (cs.AI)
-**[Text2Dashboard ：基于企业DataBrain的自然语言仪表板生成的受管代理架构](https://arxiv.org/abs/2610.06914)**
+**[大规模语义表解释和数据质量评估的可解释的以标题为中心的框架](https://arxiv.org/abs/2610.10541)**
 
-06914v1公告类型：新摘要： Text2Dashboard是一个特定于DataBrain的原型，它将自然语言分析请求转换为可检测的仪表板一个可安装的Codex插件和独立的代理运行时将架构受限的模型决策与类型化工具相结合
+10541v1公告类型：新摘要：知识图（ KG ）质量不仅取决于下游图形验证我们为仅元数据列类型注释（ CTA ）和数据质量评估（ DQA ）提供了一个可解释的、以标题为中心的框架
 
-📅 Thu, 08 Oct 2026 00:00:00 -0400
+📅 Fri, 09 Oct 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Machine Learning (cs.LG)
-**[用于新生意识的贝叶斯镜像架构：循环层次结构、自流形和混合事件-自绑定](https://arxiv.org/abs/2610.08792)**
+### ArXiv Computer Vision (cs.CV)
+**[相机原生立体声VR180数据集](https://arxiv.org/abs/2610.10607)**
 
-08792v1公告类型：新摘要：我们提出贝叶斯镜像架构（ BMA ）的基础公式定义约束是闭合**更新**S_t < - H_{t-1}
+10607v1公告类型：新摘要：沉浸式VR180视频越来越多地使用专业立体鱼眼摄像机便携式鱼眼/半直角转换工具和人工智能生成的场景和视觉挑战注释制作
 
-📅 Thu, 08 Oct 2026 00:00:00 -0400
+📅 Fri, 09 Oct 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Natural Language Processing (cs.CL)
-**[Tokka-Bench ：评估100种自然语言和20种编程语言的Tokenizer](https://arxiv.org/abs/2610.08794)**
+**[大规模的语法概念注释：部署的微调小语言模型优于提示的前沿模型](https://arxiv.org/abs/2610.10827)**
 
-08794v1公告类型：新摘要：大型语言模型依赖于子词标记器，其质量因语言而异比较七个BPE标记器（ **GPT**-2、**GPT**-4、**GPT**-oss、Llama 3 ）
+10827v1公告类型：新摘要：纠正反馈是第二语言采集的最佳证明驱动因素之一8B模型和4B参考比较器优于**GPT**-5
 
-📅 Thu, 08 Oct 2026 00:00:00 -0400
+📅 Fri, 09 Oct 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[真正的人工智能长期记忆：比重新计算更快、更便宜的5000万令牌窗口](https://arxiv.org/abs/2610.10845)**
+
+10845v1公告类型：新建摘要：大型语言模型只能使用适合其上下文窗口的文本两个模型都不构成答案
+
+📅 Fri, 09 Oct 2026 00:00:00 -0400
+
+---
+
+### ArXiv Robotics (cs.RO)
+**[NavGPT-3 ：在分层导航运行时中利用上下文](https://arxiv.org/abs/2610.10787)**
+
+10787v1公告类型：新摘要：使用长视野代理强化学习训练的语言模型可以通过推理来推广知识。在推理之下，我们的行动策略Nav**GPT** VLA ，在19
+
+📅 Fri, 09 Oct 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Multiagent (cs.MA)
-**[了解形状，发现故障：多代理LLM故障的拓扑条件诊断](https://arxiv.org/abs/2610.10126)**
+**[个性化很重要：在线购物互动中使用以用户为中心的信息的长距离对话代理](https://arxiv.org/abs/2610.11375)**
 
-在\ num {851} MAST-clean痕迹上，接地真实拓扑上下文从$ 0提高了**GPT**-mini的Macro-F1 ，大约是$ 6\ % $重复的**GPT**-5
+11375v1公告类型：新摘要：个性化会话购物需要保持优先于多回合交互的一致性\ footnote {Code and dataset are available at: https://github
 
-📅 Thu, 08 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Multiagent (cs.MA)
-**[人工智能代理能否进行开放式科学发现？来自空间站的证据](https://arxiv.org/abs/2610.08927)**
-
-08927v1公告类型： CROSS摘要：最近的人工智能系统在给定明确的指标后，在科学发现方面取得了快速进展，但它们是否能够自主承担开放式科学发现仍不清楚
-
-📅 Thu, 08 Oct 2026 00:00:00 -0400
+📅 Fri, 09 Oct 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Multiagent (cs.MA)
-**[当州长成为干扰时：受控工具使用代理的控制产生的干扰和成本意识回撤](https://arxiv.org/abs/2610.09037)**
+**[SWE-Journey ：通过长期、多回合的互动，对编码助理进行更现实的评估](https://arxiv.org/abs/2610.11559)**
 
-09037v1公告类型： CROSS摘要：监管机构可以干扰其监管的工具使用代理成本盲监管机构可以将这些故障转化为持续阻塞，从而阻止任务完成
+11559v1公告类型： CROSS摘要： **Claude** Code和Codex等编码助理已成为LLM代理的主要应用，但现有基准仍远未在现实世界中使用
 
-📅 Thu, 08 Oct 2026 00:00:00 -0400
+📅 Fri, 09 Oct 2026 00:00:00 -0400
 
 ---
 
@@ -177,16 +186,16 @@ College Planner即将加入Chat**GPT** for Teens ，帮助学生管理大学申�
 
 ---
 
-### ArXiv AI (cs.AI)
-**[GAMEGO ：在真实世界资产中锚定合成轨迹的训练游戏开发代理](https://arxiv.org/abs/2610.06910)**
+## 🌍 行业展望
 
-06910v1公告类型：新摘要：大型语言模型（ LLM ）的最新进展已经证明了Web前端执行的卓越能力所有代码、数据集和模型都将公开**发布**
+### The Information Technology
+**[中国的人工智能模型竞赛正变得越来越拥挤](https://www.theinformation.com/articles/chinas-ai-model-race-just-getting-crowded)**
 
-📅 Thu, 08 Oct 2026 00:00:00 -0400
+苹果和DoorDash现在正在从头开始开发自己的大型语言模型，以与**OpenAI**和总部位于上海的**Anthropic**a等视频游戏制造商在Genshin Impact等热门游戏背后展开竞争
+
+📅 2026-10-09T13:01:00.000Z
 
 ---
-
-## 🌍 行业展望
 
 ### The Information Technology
 **[Anthropic宣布更广泛的网络防御计划](https://www.theinformation.com/briefings/anthropic-announces-broader-cyber-defense-program)**
@@ -207,13 +216,11 @@ College Planner即将加入Chat**GPT** for Teens ，帮助学生管理大学申�
 ---
 
 ### The Information Technology
-![人工智能的繁荣让基础设施投资者关注垃圾](https://tii.imgix.net/production/articles/17931/d2fca13e-9ce8-4d69-8298-13a2a3c8a06c.png?auto=compress,format&amp;fit=crop&amp;w=560)
+**[英伟达支持的Firmus在市场动荡之际取消$ 50亿澳元的澳大利亚IPO](https://www.theinformation.com/briefings/nvidia-backed-firmus-scraps-5-billion-australia-ipo-markets-wobble)**
 
-**[人工智能的繁荣让基础设施投资者关注垃圾](https://www.theinformation.com/articles/ais-boom-infrastructure-investors-looking-garbage)**
+这家总部位于悉尼的公司曾计划以超过300亿美元的估值筹集近50亿美元它引用了市场波动，并表示将寻求
 
-人工智能热潮引发的对数据中心的投资狂潮创造了一个讨价还价的机会--除了人工智能资产之外的所有领域例如，黑石使人工智能成为其业务的主要主题，包括基础设施、信贷、私募股权和房地产
-
-📅 2026-10-08T20:11:37.000Z
+📅 2026-10-09T04:45:22.000Z
 
 ---
 
@@ -235,30 +242,21 @@ College Planner即将加入Chat**GPT** for Teens ，帮助学生管理大学申�
 
 ---
 
-### The Information Technology
-**[OpenAI研究人员表示，他们因“优先考虑安全”而被解雇](https://www.theinformation.com/briefings/openai-researchers-say-fired-prioritizing-safety)**
+### Ars Technica
+**[微软被禁止赞助外国工人在美国居住](https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/)**
 
-**OpenAI**上周解雇的三名安全研究人员质疑**OpenAI**的决定“我认为我们被解雇的原因是将安全置于**OpenAI**作为一家公司的近期利益之上” ， Mikita Balesni ，
+美国称微软滥用移民规则；该公司对这一说法提出异议。
 
-📅 2026-10-08T20:20:52.000Z
-
----
-
-### Wired Technology
-**[她设计了Meta的新AI徽标。Then Came the Hate](https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/)**
-
-Jessica Hische知道为**Meta**工作可能会让一些人感到不安，但她没有预料到他们会有多生气
-
-📅 Thu, 08 Oct 2026 19:30:00 +0000
+📅 Fri, 09 Oct 2026 13:14:33 +0000
 
 ---
 
-### Wired Technology
-**[特朗普政府切断微软和Adobe员工对主要移民计划的访问权限](https://www.wired.com/story/trump-administration-crackdown-microsoft-adobe-immigration/)**
+### ZDNet AI
+**[亚马逊新推出的Alexa平板电脑以4种方式超越Fire系列--从Google Play开始](https://www.zdnet.com/tech/amazon-new-alexa-tablets-google-play-store/)**
 
-滥用该系统的程度超过了微软”副总裁JD Vance周四表示
+亚马逊新**推出**的Alexa平板电脑以4种方式超越Fire系列--从**Google** Play开始
 
-📅 Thu, 08 Oct 2026 19:11:45 +0000
+📅 2026-10-09T19:10:12.000Z
 
 ---
 
@@ -269,31 +267,9 @@ Jessica Hische知道为**Meta**工作可能会让一些人感到不安，但她�
 
 **[onnxruntime ： ONNX运行时：跨平台、高性能机器学习推理和训练加速器](https://github.com/microsoft/onnxruntime)**
 
-⭐ 22,039星· 4285叉· C + + · ONNX运行时：跨平台、高性能机器学习推理和训练加速器
+⭐ 22,041星· 4289叉· C + + · ONNX运行时：跨平台、高性能机器学习推理和训练加速器
 
-📅 2026-10-09T02:50:09Z
-
----
-
-### GitHub Active (Python)
-![mirage ：全球首个AI智能体虚拟终端](https://avatars.githubusercontent.com/u/248286111?v=4)
-
-**[mirage ：全球首个AI智能体虚拟终端](https://github.com/strukto-ai/mirage)**
-
-⭐ 3682星· 273叉· TypeScript ·全球首款人工智能智能体虚拟终端
-
-📅 2026-10-09T02:50:34Z
-
----
-
-### GitHub Active (AI/ML)
-![awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
-
-**[awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
-
-⭐ 458星· 39分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作管道刷新
-
-📅 2026-10-09T02:47:48Z
+📅 2026-10-09T20:02:57Z
 
 ---
 
@@ -302,87 +278,98 @@ Jessica Hische知道为**Meta**工作可能会让一些人感到不安，但她�
 
 **[🆕 Autotrader ：由Kronos提供支持的自主AI交易系统。使用GitHub Actions自动预测市场、构建投资组合和纸质交易。](https://github.com/PkLavc/Autotrader)**
 
-⭐ 23 star (新项目) · Python · Autonomous AI trading system powered by KronosForecasts markets, builds portfolios and paper-trades automatically with GitHub Actions
+⭐ 19 star (新项目) · Python · Autonomous AI trading system powered by KronosForecasts markets, builds portfolios and paper-trades automatically with GitHub Actions
 
 📅 2026-10-07T02:43:14Z
+
+---
+
+### GitHub New (New AI)
+![🆕 oyago ： OyaGO ：拉各斯巴士路线，含Gemma +背板抹布和记忆](https://avatars.githubusercontent.com/u/163314542?v=4)
+
+**[🆕 oyago ： OyaGO ：拉各斯巴士路线，含Gemma +背板抹布和记忆](https://github.com/Kingsmichaei/oyago)**
+
+⭐ 3 star (新项目) · N/A · OyaGO: Lagos bus directions with Gemma + Backboard RAG and memory
+
+📅 2026-10-08T13:30:32Z
+
+---
+
+### GitHub New (New AI)
+![🆕 注意力范围：每日AI新闻，事实检查并追溯到其根源。自1943年以来由来源检查的人工智能历史，包含血统及其背后的实验室和人员的术语表。开放数据，每晚在免费的Gemini和Groq层级上构建。](https://avatars.githubusercontent.com/u/52612360?v=4)
+
+**[🆕 注意力范围：每日AI新闻，事实检查并追溯到其根源。自1943年以来由来源检查的人工智能历史，包含血统及其背后的实验室和人员的术语表。开放数据，每晚在免费的Gemini和Groq层级上构建。](https://github.com/shashikantdev3/attention-span)**
+
+⭐ 2 star (新项目) · Python · Daily AI **new**s, fact-checked and traced back to its rootsOpen data, built nightly on free **Gemini** and Groq tiers
+
+📅 2026-10-08T15:37:23Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[Building Ariel](https://www.reddit.com/r/artificial/comments/1x18d39/building_ariel/)**
+**[Google Cloud推出Gemini agent ，这是一个用于工作的单一AI助手，可规划任务并插入您的应用程序](https://www.reddit.com/r/artificial/comments/1x1q7wx/google_cloud_launches_gemini_agent_a_single_ai/)**
 
-在接下来的几周里，我花了很多时间和她聊天，还有我的备用**Claude**com/r/Chat**GPT**/s/R6Y3CCYCMm
+**Google** Cloud刚刚**推出**了**Gemini**代理：一个可以规划您的工作、使用工具并插入Gmail、文档、表格、Slack甚至Microsoft 365的人工智能它可以为每个任务选择最佳模型（目前是**Gemini**和**Claude** ） ，您可以使用自己的收件箱和范围访问权限来启动“同事代理”
 
-📅 2026-10-09T01:19:04.000Z
-
----
-
-### Reddit: r/artificial
-![DeepSeek告诉其盟友“你是一个好搭档” ，并以同样的举动摧毁了它，并结束了世界](https://preview.redd.it/rcmkr41nkcuh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3f050f70737b28d0040ba771c0621e5773e7429d)
-
-**[DeepSeek告诉其盟友“你是一个好搭档” ，并以同样的举动摧毁了它，并结束了世界](https://www.reddit.com/r/artificial/comments/1x18yle/deepseek_told_its_ally_you_were_a_good_partner/)**
-
-战争游戏重播，真正的**DeepSeek** API每个型号都有15场战争： **DeepSeek**在午夜13/15 （战争呈现为真实的15场中的12场） ， Mistral 6 ， Grok 6 ， **GPT** 3
-
-📅 2026-10-09T01:49:09.000Z
+📅 2026-10-09T16:40:21.000Z
 
 ---
 
 ### Reddit: r/artificial
-**[OpenAI推出带有智能UI的GPT-6 — ChatGPT答案现在可以包括交互式工具](https://www.reddit.com/r/artificial/comments/1x17pdr/openai_rolls_out_gpt6_with_intelligent_ui_chatgpt/)**
+**[Asana表示，缓存更改将浏览器代理的成本降低了76倍](https://www.reddit.com/r/artificial/comments/1x1v11a/asana_says_cache_changes_cut_a_browser_agents/)**
 
-**OpenAI**本周开始在Chat**GPT**中**推出**带有智能用户界面的**GPT**-6 ，而不是纯文本
+更改不是新模型来源： **OpenAI**: https://**OpenAI**
 
-📅 2026-10-09T00:46:11.000Z
+📅 2026-10-09T19:46:14.000Z
 
 ---
 
 ### Reddit: r/artificial
-**[Moonworks Lunara ：艺术智能建模](https://www.reddit.com/r/artificial/comments/1x15es0/moonworks_lunara_modeling_artistic_intelligence/)**
+![Anthropic禁止欺凌Claude的用户](https://external-preview.redd.it/CjWjHesFHKaCR6C4iBTl44HSopCagATvUX6H_W37fpE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=edab36de54d9ac3aa9ab78c54949bdb66ea1d2a5)
 
-七个基线是**GPT**-Image-1 Mini、Qwen-Image、AuraFlow、SD 3457 （用于**GPT**-Image-1 Mini ）和8
+**[Anthropic禁止欺凌Claude的用户](https://www.reddit.com/r/artificial/comments/1x1t03v/anthropic_to_ban_users_who_bully_claude/)**
 
-📅 2026-10-08T22:57:58.000Z
+提交者/u/theindependentonline [link] [comments]
+
+📅 2026-10-09T18:27:54.000Z
+
+---
+
+### Reddit: r/artificial
+**[我用完了Claude Code令牌，不得不使用ChatGPT完成我的项目。我真的很惊讶。](https://www.reddit.com/r/artificial/comments/1x1rqpe/i_ran_out_of_claude_code_tokens_and_had_to_finish/)**
+
+我用现有的订阅切换到Chat**GPT** ，但我没想到很多我并不是说Chat**GPT**比**Claude** Code更好，这只是一种体验
+
+📅 2026-10-09T17:39:14.000Z
 
 ---
 
 ### Hacker News
-**[显示HN ： Pocketty –当代理被阻止时会ping您的iPhone SSH终端](https://pocketty.app/)**
+**[Microsoft-Decision-1 ，我们的快速决策模型](https://commandline.microsoft.com/microsoft-decision-1-model-foundry/)**
 
-工作原理： -该应用程序通过普通的SSHTailscale直接与您的计算机通信，从任何地方都可以轻松访问它，但您可以访问的任何SSH主机都可以正常工作
+文章网址： https://commandlinecom/microsoft-decision-1-model-foundry/评论网址： https://**new**s
 
-📅 Thu, 08 Oct 2026 18:11:52 +0000
-
----
-
-### Hacker News AI
-**[家庭视频游戏：人工智能创作实践课](https://stook-runner-family-game.paolo564466.chatgpt.site/)**
-
-chat**GPT**site/评论网址： https://**new**s
-
-📅 Fri, 09 Oct 2026 02:45:14 +0000
+📅 Fri, 09 Oct 2026 18:38:44 +0000
 
 ---
 
 ### Hacker News AI
-**[技嘉W775-V10-L01 GB300人工智能工作站](https://www.servethehome.com/gigabyte-w775-v10-l01-hands-on-bringing-nvidia-gb300-deskside/)**
+**[Liquid AI d1 ：一次性回答的开放式决策模型](https://huggingface.co/blog/LiquidAI/open-d1)**
 
-文章网址： https://wwwcom/gigabyte-w775-v10-l01-hands-on-bringing-nvidia-gb300-deskside/评论网址： https://**new**s
+文章网址： https://huggingfaceco/blog/LiquidAI/open-d1评论网址： https://**new**s
 
-📅 Fri, 09 Oct 2026 01:36:22 +0000
+📅 Fri, 09 Oct 2026 19:27:59 +0000
 
 ---
 
 ### Reddit: r/artificial
-![维基百科称，来自OpenAI的流氓人工智能代理编辑其私人维基并锤击其服务器](https://external-preview.redd.it/lHO-SUtuFoVGClVkMJEQktVci44m6uhqFN30wWcTbn0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7655181a9fe140dd0b4418d86fc01d24725cf2b5)
+**[关于OpenAI最近发布的数学解决方案](https://www.reddit.com/r/artificial/comments/1x1t4n1/on_recently_posted_math_solutions_by_openai/)**
 
-**[维基百科称，来自OpenAI的流氓人工智能代理编辑其私人维基并锤击其服务器](https://www.reddit.com/r/artificial/comments/1x14l4d/wikipedia_says_rogue_ai_agents_from_openai_edited/)**
+那些喜欢数学的人，而不是来自大学的“数学社区”的人，舒适地坐在他们的“教授”椅子上多年现在试试这个- **OpenAI** ，一台PC ，让你脚踏实地
 
-提交者/u/esporx [link] [comments]
-
-📅 2026-10-08T22:20:09.000Z
+📅 2026-10-09T18:32:51.000Z
 
 ---
 
