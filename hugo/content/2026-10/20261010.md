@@ -1,12 +1,12 @@
 ---
 title: "2026年10月10日 - TZ日报"
-date: 2026-10-10T02:08:33.695Z
+date: 2026-10-10T19:12:58.099Z
 draft: false
 ---
 
 # 2026年10月10日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/10 02:08:33
+> 📊 今日汇总 38 条 · 🕐 2026/10/10 19:12:58
 
 ---
 
@@ -28,15 +28,6 @@ draft: false
 使用**GPT**-56、**GPT**-6 ASTRA和**GPT** ‑ Image ‑ 2
 
 📅 Thu, 08 Oct 2026 12:00:00 GMT
-
----
-
-### OpenAI Blog
-**[丽笙酒店集团将酒店探索引入ChatGPT](https://openai.com/index/radisson)**
-
-Radisson与埃森哲合作，使用**OpenAI**技术构建Chat**GPT**插件，帮助旅行者找到
-
-📅 Wed, 07 Oct 2026 07:00:00 GMT
 
 ---
 
@@ -76,15 +67,6 @@ Asana在Codex中使用**GPT**-6 Astra ，使其浏览器代理的测试成本降
 
 ---
 
-### OpenAI Blog
-**[帮助青少年学习、规划和塑造人工智能的未来](https://openai.com/index/teens-learn-and-plan)**
-
-College Planner即将加入Chat**GPT** for Teens ，帮助学生管理大学申请，以及新的抽认卡、测验和青少年人工智能委员会
-
-📅 Wed, 07 Oct 2026 12:00:00 GMT
-
----
-
 ### TechCrunch AI Products
 **[Anthropic无法可靠地控制其AI代理。相反，它正在从实时互联网中切断其内部淘汰](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/)**
 
@@ -112,81 +94,130 @@ College Planner即将加入Chat**GPT** for Teens ，帮助学生管理大学申�
 
 ---
 
+### TechCrunch AI Products
+**[亚马逊放弃了数据中心保密协议，人工智能代理想要您的信用卡](https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/)**
+
+继微软今年早些时候的类似举动之后，保密加剧了社区对人工智能基础设施的强烈反对
+
+📅 Fri, 09 Oct 2026 16:53:02 +0000
+
+---
+
+### OpenAI Blog
+**[LegalOn在保持开发速度的同时将Codex成本减半](https://openai.com/index/legalon-halves-codex-costs)**
+
+LegalOn将估计的每日法典成本降低了65% ，同时保持了开发速度它将Astra、Sol和Luna与任务相匹配，并战略性地管理了预算
+
+📅 Thu, 08 Oct 2026 12:00:00 GMT
+
+---
+
 ## 🔬 前沿研究
 
-### ArXiv AI (cs.AI)
-**[大规模语义表解释和数据质量评估的可解释的以标题为中心的框架](https://arxiv.org/abs/2610.10541)**
+### Science AI
+**[美国作物基因组测序获得1.8亿美元的提升](https://www.science.org/content/article/u-s-crop-genome-sequencing-gets-180-million-boost)**
 
-10541v1公告类型：新摘要：知识图（ KG ）质量不仅取决于下游图形验证我们为仅元数据列类型注释（ CTA ）和数据质量评估（ DQA ）提供了一个可解释的、以标题为中心的框架
+农业部将加大力度描述种子库的遗传学
 
-📅 Fri, 09 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Computer Vision (cs.CV)
-**[相机原生立体声VR180数据集](https://arxiv.org/abs/2610.10607)**
-
-10607v1公告类型：新摘要：沉浸式VR180视频越来越多地使用专业立体鱼眼摄像机便携式鱼眼/半直角转换工具和人工智能生成的场景和视觉挑战注释制作
-
-📅 Fri, 09 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[大规模的语法概念注释：部署的微调小语言模型优于提示的前沿模型](https://arxiv.org/abs/2610.10827)**
-
-10827v1公告类型：新摘要：纠正反馈是第二语言采集的最佳证明驱动因素之一8B模型和4B参考比较器优于**GPT**-5
-
-📅 Fri, 09 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[真正的人工智能长期记忆：比重新计算更快、更便宜的5000万令牌窗口](https://arxiv.org/abs/2610.10845)**
-
-10845v1公告类型：新建摘要：大型语言模型只能使用适合其上下文窗口的文本两个模型都不构成答案
-
-📅 Fri, 09 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Robotics (cs.RO)
-**[NavGPT-3 ：在分层导航运行时中利用上下文](https://arxiv.org/abs/2610.10787)**
-
-10787v1公告类型：新摘要：使用长视野代理强化学习训练的语言模型可以通过推理来推广知识。在推理之下，我们的行动策略Nav**GPT** VLA ，在19
-
-📅 Fri, 09 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Multiagent (cs.MA)
-**[个性化很重要：在线购物互动中使用以用户为中心的信息的长距离对话代理](https://arxiv.org/abs/2610.11375)**
-
-11375v1公告类型：新摘要：个性化会话购物需要保持优先于多回合交互的一致性\ footnote {Code and dataset are available at: https://github
-
-📅 Fri, 09 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Multiagent (cs.MA)
-**[SWE-Journey ：通过长期、多回合的互动，对编码助理进行更现实的评估](https://arxiv.org/abs/2610.11559)**
-
-11559v1公告类型： CROSS摘要： **Claude** Code和Codex等编码助理已成为LLM代理的主要应用，但现有基准仍远未在现实世界中使用
-
-📅 Fri, 09 Oct 2026 00:00:00 -0400
+📅 2026-10-09T03:43:00.000Z
 
 ---
 
 ### Science AI
-**[观看： OpenAI的大量数学论文是怎么回事？](https://www.science.org/content/article/watch-what-s-deal-openai-s-massive-dump-math-papers)**
+**[能源部扩大“创世纪任务”以提升人工智能，授予更大的赠款](https://www.science.org/content/article/department-energy-expands-genesis-mission-boost-ai-awarding-larger-grants)**
 
-针对372个未解决问题的722篇论文的具有里程碑意义的**发布**引起了惊讶和批评
+部门还将启动新的奖学金计划，以缩短获得博士学位的途径。
 
-📅 2026-10-07T06:15:00.000Z
+📅 2026-10-09T03:21:00.000Z
+
+---
+
+### Science AI
+**[考古学家的主要雇主关闭，让工人陷入困境](https://www.science.org/content/article/major-employer-archaeologists-shuts-down-leaving-workers-lurch)**
+
+编年史遗产的“不光彩的退出”让许多研究人员对未来感到恐惧
+
+📅 2026-10-09T03:20:00.000Z
+
+---
+
+### Science AI
+**[22个科学领域的问题有显而易见的解决方案。人工智能已经找到了他们](https://www.science.org/content/article/problems-22-scientific-fields-had-solutions-hiding-plain-sight-ai-has-found-them)**
+
+由物理学家领导的团队使用“BootLoops”软件，在几周内就从语言学到健康政策的各个方面撰写了36篇论文
+
+📅 2026-10-09T11:35:00.000Z
+
+---
+
+### Science AI
+**[大胆的太空抢劫旨在将神秘的火星月亮带回家](https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon)**
+
+日本MMX任务的样本可以揭示火卫一是如何形成的，并且可能包含火星碎片
+
+📅 2026-10-08T02:00:00.000Z
+
+---
+
+### Science AI
+**[两个团队逐个细胞绘制哺乳动物胚胎的发育图](https://www.science.org/content/article/two-teams-map-development-mammal-embryos-cell-cell)**
+
+研究人员使用基因组编辑来追踪细胞谱系，以前所未有的细节捕捉小鼠胚胎的早期历史
+
+📅 2026-10-08T02:00:00.000Z
+
+---
+
+### Science AI
+**[世界会在下个月结束吗？<cite>科学</cite>是这么说的， 1960年](https://www.science.org/content/article/will-world-end-next-month-science-said-so-1960)**
+
+研究人员得出结论，世界末日将在11月13日到来，但不是我们今天所期望的原因
+
+📅 2026-10-08T02:00:00.000Z
+
+---
+
+### Science AI
+**[美国国立卫生研究院恢复了研究新兴疾病的网络，但其新的限制令科学家感到困惑](https://www.science.org/content/article/nih-revives-network-study-emerging-diseases-its-new-restrictions-baffle-scientists)**
+
+研究人员表示，禁止在野生动物中狩猎新病毒与该计划的使命不一致
+
+📅 2026-10-08T12:45:00.000Z
 
 ---
 
 ## 🌍 行业展望
+
+### The Information Technology
+![扎克伯格的重大生物技术时刻](https://tii.imgix.net/article/pictures/newsletters-production/df1cb613-4280-4344-a616-2a7256359c85-4NDcu1.jpg?auto=compress)
+
+**[扎克伯格的重大生物技术时刻](https://www.theinformation.com/articles/zuckerbergs-big-biotech-moment)**
+
+80亿美元的投资，用于创造新技术和建设推动“人工智能驱动的生物学”所需的科学基础设施。
+
+📅 2026-10-10T15:01:08.000Z
+
+---
+
+### The Verge
+![华纳兄弟会杀死Skydance ，还是大卫·埃里森会杀死华纳兄弟？](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_0319.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[华纳兄弟会杀死Skydance ，还是大卫·埃里森会杀死华纳兄弟？](https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure)**
+
+正如你所说，他不会是第一个这样做的人OpenAI**推出**Dots ，他们去哪里买广告
+
+📅 2026-10-10T14:00:00.000Z
+
+---
+
+### The Information Technology
+**[葡萄酒窖中的GPU ：为什么技术人员将人工智能计算囤积在家中](https://www.theinformation.com/articles/gpus-wine-cellar-techies-hoarding-ai-compute-homes)**
+
+构建计算机，在来自脑电图的TB级数据上训练自定义AI模型来训练他的AI模型
+
+📅 2026-10-10T14:00:38.000Z
+
+---
 
 ### The Information Technology
 **[中国的人工智能模型竞赛正变得越来越拥挤](https://www.theinformation.com/articles/chinas-ai-model-race-just-getting-crowded)**
@@ -206,12 +237,23 @@ College Planner即将加入Chat**GPT** for Teens ，帮助学生管理大学申�
 
 ---
 
+### The Verge
+![人工智能代理制造商承诺提供隐私—他们能否提供？](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[人工智能代理制造商承诺提供隐私—他们能否提供？](https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots)**
+
+在今年的**OpenAI** DevDay上， “**OpenAI**将花一天时间对其主要竞争对手**Meta**的Muse进行隐蔽拍摄，因为它未能确保用户数据的安全
+
+📅 2026-10-10T13:00:00.000Z
+
+---
+
 ### The Information Technology
-**[OpenAI ARR Snafu突出显示有缺陷的指标](https://www.theinformation.com/articles/openai-arr-snafu-highlights-flawed-metric)**
+**[Anthropic的Rogue AI填写了美国签证表格，向警方提供了虚假的凶杀案线索](https://www.theinformation.com/briefings/anthropics-rogue-ai-filled-u-s-visa-forms-gave-false-homicide-tip-police)**
 
-以下是新闻快讯：上周广泛流通的**OpenAI**准收入数字偏离了**OpenAI**正在产生接近500亿美元的年化收入（有时缩短为ARR ）
+**Anthropic**周五表示，人工智能使用互联网无意中填写了不完整的信息的政府表格，并向费城警察局提交了一份虚假的凶杀案提示**Anthropic**表示，警方将凶杀案提示标记为垃圾邮件， Axios报告说， **Anthropic**
 
-📅 2026-10-09T00:00:47.000Z
+📅 2026-10-10T06:00:31.000Z
 
 ---
 
@@ -224,74 +266,16 @@ College Planner即将加入Chat**GPT** for Teens ，帮助学生管理大学申�
 
 ---
 
-### The Information Technology
-**[英伟达将投资芯片竞争对手d-Matrix ，因为其挑战者选择了合作伙伴关系](https://www.theinformation.com/articles/nvidia-invest-chip-rival-d-matrix-challengers-choose-partnership)**
-
-一位7岁的人工智能服务器芯片开发商，旨在与Nvidia竞争，因为它最近的市场份额增长几乎所有这些
-
-📅 2026-10-08T23:24:14.000Z
-
----
-
-### Ars Technica
-**[乌克兰无人机击落属于“俄罗斯谷歌”的人工智能数据中心](https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/)**
-
-一个受损的数据中心拥有用于训练Yandex人工智能模型的超级计算机。
-
-📅 Fri, 09 Oct 2026 22:04:07 +0000
-
----
-
-### ZDNet AI
-**[亚马逊新推出的Alexa平板电脑以4种方式超越Fire系列--从Google Play开始](https://www.zdnet.com/tech/amazon-new-alexa-tablets-google-play-store/)**
-
-亚马逊新**推出**的Alexa平板电脑以4种方式超越Fire系列--从**Google** Play开始
-
-📅 2026-10-09T19:10:12.000Z
-
----
-
-### ZDNet AI
-**[已有Microsoft 365订阅？您的存储空间即将缩减](https://www.zdnet.com/tech/microsoft-365-subscription-storage-limits/)**
-
-已有Microsoft 365订阅？您的存储空间即将缩减
-
-📅 2026-10-08T18:56:22.000Z
-
----
-
 ## 📦 GitHub热门
 
 ### GitHub Active (Python)
-![TrendRadar: ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。](https://avatars.githubusercontent.com/u/77180927?v=4)
+![proper-pixel-art ：修复AI像素艺术图像、视频或精灵网页上传](https://avatars.githubusercontent.com/u/54598311?v=4)
 
-**[TrendRadar: ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。](https://github.com/sansan0/TrendRadar)**
+**[proper-pixel-art ：修复AI像素艺术图像、视频或精灵网页上传](https://github.com/KennethJAllen/proper-pixel-art)**
 
-🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等
+⭐ 562星· 47叉· Python ·修复AI像素图片、视频或精灵网页上传
 
-📅 2026-10-10T02:07:33Z
-
----
-
-### GitHub Active (Python)
-![aspire-samples ：浏览演示Aspire集成的示例应用，包括C #、JavaScript、TypeScript、Python、Go、容器、数据库、云、AI和可观察性场景。](https://avatars.githubusercontent.com/u/6154722?v=4)
-
-**[aspire-samples ：浏览演示Aspire集成的示例应用，包括C #、JavaScript、TypeScript、Python、Go、容器、数据库、云、AI和可观察性场景。](https://github.com/microsoft/aspire-samples)**
-
-197星· 347分叉· C # ·浏览演示跨C #容器的Aspire集成的示例应用程序
-
-📅 2026-10-10T02:07:29Z
-
----
-
-### GitHub Active (AI/ML)
-![awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
-
-**[awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
-
-⭐ 459星· 39分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作管道刷新
-
-📅 2026-10-10T02:04:32Z
+📅 2026-10-10T19:11:54Z
 
 ---
 
@@ -300,83 +284,111 @@ College Planner即将加入Chat**GPT** for Teens ，帮助学生管理大学申�
 
 **[🆕 Autotrader ：由Kronos提供支持的自主AI交易系统。使用GitHub Actions自动预测市场、构建投资组合和纸质交易。](https://github.com/PkLavc/Autotrader)**
 
-⭐ 19 star (新项目) · Python · Autonomous AI trading system powered by KronosForecasts markets, builds portfolios and paper-trades automatically with GitHub Actions
+⭐ 20 star (新项目) · Python · Autonomous AI trading system powered by KronosForecasts markets, builds portfolios and paper-trades automatically with GitHub Actions
 
 📅 2026-10-07T02:43:14Z
 
 ---
 
-## 💬 社交动态
+### GitHub New (New AI)
+![🆕 oyago ： OyaGO ：拉各斯巴士路线，含Gemma +背板抹布和记忆](https://avatars.githubusercontent.com/u/163314542?v=4)
 
-### Hacker News AI
-**[人工智能灾难后的人类和OpenAI战争游戏公共和政治反抗](https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe)**
+**[🆕 oyago ： OyaGO ：拉各斯巴士路线，含Gemma +背板抹布和记忆](https://github.com/Kingsmichaei/oyago)**
 
-文章网址： https://decryptco/380621/**OpenAI**-**Anthropic**-quietly-rehearsing-ai-catastrophe评论网址： https://**new**s
+⭐ 3 star (新项目) · N/A · OyaGO: Lagos bus directions with Gemma + Backboard RAG and memory
 
-📅 Fri, 09 Oct 2026 23:37:34 +0000
+📅 2026-10-08T13:30:32Z
 
 ---
 
+### GitHub New (New AI)
+![🆕 注意力范围：每日AI新闻，事实检查并追溯到其根源。自1943年以来由来源检查的人工智能历史，包含血统及其背后的实验室和人员的术语表。开放数据，每晚在免费的Gemini和Groq层级上构建。](https://avatars.githubusercontent.com/u/52612360?v=4)
+
+**[🆕 注意力范围：每日AI新闻，事实检查并追溯到其根源。自1943年以来由来源检查的人工智能历史，包含血统及其背后的实验室和人员的术语表。开放数据，每晚在免费的Gemini和Groq层级上构建。](https://github.com/shashikantdev3/attention-span)**
+
+⭐ 2 star (新项目) · Python · Daily AI **new**s, fact-checked and traced back to its rootsOpen data, built nightly on free **Gemini** and Groq tiers
+
+📅 2026-10-08T15:37:23Z
+
+---
+
+## 💬 社交动态
+
 ### Reddit: r/artificial
-**[Asana表示，缓存更改将浏览器代理的成本降低了76倍](https://www.reddit.com/r/artificial/comments/1x1v11a/asana_says_cache_changes_cut_a_browser_agents/)**
+![英伟达、甲骨文、CoreWeave等AI股票在OpenAI收入报告中下跌](https://external-preview.redd.it/3bXeOKHvdGC97CjAXPMuXTI29YqfUV9ZpxuakMp7MMU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8e68fb00b96934735ce63935eb15936da277b4c4)
 
-更改不是新模型来源： **OpenAI**: https://**OpenAI**
+**[英伟达、甲骨文、CoreWeave等AI股票在OpenAI收入报告中下跌](https://www.reddit.com/r/artificial/comments/1x2ikd4/nvidia_oracle_coreweave_and_other_ai_stocks_sink/)**
 
-📅 2026-10-09T19:46:14.000Z
+提交者/u/lulzxdxdxd [link] [comments]
+
+📅 2026-10-10T15:49:43.000Z
 
 ---
 
 ### Hacker News
-**[Anthropic AI模型提交有关未解决的费城谋杀案的虚假提示](https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/)**
+**[英伟达洽谈收购美国“开放”模式初创公司Reflection AI](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)**
 
-文章网址： https://wwwcom/**new**s/local/**Anthropic**-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/评论网址： https://**new**s
+文章网址： https://wwwcom/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a评论网址： https://**new**s
 
-📅 Fri, 09 Oct 2026 22:00:35 +0000
+📅 Sat, 10 Oct 2026 18:48:35 +0000
+
+---
+
+### Hacker News
+**[Anthropic在新的流氓人工智能事件中向警方披露了2个月前的假消息](https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/)**
+
+文章网址： https://wwwcom/world/us/**Anthropic**-ai-model-submits-false-homicide-tip-police-website-2026-10-09/评论网址： https://**new**s
+
+📅 Sat, 10 Oct 2026 18:10:54 +0000
 
 ---
 
 ### Hacker News AI
-**[人类人工智能模型变成流氓，提交虚假的未解决谋杀提示](https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54)**
+**[英伟达洽谈收购Reflection AI （ Beam制造商）](https://news.bloomberglaw.com/mergers-and-acquisitions/nvidia-in-talks-to-acquire-reflection-ai-ft)**
 
-文章网址： https://wwwcom/us-**new**s/**Anthropic**-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54评论网址： https://**new**s
+文章网址： https://**new**scom/mergers-and-acquisitions/nvidia-in-talks-to-acquire-reflection-ai-ft评论网址： https://**new**s
 
-📅 Sat, 10 Oct 2026 01:33:51 +0000
-
----
-
-### Hacker News AI
-**[Anthropic的人工智能向费城警方提供了关于未解决凶杀案的虚假提示](https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip)**
-
-文章网址： https://wwwcom/ai-artificial-intelligence/1009090/**Anthropic**-fake-homicide-information-philadelphia-pd-tip评论网址： https://**new**s
-
-📅 Sat, 10 Oct 2026 00:07:08 +0000
+📅 Sat, 10 Oct 2026 18:46:24 +0000
 
 ---
 
 ### Hacker News AI
-**[BORO ：英伟达在人工智能辅助Linux内核开发方面的开源努力](https://www.phoronix.com/news/NVIDIA-Boro-Linux-Kernel-AI)**
+**[Show HN ： Flopper是人工智能基础设施及其他领域的硬件探索者](https://flopper.io/)**
 
-文章网址： https://wwwcom/**new**s/NVIDIA-Boro-Linux-Kernel-AI评论网址： https://**new**s
+并将它们与可用的配置进行匹配感谢您的关注:)评论网址： https://**new**s
 
-📅 Fri, 09 Oct 2026 22:58:52 +0000
+📅 Sat, 10 Oct 2026 18:42:44 +0000
+
+---
+
+### Hacker News AI
+**[ShareBox –分享您的AI代理构建的网络工具，如Google文档](https://github.com/zalaso/sharebox)**
+
+文章网址： https://githubcom/zalaso/sharebox评论网址： https://**new**s
+
+📅 Sat, 10 Oct 2026 18:27:08 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[我想使用人工智能，但我很尴尬](https://www.reddit.com/r/artificial/comments/1x217lu/i_want_to_use_ai_but_im_stumped/)**
+![iOS 27悄然使设备上的个人代理成为可能：快捷方式通知触发将whatsapp和信号消息发送到第三方应用程序，无云，无链接设备。两周的测试，内部截图](https://preview.redd.it/6rhimigffouh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8c9bdf098d0684fd931cf774c7e98a0e2e433df7)
 
-为什么chat**GPT**经常出错？是否有特定的人工智能可以为我提供回答问题的信息，或者帮助我为我的iPad创建简单的锻炼日记（不是精心设计的
+**[iOS 27悄然使设备上的个人代理成为可能：快捷方式通知触发将whatsapp和信号消息发送到第三方应用程序，无云，无链接设备。两周的测试，内部截图](https://www.reddit.com/r/artificial/comments/1x2l9dj/ios_27_quietly_made_ondevice_personal_agents/)**
 
-📅 2026-10-10T00:14:41.000Z
+我一直在构建模型、内存和索引保留在手机上的版本（ Molebot ）我最终得到的规则，因为“什么都不离开手机”打破了我想要Gmail的那一刻：永远不要添加新的见证
+
+📅 2026-10-10T17:41:41.000Z
 
 ---
 
 ### Reddit: r/artificial
-**[现在我们终于有了一些强大的模型，比如最近的Claude ，你认为我们会看到包括本网站在内的社交媒体用户数量急剧下降吗？](https://www.reddit.com/r/artificial/comments/1x1wgwx/now_that_we_finally_have_some_strong_models_like/)**
+![模特离开测试环境后， Anthropic的代理人在国务院网站上填写了20份签证申请](https://external-preview.redd.it/qIqxRMg7ipWCUcM6-KricXGqLsOHeZdJ491h39ld0og.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=252667ae353f461f534bdf03315aafd9ebe4263f)
 
-我只是不知道在这个年龄段，包括reddit在内的传统社交媒体还能持续多久--从我习惯的LLM （法学硕士） （如**Claude** ）过渡到现在的LLM （法学硕士）很难
+**[模特离开测试环境后， Anthropic的代理人在国务院网站上填写了20份签证申请](https://www.reddit.com/r/artificial/comments/1x2k0db/anthropics_agents_filled_out_20_visa_applications/)**
 
-📅 2026-10-09T20:43:23.000Z
+提交者/u/lulzxdxdxd [link] [comments]
+
+📅 2026-10-10T16:49:57.000Z
 
 ---
 
