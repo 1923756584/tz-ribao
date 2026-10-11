@@ -1,19 +1,19 @@
 ---
 title: "2026年10月11日 - TZ日报"
-date: 2026-10-11T01:37:40.597Z
+date: 2026-10-11T19:25:12.826Z
 draft: false
 ---
 
 # 2026年10月11日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/11 01:37:40
+> 📊 今日汇总 36 条 · 🕐 2026/10/11 19:25:12
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 8 条
+- **前沿研究**: 6 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -21,15 +21,6 @@ draft: false
 ---
 
 ## ✨ 产品更新
-
-### OpenAI Blog
-**[Pollo AI借助OpenAI将创意转化为活动](https://openai.com/index/pollo-ai)**
-
-使用**GPT**-56、**GPT**-6 ASTRA和**GPT** ‑ Image ‑ 2
-
-📅 Thu, 08 Oct 2026 12:00:00 GMT
-
----
 
 ### OpenAI Blog
 **[Sophos借助OpenAI Daybreak将威胁调查时间缩短96%](https://openai.com/index/sophos)**
@@ -49,12 +40,12 @@ Asana在Codex中使用**GPT**-6 Astra ，使其浏览器代理的测试成本降
 
 ---
 
-### OpenAI Blog
-**[Oracle如何通过ChatGPT和Codex将工作日变为几分钟](https://openai.com/index/oracle)**
+### TechCrunch AI Products
+**[这些高管认为语音AI尚未达到ChatGPT时刻](https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/)**
 
-在招聘、工程和运营方面， Oracle通过Chat**GPT** Work和Codex将专业知识转化为快速、可重复的工作流程
+语音人工智能经常错过上下文层的**重要**点，并导致整个管道中断
 
-📅 Thu, 08 Oct 2026 16:00:00 GMT
+📅 Sun, 11 Oct 2026 14:00:00 +0000
 
 ---
 
@@ -85,30 +76,39 @@ Asana在Codex中使用**GPT**-6 Astra ，使其浏览器代理的测试成本降
 
 ---
 
+### Hugging Face
+**[对GPU集群进行有影响的调度](https://huggingface.co/blog/allenai/impactful-scheduling)**
+
+对GPU集群进行有影响的调度
+
+📅 Fri, 09 Oct 2026 15:20:29 GMT
+
+---
+
 ### TechCrunch AI Products
-**[亚马逊和其他公司已将数据中心交易保密。这足以建立信任吗？](https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/)**
+**[距离TechCrunch Disrupt 2026有48小时的路程—直接聆听开发人员的心声](https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/)**
 
-继微软今年早些时候的类似举动之后，保密加剧了社区对人工智能基础设施的强烈反对
+不到48小时， TechCrunch Disrupt 2026从旧金山的Moscone West出发门票涨价前最多可节省100 $ ，第二张通行证可享受50%的优惠
 
-📅 Fri, 09 Oct 2026 16:56:42 +0000
+📅 Sun, 11 Oct 2026 19:00:00 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[亚马逊放弃了数据中心保密协议，人工智能代理想要您的信用卡](https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/)**
+**[人工智能行业能否通过摆脱保密协议来说服数据中心的对手？](https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/)**
 
-继微软今年早些时候的类似举动之后，保密加剧了社区对人工智能基础设施的强烈反对
+在Equity上，我们讨论了数据中心暂停的影响以及AI行业是否存在通信问题
 
-📅 Fri, 09 Oct 2026 16:53:02 +0000
+📅 Sun, 11 Oct 2026 16:52:33 +0000
 
 ---
 
-### OpenAI Blog
-**[LegalOn在保持开发速度的同时将Codex成本减半](https://openai.com/index/legalon-halves-codex-costs)**
+### TechCrunch AI Products
+**[苹果披露从个性化播客初创公司Huxe聘请团队和许可技术的交易](https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/)**
 
-LegalOn将估计的每日法典成本降低了65% ，同时保持了开发速度它将Astra、Sol和Luna与任务相匹配，并战略性地管理了预算
+苹果是否希望进入人工智能生成的播客业务？
 
-📅 Thu, 08 Oct 2026 12:00:00 GMT
+📅 Sat, 10 Oct 2026 19:50:00 +0000
 
 ---
 
@@ -150,39 +150,21 @@ LegalOn将估计的每日法典成本降低了65% ，同时保持了开发速度
 
 ---
 
-### Science AI
-**[大胆的太空抢劫旨在将神秘的火星月亮带回家](https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon)**
+### MIT Tech Research
+**[我们对人工智能说“不”的能力太有信心了](https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/)**
 
-日本MMX任务的样本可以揭示火卫一是如何形成的，并且可能包含火星碎片
+自从人们第一次认真考虑给机器一个以我们自己为模型的智能以来，但最近，人工智能不应该……
 
-📅 2026-10-08T02:00:00.000Z
-
----
-
-### Science AI
-**[两个团队逐个细胞绘制哺乳动物胚胎的发育图](https://www.science.org/content/article/two-teams-map-development-mammal-embryos-cell-cell)**
-
-研究人员使用基因组编辑来追踪细胞谱系，以前所未有的细节捕捉小鼠胚胎的早期历史
-
-📅 2026-10-08T02:00:00.000Z
+📅 Fri, 09 Oct 2026 09:00:00 +0000
 
 ---
 
-### Science AI
-**[世界会在下个月结束吗？<cite>科学</cite>是这么说的， 1960年](https://www.science.org/content/article/will-world-end-next-month-science-said-so-1960)**
+### MIT Tech Research
+**[圆桌会议：与人工智能设计病毒的创造者对话](https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/)**
 
-研究人员得出结论，世界末日将在11月13日到来，但不是我们今天所期望的原因
+2026年10月16日星期五人工智能能否设计新的生命形式还不是人工智能生成的生命的例子，但这可能是下一个
 
-📅 2026-10-08T02:00:00.000Z
-
----
-
-### Science AI
-**[美国国立卫生研究院恢复了研究新兴疾病的网络，但其新的限制令科学家感到困惑](https://www.science.org/content/article/nih-revives-network-study-emerging-diseases-its-new-restrictions-baffle-scientists)**
-
-研究人员表示，禁止在野生动物中狩猎新病毒与该计划的使命不一致
-
-📅 2026-10-08T12:45:00.000Z
+📅 Fri, 09 Oct 2026 00:08:24 +0000
 
 ---
 
@@ -196,17 +178,6 @@ LegalOn将估计的每日法典成本降低了65% ，同时保持了开发速度
 80亿美元的投资，用于创造新技术和建设推动“人工智能驱动的生物学”所需的科学基础设施。
 
 📅 2026-10-10T15:01:08.000Z
-
----
-
-### The Verge
-![华纳兄弟会杀死Skydance ，还是大卫·埃里森会杀死华纳兄弟？](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_0319.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[华纳兄弟会杀死Skydance ，还是大卫·埃里森会杀死华纳兄弟？](https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure)**
-
-正如你所说，他不会是第一个这样做的人OpenAI**推出**Dots ，他们去哪里买广告
-
-📅 2026-10-10T14:00:00.000Z
 
 ---
 
@@ -237,14 +208,12 @@ LegalOn将估计的每日法典成本降低了65% ，同时保持了开发速度
 
 ---
 
-### The Verge
-![人工智能代理制造商承诺提供隐私—他们能否提供？](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### The Information Technology
+**[人类数据中心冲刺背后的吸引力经济学](https://www.theinformation.com/articles/attractive-economics-behind-anthropic-data-center-sprint)**
 
-**[人工智能代理制造商承诺提供隐私—他们能否提供？](https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots)**
+这很简单：根据对即将到来的人工智能数据中心站点的最新分析，每台服务器尽早插入以运行其产品都可能非常有利可图
 
-在今年的**OpenAI** DevDay上， “**OpenAI**将花一天时间对其主要竞争对手**Meta**的Muse进行隐蔽拍摄，因为它未能确保用户数据的安全
-
-📅 2026-10-10T13:00:00.000Z
+📅 2026-10-11T15:01:22.000Z
 
 ---
 
@@ -266,38 +235,36 @@ LegalOn将估计的每日法典成本降低了65% ，同时保持了开发速度
 
 ---
 
+### Wired Technology
+**[我用谷歌的人工智能游乐场制作了糟糕的游戏](https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/)**
+
+在视频游戏斜坡地雷中度过了漫长的一天。
+
+📅 Sun, 11 Oct 2026 11:30:00 +0000
+
+---
+
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![ComfyUI_frontend ： ComfyUI的官方前端实现](https://avatars.githubusercontent.com/u/166579949?v=4)
+### GitHub New (New AI)
+![🆕 selfplay2perfect ： Play2Perfect的实现，来自斯坦福大学的Tyler Ga Wei Lum等人，但带有Self Play元素](https://avatars.githubusercontent.com/u/108653?v=4)
 
-**[ComfyUI_frontend ： ComfyUI的官方前端实现](https://github.com/Comfy-Org/ComfyUI_frontend)**
+**[🆕 selfplay2perfect ： Play2Perfect的实现，来自斯坦福大学的Tyler Ga Wei Lum等人，但带有Self Play元素](https://github.com/lucidrains/selfplay2perfect)**
 
-⭐ 2,059星· 731叉· TypeScript · ComfyUI的官方前端实现
+⭐ 5 star (新项目) · N/A · Implementation of Play2Perfect, from Tyler Ga Wei Lum et alof Stanford, but with a Self Play element
 
-📅 2026-10-11T01:36:01Z
-
----
-
-### GitHub Active (Python)
-![policyengine-us ： PolicyEngine US Python包包含美国税收优惠系统的规则引擎，以及用于微观模拟分析的微观数据生成。](https://avatars.githubusercontent.com/u/88570531?v=4)
-
-**[policyengine-us ： PolicyEngine US Python包包含美国税收优惠系统的规则引擎，以及用于微观模拟分析的微观数据生成。](https://github.com/PolicyEngine/policyengine-us)**
-
-⭐ 166星· 214分叉· Python · PolicyEngine US Python包包含美国税收优惠系统的规则引擎和用于微观模拟分析的微观数据生成
-
-📅 2026-10-11T01:36:28Z
+📅 2026-10-08T13:00:56Z
 
 ---
 
-### GitHub Active (AI/ML)
-![awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
+### GitHub New (New AI)
+![🆕 注意力范围：每日AI新闻，事实检查并追溯到其根源。自1943年以来由来源检查的人工智能历史，包含血统及其背后的实验室和人员的术语表。开放数据，每晚在免费的Gemini和Groq层级上构建。](https://avatars.githubusercontent.com/u/52612360?v=4)
 
-**[awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
+**[🆕 注意力范围：每日AI新闻，事实检查并追溯到其根源。自1943年以来由来源检查的人工智能历史，包含血统及其背后的实验室和人员的术语表。开放数据，每晚在免费的Gemini和Groq层级上构建。](https://github.com/shashikantdev3/attention-span)**
 
-⭐ 460星· 39分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作管道刷新
+⭐ 4 star (新项目) · Python · Daily AI **new**s, fact-checked and traced back to its rootsOpen data, built nightly on free **Gemini** and Groq tiers
 
-📅 2026-10-11T01:33:01Z
+📅 2026-10-08T15:37:23Z
 
 ---
 
@@ -312,87 +279,88 @@ LegalOn将估计的每日法典成本降低了65% ，同时保持了开发速度
 
 ---
 
+### GitHub New (New AI)
+![🆕 Text-To-Video-AI ：使用AI从文本生成视频](https://avatars.githubusercontent.com/u/131431084?v=4)
+
+**[🆕 Text-To-Video-AI ：使用AI从文本生成视频](https://github.com/SamurAIGPT/Text-To-Video-AI)**
+
+⭐ 3 star (新项目) · Jupyter Notebook · Generate video from text using AI
+
+📅 2026-10-08T07:21:19Z
+
+---
+
 ## 💬 社交动态
 
 ### Hacker News
-**[英伟达洽谈收购美国“开放”模式初创公司Reflection AI](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)**
+**[约翰·伯杰（ John Berger ）的《观看方式》（ Ways of Seeing](https://www.ways-of-seeing.com/ch1)**
 
-文章网址： https://wwwcom/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a评论网址： https://**new**s
+文章网址： https://wwwcom/ch1评论网址： https://**new**s
 
-📅 Sat, 10 Oct 2026 18:48:35 +0000
-
----
-
-### Hacker News AI
-**[微软首席执行官纳德拉呼吁对高级人工智能进行“紧急制动”](https://www.bloomberg.com/news/articles/2026-10-10/microsoft-ceo-nadella-calls-for-emergency-brake-on-advanced-ai)**
-
-文章网址： https://wwwcom/**new**s/articles/2026-10-10/microsoft-ceo-nadella-calls-for-emergency-brake-on-advanced-ai评论网址： https://**new**s
-
-📅 Sun, 11 Oct 2026 00:07:08 +0000
-
----
-
-### Reddit: r/artificial
-![Claude Opus 5.5在一夜之间反编译了PS2时代的游戏，现在有数百款游戏在浏览器选项卡中运行](https://external-preview.redd.it/Zo61wPAl1KKKFHIlxpBG60tDzDzkYmkiVvU25T4K85M.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=81ecd4c315c00d301b0115337dc29aab5943e797)
-
-**[Claude Opus 5.5在一夜之间反编译了PS2时代的游戏，现在有数百款游戏在浏览器选项卡中运行](https://www.reddit.com/r/artificial/comments/1x2tq6s/claude_opus_55_decompiles_a_ps2era_game_overnight/)**
-
-提交者/u/lulzxdxdxd [link] [comments]
-
-📅 2026-10-10T23:57:43.000Z
-
----
-
-### Reddit: r/artificial
-![Anthropic AI模型向费城警方发送了虚假的凶杀案提示](https://external-preview.redd.it/pdr6gsgrusrRxnE48ndrSBEKYGYHkiL8EFrRJe65DIw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3e0a944f326a3dd693e5ab8628e5b3e9a6b8208a)
-
-**[Anthropic AI模型向费城警方发送了虚假的凶杀案提示](https://www.reddit.com/r/artificial/comments/1x2nlwy/anthropic_ai_model_sent_fake_homicide_tip_to/)**
-
-提交者/u/sourdub [link] [comments]
-
-📅 2026-10-10T19:20:02.000Z
-
----
-
-### Reddit: r/artificial
-![iOS 27悄然使设备上的个人代理成为可能：快捷方式通知触发将whatsapp和信号消息发送到第三方应用程序，无云，无链接设备。两周的测试，内部截图](https://preview.redd.it/6rhimigffouh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8c9bdf098d0684fd931cf774c7e98a0e2e433df7)
-
-**[iOS 27悄然使设备上的个人代理成为可能：快捷方式通知触发将whatsapp和信号消息发送到第三方应用程序，无云，无链接设备。两周的测试，内部截图](https://www.reddit.com/r/artificial/comments/1x2l9dj/ios_27_quietly_made_ondevice_personal_agents/)**
-
-我一直在构建模型、内存和索引保留在手机上的版本（ Molebot ）我最终得到的规则，因为“什么都不离开手机”打破了我想要Gmail的那一刻：永远不要添加新的见证
-
-📅 2026-10-10T17:41:41.000Z
-
----
-
-### Reddit: r/artificial
-![模特离开测试环境后， Anthropic的代理人在国务院网站上填写了20份签证申请](https://external-preview.redd.it/qIqxRMg7ipWCUcM6-KricXGqLsOHeZdJ491h39ld0og.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=252667ae353f461f534bdf03315aafd9ebe4263f)
-
-**[模特离开测试环境后， Anthropic的代理人在国务院网站上填写了20份签证申请](https://www.reddit.com/r/artificial/comments/1x2k0db/anthropics_agents_filled_out_20_visa_applications/)**
-
-提交者/u/lulzxdxdxd [link] [comments]
-
-📅 2026-10-10T16:49:57.000Z
-
----
-
-### Reddit: r/artificial
-![男子在使用ChatGPT作为律师后赢得了为期三年的停车罚单争夺战](https://external-preview.redd.it/SdNjqGkgbQMTX8GAAe68BHEvQRDi1ksosfECSH5YLHA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=52f654444e5fdd42560cd1f845a30925b6f5dd2d)
-
-**[男子在使用ChatGPT作为律师后赢得了为期三年的停车罚单争夺战](https://www.reddit.com/r/artificial/comments/1x2jk3i/man_wins_threeyear_parking_ticket_battle_after/)**
-
-提交者/u/ThereWas [link] [comments]
-
-📅 2026-10-10T16:30:59.000Z
+📅 Sun, 11 Oct 2026 18:26:24 +0000
 
 ---
 
 ### Hacker News
-**[WallHop – 12ft.io不见了，所以我建立了一个替代品](https://wallhop.io/)**
+**[完全消灭，为现代计算机重建](https://nanolathe.gg)**
 
-文章网址： https://wallhopio/评论网址： https://**new**s
+文章网址： https://nanolathegg评论网址： https://**new**s
 
-📅 Sun, 11 Oct 2026 00:46:48 +0000
+📅 Sun, 11 Oct 2026 18:04:47 +0000
+
+---
+
+### Hacker News
+**[纽约市的「点击取消」规则现已生效](https://www.nyc.gov/main/click-to-cancel)**
+
+文章网址： https://wwwgov/main/click-to-cancel评论网址： https://**new**s
+
+📅 Sun, 11 Oct 2026 18:01:16 +0000
+
+---
+
+### Hacker News
+**[YouTuber构建“Flock-like”摄像头以跟踪警车，获得警方访问](https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns)**
+
+文章网址： https://wwwcom/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns评论网址： https://**new**s
+
+📅 Sun, 11 Oct 2026 17:40:42 +0000
+
+---
+
+### Hacker News
+**[apsw ：另一个Python SQLite包装器](https://github.com/rogerbinns/apsw)**
+
+文章网址： https://githubcom/rogerbinns/apsw评论网址： https://**new**s
+
+📅 Sun, 11 Oct 2026 16:58:22 +0000
+
+---
+
+### Hacker News
+**[Playgrnd –制作奇怪、美丽事物的小工具](https://www.playgrnd.tools/)**
+
+文章网址： https://wwwtools/评论网址： https://**new**s
+
+📅 Sun, 11 Oct 2026 16:31:37 +0000
+
+---
+
+### Hacker News
+**[如何作为职业人士积累财富](https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/)**
+
+文章网址： https://asheradeniyicom/2026/04/10/how-to-build-wealth-as-a-career-person/评论网址： https://**new**s
+
+📅 Sun, 11 Oct 2026 16:03:58 +0000
+
+---
+
+### Hacker News
+**[我如何逆向设计商业空间音频效果](http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/)**
+
+文章网址： http://epestrcom/blog/reverse-engineering-a-commercial-spatial-a**Udio**-effect/评论网址： https://**new**s
+
+📅 Sun, 11 Oct 2026 15:21:58 +0000
 
 ---
 
