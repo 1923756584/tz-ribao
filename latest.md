@@ -1,12 +1,12 @@
 ---
-title: "2026年10月10日 - TZ日报"
-date: 2026-10-10T19:12:58.099Z
+title: "2026年10月11日 - TZ日报"
+date: 2026-10-11T01:37:40.597Z
 draft: false
 ---
 
-# 2026年10月10日 - TZ日报
+# 2026年10月11日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/10 19:12:58
+> 📊 今日汇总 38 条 · 🕐 2026/10/11 01:37:40
 
 ---
 
@@ -58,12 +58,12 @@ Asana在Codex中使用**GPT**-6 Astra ，使其浏览器代理的测试成本降
 
 ---
 
-### OpenAI Blog
-**[颠覆人工智能的“虚假前沿”运营](https://openai.com/index/disrupting-ai-enabled-false-front-operations)**
+### TechCrunch AI Products
+**[微软的萨蒂亚·纳德拉（ Satya Nadella ）表示，人工智能模型需要“紧急制动”](https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/)**
 
-**OpenAI**破坏了两项人工智能影响力行动，利用虚假新闻记者和智囊团传播地缘政治信息
+在周六早上的帖子中，微软首席执行官写道，现在是时候“退一步评估人工智能的信任架构”
 
-📅 Thu, 08 Oct 2026 00:00:00 GMT
+📅 Sat, 10 Oct 2026 21:47:51 +0000
 
 ---
 
@@ -268,25 +268,36 @@ LegalOn将估计的每日法典成本降低了65% ，同时保持了开发速度
 
 ## 📦 GitHub热门
 
-### GitHub Active (Python)
-![proper-pixel-art ：修复AI像素艺术图像、视频或精灵网页上传](https://avatars.githubusercontent.com/u/54598311?v=4)
+### GitHub Active (AI/ML)
+![ComfyUI_frontend ： ComfyUI的官方前端实现](https://avatars.githubusercontent.com/u/166579949?v=4)
 
-**[proper-pixel-art ：修复AI像素艺术图像、视频或精灵网页上传](https://github.com/KennethJAllen/proper-pixel-art)**
+**[ComfyUI_frontend ： ComfyUI的官方前端实现](https://github.com/Comfy-Org/ComfyUI_frontend)**
 
-⭐ 562星· 47叉· Python ·修复AI像素图片、视频或精灵网页上传
+⭐ 2,059星· 731叉· TypeScript · ComfyUI的官方前端实现
 
-📅 2026-10-10T19:11:54Z
+📅 2026-10-11T01:36:01Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 Autotrader ：由Kronos提供支持的自主AI交易系统。使用GitHub Actions自动预测市场、构建投资组合和纸质交易。](https://avatars.githubusercontent.com/u/163757335?v=4)
+### GitHub Active (Python)
+![policyengine-us ： PolicyEngine US Python包包含美国税收优惠系统的规则引擎，以及用于微观模拟分析的微观数据生成。](https://avatars.githubusercontent.com/u/88570531?v=4)
 
-**[🆕 Autotrader ：由Kronos提供支持的自主AI交易系统。使用GitHub Actions自动预测市场、构建投资组合和纸质交易。](https://github.com/PkLavc/Autotrader)**
+**[policyengine-us ： PolicyEngine US Python包包含美国税收优惠系统的规则引擎，以及用于微观模拟分析的微观数据生成。](https://github.com/PolicyEngine/policyengine-us)**
 
-⭐ 20 star (新项目) · Python · Autonomous AI trading system powered by KronosForecasts markets, builds portfolios and paper-trades automatically with GitHub Actions
+⭐ 166星· 214分叉· Python · PolicyEngine US Python包包含美国税收优惠系统的规则引擎和用于微观模拟分析的微观数据生成
 
-📅 2026-10-07T02:43:14Z
+📅 2026-10-11T01:36:28Z
+
+---
+
+### GitHub Active (AI/ML)
+![awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
+
+**[awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
+
+⭐ 460星· 39分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作管道刷新
+
+📅 2026-10-11T01:33:01Z
 
 ---
 
@@ -301,29 +312,7 @@ LegalOn将估计的每日法典成本降低了65% ，同时保持了开发速度
 
 ---
 
-### GitHub New (New AI)
-![🆕 注意力范围：每日AI新闻，事实检查并追溯到其根源。自1943年以来由来源检查的人工智能历史，包含血统及其背后的实验室和人员的术语表。开放数据，每晚在免费的Gemini和Groq层级上构建。](https://avatars.githubusercontent.com/u/52612360?v=4)
-
-**[🆕 注意力范围：每日AI新闻，事实检查并追溯到其根源。自1943年以来由来源检查的人工智能历史，包含血统及其背后的实验室和人员的术语表。开放数据，每晚在免费的Gemini和Groq层级上构建。](https://github.com/shashikantdev3/attention-span)**
-
-⭐ 2 star (新项目) · Python · Daily AI **new**s, fact-checked and traced back to its rootsOpen data, built nightly on free **Gemini** and Groq tiers
-
-📅 2026-10-08T15:37:23Z
-
----
-
 ## 💬 社交动态
-
-### Reddit: r/artificial
-![英伟达、甲骨文、CoreWeave等AI股票在OpenAI收入报告中下跌](https://external-preview.redd.it/3bXeOKHvdGC97CjAXPMuXTI29YqfUV9ZpxuakMp7MMU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8e68fb00b96934735ce63935eb15936da277b4c4)
-
-**[英伟达、甲骨文、CoreWeave等AI股票在OpenAI收入报告中下跌](https://www.reddit.com/r/artificial/comments/1x2ikd4/nvidia_oracle_coreweave_and_other_ai_stocks_sink/)**
-
-提交者/u/lulzxdxdxd [link] [comments]
-
-📅 2026-10-10T15:49:43.000Z
-
----
 
 ### Hacker News
 **[英伟达洽谈收购美国“开放”模式初创公司Reflection AI](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)**
@@ -334,39 +323,34 @@ LegalOn将估计的每日法典成本降低了65% ，同时保持了开发速度
 
 ---
 
-### Hacker News
-**[Anthropic在新的流氓人工智能事件中向警方披露了2个月前的假消息](https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/)**
+### Hacker News AI
+**[微软首席执行官纳德拉呼吁对高级人工智能进行“紧急制动”](https://www.bloomberg.com/news/articles/2026-10-10/microsoft-ceo-nadella-calls-for-emergency-brake-on-advanced-ai)**
 
-文章网址： https://wwwcom/world/us/**Anthropic**-ai-model-submits-false-homicide-tip-police-website-2026-10-09/评论网址： https://**new**s
+文章网址： https://wwwcom/**new**s/articles/2026-10-10/microsoft-ceo-nadella-calls-for-emergency-brake-on-advanced-ai评论网址： https://**new**s
 
-📅 Sat, 10 Oct 2026 18:10:54 +0000
+📅 Sun, 11 Oct 2026 00:07:08 +0000
 
 ---
 
-### Hacker News AI
-**[英伟达洽谈收购Reflection AI （ Beam制造商）](https://news.bloomberglaw.com/mergers-and-acquisitions/nvidia-in-talks-to-acquire-reflection-ai-ft)**
+### Reddit: r/artificial
+![Claude Opus 5.5在一夜之间反编译了PS2时代的游戏，现在有数百款游戏在浏览器选项卡中运行](https://external-preview.redd.it/Zo61wPAl1KKKFHIlxpBG60tDzDzkYmkiVvU25T4K85M.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=81ecd4c315c00d301b0115337dc29aab5943e797)
 
-文章网址： https://**new**scom/mergers-and-acquisitions/nvidia-in-talks-to-acquire-reflection-ai-ft评论网址： https://**new**s
+**[Claude Opus 5.5在一夜之间反编译了PS2时代的游戏，现在有数百款游戏在浏览器选项卡中运行](https://www.reddit.com/r/artificial/comments/1x2tq6s/claude_opus_55_decompiles_a_ps2era_game_overnight/)**
 
-📅 Sat, 10 Oct 2026 18:46:24 +0000
+提交者/u/lulzxdxdxd [link] [comments]
 
----
-
-### Hacker News AI
-**[Show HN ： Flopper是人工智能基础设施及其他领域的硬件探索者](https://flopper.io/)**
-
-并将它们与可用的配置进行匹配感谢您的关注:)评论网址： https://**new**s
-
-📅 Sat, 10 Oct 2026 18:42:44 +0000
+📅 2026-10-10T23:57:43.000Z
 
 ---
 
-### Hacker News AI
-**[ShareBox –分享您的AI代理构建的网络工具，如Google文档](https://github.com/zalaso/sharebox)**
+### Reddit: r/artificial
+![Anthropic AI模型向费城警方发送了虚假的凶杀案提示](https://external-preview.redd.it/pdr6gsgrusrRxnE48ndrSBEKYGYHkiL8EFrRJe65DIw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3e0a944f326a3dd693e5ab8628e5b3e9a6b8208a)
 
-文章网址： https://githubcom/zalaso/sharebox评论网址： https://**new**s
+**[Anthropic AI模型向费城警方发送了虚假的凶杀案提示](https://www.reddit.com/r/artificial/comments/1x2nlwy/anthropic_ai_model_sent_fake_homicide_tip_to/)**
 
-📅 Sat, 10 Oct 2026 18:27:08 +0000
+提交者/u/sourdub [link] [comments]
+
+📅 2026-10-10T19:20:02.000Z
 
 ---
 
@@ -389,6 +373,26 @@ LegalOn将估计的每日法典成本降低了65% ，同时保持了开发速度
 提交者/u/lulzxdxdxd [link] [comments]
 
 📅 2026-10-10T16:49:57.000Z
+
+---
+
+### Reddit: r/artificial
+![男子在使用ChatGPT作为律师后赢得了为期三年的停车罚单争夺战](https://external-preview.redd.it/SdNjqGkgbQMTX8GAAe68BHEvQRDi1ksosfECSH5YLHA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=52f654444e5fdd42560cd1f845a30925b6f5dd2d)
+
+**[男子在使用ChatGPT作为律师后赢得了为期三年的停车罚单争夺战](https://www.reddit.com/r/artificial/comments/1x2jk3i/man_wins_threeyear_parking_ticket_battle_after/)**
+
+提交者/u/ThereWas [link] [comments]
+
+📅 2026-10-10T16:30:59.000Z
+
+---
+
+### Hacker News
+**[WallHop – 12ft.io不见了，所以我建立了一个替代品](https://wallhop.io/)**
+
+文章网址： https://wallhopio/评论网址： https://**new**s
+
+📅 Sun, 11 Oct 2026 00:46:48 +0000
 
 ---
 
