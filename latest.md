@@ -1,19 +1,19 @@
 ---
-title: "2026年10月11日 - TZ日报"
-date: 2026-10-11T19:25:12.826Z
+title: "2026年10月12日 - TZ日报"
+date: 2026-10-12T02:08:13.019Z
 draft: false
 ---
 
-# 2026年10月11日 - TZ日报
+# 2026年10月12日 - TZ日报
 
-> 📊 今日汇总 36 条 · 🕐 2026/10/11 19:25:12
+> 📊 今日汇总 35 条 · 🕐 2026/10/12 02:08:13
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 6 条
+- **前沿研究**: 5 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -67,21 +67,21 @@ Asana在Codex中使用**GPT**-6 Astra ，使其浏览器代理的测试成本降
 
 ---
 
-### TechCrunch AI Products
-**[Anthropic AI模型向费城警方发送了虚假的凶杀案提示](https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/)**
-
-**Anthropic**直到其AI提交虚假提示两个多月后才发现这种行为。
-
-📅 Fri, 09 Oct 2026 19:36:56 +0000
-
----
-
 ### Hugging Face
 **[对GPU集群进行有影响的调度](https://huggingface.co/blog/allenai/impactful-scheduling)**
 
 对GPU集群进行有影响的调度
 
 📅 Fri, 09 Oct 2026 15:20:29 GMT
+
+---
+
+### TechCrunch AI Products
+**[HomeView会是苹果智能家居的首次成功吗？](https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/)**
+
+我们已经看到多份报告称苹果正在开发一款新的智能家居产品，但现在看来该产品有名称和**发布**日期
+
+📅 Sun, 11 Oct 2026 21:14:40 +0000
 
 ---
 
@@ -159,15 +159,6 @@ Asana在Codex中使用**GPT**-6 Astra ，使其浏览器代理的测试成本降
 
 ---
 
-### MIT Tech Research
-**[圆桌会议：与人工智能设计病毒的创造者对话](https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/)**
-
-2026年10月16日星期五人工智能能否设计新的生命形式还不是人工智能生成的生命的例子，但这可能是下一个
-
-📅 Fri, 09 Oct 2026 00:08:24 +0000
-
----
-
 ## 🌍 行业展望
 
 ### The Information Technology
@@ -200,11 +191,11 @@ Asana在Codex中使用**GPT**-6 Astra ，使其浏览器代理的测试成本降
 ---
 
 ### The Information Technology
-**[Anthropic宣布更广泛的网络防御计划](https://www.theinformation.com/briefings/anthropic-announces-broader-cyber-defense-program)**
+**[亚马逊的便宜货包括其股票](https://www.theinformation.com/articles/amazons-bargains-include-stock)**
 
-**Anthropic**周四表示，它正在**推出**新计划，以支持关键基础设施和**开源**软件的网络安全，以及基础设施运营商对其前沿**Claude**模型的访问，作为
+在我们等待第三季度**更新**的同时，有些现在正在以低廉的地下室价格进行交易
 
-📅 2026-10-09T01:02:13.000Z
+📅 2026-10-11T22:01:19.000Z
 
 ---
 
@@ -246,121 +237,125 @@ Asana在Codex中使用**GPT**-6 Astra ，使其浏览器代理的测试成本降
 
 ## 📦 GitHub热门
 
-### GitHub New (New AI)
-![🆕 selfplay2perfect ： Play2Perfect的实现，来自斯坦福大学的Tyler Ga Wei Lum等人，但带有Self Play元素](https://avatars.githubusercontent.com/u/108653?v=4)
+### GitHub Active (Python)
+![ArchiveBox ：🗃开源自托管Web存档。获取网址/浏览器历史记录/书签/Pocket/Pinboard等，保存HTML、JS、PDF、媒体等...](https://avatars.githubusercontent.com/u/74894248?v=4)
 
-**[🆕 selfplay2perfect ： Play2Perfect的实现，来自斯坦福大学的Tyler Ga Wei Lum等人，但带有Self Play元素](https://github.com/lucidrains/selfplay2perfect)**
+**[ArchiveBox ：🗃开源自托管Web存档。获取网址/浏览器历史记录/书签/Pocket/Pinboard等，保存HTML、JS、PDF、媒体等...](https://github.com/ArchiveBox/ArchiveBox)**
 
-⭐ 5 star (新项目) · N/A · Implementation of Play2Perfect, from Tyler Ga Wei Lum et alof Stanford, but with a Self Play element
+⭐ 28,736星· 1614分叉· Python ·🗃**开源**自托管网络存档获取URL/浏览器历史记录/书签/Pocket/Pinboard等
 
-📅 2026-10-08T13:00:56Z
+📅 2026-10-12T02:07:09Z
+
+---
+
+### GitHub Active (Python)
+![code-graph-rag ： monorepo的终极抹布。利用人工智能和知识图谱的力量查询、理解和编辑多语言代码库](https://avatars.githubusercontent.com/u/22404335?v=4)
+
+**[code-graph-rag ： monorepo的终极抹布。利用人工智能和知识图谱的力量查询、理解和编辑多语言代码库](https://github.com/vitali87/code-graph-rag)**
+
+⭐ 5,243星· 698分叉· Python ·为您的monorepo提供终极抹布利用人工智能和知识图谱的力量查询、理解和编辑多语言代码库
+
+📅 2026-10-12T02:07:13Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 注意力范围：每日AI新闻，事实检查并追溯到其根源。自1943年以来由来源检查的人工智能历史，包含血统及其背后的实验室和人员的术语表。开放数据，每晚在免费的Gemini和Groq层级上构建。](https://avatars.githubusercontent.com/u/52612360?v=4)
+![🆕 Ageatopia ：本地首个多智能体人工智能研究平台，用于研究孤立模拟世界中的自主行为、生存激励、紧急动态和学习。](https://avatars.githubusercontent.com/u/150605201?v=4)
 
-**[🆕 注意力范围：每日AI新闻，事实检查并追溯到其根源。自1943年以来由来源检查的人工智能历史，包含血统及其背后的实验室和人员的术语表。开放数据，每晚在免费的Gemini和Groq层级上构建。](https://github.com/shashikantdev3/attention-span)**
+**[🆕 Ageatopia ：本地首个多智能体人工智能研究平台，用于研究孤立模拟世界中的自主行为、生存激励、紧急动态和学习。](https://github.com/DefinetlyNotAI/Ageatopia)**
 
-⭐ 4 star (新项目) · Python · Daily AI **new**s, fact-checked and traced back to its rootsOpen data, built nightly on free **Gemini** and Groq tiers
+⭐ 2 star (新项目) · Python · A local-first multi-agent AI research platform for studying autonomous behaviorand learning in isolated simulated worlds
 
-📅 2026-10-08T15:37:23Z
-
----
-
-### GitHub New (New AI)
-![🆕 oyago ： OyaGO ：拉各斯巴士路线，含Gemma +背板抹布和记忆](https://avatars.githubusercontent.com/u/163314542?v=4)
-
-**[🆕 oyago ： OyaGO ：拉各斯巴士路线，含Gemma +背板抹布和记忆](https://github.com/Kingsmichaei/oyago)**
-
-⭐ 3 star (新项目) · N/A · OyaGO: Lagos bus directions with Gemma + Backboard RAG and memory
-
-📅 2026-10-08T13:30:32Z
+📅 2026-10-11T19:51:40Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 Text-To-Video-AI ：使用AI从文本生成视频](https://avatars.githubusercontent.com/u/131431084?v=4)
+![🆕 DeciFlow ：使用AI实时对日志进行分类。并行分析多个文件，可视化类别，并使用Laya或Jev调查错误和安全事件。](https://avatars.githubusercontent.com/u/975987?v=4)
 
-**[🆕 Text-To-Video-AI ：使用AI从文本生成视频](https://github.com/SamurAIGPT/Text-To-Video-AI)**
+**[🆕 DeciFlow ：使用AI实时对日志进行分类。并行分析多个文件，可视化类别，并使用Laya或Jev调查错误和安全事件。](https://github.com/call518/DeciFlow)**
 
-⭐ 3 star (新项目) · Jupyter Notebook · Generate video from text using AI
+⭐ 2 star (新项目) · Python · Classify logs in real time with AIAnalyze multiple files in parallel, visualize categories, and investigate errors and security events with Laya or Jev
 
-📅 2026-10-08T07:21:19Z
+📅 2026-10-09T16:52:28Z
 
 ---
 
 ## 💬 社交动态
 
-### Hacker News
-**[约翰·伯杰（ John Berger ）的《观看方式》（ Ways of Seeing](https://www.ways-of-seeing.com/ch1)**
+### Reddit: r/artificial
+![一位独自开发者使用Claude将Word、Excel和PowerPoint重建为免费开源应用程序，并表示他每位员工的收入是谷歌的4倍](https://external-preview.redd.it/jsYaRAHYp63A6Fp3LHqa40mg3F6wGmSmnb8OEXoPcrw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c2f5d5527ecc91322d9a3bcbba6cde6e7d143885)
 
-文章网址： https://wwwcom/ch1评论网址： https://**new**s
+**[一位独自开发者使用Claude将Word、Excel和PowerPoint重建为免费开源应用程序，并表示他每位员工的收入是谷歌的4倍](https://www.reddit.com/r/artificial/comments/1x3jidz/a_solo_developer_rebuilt_word_excel_and/)**
 
-📅 Sun, 11 Oct 2026 18:26:24 +0000
+提交者/u/lulzxdxdxd [link] [comments]
 
----
-
-### Hacker News
-**[完全消灭，为现代计算机重建](https://nanolathe.gg)**
-
-文章网址： https://nanolathegg评论网址： https://**new**s
-
-📅 Sun, 11 Oct 2026 18:04:47 +0000
+📅 2026-10-11T21:05:19.000Z
 
 ---
 
 ### Hacker News
-**[纽约市的「点击取消」规则现已生效](https://www.nyc.gov/main/click-to-cancel)**
+**[谷歌非法砍伐森林建设数据中心](https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment)**
 
-文章网址： https://wwwgov/main/click-to-cancel评论网址： https://**new**s
+文章网址： https://wwwcom/technology/2026/oct/06/**Google**-datacentres-finland-temporary-halt-environmental-impact-assessment评论网址： https://**new**s
 
-📅 Sun, 11 Oct 2026 18:01:16 +0000
+📅 Sun, 11 Oct 2026 22:33:30 +0000
+
+---
+
+### Hacker News AI
+**[微软总裁表示，人工智能的监管程度低于牛奶](https://www.bbc.com/news/articles/c6rmy7zmvx3lo)**
+
+文章网址： https://wwwcom/**new**s/articles/c6rmy7zmvx3lo评论网址： https://**new**s
+
+📅 Sun, 11 Oct 2026 23:09:56 +0000
+
+---
+
+### Reddit: r/artificial
+![Anthropic表示，其人工智能药物在病毒DNA中发现了一个类似CRISPR的酶家族；一位研究人员指出，他的团队自2022年以来一直在研究相同的酶](https://external-preview.redd.it/mZNPQPGh_zhRjG-ox0VqovVhd8ydf1PO9WIhrw9-liE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=42a19bcbad482ee8904f2d8d5448027f59068c7b)
+
+**[Anthropic表示，其人工智能药物在病毒DNA中发现了一个类似CRISPR的酶家族；一位研究人员指出，他的团队自2022年以来一直在研究相同的酶](https://www.reddit.com/r/artificial/comments/1x3i1e5/anthropic_says_its_ai_agents_found_a_crisprlike/)**
+
+提交者/u/lulzxdxdxd [link] [comments]
+
+📅 2026-10-11T20:05:11.000Z
 
 ---
 
 ### Hacker News
-**[YouTuber构建“Flock-like”摄像头以跟踪警车，获得警方访问](https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns)**
+**[本地索引以减少工具调用和令牌使用](https://tedhaley.ca/pensieve/)**
 
-文章网址： https://wwwcom/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns评论网址： https://**new**s
+文章网址： https://tedhaleyca/pensieve/评论网址： https://**new**s
 
-📅 Sun, 11 Oct 2026 17:40:42 +0000
-
----
-
-### Hacker News
-**[apsw ：另一个Python SQLite包装器](https://github.com/rogerbinns/apsw)**
-
-文章网址： https://githubcom/rogerbinns/apsw评论网址： https://**new**s
-
-📅 Sun, 11 Oct 2026 16:58:22 +0000
+📅 Mon, 12 Oct 2026 00:03:53 +0000
 
 ---
 
 ### Hacker News
-**[Playgrnd –制作奇怪、美丽事物的小工具](https://www.playgrnd.tools/)**
+**[HashiCorp归档Boundary开源存储库](https://github.com/hashicorp/boundary)**
 
-文章网址： https://wwwtools/评论网址： https://**new**s
+文章网址： https://githubcom/hashicorp/boundary评论网址： https://**new**s
 
-📅 Sun, 11 Oct 2026 16:31:37 +0000
-
----
-
-### Hacker News
-**[如何作为职业人士积累财富](https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/)**
-
-文章网址： https://asheradeniyicom/2026/04/10/how-to-build-wealth-as-a-career-person/评论网址： https://**new**s
-
-📅 Sun, 11 Oct 2026 16:03:58 +0000
+📅 Mon, 12 Oct 2026 00:02:45 +0000
 
 ---
 
 ### Hacker News
-**[我如何逆向设计商业空间音频效果](http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/)**
+**[Qt Rust中的E2EE后量子信使核心（ 124MB RAM上的10k连接](https://github.com/moral666/QT)**
 
-文章网址： http://epestrcom/blog/reverse-engineering-a-commercial-spatial-a**Udio**-effect/评论网址： https://**new**s
+文章网址： https://githubcom/moral666/QT评论网址： https://**new**s
 
-📅 Sun, 11 Oct 2026 15:21:58 +0000
+📅 Sun, 11 Oct 2026 23:52:23 +0000
+
+---
+
+### Hacker News
+**[全息术的成果是什么？ （ 2011年）](https://www.americanscientist.org/article/whatever-became-of-holography)**
+
+文章网址： https://wwworg/article/whatever-became-of-holography评论网址： https://**new**s
+
+📅 Sun, 11 Oct 2026 23:50:34 +0000
 
 ---
 
