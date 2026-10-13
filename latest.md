@@ -1,12 +1,12 @@
 ---
-title: "2026年10月12日 - TZ日报"
-date: 2026-10-12T22:28:23.819Z
+title: "2026年10月13日 - TZ日报"
+date: 2026-10-13T03:25:52.837Z
 draft: false
 ---
 
-# 2026年10月12日 - TZ日报
+# 2026年10月13日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/12 22:28:23
+> 📊 今日汇总 38 条 · 🕐 2026/10/13 03:25:52
 
 ---
 
@@ -189,6 +189,15 @@ Blueprints AIa创业公司，总部位于圣莫尼卡
 ## 🌍 行业展望
 
 ### The Information Technology
+**[Meta到达人工智能的拥挤前沿--用户会关心吗？](https://www.theinformation.com/articles/meta-reaches-ais-crowded-frontier-will-users-care)**
+
+如果是周一，一定是另一个AI模型**发布**的时候了**OpenAI**宣布**GPT**-6 Astra
+
+📅 2026-10-13T00:00:33.000Z
+
+---
+
+### The Information Technology
 **[Meta推出挑战OpenAI和Anthropic的新AI模型](https://www.theinformation.com/briefings/meta-unveils-new-ai-models-challenge-openai-anthropic)**
 
 **Meta** Platforms**推出**了两款新的人工智能模型首席执行官马克·扎克伯格（ Mark Zuckerberg ）在Threads上宣布了这些模型，称它们比该公司最新的
@@ -234,20 +243,11 @@ Blueprints AIa创业公司，总部位于圣莫尼卡
 ---
 
 ### The Information Technology
-**[Meta禁止在其平台上投放ByteDance广告](https://www.theinformation.com/briefings/meta-bans-bytedance-ads-platforms)**
+**[独家：微软在人工智能大修期间重组Azure云部门](https://www.theinformation.com/briefings/exclusive-microsoft-reorganizes-azure-cloud-unit-amid-ai-overhaul)**
 
-**Meta** Platforms已禁止字节跳动在其U**Meta**平台上的广告在美国实施字节跳动广告禁令
+微软正在改革其Azure云业务的领导地位，该公司正在整合部门并围绕人工智能重新定位
 
-📅 2026-10-12T10:43:32.000Z
-
----
-
-### The Information Technology
-**[亚马逊的便宜货包括其股票](https://www.theinformation.com/articles/amazons-bargains-include-stock)**
-
-在我们等待第三季度**更新**的同时，有些现在正在以低廉的地下室价格进行交易
-
-📅 2026-10-11T22:01:19.000Z
+📅 2026-10-13T00:59:55.000Z
 
 ---
 
@@ -263,124 +263,122 @@ Blueprints AIa创业公司，总部位于圣莫尼卡
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![marimo ： Python的响应式笔记本—运行可重现的实验，使用SQL查询，作为脚本执行，作为应用程序部署，以及使用git版本。存储为纯Python。一切尽在一个现代化的人工智能原生编辑器中。](https://avatars.githubusercontent.com/u/98563464?v=4)
+![prompts.chat: f.k.a.真棒ChatGPT提示。分享、发现和收集社区提示。免费开源--为您的组织提供完全隐私的自助出租服务。](https://avatars.githubusercontent.com/u/196477?v=4)
 
-**[marimo ： Python的响应式笔记本—运行可重现的实验，使用SQL查询，作为脚本执行，作为应用程序部署，以及使用git版本。存储为纯Python。一切尽在一个现代化的人工智能原生编辑器中。](https://github.com/marimo-team/marimo)**
+**[prompts.chat: f.k.a.真棒ChatGPT提示。分享、发现和收集社区提示。免费开源--为您的组织提供完全隐私的自助出租服务。](https://github.com/f/prompts.chat)**
 
-131星· 1328分叉· Python · Python的响应式笔记本—运行可重现的实验全部在现代AI原生编辑器中
+出色的Chat**GPT**提示免费**开源**—为您的组织提供完全隐私的自助托管服务
 
-📅 2026-10-12T22:26:29Z
-
----
-
-### GitHub Active (AI/ML)
-![awesome-nlp:: book:自然语言处理（ NLP ）专用资源精选列表](https://avatars.githubusercontent.com/u/10793962?v=4)
-
-**[awesome-nlp:: book:自然语言处理（ NLP ）专用资源精选列表](https://github.com/keon/awesome-nlp)**
-
-⭐ 19,072星· 2885叉·不适用·:书籍：专门用于自然语言处理（ NLP ）的资源列表
-
-📅 2026-10-12T22:26:23Z
+📅 2026-10-13T03:23:40Z
 
 ---
 
 ### GitHub Active (AI/ML)
-![nltk ： NLTK源](https://avatars.githubusercontent.com/u/124114?v=4)
+![keras ：面向人类的深度学习](https://avatars.githubusercontent.com/u/34455048?v=4)
 
-**[nltk ： NLTK源](https://github.com/nltk/nltk)**
+**[keras ：面向人类的深度学习](https://github.com/keras-team/keras)**
 
-⭐ 14736星· 3048叉·蟒蛇· NLTK本源
+⭐ 64367星· 19794叉·蟒蛇·人类深度学习
 
-📅 2026-10-12T22:26:17Z
+📅 2026-10-13T03:23:32Z
 
 ---
 
 ### GitHub Active (AI/ML)
-![fiftyone ：优化高质量数据集和可视化AI模型](https://avatars.githubusercontent.com/u/25984855?v=4)
+![Oceananigans.jl ： 🌊  Julia软件，用于CPU和GPU上的快速、友好、灵活的海洋风味流体动力学](https://avatars.githubusercontent.com/u/43161188?v=4)
 
-**[fiftyone ：优化高质量数据集和可视化AI模型](https://github.com/voxel51/fiftyone)**
+**[Oceananigans.jl ： 🌊  Julia软件，用于CPU和GPU上的快速、友好、灵活的海洋风味流体动力学](https://github.com/CliMA/Oceananigans.jl)**
 
-⭐ 11,172星· 834叉· TypeScript ·优化高质量数据集和可视化AI模型
+⭐ 1,432星· 300叉· Julia · 🌊 Julia软件，在CPU和GPU上实现快速、友好、灵活、海洋风味的流体动力学
 
-📅 2026-10-12T22:25:36Z
+📅 2026-10-13T03:23:03Z
+
+---
+
+### GitHub Active (Python)
+![lmfit-py ：非线性最小二乘最小化，具有灵活的参数设置，基于scipy.optimize ，以及许多其他用于曲线拟合的类和方法。](https://avatars.githubusercontent.com/u/6190878?v=4)
+
+**[lmfit-py ：非线性最小二乘最小化，具有灵活的参数设置，基于scipy.optimize ，以及许多其他用于曲线拟合的类和方法。](https://github.com/lmfit/lmfit-py)**
+
+⭐ 1,240星· 300叉· Python ·非线性最小二乘最小化，具有灵活的参数设置，基于scipyoptimize ，以及许多其他用于曲线拟合的类和方法
+
+📅 2026-10-13T03:24:31Z
 
 ---
 
 ## 💬 社交动态
 
-### Reddit: r/artificial
-![前谷歌用户体验研究员重点介绍元数据模式， OpenAI正在使用这些模式来提高个人代理的采用率](https://preview.redd.it/scg8hs0tv3vh1.png?width=140&amp;height=82&amp;auto=webp&amp;s=0ed8afec4af1d7e72147fd1a7f7532b6713eca83)
-
-**[前谷歌用户体验研究员重点介绍元数据模式， OpenAI正在使用这些模式来提高个人代理的采用率](https://www.reddit.com/r/artificial/comments/1x4fav0/exgoogle_ux_researcher_highlights_patterns_meta/)**
-
-博士是一名前谷歌用户体验研究员，他一直在仔细研究个人代理系统中使用的一些用户体验模式，如Chat**GPT**的DOT和**Meta**的Muselike ，关闭人工智能培训的数据共享并限制代理访问财务信息
-
-📅 2026-10-12T22:00:59.000Z
-
----
-
 ### Hacker News
-**[Codex CLI默认安装一个持久的、自我更新的后台守护程序](https://github.com/openai/codex/issues/48195)**
+**[加强我们对蒸馏攻击的防御](https://www.anthropic.com/research/distillation-defenses)**
 
-文章网址： https://githubcom/**OpenAI**/codex/issues/48195评论网址： https://**new**s
+文章网址： https://wwwcom/research/distillation-defenses评论网址： https://**new**s
 
-📅 Mon, 12 Oct 2026 18:29:04 +0000
-
----
-
-### Hacker News AI
-**[Show HN: Vibecheck -检查您是否理解AI编写的代码的合并门](https://github.com/bhurghundii/vibecheck.dev)**
-
-晚上好，伙计们，我构建了Github合并门，用于检查开发人员在创建PRI时是否理解自己的代码，拉取请求中有两个演示： https://github
-
-📅 Mon, 12 Oct 2026 21:13:44 +0000
+📅 Tue, 13 Oct 2026 01:46:47 +0000
 
 ---
 
 ### Hacker News AI
-**[Googlebook Linux终端预览：虚拟机支持的人工智能和开发环境](https://android-developers.googleblog.com/2026/10/googlebook-linux-terminal-preview-vm.html)**
+**[Anthropic AI模型向费城警方发送了虚假的凶杀案提示](https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/)**
 
-com/2026/10/**Google**book-linux-terminal-preview-vmhtml评论网址： https://**new**s
+文章网址： https://techcrunchcom/2026/10/09/an-**Anthropic**-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/评论网址： https://**new**s
 
-📅 Mon, 12 Oct 2026 21:10:55 +0000
+📅 Tue, 13 Oct 2026 01:25:28 +0000
 
 ---
 
 ### Reddit: r/artificial
-![Anthropic在15个非品牌Android电视盒上运行了一个26B模型，每个价值55 $ —一个没有中心点可以关闭的人工智能蠕虫](https://external-preview.redd.it/GLPHC2KY-qNFfR15yM0D56sWNC1fhXzXIHlFl5PlvTU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3ee66c64f45d8b66dc3163d3dd6898176780fc61)
+**[MAIA 300的2027年计划提出了一个实际的推理效率问题](https://www.reddit.com/r/artificial/comments/1x4m0vt/maia_300s_2027_plan_raises_a_practical/)**
 
-**[Anthropic在15个非品牌Android电视盒上运行了一个26B模型，每个价值55 $ —一个没有中心点可以关闭的人工智能蠕虫](https://www.reddit.com/r/artificial/comments/1x4e58k/anthropic_ran_a_26b_model_across_15_offbrand/)**
+微软10月12日**发布**的MAIA公告将MAIA 200生产工作负载与计划于2027年进行的MAIA 300部署区分开来，但我想知道这些模型是否
+
+📅 2026-10-13T03:21:02.000Z
+
+---
+
+### Reddit: r/artificial
+**[中国的高速铁路网络可能是艾未未未来的预兆。庞大的铁路网络，巨额债务，亏损运营，实际使用率低。](https://www.reddit.com/r/artificial/comments/1x4jwrj/chinas_high_speed_rail_network_is_probably_a/)**
+
+谷歌搜索表示，现有的消费者和企业人工智能服务只占投资的一小部分（估计约为$ 1
+
+📅 2026-10-13T01:35:42.000Z
+
+---
+
+### Reddit: r/artificial
+**[人工智能公司的客户服务很糟糕](https://www.reddit.com/r/artificial/comments/1x4ij7r/ai_companies_have_terrible_customer_service/)**
+
+我和其他几个人经历过人工智能公司持续糟糕的客户服务。当提出问题时
+
+📅 2026-10-13T00:28:30.000Z
+
+---
+
+### Reddit: r/artificial
+![律师在谋杀上诉中引用ChatGPT发明的假证人](https://external-preview.redd.it/Fg-Y-piPuDANB3xptjFAnrfBjEisUB-xOrONIeNaIVM.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a5dc14ab43eb03ff9685a6303e1feeb65cbc1015)
+
+**[律师在谋杀上诉中引用ChatGPT发明的假证人](https://www.reddit.com/r/artificial/comments/1x4i9uh/lawyer_cites_chatgptinvented_fake_witnesses_in/)**
 
 提交者/u/lulzxdxdxd [link] [comments]
 
-📅 2026-10-12T21:13:08.000Z
-
----
-
-### Reddit: r/artificial
-**[关于本能vs缪斯的想法？](https://www.reddit.com/r/artificial/comments/1x4dxid/thoughts_on_instinct_vs_muse/)**
-
-他超级参与了人工智能/技术领域，并获得了访问权限我听说Muse （由**Meta**制造的人工智能代理）也非常好，但我还没有尝试过-主要原因是我太喜欢IMessage
-
-📅 2026-10-12T21:04:33.000Z
+📅 2026-10-13T00:15:43.000Z
 
 ---
 
 ### Hacker News
-**[人工智能是一种工具。善用它需要技巧。](https://yyhh.org/blog/2026/10/ai-is-a-tool/)**
+**[离开科技](https://ryanbigg.com/2026/10/leaving-tech)**
 
-文章网址： https://yyhhorg/blog/2026/10/ai-is-a-tool/评论网址： https://**new**s
+文章网址： https://ryanbiggcom/2026/10/leaving-tech评论网址： https://**new**s
 
-📅 Mon, 12 Oct 2026 21:40:18 +0000
+📅 Tue, 13 Oct 2026 02:39:35 +0000
 
 ---
 
 ### Hacker News
-**[Phreak.ing –互联网电话交换机](https://phreak.ing/)**
+**[中国在2024年首次超越美国成为研发支出最高的国家](https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/)**
 
-文章网址： https://phreaking/评论网址： https://**new**s
+文章网址： https://japan**new**sjp/science-nature/science/20260908-347742/评论网址： https://**new**s
 
-📅 Mon, 12 Oct 2026 21:39:32 +0000
+📅 Tue, 13 Oct 2026 02:25:00 +0000
 
 ---
 
