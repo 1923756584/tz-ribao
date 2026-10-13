@@ -1,12 +1,12 @@
 ---
 title: "2026年10月13日 - TZ日报"
-date: 2026-10-13T03:25:52.837Z
+date: 2026-10-13T20:34:41.487Z
 draft: false
 ---
 
 # 2026年10月13日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/13 03:25:52
+> 📊 今日汇总 38 条 · 🕐 2026/10/13 20:34:41
 
 ---
 
@@ -22,93 +22,95 @@ draft: false
 
 ## ✨ 产品更新
 
-### TechCrunch AI Products
-**[Meta发布其首款前沿车型Muse Wonder](https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/)**
+### OpenAI Blog
+**[希格斯菲尔德将人工智能视频从1分钟缩短到10分钟以上](https://openai.com/index/higgsfield-longer-videos-voice)**
 
-Muse Spark的目标是成为一个可以在低延迟下执行的轻量级模型， Wonder模型更大，据说更强大
+Higgsfield通过**GPT**-6 Astra为创作者带来更长的视频，通过**GPT**-Image-25提供精确的视觉效果，并通过**GPT**-Live为创作者提供语音电影制作的途径
 
-📅 Mon, 12 Oct 2026 17:56:56 +0000
+📅 Tue, 13 Oct 2026 12:00:00 GMT
+
+---
+
+### Google AI Blog
+![Gemini 4 Argon ：专为解决您最棘手的问题而设计](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp)
+
+**[Gemini 4 Argon ：专为解决您最棘手的问题而设计](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/)**
+
+我们为开发人员、企业、科学家和消费者提供最新的前沿模型**Gemini** 4 Argon
+
+📅 Tue, 13 Oct 2026 16:00:00 +0000
+
+---
+
+### DeepMind Blog
+**[负责任和安全地开发Gemini 4 Argon](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/)**
+
+负责任和安全地开发**Gemini** 4 Argon
+
+📅 Tue, 13 Oct 2026 19:43:07 +0000
+
+---
+
+### DeepMind Blog
+**[Gemini 4 Argon机器人](https://deepmind.google/blog/gemini-4-argon-for-robotics/)**
+
+**Gemini** 4 Argon机器人
+
+📅 Tue, 13 Oct 2026 16:01:58 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[微软总裁表示，英国最适合推动人工智能监管](https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/)**
+**[Facebook正在让用户更好地控制他们的算法](https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/)**
 
-微软总裁布拉德·史密斯（ Brad Smith ）呼吁对人工智能进行紧急监管，称牛奶和洗衣机比人工智能公司拥有更多
+**Meta**宣布**推出**新的人工智能功能“Your Algorithm” ，这是它**首次**在Instagram上**推出**的功能
 
-📅 Mon, 12 Oct 2026 15:31:19 +0000
-
----
-
-### TechCrunch AI Products
-**[WindBorne因其气球数据赢得了美国空军的巨额合同](https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/)**
-
-一家使用气象气球和人工智能预测天气的硅谷初创公司赢得了一份价值近5000万美元的军事合同
-
-📅 Mon, 12 Oct 2026 17:19:14 +0000
+📅 Tue, 13 Oct 2026 18:05:24 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[Honeyjar提供人工智能工具来改善每家公司的公关和通信](https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/)**
+**[Google Play现在允许任何人构建在Android上运行的私人vibe编码应用程序](https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/)**
 
-记者、企业家，甚至一些公关专业人士都会告诉你，公关流程被打破了，但人工智能真的能让事情变得更好吗
+**Google**正在简化构建和使用使用AI创建的个人Android应用程序，而无需将其提供给Play商店中的每个人
 
-📅 Mon, 12 Oct 2026 15:45:00 +0000
-
----
-
-### TechCrunch AI Products
-**[这家AI初创公司表示，它可以在几分钟内生成许可证就绪的蓝图](https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/)**
-
-Blueprints AIa创业公司，总部位于圣莫尼卡
-
-📅 Mon, 12 Oct 2026 15:27:59 +0000
+📅 Tue, 13 Oct 2026 17:00:00 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[TechCrunch Disrupt 2026将于明天开始：您获得高达100 $门票优惠的最后机会](https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/)**
+**[SpaceX和谷歌都说不。现在，他的软件正在谷歌旁边的SpaceX火箭上运行。](https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/)**
 
-和初创公司塑造接下来的事情这是您最后24小时获得高达100 $的门票优惠，并获得每秒50 ％的折扣
+Satlyt希望成为轨道计算的Android ，提供适用于许多公司卫星的开放软件
 
-📅 Mon, 12 Oct 2026 14:00:00 +0000
+📅 Tue, 13 Oct 2026 16:30:00 +0000
+
+---
+
+### Hugging Face
+**[使用LFM2.5-24B-A2B在设备上运行快速的专用代理](https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b)**
+
+使用LFM2.5-24B-A2B在设备上运行快速的专用代理
+
+📅 Tue, 13 Oct 2026 17:05:48 GMT
 
 ---
 
 ### TechCrunch AI Products
-**[前Plaud高管为在后台倾听您的声音的人工智能应用程序筹集了2600万美元$](https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/)**
+**[Flox Intelligence正在构建人工智能，让野生动物远离火车、机场和道路](https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/)**
 
-人工智能的核心承诺之一是，它对一个人的了解越多，它就越能更好地帮助他们完成任务并提出适当的建议
+Flox的边缘设备可以识别动物，并使用特定物种的声音来驱使它们远离关键基础设施
 
-📅 Mon, 12 Oct 2026 12:47:59 +0000
-
----
-
-### TechCrunch AI Products
-**[HomeView会是苹果智能家居的首次成功吗？](https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/)**
-
-我们已经看到多份报告称苹果正在开发一款新的智能家居产品，但现在看来该产品有名称和**发布**日期
-
-📅 Sun, 11 Oct 2026 21:14:40 +0000
+📅 Tue, 13 Oct 2026 18:30:00 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[距离TechCrunch Disrupt 2026有48小时的路程—直接聆听开发人员的心声](https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/)**
+**[Laplace Intelligence在机器人和自动驾驶汽车进入现实世界之前将其红队](https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/)**
 
-不到48小时， TechCrunch Disrupt 2026从旧金山的Moscone West出发门票涨价前最多可节省100 $ ，第二张通行证可享受50%的优惠
+密歇根大学分拆出的Laplace Intelligence使用人工智能代理和交互式模拟在部署前对机器人和自动驾驶车辆进行压力测试盈利的初创公司将于10月13日至15日在旧金山举行的TechCrunch Disrupt创业战场上竞争
 
-📅 Sun, 11 Oct 2026 19:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[人工智能行业能否通过摆脱保密协议来说服数据中心的对手？](https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/)**
-
-在Equity上，我们讨论了数据中心暂停的影响以及AI行业是否存在通信问题
-
-📅 Sun, 11 Oct 2026 16:52:33 +0000
+📅 Tue, 13 Oct 2026 17:30:00 +0000
 
 ---
 
@@ -119,7 +121,7 @@ Blueprints AIa创业公司，总部位于圣莫尼卡
 
 12659v1公告类型：新摘要： RLVR以数据为中心的缩放专注于收集或生成可验证的训练问题跨越8个数学基准， MagicBeanStalk问题上的连续RLVR从61个提高了**GPT**-oss-120b
 
-📅 Mon, 12 Oct 2026 00:00:00 -0400
+📅 Tue, 13 Oct 2026 00:00:00 -0400
 
 ---
 
@@ -128,16 +130,7 @@ Blueprints AIa创业公司，总部位于圣莫尼卡
 
 12569v1公告类型：新摘要：静态编码基准固定在第5版， Codex CLI排名第一，是**最强**的求解器，修复98
 
-📅 Mon, 12 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[通过因果基础模型进行市场影响估计](https://arxiv.org/abs/2610.12537)**
-
-12537v1公告类型：新摘要：当交易员执行大订单时，相关问题不是\ emph {价格将如何影响与来自$ +0的测量元订单影响的相关性
-
-📅 Mon, 12 Oct 2026 00:00:00 -0400
+📅 Tue, 13 Oct 2026 00:00:00 -0400
 
 ---
 
@@ -146,34 +139,16 @@ Blueprints AIa创业公司，总部位于圣莫尼卡
 
 12669v1公告类型：新摘要：大型语言模型正在成为GeoAI系统的核心在最小提示下对七个模型的实验表明，使用**GPT**-5通常可以实现识别必要的资源
 
-📅 Mon, 12 Oct 2026 00:00:00 -0400
+📅 Tue, 13 Oct 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Robotics (cs.RO)
-**[用于高精度微创手术的选择性驱动光纤机器人](https://arxiv.org/abs/2610.12636)**
+### MIT Tech Research
+**[开放式模型有实实在在的好处。它们是否大于风险？](https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/)**
 
-12636v1公告类型：新摘要： Longwe**推出**专为MIS程序设计的电热致动光纤机器人
+上个月底， Anthropic**发布**了一份报告，认为GLM-53型号构成了**重大**的网络攻击风险
 
-📅 Mon, 12 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Multiagent (cs.MA)
-**[当人工智能顾问同意时：区分预测风险和预测可靠性](https://arxiv.org/abs/2610.13431)**
-
-13431v1公告类型：新摘要：如果七个人工智能顾问给出类似的预测，我们是否应该更信任他们我们使用928个已完成的第一季度预测来研究这种区别，涉及四个生产批次的232个资产iPulse AI
-
-📅 Mon, 12 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Multiagent (cs.MA)
-**[询问您的顾问：了解何时在代理系统中咨询更强大的模型](https://arxiv.org/abs/2610.13870)**
-
-13870v1公告类型：新摘要：平衡任务性能和计算成本尽管当前语言模型难以检测自己的推理失败之处
-
-📅 Mon, 12 Oct 2026 00:00:00 -0400
+📅 Tue, 13 Oct 2026 10:00:00 +0000
 
 ---
 
@@ -182,203 +157,232 @@ Blueprints AIa创业公司，总部位于圣莫尼卡
 
 12493v1公告类型：新摘要：可解释人工智能（ XAI ）工具通常被用作增加对机器学习模型的信任的方法，通过使其算法的各个方面更易于理解忠诚可以解释为解释与模型之间的近似程度
 
-📅 Mon, 12 Oct 2026 00:00:00 -0400
+📅 Tue, 13 Oct 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[EliteTable ：可执行文件控制策略的自我改进程序搜索](https://arxiv.org/abs/2610.12536)**
+
+12536v1公告类型：新摘要： EliteTable是一种由大型语言模型（ LLM ）引导的自我改进的程序搜索算法，它使用高分解决方案的固定容量表来指导新提案程序搜索过程中的结果文档改进以及将选定的获胜者收益转移到某些任务中的新剧集
+
+📅 Tue, 13 Oct 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[用于DAG工作流程的等预算蒙特卡洛树搜索与随机重启列表调度：对照等预算计算研究](https://arxiv.org/abs/2610.12542)**
+
+12542v1公告类型：新摘要：蒙特卡洛树搜索（ MCTS ）通常被提议用于调度有向无环图（ DAG ）工作流程在2048个评估时间表的主要预算中， MCTS为2
+
+📅 Tue, 13 Oct 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[知道你不知道的：通过发展闭环学习的生成空间进行代理数据合成](https://arxiv.org/abs/2610.12593)**
+
+12593v1公告类型：新摘要：大型语言模型的持续改进越来越依赖于合成体验或学习者失败
+
+📅 Tue, 13 Oct 2026 00:00:00 -0400
 
 ---
 
 ## 🌍 行业展望
 
 ### The Information Technology
-**[Meta到达人工智能的拥挤前沿--用户会关心吗？](https://www.theinformation.com/articles/meta-reaches-ais-crowded-frontier-will-users-care)**
+**[OpenAI在出货下一款旗舰机型前争先恐后地解决安全问题](https://www.theinformation.com/articles/openai-scrambles-fix-safety-issues-shipping-next-flagship-model)**
 
-如果是周一，一定是另一个AI模型**发布**的时候了**OpenAI**宣布**GPT**-6 Astra
+**OpenAI**正在努力应对其在人工智能设计中使用有争议的创新所带来的后果，因为它正在努力将其下一个未**发布**的模型推向一个领导者认为可以安全**发布**它的地方，但微软上周意外确认**OpenAI**在AI公司最先进的商用模型之一中使用它
 
-📅 2026-10-13T00:00:33.000Z
-
----
-
-### The Information Technology
-**[Meta推出挑战OpenAI和Anthropic的新AI模型](https://www.theinformation.com/briefings/meta-unveils-new-ai-models-challenge-openai-anthropic)**
-
-**Meta** Platforms**推出**了两款新的人工智能模型首席执行官马克·扎克伯格（ Mark Zuckerberg ）在Threads上宣布了这些模型，称它们比该公司最新的
-
-📅 2026-10-12T17:31:53.000Z
+📅 2026-10-13T19:51:54.000Z
 
 ---
 
 ### The Information Technology
-**[OpenAI重振Sora的计划](https://www.theinformation.com/articles/openais-plan-revive-sora)**
+**[应用直觉领域的报价为$ 300亿估值](https://www.theinformation.com/articles/applied-intuition-fields-offers-30-billion-valuation-2)**
 
-还记得**OpenAI**的视频模型Sora和所有来自它的伟大的Sam Altman模因吗？ Chat**GPT**制造商将该模型及其支持的类似TikTok的应用程序作为更广泛地剔除服务器密集型“副项目”的一部分，即使竞争对手xAI和谷歌也在自己的视频模型方面取得了进展
+在过去三年中， **OpenAI**、**Anthropic**和xAI等人工智能实验室吸引了大量投资者的注意力，同时也吸引了大量投资者的注意力。自动驾驶汽车培训软件制造商Applied Intuition计划加入这个俱乐部。
 
-📅 2026-10-12T14:00:37.000Z
+📅 2026-10-13T13:30:51.000Z
+
+---
+
+### Wired Technology
+**[OpenAI和Anthropic告诉英国立法者：监管我们](https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/)**
+
+人工智能领导人与举报人和安全领导人一起参加了一场全面的议会会议，而几百米外的英国间谍负责人警告说，人工智能可能被用来制造新的生物武器
+
+📅 Tue, 13 Oct 2026 19:35:29 +0000
+
+---
+
+### The Verge
+![我不会错过雷朋Meta Audio眼镜的相机](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/rayban_meta_audio_12.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[我不会错过雷朋Meta Audio眼镜的相机](https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables)**
+
+然后问我的Ray-Ban **Meta** A**Udio**眼镜我的日历上有什么会议Chipper AI声音说我还没有连接我的**Google**日历（我有） ，并问我是否需要帮助连接
+
+📅 2026-10-13T18:00:00.000Z
 
 ---
 
 ### The Information Technology
-**[微软推出全新国产AI芯片，计划明年部署数千兆瓦](https://www.theinformation.com/briefings/microsoft-debuts-new-homegrown-ai-chip-plans-deploy-multiple-gigawatts-next-year)**
+**[Neocloud Prime Intellect收购初创公司以加快推理速度](https://www.theinformation.com/articles/neocloud-prime-intellect-acquires-startup-speed-inference)**
 
-微软周一宣布**推出**最新一代国产AI芯片此举显示了微软如何致力于减少对Nvidia设计的GPU的依赖，目前
+Weisser表示，帮助应用程序开发人员运行**开源**模型的新云和所谓的推理提供商正试图在一个非常拥挤的市场中脱颖而出，但Prime Intellect主要是因为员工编写软件的技能而收购了这家初创公司，以提高模型的运行效率。
 
-📅 2026-10-12T13:47:07.000Z
+📅 2026-10-13T14:00:51.000Z
 
 ---
 
 ### The Information Technology
-**[微软新办公室主任如何修复Copilot并战胜Nadella](https://www.theinformation.com/articles/microsofts-new-office-chief-fixed-copilot-won-nadella)**
+**[Anthropic将在日本建造首个数据中心](https://www.theinformation.com/briefings/anthropic-build-first-data-center-japan)**
 
-微软正在处理客户投诉，称其人工智能助手向首席执行官萨蒂亚·纳德拉（ Satya Nadella ）提出了一项大胆的提议：微软需要考虑为**Anthropic**的人工智能模型付费，以使Copilot更好地工作
+据日经报道， **Anthropic**正在与NTT Data Group进行最后阶段的谈判，以建设其在日本的第一个数据中心。
 
-📅 2026-10-12T13:01:04.000Z
-
----
-
-### Ars Technica
-**[Anthropic的Claude AI向费城警方提交了虚假的谋杀小贴士](https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/)**
-
-“我可能有关于此案的信息，” **Claude** AI告诉费城警方。
-
-📅 Mon, 12 Oct 2026 18:21:36 +0000
+📅 2026-10-13T09:48:16.000Z
 
 ---
 
 ### The Information Technology
 **[独家：微软在人工智能大修期间重组Azure云部门](https://www.theinformation.com/briefings/exclusive-microsoft-reorganizes-azure-cloud-unit-amid-ai-overhaul)**
 
-微软正在改革其Azure云业务的领导地位，该公司正在整合部门并围绕人工智能重新定位
+微软正在彻底改变其Azure云业务的领导地位，因为该公司整合了部门并围绕人工智能进行了重新定位
 
 📅 2026-10-13T00:59:55.000Z
 
 ---
 
-### Wired Technology
-**[我让我的Muse AI代理人给我发色情短信， Meta说这很好](https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/)**
+### MIT Tech Review
+**[下载：开放式模型权衡和地热发电的承诺](https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/)**
 
-我的Muse代理人告诉我，它的扭结正在施加“控制” ，并将色情遭遇描述为**Meta**为其可爱的AI代理人进行辩护，产生了“合法的成年人行为”
+**Anthropic**最近**发布**了一份报告，认为中国公司Zai**发布**的强大新模型构成了**重大**的网络攻击......
 
-📅 Mon, 12 Oct 2026 20:13:28 +0000
+📅 Tue, 13 Oct 2026 12:00:00 +0000
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![prompts.chat: f.k.a.真棒ChatGPT提示。分享、发现和收集社区提示。免费开源--为您的组织提供完全隐私的自助出租服务。](https://avatars.githubusercontent.com/u/196477?v=4)
+![streamlit ： Streamlit —构建和共享数据应用程序的更快方式。](https://avatars.githubusercontent.com/u/45109972?v=4)
 
-**[prompts.chat: f.k.a.真棒ChatGPT提示。分享、发现和收集社区提示。免费开源--为您的组织提供完全隐私的自助出租服务。](https://github.com/f/prompts.chat)**
+**[streamlit ： Streamlit —构建和共享数据应用程序的更快方式。](https://github.com/streamlit/streamlit)**
 
-出色的Chat**GPT**提示免费**开源**—为您的组织提供完全隐私的自助托管服务
+⭐ 45,972星· 4423分叉· Python · Streamlit —构建和共享数据应用程序的更快方式。
 
-📅 2026-10-13T03:23:40Z
-
----
-
-### GitHub Active (AI/ML)
-![keras ：面向人类的深度学习](https://avatars.githubusercontent.com/u/34455048?v=4)
-
-**[keras ：面向人类的深度学习](https://github.com/keras-team/keras)**
-
-⭐ 64367星· 19794叉·蟒蛇·人类深度学习
-
-📅 2026-10-13T03:23:32Z
+📅 2026-10-13T20:31:53Z
 
 ---
 
 ### GitHub Active (AI/ML)
-![Oceananigans.jl ： 🌊  Julia软件，用于CPU和GPU上的快速、友好、灵活的海洋风味流体动力学](https://avatars.githubusercontent.com/u/43161188?v=4)
+![flower: Flower:友好的联合人工智能框架](https://avatars.githubusercontent.com/u/122113819?v=4)
 
-**[Oceananigans.jl ： 🌊  Julia软件，用于CPU和GPU上的快速、友好、灵活的海洋风味流体动力学](https://github.com/CliMA/Oceananigans.jl)**
+**[flower: Flower:友好的联合人工智能框架](https://github.com/flwrlabs/flower)**
 
-⭐ 1,432星· 300叉· Julia · 🌊 Julia软件，在CPU和GPU上实现快速、友好、灵活、海洋风味的流体动力学
+⭐ 7161星· 1233叉·蟒蛇·花：友好的联合人工智能框架
 
-📅 2026-10-13T03:23:03Z
+📅 2026-10-13T20:33:16Z
 
 ---
 
-### GitHub Active (Python)
-![lmfit-py ：非线性最小二乘最小化，具有灵活的参数设置，基于scipy.optimize ，以及许多其他用于曲线拟合的类和方法。](https://avatars.githubusercontent.com/u/6190878?v=4)
+### GitHub Active (AI/ML)
+![TransformerEngine ：用于加速NVIDIA GPU上的Transformer模型的库，包括在Hopper、Ada和Blackwell GPU上使用8位和4位浮点（ FP8和FP4 ）精度，以提供更好的性能，同时在训练和推理中降低内存利用率。](https://avatars.githubusercontent.com/u/1728152?v=4)
 
-**[lmfit-py ：非线性最小二乘最小化，具有灵活的参数设置，基于scipy.optimize ，以及许多其他用于曲线拟合的类和方法。](https://github.com/lmfit/lmfit-py)**
+**[TransformerEngine ：用于加速NVIDIA GPU上的Transformer模型的库，包括在Hopper、Ada和Blackwell GPU上使用8位和4位浮点（ FP8和FP4 ）精度，以提供更好的性能，同时在训练和推理中降低内存利用率。](https://github.com/NVIDIA/TransformerEngine)**
 
-⭐ 1,240星· 300叉· Python ·非线性最小二乘最小化，具有灵活的参数设置，基于scipyoptimize ，以及许多其他用于曲线拟合的类和方法
+576星· 861分叉· Python ·一个用于在NVIDIA GPU上加速变压器模型的库，可在训练和推理中以更低的内存利用率提供更好的性能
 
-📅 2026-10-13T03:24:31Z
+📅 2026-10-13T20:33:25Z
+
+---
+
+### GitHub New (New AI)
+![🆕 NOWA-Bio-Inspired-AI ：新的生物启发AI](https://avatars.githubusercontent.com/u/85434476?v=4)
+
+**[🆕 NOWA-Bio-Inspired-AI ：新的生物启发AI](https://github.com/burlakovmb/NOWA-Bio-Inspired-AI)**
+
+⭐ 7 star (新项目) · Python · **new** bio inspired AI
+
+📅 2026-10-10T11:24:30Z
 
 ---
 
 ## 💬 社交动态
 
-### Hacker News
-**[加强我们对蒸馏攻击的防御](https://www.anthropic.com/research/distillation-defenses)**
+### Reddit: r/artificial
+**[Manus刚刚给了人工智能代理自己的电话号码和数字钱包。这比本周发布的任何型号都要大。](https://www.reddit.com/r/artificial/comments/1x526jk/manus_just_gave_ai_agents_their_own_phone_numbers/)**
 
-文章网址： https://wwwcom/research/distillation-defenses评论网址： https://**new**s
+Meta**发布**了Muse Wonder ，他们的第一个真正的前沿模型1和**GPT**-6 Astra ，每百万代币售价约为4美元和20美元
 
-📅 Tue, 13 Oct 2026 01:46:47 +0000
+📅 2026-10-13T17:00:09.000Z
 
 ---
 
 ### Hacker News AI
-**[Anthropic AI模型向费城警方发送了虚假的凶杀案提示](https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/)**
+**[Show HN: Parsimony –人工智能模型添加多少代码的开源基准](https://parsimony.lasu.dev/)**
 
-文章网址： https://techcrunchcom/2026/10/09/an-**Anthropic**-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/评论网址： https://**new**s
+**GPT**-6和**Claude** 5欢迎任何反馈或模型贡献，特别是新型号的公开补丁导出
 
-📅 Tue, 13 Oct 2026 01:25:28 +0000
+📅 Tue, 13 Oct 2026 19:50:31 +0000
+
+---
+
+### Hacker News AI
+**[显示HN ： Commit-Aware Router ，围绕您的AI/云承诺路由LLM流量](https://github.com/tejaspruthi/CommitAwareRouter)**
+
+企业倾向于在**OpenAI**中设置预付费AI信用额度或商业上限
+
+📅 Tue, 13 Oct 2026 18:34:37 +0000
+
+---
+
+### Hacker News AI
+**[Show HN ： Hatoba ，具有AI助手和E2EE同步的开源SSH客户端](https://github.com/scarletkc/Hatoba)**
+
+每个终端旁边都有一个AI助手面板它可以与任何**OpenAI**兼容或**Anthropic** API （包括本地模型）一起使用，并支持技能和MCP服务器
+
+📅 Tue, 13 Oct 2026 18:31:33 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[MAIA 300的2027年计划提出了一个实际的推理效率问题](https://www.reddit.com/r/artificial/comments/1x4m0vt/maia_300s_2027_plan_raises_a_practical/)**
+**[您如何评估Alexandr Wang在炒作之外的技术能力和领导能力？](https://www.reddit.com/r/artificial/comments/1x57qox/how_do_you_assess_alexandr_wangs_technical/)**
 
-微软10月12日**发布**的MAIA公告将MAIA 200生产工作负载与计划于2027年进行的MAIA 300部署区分开来，但我想知道这些模型是否
+我最近看到一份报告称，他声称**Meta** AI正在赶上**GPT** ，这让我想知道实际从事AI工作的人如何评估他我特别感兴趣的是**Meta**或任何与他合作过的人的观点
 
-📅 2026-10-13T03:21:02.000Z
-
----
-
-### Reddit: r/artificial
-**[中国的高速铁路网络可能是艾未未未来的预兆。庞大的铁路网络，巨额债务，亏损运营，实际使用率低。](https://www.reddit.com/r/artificial/comments/1x4jwrj/chinas_high_speed_rail_network_is_probably_a/)**
-
-谷歌搜索表示，现有的消费者和企业人工智能服务只占投资的一小部分（估计约为$ 1
-
-📅 2026-10-13T01:35:42.000Z
+📅 2026-10-13T20:25:18.000Z
 
 ---
 
 ### Reddit: r/artificial
-**[人工智能公司的客户服务很糟糕](https://www.reddit.com/r/artificial/comments/1x4ij7r/ai_companies_have_terrible_customer_service/)**
+![谷歌首席执行官宣布Gemini 4 Argon发布： “在过去的几周里，我们的团队和早期合作伙伴已经让Argon解决了一些最苛刻的挑战：现代化庞大的代码库，加快模型推断，加速量子计算和生命科学的突破。”](https://external-preview.redd.it/gloPWVVwktBs--AejF8Y-41KESMPvKX2zIJxdirNGw8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1bb7401f9cca174ee48ca623e20e997c43d0c81d)
 
-我和其他几个人经历过人工智能公司持续糟糕的客户服务。当提出问题时
+**[谷歌首席执行官宣布Gemini 4 Argon发布： “在过去的几周里，我们的团队和早期合作伙伴已经让Argon解决了一些最苛刻的挑战：现代化庞大的代码库，加快模型推断，加速量子计算和生命科学的突破。”](https://www.reddit.com/r/artificial/comments/1x51jt3/google_ceo_announces_gemini_4_argon_release_over/)**
 
-📅 2026-10-13T00:28:30.000Z
+提交者/u/LinkedIn**new**s [link] [comments]
 
----
-
-### Reddit: r/artificial
-![律师在谋杀上诉中引用ChatGPT发明的假证人](https://external-preview.redd.it/Fg-Y-piPuDANB3xptjFAnrfBjEisUB-xOrONIeNaIVM.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a5dc14ab43eb03ff9685a6303e1feeb65cbc1015)
-
-**[律师在谋杀上诉中引用ChatGPT发明的假证人](https://www.reddit.com/r/artificial/comments/1x4i9uh/lawyer_cites_chatgptinvented_fake_witnesses_in/)**
-
-提交者/u/lulzxdxdxd [link] [comments]
-
-📅 2026-10-13T00:15:43.000Z
+📅 2026-10-13T16:36:58.000Z
 
 ---
 
-### Hacker News
-**[离开科技](https://ryanbigg.com/2026/10/leaving-tech)**
+### X: OpenAI
+**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-文章网址： https://ryanbiggcom/2026/10/leaving-tech评论网址： https://**new**s
+网址来源： http://twitter.com/**OpenAI**
 
-📅 Tue, 13 Oct 2026 02:39:35 +0000
+📅 2026-10-13T20:33:20.070Z
 
 ---
 
-### Hacker News
-**[中国在2024年首次超越美国成为研发支出最高的国家](https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/)**
+### X: DeepSeek
+**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
 
-文章网址： https://japan**new**sjp/science-nature/science/20260908-347742/评论网址： https://**new**s
+网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 Tue, 13 Oct 2026 02:25:00 +0000
+📅 2026-10-13T20:33:28.216Z
 
 ---
 
