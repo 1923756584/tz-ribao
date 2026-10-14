@@ -1,12 +1,12 @@
 ---
-title: "2026年10月13日 - TZ日报"
-date: 2026-10-13T20:34:41.487Z
+title: "2026年10月14日 - TZ日报"
+date: 2026-10-14T01:39:34.053Z
 draft: false
 ---
 
-# 2026年10月13日 - TZ日报
+# 2026年10月14日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/13 20:34:41
+> 📊 今日汇总 38 条 · 🕐 2026/10/14 01:39:34
 
 ---
 
@@ -61,6 +61,15 @@ Higgsfield通过**GPT**-6 Astra为创作者带来更长的视频，通过**GPT**
 ---
 
 ### TechCrunch AI Products
+**[法官命令OpenAI交出苹果商业机密案件的招聘记录](https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/)**
+
+一名联邦法官裁定，苹果可以访问**OpenAI**涉及前苹果员工的采访材料，以及此案中关键人物的私人消息和证词
+
+📅 Tue, 13 Oct 2026 20:36:44 +0000
+
+---
+
+### TechCrunch AI Products
 **[Facebook正在让用户更好地控制他们的算法](https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/)**
 
 **Meta**宣布**推出**新的人工智能功能“Your Algorithm” ，这是它**首次**在Instagram上**推出**的功能
@@ -78,15 +87,6 @@ Higgsfield通过**GPT**-6 Astra为创作者带来更长的视频，通过**GPT**
 
 ---
 
-### TechCrunch AI Products
-**[SpaceX和谷歌都说不。现在，他的软件正在谷歌旁边的SpaceX火箭上运行。](https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/)**
-
-Satlyt希望成为轨道计算的Android ，提供适用于许多公司卫星的开放软件
-
-📅 Tue, 13 Oct 2026 16:30:00 +0000
-
----
-
 ### Hugging Face
 **[使用LFM2.5-24B-A2B在设备上运行快速的专用代理](https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b)**
 
@@ -97,20 +97,20 @@ Satlyt希望成为轨道计算的Android ，提供适用于许多公司卫星的
 ---
 
 ### TechCrunch AI Products
-**[Flox Intelligence正在构建人工智能，让野生动物远离火车、机场和道路](https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/)**
+**[科学公司将其视力恢复芯片植入其首例Stargardt病患者体内](https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/)**
 
-Flox的边缘设备可以识别动物，并使用特定物种的声音来驱使它们远离关键基础设施
+这位Neuralink的前总裁兼联合创始人在TechCrunch上详细介绍了他的公司与PRIMA的合作如何成为其迈向新型脑机接口（ BCI ）之路的一部分
 
-📅 Tue, 13 Oct 2026 18:30:00 +0000
+📅 Tue, 13 Oct 2026 23:13:31 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[Laplace Intelligence在机器人和自动驾驶汽车进入现实世界之前将其红队](https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/)**
+**[Cerebras首席执行官表示，我们即将迎来每个人在家都有个人AI助手的未来](https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/)**
 
-密歇根大学分拆出的Laplace Intelligence使用人工智能代理和交互式模拟在部署前对机器人和自动驾驶车辆进行压力测试盈利的初创公司将于10月13日至15日在旧金山举行的TechCrunch Disrupt创业战场上竞争
+Cerebras首席执行官Andrew Feldman预测，未来个人人工智能助理将像家用电器一样普遍，部分在本地设备上运行，部分在云端运行
 
-📅 Tue, 13 Oct 2026 17:30:00 +0000
+📅 Tue, 13 Oct 2026 23:05:34 +0000
 
 ---
 
@@ -143,6 +143,24 @@ Flox的边缘设备可以识别动物，并使用特定物种的声音来驱使�
 
 ---
 
+### Science AI
+**[人工智能更接近于解决黎曼假设，这是数学中最难的问题之一](https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems)**
+
+巨大的**OpenAI**版本包含关于质数谜题的“令人兴奋”的进展
+
+📅 2026-10-13T04:00:00.000Z
+
+---
+
+### Science AI
+**[OpenAI刚刚彻底改变了数学。究竟是怎么回事，还没人知道](https://www.science.org/content/article/openai-just-changed-math-forever-exactly-how-no-one-yet-knows)**
+
+722篇人工智能生成的论文的转储让数学家们想知道：他们的领域是否被摧毁或充满活力
+
+📅 2026-10-13T04:00:00.000Z
+
+---
+
 ### MIT Tech Research
 **[开放式模型有实实在在的好处。它们是否大于风险？](https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/)**
 
@@ -170,24 +188,6 @@ Flox的边缘设备可以识别动物，并使用特定物种的声音来驱使�
 
 ---
 
-### ArXiv AI (cs.AI)
-**[用于DAG工作流程的等预算蒙特卡洛树搜索与随机重启列表调度：对照等预算计算研究](https://arxiv.org/abs/2610.12542)**
-
-12542v1公告类型：新摘要：蒙特卡洛树搜索（ MCTS ）通常被提议用于调度有向无环图（ DAG ）工作流程在2048个评估时间表的主要预算中， MCTS为2
-
-📅 Tue, 13 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[知道你不知道的：通过发展闭环学习的生成空间进行代理数据合成](https://arxiv.org/abs/2610.12593)**
-
-12593v1公告类型：新摘要：大型语言模型的持续改进越来越依赖于合成体验或学习者失败
-
-📅 Tue, 13 Oct 2026 00:00:00 -0400
-
----
-
 ## 🌍 行业展望
 
 ### The Information Technology
@@ -196,15 +196,6 @@ Flox的边缘设备可以识别动物，并使用特定物种的声音来驱使�
 **OpenAI**正在努力应对其在人工智能设计中使用有争议的创新所带来的后果，因为它正在努力将其下一个未**发布**的模型推向一个领导者认为可以安全**发布**它的地方，但微软上周意外确认**OpenAI**在AI公司最先进的商用模型之一中使用它
 
 📅 2026-10-13T19:51:54.000Z
-
----
-
-### The Information Technology
-**[应用直觉领域的报价为$ 300亿估值](https://www.theinformation.com/articles/applied-intuition-fields-offers-30-billion-valuation-2)**
-
-在过去三年中， **OpenAI**、**Anthropic**和xAI等人工智能实验室吸引了大量投资者的注意力，同时也吸引了大量投资者的注意力。自动驾驶汽车培训软件制造商Applied Intuition计划加入这个俱乐部。
-
-📅 2026-10-13T13:30:51.000Z
 
 ---
 
@@ -229,84 +220,93 @@ Flox的边缘设备可以识别动物，并使用特定物种的声音来驱使�
 ---
 
 ### The Information Technology
-**[Neocloud Prime Intellect收购初创公司以加快推理速度](https://www.theinformation.com/articles/neocloud-prime-intellect-acquires-startup-speed-inference)**
+**[OpenAI的Bug和Bumble的AI驱动退出](https://www.theinformation.com/articles/openais-bug-bumbles-ai-powered-exit)**
 
-Weisser表示，帮助应用程序开发人员运行**开源**模型的新云和所谓的推理提供商正试图在一个非常拥挤的市场中脱颖而出，但Prime Intellect主要是因为员工编写软件的技能而收购了这家初创公司，以提高模型的运行效率。
+什么时候有人会在**OpenAI**制作电视节目（查看我们今天关于**OpenAI**如何解决其安全问题的独家报道）
 
-📅 2026-10-13T14:00:51.000Z
-
----
-
-### The Information Technology
-**[Anthropic将在日本建造首个数据中心](https://www.theinformation.com/briefings/anthropic-build-first-data-center-japan)**
-
-据日经报道， **Anthropic**正在与NTT Data Group进行最后阶段的谈判，以建设其在日本的第一个数据中心。
-
-📅 2026-10-13T09:48:16.000Z
+📅 2026-10-14T00:00:51.000Z
 
 ---
 
 ### The Information Technology
-**[独家：微软在人工智能大修期间重组Azure云部门](https://www.theinformation.com/briefings/exclusive-microsoft-reorganizes-azure-cloud-unit-amid-ai-overhaul)**
+**[OpenAI收购有望推动网络安全业务](https://www.theinformation.com/articles/openai-early-talks-buy-security-startup-trail-bits)**
 
-微软正在彻底改变其Azure云业务的领导地位，因为该公司整合了部门并围绕人工智能进行了重新定位
+**OpenAI****OpenAI**有时会以股票的形式支付数亿美元的低价收购小型创业公司，尽管它有时会支付更少的
 
-📅 2026-10-13T00:59:55.000Z
+📅 2026-10-13T22:07:44.000Z
 
 ---
 
-### MIT Tech Review
-**[下载：开放式模型权衡和地热发电的承诺](https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/)**
+### The Information Technology
+**[微软云总裁要求领导者实现20%的成本削减](https://www.theinformation.com/articles/microsoft-cloud-president-asks-leaders-find-20-cost-cuts)**
 
-**Anthropic**最近**发布**了一份报告，认为中国公司Zai**发布**的强大新模型构成了**重大**的网络攻击......
+微软已经讨论了大幅降低其Azure云服务器租赁单元的成本，这表明微软的数据中心支出对其财务状况的压力有多大
 
-📅 Tue, 13 Oct 2026 12:00:00 +0000
+📅 2026-10-13T21:42:44.000Z
+
+---
+
+### The Information Technology
+**[OpenAI员工因涉嫌安装Office监听设备而被捕](https://www.theinformation.com/briefings/openai-employee-arrested-allegedly-installing-office-listening-device)**
+
+司法部周二表示， **OpenAI**雇佣了一名
+
+📅 2026-10-13T21:22:50.000Z
+
+---
+
+### The Information Technology
+**[摩根大通阻止外部人工智能代理访问客户账户](https://www.theinformation.com/briefings/jpmorgan-blocks-external-ai-agents-accessing-client-accounts)**
+
+摩根大通表示，它正在阻止**Meta**的Muse和Instinct等外部人工智能代理访问客户账户。”
+
+📅 2026-10-13T20:53:57.000Z
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![streamlit ： Streamlit —构建和共享数据应用程序的更快方式。](https://avatars.githubusercontent.com/u/45109972?v=4)
+![tensorflow ：面向所有人的开源机器学习框架](https://avatars.githubusercontent.com/u/15658638?v=4)
 
-**[streamlit ： Streamlit —构建和共享数据应用程序的更快方式。](https://github.com/streamlit/streamlit)**
+**[tensorflow ：面向所有人的开源机器学习框架](https://github.com/tensorflow/tensorflow)**
 
-⭐ 45,972星· 4423分叉· Python · Streamlit —构建和共享数据应用程序的更快方式。
+⭐ 200,935星· 79369分叉· C + + ·面向所有人的**开源**机器学习框架
 
-📅 2026-10-13T20:31:53Z
-
----
-
-### GitHub Active (AI/ML)
-![flower: Flower:友好的联合人工智能框架](https://avatars.githubusercontent.com/u/122113819?v=4)
-
-**[flower: Flower:友好的联合人工智能框架](https://github.com/flwrlabs/flower)**
-
-⭐ 7161星· 1233叉·蟒蛇·花：友好的联合人工智能框架
-
-📅 2026-10-13T20:33:16Z
+📅 2026-10-14T01:36:51Z
 
 ---
 
-### GitHub Active (AI/ML)
-![TransformerEngine ：用于加速NVIDIA GPU上的Transformer模型的库，包括在Hopper、Ada和Blackwell GPU上使用8位和4位浮点（ FP8和FP4 ）精度，以提供更好的性能，同时在训练和推理中降低内存利用率。](https://avatars.githubusercontent.com/u/1728152?v=4)
+### GitHub Active (Python)
+![esphome ： ESPHome是一个系统，通过简单而强大的配置文件控制您的ESP32、ESP8266、BK72xx、RP2040 ，并通过家庭自动化系统远程控制它们。](https://avatars.githubusercontent.com/u/45919759?v=4)
 
-**[TransformerEngine ：用于加速NVIDIA GPU上的Transformer模型的库，包括在Hopper、Ada和Blackwell GPU上使用8位和4位浮点（ FP8和FP4 ）精度，以提供更好的性能，同时在训练和推理中降低内存利用率。](https://github.com/NVIDIA/TransformerEngine)**
+**[esphome ： ESPHome是一个系统，通过简单而强大的配置文件控制您的ESP32、ESP8266、BK72xx、RP2040 ，并通过家庭自动化系统远程控制它们。](https://github.com/esphome/esphome)**
 
-576星· 861分叉· Python ·一个用于在NVIDIA GPU上加速变压器模型的库，可在训练和推理中以更低的内存利用率提供更好的性能
+874星· 5703分叉· C + + · ESPHome是一个系统，通过简单而强大的配置文件控制您的ESP32RP2040 ，并通过家庭自动化系统远程控制它们
 
-📅 2026-10-13T20:33:25Z
+📅 2026-10-14T01:38:40Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 NOWA-Bio-Inspired-AI ：新的生物启发AI](https://avatars.githubusercontent.com/u/85434476?v=4)
+![🆕 Ageatopia ：本地首个多智能体人工智能研究平台，用于研究孤立模拟世界中的自主行为、生存激励、紧急动态和学习。](https://avatars.githubusercontent.com/u/150605201?v=4)
 
-**[🆕 NOWA-Bio-Inspired-AI ：新的生物启发AI](https://github.com/burlakovmb/NOWA-Bio-Inspired-AI)**
+**[🆕 Ageatopia ：本地首个多智能体人工智能研究平台，用于研究孤立模拟世界中的自主行为、生存激励、紧急动态和学习。](https://github.com/DefinetlyNotAI/Ageatopia)**
 
-⭐ 7 star (新项目) · Python · **new** bio inspired AI
+⭐ 3 star (新项目) · Python · A local-first multi-agent AI research platform for studying autonomous behaviorand learning in isolated simulated worlds
 
-📅 2026-10-10T11:24:30Z
+📅 2026-10-11T19:51:40Z
+
+---
+
+### GitHub New (New AI)
+![🆕 awesome-economics-of-ai ：精心策划的人工智能成本、市场、采用和经济影响指南。](https://avatars.githubusercontent.com/u/24366008?v=4)
+
+**[🆕 awesome-economics-of-ai ：精心策划的人工智能成本、市场、采用和经济影响指南。](https://github.com/gautamjajoo/awesome-economics-of-ai)**
+
+⭐ 2 star (新项目) · N/A · A curated guide to the costs, markets, adoption, and economic effects of AI.
+
+📅 2026-10-13T04:56:48Z
 
 ---
 
@@ -321,7 +321,7 @@ Meta**发布**了Muse Wonder ，他们的第一个真正的前沿模型1和**GPT
 
 ---
 
-### Hacker News AI
+### Hacker News
 **[Show HN: Parsimony –人工智能模型添加多少代码的开源基准](https://parsimony.lasu.dev/)**
 
 **GPT**-6和**Claude** 5欢迎任何反馈或模型贡献，特别是新型号的公开补丁导出
@@ -330,30 +330,12 @@ Meta**发布**了Muse Wonder ，他们的第一个真正的前沿模型1和**GPT
 
 ---
 
-### Hacker News AI
-**[显示HN ： Commit-Aware Router ，围绕您的AI/云承诺路由LLM流量](https://github.com/tejaspruthi/CommitAwareRouter)**
-
-企业倾向于在**OpenAI**中设置预付费AI信用额度或商业上限
-
-📅 Tue, 13 Oct 2026 18:34:37 +0000
-
----
-
-### Hacker News AI
-**[Show HN ： Hatoba ，具有AI助手和E2EE同步的开源SSH客户端](https://github.com/scarletkc/Hatoba)**
-
-每个终端旁边都有一个AI助手面板它可以与任何**OpenAI**兼容或**Anthropic** API （包括本地模型）一起使用，并支持技能和MCP服务器
-
-📅 Tue, 13 Oct 2026 18:31:33 +0000
-
----
-
 ### Reddit: r/artificial
-**[您如何评估Alexandr Wang在炒作之外的技术能力和领导能力？](https://www.reddit.com/r/artificial/comments/1x57qox/how_do_you_assess_alexandr_wangs_technical/)**
+**[Epic Games推迟迪士尼射击游戏，要求开发人工智能优先](https://www.reddit.com/r/artificial/comments/1x5934y/epic_games_delays_disney_shooter_mandates_aifirst/)**
 
-我最近看到一份报告称，他声称**Meta** AI正在赶上**GPT** ，这让我想知道实际从事AI工作的人如何评估他我特别感兴趣的是**Meta**或任何与他合作过的人的观点
+Epic Games推迟了一款以漫威和星球大战角色为特色的未经宣布的射击游戏，并命令开发人员使用**Anthropic**的**Claude**采用“人工智能优先”的生产模式
 
-📅 2026-10-13T20:25:18.000Z
+📅 2026-10-13T21:19:09.000Z
 
 ---
 
@@ -373,7 +355,7 @@ Meta**发布**了Muse Wonder ，他们的第一个真正的前沿模型1和**GPT
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-10-13T20:33:20.070Z
+📅 2026-10-14T01:38:20.517Z
 
 ---
 
@@ -382,7 +364,25 @@ Meta**发布**了Muse Wonder ，他们的第一个真正的前沿模型1和**GPT
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-10-13T20:33:28.216Z
+📅 2026-10-14T01:38:25.524Z
+
+---
+
+### Hacker News
+**[OpenAI工程师因窃听高管会议室而被捕](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/)**
+
+com/OpenAI**new**sroom/status/2110095403198849132评论网址： https://**new**sid = 50078141积分： 400 #评论： 348
+
+📅 Tue, 13 Oct 2026 20:23:55 +0000
+
+---
+
+### Reddit: r/artificial
+**[您如何评估Alexandr Wang在炒作之外的技术能力和领导能力？](https://www.reddit.com/r/artificial/comments/1x57qox/how_do_you_assess_alexandr_wangs_technical/)**
+
+我最近看到他关于**Meta**的模型与其他人工智能实验室竞争的评论，这让我很好奇人工智能工作者如何评估他我特别感兴趣的是**Meta**的人或与他一起工作的人
+
+📅 2026-10-13T20:25:18.000Z
 
 ---
 
