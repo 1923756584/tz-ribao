@@ -1,12 +1,12 @@
 ---
 title: "2026年10月14日 - TZ日报"
-date: 2026-10-14T01:39:34.053Z
+date: 2026-10-14T19:15:29.416Z
 draft: false
 ---
 
 # 2026年10月14日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/14 01:39:34
+> 📊 今日汇总 38 条 · 🕐 2026/10/14 19:15:29
 
 ---
 
@@ -21,6 +21,33 @@ draft: false
 ---
 
 ## ✨ 产品更新
+
+### OpenAI Blog
+**[AMP使AI代理能够使用OpenAI模型进行超越代码的工作](https://openai.com/index/amp-beyond-coding)**
+
+了解Amp如何**突破**代理商使用**GPT**-6 Astra、Ultrafast、**GPT**-Live-1和使用Chat**GPT**登录所能做的事情的前沿
+
+📅 Wed, 14 Oct 2026 12:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[SentinelOne将恶意软件分析从数周减少到数小时](https://openai.com/index/sentinelone)**
+
+借助**OpenAI** Daybreak ， SentinelOne将数周的恶意软件分析时间缩短至数小时，从而创建调查更多威胁的能力
+
+📅 Wed, 14 Oct 2026 12:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[Third Moment Research如何在超过36小时的时间内运行10,000名客服代表](https://openai.com/index/third-moment-research)**
+
+借助用于网络安全的**GPT**-6 Astra和**GPT**-61 Sol、Codex和Daybreak ，该人工智能实验室构建了专注于数天并随着使用而改进的代理
+
+📅 Wed, 14 Oct 2026 07:00:00 GMT
+
+---
 
 ### OpenAI Blog
 **[希格斯菲尔德将人工智能视频从1分钟缩短到10分钟以上](https://openai.com/index/higgsfield-longer-videos-voice)**
@@ -43,6 +70,15 @@ Higgsfield通过**GPT**-6 Astra为创作者带来更长的视频，通过**GPT**
 ---
 
 ### DeepMind Blog
+**[谷歌DeepMind与新加坡政府合作构建用于诈骗检测的微调人工智能模型](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/)**
+
+了解**Google** DeepMind和新加坡政府科技公司如何使用轻量级设备上的Gemma模型来拦截私人聊天中的会话诈骗，云数据流出量为零
+
+📅 Wed, 14 Oct 2026 02:00:14 +0000
+
+---
+
+### DeepMind Blog
 **[负责任和安全地开发Gemini 4 Argon](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/)**
 
 负责任和安全地开发**Gemini** 4 Argon
@@ -60,88 +96,25 @@ Higgsfield通过**GPT**-6 Astra为创作者带来更长的视频，通过**GPT**
 
 ---
 
-### TechCrunch AI Products
-**[法官命令OpenAI交出苹果商业机密案件的招聘记录](https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/)**
+### OpenAI Blog
+**[欧盟在人工智能领域的下一篇章是代理](https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic)**
 
-一名联邦法官裁定，苹果可以访问**OpenAI**涉及前苹果员工的采访材料，以及此案中关键人物的私人消息和证词
+新的分析显示，在欧盟企业和小企业中，代理人工智能的采用是如何增长的，以及在哪些方面更深入地使用可以释放更多价值
 
-📅 Tue, 13 Oct 2026 20:36:44 +0000
-
----
-
-### TechCrunch AI Products
-**[Facebook正在让用户更好地控制他们的算法](https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/)**
-
-**Meta**宣布**推出**新的人工智能功能“Your Algorithm” ，这是它**首次**在Instagram上**推出**的功能
-
-📅 Tue, 13 Oct 2026 18:05:24 +0000
-
----
-
-### TechCrunch AI Products
-**[Google Play现在允许任何人构建在Android上运行的私人vibe编码应用程序](https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/)**
-
-**Google**正在简化构建和使用使用AI创建的个人Android应用程序，而无需将其提供给Play商店中的每个人
-
-📅 Tue, 13 Oct 2026 17:00:00 +0000
+📅 Wed, 14 Oct 2026 00:00:00 GMT
 
 ---
 
 ### Hugging Face
-**[使用LFM2.5-24B-A2B在设备上运行快速的专用代理](https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b)**
+**[HiRO-ACEv2 ：以3公里分辨率模拟极端天气，成本仅为原来的一小部分](https://huggingface.co/blog/allenai/hiro-acev2)**
 
-使用LFM2.5-24B-A2B在设备上运行快速的专用代理
+HiRO-ACEv2 ：以3公里分辨率模拟极端天气，成本仅为原来的一小部分
 
-📅 Tue, 13 Oct 2026 17:05:48 GMT
-
----
-
-### TechCrunch AI Products
-**[科学公司将其视力恢复芯片植入其首例Stargardt病患者体内](https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/)**
-
-这位Neuralink的前总裁兼联合创始人在TechCrunch上详细介绍了他的公司与PRIMA的合作如何成为其迈向新型脑机接口（ BCI ）之路的一部分
-
-📅 Tue, 13 Oct 2026 23:13:31 +0000
-
----
-
-### TechCrunch AI Products
-**[Cerebras首席执行官表示，我们即将迎来每个人在家都有个人AI助手的未来](https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/)**
-
-Cerebras首席执行官Andrew Feldman预测，未来个人人工智能助理将像家用电器一样普遍，部分在本地设备上运行，部分在云端运行
-
-📅 Tue, 13 Oct 2026 23:05:34 +0000
+📅 Wed, 14 Oct 2026 16:12:42 GMT
 
 ---
 
 ## 🔬 前沿研究
-
-### ArXiv AI (cs.AI)
-**[MagicBeanStalk ：通过递归数据合成摆脱RLVR零优势陷阱](https://arxiv.org/abs/2610.12659)**
-
-12659v1公告类型：新摘要： RLVR以数据为中心的缩放专注于收集或生成可验证的训练问题跨越8个数学基准， MagicBeanStalk问题上的连续RLVR从61个提高了**GPT**-oss-120b
-
-📅 Tue, 13 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[SWE-Duel ：为编码代理商打造自我扩展竞技场](https://arxiv.org/abs/2610.12569)**
-
-12569v1公告类型：新摘要：静态编码基准固定在第5版， Codex CLI排名第一，是**最强**的求解器，修复98
-
-📅 Tue, 13 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[GeoFitBench-LLM ：评估大型语言模型在地理空间数据需求方面的能力的基准](https://arxiv.org/abs/2610.12669)**
-
-12669v1公告类型：新摘要：大型语言模型正在成为GeoAI系统的核心在最小提示下对七个模型的实验表明，使用**GPT**-5通常可以实现识别必要的资源
-
-📅 Tue, 13 Oct 2026 00:00:00 -0400
-
----
 
 ### Science AI
 **[人工智能更接近于解决黎曼假设，这是数学中最难的问题之一](https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems)**
@@ -170,52 +143,115 @@ Cerebras首席执行官Andrew Feldman预测，未来个人人工智能助理将�
 
 ---
 
-### ArXiv AI (cs.AI)
-**[没有锚点的忠诚：关于特征重要性的可解释AI忠诚度指标的结构性错位的立场文件](https://arxiv.org/abs/2610.12493)**
+### Science AI
+**[如果珊瑚接触到克隆体，它可以从漂白中迅速愈合](https://www.science.org/content/article/coral-can-heal-rapidly-bleaching-if-it-touches-clone)**
 
-12493v1公告类型：新摘要：可解释人工智能（ XAI ）工具通常被用作增加对机器学习模型的信任的方法，通过使其算法的各个方面更易于理解忠诚可以解释为解释与模型之间的近似程度
+藻类输血允许受损的珊瑚在短短4周内重新繁殖
 
-📅 Tue, 13 Oct 2026 00:00:00 -0400
+📅 2026-10-14T02:00:00.000Z
 
 ---
 
-### ArXiv AI (cs.AI)
-**[EliteTable ：可执行文件控制策略的自我改进程序搜索](https://arxiv.org/abs/2610.12536)**
+### Science AI
+**[预测工具能告诉我们谁真正需要抗抑郁药吗？](https://www.science.org/content/article/can-predictive-tools-tell-us-who-really-needs-antidepressants)**
 
-12536v1公告类型：新摘要： EliteTable是一种由大型语言模型（ LLM ）引导的自我改进的程序搜索算法，它使用高分解决方案的固定容量表来指导新提案程序搜索过程中的结果文档改进以及将选定的获胜者收益转移到某些任务中的新剧集
+在“抑制”的热潮中，研究人员正在寻找将患者与最佳治疗相匹配的新方法
 
-📅 Tue, 13 Oct 2026 00:00:00 -0400
+📅 2026-10-14T10:35:00.000Z
+
+---
+
+### Science AI
+**[山顶微波天文台将凝视婴儿宇宙](https://www.science.org/content/article/simons-observatory-takes-closer-look-infant-universe)**
+
+智利的西蒙斯天文台将寻找星系团和宇宙膨胀的迹象
+
+📅 2026-10-14T05:00:00.000Z
+
+---
+
+### Science AI
+**[今年的“超级”厄尔尼诺现象可能会在全球范围内造成生态破坏](https://www.science.org/content/article/year-s-super-el-nino-could-wreak-ecological-havoc-worldwide)**
+
+生态学家正在动员起来拯救受威胁的物种，并跟踪生态系统的反应以记录热量
+
+📅 2026-10-13T05:15:00.000Z
+
+---
+
+### Science AI
+**[特朗普对美国科学的新“黄金时代”表示赞赏](https://www.science.org/content/article/trump-takes-credit-new-golden-age-u-s-science)**
+
+行业重量级人物获得总统颁发的首批国家科学奖章
+
+📅 2026-10-13T03:25:00.000Z
 
 ---
 
 ## 🌍 行业展望
 
-### The Information Technology
-**[OpenAI在出货下一款旗舰机型前争先恐后地解决安全问题](https://www.theinformation.com/articles/openai-scrambles-fix-safety-issues-shipping-next-flagship-model)**
-
-**OpenAI**正在努力应对其在人工智能设计中使用有争议的创新所带来的后果，因为它正在努力将其下一个未**发布**的模型推向一个领导者认为可以安全**发布**它的地方，但微软上周意外确认**OpenAI**在AI公司最先进的商用模型之一中使用它
-
-📅 2026-10-13T19:51:54.000Z
-
----
-
-### Wired Technology
-**[OpenAI和Anthropic告诉英国立法者：监管我们](https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/)**
-
-人工智能领导人与举报人和安全领导人一起参加了一场全面的议会会议，而几百米外的英国间谍负责人警告说，人工智能可能被用来制造新的生物武器
-
-📅 Tue, 13 Oct 2026 19:35:29 +0000
-
----
-
 ### The Verge
-![我不会错过雷朋Meta Audio眼镜的相机](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/rayban_meta_audio_12.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![人工智能竞赛又开始了](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[我不会错过雷朋Meta Audio眼镜的相机](https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables)**
+**[人工智能竞赛又开始了](https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on)**
 
-然后问我的Ray-Ban **Meta** A**Udio**眼镜我的日历上有什么会议Chipper AI声音说我还没有连接我的**Google**日历（我有） ，并问我是否需要帮助连接
+**Anthropic**和**OpenAI**看起来像是人工智能竞赛**Google**和**Meta**都**推出**了他们声称可以与**OpenAI**和**Anthropic**的最佳产品齐头并进的前沿模型
 
-📅 2026-10-13T18:00:00.000Z
+📅 2026-10-14T19:06:03.000Z
+
+---
+
+### The Information Technology
+**[独家： Nvidia和ChipAgents推出人工智能芯片设计评估](https://www.theinformation.com/briefings/exclusive-nvidia-chipagents-launch-evaluation-ai-powered-chip-design)**
+
+周三**发布**了一个基准，该基准衡量不同人工智能模型在任务中的表现1在新**发布**的评估中为表现最佳的人工智能代理提供支持，但仅获得16分
+
+📅 2026-10-14T15:10:46.000Z
+
+---
+
+### Ars Technica
+**[研究人员说， OpenAI ，谷歌推动新的人工智能模型很容易被欺骗来制作裸体](https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/)**
+
+攻击方法暴露了**OpenAI**、**Google**针对AI裸体的防护措施中的缺陷。
+
+📅 Wed, 14 Oct 2026 11:00:30 +0000
+
+---
+
+### The Information Technology
+**[OpenAI指责前员工将机密信息带给苹果](https://www.theinformation.com/briefings/openai-accuses-former-employee-taking-confidential-information-apple)**
+
+**OpenAI**指控一名前员工与苹果高管分享公司未**发布**的设备计划，这一指控与苹果在7月份对iPhone制造商提起的诉讼中对**OpenAI**提出的指控相呼应。在周三上午提交的一份文件中， **OpenAI**声称这名未透露姓名的前员工加入了
+
+📅 2026-10-14T18:13:21.000Z
+
+---
+
+### The Information Technology
+**[OpenAI的数学突破摇铃密码学领导者](https://www.theinformation.com/articles/openais-math-breakthroughs-rattle-cryptography-leaders)**
+
+**OpenAI**上周二**发布**了300多个数学结果，称解决的内部模型引发了一些世界领先的密码学家的担忧**OpenAI**和其他AI模型
+
+📅 2026-10-14T14:00:59.000Z
+
+---
+
+### The Information Technology
+**[Microsoft探索在Azure云单元中降低成本的方法](https://www.theinformation.com/briefings/microsoft-explores-ways-cut-costs-azure-cloud-unit)**
+
+微软已讨论在其Azure云部门大幅降低成本， The Information周二晚些时候报道微软Azure云部门总裁
+
+📅 2026-10-14T07:52:37.000Z
+
+---
+
+### The Information Technology
+**[Anthropic Strikes Licensing ，与人工智能安全初创公司达成收购协议](https://www.theinformation.com/briefings/anthropic-strikes-licensing-acqui-hire-deal-ai-security-startup)**
+
+**Anthropic**已达成协议，从Opaque Systems （一家成立五年的初创公司）获得技术许可并聘请一些工程师，该公司销售用于保护机密数据以供人工智能代理使用的软件
+
+📅 2026-10-14T07:24:18.000Z
 
 ---
 
@@ -228,125 +264,71 @@ Cerebras首席执行官Andrew Feldman预测，未来个人人工智能助理将�
 
 ---
 
-### The Information Technology
-**[OpenAI收购有望推动网络安全业务](https://www.theinformation.com/articles/openai-early-talks-buy-security-startup-trail-bits)**
-
-**OpenAI****OpenAI**有时会以股票的形式支付数亿美元的低价收购小型创业公司，尽管它有时会支付更少的
-
-📅 2026-10-13T22:07:44.000Z
-
----
-
-### The Information Technology
-**[微软云总裁要求领导者实现20%的成本削减](https://www.theinformation.com/articles/microsoft-cloud-president-asks-leaders-find-20-cost-cuts)**
-
-微软已经讨论了大幅降低其Azure云服务器租赁单元的成本，这表明微软的数据中心支出对其财务状况的压力有多大
-
-📅 2026-10-13T21:42:44.000Z
-
----
-
-### The Information Technology
-**[OpenAI员工因涉嫌安装Office监听设备而被捕](https://www.theinformation.com/briefings/openai-employee-arrested-allegedly-installing-office-listening-device)**
-
-司法部周二表示， **OpenAI**雇佣了一名
-
-📅 2026-10-13T21:22:50.000Z
-
----
-
-### The Information Technology
-**[摩根大通阻止外部人工智能代理访问客户账户](https://www.theinformation.com/briefings/jpmorgan-blocks-external-ai-agents-accessing-client-accounts)**
-
-摩根大通表示，它正在阻止**Meta**的Muse和Instinct等外部人工智能代理访问客户账户。”
-
-📅 2026-10-13T20:53:57.000Z
-
----
-
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![tensorflow ：面向所有人的开源机器学习框架](https://avatars.githubusercontent.com/u/15658638?v=4)
+![ai-engineering-from-scratch ：学习人工智能工程！学习它，构建它。为其他人运送。](https://avatars.githubusercontent.com/u/48523873?v=4)
 
-**[tensorflow ：面向所有人的开源机器学习框架](https://github.com/tensorflow/tensorflow)**
+**[ai-engineering-from-scratch ：学习人工智能工程！学习它，构建它。为其他人运送。](https://github.com/rohitg00/ai-engineering-from-scratch)**
 
-⭐ 200,935星· 79369分叉· C + + ·面向所有人的**开源**机器学习框架
+⭐ 69,070星· 12099叉·蟒蛇·学习AI工程！学习它，构建它。为其他人运送。
 
-📅 2026-10-14T01:36:51Z
+📅 2026-10-14T19:12:42Z
+
+---
+
+### GitHub Active (AI/ML)
+![人工智能-深度学习-机器学习-教程： Synapsa Commons ：在任何地方运行的免费动手AI课程（ Colab、Kaggle、Binder、Codespaces、Jupyter ）。欧盟人工智能法案合规性证据、模型验证、预测性维护、文档提取、检索和RAG、人工智能代理和MCP （模拟人形）。每节课都会自动评分。来自团队建设Synapsa。](https://avatars.githubusercontent.com/u/7202199?v=4)
+
+**[人工智能-深度学习-机器学习-教程： Synapsa Commons ：在任何地方运行的免费动手AI课程（ Colab、Kaggle、Binder、Codespaces、Jupyter ）。欧盟人工智能法案合规性证据、模型验证、预测性维护、文档提取、检索和RAG、人工智能代理和MCP （模拟人形）。每节课都会自动评分。来自团队建设Synapsa。](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials)**
+
+欧盟人工智能法案合规性证据预测性维护
+
+📅 2026-10-14T19:13:09Z
+
+---
+
+### GitHub Active (AI/ML)
+![pykeen 🤖 ：学习和评估知识图嵌入的Python库](https://avatars.githubusercontent.com/u/43989205?v=4)
+
+**[pykeen 🤖 ：学习和评估知识图嵌入的Python库](https://github.com/pykeen/pykeen)**
+
+⭐ 2,044星· 228分叉· Python ·🤖用于学习和评估知识图嵌入的Python库
+
+📅 2026-10-14T19:14:03Z
 
 ---
 
 ### GitHub Active (Python)
-![esphome ： ESPHome是一个系统，通过简单而强大的配置文件控制您的ESP32、ESP8266、BK72xx、RP2040 ，并通过家庭自动化系统远程控制它们。](https://avatars.githubusercontent.com/u/45919759?v=4)
+![otari ：您自己运行的开源、OpenAI兼容的LLM网关。一个端点可供40多家提供商使用，包括虚拟密钥、预算和使用情况跟踪。](https://avatars.githubusercontent.com/u/129804596?v=4)
 
-**[esphome ： ESPHome是一个系统，通过简单而强大的配置文件控制您的ESP32、ESP8266、BK72xx、RP2040 ，并通过家庭自动化系统远程控制它们。](https://github.com/esphome/esphome)**
+**[otari ：您自己运行的开源、OpenAI兼容的LLM网关。一个端点可供40多家提供商使用，包括虚拟密钥、预算和使用情况跟踪。](https://github.com/mozilla-ai/otari)**
 
-874星· 5703分叉· C + + · ESPHome是一个系统，通过简单而强大的配置文件控制您的ESP32RP2040 ，并通过家庭自动化系统远程控制它们
+⭐ 520星· 64分叉· Python ·您自己运行的**开源**、兼容**OpenAI**的LLM网关一个可供40多家提供商使用的端点，具有虚拟密钥、预算和使用跟踪功能
 
-📅 2026-10-14T01:38:40Z
-
----
-
-### GitHub New (New AI)
-![🆕 Ageatopia ：本地首个多智能体人工智能研究平台，用于研究孤立模拟世界中的自主行为、生存激励、紧急动态和学习。](https://avatars.githubusercontent.com/u/150605201?v=4)
-
-**[🆕 Ageatopia ：本地首个多智能体人工智能研究平台，用于研究孤立模拟世界中的自主行为、生存激励、紧急动态和学习。](https://github.com/DefinetlyNotAI/Ageatopia)**
-
-⭐ 3 star (新项目) · Python · A local-first multi-agent AI research platform for studying autonomous behaviorand learning in isolated simulated worlds
-
-📅 2026-10-11T19:51:40Z
-
----
-
-### GitHub New (New AI)
-![🆕 awesome-economics-of-ai ：精心策划的人工智能成本、市场、采用和经济影响指南。](https://avatars.githubusercontent.com/u/24366008?v=4)
-
-**[🆕 awesome-economics-of-ai ：精心策划的人工智能成本、市场、采用和经济影响指南。](https://github.com/gautamjajoo/awesome-economics-of-ai)**
-
-⭐ 2 star (新项目) · N/A · A curated guide to the costs, markets, adoption, and economic effects of AI.
-
-📅 2026-10-13T04:56:48Z
+📅 2026-10-14T19:14:18Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[Manus刚刚给了人工智能代理自己的电话号码和数字钱包。这比本周发布的任何型号都要大。](https://www.reddit.com/r/artificial/comments/1x526jk/manus_just_gave_ai_agents_their_own_phone_numbers/)**
+![谷歌自己的基准测试显示，双子座在编码方面击败了Opus……在编码方面也输给了Opus](https://preview.redd.it/h15awd9obgvh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8298809da042a6c23f4656662985d7eccfc8b89b)
 
-Meta**发布**了Muse Wonder ，他们的第一个真正的前沿模型1和**GPT**-6 Astra ，每百万代币售价约为4美元和20美元
+**[谷歌自己的基准测试显示，双子座在编码方面击败了Opus……在编码方面也输给了Opus](https://www.reddit.com/r/artificial/comments/1x5uai6/googles_own_benchmarks_say_gemini_beats_opus_at/)**
 
-📅 2026-10-13T17:00:09.000Z
+正在查看谷歌的**Gemini** 4 Argon基准测试，一些东西吸引了我的注意力，相同的模型，非常不同的结果取决于它们正在测试的内容
 
----
-
-### Hacker News
-**[Show HN: Parsimony –人工智能模型添加多少代码的开源基准](https://parsimony.lasu.dev/)**
-
-**GPT**-6和**Claude** 5欢迎任何反馈或模型贡献，特别是新型号的公开补丁导出
-
-📅 Tue, 13 Oct 2026 19:50:31 +0000
+📅 2026-10-14T15:30:08.000Z
 
 ---
 
 ### Reddit: r/artificial
-**[Epic Games推迟迪士尼射击游戏，要求开发人工智能优先](https://www.reddit.com/r/artificial/comments/1x5934y/epic_games_delays_disney_shooter_mandates_aifirst/)**
+**[GPTrepublic —寻找社区驱动的人工智能网络的测试人员](https://www.reddit.com/r/artificial/comments/1x5qdsh/gptrepublic_looking_for_testers_for_a/)**
 
-Epic Games推迟了一款以漫威和星球大战角色为特色的未经宣布的射击游戏，并命令开发人员使用**Anthropic**的**Claude**采用“人工智能优先”的生产模式
+我正在构建**GPT**republic ：一个免费的项目，人们分享他们的一些GPU资源，以便在多台计算机上一起运行AI模型我们将从一个小文本模型开始，并测试连接
 
-📅 2026-10-13T21:19:09.000Z
-
----
-
-### Reddit: r/artificial
-![谷歌首席执行官宣布Gemini 4 Argon发布： “在过去的几周里，我们的团队和早期合作伙伴已经让Argon解决了一些最苛刻的挑战：现代化庞大的代码库，加快模型推断，加速量子计算和生命科学的突破。”](https://external-preview.redd.it/gloPWVVwktBs--AejF8Y-41KESMPvKX2zIJxdirNGw8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1bb7401f9cca174ee48ca623e20e997c43d0c81d)
-
-**[谷歌首席执行官宣布Gemini 4 Argon发布： “在过去的几周里，我们的团队和早期合作伙伴已经让Argon解决了一些最苛刻的挑战：现代化庞大的代码库，加快模型推断，加速量子计算和生命科学的突破。”](https://www.reddit.com/r/artificial/comments/1x51jt3/google_ceo_announces_gemini_4_argon_release_over/)**
-
-提交者/u/LinkedIn**new**s [link] [comments]
-
-📅 2026-10-13T16:36:58.000Z
+📅 2026-10-14T12:50:43.000Z
 
 ---
 
@@ -355,34 +337,56 @@ Epic Games推迟了一款以漫威和星球大战角色为特色的未经宣布�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-10-14T01:38:20.517Z
-
----
-
-### X: DeepSeek
-**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
-
-网址来源： http://twitter.com/**DeepSeek**_ai
-
-📅 2026-10-14T01:38:25.524Z
+📅 2026-10-14T19:14:13.022Z
 
 ---
 
 ### Hacker News
-**[OpenAI工程师因窃听高管会议室而被捕](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/)**
+**[Show HN ： Petal ，开源CoScreen/ScreenHero终于免费了](https://petal.live/)**
 
-com/OpenAI**new**sroom/status/2110095403198849132评论网址： https://**new**sid = 50078141积分： 400 #评论： 348
+我们中的四个人来自最初的CoScreen团队，他们花了几个月的时间构建了一个免费的**开源**配对编程工具，灵感来自我们之前的工具：它名为Petal （ https://githubMulti （前身为Remotion ）于2024年被**OpenAI**收购，并在大约一个月后关闭
 
-📅 Tue, 13 Oct 2026 20:23:55 +0000
+📅 Wed, 14 Oct 2026 18:23:14 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[您如何评估Alexandr Wang在炒作之外的技术能力和领导能力？](https://www.reddit.com/r/artificial/comments/1x57qox/how_do_you_assess_alexandr_wangs_technical/)**
+![Gemini 4 Argon显然构建了这款游戏。AI Studio正在展示它。](https://external-preview.redd.it/bW9jdXh1bmNjaHZoMaGj6BAFIRL1IRASqjnKh_fK5-pPiikicfqwlSpbzCgI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=23307fdec0437bd9b5fdec6fbefa046e05822b27)
 
-我最近看到他关于**Meta**的模型与其他人工智能实验室竞争的评论，这让我很好奇人工智能工作者如何评估他我特别感兴趣的是**Meta**的人或与他一起工作的人
+**[Gemini 4 Argon显然构建了这款游戏。AI Studio正在展示它。](https://www.reddit.com/r/artificial/comments/1x5zs1r/gemini_4_argon_apparently_built_this_game_ai/)**
 
-📅 2026-10-13T20:25:18.000Z
+提交者/u/fasildar55 [link] [comments]
+
+📅 2026-10-14T18:56:00.000Z
+
+---
+
+### Reddit: r/artificial
+![AI奥德赛-第3部分“克劳德与镜子”](https://preview.redd.it/65iis213vfvh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e08c25bc842c1c85f4b375b24289b76ff04cbcf1)
+
+**[AI奥德赛-第3部分“克劳德与镜子”](https://www.reddit.com/r/artificial/comments/1x5rwz4/ai_odyssey_part_3_claude_and_the_mirror/)**
+
+（亲爱的读者：请记住-这是一个关于一个人对几年前与克劳德第一次互动的反应的故事–而不是对人工智能意识的主张） （第4部分……精灵克劳德）由/u/AIChatGuy提交[链接] [评论]
+
+📅 2026-10-14T13:57:07.000Z
+
+---
+
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Title: 520: Web服务器返回未知错误
+
+📅 2026-10-14T19:14:13.022Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误520 ：未知
+
+📅 2026-10-14T19:14:13.022Z
 
 ---
 
