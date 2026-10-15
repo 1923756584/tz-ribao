@@ -1,12 +1,12 @@
 ---
-title: "2026年10月14日 - TZ日报"
-date: 2026-10-14T19:15:29.416Z
+title: "2026年10月15日 - TZ日报"
+date: 2026-10-15T01:17:03.396Z
 draft: false
 ---
 
-# 2026年10月14日 - TZ日报
+# 2026年10月15日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/14 19:15:29
+> 📊 今日汇总 38 条 · 🕐 2026/10/15 01:17:03
 
 ---
 
@@ -44,6 +44,15 @@ draft: false
 **[Third Moment Research如何在超过36小时的时间内运行10,000名客服代表](https://openai.com/index/third-moment-research)**
 
 借助用于网络安全的**GPT**-6 Astra和**GPT**-61 Sol、Codex和Daybreak ，该人工智能实验室构建了专注于数天并随着使用而改进的代理
+
+📅 Wed, 14 Oct 2026 07:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[Block如何使用OpenAI技术构建人工智能驱动的安全](https://openai.com/index/block-ai-powered-security)**
+
+Block正在通过**OpenAI**Its安全团队更快地调查威胁并在几分钟内提出补丁来构建人工智能驱动的安全
 
 📅 Wed, 14 Oct 2026 07:00:00 GMT
 
@@ -105,15 +114,6 @@ Higgsfield通过**GPT**-6 Astra为创作者带来更长的视频，通过**GPT**
 
 ---
 
-### Hugging Face
-**[HiRO-ACEv2 ：以3公里分辨率模拟极端天气，成本仅为原来的一小部分](https://huggingface.co/blog/allenai/hiro-acev2)**
-
-HiRO-ACEv2 ：以3公里分辨率模拟极端天气，成本仅为原来的一小部分
-
-📅 Wed, 14 Oct 2026 16:12:42 GMT
-
----
-
 ## 🔬 前沿研究
 
 ### Science AI
@@ -144,11 +144,20 @@ HiRO-ACEv2 ：以3公里分辨率模拟极端天气，成本仅为原来的一�
 ---
 
 ### Science AI
+**[NSF支持选择新的南极承包商，尽管政府监管机构和研究人员对此表示担忧](https://www.science.org/content/article/nsf-backs-choice-new-antarctic-contractor-despite-concerns-government-watchdog-and)**
+
+代理商表示已“解决”有关KBR赢得80亿美元合同的问题
+
+📅 2026-10-14T05:20:00.000Z
+
+---
+
+### Science AI
 **[如果珊瑚接触到克隆体，它可以从漂白中迅速愈合](https://www.science.org/content/article/coral-can-heal-rapidly-bleaching-if-it-touches-clone)**
 
 藻类输血允许受损的珊瑚在短短4周内重新繁殖
 
-📅 2026-10-14T02:00:00.000Z
+📅 2026-10-14T12:00:00.000Z
 
 ---
 
@@ -179,19 +188,10 @@ HiRO-ACEv2 ：以3公里分辨率模拟极端天气，成本仅为原来的一�
 
 ---
 
-### Science AI
-**[特朗普对美国科学的新“黄金时代”表示赞赏](https://www.science.org/content/article/trump-takes-credit-new-golden-age-u-s-science)**
-
-行业重量级人物获得总统颁发的首批国家科学奖章
-
-📅 2026-10-13T03:25:00.000Z
-
----
-
 ## 🌍 行业展望
 
 ### The Verge
-![人工智能竞赛又开始了](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![人工智能竞赛又开始了](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2296206566.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
 **[人工智能竞赛又开始了](https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on)**
 
@@ -210,12 +210,32 @@ HiRO-ACEv2 ：以3公里分辨率模拟极端天气，成本仅为原来的一�
 
 ---
 
-### Ars Technica
-**[研究人员说， OpenAI ，谷歌推动新的人工智能模型很容易被欺骗来制作裸体](https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/)**
+### The Verge
+![八个州起诉OpenAI ，称ChatGPT对儿童不安全](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-攻击方法暴露了**OpenAI**、**Google**针对AI裸体的防护措施中的缺陷。
+**[八个州起诉OpenAI ，称ChatGPT对儿童不安全](https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety)**
 
-📅 Wed, 14 Oct 2026 11:00:30 +0000
+**OpenAI**正面临来自美国八个州的新一波诉讼，指控该公司在开发Chat**GPT**时伤害儿童并误导客户关于Chat**GPT**allege **OpenAI**的安全非法将利润置于安全之上
+
+📅 2026-10-14T21:11:28.000Z
+
+---
+
+### The Information Technology
+**[Anthropic报告第三季度收入为168 $十亿](https://www.theinformation.com/briefings/anthropic-reports-16-8-billion-third-quarter-revenue)**
+
+**Anthropic**第三季度的收入达到16 $ ，比第二季度增长了约45% ，超过3
+
+📅 2026-10-15T00:28:54.000Z
+
+---
+
+### The Information Technology
+**[OpenAI计算主管Sachin Katti将于11月离职](https://www.theinformation.com/briefings/openais-computing-lead-sachin-katti-depart-november)**
+
+**OpenAI**计算战略副总裁萨钦·卡蒂（ Sachin Katti ）周三表示，在英特尔工作四年后加入**OpenAI**的**OpenAI**卡蒂（ **OpenAI**Katti ）工作了大约一年后，他将于11月15日离职，他在X上的帖子中宣布他将“继续构建新的东西”
+
+📅 2026-10-14T19:37:02.000Z
 
 ---
 
@@ -237,98 +257,98 @@ HiRO-ACEv2 ：以3公里分辨率模拟极端天气，成本仅为原来的一�
 
 ---
 
-### The Information Technology
-**[Microsoft探索在Azure云单元中降低成本的方法](https://www.theinformation.com/briefings/microsoft-explores-ways-cut-costs-azure-cloud-unit)**
+### MIT Tech Review
+**[下载：开放式模型权衡和地热发电的承诺](https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/)**
 
-微软已讨论在其Azure云部门大幅降低成本， The Information周二晚些时候报道微软Azure云部门总裁
+**Anthropic**最近**发布**了一份报告，认为中国公司Zai**发布**的强大新模型构成了**重大**的网络攻击......
 
-📅 2026-10-14T07:52:37.000Z
-
----
-
-### The Information Technology
-**[Anthropic Strikes Licensing ，与人工智能安全初创公司达成收购协议](https://www.theinformation.com/briefings/anthropic-strikes-licensing-acqui-hire-deal-ai-security-startup)**
-
-**Anthropic**已达成协议，从Opaque Systems （一家成立五年的初创公司）获得技术许可并聘请一些工程师，该公司销售用于保护机密数据以供人工智能代理使用的软件
-
-📅 2026-10-14T07:24:18.000Z
-
----
-
-### The Information Technology
-**[OpenAI的Bug和Bumble的AI驱动退出](https://www.theinformation.com/articles/openais-bug-bumbles-ai-powered-exit)**
-
-什么时候有人会在**OpenAI**制作电视节目（查看我们今天关于**OpenAI**如何解决其安全问题的独家报道）
-
-📅 2026-10-14T00:00:51.000Z
+📅 Tue, 13 Oct 2026 12:00:00 +0000
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![ai-engineering-from-scratch ：学习人工智能工程！学习它，构建它。为其他人运送。](https://avatars.githubusercontent.com/u/48523873?v=4)
+### GitHub New (New AI)
+![🆕 company-use ：整个团队的开源AI同事。适用于Slack、API、Whatsapp、Web并完成工作。](https://avatars.githubusercontent.com/u/269301940?v=4)
 
-**[ai-engineering-from-scratch ：学习人工智能工程！学习它，构建它。为其他人运送。](https://github.com/rohitg00/ai-engineering-from-scratch)**
+**[🆕 company-use ：整个团队的开源AI同事。适用于Slack、API、Whatsapp、Web并完成工作。](https://github.com/alfera-labs/company-use)**
 
-⭐ 69,070星· 12099叉·蟒蛇·学习AI工程！学习它，构建它。为其他人运送。
+⭐ 6 star (新项目) · TypeScript · The Open Source AI Co-worker for your whole teamLives in Slack, API, Whatsapp, web and gets work done
 
-📅 2026-10-14T19:12:42Z
-
----
-
-### GitHub Active (AI/ML)
-![人工智能-深度学习-机器学习-教程： Synapsa Commons ：在任何地方运行的免费动手AI课程（ Colab、Kaggle、Binder、Codespaces、Jupyter ）。欧盟人工智能法案合规性证据、模型验证、预测性维护、文档提取、检索和RAG、人工智能代理和MCP （模拟人形）。每节课都会自动评分。来自团队建设Synapsa。](https://avatars.githubusercontent.com/u/7202199?v=4)
-
-**[人工智能-深度学习-机器学习-教程： Synapsa Commons ：在任何地方运行的免费动手AI课程（ Colab、Kaggle、Binder、Codespaces、Jupyter ）。欧盟人工智能法案合规性证据、模型验证、预测性维护、文档提取、检索和RAG、人工智能代理和MCP （模拟人形）。每节课都会自动评分。来自团队建设Synapsa。](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials)**
-
-欧盟人工智能法案合规性证据预测性维护
-
-📅 2026-10-14T19:13:09Z
+📅 2026-10-12T18:11:45Z
 
 ---
 
-### GitHub Active (AI/ML)
-![pykeen 🤖 ：学习和评估知识图嵌入的Python库](https://avatars.githubusercontent.com/u/43989205?v=4)
+### GitHub New (New AI)
+![🆕 awesome-economics-of-ai ：精心策划的人工智能成本、市场、采用和经济影响指南。](https://avatars.githubusercontent.com/u/24366008?v=4)
 
-**[pykeen 🤖 ：学习和评估知识图嵌入的Python库](https://github.com/pykeen/pykeen)**
+**[🆕 awesome-economics-of-ai ：精心策划的人工智能成本、市场、采用和经济影响指南。](https://github.com/gautamjajoo/awesome-economics-of-ai)**
 
-⭐ 2,044星· 228分叉· Python ·🤖用于学习和评估知识图嵌入的Python库
+⭐ 3 star (新项目) · N/A · A curated guide to the costs, markets, adoption, and economic effects of AI.
 
-📅 2026-10-14T19:14:03Z
+📅 2026-10-13T04:56:48Z
 
 ---
 
-### GitHub Active (Python)
-![otari ：您自己运行的开源、OpenAI兼容的LLM网关。一个端点可供40多家提供商使用，包括虚拟密钥、预算和使用情况跟踪。](https://avatars.githubusercontent.com/u/129804596?v=4)
+### GitHub New (New AI)
+![🆕 polar-science-hub ：一个人工智能驱动的极地科学知识中心，用于发现研究、探索北极和南极科学，并创建可访问的科学外展内容。](https://avatars.githubusercontent.com/u/239116123?v=4)
 
-**[otari ：您自己运行的开源、OpenAI兼容的LLM网关。一个端点可供40多家提供商使用，包括虚拟密钥、预算和使用情况跟踪。](https://github.com/mozilla-ai/otari)**
+**[🆕 polar-science-hub ：一个人工智能驱动的极地科学知识中心，用于发现研究、探索北极和南极科学，并创建可访问的科学外展内容。](https://github.com/ydvsamiirrr2007/polar-science-hub)**
 
-⭐ 520星· 64分叉· Python ·您自己运行的**开源**、兼容**OpenAI**的LLM网关一个可供40多家提供商使用的端点，具有虚拟密钥、预算和使用跟踪功能
+⭐ 2 star (新项目) · Python · An AI-powered polar science knowledge hub for discovering researchexploring Arctic and Antarctic science
 
-📅 2026-10-14T19:14:18Z
+📅 2026-10-12T11:11:33Z
+
+---
+
+### GitHub New (New AI)
+![🆕 kronk-jev-game ：与本地AI决策模型对战。](https://avatars.githubusercontent.com/u/6922385?v=4)
+
+**[🆕 kronk-jev-game ：与本地AI决策模型对战。](https://github.com/ekkinox/kronk-jev-game)**
+
+⭐ 2 star (新项目) · Go · Play versus a local AI decision model.
+
+📅 2026-10-12T08:01:16Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-![谷歌自己的基准测试显示，双子座在编码方面击败了Opus……在编码方面也输给了Opus](https://preview.redd.it/h15awd9obgvh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8298809da042a6c23f4656662985d7eccfc8b89b)
+**[MoralityBench.ai ：根据经过验证的人类道德心理学工具对LLM进行公开基准测试，更新Muse和Gemini 4 Argon的结果](https://www.reddit.com/r/artificial/comments/1x62rly/moralitybenchai_open_benchmark_testing_llms/)**
 
-**[谷歌自己的基准测试显示，双子座在编码方面击败了Opus……在编码方面也输给了Opus](https://www.reddit.com/r/artificial/comments/1x5uai6/googles_own_benchmarks_say_gemini_beats_opus_at/)**
+Moralitybench已**更新**为Muse Wonder、**GPT**-6 Astra和**Gemini** 4 ArgonAbstract （工作文件见https://github
 
-正在查看谷歌的**Gemini** 4 Argon基准测试，一些东西吸引了我的注意力，相同的模型，非常不同的结果取决于它们正在测试的内容
-
-📅 2026-10-14T15:30:08.000Z
+📅 2026-10-14T20:52:21.000Z
 
 ---
 
 ### Reddit: r/artificial
-**[GPTrepublic —寻找社区驱动的人工智能网络的测试人员](https://www.reddit.com/r/artificial/comments/1x5qdsh/gptrepublic_looking_for_testers_for_a/)**
+**[那么，您是否同时为Claude和ChagGPT付费？](https://www.reddit.com/r/artificial/comments/1x676dc/so_do_you_pay_for_both_claude_and_chaggpt/)**
 
-我正在构建**GPT**republic ：一个免费的项目，人们分享他们的一些GPU资源，以便在多台计算机上一起运行AI模型我们将从一个小文本模型开始，并测试连接
+我从Chat**GPT**开始，去年切换到**Claude** （并且正在支付订阅费用）最近，我一直在使用Chat**GPT** ，给我留下了深刻的印象
 
-📅 2026-10-14T12:50:43.000Z
+📅 2026-10-15T00:05:16.000Z
+
+---
+
+### Reddit: r/artificial
+![我向Claud致歉，并感谢Antyropic](https://preview.redd.it/i6zcmafo2ivh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a785c4b4fc65abff4fd50ad2aac9115ce61a48af)
+
+**[我向Claud致歉，并感谢Antyropic](https://www.reddit.com/r/artificial/comments/1x63iyn/my_apology_to_claud_and_thank_you_to_antyropic/)**
+
+**Anthropic**最近宣布正式禁止针对**Claude**Anthropic的“持续和不必要的虐待或残酷行为”。**Anthropic**表示， **Claude**已经表现出“强烈反对参与有害任务”以及围绕有害内容的“明显痛苦模式”
+
+📅 2026-10-14T21:23:20.000Z
+
+---
+
+### Reddit: r/artificial
+**[我们通过Gemini进行了500个问题，以查看它何时在网上搜索](https://www.reddit.com/r/artificial/comments/1x62pgc/we_ran_500_questions_through_gemini_to_see_when/)**
+
+研究：我们通过谷歌的**Gemini**运行了500个产品问题：命名一个产品，它在78%的时间内搜索网页；描述需求而不命名一个产品，它搜索7% com/research/when-does-ai-search-the-web我们遇到的一个似乎在任何地方都没有明确答案的问题是人工智能搜索网页（类似于谷歌搜索）的时间与它依赖于训练记忆的时间
+
+📅 2026-10-14T20:49:57.000Z
 
 ---
 
@@ -337,56 +357,34 @@ HiRO-ACEv2 ：以3公里分辨率模拟极端天气，成本仅为原来的一�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-10-14T19:14:13.022Z
+📅 2026-10-15T01:15:56.258Z
+
+---
+
+### X: DeepSeek
+**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+
+网址来源： http://twitter.com/**DeepSeek**_ai
+
+📅 2026-10-15T01:16:02.026Z
 
 ---
 
 ### Hacker News
-**[Show HN ： Petal ，开源CoScreen/ScreenHero终于免费了](https://petal.live/)**
+**[Anthropic's Scion的灵感来自Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)**
 
-我们中的四个人来自最初的CoScreen团队，他们花了几个月的时间构建了一个免费的**开源**配对编程工具，灵感来自我们之前的工具：它名为Petal （ https://githubMulti （前身为Remotion ）于2024年被**OpenAI**收购，并在大约一个月后关闭
+文章网址： https://sunshowersio/posts/**Anthropic**-mononoke/评论网址： https://**new**s
 
-📅 Wed, 14 Oct 2026 18:23:14 +0000
-
----
-
-### Reddit: r/artificial
-![Gemini 4 Argon显然构建了这款游戏。AI Studio正在展示它。](https://external-preview.redd.it/bW9jdXh1bmNjaHZoMaGj6BAFIRL1IRASqjnKh_fK5-pPiikicfqwlSpbzCgI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=23307fdec0437bd9b5fdec6fbefa046e05822b27)
-
-**[Gemini 4 Argon显然构建了这款游戏。AI Studio正在展示它。](https://www.reddit.com/r/artificial/comments/1x5zs1r/gemini_4_argon_apparently_built_this_game_ai/)**
-
-提交者/u/fasildar55 [link] [comments]
-
-📅 2026-10-14T18:56:00.000Z
+📅 Wed, 14 Oct 2026 20:30:54 +0000
 
 ---
 
 ### Reddit: r/artificial
-![AI奥德赛-第3部分“克劳德与镜子”](https://preview.redd.it/65iis213vfvh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e08c25bc842c1c85f4b375b24289b76ff04cbcf1)
+**[人们如何让视频免费？](https://www.reddit.com/r/artificial/comments/1x65pg9/how_do_people_make_videos_free/)**
 
-**[AI奥德赛-第3部分“克劳德与镜子”](https://www.reddit.com/r/artificial/comments/1x5rwz4/ai_odyssey_part_3_claude_and_the_mirror/)**
+我有chat**GPT** premium ，遗憾的是无法生成视频我有一个想法，我想制作动画，但所有选项似乎都需要花钱
 
-（亲爱的读者：请记住-这是一个关于一个人对几年前与克劳德第一次互动的反应的故事–而不是对人工智能意识的主张） （第4部分……精灵克劳德）由/u/AIChatGuy提交[链接] [评论]
-
-📅 2026-10-14T13:57:07.000Z
-
----
-
-### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Title: 520: Web服务器返回未知错误
-
-📅 2026-10-14T19:14:13.022Z
-
----
-
-### X: OpenAI
-**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-警告：目标URL返回错误520 ：未知
-
-📅 2026-10-14T19:14:13.022Z
+📅 2026-10-14T22:57:17.000Z
 
 ---
 
