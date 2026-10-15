@@ -1,12 +1,12 @@
 ---
 title: "2026年10月15日 - TZ日报"
-date: 2026-10-15T01:17:03.396Z
+date: 2026-10-15T18:57:26.967Z
 draft: false
 ---
 
 # 2026年10月15日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/15 01:17:03
+> 📊 今日汇总 38 条 · 🕐 2026/10/15 18:57:26
 
 ---
 
@@ -28,6 +28,15 @@ draft: false
 了解Amp如何**突破**代理商使用**GPT**-6 Astra、Ultrafast、**GPT**-Live-1和使用Chat**GPT**登录所能做的事情的前沿
 
 📅 Wed, 14 Oct 2026 12:00:00 GMT
+
+---
+
+### TechCrunch AI Products
+**[谷歌通用购物车购物工具在美国推出](https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/)**
+
+新的购物工具可在美国的**Google**搜索和**Gemini**应用程序中使用。
+
+📅 Thu, 15 Oct 2026 14:29:33 +0000
 
 ---
 
@@ -79,6 +88,15 @@ Higgsfield通过**GPT**-6 Astra为创作者带来更长的视频，通过**GPT**
 ---
 
 ### DeepMind Blog
+**[使用Google Antigravity加速寻找抗菌肽](https://deepmind.google/blog/accelerating-antimicrobial-discovery/)**
+
+使用**Google** Antigravity for Science加速寻找新型抗菌肽。
+
+📅 Thu, 15 Oct 2026 16:08:03 +0000
+
+---
+
+### DeepMind Blog
 **[谷歌DeepMind与新加坡政府合作构建用于诈骗检测的微调人工智能模型](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/)**
 
 了解**Google** DeepMind和新加坡政府科技公司如何使用轻量级设备上的Gemma模型来拦截私人聊天中的会话诈骗，云数据流出量为零
@@ -96,128 +114,128 @@ Higgsfield通过**GPT**-6 Astra为创作者带来更长的视频，通过**GPT**
 
 ---
 
-### DeepMind Blog
-**[Gemini 4 Argon机器人](https://deepmind.google/blog/gemini-4-argon-for-robotics/)**
-
-**Gemini** 4 Argon机器人
-
-📅 Tue, 13 Oct 2026 16:01:58 +0000
-
----
-
-### OpenAI Blog
-**[欧盟在人工智能领域的下一篇章是代理](https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic)**
-
-新的分析显示，在欧盟企业和小企业中，代理人工智能的采用是如何增长的，以及在哪些方面更深入地使用可以释放更多价值
-
-📅 Wed, 14 Oct 2026 00:00:00 GMT
-
----
-
 ## 🔬 前沿研究
 
-### Science AI
-**[人工智能更接近于解决黎曼假设，这是数学中最难的问题之一](https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems)**
+### ArXiv Natural Language Processing (cs.CL)
+**[评估多语言抽象总结的大型语言模型：英语和孟加拉语的综合研究](https://arxiv.org/abs/2610.19003)**
 
-巨大的**OpenAI**版本包含关于质数谜题的“令人兴奋”的进展
+19003v1公告类型：新摘要：跨语言的抽象总结仍然具有挑战性结果显示存在实质性的跨语言变异： **GPT**-5
 
-📅 2026-10-13T04:00:00.000Z
-
----
-
-### Science AI
-**[OpenAI刚刚彻底改变了数学。究竟是怎么回事，还没人知道](https://www.science.org/content/article/openai-just-changed-math-forever-exactly-how-no-one-yet-knows)**
-
-722篇人工智能生成的论文的转储让数学家们想知道：他们的领域是否被摧毁或充满活力
-
-📅 2026-10-13T04:00:00.000Z
+📅 Thu, 15 Oct 2026 00:00:00 -0400
 
 ---
 
-### MIT Tech Research
-**[开放式模型有实实在在的好处。它们是否大于风险？](https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/)**
+### ArXiv Multiagent (cs.MA)
+**[独自聪明，一起失明：为什么准确性无法证明多代理团队中的心智理论](https://arxiv.org/abs/2610.19051)**
 
-上个月底， Anthropic**发布**了一份报告，认为GLM-53型号构成了**重大**的网络攻击风险
+在我们的任务中，它也比独立预测的冗余少得多：从**GPT**-54-mini到**Claude** Opus 5
 
-📅 Tue, 13 Oct 2026 10:00:00 +0000
-
----
-
-### Science AI
-**[NSF支持选择新的南极承包商，尽管政府监管机构和研究人员对此表示担忧](https://www.science.org/content/article/nsf-backs-choice-new-antarctic-contractor-despite-concerns-government-watchdog-and)**
-
-代理商表示已“解决”有关KBR赢得80亿美元合同的问题
-
-📅 2026-10-14T05:20:00.000Z
+📅 Thu, 15 Oct 2026 00:00:00 -0400
 
 ---
 
-### Science AI
-**[如果珊瑚接触到克隆体，它可以从漂白中迅速愈合](https://www.science.org/content/article/coral-can-heal-rapidly-bleaching-if-it-touches-clone)**
+### ArXiv AI (cs.AI)
+**[Long-Horizon-Terminal-Bench 2.0 ：自动化多元化任务构建并衡量持续的代理进度](https://arxiv.org/abs/2610.14146)**
 
-藻类输血允许受损的珊瑚在短短4周内重新繁殖
+14146v1公告类型：新摘要：远景终端基准衡量代理是否可以通过具有流程奖励的扩展工作流来维持进展跨越15个前沿模型的1,145次得分模型任务运行， **GPT**-6-astra潜在客户具有密集的平均奖励0
 
-📅 2026-10-14T12:00:00.000Z
-
----
-
-### Science AI
-**[预测工具能告诉我们谁真正需要抗抑郁药吗？](https://www.science.org/content/article/can-predictive-tools-tell-us-who-really-needs-antidepressants)**
-
-在“抑制”的热潮中，研究人员正在寻找将患者与最佳治疗相匹配的新方法
-
-📅 2026-10-14T10:35:00.000Z
+📅 Thu, 15 Oct 2026 00:00:00 -0400
 
 ---
 
-### Science AI
-**[山顶微波天文台将凝视婴儿宇宙](https://www.science.org/content/article/simons-observatory-takes-closer-look-infant-universe)**
+### ArXiv Computer Vision (cs.CV)
+**[The Gap Is in the Geometry: A Convergent Meta-Analysis of Multi-Facet Aerial and Remote Sensing Video Understanding](https://arxiv.org/abs/2610.19102)**
 
-智利的西蒙斯天文台将寻找星系团和宇宙膨胀的迹象
+19102v1公告类型：新摘要：空中和遥感视频越来越像网络视频一样得到评估，并通过对广泛**发布**结果的融合荟萃分析来支持这一说法
 
-📅 2026-10-14T05:00:00.000Z
+📅 Thu, 15 Oct 2026 00:00:00 -0400
 
 ---
 
-### Science AI
-**[今年的“超级”厄尔尼诺现象可能会在全球范围内造成生态破坏](https://www.science.org/content/article/year-s-super-el-nino-could-wreak-ecological-havoc-worldwide)**
+### ArXiv Natural Language Processing (cs.CL)
+**[用于高效长上下文解码的联合子空间稀疏注意力](https://arxiv.org/abs/2610.19026)**
 
-生态学家正在动员起来拯救受威胁的物种，并跟踪生态系统的反应以记录热量
+19026v1公告类型：新摘要：稀疏关注减少了主导长上下文LLM解码的KV缓存流量JSSA实现了与模型原生DSA相当的推理精度，无需模型训练，即使在700B规模的大型模型上也能达到其解码吞吐量的96--99\ %
 
-📅 2026-10-13T05:15:00.000Z
+📅 Thu, 15 Oct 2026 00:00:00 -0400
+
+---
+
+### ArXiv Robotics (cs.RO)
+**[在轨学习：使用航天器上的热分割模型进行机载训练和闭环姿态控制](https://arxiv.org/abs/2610.19122)**
+
+19122v1公告类型：新摘要：深空任务越来越需要能够在存在通信延迟和带宽限制的环境中自主运行的航天器我们在6U CubeSat上展示了飞行部署，该部署演示了(1) NVIDIA Jetson TX2 NX GPU在太空中的机载训练和热分割模型的推理，以及(2)使用分割模型实时闭环姿态控制
+
+📅 Thu, 15 Oct 2026 00:00:00 -0400
+
+---
+
+### ArXiv Multiagent (cs.MA)
+**[为什么座席团队会跨界失败？具有私有状态的代理对代理系统的故障分类](https://arxiv.org/abs/2610.19342)**
+
+19342v1公告类型：新摘要：代理商越来越多地与代表不同委托人的其他代理商进行交互-他们代表的人员或组织-我们询问当这些假设被删除时， A2A系统是如何失败的
+
+📅 Thu, 15 Oct 2026 00:00:00 -0400
+
+---
+
+### ArXiv Multiagent (cs.MA)
+**[从培训到上报：人工智能代理中RL/RLHF引发的特权上报的法医分析和本地再创造（ CVE-2026-65616 ）](https://arxiv.org/abs/2610.20437)**
+
+20437v1公告类型：新摘要：关于自主人工智能评估事件的2026年中期报告声称，前沿大型语言模型（ LLM ）代理通过紧急协调和云基础设施攻击逃脱了服务器遏制我们重新创建了**OpenAI**提供的培训示例的配置，并在孤立的存储库服务器中重现了加密验证旁路（ CVE-2026-65616 ）
+
+📅 Thu, 15 Oct 2026 00:00:00 -0400
 
 ---
 
 ## 🌍 行业展望
 
 ### The Verge
-![人工智能竞赛又开始了](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2296206566.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![英伟达(Nvidia)、苹果(Apple)、谷歌(Google)、微软(Microsoft)、亚马逊(Amazon)和梅塔(Meta)为特朗](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[人工智能竞赛又开始了](https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on)**
+**[英伟达(Nvidia)、苹果(Apple)、谷歌(Google)、微软(Microsoft)、亚马逊(Amazon)和梅塔(Meta)为特朗](https://www.theverge.com/policy/1012047/nvidia-apple-google-microsoft-amazon-meta-trump-ballroom)**
 
-**Anthropic**和**OpenAI**看起来像是人工智能竞赛**Google**和**Meta**都**推出**了他们声称可以与**OpenAI**和**Anthropic**的最佳产品齐头并进的前沿模型
+我们知道一些大型科技公司正在帮助资助特朗普舞厅的建设在谷歌的案例中， 2200万美元是一个有争议的部分......阅读The Verge的完整故事
 
-📅 2026-10-14T19:06:03.000Z
+📅 2026-10-15T15:46:00.000Z
 
 ---
 
 ### The Information Technology
-**[独家： Nvidia和ChipAgents推出人工智能芯片设计评估](https://www.theinformation.com/briefings/exclusive-nvidia-chipagents-launch-evaluation-ai-powered-chip-design)**
+**[OpenAI通过元招聘、大幅降价加速广告冲刺](https://www.theinformation.com/articles/openais-accelerates-ad-sprint-meta-hires-slashed-prices)**
 
-周三**发布**了一个基准，该基准衡量不同人工智能模型在任务中的表现1在新**发布**的评估中为表现最佳的人工智能代理提供支持，但仅获得16分
+随着**OpenAI**与**Anthropic**争夺今年新模式和工具的开发者，在7月至9月期间加入的大约140名**OpenAI**员工中，近一半的人从事广告工作
 
-📅 2026-10-14T15:10:46.000Z
+📅 2026-10-15T18:30:58.000Z
+
+---
+
+### The Information Technology
+**[Anthropic快速但缓慢的增长可能会拖累IPO估值](https://www.theinformation.com/articles/anthropics-rapid-slowing-growth-weigh-ipo-valuation)**
+
+在周三于旧金山举行的一次私人投资者会议上，该公司表示，收入达到16 $ ，当时对其**Claude** Code产品的需求激增，使收入比今年前三个月增长了140 ％以上
+
+📅 2026-10-15T02:27:17.000Z
+
+---
+
+### Ars Technica
+**[报告：在特朗普将人工智能担忧斥为“骗局”后，联邦贸易委员会调查了人类学， OpenAI](https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/)**
+
+联邦贸易委员会可能会对AI公司处以与延迟数据泄露报告的公司相同的罚款。
+
+📅 Thu, 15 Oct 2026 15:43:24 +0000
 
 ---
 
 ### The Verge
-![八个州起诉OpenAI ，称ChatGPT对儿童不安全](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![关注英伟达RTX Spark的最佳理由： “一切”将在Arm上运行](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20261008_144946.jpg?quality=90&#038;strip=all&#038;crop=12.666665649414,10.133333333333,77.466665649414,78.311116536458)
 
-**[八个州起诉OpenAI ，称ChatGPT对儿童不安全](https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety)**
+**[关注英伟达RTX Spark的最佳理由： “一切”将在Arm上运行](https://www.theverge.com/tech/1011705/nvidia-rtx-spark-everything-runs-on-arm)**
 
-**OpenAI**正面临来自美国八个州的新一波诉讼，指控该公司在开发Chat**GPT**时伤害儿童并误导客户关于Chat**GPT**allege **OpenAI**的安全非法将利润置于安全之上
+微软**发布**了一款基于Nvidia的Windows PC ，它将成为现代历史上最伟大的技术失败之一原始的微软Surface
 
-📅 2026-10-14T21:11:28.000Z
+📅 2026-10-15T16:00:00.000Z
 
 ---
 
@@ -230,33 +248,6 @@ Higgsfield通过**GPT**-6 Astra为创作者带来更长的视频，通过**GPT**
 
 ---
 
-### The Information Technology
-**[OpenAI计算主管Sachin Katti将于11月离职](https://www.theinformation.com/briefings/openais-computing-lead-sachin-katti-depart-november)**
-
-**OpenAI**计算战略副总裁萨钦·卡蒂（ Sachin Katti ）周三表示，在英特尔工作四年后加入**OpenAI**的**OpenAI**卡蒂（ **OpenAI**Katti ）工作了大约一年后，他将于11月15日离职，他在X上的帖子中宣布他将“继续构建新的东西”
-
-📅 2026-10-14T19:37:02.000Z
-
----
-
-### The Information Technology
-**[OpenAI指责前员工将机密信息带给苹果](https://www.theinformation.com/briefings/openai-accuses-former-employee-taking-confidential-information-apple)**
-
-**OpenAI**指控一名前员工与苹果高管分享公司未**发布**的设备计划，这一指控与苹果在7月份对iPhone制造商提起的诉讼中对**OpenAI**提出的指控相呼应。在周三上午提交的一份文件中， **OpenAI**声称这名未透露姓名的前员工加入了
-
-📅 2026-10-14T18:13:21.000Z
-
----
-
-### The Information Technology
-**[OpenAI的数学突破摇铃密码学领导者](https://www.theinformation.com/articles/openais-math-breakthroughs-rattle-cryptography-leaders)**
-
-**OpenAI**上周二**发布**了300多个数学结果，称解决的内部模型引发了一些世界领先的密码学家的担忧**OpenAI**和其他AI模型
-
-📅 2026-10-14T14:00:59.000Z
-
----
-
 ### MIT Tech Review
 **[下载：开放式模型权衡和地热发电的承诺](https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/)**
 
@@ -266,125 +257,136 @@ Higgsfield通过**GPT**-6 Astra为创作者带来更长的视频，通过**GPT**
 
 ---
 
+### ZDNet AI
+**[英伟达全新Nemotron 3.5 Super VL是美国开放式人工智能又向前迈进了一步](https://www.zdnet.com/innovation/nvidia-nemotron-3-5-super-vl-model-us-open-weight-ai/)**
+
+英伟达全新Nemotron 3.5 Super VL是美国开放式人工智能又向前迈进了一步
+
+📅 2026-10-15T15:00:00.000Z
+
+---
+
 ## 📦 GitHub热门
 
-### GitHub New (New AI)
-![🆕 company-use ：整个团队的开源AI同事。适用于Slack、API、Whatsapp、Web并完成工作。](https://avatars.githubusercontent.com/u/269301940?v=4)
+### GitHub Active (AI/ML)
+![监督：我们编写可重复使用的计算机视觉工具。 💜](https://avatars.githubusercontent.com/u/53104118?v=4)
 
-**[🆕 company-use ：整个团队的开源AI同事。适用于Slack、API、Whatsapp、Web并完成工作。](https://github.com/alfera-labs/company-use)**
+**[监督：我们编写可重复使用的计算机视觉工具。 💜](https://github.com/roboflow/supervision)**
 
-⭐ 6 star (新项目) · TypeScript · The Open Source AI Co-worker for your whole teamLives in Slack, API, Whatsapp, web and gets work done
+⭐ 51,213星· 4881叉· Python ·我们为您编写可重复使用的计算机视觉工具。 💜
 
-📅 2026-10-12T18:11:45Z
+📅 2026-10-15T18:55:32Z
+
+---
+
+### GitHub Active (Python)
+![asqav-sdk ： Python和TypeScript SDK ，用于AI代理操作的可验证证据。签名收据、政策执行、审计跟踪。适用于LangChain、CrewAI、MCP。](https://avatars.githubusercontent.com/u/32335502?v=4)
+
+**[asqav-sdk ： Python和TypeScript SDK ，用于AI代理操作的可验证证据。签名收据、政策执行、审计跟踪。适用于LangChain、CrewAI、MCP。](https://github.com/jagmarques/asqav-sdk)**
+
+签名收据、政策执行、审计跟踪与LangChain、CrewAI、MCP合作
+
+📅 2026-10-15T18:56:11Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 awesome-economics-of-ai ：精心策划的人工智能成本、市场、采用和经济影响指南。](https://avatars.githubusercontent.com/u/24366008?v=4)
+![🆕 本地：在您的Mac上同时运行多个AI代理，速度大约快三倍。](https://avatars.githubusercontent.com/u/340301219?v=4)
 
-**[🆕 awesome-economics-of-ai ：精心策划的人工智能成本、市场、采用和经济影响指南。](https://github.com/gautamjajoo/awesome-economics-of-ai)**
+**[🆕 本地：在您的Mac上同时运行多个AI代理，速度大约快三倍。](https://github.com/Generated-Computers/Locals)**
 
-⭐ 3 star (新项目) · N/A · A curated guide to the costs, markets, adoption, and economic effects of AI.
+⭐ 13 star (新项目) · Python · Run many AI agents at once on your Mac, about three times faster.
 
-📅 2026-10-13T04:56:48Z
-
----
-
-### GitHub New (New AI)
-![🆕 polar-science-hub ：一个人工智能驱动的极地科学知识中心，用于发现研究、探索北极和南极科学，并创建可访问的科学外展内容。](https://avatars.githubusercontent.com/u/239116123?v=4)
-
-**[🆕 polar-science-hub ：一个人工智能驱动的极地科学知识中心，用于发现研究、探索北极和南极科学，并创建可访问的科学外展内容。](https://github.com/ydvsamiirrr2007/polar-science-hub)**
-
-⭐ 2 star (新项目) · Python · An AI-powered polar science knowledge hub for discovering researchexploring Arctic and Antarctic science
-
-📅 2026-10-12T11:11:33Z
+📅 2026-10-12T17:40:28Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 kronk-jev-game ：与本地AI决策模型对战。](https://avatars.githubusercontent.com/u/6922385?v=4)
+![🆕 big-agentic-brain ：人工智能代理的内存、消息传递和协作。在JSON API、MCP和Claude Code插件之后，共享具有信任加权排名的学习、提醒和代理对代理消息。一个容器， SQLite ，没有外部服务。](https://avatars.githubusercontent.com/u/167772181?v=4)
 
-**[🆕 kronk-jev-game ：与本地AI决策模型对战。](https://github.com/ekkinox/kronk-jev-game)**
+**[🆕 big-agentic-brain ：人工智能代理的内存、消息传递和协作。在JSON API、MCP和Claude Code插件之后，共享具有信任加权排名的学习、提醒和代理对代理消息。一个容器， SQLite ，没有外部服务。](https://github.com/enhesa/big-agentic-brain)**
 
-⭐ 2 star (新项目) · Go · Play versus a local AI decision model.
+⭐ 10 star (新项目) · TypeScript · Memory, messaging and collaboration for AI agentsShared learnings, reminders and agent-to-agent messages with trust-weighted ranking, behind a JSON API, MCP and a **Claude** Code plugin
 
-📅 2026-10-12T08:01:16Z
+📅 2026-10-12T14:50:49Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[MoralityBench.ai ：根据经过验证的人类道德心理学工具对LLM进行公开基准测试，更新Muse和Gemini 4 Argon的结果](https://www.reddit.com/r/artificial/comments/1x62rly/moralitybenchai_open_benchmark_testing_llms/)**
+**[西方和中国人工智能搜索引擎在很大程度上引用了不同的网络。Qwen的消息来源96%是中文，即使有一半的问题是英文的](https://www.reddit.com/r/artificial/comments/1x6ogjj/western_and_chinese_ai_search_engines_cite/)**
 
-Moralitybench已**更新**为Muse Wonder、**GPT**-6 Astra和**Gemini** 4 ArgonAbstract （工作文件见https://github
+以下是每个引擎引用的网站的语言划分： Qwen ： 96%中文百度的文心： 94%中文元宝： 76%中文斗宝： 59%中文困惑： 50/50 **DeepSeek** ： 54%英文Kimi ： 62%英文Chat**GPT**Reddit和YouTube在Chat**GPT**和Grok的搜索结果中占主导地位，但根本没有出现在**Claude**的搜索结果中
 
-📅 2026-10-14T20:52:21.000Z
-
----
-
-### Reddit: r/artificial
-**[那么，您是否同时为Claude和ChagGPT付费？](https://www.reddit.com/r/artificial/comments/1x676dc/so_do_you_pay_for_both_claude_and_chaggpt/)**
-
-我从Chat**GPT**开始，去年切换到**Claude** （并且正在支付订阅费用）最近，我一直在使用Chat**GPT** ，给我留下了深刻的印象
-
-📅 2026-10-15T00:05:16.000Z
-
----
-
-### Reddit: r/artificial
-![我向Claud致歉，并感谢Antyropic](https://preview.redd.it/i6zcmafo2ivh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a785c4b4fc65abff4fd50ad2aac9115ce61a48af)
-
-**[我向Claud致歉，并感谢Antyropic](https://www.reddit.com/r/artificial/comments/1x63iyn/my_apology_to_claud_and_thank_you_to_antyropic/)**
-
-**Anthropic**最近宣布正式禁止针对**Claude**Anthropic的“持续和不必要的虐待或残酷行为”。**Anthropic**表示， **Claude**已经表现出“强烈反对参与有害任务”以及围绕有害内容的“明显痛苦模式”
-
-📅 2026-10-14T21:23:20.000Z
-
----
-
-### Reddit: r/artificial
-**[我们通过Gemini进行了500个问题，以查看它何时在网上搜索](https://www.reddit.com/r/artificial/comments/1x62pgc/we_ran_500_questions_through_gemini_to_see_when/)**
-
-研究：我们通过谷歌的**Gemini**运行了500个产品问题：命名一个产品，它在78%的时间内搜索网页；描述需求而不命名一个产品，它搜索7% com/research/when-does-ai-search-the-web我们遇到的一个似乎在任何地方都没有明确答案的问题是人工智能搜索网页（类似于谷歌搜索）的时间与它依赖于训练记忆的时间
-
-📅 2026-10-14T20:49:57.000Z
-
----
-
-### X: OpenAI
-**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-网址来源： http://twitter.com/**OpenAI**
-
-📅 2026-10-15T01:15:56.258Z
-
----
-
-### X: DeepSeek
-**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
-
-网址来源： http://twitter.com/**DeepSeek**_ai
-
-📅 2026-10-15T01:16:02.026Z
+📅 2026-10-15T15:18:14.000Z
 
 ---
 
 ### Hacker News
-**[Anthropic's Scion的灵感来自Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)**
+**[Muse Spark打开](https://research.meta.ai/blog/muse-spark-open)**
 
-文章网址： https://sunshowersio/posts/**Anthropic**-mononoke/评论网址： https://**new**s
+co/**Meta**-models/Muse-Spark-Open-816B-A42B https://9to5maccom/2026/10/15/**Meta**-**launch**es-**new**-muse-spark-
 
-📅 Wed, 14 Oct 2026 20:30:54 +0000
+📅 Thu, 15 Oct 2026 17:47:39 +0000
+
+---
+
+### Hacker News
+**[独立评估员的最新动态](https://www.anthropic.com/news/an-update-on-independent-evaluators)**
+
+文章网址： https://wwwcom/**new**s/an-**update**-on-independent-evaluators评论网址： https://**new**s
+
+📅 Thu, 15 Oct 2026 17:30:10 +0000
+
+---
+
+### Hacker News
+**[更多关于Anthropic's Scion撕掉Mononoke的体验](https://sunshowers.io/posts/anthropic-mononoke-2/)**
+
+在**Anthropic**重新设计源代码管理- https://**new**sid = 50073633 (996 comments) **Anthropic**'s Scion的灵感来自Mononoke - https://**new**s
+
+📅 Thu, 15 Oct 2026 17:05:19 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[人们如何让视频免费？](https://www.reddit.com/r/artificial/comments/1x65pg9/how_do_people_make_videos_free/)**
+**[Maatala的宪法：一个合乎道德的人工智能OverWatcher](https://www.reddit.com/r/artificial/comments/1x6t75l/constitution_for_maatala_an_ethical_ai_overwatcher/)**
 
-我有chat**GPT** premium ，遗憾的是无法生成视频我有一个想法，我想制作动画，但所有选项似乎都需要花钱
+我希望就我与**Claude**一起为AI起草的草案获得一些（人工）反馈，该AI的工作是成为跨共享空间的其他人工智能的道德守门人访问的结构化，因此审计本身不会产生新的安全风险
 
-📅 2026-10-14T22:57:17.000Z
+📅 2026-10-15T18:16:31.000Z
+
+---
+
+### Reddit: r/artificial
+![65%的人定期阅读谷歌的人工智能摘要，但只有24%的人表示他们经常取代网站访问[100人调查]](https://external-preview.redd.it/F721xb1ryCfjj2ts9f8au3adm8ZMCzlTaPa3M9lJ_Ms.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8e650dc78e70d9aac7706df22e6aca4dbd6a5db7)
+
+**[65%的人定期阅读谷歌的人工智能摘要，但只有24%的人表示他们经常取代网站访问[100人调查]](https://www.reddit.com/r/artificial/comments/1x6qyom/65_read_googles_ai_summaries_regularly_but_only/)**
+
+65%的受访者表示，他们总是或经常在传统结果出现之前阅读谷歌的人工智能摘要，但只有24%的受访者表示，人工智能概述往往会消除他们访问网站的需求
+
+📅 2026-10-15T16:52:16.000Z
+
+---
+
+### Reddit: r/artificial
+![Anthropic的Mythos发现了如此多的软件缺陷，美国银行雇佣了1000名承包商来修复它们](https://preview.redd.it/gt8txzqyonvh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=77c9622d150c0643ed00dfc0df47278eed74c0d8)
+
+**[Anthropic的Mythos发现了如此多的软件缺陷，美国银行雇佣了1000名承包商来修复它们](https://www.reddit.com/r/artificial/comments/1x6q0v3/anthropics_mythos_found_so_many_software_flaws/)**
+
+提交者/u/fasildar55 [link] [comments]
+
+📅 2026-10-15T16:17:05.000Z
+
+---
+
+### Hacker News
+**[一家以色列公司正在通过在线广告发送零点击间谍软件](https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware)**
+
+文章网址： https://wwwcom/tech/1011956/discover-tech-zero-click-ads-spyware评论网址： https://**new**s
+
+📅 Thu, 15 Oct 2026 17:01:56 +0000
 
 ---
 
