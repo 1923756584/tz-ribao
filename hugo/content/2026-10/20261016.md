@@ -1,12 +1,12 @@
 ---
 title: "2026年10月16日 - TZ日报"
-date: 2026-10-16T01:04:10.382Z
+date: 2026-10-16T18:41:56.658Z
 draft: false
 ---
 
 # 2026年10月16日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/16 01:04:10
+> 📊 今日汇总 38 条 · 🕐 2026/10/16 18:41:56
 
 ---
 
@@ -32,11 +32,11 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[谷歌通用购物车购物工具在美国推出](https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/)**
+**[英伟达内部人士转向VC ，解释为什么机器人技术还没有达到其ChatGPT时刻](https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/)**
 
-新的购物工具可在美国的**Google**搜索和**Gemini**应用程序中使用。
+他花了七年时间为英伟达的机器人平台领导产品营销这一观点与那些认为由一般基础模型提供支持的机器人技术即将[…]的人背道而驰
 
-📅 Thu, 15 Oct 2026 14:29:33 +0000
+📅 Fri, 16 Oct 2026 16:30:00 +0000
 
 ---
 
@@ -85,106 +85,104 @@ Block正在通过**OpenAI**Its安全团队更快地调查威胁并在几分钟�
 
 ---
 
-### OpenAI Blog
-**[希格斯菲尔德将人工智能视频从1分钟缩短到10分钟以上](https://openai.com/index/higgsfield-longer-videos-voice)**
+### Hugging Face
+**[Welcome Muse Spark Open ：来自Meta的开放权重前沿多式联运专家混合模型](https://huggingface.co/blog/meta-muse-spark-open)**
 
-Higgsfield通过**GPT**-6 Astra为创作者带来更长的视频，通过**GPT**-Image-25提供精确的视觉效果，并通过**GPT**-Live为创作者提供语音电影制作的途径
+Welcome Muse Spark Open ：来自**Meta**的开放权重前沿多式联运专家混合模型
 
-📅 Tue, 13 Oct 2026 12:00:00 GMT
-
----
-
-### Google AI Blog
-![Gemini 4 Argon ：专为解决您最棘手的问题而设计](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp)
-
-**[Gemini 4 Argon ：专为解决您最棘手的问题而设计](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/)**
-
-我们为开发人员、企业、科学家和消费者提供最新的前沿模型**Gemini** 4 Argon
-
-📅 Tue, 13 Oct 2026 16:00:00 +0000
+📅 Thu, 15 Oct 2026 00:00:00 GMT
 
 ---
 
-### DeepMind Blog
-**[使用Google Antigravity加速寻找抗菌肽](https://deepmind.google/blog/accelerating-antimicrobial-discovery/)**
+### TechCrunch AI Products
+**[物理人工智能不仅仅是机器人，这位英伟达的资深人士现在投资于它](https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/)**
 
-使用**Google** Antigravity for Science加速寻找新型抗菌肽。
+他花了七年时间为英伟达的机器人平台领导产品营销这一观点与那些认为由一般基础模型提供支持的机器人技术即将[…]的人背道而驰
 
-📅 Thu, 15 Oct 2026 16:08:03 +0000
+📅 Fri, 16 Oct 2026 16:30:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[Elorian的第一个人工智能模型想要用图像进行推理，而不仅仅是关于它们](https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/)**
+
+根据Elorian的评估， Glimpse在科学图表推理和短视频字幕方面的表现甚至优于**GPT**-6 Astra
+
+📅 Fri, 16 Oct 2026 16:01:37 +0000
 
 ---
 
 ## 🔬 前沿研究
 
-### ArXiv Natural Language Processing (cs.CL)
-**[评估多语言抽象总结的大型语言模型：英语和孟加拉语的综合研究](https://arxiv.org/abs/2610.19003)**
+### ArXiv AI (cs.AI)
+**[世界不会等待：在实时时钟下评估和教导代理商](https://arxiv.org/abs/2610.20665)**
 
-19003v1公告类型：新摘要：跨语言的抽象总结仍然具有挑战性结果显示存在实质性的跨语言变异： **GPT**-5
+20665v1公告类型：新摘要：大型语言模型（ LLM ）代理可以解决复杂的交互式任务，但推理和工具调用需要时间成对评估显示**GPT**-6
 
-📅 Thu, 15 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Multiagent (cs.MA)
-**[独自聪明，一起失明：为什么准确性无法证明多代理团队中的心智理论](https://arxiv.org/abs/2610.19051)**
-
-在我们的任务中，它也比独立预测的冗余少得多：从**GPT**-54-mini到**Claude** Opus 5
-
-📅 Thu, 15 Oct 2026 00:00:00 -0400
+📅 Fri, 16 Oct 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[Long-Horizon-Terminal-Bench 2.0 ：自动化多元化任务构建并衡量持续的代理进度](https://arxiv.org/abs/2610.14146)**
+**[IneqAgent ：用符号计算精益证明代理不等式](https://arxiv.org/abs/2610.20681)**
 
-14146v1公告类型：新摘要：远景终端基准衡量代理是否可以通过具有流程奖励的扩展工作流来维持进展跨越15个前沿模型的1,145次得分模型任务运行， **GPT**-6-astra潜在客户具有密集的平均奖励0
+20681v1公告类型：新摘要：形式不等式证明需要数学推理和精确计算代理将这些证明与LLM生成的步骤集成，并使用精益反馈来构建与原始定理语句对照的完整证明
 
-📅 Thu, 15 Oct 2026 00:00:00 -0400
+📅 Fri, 16 Oct 2026 00:00:00 -0400
+
+---
+
+### ArXiv Machine Learning (cs.LG)
+**[力学相关TPMS超材料的学习拓扑感知表示](https://arxiv.org/abs/2610.20684)**
+
+20684v1公告类型：新摘要：学习机械三周期最小表面（ TPMS ）超材料的信息表示对于两个数据集的力学分析和结构设计很**重要**5 ％ ，而$ R ^ 2 = 0则保留了强大的回归性能
+
+📅 Fri, 16 Oct 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Computer Vision (cs.CV)
-**[The Gap Is in the Geometry: A Convergent Meta-Analysis of Multi-Facet Aerial and Remote Sensing Video Understanding](https://arxiv.org/abs/2610.19102)**
+**[WorldCast ：探索世界状态预测中的智能视觉生成](https://arxiv.org/abs/2610.20731)**
 
-19102v1公告类型：新摘要：空中和遥感视频越来越像网络视频一样得到评估，并通过对广泛**发布**结果的融合荟萃分析来支持这一说法
+20731v1公告类型：新摘要：人类解释世界的多模态观测，并预测它将如何与**GPT**-Image-2一起演变
 
-📅 Thu, 15 Oct 2026 00:00:00 -0400
+📅 Fri, 16 Oct 2026 00:00:00 -0400
+
+---
+
+### ArXiv Computer Vision (cs.CV)
+**[Intern Lumina U2 ：用于全视觉理解和图像生成的多码本扩散大型语言模型](https://arxiv.org/abs/2610.20818)**
+
+20818v1公告类型：新摘要：统一多模态生成涵盖离散、连续和混合范式，但它们在具有不同培训目标的异构空间中对文本和图像进行建模
+
+📅 Fri, 16 Oct 2026 00:00:00 -0400
+
+---
+
+### ArXiv Computer Vision (cs.CV)
+**[火星-基础地图自动回归](https://arxiv.org/abs/2610.20843)**
+
+20843v1公告类型：新摘要：地图生成任务具有广泛的非结构化矢量化数据（我们提出了第一个地图基础模型
+
+📅 Fri, 16 Oct 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Natural Language Processing (cs.CL)
-**[用于高效长上下文解码的联合子空间稀疏注意力](https://arxiv.org/abs/2610.19026)**
+**[MeddeX ：具有Gemini Vision的检索增强型LLaMA-3系统，用于循证医学报告分析](https://arxiv.org/abs/2610.20632)**
 
-19026v1公告类型：新摘要：稀疏关注减少了主导长上下文LLM解码的KV缓存流量JSSA实现了与模型原生DSA相当的推理精度，无需模型训练，即使在700B规模的大型模型上也能达到其解码吞吐量的96--99\ %
+20632v1公告类型：新摘要：现代医疗保健生成的医疗报告越来越复杂，在时间和解释负担方面对临床专业人员提出了挑战。医疗报告分析器将QLoRA微调的LLaMA-3 (8B)模型与检索增强生成(RAG)和多模式**Gemini**视觉层相结合，以提供准确的
 
-📅 Thu, 15 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Robotics (cs.RO)
-**[在轨学习：使用航天器上的热分割模型进行机载训练和闭环姿态控制](https://arxiv.org/abs/2610.19122)**
-
-19122v1公告类型：新摘要：深空任务越来越需要能够在存在通信延迟和带宽限制的环境中自主运行的航天器我们在6U CubeSat上展示了飞行部署，该部署演示了(1) NVIDIA Jetson TX2 NX GPU在太空中的机载训练和热分割模型的推理，以及(2)使用分割模型实时闭环姿态控制
-
-📅 Thu, 15 Oct 2026 00:00:00 -0400
+📅 Fri, 16 Oct 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Multiagent (cs.MA)
-**[为什么座席团队会跨界失败？具有私有状态的代理对代理系统的故障分类](https://arxiv.org/abs/2610.19342)**
+**[MetaShare ：开放式代理的故障感知集体自我改进](https://arxiv.org/abs/2610.21887)**
 
-19342v1公告类型：新摘要：代理商越来越多地与代表不同委托人的其他代理商进行交互-他们代表的人员或组织-我们询问当这些假设被删除时， A2A系统是如何失败的
+21887v1公告类型：新摘要：人类通常学习最快，不是通过重复成功，而是通过记住哪些失败不重复我们引入了**Meta**Share ，这是一种故障感知框架，可记录成功和不成功的代理修改以及签名的性能增量
 
-📅 Thu, 15 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Multiagent (cs.MA)
-**[从培训到上报：人工智能代理中RL/RLHF引发的特权上报的法医分析和本地再创造（ CVE-2026-65616 ）](https://arxiv.org/abs/2610.20437)**
-
-20437v1公告类型：新摘要：关于自主人工智能评估事件的2026年中期报告声称，前沿大型语言模型（ LLM ）代理通过紧急协调和云基础设施攻击逃脱了服务器遏制我们重新创建了**OpenAI**提供的培训示例的配置，并在孤立的存储库服务器中重现了加密验证旁路（ CVE-2026-65616 ）
-
-📅 Thu, 15 Oct 2026 00:00:00 -0400
+📅 Fri, 16 Oct 2026 00:00:00 -0400
 
 ---
 
@@ -199,17 +197,6 @@ Higgsfield通过**GPT**-6 Astra为创作者带来更长的视频，通过**GPT**
 
 ---
 
-### The Verge
-![ChatGPT现在可以查看您的Chrome标签页](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[ChatGPT现在可以查看您的Chrome标签页](https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs)**
-
-**OpenAI**的Chat**GPT** Atlas浏览器消失了**OpenAI**表示，当您在Chat**GPT**的网络或桌面应用程序中标记Chrome时， Chat**GPT**现在可以查看您的浏览器选项卡
-
-📅 2026-10-15T22:43:23.000Z
-
----
-
 ### The Information Technology
 **[Anthropic是否错过了IPO高峰时刻？](https://www.theinformation.com/articles/anthropic-miss-peak-ipo-moment)**
 
@@ -220,13 +207,13 @@ Higgsfield通过**GPT**-6 Astra为创作者带来更长的视频，通过**GPT**
 ---
 
 ### The Verge
-![特朗普发布AI编辑照片吹嘘白宫修复工作](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/27a4ed6e86bbf2cf-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![RTX Spark一周体验：我们使用Nvidia新款笔记本电脑所学到的一切](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_laptops_Asus_HP_Lenovo_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[特朗普发布AI编辑照片吹嘘白宫修复工作](https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column)**
+**[RTX Spark一周体验：我们使用Nvidia新款笔记本电脑所学到的一切](https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions)**
 
-唐纳德·特朗普总统在Truth Social上**发布**了一系列照片，展示了白宫的装修情况，但其中一张照片似乎被AI修改了，并被谷歌的人工智能探测器标记为“使用**OpenAI**制作或编辑”
+Nvidia的新SoC可在来自六个不同制造商的Windows笔记本电脑上使用它具有大量内核， Nvidia RTX Blackwell显卡，以及足够的功率和统一内存，可以运行相当大的本地AI模型
 
-📅 2026-10-15T21:09:33.000Z
+📅 2026-10-16T15:00:00.000Z
 
 ---
 
@@ -239,96 +226,96 @@ Higgsfield通过**GPT**-6 Astra为创作者带来更长的视频，通过**GPT**
 
 ---
 
-### MIT Tech Review
-**[下载：开放式模型权衡和地热发电的承诺](https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/)**
-
-**Anthropic**最近**发布**了一份报告，认为中国公司Zai**发布**的强大新模型构成了**重大**的网络攻击......
-
-📅 Tue, 13 Oct 2026 12:00:00 +0000
-
----
-
 ### Wired Technology
-**[Meta的Muse让我们炙手可热，而苹果的HomeView让我们感到困惑](https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/)**
+**[微软Surface笔记本电脑Ultra回顾：第一款真正的人工智能电脑](https://www.wired.com/review/microsoft-surface-laptop-ultra/)**
 
-最大的亲AI超级PAC和男性倾向于谎报他们对人工智能的了解程度
+Surface Laptop Ultra是Windows和微软的真正MacBook Pro竞争对手，从未如此接近于取代苹果-如果不是因为缺乏电池寿命
 
-📅 Thu, 15 Oct 2026 21:18:15 +0000
+📅 Fri, 16 Oct 2026 13:00:00 +0000
 
 ---
 
-### ZDNet AI
-**[英伟达全新Nemotron 3.5 Super VL是美国开放式人工智能又向前迈进了一步](https://www.zdnet.com/innovation/nvidia-nemotron-3-5-super-vl-model-us-open-weight-ai/)**
+### Ars Technica
+**[Meta可能会使用全面的新商业服务条款来避免数百万美元的人工智能许可费](https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/)**
 
-英伟达全新Nemotron 3.5 Super VL是美国开放式人工智能又向前迈进了一步
+**Meta** “简化”了其商业服务条款。法律专家警告说，这是对人工智能的权力攫取。
 
-📅 2026-10-15T15:00:00.000Z
+📅 Fri, 16 Oct 2026 15:41:00 +0000
+
+---
+
+### Ars Technica
+**[Surface Laptop Ultra兑现了微软的大部分承诺](https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/)**
+
+微软承诺为开发人员、人工智能和游戏提供一台机器，而且大多数情况下都能实现。
+
+📅 Fri, 16 Oct 2026 12:00:05 +0000
+
+---
+
+### Ars Technica
+**[Googlebook评论：笔记本电脑上的Android仍然是Android](https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/)**
+
+Android笔记本电脑已经到来，但谷歌还有很多工作要做，才能让它们变得更好。
+
+📅 Fri, 16 Oct 2026 10:00:32 +0000
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![nautilus_trader ：具有确定性事件驱动架构的生产级Rust原生交易引擎](https://avatars.githubusercontent.com/u/33360632?v=4)
+![pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://avatars.githubusercontent.com/u/21003710?v=4)
 
-**[nautilus_trader ：具有确定性事件驱动架构的生产级Rust原生交易引擎](https://github.com/nautechsystems/nautilus_trader)**
+**[pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://github.com/pytorch/pytorch)**
 
-⭐ 30,081星· 4032叉· Rust ·具有确定性事件驱动架构的生产级Rust原生交易引擎
+⭐ 104,794星· 32706分叉· Python ·具有强大GPU加速的Python中的张量和动态神经网络
 
-📅 2026-10-16T01:02:32Z
-
----
-
-### GitHub Active (AI/ML)
-![screenpipe ： YC (S26) |打开计算机历史记录|持续记录您公司的计算机工作，映射您的工作流程，帮助您找到值得自动化的工作，并为您的代理上下文提供支持](https://avatars.githubusercontent.com/u/259178917?v=4)
-
-**[screenpipe ： YC (S26) |打开计算机历史记录|持续记录您公司的计算机工作，映射您的工作流程，帮助您找到值得自动化的工作，并为您的代理上下文提供支持](https://github.com/screenpipe/screenpipe)**
-
-帮助您找到值得自动化的工作，并为您的代理上下文提供支持
-
-📅 2026-10-16T01:01:29Z
+📅 2026-10-16T18:40:33Z
 
 ---
 
 ### GitHub Active (AI/ML)
-![Daft ：适用于人工智能和多模式工作负载的高性能数据引擎。处理任何规模的图像、音频、视频和结构化数据](https://avatars.githubusercontent.com/u/98941975?v=4)
+![ultralytics ： Ultralytics YOLO27、YOLO26、YOLO11、YOLOv8 —对象检测、实例分割、语义分割、图像分类、姿势估计、对象跟踪](https://avatars.githubusercontent.com/u/26833451?v=4)
 
-**[Daft ：适用于人工智能和多模式工作负载的高性能数据引擎。处理任何规模的图像、音频、视频和结构化数据](https://github.com/Eventual-Inc/Daft)**
+**[ultralytics ： Ultralytics YOLO27、YOLO26、YOLO11、YOLOv8 —对象检测、实例分割、语义分割、图像分类、姿势估计、对象跟踪](https://github.com/ultralytics/ultralytics)**
 
-⭐ 5,804星· 575叉· Rust ·用于AI和多模式工作负载的高性能数据引擎处理任何规模的图像、音频、视频和结构化数据
+571星· 11867叉· Python · Ultralytics YOLO27YOLOv8 -物体检测
 
-📅 2026-10-16T01:01:28Z
+📅 2026-10-16T18:39:49Z
+
+---
+
+### GitHub Active (AI/ML)
+![SOUP ：从一个YAML微调LLM。Layer Streaming在4 GB笔记本电脑GPU上训练8B型号。](https://avatars.githubusercontent.com/u/188336071?v=4)
+
+**[SOUP ：从一个YAML微调LLM。Layer Streaming在4 GB笔记本电脑GPU上训练8B型号。](https://github.com/MakazhanAlpamys/Soup)**
+
+⭐ 9170星· 1498叉·蟒蛇·来自一个YAMLLayer流媒体的微调LLM在4 GB笔记本电脑GPU上训练8B模型
+
+📅 2026-10-16T18:40:25Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 awesome-economics-of-ai ：精心策划的人工智能成本、市场、采用和经济影响指南。](https://avatars.githubusercontent.com/u/24366008?v=4)
+![🆕 astraforge ：开源、与模型无关的AI技能工具包，用于结构化推理、可靠编码、研究和验证执行。](https://avatars.githubusercontent.com/u/139392318?v=4)
 
-**[🆕 awesome-economics-of-ai ：精心策划的人工智能成本、市场、采用和经济影响指南。](https://github.com/gautamjajoo/awesome-economics-of-ai)**
+**[🆕 astraforge ：开源、与模型无关的AI技能工具包，用于结构化推理、可靠编码、研究和验证执行。](https://github.com/Vrajm12/astraforge)**
 
-⭐ 3 star (新项目) · N/A · A curated guide to the costs, markets, adoption, and economic effects of AI.
+⭐ 3 star (新项目) · JavaScript · Open-source, model-agnostic AI skill toolkit for structured reasoning, reliable coding, research, and verified execution
 
-📅 2026-10-13T04:56:48Z
+📅 2026-10-15T15:27:45Z
 
 ---
 
 ## 💬 社交动态
 
-### Reddit: r/artificial
-**[Anthropic和OpenAI等公司将如何留住客户？](https://www.reddit.com/r/artificial/comments/1x6vfpe/how_will_companies_like_anthropic_and_openai/)**
-
-这些模型每天都在变得越来越聪明，很快任何前沿模型都会在我们向他们提出的任何任务中表现出色我可以今天使用**Claude** ，明天迁移到**OpenAI**而不会受到任何影响
-
-📅 2026-10-15T19:41:03.000Z
-
----
-
 ### Hacker News
-**[Muse Spark打开](https://research.meta.ai/blog/muse-spark-open)**
+**[与Claude一起设计更高效的量子电路](https://www.anthropic.com/research/designing-efficient-quantum-circuits)**
 
-co/**Meta**-models/Muse-Spark-Open-816B-A42B https://9to5maccom/2026/10/15/**Meta**-**launch**es-**new**-muse-spark-
+文章网址： https://wwwcom/research/designing-efficient-quantum-circuits评论网址： https://**new**s
 
-📅 Thu, 15 Oct 2026 17:47:39 +0000
+📅 Fri, 16 Oct 2026 18:00:18 +0000
 
 ---
 
@@ -337,7 +324,7 @@ co/**Meta**-models/Muse-Spark-Open-816B-A42B https://9to5maccom/2026/10/15/**Met
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-10-16T01:03:03.035Z
+📅 2026-10-16T18:40:18.481Z
 
 ---
 
@@ -346,25 +333,16 @@ co/**Meta**-models/Muse-Spark-Open-816B-A42B https://9to5maccom/2026/10/15/**Met
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-10-16T01:03:09.406Z
+📅 2026-10-16T18:40:25.420Z
 
 ---
 
-### Hacker News AI
-**[英伟达首席执行官对英国人工智能未来的看法](https://news.sky.com/video/what-nvidias-ceo-really-thinks-about-ais-safety-13599433)**
+### Hacker News
+**[Anthropic在6月份获得了最高的垃圾信用评级](https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d)**
 
-文章网址： https://**new**scom/video/what-nvidias-ceo-really-thinks-about-ais-safety-13599433评论网址： https://**new**s
+文章网址： https://wwwcom/content/5a310aee-f555-4266-874c-b1b4db20186d评论网址： https://**new**s
 
-📅 Fri, 16 Oct 2026 00:35:29 +0000
-
----
-
-### Reddit: r/artificial
-**[使用您的人工智能产生科学突破](https://www.reddit.com/r/artificial/comments/1x6y0my/use_your_ai_to_produce_scientific_breakthroughs/)**
-
-定制您的人工智能，帮助绘制地球所有自然过程的地图，并寻找新颖的联系和假设是的，您可以通过聊天订阅和一点独创性取得科学**突破**
-
-📅 2026-10-15T21:22:46.000Z
+📅 Fri, 16 Oct 2026 18:11:42 +0000
 
 ---
 
@@ -373,16 +351,34 @@ co/**Meta**-models/Muse-Spark-Open-816B-A42B https://9to5maccom/2026/10/15/**Met
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-10-16T01:03:03.035Z
+📅 2026-10-16T18:40:18.481Z
 
 ---
 
 ### X: OpenAI
-**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-警告：目标URL返回错误520 ：
+警告：目标URL返回错误520 ：未知
 
-📅 2026-10-16T01:03:03.035Z
+📅 2026-10-16T18:40:18.481Z
+
+---
+
+### X: OpenAI
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Markdown 内容
+
+📅 2026-10-16T18:40:18.481Z
+
+---
+
+### X: OpenAI
+**[应该怎么做？](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+应该怎么做？
+
+📅 2026-10-16T18:40:18.481Z
 
 ---
 
