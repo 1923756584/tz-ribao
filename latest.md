@@ -1,12 +1,12 @@
 ---
-title: "2026年10月15日 - TZ日报"
-date: 2026-10-15T18:57:26.967Z
+title: "2026年10月16日 - TZ日报"
+date: 2026-10-16T01:04:10.382Z
 draft: false
 ---
 
-# 2026年10月15日 - TZ日报
+# 2026年10月16日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/15 18:57:26
+> 📊 今日汇总 38 条 · 🕐 2026/10/16 01:04:10
 
 ---
 
@@ -37,6 +37,24 @@ draft: false
 新的购物工具可在美国的**Google**搜索和**Gemini**应用程序中使用。
 
 📅 Thu, 15 Oct 2026 14:29:33 +0000
+
+---
+
+### OpenAI Blog
+**[将GPT-Rosalind带入学术研究实验室](https://openai.com/index/introducing-the-rosalind-academic-plan)**
+
+**推出**Rosalind学术计划，为符合条件的学术实验室提供**GPT**-Rosalind赞助的访问权限以及推进生命科学研究的工具
+
+📅 Thu, 15 Oct 2026 19:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[Sullivan & Cromwell将法律专业知识引入协议审查](https://openai.com/index/sullivan-cromwell)**
+
+Sullivan & Cromwell与**OpenAI**合作开发了协议分析器，这是一种用于识别协议草案中问题的人工智能工具
+
+📅 Thu, 15 Oct 2026 00:00:00 GMT
 
 ---
 
@@ -93,24 +111,6 @@ Higgsfield通过**GPT**-6 Astra为创作者带来更长的视频，通过**GPT**
 使用**Google** Antigravity for Science加速寻找新型抗菌肽。
 
 📅 Thu, 15 Oct 2026 16:08:03 +0000
-
----
-
-### DeepMind Blog
-**[谷歌DeepMind与新加坡政府合作构建用于诈骗检测的微调人工智能模型](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/)**
-
-了解**Google** DeepMind和新加坡政府科技公司如何使用轻量级设备上的Gemma模型来拦截私人聊天中的会话诈骗，云数据流出量为零
-
-📅 Wed, 14 Oct 2026 02:00:14 +0000
-
----
-
-### DeepMind Blog
-**[负责任和安全地开发Gemini 4 Argon](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/)**
-
-负责任和安全地开发**Gemini** 4 Argon
-
-📅 Tue, 13 Oct 2026 19:43:07 +0000
 
 ---
 
@@ -190,17 +190,6 @@ Higgsfield通过**GPT**-6 Astra为创作者带来更长的视频，通过**GPT**
 
 ## 🌍 行业展望
 
-### The Verge
-![英伟达(Nvidia)、苹果(Apple)、谷歌(Google)、微软(Microsoft)、亚马逊(Amazon)和梅塔(Meta)为特朗](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[英伟达(Nvidia)、苹果(Apple)、谷歌(Google)、微软(Microsoft)、亚马逊(Amazon)和梅塔(Meta)为特朗](https://www.theverge.com/policy/1012047/nvidia-apple-google-microsoft-amazon-meta-trump-ballroom)**
-
-我们知道一些大型科技公司正在帮助资助特朗普舞厅的建设在谷歌的案例中， 2200万美元是一个有争议的部分......阅读The Verge的完整故事
-
-📅 2026-10-15T15:46:00.000Z
-
----
-
 ### The Information Technology
 **[OpenAI通过元招聘、大幅降价加速广告冲刺](https://www.theinformation.com/articles/openais-accelerates-ad-sprint-meta-hires-slashed-prices)**
 
@@ -210,41 +199,43 @@ Higgsfield通过**GPT**-6 Astra为创作者带来更长的视频，通过**GPT**
 
 ---
 
-### The Information Technology
-**[Anthropic快速但缓慢的增长可能会拖累IPO估值](https://www.theinformation.com/articles/anthropics-rapid-slowing-growth-weigh-ipo-valuation)**
+### The Verge
+![ChatGPT现在可以查看您的Chrome标签页](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-在周三于旧金山举行的一次私人投资者会议上，该公司表示，收入达到16 $ ，当时对其**Claude** Code产品的需求激增，使收入比今年前三个月增长了140 ％以上
+**[ChatGPT现在可以查看您的Chrome标签页](https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs)**
 
-📅 2026-10-15T02:27:17.000Z
+**OpenAI**的Chat**GPT** Atlas浏览器消失了**OpenAI**表示，当您在Chat**GPT**的网络或桌面应用程序中标记Chrome时， Chat**GPT**现在可以查看您的浏览器选项卡
+
+📅 2026-10-15T22:43:23.000Z
 
 ---
 
-### Ars Technica
-**[报告：在特朗普将人工智能担忧斥为“骗局”后，联邦贸易委员会调查了人类学， OpenAI](https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/)**
+### The Information Technology
+**[Anthropic是否错过了IPO高峰时刻？](https://www.theinformation.com/articles/anthropic-miss-peak-ipo-moment)**
 
-联邦贸易委员会可能会对AI公司处以与延迟数据泄露报告的公司相同的罚款。
+**Anthropic**的激进定价促使微软等公司削减了对前者型号的支出，我们在10天前报道
 
-📅 Thu, 15 Oct 2026 15:43:24 +0000
+📅 2026-10-16T00:01:30.000Z
 
 ---
 
 ### The Verge
-![关注英伟达RTX Spark的最佳理由： “一切”将在Arm上运行](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20261008_144946.jpg?quality=90&#038;strip=all&#038;crop=12.666665649414,10.133333333333,77.466665649414,78.311116536458)
+![特朗普发布AI编辑照片吹嘘白宫修复工作](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/27a4ed6e86bbf2cf-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[关注英伟达RTX Spark的最佳理由： “一切”将在Arm上运行](https://www.theverge.com/tech/1011705/nvidia-rtx-spark-everything-runs-on-arm)**
+**[特朗普发布AI编辑照片吹嘘白宫修复工作](https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column)**
 
-微软**发布**了一款基于Nvidia的Windows PC ，它将成为现代历史上最伟大的技术失败之一原始的微软Surface
+唐纳德·特朗普总统在Truth Social上**发布**了一系列照片，展示了白宫的装修情况，但其中一张照片似乎被AI修改了，并被谷歌的人工智能探测器标记为“使用**OpenAI**制作或编辑”
 
-📅 2026-10-15T16:00:00.000Z
+📅 2026-10-15T21:09:33.000Z
 
 ---
 
 ### The Information Technology
-**[Anthropic报告第三季度收入为168 $十亿](https://www.theinformation.com/briefings/anthropic-reports-16-8-billion-third-quarter-revenue)**
+**[Anthropic表示，人工智能评估人员现在可以在公司工作](https://www.theinformation.com/briefings/anthropic-says-ai-evaluators-can-now-work-company)**
 
-**Anthropic**第三季度的收入达到16 $ ，比第二季度增长了约45% ，超过3
+**Anthropic**周四在一篇博客文章中表示。**Anthropic**首席执行官
 
-📅 2026-10-15T00:28:54.000Z
+📅 2026-10-15T19:37:29.000Z
 
 ---
 
@@ -254,6 +245,15 @@ Higgsfield通过**GPT**-6 Astra为创作者带来更长的视频，通过**GPT**
 **Anthropic**最近**发布**了一份报告，认为中国公司Zai**发布**的强大新模型构成了**重大**的网络攻击......
 
 📅 Tue, 13 Oct 2026 12:00:00 +0000
+
+---
+
+### Wired Technology
+**[Meta的Muse让我们炙手可热，而苹果的HomeView让我们感到困惑](https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/)**
+
+最大的亲AI超级PAC和男性倾向于谎报他们对人工智能的了解程度
+
+📅 Thu, 15 Oct 2026 21:18:15 +0000
 
 ---
 
@@ -269,57 +269,57 @@ Higgsfield通过**GPT**-6 Astra为创作者带来更长的视频，通过**GPT**
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![监督：我们编写可重复使用的计算机视觉工具。 💜](https://avatars.githubusercontent.com/u/53104118?v=4)
+![nautilus_trader ：具有确定性事件驱动架构的生产级Rust原生交易引擎](https://avatars.githubusercontent.com/u/33360632?v=4)
 
-**[监督：我们编写可重复使用的计算机视觉工具。 💜](https://github.com/roboflow/supervision)**
+**[nautilus_trader ：具有确定性事件驱动架构的生产级Rust原生交易引擎](https://github.com/nautechsystems/nautilus_trader)**
 
-⭐ 51,213星· 4881叉· Python ·我们为您编写可重复使用的计算机视觉工具。 💜
+⭐ 30,081星· 4032叉· Rust ·具有确定性事件驱动架构的生产级Rust原生交易引擎
 
-📅 2026-10-15T18:55:32Z
+📅 2026-10-16T01:02:32Z
 
 ---
 
-### GitHub Active (Python)
-![asqav-sdk ： Python和TypeScript SDK ，用于AI代理操作的可验证证据。签名收据、政策执行、审计跟踪。适用于LangChain、CrewAI、MCP。](https://avatars.githubusercontent.com/u/32335502?v=4)
+### GitHub Active (AI/ML)
+![screenpipe ： YC (S26) |打开计算机历史记录|持续记录您公司的计算机工作，映射您的工作流程，帮助您找到值得自动化的工作，并为您的代理上下文提供支持](https://avatars.githubusercontent.com/u/259178917?v=4)
 
-**[asqav-sdk ： Python和TypeScript SDK ，用于AI代理操作的可验证证据。签名收据、政策执行、审计跟踪。适用于LangChain、CrewAI、MCP。](https://github.com/jagmarques/asqav-sdk)**
+**[screenpipe ： YC (S26) |打开计算机历史记录|持续记录您公司的计算机工作，映射您的工作流程，帮助您找到值得自动化的工作，并为您的代理上下文提供支持](https://github.com/screenpipe/screenpipe)**
 
-签名收据、政策执行、审计跟踪与LangChain、CrewAI、MCP合作
+帮助您找到值得自动化的工作，并为您的代理上下文提供支持
 
-📅 2026-10-15T18:56:11Z
+📅 2026-10-16T01:01:29Z
+
+---
+
+### GitHub Active (AI/ML)
+![Daft ：适用于人工智能和多模式工作负载的高性能数据引擎。处理任何规模的图像、音频、视频和结构化数据](https://avatars.githubusercontent.com/u/98941975?v=4)
+
+**[Daft ：适用于人工智能和多模式工作负载的高性能数据引擎。处理任何规模的图像、音频、视频和结构化数据](https://github.com/Eventual-Inc/Daft)**
+
+⭐ 5,804星· 575叉· Rust ·用于AI和多模式工作负载的高性能数据引擎处理任何规模的图像、音频、视频和结构化数据
+
+📅 2026-10-16T01:01:28Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 本地：在您的Mac上同时运行多个AI代理，速度大约快三倍。](https://avatars.githubusercontent.com/u/340301219?v=4)
+![🆕 awesome-economics-of-ai ：精心策划的人工智能成本、市场、采用和经济影响指南。](https://avatars.githubusercontent.com/u/24366008?v=4)
 
-**[🆕 本地：在您的Mac上同时运行多个AI代理，速度大约快三倍。](https://github.com/Generated-Computers/Locals)**
+**[🆕 awesome-economics-of-ai ：精心策划的人工智能成本、市场、采用和经济影响指南。](https://github.com/gautamjajoo/awesome-economics-of-ai)**
 
-⭐ 13 star (新项目) · Python · Run many AI agents at once on your Mac, about three times faster.
+⭐ 3 star (新项目) · N/A · A curated guide to the costs, markets, adoption, and economic effects of AI.
 
-📅 2026-10-12T17:40:28Z
-
----
-
-### GitHub New (New AI)
-![🆕 big-agentic-brain ：人工智能代理的内存、消息传递和协作。在JSON API、MCP和Claude Code插件之后，共享具有信任加权排名的学习、提醒和代理对代理消息。一个容器， SQLite ，没有外部服务。](https://avatars.githubusercontent.com/u/167772181?v=4)
-
-**[🆕 big-agentic-brain ：人工智能代理的内存、消息传递和协作。在JSON API、MCP和Claude Code插件之后，共享具有信任加权排名的学习、提醒和代理对代理消息。一个容器， SQLite ，没有外部服务。](https://github.com/enhesa/big-agentic-brain)**
-
-⭐ 10 star (新项目) · TypeScript · Memory, messaging and collaboration for AI agentsShared learnings, reminders and agent-to-agent messages with trust-weighted ranking, behind a JSON API, MCP and a **Claude** Code plugin
-
-📅 2026-10-12T14:50:49Z
+📅 2026-10-13T04:56:48Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[西方和中国人工智能搜索引擎在很大程度上引用了不同的网络。Qwen的消息来源96%是中文，即使有一半的问题是英文的](https://www.reddit.com/r/artificial/comments/1x6ogjj/western_and_chinese_ai_search_engines_cite/)**
+**[Anthropic和OpenAI等公司将如何留住客户？](https://www.reddit.com/r/artificial/comments/1x6vfpe/how_will_companies_like_anthropic_and_openai/)**
 
-以下是每个引擎引用的网站的语言划分： Qwen ： 96%中文百度的文心： 94%中文元宝： 76%中文斗宝： 59%中文困惑： 50/50 **DeepSeek** ： 54%英文Kimi ： 62%英文Chat**GPT**Reddit和YouTube在Chat**GPT**和Grok的搜索结果中占主导地位，但根本没有出现在**Claude**的搜索结果中
+这些模型每天都在变得越来越聪明，很快任何前沿模型都会在我们向他们提出的任何任务中表现出色我可以今天使用**Claude** ，明天迁移到**OpenAI**而不会受到任何影响
 
-📅 2026-10-15T15:18:14.000Z
+📅 2026-10-15T19:41:03.000Z
 
 ---
 
@@ -332,61 +332,57 @@ co/**Meta**-models/Muse-Spark-Open-816B-A42B https://9to5maccom/2026/10/15/**Met
 
 ---
 
-### Hacker News
-**[独立评估员的最新动态](https://www.anthropic.com/news/an-update-on-independent-evaluators)**
+### X: OpenAI
+**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-文章网址： https://wwwcom/**new**s/an-**update**-on-independent-evaluators评论网址： https://**new**s
+网址来源： http://twitter.com/**OpenAI**
 
-📅 Thu, 15 Oct 2026 17:30:10 +0000
-
----
-
-### Hacker News
-**[更多关于Anthropic's Scion撕掉Mononoke的体验](https://sunshowers.io/posts/anthropic-mononoke-2/)**
-
-在**Anthropic**重新设计源代码管理- https://**new**sid = 50073633 (996 comments) **Anthropic**'s Scion的灵感来自Mononoke - https://**new**s
-
-📅 Thu, 15 Oct 2026 17:05:19 +0000
+📅 2026-10-16T01:03:03.035Z
 
 ---
 
-### Reddit: r/artificial
-**[Maatala的宪法：一个合乎道德的人工智能OverWatcher](https://www.reddit.com/r/artificial/comments/1x6t75l/constitution_for_maatala_an_ethical_ai_overwatcher/)**
+### X: DeepSeek
+**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
 
-我希望就我与**Claude**一起为AI起草的草案获得一些（人工）反馈，该AI的工作是成为跨共享空间的其他人工智能的道德守门人访问的结构化，因此审计本身不会产生新的安全风险
+网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-10-15T18:16:31.000Z
+📅 2026-10-16T01:03:09.406Z
 
 ---
 
-### Reddit: r/artificial
-![65%的人定期阅读谷歌的人工智能摘要，但只有24%的人表示他们经常取代网站访问[100人调查]](https://external-preview.redd.it/F721xb1ryCfjj2ts9f8au3adm8ZMCzlTaPa3M9lJ_Ms.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8e650dc78e70d9aac7706df22e6aca4dbd6a5db7)
+### Hacker News AI
+**[英伟达首席执行官对英国人工智能未来的看法](https://news.sky.com/video/what-nvidias-ceo-really-thinks-about-ais-safety-13599433)**
 
-**[65%的人定期阅读谷歌的人工智能摘要，但只有24%的人表示他们经常取代网站访问[100人调查]](https://www.reddit.com/r/artificial/comments/1x6qyom/65_read_googles_ai_summaries_regularly_but_only/)**
+文章网址： https://**new**scom/video/what-nvidias-ceo-really-thinks-about-ais-safety-13599433评论网址： https://**new**s
 
-65%的受访者表示，他们总是或经常在传统结果出现之前阅读谷歌的人工智能摘要，但只有24%的受访者表示，人工智能概述往往会消除他们访问网站的需求
-
-📅 2026-10-15T16:52:16.000Z
+📅 Fri, 16 Oct 2026 00:35:29 +0000
 
 ---
 
 ### Reddit: r/artificial
-![Anthropic的Mythos发现了如此多的软件缺陷，美国银行雇佣了1000名承包商来修复它们](https://preview.redd.it/gt8txzqyonvh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=77c9622d150c0643ed00dfc0df47278eed74c0d8)
+**[使用您的人工智能产生科学突破](https://www.reddit.com/r/artificial/comments/1x6y0my/use_your_ai_to_produce_scientific_breakthroughs/)**
 
-**[Anthropic的Mythos发现了如此多的软件缺陷，美国银行雇佣了1000名承包商来修复它们](https://www.reddit.com/r/artificial/comments/1x6q0v3/anthropics_mythos_found_so_many_software_flaws/)**
+定制您的人工智能，帮助绘制地球所有自然过程的地图，并寻找新颖的联系和假设是的，您可以通过聊天订阅和一点独创性取得科学**突破**
 
-提交者/u/fasildar55 [link] [comments]
-
-📅 2026-10-15T16:17:05.000Z
+📅 2026-10-15T21:22:46.000Z
 
 ---
 
-### Hacker News
-**[一家以色列公司正在通过在线广告发送零点击间谍软件](https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware)**
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-文章网址： https://wwwcom/tech/1011956/discover-tech-zero-click-ads-spyware评论网址： https://**new**s
+Title: 520: Web服务器返回未知错误
 
-📅 Thu, 15 Oct 2026 17:01:56 +0000
+📅 2026-10-16T01:03:03.035Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误520 ：
+
+📅 2026-10-16T01:03:03.035Z
 
 ---
 
