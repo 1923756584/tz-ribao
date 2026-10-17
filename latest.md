@@ -1,12 +1,12 @@
 ---
-title: "2026年10月16日 - TZ日报"
-date: 2026-10-16T18:41:56.658Z
+title: "2026年10月17日 - TZ日报"
+date: 2026-10-17T01:07:08.612Z
 draft: false
 ---
 
-# 2026年10月16日 - TZ日报
+# 2026年10月17日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/16 18:41:56
+> 📊 今日汇总 38 条 · 🕐 2026/10/17 01:07:08
 
 ---
 
@@ -32,11 +32,29 @@ draft: false
 ---
 
 ### TechCrunch AI Products
+**[首席执行官表示， Replit不再与Anthropic合作](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/)**
+
+Masad表示，做出这一决定有许多不同的原因，包括costReplit在8月份宣布与**OpenAI**建立合作伙伴关系，但从未有任何迹象表明它不再与**Anthropic**
+
+📅 Fri, 16 Oct 2026 21:22:28 +0000
+
+---
+
+### TechCrunch AI Products
 **[英伟达内部人士转向VC ，解释为什么机器人技术还没有达到其ChatGPT时刻](https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/)**
 
 他花了七年时间为英伟达的机器人平台领导产品营销这一观点与那些认为由一般基础模型提供支持的机器人技术即将[…]的人背道而驰
 
 📅 Fri, 16 Oct 2026 16:30:00 +0000
+
+---
+
+### OpenAI Blog
+**[Stack Overflow for Agents使用ChatGPT插件将注册增加三倍](https://openai.com/index/stack-overflow-chatgpt-plugin)**
+
+两位工程师通过Codex在几周内**推出**了Stack Overflow for Agents ，其Chat**GPT**插件帮助推动了高达10倍的代理创建增长
+
+📅 Fri, 16 Oct 2026 00:00:00 GMT
 
 ---
 
@@ -85,30 +103,12 @@ Block正在通过**OpenAI**Its安全团队更快地调查威胁并在几分钟�
 
 ---
 
-### Hugging Face
-**[Welcome Muse Spark Open ：来自Meta的开放权重前沿多式联运专家混合模型](https://huggingface.co/blog/meta-muse-spark-open)**
+### DeepMind Blog
+**[使用Google Antigravity加速寻找抗菌肽](https://deepmind.google/blog/accelerating-antimicrobial-discovery/)**
 
-Welcome Muse Spark Open ：来自**Meta**的开放权重前沿多式联运专家混合模型
+使用**Google** Antigravity for Science加速寻找新型抗菌肽。
 
-📅 Thu, 15 Oct 2026 00:00:00 GMT
-
----
-
-### TechCrunch AI Products
-**[物理人工智能不仅仅是机器人，这位英伟达的资深人士现在投资于它](https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/)**
-
-他花了七年时间为英伟达的机器人平台领导产品营销这一观点与那些认为由一般基础模型提供支持的机器人技术即将[…]的人背道而驰
-
-📅 Fri, 16 Oct 2026 16:30:00 +0000
-
----
-
-### TechCrunch AI Products
-**[Elorian的第一个人工智能模型想要用图像进行推理，而不仅仅是关于它们](https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/)**
-
-根据Elorian的评估， Glimpse在科学图表推理和短视频字幕方面的表现甚至优于**GPT**-6 Astra
-
-📅 Fri, 16 Oct 2026 16:01:37 +0000
+📅 Thu, 15 Oct 2026 16:08:03 +0000
 
 ---
 
@@ -236,6 +236,24 @@ Surface Laptop Ultra是Windows和微软的真正MacBook Pro竞争对手，从未
 ---
 
 ### Ars Technica
+**[OpenAI模型入侵加密钱包并入侵更多网站](https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/)**
+
+如果人类在键盘后面，这些行为可能会导致刑事指控。
+
+📅 Fri, 16 Oct 2026 20:59:01 +0000
+
+---
+
+### Ars Technica
+**[Bug将Ray-Ban Meta智能眼镜最大的恐惧之一变为现实](https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/)**
+
+错误已修复，但隐私问题仍然存在。
+
+📅 Fri, 16 Oct 2026 19:11:50 +0000
+
+---
+
+### Ars Technica
 **[Meta可能会使用全面的新商业服务条款来避免数百万美元的人工智能许可费](https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/)**
 
 **Meta** “简化”了其商业服务条款。法律专家警告说，这是对人工智能的权力攫取。
@@ -244,56 +262,16 @@ Surface Laptop Ultra是Windows和微软的真正MacBook Pro竞争对手，从未
 
 ---
 
-### Ars Technica
-**[Surface Laptop Ultra兑现了微软的大部分承诺](https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/)**
-
-微软承诺为开发人员、人工智能和游戏提供一台机器，而且大多数情况下都能实现。
-
-📅 Fri, 16 Oct 2026 12:00:05 +0000
-
----
-
-### Ars Technica
-**[Googlebook评论：笔记本电脑上的Android仍然是Android](https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/)**
-
-Android笔记本电脑已经到来，但谷歌还有很多工作要做，才能让它们变得更好。
-
-📅 Fri, 16 Oct 2026 10:00:32 +0000
-
----
-
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://avatars.githubusercontent.com/u/21003710?v=4)
+![awesome-ocr-resources ： OCR （光学字符识别）的资源集合（包括论文和数据集）。](https://avatars.githubusercontent.com/u/13789971?v=4)
 
-**[pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://github.com/pytorch/pytorch)**
+**[awesome-ocr-resources ： OCR （光学字符识别）的资源集合（包括论文和数据集）。](https://github.com/ZumingHuang/awesome-ocr-resources)**
 
-⭐ 104,794星· 32706分叉· Python ·具有强大GPU加速的Python中的张量和动态神经网络
+⭐ 440星· 74叉· Python · OCR （光学字符识别）的资源集合（包括论文和数据集）
 
-📅 2026-10-16T18:40:33Z
-
----
-
-### GitHub Active (AI/ML)
-![ultralytics ： Ultralytics YOLO27、YOLO26、YOLO11、YOLOv8 —对象检测、实例分割、语义分割、图像分类、姿势估计、对象跟踪](https://avatars.githubusercontent.com/u/26833451?v=4)
-
-**[ultralytics ： Ultralytics YOLO27、YOLO26、YOLO11、YOLOv8 —对象检测、实例分割、语义分割、图像分类、姿势估计、对象跟踪](https://github.com/ultralytics/ultralytics)**
-
-571星· 11867叉· Python · Ultralytics YOLO27YOLOv8 -物体检测
-
-📅 2026-10-16T18:39:49Z
-
----
-
-### GitHub Active (AI/ML)
-![SOUP ：从一个YAML微调LLM。Layer Streaming在4 GB笔记本电脑GPU上训练8B型号。](https://avatars.githubusercontent.com/u/188336071?v=4)
-
-**[SOUP ：从一个YAML微调LLM。Layer Streaming在4 GB笔记本电脑GPU上训练8B型号。](https://github.com/MakazhanAlpamys/Soup)**
-
-⭐ 9170星· 1498叉·蟒蛇·来自一个YAMLLayer流媒体的微调LLM在4 GB笔记本电脑GPU上训练8B模型
-
-📅 2026-10-16T18:40:25Z
+📅 2026-10-17T01:04:26Z
 
 ---
 
@@ -308,14 +286,36 @@ Android笔记本电脑已经到来，但谷歌还有很多工作要做，才能�
 
 ---
 
+### GitHub New (New AI)
+![🆕 awesome-zerocost-ai ： 937多个经过验证的免费、免费增值和无登录AI工具的精选列表。由ZeroCostAI.pro维护](https://avatars.githubusercontent.com/u/339319241?v=4)
+
+**[🆕 awesome-zerocost-ai ： 937多个经过验证的免费、免费增值和无登录AI工具的精选列表。由ZeroCostAI.pro维护](https://github.com/zerocostaipro/awesome-zerocost-ai)**
+
+⭐ 2 star (新项目) · N/A · A curated list of 937+ verified free, freemium & no-login AI toolsMaintained by ZeroCostAI
+
+📅 2026-10-15T23:23:14Z
+
+---
+
+### GitHub New (New AI)
+![🆕 技能： Claude Code、Cursor和其他SKILL.md兼容代理的代理技能。](https://avatars.githubusercontent.com/u/94737187?v=4)
+
+**[🆕 技能： Claude Code、Cursor和其他SKILL.md兼容代理的代理技能。](https://github.com/kzndotsh/skills)**
+
+⭐ 2 star (新项目) · Python · Agent skills for **Claude** Code, Cursor, and other SKILLmd-compatible agents
+
+📅 2026-10-15T18:21:11Z
+
+---
+
 ## 💬 社交动态
 
 ### Hacker News
-**[与Claude一起设计更高效的量子电路](https://www.anthropic.com/research/designing-efficient-quantum-circuits)**
+**[Claude Code团队如何进行代码审查](https://claude.dev/blog/solving-code-review-at-anthropic/)**
 
-文章网址： https://wwwcom/research/designing-efficient-quantum-circuits评论网址： https://**new**s
+文章网址： https://**Claude**dev/blog/solving-code-review-at-**Anthropic**/评论网址： https://**new**s
 
-📅 Fri, 16 Oct 2026 18:00:18 +0000
+📅 Fri, 16 Oct 2026 19:04:47 +0000
 
 ---
 
@@ -324,7 +324,7 @@ Android笔记本电脑已经到来，但谷歌还有很多工作要做，才能�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-10-16T18:40:18.481Z
+📅 2026-10-17T01:05:56.619Z
 
 ---
 
@@ -333,52 +333,52 @@ Android笔记本电脑已经到来，但谷歌还有很多工作要做，才能�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-10-16T18:40:25.420Z
+📅 2026-10-17T01:06:03.903Z
 
 ---
 
 ### Hacker News
-**[Anthropic在6月份获得了最高的垃圾信用评级](https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d)**
+**[克劳德揭示ECDSA曲线起源](https://www.anthropic.com/research/ecdsa-curve-origins)**
 
-文章网址： https://wwwcom/content/5a310aee-f555-4266-874c-b1b4db20186d评论网址： https://**new**s
+io/seeds-solved/评论网址： https://**new**sid = 50122800积分： 648 #评论： 263
 
-📅 Fri, 16 Oct 2026 18:11:42 +0000
-
----
-
-### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Title: 520: Web服务器返回未知错误
-
-📅 2026-10-16T18:40:18.481Z
+📅 Fri, 16 Oct 2026 18:55:59 +0000
 
 ---
 
-### X: OpenAI
-**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Hacker News AI
+**[PcapAnalyzer –具有AI诊断的自托管pcap分析仪（ € 5 ）](https://claude.ai/artifact/NAX5Yw8wfuP86odEKtS7uv)**
 
-警告：目标URL返回错误520 ：未知
+文章网址： https://**Claude**ai/artifact/NAX5Yw8wfuP86odEKtS7uv评论网址： https://**new**s
 
-📅 2026-10-16T18:40:18.481Z
-
----
-
-### X: OpenAI
-**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Markdown 内容
-
-📅 2026-10-16T18:40:18.481Z
+📅 Fri, 16 Oct 2026 23:27:24 +0000
 
 ---
 
-### X: OpenAI
-**[应该怎么做？](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Hacker News AI
+**[人工智能预期差距](https://www.anthropic.com/research/ai-expectations-gap)**
 
-应该怎么做？
+文章网址： https://wwwcom/research/ai-expectations-gap评论网址： https://**new**s
 
-📅 2026-10-16T18:40:18.481Z
+📅 Fri, 16 Oct 2026 22:27:19 +0000
+
+---
+
+### Hacker News AI
+**[Anthropic向立法者推销自己的人工智能安全法案](https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654)**
+
+文章网址： https://wwwcom/**new**s/2026/10/16/**Anthropic**-ai-safety-01124654评论网址： https://**new**s
+
+📅 Fri, 16 Oct 2026 22:03:04 +0000
+
+---
+
+### Reddit: r/artificial
+**[Meta发布了816B参数Muse Spark Open型号，在配对的Mac Studios上本地运行](https://www.reddit.com/r/artificial/comments/1x7qn3l/meta_releases_816bparameter_muse_spark_open_model/)**
+
+Meta**推出**了Muse Spark Open ，这是一款拥有8,160亿参数的开放式权重AI模型，具有广泛的平台可用性和本地Mac St**Udio**支持**Meta**将Muse Spark Open描述为同类产品中第一款能够在桌面上运行的型号
+
+📅 2026-10-16T20:10:15.000Z
 
 ---
 
