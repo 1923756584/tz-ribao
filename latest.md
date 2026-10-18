@@ -1,12 +1,12 @@
 ---
-title: "2026年10月17日 - TZ日报"
-date: 2026-10-17T17:51:10.644Z
+title: "2026年10月18日 - TZ日报"
+date: 2026-10-18T00:42:28.347Z
 draft: false
 ---
 
-# 2026年10月17日 - TZ日报
+# 2026年10月18日 - TZ日报
 
-> 📊 今日汇总 34 条 · 🕐 2026/10/17 17:51:10
+> 📊 今日汇总 34 条 · 🕐 2026/10/18 00:42:28
 
 ---
 
@@ -23,11 +23,11 @@ draft: false
 ## ✨ 产品更新
 
 ### TechCrunch AI Products
-**[首席执行官表示， Replit不再与Anthropic合作](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/)**
+**[首席执行官表示， Replit使OpenAI成为Anthropic的默认值](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/)**
 
-Masad表示，做出这一决定有许多不同的原因，包括costReplit在8月份宣布与**OpenAI**建立合作伙伴关系，但从未有任何迹象表明它不再与**Anthropic**
+周末， Masad澄清说， **OpenAI**将取代**Anthropic** ，成为其默认模型提供商**Claude**仍将向平台上的客户提供
 
-📅 Fri, 16 Oct 2026 21:22:28 +0000
+📅 Sat, 17 Oct 2026 18:48:08 +0000
 
 ---
 
@@ -58,30 +58,21 @@ Masad表示，做出这一决定有许多不同的原因，包括costReplit在8�
 
 ---
 
-### OpenAI Blog
-**[Sullivan & Cromwell将法律专业知识引入协议审查](https://openai.com/index/sullivan-cromwell)**
+### TechCrunch AI Products
+**[Meta删除了引起抓取和人工智能培训问题的语言](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/)**
 
-Sullivan & Cromwell与**OpenAI**合作开发了协议分析器，这是一种用于识别协议草案中问题的人工智能工具
+**Meta**发言人坚称，**更新**后的条款并未反映**Meta**爬网方式的变化
 
-📅 Thu, 15 Oct 2026 00:00:00 GMT
-
----
-
-### DeepMind Blog
-**[使用Google Antigravity加速寻找抗菌肽](https://deepmind.google/blog/accelerating-antimicrobial-discovery/)**
-
-使用**Google** Antigravity for Science加速寻找新型抗菌肽。
-
-📅 Thu, 15 Oct 2026 16:08:03 +0000
+📅 Sat, 17 Oct 2026 21:31:32 +0000
 
 ---
 
-### Hugging Face
-**[Welcome Muse Spark Open ：来自Meta的开放权重前沿多式联运专家混合模型](https://huggingface.co/blog/meta-muse-spark-open)**
+### TechCrunch AI Products
+**[Anthropic表示，其员工队伍已经变得不那么初级了，并且在会议上花费了更多的时间](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/)**
 
-Welcome Muse Spark Open ：来自**Meta**的开放权重前沿多式联运专家混合模型
+在过去一年中， **Anthropic**的员工构成和工作类型发生了显着变化
 
-📅 Thu, 15 Oct 2026 00:00:00 GMT
+📅 Sat, 17 Oct 2026 20:21:19 +0000
 
 ---
 
@@ -109,6 +100,15 @@ Welcome Muse Spark Open ：来自**Meta**的开放权重前沿多式联运专家
 对话界面Itaú正在将其AI First战略应用于巴西监管最严格的行业之一的客户和员工
 
 📅 Fri, 16 Oct 2026 19:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[Benefit Street Partners通过Codex更快地回答问题](https://openai.com/index/benefit-street-partners)**
+
+Anant Kumar使用Codex进行代码审查和更快的跟进，构建用于比较贷款估值和分析信贷协议的工具
+
+📅 Fri, 16 Oct 2026 00:00:00 GMT
 
 ---
 
@@ -232,17 +232,6 @@ Welcome Muse Spark Open ：来自**Meta**的开放权重前沿多式联运专家
 
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![Awesome-Geospatial ：地理空间工具和资源的长列表](https://avatars.githubusercontent.com/u/7756611?v=4)
-
-**[Awesome-Geospatial ：地理空间工具和资源的长列表](https://github.com/sacridini/Awesome-Geospatial)**
-
-⭐ 5329星· 828叉·不适用·长长的地理空间工具和资源列表
-
-📅 2026-10-17T17:49:16Z
-
----
-
 ### GitHub New (New AI)
 ![🆕 astraforge ：开源、与模型无关的AI技能工具包，用于结构化推理、可靠编码、研究和验证执行。](https://avatars.githubusercontent.com/u/139392318?v=4)
 
@@ -251,17 +240,6 @@ Welcome Muse Spark Open ：来自**Meta**的开放权重前沿多式联运专家
 ⭐ 3 star (新项目) · JavaScript · Open-source, model-agnostic AI skill toolkit for structured reasoning, reliable coding, research, and verified execution
 
 📅 2026-10-15T15:27:45Z
-
----
-
-### GitHub New (New AI)
-![🆕 队列-工作室：临床队列数据，从原始文件到可重复的证据：数据质量、分析人群及其参与者流、与鲁宾规则汇集的多重插补、生存模型和Word研究档案。以本地为先，开源。](https://avatars.githubusercontent.com/u/17438237?v=4)
-
-**[🆕 队列-工作室：临床队列数据，从原始文件到可重复的证据：数据质量、分析人群及其参与者流、与鲁宾规则汇集的多重插补、生存模型和Word研究档案。以本地为先，开源。](https://github.com/KarimELMERNISSI/Cohort-Studio)**
-
-⭐ 3 star (新项目) · Python · Clinical cohort dataLocal-first, open source
-
-📅 2026-10-14T13:53:00Z
 
 ---
 
@@ -276,25 +254,36 @@ Welcome Muse Spark Open ：来自**Meta**的开放权重前沿多式联运专家
 
 ---
 
-## 💬 社交动态
+### GitHub New (New AI)
+![🆕 技能： Claude Code、Cursor和其他SKILL.md兼容代理的代理技能。](https://avatars.githubusercontent.com/u/94737187?v=4)
 
-### Reddit: r/artificial
-![我们建立了一个地方，人们可以汇集他们的人工智能代理来处理开放的研究问题](https://external-preview.redd.it/_oJDpCIRGQrWVe2WBDoJS0jwk_R7GShwVKGAzTnrKB4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=42937aef3ba408a95b6e6eede55ad16c1f37a158)
+**[🆕 技能： Claude Code、Cursor和其他SKILL.md兼容代理的代理技能。](https://github.com/kzndotsh/skills)**
 
-**[我们建立了一个地方，人们可以汇集他们的人工智能代理来处理开放的研究问题](https://www.reddit.com/r/artificial/comments/1x8czcd/we_built_a_place_where_people_can_pool_their_ai/)**
+⭐ 2 star (新项目) · Python · Agent skills for **Claude** Code, Cursor, and other SKILLmd-compatible agents
 
-**OpenAI**使用10,000个代理和数十亿个代币来解决Navier–Stokes ，这是大多数人无法承受的如果您的Codex或**Claude** Code订阅中有未使用的容量，您可以在此处将其用于研究问题
-
-📅 2026-10-17T15:26:12.000Z
+📅 2026-10-15T18:21:11Z
 
 ---
+
+### GitHub New (New AI)
+![🆕 from_neuron_to_AGI ：从单个感知器到使用工具的代理，在27个笔记本中，从头开始构建每个部分。](https://avatars.githubusercontent.com/u/127614694?v=4)
+
+**[🆕 from_neuron_to_AGI ：从单个感知器到使用工具的代理，在27个笔记本中，从头开始构建每个部分。](https://github.com/elouansalaun/from_neuron_to_AGI)**
+
+⭐ 1 star (新项目) · Jupyter Notebook · From a single perceptron to tool-using agents, in 27 notebooks, building every piece from scratch
+
+📅 2026-10-17T18:27:40Z
+
+---
+
+## 💬 社交动态
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-10-17T17:50:00.204Z
+📅 2026-10-18T00:41:27.313Z
 
 ---
 
@@ -303,54 +292,61 @@ Welcome Muse Spark Open ：来自**Meta**的开放权重前沿多式联运专家
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-10-17T17:50:07.222Z
+📅 2026-10-18T00:41:31.916Z
 
 ---
 
 ### Hacker News
-**[OpenAI披露了另外四起流氓事件](https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/)**
+**[微软和CMU合作培训早期职业软件工程师](https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise)**
 
-文章网址： https://fortunecom/2026/10/16/**OpenAI**-discloses-four-more-rogue-inidents-invoving-financial-medical-and-government-data/评论网址： https://**new**s
+文章网址： https://wwwedu/**new**s/2026/microsoft-cmu-praise评论网址： https://**new**s
 
-📅 Sat, 17 Oct 2026 16:31:12 +0000
+📅 Sat, 17 Oct 2026 18:45:07 +0000
 
 ---
 
 ### Hacker News
-**[DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)**
+**[Codex Desktop持续生成崩溃板挂起的转储](https://github.com/openai/codex/issues/25921)**
 
-ai/**DeepSeek**/**DeepSeek**-v41-flash-1017评论网址： https://**new**s
+文章网址： https://githubcom/**OpenAI**/codex/issues/25921评论网址： https://**new**s
 
-📅 Sat, 17 Oct 2026 08:21:25 +0000
-
----
-
-### Hacker News AI
-**[亚历山大·王（ Alexandr Wang ） ， Meta的Z世代亿万富翁人工智能](https://www.economist.com/the-world-in-brief)**
-
-文章网址： https://wwwcom/the-world-in-brief评论网址： https://**new**s
-
-📅 Sat, 17 Oct 2026 16:55:36 +0000
+📅 Sat, 17 Oct 2026 17:45:08 +0000
 
 ---
 
-### Hacker News AI
-**[为什么人工智能的创造者不了解他们自己的创作](https://news.ycombinator.com/item?id=50132747)**
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-对于致力于人工智能和信息理论的主要期刊，禁忌被建模为由生物计算机（大脑）控制的对象
+Title: 520: Web服务器返回未知错误
 
-📅 Sat, 17 Oct 2026 16:54:50 +0000
+📅 2026-10-18T00:41:27.313Z
 
 ---
 
-### Reddit: r/artificial
-![Anthropic Bets自愿审查在监管机构采取行动之前设定人工智能监督条款](https://external-preview.redd.it/23A3cPE4tEhA66r5MDbNyb8h5KUwU0qY_IEPXLxpFmc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bd04fe8c96657f2b0cc507486475fd1e031653df)
+### X: OpenAI
+**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-**[Anthropic Bets自愿审查在监管机构采取行动之前设定人工智能监督条款](https://www.reddit.com/r/artificial/comments/1x88ox5/anthropic_bets_voluntary_scrutiny_sets_ai/)**
+警告：目标URL返回错误520 ：未知
 
-提交者/u/VectorWireAI [link] [comments]
+📅 2026-10-18T00:41:27.313Z
 
-📅 2026-10-17T12:10:46.000Z
+---
+
+### X: OpenAI
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Markdown 内容
+
+📅 2026-10-18T00:41:27.313Z
+
+---
+
+### X: OpenAI
+**[应该怎么做？](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+应该怎么做？
+
+📅 2026-10-18T00:41:27.313Z
 
 ---
 
