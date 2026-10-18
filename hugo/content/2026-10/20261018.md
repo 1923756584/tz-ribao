@@ -1,19 +1,19 @@
 ---
 title: "2026年10月18日 - TZ日报"
-date: 2026-10-18T00:42:28.347Z
+date: 2026-10-18T17:54:19.149Z
 draft: false
 ---
 
 # 2026年10月18日 - TZ日报
 
-> 📊 今日汇总 34 条 · 🕐 2026/10/18 00:42:28
+> 📊 今日汇总 33 条 · 🕐 2026/10/18 17:54:19
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 4 条
+- **前沿研究**: 3 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -132,15 +132,6 @@ Anant Kumar使用Codex进行代码审查和更快的跟进，构建用于比较�
 
 ---
 
-### Science AI
-**[新日期的鼎盛时期重写了印加的历史](https://www.science.org/content/article/bonanza-new-dates-rewrites-history-inca)**
-
-南美帝国比学者们认为的持续时间更长，遇到的阻力更大
-
-📅 2026-10-15T02:00:00.000Z
-
----
-
 ### MIT Tech Research
 **[圆桌会议：与人工智能设计病毒的创造者对话](https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/)**
 
@@ -163,28 +154,6 @@ Anant Kumar使用Codex进行代码审查和更快的跟进，构建用于比较�
 
 ---
 
-### The Verge
-![SpaceX雄心勃勃、昂贵的赌博，以取代AT&T、T-Mobile和Verizon](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_SpaceX_Telecom.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[SpaceX雄心勃勃、昂贵的赌博，以取代AT&T、T-Mobile和Verizon](https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile)**
-
-我真的不认为在重新获得的新任首席执行官的领导下我为什么要使用这款iPhone ，而我应该使用这款完全不同的设备，无论是来自**OpenAI**、**Anthropic**还是SpaceX
-
-📅 2026-10-17T14:00:00.000Z
-
----
-
-### The Verge
-![网站正在向人工智能代理敞开大门](https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[网站正在向人工智能代理敞开大门](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)**
-
-自主代理是AI**OpenAI**的Dots中最热门的东西
-
-📅 2026-10-17T13:00:00.000Z
-
----
-
 ### The Information Technology
 **[Anthropic是否错过了IPO高峰时刻？](https://www.theinformation.com/articles/anthropic-miss-peak-ipo-moment)**
 
@@ -195,20 +164,40 @@ Anant Kumar使用Codex进行代码审查和更快的跟进，构建用于比较�
 ---
 
 ### The Information Technology
-**[Anthropic表示，人工智能评估人员现在可以在公司工作](https://www.theinformation.com/briefings/anthropic-says-ai-evaluators-can-now-work-company)**
+**[Neocloud Shakeout迫在眉睫， Nvidia有很多事情要做](https://www.theinformation.com/articles/neocloud-shakeout-looms-nvidia-lot-lose)**
 
-**Anthropic**周四在一篇博客文章中表示。**Anthropic**首席执行官
+市场和英伟达可以支持多少年轻的人工智能云提供商这些担忧甚至打击了像甲骨文这样的大型人工智能云提供商
 
-📅 2026-10-15T19:37:29.000Z
+📅 2026-10-18T15:30:42.000Z
+
+---
+
+### The Information Technology
+![为什么新兴银行可能必须不断筹集资金](https://tii.imgix.net/article/pictures/newsletters-production/c1ffa5ce-1d7c-4daa-9d4e-40be33df40c9-2Ty3WZ.jpg?auto=compress)
+
+**[为什么新兴银行可能必须不断筹集资金](https://www.theinformation.com/articles/upstart-banks-may-keep-raising-money)**
+
+新成立的银行通常比成熟的银行面临更严格的资本要求**new** From Our Reporters Inside a TPG-Backed Accounting Firm's Plans for AI and More Acquisitions By Alex Eichenstein Artificial Intelligence **Anthropic**'s Rapid But Slowing Growth Could Weigh on IPO Valuation By Cory Weinberg
+
+📅 2026-10-18T15:00:42.000Z
 
 ---
 
 ### Wired Technology
-**[HTC制造更私密的智能眼镜](https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/)**
+**[OnlyFans创作者对Meta让Muse说脏话感到愤怒](https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/)**
 
-这些智能眼镜几乎可以做所有**Meta**眼镜可以做的事情，但它们与社交媒体平台无关
+成人表演者质疑为什么**Meta**允许其AI代理在限制其社交媒体帐户的同时进行性交
 
-📅 Sat, 17 Oct 2026 10:30:00 +0000
+📅 Sun, 18 Oct 2026 10:30:00 +0000
+
+---
+
+### Ars Technica
+**[Anthropic为外部人工智能监管机构提供“类似员工”的访问权限](https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/)**
+
+外部监管机构可以在未经**Anthropic**批准的情况下**发布**其调查结果。
+
+📅 Sun, 18 Oct 2026 16:25:19 +0000
 
 ---
 
@@ -233,6 +222,17 @@ Anant Kumar使用Codex进行代码审查和更快的跟进，构建用于比较�
 ## 📦 GitHub热门
 
 ### GitHub New (New AI)
+![🆕 cve-intel ：用于CVE分类的本地安全情报— 31个工具、25个来源、风险评分和用于AI代理的MCP服务器，均采用原生Rust。默认情况下为私有。](https://avatars.githubusercontent.com/u/1432117?v=4)
+
+**[🆕 cve-intel ：用于CVE分类的本地安全情报— 31个工具、25个来源、风险评分和用于AI代理的MCP服务器，均采用原生Rust。默认情况下为私有。](https://github.com/Fazmin/cve-intel)**
+
+⭐ 35 star (新项目) · Rust · Local security intelligence for CVE triage — 31 toolsrisk scores and an MCP server for AI agents
+
+📅 2026-10-18T04:20:37Z
+
+---
+
+### GitHub New (New AI)
 ![🆕 astraforge ：开源、与模型无关的AI技能工具包，用于结构化推理、可靠编码、研究和验证执行。](https://avatars.githubusercontent.com/u/139392318?v=4)
 
 **[🆕 astraforge ：开源、与模型无关的AI技能工具包，用于结构化推理、可靠编码、研究和验证执行。](https://github.com/Vrajm12/astraforge)**
@@ -240,6 +240,17 @@ Anant Kumar使用Codex进行代码审查和更快的跟进，构建用于比较�
 ⭐ 3 star (新项目) · JavaScript · Open-source, model-agnostic AI skill toolkit for structured reasoning, reliable coding, research, and verified execution
 
 📅 2026-10-15T15:27:45Z
+
+---
+
+### GitHub New (New AI)
+![🆕 Jailed-Claude ： jailed-claude是围绕官方Claude Code CLI的薄薄包装，用于沙盒和网络安全](https://avatars.githubusercontent.com/u/6117368?v=4)
+
+**[🆕 Jailed-Claude ： jailed-claude是围绕官方Claude Code CLI的薄薄包装，用于沙盒和网络安全](https://github.com/RiccardoNocita/Jailed-Claude)**
+
+⭐ 2 star (新项目) · Shell · jailed-**Claude** is a thin wrapper around the official **Claude** Code CLI for sandboxing and network security
+
+📅 2026-10-17T15:27:38Z
 
 ---
 
@@ -254,28 +265,6 @@ Anant Kumar使用Codex进行代码审查和更快的跟进，构建用于比较�
 
 ---
 
-### GitHub New (New AI)
-![🆕 技能： Claude Code、Cursor和其他SKILL.md兼容代理的代理技能。](https://avatars.githubusercontent.com/u/94737187?v=4)
-
-**[🆕 技能： Claude Code、Cursor和其他SKILL.md兼容代理的代理技能。](https://github.com/kzndotsh/skills)**
-
-⭐ 2 star (新项目) · Python · Agent skills for **Claude** Code, Cursor, and other SKILLmd-compatible agents
-
-📅 2026-10-15T18:21:11Z
-
----
-
-### GitHub New (New AI)
-![🆕 from_neuron_to_AGI ：从单个感知器到使用工具的代理，在27个笔记本中，从头开始构建每个部分。](https://avatars.githubusercontent.com/u/127614694?v=4)
-
-**[🆕 from_neuron_to_AGI ：从单个感知器到使用工具的代理，在27个笔记本中，从头开始构建每个部分。](https://github.com/elouansalaun/from_neuron_to_AGI)**
-
-⭐ 1 star (新项目) · Jupyter Notebook · From a single perceptron to tool-using agents, in 27 notebooks, building every piece from scratch
-
-📅 2026-10-17T18:27:40Z
-
----
-
 ## 💬 社交动态
 
 ### X: OpenAI
@@ -283,7 +272,7 @@ Anant Kumar使用Codex进行代码审查和更快的跟进，构建用于比较�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-10-18T00:41:27.313Z
+📅 2026-10-18T17:53:16.425Z
 
 ---
 
@@ -292,25 +281,25 @@ Anant Kumar使用Codex进行代码审查和更快的跟进，构建用于比较�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-10-18T00:41:31.916Z
+📅 2026-10-18T17:53:21.980Z
 
 ---
 
 ### Hacker News
-**[微软和CMU合作培训早期职业软件工程师](https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise)**
+**[英国航空公司：拍摄机组人员W Meta Glasses可能会取消您的机票](https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/)**
 
-文章网址： https://wwwedu/**new**s/2026/microsoft-cmu-praise评论网址： https://**new**s
+文章网址： https://liveandletsflycom/british-airways-**Meta**-smart-glasses-filming/评论网址： https://**new**s
 
-📅 Sat, 17 Oct 2026 18:45:07 +0000
+📅 Sun, 18 Oct 2026 17:27:30 +0000
 
 ---
 
 ### Hacker News
-**[Codex Desktop持续生成崩溃板挂起的转储](https://github.com/openai/codex/issues/25921)**
+**[向HN展示：在《时间之笛》重拍之前的塞尔达时间线](https://legendofhyrule.com/)**
 
-文章网址： https://githubcom/**OpenAI**/codex/issues/25921评论网址： https://**new**s
+很久以后，《荒野之息》的线程再次相遇我得到了克劳德的很多帮助
 
-📅 Sat, 17 Oct 2026 17:45:08 +0000
+📅 Sun, 18 Oct 2026 13:06:54 +0000
 
 ---
 
@@ -319,16 +308,25 @@ Anant Kumar使用Codex进行代码审查和更快的跟进，构建用于比较�
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-10-18T00:41:27.313Z
+📅 2026-10-18T17:53:16.425Z
 
 ---
 
 ### X: OpenAI
-**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-警告：目标URL返回错误520 ：未知
+警告：目标URL返回错误520 ：
 
-📅 2026-10-18T00:41:27.313Z
+📅 2026-10-18T17:53:16.425Z
+
+---
+
+### X: OpenAI
+**[警告：此页面可能尚未完全加载，请考虑显式指定超时。](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：此页面可能尚未完全加载，请考虑显式指定超时。
+
+📅 2026-10-18T17:53:16.425Z
 
 ---
 
@@ -337,16 +335,7 @@ Title: 520: Web服务器返回未知错误
 
 Markdown 内容
 
-📅 2026-10-18T00:41:27.313Z
-
----
-
-### X: OpenAI
-**[应该怎么做？](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-应该怎么做？
-
-📅 2026-10-18T00:41:27.313Z
+📅 2026-10-18T17:53:16.425Z
 
 ---
 
