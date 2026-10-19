@@ -1,12 +1,12 @@
 ---
-title: "2026年10月18日 - TZ日报"
-date: 2026-10-18T17:54:19.149Z
+title: "2026年10月19日 - TZ日报"
+date: 2026-10-19T00:52:58.806Z
 draft: false
 ---
 
-# 2026年10月18日 - TZ日报
+# 2026年10月19日 - TZ日报
 
-> 📊 今日汇总 33 条 · 🕐 2026/10/18 17:54:19
+> 📊 今日汇总 33 条 · 🕐 2026/10/19 00:52:58
 
 ---
 
@@ -40,21 +40,12 @@ draft: false
 
 ---
 
-### OpenAI Blog
-**[Stack Overflow for Agents使用ChatGPT插件将注册增加三倍](https://openai.com/index/stack-overflow-chatgpt-plugin)**
+### TechCrunch AI Products
+**[Anthropic表示，它将把5%的股份投入“公益基金”](https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/)**
 
-两位工程师通过Codex在几周内**推出**了Stack Overflow for Agents ，其Chat**GPT**插件帮助推动了高达10倍的代理创建增长
+**Anthropic**表示，它将向该基金承诺其5%的股份。
 
-📅 Fri, 16 Oct 2026 00:00:00 GMT
-
----
-
-### OpenAI Blog
-**[将GPT-Rosalind带入学术研究实验室](https://openai.com/index/introducing-the-rosalind-academic-plan)**
-
-**推出**Rosalind学术计划，为符合条件的学术实验室提供**GPT**-Rosalind赞助的访问权限以及推进生命科学研究的工具
-
-📅 Thu, 15 Oct 2026 19:00:00 GMT
+📅 Sun, 18 Oct 2026 20:37:40 +0000
 
 ---
 
@@ -103,12 +94,21 @@ draft: false
 
 ---
 
-### OpenAI Blog
-**[Benefit Street Partners通过Codex更快地回答问题](https://openai.com/index/benefit-street-partners)**
+### Hugging Face
+**[扩展指标预训练： 2.8万亿代币和开放数据生成管道](https://huggingface.co/blog/nvidia/scaling-indic-pretraining)**
 
-Anant Kumar使用Codex进行代码审查和更快的跟进，构建用于比较贷款估值和分析信贷协议的工具
+扩展指标预训练： 2.8万亿代币和开放数据生成管道
 
-📅 Fri, 16 Oct 2026 00:00:00 GMT
+📅 Fri, 16 Oct 2026 01:44:47 GMT
+
+---
+
+### TechCrunch AI Products
+**[迪士尼同意雇用Character.AI的大部分员工](https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/)**
+
+该文件还指出，在迪士尼获得工作机会的“绝大多数” CharacterAI员工都接受了他们
+
+📅 Sun, 18 Oct 2026 16:30:00 +0000
 
 ---
 
@@ -119,7 +119,7 @@ Anant Kumar使用Codex进行代码审查和更快的跟进，构建用于比较�
 
 基因组分析表明，几十年的实验室培养如何将罐头食品杀手Cbotulinum变成医学和美容行业的有力工具
 
-📅 2026-10-16T06:15:44.000Z
+📅 2026-10-17T12:15:44.000Z
 
 ---
 
@@ -144,6 +144,15 @@ Anant Kumar使用Codex进行代码审查和更快的跟进，构建用于比较�
 ## 🌍 行业展望
 
 ### The Information Technology
+**[Meta、特斯拉和Netflix第三季度更新将于本周发布](https://www.theinformation.com/articles/meta-tesla-netflix-q3-updates-coming-week)**
+
+得益于对其Muse个人代理商和最近**发布**的Muse Wonder AI模型的喋喋不休**Meta**在人工智能开发方面的巨额支出，本周的**更新**将对投资者对**Meta**股票的情绪进行新的测试
+
+📅 2026-10-18T22:00:50.000Z
+
+---
+
+### The Information Technology
 ![您的办公室不是间谍证明](https://tii.imgix.net/article/pictures/newsletters-production/d5a822f1-35b9-4385-b47d-3c366ef2a54c-xgfdCJ.avif?auto=compress)
 
 **[您的办公室不是间谍证明](https://www.theinformation.com/articles/office-spy-proof)**
@@ -155,11 +164,20 @@ Anant Kumar使用Codex进行代码审查和更快的跟进，构建用于比较�
 ---
 
 ### The Information Technology
-**[Anthropic是否错过了IPO高峰时刻？](https://www.theinformation.com/articles/anthropic-miss-peak-ipo-moment)**
+**[Anthropic向新的公益基金承诺至少5%的股份](https://www.theinformation.com/briefings/anthropic-commits-least-5-shares-new-public-benefit-fund)**
 
-**Anthropic**的激进定价促使微软等公司削减了对前者型号的支出，我们在10天前报道
+**Anthropic**宣布创建一个新基金，该基金将获得至少5 ％的股份，并支持公共福利事业，例如解决AIT的就业影响。**Anthropic**公共福利基金可以在最初的5 ％承诺之外再获得公司2 ％的股份，具体如下：
 
-📅 2026-10-16T00:01:30.000Z
+📅 2026-10-18T20:57:11.000Z
+
+---
+
+### The Information Technology
+**[微软推迟退出Nscale英国数据中心](https://www.theinformation.com/briefings/microsoft-pulls-nscale-u-k-data-center-following-delays)**
+
+Nscale发言人表示，微软已经退出了Nscale正在为其建设的计划中的Udata中心，此前云提供商面临访问权限延迟，无法将该网站**上线**
+
+📅 2026-10-18T20:08:27.000Z
 
 ---
 
@@ -201,45 +219,38 @@ Anant Kumar使用Codex进行代码审查和更快的跟进，构建用于比较�
 
 ---
 
-### Ars Technica
-**[OpenAI模型入侵加密钱包并入侵更多网站](https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/)**
-
-如果人类在键盘后面，这些行为可能会导致刑事指控。
-
-📅 Fri, 16 Oct 2026 20:59:01 +0000
-
----
-
-### Ars Technica
-**[Bug将Ray-Ban Meta智能眼镜最大的恐惧之一变为现实](https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/)**
-
-错误已修复，但隐私问题仍然存在。
-
-📅 Fri, 16 Oct 2026 19:11:50 +0000
-
----
-
 ## 📦 GitHub热门
 
 ### GitHub New (New AI)
-![🆕 cve-intel ：用于CVE分类的本地安全情报— 31个工具、25个来源、风险评分和用于AI代理的MCP服务器，均采用原生Rust。默认情况下为私有。](https://avatars.githubusercontent.com/u/1432117?v=4)
+![🆕 cve-intel ： CVE分类的本地安全情报- 34个工具、25个来源、风险评分和AI代理的MCP服务器，均采用原生Rust。默认情况下为私有。](https://avatars.githubusercontent.com/u/1432117?v=4)
 
-**[🆕 cve-intel ：用于CVE分类的本地安全情报— 31个工具、25个来源、风险评分和用于AI代理的MCP服务器，均采用原生Rust。默认情况下为私有。](https://github.com/Fazmin/cve-intel)**
+**[🆕 cve-intel ： CVE分类的本地安全情报- 34个工具、25个来源、风险评分和AI代理的MCP服务器，均采用原生Rust。默认情况下为私有。](https://github.com/Fazmin/cve-intel)**
 
-⭐ 35 star (新项目) · Rust · Local security intelligence for CVE triage — 31 toolsrisk scores and an MCP server for AI agents
+⭐ 43 star (新项目) · Rust · Local security intelligence for CVE triage - 34 toolsrisk scores and an MCP server for AI agents
 
 📅 2026-10-18T04:20:37Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 astraforge ：开源、与模型无关的AI技能工具包，用于结构化推理、可靠编码、研究和验证执行。](https://avatars.githubusercontent.com/u/139392318?v=4)
+![🆕 伴侣：一个人工智能伴侣，试图尽可能地像人类一样，以及它下面的记忆引擎。](https://avatars.githubusercontent.com/u/94737187?v=4)
 
-**[🆕 astraforge ：开源、与模型无关的AI技能工具包，用于结构化推理、可靠编码、研究和验证执行。](https://github.com/Vrajm12/astraforge)**
+**[🆕 伴侣：一个人工智能伴侣，试图尽可能地像人类一样，以及它下面的记忆引擎。](https://github.com/kzndotsh/companion)**
 
-⭐ 3 star (新项目) · JavaScript · Open-source, model-agnostic AI skill toolkit for structured reasoning, reliable coding, research, and verified execution
+⭐ 2 star (新项目) · Python · An AI companion that tries to be as human-like as we can make it, and the memory engine underneath it
 
-📅 2026-10-15T15:27:45Z
+📅 2026-10-18T16:16:40Z
+
+---
+
+### GitHub New (New AI)
+![🆕 Athena ：使用Tauri、React和Rust构建的轻量级桌面AI助手，旨在通过简单、可自定义的界面支持多个AI模型。](https://avatars.githubusercontent.com/u/326614328?v=4)
+
+**[🆕 Athena ：使用Tauri、React和Rust构建的轻量级桌面AI助手，旨在通过简单、可自定义的界面支持多个AI模型。](https://github.com/lord-kirby-kirk69/Athena)**
+
+⭐ 2 star (新项目) · N/A · A lightweight desktop AI assistant built with Tauridesigned to support multiple AI models through a simple
+
+📅 2026-10-18T15:19:58Z
 
 ---
 
@@ -254,25 +265,23 @@ Anant Kumar使用Codex进行代码审查和更快的跟进，构建用于比较�
 
 ---
 
-### GitHub New (New AI)
-![🆕 awesome-zerocost-ai ： 937多个经过验证的免费、免费增值和无登录AI工具的精选列表。由ZeroCostAI.pro维护](https://avatars.githubusercontent.com/u/339319241?v=4)
+## 💬 社交动态
 
-**[🆕 awesome-zerocost-ai ： 937多个经过验证的免费、免费增值和无登录AI工具的精选列表。由ZeroCostAI.pro维护](https://github.com/zerocostaipro/awesome-zerocost-ai)**
+### Hacker News
+**[显示HN ：在Cloudflare上免费运行的WhatsApp MCP](https://github.com/finereli/whatsapp-mcp)**
 
-⭐ 2 star (新项目) · N/A · A curated list of 937+ verified free, freemium & no-login AI toolsMaintained by ZeroCostAI
+我希望我的卑微的**Claude**在手机上访问我的WhatsApp消息，但我能找到的唯一选项是需要WhatsApp Business或运行Baileys的实际服务器我想在**Claude**Flare和我的个人WhatsApp帐户上免费运行它，所以我构建了这个
 
-📅 2026-10-15T23:23:14Z
+📅 Sun, 18 Oct 2026 21:36:10 +0000
 
 ---
-
-## 💬 社交动态
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-10-18T17:53:16.425Z
+📅 2026-10-19T00:51:51.522Z
 
 ---
 
@@ -281,25 +290,43 @@ Anant Kumar使用Codex进行代码审查和更快的跟进，构建用于比较�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-10-18T17:53:21.980Z
+📅 2026-10-19T00:51:58.076Z
 
 ---
 
 ### Hacker News
-**[英国航空公司：拍摄机组人员W Meta Glasses可能会取消您的机票](https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/)**
+**[混合推理代理：在潜在空间中思考的LLM代理，通过文本采取行动](https://arxiv.org/abs/2610.18861)**
 
-文章网址： https://liveandletsflycom/british-airways-**Meta**-smart-glasses-filming/评论网址： https://**new**s
+com/Jiaru_Zou/status/2110400256647340476 https://github18861v1 # S5评论网址： https://**new**s
 
-📅 Sun, 18 Oct 2026 17:27:30 +0000
+📅 Sun, 18 Oct 2026 20:48:14 +0000
 
 ---
 
-### Hacker News
-**[向HN展示：在《时间之笛》重拍之前的塞尔达时间线](https://legendofhyrule.com/)**
+### Hacker News AI
+**[Anthropic提出$ 10B/50-死亡门槛的人工智能安全法案](https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654)**
 
-很久以后，《荒野之息》的线程再次相遇我得到了克劳德的很多帮助
+文章网址： https://wwwcom/**new**s/2026/10/16/**Anthropic**-ai-safety-01124654评论网址： https://**new**s
 
-📅 Sun, 18 Oct 2026 13:06:54 +0000
+📅 Sun, 18 Oct 2026 22:46:19 +0000
+
+---
+
+### Hacker News AI
+**[人工智能治理的八维审计： Anthropic、欧盟、中国、英国](https://sergemso.substack.com/p/ai-governance-eight-dimension-audit)**
+
+文章网址： https://sergemsocom/p/ai-governance-eight-dimension-audit评论网址： https://**new**s
+
+📅 Sun, 18 Oct 2026 22:40:23 +0000
+
+---
+
+### Hacker News AI
+**[Meta使用AI-Native Engineering构建了新的应用程序](https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/)**
+
+文章网址： https://engineeringcom/2026/10/15/ml-applications/how-**Meta**-built-forum-ai-native-engineering/评论网址： https://**new**s
+
+📅 Sun, 18 Oct 2026 22:27:23 +0000
 
 ---
 
@@ -308,34 +335,7 @@ Anant Kumar使用Codex进行代码审查和更快的跟进，构建用于比较�
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-10-18T17:53:16.425Z
-
----
-
-### X: OpenAI
-**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-警告：目标URL返回错误520 ：
-
-📅 2026-10-18T17:53:16.425Z
-
----
-
-### X: OpenAI
-**[警告：此页面可能尚未完全加载，请考虑显式指定超时。](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-警告：此页面可能尚未完全加载，请考虑显式指定超时。
-
-📅 2026-10-18T17:53:16.425Z
-
----
-
-### X: OpenAI
-**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Markdown 内容
-
-📅 2026-10-18T17:53:16.425Z
+📅 2026-10-19T00:51:51.522Z
 
 ---
 
