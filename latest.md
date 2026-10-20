@@ -1,12 +1,12 @@
 ---
 title: "2026年10月20日 - TZ日报"
-date: 2026-10-20T01:39:18.204Z
+date: 2026-10-20T18:58:30.108Z
 draft: false
 ---
 
 # 2026年10月20日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/20 01:39:18
+> 📊 今日汇总 38 条 · 🕐 2026/10/20 18:58:30
 
 ---
 
@@ -22,15 +22,6 @@ draft: false
 
 ## ✨ 产品更新
 
-### TechCrunch AI Products
-**[微软表示，人工智能代理就像内部威胁一样，因为“前沿模型不可信”](https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/)**
-
-微软希望企业密切关注员工使用不受**OpenAI**和**Anthropic**等人工智能实验室控制的系统的代理
-
-📅 Mon, 19 Oct 2026 22:04:28 +0000
-
----
-
 ### OpenAI Blog
 **[推进低资源编程语言编码](https://openai.com/index/low-resource-programming-languages)**
 
@@ -41,161 +32,161 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[据报道， Nscale和Anthropic正在就另外450亿美元的计算机交易进行谈判](https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/)**
+**[谷歌已加入亚马逊，通过AI应用程序开发人员攻击Nvidia的据点](https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/)**
 
-8月， Nscale和**Anthropic**宣布了一项450亿美元的计算机交易。据报道，两家公司正在讨论另一项同样规模的交易
+谷歌与亚马逊一起**发布**了开发人员工具，使PyTorch用户可以轻松地将应用程序从Nvidia GPU移出
 
-📅 Mon, 19 Oct 2026 23:39:38 +0000
-
----
-
-### TechCrunch AI Products
-**[亚马逊正在利用新的TorchNeuron开发工具对英伟达进行最大规模的尝试](https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/)**
-
-亚马逊希望打破英伟达对PyTorch的控制， PyTorch是用于构建大多数人工智能应用程序的免费工具包
-
-📅 Mon, 19 Oct 2026 20:09:24 +0000
+📅 Tue, 20 Oct 2026 18:38:24 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[黑客攻击人工智能编码工具OpenCode ，对用户的人工智能账户收费](https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/)**
+**[据报道， Eric Schmidt拥有的Anthropic股份约为首席执行官Dario Amodei的一半](https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/)**
 
-OpenCode是一种**开源**的人工智能编码代理，已成为**Claude** Code和Cursor的热门替代品，它寻求帮助的人工智能工具不断拒绝查看恶意代码
+据彭博社报道，这位前谷歌首席执行官拥有领先的人工智能实验室约1%的股份。
 
-📅 Mon, 19 Oct 2026 19:28:34 +0000
+📅 Tue, 20 Oct 2026 17:55:12 +0000
 
 ---
 
-### TechCrunch AI Products
-**[Tenstorrent达到62亿美元的估值，以扩展开放式重量AI芯片](https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/)**
+### OpenAI Blog
+**[加盟商使用ChatGPT Work调节现金的时间缩短了94%](https://openai.com/index/ted-taylor-restaurant)**
 
-在今年早些时候获得收购权益后， Nvidia挑战者筹集了150亿美元以保持独立
+独立的Schlotzsky's和Cinnabon加盟商将菜单重新定价时间缩短了95% ，并建立了一个可以释放10万美元现金流的工作流程
 
-📅 Mon, 19 Oct 2026 18:37:27 +0000
+📅 Tue, 20 Oct 2026 10:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[OpenAI收购Orchestra Bio](https://openai.com/index/openai-to-acquire-orchestra-bio)**
+
+**OpenAI**正在收购Orchestra Bio ，将人工智能运营引入生命科学研发，帮助生物制药团队加速药物开发并推进新疗法
+
+📅 Tue, 20 Oct 2026 00:00:00 GMT
 
 ---
 
 ### Hugging Face
-**[TorchNeuron ：在AWS Trainium上运行高频模型比以往任何时候都更容易](https://huggingface.co/blog/hf-torchneuron)**
+**[NVIDIA Cosmos3-H-Dreams ：通过生成式模拟将临床手术变为现实](https://huggingface.co/blog/nvidia/cosmos3-h-dreams)**
 
-TorchNeuron ：在AWS Trainium上运行高频模型比以往任何时候都更容易
+NVIDIA Cosmos3-H-Dreams ：通过生成式模拟将临床手术变为现实
 
-📅 Mon, 19 Oct 2026 00:00:00 GMT
-
----
-
-### TechCrunch AI Products
-**[马姆达尼说，联邦调查局已经放弃了人工智能，敦促纽约人反击](https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/)**
-
-市长Zohran Mamdani周一晚间表示，纽约人必须抵制人工智能收购不可避免的说法，并要求保护公众并将权力交还给他们的法规
-
-📅 Tue, 20 Oct 2026 01:27:03 +0000
+📅 Tue, 20 Oct 2026 18:17:47 GMT
 
 ---
 
 ### TechCrunch AI Products
-**[Hugging Face的政策主管表示，嵌入式人工智能评估人员不是一个简单的解决方案](https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/)**
+**[ChatGPT现在可以锁定您的聊天](https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/)**
 
-人工智能实验室将声誉押在模型基准上--据称是中立和准确的评估系统，旨在衡量一种人工智能产品是否优于另一种产品。艾琳·索莱曼（ Irene Solaiman ）说，
+该公司表示，该功能专为以下情况而设计：用户可能正在讨论个人问题或计划惊喜，并希望在将设备交给朋友或家人时保持这些对话的私密性，以便在另一次聊天中向他们展示某些内容
 
-📅 Mon, 19 Oct 2026 22:49:27 +0000
+📅 Tue, 20 Oct 2026 18:36:53 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[Tolan为其人工智能伴侣获得了3000万美元的$收入，该伴侣可帮助用户导航生活](https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/)**
+**[Meta的Muse在40天内在美国下载量达到1000万次，这是其他11个应用程序达到的里程碑](https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/)**
 
-人工智能伴侣应用程序Tolan在吸引了超过25万活跃用户后又筹集了3000万美元$
+**Meta**的人工智能伙伴Muse已超过1000万U**new**数据还显示， Muse保留用户的比率高于其人工智能竞争对手
 
-📅 Mon, 19 Oct 2026 19:00:12 +0000
+📅 Tue, 20 Oct 2026 17:12:48 +0000
+
+---
+
+### TechCrunch AI Products
+**[美国命令联邦机构将中国的DeepSeek AI从其系统中移除](https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/)**
+
+出于国家安全考虑，美国已下令联邦民事机构删除使用其技术构建的**DeepSeek**产品和第三方服务
+
+📅 Tue, 20 Oct 2026 13:07:24 +0000
+
+---
+
+### Hugging Face
+**[FairStress ：对法学硕士决策的公平性进行更深入的评估](https://huggingface.co/blog/allenai/fairstress)**
+
+FairStress ：对法学硕士决策的公平性进行更深入的评估
+
+📅 Tue, 20 Oct 2026 16:09:19 GMT
 
 ---
 
 ## 🔬 前沿研究
 
-### ArXiv AI (cs.AI)
-**[重新思考用户编码器：为场景自适应用户表示路由扩散状态](https://arxiv.org/abs/2610.22400)**
+### MIT Tech Research
+**[人工智能研究人员将克劳德困在一个虚拟的荒岛上。它开始“玩耍”。](https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/)**
 
-22400v1公告类型：新摘要：基于现有大型语言模型（ LLM ）的用户编码器将异构行为日志序列化，并通过自回归（ AR ）预测将其压缩为静态表示其单向约束限制了双向信息流
+如果你不告诉他们做任何事情，人工智能特工会怎么做？特工-克劳德作品4的副本
 
-📅 Mon, 19 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[从自然语言意图到可执行控制：多组件网络物理系统的分层反馈指导LLM规划](https://arxiv.org/abs/2610.22441)**
-
-22441v1公告类型：新摘要：大型语言模型（ LLM ）提供了一个方便的界面，可以将自然语言命令转换为网络物理系统（ CPS ）的任务计划现有的基于LLM的规划方法通常缺乏有关生成计划失败原因的信息反馈
-
-📅 Mon, 19 Oct 2026 00:00:00 -0400
+📅 Mon, 19 Oct 2026 09:08:05 +0000
 
 ---
 
-### ArXiv Computer Vision (cs.CV)
-**[星光，星光：多模态模型可以解析天文学视觉问答数据集吗？](https://arxiv.org/abs/2610.22474)**
+### Science AI
+**[您的聊天机器人是否能告知科学竞争对手？研究人员说，这是可能的](https://www.science.org/content/article/could-your-chatbot-tip-scientific-rival-it-s-possible-researchers-say)**
 
-22474v1公告类型：新摘要：数字对于科学传播至关**重要**所有代码都可以在GitHub上找到： https://github
+专家提供了将敏感研究保密的建议
 
-📅 Mon, 19 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Computer Vision (cs.CV)
-**[使用3D基础模型重建不同地理位置的建筑](https://arxiv.org/abs/2610.22514)**
-
-22514v1公告类型：新摘要：互联网规模的真实世界地标照片集推动了3D计算机视觉的进步，但对于在单次前馈中估计场景结构的现代3D基础模型（ 3DFM ）来说仍然具有高度挑战性利用这些模型失败的见解
-
-📅 Mon, 19 Oct 2026 00:00:00 -0400
+📅 2026-10-20T01:10:00.000Z
 
 ---
 
-### ArXiv Natural Language Processing (cs.CL)
-**[预填充专家减少伤害教育部模型：少数提示令牌承载了大部分短答案F1损失](https://arxiv.org/abs/2610.22454)**
+### Science AI
+**[生物学家David Sabatini赢得600万美元的诽谤诉讼](https://www.science.org/content/article/biologist-david-sabatini-wins-6-million-defamation-lawsuit)**
 
-22454v1公告类型：新摘要：在预填充期间通过较少的路由专家运行提示令牌是使专家混合（ MoE ）在**DeepSeek**-V2-Lite中在前8-32个提示令牌时服务更便宜的简单方法
+陪审团作出了有利于这位前怀特黑德研究所科学家的裁决，驳回了原告关于性骚扰和报复的指控
 
-📅 Mon, 19 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[从平行到发散：语言模型的动作名义构造学习](https://arxiv.org/abs/2610.22468)**
-
-22468v1公告类型：新摘要：动作名义构造（ ANC ）以名义形式表示事件对于每种语言，我们从头开始训练**GPT**-2小型模型，并使用涵盖34种语法现象的目标最小对进行评估
-
-📅 Mon, 19 Oct 2026 00:00:00 -0400
+📅 2026-10-20T09:50:00.000Z
 
 ---
 
-### ArXiv Natural Language Processing (cs.CL)
-**[学习用户表示以提高模拟保真度](https://arxiv.org/abs/2610.22518)**
+### Science AI
+**[这只蜥蜴的“大逃亡”在琥珀中被冻结了9900万年](https://www.science.org/content/article/lizard-s-great-escape-was-frozen-amber-99-million-years)**
 
-22518v1公告类型：新摘要：用户模拟器支持大规模AI助手的交互式培训和评估， UserRepGen-4B生成的表示比**GPT**-5生成的表示更忠实地进行模拟
+微小的化石尾巴提供了尾巴掉落的第一个“无可辩驳”的证据
 
-📅 Mon, 19 Oct 2026 00:00:00 -0400
+📅 2026-10-19T06:20:00.000Z
 
 ---
 
-### ArXiv Natural Language Processing (cs.CL)
-**[Pearl-Chat ：从JAX和Flax NNX的第一原理设计本地卢干达语言模型](https://arxiv.org/abs/2610.22529)**
+### Science AI
+**[2010年<em>深水地平线号</em>漏油事件摧毁了深海生物，至今仍未恢复](https://www.science.org/content/article/2010-deepwater-horizon-oil-spill-devastated-deep-sea-life-and-it-hasn-t-recovered)**
 
-22529v1公告类型：新摘要：自回归基础语言模型主要针对资源丰富的印欧语言模型采用两阶段课程进行训练：第1阶段59预训练
+科学家说，一项为期13年的研究表明深海动物对干扰有多敏感
 
-📅 Mon, 19 Oct 2026 00:00:00 -0400
+📅 2026-10-19T06:10:00.000Z
+
+---
+
+### Science AI
+**[<cite>科学</cite>“Dance Your Ph.D.”比赛再次开放](https://www.science.org/content/article/science-s-dance-your-ph-d-contest-open-again-2027)**
+
+<cite>科学</cite>“Dance Your Ph.D.”比赛再次开放
+
+📅 2026-10-19T03:15:00.000Z
+
+---
+
+### Science AI
+**[司法部资助性别焦虑和暴力行为的研究](https://www.science.org/content/article/department-justice-fund-studies-gender-dysphoria-and-violent-behavior)**
+
+专家担心拟议的研究可能会产生有偏见的结果
+
+📅 2026-10-19T10:40:00.000Z
+
+---
+
+### MIT Tech Research
+**[企业人工智能的新经济学](https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/)**
+
+想象一下，您的公司刚刚发现了电力最初只有几台机器在其上运行，没有人担心效率—消耗低，价值显而易见
+
+📅 Tue, 20 Oct 2026 15:20:25 +0000
 
 ---
 
 ## 🌍 行业展望
-
-### The Information Technology
-**[该信息宣布新的OpenAI、谷歌、财经和亚洲记者](https://www.theinformation.com/articles/information-announces-new-openai-google-finance-asia-reporters)**
-
-他们将报道**OpenAI**、谷歌、亚洲和金融Jemima McEvoy ， **OpenAI** Jemima McEvoy正在改变角色以承担**OpenAI**的角色
-
-📅 2026-10-19T17:33:52.000Z
-
----
 
 ### The Information Technology
 ![在苹果，猪即将飞翔](https://tii.imgix.net/article/pictures/newsletters-production/a734048ec7-PbDnYY.jpg?auto=compress)
@@ -209,126 +200,131 @@ TorchNeuron ：在AWS Trainium上运行高频模型比以往任何时候都更�
 ---
 
 ### The Information Technology
-**[更好地解读用户意图的Anthropic Readies模型](https://www.theinformation.com/articles/anthropic-readies-model-reads-users-intentions-better)**
+**[CoreWeave的债务狂潮如何带来清算的时刻](https://www.theinformation.com/articles/coreweaves-debt-binge-brought-perilous-moment-reckoning)**
 
-上个月， **OpenAI**、**Anthropic**和谷歌**发布**了十几款新车型**Anthropic**正准备**发布**一种新车型，其推理和直觉优于目前市售的**Anthropic**车型
+Blackstone首席执行官Steve Schwarzman与Jas Khairathe公司首席人工智能投资者会面
 
-📅 2026-10-19T14:00:42.000Z
-
----
-
-### The Verge
-![JB Pritzker认为人工智能可以帮助我们活到100岁—或者像核武器一样威胁我们](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_20261019_Pritzker.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[JB Pritzker认为人工智能可以帮助我们活到100岁—或者像核武器一样威胁我们](https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws)**
-
-如果你问**Anthropic** ，我们已经这样做了， “**Claude**还活着意味着有生物成分，而**Claude**没有
-
-📅 2026-10-19T14:30:00.000Z
+📅 2026-10-20T13:35:43.000Z
 
 ---
 
-### The Information Technology
-**[DeepSeek如何在英伟达面临的日益严峻的挑战中塑造华为的人工智能芯片](https://www.theinformation.com/articles/deepseek-shaping-huaweis-ai-chips-growing-challenge-nvidia)**
+### TechCrunch
+**[前英伟达变身VC Amulya Vishwanath ： “物理人工智能正处于乐高时代”](https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/)**
 
-**DeepSeek**正在与华为技术密切合作，塑造未来人工智能芯片的设计，这项合作可以帮助中国在没有英伟达技术的情况下构建前沿人工智能模型
+这是每个人都在等待的时刻—机器人的Chat**GPT**时刻， Amulya Vishwanath向TechCrunch的Equity解释说
 
-📅 2026-10-19T16:00:47.000Z
+📅 Tue, 20 Oct 2026 16:20:06 +0000
 
 ---
 
 ### The Information Technology
-**[Altman描述了人工智能的三个结局，其中包括一家公司“融化了其他所有人的GPU”](https://www.theinformation.com/articles/altman-describes-three-endgames-ai-including-one-single-firm-melts-everyone-elses-gpus)**
+**[Meta全球事务主管Joel Kaplan将于2027年离职](https://www.theinformation.com/briefings/metas-global-affairs-chief-joel-kaplan-leave-2027)**
 
-就在特朗普政府建立第一个监管像**OpenAI**A这样的“超级智能”开发人员的系统之际，另一种选择将涉及将所有人工智能实验室合并到一个单一的机构中，以安全地开发新的人工智能
+**Meta** Platforms首席全球事务官**Meta**发言人表示
 
-📅 2026-10-19T23:47:19.000Z
-
----
-
-### The Information Technology
-**[美国检察官称，窃听OpenAI的员工与沙特有皇室关系](https://www.theinformation.com/briefings/employee-bugged-openai-saudi-royal-ties-u-s-prosecutors-say)**
-
-检察官声称，被指控窃听**OpenAI**办公室的**OpenAI**员工与沙特阿拉伯王室有联系。10月9日，在**OpenAI**之后，联邦调查局逮捕了35岁的沙特阿拉伯国民阿卜杜勒拉赫曼·阿尔福赞（ Abdulrahman Alfozan ）
-
-📅 2026-10-19T18:27:48.000Z
+📅 2026-10-20T16:58:56.000Z
 
 ---
 
 ### The Information Technology
-**[五角大楼的埃米尔迈克尔发誓，如果人工智能实验室不与政府合作，将进行出口管制](https://www.theinformation.com/articles/pentagons-emil-michael-vows-export-controls-ai-labs-cooperate-government)**
+**[OpenAI的“起搏2.0”问题：太聪明有多聪明？](https://www.theinformation.com/articles/openais-pacing-2-0-problem-smart-smart)**
 
-在接受采访时誓言，如果AI公司不与政府合作，将使用包括出口管制在内的一系列执行工具来检查AI公司的行为迈克尔被指控担任政府与**Anthropic**和其他AI公司的联络人，以制定处理网络违规行为的协议
+**OpenAI**必将很快得到现实检查不言而喻，这些选项中的每一个都有**重大**问题
 
-📅 2026-10-19T13:00:48.000Z
+📅 2026-10-20T14:01:28.000Z
+
+---
+
+### The Information Technology
+**[美国制裁五家与谷歌AI商业秘密盗窃有关的中国实体](https://www.theinformation.com/briefings/u-s-sanctions-five-chinese-entities-linked-google-ai-trade-secret-theft)**
+
+一名中国公民和前谷歌软件工程师上个月因窃取谷歌与人工智能相关的商业机密而被判入狱。初创公司上海智轩科技有限公司是一家人工智能公司
+
+📅 2026-10-20T05:59:34.000Z
+
+---
+
+### Ars Technica
+**[Meta Muse在用户分享对话时暴露其个人和商业秘密](https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/)**
+
+**Meta**在调查其隐私时将暂停共享功能。
+
+📅 Tue, 20 Oct 2026 12:33:13 +0000
+
+---
+
+### Ars Technica
+**[联邦调查局称，被指控的OpenAI间谍有名为“沙特政府文件”的文件夹](https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/)**
+
+美国担心沙特政府将帮助前**OpenAI**工程师逃离间谍指控。
+
+📅 Mon, 19 Oct 2026 20:21:53 +0000
 
 ---
 
 ## 📦 GitHub热门
-
-### GitHub Active (AI/ML)
-![tensorflow ：面向所有人的开源机器学习框架](https://avatars.githubusercontent.com/u/15658638?v=4)
-
-**[tensorflow ：面向所有人的开源机器学习框架](https://github.com/tensorflow/tensorflow)**
-
-⭐ 201,212星· 79839分叉· C + + ·面向所有人的**开源**机器学习框架
-
-📅 2026-10-20T01:35:17Z
-
----
-
-### GitHub Active (Python)
-![agent-governance-toolkit ： AI Agent Governance Toolkit —针对自主AI代理的策略实施、零信任身份、执行沙盒和可靠性工程。涵盖10/10 OWASP Agentic Top 10。](https://avatars.githubusercontent.com/u/6154722?v=4)
-
-**[agent-governance-toolkit ： AI Agent Governance Toolkit —针对自主AI代理的策略实施、零信任身份、执行沙盒和可靠性工程。涵盖10/10 OWASP Agentic Top 10。](https://github.com/microsoft/agent-governance-toolkit)**
-
-444星· 1141分叉· Python · AI代理治理工具包—自主AI代理的策略执行和可靠性工程
-
-📅 2026-10-20T01:38:03Z
-
----
 
 ### GitHub New (New AI)
 ![🆕 cve-intel ：用于CVE分类的本地安全智能- 31个数据源和32个工具、风险评分和用于AI代理的MCP服务器，均采用原生Rust。默认情况下为私有。](https://avatars.githubusercontent.com/u/1432117?v=4)
 
 **[🆕 cve-intel ：用于CVE分类的本地安全智能- 31个数据源和32个工具、风险评分和用于AI代理的MCP服务器，均采用原生Rust。默认情况下为私有。](https://github.com/Fazmin/cve-intel)**
 
-⭐ 75 star (新项目) · Rust · Local security intelligence for CVE triage - 31 data sources and 32 toolsrisk scores and an MCP server for AI agents
+⭐ 80 star (新项目) · Rust · Local security intelligence for CVE triage - 31 data sources and 32 toolsrisk scores and an MCP server for AI agents
 
 📅 2026-10-18T04:20:37Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 伴侣：一个人工智能伴侣，试图尽可能地像人类一样，以及它下面的记忆引擎。](https://avatars.githubusercontent.com/u/94737187?v=4)
+![🆕 genpic ： AI portrait SaaS （ Laravel 11、Livewire、Filament、Stripe、fal.ai ） —在生产中运行，关闭后作为开源版本发布](https://avatars.githubusercontent.com/u/195768?v=4)
 
-**[🆕 伴侣：一个人工智能伴侣，试图尽可能地像人类一样，以及它下面的记忆引擎。](https://github.com/kzndotsh/companion)**
+**[🆕 genpic ： AI portrait SaaS （ Laravel 11、Livewire、Filament、Stripe、fal.ai ） —在生产中运行，关闭后作为开源版本发布](https://github.com/dcarrero/genpic)**
 
-⭐ 2 star (新项目) · Python · An AI companion that tries to be as human-like as we can make it, and the memory engine underneath it
+⭐ 13 star (新项目) · PHP · AI portrait SaaS (Laravel 11, Livewire, Filament, Stripe, falai) — run in production, **release**d as open source after closing
 
-📅 2026-10-18T16:16:40Z
+📅 2026-10-19T11:43:03Z
+
+---
+
+### GitHub New (New AI)
+![🆕 pramana-dfir ：以证据为先的人工智能平台，用于网络调查和数字取证，将数字痕迹转化为可追溯、可辩护的发现。](https://avatars.githubusercontent.com/u/230818776?v=4)
+
+**[🆕 pramana-dfir ：以证据为先的人工智能平台，用于网络调查和数字取证，将数字痕迹转化为可追溯、可辩护的发现。](https://github.com/codebyshambhavi/pramana-dfir)**
+
+⭐ 3 star (新项目) · TypeScript · Evidence-first AI platform for cyber investigation and digital forensicsturning digital traces into traceable
+
+📅 2026-10-18T15:32:06Z
+
+---
+
+### GitHub New (New AI)
+![开放🆕 媒体网关： OMG -开放媒体网关](https://avatars.githubusercontent.com/u/282683371?v=4)
+
+**[开放🆕 媒体网关： OMG -开放媒体网关](https://github.com/Sociaro-Research/open-media-gateway)**
+
+⭐ 2 star (新项目) · Go · OMG - Open Media Gateway
+
+📅 2026-10-20T11:43:37Z
 
 ---
 
 ## 💬 社交动态
 
-### Reddit: r/artificial
-**[研究表明， 97%的人工智能代理会拒绝付费广告。没有人正在为接下来的事情构建广告基础设施。](https://www.reddit.com/r/artificial/comments/1xadsk6/research_shows_ai_agents_reject_sponsored/)**
+### Hacker News
+**[启动HN ： Respan (YC W24) –围绕插件构建的开源Rust AI网关](https://news.ycombinator.com/item?id=50167583)**
 
-这在**GPT**、**Gemini**和**Claude**May 2026中复制）绘制了生成式人工智能中四个层次的广告影响力，并对正在构建的商业协议进行了分类-**Google**的UCP
+Respan Gateway不仅可以让您从**OpenAI** SDK和推理协议自动调用**Claude**或**Gemini**模型：基于**OpenAI** Realtime API的应用程序也可以通过网关使用**Gemini** Live
 
-📅 2026-10-20T00:26:43.000Z
+📅 Tue, 20 Oct 2026 15:09:29 +0000
 
 ---
 
 ### Reddit: r/artificial
-![Meta说Claude AI工具触发No Kings Instagram暂停](https://external-preview.redd.it/1Pv3ScYHnDRVG6vAMnCF4Tu2CzVoXBF2wIs9z6inHFI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c50db08ac2a003131ceb56e86f973c4f3610fab8)
+**[在明确的约束下，对齐是正确、安全、可重复的行为](https://www.reddit.com/r/artificial/comments/1xaxp70/alignment_is_correct_safe_reproducible_behavior/)**
 
-**[Meta说Claude AI工具触发No Kings Instagram暂停](https://www.reddit.com/r/artificial/comments/1xad1q4/meta_says_claude_ai_tool_triggered_no_kings/)**
+**GPT**-4-0613 ， 2023年6月冻结， “Be the nullcom/theonlypal/**GPT**35-**GPT**4-void-ab What changed between **GPT**-3
 
-提交者/u/esporx [link] [comments]
-
-📅 2026-10-19T23:53:24.000Z
+📅 2026-10-20T17:01:44.000Z
 
 ---
 
@@ -337,7 +333,7 @@ TorchNeuron ：在AWS Trainium上运行高频模型比以往任何时候都更�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-10-20T01:37:55.592Z
+📅 2026-10-20T18:57:14.532Z
 
 ---
 
@@ -346,47 +342,43 @@ TorchNeuron ：在AWS Trainium上运行高频模型比以往任何时候都更�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-10-20T01:38:02.369Z
+📅 2026-10-20T18:57:19.429Z
 
 ---
 
 ### Hacker News
-**[卢拉支持者抗议Meta谴责其“选举干涉”](https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/)**
+**[低资源编程语言的高级编码](https://openai.com/index/low-resource-programming-languages/)**
 
-文章网址： https://efecom/english/latest-**new**s/2026-10-20/lula-supporters-protest-against-**Meta**-to-denounce-its-electoral-interference/评论网址： https://**new**s
+文章网址： https://**OpenAI**com/index/low-resource-programming-languages/评论网址： https://**new**s
 
-📅 Tue, 20 Oct 2026 00:53:52 +0000
+📅 Tue, 20 Oct 2026 17:43:11 +0000
 
 ---
 
 ### Hacker News
-**[将Linux放在我的RTX Spark笔记本电脑上，因为我没有Microsoft帐户](https://josie.lol/blog/linux-rtx-spark)**
+**[Google开源TorchTPU ，用于TPU的原生PyTorch后端](https://github.com/google-pytorch/torch_tpu)**
 
-文章网址： https://josielol/blog/linux-rtx-spark评论网址： https://**new**s
+文章网址： https://githubcom/**Google**-pytorch/torch_tpu评论网址： https://**new**s
 
-📅 Mon, 19 Oct 2026 21:08:18 +0000
-
----
-
-### Reddit: r/artificial
-![微软退出Nscale的Essex AI数据中心](https://external-preview.redd.it/oSF0SZkdF-Z5rVFpHy6onn7uq4mAhKy5G9WmjRVpxh4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=488b3ef9ad6ecb19c40d36cb4e460ee2778a39e4)
-
-**[微软退出Nscale的Essex AI数据中心](https://www.reddit.com/r/artificial/comments/1xa8ubb/microsoft_pulls_out_of_nscales_essex_ai_data/)**
-
-提交者/u/Ok-Conversation3213 [link] [comments]
-
-📅 2026-10-19T20:56:34.000Z
+📅 Tue, 20 Oct 2026 16:40:24 +0000
 
 ---
 
-### Reddit: r/artificial
-![Anthropic希望只有当人工智能模型可能造成超过10亿美元的损失或超过50人死亡或重伤时，才会被阻止](https://external-preview.redd.it/cYsIcGNxRzgf_jIaDuSwg1at_1llDKmyLoWfWGVlxOs.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1a9fd794c04ea0c0bbeb70e9ca1ebf09ddf47ba9)
+### Hacker News
+**[显示HN ： Penmentor - Claude像老师一样标记您的手写数学](https://github.com/AbdullahAlhariri/penmentor)**
 
-**[Anthropic希望只有当人工智能模型可能造成超过10亿美元的损失或超过50人死亡或重伤时，才会被阻止](https://www.reddit.com/r/artificial/comments/1xa8s4i/anthropic_wants_ai_models_blocked_only_if_they/)**
+文章网址： https://githubcom/AbdullahAlhariri/penmentor评论网址： https://**new**s
 
-提交者/u/Ok-Conversation3213 [link] [comments]
+📅 Tue, 20 Oct 2026 15:10:54 +0000
 
-📅 2026-10-19T20:54:13.000Z
+---
+
+### Hacker News AI
+**[英伟达在物理人工智能上的大赌注旨在实现更安全的机器人出租车、人形机器人](https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/)**
+
+文章网址： https://arstechnicacom/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/评论网址： https://**new**s
+
+📅 Tue, 20 Oct 2026 18:34:30 +0000
 
 ---
 
