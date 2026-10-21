@@ -1,12 +1,12 @@
 ---
-title: "2026年10月20日 - TZ日报"
-date: 2026-10-20T18:58:30.108Z
+title: "2026年10月21日 - TZ日报"
+date: 2026-10-21T01:21:33.373Z
 draft: false
 ---
 
-# 2026年10月20日 - TZ日报
+# 2026年10月21日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/20 18:58:30
+> 📊 今日汇总 38 条 · 🕐 2026/10/21 01:21:33
 
 ---
 
@@ -59,6 +59,15 @@ draft: false
 ---
 
 ### OpenAI Blog
+**[终端X匹配高级投资者判断88.6%与GPT-6.1](https://openai.com/index/terminal-x)**
+
+Terminal X的评估代理根据54个标准的标准对输出进行评分，通过**GPT**-6发现基金授权的偏差增加了25%
+
+📅 Tue, 20 Oct 2026 07:00:00 GMT
+
+---
+
+### OpenAI Blog
 **[OpenAI收购Orchestra Bio](https://openai.com/index/openai-to-acquire-orchestra-bio)**
 
 **OpenAI**正在收购Orchestra Bio ，将人工智能运营引入生命科学研发，帮助生物制药团队加速药物开发并推进新疗法
@@ -77,38 +86,29 @@ NVIDIA Cosmos3-H-Dreams ：通过生成式模拟将临床手术变为现实
 ---
 
 ### TechCrunch AI Products
-**[ChatGPT现在可以锁定您的聊天](https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/)**
+**[Anthropic提出人工智能安全法案，如果超过50人可能被杀，可能会阻止模型](https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/)**
 
-该公司表示，该功能专为以下情况而设计：用户可能正在讨论个人问题或计划惊喜，并希望在将设备交给朋友或家人时保持这些对话的私密性，以便在另一次聊天中向他们展示某些内容
+拟议的政策似乎提供了针对人工智能疯狂运行的保护措施，但实际上禁止联邦机构在未经法官许可的情况下阻止模型的**发布**
 
-📅 Tue, 20 Oct 2026 18:36:53 +0000
-
----
-
-### TechCrunch AI Products
-**[Meta的Muse在40天内在美国下载量达到1000万次，这是其他11个应用程序达到的里程碑](https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/)**
-
-**Meta**的人工智能伙伴Muse已超过1000万U**new**数据还显示， Muse保留用户的比率高于其人工智能竞争对手
-
-📅 Tue, 20 Oct 2026 17:12:48 +0000
+📅 Tue, 20 Oct 2026 23:01:23 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[美国命令联邦机构将中国的DeepSeek AI从其系统中移除](https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/)**
+**[Hugging Face首席执行官警告Netflix的OpenAI黑客纪录片不准确](https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/)**
 
-出于国家安全考虑，美国已下令联邦民事机构删除使用其技术构建的**DeepSeek**产品和第三方服务
+在您分享Netflix纪录片“AI Gone Rogue”之前，请记住电影中Hugging Face的联合创始人Clem Delangue说它进入了“全毁灭模式”并且不准确
 
-📅 Tue, 20 Oct 2026 13:07:24 +0000
+📅 Tue, 20 Oct 2026 22:24:02 +0000
 
 ---
 
-### Hugging Face
-**[FairStress ：对法学硕士决策的公平性进行更深入的评估](https://huggingface.co/blog/allenai/fairstress)**
+### TechCrunch AI Products
+**[Anthropic的云合作伙伴关系变得混乱](https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/)**
 
-FairStress ：对法学硕士决策的公平性进行更深入的评估
+据报道， **Anthropic**正在努力从云提供商那里获得足够的计算，这些云提供商越来越多地将其视为竞争对手，因为其基础设施支出在计划于11月**首次**公开募股之前激增
 
-📅 Tue, 20 Oct 2026 16:09:19 GMT
+📅 Tue, 20 Oct 2026 21:25:22 +0000
 
 ---
 
@@ -120,6 +120,33 @@ FairStress ：对法学硕士决策的公平性进行更深入的评估
 如果你不告诉他们做任何事情，人工智能特工会怎么做？特工-克劳德作品4的副本
 
 📅 Mon, 19 Oct 2026 09:08:05 +0000
+
+---
+
+### Science AI
+**[考古学家对南美主要挖掘地点的年龄进行了争论](https://www.science.org/content/article/archaeologists-spar-over-age-key-south-american-dig-site)**
+
+Monte Verde是关于美洲人口辩论的关键。一项挑战其年龄的研究在一次会议上引发了烟花爆竹
+
+📅 2026-10-20T05:20:30.000Z
+
+---
+
+### Science AI
+**[随着埃博拉疫情肆虐，刚果押注高风险的“希望”疫苗试验](https://www.science.org/content/article/ebola-epidemic-rages-congo-bets-high-stakes-hope-vaccine-trial)**
+
+研究将首先测试“不匹配”的疫苗，但最早可能会在下个月添加Bundibugyo特异性疫苗
+
+📅 2026-10-20T04:45:00.000Z
+
+---
+
+### Science AI
+**[这只“胶枪蚂蚁”向敌人发射粘性网](https://www.science.org/content/article/glue-gun-ant-fires-sticky-webs-its-enemies)**
+
+Lordomyrma azumai将其毒液腺用作蛛网吊索
+
+📅 2026-10-20T03:30:00.000Z
 
 ---
 
@@ -159,119 +186,116 @@ FairStress ：对法学硕士决策的公平性进行更深入的评估
 
 ---
 
-### Science AI
-**[<cite>科学</cite>“Dance Your Ph.D.”比赛再次开放](https://www.science.org/content/article/science-s-dance-your-ph-d-contest-open-again-2027)**
-
-<cite>科学</cite>“Dance Your Ph.D.”比赛再次开放
-
-📅 2026-10-19T03:15:00.000Z
-
----
-
-### Science AI
-**[司法部资助性别焦虑和暴力行为的研究](https://www.science.org/content/article/department-justice-fund-studies-gender-dysphoria-and-violent-behavior)**
-
-专家担心拟议的研究可能会产生有偏见的结果
-
-📅 2026-10-19T10:40:00.000Z
-
----
-
-### MIT Tech Research
-**[企业人工智能的新经济学](https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/)**
-
-想象一下，您的公司刚刚发现了电力最初只有几台机器在其上运行，没有人担心效率—消耗低，价值显而易见
-
-📅 Tue, 20 Oct 2026 15:20:25 +0000
-
----
-
 ## 🌍 行业展望
 
 ### The Information Technology
-![在苹果，猪即将飞翔](https://tii.imgix.net/article/pictures/newsletters-production/a734048ec7-PbDnYY.jpg?auto=compress)
+![SpaceX的马斯克称赞其飙升的云业务和可能的特斯拉合并](https://tii.imgix.net/article/pictures/newsletters-production/17da9e5d-f4e1-4b1d-a06b-3e40fef18493-75gOEW.jpg?auto=compress)
 
-**[在苹果，猪即将飞翔](https://www.theinformation.com/articles/apple-pigs-fly)**
+**[SpaceX的马斯克称赞其飙升的云业务和可能的特斯拉合并](https://www.theinformation.com/articles/spacexs-musk-lauds-soaring-cloud-business-possible-tesla-merger)**
 
-推荐的时事通讯以应用AI**new**从我们的记者开始您的一天Altman独家描述了人工智能的三个结局
+**Anthropic**披露今年上半年净亏损超过800亿美元**new** From Our Reporters独家私募股权公司权衡了Valida Pau对微软Xbox的1000多亿美元收购， Aaron Holmes Nvidia为Neoclouds投入了超过1700亿美元Shane Burke和Phoebe Liu独家透露CoreWeave的债务狂潮如何带来清算的时刻Dakin Campbell TITV可解释性是物理AI的关键
 
-📅 2026-10-20T00:01:31.000Z
-
----
-
-### The Information Technology
-**[CoreWeave的债务狂潮如何带来清算的时刻](https://www.theinformation.com/articles/coreweaves-debt-binge-brought-perilous-moment-reckoning)**
-
-Blackstone首席执行官Steve Schwarzman与Jas Khairathe公司首席人工智能投资者会面
-
-📅 2026-10-20T13:35:43.000Z
+📅 2026-10-21T00:01:02.000Z
 
 ---
 
 ### TechCrunch
-**[前英伟达变身VC Amulya Vishwanath ： “物理人工智能正处于乐高时代”](https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/)**
+**[谷歌正在为您的汽车带来更个性化的Gemini AI助手版本](https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/)**
 
-这是每个人都在等待的时刻—机器人的Chat**GPT**时刻， Amulya Vishwanath向TechCrunch的Equity解释说
+谷歌正在将**Gemini**的个人智能功能引入汽车，允许其人工智能助手利用Gmail的信息
 
-📅 Tue, 20 Oct 2026 16:20:06 +0000
+📅 Tue, 20 Oct 2026 20:00:00 +0000
+
+---
+
+### The Verge
+![谷歌更个性化的双子座人工智能正走向您的汽车](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/google-gemini-personal-intelligence.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[谷歌更个性化的双子座人工智能正走向您的汽车](https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto)**
+
+谷歌正在为您的车载**Gemini** AI提供个人智能例如，谷歌表示，如果您开车前往机场，您可以向**Gemini**询问您的航班状态
+
+📅 2026-10-20T22:11:34.000Z
 
 ---
 
 ### The Information Technology
-**[Meta全球事务主管Joel Kaplan将于2027年离职](https://www.theinformation.com/briefings/metas-global-affairs-chief-joel-kaplan-leave-2027)**
+**[英伟达在投资者拒绝其IPO后支持GPU云提供商Firmus](https://www.theinformation.com/articles/nvidia-moves-back-gpu-cloud-provider-firmus-investors-balk-ipo)**
 
-**Meta** Platforms首席全球事务官**Meta**发言人表示
+英伟达正在洽谈向澳大利亚人工智能云提供商Firmus投资数亿美元，包括信贷担保，以帮助他们筹集债务
 
-📅 2026-10-20T16:58:56.000Z
-
----
-
-### The Information Technology
-**[OpenAI的“起搏2.0”问题：太聪明有多聪明？](https://www.theinformation.com/articles/openais-pacing-2-0-problem-smart-smart)**
-
-**OpenAI**必将很快得到现实检查不言而喻，这些选项中的每一个都有**重大**问题
-
-📅 2026-10-20T14:01:28.000Z
+📅 2026-10-20T23:40:17.000Z
 
 ---
 
 ### The Information Technology
-**[美国制裁五家与谷歌AI商业秘密盗窃有关的中国实体](https://www.theinformation.com/briefings/u-s-sanctions-five-chinese-entities-linked-google-ai-trade-secret-theft)**
+**[私募股权公司以$ 1000亿加权重收购微软Xbox](https://www.theinformation.com/articles/private-equity-firms-weighed-100-billion-plus-buyout-microsofts-xbox)**
 
-一名中国公民和前谷歌软件工程师上个月因窃取谷歌与人工智能相关的商业机密而被判入狱。初创公司上海智轩科技有限公司是一家人工智能公司
+知情人士称，近几个月来，一些私募股权公司考虑收购微软的Xbox游戏部门，该部门的估值可能在1000亿至1500亿美元之间。私营公司的短暂讨论是探索性的，并没有变成与微软的谈判
 
-📅 2026-10-20T05:59:34.000Z
-
----
-
-### Ars Technica
-**[Meta Muse在用户分享对话时暴露其个人和商业秘密](https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/)**
-
-**Meta**在调查其隐私时将暂停共享功能。
-
-📅 Tue, 20 Oct 2026 12:33:13 +0000
+📅 2026-10-20T23:07:44.000Z
 
 ---
 
-### Ars Technica
-**[联邦调查局称，被指控的OpenAI间谍有名为“沙特政府文件”的文件夹](https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/)**
+### The Information Technology
+**[英伟达为Neoclouds投入了超过1700亿美元$](https://www.theinformation.com/articles/nvidia-put-170-billion-line-neoclouds)**
 
-美国担心沙特政府将帮助前**OpenAI**工程师逃离间谍指控。
+50亿用于支持新数据中心的担保和其他承诺除了已投资或同意直接投资于人工智能云提供商的70多$之外
 
-📅 Mon, 19 Oct 2026 20:21:53 +0000
+📅 2026-10-20T22:09:51.000Z
+
+---
+
+### The Information Technology
+**[OpenAI收购药物开发公司Orchestra Bio](https://www.theinformation.com/briefings/openai-buys-drug-development-company-orchestra-bio)**
+
+**OpenAI**周二宣布收购Orchestra Biothe AI LAB
+
+📅 2026-10-20T19:54:39.000Z
+
+---
+
+### The Information Technology
+**[保险公司向与Meta相关的CoreWeave债务注入超过7.4亿美元$](https://www.theinformation.com/briefings/insurers-pump-740-million-coreweave-debt-tied-meta)**
+
+一系列大型保险公司在第二季度购买了超过7.4亿美元的CoreWeave债务，这些债务与**Meta** Platforms的云计算合同有关，突出了保险资金和人工智能基础设施的繁荣如何相互交织
+
+📅 2026-10-20T19:26:23.000Z
 
 ---
 
 ## 📦 GitHub热门
 
+### GitHub Active (AI/ML)
+![Paxeer-X-Network ： Paxeer X是用于支付、代码执行和意图路由的分布式超状态机。专为机器和操作它们的用户设计。](https://avatars.githubusercontent.com/u/315858149?v=4)
+
+**[Paxeer-X-Network ： Paxeer X是用于支付、代码执行和意图路由的分布式超状态机。专为机器和操作它们的用户设计。](https://github.com/Sidiora-Labs/Paxeer-X-Network)**
+
+⭐ 570星· 87叉·围棋· Paxeer X是用于支付、代码执行和意图路由的分布式超状态机专为机器和操作它们的用户设计
+
+📅 2026-10-21T01:18:53Z
+
+---
+
 ### GitHub New (New AI)
-![🆕 cve-intel ：用于CVE分类的本地安全智能- 31个数据源和32个工具、风险评分和用于AI代理的MCP服务器，均采用原生Rust。默认情况下为私有。](https://avatars.githubusercontent.com/u/1432117?v=4)
+![🆕 cve-intel ：用于CVE分类的本地安全智能- 38个数据源和36个工具、风险评分和用于AI代理的MCP服务器，均采用原生Rust。默认情况下为私有。](https://avatars.githubusercontent.com/u/1432117?v=4)
 
-**[🆕 cve-intel ：用于CVE分类的本地安全智能- 31个数据源和32个工具、风险评分和用于AI代理的MCP服务器，均采用原生Rust。默认情况下为私有。](https://github.com/Fazmin/cve-intel)**
+**[🆕 cve-intel ：用于CVE分类的本地安全智能- 38个数据源和36个工具、风险评分和用于AI代理的MCP服务器，均采用原生Rust。默认情况下为私有。](https://github.com/Fazmin/cve-intel)**
 
-⭐ 80 star (新项目) · Rust · Local security intelligence for CVE triage - 31 data sources and 32 toolsrisk scores and an MCP server for AI agents
+⭐ 82 star (新项目) · Rust · Local security intelligence for CVE triage - 38 data sources and 36 toolsrisk scores and an MCP server for AI agents
 
 📅 2026-10-18T04:20:37Z
+
+---
+
+### GitHub Active (AI/ML)
+![awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
+
+**[awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
+
+⭐ 463星· 39分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作管道刷新
+
+📅 2026-10-21T01:18:15Z
 
 ---
 
@@ -280,44 +304,13 @@ Blackstone首席执行官Steve Schwarzman与Jas Khairathe公司首席人工智�
 
 **[🆕 genpic ： AI portrait SaaS （ Laravel 11、Livewire、Filament、Stripe、fal.ai ） —在生产中运行，关闭后作为开源版本发布](https://github.com/dcarrero/genpic)**
 
-⭐ 13 star (新项目) · PHP · AI portrait SaaS (Laravel 11, Livewire, Filament, Stripe, falai) — run in production, **release**d as open source after closing
+⭐ 16 star (新项目) · PHP · AI portrait SaaS (Laravel 11, Livewire, Filament, Stripe, falai) — run in production, **release**d as open source after closing
 
 📅 2026-10-19T11:43:03Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 pramana-dfir ：以证据为先的人工智能平台，用于网络调查和数字取证，将数字痕迹转化为可追溯、可辩护的发现。](https://avatars.githubusercontent.com/u/230818776?v=4)
-
-**[🆕 pramana-dfir ：以证据为先的人工智能平台，用于网络调查和数字取证，将数字痕迹转化为可追溯、可辩护的发现。](https://github.com/codebyshambhavi/pramana-dfir)**
-
-⭐ 3 star (新项目) · TypeScript · Evidence-first AI platform for cyber investigation and digital forensicsturning digital traces into traceable
-
-📅 2026-10-18T15:32:06Z
-
----
-
-### GitHub New (New AI)
-![开放🆕 媒体网关： OMG -开放媒体网关](https://avatars.githubusercontent.com/u/282683371?v=4)
-
-**[开放🆕 媒体网关： OMG -开放媒体网关](https://github.com/Sociaro-Research/open-media-gateway)**
-
-⭐ 2 star (新项目) · Go · OMG - Open Media Gateway
-
-📅 2026-10-20T11:43:37Z
-
----
-
 ## 💬 社交动态
-
-### Hacker News
-**[启动HN ： Respan (YC W24) –围绕插件构建的开源Rust AI网关](https://news.ycombinator.com/item?id=50167583)**
-
-Respan Gateway不仅可以让您从**OpenAI** SDK和推理协议自动调用**Claude**或**Gemini**模型：基于**OpenAI** Realtime API的应用程序也可以通过网关使用**Gemini** Live
-
-📅 Tue, 20 Oct 2026 15:09:29 +0000
-
----
 
 ### Reddit: r/artificial
 **[在明确的约束下，对齐是正确、安全、可重复的行为](https://www.reddit.com/r/artificial/comments/1xaxp70/alignment_is_correct_safe_reproducible_behavior/)**
@@ -333,7 +326,7 @@ Respan Gateway不仅可以让您从**OpenAI** SDK和推理协议自动调用**Cl
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-10-20T18:57:14.532Z
+📅 2026-10-21T01:20:17.524Z
 
 ---
 
@@ -342,16 +335,7 @@ Respan Gateway不仅可以让您从**OpenAI** SDK和推理协议自动调用**Cl
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-10-20T18:57:19.429Z
-
----
-
-### Hacker News
-**[低资源编程语言的高级编码](https://openai.com/index/low-resource-programming-languages/)**
-
-文章网址： https://**OpenAI**com/index/low-resource-programming-languages/评论网址： https://**new**s
-
-📅 Tue, 20 Oct 2026 17:43:11 +0000
+📅 2026-10-21T01:20:28.290Z
 
 ---
 
@@ -364,21 +348,39 @@ Respan Gateway不仅可以让您从**OpenAI** SDK和推理协议自动调用**Cl
 
 ---
 
-### Hacker News
-**[显示HN ： Penmentor - Claude像老师一样标记您的手写数学](https://github.com/AbdullahAlhariri/penmentor)**
+### Reddit: r/artificial
+**[vale la pena un verificador independente oes puro gasto de mas](https://www.reddit.com/r/artificial/comments/1xb2xku/vale_la_pena_un_verificador_independiente_o_es/)**
 
-文章网址： https://githubcom/AbdullahAlhariri/penmentor评论网址： https://**new**s
+**Claude** te dice feliz "Si, cumple todo" **Claude** te la vendio y te dijo que estaba bien igual
 
-📅 Tue, 20 Oct 2026 15:10:54 +0000
+📅 2026-10-20T20:15:40.000Z
 
 ---
 
-### Hacker News AI
-**[英伟达在物理人工智能上的大赌注旨在实现更安全的机器人出租车、人形机器人](https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/)**
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-文章网址： https://arstechnicacom/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/评论网址： https://**new**s
+Title: 520: Web服务器返回未知错误
 
-📅 Tue, 20 Oct 2026 18:34:30 +0000
+📅 2026-10-21T01:20:17.524Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误520 ：未知
+
+📅 2026-10-21T01:20:17.524Z
+
+---
+
+### X: OpenAI
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Markdown 内容
+
+📅 2026-10-21T01:20:17.524Z
 
 ---
 
