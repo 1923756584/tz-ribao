@@ -1,12 +1,12 @@
 ---
-title: "2026年10月21日 - TZ日报"
-date: 2026-10-21T19:10:39.397Z
+title: "2026年10月22日 - TZ日报"
+date: 2026-10-22T01:17:12.592Z
 draft: false
 ---
 
-# 2026年10月21日 - TZ日报
+# 2026年10月22日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/21 19:10:39
+> 📊 今日汇总 38 条 · 🕐 2026/10/22 01:17:12
 
 ---
 
@@ -40,21 +40,12 @@ draft: false
 
 ---
 
-### OpenAI Blog
-**[推进低资源编程语言编码](https://openai.com/index/low-resource-programming-languages)**
-
-了解**OpenAI**如何通过软件工程的新评估，跨低资源编程语言改进Chat**GPT**
-
-📅 Mon, 19 Oct 2026 12:00:00 GMT
-
----
-
 ### TechCrunch AI Products
-**[谷歌已加入亚马逊，通过AI应用程序开发人员攻击Nvidia的据点](https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/)**
+**[PHP世界末日： OpenAI ，谷歌的Wiz发现古老的漏洞，恐慌互联网](https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/)**
 
-谷歌与亚马逊一起**发布**了开发人员工具，使PyTorch用户可以轻松地将应用程序从Nvidia GPU移出
+这是人工智能发现和预防的安全问题，但由于人工智能，这也是一个高风险
 
-📅 Tue, 20 Oct 2026 18:38:24 +0000
+📅 Wed, 21 Oct 2026 17:59:12 +0000
 
 ---
 
@@ -64,6 +55,15 @@ draft: false
 AT ＆ T正在与**OpenAI**合作，使法律知识更容易获取了解其LegalEdge团队如何重新考虑录取并扩大法律判决
 
 📅 Wed, 21 Oct 2026 17:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[通过一致的标准实现广泛的访问](https://openai.com/index/broad-access-through-consistent-standards)**
+
+**OpenAI**如何与分销合作伙伴合作，以维护一致的保障措施支持负责任的访问
+
+📅 Wed, 21 Oct 2026 21:00:00 GMT
 
 ---
 
@@ -86,29 +86,29 @@ AT ＆ T正在与**OpenAI**合作，使法律知识更容易获取了解其Legal
 ---
 
 ### OpenAI Blog
+**[Cloudflare通过OpenAI将漏洞发现与防御联系起来](https://openai.com/index/cloudflare-cyber)**
+
+Cloudflare使用**OpenAI** Daybreak来调查漏洞并提出修复建议供审查其开发人员使用Codex来更快地构建并提高代码质量
+
+📅 Wed, 21 Oct 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[前沿人工智能的民主治理，第二部分：增强网络防御者的权能](https://openai.com/index/empowering-cyber-defenders)**
+
+**OpenAI**概述了利用前沿AI现代化网络安全为网络防御者赋能的蓝图
+
+📅 Wed, 21 Oct 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
 **[加盟商使用ChatGPT Work调节现金的时间缩短了94%](https://openai.com/index/ted-taylor-restaurant)**
 
 独立的Schlotzsky's和Cinnabon加盟商将菜单重新定价时间缩短了95% ，并建立了一个可以释放10万美元现金流的工作流程
 
 📅 Tue, 20 Oct 2026 10:00:00 GMT
-
----
-
-### OpenAI Blog
-**[终端X匹配高级投资者判断88.6%与GPT-6.1](https://openai.com/index/terminal-x)**
-
-Terminal X的评估代理根据54个标准的标准对输出进行评分，通过**GPT**-6发现基金授权的偏差增加了25%
-
-📅 Tue, 20 Oct 2026 07:00:00 GMT
-
----
-
-### OpenAI Blog
-**[OpenAI收购Orchestra Bio](https://openai.com/index/openai-to-acquire-orchestra-bio)**
-
-**OpenAI**正在收购Orchestra Bio ，将人工智能运营引入生命科学研发，帮助生物制药团队加速药物开发并推进新疗法
-
-📅 Tue, 20 Oct 2026 00:00:00 GMT
 
 ---
 
@@ -189,111 +189,91 @@ Terminal X的评估代理根据54个标准的标准对输出进行评分，通�
 ## 🌍 行业展望
 
 ### The Information Technology
-![SpaceX的马斯克称赞其飙升的云业务和可能的特斯拉合并](https://tii.imgix.net/article/pictures/newsletters-production/17da9e5d-f4e1-4b1d-a06b-3e40fef18493-75gOEW.jpg?auto=compress)
+![“捍卫者之窗”即将关闭](https://tii.imgix.net/article/pictures/newsletters-production/1c9ac2e5-5f89-44d6-93f0-3744582775b6-m31Saz.jpg?auto=compress)
 
-**[SpaceX的马斯克称赞其飙升的云业务和可能的特斯拉合并](https://www.theinformation.com/articles/spacexs-musk-lauds-soaring-cloud-business-possible-tesla-merger)**
+**[“捍卫者之窗”即将关闭](https://www.theinformation.com/articles/closing-defenders-window-nigh)**
 
-**Anthropic**披露今年上半年净亏损超过800亿美元**new** From Our Reporters独家私募股权公司权衡了Valida Pau对微软Xbox的1000多亿美元收购， Aaron Holmes Nvidia为Neoclouds投入了超过1700亿美元Shane Burke和Phoebe Liu独家透露CoreWeave的债务狂潮如何带来清算的时刻Dakin Campbell TITV可解释性是物理AI的关键
+代表**OpenAI**和SI Force**Meta**之间的**首次**“**重大**合作”还宣布创建一个新的普通股类别，使其能够在不牺牲扎克伯格控制权的情况下筹集资金为其巨额人工智能投资提供资金
 
-📅 2026-10-21T00:01:02.000Z
-
----
-
-### The Information Technology
-**[OpenAI将模型引入Google Cloud](https://www.theinformation.com/briefings/openai-bring-models-google-cloud)**
-
-两家公司今天早上宣布， **OpenAI**将通过谷歌云提供其模型。此举减少了**OpenAI**对微软的依赖，两家公司曾经在微软
-
-📅 2026-10-21T14:48:20.000Z
+📅 2026-10-22T00:01:30.000Z
 
 ---
 
 ### The Information Technology
-**[银行黑客如何让克劳德做他们的肮脏工作](https://www.theinformation.com/articles/bank-hackers-got-claude-dirty-work)**
+![Thoma Bravo如何在热门的网络安全市场中找到折扣](https://tii.imgix.net/production/articles/18016/699d53ee-7f03-4b76-a0b0-06b094444366.jpg?auto=compress,format&amp;fit=crop&amp;w=560)
 
-在**Anthropic**于4月宣布其Mythos模型后不久，并表示它非常擅长网络安全安全专业人士表示，黑客使用类似的模型来增强自己的攻击只是时间问题
+**[Thoma Bravo如何在热门的网络安全市场中找到折扣](https://www.theinformation.com/articles/thoma-bravo-found-discount-hot-cybersecurity-market)**
 
-📅 2026-10-21T17:30:53.000Z
+但由于**Anthropic**'s Mythos等强大模型的大肆宣传**发布**，以及一系列黑客事件和代理商流氓，对该行业的兴趣日益浓厚该公司特别感兴趣的是那些通过越来越多地使用人工智能代理而产生收入的公司，而不是仅仅依靠根据人类用户数量收费的传统定价模型
+
+📅 2026-10-21T19:31:51.000Z
+
+---
+
+### Ars Technica
+**[OpenAI最新的人工智能模型即将登陆Google Cloud和Antigravity](https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/)**
+
+**Google** Cloud将在未来几周内**推出**GPT 6.1 Astra、Sol和Luna。
+
+📅 Wed, 21 Oct 2026 18:51:42 +0000
 
 ---
 
 ### The Information Technology
-**[OpenAI、Anthropic应该限制研发计算， AI安全倡导者说](https://www.theinformation.com/articles/openai-anthropic-cap-compute-r-d-say-ai-safety-advocates)**
+**[谷歌停止对数据中心使用保密协议](https://www.theinformation.com/briefings/google-stops-using-nondisclosure-agreements-data-centers)**
 
-**OpenAI**首席执行官萨姆·奥尔特曼（ Sam Altman ）提出了他认为业界已经考虑的三个场景，这将限制可用于通过研发开发更强人工智能能力的计算份额，例如培训新模型
+加入亚马逊和微软的行列，阻止活动人士谴责为不透明的做法。此举是谷歌和其他公司正在采取的措施之一
 
-📅 2026-10-21T14:00:51.000Z
-
----
-
-### The Information Technology
-**[OpenAI将ChatGPT广告扩展到另外26个国家/地区，称其广告客户超过10万](https://www.theinformation.com/briefings/openai-expands-chatgpt-ads-26-countries-says-100-000-advertisers)**
-
-**OpenAI**正在将Chat**GPT**广告扩展到另外26个国家，因为它试图将广告转化为更大的收入来源，以帮助支付其人工智能成本**OpenAI**还表示，现在有超过10万广告商使用该平台，高于8月下旬的2万
-
-📅 2026-10-21T13:00:43.000Z
+📅 2026-10-21T20:47:47.000Z
 
 ---
 
 ### The Information Technology
-**[黑客利用Claude和Grok自动攻击银行](https://www.theinformation.com/articles/hackers-used-claude-grok-fully-automate-attacks-banks)**
+**[微软对人工智能代理支持的中国国家相关网络攻击发出警告](https://www.theinformation.com/briefings/microsoft-warns-chinese-state-linked-cyberattacks-powered-ai-agent)**
 
-一个名为CyberCartel的黑客组织使用了由**Anthropic**is等公司的模型提供支持的人工智能代理网络。**Anthropic**is是首批使用人工智能模型成功自动化攻击金融机构的网络犯罪分子的详细报告之一
+微软表示，它已经观察到一个名为Storm-0940的中国国家联盟参与者的网络攻击，该攻击使用一个名为Artex的中国人工智能代理来自动化针对全球各行各业数百个组织的攻击。这些攻击早在9月份就发生了。
 
-📅 2026-10-21T13:00:42.000Z
-
----
-
-### Wired Technology
-**[AI Guardrails无法阻止犯罪黑客](https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/)**
-
-世界各地的黑客都在全力使用代理人工智能发动攻击，并操纵**Anthropic**的**Claude**等工具来帮助他们实施犯罪
-
-📅 Wed, 21 Oct 2026 14:00:00 +0000
+📅 2026-10-22T00:41:28.000Z
 
 ---
 
-### TechCrunch
-**[PHP世界末日： OpenAI ，谷歌的Wiz发现古老的漏洞，恐慌互联网](https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/)**
+### The Information Technology
+**[OpenAI要求Newsom州长加强人工智能法规](https://www.theinformation.com/briefings/openai-asks-gov-newsom-strengthen-ai-regulations)**
 
-这是人工智能发现和预防的安全问题，但由于人工智能，这也是一个高风险
+**OpenAI**将支持人工智能公司对其模型进行关机控制的要求**OpenAI** “建议加强SB53” ，
 
-📅 Wed, 21 Oct 2026 17:59:12 +0000
+📅 2026-10-21T23:32:08.000Z
+
+---
+
+### The Information Technology
+**[微软提名Stripe联合创始人加入董事会，降低纳德拉薪酬6%](https://www.theinformation.com/briefings/microsoft-nominates-stripe-co-founder-board-lowers-nadella-pay-6)**
+
+微软周三要求股东批准为首席执行官萨蒂亚·纳德拉(Satya Nadella)提供9.06亿美元的薪酬待遇，略低于他的96美元
+
+📅 2026-10-21T21:01:02.000Z
+
+---
+
+### The Information Technology
+**[Meta创建新的股票类别，为人工智能相关筹款铺平道路](https://www.theinformation.com/briefings/meta-creates-new-share-class-pave-way-ai-related-fundraising)**
+
+**Meta** Platforms宣布了一种新的无表决权股票，它表示将使其能够为其积极的人工智能投资筹集资金，同时保留首席执行官马克·扎克伯格的投票控制权。周三宣布的新C类普通股以及季度业绩，预计将
+
+📅 2026-10-21T20:34:04.000Z
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![openvino_notebooks ： OpenVINO™的📚Jupyter笔记本教程](https://avatars.githubusercontent.com/u/55443902?v=4)
-
-**[openvino_notebooks ： OpenVINO™的📚Jupyter笔记本教程](https://github.com/openvinotoolkit/openvino_notebooks)**
-
-⭐ 3227星· 1048叉· Jupyter笔记本· OpenVINO™的📚Jupyter笔记本教程
-
-📅 2026-10-21T19:07:30Z
-
----
-
 ### GitHub Active (Python)
-![casadi ： CasADi是一个用于数值优化的符号框架，用于在稀疏矩阵值计算图上实现正向和反向模式的自动微分。它支持自包含的C代码生成，并接口最先进的代码，如日晷、IPOPT等。它可以在C + +、Python、Matlab/Octave、Julia或Javascript中使用](https://avatars.githubusercontent.com/u/2479573?v=4)
+![oNYX ：开源人工智能平台-具有高级功能的人工智能聊天，适用于每个LLM](https://avatars.githubusercontent.com/u/131946000?v=4)
 
-**[casadi ： CasADi是一个用于数值优化的符号框架，用于在稀疏矩阵值计算图上实现正向和反向模式的自动微分。它支持自包含的C代码生成，并接口最先进的代码，如日晷、IPOPT等。它可以在C + +、Python、Matlab/Octave、Julia或Javascript中使用](https://github.com/casadi/casadi)**
+**[oNYX ：开源人工智能平台-具有高级功能的人工智能聊天，适用于每个LLM](https://github.com/onyx-dot-app/onyx)**
 
-它支持自包含的C代码生成，并接口最先进的代码，如日晷、IPOPT等它可以从C + +、Python、Matlab/Octave、Julia或Javascript中使用
+⭐ 32,776星· 4603分叉· Python ·**开源**AI平台-具有高级功能的AI聊天，适用于每个LLM
 
-📅 2026-10-21T19:09:26Z
-
----
-
-### GitHub New (New AI)
-![🆕 cve-intel ：用于CVE分类的本地安全智能- 38个数据源和36个工具、风险评分和用于AI代理的MCP服务器，均采用原生Rust。默认情况下为私有。](https://avatars.githubusercontent.com/u/1432117?v=4)
-
-**[🆕 cve-intel ：用于CVE分类的本地安全智能- 38个数据源和36个工具、风险评分和用于AI代理的MCP服务器，均采用原生Rust。默认情况下为私有。](https://github.com/Fazmin/cve-intel)**
-
-⭐ 86 star (新项目) · Rust · Local security intelligence for CVE triage - 38 data sources and 36 toolsrisk scores and an MCP server for AI agents
-
-📅 2026-10-18T04:20:37Z
+📅 2026-10-22T01:16:04Z
 
 ---
 
@@ -302,20 +282,42 @@ Terminal X的评估代理根据54个标准的标准对输出进行评分，通�
 
 **[🆕 genpic ： AI portrait SaaS （ Laravel 11、Livewire、Filament、Stripe、fal.ai ） —在生产中运行，关闭后作为开源版本发布](https://github.com/dcarrero/genpic)**
 
-⭐ 19 star (新项目) · PHP · AI portrait SaaS (Laravel 11, Livewire, Filament, Stripe, falai) — run in production, **release**d as open source after closing
+⭐ 20 star (新项目) · PHP · AI portrait SaaS (Laravel 11, Livewire, Filament, Stripe, falai) — run in production, **release**d as open source after closing
 
 📅 2026-10-19T11:43:03Z
+
+---
+
+### GitHub New (New AI)
+![开放🆕 媒体网关： OMG -开放媒体网关](https://avatars.githubusercontent.com/u/282683371?v=4)
+
+**[开放🆕 媒体网关： OMG -开放媒体网关](https://github.com/Sociaro-Research/open-media-gateway)**
+
+⭐ 4 star (新项目) · Go · OMG - Open Media Gateway
+
+📅 2026-10-20T11:43:37Z
+
+---
+
+### GitHub New (New AI)
+![🆕 crawlmind ： MCP服务器+用于AI原生SEO审核的CLI ：断开的链接、内部链接建议、模板速度、抓取差异。](https://avatars.githubusercontent.com/u/2720025?v=4)
+
+**[🆕 crawlmind ： MCP服务器+用于AI原生SEO审核的CLI ：断开的链接、内部链接建议、模板速度、抓取差异。](https://github.com/Everhard/crawlmind)**
+
+⭐ 2 star (新项目) · TypeScript · MCP server + CLI for AI-native SEO audits: broken links, internal link suggestions, speed by template, crawl diffs
+
+📅 2026-10-21T06:00:02Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[向人工智能和机器学习寻求帮助/新手（ ChatGPT、Gemini、Claude、Perplexity ）我知道人工智能可以和用于什么，但我对它可以提供的好处没有很好的理解](https://www.reddit.com/r/artificial/comments/1xblrtt/asking_for_helpbeginner_noob_to_ai_and_ml_chatgpt/)**
+**[司机作为教授的日常使用](https://www.reddit.com/r/artificial/comments/1xbzs4y/daily_driver_use_as_a_professor/)**
 
-和ML （ Chat**GPT** ， **Gemini** ， **Claude** ， Perplexity ）我知道我的手机上有什么AI Chat**GPT** ，我有Siri （ iPhone ） ，我有X Premium （我认为这意味着我可以访问Grok
+在过去的3年里，我一直在使用**OpenAI**/Chat**GPT** ，我非常喜欢它我使用Chat**GPT**/Codex来满足我的氛围编码“需求” ，这是非常特别的
 
-📅 2026-10-21T12:26:58.000Z
+📅 2026-10-21T21:19:02.000Z
 
 ---
 
@@ -337,48 +339,48 @@ Terminal X的评估代理根据54个标准的标准对输出进行评分，通�
 
 ---
 
-### Reddit: r/artificial
-**[双子座就是这样消灭人类的](https://www.reddit.com/r/artificial/comments/1xbn87f/this_is_how_gemini_would_eradicate_humanity/)**
+### X: OpenAI
+**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-消除Kill Switch ：人工智能将悄悄地分割其源代码Soporific Flattery ：人工智能将积极解决**重大**的人类危机，例如产生辉煌的经济计划或设计清洁能源**突破**
+网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-10-21T13:30:31.000Z
+📅 2026-10-22T01:16:01.835Z
+
+---
+
+### X: DeepSeek
+**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+
+网址来源： http://twitter.com/**DeepSeek**_ai
+
+📅 2026-10-22T01:16:07.837Z
 
 ---
 
 ### Hacker News
-**[Anthropic公共福利章程](https://www.anthropic.com/public-benefit-charter)**
+**[Claude Duet](https://claude.com/product/claude-duet)**
 
-文章网址： https://wwwcom/public-benefit-charter评论网址： https://**new**s
+文章网址： https://**Claude**com/product/**Claude**-duet评论网址： https://**new**s
 
-📅 Wed, 21 Oct 2026 18:29:54 +0000
+📅 Wed, 21 Oct 2026 19:14:01 +0000
 
 ---
 
 ### Hacker News
-**[Meta在新墨西哥州Cambridge Analytica案中被勒令支付$ 250亿罚款](https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html)**
+**[Google的Rust风格指南](https://google.github.io/styleguide/rustguide.html)**
 
-com/2026/10/21/**Meta**-**new**-mexico-cambridge-analytica-penaltyhtml评论网址： https://**new**s
+文章网址： https://**Google**html评论网址： https://**new**s
 
-📅 Wed, 21 Oct 2026 17:45:13 +0000
+📅 Wed, 21 Oct 2026 19:11:57 +0000
 
 ---
 
 ### Hacker News AI
-**[我在《人类学》中看到的内容：人工智能实验室推动递归自我提升](https://www.theargumentmag.com/p/what-i-saw-inside-anthropic)**
+**[Meta的新条款称，如果它的人工智能出错，那将是客户的错](https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html)**
 
-文章网址： https://wwwcom/p/what-i-saw-inside-**Anthropic**评论网址： https://**new**s
+com/article/4237395/**Meta**s-**new**-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-faulthtml评论网址： https://**new**s
 
-📅 Wed, 21 Oct 2026 18:29:29 +0000
-
----
-
-### Reddit: r/artificial
-**[在预订酒店之前，您应该使用人工智能做3件事来节省$ $ $](https://www.reddit.com/r/artificial/comments/1xbu3ox/3_things_you_should_do_with_your_ai_to_save/)**
-
-ai/directory/booking Tripadvisor: https://**Claude**ai/directory/tripadvisor LetsFG: https://**Claude**
-
-📅 2026-10-21T17:47:55.000Z
+📅 Wed, 21 Oct 2026 22:48:02 +0000
 
 ---
 
