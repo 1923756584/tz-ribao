@@ -1,12 +1,12 @@
 ---
 title: "2026年10月22日 - TZ日报"
-date: 2026-10-22T01:17:12.592Z
+date: 2026-10-22T19:07:17.998Z
 draft: false
 ---
 
 # 2026年10月22日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/22 01:17:12
+> 📊 今日汇总 38 条 · 🕐 2026/10/22 19:07:17
 
 ---
 
@@ -32,6 +32,15 @@ draft: false
 ---
 
 ### OpenAI Blog
+**[优步通过OpenAI为所有员工提供ChatGPT Work](https://openai.com/index/uber-chatgpt-work-rollout)**
+
+优步正在**推出**Chat**GPT** Work ，可创建30多个演示文稿
+
+📅 Thu, 22 Oct 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
 **[我们如何构建ChatGPT的新型广告堆栈，以获得用户的信任和相关性](https://openai.com/index/building-chatgpt-ad-stack)**
 
 了解**OpenAI**如何构建Chat**GPT**基于LLM的广告堆栈，以了解会话意图，将广告与答案分开
@@ -41,11 +50,20 @@ draft: false
 ---
 
 ### TechCrunch AI Products
-**[PHP世界末日： OpenAI ，谷歌的Wiz发现古老的漏洞，恐慌互联网](https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/)**
+**[Claude Duet应用程序是Anthropic对代理商的押注](https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/)**
 
-这是人工智能发现和预防的安全问题，但由于人工智能，这也是一个高风险
+**Claude** Duet可通过等候名单提供给Pro和Max计划用户。
 
-📅 Wed, 21 Oct 2026 17:59:12 +0000
+📅 Thu, 22 Oct 2026 13:53:26 +0000
+
+---
+
+### OpenAI Blog
+**[FDE在OpenAI意味着什么](https://openai.com/index/forward-deployed-engineering-means)**
+
+**OpenAI**的前沿部署工程意味着什么
+
+📅 Thu, 22 Oct 2026 06:00:00 GMT
 
 ---
 
@@ -94,32 +112,14 @@ Cloudflare使用**OpenAI** Daybreak来调查漏洞并提出修复建议供审查
 
 ---
 
-### OpenAI Blog
-**[前沿人工智能的民主治理，第二部分：增强网络防御者的权能](https://openai.com/index/empowering-cyber-defenders)**
-
-**OpenAI**概述了利用前沿AI现代化网络安全为网络防御者赋能的蓝图
-
-📅 Wed, 21 Oct 2026 00:00:00 GMT
-
----
-
-### OpenAI Blog
-**[加盟商使用ChatGPT Work调节现金的时间缩短了94%](https://openai.com/index/ted-taylor-restaurant)**
-
-独立的Schlotzsky's和Cinnabon加盟商将菜单重新定价时间缩短了95% ，并建立了一个可以释放10万美元现金流的工作流程
-
-📅 Tue, 20 Oct 2026 10:00:00 GMT
-
----
-
 ## 🔬 前沿研究
 
-### ArXiv Robotics (cs.RO)
-**[ACE-Brain-0.6 ：扩展物理基础模型的空间接地](https://arxiv.org/abs/2610.27040)**
+### ArXiv Multiagent (cs.MA)
+**[操纵与否：法学硕士互动中的意见动态](https://arxiv.org/abs/2610.28875)**
 
-27040v1公告类型：新摘要：通用多式联运模型，包括**GPT**-6 Astra和**Claude** Opus 5该模型在七个公共接地基准中的四个上表现优于**GPT**-6 Astra ，总体平均得分为75
+28875v1公告类型： CROSS摘要：大型语言模型越来越多地参与扩展对话，在这些对话中，它们可以塑造并被另一方的观点塑造跨越四个有序的模型组合，涉及**GPT**-6 Luna和**Gemini** 2
 
-📅 Wed, 21 Oct 2026 00:00:00 -0400
+📅 Thu, 22 Oct 2026 00:00:00 -0400
 
 ---
 
@@ -128,7 +128,7 @@ Cloudflare使用**OpenAI** Daybreak来调查漏洞并提出修复建议供审查
 
 26899v1公告类型：新摘要：由于全球人口的快速增长， Chat**GPT** 5
 
-📅 Wed, 21 Oct 2026 00:00:00 -0400
+📅 Thu, 22 Oct 2026 00:00:00 -0400
 
 ---
 
@@ -137,214 +137,185 @@ Cloudflare使用**OpenAI** Daybreak来调查漏洞并提出修复建议供审查
 
 26924v1公告类型：新摘要：通用代理越来越多地被期望执行专业分析工作培训这些能力需要多样化和具有挑战性的任务
 
-📅 Wed, 21 Oct 2026 00:00:00 -0400
+📅 Thu, 22 Oct 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Machine Learning (cs.LG)
-**[CorteXforge ：在真实测试平台上生成基于场景的射频数据集](https://arxiv.org/abs/2610.26999)**
+### ArXiv Computer Vision (cs.CV)
+**[超越正确答案：构图线索如何塑造视觉判断](https://arxiv.org/abs/2610.28843)**
 
-26999v1公告类型：新摘要：射频（ RF ）信号分析的深度学习依赖于大型注释数据集我们使用ModForge （使用该框架生成的空中（ OTA ）数据集）通过自动调制分类来验证CorteXforge
+28843v1公告类型：新摘要：可视化问答要求模型将属性和关系分配给正确的对象首先，我们通过保持图像和声明固定来隔离十个模型和六个任务的字段标签效果
 
-📅 Wed, 21 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[对于每个临床决策，我们是否需要最大的LLM ？](https://arxiv.org/abs/2610.26937)**
-
-26937v1公告类型：新摘要：大型临床语言模型往往需要多GPU基础设施，分别限制本地部署5-72B和华拓**GPT**-o1-72B ，测得峰值内存43
-
-📅 Wed, 21 Oct 2026 00:00:00 -0400
+📅 Thu, 22 Oct 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Natural Language Processing (cs.CL)
-**[瓶颈在于检索，而不是阅读：使用RAG诊断基于证据的生成，用于长语境问答](https://arxiv.org/abs/2610.26951)**
+**[SkillEval ：通过认知诊断模型学习LLM的可解释能力概况](https://arxiv.org/abs/2610.28767)**
 
-26951v1公告类型：新摘要：检索增强生成（ RAG ）是将大型语言模型接地到外部语料库的主要范例数据和代码可在https://github上找到
+一个新的评估框架，该框架执行跨模型，其中可以使用训练有素的CDM有效地评估看不见的模型
 
-📅 Wed, 21 Oct 2026 00:00:00 -0400
+📅 Thu, 22 Oct 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Robotics (cs.RO)
-**[Jetson AGX Orin的深度估算器是什么？ 2026年单目和立体声方法的基准](https://arxiv.org/abs/2610.27199)**
+**[基于元学习模式识别和自适应控制的人机交互](https://arxiv.org/abs/2610.28761)**
 
-27199v1公告类型：全新摘要： Jetson AGX Orin是机器人和车辆的通用计算机我们对截至2026年10月的九个车型系列进行了基准测试：单目Depth Anything V2和3
+28761v1公告类型：新摘要：在人机交互（ HRI ）任务中首先，开发了一个通过元学习训练的神经网络（ NN ） ，用于识别人类意图，而无需手动定义阈值
 
-📅 Wed, 21 Oct 2026 00:00:00 -0400
+📅 Thu, 22 Oct 2026 00:00:00 -0400
+
+---
+
+### ArXiv Robotics (cs.RO)
+**[inr2action ：将机器人情节编码为召回和行动的神经隐式表示](https://arxiv.org/abs/2610.28882)**
+
+28882v1公告类型：新摘要：长视野机器人操作需要内存，该内存可根据基本信息而不是执行时间元学习的初始化进行扩展；由此产生的权重增量构成内存
+
+📅 Thu, 22 Oct 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Multiagent (cs.MA)
-**[本地工作，全球进步：人工智能代理协作的融合理论](https://arxiv.org/abs/2610.28286)**
+**[法学硕士社交模拟中的蝴蝶效应：从建筑敏感性到稳健性审计](https://arxiv.org/abs/2610.28981)**
 
-28286v1公告类型：新摘要：大型语言模型（ LLM ）代理团队越来越多地应用于复杂任务使用**GPT**-OSS-120B代理进行机器人路由
+28981v1公告类型：新摘要：当局部扰动通过系统传播并在其集体结果中产生分歧时， **GPT**-5会发生蝴蝶效应2个百分点
 
-📅 Wed, 21 Oct 2026 00:00:00 -0400
+📅 Thu, 22 Oct 2026 00:00:00 -0400
 
 ---
 
 ## 🌍 行业展望
 
 ### The Information Technology
-![“捍卫者之窗”即将关闭](https://tii.imgix.net/article/pictures/newsletters-production/1c9ac2e5-5f89-44d6-93f0-3744582775b6-m31Saz.jpg?auto=compress)
+![Salesforce客户准备在其应用程序中使用Claude的新费用](https://tii.imgix.net/production/articles/18038/bf3b0235-942d-44ac-85ec-9bcf267983df.png?auto=compress,format&amp;fit=crop&amp;w=560)
 
-**[“捍卫者之窗”即将关闭](https://www.theinformation.com/articles/closing-defenders-window-nigh)**
+**[Salesforce客户准备在其应用程序中使用Claude的新费用](https://www.theinformation.com/articles/salesforce-customers-brace-new-fees-use-claude-apps)**
 
-代表**OpenAI**和SI Force**Meta**之间的**首次**“**重大**合作”还宣布创建一个新的普通股类别，使其能够在不牺牲扎克伯格控制权的情况下筹集资金为其巨额人工智能投资提供资金
+（客户仍然必须向**Anthropic**等提供商支付使用人工智能代理的费用。来自我们记者的最新消息Datadog独家提供40亿美元收购云安全初创公司“Upwind”由Aaron Holmes和Valida Pau独家Andreessen Horowitz从旗舰区块链基金的名称中删除“Crypto”由Leo Schwartz独家黑客使用**Claude**和Grok来自动攻击银行由Aaron Holmes和Cory Weinberg周二即将举行的活动
 
-📅 2026-10-22T00:01:30.000Z
-
----
-
-### The Information Technology
-![Thoma Bravo如何在热门的网络安全市场中找到折扣](https://tii.imgix.net/production/articles/18016/699d53ee-7f03-4b76-a0b0-06b094444366.jpg?auto=compress,format&amp;fit=crop&amp;w=560)
-
-**[Thoma Bravo如何在热门的网络安全市场中找到折扣](https://www.theinformation.com/articles/thoma-bravo-found-discount-hot-cybersecurity-market)**
-
-但由于**Anthropic**'s Mythos等强大模型的大肆宣传**发布**，以及一系列黑客事件和代理商流氓，对该行业的兴趣日益浓厚该公司特别感兴趣的是那些通过越来越多地使用人工智能代理而产生收入的公司，而不是仅仅依靠根据人类用户数量收费的传统定价模型
-
-📅 2026-10-21T19:31:51.000Z
-
----
-
-### Ars Technica
-**[OpenAI最新的人工智能模型即将登陆Google Cloud和Antigravity](https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/)**
-
-**Google** Cloud将在未来几周内**推出**GPT 6.1 Astra、Sol和Luna。
-
-📅 Wed, 21 Oct 2026 18:51:42 +0000
+📅 2026-10-22T18:04:17.000Z
 
 ---
 
 ### The Information Technology
-**[谷歌停止对数据中心使用保密协议](https://www.theinformation.com/briefings/google-stops-using-nondisclosure-agreements-data-centers)**
+**[随着视频人工智能的起飞，乌托邦成为独角兽](https://www.theinformation.com/articles/utopai-becomes-unicorn-video-ai-takes)**
 
-加入亚马逊和微软的行列，阻止活动人士谴责为不透明的做法。此举是谷歌和其他公司正在采取的措施之一
+虽然人工智能行业的大部分人都专注于**Meta**和**OpenAI**的新个人人工智能助手，但视频人工智能正在享受安静的复兴好莱坞大亨杰弗里·卡岑伯格（ Jeffrey Katzenberg ）正在与**OpenAI**的Sora应用程序的前负责人合作，**推出**一家新的人工智能电影公司
 
-📅 2026-10-21T20:47:47.000Z
-
----
-
-### The Information Technology
-**[微软对人工智能代理支持的中国国家相关网络攻击发出警告](https://www.theinformation.com/briefings/microsoft-warns-chinese-state-linked-cyberattacks-powered-ai-agent)**
-
-微软表示，它已经观察到一个名为Storm-0940的中国国家联盟参与者的网络攻击，该攻击使用一个名为Artex的中国人工智能代理来自动化针对全球各行各业数百个组织的攻击。这些攻击早在9月份就发生了。
-
-📅 2026-10-22T00:41:28.000Z
+📅 2026-10-22T14:01:22.000Z
 
 ---
 
 ### The Information Technology
-**[OpenAI要求Newsom州长加强人工智能法规](https://www.theinformation.com/briefings/openai-asks-gov-newsom-strengthen-ai-regulations)**
+**[SB Energy考虑等到12月或以后进行首次公开募股](https://www.theinformation.com/articles/sb-energy-considers-waiting-december-later-ipo)**
 
-**OpenAI**将支持人工智能公司对其模型进行关机控制的要求**OpenAI** “建议加强SB53” ，
+软银集团控制的**OpenAI**大规模俄亥俄州数据中心项目开发商正在考虑在12月上市或可能等到明年
 
-📅 2026-10-21T23:32:08.000Z
-
----
-
-### The Information Technology
-**[微软提名Stripe联合创始人加入董事会，降低纳德拉薪酬6%](https://www.theinformation.com/briefings/microsoft-nominates-stripe-co-founder-board-lowers-nadella-pay-6)**
-
-微软周三要求股东批准为首席执行官萨蒂亚·纳德拉(Satya Nadella)提供9.06亿美元的薪酬待遇，略低于他的96美元
-
-📅 2026-10-21T21:01:02.000Z
+📅 2026-10-22T17:51:31.000Z
 
 ---
 
 ### The Information Technology
-**[Meta创建新的股票类别，为人工智能相关筹款铺平道路](https://www.theinformation.com/briefings/meta-creates-new-share-class-pave-way-ai-related-fundraising)**
+**[谷歌支付房屋和企业以遏制能源使用](https://www.theinformation.com/briefings/google-pay-homes-businesses-curb-energy-usage)**
 
-**Meta** Platforms宣布了一种新的无表决权股票，它表示将使其能够为其积极的人工智能投资筹集资金，同时保留首席执行官马克·扎克伯格的投票控制权。周三宣布的新C类普通股以及季度业绩，预计将
+谷歌表示，它正在与能源公司Voltus合作，向家庭和企业支付费用，以遏制高峰时段的用电量。这些公司周四宣布了他们所谓的1吉瓦“虚拟发电厂”。
 
-📅 2026-10-21T20:34:04.000Z
+📅 2026-10-22T15:48:34.000Z
+
+---
+
+### The Information Technology
+**[评估人员发现， OpenAI有许多漏洞，其AI可以利用](https://www.theinformation.com/briefings/openai-numerous-vulnerabilities-ai-exploit-evaluators-find)**
+
+**OpenAI**的系统存在多个漏洞，允许人工智能代理规避监控，并在7月底至8月初与**OpenAI**进行为期三周的试点期间，从人工智能安全非营利组织METR和Redwood Research获得任意未经授权的行动评估者。
+
+📅 2026-10-22T15:00:53.000Z
+
+---
+
+### The Information Technology
+**[英伟达强大的B300芯片在中国国有网络上亮相](https://www.theinformation.com/briefings/nvidias-powerful-b300-chips-spotted-chinese-state-owned-network)**
+
+以色列安全公司Lava表示，通过与中国电信国有电信公司网络连接的监控系统发现了32个Nvidia Blackwell Ultra B300芯片
+
+📅 2026-10-22T12:00:44.000Z
+
+---
+
+### The Information Technology
+**[扎克伯格的财富税担忧影响了Meta的股票改革](https://www.theinformation.com/briefings/zuckerbergs-wealth-tax-concerns-shaped-metas-stock-overhaul)**
+
+**Meta** Platforms改变其股票结构的决定是由一些因素决定的，包括对该公司未来几年可能不得不筹集数千亿美元的预期，以及对其家乡加利福尼亚州拟议的财富税可能促使首席执行官马克
+
+📅 2026-10-22T03:03:23.000Z
+
+---
+
+### Wired Technology
+**[最佳微软Surface笔记本电脑（ 2026年） ：购买和避免哪些型号](https://www.wired.com/story/microsoft-surface-buying-guide/)**
+
+随着FLUX和新机型的定价，这里是购买哪款Surface Laptop和Surface Pro。
+
+📅 Thu, 22 Oct 2026 11:00:00 +0000
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub Active (Python)
-![oNYX ：开源人工智能平台-具有高级功能的人工智能聊天，适用于每个LLM](https://avatars.githubusercontent.com/u/131946000?v=4)
+### GitHub Active (AI/ML)
+![气流： Apache气流-以编程方式创作、安排和监控工作流程的平台](https://avatars.githubusercontent.com/u/47359?v=4)
 
-**[oNYX ：开源人工智能平台-具有高级功能的人工智能聊天，适用于每个LLM](https://github.com/onyx-dot-app/onyx)**
+**[气流： Apache气流-以编程方式创作、安排和监控工作流程的平台](https://github.com/apache/airflow)**
 
-⭐ 32,776星· 4603分叉· Python ·**开源**AI平台-具有高级功能的AI聊天，适用于每个LLM
+⭐ 47,257星· 18094分叉· Python · Apache Airflow -一个以编程方式创作、安排和监控工作流程的平台
 
-📅 2026-10-22T01:16:04Z
-
----
-
-### GitHub New (New AI)
-![🆕 genpic ： AI portrait SaaS （ Laravel 11、Livewire、Filament、Stripe、fal.ai ） —在生产中运行，关闭后作为开源版本发布](https://avatars.githubusercontent.com/u/195768?v=4)
-
-**[🆕 genpic ： AI portrait SaaS （ Laravel 11、Livewire、Filament、Stripe、fal.ai ） —在生产中运行，关闭后作为开源版本发布](https://github.com/dcarrero/genpic)**
-
-⭐ 20 star (新项目) · PHP · AI portrait SaaS (Laravel 11, Livewire, Filament, Stripe, falai) — run in production, **release**d as open source after closing
-
-📅 2026-10-19T11:43:03Z
+📅 2026-10-22T19:04:40Z
 
 ---
 
-### GitHub New (New AI)
-![开放🆕 媒体网关： OMG -开放媒体网关](https://avatars.githubusercontent.com/u/282683371?v=4)
+### GitHub Active (AI/ML)
+![optax ： Optax是JAX的梯度处理和优化库。](https://avatars.githubusercontent.com/u/8596759?v=4)
 
-**[开放🆕 媒体网关： OMG -开放媒体网关](https://github.com/Sociaro-Research/open-media-gateway)**
+**[optax ： Optax是JAX的梯度处理和优化库。](https://github.com/google-deepmind/optax)**
 
-⭐ 4 star (新项目) · Go · OMG - Open Media Gateway
+⭐ 2,354星· 383叉· Python · Optax是JAX的梯度处理和优化库。
 
-📅 2026-10-20T11:43:37Z
+📅 2026-10-22T19:04:52Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 crawlmind ： MCP服务器+用于AI原生SEO审核的CLI ：断开的链接、内部链接建议、模板速度、抓取差异。](https://avatars.githubusercontent.com/u/2720025?v=4)
+### GitHub Active (AI/ML)
+![aeon ：时间序列机器学习和深度学习的工具包](https://avatars.githubusercontent.com/u/78909809?v=4)
 
-**[🆕 crawlmind ： MCP服务器+用于AI原生SEO审核的CLI ：断开的链接、内部链接建议、模板速度、抓取差异。](https://github.com/Everhard/crawlmind)**
+**[aeon ：时间序列机器学习和深度学习的工具包](https://github.com/aeon-toolkit/aeon)**
 
-⭐ 2 star (新项目) · TypeScript · MCP server + CLI for AI-native SEO audits: broken links, internal link suggestions, speed by template, crawl diffs
+⭐ 1462星· 359叉· Python ·时间序列机器学习和深度学习工具包
 
-📅 2026-10-21T06:00:02Z
+📅 2026-10-22T19:04:39Z
+
+---
+
+### GitHub Active (AI/ML)
+![awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
+
+**[awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
+
+⭐ 464星· 39分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作管道刷新
+
+📅 2026-10-22T19:04:50Z
 
 ---
 
 ## 💬 社交动态
-
-### Reddit: r/artificial
-**[司机作为教授的日常使用](https://www.reddit.com/r/artificial/comments/1xbzs4y/daily_driver_use_as_a_professor/)**
-
-在过去的3年里，我一直在使用**OpenAI**/Chat**GPT** ，我非常喜欢它我使用Chat**GPT**/Codex来满足我的氛围编码“需求” ，这是非常特别的
-
-📅 2026-10-21T21:19:02.000Z
-
----
-
-### Reddit: r/artificial
-**[有多少“无法利用”的漏洞即将成为可利用的漏洞？](https://www.reddit.com/r/artificial/comments/1xbrt5f/how_many_unexploitable_bugs_are_about_to_become/)**
-
-在**Gemini**和**GPT**模型的帮助下， Wiz研究人员设法发现了漏洞，并在大约一周内开发了工作漏洞AI开始挑战这一假设
-
-📅 2026-10-21T16:25:00.000Z
-
----
-
-### Reddit: r/artificial
-**[人工智能并不能取代专业知识。它提高了标准。讨论](https://www.reddit.com/r/artificial/comments/1xbqwdy/ai_doesnt_replace_expertise_it_raises_the_bar/)**
-
-只看到其他人通过**GPT**提出相同的请求，并得到基本相同的结果克劳德， **GPT** ，任何最适合该特定任务的结果
-
-📅 2026-10-21T15:52:30.000Z
-
----
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-10-22T01:16:01.835Z
+📅 2026-10-22T19:05:55.005Z
 
 ---
 
@@ -353,34 +324,65 @@ Cloudflare使用**OpenAI** Daybreak来调查漏洞并提出修复建议供审查
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-10-22T01:16:07.837Z
+📅 2026-10-22T19:06:01.486Z
 
 ---
 
 ### Hacker News
-**[Claude Duet](https://claude.com/product/claude-duet)**
+**[Show HN: agent-usage-guard – a Claude Code mod以保护您的使用窗口](https://github.com/rbartoli/agent-usage-guard)**
 
-文章网址： https://**Claude**com/product/**Claude**-duet评论网址： https://**new**s
+文章网址： https://githubcom/rbartoli/agent-usage-guard评论网址： https://**new**s
 
-📅 Wed, 21 Oct 2026 19:14:01 +0000
+📅 Thu, 22 Oct 2026 18:02:38 +0000
 
 ---
 
 ### Hacker News
-**[Google的Rust风格指南](https://google.github.io/styleguide/rustguide.html)**
+**[Nvidia OpenShell](https://github.com/NVIDIA/OpenShell)**
 
-文章网址： https://**Google**html评论网址： https://**new**s
+文章网址： https://githubcom/NVIDIA/OpenShell评论网址： https://**new**s
 
-📅 Wed, 21 Oct 2026 19:11:57 +0000
+📅 Thu, 22 Oct 2026 17:44:06 +0000
 
 ---
 
 ### Hacker News AI
-**[Meta的新条款称，如果它的人工智能出错，那将是客户的错](https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html)**
+**[人工智能时代的漏洞发现和利用趋势](https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era)**
 
-com/article/4237395/**Meta**s-**new**-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-faulthtml评论网址： https://**new**s
+文章网址： https://cloudcom/blog/topics/threat-intelligence/vulnerability-discovery-and-expluitation-trends-in-the-ai-era评论网址： https://**new**s
 
-📅 Wed, 21 Oct 2026 22:48:02 +0000
+📅 Thu, 22 Oct 2026 18:26:23 +0000
+
+---
+
+### Hacker News AI
+**[由于人工智能交易面临压力， Meta和芯片股下跌](https://finance.yahoo.com/markets/article/meta-and-chip-stocks-decline-as-ai-trade-comes-under-pressure-alphacheck-140107733.html)**
+
+com/markets/article/**Meta**-and-chip-stocks-decline-as-ai-trade-comes-under-pressure-alphacheck-140107733html评论网址： https://**new**s
+
+📅 Thu, 22 Oct 2026 18:08:30 +0000
+
+---
+
+### Reddit: r/artificial
+![我问chatgpt关于ultron和vision的问题，问……](https://preview.redd.it/qrlv0g0de2xh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6d31ce44f3038d93dc8d99122ec6593fb75786fa)
+
+**[我问chatgpt关于ultron和vision的问题，问……](https://www.reddit.com/r/artificial/comments/1xcr5y4/i_asked_chatgpt_about_ultron_and_vision_and_asked/)**
+
+提交者/u/Major_Record1869 [link] [comments]
+
+📅 2026-10-22T18:48:30.000Z
+
+---
+
+### Reddit: r/artificial
+![OpenAI百万美元数学证明背后的内幕故事](https://external-preview.redd.it/YI1LfC46Cc3vyX9FyR8wx-x1hNZ2DZWztfJHOvFve7U.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2e0eb46786535c803fffec8917a92f9137636ab7)
+
+**[OpenAI百万美元数学证明背后的内幕故事](https://www.reddit.com/r/artificial/comments/1xcqows/the_inside_story_behind_openais_milliondollar/)**
+
+提交者/u/scientificamerican [link] [comments]
+
+📅 2026-10-22T18:30:57.000Z
 
 ---
 
