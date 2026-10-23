@@ -1,12 +1,12 @@
 ---
-title: "2026年10月22日 - TZ日报"
-date: 2026-10-22T19:07:17.998Z
+title: "2026年10月23日 - TZ日报"
+date: 2026-10-23T01:16:15.036Z
 draft: false
 ---
 
-# 2026年10月22日 - TZ日报
+# 2026年10月23日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/22 19:07:17
+> 📊 今日汇总 38 条 · 🕐 2026/10/23 01:16:15
 
 ---
 
@@ -37,15 +37,6 @@ draft: false
 优步正在**推出**Chat**GPT** Work ，可创建30多个演示文稿
 
 📅 Thu, 22 Oct 2026 00:00:00 GMT
-
----
-
-### OpenAI Blog
-**[我们如何构建ChatGPT的新型广告堆栈，以获得用户的信任和相关性](https://openai.com/index/building-chatgpt-ad-stack)**
-
-了解**OpenAI**如何构建Chat**GPT**基于LLM的广告堆栈，以了解会话意图，将广告与答案分开
-
-📅 Wed, 21 Oct 2026 07:00:00 GMT
 
 ---
 
@@ -109,6 +100,15 @@ AT ＆ T正在与**OpenAI**合作，使法律知识更容易获取了解其Legal
 Cloudflare使用**OpenAI** Daybreak来调查漏洞并提出修复建议供审查其开发人员使用Codex来更快地构建并提高代码质量
 
 📅 Wed, 21 Oct 2026 00:00:00 GMT
+
+---
+
+### Hugging Face
+**[NVIDIA Kumo Relational在关系数据方面优于监督机器学习，无需培训](https://huggingface.co/blog/nvidia/kumo-relational)**
+
+NVIDIA Kumo Relational在关系数据方面优于监督机器学习，无需培训
+
+📅 Wed, 21 Oct 2026 18:26:30 GMT
 
 ---
 
@@ -189,6 +189,17 @@ Cloudflare使用**OpenAI** Daybreak来调查漏洞并提出修复建议供审查
 ## 🌍 行业展望
 
 ### The Information Technology
+![为什么Blackstone认为人工智能瓶颈可能对其有利](https://tii.imgix.net/article/pictures/newsletters-production/4b7d9236-f1f7-4d5b-96dc-8770ebf542fe-BREOhX.jpg?auto=compress)
+
+**[为什么Blackstone认为人工智能瓶颈可能对其有利](https://www.theinformation.com/articles/blackstone-thinks-ai-bottlenecks-work-favor)**
+
+Blackstone还一直在推进全新的人工智能合资企业，该公司宣布与谷歌合资成立一家初始50亿美元的股权承诺，以创建一家使用谷歌TPU芯片的新云公司
+
+📅 2026-10-23T00:01:00.000Z
+
+---
+
+### The Information Technology
 ![Salesforce客户准备在其应用程序中使用Claude的新费用](https://tii.imgix.net/production/articles/18038/bf3b0235-942d-44ac-85ec-9bcf267983df.png?auto=compress,format&amp;fit=crop&amp;w=560)
 
 **[Salesforce客户准备在其应用程序中使用Claude的新费用](https://www.theinformation.com/articles/salesforce-customers-brace-new-fees-use-claude-apps)**
@@ -199,12 +210,41 @@ Cloudflare使用**OpenAI** Daybreak来调查漏洞并提出修复建议供审查
 
 ---
 
+### The Verge
+![Canva的首个AI图像模型在生成设计之前对其进行规划](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[Canva的首个AI图像模型在生成设计之前对其进行规划](https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model)**
+
+Canva**推出**了直接与**OpenAI**、微软和**Google**的**图像生成**模型竞争的**图像生成**模型，从而更深入地了解人工智能……阅读The Verge的完整故事
+
+📅 2026-10-22T21:51:25.000Z
+
+---
+
 ### The Information Technology
 **[随着视频人工智能的起飞，乌托邦成为独角兽](https://www.theinformation.com/articles/utopai-becomes-unicorn-video-ai-takes)**
 
 虽然人工智能行业的大部分人都专注于**Meta**和**OpenAI**的新个人人工智能助手，但视频人工智能正在享受安静的复兴好莱坞大亨杰弗里·卡岑伯格（ Jeffrey Katzenberg ）正在与**OpenAI**的Sora应用程序的前负责人合作，**推出**一家新的人工智能电影公司
 
 📅 2026-10-22T14:01:22.000Z
+
+---
+
+### The Information Technology
+**[Anthropic的电梯问题：说服投资者分享其AI梦想](https://www.theinformation.com/articles/anthropics-elevator-problem-persuading-investors-share-ai-dream)**
+
+我首先从早期人类投资者Jaan Tallinn那里听到： “世界的未来将由一群坐在电梯里的人来决定为了筹集人类领袖所需的资金，为了不断地筹集资金，大型基金经理需要完全买进
+
+📅 2026-10-23T00:30:58.000Z
+
+---
+
+### The Information Technology
+**[OpenAI融资回合即将与阿联酋投资者完成， Coatue领先投资](https://www.theinformation.com/briefings/openai-fundraising-round-set-close-soon-uae-investors-coatue-leading-investment)**
+
+**OpenAI**的目标是完成一轮300亿美元的融资，该轮融资将使这家总部位于纽约的投资公司Coatue Management和
+
+📅 2026-10-22T22:23:38.000Z
 
 ---
 
@@ -226,96 +266,69 @@ Cloudflare使用**OpenAI** Daybreak来调查漏洞并提出修复建议供审查
 
 ---
 
-### The Information Technology
-**[评估人员发现， OpenAI有许多漏洞，其AI可以利用](https://www.theinformation.com/briefings/openai-numerous-vulnerabilities-ai-exploit-evaluators-find)**
-
-**OpenAI**的系统存在多个漏洞，允许人工智能代理规避监控，并在7月底至8月初与**OpenAI**进行为期三周的试点期间，从人工智能安全非营利组织METR和Redwood Research获得任意未经授权的行动评估者。
-
-📅 2026-10-22T15:00:53.000Z
-
----
-
-### The Information Technology
-**[英伟达强大的B300芯片在中国国有网络上亮相](https://www.theinformation.com/briefings/nvidias-powerful-b300-chips-spotted-chinese-state-owned-network)**
-
-以色列安全公司Lava表示，通过与中国电信国有电信公司网络连接的监控系统发现了32个Nvidia Blackwell Ultra B300芯片
-
-📅 2026-10-22T12:00:44.000Z
-
----
-
-### The Information Technology
-**[扎克伯格的财富税担忧影响了Meta的股票改革](https://www.theinformation.com/briefings/zuckerbergs-wealth-tax-concerns-shaped-metas-stock-overhaul)**
-
-**Meta** Platforms改变其股票结构的决定是由一些因素决定的，包括对该公司未来几年可能不得不筹集数千亿美元的预期，以及对其家乡加利福尼亚州拟议的财富税可能促使首席执行官马克
-
-📅 2026-10-22T03:03:23.000Z
-
----
-
-### Wired Technology
-**[最佳微软Surface笔记本电脑（ 2026年） ：购买和避免哪些型号](https://www.wired.com/story/microsoft-surface-buying-guide/)**
-
-随着FLUX和新机型的定价，这里是购买哪款Surface Laptop和Surface Pro。
-
-📅 Thu, 22 Oct 2026 11:00:00 +0000
-
----
-
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![气流： Apache气流-以编程方式创作、安排和监控工作流程的平台](https://avatars.githubusercontent.com/u/47359?v=4)
+### GitHub Active (Python)
+![javis-os: 🔥 近期活跃项目](https://avatars.githubusercontent.com/u/280610439?v=4)
 
-**[气流： Apache气流-以编程方式创作、安排和监控工作流程的平台](https://github.com/apache/airflow)**
+**[javis-os: 🔥 近期活跃项目](https://github.com/blogminhquy/javis-os)**
 
-⭐ 47,257星· 18094分叉· Python · Apache Airflow -一个以编程方式创作、安排和监控工作流程的平台
+⭐ 279 star · 175 fork · Python · 无描述
 
-📅 2026-10-22T19:04:40Z
-
----
-
-### GitHub Active (AI/ML)
-![optax ： Optax是JAX的梯度处理和优化库。](https://avatars.githubusercontent.com/u/8596759?v=4)
-
-**[optax ： Optax是JAX的梯度处理和优化库。](https://github.com/google-deepmind/optax)**
-
-⭐ 2,354星· 383叉· Python · Optax是JAX的梯度处理和优化库。
-
-📅 2026-10-22T19:04:52Z
+📅 2026-10-23T01:15:04Z
 
 ---
 
-### GitHub Active (AI/ML)
-![aeon ：时间序列机器学习和深度学习的工具包](https://avatars.githubusercontent.com/u/78909809?v=4)
+### GitHub New (New AI)
+![🆕 agentshield ： Agentshield是Kubernetes和AWS的开源防御。它了解您的工作负载实际上是如何说话的，用证据标记横向移动，并提出您批准的修复建议。](https://avatars.githubusercontent.com/u/330390416?v=4)
 
-**[aeon ：时间序列机器学习和深度学习的工具包](https://github.com/aeon-toolkit/aeon)**
+**[🆕 agentshield ： Agentshield是Kubernetes和AWS的开源防御。它了解您的工作负载实际上是如何说话的，用证据标记横向移动，并提出您批准的修复建议。](https://github.com/agentshield-dev/agentshield)**
 
-⭐ 1462星· 359叉· Python ·时间序列机器学习和深度学习工具包
+⭐ 27 star (新项目) · Go · Agentshield is open source defense for Kubernetes and AWSIt learns how your workloads really talk, flags lateral movement with evidence, and proposes fixes you approve
 
-📅 2026-10-22T19:04:39Z
+📅 2026-10-21T20:18:00Z
 
 ---
 
-### GitHub Active (AI/ML)
-![awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
+### GitHub New (New AI)
+![🆕 agent-zero ： AI原生编码项目的入门模板](https://avatars.githubusercontent.com/u/75881?v=4)
 
-**[awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
+**[🆕 agent-zero ： AI原生编码项目的入门模板](https://github.com/amorey/agent-zero)**
 
-⭐ 464星· 39分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作管道刷新
+⭐ 4 star (新项目) · Shell · A starter template for AI-native coding projects
 
-📅 2026-10-22T19:04:50Z
+📅 2026-10-20T16:20:18Z
+
+---
+
+### GitHub New (New AI)
+![开放🆕 媒体网关： OMG -开放媒体网关](https://avatars.githubusercontent.com/u/282683371?v=4)
+
+**[开放🆕 媒体网关： OMG -开放媒体网关](https://github.com/Sociaro-Research/open-media-gateway)**
+
+⭐ 4 star (新项目) · Go · OMG - Open Media Gateway
+
+📅 2026-10-20T11:43:37Z
 
 ---
 
 ## 💬 社交动态
+
+### Reddit: r/artificial
+**[视频工具开始允许Chatgpt或claude自行制作完整的视频。您是否会让代理商管理您品牌的渠道？](https://www.reddit.com/r/artificial/comments/1xcyewv/video_tools_are_starting_to_let_chatgpt_or_claude/)**
+
+而不是你提示每一个镜头，像Chat**GPT**或**Claude**这样的助手写简报，挑选模型，然后给你一个完成的视频提示，再生，修复面部，尝试不同的模型，重复
+
+📅 2026-10-22T23:39:05.000Z
+
+---
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-10-22T19:05:55.005Z
+📅 2026-10-23T01:15:08.701Z
 
 ---
 
@@ -324,21 +337,21 @@ Cloudflare使用**OpenAI** Daybreak来调查漏洞并提出修复建议供审查
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-10-22T19:06:01.486Z
+📅 2026-10-23T01:15:15.164Z
 
 ---
 
 ### Hacker News
-**[Show HN: agent-usage-guard – a Claude Code mod以保护您的使用窗口](https://github.com/rbartoli/agent-usage-guard)**
+**[LLM正在使正式的软件验证在更大的规模上可行](https://www.anthropic.com/research/formal-verification)**
 
-文章网址： https://githubcom/rbartoli/agent-usage-guard评论网址： https://**new**s
+文章网址： https://wwwcom/research/formal-verification评论网址： https://**new**s
 
-📅 Thu, 22 Oct 2026 18:02:38 +0000
+📅 Thu, 22 Oct 2026 22:54:43 +0000
 
 ---
 
 ### Hacker News
-**[Nvidia OpenShell](https://github.com/NVIDIA/OpenShell)**
+**[OpenShell –自主人工智能代理车队的安全、私有运行时](https://github.com/NVIDIA/OpenShell)**
 
 文章网址： https://githubcom/NVIDIA/OpenShell评论网址： https://**new**s
 
@@ -346,43 +359,30 @@ Cloudflare使用**OpenAI** Daybreak来调查漏洞并提出修复建议供审查
 
 ---
 
-### Hacker News AI
-**[人工智能时代的漏洞发现和利用趋势](https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era)**
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-文章网址： https://cloudcom/blog/topics/threat-intelligence/vulnerability-discovery-and-expluitation-trends-in-the-ai-era评论网址： https://**new**s
+Title: 520: Web服务器返回未知错误
 
-📅 Thu, 22 Oct 2026 18:26:23 +0000
-
----
-
-### Hacker News AI
-**[由于人工智能交易面临压力， Meta和芯片股下跌](https://finance.yahoo.com/markets/article/meta-and-chip-stocks-decline-as-ai-trade-comes-under-pressure-alphacheck-140107733.html)**
-
-com/markets/article/**Meta**-and-chip-stocks-decline-as-ai-trade-comes-under-pressure-alphacheck-140107733html评论网址： https://**new**s
-
-📅 Thu, 22 Oct 2026 18:08:30 +0000
+📅 2026-10-23T01:15:08.701Z
 
 ---
 
-### Reddit: r/artificial
-![我问chatgpt关于ultron和vision的问题，问……](https://preview.redd.it/qrlv0g0de2xh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6d31ce44f3038d93dc8d99122ec6593fb75786fa)
+### X: OpenAI
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-**[我问chatgpt关于ultron和vision的问题，问……](https://www.reddit.com/r/artificial/comments/1xcr5y4/i_asked_chatgpt_about_ultron_and_vision_and_asked/)**
+警告：目标URL返回错误520 ：
 
-提交者/u/Major_Record1869 [link] [comments]
-
-📅 2026-10-22T18:48:30.000Z
+📅 2026-10-23T01:15:08.701Z
 
 ---
 
-### Reddit: r/artificial
-![OpenAI百万美元数学证明背后的内幕故事](https://external-preview.redd.it/YI1LfC46Cc3vyX9FyR8wx-x1hNZ2DZWztfJHOvFve7U.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2e0eb46786535c803fffec8917a92f9137636ab7)
+### X: OpenAI
+**[警告：此页面可能尚未完全加载，请考虑显式指定超时。](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-**[OpenAI百万美元数学证明背后的内幕故事](https://www.reddit.com/r/artificial/comments/1xcqows/the_inside_story_behind_openais_milliondollar/)**
+警告：此页面可能尚未完全加载，请考虑显式指定超时。
 
-提交者/u/scientificamerican [link] [comments]
-
-📅 2026-10-22T18:30:57.000Z
+📅 2026-10-23T01:15:08.701Z
 
 ---
 
