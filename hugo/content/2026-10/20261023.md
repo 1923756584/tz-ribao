@@ -1,12 +1,12 @@
 ---
 title: "2026年10月23日 - TZ日报"
-date: 2026-10-23T01:16:15.036Z
+date: 2026-10-23T18:58:10.212Z
 draft: false
 ---
 
 # 2026年10月23日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/23 01:16:15
+> 📊 今日汇总 38 条 · 🕐 2026/10/23 18:58:10
 
 ---
 
@@ -32,6 +32,15 @@ draft: false
 ---
 
 ### OpenAI Blog
+**[快速扩展在线存储，为超过10亿ChatGPT用户提供服务（第二部分）](https://openai.com/index/scaling-storage-one-billion-users-part-two)**
+
+了解**OpenAI**如何通过可靠的多租户、全局缓存和Azure Cosmos DB扩展Habitat ，为Chat**GPT**提供更快12倍的读取速度
+
+📅 Fri, 23 Oct 2026 17:00:00 GMT
+
+---
+
+### OpenAI Blog
 **[优步通过OpenAI为所有员工提供ChatGPT Work](https://openai.com/index/uber-chatgpt-work-rollout)**
 
 优步正在**推出**Chat**GPT** Work ，可创建30多个演示文稿
@@ -40,12 +49,12 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[Claude Duet应用程序是Anthropic对代理商的押注](https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/)**
+### OpenAI Blog
+**[OpenAI与波兰NASK合作推进人工智能安全保障](https://openai.com/index/openai-nask-ai-safety-security-partnership)**
 
-**Claude** Duet可通过等候名单提供给Pro和Max计划用户。
+**OpenAI**和波兰的NASK正在合作开展人工智能安全和技术研究，以加强保障措施并支持更具弹性的数字生态系统
 
-📅 Thu, 22 Oct 2026 13:53:26 +0000
+📅 Fri, 23 Oct 2026 00:00:00 GMT
 
 ---
 
@@ -85,24 +94,6 @@ AT ＆ T正在与**OpenAI**合作，使法律知识更容易获取了解其Legal
 
 ---
 
-### OpenAI Blog
-**[使用成千上万的人工智能代理来发现生物数据中的新线索](https://openai.com/index/scaling-ai-research-for-complex-biological-data)**
-
-了解**OpenAI**、PerturbAI和Scripps Research如何使用分布式人工智能代理从数百万个脑细胞的数据中发现有前途的研究线索
-
-📅 Wed, 21 Oct 2026 04:50:00 GMT
-
----
-
-### OpenAI Blog
-**[Cloudflare通过OpenAI将漏洞发现与防御联系起来](https://openai.com/index/cloudflare-cyber)**
-
-Cloudflare使用**OpenAI** Daybreak来调查漏洞并提出修复建议供审查其开发人员使用Codex来更快地构建并提高代码质量
-
-📅 Wed, 21 Oct 2026 00:00:00 GMT
-
----
-
 ### Hugging Face
 **[NVIDIA Kumo Relational在关系数据方面优于监督机器学习，无需培训](https://huggingface.co/blog/nvidia/kumo-relational)**
 
@@ -112,77 +103,86 @@ NVIDIA Kumo Relational在关系数据方面优于监督机器学习，无需培�
 
 ---
 
+### TechCrunch AI Products
+**[优步的竞争对手inDrive Eyes 2027在中亚通过Pony AI和Nvidia进行机器人出租车测试](https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/)**
+
+该公司计划于2027年上半年在哈萨克斯坦首都开始测试Ponyai的机器人出租车
+
+📅 Fri, 23 Oct 2026 04:00:00 +0000
+
+---
+
 ## 🔬 前沿研究
 
-### ArXiv Multiagent (cs.MA)
+### ArXiv AI (cs.AI)
+**[科学机器学习自动化：前沿代理商可以在野外攀登科学山吗？](https://arxiv.org/abs/2610.28763)**
+
+用于研究构思、实验管理和计划清单的轻量级插件技能将**Claude** Opus从10Code提升到GitHub （ https://github
+
+📅 Fri, 23 Oct 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[决策语言模型作为临床生成AI法学硕士评委的经济实惠的快速替代方案](https://arxiv.org/abs/2610.28826)**
+
+28826v1公告类型：新摘要：临床人工智能（ AI ）输出的自动化评委是必需的53 ）匹配或超过12位法学硕士评委中的7位，包括前沿模型**Claude** Opus 5
+
+📅 Fri, 23 Oct 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
 **[操纵与否：法学硕士互动中的意见动态](https://arxiv.org/abs/2610.28875)**
 
-28875v1公告类型： CROSS摘要：大型语言模型越来越多地参与扩展对话，在这些对话中，它们可以塑造并被另一方的观点塑造跨越四个有序的模型组合，涉及**GPT**-6 Luna和**Gemini** 2
+28875v1公告类型：新摘要：大型语言模型越来越多地参与扩展对话，在这些对话中，它们可以塑造和被另一方的观点塑造跨越四个有序的模型组合，涉及**GPT**-6 Luna和**Gemini** 2
 
-📅 Thu, 22 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[基于大型语言模型和强化学习的自主构建和进度更新](https://arxiv.org/abs/2610.26899)**
-
-26899v1公告类型：新摘要：由于全球人口的快速增长， Chat**GPT** 5
-
-📅 Thu, 22 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[DataPraxis ：通过经验证的工作空间演进来扩展分析任务](https://arxiv.org/abs/2610.26924)**
-
-26924v1公告类型：新摘要：通用代理越来越多地被期望执行专业分析工作培训这些能力需要多样化和具有挑战性的任务
-
-📅 Thu, 22 Oct 2026 00:00:00 -0400
+📅 Fri, 23 Oct 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Computer Vision (cs.CV)
-**[超越正确答案：构图线索如何塑造视觉判断](https://arxiv.org/abs/2610.28843)**
+**[AVAtt ：绘画视觉注意力的免费眼动追踪数据集和基准](https://arxiv.org/abs/2610.30481)**
 
-28843v1公告类型：新摘要：可视化问答要求模型将属性和关系分配给正确的对象首先，我们通过保持图像和声明固定来隔离十个模型和六个任务的字段标签效果
+30481v1公告类型：新摘要：显著性和扫描路径模型几乎完全在自然照片上开发对于每幅画，我们都会释放带有固定时间和眼睛-屏幕距离的单个扫描路径
 
-📅 Thu, 22 Oct 2026 00:00:00 -0400
+📅 Fri, 23 Oct 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[小模型要求更好：检索增强生成的微调查询澄清](https://arxiv.org/abs/2610.28686)**
+
+28686v1公告类型：新摘要：查询澄清对于面临模糊用户查询的检索增强生成（ RAG ）系统至关**重要**ClariEdge数据集位于https://huggingface
+
+📅 Fri, 23 Oct 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[Speedrunning关系基础模型预训练](https://arxiv.org/abs/2610.28855)**
+
+28855v1公告类型：新摘要：基础模型预训练的进度由谁负担得起试用版我们的代码可在https://github上找到
+
+📅 Fri, 23 Oct 2026 00:00:00 -0400
+
+---
+
+### ArXiv Machine Learning (cs.LG)
+**[提示风格如何影响人工智能在竞争性编程中的准确性和速度](https://arxiv.org/abs/2610.30223)**
+
+30223v1公告类型：新摘要：在竞争性编程中越来越多地使用大型语言模型在**GPT**-5上对九种风格中的一种提示进行了探索性研究
+
+📅 Fri, 23 Oct 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Natural Language Processing (cs.CL)
-**[SkillEval ：通过认知诊断模型学习LLM的可解释能力概况](https://arxiv.org/abs/2610.28767)**
+**[CiteAnchor ：用于幻觉引文检测和解决的源感知接地](https://arxiv.org/abs/2610.30355)**
 
-一个新的评估框架，该框架执行跨模型，其中可以使用训练有素的CDM有效地评估看不见的模型
+30355v1公告类型：新摘要：幻觉引用使追踪来源和验证科学声明背后的证据变得更加困难我们的代码和数据可在https://github上获得
 
-📅 Thu, 22 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Robotics (cs.RO)
-**[基于元学习模式识别和自适应控制的人机交互](https://arxiv.org/abs/2610.28761)**
-
-28761v1公告类型：新摘要：在人机交互（ HRI ）任务中首先，开发了一个通过元学习训练的神经网络（ NN ） ，用于识别人类意图，而无需手动定义阈值
-
-📅 Thu, 22 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Robotics (cs.RO)
-**[inr2action ：将机器人情节编码为召回和行动的神经隐式表示](https://arxiv.org/abs/2610.28882)**
-
-28882v1公告类型：新摘要：长视野机器人操作需要内存，该内存可根据基本信息而不是执行时间元学习的初始化进行扩展；由此产生的权重增量构成内存
-
-📅 Thu, 22 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Multiagent (cs.MA)
-**[法学硕士社交模拟中的蝴蝶效应：从建筑敏感性到稳健性审计](https://arxiv.org/abs/2610.28981)**
-
-28981v1公告类型：新摘要：当局部扰动通过系统传播并在其集体结果中产生分歧时， **GPT**-5会发生蝴蝶效应2个百分点
-
-📅 Thu, 22 Oct 2026 00:00:00 -0400
+📅 Fri, 23 Oct 2026 00:00:00 -0400
 
 ---
 
@@ -210,23 +210,12 @@ Blackstone还一直在推进全新的人工智能合资企业，该公司宣布�
 
 ---
 
-### The Verge
-![Canva的首个AI图像模型在生成设计之前对其进行规划](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[Canva的首个AI图像模型在生成设计之前对其进行规划](https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model)**
-
-Canva**推出**了直接与**OpenAI**、微软和**Google**的**图像生成**模型竞争的**图像生成**模型，从而更深入地了解人工智能……阅读The Verge的完整故事
-
-📅 2026-10-22T21:51:25.000Z
-
----
-
 ### The Information Technology
-**[随着视频人工智能的起飞，乌托邦成为独角兽](https://www.theinformation.com/articles/utopai-becomes-unicorn-video-ai-takes)**
+**[DeepSeek在第二轮融资中筹集了近160亿美元$](https://www.theinformation.com/briefings/deepseek-raises-nearly-16-billion-second-funding-round)**
 
-虽然人工智能行业的大部分人都专注于**Meta**和**OpenAI**的新个人人工智能助手，但视频人工智能正在享受安静的复兴好莱坞大亨杰弗里·卡岑伯格（ Jeffrey Katzenberg ）正在与**OpenAI**的Sora应用程序的前负责人合作，**推出**一家新的人工智能电影公司
+**DeepSeek**已经完成了第二轮融资，筹集了1060亿元人民币（ 15 $ ） ，是**DeepSeek**最初筹集500亿元人民币目标的两倍多
 
-📅 2026-10-22T14:01:22.000Z
+📅 2026-10-23T06:13:02.000Z
 
 ---
 
@@ -257,25 +246,56 @@ Canva**推出**了直接与**OpenAI**、微软和**Google**的**图像生成**�
 
 ---
 
-### The Information Technology
-**[谷歌支付房屋和企业以遏制能源使用](https://www.theinformation.com/briefings/google-pay-homes-businesses-curb-energy-usage)**
+### Wired Technology
+**[追究元数据的责任需要多少亿美元？](https://www.wired.com/story/how-many-billions-would-it-take-to-hold-meta-accountable/)**
 
-谷歌表示，它正在与能源公司Voltus合作，向家庭和企业支付费用，以遏制高峰时段的用电量。这些公司周四宣布了他们所谓的1吉瓦“虚拟发电厂”。
+**Meta**本周受到了迄今为止最大的罚款，这是法院下令支付的最新一笔罚款
 
-📅 2026-10-22T15:48:34.000Z
+📅 Fri, 23 Oct 2026 15:00:00 +0000
+
+---
+
+### ZDNet AI
+**[对Google地图不满意？将Waze设置为Pixel的默认值–方法如下](https://www.zdnet.com/tech/waze-your-way-to-a-different-default-map-app-on-pixel/)**
+
+对**Google**地图不满意？将Waze设置为Pixel的默认值–方法如下
+
+📅 2026-10-22T01:00:00.000Z
 
 ---
 
 ## 📦 GitHub热门
 
+### GitHub Active (AI/ML)
+![SOUP ：从一个YAML微调LLM。Layer Streaming在4 GB笔记本电脑GPU上训练8B型号。](https://avatars.githubusercontent.com/u/188336071?v=4)
+
+**[SOUP ：从一个YAML微调LLM。Layer Streaming在4 GB笔记本电脑GPU上训练8B型号。](https://github.com/MakazhanAlpamys/Soup)**
+
+⭐ 9,590颗星· 1560个分叉· Python ·来自一个YAMLLayer流媒体的微调LLM在4 GB笔记本电脑GPU上训练8B模型
+
+📅 2026-10-23T18:55:13Z
+
+---
+
+### GitHub Active (AI/ML)
+![HyperGAN ：具有API和用户界面的可组合GAN框架](https://avatars.githubusercontent.com/u/43973127?v=4)
+
+**[HyperGAN ：具有API和用户界面的可组合GAN框架](https://github.com/HyperGAN/HyperGAN)**
+
+⭐ 1183星· 160叉· Python ·带API和用户界面的可组合GAN框架
+
+📅 2026-10-23T18:55:20Z
+
+---
+
 ### GitHub Active (Python)
-![javis-os: 🔥 近期活跃项目](https://avatars.githubusercontent.com/u/280610439?v=4)
+![Athena-Public ： AI代理的本地优先内存、决策引擎和治理利用—可跨IDE移植。拥有国家。租用情报。](https://avatars.githubusercontent.com/u/250412518?v=4)
 
-**[javis-os: 🔥 近期活跃项目](https://github.com/blogminhquy/javis-os)**
+**[Athena-Public ： AI代理的本地优先内存、决策引擎和治理利用—可跨IDE移植。拥有国家。租用情报。](https://github.com/winstonkoh87/Athena-Public)**
 
-⭐ 279 star · 175 fork · Python · 无描述
+⭐ 619星· 84分叉· Python ·人工智能代理的本地优先内存、决策引擎和治理线束—可跨IDE移植
 
-📅 2026-10-23T01:15:04Z
+📅 2026-10-23T18:57:01Z
 
 ---
 
@@ -284,42 +304,29 @@ Canva**推出**了直接与**OpenAI**、微软和**Google**的**图像生成**�
 
 **[🆕 agentshield ： Agentshield是Kubernetes和AWS的开源防御。它了解您的工作负载实际上是如何说话的，用证据标记横向移动，并提出您批准的修复建议。](https://github.com/agentshield-dev/agentshield)**
 
-⭐ 27 star (新项目) · Go · Agentshield is open source defense for Kubernetes and AWSIt learns how your workloads really talk, flags lateral movement with evidence, and proposes fixes you approve
+⭐ 46 star (新项目) · Go · Agentshield is open source defense for Kubernetes and AWSIt learns how your workloads really talk, flags lateral movement with evidence, and proposes fixes you approve
 
 📅 2026-10-21T20:18:00Z
-
----
-
-### GitHub New (New AI)
-![🆕 agent-zero ： AI原生编码项目的入门模板](https://avatars.githubusercontent.com/u/75881?v=4)
-
-**[🆕 agent-zero ： AI原生编码项目的入门模板](https://github.com/amorey/agent-zero)**
-
-⭐ 4 star (新项目) · Shell · A starter template for AI-native coding projects
-
-📅 2026-10-20T16:20:18Z
-
----
-
-### GitHub New (New AI)
-![开放🆕 媒体网关： OMG -开放媒体网关](https://avatars.githubusercontent.com/u/282683371?v=4)
-
-**[开放🆕 媒体网关： OMG -开放媒体网关](https://github.com/Sociaro-Research/open-media-gateway)**
-
-⭐ 4 star (新项目) · Go · OMG - Open Media Gateway
-
-📅 2026-10-20T11:43:37Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[视频工具开始允许Chatgpt或claude自行制作完整的视频。您是否会让代理商管理您品牌的渠道？](https://www.reddit.com/r/artificial/comments/1xcyewv/video_tools_are_starting_to_let_chatgpt_or_claude/)**
+**[Perplexity Pro是否值得，而不是分别为ChatGPT、Claude和Gemini付费？](https://www.reddit.com/r/artificial/comments/1xdgac7/is_perplexity_pro_worth_it_instead_of_paying_for/)**
 
-而不是你提示每一个镜头，像Chat**GPT**或**Claude**这样的助手写简报，挑选模型，然后给你一个完成的视频提示，再生，修复面部，尝试不同的模型，重复
+是否有人尝试将Perplexity Pro用作不同AI模型的单一界面，而不是支付Chat**GPT**Claude
 
-📅 2026-10-22T23:39:05.000Z
+📅 2026-10-23T14:54:46.000Z
+
+---
+
+### Reddit: r/artificial
+**[需要3分钟的时间！关于我大学项目的人工智能编码工具的快速匿名调查](https://www.reddit.com/r/artificial/comments/1xdk7sz/need_3_mins_of_your_time_quick_anonymous_survey/)**
+
+我目前在第四学期，正在运行一个关于人工智能工具（ Chat**GPT**、GitHub Copilot、**Gemini**等）如何由/u/No_Pain9989🙌提交的简短研究项目[link] [comments]
+
+📅 2026-10-23T17:21:10.000Z
 
 ---
 
@@ -328,7 +335,7 @@ Canva**推出**了直接与**OpenAI**、微软和**Google**的**图像生成**�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-10-23T01:15:08.701Z
+📅 2026-10-23T18:56:35.150Z
 
 ---
 
@@ -337,52 +344,49 @@ Canva**推出**了直接与**OpenAI**、微软和**Google**的**图像生成**�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-10-23T01:15:15.164Z
+📅 2026-10-23T18:56:44.321Z
 
 ---
 
-### Hacker News
-**[LLM正在使正式的软件验证在更大的规模上可行](https://www.anthropic.com/research/formal-verification)**
+### Hacker News AI
+**[OpenAI称其人工智能代理禁用了安全护栏，然后撒了谎](https://www.techspot.com/news/114286-openai-ai-agents-disabled-safety-guardrails-lied-about.html)**
 
-文章网址： https://wwwcom/research/formal-verification评论网址： https://**new**s
+com/**new**s/114286-**OpenAI**-ai-agents-disabled-safety-guardrails-lied-abouthtml评论网址： https://**new**s
 
-📅 Thu, 22 Oct 2026 22:54:43 +0000
-
----
-
-### Hacker News
-**[OpenShell –自主人工智能代理车队的安全、私有运行时](https://github.com/NVIDIA/OpenShell)**
-
-文章网址： https://githubcom/NVIDIA/OpenShell评论网址： https://**new**s
-
-📅 Thu, 22 Oct 2026 17:44:06 +0000
+📅 Fri, 23 Oct 2026 17:54:56 +0000
 
 ---
 
-### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Reddit: r/artificial
+![Claude Mythos 5打破测试界限，在英国安全评估中攻击真正的开发人员](https://external-preview.redd.it/sBoWnt0FVCc2gMXb55dn2e7fjuPrjHBqfEvWkp4iEzY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d5107555ca9f54d5e7abaf672dd47e4629cadbaa)
 
-Title: 520: Web服务器返回未知错误
+**[Claude Mythos 5打破测试界限，在英国安全评估中攻击真正的开发人员](https://www.reddit.com/r/artificial/comments/1xdmcsc/claude_mythos_5_broke_test_boundaries_to_attack/)**
 
-📅 2026-10-23T01:15:08.701Z
+提交者/u/VectorWireAI [link] [comments]
 
----
-
-### X: OpenAI
-**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-警告：目标URL返回错误520 ：
-
-📅 2026-10-23T01:15:08.701Z
+📅 2026-10-23T18:41:57.000Z
 
 ---
 
-### X: OpenAI
-**[警告：此页面可能尚未完全加载，请考虑显式指定超时。](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Reddit: r/artificial
+![OpenAI以每百万个输入代币0.10 $的价格打开Decisions API ，目标是TypeSafe的JEV类别](https://external-preview.redd.it/FTFsZGIvBavaFakjHRJHk4n5ESPrPK3kHUj9L1Vt4jg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b56811c9a5e26920e7e895a07800e43a8ca2495f)
 
-警告：此页面可能尚未完全加载，请考虑显式指定超时。
+**[OpenAI以每百万个输入代币0.10 $的价格打开Decisions API ，目标是TypeSafe的JEV类别](https://www.reddit.com/r/artificial/comments/1xdg1x1/openai_opens_decisions_api_at_010_per_million/)**
 
-📅 2026-10-23T01:15:08.701Z
+提交者/u/VectorWireAI [link] [comments]
+
+📅 2026-10-23T14:45:41.000Z
+
+---
+
+### Reddit: r/artificial
+![内部OpenAI模型在培训中绕过了政府统计网站的登录检查](https://external-preview.redd.it/vliywQf3BZLJ-rSFGeyB8kIo9G9Oaa3r1PZ2c4jgihw.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3a5911e8e28286c33f215eaf87eba1b34b93bed9)
+
+**[内部OpenAI模型在培训中绕过了政府统计网站的登录检查](https://www.reddit.com/r/artificial/comments/1xde4b8/internal_openai_model_bypassed_login_checks_on_a/)**
+
+提交者/u/Mundane-Evidence2795 [link] [comments]
+
+📅 2026-10-23T13:31:14.000Z
 
 ---
 
