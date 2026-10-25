@@ -1,22 +1,22 @@
 ---
 title: "2026年10月25日 - TZ日报"
-date: 2026-10-25T00:53:11.606Z
+date: 2026-10-25T18:12:22.038Z
 draft: false
 ---
 
 # 2026年10月25日 - TZ日报
 
-> 📊 今日汇总 37 条 · 🕐 2026/10/25 00:53:11
+> 📊 今日汇总 36 条 · 🕐 2026/10/25 18:12:22
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 8 条
+- **前沿研究**: 6 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
-- **社交动态**: 7 条
+- **社交动态**: 8 条
 
 ---
 
@@ -58,15 +58,6 @@ draft: false
 
 ---
 
-### OpenAI Blog
-**[FDE在OpenAI意味着什么](https://openai.com/index/forward-deployed-engineering-means)**
-
-**OpenAI**的前沿部署工程意味着什么
-
-📅 Thu, 22 Oct 2026 06:00:00 GMT
-
----
-
 ### TechCrunch AI Products
 **[人工智能墓地：未成功完成的项目和初创公司的运行列表](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)**
 
@@ -103,12 +94,21 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[OpenAI在IPO之前以$ 1.25 T的估值进行新的$ 300亿加息](https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/)**
+### OpenAI Blog
+**[使用Decisions API构建响应速度更快的应用程序](https://openai.com/index/decisions-api)**
 
-如果**OpenAI**在这轮融资中获得超过1万亿美元的估值，它将打破有史以来估值最高的私人公司的纪录
+适用于任何应用程序的快速、专注、低成本决策。
 
-📅 Thu, 22 Oct 2026 22:08:24 +0000
+📅 Thu, 22 Oct 2026 19:00:00 GMT
+
+---
+
+### Hugging Face
+**[LitPivot ：通过文学景观中的动态语境化发展研究理念](https://huggingface.co/blog/allenai/litpivot)**
+
+LitPivot ：通过文学景观中的动态语境化发展研究理念
+
+📅 Fri, 23 Oct 2026 16:15:50 GMT
 
 ---
 
@@ -150,39 +150,21 @@ draft: false
 
 ---
 
-### Science AI
-**[欧洲夏季热浪在城市地区造成5万多人死亡](https://www.science.org/content/article/europe-s-summer-heat-wave-killed-more-50-000-people-urban-areas)**
+### MIT Tech Research
+**[设计一款经久耐用的AI服务线束](https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/)**
 
-研究人员估计，气候变化造成了三分之二的死亡
+企业AI的下一个竞争优势与其说与您选择哪种模型有关，不如说与您围绕它构建的内容有关，大部分AI对话都以模型能力为中心：更大的模型
 
-📅 2026-10-22T07:01:00.000Z
-
----
-
-### Science AI
-**[与欧洲最近发现的牲畜病毒有关的首例人类死亡](https://www.science.org/content/article/first-human-death-linked-recently-discovered-livestock-virus-europe)**
-
-科学家强调需要进一步研究Shamonda病毒，但表示没有理由感到担忧
-
-📅 2026-10-22T02:55:37.000Z
+📅 Thu, 22 Oct 2026 21:17:29 +0000
 
 ---
 
-### Science AI
-**[会见美国国立卫生研究院针对中国科学家的前联邦调查局特工](https://www.science.org/content/article/meet-former-fbi-agent-behind-nih-s-targeting-chinese-scientists)**
+### MIT Tech Research
+**[可扩展AI的基础](https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/)**
 
-调查外国获得U资助研究的尝试的Tam Dao现在有一笔赠款来确定威胁的程度
+可扩展的人工智能系统需要强大的基础数据、工程、平台、运营模式和治理必须融为一体
 
-📅 2026-10-22T02:00:00.000Z
-
----
-
-### Science AI
-**[地球心脏的铁可能呈现出令人惊讶的形态](https://www.science.org/content/article/iron-earth-s-heart-may-take-surprising-form)**
-
-X射线实验揭示了可能使内核图像复杂化的立方晶体
-
-📅 2026-10-22T09:10:09.000Z
+📅 Thu, 22 Oct 2026 18:48:04 +0000
 
 ---
 
@@ -209,6 +191,17 @@ X射线实验揭示了可能使内核图像复杂化的立方晶体
 ---
 
 ### The Verge
+![现在，您可以在Apple TV上观看Instagram转轴](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/1286x724bb.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[现在，您可以在Apple TV上观看Instagram转轴](https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv)**
+
+该公司首先开始测试一个专注于Reels的平台版本，然后在6月份**推出**了该应用程序的一系列新功能，可用于亚马逊的Fire TV、三星智能电视和**Google** TV
+
+📅 2026-10-25T16:20:17.000Z
+
+---
+
+### The Verge
 ![LG辉煌的C6 OLED电视在黑色星期五之前已经打了400 $的折扣](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/TV-OLED55C6PUA-Brilliant-oled-pictures_features_900x600.avif?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
 **[LG辉煌的C6 OLED电视在黑色星期五之前已经打了400 $的折扣](https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale)**
@@ -219,21 +212,21 @@ X射线实验揭示了可能使内核图像复杂化的立方晶体
 
 ---
 
-### The Information Technology
-**[DeepSeek在第二轮融资中筹集了近160亿美元$](https://www.theinformation.com/briefings/deepseek-raises-nearly-16-billion-second-funding-round)**
+### Wired Technology
+**[Wallhack M-001评论：当乐趣覆盖规格时](https://www.wired.com/review/wallhack-m-001/)**
 
-**DeepSeek**已经完成了第二轮融资，筹集了1060亿元人民币（ 15 $ ） ，是**DeepSeek**最初筹集500亿元人民币目标的两倍多
+凭借用于即时定制的触觉加密狗和金属底盘， Wallhack M-001是我在很长一段时间内查看游戏鼠标时最有趣的一次
 
-📅 2026-10-23T06:13:02.000Z
+📅 Sun, 25 Oct 2026 12:30:00 +0000
 
 ---
 
 ### Wired Technology
-**[雷朋元音频评论：最佳智能眼镜](https://www.wired.com/review/ray-ban-meta-audio/)**
+**[6款最佳折叠手机（ 2026年） ：三星、苹果、谷歌、摩托罗拉](https://www.wired.com/gallery/best-folding-phones/)**
 
-无摄像头丢弃监控行李使**Meta**的纯音频帧非常容易使用
+随时准备摆脱传统的玻璃板使用这些折叠式智能手机将铰链引入您的生活
 
-📅 Sat, 24 Oct 2026 09:15:00 +0000
+📅 Sun, 25 Oct 2026 11:30:00 +0000
 
 ---
 
@@ -246,47 +239,38 @@ X射线实验揭示了可能使内核图像复杂化的立方晶体
 
 ---
 
-### ZDNet AI
-**[对Google地图不满意？将Waze设置为Pixel的默认值–方法如下](https://www.zdnet.com/tech/waze-your-way-to-a-different-default-map-app-on-pixel/)**
-
-对**Google**地图不满意？将Waze设置为Pixel的默认值–方法如下
-
-📅 2026-10-22T01:00:00.000Z
-
----
-
 ### The Verge
-![我希望苹果的触摸屏MacBook能从这款联想笔记本电脑中吸取一些教训](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_HP_Lenovo_Yoga_9n_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![谷歌的人工智能搜索变革颠覆了在线发布](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK414_STK480_AI_DIS_MISINFO_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[我希望苹果的触摸屏MacBook能从这款联想笔记本电脑中吸取一些教训](https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis)**
+**[谷歌的人工智能搜索变革颠覆了在线发布](https://www.theverge.com/column/1017983/google-ai-search-online-publishing)**
 
-联想Yoga 9n是一款昂贵的工作站笔记本电脑，但二合一也让它变得有趣Di Benedetto/The Verge看起来传闻已久的触摸屏MacBook可能会在下周**发布**
+《The Stepback》是一份每周时事通讯，详细介绍了科技界的一个**重要**故事。如需了解有关人工智能对网络影响的更多信息，请关注Emma Roth
 
-📅 2026-10-24T14:00:00.000Z
+📅 2026-10-25T12:00:00.000Z
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![AITreasureBox: 🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎](https://avatars.githubusercontent.com/u/1154692?v=4)
+![oneDAL ： oneAPI数据分析库(oneDAL)](https://avatars.githubusercontent.com/u/144704571?v=4)
 
-**[AITreasureBox: 🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎](https://github.com/superiorlu/AITreasureBox)**
+**[oneDAL ： oneAPI数据分析库(oneDAL)](https://github.com/uxlfoundation/oneDAL)**
 
-⭐ 875 star · 125 fork · Ruby · 🤖 Automatically collected AI repos, tools, websites, papers & tutorials实用AI百宝箱 💎
+⭐ 653星· 229分叉· C + + · oneAPI数据分析库（ oneDAL ）
 
-📅 2026-10-25T00:50:23Z
+📅 2026-10-25T18:11:18Z
 
 ---
 
-### GitHub Active (AI/ML)
-![awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
+### GitHub Active (Python)
+![fastapi-guard ： FastAPI的安全库，提供中间件来控制IP、记录请求、检测渗透尝试、蜜罐设置、行为分析、紧急模式锁定、阻止云提供商IP、国家/地区拦截等...它与FastAPI无缝集成，提供针对各种安全威胁的强大保护。](https://avatars.githubusercontent.com/u/295692188?v=4)
 
-**[awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
+**[fastapi-guard ： FastAPI的安全库，提供中间件来控制IP、记录请求、检测渗透尝试、蜜罐设置、行为分析、紧急模式锁定、阻止云提供商IP、国家/地区拦截等...它与FastAPI无缝集成，提供针对各种安全威胁的强大保护。](https://github.com/Guard-Core/fastapi-guard)**
 
-⭐ 463星· 39分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作管道刷新
+检测渗透尝试它与FastAPI无缝集成，为各种安全威胁提供强大的保护
 
-📅 2026-10-25T00:51:19Z
+📅 2026-10-25T18:11:08Z
 
 ---
 
@@ -302,33 +286,35 @@ X射线实验揭示了可能使内核图像复杂化的立方晶体
 ---
 
 ### GitHub New (New AI)
-![🆕 cutvii: CutVii -创意编辑。灵活的工作流程。设备上的AI](https://avatars.githubusercontent.com/u/19811857?v=4)
+![🆕 faraflow ：面向人工智能组织的可视化构建器和执行引擎](https://avatars.githubusercontent.com/u/341831621?v=4)
 
-**[🆕 cutvii: CutVii -创意编辑。灵活的工作流程。设备上的AI](https://github.com/zidniryi/cutvii)**
+**[🆕 faraflow ：面向人工智能组织的可视化构建器和执行引擎](https://github.com/faraflow/faraflow)**
 
-⭐ 12 star (新项目) · TypeScript · CutVii - Creative editing. Flexible workflow. On-device AI
+⭐ 14 star (新项目) · Python · Visual builder and execution engine for AI powered organizations
 
-📅 2026-10-22T13:15:21Z
+📅 2026-10-23T06:21:09Z
 
 ---
 
 ## 💬 社交动态
 
-### Reddit: r/artificial
-**[GPT和Claude还是GPT和Argon/Antigravity ？](https://www.reddit.com/r/artificial/comments/1xebc1d/gpt_and_claude_or_gpt_and_argonantigravity/)**
+### Hacker News
+**[Adobe v ArtCraft教给我们的东西](https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace)**
 
-与标准的**Gemini**聊天与编码解决方案完全分离的**Claude**和**GPT**相比，本月注册了顶级谷歌级别，并试图跟上反重力的速度感觉笨拙
+文章网址： https://techbronerdcom/p/**OpenAI**-and-**Anthropic**-wanted-to-replace评论网址： https://**new**s
 
-📅 2026-10-24T15:19:35.000Z
+📅 Sun, 25 Oct 2026 15:34:44 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[我使用的模型的简要概述](https://www.reddit.com/r/artificial/comments/1xelqv9/short_overview_of_models_that_i_used/)**
+![Izwi 0.1.0 ：适用于Mac、Linux和Windows的完全本地语音AI （ TTS、ASR、语音聊天）](https://preview.redd.it/w59jjq3x7nxh1.png?width=140&amp;height=95&amp;auto=webp&amp;s=724ad0091b868e4e3bdd87450c9312001b28dadd)
 
-chat**GPT** -最适合日常使用最愚蠢的3个**Claude** -非常聪明
+**[Izwi 0.1.0 ：适用于Mac、Linux和Windows的完全本地语音AI （ TTS、ASR、语音聊天）](https://www.reddit.com/r/artificial/comments/1xf7dyg/izwi_010_fully_local_voice_ai_tts_asr_voice_chat/)**
 
-📅 2026-10-24T22:28:52.000Z
+0 ，经过数月的公开测试和语音设计后的第一个稳定版本，来自文本描述一个工作室，用于长篇音频，如有声读物转录，带有扬声器darization和强制对齐**OpenAI**兼容的/v1 API （聊天完成）
+
+📅 2026-10-25T16:50:58.000Z
 
 ---
 
@@ -337,7 +323,7 @@ chat**GPT** -最适合日常使用最愚蠢的3个**Claude** -非常聪明
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-10-25T00:52:05.329Z
+📅 2026-10-25T18:11:10.729Z
 
 ---
 
@@ -346,36 +332,43 @@ chat**GPT** -最适合日常使用最愚蠢的3个**Claude** -非常聪明
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-10-25T00:52:10.052Z
+📅 2026-10-25T18:11:17.506Z
 
 ---
 
 ### Hacker News
-**[谷歌已正式将这些Nest恒温器变回愚蠢的恒温器](https://www.makeuseof.com/google-nest-thermostats-unsupported/)**
+**[显示HN ：我将员工置于标准普尔500指数市值泡沫内](https://bigwhalehunting.com/workforce/)**
 
-文章网址： https://wwwcom/**Google**-nest-thermostats-unsupported/评论网址： https://**new**s
+令我惊讶的是，一些最大的公司看起来是多么空洞。评论网址： https://**new**s
 
-📅 Sat, 24 Oct 2026 23:14:30 +0000
+📅 Sun, 25 Oct 2026 15:05:39 +0000
+
+---
+
+### Hacker News AI
+**[AI网关基准： OpenRouter、Vercel、Ramp、Keln](https://keln.ai/blog/ai-gateway-benchmark-deepseek-v4-1-flash)**
+
+文章网址： https://kelnai/blog/ai-gateway-benchmark-**DeepSeek**-v4-1-flash评论网址： https://**new**s
+
+📅 Sun, 25 Oct 2026 16:53:40 +0000
+
+---
+
+### Hacker News AI
+**[Anthropic因窃取猫王音乐训练人工智能而被起诉](https://www.billboard.com/pro/elvis-presley-estate-sues-suno-anthropic/)**
+
+文章网址： https://wwwcom/pro/elvis-presley-estate-sues-**Suno**-**Anthropic**/评论网址： https://**new**s
+
+📅 Sun, 25 Oct 2026 16:21:48 +0000
 
 ---
 
 ### Reddit: r/artificial
-![我不想支付订阅费用，所以Claude为我的企业制作了工具。](https://preview.redd.it/xd9d2xqvihxh1.png?width=140&amp;height=86&amp;auto=webp&amp;s=ba21151e08622e69ace8c1fb464e353b118de6de)
+**[Solidigm撤回其IPO ，新云信贷利差在超大规模盈利之前爆发](https://www.reddit.com/r/artificial/comments/1xf68po/solidigm_pulled_its_ipo_and_neocloud_credit/)**
 
-**[我不想支付订阅费用，所以Claude为我的企业制作了工具。](https://www.reddit.com/r/artificial/comments/1xekp0q/i_didnt_want_to_pay_for_a_subscription_so_claude/)**
+这一时机使人工智能构建项目的资金处于第一次真正的压力测试之下，就在最大的超大规模报告**发布**前几天， Nvidia已经超越了销售芯片的范围，进入了人工智能构建项目的有效融资阶段
 
-我意识到，如果克劳德为我制作（或克劳德为我制作）用于计划和客户工单/库存跟踪的软件后，这会更容易，也能帮我省钱
-
-📅 2026-10-24T21:41:31.000Z
-
----
-
-### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Title: 520: Web服务器返回未知错误
-
-📅 2026-10-25T00:52:05.329Z
+📅 2026-10-25T16:06:28.000Z
 
 ---
 
