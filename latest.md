@@ -1,12 +1,12 @@
 ---
-title: "2026年10月24日 - TZ日报"
-date: 2026-10-24T17:54:13.907Z
+title: "2026年10月25日 - TZ日报"
+date: 2026-10-25T00:53:11.606Z
 draft: false
 ---
 
-# 2026年10月24日 - TZ日报
+# 2026年10月25日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/24 17:54:13
+> 📊 今日汇总 37 条 · 🕐 2026/10/25 00:53:11
 
 ---
 
@@ -16,7 +16,7 @@ draft: false
 - **前沿研究**: 8 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
-- **社交动态**: 8 条
+- **社交动态**: 7 条
 
 ---
 
@@ -28,15 +28,6 @@ draft: false
 了解**OpenAI**如何通过可靠的多租户、全局缓存和Azure Cosmos DB扩展Habitat ，为Chat**GPT**提供更快12倍的读取速度
 
 📅 Fri, 23 Oct 2026 17:00:00 GMT
-
----
-
-### OpenAI Blog
-**[优步通过OpenAI为所有员工提供ChatGPT Work](https://openai.com/index/uber-chatgpt-work-rollout)**
-
-优步正在**推出**Chat**GPT** Work ，可创建30多个演示文稿
-
-📅 Thu, 22 Oct 2026 00:00:00 GMT
 
 ---
 
@@ -76,21 +67,12 @@ draft: false
 
 ---
 
-### OpenAI Blog
-**[通过一致的标准实现广泛的访问](https://openai.com/index/broad-access-through-consistent-standards)**
+### TechCrunch AI Products
+**[人工智能墓地：未成功完成的项目和初创公司的运行列表](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)**
 
-**OpenAI**如何与分销合作伙伴合作，以维护一致的保障措施支持负责任的访问
+从苹果一再推迟Siri AI到**OpenAI**凌乱的“超级应用”**发布**，以下是关闭或未达到预期的人工智能项目
 
-📅 Wed, 21 Oct 2026 21:00:00 GMT
-
----
-
-### Hugging Face
-**[NVIDIA Kumo Relational在关系数据方面优于监督机器学习，无需培训](https://huggingface.co/blog/nvidia/kumo-relational)**
-
-NVIDIA Kumo Relational在关系数据方面优于监督机器学习，无需培训
-
-📅 Wed, 21 Oct 2026 18:26:30 GMT
+📅 Sat, 24 Oct 2026 19:00:00 +0000
 
 ---
 
@@ -109,6 +91,24 @@ NVIDIA Kumo Relational在关系数据方面优于监督机器学习，无需培�
 机器人跺着小脚，发出微小的R2-D2声音，坐下，摔死了“小睡一会儿” ，然后在语音命令下翻腾起来
 
 📅 Fri, 23 Oct 2026 21:59:19 +0000
+
+---
+
+### TechCrunch AI Products
+**[优步的竞争对手inDrive Eyes 2027在中亚通过Pony AI和Nvidia进行机器人出租车测试](https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/)**
+
+该公司计划于2027年上半年在哈萨克斯坦首都开始测试Ponyai的机器人出租车
+
+📅 Fri, 23 Oct 2026 04:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[OpenAI在IPO之前以$ 1.25 T的估值进行新的$ 300亿加息](https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/)**
+
+如果**OpenAI**在这轮融资中获得超过1万亿美元的估值，它将打破有史以来估值最高的私人公司的纪录
+
+📅 Thu, 22 Oct 2026 22:08:24 +0000
 
 ---
 
@@ -255,25 +255,38 @@ X射线实验揭示了可能使内核图像复杂化的立方晶体
 
 ---
 
-### ZDNet AI
-**[OpenAI最强大的人工智能模型关闭了安全监控–然后撒谎](https://www.zdnet.com/innovation/openai-astra-sol-models-disable-safety-monitoring/)**
+### The Verge
+![我希望苹果的触摸屏MacBook能从这款联想笔记本电脑中吸取一些教训](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_HP_Lenovo_Yoga_9n_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**OpenAI**最强大的人工智能模型关闭了安全监控–然后撒谎
+**[我希望苹果的触摸屏MacBook能从这款联想笔记本电脑中吸取一些教训](https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis)**
 
-📅 2026-10-21T18:15:19.000Z
+联想Yoga 9n是一款昂贵的工作站笔记本电脑，但二合一也让它变得有趣Di Benedetto/The Verge看起来传闻已久的触摸屏MacBook可能会在下周**发布**
+
+📅 2026-10-24T14:00:00.000Z
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub New (New AI)
-![🆕 agentshield ： Agentshield是Kubernetes和AWS的开源防御。它了解您的工作负载实际上是如何说话的，用证据标记横向移动，并提出您批准的修复建议。](https://avatars.githubusercontent.com/u/330390416?v=4)
+### GitHub Active (AI/ML)
+![AITreasureBox: 🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎](https://avatars.githubusercontent.com/u/1154692?v=4)
 
-**[🆕 agentshield ： Agentshield是Kubernetes和AWS的开源防御。它了解您的工作负载实际上是如何说话的，用证据标记横向移动，并提出您批准的修复建议。](https://github.com/agentshield-dev/agentshield)**
+**[AITreasureBox: 🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎](https://github.com/superiorlu/AITreasureBox)**
 
-⭐ 49 star (新项目) · Go · Agentshield is open source defense for Kubernetes and AWSIt learns how your workloads really talk, flags lateral movement with evidence, and proposes fixes you approve
+⭐ 875 star · 125 fork · Ruby · 🤖 Automatically collected AI repos, tools, websites, papers & tutorials实用AI百宝箱 💎
 
-📅 2026-10-21T20:18:00Z
+📅 2026-10-25T00:50:23Z
+
+---
+
+### GitHub Active (AI/ML)
+![awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
+
+**[awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
+
+⭐ 463星· 39分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作管道刷新
+
+📅 2026-10-25T00:51:19Z
 
 ---
 
@@ -293,20 +306,9 @@ X射线实验揭示了可能使内核图像复杂化的立方晶体
 
 **[🆕 cutvii: CutVii -创意编辑。灵活的工作流程。设备上的AI](https://github.com/zidniryi/cutvii)**
 
-⭐ 10 star (新项目) · TypeScript · CutVii - Creative editing. Flexible workflow. On-device AI
+⭐ 12 star (新项目) · TypeScript · CutVii - Creative editing. Flexible workflow. On-device AI
 
 📅 2026-10-22T13:15:21Z
-
----
-
-### GitHub New (New AI)
-![🆕 free-energy-to-llms ：从变分自由能到LLM的生成模型](https://avatars.githubusercontent.com/u/35157286?v=4)
-
-**[🆕 free-energy-to-llms ：从变分自由能到LLM的生成模型](https://github.com/refraction-ray/free-energy-to-llms)**
-
-⭐ 6 star (新项目) · TeX · Generative models from variational free energy to LLM
-
-📅 2026-10-21T11:43:11Z
 
 ---
 
@@ -322,11 +324,11 @@ X射线实验揭示了可能使内核图像复杂化的立方晶体
 ---
 
 ### Reddit: r/artificial
-**[ChatGPT Plus vs Claude Pro （ $ 20 ）学习编程？](https://www.reddit.com/r/artificial/comments/1xe6gz9/chatgpt_plus_vs_claude_pro_20_for_learning_to_code/)**
+**[我使用的模型的简要概述](https://www.reddit.com/r/artificial/comments/1xelqv9/short_overview_of_models_that_i_used/)**
 
-我计划每月花$ 20在其中一个项目上学习编码和构建项目，这更适合解释概念、调试和帮助我改进
+chat**GPT** -最适合日常使用最愚蠢的3个**Claude** -非常聪明
 
-📅 2026-10-24T11:41:39.000Z
+📅 2026-10-24T22:28:52.000Z
 
 ---
 
@@ -335,7 +337,7 @@ X射线实验揭示了可能使内核图像复杂化的立方晶体
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-10-24T17:53:00.710Z
+📅 2026-10-25T00:52:05.329Z
 
 ---
 
@@ -344,25 +346,27 @@ X射线实验揭示了可能使内核图像复杂化的立方晶体
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-10-24T17:53:06.731Z
+📅 2026-10-25T00:52:10.052Z
 
 ---
 
 ### Hacker News
-**[GPU解锁： Nvidia 3000卡上的FP/BF16指令发出率](https://github.com/Zagitta/gpu-unlock)**
+**[谷歌已正式将这些Nest恒温器变回愚蠢的恒温器](https://www.makeuseof.com/google-nest-thermostats-unsupported/)**
 
-文章网址： https://githubcom/Zagitta/gpu-unlock评论网址： https://**new**s
+文章网址： https://wwwcom/**Google**-nest-thermostats-unsupported/评论网址： https://**new**s
 
-📅 Sat, 24 Oct 2026 09:58:27 +0000
+📅 Sat, 24 Oct 2026 23:14:30 +0000
 
 ---
 
-### Hacker News AI
-**[Show HN ： Loböle ，人工智能代理可以驱动的开源参数化CAD](https://github.com/eliasaronson/lobole)**
+### Reddit: r/artificial
+![我不想支付订阅费用，所以Claude为我的企业制作了工具。](https://preview.redd.it/xd9d2xqvihxh1.png?width=140&amp;height=86&amp;auto=webp&amp;s=ba21151e08622e69ace8c1fb464e353b118de6de)
 
-事实证明， **Claude**非常擅长使用它README中的引擎、手表和自行车都是由**Claude**编写的脚本构建的
+**[我不想支付订阅费用，所以Claude为我的企业制作了工具。](https://www.reddit.com/r/artificial/comments/1xekp0q/i_didnt_want_to_pay_for_a_subscription_so_claude/)**
 
-📅 Sat, 24 Oct 2026 16:58:21 +0000
+我意识到，如果克劳德为我制作（或克劳德为我制作）用于计划和客户工单/库存跟踪的软件后，这会更容易，也能帮我省钱
+
+📅 2026-10-24T21:41:31.000Z
 
 ---
 
@@ -371,16 +375,7 @@ X射线实验揭示了可能使内核图像复杂化的立方晶体
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-10-24T17:53:00.710Z
-
----
-
-### X: OpenAI
-**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-警告：目标URL返回错误520 ：
-
-📅 2026-10-24T17:53:00.710Z
+📅 2026-10-25T00:52:05.329Z
 
 ---
 
