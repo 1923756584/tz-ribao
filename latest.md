@@ -1,19 +1,19 @@
 ---
-title: "2026年10月25日 - TZ日报"
-date: 2026-10-25T18:12:22.038Z
+title: "2026年10月26日 - TZ日报"
+date: 2026-10-26T01:02:51.557Z
 draft: false
 ---
 
-# 2026年10月25日 - TZ日报
+# 2026年10月26日 - TZ日报
 
-> 📊 今日汇总 36 条 · 🕐 2026/10/25 18:12:22
+> 📊 今日汇总 34 条 · 🕐 2026/10/26 01:02:51
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 6 条
+- **前沿研究**: 4 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -49,15 +49,6 @@ draft: false
 
 ---
 
-### OpenAI Blog
-**[OpenAI与波兰NASK合作推进人工智能安全保障](https://openai.com/index/openai-nask-ai-safety-security-partnership)**
-
-**OpenAI**和波兰的NASK正在合作开展人工智能安全和技术研究，以加强保障措施并支持更具弹性的数字生态系统
-
-📅 Fri, 23 Oct 2026 00:00:00 GMT
-
----
-
 ### TechCrunch AI Products
 **[人工智能墓地：未成功完成的项目和初创公司的运行列表](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)**
 
@@ -85,30 +76,39 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[优步的竞争对手inDrive Eyes 2027在中亚通过Pony AI和Nvidia进行机器人出租车测试](https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/)**
-
-该公司计划于2027年上半年在哈萨克斯坦首都开始测试Ponyai的机器人出租车
-
-📅 Fri, 23 Oct 2026 04:00:00 +0000
-
----
-
-### OpenAI Blog
-**[使用Decisions API构建响应速度更快的应用程序](https://openai.com/index/decisions-api)**
-
-适用于任何应用程序的快速、专注、低成本决策。
-
-📅 Thu, 22 Oct 2026 19:00:00 GMT
-
----
-
 ### Hugging Face
 **[LitPivot ：通过文学景观中的动态语境化发展研究理念](https://huggingface.co/blog/allenai/litpivot)**
 
 LitPivot ：通过文学景观中的动态语境化发展研究理念
 
 📅 Fri, 23 Oct 2026 16:15:50 GMT
+
+---
+
+### TechCrunch AI Products
+**[Grok发布其人工智能生成的“奥德赛”的前七分钟](https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/)**
+
+只要您不追求艺术性、灵感或人类兴趣，镜头看起来还可以。
+
+📅 Sun, 25 Oct 2026 21:31:16 +0000
+
+---
+
+### TechCrunch AI Products
+**[Apollo经济学家表示，人工智能为大多数公司带来“零财务回报”](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)**
+
+“尽管大规模投资和围绕人工智能的广泛炒作，但技术为科技以外的美国企业带来的财务回报为零
+
+📅 Sun, 25 Oct 2026 16:57:32 +0000
+
+---
+
+### TechCrunch AI Products
+**[您应该了解的最热门的AI可穿戴设备和小工具](https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/)**
+
+我们编制了所有最热门的AI可穿戴设备列表，包括Muse Charm、Bee、Friend、Plaud等
+
+📅 Sun, 25 Oct 2026 14:10:00 +0000
 
 ---
 
@@ -150,25 +150,18 @@ LitPivot ：通过文学景观中的动态语境化发展研究理念
 
 ---
 
-### MIT Tech Research
-**[设计一款经久耐用的AI服务线束](https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/)**
-
-企业AI的下一个竞争优势与其说与您选择哪种模型有关，不如说与您围绕它构建的内容有关，大部分AI对话都以模型能力为中心：更大的模型
-
-📅 Thu, 22 Oct 2026 21:17:29 +0000
-
----
-
-### MIT Tech Research
-**[可扩展AI的基础](https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/)**
-
-可扩展的人工智能系统需要强大的基础数据、工程、平台、运营模式和治理必须融为一体
-
-📅 Thu, 22 Oct 2026 18:48:04 +0000
-
----
-
 ## 🌍 行业展望
+
+### The Information Technology
+![人类的大揭秘](https://tii.imgix.net/article/pictures/newsletters-production/dd546b3c-9a72-4a68-96e6-0a1a51c3624a-SFKAXt.jpg?auto=compress)
+
+**[人类的大揭秘](https://www.theinformation.com/articles/anthropics-big-reveal)**
+
+我们正在寻找有关其**Claude**订阅收入的详细信息，以及通过亚马逊等其他公司转售**Anthropic** AI以换取销售额的详细信息中国的**Moonshot** AI周五宣布**推出**新型号Kimi K3
+
+📅 2026-10-25T22:01:16.000Z
+
+---
 
 ### The Information Technology
 ![新云的聚集风暴](https://tii.imgix.net/article/pictures/newsletters-production/1a425f86-91ac-4c13-be46-6bb6ac9a750a-WLwFqa.avif?auto=compress)
@@ -198,17 +191,6 @@ LitPivot ：通过文学景观中的动态语境化发展研究理念
 该公司首先开始测试一个专注于Reels的平台版本，然后在6月份**推出**了该应用程序的一系列新功能，可用于亚马逊的Fire TV、三星智能电视和**Google** TV
 
 📅 2026-10-25T16:20:17.000Z
-
----
-
-### The Verge
-![LG辉煌的C6 OLED电视在黑色星期五之前已经打了400 $的折扣](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/TV-OLED55C6PUA-Brilliant-oled-pictures_features_900x600.avif?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[LG辉煌的C6 OLED电视在黑色星期五之前已经打了400 $的折扣](https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale)**
-
-包括更快的Alpha 11 AI Gen3处理器，旨在提高图片和音质**Google** Cast和Apple AirPlay 2还可以轻松共享手机上的内容
-
-📅 2026-10-24T15:00:00.000Z
 
 ---
 
@@ -252,25 +234,14 @@ LitPivot ：通过文学景观中的动态语境化发展研究理念
 
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![oneDAL ： oneAPI数据分析库(oneDAL)](https://avatars.githubusercontent.com/u/144704571?v=4)
-
-**[oneDAL ： oneAPI数据分析库(oneDAL)](https://github.com/uxlfoundation/oneDAL)**
-
-⭐ 653星· 229分叉· C + + · oneAPI数据分析库（ oneDAL ）
-
-📅 2026-10-25T18:11:18Z
-
----
-
 ### GitHub Active (Python)
-![fastapi-guard ： FastAPI的安全库，提供中间件来控制IP、记录请求、检测渗透尝试、蜜罐设置、行为分析、紧急模式锁定、阻止云提供商IP、国家/地区拦截等...它与FastAPI无缝集成，提供针对各种安全威胁的强大保护。](https://avatars.githubusercontent.com/u/295692188?v=4)
+![warp ：用于GPU加速仿真、机器人和机器学习的Python框架。](https://avatars.githubusercontent.com/u/1728152?v=4)
 
-**[fastapi-guard ： FastAPI的安全库，提供中间件来控制IP、记录请求、检测渗透尝试、蜜罐设置、行为分析、紧急模式锁定、阻止云提供商IP、国家/地区拦截等...它与FastAPI无缝集成，提供针对各种安全威胁的强大保护。](https://github.com/Guard-Core/fastapi-guard)**
+**[warp ：用于GPU加速仿真、机器人和机器学习的Python框架。](https://github.com/NVIDIA/warp)**
 
-检测渗透尝试它与FastAPI无缝集成，为各种安全威胁提供强大的保护
+⭐ 7238星· 672分叉· Python ·用于GPU加速仿真、机器人和机器学习的Python框架
 
-📅 2026-10-25T18:11:08Z
+📅 2026-10-26T01:01:57Z
 
 ---
 
@@ -296,14 +267,34 @@ LitPivot ：通过文学景观中的动态语境化发展研究理念
 
 ---
 
+### GitHub New (New AI)
+![🆕 cobalt-lab-144-ryan-vo ： Ryan Vo |在建工程： cobalt-lab-144-ryan-vo](https://avatars.githubusercontent.com/u/215324508?v=4)
+
+**[🆕 cobalt-lab-144-ryan-vo ： Ryan Vo |在建工程： cobalt-lab-144-ryan-vo](https://github.com/A220man/cobalt-lab-144-ryan-vo)**
+
+⭐ 2 star (新项目) · Python · Ryan Vo | Work in progress: cobalt-lab-144-ryan-vo
+
+📅 2026-10-24T19:40:18Z
+
+---
+
 ## 💬 社交动态
 
 ### Hacker News
-**[Adobe v ArtCraft教给我们的东西](https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace)**
+**[OpenAI和Anthropic在几个月内将其LLM价格降低了高达80 ％。为什么？](https://minimaxir.com/2026/10/cheap-llms/)**
 
-文章网址： https://techbronerdcom/p/**OpenAI**-and-**Anthropic**-wanted-to-replace评论网址： https://**new**s
+文章网址： https://minimaxircom/2026/10/cheap-llms/评论网址： https://**new**s
 
-📅 Sun, 25 Oct 2026 15:34:44 +0000
+📅 Sun, 25 Oct 2026 21:11:31 +0000
+
+---
+
+### Reddit: r/artificial
+**[GenAICode将一个API置于Claude Code、Codex、Copilot、Cursor和Gemini CLI之上](https://www.reddit.com/r/artificial/comments/1xfbob2/genaicode_puts_one_api_over_claude_code_codex/)**
+
+0 TypeScript工具包，将一个API和CLI置于编码代理（如**Claude** Code ）之上对于使用多个编码代理的团队，这是一个可移植性层，而不是一个新模型
+
+📅 2026-10-25T19:40:18.000Z
 
 ---
 
@@ -323,7 +314,7 @@ LitPivot ：通过文学景观中的动态语境化发展研究理念
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-10-25T18:11:10.729Z
+📅 2026-10-26T01:01:51.296Z
 
 ---
 
@@ -332,43 +323,34 @@ LitPivot ：通过文学景观中的动态语境化发展研究理念
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-10-25T18:11:17.506Z
-
----
-
-### Hacker News
-**[显示HN ：我将员工置于标准普尔500指数市值泡沫内](https://bigwhalehunting.com/workforce/)**
-
-令我惊讶的是，一些最大的公司看起来是多么空洞。评论网址： https://**new**s
-
-📅 Sun, 25 Oct 2026 15:05:39 +0000
+📅 2026-10-26T01:01:57.006Z
 
 ---
 
 ### Hacker News AI
-**[AI网关基准： OpenRouter、Vercel、Ramp、Keln](https://keln.ai/blog/ai-gateway-benchmark-deepseek-v4-1-flash)**
+**[英伟达着眼于将旧核电站转变为人工智能数据中心](https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch)**
 
-文章网址： https://kelnai/blog/ai-gateway-benchmark-**DeepSeek**-v4-1-flash评论网址： https://**new**s
+文章网址： https://wwwcom/tech-industry/data-centers/nvidia-eyes-converting old-nuclear-plants- into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch评论网址： https://**new**s
 
-📅 Sun, 25 Oct 2026 16:53:40 +0000
-
----
-
-### Hacker News AI
-**[Anthropic因窃取猫王音乐训练人工智能而被起诉](https://www.billboard.com/pro/elvis-presley-estate-sues-suno-anthropic/)**
-
-文章网址： https://wwwcom/pro/elvis-presley-estate-sues-**Suno**-**Anthropic**/评论网址： https://**new**s
-
-📅 Sun, 25 Oct 2026 16:21:48 +0000
+📅 Sun, 25 Oct 2026 22:11:27 +0000
 
 ---
 
-### Reddit: r/artificial
-**[Solidigm撤回其IPO ，新云信贷利差在超大规模盈利之前爆发](https://www.reddit.com/r/artificial/comments/1xf68po/solidigm_pulled_its_ipo_and_neocloud_credit/)**
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-这一时机使人工智能构建项目的资金处于第一次真正的压力测试之下，就在最大的超大规模报告**发布**前几天， Nvidia已经超越了销售芯片的范围，进入了人工智能构建项目的有效融资阶段
+Title: 520: Web服务器返回未知错误
 
-📅 2026-10-25T16:06:28.000Z
+📅 2026-10-26T01:01:51.296Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误520 ：未知
+
+📅 2026-10-26T01:01:51.296Z
 
 ---
 
