@@ -1,12 +1,12 @@
 ---
 title: "2026年10月27日 - TZ日报"
-date: 2026-10-27T01:53:25.668Z
+date: 2026-10-27T19:54:26.306Z
 draft: false
 ---
 
 # 2026年10月27日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/27 01:53:25
+> 📊 今日汇总 38 条 · 🕐 2026/10/27 19:54:26
 
 ---
 
@@ -22,6 +22,24 @@ draft: false
 
 ## ✨ 产品更新
 
+### TechCrunch AI Products
+**[Meta AI总监Rohit Patel离开，接手Microsoft Office和Google Workspace](https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/)**
+
+Rohit Patel在从事人工智能评估和强化学习八年后离开**Meta** ， TechCrunch独家了解到他的创业公司Ndoc的目标是接管微软Office套件
+
+📅 Tue, 27 Oct 2026 14:59:09 +0000
+
+---
+
+### OpenAI Blog
+**[OpenAI扩大与甲骨文的合作伙伴关系，将其应用程序引入ChatGPT](https://openai.com/index/oracle-apps-in-chatgpt)**
+
+**OpenAI**和甲骨文正在扩大合作伙伴关系，将业务应用程序和人工智能代理引入Chat**GPT** ，并为新的甲骨文产品提供支持
+
+📅 Tue, 27 Oct 2026 07:00:00 GMT
+
+---
+
 ### OpenAI Blog
 **[ChatGPT不断扩大的工作世界](https://openai.com/index/chatgpt-expanding-world-of-work)**
 
@@ -31,12 +49,12 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[Anthropic的IPO申请揭示了其吸引企业客户的策略](https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/)**
+### OpenAI Blog
+**[Check Point如何利用Daybreak加速漏洞研究](https://openai.com/index/check-point-daybreak)**
 
-**Anthropic**的S-1显示，其$ 100000以上的客户中有一半以上现在同时使用**Claude**平台和第一方应用程序
+借助**OpenAI** DaybreakCheck Point ，加快了新安全保护背后的研究
 
-📅 Mon, 26 Oct 2026 16:49:42 +0000
+📅 Tue, 27 Oct 2026 00:00:00 GMT
 
 ---
 
@@ -94,79 +112,68 @@ Fanatics使用**OpenAI**帮助球迷完成比赛日服装，通过Shop the LookT
 
 ---
 
-### Google AI Blog
-![我们最新的人工智能任务：映射人脑](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp)
-
-**[我们最新的人工智能任务：映射人脑](https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/)**
-
-通过谷歌最新的AI Quests神经科学课程“Polar Peaks”学习人工智能素养。
-
-📅 Mon, 26 Oct 2026 16:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[Anthropic正式申请公开亮相](https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/)**
-
-**Anthropic**已正式申请IPO和一个不寻常的治理结构，旨在保护创始人的控制权及其人工智能安全使命
-
-📅 Mon, 26 Oct 2026 14:35:22 +0000
-
----
-
 ## 🔬 前沿研究
 
-### ArXiv AI (cs.AI)
-**[PaperFormalizer ：精益研究论文的循环作者自动形式化](https://arxiv.org/abs/2610.31810)**
+### ArXiv Natural Language Processing (cs.CL)
+**[OpenESM ：能源导向模型是可扩展的基础学习者](https://arxiv.org/abs/2610.33005)**
 
-31810v1公告类型：新摘要：即使是经过仔细校对的纸张，也可能在其校对或所述假设中留下很小的间隙PaperFormalizer在编码代理（ **Claude** Code或Codex ）内部运行，可在https://github上找到
+33005v1公告类型：新摘要：基于能量的模型在特定领域的任务中显示出良好的特性，但在通用场景建模方面仍然面临挑战为了弥合这一差距，我们设计了用于基础语言建模的能量导向模型（ ESM ）
 
-📅 Mon, 26 Oct 2026 00:00:00 -0400
+📅 Tue, 27 Oct 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[TACS-RF ：射频和毫米波模块的工具驱动代理电路合成](https://arxiv.org/abs/2610.31882)**
+**[大型语言模型中的前景理论：对损失厌恶、敏感性递减和概率权重的荟萃分析](https://arxiv.org/abs/2610.33103)**
 
-31882v1公告类型：新摘要：我们介绍TACS-RF的框架-射频和毫米波模块的工具驱动代理电路综合在此框架中，一个大型语言模型（ LLM ）编码代理（ **Claude** Opus 4
+33103v1公告类型：新摘要：前景理论将风险选择分为三部分：损失厌恶通过设计匹配，当收益和损失对称时， LLM与人兼容（ $\ lambda = 1
 
-📅 Mon, 26 Oct 2026 00:00:00 -0400
+📅 Tue, 27 Oct 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Computer Vision (cs.CV)
-**[DirCast ：使用单一流视频语言模型进行现场电子竞技导演和评论](https://arxiv.org/abs/2610.31734)**
+**[Aerial-R1 ：加强MLLM中的空中推理和分割](https://arxiv.org/abs/2610.33056)**
 
-31734v1公告类型：新摘要：直播电子竞技广播需要一个导演来选择播放哪个摄像机，以及一个播放器来讨论该选择Proact-VL协议下与**GPT**-4o的比较2 ％ ，而19
+33056v1公告类型：新摘要：虽然多模态大型语言模型（ MLLM ）彻底改变了一般视觉感知https://github上提供了代码
 
-📅 Mon, 26 Oct 2026 00:00:00 -0400
+📅 Tue, 27 Oct 2026 00:00:00 -0400
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[明智地低语：用于ASR微调的智能子集选择](https://arxiv.org/abs/2610.32997)**
+
+32997v1公告类型：新摘要： **OpenAI**s Whisper等自动语音识别（ ASR ）模型大大提高了语音识别质量，但微调仍然昂贵这使得许多从业者难以将这些模型适应新的语言或领域
+
+📅 Tue, 27 Oct 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Robotics (cs.RO)
-**[FLORA ：用于扩展机器人数据引擎的开放模型套件](https://arxiv.org/abs/2610.31779)**
+**[微小递归策略：用于视觉运动控制的递归潜伏细化](https://arxiv.org/abs/2610.33288)**
 
-31779v1公告类型：新摘要：机器人基础模型的生命周期关键取决于数据标签在内部基准上，它与**GPT**-6 Astra竞争，同时击败其他前沿模型
+33288v1公告类型：新摘要：行为克隆已成为机器人操纵的一种强大方法，由此产生的性能不能仅用参数计数来解释
 
-📅 Mon, 26 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Multiagent (cs.MA)
-**[并非每个代理都需要最强大的模型：基于异构LLM的多代理系统的统一提示模型优化](https://arxiv.org/abs/2610.31743)**
-
-31743v1公告类型：新摘要：基于大型语言模型（ LLM ）的多智能体系统（ MAS ）依赖于角色特定的提示和执行模型来协作解决复杂的任务。代码可在https://github上找到
-
-📅 Mon, 26 Oct 2026 00:00:00 -0400
+📅 Tue, 27 Oct 2026 00:00:00 -0400
 
 ---
 
 ### ArXiv Multiagent (cs.MA)
-**[代理AI防御： MCP的解码时间来源绑定](https://arxiv.org/abs/2610.31974)**
+**[VibeGame ：通过AI原生引擎和自我进化的对抗代理团队提示游戏开发](https://arxiv.org/abs/2610.33106)**
 
-31974v1公告类型： CROSS摘要：使用模型上下文协议(MCP)的代理AI系统容易通过不受信任的工具输出间接提示注入代码和数据是公开可用的
+33106v1公告类型：新摘要：大型语言模型代理通过自然语言交互（包括**GPT**-6 ）实现软件开发
 
-📅 Mon, 26 Oct 2026 00:00:00 -0400
+📅 Tue, 27 Oct 2026 00:00:00 -0400
+
+---
+
+### ArXiv Multiagent (cs.MA)
+**[AgentProofBench ：对Web代理的可重用验证器进行基准测试](https://arxiv.org/abs/2610.34634)**
+
+34634v1公告类型：新摘要：可重用Web代理验证需要遵循不断变化的要求并支持后续执行的规则**发布**的指令、状态、程序、参考规则和轨迹将每个测试失败与其执行后果联系起来
+
+📅 Tue, 27 Oct 2026 00:00:00 -0400
 
 ---
 
@@ -176,15 +183,6 @@ Fanatics使用**OpenAI**帮助球迷完成比赛日服装，通过Shop the LookT
 这个故事最初出现在我们的AIT每周通讯《算法》中，要先在收件箱中获取这样的故事，请在此处注册
 
 📅 Mon, 26 Oct 2026 17:45:43 +0000
-
----
-
-### ArXiv AI (cs.AI)
-**[权衡感知区域设计：企业客户到销售人员分配的多目标决策系统](https://arxiv.org/abs/2610.31701)**
-
-31701v1公告类型：新摘要：企业客户旅程不仅受到产品体验和营销的影响历史回溯测试表明，优化器生成的场景大大提高了任务合规性，同时保持了可比的卖家级机会分布
-
-📅 Mon, 26 Oct 2026 00:00:00 -0400
 
 ---
 
@@ -202,11 +200,20 @@ Fanatics使用**OpenAI**帮助球迷完成比赛日服装，通过Shop the LookT
 ---
 
 ### The Information Technology
-**[OpenAI在人类价格战中推出更便宜的Terra模型](https://www.theinformation.com/briefings/openai-unveils-cheaper-terra-model-amid-anthropic-pricing-battle)**
+**[为什么更便宜的型号无法赢得OpenAI和企业](https://www.theinformation.com/articles/cheaper-models-win-openai-enterprise)**
 
-**OpenAI**周一公布了其**GPT**-6的最新版本根据**OpenAI** ， **GPT**-6
+**OpenAI**正试图通过将自己打造成更便宜的**OpenAI**来削弱**Anthropic**在企业中的领先地位。今年，在完成研究公司Artificial Analysis的评估任务方面， OpenAI**发布**了最便宜的模型。
 
-📅 2026-10-26T19:39:37.000Z
+📅 2026-10-27T18:33:50.000Z
+
+---
+
+### The Information Technology
+**[英伟达在更深层次的人工智能合作伙伴关系中投资30亿美元$ Meta](https://www.theinformation.com/briefings/nvidia-invests-3-billion-meta-deeper-ai-partnership)**
+
+Nvidia将投资30亿美元用于**Meta** Platforms的股权发行**Meta**计划扩大部署Nvidia先进的Vera Rubin AI硬件和
+
+📅 2026-10-27T08:58:26.000Z
 
 ---
 
@@ -219,141 +226,100 @@ Fanatics使用**OpenAI**帮助球迷完成比赛日服装，通过Shop the LookT
 
 ---
 
-### The Information Technology
-**[Anthropic S-1强调不断上升的支付成本](https://www.theinformation.com/briefings/anthropic-s-1-highlights-rising-payment-costs)**
+### Wired Technology
+**[英国内政部可能因使用OpenAI技术而面临调查](https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/)**
 
-**Anthropic**表示，今年上半年其支付处理费支出比去年同期增加了2.22亿$。该增长是**Anthropic**整体
+政府监管机构正在考虑调查内政部使用Chat**GPT**技术处理庇护申请的情况，因为人们担心这些工具的准确性和保密性
 
-📅 2026-10-26T21:45:36.000Z
+📅 Tue, 27 Oct 2026 15:10:26 +0000
+
+---
+
+### The Verge
+![Anthropic让华尔街陷入困境的精心计划](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2280291188.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[Anthropic让华尔街陷入困境的精心计划](https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety)**
+
+**Anthropic**联合创始人兼首席执行官Dario AmodeiSam Altman是**Anthropic**的主要竞争对手**OpenAI**的首席执行官，他认为投资者的压力是该公司今年不寻求**首次**公开募股的原因之一
+
+📅 2026-10-27T16:51:22.000Z
+
+---
+
+### The Verge
+![谷歌的下一个Genie AI模型生成更逼真的体验](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-26-at-3.00.35-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[谷歌的下一个Genie AI模型生成更逼真的体验](https://www.theverge.com/tech/1019076/google-genie-4-ai-model)**
+
+谷歌今天宣布了使用AIT生成交互式体验的Genie 4世界模型。该公司表示，该模型有四个主要**更新**：它允许更逼真的世界
+
+📅 2026-10-27T16:00:00.000Z
 
 ---
 
 ### The Information Technology
-**[Anthropic的S-1总结：从巨型计算承诺到复杂的锁定](https://www.theinformation.com/articles/anthropics-s-1-takeaways-giant-compute-commitments-complex-lock-ups)**
+**[Oracle开始在其云中运行Google TPU](https://www.theinformation.com/briefings/oracle-start-running-google-tpus-cloud)**
 
-**Anthropic**公开提交其**首次**公开募股计划的初步招股说明书，以及有关其治理的新细节和超过90页的风险因素
+谷歌和甲骨文宣布建立合作伙伴关系，将向甲骨文云客户提供谷歌的张量处理单元，这是**首次**在谷歌云平台之外的云平台上提供人工智能芯片。
 
-📅 2026-10-26T18:10:04.000Z
-
----
-
-### The Information Technology
-**[SpaceX同意斥资400亿美元从阿波罗公司租赁芯片](https://www.theinformation.com/briefings/spacex-agrees-pay-40-billion-lease-chips-apollo)**
-
-这项安排将让阿波罗出售债务以购买芯片，然后将其租赁给SpaceX
-
-📅 2026-10-26T16:18:04.000Z
-
----
-
-### The Information Technology
-**[微软向6万名员工提供收购](https://www.theinformation.com/briefings/microsoft-offers-buyouts-60-000-employees)**
-
-微软周一表示，它将向约27%的员工提供自愿收购，因为该公司旨在减少在开发和运营人工智能方面的投资支出
-
-📅 2026-10-26T16:04:03.000Z
-
----
-
-### The Information Technology
-**[高盛将领导Anthropic IPO](https://www.theinformation.com/briefings/goldman-sachs-lead-anthropic-ipo)**
-
-高盛(Goldman Sachs)已正式赢得**Anthropic**首次公开募股(IPO)的主要左翼角色，在该银行赢得SpaceX的最高职位后，高盛再次位居榜首。摩根斯坦利(Morgan Stanley)被任命为**首次**公开募股(IPO)的稳定代理人，这是一个令人垂涎的角色，负责监督早盘交易并确保股票下跌
-
-📅 2026-10-26T14:22:35.000Z
+📅 2026-10-27T17:42:51.000Z
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![sWARMS ：企业级多代理编排框架。网站： https://swarms.ai](https://avatars.githubusercontent.com/u/98760976?v=4)
+![netdata ：实现人工智能驱动的全栈可观察性的最快途径，即使对于精益团队也是如此。](https://avatars.githubusercontent.com/u/43390781?v=4)
 
-**[sWARMS ：企业级多代理编排框架。网站： https://swarms.ai](https://github.com/kyegomez/swarms)**
+**[netdata ：实现人工智能驱动的全栈可观察性的最快途径，即使对于精益团队也是如此。](https://github.com/netdata/netdata)**
 
-⭐ 7303星· 1053叉· Python ·企业级多代理编排框架网站： https://swarms
+⭐ 81,186星· 6699叉·围棋·通往人工智能全栈可观测性的最快路径，即使是精益团队
 
-📅 2026-10-27T01:51:36Z
+📅 2026-10-27T19:52:45Z
+
+---
+
+### GitHub Active (Python)
+![sentry ：开发人员优先的错误跟踪和性能监控](https://avatars.githubusercontent.com/u/1396951?v=4)
+
+**[sentry ：开发人员优先的错误跟踪和性能监控](https://github.com/getsentry/sentry)**
+
+⭐ 45,665星· 4956分叉· Python ·开发人员优先的错误跟踪和性能监控
+
+📅 2026-10-27T19:53:08Z
 
 ---
 
 ### GitHub Active (AI/ML)
-![管道： Kubeflow的机器学习管道](https://avatars.githubusercontent.com/u/33164907?v=4)
+![flyte ：类型安全、代理的分布式编排、ML管道和k8s上的实时推理—在纯Python和async/await中，还有其他语言（ rust、go和ts ）](https://avatars.githubusercontent.com/u/35380635?v=4)
 
-**[管道： Kubeflow的机器学习管道](https://github.com/kubeflow/pipelines)**
+**[flyte ：类型安全、代理的分布式编排、ML管道和k8s上的实时推理—在纯Python和async/await中，还有其他语言（ rust、go和ts ）](https://github.com/flyteorg/flyte)**
 
-⭐ 4258星· 2166叉· Python · Kubeflow机器学习流水线
+773星· 917分叉·围棋· k8s的类型安全和实时推理—纯Python异步/等待
 
-📅 2026-10-27T01:51:19Z
-
----
-
-### GitHub Active (AI/ML)
-![awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
-
-**[awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
-
-⭐ 463星· 39分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作管道刷新
-
-📅 2026-10-27T01:51:06Z
+📅 2026-10-27T19:52:40Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 InterviewCopilot-rpocket-team ： EdTech应用程序旨在弥合学习与实现梦想工作之间的差距](https://avatars.githubusercontent.com/u/341170010?v=4)
+### GitHub Active (Python)
+![spack-packages ： Spack的社区包配方](https://avatars.githubusercontent.com/u/25539161?v=4)
 
-**[🆕 InterviewCopilot-rpocket-team ： EdTech应用程序旨在弥合学习与实现梦想工作之间的差距](https://github.com/OFat34764e/InterviewCopilot-rpocket-team)**
+**[spack-packages ： Spack的社区包配方](https://github.com/spack/spack-packages)**
 
-⭐ 32 star (新项目) · N/A · EdTech application designed to bridge the gap between learning and landing your dream job
+⭐ 154星· 818叉·蟒蛇·史派克社区礼包食谱
 
-📅 2026-10-26T07:19:34Z
+📅 2026-10-27T19:53:02Z
 
 ---
 
 ## 💬 社交动态
-
-### Hacker News
-**[GPT-6.1 TERRA](https://openai.com/index/introducing-gpt-6-1-terra/)**
-
-**OpenAI**com/api/docs/models/**GPT**-6
-
-📅 Mon, 26 Oct 2026 18:01:17 +0000
-
----
-
-### Reddit: r/artificial
-**[Google AI常见错误](https://www.reddit.com/r/artificial/comments/1xgb9at/google_ai_constant_errors/)**
-
-我使用常规的谷歌搜索来寻找有关我的新丰田Sienna的答案我发现，如果你使用完整的问题，它会给出一个AI交互式的回答
-
-📅 2026-10-26T22:27:42.000Z
-
----
-
-### Reddit: r/artificial
-**[对Meta Muse、Grok Bot、OpenAI Dots等隐私问题的看法？](https://www.reddit.com/r/artificial/comments/1xg5ibn/thoughts_on_privacy_issues_with_the_likes_of_meta/)**
-
-我们是否将自己的隐私交给了**Meta** Muse、Grok Bot、**OpenAI** Dots等公司，或者所有这些关于隐私安全协议的讨论只是冰山一角，我们是否再次被这些公司所利用
-
-📅 2026-10-26T18:47:26.000Z
-
----
-
-### Reddit: r/artificial
-**[Anthropic的Claude访问了付费墙背后的佐治亚州投票计数数据](https://www.reddit.com/r/artificial/comments/1xg4h6m/anthropics_claude_accessed_georgia_state_vote/)**
-
-提交者/u/RareEarthPetal [link] [comments]
-
-📅 2026-10-26T18:09:14.000Z
-
----
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-10-27T01:52:13.651Z
+📅 2026-10-27T19:53:02.167Z
 
 ---
 
@@ -362,27 +328,65 @@ Fanatics使用**OpenAI**帮助球迷完成比赛日服装，通过Shop the LookT
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-10-27T01:52:19.882Z
+📅 2026-10-27T19:53:08.886Z
 
 ---
 
 ### Hacker News
-**[服务器协议](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)**
+**[Discord很快将允许任何人通过Google查找公共服务器消息](https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover)**
 
-文章网址： https://githubcom/microsoft/pylance-**release**/blob/main/docs/tsp/type-server-protocol
+文章网址： https://discordcom/blog/making-content-from-discoverable-servers-easier-to-discover评论网址： https://**new**s
 
-📅 Mon, 26 Oct 2026 18:14:49 +0000
+📅 Tue, 27 Oct 2026 18:44:17 +0000
+
+---
+
+### Hacker News AI
+**[Fuzzers与人工智能：在JavaScript引擎上比较Fuzzilli和BigSleep](https://projectzero.google/2026/10/fuzzing-v-AI.html)**
+
+**Google**/2026/10/fuzzing-v-AIhtml评论网址： https://**new**s
+
+📅 Tue, 27 Oct 2026 19:07:19 +0000
 
 ---
 
 ### Reddit: r/artificial
-![OpenAi声称已经证明指数时间假说是错误的，使许多过去的结果无效，这些结果依赖于它是真实的。](https://external-preview.redd.it/afgcFZzZn8anE9_a2wCMiRiEij7c-9ucUMAEudgnpeo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=674cf9e38b720e53c2ebcebc9529aa9ca4ba3727)
+**[Akamai启动AI代理沙箱，默认阻止出站访问](https://www.reddit.com/r/artificial/comments/1xh2i2l/akamai_launches_an_ai_agent_sandbox_with_outbound/)**
 
-**[OpenAi声称已经证明指数时间假说是错误的，使许多过去的结果无效，这些结果依赖于它是真实的。](https://www.reddit.com/r/artificial/comments/1xgbnyg/openai_claims_to_have_proved_that_the_exponential/)**
+Inference提供对12个开放权重模型的**OpenAI**兼容API访问com/**new**sroom/press-**release**/akamai-**launch**es-ai-inference-service-and-agent-execution-environment Akamai Agent Sandbox ： https://www
 
-提交者/u/Environmental_Mix22 [link] [comments]
+📅 2026-10-27T19:39:52.000Z
 
-📅 2026-10-26T22:44:48.000Z
+---
+
+### Reddit: r/artificial
+![OpenAI刚刚在一个价值数百万美元的量子数学问题上挖掘了人类研究人员](https://external-preview.redd.it/vLkKpmN0AXVmZrC5U9Kv0ku8MuSSNfBy6GmIPier5jw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a4b8dc2aae7832fa7f29d0b4dcfddfbc769c9beb)
+
+**[OpenAI刚刚在一个价值数百万美元的量子数学问题上挖掘了人类研究人员](https://www.reddit.com/r/artificial/comments/1xh0yrj/openai_just_scooped_human_researchers_on_a/)**
+
+提交者/u/scientificamerican [link] [comments]
+
+📅 2026-10-27T18:43:18.000Z
+
+---
+
+### Reddit: r/artificial
+![人工智能入侵政府系统。我们的安全性如何？](https://preview.redd.it/s2u77vzkw1yh1.png?width=140&amp;height=116&amp;auto=webp&amp;s=300781c720de4c63b718999fa2a486e128dd88fd)
+
+**[人工智能入侵政府系统。我们的安全性如何？](https://www.reddit.com/r/artificial/comments/1xh08vu/ai_hack_a_government_system_how_secure_are_we/)**
+
+width = 606 & format = png&auto = webp&s = d322af31f3c07e934fa1d85dfa59ae17216e8a1c最近的事件6月18日，负责研究政府健康数据的实验性自主**OpenAI**代理在搜索有关皮肤药物的公共统计数据时遇到了障碍您认为人工智能将来对政府系统更有害还是更脆弱
+
+📅 2026-10-27T18:16:56.000Z
+
+---
+
+### Reddit: r/artificial
+**[中国已经输掉了人工智能竞赛，中国注定要失败](https://www.reddit.com/r/artificial/comments/1xgxhc2/china_has_already_lost_the_ai_race_china_is_doomed/)**
+
+I模型版本已经完全从悬崖上掉下来，因为它们将是在人类/开放A之前可以通过蒸馏训练的最后一个模型
+
+📅 2026-10-27T16:37:04.000Z
 
 ---
 
