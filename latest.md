@@ -1,12 +1,12 @@
 ---
-title: "2026年10月26日 - TZ日报"
-date: 2026-10-26T20:23:08.129Z
+title: "2026年10月27日 - TZ日报"
+date: 2026-10-27T01:53:25.668Z
 draft: false
 ---
 
-# 2026年10月26日 - TZ日报
+# 2026年10月27日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/26 20:23:08
+> 📊 今日汇总 38 条 · 🕐 2026/10/27 01:53:25
 
 ---
 
@@ -40,12 +40,30 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[被迫选择，格罗克的人工智能模型选择了共和党人。OpenAI挑选民主党人。 ](https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/)**
+### OpenAI Blog
+**[Greptile使用GPT-6 Astra进行代码审查之外的错误检测](https://openai.com/index/greptile-code-review-codex-astra)**
 
-一项新的研究发现， Grok的人工智能压倒性地推荐了共和党候选人，而**OpenAI**的**GPT**则倾向于民主党人，这两种人工智能模式在近500场选举中有90%以上存在分歧
+Greptile如何使用**GPT**-6 Astra测试用户工作流程， Daybreak如何加强安全性， Codex如何减少返工
 
-📅 Sat, 24 Oct 2026 15:00:00 +0000
+📅 Mon, 26 Oct 2026 22:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[与学术界合作，建立科学理解](https://openai.com/index/building-scientific-understanding-with-academic-communities)**
+
+**OpenAI**分享Kakeya猜想的模型结果指数时间假设
+
+📅 Mon, 26 Oct 2026 14:30:00 GMT
+
+---
+
+### OpenAI Blog
+**[GPT-6.1 SOL帮助CodeRabbit加强复杂代码库的安全性](https://openai.com/index/gpt-6-1-sol-coderabbit-code-security)**
+
+CodeRabbit使用**GPT**-61 SOL来调查复杂代码库中的安全风险
+
+📅 Mon, 26 Oct 2026 13:45:00 GMT
 
 ---
 
@@ -93,24 +111,6 @@ Fanatics使用**OpenAI**帮助球迷完成比赛日服装，通过Shop the LookT
 **Anthropic**已正式申请IPO和一个不寻常的治理结构，旨在保护创始人的控制权及其人工智能安全使命
 
 📅 Mon, 26 Oct 2026 14:35:22 +0000
-
----
-
-### TechCrunch AI Products
-**[人工智能墓地：未成功完成的项目和初创公司的运行列表](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)**
-
-从苹果一再推迟Siri AI到**OpenAI**凌乱的“超级应用”**发布**，以下是关闭或未达到预期的人工智能项目
-
-📅 Sat, 24 Oct 2026 19:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[SpaceX与阿波罗达成400 $ GPU融资协议](https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/)**
-
-SpaceX已经锁定了一项具有约束力的承诺，约400亿美元的融资用于支付人工智能芯片和相关数据中心设备在一份声明中， SpaceX称其为“有史以来最大的GPU融资承诺”
-
-📅 Mon, 26 Oct 2026 16:46:36 +0000
 
 ---
 
@@ -191,11 +191,40 @@ SpaceX已经锁定了一项具有约束力的承诺，约400亿美元的融资�
 ## 🌍 行业展望
 
 ### The Information Technology
+![Anthropic、SpaceX和Meta Cash Grab](https://tii.imgix.net/article/pictures/newsletters-production/d63d96fc-4a43-4058-a3a9-ad27158930e0-qxVrpd.jpg?auto=compress)
+
+**[Anthropic、SpaceX和Meta Cash Grab](https://www.theinformation.com/articles/anthropic-spacex-meta-cash-grabs)**
+
+**Anthropic**和**OpenAI**Microsoft收购微软周一宣布的新一轮员工自愿收购附带了一个惊人的数字： 60
+
+📅 2026-10-27T00:06:01.000Z
+
+---
+
+### The Information Technology
 **[OpenAI在人类价格战中推出更便宜的Terra模型](https://www.theinformation.com/briefings/openai-unveils-cheaper-terra-model-amid-anthropic-pricing-battle)**
 
 **OpenAI**周一公布了其**GPT**-6的最新版本根据**OpenAI** ， **GPT**-6
 
 📅 2026-10-26T19:39:37.000Z
+
+---
+
+### The Information Technology
+**[Anthropic创始人表示，他们将让Claude远离广告 ](https://www.theinformation.com/briefings/anthropic-founders-say-will-keep-claude-free-advertising)**
+
+**Anthropic**的七位创始人在周一的IPO招股说明书中写道，他们致力于让**Claude**远离广告。**Claude**的唯一动机是给人们提供有用的答案。
+
+📅 2026-10-26T21:56:50.000Z
+
+---
+
+### The Information Technology
+**[Anthropic S-1强调不断上升的支付成本](https://www.theinformation.com/briefings/anthropic-s-1-highlights-rising-payment-costs)**
+
+**Anthropic**表示，今年上半年其支付处理费支出比去年同期增加了2.22亿$。该增长是**Anthropic**整体
+
+📅 2026-10-26T21:45:36.000Z
 
 ---
 
@@ -235,76 +264,49 @@ SpaceX已经锁定了一项具有约束力的承诺，约400亿美元的融资�
 
 ---
 
-### The Information Technology
-**[赞成分批回合的论点](https://www.theinformation.com/articles/argument-favor-tranched-rounds)**
-
-在我们进入今天的专栏之前，**重要**的一天已经到来： **Anthropic**周一早上放弃了期待已久的公开S-1申请。他们还表示，即使部分或大部分新资本以较低的价格进入，它也允许初创公司声称拥有更大的估值。
-
-📅 2026-10-26T14:21:38.000Z
-
----
-
-### The Information Technology
-**[Anthropic为其计划的IPO公开提交S-1文件](https://www.theinformation.com/briefings/anthropic-publicly-files-s-1-planned-ipo)**
-
-**Anthropic**公开提交了**首次**公开募股计划的初步招股说明书，介绍了今年上半年的业务概况，以及有关其治理的新细节和超过90页的风险因素
-
-📅 2026-10-26T13:40:09.000Z
-
----
-
-### The Information Technology
-**[Meta计划通过股权销售为人工智能筹集高达950亿美元的资金](https://www.theinformation.com/briefings/meta-plans-raise-95-billion-ai-equity-sales)**
-
-**Meta** Platforms宣布计划通过股权销售寻求高达950亿美元的资本，并加入人工智能公司已经庞大的筹款计划，以推动数据中心的繁荣
-
-📅 2026-10-26T13:13:09.000Z
-
----
-
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![photoprism ： AI驱动的照片应用程序 🌈💎✨](https://avatars.githubusercontent.com/u/32436079?v=4)
+![sWARMS ：企业级多代理编排框架。网站： https://swarms.ai](https://avatars.githubusercontent.com/u/98760976?v=4)
 
-**[photoprism ： AI驱动的照片应用程序 🌈💎✨](https://github.com/photoprism/photoprism)**
+**[sWARMS ：企业级多代理编排框架。网站： https://swarms.ai](https://github.com/kyegomez/swarms)**
 
-⭐ 40369星· 2336叉·围棋·人工智能照片应用 🌈💎✨
+⭐ 7303星· 1053叉· Python ·企业级多代理编排框架网站： https://swarms
 
-📅 2026-10-26T20:21:35Z
-
----
-
-### GitHub Active (AI/ML)
-![rocketride-server ：具有C + +核心和50多个Python可扩展节点的高性能AI流水线引擎。使用13个以上的模型提供程序、8个以上的矢量数据库和代理编排构建、调试和扩展LLM工作流程，所有这些都来自您的IDE。包括VS Code扩展、TypeScript/Python SDK和Docker部署。](https://avatars.githubusercontent.com/u/258325502?v=4)
-
-**[rocketride-server ：具有C + +核心和50多个Python可扩展节点的高性能AI流水线引擎。使用13个以上的模型提供程序、8个以上的矢量数据库和代理编排构建、调试和扩展LLM工作流程，所有这些都来自您的IDE。包括VS Code扩展、TypeScript/Python SDK和Docker部署。](https://github.com/rocketride-org/rocketride-server)**
-
-⭐ 17,751星· 7507分叉· Python ·具有C + +核心和50多个Python可扩展节点的高性能AI流水线引擎使用13个以上的模型提供程序、8个以上的矢量数据库和代理编排构建、调试和扩展LLM工作流程，所有这些都来自您的IDE
-
-📅 2026-10-26T20:21:34Z
-
----
-
-### GitHub Active (Python)
-![iii ：有史以来第一次毫不费力地实时构建、扩展和观察每项服务。](https://avatars.githubusercontent.com/u/258310054?v=4)
-
-**[iii ：有史以来第一次毫不费力地实时构建、扩展和观察每项服务。](https://github.com/iii-hq/iii)**
-
-⭐ 18865星· 1269叉·生锈·**首次**实时撰写、扩展和观察每项服务
-
-📅 2026-10-26T20:21:47Z
+📅 2026-10-27T01:51:36Z
 
 ---
 
 ### GitHub Active (AI/ML)
-![刻录：刻录是下一代张量库和深度学习框架，不会影响灵活性、效率和可移植性。](https://avatars.githubusercontent.com/u/111992358?v=4)
+![管道： Kubeflow的机器学习管道](https://avatars.githubusercontent.com/u/33164907?v=4)
 
-**[刻录：刻录是下一代张量库和深度学习框架，不会影响灵活性、效率和可移植性。](https://github.com/tracel-ai/burn)**
+**[管道： Kubeflow的机器学习管道](https://github.com/kubeflow/pipelines)**
 
-173星· 1110分叉· Rust · Burn是下一代张量库和深度学习框架，不影响灵活性和可移植性
+⭐ 4258星· 2166叉· Python · Kubeflow机器学习流水线
 
-📅 2026-10-26T20:21:37Z
+📅 2026-10-27T01:51:19Z
+
+---
+
+### GitHub Active (AI/ML)
+![awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
+
+**[awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
+
+⭐ 463星· 39分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作管道刷新
+
+📅 2026-10-27T01:51:06Z
+
+---
+
+### GitHub New (New AI)
+![🆕 InterviewCopilot-rpocket-team ： EdTech应用程序旨在弥合学习与实现梦想工作之间的差距](https://avatars.githubusercontent.com/u/341170010?v=4)
+
+**[🆕 InterviewCopilot-rpocket-team ： EdTech应用程序旨在弥合学习与实现梦想工作之间的差距](https://github.com/OFat34764e/InterviewCopilot-rpocket-team)**
+
+⭐ 32 star (新项目) · N/A · EdTech application designed to bridge the gap between learning and landing your dream job
+
+📅 2026-10-26T07:19:34Z
 
 ---
 
@@ -313,18 +315,18 @@ SpaceX已经锁定了一项具有约束力的承诺，约400亿美元的融资�
 ### Hacker News
 **[GPT-6.1 TERRA](https://openai.com/index/introducing-gpt-6-1-terra/)**
 
-文章网址： https://**OpenAI**com/index/introducing-**GPT**-6-1-terra/评论网址： https://**new**s
+**OpenAI**com/api/docs/models/**GPT**-6
 
 📅 Mon, 26 Oct 2026 18:01:17 +0000
 
 ---
 
-### Hacker News
-**[GPT 6.1 TERRA](https://developers.openai.com/api/docs/models/gpt-6.1-terra)**
+### Reddit: r/artificial
+**[Google AI常见错误](https://www.reddit.com/r/artificial/comments/1xgb9at/google_ai_constant_errors/)**
 
-**OpenAI**com/api/docs/models/**GPT**-6
+我使用常规的谷歌搜索来寻找有关我的新丰田Sienna的答案我发现，如果你使用完整的问题，它会给出一个AI交互式的回答
 
-📅 Mon, 26 Oct 2026 17:58:24 +0000
+📅 2026-10-26T22:27:42.000Z
 
 ---
 
@@ -351,7 +353,7 @@ SpaceX已经锁定了一项具有约束力的承诺，约400亿美元的融资�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-10-26T20:21:45.957Z
+📅 2026-10-27T01:52:13.651Z
 
 ---
 
@@ -360,7 +362,7 @@ SpaceX已经锁定了一项具有约束力的承诺，约400亿美元的融资�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-10-26T20:21:53.349Z
+📅 2026-10-27T01:52:19.882Z
 
 ---
 
@@ -373,12 +375,14 @@ SpaceX已经锁定了一项具有约束力的承诺，约400亿美元的融资�
 
 ---
 
-### Hacker News
-**[ChatGPT不断告诉人们404 Media可以解决他们的技术支持问题](https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/)**
+### Reddit: r/artificial
+![OpenAi声称已经证明指数时间假说是错误的，使许多过去的结果无效，这些结果依赖于它是真实的。](https://external-preview.redd.it/afgcFZzZn8anE9_a2wCMiRiEij7c-9ucUMAEudgnpeo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=674cf9e38b720e53c2ebcebc9529aa9ca4ba3727)
 
-文章网址： https://wwwco/chat**GPT**-keeps-telling-people-404-media-can-solve-their-tech-support-problems/评论网址： https://**new**s
+**[OpenAi声称已经证明指数时间假说是错误的，使许多过去的结果无效，这些结果依赖于它是真实的。](https://www.reddit.com/r/artificial/comments/1xgbnyg/openai_claims_to_have_proved_that_the_exponential/)**
 
-📅 Mon, 26 Oct 2026 17:32:16 +0000
+提交者/u/Environmental_Mix22 [link] [comments]
+
+📅 2026-10-26T22:44:48.000Z
 
 ---
 
