@@ -1,12 +1,12 @@
 ---
-title: "2026年10月27日 - TZ日报"
-date: 2026-10-27T19:54:26.306Z
+title: "2026年10月28日 - TZ日报"
+date: 2026-10-28T02:05:33.532Z
 draft: false
 ---
 
-# 2026年10月27日 - TZ日报
+# 2026年10月28日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/27 19:54:26
+> 📊 今日汇总 38 条 · 🕐 2026/10/28 02:05:33
 
 ---
 
@@ -32,6 +32,15 @@ Rohit Patel在从事人工智能评估和强化学习八年后离开**Meta** ，
 ---
 
 ### OpenAI Blog
+**[Retell使用OpenAI模型来帮助推动每月1亿次通话](https://openai.com/index/retell-ai)**
+
+**GPT**-6 Astra在Retell的语音代理基准中名列前茅，而Codex帮助其达到每名员工1600万美元的年收入运行率
+
+📅 Tue, 27 Oct 2026 15:00:00 GMT
+
+---
+
+### OpenAI Blog
 **[OpenAI扩大与甲骨文的合作伙伴关系，将其应用程序引入ChatGPT](https://openai.com/index/oracle-apps-in-chatgpt)**
 
 **OpenAI**和甲骨文正在扩大合作伙伴关系，将业务应用程序和人工智能代理引入Chat**GPT** ，并为新的甲骨文产品提供支持
@@ -46,6 +55,15 @@ Rohit Patel在从事人工智能评估和强化学习八年后离开**Meta** ，
 探索**OpenAI** Signals关于近100个国家/地区165项工作活动的数据，揭示人们如何使用Chat**GPT**进行工作以及使用情况如何随着时间的推移而变化
 
 📅 Mon, 26 Oct 2026 10:00:00 GMT
+
+---
+
+### TechCrunch AI Products
+**[父母起诉OpenAI ，声称GPT-4o指导他们的女儿戒断癫痫药物](https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/)**
+
+一个家庭正在起诉**OpenAI**sing Chat**GPT** ，指导他们的女儿在2月份去世前悄悄减少她的癫痫发作药物，并向她的医生隐瞒
+
+📅 Tue, 27 Oct 2026 23:34:27 +0000
 
 ---
 
@@ -91,24 +109,6 @@ CodeRabbit使用**GPT**-61 SOL来调查复杂代码库中的安全风险
 Fanatics使用**OpenAI**帮助球迷完成比赛日服装，通过Shop the LookTesting在大约30,000个MLB产品中显示出高出10%的参与度
 
 📅 Mon, 26 Oct 2026 07:00:00 GMT
-
----
-
-### OpenAI Blog
-**[超快如何将OpenAI的事件调查时间从几小时缩短到几分钟](https://openai.com/index/openai-cut-incident-investigation)**
-
-了解**OpenAI**工程师如何使用Codex Ultrafast在几分钟内调查事件探索更快的安全分析、代码重构和日常工作流程
-
-📅 Mon, 26 Oct 2026 07:00:00 GMT
-
----
-
-### OpenAI Blog
-**[GPT-6.1 Terra简介](https://openai.com/index/introducing-gpt-6-1-terra)**
-
-让每个人都能快速、高效地使用电脑
-
-📅 Mon, 26 Oct 2026 00:00:00 GMT
 
 ---
 
@@ -189,13 +189,22 @@ Fanatics使用**OpenAI**帮助球迷完成比赛日服装，通过Shop the LookT
 ## 🌍 行业展望
 
 ### The Information Technology
-![Anthropic、SpaceX和Meta Cash Grab](https://tii.imgix.net/article/pictures/newsletters-production/d63d96fc-4a43-4058-a3a9-ad27158930e0-qxVrpd.jpg?auto=compress)
+![谷歌正在经历TPU时刻](https://tii.imgix.net/article/pictures/newsletters-production/82187f1e-3976-4c2b-8bc9-473a2ea96529-1kkl2r.jpg?auto=compress)
 
-**[Anthropic、SpaceX和Meta Cash Grab](https://www.theinformation.com/articles/anthropic-spacex-meta-cash-grabs)**
+**[谷歌正在经历TPU时刻](https://www.theinformation.com/articles/google-tpu-moment)**
 
-**Anthropic**和**OpenAI**Microsoft收购微软周一宣布的新一轮员工自愿收购附带了一个惊人的数字： 60
+谷歌表示，甲骨文将成为谷歌以外的第一家主要云提供商，开始通过自己的数据中心向客户提供TPU更多详细信息我们正在阅读她信任的Chat**GPT**与她的药物决策
 
-📅 2026-10-27T00:06:01.000Z
+📅 2026-10-28T00:15:58.000Z
+
+---
+
+### The Information Technology
+**[英伟达长期客户OpenAI计划收购谷歌AI芯片](https://www.theinformation.com/articles/openai-longtime-nvidia-customer-plans-buy-googles-ai-chips)**
+
+据知情人士透露， **OpenAI**计划收购谷歌的人工智能芯片，以推动**OpenAI**支持者NvidiaFinancial不断崛起的竞争对手，而**OpenAI**计划收购的其他细节则无法得知
+
+📅 2026-10-27T23:59:51.000Z
 
 ---
 
@@ -209,20 +218,11 @@ Fanatics使用**OpenAI**帮助球迷完成比赛日服装，通过Shop the LookT
 ---
 
 ### The Information Technology
-**[英伟达在更深层次的人工智能合作伙伴关系中投资30亿美元$ Meta](https://www.theinformation.com/briefings/nvidia-invests-3-billion-meta-deeper-ai-partnership)**
+**[OpenAI ， Anthropic Claim Cryptography在同一天取得突破](https://www.theinformation.com/briefings/openai-anthropic-claim-cryptography-breakthrough-day)**
 
-Nvidia将投资30亿美元用于**Meta** Platforms的股权发行**Meta**计划扩大部署Nvidia先进的Vera Rubin AI硬件和
+**OpenAI**还宣布了物理和数学领域的另外两项**突破**OpenAI本月早些时候**发布**了700多篇数学论文，其AI模型发现
 
-📅 2026-10-27T08:58:26.000Z
-
----
-
-### The Information Technology
-**[Anthropic创始人表示，他们将让Claude远离广告 ](https://www.theinformation.com/briefings/anthropic-founders-say-will-keep-claude-free-advertising)**
-
-**Anthropic**的七位创始人在周一的IPO招股说明书中写道，他们致力于让**Claude**远离广告。**Claude**的唯一动机是给人们提供有用的答案。
-
-📅 2026-10-26T21:56:50.000Z
+📅 2026-10-27T19:55:09.000Z
 
 ---
 
@@ -246,21 +246,19 @@ Nvidia将投资30亿美元用于**Meta** Platforms的股权发行**Meta**计划�
 
 ---
 
-### The Verge
-![谷歌的下一个Genie AI模型生成更逼真的体验](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-26-at-3.00.35-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### The Information Technology
+**[Anthropic收购了一家小型药物初创公司，因为它将生物技术推向了更深层次](https://www.theinformation.com/briefings/anthropic-buys-small-drug-startup-pushes-deeper-biotech)**
 
-**[谷歌的下一个Genie AI模型生成更逼真的体验](https://www.theverge.com/tech/1019076/google-genie-4-ai-model)**
+**Anthropic**表示已收购Mithril Medicine该公司还表示正在与Bristol Myers Squibb、BigHat Biosciences和其他四家
 
-谷歌今天宣布了使用AIT生成交互式体验的Genie 4世界模型。该公司表示，该模型有四个主要**更新**：它允许更逼真的世界
-
-📅 2026-10-27T16:00:00.000Z
+📅 2026-10-28T00:26:34.000Z
 
 ---
 
 ### The Information Technology
 **[Oracle开始在其云中运行Google TPU](https://www.theinformation.com/briefings/oracle-start-running-google-tpus-cloud)**
 
-谷歌和甲骨文宣布建立合作伙伴关系，将向甲骨文云客户提供谷歌的张量处理单元，这是**首次**在谷歌云平台之外的云平台上提供人工智能芯片。
+谷歌和甲骨文宣布建立合作伙伴关系，将向甲骨文云客户提供谷歌的张量处理单元，这是**首次**在谷歌以外的超大规模云平台上提供人工智能芯片
 
 📅 2026-10-27T17:42:51.000Z
 
@@ -269,57 +267,84 @@ Nvidia将投资30亿美元用于**Meta** Platforms的股权发行**Meta**计划�
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![netdata ：实现人工智能驱动的全栈可观察性的最快途径，即使对于精益团队也是如此。](https://avatars.githubusercontent.com/u/43390781?v=4)
+![pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://avatars.githubusercontent.com/u/21003710?v=4)
 
-**[netdata ：实现人工智能驱动的全栈可观察性的最快途径，即使对于精益团队也是如此。](https://github.com/netdata/netdata)**
+**[pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://github.com/pytorch/pytorch)**
 
-⭐ 81,186星· 6699叉·围棋·通往人工智能全栈可观测性的最快路径，即使是精益团队
+⭐ 105,133星· 31820分叉· Python ·具有强大GPU加速的Python中的张量和动态神经网络
 
-📅 2026-10-27T19:52:45Z
+📅 2026-10-28T02:04:23Z
 
 ---
 
 ### GitHub Active (Python)
-![sentry ：开发人员优先的错误跟踪和性能监控](https://avatars.githubusercontent.com/u/1396951?v=4)
+![aspire ： Aspire是代码优先、可扩展、可观察的开发和部署工具。](https://avatars.githubusercontent.com/u/6154722?v=4)
 
-**[sentry ：开发人员优先的错误跟踪和性能监控](https://github.com/getsentry/sentry)**
+**[aspire ： Aspire是代码优先、可扩展、可观察的开发和部署工具。](https://github.com/microsoft/aspire)**
 
-⭐ 45,665星· 4956分叉· Python ·开发人员优先的错误跟踪和性能监控
+⭐ 6386星· 1026叉· C # · Aspire是代码优先、可扩展、可观察的开发和部署工具
 
-📅 2026-10-27T19:53:08Z
+📅 2026-10-28T02:04:18Z
 
 ---
 
 ### GitHub Active (AI/ML)
-![flyte ：类型安全、代理的分布式编排、ML管道和k8s上的实时推理—在纯Python和async/await中，还有其他语言（ rust、go和ts ）](https://avatars.githubusercontent.com/u/35380635?v=4)
+![executorch ：适用于PyTorch的移动、嵌入式和边缘设备上的AI](https://avatars.githubusercontent.com/u/21003710?v=4)
 
-**[flyte ：类型安全、代理的分布式编排、ML管道和k8s上的实时推理—在纯Python和async/await中，还有其他语言（ rust、go和ts ）](https://github.com/flyteorg/flyte)**
+**[executorch ：适用于PyTorch的移动、嵌入式和边缘设备上的AI](https://github.com/pytorch/executorch)**
 
-773星· 917分叉·围棋· k8s的类型安全和实时推理—纯Python异步/等待
+⭐ 5133星· 1225叉· Python ·适用于PyTorch的移动、嵌入式和边缘设备AI
 
-📅 2026-10-27T19:52:40Z
+📅 2026-10-28T02:03:41Z
 
 ---
 
-### GitHub Active (Python)
-![spack-packages ： Spack的社区包配方](https://avatars.githubusercontent.com/u/25539161?v=4)
+### GitHub New (New AI)
+![🆕 InterviewCopilot-rpocket-team ： EdTech应用程序旨在弥合学习与实现梦想工作之间的差距](https://avatars.githubusercontent.com/u/341170010?v=4)
 
-**[spack-packages ： Spack的社区包配方](https://github.com/spack/spack-packages)**
+**[🆕 InterviewCopilot-rpocket-team ： EdTech应用程序旨在弥合学习与实现梦想工作之间的差距](https://github.com/OFat34764e/InterviewCopilot-rpocket-team)**
 
-⭐ 154星· 818叉·蟒蛇·史派克社区礼包食谱
+⭐ 32 star (新项目) · N/A · EdTech application designed to bridge the gap between learning and landing your dream job
 
-📅 2026-10-27T19:53:02Z
+📅 2026-10-26T07:19:34Z
 
 ---
 
 ## 💬 社交动态
+
+### Reddit: r/artificial
+**[人工智能并不是我们成为不那么批判性思考者的原因](https://www.reddit.com/r/artificial/comments/1xh4tmr/ai_is_not_the_reason_we_are_becoming_less/)**
+
+edu/projects/your-brain-on-chat**GPT**/overview/微软研究院，生成式人工智能对批判性思维的影响： https://wwwcom/**Anthropic**s/skills/tree/main/skills/frontend-design LetsFG （**开源**、机票和酒店） ： https://**Claude**
+
+📅 2026-10-27T21:06:32.000Z
+
+---
+
+### Hacker News
+**[扩大我们与GSA的合作伙伴关系，将Claude带到各级政府](https://www.anthropic.com/news/expanding-partnership-gsa)**
+
+文章网址： https://wwwcom/**new**s/expanding-partnership-gsa评论网址： https://**new**s
+
+📅 Tue, 27 Oct 2026 22:23:37 +0000
+
+---
+
+### Hacker News
+**[与Claude一起加速药物开发的早期进展](https://www.anthropic.com/research/early-progress-drug-development)**
+
+文章网址： https://wwwcom/research/early-progress-drug-development评论网址： https://**new**s
+
+📅 Tue, 27 Oct 2026 20:50:42 +0000
+
+---
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-10-27T19:53:02.167Z
+📅 2026-10-28T02:04:17.147Z
 
 ---
 
@@ -328,7 +353,7 @@ Nvidia将投资30亿美元用于**Meta** Platforms的股权发行**Meta**计划�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-10-27T19:53:08.886Z
+📅 2026-10-28T02:04:25.042Z
 
 ---
 
@@ -342,51 +367,20 @@ Nvidia将投资30亿美元用于**Meta** Platforms的股权发行**Meta**计划�
 ---
 
 ### Hacker News AI
-**[Fuzzers与人工智能：在JavaScript引擎上比较Fuzzilli和BigSleep](https://projectzero.google/2026/10/fuzzing-v-AI.html)**
+**[微软提供自愿收购，因为人工智能可以提高效率](https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html)**
 
-**Google**/2026/10/fuzzing-v-AIhtml评论网址： https://**new**s
+com/2026/10/26/microsoft-msft-voluntary-buyoutshtml评论网址： https://**new**s
 
-📅 Tue, 27 Oct 2026 19:07:19 +0000
-
----
-
-### Reddit: r/artificial
-**[Akamai启动AI代理沙箱，默认阻止出站访问](https://www.reddit.com/r/artificial/comments/1xh2i2l/akamai_launches_an_ai_agent_sandbox_with_outbound/)**
-
-Inference提供对12个开放权重模型的**OpenAI**兼容API访问com/**new**sroom/press-**release**/akamai-**launch**es-ai-inference-service-and-agent-execution-environment Akamai Agent Sandbox ： https://www
-
-📅 2026-10-27T19:39:52.000Z
+📅 Wed, 28 Oct 2026 01:17:10 +0000
 
 ---
 
-### Reddit: r/artificial
-![OpenAI刚刚在一个价值数百万美元的量子数学问题上挖掘了人类研究人员](https://external-preview.redd.it/vLkKpmN0AXVmZrC5U9Kv0ku8MuSSNfBy6GmIPier5jw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a4b8dc2aae7832fa7f29d0b4dcfddfbc769c9beb)
+### Hacker News AI
+**[OpenCode-Muse ：在OpenCode中使用Meta AI的Muse代码订阅](https://github.com/pgquiles/opencode-muse)**
 
-**[OpenAI刚刚在一个价值数百万美元的量子数学问题上挖掘了人类研究人员](https://www.reddit.com/r/artificial/comments/1xh0yrj/openai_just_scooped_human_researchers_on_a/)**
+文章网址： https://githubcom/pgquiles/opencode-muse评论网址： https://**new**s
 
-提交者/u/scientificamerican [link] [comments]
-
-📅 2026-10-27T18:43:18.000Z
-
----
-
-### Reddit: r/artificial
-![人工智能入侵政府系统。我们的安全性如何？](https://preview.redd.it/s2u77vzkw1yh1.png?width=140&amp;height=116&amp;auto=webp&amp;s=300781c720de4c63b718999fa2a486e128dd88fd)
-
-**[人工智能入侵政府系统。我们的安全性如何？](https://www.reddit.com/r/artificial/comments/1xh08vu/ai_hack_a_government_system_how_secure_are_we/)**
-
-width = 606 & format = png&auto = webp&s = d322af31f3c07e934fa1d85dfa59ae17216e8a1c最近的事件6月18日，负责研究政府健康数据的实验性自主**OpenAI**代理在搜索有关皮肤药物的公共统计数据时遇到了障碍您认为人工智能将来对政府系统更有害还是更脆弱
-
-📅 2026-10-27T18:16:56.000Z
-
----
-
-### Reddit: r/artificial
-**[中国已经输掉了人工智能竞赛，中国注定要失败](https://www.reddit.com/r/artificial/comments/1xgxhc2/china_has_already_lost_the_ai_race_china_is_doomed/)**
-
-I模型版本已经完全从悬崖上掉下来，因为它们将是在人类/开放A之前可以通过蒸馏训练的最后一个模型
-
-📅 2026-10-27T16:37:04.000Z
+📅 Tue, 27 Oct 2026 22:56:05 +0000
 
 ---
 
