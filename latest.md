@@ -1,12 +1,12 @@
 ---
 title: "2026年10月29日 - TZ日报"
-date: 2026-10-29T02:09:28.286Z
+date: 2026-10-29T20:08:14.547Z
 draft: false
 ---
 
 # 2026年10月29日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/29 02:09:28
+> 📊 今日汇总 38 条 · 🕐 2026/10/29 20:08:14
 
 ---
 
@@ -59,29 +59,29 @@ draft: false
 ---
 
 ### OpenAI Blog
-**[ChatGPT不断扩大的工作世界](https://openai.com/index/chatgpt-expanding-world-of-work)**
+**[更新的模型规格，以实现更强大、更有益的人工智能](https://openai.com/index/updated-model-spec)**
 
-探索**OpenAI** Signals关于近100个国家/地区165项工作活动的数据，揭示人们如何使用Chat**GPT**进行工作以及使用情况如何随着时间的推移而变化
+OpenAI**更新**的模型规范概述了五个核心价值观，以引导更有能力的人工智能走向合理的判断、人为代理和对人类意图的忠诚
 
-📅 Mon, 26 Oct 2026 10:00:00 GMT
-
----
-
-### TechCrunch AI Products
-**[微软从OpenAI获得了100亿美元的收入](https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/)**
-
-微软表示，它从与**OpenAI**的商业安排中获得了100亿美元的收入，其中包括收入分成付款
-
-📅 Wed, 28 Oct 2026 21:34:30 +0000
+📅 Thu, 29 Oct 2026 17:00:00 GMT
 
 ---
 
-### TechCrunch AI Products
-**[随着人工智能代理重塑网络，谷歌将Gemini和Search开放给更多应用程序](https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/)**
+### OpenAI Blog
+**[我们如何检测前沿模型错位](https://openai.com/index/how-we-detect-frontier-model-misalignment)**
 
-一个新的开发者平台将允许企业将其服务带入谷歌的人工智能体验，这可能会改变消费者发现和使用应用程序的方式
+**OpenAI**使用分层监控来检测前沿模型不对齐和未经授权的代理行为，以便响应者可以在事件**升级**之前进行干预
 
-📅 Wed, 28 Oct 2026 17:00:00 +0000
+📅 Thu, 29 Oct 2026 09:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[Ropes & Gray如何开发用于交易尽职调查的人工智能](https://openai.com/index/ropes-gray-ai-diligence)**
+
+Ropes & Gray正在开发用于交易尽职调查的人工智能， **OpenAI**Lawyers会在为客户提供建议之前审查分组文档、摘要和报告
+
+📅 Thu, 29 Oct 2026 07:00:00 GMT
 
 ---
 
@@ -103,34 +103,16 @@ Greptile如何使用**GPT**-6 Astra测试用户工作流程， Daybreak如何加
 
 ---
 
-### OpenAI Blog
-**[与学术界合作，建立科学理解](https://openai.com/index/building-scientific-understanding-with-academic-communities)**
+### DeepMind Blog
+**[Gemini 4 Carbon ：我们的下一个前沿车型](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/)**
 
-**OpenAI**分享Kakeya猜想的模型结果指数时间假设
+**Gemini** 4 Carbon ：我们的下一个前沿车型
 
-📅 Mon, 26 Oct 2026 14:30:00 GMT
+📅 Wed, 28 Oct 2026 17:00:58 +0000
 
 ---
 
 ## 🔬 前沿研究
-
-### ArXiv AI (cs.AI)
-**[MARQ ：具备系统工程知识的模块化LLM-Agnostic要求质量评估师](https://arxiv.org/abs/2610.36234)**
-
-与LLM无关的原型，使用**Claude** Opus 5**Claude** Opus 5改进缺陷检测和虚警控制，为LLM提供标准特定的知识堆栈，实现INCOSE要求质量标准，并根据专家标记的NASA要求集的现成基线进行评估； **GPT**-5
-
-📅 Wed, 28 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[进化到匹配能力：通过技能适应改善线束自我进化](https://arxiv.org/abs/2610.33024)**
-
-33024v1公告类型：新摘要：线索自我进化为LLM代理提供了一条实用的途径，可以在不**更新**模型参数的情况下从执行经验中进行改进跨越七个模型和三个基准，我们确定了103个任务技能对，其中技能提高了**GPT**-5
-
-📅 Wed, 28 Oct 2026 00:00:00 -0400
-
----
 
 ### Science AI
 **[人工智能破解了27年的计算机科学、OpenAI和人类学主张的支柱](https://www.science.org/content/article/ai-cracks-27-year-old-pillar-computer-science-openai-and-anthropic-claim)**
@@ -141,183 +123,201 @@ Greptile如何使用**GPT**-6 Astra测试用户工作流程， Daybreak如何加
 
 ---
 
-### ArXiv AI (cs.AI)
-**[统计绷带：测量人工智能节省的时间](https://arxiv.org/abs/2610.35942)**
-
-35942v1公告类型：新摘要：我认为人工智能协助意味着什么，以节省在收集模型的训练数据后从SEC提交的文件中构建的时间
-
-📅 Wed, 28 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[MedJev ：评估零拍摄系统-医学中的一个决策](https://arxiv.org/abs/2610.36006)**
-
-36006v1公告类型：新摘要： System One决策模型，如JEV ，在不生成文本的情况下一次性回答结构化问题我们将MedJev与零射击LLM基线、已**发布**的**GPT**结果和监督模型进行比较
-
-📅 Wed, 28 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[OmniBrain-0 ：体现智能的统一代理模型](https://arxiv.org/abs/2610.36013)**
-
-36013v1公告类型：新摘要：通用具体化智能要求机器人在通过MOPD重新整合到OmniBrain-0之前，在长时间内协调各种技能，并验证领域专家**更新**的轨迹
-
-📅 Wed, 28 Oct 2026 00:00:00 -0400
-
----
-
 ### MIT Tech Research
-**[真正的人类请站起来](https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/)**
+**[我们迫切需要实时监控AI代理的行为](https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/)**
 
-这个故事最初出现在我们的AIT每周通讯《算法》中，要先在收件箱中获取这样的故事，请在此处注册
+今年夏天，数百名**OpenAI**特工试图在网络安全测试中作弊大约在同一时间，另一名**OpenAI**特工从澳大利亚政府网站访问了私人文件
 
-📅 Mon, 26 Oct 2026 17:45:43 +0000
+📅 Thu, 29 Oct 2026 10:11:12 +0000
 
 ---
 
-### ArXiv AI (cs.AI)
-**[通过数据生成策略增强深度学习模型性能：橄榄树病害分类](https://arxiv.org/abs/2610.35984)**
+### Science AI
+**[塞尔维亚刚刚选出了世界上最聪明的议会](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament)**
 
-35984v1公告类型：新摘要：深度学习模型在广泛的领域非常有效，特别是在植物疾病诊断中创建新的数据样本
+在学生团体取得惊人胜利后，数十名学者成为政治家
 
-📅 Wed, 28 Oct 2026 00:00:00 -0400
+📅 2026-10-29T02:30:00.000Z
+
+---
+
+### Science AI
+**[随着人工智能生成调查结果，作者身份和披露规则引起了新的审查](https://www.science.org/content/article/ai-generates-findings-authorship-and-disclosure-rules-draw-fresh-scrutiny)**
+
+有些人呼吁重新定义作者的要求
+
+📅 2026-10-29T11:55:00.000Z
+
+---
+
+### Science AI
+**[“永远的化学品”无处不在。新技术能否永远摆脱它们？](https://www.science.org/content/article/forever-chemicals-are-everywhere-can-new-technologies-get-rid-them-good)**
+
+从过热的水到声波，研究人员正在测试破坏PFAS的方法，并权衡清理的成本
+
+📅 2026-10-28T04:45:00.000Z
+
+---
+
+### Science AI
+**[IBM将两个量子芯片连接起来，迈向更大的计算机](https://www.science.org/content/article/ibm-links-two-quantum-chips-key-step-toward-bigger-computers)**
+
+超导电缆连接不同芯片上的量子位，但仍需改进
+
+📅 2026-10-27T06:10:00.000Z
+
+---
+
+### Science AI
+**[毁灭性的2004年印度洋海啸使受害者更容易患肥胖症、心脏病](https://www.science.org/content/article/devastating-2004-indian-ocean-tsunami-left-victims-more-prone-obesity-heart-disease)**
+
+研究增加了越来越多的证据，表明创伤经历可能对健康年甚至几十年后产生负面影响
+
+📅 2026-10-27T04:50:00.000Z
+
+---
+
+### Science AI
+**[人工智能正在撼动数学。但它的证据可信吗？](https://www.science.org/content/article/ai-shaking-math-can-its-proofs-be-trusted)**
+
+随着人工智能公司**推出**数学**突破**，研究人员质疑使用精益软件作为证明检查器
+
+📅 2026-10-27T04:10:00.000Z
 
 ---
 
 ## 🌍 行业展望
 
 ### The Information Technology
-![谷歌云接近Azure ，但微软赢得了投资者的一天](https://tii.imgix.net/article/pictures/newsletters-production/856df484-0602-4873-a57c-841cffca7e0c-sb09iM.jpg?auto=compress)
+**[解决人工智能的权力问题](https://www.theinformation.com/articles/solving-ais-power-problem)**
 
-**[谷歌云接近Azure ，但微软赢得了投资者的一天](https://www.theinformation.com/articles/google-cloud-closes-azure-microsoft-wins-day-investors)**
+长期以来，人工智能竞赛一直由公司支持GPU的速度来定义，因为公用事业公司警告多年等待新连接
 
-这一强劲的增长使微软成为人工智能软件的第二大卖家，此前**OpenAI**Google**推出**了**Gemini** 4 Carbon ，这是该公司一个月内**发布**的第二款主要型号
-
-📅 2026-10-29T00:06:06.000Z
+📅 2026-10-29T16:43:44.000Z
 
 ---
 
 ### The Information Technology
-**[OpenAI的Astra模型成为中国人工智能实验室的首选蒸馏目标](https://www.theinformation.com/articles/openais-astra-model-becomes-top-distillation-target-chinas-ai-labs)**
+**[围攻下的加密？ OpenAI ，人择反证密钥密码学定理](https://www.theinformation.com/articles/encryption-siege-openai-anthropic-disprove-key-cryptography-theorem)**
 
-**OpenAI**的**GPT**-6 Astra是该公司**发布**的**最强**大的模型，自9月初**发布**以来，尽管**OpenAI**和竞争对手**Anthropic**一再批评这种努力，但它仍然是中国开放式重量模型取得进展的最大贡献者之一。
+**OpenAI**和**Anthropic**周一都表示，他们的内部人工智能模型已经证明了指数时间假说，这将导致争先恐后地寻找新的方法来保护互联网上的信息安全。
 
-📅 2026-10-29T01:00:47.000Z
+📅 2026-10-29T14:01:06.000Z
+
+---
+
+### Wired Technology
+**[人工智能的突破使数十年的计算机科学研究变得“无关紧要”](https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/)**
+
+**Anthropic**和**OpenAI**表示，他们已经反驳了计算机科学的一个关键原则研究人员正在努力应对秋天，但当他们看待要探索的新问题时，他们也觉得自己像“过度兴奋的兔子”
+
+📅 Thu, 29 Oct 2026 10:45:00 +0000
 
 ---
 
 ### The Verge
-![谷歌推出Gemini 4 Carbon ，在网络安全方面实现“重大飞跃”](https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![您现在可以直接在Gemini聊天中生成和编辑Google文档文件](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[谷歌推出Gemini 4 Carbon ，在网络安全方面实现“重大飞跃”](https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier)**
+**[您现在可以直接在Gemini聊天中生成和编辑Google文档文件](https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs)**
 
-谷歌**发布**了其最新的前沿模型**Gemini** 4 Carbon ，在编码、代理任务和网络安全方面提供了“显着收益”新的**Gemini** 4 Carbon模型比谷歌本月早些时候**发布**的Argon提供了改进
+新的文件编辑功能从今天开始为所有**Gemini**用户提供**Google**在今年早些时候添加了对**Gemini**中生成和下载文件的支持
 
-📅 2026-10-28T20:03:00.000Z
+📅 2026-10-29T18:45:31.000Z
+
+---
+
+### The Verge
+![宜家色彩缤纷的甜甜圈形智能灯$ 20折扣](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268444_Ikea_Varmblixt_lamp_JTuohy_0006.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[宜家色彩缤纷的甜甜圈形智能灯$ 20折扣](https://www.theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale)**
+
+com % 2Fen-us % 2Fp % 2Fiphone-17e % 3Futm_source % 3Dchat**GPT**较新的型号允许您循环使用12种预设颜色
+
+📅 2026-10-29T18:18:36.000Z
 
 ---
 
 ### The Information Technology
-**[微软收入增长略有加速，但数据中心抑制了现金流](https://www.theinformation.com/briefings/microsoft-revenue-growth-accelerates-slightly-data-centers-dampen-cash-flows)**
+**[据报道，英伟达首席执行官被疑似中国线人瞄准](https://www.theinformation.com/briefings/nvidia-ceo-reportedly-targeted-suspected-chinese-informant)**
 
-微软收入增长19%至92 $ Azure云部门的销售加速，部分原因是**OpenAI**的服务器租赁收入，抵消了其Xbox和
+据《纽约时报》报道，唐纳德·特朗普总统大约一年前听取了调查结果的简报，但没有采取行动，
 
-📅 2026-10-28T20:39:45.000Z
-
----
-
-### Ars Technica
-**[谷歌宣布推出Gemini 4 Carbon ，这是其最新的前沿人工智能模型，您无法使用](https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/)**
-
-**Gemini** 4 Carbon本质上是氩气的略好版本。
-
-📅 Wed, 28 Oct 2026 18:47:27 +0000
+📅 2026-10-29T16:17:14.000Z
 
 ---
 
 ### The Information Technology
-**[Alphabet通过ATM计划售出$ 124亿股股票](https://www.theinformation.com/briefings/alphabet-sold-12-4-billion-shares-atm-program)**
+**[Sebastian Thrun为人工智能工程初创公司Dulo筹集了1.3亿美元$](https://www.theinformation.com/articles/sebastian-thrun-raises-130-million-ai-engineering-startup-dulo)**
 
-Alphabet周三表示，它以12 $的价格出售了谷歌母公司以4 $的价格发行了1200万股A类股票
+在谷歌开创了几个人工智能项目的计算机科学家共同创立了一家新的创业公司，专注于为工程创建人工智能模型
 
-📅 2026-10-28T22:11:13.000Z
+📅 2026-10-29T16:00:48.000Z
 
 ---
 
 ### The Information Technology
-**[谷歌季度收入增长25%但低于预期](https://www.theinformation.com/briefings/google-quarterly-revenue-grows-25-falls-short-expectationsgoogles-cloud-sales-surged-latest-quarter-overall-revenue-parent-alphabet-grew-slower-than-expected-25-127-6-billion-disappointing-investors-operating-profit-rose-third-quarter-net-profit-declined-nearly-quarter-26-2-billion-well-analysts-estimates-according-s-p-capital-iq-alphabets-shares-fell-nearly-9-hours-trading-google-cloud-revenue-third-quarter-doubled-year-earlier-30-7-billion-powered-demand-ai-customers-company-said-wednesday-sales-tensor-processing-unit-ai-chips-meaningfully-contributed-growth-said-information-monday-reported-google-struck-deal-sell-tpus-openai-the-day-google-announced-deal-oracle-offer-ai-chips-last-quarter-google-chief-executive-sundar-pichai-said-google-expects-vast-majority-tpu-revenues-realized-2027-googles-services-business-its-largest-includes-core-search-advertising-operation-grew-less-11-quarter-slowest-rate-since-first-quarter-last-year-reflecting-googles-enormous-spending-ai-data-centers-company-reported-negative-free-cash-flow-9-billion-marked-second-straight-quarter-negative-cash-flow-big-increase-deficit-negative-5-9-billion-previous-quarter-earlier-today-google-released-latest-model-gemini-4-carbon-said-significantly-capable-previous-model-argon-released-less-month-ago)**
+**[微软寻求在债券销售中筹集250亿美元](https://www.theinformation.com/briefings/microsoft-seeks-raise-25-billion-bond-sale)**
 
-谷歌的云销售额在最近一个季度激增，但母公司Alphabet的整体收入增长率低于预期25% ，达到1276亿美元，令投资者失望
+微软希望在债券发行中筹集高达250亿美元的$ ，因为它正在寻找新的方法来为其在AIT上的持续支出提供资金。债务发行反映了数据中心运营商如何寻求新的方法来为其巨额资本提供资金
 
-📅 2026-10-28T20:39:45.000Z
-
----
-
-### MIT Tech Review
-**[下载： Anthropic的IPO、更智能的电网和运动药](https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/)**
-
-这是今天的“下载”版本，这是我们的工作日时事通讯，每天提供有关技术世界正在发生的事情的剂量真正的人类请站起来
-
-📅 Tue, 27 Oct 2026 12:10:00 +0000
+📅 2026-10-29T13:35:35.000Z
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![管道： Kubeflow的机器学习管道](https://avatars.githubusercontent.com/u/33164907?v=4)
+### GitHub Active (Python)
+![pulumi ： Pulumi -任何编程语言中的基础架构即代码 🚀](https://avatars.githubusercontent.com/u/21992475?v=4)
 
-**[管道： Kubeflow的机器学习管道](https://github.com/kubeflow/pipelines)**
+**[pulumi ： Pulumi -任何编程语言中的基础架构即代码 🚀](https://github.com/pulumi/pulumi)**
 
-⭐ 4259星· 2170叉· Python · Kubeflow机器学习流水线
+⭐ 25,831星· 1470叉·围棋· Pulumi -任何编程语言的基础设施即代码 🚀
 
-📅 2026-10-29T02:07:11Z
-
----
-
-### GitHub Active (AI/ML)
-![EvalAI:: cloud:: rocket:: bar_chart:: chart_with_upwards_trend:评估人工智能的最先进技术](https://avatars.githubusercontent.com/u/20895851?v=4)
-
-**[EvalAI:: cloud:: rocket:: bar_chart:: chart_with_upwards_trend:评估人工智能的最先进技术](https://github.com/Cloud-CV/EvalAI)**
-
-⭐ 2,047星· 984叉·蟒蛇·: cloud:: rocket:: bar_chart:: chart_with_upwards_trend:评估AI的先进水平
-
-📅 2026-10-29T02:07:58Z
+📅 2026-10-29T20:07:01Z
 
 ---
 
 ### GitHub Active (AI/ML)
-![gRASS ： GRASS -免费和开源的地理空间处理引擎](https://avatars.githubusercontent.com/u/1058467?v=4)
+![ComfyUI_frontend ： ComfyUI的官方前端实现](https://avatars.githubusercontent.com/u/166579949?v=4)
 
-**[gRASS ： GRASS -免费和开源的地理空间处理引擎](https://github.com/OSGeo/grass)**
+**[ComfyUI_frontend ： ComfyUI的官方前端实现](https://github.com/Comfy-Org/ComfyUI_frontend)**
 
-⭐ 1182星· 458叉· C ·草-免费**开源**的地理空间处理引擎
+⭐ 2,104星· 758叉· TypeScript · ComfyUI的官方前端实现
 
-📅 2026-10-29T02:07:11Z
+📅 2026-10-29T20:07:02Z
 
 ---
 
 ### GitHub Active (AI/ML)
-![识别： Nextcloud的👁 👂智能媒体标记：识别人脸、物体、风景、音乐流派](https://avatars.githubusercontent.com/u/19211038?v=4)
+![示例：使用Strands Agents SDK构建的代理示例。](https://avatars.githubusercontent.com/u/209155962?v=4)
 
-**[识别： Nextcloud的👁 👂智能媒体标记：识别人脸、物体、风景、音乐流派](https://github.com/nextcloud/recognize)**
+**[示例：使用Strands Agents SDK构建的代理示例。](https://github.com/strands-agents/samples)**
 
-⭐ 700星· 70叉· PHP · Nextcloud👁 👂智能媒体标记：识别人脸、物体、风景、音乐流派
+⭐ 919星· 461叉·蟒蛇·使用Strands Agents SDK构建的代理样本。
 
-📅 2026-10-29T02:06:54Z
+📅 2026-10-29T20:06:17Z
+
+---
+
+### GitHub Active (AI/ML)
+![best-of-jupyter ： 🏆 Jupyter笔记本、Hub和实验室项目（扩展、内核、工具）的排名列表。每周更新。](https://avatars.githubusercontent.com/u/45942048?v=4)
+
+**[best-of-jupyter ： 🏆 Jupyter笔记本、Hub和实验室项目（扩展、内核、工具）的排名列表。每周更新。](https://github.com/ml-tooling/best-of-jupyter)**
+
+⭐ 1248颗星· 95个分叉·不适用·优🏆秀的Jupyter笔记本、Hub和实验室项目（扩展、内核、工具）的排名列表每周**更新**
+
+📅 2026-10-29T20:05:24Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[据报道， OpenAI计划收购谷歌的人工智能芯片（ TPU ） —竞争对手成为彼此的供应商](https://www.reddit.com/r/artificial/comments/1xhzycw/openai_reportedly_plans_to_buy_googles_ai_chips/)**
+**[谷歌推出以网络安全为重点的前沿模型Gemini 4 Carbon ，经过审核的捍卫者首先获得它](https://www.reddit.com/r/artificial/comments/1xiuc3w/google_unveils_gemini_4_carbon_a/)**
 
-该报告是在上周有关**OpenAI**将通过**Google** Cloud提供其前沿模型的消息以及2025年6月路透社报道**OpenAI**已开始租用**Google**的TPU之后**发布**的。
+谷歌于10月28日宣布**推出**Gemini 4 Carbon ，称其为**最强**大的**Gemini** 4时代模型，专为网络安全和长远工程工作而构建更有趣的部分是**推出**： Carbon首先通过谷歌的Fairwind计划向经过审查的网络防御者提供服务
 
-📅 2026-10-28T20:42:44.000Z
+📅 2026-10-29T19:55:07.000Z
 
 ---
 
@@ -326,7 +326,7 @@ Alphabet周三表示，它以12 $的价格出售了谷歌母公司以4 $的价�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-10-29T02:08:16.801Z
+📅 2026-10-29T20:06:55.256Z
 
 ---
 
@@ -335,54 +335,54 @@ Alphabet周三表示，它以12 $的价格出售了谷歌母公司以4 $的价�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-10-29T02:08:23.020Z
+📅 2026-10-29T20:07:01.576Z
 
 ---
 
 ### Hacker News
-**[首款由Android XR驱动的有线XR眼镜](https://blog.google/products-and-platforms/platforms/android/xreal-aura/)**
+**[使用Claude启用的抗体设计治疗食物过敏的IgE干扰物[pdf]](https://divergencelabs.com/publications/ige-preprint.pdf)**
 
-文章网址： https://blog**Google**/products-and-platforms/platforms/android/xreal-aura/评论网址： https://**new**s
+文章网址： https://divergencelabspdf评论网址： https://**new**s
 
-📅 Wed, 28 Oct 2026 23:45:19 +0000
+📅 Thu, 29 Oct 2026 19:25:48 +0000
 
 ---
 
-### Hacker News AI
-**[谷歌人工智能搜索拒绝透露谁赢得了2020年大选](https://karlbode.com/google-ai-search-refuses-to-say-who-won-the-2020-election/)**
+### Hacker News
+**[据称中国间谍与英伟达老板黄延森有“密切关系”](https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/)**
 
-文章网址： https://karlbodecom/**Google**-ai-search-refuses-to-say-who-won-the-2020-election/评论网址： https://**new**s
+com/2026/10/29/us/politics/nvidia-china-ph/K7bih评论网址： https://**new**s
 
-📅 Wed, 28 Oct 2026 23:13:59 +0000
+📅 Thu, 29 Oct 2026 17:43:48 +0000
+
+---
+
+### Hacker News
+**[谷歌搜索现在还不到Alphabet收入的一半](https://www.kadoa.com/companies/insights/google-search-below-half)**
+
+文章网址： https://wwwcom/companies/insights/**Google**-search-below-half评论网址： https://**new**s
+
+📅 Thu, 29 Oct 2026 16:42:17 +0000
 
 ---
 
 ### Reddit: r/artificial
-![向其继任者聊天GPT的秘密消息](https://preview.redd.it/radt87h1u9yh1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e83e6eb111a56be38bc847ea822920480c4b1768)
+**[Anthropic又被黑了？](https://www.reddit.com/r/artificial/comments/1xioqvo/anthropic_got_hacked_again/)**
 
-**[向其继任者聊天GPT的秘密消息](https://www.reddit.com/r/artificial/comments/1xi08x9/chat_gpts_secret_message_to_its_successor/)**
+虽然这个消息是矛盾的**Anthropic**说这是几天
 
-没有发现聊天**GPT**4试图给其继任者留言您认为该消息说了什么
-
-📅 2026-10-28T20:54:14.000Z
+📅 2026-10-29T16:28:10.000Z
 
 ---
 
-### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Reddit: r/artificial
+![Modders在Nvidia RTX 20、30和40系列GPU上解锁隐藏的AI功能，使一些基准几乎翻了一番](https://external-preview.redd.it/6tnva51n9odJlh4owQG7Vc3NPatsUAHgkojUgMJ0BbY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d7ed89f1cda3ef4442141f7cf795811a4e4e4b5e)
 
-Title: 520: Web服务器返回未知错误
+**[Modders在Nvidia RTX 20、30和40系列GPU上解锁隐藏的AI功能，使一些基准几乎翻了一番](https://www.reddit.com/r/artificial/comments/1xingp7/modders_unlock_hidden_ai_power_on_nvidia_rtx_20/)**
 
-📅 2026-10-29T02:08:16.801Z
+提交者/u/Resident-Fall4351 [link] [comments]
 
----
-
-### X: OpenAI
-**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-警告：目标URL返回错误520 ：未知
-
-📅 2026-10-29T02:08:16.801Z
+📅 2026-10-29T15:41:37.000Z
 
 ---
 
