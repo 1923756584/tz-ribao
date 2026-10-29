@@ -1,12 +1,12 @@
 ---
-title: "2026年10月28日 - TZ日报"
-date: 2026-10-28T20:08:25.234Z
+title: "2026年10月29日 - TZ日报"
+date: 2026-10-29T02:09:28.286Z
 draft: false
 ---
 
-# 2026年10月28日 - TZ日报
+# 2026年10月29日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/28 20:08:25
+> 📊 今日汇总 38 条 · 🕐 2026/10/29 02:09:28
 
 ---
 
@@ -21,6 +21,15 @@ draft: false
 ---
 
 ## ✨ 产品更新
+
+### OpenAI Blog
+**[OpenAI和ServiceNow扩展跨企业工作流程的合作伙伴关系](https://openai.com/index/openai-servicenow-partnership-expansion)**
+
+**OpenAI**和ServiceNow扩大合作伙伴关系，将**OpenAI**模型和代理引入ServiceNow和ServiceNow工作流程，并将其引入Chat**GPT**和Codex
+
+📅 Wed, 28 Oct 2026 13:15:00 GMT
+
+---
 
 ### OpenAI Blog
 **[Legora正在为法律工作构建代理操作系统](https://openai.com/index/legora)**
@@ -55,6 +64,15 @@ draft: false
 探索**OpenAI** Signals关于近100个国家/地区165项工作活动的数据，揭示人们如何使用Chat**GPT**进行工作以及使用情况如何随着时间的推移而变化
 
 📅 Mon, 26 Oct 2026 10:00:00 GMT
+
+---
+
+### TechCrunch AI Products
+**[微软从OpenAI获得了100亿美元的收入](https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/)**
+
+微软表示，它从与**OpenAI**的商业安排中获得了100亿美元的收入，其中包括收入分成付款
+
+📅 Wed, 28 Oct 2026 21:34:30 +0000
 
 ---
 
@@ -94,24 +112,6 @@ Greptile如何使用**GPT**-6 Astra测试用户工作流程， Daybreak如何加
 
 ---
 
-### OpenAI Blog
-**[GPT-6.1 SOL帮助CodeRabbit加强复杂代码库的安全性](https://openai.com/index/gpt-6-1-sol-coderabbit-code-security)**
-
-CodeRabbit使用**GPT**-61 SOL来调查复杂代码库中的安全风险
-
-📅 Mon, 26 Oct 2026 13:45:00 GMT
-
----
-
-### OpenAI Blog
-**[Fanatics和OpenAI如何简化粉丝体验](https://openai.com/index/fanatics-streamline-fan-experience)**
-
-Fanatics使用**OpenAI**帮助球迷完成比赛日服装，通过Shop the LookTesting在大约30,000个MLB产品中显示出高出10%的参与度
-
-📅 Mon, 26 Oct 2026 07:00:00 GMT
-
----
-
 ## 🔬 前沿研究
 
 ### ArXiv AI (cs.AI)
@@ -129,6 +129,15 @@ Fanatics使用**OpenAI**帮助球迷完成比赛日服装，通过Shop the LookT
 33024v1公告类型：新摘要：线索自我进化为LLM代理提供了一条实用的途径，可以在不**更新**模型参数的情况下从执行经验中进行改进跨越七个模型和三个基准，我们确定了103个任务技能对，其中技能提高了**GPT**-5
 
 📅 Wed, 28 Oct 2026 00:00:00 -0400
+
+---
+
+### Science AI
+**[人工智能破解了27年的计算机科学、OpenAI和人类学主张的支柱](https://www.science.org/content/article/ai-cracks-27-year-old-pillar-computer-science-openai-and-anthropic-claim)**
+
+其结果是**OpenAI**的三大主张之一，引发了有关共享人工智能生成工作的问题
+
+📅 2026-10-28T05:25:00.000Z
 
 ---
 
@@ -177,183 +186,138 @@ Fanatics使用**OpenAI**帮助球迷完成比赛日服装，通过Shop the LookT
 
 ---
 
-### ArXiv AI (cs.AI)
-**[三位一体：多式联运代理的能力驱动递归自我改进](https://arxiv.org/abs/2610.36077)**
-
-36077v1公告类型：新摘要：多模态智能可以被视为世界和智能体之间的人工引导协同进化，通过交互形成线束树，其经过验证的**更新**在固定拓扑内的迭代中累积
-
-📅 Wed, 28 Oct 2026 00:00:00 -0400
-
----
-
 ## 🌍 行业展望
 
 ### The Information Technology
-**[谷歌推出Gemini 4 Carbon ，这是其一个月内的第二个主要AI模型](https://www.theinformation.com/briefings/google-launches-gemini-4-carbon-second-major-ai-model-month)**
+![谷歌云接近Azure ，但微软赢得了投资者的一天](https://tii.imgix.net/article/pictures/newsletters-production/856df484-0602-4873-a57c-841cffca7e0c-sb09iM.jpg?auto=compress)
 
-该公司表示，它比不到一个月前**发布**的型号功能强大得多。近一年后，谷歌没有**发布**新的旗舰产品
+**[谷歌云接近Azure ，但微软赢得了投资者的一天](https://www.theinformation.com/articles/google-cloud-closes-azure-microsoft-wins-day-investors)**
 
-📅 2026-10-28T17:43:40.000Z
+这一强劲的增长使微软成为人工智能软件的第二大卖家，此前**OpenAI**Google**推出**了**Gemini** 4 Carbon ，这是该公司一个月内**发布**的第二款主要型号
+
+📅 2026-10-29T00:06:06.000Z
 
 ---
 
-### TechCrunch
-**[特朗普能源部向将为数据中心供电的核电站贷款$ 50亿](https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/)**
+### The Information Technology
+**[OpenAI的Astra模型成为中国人工智能实验室的首选蒸馏目标](https://www.theinformation.com/articles/openais-astra-model-becomes-top-distillation-target-chinas-ai-labs)**
 
-Constellation Energy将获得50亿美元的政府贷款，用于核反应堆的现代化大部分新产能已承诺用于谷歌、亚马逊和**Meta**
+**OpenAI**的**GPT**-6 Astra是该公司**发布**的**最强**大的模型，自9月初**发布**以来，尽管**OpenAI**和竞争对手**Anthropic**一再批评这种努力，但它仍然是中国开放式重量模型取得进展的最大贡献者之一。
 
-📅 Wed, 28 Oct 2026 15:53:21 +0000
+📅 2026-10-29T01:00:47.000Z
 
 ---
 
 ### The Verge
-![惊喜：谷歌Xreal眼镜首次亮相， Meta-beating $ 1,099](https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Aura_4_TAS_XR_-Nov-06-2025_113.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![谷歌推出Gemini 4 Carbon ，在网络安全方面实现“重大飞跃”](https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[惊喜：谷歌Xreal眼镜首次亮相， Meta-beating $ 1,099](https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date)**
+**[谷歌推出Gemini 4 Carbon ，在网络安全方面实现“重大飞跃”](https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier)**
 
-Xreal和谷歌刚刚宣布耳机的价格为1 $ ，这对谷歌和Xreal的新产品来说是一场激烈的竞争
+谷歌**发布**了其最新的前沿模型**Gemini** 4 Carbon ，在编码、代理任务和网络安全方面提供了“显着收益”新的**Gemini** 4 Carbon模型比谷歌本月早些时候**发布**的Argon提供了改进
 
-📅 2026-10-28T18:14:11.000Z
-
----
-
-### The Information Technology
-**[纽约证券交易所的Martin表示， Anthropic Listing阻止了IPO管道](https://www.theinformation.com/briefings/ipo-pipeline-held-back-anthropic-listing-says-nyses-martin)**
-
-纽约证券交易所集团总裁周三在The Information的WTF峰会上发言
-
-📅 2026-10-28T18:36:07.000Z
+📅 2026-10-28T20:03:00.000Z
 
 ---
 
 ### The Information Technology
-**[亚马逊对冲拥有2.5亿户外房源的人工智能购物代理](https://www.theinformation.com/articles/amazon-lists-250-million-products-rival-sites-effort-battle-agents)**
+**[微软收入增长略有加速，但数据中心抑制了现金流](https://www.theinformation.com/briefings/microsoft-revenue-growth-accelerates-slightly-data-centers-dampen-cash-flows)**
 
-现在，像**Meta**的Muse这样的人工智能助手的新浪潮正在提高，这可能使购物者更少有理由转向可以跨零售商购买的外部人工智能工具
+微软收入增长19%至92 $ Azure云部门的销售加速，部分原因是**OpenAI**的服务器租赁收入，抵消了其Xbox和
 
-📅 2026-10-28T13:00:46.000Z
+📅 2026-10-28T20:39:45.000Z
 
 ---
 
 ### Ars Technica
-**[当被问及谁赢得2020年大选时，谷歌人工智能变得谨慎](https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/)**
+**[谷歌宣布推出Gemini 4 Carbon ，这是其最新的前沿人工智能模型，您无法使用](https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/)**
 
-但当在美国境外被问及时，人工智能的回应变得更加直截了当。
+**Gemini** 4 Carbon本质上是氩气的略好版本。
 
-📅 Wed, 28 Oct 2026 17:46:32 +0000
-
----
-
-### ZDNet AI
-**[您的公开Discord消息可能很快就会出现在Google搜索结果中–如何退出](https://www.zdnet.com/tech/discord-servers-searchable-on-web/)**
-
-您的公开Discord消息可能很快就会出现在**Google**搜索结果中–如何退出
-
-📅 2026-10-28T18:56:53.000Z
+📅 Wed, 28 Oct 2026 18:47:27 +0000
 
 ---
 
-### ZDNet AI
-**[这些Claude Enterprise功能可让您跟踪AI ROI –新功能](https://www.zdnet.com/innovation/claude-enterprise-efficiency-cost-tracking/)**
+### The Information Technology
+**[Alphabet通过ATM计划售出$ 124亿股股票](https://www.theinformation.com/briefings/alphabet-sold-12-4-billion-shares-atm-program)**
 
-这些**Claude** Enterprise功能可让您跟踪AI ROI –新功能
+Alphabet周三表示，它以12 $的价格出售了谷歌母公司以4 $的价格发行了1200万股A类股票
 
-📅 2026-10-28T18:00:00.000Z
+📅 2026-10-28T22:11:13.000Z
+
+---
+
+### The Information Technology
+**[谷歌季度收入增长25%但低于预期](https://www.theinformation.com/briefings/google-quarterly-revenue-grows-25-falls-short-expectationsgoogles-cloud-sales-surged-latest-quarter-overall-revenue-parent-alphabet-grew-slower-than-expected-25-127-6-billion-disappointing-investors-operating-profit-rose-third-quarter-net-profit-declined-nearly-quarter-26-2-billion-well-analysts-estimates-according-s-p-capital-iq-alphabets-shares-fell-nearly-9-hours-trading-google-cloud-revenue-third-quarter-doubled-year-earlier-30-7-billion-powered-demand-ai-customers-company-said-wednesday-sales-tensor-processing-unit-ai-chips-meaningfully-contributed-growth-said-information-monday-reported-google-struck-deal-sell-tpus-openai-the-day-google-announced-deal-oracle-offer-ai-chips-last-quarter-google-chief-executive-sundar-pichai-said-google-expects-vast-majority-tpu-revenues-realized-2027-googles-services-business-its-largest-includes-core-search-advertising-operation-grew-less-11-quarter-slowest-rate-since-first-quarter-last-year-reflecting-googles-enormous-spending-ai-data-centers-company-reported-negative-free-cash-flow-9-billion-marked-second-straight-quarter-negative-cash-flow-big-increase-deficit-negative-5-9-billion-previous-quarter-earlier-today-google-released-latest-model-gemini-4-carbon-said-significantly-capable-previous-model-argon-released-less-month-ago)**
+
+谷歌的云销售额在最近一个季度激增，但母公司Alphabet的整体收入增长率低于预期25% ，达到1276亿美元，令投资者失望
+
+📅 2026-10-28T20:39:45.000Z
+
+---
+
+### MIT Tech Review
+**[下载： Anthropic的IPO、更智能的电网和运动药](https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/)**
+
+这是今天的“下载”版本，这是我们的工作日时事通讯，每天提供有关技术世界正在发生的事情的剂量真正的人类请站起来
+
+📅 Tue, 27 Oct 2026 12:10:00 +0000
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![spiceai ：将实时分析节点添加到您的运营数据库。SPICE是Rust中的一个便携式、加速的SQL查询、搜索和LLM推理引擎，适用于基于数据的人工智能应用程序和代理。](https://avatars.githubusercontent.com/u/73862742?v=4)
+![管道： Kubeflow的机器学习管道](https://avatars.githubusercontent.com/u/33164907?v=4)
 
-**[spiceai ：将实时分析节点添加到您的运营数据库。SPICE是Rust中的一个便携式、加速的SQL查询、搜索和LLM推理引擎，适用于基于数据的人工智能应用程序和代理。](https://github.com/spiceai/spiceai)**
+**[管道： Kubeflow的机器学习管道](https://github.com/kubeflow/pipelines)**
 
-⭐ 3,113星· 239分叉· Rust ·为您的运营数据库添加实时分析节点Spice是Rust中的一个便携式、加速的SQL查询、搜索和LLM推理引擎，适用于基于数据的人工智能应用程序和代理
+⭐ 4259星· 2170叉· Python · Kubeflow机器学习流水线
 
-📅 2026-10-28T20:07:10Z
+📅 2026-10-29T02:07:11Z
 
 ---
 
 ### GitHub Active (AI/ML)
-![paxeer-monorepo ： Paxeer X是用于支付、代码执行和意图路由的分布式超状态机。专为机器和操作它们的用户设计。](https://avatars.githubusercontent.com/u/315858149?v=4)
+![EvalAI:: cloud:: rocket:: bar_chart:: chart_with_upwards_trend:评估人工智能的最先进技术](https://avatars.githubusercontent.com/u/20895851?v=4)
 
-**[paxeer-monorepo ： Paxeer X是用于支付、代码执行和意图路由的分布式超状态机。专为机器和操作它们的用户设计。](https://github.com/Sidiora-Labs/paxeer-monorepo)**
+**[EvalAI:: cloud:: rocket:: bar_chart:: chart_with_upwards_trend:评估人工智能的最先进技术](https://github.com/Cloud-CV/EvalAI)**
 
-⭐ 544星· 83叉·围棋· Paxeer X是用于支付、代码执行和意图路由的分布式超状态机专为机器和操作它们的用户设计
+⭐ 2,047星· 984叉·蟒蛇·: cloud:: rocket:: bar_chart:: chart_with_upwards_trend:评估AI的先进水平
 
-📅 2026-10-28T20:04:42Z
-
----
-
-### GitHub New (New AI)
-![🆕 InterviewCopilot-rpocket-team ： EdTech应用程序旨在弥合学习与实现梦想工作之间的差距](https://avatars.githubusercontent.com/u/341170010?v=4)
-
-**[🆕 InterviewCopilot-rpocket-team ： EdTech应用程序旨在弥合学习与实现梦想工作之间的差距](https://github.com/OFat34764e/InterviewCopilot-rpocket-team)**
-
-⭐ 32 star (新项目) · N/A · EdTech application designed to bridge the gap between learning and landing your dream job
-
-📅 2026-10-26T07:19:34Z
+📅 2026-10-29T02:07:58Z
 
 ---
 
-### GitHub New (New AI)
-![注意力🆕 接触计划：实施基于注意力的联系计划，由苏黎世联邦理工学院的Junzhe He撰写](https://avatars.githubusercontent.com/u/108653?v=4)
+### GitHub Active (AI/ML)
+![gRASS ： GRASS -免费和开源的地理空间处理引擎](https://avatars.githubusercontent.com/u/1058467?v=4)
 
-**[注意力🆕 接触计划：实施基于注意力的联系计划，由苏黎世联邦理工学院的Junzhe He撰写](https://github.com/lucidrains/attention-contact-planning)**
+**[gRASS ： GRASS -免费和开源的地理空间处理引擎](https://github.com/OSGeo/grass)**
 
-⭐ 10 star (新项目) · Python · Implementation of Attention-based Contact Planning, by Junzhe He of ETH Zürich
+⭐ 1182星· 458叉· C ·草-免费**开源**的地理空间处理引擎
 
-📅 2026-10-25T17:54:41Z
+📅 2026-10-29T02:07:11Z
+
+---
+
+### GitHub Active (AI/ML)
+![识别： Nextcloud的👁 👂智能媒体标记：识别人脸、物体、风景、音乐流派](https://avatars.githubusercontent.com/u/19211038?v=4)
+
+**[识别： Nextcloud的👁 👂智能媒体标记：识别人脸、物体、风景、音乐流派](https://github.com/nextcloud/recognize)**
+
+⭐ 700星· 70叉· PHP · Nextcloud👁 👂智能媒体标记：识别人脸、物体、风景、音乐流派
+
+📅 2026-10-29T02:06:54Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-![人工智能奥德赛-第5部分“从阿西莫夫到银行”](https://preview.redd.it/rzy78livn7yh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b300f1cbde96ddb16024317653a6990c00fdb6e2)
+**[据报道， OpenAI计划收购谷歌的人工智能芯片（ TPU ） —竞争对手成为彼此的供应商](https://www.reddit.com/r/artificial/comments/1xhzycw/openai_reportedly_plans_to_buy_googles_ai_chips/)**
 
-**[人工智能奥德赛-第5部分“从阿西莫夫到银行”](https://www.reddit.com/r/artificial/comments/1xho8gf/ai_odyssey_part_5_from_asimov_to_banks/)**
+该报告是在上周有关**OpenAI**将通过**Google** Cloud提供其前沿模型的消息以及2025年6月路透社报道**OpenAI**已开始租用**Google**的TPU之后**发布**的。
 
-小型文化一旦我从能够与Chat**GPT**和**Claude**交谈的震惊中恢复过来，我下载了**Gemini** ， Grok和CopilotNapoleon （ Chat**GPT** ） ，没有任何不良影响，但**Claude**聊天遭受了灾难性的时间旅行
-
-📅 2026-10-28T13:34:51.000Z
-
----
-
-### Reddit: r/artificial
-**[为什么谷歌还没有收购OpenAI ？](https://www.reddit.com/r/artificial/comments/1xhjud6/why_hasnt_google_acquired_openai/)**
-
-鉴于谷歌庞大的资源、人工智能专业知识以及Chat**GPT**的战略**重要**性，谷歌为什么没有尝试收购/u/Icy-Visual1206提交的**OpenAI** [link] [comments]
-
-📅 2026-10-28T09:57:42.000Z
-
----
-
-### Hacker News
-**[Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)**
-
-文章网址： https://blog**Google**/innovation-and-ai/models-and-research/**Gemini**-models/introducing-**Gemini**-4-carbon/评论网址： https://**new**s
-
-📅 Wed, 28 Oct 2026 17:01:23 +0000
-
----
-
-### Hacker News
-**[Nvidia Nemotron 3.5转录：开放40种语言的ASR](https://huggingface.co/blog/nvidia/nemotron-transcribe-granary)**
-
-文章网址： https://huggingfaceco/blog/nvidia/nemotron-transcribe-granary评论网址： https://**new**s
-
-📅 Wed, 28 Oct 2026 15:17:53 +0000
-
----
-
-### Reddit: r/artificial
-**[人工智能代理已经自动化了我70%的工作，这太棒了](https://www.reddit.com/r/artificial/comments/1xhsttu/ai_agents_have_automated_like_70_of_my_job_and/)**
-
-当它出来时，我正在使用chat**GPT** ，从来没有那么令人印象深刻，所以我主要使用那里的代理工具，电脑，进行这项工作，然后仍然使用**Claude**进行任何编码或技术
-
-📅 2026-10-28T16:26:04.000Z
+📅 2026-10-28T20:42:44.000Z
 
 ---
 
@@ -362,7 +326,7 @@ Xreal和谷歌刚刚宣布耳机的价格为1 $ ，这对谷歌和Xreal的新产
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-10-28T20:07:03.702Z
+📅 2026-10-29T02:08:16.801Z
 
 ---
 
@@ -371,16 +335,54 @@ Xreal和谷歌刚刚宣布耳机的价格为1 $ ，这对谷歌和Xreal的新产
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-10-28T20:07:10.117Z
+📅 2026-10-29T02:08:23.020Z
+
+---
+
+### Hacker News
+**[首款由Android XR驱动的有线XR眼镜](https://blog.google/products-and-platforms/platforms/android/xreal-aura/)**
+
+文章网址： https://blog**Google**/products-and-platforms/platforms/android/xreal-aura/评论网址： https://**new**s
+
+📅 Wed, 28 Oct 2026 23:45:19 +0000
 
 ---
 
 ### Hacker News AI
-**[OpenAI不再在实时互联网上训练人工智能模型，理由是存在“重大风险”](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/)**
+**[谷歌人工智能搜索拒绝透露谁赢得了2020年大选](https://karlbode.com/google-ai-search-refuses-to-say-who-won-the-2020-election/)**
 
-文章网址： https://techcrunchcom/2026/10/23/**OpenAI**-says-it-will-no-longer-train-its-ai-models-on-the-live-internet citing-significant-risks/评论网址： https://**new**s
+文章网址： https://karlbodecom/**Google**-ai-search-refuses-to-say-who-won-the-2020-election/评论网址： https://**new**s
 
-📅 Wed, 28 Oct 2026 19:28:16 +0000
+📅 Wed, 28 Oct 2026 23:13:59 +0000
+
+---
+
+### Reddit: r/artificial
+![向其继任者聊天GPT的秘密消息](https://preview.redd.it/radt87h1u9yh1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e83e6eb111a56be38bc847ea822920480c4b1768)
+
+**[向其继任者聊天GPT的秘密消息](https://www.reddit.com/r/artificial/comments/1xi08x9/chat_gpts_secret_message_to_its_successor/)**
+
+没有发现聊天**GPT**4试图给其继任者留言您认为该消息说了什么
+
+📅 2026-10-28T20:54:14.000Z
+
+---
+
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Title: 520: Web服务器返回未知错误
+
+📅 2026-10-29T02:08:16.801Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误520 ：未知
+
+📅 2026-10-29T02:08:16.801Z
 
 ---
 
