@@ -1,12 +1,12 @@
 ---
-title: "2026年10月29日 - TZ日报"
-date: 2026-10-29T20:08:14.547Z
+title: "2026年10月30日 - TZ日报"
+date: 2026-10-30T02:28:40.538Z
 draft: false
 ---
 
-# 2026年10月29日 - TZ日报
+# 2026年10月30日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/29 20:08:14
+> 📊 今日汇总 38 条 · 🕐 2026/10/30 02:28:40
 
 ---
 
@@ -85,30 +85,30 @@ Ropes & Gray正在开发用于交易尽职调查的人工智能， **OpenAI**Law
 
 ---
 
-### OpenAI Blog
-**[Check Point如何利用Daybreak加速漏洞研究](https://openai.com/index/check-point-daybreak)**
-
-借助**OpenAI** DaybreakCheck Point ，加快了新安全保护背后的研究
-
-📅 Tue, 27 Oct 2026 00:00:00 GMT
-
----
-
-### OpenAI Blog
-**[Greptile使用GPT-6 Astra进行代码审查之外的错误检测](https://openai.com/index/greptile-code-review-codex-astra)**
-
-Greptile如何使用**GPT**-6 Astra测试用户工作流程， Daybreak如何加强安全性， Codex如何减少返工
-
-📅 Mon, 26 Oct 2026 22:00:00 GMT
-
----
-
 ### DeepMind Blog
 **[Gemini 4 Carbon ：我们的下一个前沿车型](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/)**
 
 **Gemini** 4 Carbon ：我们的下一个前沿车型
 
 📅 Wed, 28 Oct 2026 17:00:58 +0000
+
+---
+
+### Hugging Face
+**[NVIDIA Nemotron 3.5转录和粮仓v2 ：智能多语言转录，您可以提示和适应](https://huggingface.co/blog/nvidia/nemotron-transcribe-granary)**
+
+NVIDIA Nemotron 3.5转录和粮仓v2 ：智能多语言转录，您可以提示和适应
+
+📅 Wed, 28 Oct 2026 14:58:17 GMT
+
+---
+
+### TechCrunch AI Products
+**[OpenAI支持的Thrive Holdings收购ADT](https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/)**
+
+**OpenAI**支持的Thrive Holdings以1530亿美元收购ADT ，并计划将AI引入家庭安全业务
+
+📅 Thu, 29 Oct 2026 19:56:19 +0000
 
 ---
 
@@ -142,9 +142,9 @@ Greptile如何使用**GPT**-6 Astra测试用户工作流程， Daybreak如何加
 ---
 
 ### Science AI
-**[随着人工智能生成调查结果，作者身份和披露规则引起了新的审查](https://www.science.org/content/article/ai-generates-findings-authorship-and-disclosure-rules-draw-fresh-scrutiny)**
+**[那篇论文是谁写的？人工智能的使用引发了关于科学作者身份的争论](https://www.science.org/content/article/ai-generates-findings-authorship-and-disclosure-rules-draw-fresh-scrutiny)**
 
-有些人呼吁重新定义作者的要求
+管理机器撰写的论文的信用和责任的规则可能需要重新启动
 
 📅 2026-10-29T11:55:00.000Z
 
@@ -189,20 +189,22 @@ Greptile如何使用**GPT**-6 Astra测试用户工作流程， Daybreak如何加
 ## 🌍 行业展望
 
 ### The Information Technology
-**[解决人工智能的权力问题](https://www.theinformation.com/articles/solving-ais-power-problem)**
+![DoorDash和Thrive去购物](https://tii.imgix.net/article/pictures/newsletters-production/41cd1c2b-7a29-49d5-921f-3291c47f5987-2rgLys.jpg?auto=compress)
 
-长期以来，人工智能竞赛一直由公司支持GPU的速度来定义，因为公用事业公司警告多年等待新连接
+**[DoorDash和Thrive去购物](https://www.theinformation.com/articles/doordash-thrive-go-shopping)**
 
-📅 2026-10-29T16:43:44.000Z
+他们正在谈论并购，以帮助在这个新的人工智能领域重新定位推荐通讯用应用人工智能开始新的一天
+
+📅 2026-10-30T00:01:23.000Z
 
 ---
 
 ### The Information Technology
-**[围攻下的加密？ OpenAI ，人择反证密钥密码学定理](https://www.theinformation.com/articles/encryption-siege-openai-anthropic-disprove-key-cryptography-theorem)**
+**[英伟达将支持一家云提供商$ 450亿的人类项目](https://www.theinformation.com/articles/nvidia-talks-provide-billions-credit-support-cloud-providers-45-billion-anthropic-deal)**
 
-**OpenAI**和**Anthropic**周一都表示，他们的内部人工智能模型已经证明了指数时间假说，这将导致争先恐后地寻找新的方法来保护互联网上的信息安全。
+一个年轻的人工智能云提供商，拥有数十亿美元的债务信用担保，用于开发一个460兆瓦的数据中心， **Anthropic**计划使用
 
-📅 2026-10-29T14:01:06.000Z
+📅 2026-10-29T22:40:49.000Z
 
 ---
 
@@ -238,42 +240,44 @@ com % 2Fen-us % 2Fp % 2Fiphone-17e % 3Futm_source % 3Dchat**GPT**较新的型号
 ---
 
 ### The Information Technology
-**[据报道，英伟达首席执行官被疑似中国线人瞄准](https://www.theinformation.com/briefings/nvidia-ceo-reportedly-targeted-suspected-chinese-informant)**
+**[DeepSeek 160亿美元融资的背后：中国科技巨头和国有企业](https://www.theinformation.com/articles/behind-deepseeks-16-billion-funding-chinese-tech-titans-state-players)**
 
-据《纽约时报》报道，唐纳德·特朗普总统大约一年前听取了调查结果的简报，但没有采取行动，
+这家成立三年的公司是唯一一家在4月份**首次**融资之前避开外部资本的主要人工智能模型开发商新一轮融资包括以前的支持者-腾讯和电池制造商宁德时代仍然是**DeepSeek**的前两大投资者-但其他科技公司也包括显着的内存芯片制造商长信内存技术公司及其董事长朱一鸣
 
-📅 2026-10-29T16:17:14.000Z
-
----
-
-### The Information Technology
-**[Sebastian Thrun为人工智能工程初创公司Dulo筹集了1.3亿美元$](https://www.theinformation.com/articles/sebastian-thrun-raises-130-million-ai-engineering-startup-dulo)**
-
-在谷歌开创了几个人工智能项目的计算机科学家共同创立了一家新的创业公司，专注于为工程创建人工智能模型
-
-📅 2026-10-29T16:00:48.000Z
+📅 2026-10-30T01:08:40.000Z
 
 ---
 
 ### The Information Technology
-**[微软寻求在债券销售中筹集250亿美元](https://www.theinformation.com/briefings/microsoft-seeks-raise-25-billion-bond-sale)**
+![为什么私募股权的筹款鸿沟正在推动新人转向人工智能](https://tii.imgix.net/production/articles/18049/34e3fdba-2618-41d8-8821-ef5775a5cafa.png?auto=compress,format&amp;fit=crop&amp;w=560)
 
-微软希望在债券发行中筹集高达250亿美元的$ ，因为它正在寻找新的方法来为其在AIT上的持续支出提供资金。债务发行反映了数据中心运营商如何寻求新的方法来为其巨额资本提供资金
+**[为什么私募股权的筹款鸿沟正在推动新人转向人工智能](https://www.theinformation.com/articles/private-equitys-fundraising-divide-pushing-newcomers-toward-ai)**
 
-📅 2026-10-29T13:35:35.000Z
+他们谈论的是并购，以帮助在这个新的人工智能格局中重新定位自己， ”她说）来自我们记者的新闻独家Stripe的人工智能购物主管将卡片巨头放在边缘Yueqi Yang **Anthropic**的S-1外卖：从巨型计算承诺到复杂的锁定Valida Pau
+
+📅 2026-10-29T22:31:13.000Z
+
+---
+
+### MIT Tech Review
+**[下载： Anthropic的IPO、更智能的电网和运动药](https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/)**
+
+这是今天的“下载”版本，这是我们的工作日时事通讯，每天提供有关技术世界正在发生的事情的剂量真正的人类请站起来
+
+📅 Tue, 27 Oct 2026 12:10:00 +0000
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (Python)
-![pulumi ： Pulumi -任何编程语言中的基础架构即代码 🚀](https://avatars.githubusercontent.com/u/21992475?v=4)
+![frappe ： Python和Javascript中适用于真实世界应用程序的低代码Web框架](https://avatars.githubusercontent.com/u/836974?v=4)
 
-**[pulumi ： Pulumi -任何编程语言中的基础架构即代码 🚀](https://github.com/pulumi/pulumi)**
+**[frappe ： Python和Javascript中适用于真实世界应用程序的低代码Web框架](https://github.com/frappe/frappe)**
 
-⭐ 25,831星· 1470叉·围棋· Pulumi -任何编程语言的基础设施即代码 🚀
+⭐ 11,026星· 5489叉· Python ·适用于真实世界应用程序的低代码Web框架，使用Python和Javascript
 
-📅 2026-10-29T20:07:01Z
+📅 2026-10-30T02:27:31Z
 
 ---
 
@@ -282,42 +286,42 @@ com % 2Fen-us % 2Fp % 2Fiphone-17e % 3Futm_source % 3Dchat**GPT**较新的型号
 
 **[ComfyUI_frontend ： ComfyUI的官方前端实现](https://github.com/Comfy-Org/ComfyUI_frontend)**
 
-⭐ 2,104星· 758叉· TypeScript · ComfyUI的官方前端实现
+⭐ 2,105星· 758叉· TypeScript · ComfyUI官方前端实现
 
-📅 2026-10-29T20:07:02Z
+📅 2026-10-30T02:27:39Z
+
+---
+
+### GitHub Active (Python)
+![FAST_Sentence_Embeddings ：快速计算句子嵌入！](https://avatars.githubusercontent.com/u/26734737?v=4)
+
+**[FAST_Sentence_Embeddings ：快速计算句子嵌入！](https://github.com/oborchers/Fast_Sentence_Embeddings)**
+
+⭐ 626星· 83叉·蟒蛇·计算句子镶嵌速度快！
+
+📅 2026-10-30T02:27:24Z
 
 ---
 
 ### GitHub Active (AI/ML)
-![示例：使用Strands Agents SDK构建的代理示例。](https://avatars.githubusercontent.com/u/209155962?v=4)
+![machine-learning-interview-questions: Your Cheat Sheet for Machine Learning Interview – Questions and Answers.](https://avatars.githubusercontent.com/u/9877145?v=4)
 
-**[示例：使用Strands Agents SDK构建的代理示例。](https://github.com/strands-agents/samples)**
+**[machine-learning-interview-questions: Your Cheat Sheet for Machine Learning Interview – Questions and Answers.](https://github.com/amitshekhariitbhu/machine-learning-interview-questions)**
 
-⭐ 919星· 461叉·蟒蛇·使用Strands Agents SDK构建的代理样本。
+⭐ 452星· 81分叉· Markdown ·机器学习面试备忘单–问答
 
-📅 2026-10-29T20:06:17Z
-
----
-
-### GitHub Active (AI/ML)
-![best-of-jupyter ： 🏆 Jupyter笔记本、Hub和实验室项目（扩展、内核、工具）的排名列表。每周更新。](https://avatars.githubusercontent.com/u/45942048?v=4)
-
-**[best-of-jupyter ： 🏆 Jupyter笔记本、Hub和实验室项目（扩展、内核、工具）的排名列表。每周更新。](https://github.com/ml-tooling/best-of-jupyter)**
-
-⭐ 1248颗星· 95个分叉·不适用·优🏆秀的Jupyter笔记本、Hub和实验室项目（扩展、内核、工具）的排名列表每周**更新**
-
-📅 2026-10-29T20:05:24Z
+📅 2026-10-30T02:26:46Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[谷歌推出以网络安全为重点的前沿模型Gemini 4 Carbon ，经过审核的捍卫者首先获得它](https://www.reddit.com/r/artificial/comments/1xiuc3w/google_unveils_gemini_4_carbon_a/)**
+**[我用OpenAI的Codex用AI女性取代了我生活中的女性。甚至没有拖钓或点击诱饵！](https://www.reddit.com/r/artificial/comments/1xiyrig/ive_used_openais_codex_to_replace_women_in_my/)**
 
-谷歌于10月28日宣布**推出**Gemini 4 Carbon ，称其为**最强**大的**Gemini** 4时代模型，专为网络安全和长远工程工作而构建更有趣的部分是**推出**： Carbon首先通过谷歌的Fairwind计划向经过审查的网络防御者提供服务
+谷歌的Gemma 4本地AI模型，最后是带有一次性语音克隆功能的Resemblance AI的Chatterbox
 
-📅 2026-10-29T19:55:07.000Z
+📅 2026-10-29T22:48:16.000Z
 
 ---
 
@@ -326,7 +330,7 @@ com % 2Fen-us % 2Fp % 2Fiphone-17e % 3Futm_source % 3Dchat**GPT**较新的型号
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-10-29T20:06:55.256Z
+📅 2026-10-30T02:27:26.934Z
 
 ---
 
@@ -335,54 +339,54 @@ com % 2Fen-us % 2Fp % 2Fiphone-17e % 3Futm_source % 3Dchat**GPT**较新的型号
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-10-29T20:07:01.576Z
+📅 2026-10-30T02:27:33.135Z
 
 ---
 
-### Hacker News
-**[使用Claude启用的抗体设计治疗食物过敏的IgE干扰物[pdf]](https://divergencelabs.com/publications/ige-preprint.pdf)**
+### Hacker News AI
+**[谷歌工程师确信人工智能将摧毁人类，他已经停止为退休储蓄](https://finance.yahoo.com/technology/ai/articles/former-google-engineer-sure-ai-103000827.html)**
 
-文章网址： https://divergencelabspdf评论网址： https://**new**s
+com/technology/ai/articles/former-**Google**-engineer-sure-ai-103000827html评论网址： https://**new**s
 
-📅 Thu, 29 Oct 2026 19:25:48 +0000
-
----
-
-### Hacker News
-**[据称中国间谍与英伟达老板黄延森有“密切关系”](https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/)**
-
-com/2026/10/29/us/politics/nvidia-china-ph/K7bih评论网址： https://**new**s
-
-📅 Thu, 29 Oct 2026 17:43:48 +0000
+📅 Fri, 30 Oct 2026 01:56:00 +0000
 
 ---
 
-### Hacker News
-**[谷歌搜索现在还不到Alphabet收入的一半](https://www.kadoa.com/companies/insights/google-search-below-half)**
+### Hacker News AI
+**[人工智能数据中心说明–从电力到ChatGPT [视频]](https://www.youtube.com/watch?v=ckoi0RTEgcY)**
 
-文章网址： https://wwwcom/companies/insights/**Google**-search-below-half评论网址： https://**new**s
+文章网址： https://wwwv = ckoi0RTEgcY评论网址： https://**new**s
 
-📅 Thu, 29 Oct 2026 16:42:17 +0000
+📅 Fri, 30 Oct 2026 01:15:43 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[Anthropic又被黑了？](https://www.reddit.com/r/artificial/comments/1xioqvo/anthropic_got_hacked_again/)**
+**[财务顾问和注册会计师将做什么？](https://www.reddit.com/r/artificial/comments/1xj0uux/what_are_financial_advisors_and_cpas_going_to_do/)**
 
-虽然这个消息是矛盾的**Anthropic**说这是几天
+克劳德比整个办公室的人每年偷走你投资组合的1%准备得更好。这些工作都是煮熟的
 
-📅 2026-10-29T16:28:10.000Z
+📅 2026-10-30T00:17:54.000Z
 
 ---
 
 ### Reddit: r/artificial
-![Modders在Nvidia RTX 20、30和40系列GPU上解锁隐藏的AI功能，使一些基准几乎翻了一番](https://external-preview.redd.it/6tnva51n9odJlh4owQG7Vc3NPatsUAHgkojUgMJ0BbY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d7ed89f1cda3ef4442141f7cf795811a4e4e4b5e)
+![31岁女性在ChatGPT建议后减少癫痫药物治疗：报告将病例与她的死亡联系起来](https://external-preview.redd.it/CFdimIHdPxZwZzSHix_R9iZWEEDoRzgGrDB5PnKxNS4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=be245a1cb050498172813e55da752e183fb8dc49)
 
-**[Modders在Nvidia RTX 20、30和40系列GPU上解锁隐藏的AI功能，使一些基准几乎翻了一番](https://www.reddit.com/r/artificial/comments/1xingp7/modders_unlock_hidden_ai_power_on_nvidia_rtx_20/)**
+**[31岁女性在ChatGPT建议后减少癫痫药物治疗：报告将病例与她的死亡联系起来](https://www.reddit.com/r/artificial/comments/1xiwxih/31yearold_woman_reduced_epilepsy_medication_after/)**
 
-提交者/u/Resident-Fall4351 [link] [comments]
+提交者/u/beingmodest [link] [comments]
 
-📅 2026-10-29T15:41:37.000Z
+📅 2026-10-29T21:33:48.000Z
+
+---
+
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Title: 520: Web服务器返回未知错误
+
+📅 2026-10-30T02:27:26.934Z
 
 ---
 
