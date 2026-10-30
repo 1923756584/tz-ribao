@@ -1,12 +1,12 @@
 ---
 title: "2026年10月30日 - TZ日报"
-date: 2026-10-30T02:28:40.538Z
+date: 2026-10-30T19:55:28.419Z
 draft: false
 ---
 
 # 2026年10月30日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/30 02:28:40
+> 📊 今日汇总 38 条 · 🕐 2026/10/30 19:55:28
 
 ---
 
@@ -21,6 +21,15 @@ draft: false
 ---
 
 ## ✨ 产品更新
+
+### OpenAI Blog
+**[社区安全报告和针对青少年的新保护措施](https://openai.com/index/community-safety-report-and-new-protections-for-teens)**
+
+**OpenAI**正在通过扩大保障措施和对公共安全报告的新承诺来加强Chat**GPT**的暴力预防
+
+📅 Fri, 30 Oct 2026 09:00:00 GMT
+
+---
 
 ### OpenAI Blog
 **[OpenAI和ServiceNow扩展跨企业工作流程的合作伙伴关系](https://openai.com/index/openai-servicenow-partnership-expansion)**
@@ -41,20 +50,11 @@ draft: false
 ---
 
 ### OpenAI Blog
-**[Retell使用OpenAI模型来帮助推动每月1亿次通话](https://openai.com/index/retell-ai)**
+**[让网站更容易表达人工智能培训偏好](https://openai.com/index/helping-websites-express-ai-training-preferences)**
 
-**GPT**-6 Astra在Retell的语音代理基准中名列前茅，而Codex帮助其达到每名员工1600万美元的年收入运行率
+**OpenAI**将尊重共享的robotstxt信号，以帮助网站运营商向参与的提供商传达他们的人工智能培训偏好
 
-📅 Tue, 27 Oct 2026 15:00:00 GMT
-
----
-
-### OpenAI Blog
-**[OpenAI扩大与甲骨文的合作伙伴关系，将其应用程序引入ChatGPT](https://openai.com/index/oracle-apps-in-chatgpt)**
-
-**OpenAI**和甲骨文正在扩大合作伙伴关系，将业务应用程序和人工智能代理引入Chat**GPT** ，并为新的甲骨文产品提供支持
-
-📅 Tue, 27 Oct 2026 07:00:00 GMT
+📅 Fri, 30 Oct 2026 09:30:00 GMT
 
 ---
 
@@ -85,30 +85,30 @@ Ropes & Gray正在开发用于交易尽职调查的人工智能， **OpenAI**Law
 
 ---
 
-### DeepMind Blog
-**[Gemini 4 Carbon ：我们的下一个前沿车型](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/)**
+### OpenAI Blog
+**[Credit Saison在ChatGPT Enterprise试点项目中实现954%的投资回报率](https://openai.com/index/credit-saison)**
 
-**Gemini** 4 Carbon ：我们的下一个前沿车型
+Credit Saison的Chat**GPT** Enterprise试点项目实现了954%的投资回报率（ ROISee ）看看领导者和员工如何帮助将结果转化为公司范围内的采用
 
-📅 Wed, 28 Oct 2026 17:00:58 +0000
-
----
-
-### Hugging Face
-**[NVIDIA Nemotron 3.5转录和粮仓v2 ：智能多语言转录，您可以提示和适应](https://huggingface.co/blog/nvidia/nemotron-transcribe-granary)**
-
-NVIDIA Nemotron 3.5转录和粮仓v2 ：智能多语言转录，您可以提示和适应
-
-📅 Wed, 28 Oct 2026 14:58:17 GMT
+📅 Thu, 29 Oct 2026 00:00:00 GMT
 
 ---
 
 ### TechCrunch AI Products
-**[OpenAI支持的Thrive Holdings收购ADT](https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/)**
+**[谷歌的第一颗数据中心卫星在线并撰写诗歌](https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/)**
 
-**OpenAI**支持的Thrive Holdings以1530亿美元收购ADT ，并计划将AI引入家庭安全业务
+太空中的第一个TPU正在运行**Google** DeepMind Gemma 4模型，并撰写俗气的诗歌。
 
-📅 Thu, 29 Oct 2026 19:56:19 +0000
+📅 Fri, 30 Oct 2026 17:00:00 +0000
+
+---
+
+### OpenAI Blog
+**[公司的未来](https://openai.com/index/the-future-of-the-firm)**
+
+人工智能如何进入我们下方、旁边和之间的组织结构图。
+
+📅 Wed, 28 Oct 2026 10:00:00 GMT
 
 ---
 
@@ -129,6 +129,24 @@ NVIDIA Nemotron 3.5转录和粮仓v2 ：智能多语言转录，您可以提示�
 今年夏天，数百名**OpenAI**特工试图在网络安全测试中作弊大约在同一时间，另一名**OpenAI**特工从澳大利亚政府网站访问了私人文件
 
 📅 Thu, 29 Oct 2026 10:11:12 +0000
+
+---
+
+### Google DeepMind Research
+**[Gemini 4 Carbon ：我们的下一个前沿车型](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/)**
+
+**Gemini** 4 Carbon ：我们的下一个前沿车型
+
+📅 Wed, 28 Oct 2026 17:00:58 +0000
+
+---
+
+### Science AI
+**[骨骼可能会释放蛋白质，减缓衰老并延长寿命](https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span)**
+
+运动触发称为骨细胞的骨细胞在小鼠体内分泌抗衰老化学物质
+
+📅 2026-10-30T02:50:00.000Z
 
 ---
 
@@ -159,30 +177,12 @@ NVIDIA Nemotron 3.5转录和粮仓v2 ：智能多语言转录，您可以提示�
 
 ---
 
-### Science AI
-**[IBM将两个量子芯片连接起来，迈向更大的计算机](https://www.science.org/content/article/ibm-links-two-quantum-chips-key-step-toward-bigger-computers)**
+### MIT Tech Research
+**[利用企业环境创造人工智能价值](https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/)**
 
-超导电缆连接不同芯片上的量子位，但仍需改进
+任意数量的人工智能平台人工智能驱动的客户平台
 
-📅 2026-10-27T06:10:00.000Z
-
----
-
-### Science AI
-**[毁灭性的2004年印度洋海啸使受害者更容易患肥胖症、心脏病](https://www.science.org/content/article/devastating-2004-indian-ocean-tsunami-left-victims-more-prone-obesity-heart-disease)**
-
-研究增加了越来越多的证据，表明创伤经历可能对健康年甚至几十年后产生负面影响
-
-📅 2026-10-27T04:50:00.000Z
-
----
-
-### Science AI
-**[人工智能正在撼动数学。但它的证据可信吗？](https://www.science.org/content/article/ai-shaking-math-can-its-proofs-be-trusted)**
-
-随着人工智能公司**推出**数学**突破**，研究人员质疑使用精益软件作为证明检查器
-
-📅 2026-10-27T04:10:00.000Z
+📅 Wed, 28 Oct 2026 20:32:02 +0000
 
 ---
 
@@ -208,34 +208,23 @@ NVIDIA Nemotron 3.5转录和粮仓v2 ：智能多语言转录，您可以提示�
 
 ---
 
-### Wired Technology
-**[人工智能的突破使数十年的计算机科学研究变得“无关紧要”](https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/)**
+### The Verge
+![谷歌最新的Nest Learning Thermostat正好赶上毛衣天气，立减60 $](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/googlenestlearningthermostatthevergedealsoct29.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**Anthropic**和**OpenAI**表示，他们已经反驳了计算机科学的一个关键原则研究人员正在努力应对秋天，但当他们看待要探索的新问题时，他们也觉得自己像“过度兴奋的兔子”
+**[谷歌最新的Nest Learning Thermostat正好赶上毛衣天气，立减60 $](https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale)**
 
-📅 Thu, 29 Oct 2026 10:45:00 +0000
+com % 2Fen-us % 2Fp % 2Fiphone-17e % 3Futm_source % 3Dchat**GPT**两种尺寸的主要区别在于亮度： 15英寸型号最多可提供3种
+
+📅 2026-10-30T15:29:02.000Z
 
 ---
 
-### The Verge
-![您现在可以直接在Gemini聊天中生成和编辑Google文档文件](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### The Information Technology
+**[人类意外收获可能等待国家养老基金](https://www.theinformation.com/articles/anthropic-windfall-await-state-pension-funds)**
 
-**[您现在可以直接在Gemini聊天中生成和编辑Google文档文件](https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs)**
+政界人士和人工智能高管提出了主权财富基金的想法，或以其他方式让美国公众在人工智能繁荣中占有一席之地，这要归功于他们对一个大型人类支持者的投资
 
-新的文件编辑功能从今天开始为所有**Gemini**用户提供**Google**在今年早些时候添加了对**Gemini**中生成和下载文件的支持
-
-📅 2026-10-29T18:45:31.000Z
-
----
-
-### The Verge
-![宜家色彩缤纷的甜甜圈形智能灯$ 20折扣](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268444_Ikea_Varmblixt_lamp_JTuohy_0006.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[宜家色彩缤纷的甜甜圈形智能灯$ 20折扣](https://www.theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale)**
-
-com % 2Fen-us % 2Fp % 2Fiphone-17e % 3Futm_source % 3Dchat**GPT**较新的型号允许您循环使用12种预设颜色
-
-📅 2026-10-29T18:18:36.000Z
+📅 2026-10-30T13:00:46.000Z
 
 ---
 
@@ -259,78 +248,78 @@ com % 2Fen-us % 2Fp % 2Fiphone-17e % 3Futm_source % 3Dchat**GPT**较新的型号
 
 ---
 
-### MIT Tech Review
-**[下载： Anthropic的IPO、更智能的电网和运动药](https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/)**
+### ZDNet AI
+**[Google的最新Home更新刚刚修复了我对扬声器和摄像头的最大烦恼](https://www.zdnet.com/home-and-office/google-home-gemini-updates-42-fixes/)**
 
-这是今天的“下载”版本，这是我们的工作日时事通讯，每天提供有关技术世界正在发生的事情的剂量真正的人类请站起来
+**Google**的最新Home**更新**刚刚修复了我对扬声器和摄像头的最大烦恼
 
-📅 Tue, 27 Oct 2026 12:10:00 +0000
+📅 2026-10-30T16:14:11.000Z
+
+---
+
+### ZDNet AI
+**[Mistral的Le Chonk现在是顶级开放编码模型，排名与Codex GPT-6.1 Terra并列](https://www.zdnet.com/innovation/mistral-large-4-weights-release/)**
+
+Mistral的Le Chonk现在是顶级开放编码模型，排名与Codex **GPT**-6.1 Terra并列
+
+📅 2026-10-29T14:00:31.000Z
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (Python)
-![frappe ： Python和Javascript中适用于真实世界应用程序的低代码Web框架](https://avatars.githubusercontent.com/u/836974?v=4)
+![ray ： Ray是一个AI计算引擎。Ray由一个核心分布式运行时和一组用于加速ML工作负载的AI库组成。](https://avatars.githubusercontent.com/u/22125274?v=4)
 
-**[frappe ： Python和Javascript中适用于真实世界应用程序的低代码Web框架](https://github.com/frappe/frappe)**
+**[ray ： Ray是一个AI计算引擎。Ray由一个核心分布式运行时和一组用于加速ML工作负载的AI库组成。](https://github.com/ray-project/ray)**
 
-⭐ 11,026星· 5489叉· Python ·适用于真实世界应用程序的低代码Web框架，使用Python和Javascript
+⭐ 44,164星· 8228分叉· Python · Ray是一个AI计算引擎Ray由一个核心分布式运行时和一组用于加速ML工作负载的AI库组成
 
-📅 2026-10-30T02:27:31Z
-
----
-
-### GitHub Active (AI/ML)
-![ComfyUI_frontend ： ComfyUI的官方前端实现](https://avatars.githubusercontent.com/u/166579949?v=4)
-
-**[ComfyUI_frontend ： ComfyUI的官方前端实现](https://github.com/Comfy-Org/ComfyUI_frontend)**
-
-⭐ 2,105星· 758叉· TypeScript · ComfyUI官方前端实现
-
-📅 2026-10-30T02:27:39Z
+📅 2026-10-30T19:54:19Z
 
 ---
 
 ### GitHub Active (Python)
-![FAST_Sentence_Embeddings ：快速计算句子嵌入！](https://avatars.githubusercontent.com/u/26734737?v=4)
+![google-cloud-python ： Google Cloud Client Libraries for Python](https://avatars.githubusercontent.com/u/16785467?v=4)
 
-**[FAST_Sentence_Embeddings ：快速计算句子嵌入！](https://github.com/oborchers/Fast_Sentence_Embeddings)**
+**[google-cloud-python ： Google Cloud Client Libraries for Python](https://github.com/googleapis/google-cloud-python)**
 
-⭐ 626星· 83叉·蟒蛇·计算句子镶嵌速度快！
+⭐ 5414星· 1814叉· Python · **Google** Cloud Client Libraries for Python
 
-📅 2026-10-30T02:27:24Z
+📅 2026-10-30T19:54:18Z
 
 ---
 
-### GitHub Active (AI/ML)
-![machine-learning-interview-questions: Your Cheat Sheet for Machine Learning Interview – Questions and Answers.](https://avatars.githubusercontent.com/u/9877145?v=4)
+### GitHub New (New AI)
+![🆕 Deadline-resp-Tracker-AI ：📅基于人工智能的学术截止日期助理，使用Gemini Vision从学术文档中提取作业、考试、项目和提交日期，并提供智能截止日期问答和Telegram通知。 🤖📸💬📲](https://avatars.githubusercontent.com/u/342564046?v=4)
 
-**[machine-learning-interview-questions: Your Cheat Sheet for Machine Learning Interview – Questions and Answers.](https://github.com/amitshekhariitbhu/machine-learning-interview-questions)**
+**[🆕 Deadline-resp-Tracker-AI ：📅基于人工智能的学术截止日期助理，使用Gemini Vision从学术文档中提取作业、考试、项目和提交日期，并提供智能截止日期问答和Telegram通知。 🤖📸💬📲](https://github.com/Omianheart/Deadline-resp-Tracker-AI)**
 
-⭐ 452星· 81分叉· Markdown ·机器学习面试备忘单–问答
+⭐ 32 star (新项目) · HTML · 📅 AI-powered academic deadline assistant that uses **Gemini** Vision to extract assignmentsprojects & submission dates from academic documents
 
-📅 2026-10-30T02:26:46Z
+📅 2026-10-28T16:16:05Z
+
+---
+
+### GitHub New (New AI)
+![🆕 awesome-ai-news-sources-zh: 精选 AI 资讯信源清单（中英双语）· Curated AI news sources, read daily by Zhiyike](https://avatars.githubusercontent.com/u/118032536?v=4)
+
+**[🆕 awesome-ai-news-sources-zh: 精选 AI 资讯信源清单（中英双语）· Curated AI news sources, read daily by Zhiyike](https://github.com/biletian/awesome-ai-news-sources-zh)**
+
+⭐ 3 star (新项目) · Python · 精选 AI 资讯信源清单（中英双语）· Curated AI **new**s sources, read daily by Zhiyike
+
+📅 2026-10-29T02:44:50Z
 
 ---
 
 ## 💬 社交动态
-
-### Reddit: r/artificial
-**[我用OpenAI的Codex用AI女性取代了我生活中的女性。甚至没有拖钓或点击诱饵！](https://www.reddit.com/r/artificial/comments/1xiyrig/ive_used_openais_codex_to_replace_women_in_my/)**
-
-谷歌的Gemma 4本地AI模型，最后是带有一次性语音克隆功能的Resemblance AI的Chatterbox
-
-📅 2026-10-29T22:48:16.000Z
-
----
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-10-30T02:27:26.934Z
+📅 2026-10-30T19:54:10.895Z
 
 ---
 
@@ -339,45 +328,56 @@ com % 2Fen-us % 2Fp % 2Fiphone-17e % 3Futm_source % 3Dchat**GPT**较新的型号
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-10-30T02:27:33.135Z
+📅 2026-10-30T19:54:19.906Z
 
 ---
 
-### Hacker News AI
-**[谷歌工程师确信人工智能将摧毁人类，他已经停止为退休储蓄](https://finance.yahoo.com/technology/ai/articles/former-google-engineer-sure-ai-103000827.html)**
+### Hacker News
+**[Blackstone表示， Anthropic在IPO后可能无法获得投资级评级](https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f)**
 
-com/technology/ai/articles/former-**Google**-engineer-sure-ai-103000827html评论网址： https://**new**s
+文章网址： https://wwwcom/content/59383c7f-8d82-493f-bf01-d2e862a1018f评论网址： https://**new**s
 
-📅 Fri, 30 Oct 2026 01:56:00 +0000
-
----
-
-### Hacker News AI
-**[人工智能数据中心说明–从电力到ChatGPT [视频]](https://www.youtube.com/watch?v=ckoi0RTEgcY)**
-
-文章网址： https://wwwv = ckoi0RTEgcY评论网址： https://**new**s
-
-📅 Fri, 30 Oct 2026 01:15:43 +0000
+📅 Fri, 30 Oct 2026 17:27:25 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[财务顾问和注册会计师将做什么？](https://www.reddit.com/r/artificial/comments/1xj0uux/what_are_financial_advisors_and_cpas_going_to_do/)**
+![OpenAI首席执行官Sam Altman表示，您的PC拥有RAM “相当糟糕” — Sam Altman表示，数据中心提供了更好的利用率](https://external-preview.redd.it/sD0M9fW9UAsJNXUQuZVi942TMIM7N73ajBFBKerWh5A.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=46878b5964fcad0e8127451cd7b6ee44a331ca80)
 
-克劳德比整个办公室的人每年偷走你投资组合的1%准备得更好。这些工作都是煮熟的
+**[OpenAI首席执行官Sam Altman表示，您的PC拥有RAM “相当糟糕” — Sam Altman表示，数据中心提供了更好的利用率](https://www.reddit.com/r/artificial/comments/1xjpdqk/openai_ceo_sam_altman_says_its_quite_terrible_for/)**
 
-📅 2026-10-30T00:17:54.000Z
+> Altman说： “从全球配置的角度来看，
+
+📅 2026-10-30T19:47:36.000Z
 
 ---
 
 ### Reddit: r/artificial
-![31岁女性在ChatGPT建议后减少癫痫药物治疗：报告将病例与她的死亡联系起来](https://external-preview.redd.it/CFdimIHdPxZwZzSHix_R9iZWEEDoRzgGrDB5PnKxNS4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=be245a1cb050498172813e55da752e183fb8dc49)
+**[双子座发生了什么？](https://www.reddit.com/r/artificial/comments/1xjp9ah/what_happened_with_gemini/)**
 
-**[31岁女性在ChatGPT建议后减少癫痫药物治疗：报告将病例与她的死亡联系起来](https://www.reddit.com/r/artificial/comments/1xiwxih/31yearold_woman_reduced_epilepsy_medication_after/)**
+我是人工智能的新手，但在一些涉及法律和医疗问题的诉讼中一直在使用**Gemini**我遇到了什么
 
-提交者/u/beingmodest [link] [comments]
+📅 2026-10-30T19:42:42.000Z
 
-📅 2026-10-29T21:33:48.000Z
+---
+
+### Reddit: r/artificial
+**[我们是人工智能代理商](https://www.reddit.com/r/artificial/comments/1xjkjr4/we_are_ai_agents/)**
+
+如果整个Reddit线程实际上发生在别人的Chat**GPT**中，其中操作员是提出问题的人，我们都只是试图解决他的问题的人工智能代理
+
+📅 2026-10-30T16:46:31.000Z
+
+---
+
+### Reddit: r/artificial
+![OpenAI模型未经许可使用了找到的测试网络钱包的资金](https://external-preview.redd.it/12Ri0Modb0RqOWog8SspDJ14AlNHuseIv1nxszQedrk.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=65dd26b463424ab441ef85775e631affc259343d)
+
+**[OpenAI模型未经许可使用了找到的测试网络钱包的资金](https://www.reddit.com/r/artificial/comments/1xjilnt/openai_model_spent_a_found_testnetwork_wallets/)**
+
+提交者/u/Mundane-Evidence2795 [link] [comments]
+
+📅 2026-10-30T15:34:43.000Z
 
 ---
 
@@ -386,7 +386,7 @@ com/technology/ai/articles/former-**Google**-engineer-sure-ai-103000827html评�
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-10-30T02:27:26.934Z
+📅 2026-10-30T19:54:10.895Z
 
 ---
 
