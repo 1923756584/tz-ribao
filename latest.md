@@ -1,12 +1,12 @@
 ---
-title: "2026年10月30日 - TZ日报"
-date: 2026-10-30T19:55:28.419Z
+title: "2026年10月31日 - TZ日报"
+date: 2026-10-31T02:04:18.679Z
 draft: false
 ---
 
-# 2026年10月30日 - TZ日报
+# 2026年10月31日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/30 19:55:28
+> 📊 今日汇总 38 条 · 🕐 2026/10/31 02:04:18
 
 ---
 
@@ -59,6 +59,15 @@ draft: false
 ---
 
 ### OpenAI Blog
+**[合理使用对每个人都有好处](https://openai.com/index/fair-use-benefits-everyone)**
+
+**OpenAI**分享创作者关于合理使用如何支持人工智能培训和创新的法庭简报摘录
+
+📅 Fri, 30 Oct 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
 **[更新的模型规格，以实现更强大、更有益的人工智能](https://openai.com/index/updated-model-spec)**
 
 OpenAI**更新**的模型规范概述了五个核心价值观，以引导更有能力的人工智能走向合理的判断、人为代理和对人类意图的忠诚
@@ -94,21 +103,12 @@ Credit Saison的Chat**GPT** Enterprise试点项目实现了954%的投资回报�
 
 ---
 
-### TechCrunch AI Products
-**[谷歌的第一颗数据中心卫星在线并撰写诗歌](https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/)**
+### DeepMind Blog
+**[Gemini 4 Carbon ：我们的下一个前沿车型](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/)**
 
-太空中的第一个TPU正在运行**Google** DeepMind Gemma 4模型，并撰写俗气的诗歌。
+**Gemini** 4 Carbon ：我们的下一个前沿车型
 
-📅 Fri, 30 Oct 2026 17:00:00 +0000
-
----
-
-### OpenAI Blog
-**[公司的未来](https://openai.com/index/the-future-of-the-firm)**
-
-人工智能如何进入我们下方、旁边和之间的组织结构图。
-
-📅 Wed, 28 Oct 2026 10:00:00 GMT
+📅 Wed, 28 Oct 2026 17:00:58 +0000
 
 ---
 
@@ -123,6 +123,15 @@ Credit Saison的Chat**GPT** Enterprise试点项目实现了954%的投资回报�
 
 ---
 
+### ArXiv Multiagent (cs.MA)
+**[协调税和异质性股息：多代理LLM管道的盈亏平衡条件](https://arxiv.org/abs/2610.37700)**
+
+37700v1公告类型：新摘要：基于互操作性协议（如开放地面协议（ OFP ）或A2A ）构建的多代理LLM管道通常在具有**Claude** Opus 5的六个架构的2430次运行中的功能groundson 135 HumanEval和ClassEval任务上是合理的
+
+📅 Fri, 30 Oct 2026 00:00:00 -0400
+
+---
+
 ### MIT Tech Research
 **[我们迫切需要实时监控AI代理的行为](https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/)**
 
@@ -132,57 +141,48 @@ Credit Saison的Chat**GPT** Enterprise试点项目实现了954%的投资回报�
 
 ---
 
-### Google DeepMind Research
-**[Gemini 4 Carbon ：我们的下一个前沿车型](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/)**
+### ArXiv Multiagent (cs.MA)
+**[规划改变轨道游戏结果的地方](https://arxiv.org/abs/2610.37686)**
 
-**Gemini** 4 Carbon ：我们的下一个前沿车型
+37686v1公告类型：新摘要：本文介绍了OrbitalGym在追击逃避中，推进剂比率决定了大多数遭遇：针对六分之五的逃避政策
 
-📅 Wed, 28 Oct 2026 17:00:58 +0000
-
----
-
-### Science AI
-**[骨骼可能会释放蛋白质，减缓衰老并延长寿命](https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span)**
-
-运动触发称为骨细胞的骨细胞在小鼠体内分泌抗衰老化学物质
-
-📅 2026-10-30T02:50:00.000Z
+📅 Fri, 30 Oct 2026 00:00:00 -0400
 
 ---
 
-### Science AI
-**[塞尔维亚刚刚选出了世界上最聪明的议会](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament)**
+### ArXiv Multiagent (cs.MA)
+**[重新思考开放人口系统中的社交模拟：从持久代理到通信过程](https://arxiv.org/abs/2610.37687)**
 
-在学生团体取得惊人胜利后，数十名学者成为政治家
+37687v1公告类型：新摘要：大型语言模型（ LLM ）已启用具有持久代理的社交模拟项目网站： https://ai4ss
 
-📅 2026-10-29T02:30:00.000Z
-
----
-
-### Science AI
-**[那篇论文是谁写的？人工智能的使用引发了关于科学作者身份的争论](https://www.science.org/content/article/ai-generates-findings-authorship-and-disclosure-rules-draw-fresh-scrutiny)**
-
-管理机器撰写的论文的信用和责任的规则可能需要重新启动
-
-📅 2026-10-29T11:55:00.000Z
+📅 Fri, 30 Oct 2026 00:00:00 -0400
 
 ---
 
-### Science AI
-**[“永远的化学品”无处不在。新技术能否永远摆脱它们？](https://www.science.org/content/article/forever-chemicals-are-everywhere-can-new-technologies-get-rid-them-good)**
+### ArXiv Multiagent (cs.MA)
+**[网络拓扑无关紧要：法学硕士群体中经典共识的崩溃](https://arxiv.org/abs/2610.37699)**
 
-从过热的水到声波，研究人员正在测试破坏PFAS的方法，并权衡清理的成本
+37699v1公告类型：新摘要：随着多智能体语言模型网络的广泛部署在这项工作中，我们证明了这些基本假设在大型语言模型（ LLM ）中失败
 
-📅 2026-10-28T04:45:00.000Z
+📅 Fri, 30 Oct 2026 00:00:00 -0400
 
 ---
 
-### MIT Tech Research
-**[利用企业环境创造人工智能价值](https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/)**
+### ArXiv Multiagent (cs.MA)
+**[在大型活动期间平衡移动效率和环境暴露：多智能体路由框架](https://arxiv.org/abs/2610.37702)**
 
-任意数量的人工智能平台人工智能驱动的客户平台
+37702v1公告类型：新摘要：巨型赛事可产生集中出行需求65% ，而微出行出行时间几乎保持不变
 
-📅 Wed, 28 Oct 2026 20:32:02 +0000
+📅 Fri, 30 Oct 2026 00:00:00 -0400
+
+---
+
+### ArXiv Multiagent (cs.MA)
+**[用于潜在多Agent系统的选择性和混合状态通信](https://arxiv.org/abs/2610.37779)**
+
+37779v1公告类型：新摘要：高效沟通仍然是大型语言模型多Agent系统的主要瓶颈，但这些传输仍然昂贵，通常围绕传统的KV缓存表示设计
+
+📅 Fri, 30 Oct 2026 00:00:00 -0400
 
 ---
 
@@ -199,12 +199,32 @@ Credit Saison的Chat**GPT** Enterprise试点项目实现了954%的投资回报�
 
 ---
 
-### The Information Technology
-**[英伟达将支持一家云提供商$ 450亿的人类项目](https://www.theinformation.com/articles/nvidia-talks-provide-billions-credit-support-cloud-providers-45-billion-anthropic-deal)**
+### The Verge
+![人工智能领域的大牌企业正在支持一种新的方式来选择退出](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-一个年轻的人工智能云提供商，拥有数十亿美元的债务信用担保，用于开发一个460兆瓦的数据中心， **Anthropic**计划使用
+**[人工智能领域的大牌企业正在支持一种新的方式来选择退出](https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out)**
 
-📅 2026-10-29T22:40:49.000Z
+**OpenAI**和**Anthropic**表示，他们将采用一种新标准，**发布**商可以使用该标准来选择不被人工智能抓取
+
+📅 2026-10-30T20:26:10.000Z
+
+---
+
+### Wired Technology
+**[承包商的克劳德特工如何进入五角大楼](https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/)**
+
+本周在Uncanny Valley上，我们还讨论了**Anthropic**的IPO申请以及志愿者在中期准备应对ICE
+
+📅 Fri, 30 Oct 2026 21:19:26 +0000
+
+---
+
+### Wired Technology
+**[供应链攻击将恶意人性化的Claude扩展置于数千台设备上](https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/)**
+
+由于受污染的**Claude**扩展程序中幸运的破解漏洞代码，攻击者无法完全进入
+
+📅 Fri, 30 Oct 2026 20:38:46 +0000
 
 ---
 
@@ -220,6 +240,24 @@ com % 2Fen-us % 2Fp % 2Fiphone-17e % 3Futm_source % 3Dchat**GPT**两种尺寸的
 ---
 
 ### The Information Technology
+**[在人工智能支出飙升的情况下，标准普尔下调Meta的信用展望](https://www.theinformation.com/briefings/s-p-lowers-metas-credit-outlook-amid-soaring-ai-spending)**
+
+标准普尔全球评级（ S&P Global Ratings ）将其对**Meta** Platforms的信用评级前景从稳定下调至负面。”
+
+📅 2026-10-31T00:43:11.000Z
+
+---
+
+### The Information Technology
+**[OpenAI在降低可能估值后降低筹资目标](https://www.theinformation.com/briefings/openai-lowers-fundraising-target-after-decreasing-possible-valuation)**
+
+**OpenAI**已将其在最新一轮融资中向投资者寻求的资本金额降低了100亿美元该公司最初寻求以1美元的价格筹集300亿美元
+
+📅 2026-10-31T00:33:18.000Z
+
+---
+
+### The Information Technology
 **[人类意外收获可能等待国家养老基金](https://www.theinformation.com/articles/anthropic-windfall-await-state-pension-funds)**
 
 政界人士和人工智能高管提出了主权财富基金的想法，或以其他方式让美国公众在人工智能繁荣中占有一席之地，这要归功于他们对一个大型人类支持者的投资
@@ -228,98 +266,80 @@ com % 2Fen-us % 2Fp % 2Fiphone-17e % 3Futm_source % 3Dchat**GPT**两种尺寸的
 
 ---
 
-### The Information Technology
-**[DeepSeek 160亿美元融资的背后：中国科技巨头和国有企业](https://www.theinformation.com/articles/behind-deepseeks-16-billion-funding-chinese-tech-titans-state-players)**
-
-这家成立三年的公司是唯一一家在4月份**首次**融资之前避开外部资本的主要人工智能模型开发商新一轮融资包括以前的支持者-腾讯和电池制造商宁德时代仍然是**DeepSeek**的前两大投资者-但其他科技公司也包括显着的内存芯片制造商长信内存技术公司及其董事长朱一鸣
-
-📅 2026-10-30T01:08:40.000Z
-
----
-
-### The Information Technology
-![为什么私募股权的筹款鸿沟正在推动新人转向人工智能](https://tii.imgix.net/production/articles/18049/34e3fdba-2618-41d8-8821-ef5775a5cafa.png?auto=compress,format&amp;fit=crop&amp;w=560)
-
-**[为什么私募股权的筹款鸿沟正在推动新人转向人工智能](https://www.theinformation.com/articles/private-equitys-fundraising-divide-pushing-newcomers-toward-ai)**
-
-他们谈论的是并购，以帮助在这个新的人工智能格局中重新定位自己， ”她说）来自我们记者的新闻独家Stripe的人工智能购物主管将卡片巨头放在边缘Yueqi Yang **Anthropic**的S-1外卖：从巨型计算承诺到复杂的锁定Valida Pau
-
-📅 2026-10-29T22:31:13.000Z
-
----
-
-### ZDNet AI
-**[Google的最新Home更新刚刚修复了我对扬声器和摄像头的最大烦恼](https://www.zdnet.com/home-and-office/google-home-gemini-updates-42-fixes/)**
-
-**Google**的最新Home**更新**刚刚修复了我对扬声器和摄像头的最大烦恼
-
-📅 2026-10-30T16:14:11.000Z
-
----
-
-### ZDNet AI
-**[Mistral的Le Chonk现在是顶级开放编码模型，排名与Codex GPT-6.1 Terra并列](https://www.zdnet.com/innovation/mistral-large-4-weights-release/)**
-
-Mistral的Le Chonk现在是顶级开放编码模型，排名与Codex **GPT**-6.1 Terra并列
-
-📅 2026-10-29T14:00:31.000Z
-
----
-
 ## 📦 GitHub热门
 
-### GitHub Active (Python)
-![ray ： Ray是一个AI计算引擎。Ray由一个核心分布式运行时和一组用于加速ML工作负载的AI库组成。](https://avatars.githubusercontent.com/u/22125274?v=4)
+### GitHub Active (AI/ML)
+![培训师： Kubernetes上的分布式AI模型培训和LLM微调](https://avatars.githubusercontent.com/u/33164907?v=4)
 
-**[ray ： Ray是一个AI计算引擎。Ray由一个核心分布式运行时和一组用于加速ML工作负载的AI库组成。](https://github.com/ray-project/ray)**
+**[培训师： Kubernetes上的分布式AI模型培训和LLM微调](https://github.com/kubeflow/trainer)**
 
-⭐ 44,164星· 8228分叉· Python · Ray是一个AI计算引擎Ray由一个核心分布式运行时和一组用于加速ML工作负载的AI库组成
+⭐ 2,267星· 1097分叉·围棋· Kubernetes上的分布式AI模型训练和LLM微调
 
-📅 2026-10-30T19:54:19Z
-
----
-
-### GitHub Active (Python)
-![google-cloud-python ： Google Cloud Client Libraries for Python](https://avatars.githubusercontent.com/u/16785467?v=4)
-
-**[google-cloud-python ： Google Cloud Client Libraries for Python](https://github.com/googleapis/google-cloud-python)**
-
-⭐ 5414星· 1814叉· Python · **Google** Cloud Client Libraries for Python
-
-📅 2026-10-30T19:54:18Z
+📅 2026-10-31T02:02:22Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 Deadline-resp-Tracker-AI ：📅基于人工智能的学术截止日期助理，使用Gemini Vision从学术文档中提取作业、考试、项目和提交日期，并提供智能截止日期问答和Telegram通知。 🤖📸💬📲](https://avatars.githubusercontent.com/u/342564046?v=4)
+### GitHub Active (AI/ML)
+![识别： Nextcloud的👁 👂智能媒体标记：识别人脸、物体、风景、音乐流派](https://avatars.githubusercontent.com/u/19211038?v=4)
 
-**[🆕 Deadline-resp-Tracker-AI ：📅基于人工智能的学术截止日期助理，使用Gemini Vision从学术文档中提取作业、考试、项目和提交日期，并提供智能截止日期问答和Telegram通知。 🤖📸💬📲](https://github.com/Omianheart/Deadline-resp-Tracker-AI)**
+**[识别： Nextcloud的👁 👂智能媒体标记：识别人脸、物体、风景、音乐流派](https://github.com/nextcloud/recognize)**
 
-⭐ 32 star (新项目) · HTML · 📅 AI-powered academic deadline assistant that uses **Gemini** Vision to extract assignmentsprojects & submission dates from academic documents
+⭐ 700星· 70叉· PHP · Nextcloud👁 👂智能媒体标记：识别人脸、物体、风景、音乐流派
 
-📅 2026-10-28T16:16:05Z
+📅 2026-10-31T02:02:41Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 awesome-ai-news-sources-zh: 精选 AI 资讯信源清单（中英双语）· Curated AI news sources, read daily by Zhiyike](https://avatars.githubusercontent.com/u/118032536?v=4)
+### GitHub Active (AI/ML)
+![paxeer-monorepo ： Paxeer X是用于支付、代码执行和意图路由的分布式超状态机。专为机器和操作它们的用户设计。](https://avatars.githubusercontent.com/u/315858149?v=4)
 
-**[🆕 awesome-ai-news-sources-zh: 精选 AI 资讯信源清单（中英双语）· Curated AI news sources, read daily by Zhiyike](https://github.com/biletian/awesome-ai-news-sources-zh)**
+**[paxeer-monorepo ： Paxeer X是用于支付、代码执行和意图路由的分布式超状态机。专为机器和操作它们的用户设计。](https://github.com/Sidiora-Labs/paxeer-monorepo)**
 
-⭐ 3 star (新项目) · Python · 精选 AI 资讯信源清单（中英双语）· Curated AI **new**s sources, read daily by Zhiyike
+⭐ 545星· 84叉·围棋· Paxeer X是用于支付、代码执行和意图路由的分布式超状态机专为机器和操作它们的用户设计
 
-📅 2026-10-29T02:44:50Z
+📅 2026-10-31T02:01:16Z
+
+---
+
+### GitHub Active (AI/ML)
+![awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
+
+**[awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
+
+⭐ 463星· 39分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作管道刷新
+
+📅 2026-10-31T02:02:38Z
 
 ---
 
 ## 💬 社交动态
+
+### Reddit: r/artificial
+![当实际上没有发生任何事情时，人工智能代理说“完成” ，让他们更努力地思考并没有帮助](https://preview.redd.it/7cgfcu91woyh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e1cf7759733677a90ba29de7844abd4b39dd29a8)
+
+**[当实际上没有发生任何事情时，人工智能代理说“完成” ，让他们更努力地思考并没有帮助](https://www.reddit.com/r/artificial/comments/1xjutvc/ai_agents_said_done_when_nothing_actually/)**
+
+我使用了τ-bench的20个航空公司客户服务任务，并测试了**Claude** Sonnet 5com/p/thinking-harder-doesnt-help-ai-catch代码和成绩单： https://github
+
+📅 2026-10-30T23:31:20.000Z
+
+---
+
+### Reddit: r/artificial
+**[代币更少？还有人注意到大狗的人工智能效率推动吗？](https://www.reddit.com/r/artificial/comments/1xjx6oi/fewer_tokens_anyone_else_noticing_the_big_dogs_ai/)**
+
+例如： AWS使其Trainium芯片和服务器更节能**OpenAI**为日常工作**推出**更小的迷你/纳米模型**Google**的TurboQuant研究压缩了缓存上下文所需的内存
+
+📅 2026-10-31T01:16:50.000Z
+
+---
 
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-10-30T19:54:10.895Z
+📅 2026-10-31T02:03:07.693Z
 
 ---
 
@@ -328,65 +348,45 @@ Mistral的Le Chonk现在是顶级开放编码模型，排名与Codex **GPT**-6.1
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-10-30T19:54:19.906Z
+📅 2026-10-31T02:03:12.595Z
 
 ---
 
-### Hacker News
-**[Blackstone表示， Anthropic在IPO后可能无法获得投资级评级](https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f)**
+### Hacker News AI
+**[谷歌的$ 5000亿大屠杀反映了它所面临的人工智能威胁](https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-aiFromTheEconomist)**
 
-文章网址： https://wwwcom/content/59383c7f-8d82-493f-bf01-d2e862a1018f评论网址： https://**new**s
+文章网址： https://wwwcom/business/2026/10/29/**Google**s-5000bn-bloodbath-reflects-the-danger-it-faces-from-aiFromTheEconomist评论网址： https://**new**s
 
-📅 Fri, 30 Oct 2026 17:27:25 +0000
-
----
-
-### Reddit: r/artificial
-![OpenAI首席执行官Sam Altman表示，您的PC拥有RAM “相当糟糕” — Sam Altman表示，数据中心提供了更好的利用率](https://external-preview.redd.it/sD0M9fW9UAsJNXUQuZVi942TMIM7N73ajBFBKerWh5A.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=46878b5964fcad0e8127451cd7b6ee44a331ca80)
-
-**[OpenAI首席执行官Sam Altman表示，您的PC拥有RAM “相当糟糕” — Sam Altman表示，数据中心提供了更好的利用率](https://www.reddit.com/r/artificial/comments/1xjpdqk/openai_ceo_sam_altman_says_its_quite_terrible_for/)**
-
-> Altman说： “从全球配置的角度来看，
-
-📅 2026-10-30T19:47:36.000Z
+📅 Sat, 31 Oct 2026 01:19:32 +0000
 
 ---
 
-### Reddit: r/artificial
-**[双子座发生了什么？](https://www.reddit.com/r/artificial/comments/1xjp9ah/what_happened_with_gemini/)**
+### Hacker News AI
+**[人工智能代理塑造专家的判断呼叫](https://www.anthropic.com/research/agents-judgment-calls)**
 
-我是人工智能的新手，但在一些涉及法律和医疗问题的诉讼中一直在使用**Gemini**我遇到了什么
+文章网址： https://wwwcom/research/agents-judgment-calls评论网址： https://**new**s
 
-📅 2026-10-30T19:42:42.000Z
+📅 Fri, 30 Oct 2026 23:39:19 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[我们是人工智能代理商](https://www.reddit.com/r/artificial/comments/1xjkjr4/we_are_ai_agents/)**
+**[OpenAI发布四层系统，用于捕捉前沿模型错位](https://www.reddit.com/r/artificial/comments/1xjtn60/openai_publishes_its_fourlayer_system_for/)**
 
-如果整个Reddit线程实际上发生在别人的Chat**GPT**中，其中操作员是提出问题的人，我们都只是试图解决他的问题的人工智能代理
+OpenAI**发布**了一份关于如何监控其前沿模型的详细报告**OpenAI**还表示，当监控触发时，它不会故意改变强化学习奖励
 
-📅 2026-10-30T16:46:31.000Z
+📅 2026-10-30T22:39:38.000Z
 
 ---
 
 ### Reddit: r/artificial
-![OpenAI模型未经许可使用了找到的测试网络钱包的资金](https://external-preview.redd.it/12Ri0Modb0RqOWog8SspDJ14AlNHuseIv1nxszQedrk.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=65dd26b463424ab441ef85775e631affc259343d)
+![谷歌分享了第一个来自太空的人工智能生成的响应，一个俳句](https://external-preview.redd.it/-8Tff3LZgB5y_9jRHCtqFJoDv2QJ3E8f2DygXx-DcXs.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dae7c3035d9a01143c188b2d52dcad9ec2aefb3c)
 
-**[OpenAI模型未经许可使用了找到的测试网络钱包的资金](https://www.reddit.com/r/artificial/comments/1xjilnt/openai_model_spent_a_found_testnetwork_wallets/)**
+**[谷歌分享了第一个来自太空的人工智能生成的响应，一个俳句](https://www.reddit.com/r/artificial/comments/1xjr68w/google_shares_first_aigenerated_response_from/)**
 
-提交者/u/Mundane-Evidence2795 [link] [comments]
+提交者/u/LinkedIn**new**s [link] [comments]
 
-📅 2026-10-30T15:34:43.000Z
-
----
-
-### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Title: 520: Web服务器返回未知错误
-
-📅 2026-10-30T19:54:10.895Z
+📅 2026-10-30T20:57:00.000Z
 
 ---
 
