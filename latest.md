@@ -1,12 +1,12 @@
 ---
 title: "2026年10月31日 - TZ日报"
-date: 2026-10-31T02:04:18.679Z
+date: 2026-10-31T19:09:52.715Z
 draft: false
 ---
 
 # 2026年10月31日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/31 02:04:18
+> 📊 今日汇总 38 条 · 🕐 2026/10/31 19:09:52
 
 ---
 
@@ -28,24 +28,6 @@ draft: false
 **OpenAI**正在通过扩大保障措施和对公共安全报告的新承诺来加强Chat**GPT**的暴力预防
 
 📅 Fri, 30 Oct 2026 09:00:00 GMT
-
----
-
-### OpenAI Blog
-**[OpenAI和ServiceNow扩展跨企业工作流程的合作伙伴关系](https://openai.com/index/openai-servicenow-partnership-expansion)**
-
-**OpenAI**和ServiceNow扩大合作伙伴关系，将**OpenAI**模型和代理引入ServiceNow和ServiceNow工作流程，并将其引入Chat**GPT**和Codex
-
-📅 Wed, 28 Oct 2026 13:15:00 GMT
-
----
-
-### OpenAI Blog
-**[Legora正在为法律工作构建代理操作系统](https://openai.com/index/legora)**
-
-了解Legora如何使用**OpenAI**模型聊天**GPT**
-
-📅 Wed, 28 Oct 2026 09:30:00 GMT
 
 ---
 
@@ -103,32 +85,41 @@ Credit Saison的Chat**GPT** Enterprise试点项目实现了954%的投资回报�
 
 ---
 
-### DeepMind Blog
-**[Gemini 4 Carbon ：我们的下一个前沿车型](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/)**
+### TechCrunch AI Products
+**[据报道， OpenAI降低了新一轮融资目标](https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/)**
 
-**Gemini** 4 Carbon ：我们的下一个前沿车型
+**OpenAI**的最新一轮融资似乎没有达到预期。
 
-📅 Wed, 28 Oct 2026 17:00:58 +0000
+📅 Sat, 31 Oct 2026 16:12:55 +0000
+
+---
+
+### TechCrunch AI Products
+**[英伟达将为Nscale位于西弗吉尼亚州的人工智能数据中心配音](https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/)**
+
+当投资者对人工智能支出感到紧张时，让出售芯片的芯片制造商提出共同签署贷款会有所帮助
+
+📅 Sat, 31 Oct 2026 01:20:05 +0000
+
+---
+
+### TechCrunch AI Products
+**[英国《金融时报》报告称， Anthropic预计将在IPO后获得信贷机构的高“垃圾”评级](https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/)**
+
+Blackstone的预测只是一个预测，即高垃圾评级将使**Anthropic**更难以筹集资金，以继续为其作为其业务基础的巨额支出提供资金
+
+📅 Fri, 30 Oct 2026 21:52:03 +0000
 
 ---
 
 ## 🔬 前沿研究
 
-### Science AI
-**[人工智能破解了27年的计算机科学、OpenAI和人类学主张的支柱](https://www.science.org/content/article/ai-cracks-27-year-old-pillar-computer-science-openai-and-anthropic-claim)**
+### ArXiv AI (cs.AI)
+**[OpenFrontiers ：开放研究问题集合和科学再发现的基准](https://arxiv.org/abs/2610.37739)**
 
-其结果是**OpenAI**的三大主张之一，引发了有关共享人工智能生成工作的问题
+37739v1公告类型：新摘要：大型语言模型（ LLM ）在研究级问题解决方面表现出越来越大的前景，在研究级问题上评估它们仍然具有挑战性
 
-📅 2026-10-28T05:25:00.000Z
-
----
-
-### ArXiv Multiagent (cs.MA)
-**[协调税和异质性股息：多代理LLM管道的盈亏平衡条件](https://arxiv.org/abs/2610.37700)**
-
-37700v1公告类型：新摘要：基于互操作性协议（如开放地面协议（ OFP ）或A2A ）构建的多代理LLM管道通常在具有**Claude** Opus 5的六个架构的2430次运行中的功能groundson 135 HumanEval和ClassEval任务上是合理的
-
-📅 Fri, 30 Oct 2026 00:00:00 -0400
+📅 Sat, 31 Oct 2026 00:00:00 -0400
 
 ---
 
@@ -141,101 +132,79 @@ Credit Saison的Chat**GPT** Enterprise试点项目实现了954%的投资回报�
 
 ---
 
-### ArXiv Multiagent (cs.MA)
-**[规划改变轨道游戏结果的地方](https://arxiv.org/abs/2610.37686)**
+### ArXiv AI (cs.AI)
+**[LRMoE ：针对内存受限节点的高效MoE培训的需求侧负载重新校准](https://arxiv.org/abs/2610.37720)**
 
-37686v1公告类型：新摘要：本文介绍了OrbitalGym在追击逃避中，推进剂比率决定了大多数遭遇：针对六分之五的逃避政策
+37720v1公告类型：新摘要：稀疏混合专家（ MoE ）模型为Web应用程序提供可扩展的容量5-106B-A12B表明， LRMoE将固定损失目标的累积MoE层训练时间减少了21
 
-📅 Fri, 30 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Multiagent (cs.MA)
-**[重新思考开放人口系统中的社交模拟：从持久代理到通信过程](https://arxiv.org/abs/2610.37687)**
-
-37687v1公告类型：新摘要：大型语言模型（ LLM ）已启用具有持久代理的社交模拟项目网站： https://ai4ss
-
-📅 Fri, 30 Oct 2026 00:00:00 -0400
+📅 Sat, 31 Oct 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Multiagent (cs.MA)
-**[网络拓扑无关紧要：法学硕士群体中经典共识的崩溃](https://arxiv.org/abs/2610.37699)**
+### ArXiv AI (cs.AI)
+**[应用于海洋湍流封闭的模型校准的摊销局部后验推理](https://arxiv.org/abs/2610.37731)**
 
-37699v1公告类型：新摘要：随着多智能体语言模型网络的广泛部署在这项工作中，我们证明了这些基本假设在大型语言模型（ LLM ）中失败
+37731v1公告类型：新摘要：模型差异可能会阻止单个校准参数在整个上下文域中重现物理响应高斯定位权重通过协方差膨胀合并上下文不确定性
 
-📅 Fri, 30 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv Multiagent (cs.MA)
-**[在大型活动期间平衡移动效率和环境暴露：多智能体路由框架](https://arxiv.org/abs/2610.37702)**
-
-37702v1公告类型：新摘要：巨型赛事可产生集中出行需求65% ，而微出行出行时间几乎保持不变
-
-📅 Fri, 30 Oct 2026 00:00:00 -0400
+📅 Sat, 31 Oct 2026 00:00:00 -0400
 
 ---
 
-### ArXiv Multiagent (cs.MA)
-**[用于潜在多Agent系统的选择性和混合状态通信](https://arxiv.org/abs/2610.37779)**
+### ArXiv AI (cs.AI)
+**[ThinkJev ：校准型决策的一个想法，每一个预算](https://arxiv.org/abs/2610.37732)**
 
-37779v1公告类型：新摘要：高效沟通仍然是大型语言模型多Agent系统的主要瓶颈，但这些传输仍然昂贵，通常围绕传统的KV缓存表示设计
+37732v1公告类型：新摘要：语言模型的许多用途以类型化决策结束：从一组封闭的选项中进行选择代码和数据生成器可在https://github上找到
 
-📅 Fri, 30 Oct 2026 00:00:00 -0400
+📅 Sat, 31 Oct 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[WebAnything ：从Wild Web到可扩展的代理环境](https://arxiv.org/abs/2610.37786)**
+
+37786v1公告类型：新建摘要： Web代理需要多样化代码： https://github
+
+📅 Sat, 31 Oct 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[本体会捕捉到什么？策划、LLM生成和数据派生的本体作为LLM代理在知识图谱上的检查器](https://arxiv.org/abs/2610.37809)**
+
+37809v1公告类型：新摘要：通过Web知识图回答问题的LLM代理越来越多地包含在从图的本体LLM生成和数据派生的本体派生的检查中
+
+📅 Sat, 31 Oct 2026 00:00:00 -0400
+
+---
+
+### ArXiv AI (cs.AI)
+**[在Agentic智能合约合成中测量意图丢失的地方](https://arxiv.org/abs/2610.37830)**
+
+37830v1公告类型：新摘要： AI代理现在可以从简单的英语描述编写软件这是智能合约合成中第一个在生成前收集缺失需求并根据独立编写的可执行模型检查结果的研究
+
+📅 Sat, 31 Oct 2026 00:00:00 -0400
 
 ---
 
 ## 🌍 行业展望
 
 ### The Information Technology
-![DoorDash和Thrive去购物](https://tii.imgix.net/article/pictures/newsletters-production/41cd1c2b-7a29-49d5-921f-3291c47f5987-2rgLys.jpg?auto=compress)
+![亿万富翁税收可能失败-目前](https://tii.imgix.net/article/pictures/newsletters-production/af363998-48ea-44e0-85fa-7cb6f90780cb-k8kx6d.avif?auto=compress)
 
-**[DoorDash和Thrive去购物](https://www.theinformation.com/articles/doordash-thrive-go-shopping)**
+**[亿万富翁税收可能失败-目前](https://www.theinformation.com/articles/billionaire-tax-might-fail-for-now)**
 
-他们正在谈论并购，以帮助在这个新的人工智能领域重新定位推荐通讯用应用人工智能开始新的一天
+周二是亿万富翁税务判决日加文·纽森（ Gavin **new**som ）也表示他反对第40号提案
 
-📅 2026-10-30T00:01:23.000Z
-
----
-
-### The Verge
-![人工智能领域的大牌企业正在支持一种新的方式来选择退出](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[人工智能领域的大牌企业正在支持一种新的方式来选择退出](https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out)**
-
-**OpenAI**和**Anthropic**表示，他们将采用一种新标准，**发布**商可以使用该标准来选择不被人工智能抓取
-
-📅 2026-10-30T20:26:10.000Z
+📅 2026-10-31T15:01:29.000Z
 
 ---
 
-### Wired Technology
-**[承包商的克劳德特工如何进入五角大楼](https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/)**
+### The Information Technology
+**[Meta与中国初创公司合作打造人形原型，推动机器人技术发展](https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push)**
 
-本周在Uncanny Valley上，我们还讨论了**Anthropic**的IPO申请以及志愿者在中期准备应对ICE
+目标是帮助**Meta**在其机器人部门开发一款更加精致的未来产品，该产品最终可以作为未设定**发布**目标的产品**发布**
 
-📅 Fri, 30 Oct 2026 21:19:26 +0000
-
----
-
-### Wired Technology
-**[供应链攻击将恶意人性化的Claude扩展置于数千台设备上](https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/)**
-
-由于受污染的**Claude**扩展程序中幸运的破解漏洞代码，攻击者无法完全进入
-
-📅 Fri, 30 Oct 2026 20:38:46 +0000
-
----
-
-### The Verge
-![谷歌最新的Nest Learning Thermostat正好赶上毛衣天气，立减60 $](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/googlenestlearningthermostatthevergedealsoct29.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[谷歌最新的Nest Learning Thermostat正好赶上毛衣天气，立减60 $](https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale)**
-
-com % 2Fen-us % 2Fp % 2Fiphone-17e % 3Futm_source % 3Dchat**GPT**两种尺寸的主要区别在于亮度： 15英寸型号最多可提供3种
-
-📅 2026-10-30T15:29:02.000Z
+📅 2026-10-31T16:00:40.000Z
 
 ---
 
@@ -266,71 +235,98 @@ com % 2Fen-us % 2Fp % 2Fiphone-17e % 3Futm_source % 3Dchat**GPT**两种尺寸的
 
 ---
 
+### The Information Technology
+**[DeepSeek 160亿美元融资的背后：中国科技巨头和国有企业](https://www.theinformation.com/articles/behind-deepseeks-16-billion-funding-chinese-tech-titans-state-players)**
+
+这家成立三年的公司是唯一一家在4月份**首次**融资之前避开外部资本的主要人工智能模型开发商新一轮融资包括以前的支持者-腾讯和电池制造商宁德时代仍然是**DeepSeek**的前两大投资者-但其他科技公司也包括显着的内存芯片制造商长信内存技术公司及其董事长朱一鸣
+
+📅 2026-10-30T01:08:40.000Z
+
+---
+
+### Wired Technology
+**[Meta的Muse可能会颠覆各种业务。还没有](https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/)**
+
+过去几周，公司一直试图向投资者保证， Muse和其他人工智能代理带来的机会多于威胁
+
+📅 Sat, 31 Oct 2026 10:30:00 +0000
+
+---
+
+### Ars Technica
+**[Cursor后门上的Anthropic VS代码扩展近12小时](https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/)**
+
+目前尚不清楚攻击者是如何访问**Anthropic**已验证的Cursor帐户的。
+
+📅 Fri, 30 Oct 2026 21:09:54 +0000
+
+---
+
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![培训师： Kubernetes上的分布式AI模型培训和LLM微调](https://avatars.githubusercontent.com/u/33164907?v=4)
+![sahi ：框架不可知切片/平铺推理+交互式UI +错误分析图](https://avatars.githubusercontent.com/u/63360722?v=4)
 
-**[培训师： Kubernetes上的分布式AI模型培训和LLM微调](https://github.com/kubeflow/trainer)**
+**[sahi ：框架不可知切片/平铺推理+交互式UI +错误分析图](https://github.com/obss/sahi)**
 
-⭐ 2,267星· 1097分叉·围棋· Kubernetes上的分布式AI模型训练和LLM微调
+⭐ 5575星· 793叉· Python ·框架不可知切片/平铺推理+交互式UI +错误分析图
 
-📅 2026-10-31T02:02:22Z
-
----
-
-### GitHub Active (AI/ML)
-![识别： Nextcloud的👁 👂智能媒体标记：识别人脸、物体、风景、音乐流派](https://avatars.githubusercontent.com/u/19211038?v=4)
-
-**[识别： Nextcloud的👁 👂智能媒体标记：识别人脸、物体、风景、音乐流派](https://github.com/nextcloud/recognize)**
-
-⭐ 700星· 70叉· PHP · Nextcloud👁 👂智能媒体标记：识别人脸、物体、风景、音乐流派
-
-📅 2026-10-31T02:02:41Z
+📅 2026-10-31T19:07:28Z
 
 ---
 
-### GitHub Active (AI/ML)
-![paxeer-monorepo ： Paxeer X是用于支付、代码执行和意图路由的分布式超状态机。专为机器和操作它们的用户设计。](https://avatars.githubusercontent.com/u/315858149?v=4)
+### GitHub New (New AI)
+![🆕 Deadline-resp-Tracker-AI ：📅基于人工智能的学术截止日期助理，使用Gemini Vision从学术文档中提取作业、考试、项目和提交日期，并提供智能截止日期问答和Telegram通知。 🤖📸💬📲](https://avatars.githubusercontent.com/u/342564046?v=4)
 
-**[paxeer-monorepo ： Paxeer X是用于支付、代码执行和意图路由的分布式超状态机。专为机器和操作它们的用户设计。](https://github.com/Sidiora-Labs/paxeer-monorepo)**
+**[🆕 Deadline-resp-Tracker-AI ：📅基于人工智能的学术截止日期助理，使用Gemini Vision从学术文档中提取作业、考试、项目和提交日期，并提供智能截止日期问答和Telegram通知。 🤖📸💬📲](https://github.com/Omianheart/Deadline-resp-Tracker-AI)**
 
-⭐ 545星· 84叉·围棋· Paxeer X是用于支付、代码执行和意图路由的分布式超状态机专为机器和操作它们的用户设计
+⭐ 68 star (新项目) · HTML · 📅 AI-powered academic deadline assistant that uses **Gemini** Vision to extract assignmentsprojects & submission dates from academic documents
 
-📅 2026-10-31T02:01:16Z
+📅 2026-10-28T16:16:05Z
 
 ---
 
-### GitHub Active (AI/ML)
-![awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
+### GitHub New (New AI)
+![🆕 awesome-ai-news-sources-zh: 精选 AI 资讯信源清单（中英双语）· Curated AI news sources, read daily by Zhiyike](https://avatars.githubusercontent.com/u/118032536?v=4)
 
-**[awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
+**[🆕 awesome-ai-news-sources-zh: 精选 AI 资讯信源清单（中英双语）· Curated AI news sources, read daily by Zhiyike](https://github.com/biletian/awesome-ai-news-sources-zh)**
 
-⭐ 463星· 39分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作管道刷新
+⭐ 3 star (新项目) · Python · 精选 AI 资讯信源清单（中英双语）· Curated AI **new**s sources, read daily by Zhiyike
 
-📅 2026-10-31T02:02:38Z
+📅 2026-10-29T02:44:50Z
+
+---
+
+### GitHub New (New AI)
+![🆕 atlas-lens-144 ： Ryan Vo |正在进行的工作： atlas-lens-144](https://avatars.githubusercontent.com/u/215324508?v=4)
+
+**[🆕 atlas-lens-144 ： Ryan Vo |正在进行的工作： atlas-lens-144](https://github.com/A220man/atlas-lens-144)**
+
+⭐ 2 star (新项目) · Python · Ryan Vo | Work in progress: atlas-lens-144
+
+📅 2026-10-29T21:14:05Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-![当实际上没有发生任何事情时，人工智能代理说“完成” ，让他们更努力地思考并没有帮助](https://preview.redd.it/7cgfcu91woyh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e1cf7759733677a90ba29de7844abd4b39dd29a8)
+**[将人工智能用于专业工作和法学院](https://www.reddit.com/r/artificial/comments/1xk4oz0/using_ai_for_both_professional_work_and_law_school/)**
 
-**[当实际上没有发生任何事情时，人工智能代理说“完成” ，让他们更努力地思考并没有帮助](https://www.reddit.com/r/artificial/comments/1xjutvc/ai_agents_said_done_when_nothing_actually/)**
+因此，我计划订阅两个人工智能平台;我的候选名单包括Chat**GPT** ， Copilot ， **Gemini**我喜欢这三个平台的是： Chat**GPT** （ Plus ） ：根据我的使用免费版本的经验
 
-我使用了τ-bench的20个航空公司客户服务任务，并测试了**Claude** Sonnet 5com/p/thinking-harder-doesnt-help-ai-catch代码和成绩单： https://github
-
-📅 2026-10-30T23:31:20.000Z
+📅 2026-10-31T08:19:39.000Z
 
 ---
 
 ### Reddit: r/artificial
-**[代币更少？还有人注意到大狗的人工智能效率推动吗？](https://www.reddit.com/r/artificial/comments/1xjx6oi/fewer_tokens_anyone_else_noticing_the_big_dogs_ai/)**
+![Anthropic的Claude AI阻止视频游戏克隆和逆向工程—全面的新限制也影响了合法的开发人员和基本的故障排除任务](https://external-preview.redd.it/pD5YE6gGdfiTB0n3EVJgoPU1_s6tKLWc7-ziWXMhmBE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3b64f5aab34dd152fbf8819a51796d124edfde42)
 
-例如： AWS使其Trainium芯片和服务器更节能**OpenAI**为日常工作**推出**更小的迷你/纳米模型**Google**的TurboQuant研究压缩了缓存上下文所需的内存
+**[Anthropic的Claude AI阻止视频游戏克隆和逆向工程—全面的新限制也影响了合法的开发人员和基本的故障排除任务](https://www.reddit.com/r/artificial/comments/1xkibsh/anthropics_claude_ai_blocks_video_game_cloning/)**
 
-📅 2026-10-31T01:16:50.000Z
+提交者/u/Typical-Code-7006 [link] [comments]
+
+📅 2026-10-31T18:57:26.000Z
 
 ---
 
@@ -339,7 +335,7 @@ com % 2Fen-us % 2Fp % 2Fiphone-17e % 3Futm_source % 3Dchat**GPT**两种尺寸的
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-10-31T02:03:07.693Z
+📅 2026-10-31T19:08:20.367Z
 
 ---
 
@@ -348,45 +344,43 @@ com % 2Fen-us % 2Fp % 2Fiphone-17e % 3Futm_source % 3Dchat**GPT**两种尺寸的
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-10-31T02:03:12.595Z
+📅 2026-10-31T19:08:29.063Z
 
 ---
 
 ### Hacker News AI
-**[谷歌的$ 5000亿大屠杀反映了它所面临的人工智能威胁](https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-aiFromTheEconomist)**
+**[人工智能中最聪明的人认为这是世界上最重要的图表](https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815)**
 
-文章网址： https://wwwcom/business/2026/10/29/**Google**s-5000bn-bloodbath-reflects-the-danger-it-faces-from-aiFromTheEconomist评论网址： https://**new**s
+文章网址： https://wwwcom/tech/ai/ai-**Anthropic**-rsi-recursive-self-improvement-bff4e815评论网址： https://**new**s
 
-📅 Sat, 31 Oct 2026 01:19:32 +0000
+📅 Sat, 31 Oct 2026 18:54:27 +0000
 
 ---
 
 ### Hacker News AI
-**[人工智能代理塑造专家的判断呼叫](https://www.anthropic.com/research/agents-judgment-calls)**
+**[问HN ：谷歌是否已经开始从AI SLOP中清理搜索结果？](https://news.ycombinator.com/item?id=50318869)**
 
-文章网址： https://wwwcom/research/agents-judgment-calls评论网址： https://**new**s
+我正在维护几个个人宠物项目，我最近在谷歌搜索控制台上注意到，这两个项目的展示次数和点击次数都从每天500-700次展示/10-15次点击到一天内几乎为零。总的来说，我认为使用无用的人工智能生成的内容进行斗争并不是那么糟糕
 
-📅 Fri, 30 Oct 2026 23:39:19 +0000
-
----
-
-### Reddit: r/artificial
-**[OpenAI发布四层系统，用于捕捉前沿模型错位](https://www.reddit.com/r/artificial/comments/1xjtn60/openai_publishes_its_fourlayer_system_for/)**
-
-OpenAI**发布**了一份关于如何监控其前沿模型的详细报告**OpenAI**还表示，当监控触发时，它不会故意改变强化学习奖励
-
-📅 2026-10-30T22:39:38.000Z
+📅 Sat, 31 Oct 2026 18:50:25 +0000
 
 ---
 
-### Reddit: r/artificial
-![谷歌分享了第一个来自太空的人工智能生成的响应，一个俳句](https://external-preview.redd.it/-8Tff3LZgB5y_9jRHCtqFJoDv2QJ3E8f2DygXx-DcXs.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dae7c3035d9a01143c188b2d52dcad9ec2aefb3c)
+### Hacker News AI
+**[谷歌的人工智能卫星向地球发送昂贵的俳句](https://www.theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818)**
 
-**[谷歌分享了第一个来自太空的人工智能生成的响应，一个俳句](https://www.reddit.com/r/artificial/comments/1xjr68w/google_shares_first_aigenerated_response_from/)**
+文章网址： https://wwwcom/ai-and-ml/2026/10/31/**Google**s-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818评论网址： https://**new**s
 
-提交者/u/LinkedIn**new**s [link] [comments]
+📅 Sat, 31 Oct 2026 18:48:53 +0000
 
-📅 2026-10-30T20:57:00.000Z
+---
+
+### Hacker News AI
+**[带有Gemini AI任务验证的NichiHab Android应用程序拦截器](https://github.com/alepoll/NichiHab)**
+
+文章网址： https://githubcom/alepoll/NichiHab评论网址： https://**new**s
+
+📅 Sat, 31 Oct 2026 17:37:54 +0000
 
 ---
 
