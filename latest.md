@@ -1,19 +1,19 @@
 ---
 title: "2026年11月1日 - TZ日报"
-date: 2026-11-01T01:54:29.450Z
+date: 2026-11-01T19:25:43.272Z
 draft: false
 ---
 
 # 2026年11月1日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/11/1 01:54:29
+> 📊 今日汇总 32 条 · 🕐 2026/11/1 19:25:43
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 8 条
+- **前沿研究**: 2 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -46,33 +46,6 @@ draft: false
 **OpenAI**分享创作者关于合理使用如何支持人工智能培训和创新的法庭简报摘录
 
 📅 Fri, 30 Oct 2026 00:00:00 GMT
-
----
-
-### OpenAI Blog
-**[更新的模型规格，以实现更强大、更有益的人工智能](https://openai.com/index/updated-model-spec)**
-
-OpenAI**更新**的模型规范概述了五个核心价值观，以引导更有能力的人工智能走向合理的判断、人为代理和对人类意图的忠诚
-
-📅 Thu, 29 Oct 2026 17:00:00 GMT
-
----
-
-### OpenAI Blog
-**[我们如何检测前沿模型错位](https://openai.com/index/how-we-detect-frontier-model-misalignment)**
-
-**OpenAI**使用分层监控来检测前沿模型不对齐和未经授权的代理行为，以便响应者可以在事件**升级**之前进行干预
-
-📅 Thu, 29 Oct 2026 09:00:00 GMT
-
----
-
-### OpenAI Blog
-**[Ropes & Gray如何开发用于交易尽职调查的人工智能](https://openai.com/index/ropes-gray-ai-diligence)**
-
-Ropes & Gray正在开发用于交易尽职调查的人工智能， **OpenAI**Lawyers会在为客户提供建议之前审查分组文档、摘要和报告
-
-📅 Thu, 29 Oct 2026 07:00:00 GMT
 
 ---
 
@@ -112,77 +85,50 @@ nemotron-halloween
 
 ---
 
+### TechCrunch AI Products
+**[苹果首席执行官表示，该公司“不想为人工智能出货”](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/)**
+
+苹果新任首席执行官为公司目前在人工智能领域的地位辩护。
+
+📅 Sat, 31 Oct 2026 21:41:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[还剩4天： TechCrunch创始人峰会如何帮助您建立更有用的联系以扩大规模](https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/)**
+
+11月4日，在波士顿的SoWa发电站，准备好迎接充满有意义的交流机会的一整天
+
+📅 Sat, 31 Oct 2026 21:36:07 +0000
+
+---
+
+### TechCrunch AI Products
+**[法官允许NAACP就xAI数据中心污染提起诉讼](https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/)**
+
+全国有色人种协进会（ NAACP ）的一起诉讼指控SpaceX拥有的人工智能公司违反了《清洁空气法》。
+
+📅 Sat, 31 Oct 2026 21:17:03 +0000
+
+---
+
 ## 🔬 前沿研究
 
-### ArXiv AI (cs.AI)
-**[OpenFrontiers ：开放研究问题集合和科学再发现的基准](https://arxiv.org/abs/2610.37739)**
+### Science AI
+**[早期职业研究人员在美国国立卫生研究院成立工会的权利得到维护，反对该机构的请愿](https://www.science.org/content/article/early-career-researchers-right-unionize-nih-upheld-against-agency-s-petition)**
 
-37739v1公告类型：新摘要：大型语言模型（ LLM ）在研究级问题解决方面表现出越来越大的前景，在研究级问题上评估它们仍然具有挑战性
+美国国立卫生研究院反对工会的论点站不住脚，裁定一个监督劳资关系的联邦实体
 
-📅 Sat, 31 Oct 2026 00:00:00 -0400
-
----
-
-### MIT Tech Research
-**[我们迫切需要实时监控AI代理的行为](https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/)**
-
-今年夏天，数百名**OpenAI**特工试图在网络安全测试中作弊大约在同一时间，另一名**OpenAI**特工从澳大利亚政府网站访问了私人文件
-
-📅 Thu, 29 Oct 2026 10:11:12 +0000
+📅 2026-10-30T04:45:00.000Z
 
 ---
 
-### ArXiv AI (cs.AI)
-**[LRMoE ：针对内存受限节点的高效MoE培训的需求侧负载重新校准](https://arxiv.org/abs/2610.37720)**
+### Science AI
+**[骨骼可能会释放蛋白质，减缓衰老并延长寿命](https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span)**
 
-37720v1公告类型：新摘要：稀疏混合专家（ MoE ）模型为Web应用程序提供可扩展的容量5-106B-A12B表明， LRMoE将固定损失目标的累积MoE层训练时间减少了21
+运动触发称为骨细胞的骨细胞在小鼠体内分泌抗衰老化学物质
 
-📅 Sat, 31 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[应用于海洋湍流封闭的模型校准的摊销局部后验推理](https://arxiv.org/abs/2610.37731)**
-
-37731v1公告类型：新摘要：模型差异可能会阻止单个校准参数在整个上下文域中重现物理响应高斯定位权重通过协方差膨胀合并上下文不确定性
-
-📅 Sat, 31 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[ThinkJev ：校准型决策的一个想法，每一个预算](https://arxiv.org/abs/2610.37732)**
-
-37732v1公告类型：新摘要：语言模型的许多用途以类型化决策结束：从一组封闭的选项中进行选择代码和数据生成器可在https://github上找到
-
-📅 Sat, 31 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[WebAnything ：从Wild Web到可扩展的代理环境](https://arxiv.org/abs/2610.37786)**
-
-37786v1公告类型：新建摘要： Web代理需要多样化代码： https://github
-
-📅 Sat, 31 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[本体会捕捉到什么？策划、LLM生成和数据派生的本体作为LLM代理在知识图谱上的检查器](https://arxiv.org/abs/2610.37809)**
-
-37809v1公告类型：新摘要：通过Web知识图回答问题的LLM代理越来越多地包含在从图的本体LLM生成和数据派生的本体派生的检查中
-
-📅 Sat, 31 Oct 2026 00:00:00 -0400
-
----
-
-### ArXiv AI (cs.AI)
-**[在Agentic智能合约合成中测量意图丢失的地方](https://arxiv.org/abs/2610.37830)**
-
-37830v1公告类型：新摘要： AI代理现在可以从简单的英语描述编写软件这是智能合约合成中第一个在生成前收集缺失需求并根据独立编写的可执行模型检查结果的研究
-
-📅 Sat, 31 Oct 2026 00:00:00 -0400
+📅 2026-10-30T02:50:00.000Z
 
 ---
 
@@ -196,6 +142,15 @@ nemotron-halloween
 周二是亿万富翁税务判决日加文·纽森（ Gavin **new**som ）也表示他反对第40号提案
 
 📅 2026-10-31T15:01:29.000Z
+
+---
+
+### The Information Technology
+**[谷歌能源主管：太空数据中心的成本比地球上的数据中心高出100倍](https://www.theinformation.com/articles/google-energy-chief-space-data-centers-cost-100-times-earth)**
+
+谷歌数据中心能源主管本周表示，一家公司正在测试AI服务器芯片
+
+📅 2026-11-01T16:30:45.000Z
 
 ---
 
@@ -236,53 +191,44 @@ nemotron-halloween
 ---
 
 ### Wired Technology
-**[Meta的Muse可能会颠覆各种业务。还没有](https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/)**
+**[Google云端硬盘内有一个免费的视频编辑器，任何人都可以使用](https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/)**
 
-过去几周，公司一直试图向投资者保证， Muse和其他人工智能代理带来的机会多于威胁
+您可能没有注意到**Google**的免费软件套件提供的所有功能，尤其是名为**Google** Vids的网络应用程序
 
-📅 Sat, 31 Oct 2026 10:30:00 +0000
-
----
-
-### Ars Technica
-**[Cursor后门上的Anthropic VS代码扩展近12小时](https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/)**
-
-目前尚不清楚攻击者是如何访问**Anthropic**已验证的Cursor帐户的。
-
-📅 Fri, 30 Oct 2026 21:09:54 +0000
+📅 Sun, 01 Nov 2026 12:00:00 +0000
 
 ---
 
-### ZDNet AI
-**[Google的最新Home更新刚刚修复了我对扬声器和摄像头的最大烦恼](https://www.zdnet.com/home-and-office/google-home-gemini-updates-42-fixes/)**
+### Wired Technology
+**[最佳Chromebook和Googlebook （ 2026 ） ：配备Google Touch的笔记本电脑](https://www.wired.com/story/best-chromebooks/)**
 
-**Google**的最新Home**更新**刚刚修复了我对扬声器和摄像头的最大烦恼
+虽然谷歌正在预示着名为**Google**books的新系列笔记本电脑，但Chromebook仍然存在-目前这些是值得考虑的
 
-📅 2026-10-30T16:14:11.000Z
+📅 Sun, 01 Nov 2026 10:00:00 +0000
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![paxeer-monorepo ： Paxeer X是用于支付、代码执行和意图路由的分布式超状态机。专为机器和操作它们的用户设计。](https://avatars.githubusercontent.com/u/315858149?v=4)
+### GitHub New (New AI)
+![🆕 Frontier-UI ：适用于Open WebUI的ChatGPT风格生成式UI ：照片库、带有真实路线的实时地图、多日游、预算、计算器、实时天气和股票、链接预览以及通过ArtCraft一键导出的Word/Excel/PowerPoint。一个文件，没有API密钥。](https://avatars.githubusercontent.com/u/181923470?v=4)
 
-**[paxeer-monorepo ： Paxeer X是用于支付、代码执行和意图路由的分布式超状态机。专为机器和操作它们的用户设计。](https://github.com/Sidiora-Labs/paxeer-monorepo)**
+**[🆕 Frontier-UI ：适用于Open WebUI的ChatGPT风格生成式UI ：照片库、带有真实路线的实时地图、多日游、预算、计算器、实时天气和股票、链接预览以及通过ArtCraft一键导出的Word/Excel/PowerPoint。一个文件，没有API密钥。](https://github.com/Jumbomuffin777/Frontier-UI)**
 
-⭐ 544星· 84分叉·围棋· Paxeer X是一款用于支付、代码执行和意图路由的分布式超状态机专为机器和操作它们的用户而设计
+⭐ 18 star (新项目) · Python · Chat**GPT**-style generative UI for Open WebUI: photo galleriesOne file, no API keys
 
-📅 2026-11-01T01:53:09Z
+📅 2026-11-01T06:41:23Z
 
 ---
 
-### GitHub Active (AI/ML)
-![awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
+### GitHub New (New AI)
+![🆕 AksharaCheck ： AksharaCheck使用Chromium检测印地语和卡纳达语文本渲染问题，并提供多语言BharatCode AI解释、视觉证据和浏览器验证的维修建议。](https://avatars.githubusercontent.com/u/191551616?v=4)
 
-**[awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
+**[🆕 AksharaCheck ： AksharaCheck使用Chromium检测印地语和卡纳达语文本渲染问题，并提供多语言BharatCode AI解释、视觉证据和浏览器验证的维修建议。](https://github.com/ashh-droid/AksharaCheck)**
 
-⭐ 463星· 39分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作管道刷新
+⭐ 3 star (新项目) · HTML · AksharaCheck detects Hindi and Kannada text-rendering issues using Chromiumwith multilingual BharatCode AI explanations
 
-📅 2026-11-01T01:51:56Z
+📅 2026-10-29T11:28:14Z
 
 ---
 
@@ -310,23 +256,32 @@ nemotron-halloween
 
 ## 💬 社交动态
 
-### Reddit: r/artificial
-**[我们可以使用历史上最强大的人工智能，但我有时完全不知道该怎么办。那是缺乏想象力吗？](https://www.reddit.com/r/artificial/comments/1xkmqw1/we_have_access_to_the_most_powerful_ai_in_history/)**
+### Hacker News AI
+**[谷歌、Anthropic和其他公司将支持新的人工智能爬行选择退出标准](https://siliconangle.com/2026/10/30/google-anthropic-and-others-to-support-new-ai-crawling-opt-out-standard/)**
 
-我广泛使用人工智能进行软件开发、工作、研究和日常任务**Claude**、Codex和**GPT**等工具已成为我日常工作的一部分
+文章网址： https://siliconanglecom/2026/10/30/**Google**-**Anthropic**-and-others-to-support-**new**-ai-crawling-opt-out-standard/评论网址： https://**new**s
 
-📅 2026-10-31T22:08:10.000Z
+📅 Sun, 01 Nov 2026 18:39:51 +0000
 
 ---
 
 ### Reddit: r/artificial
-![Anthropic的Claude AI阻止视频游戏克隆和逆向工程—全面的新限制也影响了合法的开发人员和基本的故障排除任务](https://external-preview.redd.it/pD5YE6gGdfiTB0n3EVJgoPU1_s6tKLWc7-ziWXMhmBE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3b64f5aab34dd152fbf8819a51796d124edfde42)
+![“如果没有ChatGPT ，我哥哥还活着” ：在OpenAI的安全单元内](https://external-preview.redd.it/aXvg_3fKaj07b8-YEDRBvPjZ0V56wLQ040OGimlq_-8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f8e414c82cbe0ec707dd6ab0ef0303b7be5cec93)
 
-**[Anthropic的Claude AI阻止视频游戏克隆和逆向工程—全面的新限制也影响了合法的开发人员和基本的故障排除任务](https://www.reddit.com/r/artificial/comments/1xkibsh/anthropics_claude_ai_blocks_video_game_cloning/)**
+**[“如果没有ChatGPT ，我哥哥还活着” ：在OpenAI的安全单元内](https://www.reddit.com/r/artificial/comments/1xkzv9y/if_it_wasnt_for_chatgpt_my_brother_would_still_be/)**
 
-提交者/u/Typical-Code-7006 [link] [comments]
+An Observer investigation reveals how **OpenAI**’s race for dominance has compromised user safetywith conversational AI linked to psychiatric crises and violence submitted by /u/TheObserverUK [link] [comments]
 
-📅 2026-10-31T18:57:26.000Z
+📅 2026-11-01T10:35:40.000Z
+
+---
+
+### X: OpenAI
+**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+网址来源： http://twitter.com/**OpenAI**
+
+📅 2026-11-01T19:24:32.904Z
 
 ---
 
@@ -335,52 +290,43 @@ nemotron-halloween
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-11-01T01:53:16.605Z
+📅 2026-11-01T19:24:39.953Z
 
 ---
 
 ### Hacker News
-**[Anthropic阻止用户进行任何触摸训练大型模型](https://twitter.com/jiahaoshao1/status/2116475922190922088)**
+**[显示HN ： HackerBooks - HackerTube ，但适用于HN上提到的书籍](https://hackerbooks.org)**
 
-文章网址： https://twittercom/jiahaoshao1/status/2116475922190922088留言网址： https://**new**s
+So I had **Claude** build one (Opus 5To be clear: **Claude** wrote almost all of it, including the data pipeline and the site
 
-📅 Sat, 31 Oct 2026 19:39:19 +0000
+📅 Sun, 01 Nov 2026 15:58:28 +0000
 
 ---
 
 ### Hacker News AI
-**[用于规范驱动AI开发的Elephant-Goldfish模型插件](https://opensource.googleblog.com/2026/10/introducing-elephant-goldfish-model-plugin.html)**
+**[Muse AI agent是一个伪装成AI助手的商业监控网络](https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial)**
 
-com/2026/10/introducing-elephant-goldfish-model-pluginhtml评论网址： https://**new**s
+Article URL: https://paulfwalshcom/p/**Meta**s-muse-ai-agent-is-a-commercial Comments URL: https://**new**s
 
-📅 Sun, 01 Nov 2026 00:39:58 +0000
+📅 Sun, 01 Nov 2026 18:33:02 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[AI语言翻译给人留下深刻印象](https://www.reddit.com/r/artificial/comments/1xknbji/really_impressed_with_ai_language_translation/)**
+**[X/Twitter让人工智能开发看起来毫不费力，但我一直在未完成的项目上燃烧代币。您实际上是如何交付完整的应用程序的？](https://www.reddit.com/r/artificial/comments/1xl815r/xtwitter_makes_ai_dev_look_effortless_but_i_keep/)**
 
-所以我把它上传给了克劳德，并要求它翻译草书，只是英语中的句子结构比克劳德的
+and full-stack side projects they supposedly "built in 2 hours completely with AII’ll start building with **Claude** and/or Codex (depending on the project but at this point they’re pretty much the same)
 
-📅 2026-10-31T22:35:12.000Z
-
----
-
-### X: Sam Altman
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/sama)**
-
-Title: 520: Web服务器返回未知错误
-
-📅 2026-11-01T01:53:13.205Z
+📅 2026-11-01T16:53:42.000Z
 
 ---
 
-### X: Sam Altman
-**[网址来源： http://twitter.com/sama](https://r.jina.ai/http://twitter.com/sama)**
+### Reddit: r/artificial
+**[双子座无法跟随对话](https://www.reddit.com/r/artificial/comments/1xktuw3/gemini_could_not_follow_the_conversation/)**
 
-网址来源： http://twitter.com/sama
+tonight I was amazed at the fact that I asked **Gemini** where Americans sit on average on IQ scores and it told me"what is a quick way for a person to tell where they are
 
-📅 2026-11-01T01:53:13.205Z
+📅 2026-11-01T04:17:31.000Z
 
 ---
 
