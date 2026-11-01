@@ -1,12 +1,12 @@
 ---
-title: "2026年10月31日 - TZ日报"
-date: 2026-10-31T19:09:52.715Z
+title: "2026年11月1日 - TZ日报"
+date: 2026-11-01T01:54:29.450Z
 draft: false
 ---
 
-# 2026年10月31日 - TZ日报
+# 2026年11月1日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/10/31 19:09:52
+> 📊 今日汇总 38 条 · 🕐 2026/11/1 01:54:29
 
 ---
 
@@ -76,15 +76,6 @@ Ropes & Gray正在开发用于交易尽职调查的人工智能， **OpenAI**Law
 
 ---
 
-### OpenAI Blog
-**[Credit Saison在ChatGPT Enterprise试点项目中实现954%的投资回报率](https://openai.com/index/credit-saison)**
-
-Credit Saison的Chat**GPT** Enterprise试点项目实现了954%的投资回报率（ ROISee ）看看领导者和员工如何帮助将结果转化为公司范围内的采用
-
-📅 Thu, 29 Oct 2026 00:00:00 GMT
-
----
-
 ### TechCrunch AI Products
 **[据报道， OpenAI降低了新一轮融资目标](https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/)**
 
@@ -109,6 +100,15 @@ Credit Saison的Chat**GPT** Enterprise试点项目实现了954%的投资回报�
 Blackstone的预测只是一个预测，即高垃圾评级将使**Anthropic**更难以筹集资金，以继续为其作为其业务基础的巨额支出提供资金
 
 📅 Fri, 30 Oct 2026 21:52:03 +0000
+
+---
+
+### Hugging Face
+**[nemotron-halloween](https://huggingface.co/blog/nvidia/nemotron-halloween)**
+
+nemotron-halloween
+
+📅 Fri, 30 Oct 2026 17:57:24 GMT
 
 ---
 
@@ -235,15 +235,6 @@ Blackstone的预测只是一个预测，即高垃圾评级将使**Anthropic**更
 
 ---
 
-### The Information Technology
-**[DeepSeek 160亿美元融资的背后：中国科技巨头和国有企业](https://www.theinformation.com/articles/behind-deepseeks-16-billion-funding-chinese-tech-titans-state-players)**
-
-这家成立三年的公司是唯一一家在4月份**首次**融资之前避开外部资本的主要人工智能模型开发商新一轮融资包括以前的支持者-腾讯和电池制造商宁德时代仍然是**DeepSeek**的前两大投资者-但其他科技公司也包括显着的内存芯片制造商长信内存技术公司及其董事长朱一鸣
-
-📅 2026-10-30T01:08:40.000Z
-
----
-
 ### Wired Technology
 **[Meta的Muse可能会颠覆各种业务。还没有](https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/)**
 
@@ -262,27 +253,36 @@ Blackstone的预测只是一个预测，即高垃圾评级将使**Anthropic**更
 
 ---
 
-## 📦 GitHub热门
+### ZDNet AI
+**[Google的最新Home更新刚刚修复了我对扬声器和摄像头的最大烦恼](https://www.zdnet.com/home-and-office/google-home-gemini-updates-42-fixes/)**
 
-### GitHub Active (AI/ML)
-![sahi ：框架不可知切片/平铺推理+交互式UI +错误分析图](https://avatars.githubusercontent.com/u/63360722?v=4)
+**Google**的最新Home**更新**刚刚修复了我对扬声器和摄像头的最大烦恼
 
-**[sahi ：框架不可知切片/平铺推理+交互式UI +错误分析图](https://github.com/obss/sahi)**
-
-⭐ 5575星· 793叉· Python ·框架不可知切片/平铺推理+交互式UI +错误分析图
-
-📅 2026-10-31T19:07:28Z
+📅 2026-10-30T16:14:11.000Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 Deadline-resp-Tracker-AI ：📅基于人工智能的学术截止日期助理，使用Gemini Vision从学术文档中提取作业、考试、项目和提交日期，并提供智能截止日期问答和Telegram通知。 🤖📸💬📲](https://avatars.githubusercontent.com/u/342564046?v=4)
+## 📦 GitHub热门
 
-**[🆕 Deadline-resp-Tracker-AI ：📅基于人工智能的学术截止日期助理，使用Gemini Vision从学术文档中提取作业、考试、项目和提交日期，并提供智能截止日期问答和Telegram通知。 🤖📸💬📲](https://github.com/Omianheart/Deadline-resp-Tracker-AI)**
+### GitHub Active (AI/ML)
+![paxeer-monorepo ： Paxeer X是用于支付、代码执行和意图路由的分布式超状态机。专为机器和操作它们的用户设计。](https://avatars.githubusercontent.com/u/315858149?v=4)
 
-⭐ 68 star (新项目) · HTML · 📅 AI-powered academic deadline assistant that uses **Gemini** Vision to extract assignmentsprojects & submission dates from academic documents
+**[paxeer-monorepo ： Paxeer X是用于支付、代码执行和意图路由的分布式超状态机。专为机器和操作它们的用户设计。](https://github.com/Sidiora-Labs/paxeer-monorepo)**
 
-📅 2026-10-28T16:16:05Z
+⭐ 544星· 84分叉·围棋· Paxeer X是一款用于支付、代码执行和意图路由的分布式超状态机专为机器和操作它们的用户而设计
+
+📅 2026-11-01T01:53:09Z
+
+---
+
+### GitHub Active (AI/ML)
+![awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
+
+**[awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
+
+⭐ 463星· 39分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作管道刷新
+
+📅 2026-11-01T01:51:56Z
 
 ---
 
@@ -311,11 +311,11 @@ Blackstone的预测只是一个预测，即高垃圾评级将使**Anthropic**更
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[将人工智能用于专业工作和法学院](https://www.reddit.com/r/artificial/comments/1xk4oz0/using_ai_for_both_professional_work_and_law_school/)**
+**[我们可以使用历史上最强大的人工智能，但我有时完全不知道该怎么办。那是缺乏想象力吗？](https://www.reddit.com/r/artificial/comments/1xkmqw1/we_have_access_to_the_most_powerful_ai_in_history/)**
 
-因此，我计划订阅两个人工智能平台;我的候选名单包括Chat**GPT** ， Copilot ， **Gemini**我喜欢这三个平台的是： Chat**GPT** （ Plus ） ：根据我的使用免费版本的经验
+我广泛使用人工智能进行软件开发、工作、研究和日常任务**Claude**、Codex和**GPT**等工具已成为我日常工作的一部分
 
-📅 2026-10-31T08:19:39.000Z
+📅 2026-10-31T22:08:10.000Z
 
 ---
 
@@ -330,57 +330,57 @@ Blackstone的预测只是一个预测，即高垃圾评级将使**Anthropic**更
 
 ---
 
-### X: OpenAI
-**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-网址来源： http://twitter.com/**OpenAI**
-
-📅 2026-10-31T19:08:20.367Z
-
----
-
 ### X: DeepSeek
 **[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-10-31T19:08:29.063Z
+📅 2026-11-01T01:53:16.605Z
+
+---
+
+### Hacker News
+**[Anthropic阻止用户进行任何触摸训练大型模型](https://twitter.com/jiahaoshao1/status/2116475922190922088)**
+
+文章网址： https://twittercom/jiahaoshao1/status/2116475922190922088留言网址： https://**new**s
+
+📅 Sat, 31 Oct 2026 19:39:19 +0000
 
 ---
 
 ### Hacker News AI
-**[人工智能中最聪明的人认为这是世界上最重要的图表](https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815)**
+**[用于规范驱动AI开发的Elephant-Goldfish模型插件](https://opensource.googleblog.com/2026/10/introducing-elephant-goldfish-model-plugin.html)**
 
-文章网址： https://wwwcom/tech/ai/ai-**Anthropic**-rsi-recursive-self-improvement-bff4e815评论网址： https://**new**s
+com/2026/10/introducing-elephant-goldfish-model-pluginhtml评论网址： https://**new**s
 
-📅 Sat, 31 Oct 2026 18:54:27 +0000
-
----
-
-### Hacker News AI
-**[问HN ：谷歌是否已经开始从AI SLOP中清理搜索结果？](https://news.ycombinator.com/item?id=50318869)**
-
-我正在维护几个个人宠物项目，我最近在谷歌搜索控制台上注意到，这两个项目的展示次数和点击次数都从每天500-700次展示/10-15次点击到一天内几乎为零。总的来说，我认为使用无用的人工智能生成的内容进行斗争并不是那么糟糕
-
-📅 Sat, 31 Oct 2026 18:50:25 +0000
+📅 Sun, 01 Nov 2026 00:39:58 +0000
 
 ---
 
-### Hacker News AI
-**[谷歌的人工智能卫星向地球发送昂贵的俳句](https://www.theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818)**
+### Reddit: r/artificial
+**[AI语言翻译给人留下深刻印象](https://www.reddit.com/r/artificial/comments/1xknbji/really_impressed_with_ai_language_translation/)**
 
-文章网址： https://wwwcom/ai-and-ml/2026/10/31/**Google**s-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818评论网址： https://**new**s
+所以我把它上传给了克劳德，并要求它翻译草书，只是英语中的句子结构比克劳德的
 
-📅 Sat, 31 Oct 2026 18:48:53 +0000
+📅 2026-10-31T22:35:12.000Z
 
 ---
 
-### Hacker News AI
-**[带有Gemini AI任务验证的NichiHab Android应用程序拦截器](https://github.com/alepoll/NichiHab)**
+### X: Sam Altman
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/sama)**
 
-文章网址： https://githubcom/alepoll/NichiHab评论网址： https://**new**s
+Title: 520: Web服务器返回未知错误
 
-📅 Sat, 31 Oct 2026 17:37:54 +0000
+📅 2026-11-01T01:53:13.205Z
+
+---
+
+### X: Sam Altman
+**[网址来源： http://twitter.com/sama](https://r.jina.ai/http://twitter.com/sama)**
+
+网址来源： http://twitter.com/sama
+
+📅 2026-11-01T01:53:13.205Z
 
 ---
 
