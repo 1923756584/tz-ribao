@@ -1,12 +1,12 @@
 ---
-title: "2026年11月1日 - TZ日报"
-date: 2026-11-01T19:25:43.272Z
+title: "2026年11月2日 - TZ日报"
+date: 2026-11-02T02:09:11.891Z
 draft: false
 ---
 
-# 2026年11月1日 - TZ日报
+# 2026年11月2日 - TZ日报
 
-> 📊 今日汇总 32 条 · 🕐 2026/11/1 19:25:43
+> 📊 今日汇总 32 条 · 🕐 2026/11/2 02:09:11
 
 ---
 
@@ -40,12 +40,12 @@ draft: false
 
 ---
 
-### OpenAI Blog
-**[合理使用对每个人都有好处](https://openai.com/index/fair-use-benefits-everyone)**
+### TechCrunch AI Products
+**[OpenAI可能会将其数据中心重新命名为“AI计算园区”](https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/)**
 
-**OpenAI**分享创作者关于合理使用如何支持人工智能培训和创新的法庭简报摘录
+数据中心非常不受欢迎。但是，如果我们称之为其他东西呢？
 
-📅 Fri, 30 Oct 2026 00:00:00 GMT
+📅 Sun, 01 Nov 2026 21:55:23 +0000
 
 ---
 
@@ -86,6 +86,15 @@ nemotron-halloween
 ---
 
 ### TechCrunch AI Products
+**[人工智能可以让科技CEO的生活更轻松。其他人呢？](https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/)**
+
+在Equity上，我们讨论了为什么科技公司首席执行官的声明看起来如此充耳不闻。
+
+📅 Sun, 01 Nov 2026 20:57:58 +0000
+
+---
+
+### TechCrunch AI Products
 **[苹果首席执行官表示，该公司“不想为人工智能出货”](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/)**
 
 苹果新任首席执行官为公司目前在人工智能领域的地位辩护。
@@ -100,15 +109,6 @@ nemotron-halloween
 11月4日，在波士顿的SoWa发电站，准备好迎接充满有意义的交流机会的一整天
 
 📅 Sat, 31 Oct 2026 21:36:07 +0000
-
----
-
-### TechCrunch AI Products
-**[法官允许NAACP就xAI数据中心污染提起诉讼](https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/)**
-
-全国有色人种协进会（ NAACP ）的一起诉讼指控SpaceX拥有的人工智能公司违反了《清洁空气法》。
-
-📅 Sat, 31 Oct 2026 21:17:03 +0000
 
 ---
 
@@ -146,6 +146,24 @@ nemotron-halloween
 ---
 
 ### The Information Technology
+**[The Information的WTF图片峰会](https://www.theinformation.com/articles/informations-wtf-summit-pictures-2)**
+
+**Anthropic**Google数据中心能源全球主管的女性领导者
+
+📅 2026-11-01T21:52:32.000Z
+
+---
+
+### The Information Technology
+**[Apple、优步和选举头条新闻周](https://www.theinformation.com/articles/apple-uber-elections-headline-week)**
+
+对过度人工智能支出的担忧上周挫败了谷歌的股票，并将纳斯达克综合指数推至2025年3月以来最糟糕的一个月Palantir上半年的资本支出仅为$ 2200万
+
+📅 2026-11-01T23:00:47.000Z
+
+---
+
+### The Information Technology
 **[谷歌能源主管：太空数据中心的成本比地球上的数据中心高出100倍](https://www.theinformation.com/articles/google-energy-chief-space-data-centers-cost-100-times-earth)**
 
 谷歌数据中心能源主管本周表示，一家公司正在测试AI服务器芯片
@@ -172,24 +190,6 @@ nemotron-halloween
 
 ---
 
-### The Information Technology
-**[OpenAI在降低可能估值后降低筹资目标](https://www.theinformation.com/briefings/openai-lowers-fundraising-target-after-decreasing-possible-valuation)**
-
-**OpenAI**已将其在最新一轮融资中向投资者寻求的资本金额降低了100亿美元该公司最初寻求以1美元的价格筹集300亿美元
-
-📅 2026-10-31T00:33:18.000Z
-
----
-
-### The Information Technology
-**[人类意外收获可能等待国家养老基金](https://www.theinformation.com/articles/anthropic-windfall-await-state-pension-funds)**
-
-政界人士和人工智能高管提出了主权财富基金的想法，或以其他方式让美国公众在人工智能繁荣中占有一席之地，这要归功于他们对一个大型人类支持者的投资
-
-📅 2026-10-30T13:00:46.000Z
-
----
-
 ### Wired Technology
 **[Google云端硬盘内有一个免费的视频编辑器，任何人都可以使用](https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/)**
 
@@ -210,69 +210,89 @@ nemotron-halloween
 
 ## 📦 GitHub热门
 
+### GitHub Active (AI/ML)
+![paxeer-monorepo ： Paxeer X是用于支付、代码执行和意图路由的分布式超状态机。专为机器和操作它们的用户设计。](https://avatars.githubusercontent.com/u/315858149?v=4)
+
+**[paxeer-monorepo ： Paxeer X是用于支付、代码执行和意图路由的分布式超状态机。专为机器和操作它们的用户设计。](https://github.com/Sidiora-Labs/paxeer-monorepo)**
+
+⭐ 544星· 85叉·围棋· Paxeer X是用于支付、代码执行和意图路由的分布式超状态机专为机器和操作它们的用户设计
+
+📅 2026-11-02T02:07:24Z
+
+---
+
 ### GitHub New (New AI)
 ![🆕 Frontier-UI ：适用于Open WebUI的ChatGPT风格生成式UI ：照片库、带有真实路线的实时地图、多日游、预算、计算器、实时天气和股票、链接预览以及通过ArtCraft一键导出的Word/Excel/PowerPoint。一个文件，没有API密钥。](https://avatars.githubusercontent.com/u/181923470?v=4)
 
 **[🆕 Frontier-UI ：适用于Open WebUI的ChatGPT风格生成式UI ：照片库、带有真实路线的实时地图、多日游、预算、计算器、实时天气和股票、链接预览以及通过ArtCraft一键导出的Word/Excel/PowerPoint。一个文件，没有API密钥。](https://github.com/Jumbomuffin777/Frontier-UI)**
 
-⭐ 18 star (新项目) · Python · Chat**GPT**-style generative UI for Open WebUI: photo galleriesOne file, no API keys
+⭐ 31 star (新项目) · Python · Chat**GPT**-style generative UI for Open WebUI: photo galleriesOne file, no API keys
 
 📅 2026-11-01T06:41:23Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 AksharaCheck ： AksharaCheck使用Chromium检测印地语和卡纳达语文本渲染问题，并提供多语言BharatCode AI解释、视觉证据和浏览器验证的维修建议。](https://avatars.githubusercontent.com/u/191551616?v=4)
+![🆕 automated-job-posting-pipeline ： Node.js管道，用于收集、筛选人工智能、消除重复并发布包含示例数据的工作列表演示](https://avatars.githubusercontent.com/u/268778706?v=4)
 
-**[🆕 AksharaCheck ： AksharaCheck使用Chromium检测印地语和卡纳达语文本渲染问题，并提供多语言BharatCode AI解释、视觉证据和浏览器验证的维修建议。](https://github.com/ashh-droid/AksharaCheck)**
+**[🆕 automated-job-posting-pipeline ： Node.js管道，用于收集、筛选人工智能、消除重复并发布包含示例数据的工作列表演示](https://github.com/abchughtai786/automated-job-posting-pipeline)**
 
-⭐ 3 star (新项目) · HTML · AksharaCheck detects Hindi and Kannada text-rendering issues using Chromiumwith multilingual BharatCode AI explanations
+⭐ 2 star (新项目) · JavaScript · Nodejs pipeline that collects, screens with AI, de-duplicates and publishes job listings demo with sample data
 
-📅 2026-10-29T11:28:14Z
-
----
-
-### GitHub New (New AI)
-![🆕 awesome-ai-news-sources-zh: 精选 AI 资讯信源清单（中英双语）· Curated AI news sources, read daily by Zhiyike](https://avatars.githubusercontent.com/u/118032536?v=4)
-
-**[🆕 awesome-ai-news-sources-zh: 精选 AI 资讯信源清单（中英双语）· Curated AI news sources, read daily by Zhiyike](https://github.com/biletian/awesome-ai-news-sources-zh)**
-
-⭐ 3 star (新项目) · Python · 精选 AI 资讯信源清单（中英双语）· Curated AI **new**s sources, read daily by Zhiyike
-
-📅 2026-10-29T02:44:50Z
+📅 2026-11-01T23:14:44Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 atlas-lens-144 ： Ryan Vo |正在进行的工作： atlas-lens-144](https://avatars.githubusercontent.com/u/215324508?v=4)
+![🆕 tensor-station-144 ： Ryan Vo |正在进行的工作： tensor-station-144](https://avatars.githubusercontent.com/u/215324508?v=4)
 
-**[🆕 atlas-lens-144 ： Ryan Vo |正在进行的工作： atlas-lens-144](https://github.com/A220man/atlas-lens-144)**
+**[🆕 tensor-station-144 ： Ryan Vo |正在进行的工作： tensor-station-144](https://github.com/A220man/tensor-station-144)**
 
-⭐ 2 star (新项目) · Python · Ryan Vo | Work in progress: atlas-lens-144
+⭐ 2 star (新项目) · JavaScript · Ryan Vo | Work in progress: tensor-station-144
 
-📅 2026-10-29T21:14:05Z
+📅 2026-11-01T19:24:42Z
 
 ---
 
 ## 💬 社交动态
 
 ### Hacker News AI
-**[谷歌、Anthropic和其他公司将支持新的人工智能爬行选择退出标准](https://siliconangle.com/2026/10/30/google-anthropic-and-others-to-support-new-ai-crawling-opt-out-standard/)**
+**[AI Nerfs ： Claude、ChatGPT和Gemini今天被削弱了吗？](https://ai-nerfs.com)**
 
-文章网址： https://siliconanglecom/2026/10/30/**Google**-**Anthropic**-and-others-to-support-**new**-ai-crawling-opt-out-standard/评论网址： https://**new**s
+文章网址： https://ai-nerfscom评论网址： https://**new**s
 
-📅 Sun, 01 Nov 2026 18:39:51 +0000
+📅 Sun, 01 Nov 2026 23:14:01 +0000
 
 ---
 
 ### Reddit: r/artificial
-![“如果没有ChatGPT ，我哥哥还活着” ：在OpenAI的安全单元内](https://external-preview.redd.it/aXvg_3fKaj07b8-YEDRBvPjZ0V56wLQ040OGimlq_-8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f8e414c82cbe0ec707dd6ab0ef0303b7be5cec93)
+![半分析： 2028年数据中心建设面临美国中期选举后暂停的严重风险](https://preview.redd.it/wwqkhmt2u2zh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b282fdff3fa71bd9c87a1c0608078e3440dfca6b)
 
-**[“如果没有ChatGPT ，我哥哥还活着” ：在OpenAI的安全单元内](https://www.reddit.com/r/artificial/comments/1xkzv9y/if_it_wasnt_for_chatgpt_my_brother_would_still_be/)**
+**[半分析： 2028年数据中心建设面临美国中期选举后暂停的严重风险](https://www.reddit.com/r/artificial/comments/1xlgc7q/semianalysis_2028_data_center_buildouts_are_at/)**
 
-An Observer investigation reveals how **OpenAI**’s race for dominance has compromised user safetywith conversational AI linked to psychiatric crises and violence submitted by /u/TheObserverUK [link] [comments]
+Chat**GPT**或**Claude**速率限制增加的任何希望习主席，请为我们保存🙏https://**new**sletter
 
-📅 2026-11-01T10:35:40.000Z
+📅 2026-11-01T22:25:31.000Z
+
+---
+
+### Reddit: r/artificial
+![OpenAI现在限制每个设备和支付卡可以拥有的ChatGPT付费账户数量](https://external-preview.redd.it/DZ51iJNjU4-9Tp8E_R3kWqN9W0oRB7A7oqFC16tURFI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=abfced9192c11565416eab39dd177afcc5309650)
+
+**[OpenAI现在限制每个设备和支付卡可以拥有的ChatGPT付费账户数量](https://www.reddit.com/r/artificial/comments/1xlfdof/openai_is_now_capping_how_many_paid_chatgpt/)**
+
+提交者/u/Alone-Dragonfruit602 [link] [comments]
+
+📅 2026-11-01T21:44:45.000Z
+
+---
+
+### Reddit: r/artificial
+**[DeepSeek开源超级智能体编码原型：一台路由器，多个Worker ，最少的人工关注](https://www.reddit.com/r/artificial/comments/1xlc9ye/deepseek_opensources_a_superagent_coding/)**
+
+这个想法不是一个新的基础模型它是围绕现有模型驱动的工具进行的编排，是为一个GitHub存储库构建的
+
+📅 2026-11-01T19:38:51.000Z
 
 ---
 
@@ -281,7 +301,7 @@ An Observer investigation reveals how **OpenAI**’s race for dominance has comp
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-11-01T19:24:32.904Z
+📅 2026-11-02T02:08:09.499Z
 
 ---
 
@@ -290,43 +310,25 @@ An Observer investigation reveals how **OpenAI**’s race for dominance has comp
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-11-01T19:24:39.953Z
+📅 2026-11-02T02:08:14.601Z
 
 ---
 
 ### Hacker News
 **[显示HN ： HackerBooks - HackerTube ，但适用于HN上提到的书籍](https://hackerbooks.org)**
 
-So I had **Claude** build one (Opus 5To be clear: **Claude** wrote almost all of it, including the data pipeline and the site
+所以我让克劳德构建了一个（作品5要清楚：克劳德写了几乎所有的作品，包括数据管道和网站
 
 📅 Sun, 01 Nov 2026 15:58:28 +0000
 
 ---
 
-### Hacker News AI
-**[Muse AI agent是一个伪装成AI助手的商业监控网络](https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial)**
-
-Article URL: https://paulfwalshcom/p/**Meta**s-muse-ai-agent-is-a-commercial Comments URL: https://**new**s
-
-📅 Sun, 01 Nov 2026 18:33:02 +0000
-
----
-
 ### Reddit: r/artificial
-**[X/Twitter让人工智能开发看起来毫不费力，但我一直在未完成的项目上燃烧代币。您实际上是如何交付完整的应用程序的？](https://www.reddit.com/r/artificial/comments/1xl815r/xtwitter_makes_ai_dev_look_effortless_but_i_keep/)**
+**[未标记的ChatGPT对话](https://www.reddit.com/r/artificial/comments/1xlkkov/unflagged_chatgpt_conversations/)**
 
-and full-stack side projects they supposedly "built in 2 hours completely with AII’ll start building with **Claude** and/or Codex (depending on the project but at this point they’re pretty much the same)
+如果未在/u/desai43 [link] [comments]提交的真实时间内标记， AI （特别是本案例中的Chat**GPT** ）是否追溯审查或标记对话[link] [comments]
 
-📅 2026-11-01T16:53:42.000Z
-
----
-
-### Reddit: r/artificial
-**[双子座无法跟随对话](https://www.reddit.com/r/artificial/comments/1xktuw3/gemini_could_not_follow_the_conversation/)**
-
-tonight I was amazed at the fact that I asked **Gemini** where Americans sit on average on IQ scores and it told me"what is a quick way for a person to tell where they are
-
-📅 2026-11-01T04:17:31.000Z
+📅 2026-11-02T01:42:49.000Z
 
 ---
 
