@@ -1,19 +1,19 @@
 ---
 title: "2026年11月2日 - TZ日报"
-date: 2026-11-02T02:09:11.891Z
+date: 2026-11-02T23:02:57.475Z
 draft: false
 ---
 
 # 2026年11月2日 - TZ日报
 
-> 📊 今日汇总 32 条 · 🕐 2026/11/2 02:09:11
+> 📊 今日汇总 38 条 · 🕐 2026/11/2 23:02:57
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 2 条
+- **前沿研究**: 8 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -22,21 +22,50 @@ draft: false
 
 ## ✨ 产品更新
 
-### OpenAI Blog
-**[社区安全报告和针对青少年的新保护措施](https://openai.com/index/community-safety-report-and-new-protections-for-teens)**
+### TechCrunch AI Products
+**[OpenAI终于合并了ChatGPT的“聊天”和“工作”选项卡](https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/)**
 
-**OpenAI**正在通过扩大保障措施和对公共安全报告的新承诺来加强Chat**GPT**的暴力预防
+**OpenAI**表示， Chat**GPT**和Codex将在此更改后从相同的分配池中提取使用情况。
 
-📅 Fri, 30 Oct 2026 09:00:00 GMT
+📅 Mon, 02 Nov 2026 13:57:53 +0000
 
 ---
 
 ### OpenAI Blog
-**[让网站更容易表达人工智能培训偏好](https://openai.com/index/helping-websites-express-ai-training-preferences)**
+**[电网保护器计划简介](https://openai.com/index/grid-protectors-program)**
 
-**OpenAI**将尊重共享的robotstxt信号，以帮助网站运营商向参与的提供商传达他们的人工智能培训偏好
+**OpenAI**的电网保护器计划将与公用事业公司合作，帮助未来的计算园区支持电网可靠性并保护消费者的电力成本
 
-📅 Fri, 30 Oct 2026 09:30:00 GMT
+📅 Mon, 02 Nov 2026 15:00:00 GMT
+
+---
+
+### Google AI Blog
+![我们在2026年10月宣布的最新人工智能新闻](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp)
+
+**[我们在2026年10月宣布的最新人工智能新闻](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/)**
+
+以下是2026年10月谷歌最新的人工智能**更新**
+
+📅 Mon, 02 Nov 2026 17:45:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[Anthropic警告说，它非常接近RSI能力，也就是自我构建的人工智能](https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/)**
+
+RSI是人工智能发展得如此擅长训练自己的点，以至于它催生了人工智能能力的急剧加速对于人工智能的毁灭者来说， RSI代表了无法回报的灾难
+
+📅 Mon, 02 Nov 2026 22:14:50 +0000
+
+---
+
+### TechCrunch AI Products
+**[《纽约时报》和其他媒体起诉网络浏览器Brave涉嫌内容抓取](https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/)**
+
+《纽约时报》起诉以隐私为中心的网络浏览器公司Brave涉嫌抓取该网站的版权内容，并将其非法分发给自己的客户，如**Anthropic**和Perplexity
+
+📅 Mon, 02 Nov 2026 19:19:17 +0000
 
 ---
 
@@ -49,184 +78,200 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[据报道， OpenAI降低了新一轮融资目标](https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/)**
+### OpenAI Blog
+**[LifeVal](https://openai.com/index/lifeval)**
 
-**OpenAI**的最新一轮融资似乎没有达到预期。
+衡量人工智能如何帮助人们完成日常任务的基准，从寻找托儿服务到管理财务和政府文书工作
 
-📅 Sat, 31 Oct 2026 16:12:55 +0000
+📅 Mon, 02 Nov 2026 09:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[Qodo使用Codex将上下文构建到AI代码审查中](https://openai.com/index/qodo-codex-plugin)**
+
+Qodo将公司知识和编码标准引入Codex ，帮助开发人员在打开拉取请求之前跨存储库捕获P0问题
+
+📅 Mon, 02 Nov 2026 00:00:00 GMT
 
 ---
 
 ### TechCrunch AI Products
-**[英伟达将为Nscale位于西弗吉尼亚州的人工智能数据中心配音](https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/)**
+**[网络主机Squarespace裁员19%](https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/)**
 
-当投资者对人工智能支出感到紧张时，让出售芯片的芯片制造商提出共同签署贷款会有所帮助
+网站建设者表示，裁员是其组织更广泛重组的一部分
 
-📅 Sat, 31 Oct 2026 01:20:05 +0000
-
----
-
-### TechCrunch AI Products
-**[英国《金融时报》报告称， Anthropic预计将在IPO后获得信贷机构的高“垃圾”评级](https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/)**
-
-Blackstone的预测只是一个预测，即高垃圾评级将使**Anthropic**更难以筹集资金，以继续为其作为其业务基础的巨额支出提供资金
-
-📅 Fri, 30 Oct 2026 21:52:03 +0000
-
----
-
-### Hugging Face
-**[nemotron-halloween](https://huggingface.co/blog/nvidia/nemotron-halloween)**
-
-nemotron-halloween
-
-📅 Fri, 30 Oct 2026 17:57:24 GMT
+📅 Mon, 02 Nov 2026 19:25:59 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[人工智能可以让科技CEO的生活更轻松。其他人呢？](https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/)**
+**[42AI凭借$ 6250万和一个可以“预测人类行为”的世界模型脱颖而出](https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/)**
 
-在Equity上，我们讨论了为什么科技公司首席执行官的声明看起来如此充耳不闻。
+这里有一个直接来自科幻小说的问题：如果人工智能可以在你决定之前预测你要做什么，即使是在一个全新的情况下
 
-📅 Sun, 01 Nov 2026 20:57:58 +0000
-
----
-
-### TechCrunch AI Products
-**[苹果首席执行官表示，该公司“不想为人工智能出货”](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/)**
-
-苹果新任首席执行官为公司目前在人工智能领域的地位辩护。
-
-📅 Sat, 31 Oct 2026 21:41:00 +0000
-
----
-
-### TechCrunch AI Products
-**[还剩4天： TechCrunch创始人峰会如何帮助您建立更有用的联系以扩大规模](https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/)**
-
-11月4日，在波士顿的SoWa发电站，准备好迎接充满有意义的交流机会的一整天
-
-📅 Sat, 31 Oct 2026 21:36:07 +0000
+📅 Mon, 02 Nov 2026 16:30:00 +0000
 
 ---
 
 ## 🔬 前沿研究
 
-### Science AI
-**[早期职业研究人员在美国国立卫生研究院成立工会的权利得到维护，反对该机构的请愿](https://www.science.org/content/article/early-career-researchers-right-unionize-nih-upheld-against-agency-s-petition)**
+### ArXiv Multiagent (cs.MA)
+**[可重新协商的期权未能阻止两个利润最大化前沿LLM代理商之间的停滞](https://arxiv.org/abs/2610.40961)**
 
-美国国立卫生研究院反对工会的论点站不住脚，裁定一个监督劳资关系的联邦实体
+40961v1公告类型： CROSS摘要：保护人与人之间投资的合同条款也保护利润最大化语言模型代理之间的合同条款我们有**Claude** Opus 5
 
-📅 2026-10-30T04:45:00.000Z
+📅 Mon, 02 Nov 2026 00:00:00 -0500
 
 ---
 
-### Science AI
-**[骨骼可能会释放蛋白质，减缓衰老并延长寿命](https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span)**
+### ArXiv Machine Learning (cs.LG)
+**[AutoHebb ： Zero-Shot推断和不断学习的自我修改神经网络](https://arxiv.org/abs/2610.40757)**
 
-运动触发称为骨细胞的骨细胞在小鼠体内分泌抗衰老化学物质
+40757v1公告类型：新摘要：人类和动物在新环境下具有独特的泛化和学习能力现有模型通常缺乏对大脑中的ZI和CL至关**重要**的成分
 
-📅 2026-10-30T02:50:00.000Z
+📅 Mon, 02 Nov 2026 00:00:00 -0500
+
+---
+
+### ArXiv Machine Learning (cs.LG)
+**[FARO ：通过跨区块等风险贡献预算分配实现功能空间自适应风险回报优化](https://arxiv.org/abs/2610.40858)**
+
+40858v1公告类型：新建摘要：训练大型语言模型是计算绑定的在Fi**new**eb上训练的**GPT**风格模型上，框架给出两个结果
+
+📅 Mon, 02 Nov 2026 00:00:00 -0500
+
+---
+
+### ArXiv Computer Vision (cs.CV)
+**[DyCraft ：用于长视野4D场景生成的代理系统](https://arxiv.org/abs/2610.40754)**
+
+40754v1公告类型：新摘要：而前沿编码代理可以生成高质量的3D场景和铰接资产与Codex中的本地**GPT**-6代理和先前的代理基线相比
+
+📅 Mon, 02 Nov 2026 00:00:00 -0500
+
+---
+
+### ArXiv Computer Vision (cs.CV)
+**[全身PSMA PET/CT转移分割的空间图谱知情损失集合](https://arxiv.org/abs/2610.40834)**
+
+40834v1公告类型：新摘要：现有的全身PSMA PET/CT前列腺转移分割方法通常仅依赖于图像我们研究当集成到模型训练中时，群体转移图谱是否可以提高病变检测
+
+📅 Mon, 02 Nov 2026 00:00:00 -0500
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[CoFiBreak ：有效多回合越狱的从粗到细的多元化奖励](https://arxiv.org/abs/2610.40926)**
+
+40926v1公告类型：新摘要：自动红色分组训练攻击者大型语言模型（ LLM ） ，以引发AdvBench上受害者LLM0% ASR @ 10与看不见的受害者**Claude**-Opus-4的有害反应
+
+📅 Mon, 02 Nov 2026 00:00:00 -0500
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[更少的头，更少的记忆：修剪多余的注意头，抑制逐字记忆](https://arxiv.org/abs/2610.40974)**
+
+40974v1公告类型：新摘要：大型语言模型已被证明可以从其训练数据中记忆和再现逐字序列评估**GPT**-2-XL (1
+
+📅 Mon, 02 Nov 2026 00:00:00 -0500
+
+---
+
+### ArXiv Robotics (cs.RO)
+**[CaPtain ：后期训练代码即策略机器人代理的管道](https://arxiv.org/abs/2610.40799)**
+
+40799v1公告类型：新摘要：跨编码我们首先通过SFT将基础模型对准使用**GPT**-6 ASTRA生成的合成轨迹，然后应用多圈RL
+
+📅 Mon, 02 Nov 2026 00:00:00 -0500
 
 ---
 
 ## 🌍 行业展望
 
 ### The Information Technology
-![亿万富翁税收可能失败-目前](https://tii.imgix.net/article/pictures/newsletters-production/af363998-48ea-44e0-85fa-7cb6f90780cb-k8kx6d.avif?auto=compress)
+**[DeepSeek推出自主编码代理原型](https://www.theinformation.com/briefings/deepseek-unveils-autonomous-coding-agent-prototype)**
 
-**[亿万富翁税收可能失败-目前](https://www.theinformation.com/articles/billionaire-tax-might-fail-for-now)**
+DeepSeek**推出**了一种新的自主编码代理原型，作为中国人工智能实验室加紧努力与**Anthropic**的**Claude** Code竞争
 
-周二是亿万富翁税务判决日加文·纽森（ Gavin **new**som ）也表示他反对第40号提案
-
-📅 2026-10-31T15:01:29.000Z
+📅 2026-11-02T05:55:08.000Z
 
 ---
 
 ### The Information Technology
-**[The Information的WTF图片峰会](https://www.theinformation.com/articles/informations-wtf-summit-pictures-2)**
+**[现在是合同续签季节，但有些客户并不咬人](https://www.theinformation.com/articles/contract-renewal-season-customers-biting)**
 
-**Anthropic**Google数据中心能源全球主管的女性领导者
+出于几个原因， **OpenAI**或任何其他模型提供商模型**发布**的快速步伐意味着企业希望灵活地快速切换到任何最好的新模型
 
-📅 2026-11-01T21:52:32.000Z
-
----
-
-### The Information Technology
-**[Apple、优步和选举头条新闻周](https://www.theinformation.com/articles/apple-uber-elections-headline-week)**
-
-对过度人工智能支出的担忧上周挫败了谷歌的股票，并将纳斯达克综合指数推至2025年3月以来最糟糕的一个月Palantir上半年的资本支出仅为$ 2200万
-
-📅 2026-11-01T23:00:47.000Z
+📅 2026-11-02T15:01:23.000Z
 
 ---
 
 ### The Information Technology
-**[谷歌能源主管：太空数据中心的成本比地球上的数据中心高出100倍](https://www.theinformation.com/articles/google-energy-chief-space-data-centers-cost-100-times-earth)**
+**[独家： OpenAI与Magnite签约， PubMatic填补未使用的ChatGPT广告空间](https://www.theinformation.com/briefings/exclusive-openai-sign-deals-magnite-pubmatic-fill-unused-chatgpt-ad-space)**
 
-谷歌数据中心能源主管本周表示，一家公司正在测试AI服务器芯片
+**OpenAI**已与Magnite和PubMatict签署协议，填补Chat**GPT**上未使用的广告空间
 
-📅 2026-11-01T16:30:45.000Z
+📅 2026-11-02T15:00:48.000Z
+
+---
+
+### ZDNet AI
+**[OpenAI将合并ChatGPT的聊天和工作选项卡–这是何时以及会发生什么](https://www.zdnet.com/innovation/openai-merge-chatgpt-chat-work-tabs/)**
+
+**OpenAI**将合并Chat**GPT**的聊天和工作选项卡–这是何时以及会发生什么
+
+📅 2026-11-02T18:01:55.000Z
+
+---
+
+### The Verge
+![Anthropic压制Claude的人工智能视频游戏克隆](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[Anthropic压制Claude的人工智能视频游戏克隆](https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones)**
+
+**Anthropic**已**更新**了**Claude** Code的系统提示，以防止人工智能工具被用于重新创建现有的视频游戏，但**Anthropic**仍将允许人们使用**Claude** Code制作游戏
+
+📅 2026-11-02T18:56:02.000Z
 
 ---
 
 ### The Information Technology
-**[Meta与中国初创公司合作打造人形原型，推动机器人技术发展](https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push)**
+**[Anthropic第三季度收入飙升至170亿美元，重返运营亏损](https://www.theinformation.com/briefings/anthropics-revenue-surged-17-billion-q3-swung-back-operating-loss)**
 
-目标是帮助**Meta**在其机器人部门开发一款更加精致的未来产品，该产品最终可以作为未设定**发布**目标的产品**发布**
+截至9月份的第三季度， **Anthropic**报告了近170亿美元的收入AI公司报告了23美元
 
-📅 2026-10-31T16:00:40.000Z
-
----
-
-### The Information Technology
-**[在人工智能支出飙升的情况下，标准普尔下调Meta的信用展望](https://www.theinformation.com/briefings/s-p-lowers-metas-credit-outlook-amid-soaring-ai-spending)**
-
-标准普尔全球评级（ S&P Global Ratings ）将其对**Meta** Platforms的信用评级前景从稳定下调至负面。”
-
-📅 2026-10-31T00:43:11.000Z
+📅 2026-11-02T15:12:33.000Z
 
 ---
 
-### Wired Technology
-**[Google云端硬盘内有一个免费的视频编辑器，任何人都可以使用](https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/)**
+### Ars Technica
+**[克劳德禁止游戏克隆的新规则不会阻止人工智能复制热潮](https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/)**
 
-您可能没有注意到**Google**的免费软件套件提供的所有功能，尤其是名为**Google** Vids的网络应用程序
+模仿者的海啸比任何一个模型制造商都要大得多。
 
-📅 Sun, 01 Nov 2026 12:00:00 +0000
+📅 Mon, 02 Nov 2026 18:05:31 +0000
 
 ---
 
-### Wired Technology
-**[最佳Chromebook和Googlebook （ 2026 ） ：配备Google Touch的笔记本电脑](https://www.wired.com/story/best-chromebooks/)**
+### ZDNet AI
+**[Athenahealth患者现在可以向Claude询问他们的医疗记录](https://www.zdnet.com/health/athenahealth-claude-ai-medical-partnership/)**
 
-虽然谷歌正在预示着名为**Google**books的新系列笔记本电脑，但Chromebook仍然存在-目前这些是值得考虑的
+Athenahealth患者现在可以向**Claude**询问他们的医疗记录
 
-📅 Sun, 01 Nov 2026 10:00:00 +0000
+📅 2026-11-02T17:30:47.000Z
 
 ---
 
 ## 📦 GitHub热门
-
-### GitHub Active (AI/ML)
-![paxeer-monorepo ： Paxeer X是用于支付、代码执行和意图路由的分布式超状态机。专为机器和操作它们的用户设计。](https://avatars.githubusercontent.com/u/315858149?v=4)
-
-**[paxeer-monorepo ： Paxeer X是用于支付、代码执行和意图路由的分布式超状态机。专为机器和操作它们的用户设计。](https://github.com/Sidiora-Labs/paxeer-monorepo)**
-
-⭐ 544星· 85叉·围棋· Paxeer X是用于支付、代码执行和意图路由的分布式超状态机专为机器和操作它们的用户设计
-
-📅 2026-11-02T02:07:24Z
-
----
 
 ### GitHub New (New AI)
 ![🆕 Frontier-UI ：适用于Open WebUI的ChatGPT风格生成式UI ：照片库、带有真实路线的实时地图、多日游、预算、计算器、实时天气和股票、链接预览以及通过ArtCraft一键导出的Word/Excel/PowerPoint。一个文件，没有API密钥。](https://avatars.githubusercontent.com/u/181923470?v=4)
 
 **[🆕 Frontier-UI ：适用于Open WebUI的ChatGPT风格生成式UI ：照片库、带有真实路线的实时地图、多日游、预算、计算器、实时天气和股票、链接预览以及通过ArtCraft一键导出的Word/Excel/PowerPoint。一个文件，没有API密钥。](https://github.com/Jumbomuffin777/Frontier-UI)**
 
-⭐ 31 star (新项目) · Python · Chat**GPT**-style generative UI for Open WebUI: photo galleriesOne file, no API keys
+⭐ 51 star (新项目) · Python · Chat**GPT**-style generative UI for Open WebUI: photo galleriesOne file, no API keys
 
 📅 2026-11-01T06:41:23Z
 
@@ -237,9 +282,20 @@ nemotron-halloween
 
 **[🆕 automated-job-posting-pipeline ： Node.js管道，用于收集、筛选人工智能、消除重复并发布包含示例数据的工作列表演示](https://github.com/abchughtai786/automated-job-posting-pipeline)**
 
-⭐ 2 star (新项目) · JavaScript · Nodejs pipeline that collects, screens with AI, de-duplicates and publishes job listings demo with sample data
+⭐ 3 star (新项目) · JavaScript · Nodejs pipeline that collects, screens with AI, de-duplicates and publishes job listings demo with sample data
 
 📅 2026-11-01T23:14:44Z
+
+---
+
+### GitHub New (New AI)
+![🆕 RSI-Bench ：前沿基础模型基准](https://avatars.githubusercontent.com/u/22252491?v=4)
+
+**[🆕 RSI-Bench ：前沿基础模型基准](https://github.com/KCFindstr/RSI-Bench)**
+
+⭐ 3 star (新项目) · Python · Frontier Foundation Model Benchmark
+
+📅 2026-11-01T05:07:15Z
 
 ---
 
@@ -256,52 +312,12 @@ nemotron-halloween
 
 ## 💬 社交动态
 
-### Hacker News AI
-**[AI Nerfs ： Claude、ChatGPT和Gemini今天被削弱了吗？](https://ai-nerfs.com)**
-
-文章网址： https://ai-nerfscom评论网址： https://**new**s
-
-📅 Sun, 01 Nov 2026 23:14:01 +0000
-
----
-
-### Reddit: r/artificial
-![半分析： 2028年数据中心建设面临美国中期选举后暂停的严重风险](https://preview.redd.it/wwqkhmt2u2zh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b282fdff3fa71bd9c87a1c0608078e3440dfca6b)
-
-**[半分析： 2028年数据中心建设面临美国中期选举后暂停的严重风险](https://www.reddit.com/r/artificial/comments/1xlgc7q/semianalysis_2028_data_center_buildouts_are_at/)**
-
-Chat**GPT**或**Claude**速率限制增加的任何希望习主席，请为我们保存🙏https://**new**sletter
-
-📅 2026-11-01T22:25:31.000Z
-
----
-
-### Reddit: r/artificial
-![OpenAI现在限制每个设备和支付卡可以拥有的ChatGPT付费账户数量](https://external-preview.redd.it/DZ51iJNjU4-9Tp8E_R3kWqN9W0oRB7A7oqFC16tURFI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=abfced9192c11565416eab39dd177afcc5309650)
-
-**[OpenAI现在限制每个设备和支付卡可以拥有的ChatGPT付费账户数量](https://www.reddit.com/r/artificial/comments/1xlfdof/openai_is_now_capping_how_many_paid_chatgpt/)**
-
-提交者/u/Alone-Dragonfruit602 [link] [comments]
-
-📅 2026-11-01T21:44:45.000Z
-
----
-
-### Reddit: r/artificial
-**[DeepSeek开源超级智能体编码原型：一台路由器，多个Worker ，最少的人工关注](https://www.reddit.com/r/artificial/comments/1xlc9ye/deepseek_opensources_a_superagent_coding/)**
-
-这个想法不是一个新的基础模型它是围绕现有模型驱动的工具进行的编排，是为一个GitHub存储库构建的
-
-📅 2026-11-01T19:38:51.000Z
-
----
-
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-11-02T02:08:09.499Z
+📅 2026-11-02T23:01:39.852Z
 
 ---
 
@@ -310,25 +326,61 @@ Chat**GPT**或**Claude**速率限制增加的任何希望习主席，请为我�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-11-02T02:08:14.601Z
+📅 2026-11-02T23:01:44.938Z
 
 ---
 
 ### Hacker News
-**[显示HN ： HackerBooks - HackerTube ，但适用于HN上提到的书籍](https://hackerbooks.org)**
+**[美国证券交易委员会应阻止Anthropic的IPO以保护公众](https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/)**
 
-所以我让克劳德构建了一个（作品5要清楚：克劳德写了几乎所有的作品，包括数据管道和网站
+文章网址： https://wwwpress/the-sec-should-block-**Anthropic**s-ipo-to-protect-the-public/评论网址： https://**new**s
 
-📅 Sun, 01 Nov 2026 15:58:28 +0000
+📅 Mon, 02 Nov 2026 22:30:47 +0000
 
 ---
 
-### Reddit: r/artificial
-**[未标记的ChatGPT对话](https://www.reddit.com/r/artificial/comments/1xlkkov/unflagged_chatgpt_conversations/)**
+### Hacker News
+**[潜入礼堂进行Windows 2000发布排练](https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/)**
 
-如果未在/u/desai43 [link] [comments]提交的真实时间内标记， AI （特别是本案例中的Chat**GPT** ）是否追溯审查或标记对话[link] [comments]
+com/old**new**thing/20261102-00/p = 112818/评论网址： https://**new**s
 
-📅 2026-11-02T01:42:49.000Z
+📅 Mon, 02 Nov 2026 18:12:48 +0000
+
+---
+
+### Hacker News AI
+**[Alphabet正在洽谈收购助理初创公司Howie AI](https://www.axios.com/pro/merger-deals/2026/11/02/google-alphabet-howie-ai-assistant)**
+
+文章网址： https://wwwcom/pro/merger-deals/2026/11/02/**Google**-alphabet-howie-ai-assistant评论网址： https://**new**s
+
+📅 Mon, 02 Nov 2026 22:41:23 +0000
+
+---
+
+### Hacker News AI
+**[利用人工智能加快[建筑]规划决策](https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/)**
+
+文章网址： https://deepmind**Google**/blog/speeding-up-planning-decisions-with-ai/评论网址： https://**new**s
+
+📅 Mon, 02 Nov 2026 21:01:01 +0000
+
+---
+
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Title: 520: Web服务器返回未知错误
+
+📅 2026-11-02T23:01:39.851Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误520 ：未知
+
+📅 2026-11-02T23:01:39.852Z
 
 ---
 
