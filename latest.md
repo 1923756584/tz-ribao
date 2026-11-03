@@ -1,12 +1,12 @@
 ---
-title: "2026年11月2日 - TZ日报"
-date: 2026-11-02T23:02:57.475Z
+title: "2026年11月3日 - TZ日报"
+date: 2026-11-03T03:53:55.014Z
 draft: false
 ---
 
-# 2026年11月2日 - TZ日报
+# 2026年11月3日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/11/2 23:02:57
+> 📊 今日汇总 37 条 · 🕐 2026/11/3 03:53:55
 
 ---
 
@@ -16,18 +16,18 @@ draft: false
 - **前沿研究**: 8 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
-- **社交动态**: 8 条
+- **社交动态**: 7 条
 
 ---
 
 ## ✨ 产品更新
 
-### TechCrunch AI Products
-**[OpenAI终于合并了ChatGPT的“聊天”和“工作”选项卡](https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/)**
+### OpenAI Blog
+**[在OpenAI上扩展Git](https://openai.com/index/scaling-git-at-openai)**
 
-**OpenAI**表示， Chat**GPT**和Codex将在此更改后从相同的分配池中提取使用情况。
+**OpenAI**如何构建Pando ，这是一个为Codex实现的开发规模而设计的Git兼容后端
 
-📅 Mon, 02 Nov 2026 13:57:53 +0000
+📅 Mon, 02 Nov 2026 15:30:00 GMT
 
 ---
 
@@ -40,6 +40,33 @@ draft: false
 
 ---
 
+### OpenAI Blog
+**[用更大的虫子赏金奖励防御者](https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties)**
+
+**OpenAI**正在提高安全漏洞赏金奖励，并为独立安全研究人员**推出**报告质量和优先活动奖金
+
+📅 Mon, 02 Nov 2026 18:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[准备我们的下一个安全冲刺来强化OpenAI](https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai)**
+
+**OpenAI**正在准备与Cathedral Systems进行下一次内部安全冲刺，以测试和加强其使用AI的防御
+
+📅 Mon, 02 Nov 2026 18:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[OpenAI任命Dan Driscoll为国家安全现代化高级顾问](https://openai.com/index/dan-driscoll-joins-openai)**
+
+**OpenAI**任命Dan Driscoll就国家安全现代化、网络弹性和与Uallies合作的负责任人工智能提供建议
+
+📅 Mon, 02 Nov 2026 00:00:00 GMT
+
+---
+
 ### Google AI Blog
 ![我们在2026年10月宣布的最新人工智能新闻](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp)
 
@@ -48,6 +75,15 @@ draft: false
 以下是2026年10月谷歌最新的人工智能**更新**
 
 📅 Mon, 02 Nov 2026 17:45:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[谷歌将Dreambeans带到印度，将AI生成的个人故事带给大众](https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/)**
+
+谷歌最新的人工智能实验Dreambeans现在支持13种印度语言。
+
+📅 Tue, 03 Nov 2026 03:30:00 +0000
 
 ---
 
@@ -69,48 +105,12 @@ RSI是人工智能发展得如此擅长训练自己的点，以至于它催生�
 
 ---
 
-### TechCrunch AI Products
-**[OpenAI可能会将其数据中心重新命名为“AI计算园区”](https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/)**
-
-数据中心非常不受欢迎。但是，如果我们称之为其他东西呢？
-
-📅 Sun, 01 Nov 2026 21:55:23 +0000
-
----
-
 ### OpenAI Blog
 **[LifeVal](https://openai.com/index/lifeval)**
 
 衡量人工智能如何帮助人们完成日常任务的基准，从寻找托儿服务到管理财务和政府文书工作
 
 📅 Mon, 02 Nov 2026 09:00:00 GMT
-
----
-
-### OpenAI Blog
-**[Qodo使用Codex将上下文构建到AI代码审查中](https://openai.com/index/qodo-codex-plugin)**
-
-Qodo将公司知识和编码标准引入Codex ，帮助开发人员在打开拉取请求之前跨存储库捕获P0问题
-
-📅 Mon, 02 Nov 2026 00:00:00 GMT
-
----
-
-### TechCrunch AI Products
-**[网络主机Squarespace裁员19%](https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/)**
-
-网站建设者表示，裁员是其组织更广泛重组的一部分
-
-📅 Mon, 02 Nov 2026 19:25:59 +0000
-
----
-
-### TechCrunch AI Products
-**[42AI凭借$ 6250万和一个可以“预测人类行为”的世界模型脱颖而出](https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/)**
-
-这里有一个直接来自科幻小说的问题：如果人工智能可以在你决定之前预测你要做什么，即使是在一个全新的情况下
-
-📅 Mon, 02 Nov 2026 16:30:00 +0000
 
 ---
 
@@ -191,29 +191,11 @@ Qodo将公司知识和编码标准引入Codex ，帮助开发人员在打开拉�
 ## 🌍 行业展望
 
 ### The Information Technology
-**[DeepSeek推出自主编码代理原型](https://www.theinformation.com/briefings/deepseek-unveils-autonomous-coding-agent-prototype)**
-
-DeepSeek**推出**了一种新的自主编码代理原型，作为中国人工智能实验室加紧努力与**Anthropic**的**Claude** Code竞争
-
-📅 2026-11-02T05:55:08.000Z
-
----
-
-### The Information Technology
 **[现在是合同续签季节，但有些客户并不咬人](https://www.theinformation.com/articles/contract-renewal-season-customers-biting)**
 
 出于几个原因， **OpenAI**或任何其他模型提供商模型**发布**的快速步伐意味着企业希望灵活地快速切换到任何最好的新模型
 
 📅 2026-11-02T15:01:23.000Z
-
----
-
-### The Information Technology
-**[独家： OpenAI与Magnite签约， PubMatic填补未使用的ChatGPT广告空间](https://www.theinformation.com/briefings/exclusive-openai-sign-deals-magnite-pubmatic-fill-unused-chatgpt-ad-space)**
-
-**OpenAI**已与Magnite和PubMatict签署协议，填补Chat**GPT**上未使用的广告空间
-
-📅 2026-11-02T15:00:48.000Z
 
 ---
 
@@ -231,9 +213,18 @@ DeepSeek**推出**了一种新的自主编码代理原型，作为中国人工�
 
 **[Anthropic压制Claude的人工智能视频游戏克隆](https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones)**
 
-**Anthropic**已**更新**了**Claude** Code的系统提示，以防止人工智能工具被用于重新创建现有的视频游戏，但**Anthropic**仍将允许人们使用**Claude** Code制作游戏
+**Anthropic**已**更新**Claude Code的系统提示，以防止使用AI工具重新创建现有视频游戏，但**Anthropic**仍将允许人们使用**Claude** Code制作游戏
 
 📅 2026-11-02T18:56:02.000Z
+
+---
+
+### The Information Technology
+**[OpenAI聘请前陆军部长担任高级顾问](https://www.theinformation.com/briefings/openai-hires-ex-army-secretary-senior-advisor)**
+
+前UArmy秘书Dan Driscoll将加入**OpenAI** ，帮助扩大该人工智能公司的技术在国防和其他军事应用中的应用
+
+📅 2026-11-03T00:34:05.000Z
 
 ---
 
@@ -264,6 +255,17 @@ Athenahealth患者现在可以向**Claude**询问他们的医疗记录
 
 ---
 
+### The Verge
+![Meta将于2027年结束Quest 2操作系统更新](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21869421/akrales_200904_4160_0135.0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[Meta将于2027年结束Quest 2操作系统更新](https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates)**
+
+**Meta**计划在2027年3月之前**发布**其Quest 2和Quest Pro VR耳机的最新操作系统**更新**，该公司今天宣布： “该公司在计划于2027年春季**推出**的新VR眼镜**发布**之前宣布这一转变
+
+📅 2026-11-02T21:04:20.000Z
+
+---
+
 ## 📦 GitHub热门
 
 ### GitHub New (New AI)
@@ -271,9 +273,20 @@ Athenahealth患者现在可以向**Claude**询问他们的医疗记录
 
 **[🆕 Frontier-UI ：适用于Open WebUI的ChatGPT风格生成式UI ：照片库、带有真实路线的实时地图、多日游、预算、计算器、实时天气和股票、链接预览以及通过ArtCraft一键导出的Word/Excel/PowerPoint。一个文件，没有API密钥。](https://github.com/Jumbomuffin777/Frontier-UI)**
 
-⭐ 51 star (新项目) · Python · Chat**GPT**-style generative UI for Open WebUI: photo galleriesOne file, no API keys
+⭐ 53 star (新项目) · Python · Chat**GPT**-style generative UI for Open WebUI: photo galleriesOne file, no API keys
 
 📅 2026-11-01T06:41:23Z
+
+---
+
+### GitHub Active (AI/ML)
+![awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
+
+**[awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
+
+⭐ 463星· 39分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作管道刷新
+
+📅 2026-11-03T03:51:31Z
 
 ---
 
@@ -299,34 +312,23 @@ Athenahealth患者现在可以向**Claude**询问他们的医疗记录
 
 ---
 
-### GitHub New (New AI)
-![🆕 tensor-station-144 ： Ryan Vo |正在进行的工作： tensor-station-144](https://avatars.githubusercontent.com/u/215324508?v=4)
-
-**[🆕 tensor-station-144 ： Ryan Vo |正在进行的工作： tensor-station-144](https://github.com/A220man/tensor-station-144)**
-
-⭐ 2 star (新项目) · JavaScript · Ryan Vo | Work in progress: tensor-station-144
-
-📅 2026-11-01T19:24:42Z
-
----
-
 ## 💬 社交动态
 
-### X: OpenAI
-**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Reddit: r/artificial
+**[我将ChatGPT、Claude、Gemini等制作成免费的文本转语音网站。](https://www.reddit.com/r/artificial/comments/1xmim57/i_made_chatgpt_claude_gemini_etc_into_free/)**
 
-网址来源： http://twitter.com/**OpenAI**
+如今，所有流行的人工智能聊天网站，如qwen、chat**GPT**、**Gemini**、**Claude**、etccome ，都具有朗读功能，允许用户朗读人工智能的响应
 
-📅 2026-11-02T23:01:39.852Z
+📅 2026-11-03T03:44:47.000Z
 
 ---
 
-### X: DeepSeek
-**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+### Hacker News AI
+**[Show HN ： CheapGPT –由Chrome的Gemini Nano提供支持的免费本地AI助手](https://www.predatorray.me/CheapGPT/)**
 
-网址来源： http://twitter.com/**DeepSeek**_ai
+文章网址： https://wwwme/Cheap**GPT**/评论网址： https://**new**s
 
-📅 2026-11-02T23:01:44.938Z
+📅 Tue, 03 Nov 2026 03:42:52 +0000
 
 ---
 
@@ -339,48 +341,41 @@ Athenahealth患者现在可以向**Claude**询问他们的医疗记录
 
 ---
 
-### Hacker News
-**[潜入礼堂进行Windows 2000发布排练](https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/)**
+### Hacker News AI
+**[OpenAI聘请前美国陆军部长，因为军方寻求扩大人工智能的使用](https://www.ft.com/content/e6b8fd40-ef92-46e8-aeaf-f98dade55a67)**
 
-com/old**new**thing/20261102-00/p = 112818/评论网址： https://**new**s
+文章网址： https://wwwcom/content/e6b8fd40-ef92-46e8-aeaf-f98dade55a67评论网址： https://**new**s
 
-📅 Mon, 02 Nov 2026 18:12:48 +0000
+📅 Tue, 03 Nov 2026 01:30:50 +0000
 
 ---
 
 ### Hacker News AI
-**[Alphabet正在洽谈收购助理初创公司Howie AI](https://www.axios.com/pro/merger-deals/2026/11/02/google-alphabet-howie-ai-assistant)**
+**[OpenAI考虑将数据中心重塑为“AI计算园区”](https://www.tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue)**
 
-文章网址： https://wwwcom/pro/merger-deals/2026/11/02/**Google**-alphabet-howie-ai-assistant评论网址： https://**new**s
+文章网址： https://wwwcom/tech-industry/data-centers/**OpenAI**-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue评论网址： https://**new**s
 
-📅 Mon, 02 Nov 2026 22:41:23 +0000
-
----
-
-### Hacker News AI
-**[利用人工智能加快[建筑]规划决策](https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/)**
-
-文章网址： https://deepmind**Google**/blog/speeding-up-planning-decisions-with-ai/评论网址： https://**new**s
-
-📅 Mon, 02 Nov 2026 21:01:01 +0000
+📅 Tue, 03 Nov 2026 01:18:33 +0000
 
 ---
 
-### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Reddit: r/artificial
+![OpenAI的季度承诺增长今年呈爆炸式增长，与2024年第一季度相比，到2026年第四季度上升至2442%](https://preview.redd.it/axe13pb2xazh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d53439199888a26bad092dac4fd657afc8f429fa)
 
-Title: 520: Web服务器返回未知错误
+**[OpenAI的季度承诺增长今年呈爆炸式增长，与2024年第一季度相比，到2026年第四季度上升至2442%](https://www.reddit.com/r/artificial/comments/1xmfx3a/openais_quarterly_commit_growth_has_exploded_this/)**
 
-📅 2026-11-02T23:01:39.851Z
+https://**OpenAI**.com/index/scaling-git-at-**OpenAI**/由/u/Eliv_nurotic提交[link] [comments]
+
+📅 2026-11-03T01:36:30.000Z
 
 ---
 
-### X: OpenAI
-**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Reddit: r/artificial
+**[苹果智能终于在12月来到中国，由阿里巴巴的Qwen而不是ChatGPT提供支持](https://www.reddit.com/r/artificial/comments/1xmf3on/apple_intelligence_is_finally_coming_to_china_in/)**
 
-警告：目标URL返回错误520 ：未知
+值得注意的是模型交换：而不是Chat**GPT**它也是部分**发布**：苹果表示它不包括新的Siri AI或在WWDC 2026上宣布的其他下一代功能
 
-📅 2026-11-02T23:01:39.852Z
+📅 2026-11-03T00:58:43.000Z
 
 ---
 
