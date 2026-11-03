@@ -1,12 +1,12 @@
 ---
 title: "2026年11月3日 - TZ日报"
-date: 2026-11-03T03:53:55.014Z
+date: 2026-11-03T20:50:14.723Z
 draft: false
 ---
 
 # 2026年11月3日 - TZ日报
 
-> 📊 今日汇总 37 条 · 🕐 2026/11/3 03:53:55
+> 📊 今日汇总 38 条 · 🕐 2026/11/3 20:50:14
 
 ---
 
@@ -16,11 +16,47 @@ draft: false
 - **前沿研究**: 8 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
-- **社交动态**: 7 条
+- **社交动态**: 8 条
 
 ---
 
 ## ✨ 产品更新
+
+### OpenAI Blog
+**[海姆斯塔登正在通过人工智能改变住宅房地产管理](https://openai.com/index/heimstaden)**
+
+了解Heimstaden如何使用**OpenAI**的Chat**GPT** Enterprise和Codex来改变整个欧洲的物业管理、削减成本并赋予员工权力
+
+📅 Tue, 03 Nov 2026 08:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[加速物理世界的工程设计](https://openai.com/index/accelerating-engineering-for-the-physical-world)**
+
+了解Chat**GPT**和Codex如何帮助工程师在物理世界中加速CAD、PCB设计、仿真和其他工作流程
+
+📅 Tue, 03 Nov 2026 12:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[思科如何利用OpenAI以机器速度进行防御](https://openai.com/index/cisco-cyber)**
+
+思科将网络智能与**OpenAI**模型相结合，以加强企业安全了解思科如何构建更具适应性的防御
+
+📅 Tue, 03 Nov 2026 08:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[OpenAI任命Jill Hazelbaker为首席企业事务官](https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer)**
+
+Jill Hazelbaker将加入**OpenAI**担任首席企业事务官，领导公司的全球传播和企业定位
+
+📅 Tue, 03 Nov 2026 00:00:00 GMT
+
+---
 
 ### OpenAI Blog
 **[在OpenAI上扩展Git](https://openai.com/index/scaling-git-at-openai)**
@@ -41,18 +77,18 @@ draft: false
 ---
 
 ### OpenAI Blog
-**[用更大的虫子赏金奖励防御者](https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties)**
+**[准备我们的下一个安全冲刺来强化OpenAI](https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai)**
 
-**OpenAI**正在提高安全漏洞赏金奖励，并为独立安全研究人员**推出**报告质量和优先活动奖金
+**OpenAI**正在准备与Cathedral Systems进行下一次内部安全冲刺，以测试和加强其使用AI的防御
 
 📅 Mon, 02 Nov 2026 18:00:00 GMT
 
 ---
 
 ### OpenAI Blog
-**[准备我们的下一个安全冲刺来强化OpenAI](https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai)**
+**[用更大的虫子赏金奖励防御者](https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties)**
 
-**OpenAI**正在准备与Cathedral Systems进行下一次内部安全冲刺，以测试和加强其使用AI的防御
+**OpenAI**正在提高安全漏洞赏金奖励，并为独立安全研究人员**推出**报告质量和优先活动奖金
 
 📅 Mon, 02 Nov 2026 18:00:00 GMT
 
@@ -78,111 +114,75 @@ draft: false
 
 ---
 
-### TechCrunch AI Products
-**[谷歌将Dreambeans带到印度，将AI生成的个人故事带给大众](https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/)**
-
-谷歌最新的人工智能实验Dreambeans现在支持13种印度语言。
-
-📅 Tue, 03 Nov 2026 03:30:00 +0000
-
----
-
-### TechCrunch AI Products
-**[Anthropic警告说，它非常接近RSI能力，也就是自我构建的人工智能](https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/)**
-
-RSI是人工智能发展得如此擅长训练自己的点，以至于它催生了人工智能能力的急剧加速对于人工智能的毁灭者来说， RSI代表了无法回报的灾难
-
-📅 Mon, 02 Nov 2026 22:14:50 +0000
-
----
-
-### TechCrunch AI Products
-**[《纽约时报》和其他媒体起诉网络浏览器Brave涉嫌内容抓取](https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/)**
-
-《纽约时报》起诉以隐私为中心的网络浏览器公司Brave涉嫌抓取该网站的版权内容，并将其非法分发给自己的客户，如**Anthropic**和Perplexity
-
-📅 Mon, 02 Nov 2026 19:19:17 +0000
-
----
-
-### OpenAI Blog
-**[LifeVal](https://openai.com/index/lifeval)**
-
-衡量人工智能如何帮助人们完成日常任务的基准，从寻找托儿服务到管理财务和政府文书工作
-
-📅 Mon, 02 Nov 2026 09:00:00 GMT
-
----
-
 ## 🔬 前沿研究
 
-### ArXiv Multiagent (cs.MA)
-**[可重新协商的期权未能阻止两个利润最大化前沿LLM代理商之间的停滞](https://arxiv.org/abs/2610.40961)**
+### ArXiv AI (cs.AI)
+**[更多规则，更长的列表？在隐藏规则课程上对标自我发展的代理商](https://arxiv.org/abs/2610.40758)**
 
-40961v1公告类型： CROSS摘要：保护人与人之间投资的合同条款也保护利润最大化语言模型代理之间的合同条款我们有**Claude** Opus 5
-
-📅 Mon, 02 Nov 2026 00:00:00 -0500
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[AutoHebb ： Zero-Shot推断和不断学习的自我修改神经网络](https://arxiv.org/abs/2610.40757)**
-
-40757v1公告类型：新摘要：人类和动物在新环境下具有独特的泛化和学习能力现有模型通常缺乏对大脑中的ZI和CL至关**重要**的成分
+40758v1 **announce** Type: **new** Abstract: Self-evolving agents rewrite a persistent state from feedbackAn automated pipeline builds chains from a **new** data domain, and we **release** 20 chains over 10 domains
 
 📅 Mon, 02 Nov 2026 00:00:00 -0500
 
 ---
 
-### ArXiv Machine Learning (cs.LG)
-**[FARO ：通过跨区块等风险贡献预算分配实现功能空间自适应风险回报优化](https://arxiv.org/abs/2610.40858)**
+### ArXiv AI (cs.AI)
+**[作为监控助手的ChatGPT ？人工智能辅助监控风险的探索性案例研究](https://arxiv.org/abs/2610.40890)**
 
-40858v1公告类型：新建摘要：训练大型语言模型是计算绑定的在Fi**new**eb上训练的**GPT**风格模型上，框架给出两个结果
-
-📅 Mon, 02 Nov 2026 00:00:00 -0500
-
----
-
-### ArXiv Computer Vision (cs.CV)
-**[DyCraft ：用于长视野4D场景生成的代理系统](https://arxiv.org/abs/2610.40754)**
-
-40754v1公告类型：新摘要：而前沿编码代理可以生成高质量的3D场景和铰接资产与Codex中的本地**GPT**-6代理和先前的代理基线相比
+40890v1公告类型：新摘要：大型语言模型（ LLM ）可以大规模生成详细的指导、功能代码和具有说服力的文本Chat**GPT**允许广泛的公众访问这些功能
 
 📅 Mon, 02 Nov 2026 00:00:00 -0500
 
 ---
 
-### ArXiv Computer Vision (cs.CV)
-**[全身PSMA PET/CT转移分割的空间图谱知情损失集合](https://arxiv.org/abs/2610.40834)**
+### ArXiv AI (cs.AI)
+**[递归知识构建是否有助于代理验证科学中的共识主张？](https://arxiv.org/abs/2610.40906)**
 
-40834v1公告类型：新摘要：现有的全身PSMA PET/CT前列腺转移分割方法通常仅依赖于图像我们研究当集成到模型训练中时，群体转移图谱是否可以提高病变检测
-
-📅 Mon, 02 Nov 2026 00:00:00 -0500
-
----
-
-### ArXiv Natural Language Processing (cs.CL)
-**[CoFiBreak ：有效多回合越狱的从粗到细的多元化奖励](https://arxiv.org/abs/2610.40926)**
-
-40926v1公告类型：新摘要：自动红色分组训练攻击者大型语言模型（ LLM ） ，以引发AdvBench上受害者LLM0% ASR @ 10与看不见的受害者**Claude**-Opus-4的有害反应
+6判断并优于**Claude** Haiku ~ 4我们的结果支持递归地在模型的上下文之外维护结构化证据状态，作为验证科学代理中声明的有效设计
 
 📅 Mon, 02 Nov 2026 00:00:00 -0500
 
 ---
 
-### ArXiv Natural Language Processing (cs.CL)
-**[更少的头，更少的记忆：修剪多余的注意头，抑制逐字记忆](https://arxiv.org/abs/2610.40974)**
+### Google DeepMind Research
+**[Google Antigravity代理化学信息学](https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/)**
 
-40974v1公告类型：新摘要：大型语言模型已被证明可以从其训练数据中记忆和再现逐字序列评估**GPT**-2-XL (1
+了解**Google** Antigravity和我们的化学信息学技能如何加速药物发现工作流程，并提出新的刚性大循环
+
+📅 Tue, 03 Nov 2026 17:01:49 +0000
+
+---
+
+### ArXiv AI (cs.AI)
+**[超越合理的预测：网络世界中的安全充分性模型](https://arxiv.org/abs/2610.40798)**
+
+40798v1公告类型：新摘要：网络世界模型越来越多地在代理行为之前预测候选人行为的后果在匹配的人类评估中，来自十个冻结开放模型的3,000个预测， 86
 
 📅 Mon, 02 Nov 2026 00:00:00 -0500
 
 ---
 
-### ArXiv Robotics (cs.RO)
-**[CaPtain ：后期训练代码即策略机器人代理的管道](https://arxiv.org/abs/2610.40799)**
+### ArXiv AI (cs.AI)
+**[规避计算套利的计算硬度](https://arxiv.org/abs/2610.40831)**
 
-40799v1公告类型：新摘要：跨编码我们首先通过SFT将基础模型对准使用**GPT**-6 ASTRA生成的合成轨迹，然后应用多圈RL
+40831v1公告类型：新摘要： AI模型市场具有异构成本和功能的主机提供商这些差异为计算套利创造了机会（ Olmedo等人
+
+📅 Mon, 02 Nov 2026 00:00:00 -0500
+
+---
+
+### ArXiv AI (cs.AI)
+**[音频大型语言模型中多模态语音情感识别的不一致感知评估](https://arxiv.org/abs/2610.40883)**
+
+40883v1公告类型：新摘要：语音交互式大型语言模型处理说话者所说的内容以及他们说话的方式代码、数据表和提示被释放
+
+📅 Mon, 02 Nov 2026 00:00:00 -0500
+
+---
+
+### ArXiv AI (cs.AI)
+**[朝向药剂线束的便携式规格](https://arxiv.org/abs/2610.40917)**
+
+40917v1公告类型：新摘要：大型语言模型仅通过其周围的基础设施行事现有模型卡和代理卡提供**发布**和操作信息
 
 📅 Mon, 02 Nov 2026 00:00:00 -0500
 
@@ -191,191 +191,202 @@ RSI是人工智能发展得如此擅长训练自己的点，以至于它催生�
 ## 🌍 行业展望
 
 ### The Information Technology
-**[现在是合同续签季节，但有些客户并不咬人](https://www.theinformation.com/articles/contract-renewal-season-customers-biting)**
+**[OpenAI应该害怕Jensen Huang吗？](https://www.theinformation.com/articles/openai-afraid-jensen-huang)**
 
-出于几个原因， **OpenAI**或任何其他模型提供商模型**发布**的快速步伐意味着企业希望灵活地快速切换到任何最好的新模型
+新闻快讯：硅谷很多人都害怕英伟达首席执行官黄延生更**重要**的是，对于像**OpenAI**这样的模型开发商来说，英伟达控制着他们开发和运行当今最先进模型所需的人工智能芯片的流量
 
-📅 2026-11-02T15:01:23.000Z
-
----
-
-### ZDNet AI
-**[OpenAI将合并ChatGPT的聊天和工作选项卡–这是何时以及会发生什么](https://www.zdnet.com/innovation/openai-merge-chatgpt-chat-work-tabs/)**
-
-**OpenAI**将合并Chat**GPT**的聊天和工作选项卡–这是何时以及会发生什么
-
-📅 2026-11-02T18:01:55.000Z
-
----
-
-### The Verge
-![Anthropic压制Claude的人工智能视频游戏克隆](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[Anthropic压制Claude的人工智能视频游戏克隆](https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones)**
-
-**Anthropic**已**更新**Claude Code的系统提示，以防止使用AI工具重新创建现有视频游戏，但**Anthropic**仍将允许人们使用**Claude** Code制作游戏
-
-📅 2026-11-02T18:56:02.000Z
+📅 2026-11-03T16:16:31.000Z
 
 ---
 
 ### The Information Technology
-**[OpenAI聘请前陆军部长担任高级顾问](https://www.theinformation.com/briefings/openai-hires-ex-army-secretary-senior-advisor)**
+**[Anthropic向IPO投资者宣传Claude的芯片设计技巧](https://www.theinformation.com/articles/anthropic-touts-claudes-chip-design-skills-ipo-investors)**
 
-前UArmy秘书Dan Driscoll将加入**OpenAI** ，帮助扩大该人工智能公司的技术在国防和其他军事应用中的应用
+**Anthropic**的人工智能模型帮助发现了严重的网络漏洞，并改变了软件编码行业在最近的会议上告诉投资者，其新的15人芯片设计团队已经在其定制芯片上使用自己的克劳德模型进行工程和设计工作
 
-📅 2026-11-03T00:34:05.000Z
-
----
-
-### The Information Technology
-**[Anthropic第三季度收入飙升至170亿美元，重返运营亏损](https://www.theinformation.com/briefings/anthropics-revenue-surged-17-billion-q3-swung-back-operating-loss)**
-
-截至9月份的第三季度， **Anthropic**报告了近170亿美元的收入AI公司报告了23美元
-
-📅 2026-11-02T15:12:33.000Z
-
----
-
-### Ars Technica
-**[克劳德禁止游戏克隆的新规则不会阻止人工智能复制热潮](https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/)**
-
-模仿者的海啸比任何一个模型制造商都要大得多。
-
-📅 Mon, 02 Nov 2026 18:05:31 +0000
-
----
-
-### ZDNet AI
-**[Athenahealth患者现在可以向Claude询问他们的医疗记录](https://www.zdnet.com/health/athenahealth-claude-ai-medical-partnership/)**
-
-Athenahealth患者现在可以向**Claude**询问他们的医疗记录
-
-📅 2026-11-02T17:30:47.000Z
+📅 2026-11-03T14:00:31.000Z
 
 ---
 
 ### The Verge
-![Meta将于2027年结束Quest 2操作系统更新](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21869421/akrales_200904_4160_0135.0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![OpenAI表示ChatGPT正在搜索中追赶谷歌](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[Meta将于2027年结束Quest 2操作系统更新](https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates)**
+**[OpenAI表示ChatGPT正在搜索中追赶谷歌](https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search)**
 
-**Meta**计划在2027年3月之前**发布**其Quest 2和Quest Pro VR耳机的最新操作系统**更新**，该公司今天宣布： “该公司在计划于2027年春季**推出**的新VR眼镜**发布**之前宣布这一转变
+"这反映在**OpenAI**的一项新公告中：通过Chat**GPT**运行的搜索查询量现在等于通过**Google**Adam Fry运行的搜索查询量的20% ， **OpenAI**的Chat**GPT**消费产品负责人在周一的新闻**发布**会上宣布了这一消息。
 
-📅 2026-11-02T21:04:20.000Z
+📅 2026-11-03T18:30:42.000Z
+
+---
+
+### The Information Technology
+**[优步的Jill Hazelbaker将加入OpenAI担任首席企业事务官](https://www.theinformation.com/articles/ubers-jill-hazelbaker-join-openai-chief-corporate-affairs-officer)**
+
+优步总裁吉尔·黑兹尔贝克（ Jill Hazelbaker ）将加入**OpenAI** ，担任首席企业事务官黑兹尔贝克（ Hazelbaker ） ，他也是谷歌和Snap的资深员工，将负责全球传播和品牌战略
+
+📅 2026-11-03T19:20:56.000Z
+
+---
+
+### The Information Technology
+**[LinkedIn更换了一些OpenAI模型，以保持其服务器成本不变](https://www.theinformation.com/articles/linkedin-swapped-openai-models-keep-server-costs-flat)**
+
+应用程序中使用人工智能功能的人数越多微软旗下的领英(LinkedIn)表示，它已经降低了运营其人工智能驱动的招聘助理的成本
+
+📅 2026-11-03T18:31:27.000Z
+
+---
+
+### The Information Technology
+**[英伟达如何利用其软实力影响客户和塑造政策](https://www.theinformation.com/articles/nvidia-uses-soft-power-influence-customers-shape-policy)**
+
+**OpenAI**高级研究科学家Noam Brown在一家公司的Slack频道上**发布**了一个关于**OpenAI**对中国先进芯片销售立场转变的新闻报道的链接，并提出了一个直截了当的问题： “我们对芯片出口的政策是什么？” **OpenAI**政策负责人在Slack上引用了过去的公司帖子
+
+📅 2026-11-03T16:00:32.000Z
+
+---
+
+### Wired Technology
+**[以下是不应该使用人工智能进行投票的原因](https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/)**
+
+从幻觉到党派偏见， Chat**GPT**和**Claude**等人工智能聊天机器人在选举日无济于事
+
+📅 Tue, 03 Nov 2026 14:45:08 +0000
+
+---
+
+### The Verge
+![Pixel Buds Pro 2已恢复到迄今为止的最低价格](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pixel-buds-pro-2-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[Pixel Buds Pro 2已恢复到迄今为止的最低价格](https://www.theverge.com/gadgets/1025466/google-pixel-buds-pro-2-borderlands-goty-nintendo-switch-deal-sale)**
+
+谷歌网站声称这笔交易将持续到太平洋时间11月8日晚上11:59 ，其他零售商可能会效仿我们称赞无线耳机的改进设计，既减轻了重量和尺寸，又提高了舒适度和合身度
+
+📅 2026-11-03T20:29:26.000Z
 
 ---
 
 ## 📦 GitHub热门
+
+### GitHub Active (AI/ML)
+![pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://avatars.githubusercontent.com/u/21003710?v=4)
+
+**[pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://github.com/pytorch/pytorch)**
+
+⭐ 105,106星· 31307分叉· Python ·具有强大GPU加速的Python中的张量和动态神经网络
+
+📅 2026-11-03T20:48:31Z
+
+---
+
+### GitHub Active (Python)
+![Guardrails ： NeMo Guardrails是一个开源工具包，用于为基于LLM的会话系统轻松添加可编程护栏。](https://avatars.githubusercontent.com/u/213689629?v=4)
+
+**[Guardrails ： NeMo Guardrails是一个开源工具包，用于为基于LLM的会话系统轻松添加可编程护栏。](https://github.com/NVIDIA-NeMo/Guardrails)**
+
+424星· 895叉· Python · NeMo Guardrails是一个**开源**工具包，可轻松将可编程护栏添加到基于LLM的对话系统中
+
+📅 2026-11-03T20:49:00Z
+
+---
 
 ### GitHub New (New AI)
 ![🆕 Frontier-UI ：适用于Open WebUI的ChatGPT风格生成式UI ：照片库、带有真实路线的实时地图、多日游、预算、计算器、实时天气和股票、链接预览以及通过ArtCraft一键导出的Word/Excel/PowerPoint。一个文件，没有API密钥。](https://avatars.githubusercontent.com/u/181923470?v=4)
 
 **[🆕 Frontier-UI ：适用于Open WebUI的ChatGPT风格生成式UI ：照片库、带有真实路线的实时地图、多日游、预算、计算器、实时天气和股票、链接预览以及通过ArtCraft一键导出的Word/Excel/PowerPoint。一个文件，没有API密钥。](https://github.com/Jumbomuffin777/Frontier-UI)**
 
-⭐ 53 star (新项目) · Python · Chat**GPT**-style generative UI for Open WebUI: photo galleriesOne file, no API keys
+⭐ 58 star (新项目) · Python · Chat**GPT**-style generative UI for Open WebUI: photo galleriesOne file, no API keys
 
 📅 2026-11-01T06:41:23Z
 
 ---
 
-### GitHub Active (AI/ML)
-![awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
-
-**[awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
-
-⭐ 463星· 39分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作管道刷新
-
-📅 2026-11-03T03:51:31Z
-
----
-
 ### GitHub New (New AI)
-![🆕 automated-job-posting-pipeline ： Node.js管道，用于收集、筛选人工智能、消除重复并发布包含示例数据的工作列表演示](https://avatars.githubusercontent.com/u/268778706?v=4)
+![🆕 qwenFS: Qwen3.5-2B ，文件系统已编译并直接插入其权重。](https://avatars.githubusercontent.com/u/248433309?v=4)
 
-**[🆕 automated-job-posting-pipeline ： Node.js管道，用于收集、筛选人工智能、消除重复并发布包含示例数据的工作列表演示](https://github.com/abchughtai786/automated-job-posting-pipeline)**
+**[🆕 qwenFS: Qwen3.5-2B ，文件系统已编译并直接插入其权重。](https://github.com/vixhal-baraiya/qwenFS)**
 
-⭐ 3 star (新项目) · JavaScript · Nodejs pipeline that collects, screens with AI, de-duplicates and publishes job listings demo with sample data
+⭐ 19 star (新项目) · Python · Qwen35-2B with a filesystem compiled and inserted directly into its weights
 
-📅 2026-11-01T23:14:44Z
-
----
-
-### GitHub New (New AI)
-![🆕 RSI-Bench ：前沿基础模型基准](https://avatars.githubusercontent.com/u/22252491?v=4)
-
-**[🆕 RSI-Bench ：前沿基础模型基准](https://github.com/KCFindstr/RSI-Bench)**
-
-⭐ 3 star (新项目) · Python · Frontier Foundation Model Benchmark
-
-📅 2026-11-01T05:07:15Z
+📅 2026-11-02T21:43:41Z
 
 ---
 
 ## 💬 社交动态
 
-### Reddit: r/artificial
-**[我将ChatGPT、Claude、Gemini等制作成免费的文本转语音网站。](https://www.reddit.com/r/artificial/comments/1xmim57/i_made_chatgpt_claude_gemini_etc_into_free/)**
-
-如今，所有流行的人工智能聊天网站，如qwen、chat**GPT**、**Gemini**、**Claude**、etccome ，都具有朗读功能，允许用户朗读人工智能的响应
-
-📅 2026-11-03T03:44:47.000Z
-
----
-
 ### Hacker News AI
-**[Show HN ： CheapGPT –由Chrome的Gemini Nano提供支持的免费本地AI助手](https://www.predatorray.me/CheapGPT/)**
+**[Show HN: Mallard: AI智能体时代的Git](https://mallard-ai.com/home)**
 
-文章网址： https://wwwme/Cheap**GPT**/评论网址： https://**new**s
+我们工作日的大部分时间都在与**Claude**交谈， Codex**Anthropic**内部使用云虚拟机和**Claude** Tag ，以便团队成员可以在共享的座席对话中工作，并从其他人中断的地方继续
 
-📅 Tue, 03 Nov 2026 03:42:52 +0000
-
----
-
-### Hacker News
-**[美国证券交易委员会应阻止Anthropic的IPO以保护公众](https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/)**
-
-文章网址： https://wwwpress/the-sec-should-block-**Anthropic**s-ipo-to-protect-the-public/评论网址： https://**new**s
-
-📅 Mon, 02 Nov 2026 22:30:47 +0000
-
----
-
-### Hacker News AI
-**[OpenAI聘请前美国陆军部长，因为军方寻求扩大人工智能的使用](https://www.ft.com/content/e6b8fd40-ef92-46e8-aeaf-f98dade55a67)**
-
-文章网址： https://wwwcom/content/e6b8fd40-ef92-46e8-aeaf-f98dade55a67评论网址： https://**new**s
-
-📅 Tue, 03 Nov 2026 01:30:50 +0000
-
----
-
-### Hacker News AI
-**[OpenAI考虑将数据中心重塑为“AI计算园区”](https://www.tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue)**
-
-文章网址： https://wwwcom/tech-industry/data-centers/**OpenAI**-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue评论网址： https://**new**s
-
-📅 Tue, 03 Nov 2026 01:18:33 +0000
+📅 Tue, 03 Nov 2026 20:18:39 +0000
 
 ---
 
 ### Reddit: r/artificial
-![OpenAI的季度承诺增长今年呈爆炸式增长，与2024年第一季度相比，到2026年第四季度上升至2442%](https://preview.redd.it/axe13pb2xazh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d53439199888a26bad092dac4fd657afc8f429fa)
+**[聊天GPT与Claude （适用于多动症患者）](https://www.reddit.com/r/artificial/comments/1xn2gjt/chat_gpt_vs_claude_for_those_with_adhd/)**
 
-**[OpenAI的季度承诺增长今年呈爆炸式增长，与2024年第一季度相比，到2026年第四季度上升至2442%](https://www.reddit.com/r/artificial/comments/1xmfx3a/openais_quarterly_commit_growth_has_exploded_this/)**
+我知道**Claude**通常更适合上学，但个人使用怎么样我刚刚开始使用**Claude**上学，我付了钱，到目前为止我喜欢它
 
-https://**OpenAI**.com/index/scaling-git-at-**OpenAI**/由/u/Eliv_nurotic提交[link] [comments]
+📅 2026-11-03T19:24:40.000Z
 
-📅 2026-11-03T01:36:30.000Z
+---
+
+### X: OpenAI
+**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+网址来源： http://twitter.com/**OpenAI**
+
+📅 2026-11-03T20:48:58.016Z
+
+---
+
+### X: DeepSeek
+**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+
+网址来源： http://twitter.com/**DeepSeek**_ai
+
+📅 2026-11-03T20:49:03.963Z
 
 ---
 
 ### Reddit: r/artificial
-**[苹果智能终于在12月来到中国，由阿里巴巴的Qwen而不是ChatGPT提供支持](https://www.reddit.com/r/artificial/comments/1xmf3on/apple_intelligence_is_finally_coming_to_china_in/)**
+**[Anthropic的FlashProve ：加密证明回复确实来自您承诺的模型](https://www.reddit.com/r/artificial/comments/1xn4g6l/anthropics_flashprove_cryptographic_proof_that_a/)**
 
-值得注意的是模型交换：而不是Chat**GPT**它也是部分**发布**：苹果表示它不包括新的Siri AI或在WWDC 2026上宣布的其他下一代功能
+**Anthropic**于11月2日发表了研究报告（与来自EPFLS的合作者）公告中的一些数字：在Llama 4 Maverick （一种400B参数混合专家模型）上进行了测试
 
-📅 2026-11-03T00:58:43.000Z
+📅 2026-11-03T20:37:55.000Z
+
+---
+
+### Reddit: r/artificial
+![谷歌表示，禁止人工智能的学校的学生将无法访问搜索](https://external-preview.redd.it/xQhABazQA0mBRpYUStRrpjJUewUe6WiLZgoZzlDEb5o.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a9c6d385139123958a4aed740449b3944aa2bdd9)
+
+**[谷歌表示，禁止人工智能的学校的学生将无法访问搜索](https://www.reddit.com/r/artificial/comments/1xn34ud/google_says_students_in_schools_that_ban_ai_wont/)**
+
+提交者/u/beingmodest [link] [comments]
+
+📅 2026-11-03T19:49:13.000Z
+
+---
+
+### Reddit: r/artificial
+![谷歌将关闭对选择退出人工智能的学校的搜索](https://external-preview.redd.it/WGOi07NPmQYaA2qqaF-6UnN2W_NeLwGYwqewr3x1fGE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cf8d9957bc9d08eea909a5276e8fb18353f0175c)
+
+**[谷歌将关闭对选择退出人工智能的学校的搜索](https://www.reddit.com/r/artificial/comments/1xn22y7/google_to_shut_off_search_for_schools_that_optout/)**
+
+提交者/u/nbc**new**s [link] [comments]
+
+📅 2026-11-03T19:10:47.000Z
+
+---
+
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Title: 520: Web服务器返回未知错误
+
+📅 2026-11-03T20:48:58.016Z
 
 ---
 
