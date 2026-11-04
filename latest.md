@@ -1,12 +1,12 @@
 ---
 title: "2026年11月4日 - TZ日报"
-date: 2026-11-04T02:58:27.475Z
+date: 2026-11-04T21:07:32.786Z
 draft: false
 ---
 
 # 2026年11月4日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/11/4 02:58:27
+> 📊 今日汇总 38 条 · 🕐 2026/11/4 21:07:32
 
 ---
 
@@ -28,6 +28,24 @@ draft: false
 了解Heimstaden如何使用**OpenAI**的Chat**GPT** Enterprise和Codex来改变整个欧洲的物业管理、削减成本并赋予员工权力
 
 📅 Tue, 03 Nov 2026 08:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[OpenAI收购Pierre Computer Company, Inc.](https://openai.com/index/openai-to-acquire-pierre)**
+
+**OpenAI**将收购Pierre Computer Company ，扩展Codex用于构建、理解和审查代码的工具
+
+📅 Wed, 04 Nov 2026 14:30:00 GMT
+
+---
+
+### OpenAI Blog
+**[Daybreak Red现已在AWS GovCloud （美国东部）中提供](https://openai.com/index/daybreak-red-aws-govcloud)**
+
+Daybreak Red通过Amazon Bedrock将**GPT**-56 Cyber带给AWS GovCloud （美国东部）的批准客户，以进行授权的网络安全工作
+
+📅 Wed, 04 Nov 2026 07:00:00 GMT
 
 ---
 
@@ -94,195 +112,181 @@ Jill Hazelbaker将加入**OpenAI**担任首席企业事务官，领导公司的�
 
 ---
 
-### Google AI Blog
-![我们在2026年10月宣布的最新人工智能新闻](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp)
-
-**[我们在2026年10月宣布的最新人工智能新闻](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/)**
-
-以下是2026年10月谷歌最新的人工智能**更新**
-
-📅 Mon, 02 Nov 2026 17:45:00 +0000
-
----
-
-### TechCrunch AI Products
-**[Anthropic正在开发一个系统来证明人工智能模型的身份](https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/)**
-
-这个名为FlashProve的系统可以让任何人检查AI响应是否真正来自它声称来自的模型
-
-📅 Tue, 03 Nov 2026 22:41:03 +0000
-
----
-
 ## 🔬 前沿研究
 
-### ArXiv AI (cs.AI)
-**[更多规则，更长的列表？在隐藏规则课程上对标自我发展的代理商](https://arxiv.org/abs/2610.40758)**
+### ArXiv Natural Language Processing (cs.CL)
+**[保真度随着桌面尺寸而崩溃，而不是倒计时：部署的工具使用代理中的交付架构](https://arxiv.org/abs/2611.00442)**
 
-40758v1 **announce** Type: **new** Abstract: Self-evolving agents rewrite a persistent state from feedbackAn automated pipeline builds chains from a **new** data domain, and we **release** 20 chains over 10 domains
+00442v1公告类型：新摘要：当多轮代理将工具的结构化记录传递到模型的上下文中，并从10行（ **GPT**-4o-mini ）到约198行或更多（ **Gemini** 2
 
-📅 Mon, 02 Nov 2026 00:00:00 -0500
-
----
-
-### ArXiv AI (cs.AI)
-**[作为监控助手的ChatGPT ？人工智能辅助监控风险的探索性案例研究](https://arxiv.org/abs/2610.40890)**
-
-40890v1公告类型：新摘要：大型语言模型（ LLM ）可以大规模生成详细的指导、功能代码和具有说服力的文本Chat**GPT**允许广泛的公众访问这些功能
-
-📅 Mon, 02 Nov 2026 00:00:00 -0500
+📅 Wed, 04 Nov 2026 00:00:00 -0500
 
 ---
 
-### ArXiv AI (cs.AI)
-**[递归知识构建是否有助于代理验证科学中的共识主张？](https://arxiv.org/abs/2610.40906)**
+### Science AI
+**[人工智能公司的研究加深了细胞最奇怪粒子金库的奥秘](https://www.science.org/content/article/ai-company-s-research-deepens-mystery-vaults-cells-strangest-particles)**
 
-6判断并优于**Claude** Haiku ~ 4我们的结果支持递归地在模型的上下文之外维护结构化证据状态，作为验证科学代理中声明的有效设计
+**Anthropic**使用其**Claude** AI来显示细菌和病毒也可能制造奇怪的结构，这表明
 
-📅 Mon, 02 Nov 2026 00:00:00 -0500
-
----
-
-### ArXiv AI (cs.AI)
-**[超越合理的预测：网络世界中的安全充分性模型](https://arxiv.org/abs/2610.40798)**
-
-40798v1公告类型：新摘要：网络世界模型越来越多地在代理行为之前预测候选人行为的后果在匹配的人类评估中，来自十个冻结开放模型的3,000个预测， 86
-
-📅 Mon, 02 Nov 2026 00:00:00 -0500
+📅 2026-11-04T03:03:00.000Z
 
 ---
 
-### ArXiv AI (cs.AI)
-**[规避计算套利的计算硬度](https://arxiv.org/abs/2610.40831)**
+### ArXiv Natural Language Processing (cs.CL)
+**[备忘录：长语境处理代理的学习语境管理](https://arxiv.org/abs/2611.00244)**
 
-40831v1公告类型：新摘要： AI模型市场具有异构成本和功能的主机提供商这些差异为计算套利创造了机会（ Olmedo等人
+00244v1公告类型：新摘要：长输入操作的LLM代理必须执行上下文管理：决定在固定大小的上下文窗口中保留哪些内容尚未现成的代理模型，包括**GPT**-5
 
-📅 Mon, 02 Nov 2026 00:00:00 -0500
-
----
-
-### ArXiv AI (cs.AI)
-**[音频大型语言模型中多模态语音情感识别的不一致感知评估](https://arxiv.org/abs/2610.40883)**
-
-40883v1公告类型：新摘要：语音交互式大型语言模型处理说话者所说的内容以及他们说话的方式代码、数据表和提示被释放
-
-📅 Mon, 02 Nov 2026 00:00:00 -0500
+📅 Wed, 04 Nov 2026 00:00:00 -0500
 
 ---
 
-### ArXiv AI (cs.AI)
-**[朝向药剂线束的便携式规格](https://arxiv.org/abs/2610.40917)**
+### ArXiv Natural Language Processing (cs.CL)
+**[法学硕士谈判中的跨语言角色效应](https://arxiv.org/abs/2611.00300)**
 
-40917v1公告类型：新摘要：大型语言模型仅通过其周围的基础设施行事现有模型卡和代理卡提供**发布**和操作信息
+00300v1公告类型：新摘要：告诉LLM谈判代表“任性” ，它应该在价格上保持坚定为了测试这一点，我们使用相同的**Gemini** 3买方和卖方实例
 
-📅 Mon, 02 Nov 2026 00:00:00 -0500
+📅 Wed, 04 Nov 2026 00:00:00 -0500
 
 ---
 
-### ArXiv AI (cs.AI)
-**[无需环境副本的Agent测试时间缩放Agentic世界建模](https://arxiv.org/abs/2610.40927)**
+### ArXiv Natural Language Processing (cs.CL)
+**[人性化但仍然真实？在人工智能文本人性化工具中审核事实和检测](https://arxiv.org/abs/2611.00359)**
 
-40927v1公告类型：新摘要：测试时间缩放(TTS)通过在多个候选轨迹中进行抽样和选择，平均提高大型语言模型代理的07% ，并超越经过训练的世界模型基线12%
+00359v1公告类型：新摘要： AI “人性化者”重写机器生成的文本，以便检测器将其分类为高于双筒望远镜、快速检测**GPT**和对抗训练雷达的人工智能22 ，同时调用24%的人类原始AI
 
-📅 Mon, 02 Nov 2026 00:00:00 -0500
+📅 Wed, 04 Nov 2026 00:00:00 -0500
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[从查找到课程：将检索到的知识转化为参数内存](https://arxiv.org/abs/2611.00450)**
+
+00450v1公告类型：新摘要：检索增强生成（ RAG ）帮助大型语言模型（ LLM ）回答超出其训练数据的事实问题代码和模型权重可在https://github上找到
+
+📅 Wed, 04 Nov 2026 00:00:00 -0500
+
+---
+
+### ArXiv Machine Learning (cs.LG)
+**[通过节点相似性、图表示学习和分层聚类在复杂网络中进行社区检测](https://arxiv.org/abs/2303.12212)**
+
+本文提出了三种新的、通用的分层框架来处理此任务我们比较了随机块模型图和现实数据集上的364个模块组合
+
+📅 Wed, 04 Nov 2026 00:00:00 -0500
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[从碎片化到融合：多模式嵌入的调查和路线图](https://arxiv.org/abs/2611.00172)**
+
+00172v1公告类型：新摘要：从搜索引擎到推荐系统，几乎所有现代人工智能系统都支持嵌入模型嵌入模型的研究仍然按模式分散：社区的发展在很大程度上是孤立的
+
+📅 Wed, 04 Nov 2026 00:00:00 -0500
 
 ---
 
 ## 🌍 行业展望
 
 ### The Information Technology
-**[OpenAI应该害怕Jensen Huang吗？](https://www.theinformation.com/articles/openai-afraid-jensen-huang)**
+![规模较小的银行如何为代理商提供账户访问权限](https://tii.imgix.net/production/articles/18104/2cae01ff-8fe9-42ed-91c5-50dd9a294dbf.jpg?auto=compress,format&amp;fit=crop&amp;w=560)
 
-新闻快讯：硅谷很多人都害怕英伟达首席执行官黄延生更**重要**的是，对于像**OpenAI**这样的模型开发商来说，英伟达控制着他们开发和运行当今最先进模型所需的人工智能芯片的流量
+**[规模较小的银行如何为代理商提供账户访问权限](https://www.theinformation.com/articles/smaller-banks-giving-agents-access-accounts)**
 
-📅 2026-11-03T16:16:31.000Z
+其中包括Lead Bank ，这是一家总部位于密苏里州堪萨斯城的银行，与Stripe等金融科技公司合作， Stripe是人工智能代理应用程序的主要支付提供商。”来自我们的记者的新消息阿波罗在人工智能芯片上的花费远远超过新云由Dakin Campbell撰写政治和政策蓝色浪潮可能会吞噬数据中心行业由Shane Burke撰写独家**Anthropic**向IPO投资者吹捧**Claude**的芯片设计技巧由Qianer Liu撰写
 
----
-
-### The Information Technology
-**[Synopsys ， Cadence股价在信息报告中下跌4%](https://www.theinformation.com/briefings/synopsys-cadence-shares-drop-4-information-report)**
-
-周二，在The Information报道**Anthropic**告诉投资者它正在使用自己的**Claude**模型对其定制芯片进行工程和设计工作后， Synopsys和Cadence Design Systems的股价下跌了4% **Anthropic**的工程师发现**Claude**缩短了
-
-📅 2026-11-04T00:05:36.000Z
-
----
-
-### The Information Technology
-**[谷歌为学校提供更多的人工智能控制，但需要人工智能进行搜索](https://www.theinformation.com/briefings/google-gives-schools-ai-control-requires-ai-search)**
-
-谷歌宣布改变其为学校提供的人工智能产品，称这将使管理员能够更好地控制这项技术，但这也将要求那些希望使用其搜索服务的人使用人工智能增强版根据新政策，可以访问双子座、双子座笔记本和谷歌
-
-📅 2026-11-03T21:32:06.000Z
-
----
-
-### The Information Technology
-**[优步的Jill Hazelbaker将加入OpenAI担任首席企业事务官](https://www.theinformation.com/articles/ubers-jill-hazelbaker-join-openai-chief-corporate-affairs-officer)**
-
-优步总裁吉尔·黑兹尔贝克（ Jill Hazelbaker ）将加入**OpenAI** ，担任首席企业事务官黑兹尔贝克（ Hazelbaker ） ，他也是谷歌和Snap的资深员工，将负责全球传播和品牌战略
-
-📅 2026-11-03T19:20:56.000Z
-
----
-
-### The Information Technology
-**[LinkedIn更换了一些OpenAI模型，以保持其服务器成本不变](https://www.theinformation.com/articles/linkedin-swapped-openai-models-keep-server-costs-flat)**
-
-应用程序中使用人工智能功能的人数越多微软旗下的领英(LinkedIn)表示，它已经降低了运营其人工智能驱动的招聘助理的成本
-
-📅 2026-11-03T18:31:27.000Z
+📅 2026-11-04T20:31:04.000Z
 
 ---
 
 ### Wired Technology
-**[以下是不应该使用人工智能进行投票的原因](https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/)**
+**[律师通过在法庭上“击败他们”来追究大型科技公司的责任](https://www.wired.com/story/wired-world-fair-2026-mark-lanier/)**
 
-从幻觉到党派偏见， Chat**GPT**和**Claude**等人工智能聊天机器人在选举日无济于事
+马克·拉尼尔（ Mark Lanier ）领导了第一个社交媒体成瘾案件的审判，在3月赢得了对**Meta**和谷歌的判决这只是一个开始
 
-📅 Tue, 03 Nov 2026 14:45:08 +0000
-
----
-
-### Ars Technica
-**[谷歌将允许学校跳过人工智能工具，但他们也必须放弃搜索](https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/)**
-
-谷歌将为学校提供据称不会泄露答案的人工智能工具。
-
-📅 Tue, 03 Nov 2026 17:54:43 +0000
+📅 Wed, 04 Nov 2026 18:21:26 +0000
 
 ---
 
-### Ars Technica
-**[谷歌拆除秘密运行在130万个Android电视盒上的僵尸网络](https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/)**
+### The Verge
+![Gemini for Home现已接入AT&T的智能安全系统](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-谷歌已经切断了与僵尸网络活动背后的公司的联系。
+**[Gemini for Home现已接入AT&T的智能安全系统](https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system)**
 
-📅 Tue, 03 Nov 2026 17:08:21 +0000
+该公司表示，其Connected Life系统是“第一款”与**Google** Home Premium集成的家庭安全产品。双子座家庭版可以提供有关安全摄像头拍摄的事件的详细描述
+
+📅 2026-11-04T20:23:24.000Z
+
+---
+
+### The Verge
+![ChatGPT现在将为您制作动画GIF](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[ChatGPT现在将为您制作动画GIF](https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6)**
+
+Chat**GPT**现在可以使用上传到AI聊天机器人的提示或照片创建GIF**更新**，该**更新**将与**OpenAI**的新图片一起**推出**2
+
+📅 2026-11-04T18:00:00.000Z
+
+---
+
+### The Information Technology
+**[Cerebras的拘留所为Anthropic员工上课](https://www.theinformation.com/articles/cerebras-lockups-hold-lesson-anthropic-employees)**
+
+对于在IPO中购买股票的投资者以及持有新上市股票的员工来说，这是个坏消息，这与新上市公司通常的运营方式不同
+
+📅 2026-11-04T19:51:17.000Z
+
+---
+
+### The Information Technology
+**[OpenAI同意收购软件初创公司Pierre以支持Codex](https://www.theinformation.com/briefings/openai-agrees-buy-software-startup-pierre-bolster-codex)**
+
+**OpenAI**周三表示，它正在收购Pierre Computer Company **OpenAI**的编码代理Codex已经在使用Pierre的**开源**开发人员工具，包括Code Storage ，这项服务允许
+
+📅 2026-11-04T17:56:42.000Z
+
+---
+
+### The Information Technology
+**[芯片股和新云在选举结果中抛售](https://www.theinformation.com/briefings/chip-stocks-neoclouds-sell-election-results)**
+
+周三上午，新云CoreWeave和Nebius的股票均下跌。相比之下，成熟的云计算公司、亚马逊、微软
+
+📅 2026-11-04T15:28:02.000Z
+
+---
+
+### The Information Technology
+**[试图控制人工智能代理的安全公司](https://www.theinformation.com/articles/security-companies-trying-get-ai-agents-control)**
+
+据了解模型的人士称，在我们进入今天的专栏之前， **OpenAI**的新模型可能会在周五**发布**这些模型可能包括下一代的Astra ， Sol和网络焦点模型，知情人士说
+
+📅 2026-11-04T15:02:46.000Z
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![fg-data-profiling ：针对Pandas和Spark DataFrames的1行代码数据质量分析和探索性数据分析。](https://avatars.githubusercontent.com/u/120571122?v=4)
+![pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://avatars.githubusercontent.com/u/21003710?v=4)
 
-**[fg-data-profiling ：针对Pandas和Spark DataFrames的1行代码数据质量分析和探索性数据分析。](https://github.com/Data-Centric-AI-Community/fg-data-profiling)**
+**[pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://github.com/pytorch/pytorch)**
 
-⭐ 13,747星· 1802叉· Python · 1行代码数据质量分析和Pandas和Spark DataFrames的探索性数据分析
+⭐ 105,134星· 31298分叉· Python ·具有强大GPU加速的Python中的张量和动态神经网络
 
-📅 2026-11-04T02:57:09Z
+📅 2026-11-04T21:05:24Z
 
 ---
 
-### GitHub Active (Python)
-![boss-agent-cli ：用于🤖AI代理的本地助手BOSS Zhipin CLI —搜索、福利过滤、候选列表、JSON信封输出；默认情况下为低风险和合规。](https://avatars.githubusercontent.com/u/66450588?v=4)
+### GitHub New (New AI)
+![🆕 qwenFS: Qwen3.5-2B ，文件系统已编译并直接插入其权重。](https://avatars.githubusercontent.com/u/248433309?v=4)
 
-**[boss-agent-cli ：用于🤖AI代理的本地助手BOSS Zhipin CLI —搜索、福利过滤、候选列表、JSON信封输出；默认情况下为低风险和合规。](https://github.com/can4hou6joeng4/boss-agent-cli)**
+**[🆕 qwenFS: Qwen3.5-2B ，文件系统已编译并直接插入其权重。](https://github.com/vixhal-baraiya/qwenFS)**
 
-184星· 185叉· Python · AI代理🤖的本地助手BOSS Zhipin CLI — searchJSON-envelope输出；默认情况下低风险且兼容
+⭐ 79 star (新项目) · Python · Qwen35-2B with a filesystem compiled and inserted directly into its weights
 
-📅 2026-11-04T02:57:20Z
+📅 2026-11-02T21:43:41Z
 
 ---
 
@@ -297,56 +301,34 @@ Jill Hazelbaker将加入**OpenAI**担任首席企业事务官，领导公司的�
 
 ---
 
-### GitHub New (New AI)
-![🆕 qwenFS: Qwen3.5-2B ，文件系统已编译并直接插入其权重。](https://avatars.githubusercontent.com/u/248433309?v=4)
+### GitHub Active (AI/ML)
+![awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
 
-**[🆕 qwenFS: Qwen3.5-2B ，文件系统已编译并直接插入其权重。](https://github.com/vixhal-baraiya/qwenFS)**
+**[awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
 
-⭐ 34 star (新项目) · Python · Qwen35-2B with a filesystem compiled and inserted directly into its weights
+⭐ 463星· 39分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作管道刷新
 
-📅 2026-11-02T21:43:41Z
+📅 2026-11-04T21:05:37Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[对1300多个词语关联线索进行了评分：谷歌的模型击败了OpenAI ，两者都击败了Anthropic的](https://www.reddit.com/r/artificial/comments/1xnbvcs/graded_1300_wordassociation_clues_googles_models/)**
+**[什么人工智能对我有好处？](https://www.reddit.com/r/artificial/comments/1xnyyqr/what_ai_is_good_for_me/)**
 
-考虑周到的廉价层显示了相同的**OpenAI**-over-**Anthropic**差距： **GPT**-6 Luna击败了**Claude** Haiku 5一个我无法测试的想法： Chat**GPT**和**Google**庞大的消费者用户群能否为他们提供更多的人类语言数据来学习
+我可以用于日常谈话和良好用法我正在考虑聊天，但太多的创作者使用**Claude** ，所以对我来说最好的选择是什么
 
-📅 2026-11-04T01:55:45.000Z
-
----
-
-### Hacker News AI
-**[Show HN: Modelpeers –您使用的人工智能模型和代理的更新日志](https://modelpeers.com)**
-
-今年早些时候，由于**Anthropic**退休的**Claude** 3 HaikuI厌倦了无法每周跟踪和跟踪AI模型的无尽变化，因此我决定构建Modelpeers
-
-📅 Tue, 03 Nov 2026 23:45:40 +0000
+📅 2026-11-04T20:28:46.000Z
 
 ---
 
 ### Reddit: r/artificial
-![朱尔斯要关门了，这让我很伤心…… 😥](https://preview.redd.it/34ytlbtmqgzh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7907761d96b811da0c6241f1709bd70ce6fb60ca)
+**[使用LLM时打个圈子](https://www.reddit.com/r/artificial/comments/1xno0n3/going_in_circles_when_using_llms/)**
 
-**[朱尔斯要关门了，这让我很伤心…… 😥](https://www.reddit.com/r/artificial/comments/1xn5axk/jules_is_shutting_down_and_its_made_me_sad/)**
+我会说，我一直在广泛使用Chat**GPT**和**Claude** ，从他们出来的那天起，当我做研究或以研究为导向的项目时，我的主要斗争似乎就来了
 
-简单而诚实，我们从**Claude**和Chat**GPT**那里得到的不是废话，只是简单而诚实的文本您看到了来自**Google** Labs的日落电子邮件，并感受到了当精心创建的东西被指定退役时所带来的悲伤
-
-📅 2026-11-03T21:10:35.000Z
-
----
-
-### Reddit: r/artificial
-![代币消耗OpenAi Luna 5.6](https://preview.redd.it/rric9gcvwhzh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=509c02fae2ef6abbb0bc2a4cb15107593abd6486)
-
-**[代币消耗OpenAi Luna 5.6](https://www.reddit.com/r/artificial/comments/1xnb08a/token_consumption_openai_luna_56/)**
-
-以下是/u/Spiritual_Grape3522提交的在**OpenAI** **GPT** 5上运行的聊天机器人进行300多次对话的成本[link] [comments]
-
-📅 2026-11-04T01:13:48.000Z
+📅 2026-11-04T13:20:02.000Z
 
 ---
 
@@ -355,7 +337,7 @@ Jill Hazelbaker将加入**OpenAI**担任首席企业事务官，领导公司的�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-11-04T02:57:07.941Z
+📅 2026-11-04T21:06:01.327Z
 
 ---
 
@@ -364,25 +346,47 @@ Jill Hazelbaker将加入**OpenAI**担任首席企业事务官，领导公司的�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-11-04T02:57:15.546Z
+📅 2026-11-04T21:06:05.982Z
 
 ---
 
 ### Hacker News
-**[Show HN ： Kairos –开源风险和欺诈决策平台](https://github.com/finic-ai/kairos)**
+**[Conductor正在加入Meta](https://www.conductor.build/announcement)**
 
-我们将**推出**Kairos ，这是Sift、Sardine和其他实时欺诈决策平台的**开源**替代品。这意味着您需要一个团队，根据新的欺诈模式定期培训模型并**更新**规则
+文章网址： https://wwwbuild/**announce**ment评论网址： https://**new**s
 
-📅 Tue, 03 Nov 2026 21:16:48 +0000
+📅 Wed, 04 Nov 2026 18:22:40 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[如果人工智能因为预测模式而无法理解，是什么让你与众不同？](https://www.reddit.com/r/artificial/comments/1xn8pfy/if_ai_doesnt_understand_because_it_predicts/)**
+![女子在ChatGPT告诉她停止服用癫痫药物后死亡-现在她的家人正在起诉](https://external-preview.redd.it/_rVb3D5P_o7WFKXsAQ_qv1SptTTChbj1YYTMiCI-0rM.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1ed2c238d215794e5fe5bc48218291e9ce0edd01)
 
-语言模型在训练过程中学会了统计表示人脑不仅仅是Chat**GPT**的生物学版本
+**[女子在ChatGPT告诉她停止服用癫痫药物后死亡-现在她的家人正在起诉](https://www.reddit.com/r/artificial/comments/1xnvk76/woman_dies_after_chatgpt_tells_her_to_stop_taking/)**
 
-📅 2026-11-03T23:29:52.000Z
+提交者/u/ComicSands**new**s [link] [comments]
+
+📅 2026-11-04T18:17:44.000Z
+
+---
+
+### Reddit: r/artificial
+**[如何创建AI聊天机器人？](https://www.reddit.com/r/artificial/comments/1xnsxdm/how_to_create_ai_chatbot/)**
+
+你们知道如何创建Chat**GPT**、Cloude或其他一些人工智能机器人吗？如果有人知道，请告诉我/u/StanixA提交的[link] [comments]
+
+📅 2026-11-04T16:39:38.000Z
+
+---
+
+### Reddit: r/artificial
+![Anthropic的FlashProve可以证明人工智能提供商在不暴露其权重的情况下使用了您支付的模型](https://external-preview.redd.it/6rQaawW7Milkn-GryKuilD6bFqVwi03YevTwq8GDu44.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ec4c0bf87d2323822ebbaf2eaa89863f4934eb5a)
+
+**[Anthropic的FlashProve可以证明人工智能提供商在不暴露其权重的情况下使用了您支付的模型](https://www.reddit.com/r/artificial/comments/1xnrvak/anthropics_flashprove_could_prove_an_ai_provider/)**
+
+用户目前没有独立的方法来确认AI提供商是提供所请求的模型还是悄悄替换了更便宜的FlashProve通过使用零知识加密来解决此问题，以证明特定模型生成了响应，同时保持其专有权重隐藏
+
+📅 2026-11-04T15:58:57.000Z
 
 ---
 
