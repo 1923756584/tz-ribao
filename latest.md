@@ -1,12 +1,12 @@
 ---
-title: "2026年11月3日 - TZ日报"
-date: 2026-11-03T20:50:14.723Z
+title: "2026年11月4日 - TZ日报"
+date: 2026-11-04T02:58:27.475Z
 draft: false
 ---
 
-# 2026年11月3日 - TZ日报
+# 2026年11月4日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/11/3 20:50:14
+> 📊 今日汇总 38 条 · 🕐 2026/11/4 02:58:27
 
 ---
 
@@ -77,15 +77,6 @@ Jill Hazelbaker将加入**OpenAI**担任首席企业事务官，领导公司的�
 ---
 
 ### OpenAI Blog
-**[准备我们的下一个安全冲刺来强化OpenAI](https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai)**
-
-**OpenAI**正在准备与Cathedral Systems进行下一次内部安全冲刺，以测试和加强其使用AI的防御
-
-📅 Mon, 02 Nov 2026 18:00:00 GMT
-
----
-
-### OpenAI Blog
 **[用更大的虫子赏金奖励防御者](https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties)**
 
 **OpenAI**正在提高安全漏洞赏金奖励，并为独立安全研究人员**推出**报告质量和优先活动奖金
@@ -95,11 +86,11 @@ Jill Hazelbaker将加入**OpenAI**担任首席企业事务官，领导公司的�
 ---
 
 ### OpenAI Blog
-**[OpenAI任命Dan Driscoll为国家安全现代化高级顾问](https://openai.com/index/dan-driscoll-joins-openai)**
+**[准备我们的下一个安全冲刺来强化OpenAI](https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai)**
 
-**OpenAI**任命Dan Driscoll就国家安全现代化、网络弹性和与Uallies合作的负责任人工智能提供建议
+**OpenAI**正在准备与Cathedral Systems进行下一次内部安全冲刺，以测试和加强其使用AI的防御
 
-📅 Mon, 02 Nov 2026 00:00:00 GMT
+📅 Mon, 02 Nov 2026 18:00:00 GMT
 
 ---
 
@@ -111,6 +102,15 @@ Jill Hazelbaker将加入**OpenAI**担任首席企业事务官，领导公司的�
 以下是2026年10月谷歌最新的人工智能**更新**
 
 📅 Mon, 02 Nov 2026 17:45:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[Anthropic正在开发一个系统来证明人工智能模型的身份](https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/)**
+
+这个名为FlashProve的系统可以让任何人检查AI响应是否真正来自它声称来自的模型
+
+📅 Tue, 03 Nov 2026 22:41:03 +0000
 
 ---
 
@@ -140,15 +140,6 @@ Jill Hazelbaker将加入**OpenAI**担任首席企业事务官，领导公司的�
 6判断并优于**Claude** Haiku ~ 4我们的结果支持递归地在模型的上下文之外维护结构化证据状态，作为验证科学代理中声明的有效设计
 
 📅 Mon, 02 Nov 2026 00:00:00 -0500
-
----
-
-### Google DeepMind Research
-**[Google Antigravity代理化学信息学](https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/)**
-
-了解**Google** Antigravity和我们的化学信息学技能如何加速药物发现工作流程，并提出新的刚性大循环
-
-📅 Tue, 03 Nov 2026 17:01:49 +0000
 
 ---
 
@@ -188,6 +179,15 @@ Jill Hazelbaker将加入**OpenAI**担任首席企业事务官，领导公司的�
 
 ---
 
+### ArXiv AI (cs.AI)
+**[无需环境副本的Agent测试时间缩放Agentic世界建模](https://arxiv.org/abs/2610.40927)**
+
+40927v1公告类型：新摘要：测试时间缩放(TTS)通过在多个候选轨迹中进行抽样和选择，平均提高大型语言模型代理的07% ，并超越经过训练的世界模型基线12%
+
+📅 Mon, 02 Nov 2026 00:00:00 -0500
+
+---
+
 ## 🌍 行业展望
 
 ### The Information Technology
@@ -200,22 +200,20 @@ Jill Hazelbaker将加入**OpenAI**担任首席企业事务官，领导公司的�
 ---
 
 ### The Information Technology
-**[Anthropic向IPO投资者宣传Claude的芯片设计技巧](https://www.theinformation.com/articles/anthropic-touts-claudes-chip-design-skills-ipo-investors)**
+**[Synopsys ， Cadence股价在信息报告中下跌4%](https://www.theinformation.com/briefings/synopsys-cadence-shares-drop-4-information-report)**
 
-**Anthropic**的人工智能模型帮助发现了严重的网络漏洞，并改变了软件编码行业在最近的会议上告诉投资者，其新的15人芯片设计团队已经在其定制芯片上使用自己的克劳德模型进行工程和设计工作
+周二，在The Information报道**Anthropic**告诉投资者它正在使用自己的**Claude**模型对其定制芯片进行工程和设计工作后， Synopsys和Cadence Design Systems的股价下跌了4% **Anthropic**的工程师发现**Claude**缩短了
 
-📅 2026-11-03T14:00:31.000Z
+📅 2026-11-04T00:05:36.000Z
 
 ---
 
-### The Verge
-![OpenAI表示ChatGPT正在搜索中追赶谷歌](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### The Information Technology
+**[谷歌为学校提供更多的人工智能控制，但需要人工智能进行搜索](https://www.theinformation.com/briefings/google-gives-schools-ai-control-requires-ai-search)**
 
-**[OpenAI表示ChatGPT正在搜索中追赶谷歌](https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search)**
+谷歌宣布改变其为学校提供的人工智能产品，称这将使管理员能够更好地控制这项技术，但这也将要求那些希望使用其搜索服务的人使用人工智能增强版根据新政策，可以访问双子座、双子座笔记本和谷歌
 
-"这反映在**OpenAI**的一项新公告中：通过Chat**GPT**运行的搜索查询量现在等于通过**Google**Adam Fry运行的搜索查询量的20% ， **OpenAI**的Chat**GPT**消费产品负责人在周一的新闻**发布**会上宣布了这一消息。
-
-📅 2026-11-03T18:30:42.000Z
+📅 2026-11-03T21:32:06.000Z
 
 ---
 
@@ -237,15 +235,6 @@ Jill Hazelbaker将加入**OpenAI**担任首席企业事务官，领导公司的�
 
 ---
 
-### The Information Technology
-**[英伟达如何利用其软实力影响客户和塑造政策](https://www.theinformation.com/articles/nvidia-uses-soft-power-influence-customers-shape-policy)**
-
-**OpenAI**高级研究科学家Noam Brown在一家公司的Slack频道上**发布**了一个关于**OpenAI**对中国先进芯片销售立场转变的新闻报道的链接，并提出了一个直截了当的问题： “我们对芯片出口的政策是什么？” **OpenAI**政策负责人在Slack上引用了过去的公司帖子
-
-📅 2026-11-03T16:00:32.000Z
-
----
-
 ### Wired Technology
 **[以下是不应该使用人工智能进行投票的原因](https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/)**
 
@@ -255,38 +244,45 @@ Jill Hazelbaker将加入**OpenAI**担任首席企业事务官，领导公司的�
 
 ---
 
-### The Verge
-![Pixel Buds Pro 2已恢复到迄今为止的最低价格](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pixel-buds-pro-2-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### Ars Technica
+**[谷歌将允许学校跳过人工智能工具，但他们也必须放弃搜索](https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/)**
 
-**[Pixel Buds Pro 2已恢复到迄今为止的最低价格](https://www.theverge.com/gadgets/1025466/google-pixel-buds-pro-2-borderlands-goty-nintendo-switch-deal-sale)**
+谷歌将为学校提供据称不会泄露答案的人工智能工具。
 
-谷歌网站声称这笔交易将持续到太平洋时间11月8日晚上11:59 ，其他零售商可能会效仿我们称赞无线耳机的改进设计，既减轻了重量和尺寸，又提高了舒适度和合身度
+📅 Tue, 03 Nov 2026 17:54:43 +0000
 
-📅 2026-11-03T20:29:26.000Z
+---
+
+### Ars Technica
+**[谷歌拆除秘密运行在130万个Android电视盒上的僵尸网络](https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/)**
+
+谷歌已经切断了与僵尸网络活动背后的公司的联系。
+
+📅 Tue, 03 Nov 2026 17:08:21 +0000
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://avatars.githubusercontent.com/u/21003710?v=4)
+![fg-data-profiling ：针对Pandas和Spark DataFrames的1行代码数据质量分析和探索性数据分析。](https://avatars.githubusercontent.com/u/120571122?v=4)
 
-**[pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://github.com/pytorch/pytorch)**
+**[fg-data-profiling ：针对Pandas和Spark DataFrames的1行代码数据质量分析和探索性数据分析。](https://github.com/Data-Centric-AI-Community/fg-data-profiling)**
 
-⭐ 105,106星· 31307分叉· Python ·具有强大GPU加速的Python中的张量和动态神经网络
+⭐ 13,747星· 1802叉· Python · 1行代码数据质量分析和Pandas和Spark DataFrames的探索性数据分析
 
-📅 2026-11-03T20:48:31Z
+📅 2026-11-04T02:57:09Z
 
 ---
 
 ### GitHub Active (Python)
-![Guardrails ： NeMo Guardrails是一个开源工具包，用于为基于LLM的会话系统轻松添加可编程护栏。](https://avatars.githubusercontent.com/u/213689629?v=4)
+![boss-agent-cli ：用于🤖AI代理的本地助手BOSS Zhipin CLI —搜索、福利过滤、候选列表、JSON信封输出；默认情况下为低风险和合规。](https://avatars.githubusercontent.com/u/66450588?v=4)
 
-**[Guardrails ： NeMo Guardrails是一个开源工具包，用于为基于LLM的会话系统轻松添加可编程护栏。](https://github.com/NVIDIA-NeMo/Guardrails)**
+**[boss-agent-cli ：用于🤖AI代理的本地助手BOSS Zhipin CLI —搜索、福利过滤、候选列表、JSON信封输出；默认情况下为低风险和合规。](https://github.com/can4hou6joeng4/boss-agent-cli)**
 
-424星· 895叉· Python · NeMo Guardrails是一个**开源**工具包，可轻松将可编程护栏添加到基于LLM的对话系统中
+184星· 185叉· Python · AI代理🤖的本地助手BOSS Zhipin CLI — searchJSON-envelope输出；默认情况下低风险且兼容
 
-📅 2026-11-03T20:49:00Z
+📅 2026-11-04T02:57:20Z
 
 ---
 
@@ -295,7 +291,7 @@ Jill Hazelbaker将加入**OpenAI**担任首席企业事务官，领导公司的�
 
 **[🆕 Frontier-UI ：适用于Open WebUI的ChatGPT风格生成式UI ：照片库、带有真实路线的实时地图、多日游、预算、计算器、实时天气和股票、链接预览以及通过ArtCraft一键导出的Word/Excel/PowerPoint。一个文件，没有API密钥。](https://github.com/Jumbomuffin777/Frontier-UI)**
 
-⭐ 58 star (新项目) · Python · Chat**GPT**-style generative UI for Open WebUI: photo galleriesOne file, no API keys
+⭐ 59 star (新项目) · Python · Chat**GPT**-style generative UI for Open WebUI: photo galleriesOne file, no API keys
 
 📅 2026-11-01T06:41:23Z
 
@@ -306,7 +302,7 @@ Jill Hazelbaker将加入**OpenAI**担任首席企业事务官，领导公司的�
 
 **[🆕 qwenFS: Qwen3.5-2B ，文件系统已编译并直接插入其权重。](https://github.com/vixhal-baraiya/qwenFS)**
 
-⭐ 19 star (新项目) · Python · Qwen35-2B with a filesystem compiled and inserted directly into its weights
+⭐ 34 star (新项目) · Python · Qwen35-2B with a filesystem compiled and inserted directly into its weights
 
 📅 2026-11-02T21:43:41Z
 
@@ -314,21 +310,43 @@ Jill Hazelbaker将加入**OpenAI**担任首席企业事务官，领导公司的�
 
 ## 💬 社交动态
 
+### Reddit: r/artificial
+**[对1300多个词语关联线索进行了评分：谷歌的模型击败了OpenAI ，两者都击败了Anthropic的](https://www.reddit.com/r/artificial/comments/1xnbvcs/graded_1300_wordassociation_clues_googles_models/)**
+
+考虑周到的廉价层显示了相同的**OpenAI**-over-**Anthropic**差距： **GPT**-6 Luna击败了**Claude** Haiku 5一个我无法测试的想法： Chat**GPT**和**Google**庞大的消费者用户群能否为他们提供更多的人类语言数据来学习
+
+📅 2026-11-04T01:55:45.000Z
+
+---
+
 ### Hacker News AI
-**[Show HN: Mallard: AI智能体时代的Git](https://mallard-ai.com/home)**
+**[Show HN: Modelpeers –您使用的人工智能模型和代理的更新日志](https://modelpeers.com)**
 
-我们工作日的大部分时间都在与**Claude**交谈， Codex**Anthropic**内部使用云虚拟机和**Claude** Tag ，以便团队成员可以在共享的座席对话中工作，并从其他人中断的地方继续
+今年早些时候，由于**Anthropic**退休的**Claude** 3 HaikuI厌倦了无法每周跟踪和跟踪AI模型的无尽变化，因此我决定构建Modelpeers
 
-📅 Tue, 03 Nov 2026 20:18:39 +0000
+📅 Tue, 03 Nov 2026 23:45:40 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[聊天GPT与Claude （适用于多动症患者）](https://www.reddit.com/r/artificial/comments/1xn2gjt/chat_gpt_vs_claude_for_those_with_adhd/)**
+![朱尔斯要关门了，这让我很伤心…… 😥](https://preview.redd.it/34ytlbtmqgzh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7907761d96b811da0c6241f1709bd70ce6fb60ca)
 
-我知道**Claude**通常更适合上学，但个人使用怎么样我刚刚开始使用**Claude**上学，我付了钱，到目前为止我喜欢它
+**[朱尔斯要关门了，这让我很伤心…… 😥](https://www.reddit.com/r/artificial/comments/1xn5axk/jules_is_shutting_down_and_its_made_me_sad/)**
 
-📅 2026-11-03T19:24:40.000Z
+简单而诚实，我们从**Claude**和Chat**GPT**那里得到的不是废话，只是简单而诚实的文本您看到了来自**Google** Labs的日落电子邮件，并感受到了当精心创建的东西被指定退役时所带来的悲伤
+
+📅 2026-11-03T21:10:35.000Z
+
+---
+
+### Reddit: r/artificial
+![代币消耗OpenAi Luna 5.6](https://preview.redd.it/rric9gcvwhzh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=509c02fae2ef6abbb0bc2a4cb15107593abd6486)
+
+**[代币消耗OpenAi Luna 5.6](https://www.reddit.com/r/artificial/comments/1xnb08a/token_consumption_openai_luna_56/)**
+
+以下是/u/Spiritual_Grape3522提交的在**OpenAI** **GPT** 5上运行的聊天机器人进行300多次对话的成本[link] [comments]
+
+📅 2026-11-04T01:13:48.000Z
 
 ---
 
@@ -337,7 +355,7 @@ Jill Hazelbaker将加入**OpenAI**担任首席企业事务官，领导公司的�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-11-03T20:48:58.016Z
+📅 2026-11-04T02:57:07.941Z
 
 ---
 
@@ -346,47 +364,25 @@ Jill Hazelbaker将加入**OpenAI**担任首席企业事务官，领导公司的�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-11-03T20:49:03.963Z
+📅 2026-11-04T02:57:15.546Z
+
+---
+
+### Hacker News
+**[Show HN ： Kairos –开源风险和欺诈决策平台](https://github.com/finic-ai/kairos)**
+
+我们将**推出**Kairos ，这是Sift、Sardine和其他实时欺诈决策平台的**开源**替代品。这意味着您需要一个团队，根据新的欺诈模式定期培训模型并**更新**规则
+
+📅 Tue, 03 Nov 2026 21:16:48 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[Anthropic的FlashProve ：加密证明回复确实来自您承诺的模型](https://www.reddit.com/r/artificial/comments/1xn4g6l/anthropics_flashprove_cryptographic_proof_that_a/)**
+**[如果人工智能因为预测模式而无法理解，是什么让你与众不同？](https://www.reddit.com/r/artificial/comments/1xn8pfy/if_ai_doesnt_understand_because_it_predicts/)**
 
-**Anthropic**于11月2日发表了研究报告（与来自EPFLS的合作者）公告中的一些数字：在Llama 4 Maverick （一种400B参数混合专家模型）上进行了测试
+语言模型在训练过程中学会了统计表示人脑不仅仅是Chat**GPT**的生物学版本
 
-📅 2026-11-03T20:37:55.000Z
-
----
-
-### Reddit: r/artificial
-![谷歌表示，禁止人工智能的学校的学生将无法访问搜索](https://external-preview.redd.it/xQhABazQA0mBRpYUStRrpjJUewUe6WiLZgoZzlDEb5o.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a9c6d385139123958a4aed740449b3944aa2bdd9)
-
-**[谷歌表示，禁止人工智能的学校的学生将无法访问搜索](https://www.reddit.com/r/artificial/comments/1xn34ud/google_says_students_in_schools_that_ban_ai_wont/)**
-
-提交者/u/beingmodest [link] [comments]
-
-📅 2026-11-03T19:49:13.000Z
-
----
-
-### Reddit: r/artificial
-![谷歌将关闭对选择退出人工智能的学校的搜索](https://external-preview.redd.it/WGOi07NPmQYaA2qqaF-6UnN2W_NeLwGYwqewr3x1fGE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cf8d9957bc9d08eea909a5276e8fb18353f0175c)
-
-**[谷歌将关闭对选择退出人工智能的学校的搜索](https://www.reddit.com/r/artificial/comments/1xn22y7/google_to_shut_off_search_for_schools_that_optout/)**
-
-提交者/u/nbc**new**s [link] [comments]
-
-📅 2026-11-03T19:10:47.000Z
-
----
-
-### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Title: 520: Web服务器返回未知错误
-
-📅 2026-11-03T20:48:58.016Z
+📅 2026-11-03T23:29:52.000Z
 
 ---
 
