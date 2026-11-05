@@ -1,12 +1,12 @@
 ---
-title: "2026年11月4日 - TZ日报"
-date: 2026-11-04T21:07:32.786Z
+title: "2026年11月5日 - TZ日报"
+date: 2026-11-05T03:11:58.083Z
 draft: false
 ---
 
-# 2026年11月4日 - TZ日报
+# 2026年11月5日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/11/4 21:07:32
+> 📊 今日汇总 38 条 · 🕐 2026/11/5 03:11:58
 
 ---
 
@@ -50,6 +50,33 @@ Daybreak Red通过Amazon Bedrock将**GPT**-56 Cyber带给AWS GovCloud （美国�
 ---
 
 ### OpenAI Blog
+**[少一千条根路径](https://openai.com/index/a-thousand-fewer-paths-to-root)**
+
+**OpenAI**构建了一个自主管道，为Linux内核中的948个本地权限提升漏洞发现并生成补丁
+
+📅 Wed, 04 Nov 2026 08:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[图片简介2.6](https://openai.com/index/introducing-images-2-6)**
+
+图像26可跨Chat**GPT**、Codex和API实现更快的**图像生成**、GIF创建、更精确的编辑和新的API控件
+
+📅 Wed, 04 Nov 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[DevRev通过GPT-6.1 SOL提供自主自助服务](https://openai.com/index/devrev-enterprise-self-service)**
+
+DevRev使用**GPT**-61 SOL为计算机和操作员提供动力，平衡企业服务的推理、速度和成本
+
+📅 Wed, 04 Nov 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
 **[加速物理世界的工程设计](https://openai.com/index/accelerating-engineering-for-the-physical-world)**
 
 了解Chat**GPT**和Codex如何帮助工程师在物理世界中加速CAD、PCB设计、仿真和其他工作流程
@@ -82,33 +109,6 @@ Jill Hazelbaker将加入**OpenAI**担任首席企业事务官，领导公司的�
 **OpenAI**如何构建Pando ，这是一个为Codex实现的开发规模而设计的Git兼容后端
 
 📅 Mon, 02 Nov 2026 15:30:00 GMT
-
----
-
-### OpenAI Blog
-**[电网保护器计划简介](https://openai.com/index/grid-protectors-program)**
-
-**OpenAI**的电网保护器计划将与公用事业公司合作，帮助未来的计算园区支持电网可靠性并保护消费者的电力成本
-
-📅 Mon, 02 Nov 2026 15:00:00 GMT
-
----
-
-### OpenAI Blog
-**[用更大的虫子赏金奖励防御者](https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties)**
-
-**OpenAI**正在提高安全漏洞赏金奖励，并为独立安全研究人员**推出**报告质量和优先活动奖金
-
-📅 Mon, 02 Nov 2026 18:00:00 GMT
-
----
-
-### OpenAI Blog
-**[准备我们的下一个安全冲刺来强化OpenAI](https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai)**
-
-**OpenAI**正在准备与Cathedral Systems进行下一次内部安全冲刺，以测试和加强其使用AI的防御
-
-📅 Mon, 02 Nov 2026 18:00:00 GMT
 
 ---
 
@@ -189,6 +189,24 @@ Jill Hazelbaker将加入**OpenAI**担任首席企业事务官，领导公司的�
 ## 🌍 行业展望
 
 ### The Information Technology
+**[红杉关闭伦敦办事处，专注于硅谷业务](https://www.theinformation.com/briefings/sequoia-closes-london-office-focus-silicon-valley)**
+
+这家风险投资公司是谷歌和YouTube的早期投资者，并向Nvidia支付了第一张支票。在一篇社交媒体帖子中，红杉宣布了它将做出的其他一些改变，以“
+
+📅 2026-11-05T01:06:08.000Z
+
+---
+
+### The Information Technology
+**[选民送给大型科技公司的礼物](https://www.theinformation.com/articles/voters-gift-big-tech)**
+
+（所有这些亿万富翁现在都能回家吗？根据这个理论，任何伤害你的竞争对手的东西都对你有好处，这对大型云公司亚马逊、微软和谷歌都有好处
+
+📅 2026-11-05T01:01:02.000Z
+
+---
+
+### The Information Technology
 ![规模较小的银行如何为代理商提供账户访问权限](https://tii.imgix.net/production/articles/18104/2cae01ff-8fe9-42ed-91c5-50dd9a294dbf.jpg?auto=compress,format&amp;fit=crop&amp;w=560)
 
 **[规模较小的银行如何为代理商提供账户访问权限](https://www.theinformation.com/articles/smaller-banks-giving-agents-access-accounts)**
@@ -219,14 +237,12 @@ Jill Hazelbaker将加入**OpenAI**担任首席企业事务官，领导公司的�
 
 ---
 
-### The Verge
-![ChatGPT现在将为您制作动画GIF](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### The Information Technology
+**[独家：微软降低了云计算公司IREN延迟后的数据中心支出](https://www.theinformation.com/briefings/exclusive-microsoft-lowered-data-center-spending-following-delays-cloud-firm-iren)**
 
-**[ChatGPT现在将为您制作动画GIF](https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6)**
+微软上周表示，其第三季度在资本支出方面的支出比此前预计减少了约50 $ ，因为其计划租用的数据中心容量尚未准备就绪。微软没有透露这些延迟背后的“第三方” ，但其中之一是
 
-Chat**GPT**现在可以使用上传到AI聊天机器人的提示或照片创建GIF**更新**，该**更新**将与**OpenAI**的新图片一起**推出**2
-
-📅 2026-11-04T18:00:00.000Z
+📅 2026-11-04T21:05:04.000Z
 
 ---
 
@@ -239,80 +255,71 @@ Chat**GPT**现在可以使用上传到AI聊天机器人的提示或照片创建G
 
 ---
 
-### The Information Technology
-**[OpenAI同意收购软件初创公司Pierre以支持Codex](https://www.theinformation.com/briefings/openai-agrees-buy-software-startup-pierre-bolster-codex)**
+### Wired Technology
+**[谷歌正在迫使课堂上进行人工智能概述。学校正在寻找出路](https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/)**
 
-**OpenAI**周三表示，它正在收购Pierre Computer Company **OpenAI**的编码代理Codex已经在使用Pierre的**开源**开发人员工具，包括Code Storage ，这项服务允许
+谷歌正在将人工智能概览与传统的搜索机器生成的答案结合起来，使孩子们的能力降低
 
-📅 2026-11-04T17:56:42.000Z
-
----
-
-### The Information Technology
-**[芯片股和新云在选举结果中抛售](https://www.theinformation.com/briefings/chip-stocks-neoclouds-sell-election-results)**
-
-周三上午，新云CoreWeave和Nebius的股票均下跌。相比之下，成熟的云计算公司、亚马逊、微软
-
-📅 2026-11-04T15:28:02.000Z
-
----
-
-### The Information Technology
-**[试图控制人工智能代理的安全公司](https://www.theinformation.com/articles/security-companies-trying-get-ai-agents-control)**
-
-据了解模型的人士称，在我们进入今天的专栏之前， **OpenAI**的新模型可能会在周五**发布**这些模型可能包括下一代的Astra ， Sol和网络焦点模型，知情人士说
-
-📅 2026-11-04T15:02:46.000Z
+📅 Wed, 04 Nov 2026 20:06:21 +0000
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://avatars.githubusercontent.com/u/21003710?v=4)
+![cs249r_book ：机器学习系统：基础、扩展、Agentic AI和物理AI （第I–IV卷） •哈佛CS249r | https://mlsysbook.ai](https://avatars.githubusercontent.com/u/47722602?v=4)
 
-**[pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://github.com/pytorch/pytorch)**
+**[cs249r_book ：机器学习系统：基础、扩展、Agentic AI和物理AI （第I–IV卷） •哈佛CS249r | https://mlsysbook.ai](https://github.com/harvard-edge/cs249r_book)**
 
-⭐ 105,134星· 31298分叉· Python ·具有强大GPU加速的Python中的张量和动态神经网络
+Agentic AI和Physical AI （第I–IV卷） •哈佛CS249r | https://mlsysbook
 
-📅 2026-11-04T21:05:24Z
-
----
-
-### GitHub New (New AI)
-![🆕 qwenFS: Qwen3.5-2B ，文件系统已编译并直接插入其权重。](https://avatars.githubusercontent.com/u/248433309?v=4)
-
-**[🆕 qwenFS: Qwen3.5-2B ，文件系统已编译并直接插入其权重。](https://github.com/vixhal-baraiya/qwenFS)**
-
-⭐ 79 star (新项目) · Python · Qwen35-2B with a filesystem compiled and inserted directly into its weights
-
-📅 2026-11-02T21:43:41Z
+📅 2026-11-05T03:10:30Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 Frontier-UI ：适用于Open WebUI的ChatGPT风格生成式UI ：照片库、带有真实路线的实时地图、多日游、预算、计算器、实时天气和股票、链接预览以及通过ArtCraft一键导出的Word/Excel/PowerPoint。一个文件，没有API密钥。](https://avatars.githubusercontent.com/u/181923470?v=4)
+### GitHub Active (Python)
+![esphome ： ESPHome是一个系统，通过简单而强大的配置文件控制您的ESP32、ESP8266、BK72xx、RP2040 ，并通过家庭自动化系统远程控制它们。](https://avatars.githubusercontent.com/u/45919759?v=4)
 
-**[🆕 Frontier-UI ：适用于Open WebUI的ChatGPT风格生成式UI ：照片库、带有真实路线的实时地图、多日游、预算、计算器、实时天气和股票、链接预览以及通过ArtCraft一键导出的Word/Excel/PowerPoint。一个文件，没有API密钥。](https://github.com/Jumbomuffin777/Frontier-UI)**
+**[esphome ： ESPHome是一个系统，通过简单而强大的配置文件控制您的ESP32、ESP8266、BK72xx、RP2040 ，并通过家庭自动化系统远程控制它们。](https://github.com/esphome/esphome)**
 
-⭐ 59 star (新项目) · Python · Chat**GPT**-style generative UI for Open WebUI: photo galleriesOne file, no API keys
+019星· 5788叉· C + + · ESPHome是一个系统，通过简单而强大的配置文件控制您的ESP32RP2040 ，并通过家庭自动化系统远程控制它们
 
-📅 2026-11-01T06:41:23Z
+📅 2026-11-05T03:10:59Z
+
+---
+
+### GitHub Active (Python)
+![vortex ：用于柱状压缩的可扩展、最先进的框架，以及最快的FOSS柱状文件格式。以前在@ spiraldb ，现在是Linux基金会LFAI&Data的孵化阶段项目。](https://avatars.githubusercontent.com/u/182635364?v=4)
+
+**[vortex ：用于柱状压缩的可扩展、最先进的框架，以及最快的FOSS柱状文件格式。以前在@ spiraldb ，现在是Linux基金会LFAI&Data的孵化阶段项目。](https://github.com/vortex-data/vortex)**
+
+⭐ 3,307星· 258叉· Rust ·一个可扩展的、最先进的柱状压缩框架，以及最快的FOSS柱状文件格式以前在@ spiraldb ，现在是LFAI&Data的孵化阶段项目，是Linux基金会的一部分
+
+📅 2026-11-05T03:10:54Z
 
 ---
 
 ### GitHub Active (AI/ML)
-![awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
+![paxeer-monorepo ： Paxeer X是用于支付、代码执行和意图路由的分布式超状态机。专为机器和操作它们的用户设计。](https://avatars.githubusercontent.com/u/315858149?v=4)
 
-**[awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
+**[paxeer-monorepo ： Paxeer X是用于支付、代码执行和意图路由的分布式超状态机。专为机器和操作它们的用户设计。](https://github.com/Sidiora-Labs/paxeer-monorepo)**
 
-⭐ 463星· 39分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作管道刷新
+⭐ 546星· 85分叉· TypeScript · Paxeer X是用于支付、代码执行和意图路由的分布式超状态机专为机器和操作它们的用户设计
 
-📅 2026-11-04T21:05:37Z
+📅 2026-11-05T03:09:37Z
 
 ---
 
 ## 💬 社交动态
+
+### Reddit: r/artificial
+**[关于使用人工智能提供建议或帮助的学术调查](https://www.reddit.com/r/artificial/comments/1xo1ezk/academic_survey_about_the_use_of_ai_for_advice_or/)**
+
+您是否在日常任务中使用AI聊天机器人（如Chat**GPT**、**Claude**、**Gemini** ）您是否在日常写作、建议、搜索或协助中使用在线AI聊天机器人
+
+📅 2026-11-04T22:06:01.000Z
+
+---
 
 ### Reddit: r/artificial
 **[什么人工智能对我有好处？](https://www.reddit.com/r/artificial/comments/1xnyyqr/what_ai_is_good_for_me/)**
@@ -323,21 +330,12 @@ Chat**GPT**现在可以使用上传到AI聊天机器人的提示或照片创建G
 
 ---
 
-### Reddit: r/artificial
-**[使用LLM时打个圈子](https://www.reddit.com/r/artificial/comments/1xno0n3/going_in_circles_when_using_llms/)**
-
-我会说，我一直在广泛使用Chat**GPT**和**Claude** ，从他们出来的那天起，当我做研究或以研究为导向的项目时，我的主要斗争似乎就来了
-
-📅 2026-11-04T13:20:02.000Z
-
----
-
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-11-04T21:06:01.327Z
+📅 2026-11-05T03:10:45.495Z
 
 ---
 
@@ -346,16 +344,34 @@ Chat**GPT**现在可以使用上传到AI聊天机器人的提示或照片创建G
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-11-04T21:06:05.982Z
+📅 2026-11-05T03:10:52.506Z
 
 ---
 
 ### Hacker News
-**[Conductor正在加入Meta](https://www.conductor.build/announcement)**
+**[图片2.6](https://openai.com/index/introducing-images-2-6/)**
 
-文章网址： https://wwwbuild/**announce**ment评论网址： https://**new**s
+文章网址： https://**OpenAI**com/index/introducing-images-2-6/评论网址： https://**new**s
 
-📅 Wed, 04 Nov 2026 18:22:40 +0000
+📅 Wed, 04 Nov 2026 23:35:44 +0000
+
+---
+
+### Hacker News
+**[Show HN: Gauge –开源CLI递归改进您的文档](https://github.com/gauge-sh/gauge-cli)**
+
+我们已经与很棒的开发工具公司合作，他们是第一批询问我们如何优化**Claude** Code和Codex的公司。每个虚拟机通常都带有代理程序本身、语言工具链和git存储库。
+
+📅 Wed, 04 Nov 2026 20:31:30 +0000
+
+---
+
+### Hacker News AI
+**[谷歌表示，关闭其人工智能工具的学校的K-12学生将失去搜索](https://www.ghacks.net/2026/11/04/google-says-k-12-students-at-schools-that-turn-off-its-ai-tools-will-lose-google-search/)**
+
+文章网址： https://wwwnet/2026/11/04/**Google**-says-k-12-students-at-schools-that-turn-off-its-ai-tools-will-lose-**Google**-search/评论网址： https://**new**s
+
+📅 Thu, 05 Nov 2026 01:52:52 +0000
 
 ---
 
@@ -367,26 +383,6 @@ Chat**GPT**现在可以使用上传到AI聊天机器人的提示或照片创建G
 提交者/u/ComicSands**new**s [link] [comments]
 
 📅 2026-11-04T18:17:44.000Z
-
----
-
-### Reddit: r/artificial
-**[如何创建AI聊天机器人？](https://www.reddit.com/r/artificial/comments/1xnsxdm/how_to_create_ai_chatbot/)**
-
-你们知道如何创建Chat**GPT**、Cloude或其他一些人工智能机器人吗？如果有人知道，请告诉我/u/StanixA提交的[link] [comments]
-
-📅 2026-11-04T16:39:38.000Z
-
----
-
-### Reddit: r/artificial
-![Anthropic的FlashProve可以证明人工智能提供商在不暴露其权重的情况下使用了您支付的模型](https://external-preview.redd.it/6rQaawW7Milkn-GryKuilD6bFqVwi03YevTwq8GDu44.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ec4c0bf87d2323822ebbaf2eaa89863f4934eb5a)
-
-**[Anthropic的FlashProve可以证明人工智能提供商在不暴露其权重的情况下使用了您支付的模型](https://www.reddit.com/r/artificial/comments/1xnrvak/anthropics_flashprove_could_prove_an_ai_provider/)**
-
-用户目前没有独立的方法来确认AI提供商是提供所请求的模型还是悄悄替换了更便宜的FlashProve通过使用零知识加密来解决此问题，以证明特定模型生成了响应，同时保持其专有权重隐藏
-
-📅 2026-11-04T15:58:57.000Z
 
 ---
 
