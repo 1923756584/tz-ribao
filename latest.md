@@ -1,12 +1,12 @@
 ---
-title: "2026年11月5日 - TZ日报"
-date: 2026-11-05T21:23:38.807Z
+title: "2026年11月6日 - TZ日报"
+date: 2026-11-06T03:12:58.842Z
 draft: false
 ---
 
-# 2026年11月5日 - TZ日报
+# 2026年11月6日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/11/5 21:23:38
+> 📊 今日汇总 38 条 · 🕐 2026/11/6 03:12:58
 
 ---
 
@@ -32,11 +32,29 @@ draft: false
 ---
 
 ### OpenAI Blog
-**[海姆斯塔登正在通过人工智能改变住宅房地产管理](https://openai.com/index/heimstaden)**
+**[合并使用OpenAI技术构建产品和业务工具](https://openai.com/index/merge-builds-with-openai)**
 
-了解Heimstaden如何使用**OpenAI**的Chat**GPT** Enterprise和Codex来改变整个欧洲的物业管理、削减成本并赋予员工权力
+Merge使用**GPT**-6 Astra、Chat**GPT**和Codex来审查产品代码并支持营销其团队还使用AI来计划高管晚宴并准备销售**更新**
 
-📅 Tue, 03 Nov 2026 08:00:00 GMT
+📅 Thu, 05 Nov 2026 08:00:00 GMT
+
+---
+
+### TechCrunch AI Products
+**[OpenAI总裁Greg Brockman表示，该公司可能在2027年首次公开募股](https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/)**
+
+这位高管吹捧该公司如何在竞争对手**Anthropic**已经成功进军的企业市场中占据一席之地
+
+📅 Thu, 05 Nov 2026 18:02:27 +0000
+
+---
+
+### OpenAI Blog
+**[澳大利亚大学正在培养AI本土毕业生](https://openai.com/index/australian-universities-ai-native-graduates)**
+
+澳大利亚大学正在扩大对Chat**GPT**的访问，并将人工智能引入教学和学习，为学生做好人工智能劳动力的准备
+
+📅 Thu, 05 Nov 2026 17:00:00 GMT
 
 ---
 
@@ -46,6 +64,24 @@ draft: false
 OpenAI**推出**国家社区契约和计算校园政策蓝图，以保护当地资源并指导负责任的人工智能基础设施发展
 
 📅 Thu, 05 Nov 2026 02:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[Flipsnack通过转化优化增加产品注册量](https://openai.com/ads/customers/flipsnack)**
+
+Flipsnack的Chat**GPT**广告活动侧重于让人们试用其产品，增加注册量，同时降低每次注册的成本
+
+📅 Thu, 05 Nov 2026 00:45:15 GMT
+
+---
+
+### OpenAI Blog
+**[富兰克林邓普顿使用OpenAI支持投资研究](https://openai.com/index/franklin-templeton)**
+
+从股票研究开始Franklin Templeton正在开发人工智能工作流程，以帮助投资组合经理比较研究观点并检查投资风险
+
+📅 Thu, 05 Nov 2026 00:00:00 GMT
 
 ---
 
@@ -73,42 +109,6 @@ Daybreak Red通过Amazon Bedrock将**GPT**-56 Cyber带给AWS GovCloud （美国�
 **OpenAI**构建了一个自主管道，为Linux内核中的948个本地权限提升漏洞发现并生成补丁
 
 📅 Wed, 04 Nov 2026 08:00:00 GMT
-
----
-
-### OpenAI Blog
-**[图片简介2.6](https://openai.com/index/introducing-images-2-6)**
-
-图像26可跨Chat**GPT**、Codex和API实现更快的**图像生成**、GIF创建、更精确的编辑和新的API控件
-
-📅 Wed, 04 Nov 2026 00:00:00 GMT
-
----
-
-### OpenAI Blog
-**[DevRev通过GPT-6.1 SOL提供自主自助服务](https://openai.com/index/devrev-enterprise-self-service)**
-
-DevRev使用**GPT**-61 SOL为计算机和操作员提供动力，平衡企业服务的推理、速度和成本
-
-📅 Wed, 04 Nov 2026 00:00:00 GMT
-
----
-
-### OpenAI Blog
-**[加速物理世界的工程设计](https://openai.com/index/accelerating-engineering-for-the-physical-world)**
-
-了解Chat**GPT**和Codex如何帮助工程师在物理世界中加速CAD、PCB设计、仿真和其他工作流程
-
-📅 Tue, 03 Nov 2026 12:00:00 GMT
-
----
-
-### OpenAI Blog
-**[思科如何利用OpenAI以机器速度进行防御](https://openai.com/index/cisco-cyber)**
-
-思科将网络智能与**OpenAI**模型相结合，以加强企业安全了解思科如何构建更具适应性的防御
-
-📅 Tue, 03 Nov 2026 08:00:00 GMT
 
 ---
 
@@ -200,18 +200,54 @@ DevRev使用**GPT**-61 SOL为计算机和操作员提供动力，平衡企业服
 ---
 
 ### The Verge
-![Claude AI可以直接插入您的银行账户](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Personal-Finance-in-Claude-hed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![Perplexity推出了自己对AI代理工作的看法](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[Claude AI可以直接插入您的银行账户](https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance)**
+**[Perplexity推出了自己对AI代理工作的看法](https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work)**
 
-**Anthropic**为管理您的个人财务提出了一个新的口号：让**Claude**来代替**Claude**还可以回答更广泛的问题，比如在下一个发薪日之前还剩下哪些账单
+困惑正在用自己的以工作为中心的人工智能代理来挑战**OpenAI**和**Anthropic** “您可以为每个团队成员分配他们可以同时执行的不同工作-很像**OpenAI**的Dots和**Claude** Duet
 
-📅 2026-11-05T18:00:00.000Z
+📅 2026-11-05T22:26:50.000Z
 
 ---
 
 ### The Information Technology
-**[爱彼迎揭晓Chesky秘密人工智能初创公司的新细节](https://www.theinformation.com/articles/airbnb-reveals-new-details-cheskys-secretive-ai-startup)**
+**[Anthropic为Claude推出个人理财功能](https://www.theinformation.com/briefings/anthropic-launches-personal-finance-feature-claude)**
+
+**Anthropic**表示，它正在为Claude**推出**一项个人理财功能用户可以通过Plaid将其银行账户连接到**Claude**以授予只读访问权限，这意味着**Claude**将无法移动、管理或
+
+📅 2026-11-05T21:20:43.000Z
+
+---
+
+### Wired Technology
+**[聊天机器人中的广告已经到来。以下是哪些有效，哪些无效](https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/)**
+
+随着**Anthropic**保持其将广告排除在**Claude**t之外的誓言，人工智能聊天机器人行业的其他部门正在竞相在不与用户对抗的情况下赢得广告商的青睐
+
+📅 Thu, 05 Nov 2026 21:37:18 +0000
+
+---
+
+### Ars Technica
+**[谷歌：学校可以在跳过双子座的同时继续搜索，但人工智能搜索是不可谈判的](https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/)**
+
+从技术上讲，谷歌为学校提供了更多的选择，但不是任何人想要的选择。
+
+📅 Thu, 05 Nov 2026 21:40:36 +0000
+
+---
+
+### TechCrunch
+**[Meta、Google和TikTok就青少年社交媒体法起诉加州股份公司](https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/)**
+
+如果明年生效，加利福尼亚州的这项法律将限制16岁以下儿童使用社交媒体
+
+📅 Fri, 06 Nov 2026 00:01:38 +0000
+
+---
+
+### The Information Technology
+**[爱彼迎创始人Chesky正在自筹资金创办新的人工智能初创公司](https://www.theinformation.com/articles/airbnb-reveals-new-details-cheskys-secretive-ai-startup)**
 
 爱彼迎周四揭示了一家秘密的人工智能初创公司，该公司的创始人兼首席执行官Brian Chesky掌管着这家公司，他在1月份管理了**Meta**的人工智能组织后加入了爱彼迎
 
@@ -220,7 +256,7 @@ DevRev使用**GPT**-61 SOL为计算机和操作员提供动力，平衡企业服
 ---
 
 ### The Information Technology
-**[英伟达应对数据中心反弹的解决方案：改造旧电话大楼](https://www.theinformation.com/articles/nvidias-workaround-data-center-backlash-retrofitting-old-telephone-buildings)**
+**[英伟达应对数据中心反弹：改造阿波罗旧手机大楼](https://www.theinformation.com/articles/nvidias-workaround-data-center-backlash-retrofitting-old-telephone-buildings)**
 
 英伟达正在寻找一种更快的方式来启动其芯片：旧的电信公司大楼芯片设计师已与私募股权公司Apollo Global Management联系，希望创建一个小型人工智能数据中心网络，该网络可能跨越美国20个州
 
@@ -228,100 +264,78 @@ DevRev使用**GPT**-61 SOL为计算机和操作员提供动力，平衡企业服
 
 ---
 
-### The Information Technology
-**[研究人员发现，由于人工智能， Anthropic的研发速度可能翻了一番](https://www.theinformation.com/briefings/anthropics-r-d-speed-may-doubled-due-ai-researchers-find)**
-
-人工智能研究非营利组织METR的一份新报告称， **Anthropic**内部的人工智能使用可能使该公司的人工智能开发速度翻了一番。截至今年10月， **Anthropic**模型的改进速度大约是2024年3月至2025年10月期间改进速度的两倍。
-
-📅 2026-11-05T18:00:50.000Z
-
----
-
-### Ars Technica
-**[游戏玩家通过Nvidia的DLSS 5竭尽全力“改进” GTA VI](https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/)**
-
-使用采集卡和**开源**软件通过PC GPU运行PS5视频。
-
-📅 Thu, 05 Nov 2026 17:40:27 +0000
-
----
-
-### ZDNet AI
-**[Claude的新个人理财工具旨在帮助分析您的支出–当然是只读的](https://www.zdnet.com/innovation/personal-finance-claude-anthropic/)**
-
-**Claude**的新个人理财工具旨在帮助分析您的支出–当然是只读的
-
-📅 2026-11-05T18:00:00.000Z
-
----
-
-### The Verge
-![Muse现在有语音模式](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[Muse现在有语音模式](https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar)**
-
-首席执行官马克·扎克伯格（ Mark Zuckerberg ）今天宣布， **Meta**现在可以让您与Muse AI代理进行实时语音对话，尽管它在查找信息时偶尔会暂停……阅读The Verge的完整故事
-
-📅 2026-11-05T19:03:04.000Z
-
----
-
 ## 📦 GitHub热门
 
-### GitHub New (New AI)
-![🆕 qwenFS: Qwen3.5-2B ，文件系统已编译并直接插入其权重。](https://avatars.githubusercontent.com/u/248433309?v=4)
+### GitHub Active (Python)
+![unsloth ：运行和训练LLM和扩散模型的本地UI。支持GGUF、MLX、Qwen3.8、DeepSeek-V4.1、MiniMax-H3、Gemma 4、FLUX等。](https://avatars.githubusercontent.com/u/150920049?v=4)
 
-**[🆕 qwenFS: Qwen3.5-2B ，文件系统已编译并直接插入其权重。](https://github.com/vixhal-baraiya/qwenFS)**
+**[unsloth ：运行和训练LLM和扩散模型的本地UI。支持GGUF、MLX、Qwen3.8、DeepSeek-V4.1、MiniMax-H3、Gemma 4、FLUX等。](https://github.com/unslothai/unsloth)**
 
-⭐ 91 star (新项目) · Python · Qwen35-2B with a filesystem compiled and inserted directly into its weights
+⭐ 79,087星· 7361叉· Python ·本地UI运行和训练LLM和扩散模型8 ， **DeepSeek**-V4
 
-📅 2026-11-02T21:43:41Z
-
----
-
-### GitHub New (New AI)
-![🆕 Deadline-resp-Tracker-AI ：📅基于人工智能的学术截止日期助理，使用Gemini Vision从学术文档中提取作业、考试、项目和提交日期，并提供智能截止日期问答和Telegram通知。 🤖📸💬📲](https://avatars.githubusercontent.com/u/351013046?v=4)
-
-**[🆕 Deadline-resp-Tracker-AI ：📅基于人工智能的学术截止日期助理，使用Gemini Vision从学术文档中提取作业、考试、项目和提交日期，并提供智能截止日期问答和Telegram通知。 🤖📸💬📲](https://github.com/AstralBeneathSilver/Deadline-resp-Tracker-AI)**
-
-⭐ 40 star (新项目) · HTML · 📅 AI-powered academic deadline assistant that uses **Gemini** Vision to extract assignmentsprojects & submission dates from academic documents
-
-📅 2026-11-05T11:54:47Z
+📅 2026-11-06T03:11:52Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 qwenlab ：编译成Qwen3.5-9B的六个小型变压器，在自己的正向传递中进行训练。Qwen进行实验。](https://avatars.githubusercontent.com/u/31660086?v=4)
+### GitHub Active (Python)
+![余量：在工具输出、日志、文件和RAG块到达LLM之前对其进行压缩。编码代理的代币减少20% ， JSON的代币减少60-95% ，答案相同。库、代理、MCP服务器。](https://avatars.githubusercontent.com/u/294291659?v=4)
 
-**[🆕 qwenlab ：编译成Qwen3.5-9B的六个小型变压器，在自己的正向传递中进行训练。Qwen进行实验。](https://github.com/DeepakSingh98/qwenlab)**
+**[余量：在工具输出、日志、文件和RAG块到达LLM之前对其进行压缩。编码代理的代币减少20% ， JSON的代币减少60-95% ，答案相同。库、代理、MCP服务器。](https://github.com/headroomlabs-ai/headroom)**
 
-⭐ 9 star (新项目) · Python · Six small transformers compiled into Qwen35-9B, trained in its own forward passes
+编码代理的令牌减少20% ， JSON的令牌减少60-95% ，答案相同库、代理、MCP服务器
 
-📅 2026-11-04T18:08:52Z
+📅 2026-11-06T03:11:37Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 MagicVoiceAI ：使用Electron和Qvac sdk构建的离线桌面文本转语音（ TTS ）工作室](https://avatars.githubusercontent.com/u/82331014?v=4)
+### GitHub Active (Python)
+![pipeshub-ai ： AI代理的开源上下文层。PipesHub将您的公司知识（ Slack、Drive、Jira、GitHub、Microsoft 365和50多个连接器）转化为权限感知工作区，代理可以搜索、grep、导航和引用。MCP、SDK和内置代理。自托管。](https://avatars.githubusercontent.com/u/201571456?v=4)
 
-**[🆕 MagicVoiceAI ：使用Electron和Qvac sdk构建的离线桌面文本转语音（ TTS ）工作室](https://github.com/DjibrilM/MagicVoiceAI)**
+**[pipeshub-ai ： AI代理的开源上下文层。PipesHub将您的公司知识（ Slack、Drive、Jira、GitHub、Microsoft 365和50多个连接器）转化为权限感知工作区，代理可以搜索、grep、导航和引用。MCP、SDK和内置代理。自托管。](https://github.com/pipeshub-ai/pipeshub-ai)**
 
-⭐ 9 star (新项目) · TypeScript · An offline desktop Text-to-Speech (TTS) st**Udio** built with Electron and the Qvac sdk
+⭐ 3,991星· 646分叉· Python ·人工智能代理的**开源**上下文层Microsoft 365和50多个连接器）进入代理可以搜索的权限感知工作区
 
-📅 2026-11-03T15:47:34Z
+📅 2026-11-06T03:11:39Z
+
+---
+
+### GitHub Active (AI/ML)
+![AI芯片：用于AI、机器学习和深度学习的IC和IP列表。](https://avatars.githubusercontent.com/u/16098154?v=4)
+
+**[AI芯片：用于AI、机器学习和深度学习的IC和IP列表。](https://github.com/basicmi/AI-Chip)**
+
+⭐ 1711星· 276分叉· JavaScript ·人工智能、机器学习和深度学习的IC和IP列表
+
+📅 2026-11-06T03:10:16Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-![还记得OpenAI发布GPT-6 Astra广告时，我们经历了一些新的事情。我决定建立自己的平台，做同样的事情。](https://external-preview.redd.it/Njdqbzc3YzdpdHpoMeywbbA4MQr-nn33M4QqOmukZpcqEMkIQryPdnziktSW.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4ae39e61e121047f7a01a782734ba6623dd07740)
+**[盲听测试： 62人比较了8位LLM （ Gemini、Claude、Qwen、Kimi、Grok、GPT-6.1、DeepSeek、Llama ）撰写的8小节钢琴循环。中期结果](https://www.reddit.com/r/artificial/comments/1xoz9sv/blind_listening_test_62_people_compared_8bar/)**
 
-**[还记得OpenAI发布GPT-6 Astra广告时，我们经历了一些新的事情。我决定建立自己的平台，做同样的事情。](https://www.reddit.com/r/artificial/comments/1xomidm/remember_when_openai_released_the_gpt6_astra/)**
+638次计划成对判断（所有配对的获胜率；引导重采样听众的95%间隔） Model Won获胜率95% CI **Gemini** 4 Argon 84 43 66% 57–75 **Claude** Opus 51 Terra Pro 60 70 46% 37-55 Llama 4 Maverick 38 104 27% 19–35 **Gemini**在79%的引导重复中排名第一， **Claude**在18%
 
-​ 在观看了**GPT**-6 Astra**发布**广告后，我想构建一个可以通过语音控制的画布，并实时**更新**运行时。因此，您可以使用**OpenAI**模型和前立面CAD绘图让前10个代理在3D中进行设计，为每个代理提供特定的任务，例如外部任务
+📅 2026-11-06T00:41:21.000Z
 
-📅 2026-11-05T16:06:30.000Z
+---
+
+### Hacker News
+**[Claude Code将您的电子邮件地址发送到网站](https://github.com/anthropics/claude-code/issues/107757)**
+
+文章网址： https://githubcom/**Anthropic**s/**Claude**-code/issues/107757评论网址： https://**new**s
+
+📅 Thu, 05 Nov 2026 22:17:15 +0000
+
+---
+
+### Reddit: r/artificial
+**[传统的PKMS和人工智能驱动的第二个大脑有什么区别？](https://www.reddit.com/r/artificial/comments/1xp0ael/whats_the_difference_between_a_traditional_pkms/)**
+
+我围绕这个想法构建了Cohestry ，因为我被笔记、文档、PRD和人工智能生成的研究淹没在我的工作流程中Cohestry有一个可定制的MCP桥梁，可以为**Claude**和Chat**GPT**等工具提供相关的上下文，而无需每次会话都重新构建它
+
+📅 2026-11-06T01:30:34.000Z
 
 ---
 
@@ -330,34 +344,16 @@ DevRev使用**GPT**-61 SOL为计算机和操作员提供动力，平衡企业服
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-11-05T21:22:24.935Z
+📅 2026-11-06T03:11:44.990Z
 
 ---
 
-### X: DeepSeek
-**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+### Reddit: r/artificial
+**[做我想做的事情的最佳方式是什么？我正在尝试尽可能地重新创建Autodesk Maya ，但它是免费版本](https://www.reddit.com/r/artificial/comments/1xp082g/what_is_the_best_way_to_do_what_im_trying_to_do/)**
 
-网址来源： http://twitter.com/**DeepSeek**_ai
+现在我只是要求Chat**GPT**复制我在Maya中喜欢的某些特性和功能（到目前为止，我只专注于3D建模和着色器的工具，没有别的） ，然后下载开发构建并测试它我今天发现，您可以使用人工智能来构建自己的程序和软件
 
-📅 2026-11-05T21:22:30.967Z
-
----
-
-### Hacker News AI
-**[谷歌为学校提供人工智能增强的搜索或根本不提供](https://www.cbc.ca/news/canada/google-classroom-suite-search-ai-9.7410158)**
-
-ca/**new**s/canada/**Google**-classroom-suite-search-ai-97410158评论网址： https://**new**s
-
-📅 Thu, 05 Nov 2026 21:06:00 +0000
-
----
-
-### Hacker News AI
-**[2026年10月Anthropic AI研发加速独立评估](https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/)**
-
-文章网址： https://metrorg/blog/2026-11-05-**Anthropic**-ai-rd-acceleration-assessment/评论网址： https://**new**s
-
-📅 Thu, 05 Nov 2026 20:16:19 +0000
+📅 2026-11-06T01:27:32.000Z
 
 ---
 
@@ -372,21 +368,21 @@ ca/**new**s/canada/**Google**-classroom-suite-search-ai-97410158评论网址： 
 
 ---
 
-### Reddit: r/artificial
-**[是否还有一个实际生产、测试、发布的应用程序生成了90-100%的人工智能代理？](https://www.reddit.com/r/artificial/comments/1xor0yg/is_there_even_1_actual_production_tested_released/)**
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-今年早些时候**Claude**生成了一个C编译器，但这些编译器都没有接近“生产，测试，**发布**”
+Title: 520: Web服务器返回未知错误
 
-📅 2026-11-05T18:57:12.000Z
+📅 2026-11-06T03:11:44.990Z
 
 ---
 
-### Reddit: r/artificial
-**[Plugin4Shell允许存储库所有者跨LLMS交换固定代理](https://www.reddit.com/r/artificial/comments/1xomjwt/plugin4shell_lets_repository_owners_swap_pinned/)**
+### X: OpenAI
+**[警告：目标URL返回错误520 ： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-您在2天的工作中如何扫描您的AI插件（技能、插件、MCP、MOD等）这种Plugin4Shell攻击我不确定顶级扫描仪（ ciso、nvidia等）是否会捕捉到/u/assentic提交的[link] [comments]
+警告：目标URL返回错误520 ：
 
-📅 2026-11-05T16:08:12.000Z
+📅 2026-11-06T03:11:44.990Z
 
 ---
 
