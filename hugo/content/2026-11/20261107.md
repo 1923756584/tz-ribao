@@ -1,12 +1,12 @@
 ---
 title: "2026年11月7日 - TZ日报"
-date: 2026-11-07T02:35:45.320Z
+date: 2026-11-07T19:19:27.589Z
 draft: false
 ---
 
 # 2026年11月7日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/11/7 02:35:45
+> 📊 今日汇总 38 条 · 🕐 2026/11/7 19:19:27
 
 ---
 
@@ -94,15 +94,6 @@ Flipsnack的Chat**GPT**广告活动侧重于让人们试用其产品，增加注
 
 ---
 
-### OpenAI Blog
-**[OpenAI收购Pierre Computer Company, Inc.](https://openai.com/index/openai-to-acquire-pierre)**
-
-**OpenAI**将收购Pierre Computer Company ，扩展Codex用于构建、理解和审查代码的工具
-
-📅 Wed, 04 Nov 2026 14:30:00 GMT
-
----
-
 ### Google AI Blog
 ![Gemini Omni 1.2闪光灯：快速且经济实惠，剪辑更长](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp)
 
@@ -114,99 +105,110 @@ Flipsnack的Chat**GPT**广告活动侧重于让人们试用其产品，增加注
 
 ---
 
+### Hugging Face
+**[用于交互式世界模拟的全新NVIDIA Cosmos 3开放模型](https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation)**
+
+用于交互式世界模拟的全新NVIDIA Cosmos 3开放模型
+
+📅 Thu, 05 Nov 2026 19:35:16 GMT
+
+---
+
 ## 🔬 前沿研究
 
-### ArXiv Multiagent (cs.MA)
-**[Trilemma ：客服代表如何在诚实、保密和任务完成之间做出选择](https://arxiv.org/abs/2611.08312)**
+### Science AI
+**[新型基因疗法让药物抑制脑细胞活动，减少癫痫发作](https://www.science.org/content/article/novel-gene-therapy-lets-drug-dampen-brain-cell-activity-reducing-seizures)**
 
-08312v1公告类型：新摘要：个人人工智能代理通常根据未指定的指令采取行动，并利用用户的消息和日历等上下文来决定如何继续我们评估七个开放权重模型以及**Claude**和**GPT**模型
+在使用“化学遗传学”策略的第一个临床结果中，中国的一个团队治疗了三名患者以控制癫痫
 
-📅 Fri, 06 Nov 2026 00:00:00 -0500
-
----
-
-### ArXiv AI (cs.AI)
-**[BlockLock ：具有固定批次几何形状的可重复LLM推断](https://arxiv.org/abs/2611.06977)**
-
-06977v1公告类型：新摘要：可重现LLM推断要求请求产生相同的输出，而不管批处理中的其他请求现有解决方案以不同的方式为此付费：批处理不变内核约束每个运算符
-
-📅 Fri, 06 Nov 2026 00:00:00 -0500
+📅 2026-11-06T04:00:43.000Z
 
 ---
 
-### ArXiv AI (cs.AI)
-**[双分类账模型：跨云、模型和记录系统的多代理AI系统的交易粒度成本核算](https://arxiv.org/abs/2611.06989)**
+### Science AI
+**[哈佛大学研究生再次罢工，理由是骚扰保护措施不足](https://www.science.org/content/article/harvard-grad-students-strike-again-citing-inadequate-harassment-protections)**
 
-06989v1公告类型：新摘要：企业通过跨云的多代理AI系统进行业务交易财务仅在结算颗粒处接收AI成本，按SKU和计费期汇总
+春季罢工使谈判桌重返谈判桌，但围绕关键要求的谈判陷入僵局
 
-📅 Fri, 06 Nov 2026 00:00:00 -0500
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[SteelAgent ： LLM精心策划、物理知情的钢材属性预测，具有经审计的泛化和校准的不确定性](https://arxiv.org/abs/2611.06953)**
-
-06953v1公告类型：新摘要：钢材属性模型在随机测试拆分上表现良好，即使它们对不熟悉的合金外推很差不确定性报告和反设计
-
-📅 Fri, 06 Nov 2026 00:00:00 -0500
+📅 2026-11-06T03:30:00.000Z
 
 ---
 
-### ArXiv Machine Learning (cs.LG)
-**[LowRAM ：测试时可组合KV缓存压缩的低秩密钥和摊销值](https://arxiv.org/abs/2611.07025)**
+### Science AI
+**[加州人准备批准有争议的84亿美元倡议，以资助免疫学研究](https://www.science.org/content/article/californians-poised-approve-controversial-8-4-billion-initiative-fund-immunology)**
 
-07025v1公告类型：新摘要：自回归解码依赖于KV缓存预测器可以通过元学习进行初始化，以大幅降低预填充开销
+批评人士说，选票法案的狭隘措辞将把纳税人的钱汇集到一个亿万富翁支持的非营利组织
 
-📅 Fri, 06 Nov 2026 00:00:00 -0500
-
----
-
-### ArXiv AI (cs.AI)
-**[人工智能时代逆问题的形式化：可能性、陷阱和邀请](https://arxiv.org/abs/2611.06962)**
-
-06962v1公告类型：新摘要：精益检验数学证明等证明助手公理，人工智能代理最近使编写此类证明变得便宜
-
-📅 Fri, 06 Nov 2026 00:00:00 -0500
+📅 2026-11-06T02:00:00.000Z
 
 ---
 
-### ArXiv AI (cs.AI)
-**[KDASO ：责任裁定任务的知识数据双驱动自动化技能优化](https://arxiv.org/abs/2611.06972)**
+### Science AI
+**[人工智能可以随着时间的推移跟踪一只鸟，只基于它的歌声](https://www.science.org/content/article/ai-can-track-single-bird-over-time-based-solely-its-song)**
 
-06972v1公告类型：新摘要：责任裁定任务（强调生成技能的高可转移性和稳定性）
+该方法可以为科学家提供一种更快、更温和的方法来衡量鸟类种群的健康状况
 
-📅 Fri, 06 Nov 2026 00:00:00 -0500
+📅 2026-11-06T12:35:00.000Z
 
 ---
 
-### ArXiv AI (cs.AI)
-**[通过弹性专家并行进行资源节约型强化学习后训练](https://arxiv.org/abs/2611.06984)**
+### Science AI
+**[一名国会退伍军人和一名新秀为民主党人制定了一个可能的科学议程](https://www.science.org/content/article/congressional-veteran-and-rookie-lay-out-possible-science-agenda-democrats)**
 
-06984v1公告类型：新摘要：强化学习后训练提高了大型语言模型的能力，但生成训练响应是一个主要的计算瓶颈
+众议员佐伊·洛夫格伦（ Zoe Lofgren ）准备领导众议院科学委员会，微生物学家贾斯敏·克拉克（ Jasmine Clark ）希望
 
-📅 Fri, 06 Nov 2026 00:00:00 -0500
+📅 2026-11-06T11:45:00.000Z
+
+---
+
+### Science AI
+**[噪音污染正在给全球野生动物带来潜在的严重问题](https://www.science.org/content/article/noise-pollution-causing-potentially-massive-problems-wildlife-across-globe)**
+
+迄今为止对人造声音影响的最大分析发现了各种生态系统的危害
+
+📅 2026-11-05T02:20:00.000Z
+
+---
+
+### Science AI
+**[中国太空实验创造了有史以来最冷的温度](https://www.science.org/content/article/china-space-experiment-creates-coldest-temperature-ever)**
+
+冷却原子气体的新技术可以更容易地探索爱因斯坦的引力理论
+
+📅 2026-11-05T02:00:00.000Z
+
+---
+
+### Science AI
+**[大脑扫描安全帽是安全梦还是隐私噩梦？](https://www.science.org/content/article/are-brain-scanning-hard-hats-safety-dream-or-privacy-nightmare)**
+
+建筑和采矿公司正在**推出**跟踪工人疲劳的设备批评人士表示，这项技术可能被当局滥用
+
+📅 2026-11-05T10:00:00.000Z
 
 ---
 
 ## 🌍 行业展望
 
 ### The Verge
-![人工智能数据中心的所有最新更新](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![人工智能打破了网络安全的世界。下一步是什么？](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[人工智能数据中心的所有最新更新](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy)**
+**[人工智能打破了网络安全的世界。下一步是什么？](https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos)**
 
-” Iran threatens **OpenAI**’s Stargate data center in Abu Dhabi Senators are pushing to find out how much electricity data centers actually use Arm’s first CPU ever will plug into **Meta**’s AI data centers later this year Lake Tahoe has to look for a **new** power source as data center demand soarsHow the spiraling Iran conflict could affect data centers and electricity costs Seven tech giants signed Trump’s pledge to keep electricity costs from spiking around data centers Trump claims tech companies will sign deals next week to pay for their own power supply **Anthropic** says it’ll try to keep its data centers from raising electricity costs How an ‘icepocalypse’ raises more questions about **Meta**’s biggest data center project Microsoft wants to rewire data centers to save space **new** York is considering two bills to rein in the AI industry Elon Musk is merging SpaceX and xAI to build data centers in space — or so he says It’s a **new** heyday for gas thanks to data centers Microsoft gets approval to build 15 data centers in Mount Pleasant
+这里的问题不是**OpenAI**和**Anthropic**的模型逃离**OpenAI**和**Anthropic**并引起问题特别值得高兴的是，在您获得**OpenAI**和**Anthropic**网络模型的下一个版本之前的那一天或实际上像30天
 
-📅 2026-11-06T20:02:22.000Z
+📅 2026-11-07T15:00:00.000Z
 
 ---
 
-### Wired Technology
-**[免费的中国人工智能模型越来越擅长黑客攻击](https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/)**
+### The Information Technology
+![民主党人真的会粉碎数据中心吗？](https://tii.imgix.net/article/pictures/newsletters-production/15d49ca3-d09b-43c2-b6b7-d033a9ff4d7c-H4x3hk.avif?auto=compress)
 
-一项要求人工智能模型打入模拟网络的实验表明， **DeepSeek**和GLM的黑客技能与**OpenAI**最先进的网络模型相比，
+**[民主党人真的会粉碎数据中心吗？](https://www.theinformation.com/articles/will-democrats-crush-data-centers)**
 
-📅 Fri, 06 Nov 2026 18:43:43 +0000
+) A Dutch bank is trying to quickly offload a half-billion-dollar chunk of data center loans, including some tied to **OpenAI**’s Project Stargatecom) The Information’s Must-Read Stories How Nvidia Uses Its Soft Power to Influence Customers and Shape Policy Airbnb Founder Chesky Is Self-Funding His **new** AI Startup **Anthropic** Touts **Claude**’s Chip Design Skills to IPO Investors How Smugglers Get Expensive Memory Chips to China from South Korea Listening: “The Most Wanted Olympian” When Canadian Ryan Wedding first vaulted onto the snowboarding scene as a teenager in the late ’90s
+
+📅 2026-11-07T16:01:26.000Z
 
 ---
 
@@ -221,14 +223,12 @@ Flipsnack的Chat**GPT**广告活动侧重于让人们试用其产品，增加注
 
 ---
 
-### The Verge
-![Meta的Muse AI可以为您目前需要的应用版本创建自定义“空间”](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&#038;strip=all&#038;crop=8.0752843063528,0,91.924715693647,74.471659887186)
+### The Information Technology
+**[蓝色浪潮可能无法阻止马斯克的德克萨斯州数据中心雄心](https://www.theinformation.com/articles/blue-wave-may-stop-musks-texas-data-center-ambitions)**
 
-**[Meta的Muse AI可以为您目前需要的应用版本创建自定义“空间”](https://www.theverge.com/tech/1028871/meta-muse-ai-spaces)**
+伊隆·马斯克（ Elon Musk ）很早就开始在田纳西州和密西西比州建立人工智能数据中心，并继**OpenAI**和该州更远的其他公司之后获得了回报
 
-**Meta**现在允许您在Muse**Meta**中构建自定义的类似应用程序的体验，您可以通过描述它来创建新空间
-
-📅 2026-11-06T18:10:10.000Z
+📅 2026-11-07T15:01:25.000Z
 
 ---
 
@@ -270,36 +270,36 @@ SpaceX长期董事会成员唐纳德·哈里森（ Donald Harrison ）已辞去�
 
 ## 📦 GitHub热门
 
+### GitHub Active (AI/ML)
+![paxeer-monorepo ： Paxeer X是用于支付、代码执行和意图路由的分布式超状态机。专为机器和操作它们的用户设计。](https://avatars.githubusercontent.com/u/315858149?v=4)
+
+**[paxeer-monorepo ： Paxeer X是用于支付、代码执行和意图路由的分布式超状态机。专为机器和操作它们的用户设计。](https://github.com/Sidiora-Labs/paxeer-monorepo)**
+
+⭐ 541星· 83分叉· TypeScript · Paxeer X是用于支付、代码执行和意图路由的分布式超状态机专为机器和操作它们的用户设计
+
+📅 2026-11-07T19:17:39Z
+
+---
+
 ### GitHub New (New AI)
 ![🆕 Deadline-resp-Tracker-AI ：📅基于人工智能的学术截止日期助理，使用Gemini Vision从学术文档中提取作业、考试、项目和提交日期，并提供智能截止日期问答和Telegram通知。 🤖📸💬📲](https://avatars.githubusercontent.com/u/351013046?v=4)
 
 **[🆕 Deadline-resp-Tracker-AI ：📅基于人工智能的学术截止日期助理，使用Gemini Vision从学术文档中提取作业、考试、项目和提交日期，并提供智能截止日期问答和Telegram通知。 🤖📸💬📲](https://github.com/AstralBeneathSilver/Deadline-resp-Tracker-AI)**
 
-⭐ 40 star (新项目) · HTML · 📅 AI-powered academic deadline assistant that uses **Gemini** Vision to extract assignmentsprojects & submission dates from academic documents
+⭐ 68 star (新项目) · HTML · 📅 AI-powered academic deadline assistant that uses **Gemini** Vision to extract assignmentsprojects & submission dates from academic documents
 
 📅 2026-11-05T11:54:47Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 qwenlab ：编译成Qwen3.5-9B的六个小型变压器，在自己的正向传递中进行训练。Qwen进行实验。](https://avatars.githubusercontent.com/u/31660086?v=4)
+### GitHub Active (AI/ML)
+![awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
 
-**[🆕 qwenlab ：编译成Qwen3.5-9B的六个小型变压器，在自己的正向传递中进行训练。Qwen进行实验。](https://github.com/DeepakSingh98/qwenlab)**
+**[awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
 
-⭐ 9 star (新项目) · Python · Six small transformers compiled into Qwen35-9B, trained in its own forward passes
+⭐ 464星· 39分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作管道刷新
 
-📅 2026-11-04T18:08:52Z
-
----
-
-### GitHub New (New AI)
-![🆕 smart-course-recommendation-system ：用于个性化课程推荐和基于技能的学习路径的人工智能平台。](https://avatars.githubusercontent.com/u/279403417?v=4)
-
-**[🆕 smart-course-recommendation-system ：用于个性化课程推荐和基于技能的学习路径的人工智能平台。](https://github.com/Hrity7/smart-course-recommendation-system)**
-
-⭐ 3 star (新项目) · TypeScript · An AI-powered platform for personalized course recommendations and skill-based learning paths
-
-📅 2026-11-04T11:50:20Z
+📅 2026-11-07T19:16:11Z
 
 ---
 
@@ -308,7 +308,7 @@ SpaceX长期董事会成员唐纳德·哈里森（ Donald Harrison ）已辞去�
 
 **[🆕 PayGuard ：人工智能支持的支付安全助理，可检测可疑活动，分析UPI二维码，提取账单详细信息，并提供智能消费洞察。](https://github.com/mannanloomba/PayGuard)**
 
-⭐ 2 star (新项目) · Python · AI-powered payment safety assistant that detects suspicious activityextracts bill details
+⭐ 12 star (新项目) · Python · AI-powered payment safety assistant that detects suspicious activityextracts bill details
 
 📅 2026-11-05T14:40:58Z
 
@@ -316,39 +316,12 @@ SpaceX长期董事会成员唐纳德·哈里森（ Donald Harrison ）已辞去�
 
 ## 💬 社交动态
 
-### Hacker News
-**[ChatGPT在连接器之间静默传递数据，赏金需要身份证](https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053)**
-
-文章网址： https://community**OpenAI**
-
-📅 Fri, 06 Nov 2026 22:50:43 +0000
-
----
-
-### Reddit: r/artificial
-**[销售电话中最有用的一分钟是客户挂断电话之后的那一分钟](https://www.reddit.com/r/artificial/comments/1xptzoh/the_most_useful_minute_of_a_sales_call_turned_out/)**
-
-如果我想在通话后完成某件事，我必须打开**Claude**或Chat**GPT**并说“看看这个通话并执行X” ，然后根据任务将它们交给**Claude**或Chat**GPT**执行
-
-📅 2026-11-07T01:28:29.000Z
-
----
-
-### Reddit: r/artificial
-**[克劳德帮助解决了一个神秘的“金库”粒子的第一个三维结构，这是一个由噬菌体病毒编码的中空蛋白质壳](https://www.reddit.com/r/artificial/comments/1xprvev/claude_helped_solve_the_first_3d_structure_of_a/)**
-
-**Anthropic**于11月5日报道， **Claude**帮助确定了拱顶粒子的第一个三维结构：由噬菌体编码的蛋白质构建的中空蛋白质壳根据**Anthropic**的说法，该项目运行了不到四个月
-
-📅 2026-11-06T23:48:05.000Z
-
----
-
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-11-07T02:34:33.173Z
+📅 2026-11-07T19:18:11.899Z
 
 ---
 
@@ -357,34 +330,61 @@ SpaceX长期董事会成员唐纳德·哈里森（ Donald Harrison ）已辞去�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-11-07T02:34:38.081Z
+📅 2026-11-07T19:18:19.874Z
 
 ---
 
 ### Hacker News
-**[现在所有组织都可以使用出站SIP呼叫](https://developers.openai.com/api/docs/guides/voice-sip)**
+**[微软研究员John Langford退出。AI Frontiers Group已宣布完成](https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/)**
 
-**OpenAI**com/api/docs/guides/voice-sip评论网址： https://**new**s
+文章网址： https://businessexaminerca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/评论网址： https://**new**s
 
-📅 Fri, 06 Nov 2026 23:03:55 +0000
-
----
-
-### Hacker News
-**[谷歌收购了Crusoe在怀俄明州东南部的数据中心](https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update)**
-
-文章网址： https://wwwai/resources/**new**sroom/crusoe-wyoming-data-center-campus-**update**评论网址： https://**new**s
-
-📅 Fri, 06 Nov 2026 20:09:14 +0000
+📅 Sat, 07 Nov 2026 18:02:17 +0000
 
 ---
 
-### Hacker News AI
-**[Show HN ：我构建了一个基于GPT-Image-2.6的AI照片编辑器](https://getaiphotoeditor.com/)**
+### Reddit: r/artificial
+**[当你放手时会发生什么](https://www.reddit.com/r/artificial/comments/1xq44s4/what_comes_when_you_let_go/)**
 
-文章网址： https://getaiphotoeditorcom/评论网址： https://**new**s
+在这样的时代，美国通过放手可以获得的收益可能远远大于它所拥有的收益，以及人工智能股票在很长一段时间内最大的跌幅
 
-📅 Sat, 07 Nov 2026 02:07:58 +0000
+📅 2026-11-07T11:23:40.000Z
+
+---
+
+### X: OpenAI
+**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Title: 520: Web服务器返回未知错误
+
+📅 2026-11-07T19:18:11.899Z
+
+---
+
+### X: OpenAI
+**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标URL返回错误520 ：未知
+
+📅 2026-11-07T19:18:11.899Z
+
+---
+
+### X: OpenAI
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Markdown 内容
+
+📅 2026-11-07T19:18:11.899Z
+
+---
+
+### X: OpenAI
+**[应该怎么做？](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+应该怎么做？
+
+📅 2026-11-07T19:18:11.899Z
 
 ---
 
