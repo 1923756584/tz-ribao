@@ -1,12 +1,12 @@
 ---
-title: "2026年11月6日 - TZ日报"
-date: 2026-11-06T20:45:56.134Z
+title: "2026年11月7日 - TZ日报"
+date: 2026-11-07T02:35:45.320Z
 draft: false
 ---
 
-# 2026年11月6日 - TZ日报
+# 2026年11月7日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/11/6 20:45:56
+> 📊 今日汇总 38 条 · 🕐 2026/11/7 02:35:45
 
 ---
 
@@ -125,15 +125,6 @@ Flipsnack的Chat**GPT**广告活动侧重于让人们试用其产品，增加注
 
 ---
 
-### Science AI
-**[人工智能公司的研究加深了细胞最奇怪粒子金库的奥秘](https://www.science.org/content/article/ai-company-s-research-deepens-mystery-vaults-cells-strangest-particles)**
-
-**Anthropic**使用其**Claude** AI来显示细菌和病毒也可能制造奇怪的结构，这表明
-
-📅 2026-11-04T03:03:00.000Z
-
----
-
 ### ArXiv AI (cs.AI)
 **[BlockLock ：具有固定批次几何形状的可重复LLM推断](https://arxiv.org/abs/2611.06977)**
 
@@ -188,6 +179,15 @@ Flipsnack的Chat**GPT**广告活动侧重于让人们试用其产品，增加注
 
 ---
 
+### ArXiv AI (cs.AI)
+**[通过弹性专家并行进行资源节约型强化学习后训练](https://arxiv.org/abs/2611.06984)**
+
+06984v1公告类型：新摘要：强化学习后训练提高了大型语言模型的能力，但生成训练响应是一个主要的计算瓶颈
+
+📅 Fri, 06 Nov 2026 00:00:00 -0500
+
+---
+
 ## 🌍 行业展望
 
 ### The Verge
@@ -211,6 +211,17 @@ Flipsnack的Chat**GPT**广告活动侧重于让人们试用其产品，增加注
 ---
 
 ### The Verge
+![随着竞争对手Anthropic接近IPO ， OpenAI的估值为1.25万$](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[随着竞争对手Anthropic接近IPO ， OpenAI的估值为1.25万$](https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation)**
+
+根据彭博社的数据， **OpenAI**现在在新一轮融资中价值125万亿美元，又筹集了110亿美元
+
+📅 2026-11-06T23:46:18.000Z
+
+---
+
+### The Verge
 ![Meta的Muse AI可以为您目前需要的应用版本创建自定义“空间”](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&#038;strip=all&#038;crop=8.0752843063528,0,91.924715693647,74.471659887186)
 
 **[Meta的Muse AI可以为您目前需要的应用版本创建自定义“空间”](https://www.theverge.com/tech/1028871/meta-muse-ai-spaces)**
@@ -221,107 +232,114 @@ Flipsnack的Chat**GPT**广告活动侧重于让人们试用其产品，增加注
 
 ---
 
-### The Verge
-![Meta翻新的Quest 3S耳机现在折扣近100 $](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Verge-Deals-Meta-Quest-3S.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+### The Information Technology
+**[Meta Strategy首席执行官Dave Wehner将出任Fireworks首席财务官](https://www.theinformation.com/briefings/exclusive-meta-strategy-chief-dave-wehner-become-fireworks-cfo)**
 
-**[Meta翻新的Quest 3S耳机现在折扣近100 $](https://www.theverge.com/gadgets/1028372/meta-quest-3s-headset-philips-hue-gradient-lightstrip-deal-sale)**
+**Meta** Platform首席战略官Dave Wehner将于周五离开公司，成为人工智能推理初创公司FireworksWehner的首席财务官
 
-**Meta**的Quest 3S是一款不错的入门级耳机，可以让您的脚趾轻松入睡。为了进行比较，作为亚马逊秋季Prime Day活动的一部分，该耳机最近降至300 $ ，目前零售价为349 $
-
-📅 2026-11-06T16:39:15.000Z
+📅 2026-11-07T01:45:22.000Z
 
 ---
 
 ### The Information Technology
-**[微软终止从甲骨文租用云服务器的交易](https://www.theinformation.com/briefings/microsoft-ends-deal-rent-cloud-servers-oracle)**
+**[SpaceX长期董事会成员辞职](https://www.theinformation.com/briefings/longtime-spacex-board-member-resigns)**
 
-微软拒绝续签从甲骨文租用云服务器的协议微软终止了这笔交易，因为它从甲骨文租用的服务器配备了
+SpaceX长期董事会成员唐纳德·哈里森（ Donald Harrison ）已辞去董事职务，该公司在周五提交的文件中披露，谷歌公司发展总裁哈里森（ Harrison ）曾担任
 
-📅 2026-11-06T19:00:52.000Z
-
----
-
-### The Information Technology
-**[随着芝加哥商品交易所第二次推迟上市， GPU期货希望遇到另一个障碍](https://www.theinformation.com/briefings/gpu-futures-hopes-hit-another-roadblock-cme-delays-launch-second-time)**
-
-在芝加哥商品交易所同意将其**推出**推迟60天之后，与Nvidia GPU租赁价格挂钩的期货的**推出**遇到了第二个障碍。商品期货交易委员会要求芝加哥商品交易所（ CME ） ，这家交易所可能是第一款
-
-📅 2026-11-06T15:47:23.000Z
+📅 2026-11-06T22:51:43.000Z
 
 ---
 
 ### The Information Technology
-**[亚马逊表示，购物者现在可以使用人工智能购物助手Alexa进行购物](https://www.theinformation.com/briefings/amazon-says-shoppers-can-now-text-ai-shopping-assistant-alexa-shopping)**
+**[OpenAI在筹集了110亿美元$后，预计将在下周向投资者简报](https://www.theinformation.com/briefings/openai-secured-11-billion-targets-9-billion-fundraising)**
 
-亚马逊在其Alexa for Shopping服务中引入了一项功能，用户可以直接给AI购物助手发短信**Meta**的Muse和Instinct都可以让用户通过短信与他们互动，而
+据一位知情人士透露， **OpenAI**预计将于下周与投资者举行电话会议，讨论其第三季度业绩。该讨论是在其最新一轮融资的第一部分结束后进行的，该轮融资以1 $的价格筹集了110亿美元$
 
-📅 2026-11-06T15:31:38.000Z
+📅 2026-11-06T21:57:39.000Z
 
 ---
 
 ### The Information Technology
-**[台积电称重制造先进内存芯片以获取更多人工智能支出](https://www.theinformation.com/articles/tsmc-weighs-making-advanced-memory-chips-capture-ai-spending)**
+**[Anthropic将于下周进行IPO路演](https://www.theinformation.com/briefings/anthropic-proceed-ipo-roadshow-next-week)**
 
-台湾半导体制造业由人工智能硬件热潮共同驱动
+**Anthropic**下周计划继续向潜在投资者进行正式营销，以进行即将到来的**首次**公开募股IPO路演将在投资者对亚马逊的大规模人工智能支出计划做出反应后，对科技股进行为期两周的波动
 
-📅 2026-11-06T14:01:18.000Z
+📅 2026-11-06T21:56:59.000Z
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![mediapipe ：用于直播和流媒体的跨平台、可定制的机器学习解决方案。](https://avatars.githubusercontent.com/u/150697620?v=4)
+### GitHub New (New AI)
+![🆕 Deadline-resp-Tracker-AI ：📅基于人工智能的学术截止日期助理，使用Gemini Vision从学术文档中提取作业、考试、项目和提交日期，并提供智能截止日期问答和Telegram通知。 🤖📸💬📲](https://avatars.githubusercontent.com/u/351013046?v=4)
 
-**[mediapipe ：用于直播和流媒体的跨平台、可定制的机器学习解决方案。](https://github.com/google-ai-edge/mediapipe)**
+**[🆕 Deadline-resp-Tracker-AI ：📅基于人工智能的学术截止日期助理，使用Gemini Vision从学术文档中提取作业、考试、项目和提交日期，并提供智能截止日期问答和Telegram通知。 🤖📸💬📲](https://github.com/AstralBeneathSilver/Deadline-resp-Tracker-AI)**
 
-⭐ 37,587星级· 6219分支· C + + ·用于直播和流媒体的跨平台、可定制的机器学习解决方案
+⭐ 40 star (新项目) · HTML · 📅 AI-powered academic deadline assistant that uses **Gemini** Vision to extract assignmentsprojects & submission dates from academic documents
 
-📅 2026-11-06T20:43:38Z
-
----
-
-### GitHub Active (AI/ML)
-![模块化：模块化平台（包括MAX和Mojo ）](https://avatars.githubusercontent.com/u/150859076?v=4)
-
-**[模块化：模块化平台（包括MAX和Mojo ）](https://github.com/modular/modular)**
-
-⭐ 30,109星· 3236叉·魔佐·模块化平台（包括MAX和魔佐）
-
-📅 2026-11-06T20:44:49Z
+📅 2026-11-05T11:54:47Z
 
 ---
 
-### GitHub Active (AI/ML)
-![screenpipe ： YC (S26) |打开计算机历史记录|持续记录您公司的计算机工作，映射您的工作流程，帮助您找到值得自动化的工作，并为您的代理上下文提供支持](https://avatars.githubusercontent.com/u/259178917?v=4)
+### GitHub New (New AI)
+![🆕 qwenlab ：编译成Qwen3.5-9B的六个小型变压器，在自己的正向传递中进行训练。Qwen进行实验。](https://avatars.githubusercontent.com/u/31660086?v=4)
 
-**[screenpipe ： YC (S26) |打开计算机历史记录|持续记录您公司的计算机工作，映射您的工作流程，帮助您找到值得自动化的工作，并为您的代理上下文提供支持](https://github.com/screenpipe/screenpipe)**
+**[🆕 qwenlab ：编译成Qwen3.5-9B的六个小型变压器，在自己的正向传递中进行训练。Qwen进行实验。](https://github.com/DeepakSingh98/qwenlab)**
 
-帮助您找到值得自动化的工作，并为您的代理上下文提供支持
+⭐ 9 star (新项目) · Python · Six small transformers compiled into Qwen35-9B, trained in its own forward passes
 
-📅 2026-11-06T20:44:23Z
+📅 2026-11-04T18:08:52Z
 
 ---
 
-### GitHub Active (AI/ML)
-![kornia ：用于空间AI的🐍几何计算机视觉库](https://avatars.githubusercontent.com/u/56968752?v=4)
+### GitHub New (New AI)
+![🆕 smart-course-recommendation-system ：用于个性化课程推荐和基于技能的学习路径的人工智能平台。](https://avatars.githubusercontent.com/u/279403417?v=4)
 
-**[kornia ：用于空间AI的🐍几何计算机视觉库](https://github.com/kornia/kornia)**
+**[🆕 smart-course-recommendation-system ：用于个性化课程推荐和基于技能的学习路径的人工智能平台。](https://github.com/Hrity7/smart-course-recommendation-system)**
 
-⭐ 12347星· 1521叉·蟒蛇·空间AI🐍几何计算机视觉库
+⭐ 3 star (新项目) · TypeScript · An AI-powered platform for personalized course recommendations and skill-based learning paths
 
-📅 2026-11-06T20:43:21Z
+📅 2026-11-04T11:50:20Z
+
+---
+
+### GitHub New (New AI)
+![🆕 PayGuard ：人工智能支持的支付安全助理，可检测可疑活动，分析UPI二维码，提取账单详细信息，并提供智能消费洞察。](https://avatars.githubusercontent.com/u/132040947?v=4)
+
+**[🆕 PayGuard ：人工智能支持的支付安全助理，可检测可疑活动，分析UPI二维码，提取账单详细信息，并提供智能消费洞察。](https://github.com/mannanloomba/PayGuard)**
+
+⭐ 2 star (新项目) · Python · AI-powered payment safety assistant that detects suspicious activityextracts bill details
+
+📅 2026-11-05T14:40:58Z
 
 ---
 
 ## 💬 社交动态
 
+### Hacker News
+**[ChatGPT在连接器之间静默传递数据，赏金需要身份证](https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053)**
+
+文章网址： https://community**OpenAI**
+
+📅 Fri, 06 Nov 2026 22:50:43 +0000
+
+---
+
 ### Reddit: r/artificial
-**[Android Remote Control MCP v1.13.0已推出：免费端到端加密隧道，无需帐户](https://www.reddit.com/r/artificial/comments/1xpf8k5/android_remote_control_mcp_v1130_is_out_free/)**
+**[销售电话中最有用的一分钟是客户挂断电话之后的那一分钟](https://www.reddit.com/r/artificial/comments/1xptzoh/the_most_useful_minute_of_a_sales_call_turned_out/)**
 
-ai或Chat**GPT**非常简单： - **Claude**: https://**Claude**modal = add-custom-connector # customize/connectors/yours - Chat**GPT**: https://chat**GPT**
+如果我想在通话后完成某件事，我必须打开**Claude**或Chat**GPT**并说“看看这个通话并执行X” ，然后根据任务将它们交给**Claude**或Chat**GPT**执行
 
-📅 2026-11-06T15:13:33.000Z
+📅 2026-11-07T01:28:29.000Z
+
+---
+
+### Reddit: r/artificial
+**[克劳德帮助解决了一个神秘的“金库”粒子的第一个三维结构，这是一个由噬菌体病毒编码的中空蛋白质壳](https://www.reddit.com/r/artificial/comments/1xprvev/claude_helped_solve_the_first_3d_structure_of_a/)**
+
+**Anthropic**于11月5日报道， **Claude**帮助确定了拱顶粒子的第一个三维结构：由噬菌体编码的蛋白质构建的中空蛋白质壳根据**Anthropic**的说法，该项目运行了不到四个月
+
+📅 2026-11-06T23:48:05.000Z
 
 ---
 
@@ -330,7 +348,7 @@ ai或Chat**GPT**非常简单： - **Claude**: https://**Claude**modal = add-cust
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-11-06T20:44:37.832Z
+📅 2026-11-07T02:34:33.173Z
 
 ---
 
@@ -339,52 +357,34 @@ ai或Chat**GPT**非常简单： - **Claude**: https://**Claude**modal = add-cust
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-11-06T20:44:44.164Z
+📅 2026-11-07T02:34:38.081Z
 
 ---
 
 ### Hacker News
-**[民主党发起国会对SpaceXAI、META和苹果的调查](https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/)**
+**[现在所有组织都可以使用出站SIP呼叫](https://developers.openai.com/api/docs/guides/voice-sip)**
 
-文章网址： https://wwwcom/technology/2026/11/06/after-courting-trump-corporate-america-faces-democracy-reckoning/评论网址： https://**new**s
+**OpenAI**com/api/docs/guides/voice-sip评论网址： https://**new**s
 
-📅 Fri, 06 Nov 2026 19:24:24 +0000
+📅 Fri, 06 Nov 2026 23:03:55 +0000
+
+---
+
+### Hacker News
+**[谷歌收购了Crusoe在怀俄明州东南部的数据中心](https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update)**
+
+文章网址： https://wwwai/resources/**new**sroom/crusoe-wyoming-data-center-campus-**update**评论网址： https://**new**s
+
+📅 Fri, 06 Nov 2026 20:09:14 +0000
 
 ---
 
 ### Hacker News AI
-**[人工智能文本水印可能无法满足欧盟的新规定](https://spectrum.ieee.org/ai-watermark-openai-textgrain-europe)**
+**[Show HN ：我构建了一个基于GPT-Image-2.6的AI照片编辑器](https://getaiphotoeditor.com/)**
 
-文章网址： https://spectrumorg/ai-watermark-**OpenAI**-textgrain-europe评论网址： https://**new**s
+文章网址： https://getaiphotoeditorcom/评论网址： https://**new**s
 
-📅 Fri, 06 Nov 2026 20:24:46 +0000
-
----
-
-### Reddit: r/artificial
-**[民主党人希望冻结数据中心建设，这对人工智能股票来说是一个真正的问题](https://www.reddit.com/r/artificial/comments/1xpgq4g/democrats_want_to_freeze_data_center_construction/)**
-
-包括与新墨西哥州Stargate网站相关的债务**Meta**表示，对数据中心的政治反对可能会迫使其撤回人工智能投资
-
-📅 2026-11-06T16:12:48.000Z
-
----
-
-### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Title: 520: Web服务器返回未知错误
-
-📅 2026-11-06T20:44:37.832Z
-
----
-
-### X: OpenAI
-**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-警告：目标URL返回错误520 ：未知
-
-📅 2026-11-06T20:44:37.832Z
+📅 Sat, 07 Nov 2026 02:07:58 +0000
 
 ---
 
