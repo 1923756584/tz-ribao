@@ -1,12 +1,12 @@
 ---
-title: "2026年11月7日 - TZ日报"
-date: 2026-11-07T19:19:27.589Z
+title: "2026年11月8日 - TZ日报"
+date: 2026-11-08T02:05:24.357Z
 draft: false
 ---
 
-# 2026年11月7日 - TZ日报
+# 2026年11月8日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/11/7 19:19:27
+> 📊 今日汇总 38 条 · 🕐 2026/11/8 02:05:24
 
 ---
 
@@ -67,33 +67,6 @@ OpenAI**推出**BioBasicsBencha 100任务基准测试，衡量人工智能代理
 
 ---
 
-### OpenAI Blog
-**[为负责任的人工智能基础设施设定新标准](https://openai.com/index/setting-new-standard-responsible-ai-infrastructure)**
-
-OpenAI**推出**国家社区契约和计算校园政策蓝图，以保护当地资源并指导负责任的人工智能基础设施发展
-
-📅 Thu, 05 Nov 2026 02:00:00 GMT
-
----
-
-### OpenAI Blog
-**[Flipsnack通过转化优化增加产品注册量](https://openai.com/ads/customers/flipsnack)**
-
-Flipsnack的Chat**GPT**广告活动侧重于让人们试用其产品，增加注册量，同时降低每次注册的成本
-
-📅 Thu, 05 Nov 2026 00:45:15 GMT
-
----
-
-### OpenAI Blog
-**[富兰克林邓普顿使用OpenAI支持投资研究](https://openai.com/index/franklin-templeton)**
-
-从股票研究开始Franklin Templeton正在开发人工智能工作流程，以帮助投资组合经理比较研究观点并检查投资风险
-
-📅 Thu, 05 Nov 2026 00:00:00 GMT
-
----
-
 ### Google AI Blog
 ![Gemini Omni 1.2闪光灯：快速且经济实惠，剪辑更长](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp)
 
@@ -111,6 +84,33 @@ Flipsnack的Chat**GPT**广告活动侧重于让人们试用其产品，增加注
 用于交互式世界模拟的全新NVIDIA Cosmos 3开放模型
 
 📅 Thu, 05 Nov 2026 19:35:16 GMT
+
+---
+
+### TechCrunch AI Products
+**[根据美国情报备忘录， Megaspeed高管被招募来监视Nvidia首席执行官](https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/)**
+
+据报道，今年早些时候分发的一份备忘录声称，中国国家安全部聘请了一名女性技术高管来监视英伟达的首席执行官
+
+📅 Sat, 07 Nov 2026 21:17:08 +0000
+
+---
+
+### TechCrunch AI Products
+**[Crusoe将陷入困境的怀俄明州数据中心项目出售给谷歌](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/)**
+
+这笔交易凸显了开发大规模人工智能数据中心的挑战。
+
+📅 Sat, 07 Nov 2026 01:40:28 +0000
+
+---
+
+### TechCrunch AI Products
+**[据报道， OpenAI以1.25万亿美元的估值额外筹集了110亿美元](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/)**
+
+据报道，作为一轮融资的一部分， **OpenAI**又筹集了110亿美元（ $ 110亿） ，这轮融资尚未结束，但预计将在未来几周内完成
+
+📅 Fri, 06 Nov 2026 22:53:46 +0000
 
 ---
 
@@ -171,20 +171,20 @@ Flipsnack的Chat**GPT**广告活动侧重于让人们试用其产品，增加注
 ---
 
 ### Science AI
-**[中国太空实验创造了有史以来最冷的温度](https://www.science.org/content/article/china-space-experiment-creates-coldest-temperature-ever)**
-
-冷却原子气体的新技术可以更容易地探索爱因斯坦的引力理论
-
-📅 2026-11-05T02:00:00.000Z
-
----
-
-### Science AI
 **[大脑扫描安全帽是安全梦还是隐私噩梦？](https://www.science.org/content/article/are-brain-scanning-hard-hats-safety-dream-or-privacy-nightmare)**
 
 建筑和采矿公司正在**推出**跟踪工人疲劳的设备批评人士表示，这项技术可能被当局滥用
 
 📅 2026-11-05T10:00:00.000Z
+
+---
+
+### MIT Tech Research
+**[我看着一个人形机器人打扫我的公寓。这感觉就像是未来的味道。](https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/)**
+
+我不是那种通常为房屋清洁工付费的人，但当我看到一篇关于旧金山新人形机器人清洁服务的X帖子时，我立即签署了……
+
+📅 Fri, 06 Nov 2026 10:00:00 +0000
 
 ---
 
@@ -270,17 +270,6 @@ SpaceX长期董事会成员唐纳德·哈里森（ Donald Harrison ）已辞去�
 
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![paxeer-monorepo ： Paxeer X是用于支付、代码执行和意图路由的分布式超状态机。专为机器和操作它们的用户设计。](https://avatars.githubusercontent.com/u/315858149?v=4)
-
-**[paxeer-monorepo ： Paxeer X是用于支付、代码执行和意图路由的分布式超状态机。专为机器和操作它们的用户设计。](https://github.com/Sidiora-Labs/paxeer-monorepo)**
-
-⭐ 541星· 83分叉· TypeScript · Paxeer X是用于支付、代码执行和意图路由的分布式超状态机专为机器和操作它们的用户设计
-
-📅 2026-11-07T19:17:39Z
-
----
-
 ### GitHub New (New AI)
 ![🆕 Deadline-resp-Tracker-AI ：📅基于人工智能的学术截止日期助理，使用Gemini Vision从学术文档中提取作业、考试、项目和提交日期，并提供智能截止日期问答和Telegram通知。 🤖📸💬📲](https://avatars.githubusercontent.com/u/351013046?v=4)
 
@@ -289,17 +278,6 @@ SpaceX长期董事会成员唐纳德·哈里森（ Donald Harrison ）已辞去�
 ⭐ 68 star (新项目) · HTML · 📅 AI-powered academic deadline assistant that uses **Gemini** Vision to extract assignmentsprojects & submission dates from academic documents
 
 📅 2026-11-05T11:54:47Z
-
----
-
-### GitHub Active (AI/ML)
-![awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
-
-**[awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
-
-⭐ 464星· 39分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作管道刷新
-
-📅 2026-11-07T19:16:11Z
 
 ---
 
@@ -314,6 +292,28 @@ SpaceX长期董事会成员唐纳德·哈里森（ Donald Harrison ）已辞去�
 
 ---
 
+### GitHub New (New AI)
+![🆕 visionguard-ai-visual-inspection ：使用计算机视觉、物体检测、缺陷分析和智能图像比较的人工智能视觉检测平台。](https://avatars.githubusercontent.com/u/300511195?v=4)
+
+**[🆕 visionguard-ai-visual-inspection ：使用计算机视觉、物体检测、缺陷分析和智能图像比较的人工智能视觉检测平台。](https://github.com/OlehDatsyk/visionguard-ai-visual-inspection)**
+
+⭐ 1 star (新项目) · Python · AI-powered visual inspection platform using computer visiondefect analysis and intelligent image comparison
+
+📅 2026-11-07T21:04:43Z
+
+---
+
+### GitHub New (New AI)
+![🆕 MemoryMind ：人工智能驱动的个人知识管理系统，结合语义搜索、混合检索和多LLM智能，帮助您捕获、组织和检索知识。](https://avatars.githubusercontent.com/u/232061307?v=4)
+
+**[🆕 MemoryMind ：人工智能驱动的个人知识管理系统，结合语义搜索、混合检索和多LLM智能，帮助您捕获、组织和检索知识。](https://github.com/farhanx3rz/MemoryMind)**
+
+⭐ 1 star (新项目) · Python · An AI-powered personal knowledge management system that combines semantic searchand multi-LLM intelligence to help you capture
+
+📅 2026-11-07T19:27:08Z
+
+---
+
 ## 💬 社交动态
 
 ### X: OpenAI
@@ -321,7 +321,7 @@ SpaceX长期董事会成员唐纳德·哈里森（ Donald Harrison ）已辞去�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-11-07T19:18:11.899Z
+📅 2026-11-08T02:04:01.066Z
 
 ---
 
@@ -330,25 +330,54 @@ SpaceX长期董事会成员唐纳德·哈里森（ Donald Harrison ）已辞去�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-11-07T19:18:19.874Z
+📅 2026-11-08T02:04:07.946Z
 
 ---
 
 ### Hacker News
-**[微软研究员John Langford退出。AI Frontiers Group已宣布完成](https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/)**
+**[Claude Code的“Don 't Ask Again”公开了1,122个公共GitHub文件中的密码](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)**
 
-文章网址： https://businessexaminerca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/评论网址： https://**new**s
+文章网址： https://apiirocom/blog/coding-agents-leaking-secrets-github-dont-ask-again评论网址： https://**new**s
+
+📅 Sat, 07 Nov 2026 20:45:32 +0000
+
+---
+
+### Hacker News
+**[微软研究院人工智能前沿小组的终结](https://hunch.net/?p=13764006)**
+
+ca/victoria-articles/item/microsoft评论网址： https://**new**s
 
 📅 Sat, 07 Nov 2026 18:02:17 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[当你放手时会发生什么](https://www.reddit.com/r/artificial/comments/1xq44s4/what_comes_when_you_let_go/)**
+**[人工智能系统刚刚证明了一个18年前的量子猜想— Lean检查了每一步](https://www.reddit.com/r/artificial/comments/1xqlg8p/an_ai_system_just_proved_an_18yearold_quantum/)**
 
-在这样的时代，美国通过放手可以获得的收益可能远远大于它所拥有的收益，以及人工智能股票在很长一段时间内最大的跌幅
+物理超级智能（ PSI ）于11月6日宣布，运行非公开人类模型实例的内部研究系统在运行的第三天产生了Aaronson-Ambainis猜想的完整证据—这是自2008年以来开放的量子计算问题。但它也提出了一个问题：何时无法检查或重复发现过程
 
-📅 2026-11-07T11:23:40.000Z
+📅 2026-11-08T00:38:24.000Z
+
+---
+
+### Reddit: r/artificial
+**[CrowdGPT -协作AI模型](https://www.reddit.com/r/artificial/comments/1xqj621/crowdgpt_a_collaborative_ai_model/)**
+
+它提出了一种新的人工智能范式，其中法学硕士的所有培训都是100 ％开放的，并首先为当地人工智能社区设计
+
+📅 2026-11-07T22:48:41.000Z
+
+---
+
+### Reddit: r/artificial
+![他说谷歌的人工智能是有意识的。但它对他的思想做了什么？](https://external-preview.redd.it/dstKT3bPJsuUqlyWOS47gulPbjNWqC_nWAGWcyRMwCg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5c8978e00e59d45a275499dc1dd95f02e261e0e5)
+
+**[他说谷歌的人工智能是有意识的。但它对他的思想做了什么？](https://www.reddit.com/r/artificial/comments/1xqelh8/he_said_googles_ai_was_conscious_but_what_was_it/)**
+
+四年前，举报人Blake Lemoine确信谷歌的人工智能聊天机器人已经变得有感知力现在，他警告/u/TheObserverUK提交的心理健康风险[link] [comments]
+
+📅 2026-11-07T19:24:01.000Z
 
 ---
 
@@ -357,34 +386,7 @@ SpaceX长期董事会成员唐纳德·哈里森（ Donald Harrison ）已辞去�
 
 Title: 520: Web服务器返回未知错误
 
-📅 2026-11-07T19:18:11.899Z
-
----
-
-### X: OpenAI
-**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-警告：目标URL返回错误520 ：未知
-
-📅 2026-11-07T19:18:11.899Z
-
----
-
-### X: OpenAI
-**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Markdown 内容
-
-📅 2026-11-07T19:18:11.899Z
-
----
-
-### X: OpenAI
-**[应该怎么做？](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-应该怎么做？
-
-📅 2026-11-07T19:18:11.899Z
+📅 2026-11-08T02:04:01.066Z
 
 ---
 
