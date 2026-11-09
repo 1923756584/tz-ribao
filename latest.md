@@ -1,19 +1,19 @@
 ---
-title: "2026年11月8日 - TZ日报"
-date: 2026-11-08T19:23:16.714Z
+title: "2026年11月9日 - TZ日报"
+date: 2026-11-09T02:25:10.284Z
 draft: false
 ---
 
-# 2026年11月8日 - TZ日报
+# 2026年11月9日 - TZ日报
 
-> 📊 今日汇总 36 条 · 🕐 2026/11/8 19:23:16
+> 📊 今日汇总 35 条 · 🕐 2026/11/9 02:25:10
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
-- **前沿研究**: 6 条
+- **前沿研究**: 5 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -31,21 +31,12 @@ draft: false
 
 ---
 
-### OpenAI Blog
-**[衡量人工智能代理如何处理日常湿实验室科学](https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science)**
+### TechCrunch AI Products
+**[英伟达将调查首席执行官黄延森与可能的中国间谍的关系](https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/)**
 
-OpenAI**推出**BioBasicsBencha 100任务基准测试，衡量人工智能代理解释原始实验数据和处理日常湿实验室科学的能力
+在给公司的一份备忘录中，黄承认自己有外遇。
 
-📅 Fri, 06 Nov 2026 00:00:00 GMT
-
----
-
-### Hugging Face
-**[用于交互式世界模拟的全新NVIDIA Cosmos 3开放模型](https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation)**
-
-用于交互式世界模拟的全新NVIDIA Cosmos 3开放模型
-
-📅 Thu, 05 Nov 2026 19:35:16 GMT
+📅 Sun, 08 Nov 2026 21:00:11 +0000
 
 ---
 
@@ -94,21 +85,30 @@ OpenAI**推出**BioBasicsBencha 100任务基准测试，衡量人工智能代理
 
 ---
 
-### OpenAI Blog
-**[Cult.fit使用Codex打造手术肌肉](https://openai.com/index/cultfit-builds-with-codex)**
-
-fIT使用Codex来帮助跨职能部门的团队构建工具、更快地移动并改变工作完成方式
-
-📅 Thu, 05 Nov 2026 20:00:00 GMT
-
----
-
 ### Hugging Face
 **[ToyBlocks ：机器人学习和评估的受控世界](https://huggingface.co/blog/allenai/toyblocks)**
 
 ToyBlocks ：机器人学习和评估的受控世界
 
 📅 Fri, 06 Nov 2026 14:00:48 GMT
+
+---
+
+### TechCrunch AI Products
+**[期中考试结束后，埃隆·马斯克（ Elon Musk ）和数据中心的情况看起来很糟糕](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/)**
+
+在股票方面，我们揭示了期中考试对科技行业的意义。
+
+📅 Sat, 07 Nov 2026 22:07:22 +0000
+
+---
+
+### TechCrunch AI Products
+**[数百个公开暴露在网络中的Artex AI黑客工具](https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/)**
+
+安全研究人员发现，数百台托管渗透测试工具Artex的服务器暴露在互联网上，允许任何人访问黑客工具
+
+📅 Fri, 06 Nov 2026 18:44:38 +0000
 
 ---
 
@@ -129,15 +129,6 @@ ToyBlocks ：机器人学习和评估的受控世界
 春季罢工使谈判桌重返谈判桌，但围绕关键要求的谈判陷入僵局
 
 📅 2026-11-06T03:30:00.000Z
-
----
-
-### Science AI
-**[加州人准备批准有争议的84亿美元倡议，以资助免疫学研究](https://www.science.org/content/article/californians-poised-approve-controversial-8-4-billion-initiative-fund-immunology)**
-
-批评人士说，选票法案的狭隘措辞将把纳税人的钱汇集到一个亿万富翁支持的非营利组织
-
-📅 2026-11-06T02:00:00.000Z
 
 ---
 
@@ -181,6 +172,15 @@ ToyBlocks ：机器人学习和评估的受控世界
 
 ---
 
+### The Information Technology
+**[Nvidia Inquiry、Anthropic、CoreWeave和Unity新闻承诺大周](https://www.theinformation.com/articles/nvidia-inquiry-anthropic-coreweave-unity-news-promise-big-week)**
+
+英伟达今天下午宣布，其董事会正在对有关首席执行官黄延生“一直是外国情报工作的目标”的报道进行“独立调查” ，这给AI**OpenAI**最**重要**的人物之一的未来蒙上了阴影：我们周五报道，这家AI公司预计下周将与投资者举行电话会议，讨论其第三季度业绩。
+
+📅 2026-11-08T21:41:31.000Z
+
+---
+
 ### The Verge
 ![苹果正在竞相让Siri更具特工气质](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
@@ -200,6 +200,15 @@ ToyBlocks ：机器人学习和评估的受控世界
 虽然没有关于哪些应用程序属于该标题的细节，但像Chat**GPT**和**Claude**这样的人工智能聊天机器人可以添加到HomeView似乎是合理的
 
 📅 2026-11-08T15:00:30.000Z
+
+---
+
+### The Information Technology
+**[英伟达董事会在报道中国线人瞄准首席执行官后启动调查](https://www.theinformation.com/briefings/nvidia-board-launching-investigation-reporting-ceo-targeted-chinese-informant)**
+
+英伟达（ Nvidia ）宣布，其董事会正在对最近的报道展开调查，该报道称其首席执行官黄延森（ Jensen Huang ） “一直是外国情报工作的目标” ，该公司在周日的新闻稿中表示
+
+📅 2026-11-08T20:26:54.000Z
 
 ---
 
@@ -230,45 +239,38 @@ ToyBlocks ：机器人学习和评估的受控世界
 
 ---
 
-### The Information Technology
-**[SpaceX长期董事会成员辞职](https://www.theinformation.com/briefings/longtime-spacex-board-member-resigns)**
-
-SpaceX长期董事会成员唐纳德·哈里森（ Donald Harrison ）已辞去董事职务，该公司在周五提交的文件中披露，谷歌公司发展总裁哈里森（ Harrison ）曾担任
-
-📅 2026-11-06T22:51:43.000Z
-
----
-
-### The Information Technology
-**[OpenAI在筹集了110亿美元$后，预计将在下周向投资者简报](https://www.theinformation.com/briefings/openai-secured-11-billion-targets-9-billion-fundraising)**
-
-据一位知情人士透露， **OpenAI**预计将于下周与投资者举行电话会议，讨论其第三季度业绩。该讨论是在其最新一轮融资的第一部分结束后进行的，该轮融资以1 $的价格筹集了110亿美元$
-
-📅 2026-11-06T21:57:39.000Z
-
----
-
 ## 📦 GitHub热门
 
-### GitHub New (New AI)
-![🆕 Deadline-resp-Tracker-AI ：📅基于人工智能的学术截止日期助理，使用Gemini Vision从学术文档中提取作业、考试、项目和提交日期，并提供智能截止日期问答和Telegram通知。 🤖📸💬📲](https://avatars.githubusercontent.com/u/351013046?v=4)
+### GitHub Active (AI/ML)
+![Enzyme.jl ：用于酶自动微分器的Julia结合](https://avatars.githubusercontent.com/u/91081904?v=4)
 
-**[🆕 Deadline-resp-Tracker-AI ：📅基于人工智能的学术截止日期助理，使用Gemini Vision从学术文档中提取作业、考试、项目和提交日期，并提供智能截止日期问答和Telegram通知。 🤖📸💬📲](https://github.com/AstralBeneathSilver/Deadline-resp-Tracker-AI)**
+**[Enzyme.jl ：用于酶自动微分器的Julia结合](https://github.com/EnzymeAD/Enzyme.jl)**
 
-⭐ 23 star (新项目) · HTML · 📅 AI-powered academic deadline assistant that uses **Gemini** Vision to extract assignmentsprojects & submission dates from academic documents
+⭐ 592星· 112叉·茱莉亚·茱莉亚结合酶自动微分器
 
-📅 2026-11-05T11:54:47Z
+📅 2026-11-09T02:21:34Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 PayGuard ：人工智能支持的支付安全助理，可检测可疑活动，分析UPI二维码，提取账单详细信息，并提供智能消费洞察。](https://avatars.githubusercontent.com/u/132040947?v=4)
+### GitHub Active (AI/ML)
+![paxeer-monorepo ： Paxeer X是用于支付、代码执行和意图路由的分布式超状态机。专为机器和操作它们的用户设计。](https://avatars.githubusercontent.com/u/315858149?v=4)
 
-**[🆕 PayGuard ：人工智能支持的支付安全助理，可检测可疑活动，分析UPI二维码，提取账单详细信息，并提供智能消费洞察。](https://github.com/mannanloomba/PayGuard)**
+**[paxeer-monorepo ： Paxeer X是用于支付、代码执行和意图路由的分布式超状态机。专为机器和操作它们的用户设计。](https://github.com/Sidiora-Labs/paxeer-monorepo)**
 
-⭐ 13 star (新项目) · Python · AI-powered payment safety assistant that detects suspicious activityextracts bill details
+⭐ 540星· 82叉· TypeScript · Paxeer X是用于支付、代码执行和意图路由的分布式超状态机专为机器和操作它们的用户设计
 
-📅 2026-11-05T14:40:58Z
+📅 2026-11-09T02:21:25Z
+
+---
+
+### GitHub Active (AI/ML)
+![awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://avatars.githubusercontent.com/u/217731079?v=4)
+
+**[awesome-ml-internships-2027 ：通过Zapply工作管道更新，为学生提供实时人工智能和机器学习实习。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
+
+⭐ 466星· 39分叉·不适用·学生实时人工智能和机器学习实习，通过Zapply工作管道刷新
+
+📅 2026-11-09T02:22:04Z
 
 ---
 
@@ -277,24 +279,22 @@ SpaceX长期董事会成员唐纳德·哈里森（ Donald Harrison ）已辞去�
 
 **[🆕 CodeSlice ：本地优先的人工智能代码读取桌面应用程序，具有可导航的源引用和人工批准的操作。](https://github.com/ctianye/CodeSlice)**
 
-⭐ 7 star (新项目) · Python · Local-first AI code-reading desktop app with navigable source citations and human-approved actions
+⭐ 9 star (新项目) · Python · Local-first AI code-reading desktop app with navigable source citations and human-approved actions
 
 📅 2026-11-07T13:42:42Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 sovereign-containment-architecture: 新项目](https://avatars.githubusercontent.com/u/353942528?v=4)
+## 💬 社交动态
 
-**[🆕 sovereign-containment-architecture: 新项目](https://github.com/m7mdsdieek/sovereign-containment-architecture)**
+### Reddit: r/artificial
+**[我应该如何学习和使用人工智能？](https://www.reddit.com/r/artificial/comments/1xr6y63/how_should_i_actually_be_learning_and_using_ai/)**
 
-⭐ 2 star (新项目) · Lean · 无描述
+Chat**GPT**、**Claude**、**Gemini**或其他您在学习新概念或编程时如何亲自使用人工智能
 
-📅 2026-11-08T03:21:36Z
+📅 2026-11-08T19:34:38.000Z
 
 ---
-
-## 💬 社交动态
 
 ### Reddit: r/artificial
 **[消费者双子座自动将Drive文件/Gmail摄入人工审核池](https://www.reddit.com/r/artificial/comments/1xr1o9g/consumer_gemini_autonomously_ingests_drive/)**
@@ -306,11 +306,11 @@ SpaceX长期董事会成员唐纳德·哈里森（ Donald Harrison ）已辞去�
 ---
 
 ### Reddit: r/artificial
-**[GPT-6 ASTRA在99%的检测目标上标记了15%的安全措施](https://www.reddit.com/r/artificial/comments/1xquczz/gpt6_astra_flagged_15_of_safe_actions_at_a_99/)**
+**[麻省理工学院CSAIL ： GPT-6 Astra编辑了小Qwen模型重量的0.016 ％ ，并将MATH-500从7.9 ％提高到48.1 ％ -批评者称这是标准的机器学习工程](https://www.reddit.com/r/artificial/comments/1xr8gei/mit_csail_gpt6_astra_edited_0016_of_a_small_qwen/)**
 
-在R-Judge上， **GPT**-6 Astra在设置为捕获99%的不安全操作时达到15%的误报率在95%的目标上，几乎所有模型都保持在10%以下； **Gemini** 3
+他们让**OpenAI**的**GPT**-6 Astra访问了阿里巴巴小型Qwen3Discussion的原始权重：这是一个真正的新功能-一个LLM维护另一个模型，就像程序员修补代码一样-或者主要是执行良好的机器学习工程打扮成“阅读权重”
 
-📅 2026-11-08T09:17:59.000Z
+📅 2026-11-08T20:36:57.000Z
 
 ---
 
@@ -319,7 +319,7 @@ SpaceX长期董事会成员唐纳德·哈里森（ Donald Harrison ）已辞去�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-11-08T19:22:05.657Z
+📅 2026-11-09T02:23:58.909Z
 
 ---
 
@@ -328,43 +328,34 @@ SpaceX长期董事会成员唐纳德·哈里森（ Donald Harrison ）已辞去�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-11-08T19:22:12.174Z
+📅 2026-11-09T02:24:05.497Z
 
 ---
 
 ### Hacker News
-**[高盛(Goldman Sachs)正在从其银行家和交易员那里撤回克劳德守则](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)**
+**[英伟达首席执行官Jensen Huang致员工关于婚外情的信](https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company)**
 
-thestateofaicom/**new**s/goldman-sachs-**Claude**-code-traders-bankers评论网址： https://**new**s
+文章网址： https://wwwcom/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company评论网址： https://**new**s
 
-📅 Sun, 08 Nov 2026 18:16:07 +0000
-
----
-
-### X: OpenAI
-**[Title: 520: Web服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Title: 520: Web服务器返回未知错误
-
-📅 2026-11-08T19:22:05.657Z
+📅 Sun, 08 Nov 2026 22:20:09 +0000
 
 ---
 
-### X: OpenAI
-**[警告：目标URL返回错误520 ：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Hacker News
+**[英伟达董事会正在调查Jensen Huang](https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors)**
 
-警告：目标URL返回错误520 ：未知
+文章网址： https://nvidia**new**scom/**new**s/statement-from-nvidia-board-of-directors评论网址： https://**new**s
 
-📅 2026-11-08T19:22:05.657Z
+📅 Sun, 08 Nov 2026 20:26:43 +0000
 
 ---
 
-### X: OpenAI
-**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+### Hacker News AI
+**[微软员工呼吁负责任的人工智能](https://dash.palform.app/fill/org_0R2JXZPZ7PFWX/form_0R8K0PRYXGM71?f=fat_0R9JYW9RTDRDS)**
 
-Markdown 内容
+文章网址： https://dashf = fat_0R9JYW9RTDRDS评论网址： https://**new**s
 
-📅 2026-11-08T19:22:05.657Z
+📅 Mon, 09 Nov 2026 01:31:38 +0000
 
 ---
 
