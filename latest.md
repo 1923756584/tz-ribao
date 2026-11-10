@@ -1,12 +1,12 @@
 ---
-title: "2026年11月9日 - TZ日报"
-date: 2026-11-09T23:45:50.797Z
+title: "2026年11月10日 - TZ日报"
+date: 2026-11-10T04:33:02.369Z
 draft: false
 ---
 
-# 2026年11月9日 - TZ日报
+# 2026年11月10日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/11/9 23:45:50
+> 📊 今日汇总 38 条 · 🕐 2026/11/10 04:33:02
 
 ---
 
@@ -68,6 +68,15 @@ Kuken Industries使用**OpenAI** API搜索70年的冷却塔图纸工程师可以
 ---
 
 ### TechCrunch AI Products
+**[据报道， Anthropic计划推进IPO计划](https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/)**
+
+据《华尔街日报》报道，这家AI公司预计将在本周设定估值范围。
+
+📅 Tue, 10 Nov 2026 01:27:12 +0000
+
+---
+
+### TechCrunch AI Products
 **[一名卖空者在丑闻发生前六个月标记了英伟达首席执行官与一名疑似中国间谍的关系](https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/)**
 
 在英伟达间谍丑闻爆发前六个月， Culper Research已经在质疑Jensen Huang与一位中国高管的异常亲密的关系
@@ -100,15 +109,6 @@ Kuken Industries使用**OpenAI** API搜索70年的冷却塔图纸工程师可以
 Jensen Huang涉嫌与一名涉嫌中国间谍发生关系，这可能会使英伟达放松Uchip出口限制并保持进入中国利润丰厚的人工智能市场的游说努力复杂化
 
 📅 Mon, 09 Nov 2026 18:09:52 +0000
-
----
-
-### TechCrunch AI Products
-**[Meta发布Muse Ember ，一种新的轻量级代理执行模型](https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/)**
-
-每百万个输入代币10美分， Ember比Haiku和Luna等前沿竞争对手便宜得多
-
-📅 Mon, 09 Nov 2026 18:00:00 +0000
 
 ---
 
@@ -188,15 +188,6 @@ Jensen Huang涉嫌与一名涉嫌中国间谍发生关系，这可能会使英�
 
 ## 🌍 行业展望
 
-### The Information Technology
-**[Nvidia Inquiry、Anthropic、CoreWeave和Unity新闻承诺大周](https://www.theinformation.com/articles/nvidia-inquiry-anthropic-coreweave-unity-news-promise-big-week)**
-
-英伟达今天下午宣布，其董事会正在对有关首席执行官黄延生“一直是外国情报工作的目标”的报道进行“独立调查” ，这给AI**OpenAI**最**重要**的人物之一的未来蒙上了阴影：我们周五报道，这家AI公司预计下周将与投资者举行电话会议，讨论其第三季度业绩。
-
-📅 2026-11-08T21:41:31.000Z
-
----
-
 ### The Verge
 ![Apple的$ 50智能使用包扩展了对某些人工智能功能的访问权限](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/logicpro.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
@@ -209,20 +200,20 @@ Jensen Huang涉嫌与一名涉嫌中国间谍发生关系，这可能会使英�
 ---
 
 ### The Information Technology
+**[安全主管Lisa Thiergart表示，人工智能公司可能会有更多的间谍](https://www.theinformation.com/articles/likely-spies-ai-companies-says-security-executive-lisa-thiergart)**
+
+其他国家可能还没有从领先的U那里窃取人工智能模型）这集是在**OpenAI**指控其一名员工后不久录制的
+
+📅 2026-11-10T03:20:10.000Z
+
+---
+
+### The Information Technology
 **[Anthropic作为IPO Nears发布新的前沿模型](https://www.theinformation.com/briefings/anthropic-releases-new-frontier-models-ipo-nears)**
 
 Anthropic**发布**了**Claude** Fable 52和**Claude** Mythos 5
 
 📅 2026-11-09T21:22:50.000Z
-
----
-
-### The Information Technology
-**[谷歌宣布推出功能更强大、更安全的新TPU](https://www.theinformation.com/briefings/google-announces-new-tpus-says-powerful-secure)**
-
-谷歌宣布**推出**一系列新型AI芯片，该公司称其比以前的型号更安全，并配备了更重的工作负载其张量处理单元的新版本TPU 8tx和TPU 8i Max进一步扩展了不断增长的芯片业务，这可能会放松英伟达对AI的控制
-
-📅 2026-11-09T13:00:48.000Z
 
 ---
 
@@ -238,53 +229,62 @@ Anthropic**发布**了**Claude** Fable 52和**Claude** Mythos 5
 ---
 
 ### The Information Technology
-**[特朗普总统表示，联邦调查局正在调查英伟达首席执行官与中国国家](https://www.theinformation.com/briefings/president-trump-says-fbi-probing-nvidia-ceos-relationship-chinese-national)**
+**[与Nvidia董事会成员见面，他们将决定Jensen Huang的命运](https://www.theinformation.com/articles/meet-nvidia-board-members-will-decide-jensen-huangs-fate)**
 
-唐纳德·特朗普总统周一在即兴的新闻**发布**会上表示，联邦调查局正在调查英伟达首席执行官黄延森与爱丽丝·黄加（ Alice Huanga ）的恋情中国企业高管
+世界上最有价值的公司交织在一起的命运作为英伟达董事会公司治理委员会主席，他可能会在调查中发挥主导作用
 
-📅 2026-11-09T23:02:13.000Z
-
----
-
-### The Information Technology
-**[Nvidia Drama爆炸：初创公司通过使用人工智能代理欺骗诈骗者](https://www.theinformation.com/articles/nvidia-drama-explodes-startup-tricking-scammers-using-ai-agents)**
-
-”加上这出戏，黄承认有外遇，说他“深感遗憾的是，人工智能特工的军队能够让骗子参与冗长的对话，部分原因是为了浪费时间，转移对真实受害者的注意力
-
-📅 2026-11-09T15:01:34.000Z
+📅 2026-11-10T03:17:46.000Z
 
 ---
 
 ### The Information Technology
-**[Nvidia股价下跌4% ，因Broadcom和AMD股价上涨](https://www.theinformation.com/briefings/nvidia-shares-fall-6-6-broadcom-amd-rise)**
+**[Anthropic的外部法律顾问在首次公开募股前向银行发送了错误的文件](https://www.theinformation.com/briefings/anthropic-sent-banks-wrong-documents-launching-ipo)**
 
-英伟达股价下跌4英寸，而英伟达在芯片领域的竞争对手Broadcom和AMD股价上涨8英寸
+**Anthropic**在加拿大的外部法律顾问周一晚间向银行发送了最新的**首次**公开募股招股说明书，然后撤回了部分细节不正确的说法
 
-📅 2026-11-09T14:46:12.000Z
+📅 2026-11-10T02:29:42.000Z
+
+---
+
+### The Information Technology
+**[谁能在Nvidia成功接替Jensen Huang ？](https://www.theinformation.com/articles/succeed-jensen-huang-nvidia)**
+
+Su经营的业务是英伟达在人工智能芯片方面的直接竞争对手（正如我们在这里所说的， “AMD是英伟达唯一可靠的竞争对手
+
+📅 2026-11-10T01:01:13.000Z
+
+---
+
+### The Information Technology
+**[英伟达的下一个难题：在间谍丑闻曝光后对出口管制的新推动](https://www.theinformation.com/articles/nvidias-next-headache-new-push-export-controls-wake-spy-scandal)**
+
+对向中国销售先进英伟达人工智能芯片的新出口管制可能会重新上台商务部领导层过去没有继续努力制定新的出口管制政策，并可能再次推迟
+
+📅 2026-11-10T00:10:03.000Z
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://avatars.githubusercontent.com/u/21003710?v=4)
+![fEAST ：人工智能/机器学习的开源功能商店](https://avatars.githubusercontent.com/u/57027613?v=4)
 
-**[pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://github.com/pytorch/pytorch)**
+**[fEAST ：人工智能/机器学习的开源功能商店](https://github.com/feast-dev/feast)**
 
-⭐ 105,299星· 30607分叉· Python ·具有强大GPU加速的Python中的张量和动态神经网络
+⭐ 7357星· 1493分叉· Python ·人工智能/机器学习的**开源**功能商店
 
-📅 2026-11-09T23:43:59Z
+📅 2026-11-10T04:30:53Z
 
 ---
 
-### GitHub Active (AI/ML)
-![paxeer-monorepo ： Paxeer X是用于支付、代码执行和意图路由的分布式超状态机。专为机器和操作它们的用户设计。](https://avatars.githubusercontent.com/u/315858149?v=4)
+### GitHub New (New AI)
+![自动🆕 拼接：基于人工智能的视频编辑平台，可将长篇内容转换为引人入胜的短视频。公共产品展示。](https://avatars.githubusercontent.com/u/159090644?v=4)
 
-**[paxeer-monorepo ： Paxeer X是用于支付、代码执行和意图路由的分布式超状态机。专为机器和操作它们的用户设计。](https://github.com/Sidiora-Labs/paxeer-monorepo)**
+**[自动🆕 拼接：基于人工智能的视频编辑平台，可将长篇内容转换为引人入胜的短视频。公共产品展示。](https://github.com/kokoc30/Auto-Stitch)**
 
-⭐ 540星· 82叉· TypeScript · Paxeer X是用于支付、代码执行和意图路由的分布式超状态机专为机器和操作它们的用户设计
+⭐ 49 star (新项目) · N/A · AI-powered video editing platform for transforming long-form content into short, engaging videosPublic product showcase
 
-📅 2026-11-09T23:44:02Z
+📅 2026-11-07T20:29:29Z
 
 ---
 
@@ -304,7 +304,7 @@ Anthropic**发布**了**Claude** Fable 52和**Claude** Mythos 5
 
 **[🆕 混合疤痕：打破LLM和硬件之间的障碍。混合疤痕（ MoS ）静态重量压缩和SCache O （ 1 ）恒定KV缓存更换。](https://github.com/byte-od/mixture-of-scars)**
 
-⭐ 4 star (新项目) · Python · Breaking the barrier between LLMs and hardwareMixture of Scars (MoS) static weight compression & SCache O(1) constant KV-cache replacement
+⭐ 5 star (新项目) · Python · Breaking the barrier between LLMs and hardwareMixture of Scars (MoS) static weight compression & SCache O(1) constant KV-cache replacement
 
 📅 2026-11-08T04:58:10Z
 
@@ -312,21 +312,12 @@ Anthropic**发布**了**Claude** Fable 52和**Claude** Mythos 5
 
 ## 💬 社交动态
 
-### Hacker News
-**[Claude Fable 5.2和Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)**
+### Reddit: r/artificial
+**[随着IPO前竞争加剧， Anthropic推出新的Fable ， Mythos模型](https://www.reddit.com/r/artificial/comments/1xs84k6/anthropic_unveils_new_fable_mythos_models_as/)**
 
-文章网址： https://wwwcom/**Claude**-fable-and-mythos-5-2评论网址： https://**new**s
+11月9日（路透社） - **Anthropic**周一**推出**了两款新的人工智能模型， **Claude** Fable 52在更广泛的范围内可用**Anthropic**表示，新模型的输出速度比**Claude** 5快30%
 
-📅 Mon, 09 Nov 2026 18:56:29 +0000
-
----
-
-### Hacker News AI
-**[一名青少年使用她的学校Chromebook和Google AI模式来策划她的自杀](https://mashable.com/tech/google-gemini-chromebook-lawsuit-teen-planned-suicide)**
-
-文章网址： https://mashablecom/tech/**Google**-**Gemini**-chromebook-lawsuit-teen-planned-suicide评论网址： https://**new**s
-
-📅 Mon, 09 Nov 2026 23:40:49 +0000
+📅 2026-11-10T00:02:15.000Z
 
 ---
 
@@ -346,7 +337,7 @@ Anthropic**发布**了**Claude** Fable 52和**Claude** Mythos 5
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-11-09T23:44:09.557Z
+📅 2026-11-10T04:31:45.162Z
 
 ---
 
@@ -355,12 +346,12 @@ Anthropic**发布**了**Claude** Fable 52和**Claude** Mythos 5
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-11-09T23:44:14.394Z
+📅 2026-11-10T04:31:51.175Z
 
 ---
 
 ### Hacker News
-**[TPU](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/)**
+**[TPU 8tx和TPU 8i Max](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/)**
 
 文章网址： https://blog**Google**/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/评论网址： https://**new**s
 
@@ -369,7 +360,7 @@ Anthropic**发布**了**Claude** Fable 52和**Claude** Mythos 5
 ---
 
 ### Hacker News
-**[克劳德寓言5.2得分65人工分析，迄今为止最高](https://artificialanalysis.ai/models/claude-fable-5-2)**
+**[克劳德寓言人工分析5.2分65分，迄今为止最高](https://artificialanalysis.ai/models/claude-fable-5-2)**
 
 文章网址： https://artificialanalysisai/models/**Claude**-fable-5-2评论网址： https://**new**s
 
@@ -378,11 +369,20 @@ Anthropic**发布**了**Claude** Fable 52和**Claude** Mythos 5
 ---
 
 ### Hacker News AI
-**[微软缩减甲骨文租赁人工智能云容量的交易](https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity)**
+**[问问HN ：公司是否通过使用人工智能赚钱？](https://news.ycombinator.com/item?id=50435819)**
 
-文章网址： https://wwwcom/**new**s/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity评论网址： https://**new**s
+人工智能新闻的重点是同一家公司通过授予**Claude**访问权限或在其产品中包含某种人工智能功能来改善其模型
 
-📅 Mon, 09 Nov 2026 23:03:43 +0000
+📅 Tue, 10 Nov 2026 03:49:10 +0000
+
+---
+
+### Hacker News AI
+**[微软专利：将闲置游戏GPU转变为付费AI训练硬件](https://videocardz.com/newz/microsoft-could-pay-gamers-for-using-spare-gpu-capacity-to-train-ai)**
+
+文章网址： https://videocardzcom/**new**z/microsoft-could-pay-gamers-for-using-spare-gpu-capacity-to-train-ai评论网址： https://**new**s
+
+📅 Tue, 10 Nov 2026 03:09:31 +0000
 
 ---
 
