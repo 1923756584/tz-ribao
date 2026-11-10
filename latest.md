@@ -1,12 +1,12 @@
 ---
 title: "2026年11月10日 - TZ日报"
-date: 2026-11-10T04:33:02.369Z
+date: 2026-11-10T21:16:39.953Z
 draft: false
 ---
 
 # 2026年11月10日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/11/10 04:33:02
+> 📊 今日汇总 38 条 · 🕐 2026/11/10 21:16:39
 
 ---
 
@@ -23,11 +23,87 @@ draft: false
 ## ✨ 产品更新
 
 ### TechCrunch AI Products
-**[在英伟达争议中， Jensen Huang退出ElevenLabs峰会](https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/)**
+**[OpenAI推出新的业务配置文件，使ChatGPT更像谷歌](https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/)**
 
-英伟达首席执行官早些时候也退出了人类活动。
+**OpenAI**希望使Chat**GPT**成为更强大的消费者发现引擎，许多新功能旨在帮助企业实现这一目标
 
-📅 Mon, 09 Nov 2026 20:09:06 +0000
+📅 Tue, 10 Nov 2026 18:49:52 +0000
+
+---
+
+### OpenAI Blog
+**[帮助护理人员在日常生活中使用人工智能](https://openai.com/index/helping-caregivers-use-ai-in-everyday-life)**
+
+**OpenAI**学院正在为五个城市的护理人员提供免费的实用Chat**GPT**研讨会，帮助他们在日常生活中培养实用的人工智能技能
+
+📅 Tue, 10 Nov 2026 12:00:00 GMT
+
+---
+
+### Google AI Blog
+![我们让Adobe的创意和生产力工具更贴近您的日常Google应用。](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_snippet_hero.max-600x600.format-webp.webp)
+
+**[我们让Adobe的创意和生产力工具更贴近您的日常Google应用。](https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/)**
+
+**Google**和Adobe正在整合创意和生产力工具在Drive中编辑PDF并在**Gemini**中使用Adobe AI
+
+📅 Tue, 10 Nov 2026 14:00:00 +0000
+
+---
+
+### Google AI Blog
+![Google Cloud推出用于医疗保健的Gemini。](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-600x600.format-webp.webp)
+
+**[Google Cloud推出用于医疗保健的Gemini。](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/)**
+
+**Google** Cloud**推出**适用于医疗保健的**Gemini** ，以统一临床数据和自动化工作流程减少管理倦怠
+
+📅 Tue, 10 Nov 2026 13:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[随着纽约人工智能安全法生效， OpenAI、Anthropic面临新的监督](https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/)**
+
+纽约正准备执行其全面的人工智能安全法律，要求**OpenAI**和**Anthropic**等主要开发商注册
+
+📅 Tue, 10 Nov 2026 20:52:13 +0000
+
+---
+
+### TechCrunch AI Products
+**[Anthropic推出Claude Meetings ，将工作场所的讨论转化为计划和任务](https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/)**
+
+在参与者交谈时，克劳德可以起草正在讨论的计划
+
+📅 Tue, 10 Nov 2026 17:30:00 +0000
+
+---
+
+### OpenAI Blog
+**[在ChatGPT中介绍企业](https://openai.com/index/introducing-businesses-chatgpt)**
+
+管理您的业务信息，深入了解您的业务如何呈现，并在Chat**GPT**中将兴趣转化为行动
+
+📅 Tue, 10 Nov 2026 10:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[缩小教育领域的人工智能指导差距](https://openai.com/index/closing-ai-guidance-gap-education)**
+
+从**OpenAI**的EMEA教育合作伙伴关系中获得的关于支持教师、人工智能素养和自主学习的新ThinkYoung研究和经验教训
+
+📅 Tue, 10 Nov 2026 09:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[前沿工作：人工智能对自由职业的影响](https://openai.com/index/ai-effect-on-freelance-work)**
+
+**OpenAI**和Upwork的最新研究发现，对自由职业者新技能组合的需求正在发生变化
+
+📅 Tue, 10 Nov 2026 07:00:00 GMT
 
 ---
 
@@ -40,95 +116,14 @@ Chat**GPT** Enterprise现已通过AWS Marketplace提供，帮助组织通过现�
 
 ---
 
-### OpenAI Blog
-**[控制室：一个中央系统，用于跟踪和停止整个研究基础设施的模型工作负载](https://openai.com/index/control-room)**
-
-了解**OpenAI**的控制室如何在我们的研究基础设施中跟踪模型工作负载，并在出现安全问题时快速阻止它们
-
-📅 Mon, 09 Nov 2026 13:00:00 GMT
-
----
-
-### OpenAI Blog
-**[CodeRabbit可扩展代理软件开发并出货量增加20倍](https://openai.com/index/coderabbit-codex-daybreak)**
-
-CodeRabbit使用**OpenAI**模型来管理和信任AI生成的代码， Codex使用相同的工程团队出货20倍的软件
-
-📅 Mon, 09 Nov 2026 08:00:00 GMT
-
----
-
-### OpenAI Blog
-**[Kuken Industries在几分钟内搜索70年的图纸](https://openai.com/index/kuken)**
-
-Kuken Industries使用**OpenAI** API搜索70年的冷却塔图纸工程师可以在4
-
-📅 Mon, 09 Nov 2026 08:00:00 GMT
-
----
-
-### TechCrunch AI Products
-**[据报道， Anthropic计划推进IPO计划](https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/)**
-
-据《华尔街日报》报道，这家AI公司预计将在本周设定估值范围。
-
-📅 Tue, 10 Nov 2026 01:27:12 +0000
-
----
-
-### TechCrunch AI Products
-**[一名卖空者在丑闻发生前六个月标记了英伟达首席执行官与一名疑似中国间谍的关系](https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/)**
-
-在英伟达间谍丑闻爆发前六个月， Culper Research已经在质疑Jensen Huang与一位中国高管的异常亲密的关系
-
-📅 Mon, 09 Nov 2026 22:46:09 +0000
-
----
-
-### TechCrunch AI Products
-**[起诉英伟达的竞赛即将开始](https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/)**
-
-英伟达(Nvidia)董事会对黄延森(Jensen Huang)与一名涉嫌中国间谍的关系展开调查后股价下跌逾4% ，一名证券法专家表示，该公司早些时候坚持认为这一切都是“正常的” ，这可能会变成一个非常昂贵的问题
-
-📅 Mon, 09 Nov 2026 22:23:42 +0000
-
----
-
-### TechCrunch AI Products
-**[由于RSI的担忧， Anthropic发布了新的Mythos和Fable模型](https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/)**
-
-**Anthropic**表示，新模式“显示了编码、推理和视觉等领域的改进” ，以及与用户更清晰的沟通
-
-📅 Mon, 09 Nov 2026 19:24:51 +0000
-
----
-
-### TechCrunch AI Products
-**[黄延森与涉嫌中国间谍的婚外情使英伟达的中国野心受到严格审查](https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/)**
-
-Jensen Huang涉嫌与一名涉嫌中国间谍发生关系，这可能会使英伟达放松Uchip出口限制并保持进入中国利润丰厚的人工智能市场的游说努力复杂化
-
-📅 Mon, 09 Nov 2026 18:09:52 +0000
-
----
-
 ## 🔬 前沿研究
-
-### ArXiv Multiagent (cs.MA)
-**[ReSUM ：以查询为重点的总结的推理驱动型多Agent框架](https://arxiv.org/abs/2611.09349)**
-
-09349v1公告类型：新摘要： LLM擅长语言任务QFS具有信息遗漏、幻觉的高风险，即使对于**GPT**-4-mini和**Gemini**等高级模型也是如此
-
-📅 Mon, 09 Nov 2026 00:00:00 -0500
-
----
 
 ### ArXiv Natural Language Processing (cs.CL)
 **[构建LLM数字双胞胎的调查历史：背景、决策程序和评估概况的对照研究](https://arxiv.org/abs/2611.08730)**
 
 08730v1公告类型：新摘要：基于法学硕士的数字双胞胎旨在通过**GPT**-5上个人先前回答的表示来预测个人在新环境中的反应27个百分点（ pp ）
 
-📅 Mon, 09 Nov 2026 00:00:00 -0500
+📅 Tue, 10 Nov 2026 00:00:00 -0500
 
 ---
 
@@ -137,143 +132,172 @@ Jensen Huang涉嫌与一名涉嫌中国间谍发生关系，这可能会使英�
 
 08892v1公告类型：新摘要：语言模型的递归自我训练我们对英语**GPT**-2自身输出进行了九代微调
 
-📅 Mon, 09 Nov 2026 00:00:00 -0500
+📅 Tue, 10 Nov 2026 00:00:00 -0500
 
 ---
 
-### ArXiv Computer Vision (cs.CV)
-**[视觉语言模型中的潜意识学习](https://arxiv.org/abs/2611.08538)**
+### ArXiv Natural Language Processing (cs.CL)
+**[强制信函抑制拒绝：来自WMDP的机制证据](https://arxiv.org/abs/2611.08639)**
 
-08538v1公告类型：新摘要：在大型语言模型（ LLM ）中，潜意识学习是一种现象，教师通过与该偏好无关的训练数据将隐藏偏好传递给学生随着更多的训练数据而变得更强，并随目标偏好、模型以及数字的生成方式而变化
+08639v1公告类型：新摘要：大型语言模型（ LLM ）的安全基准通常使用多项选择题（ MCQ ）格式我们**首次**机械地解释了两种模型（ Llama-3 ）对大规模杀伤性武器代理（ WMDP ）数据集的影响
 
-📅 Mon, 09 Nov 2026 00:00:00 -0500
-
----
-
-### ArXiv Computer Vision (cs.CV)
-**[通过建筑物损坏映射的正面无标签学习实现标签高效的地理空间基础模型适应](https://arxiv.org/abs/2611.08561)**
-
-08561v1公告类型：新摘要：地理空间基础模型（ GFM ）正在通过将领域从特定任务建模转向通用地理空间智能来重塑遥感，因为在大规模地球观测数据上预先训练的GFM提供了可通用的地理空间表示，可以促进对突发灾害的有效响应
-
-📅 Mon, 09 Nov 2026 00:00:00 -0500
+📅 Tue, 10 Nov 2026 00:00:00 -0500
 
 ---
 
-### ArXiv Computer Vision (cs.CV)
-**[HaNDF ：对象条件几何神经手距离场](https://arxiv.org/abs/2611.08578)**
+### ArXiv Natural Language Processing (cs.CL)
+**[FinEvolveKG ：金融知识图谱构建的受控和可归因的快速演变](https://arxiv.org/abs/2611.08643)**
 
-08578v1公告类型：新摘要：我们建议虽然最近的无条件生成先验在模拟人体姿势方面取得了成功
+08643v1公告类型：新摘要：金融机构从共享的SEC 10-K中构建知识图（ KG ） ，以提供风险分析，而无需将收益归因于边界
 
-📅 Mon, 09 Nov 2026 00:00:00 -0500
-
----
-
-### ArXiv Computer Vision (cs.CV)
-**[InstaGen ：快速视频生成的群体共享重要性采样](https://arxiv.org/abs/2611.08610)**
-
-08610v1公告类型：新摘要：扩散变压器（ DiT ）是**视频生成**的主导架构65x对1
-
-📅 Mon, 09 Nov 2026 00:00:00 -0500
+📅 Tue, 10 Nov 2026 00:00:00 -0500
 
 ---
 
-### ArXiv Computer Vision (cs.CV)
-**[BEVCast ：实现高效端到端自动驾驶的路径自适应BEV](https://arxiv.org/abs/2611.08631)**
+### ArXiv Natural Language Processing (cs.CL)
+**[语言模型表征中的情绪压缩](https://arxiv.org/abs/2611.08683)**
 
-08631v1公告类型：新摘要：基于摄像头的驾驶模型构建密集鸟瞰图（ BEV ）网格，并在其每个单元格上花费相同的计算598 m ，其扩展预测驱动模型得分为82
+08683v1公告类型：新摘要：大型语言模型（ LLM ）在识别文本表达的情感和产生流畅的情感语言的能力方面进行了评估，但线性探针保留了大量的细粒度预测信息
 
-📅 Mon, 09 Nov 2026 00:00:00 -0500
+📅 Tue, 10 Nov 2026 00:00:00 -0500
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[语境与矛盾：探索人工智能生成写作的真实身份](https://arxiv.org/abs/2611.08704)**
+
+08704v1公告类型：新摘要：随着人工智能生成的内容传播到几乎所有人类交互领域，因此，将人工智能相似性视为文本无上下文属性的系统和工具的设计和实施可能会继承
+
+📅 Tue, 10 Nov 2026 00:00:00 -0500
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[RL-ATTACK ：通过强化学习对语言模型的广义黑盒对抗攻击](https://arxiv.org/abs/2611.08711)**
+
+08711v1公告类型：新摘要：大型语言模型（ LLM ）表现出对抗性扰动的漏洞，这些扰动可能诱发意外响应，从而从目标模型中学习以生成量身定制的对抗性转换
+
+📅 Tue, 10 Nov 2026 00:00:00 -0500
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[语义条件相似性（ SCS ） ：一种形式化的数学框架](https://arxiv.org/abs/2611.08778)**
+
+08778v1公告类型：新摘要：语义文本相似性（ STS ）在文档对上运行，每次比较返回单个标量更广泛的含义是，相似性形式化中通常假设的度量空间公理限制了角色差异化多文档设置中的表达能力
+
+📅 Tue, 10 Nov 2026 00:00:00 -0500
 
 ---
 
 ## 🌍 行业展望
 
+### The Information Technology
+**[Anthropic推出新的工作场所软件，发送微软股票储罐](https://www.theinformation.com/briefings/anthropic-launches-new-workplace-software-sending-microsoft-shares-tanking)**
+
+**Anthropic**周二**推出**了新的工作场所软件应用程序，将其**Claude** AI与创建和编辑电子表格和演示文稿的工具相结合，使人工智能实验室与微软的Office和谷歌的
+
+📅 2026-11-10T18:26:51.000Z
+
+---
+
+### The Information Technology
+**[为什么HubSpot、Snowflake和其他公司避免使用人工智能支出上限](https://www.theinformation.com/articles/hubspot-snowflake-others-avoiding-ai-spending-caps)**
+
+虽然一些公司正在遏制员工使用人工智能来控制飙升的成本，但由于员工使用**Anthropic**的**Claude** Code和**OpenAI**的Codex等人工智能编码工具来构建应用程序和功能， Snowflake和HubSpot并未对工程师的支出设定坚定的上限
+
+📅 2026-11-10T19:16:38.000Z
+
+---
+
+### The Information Technology
+**[Anthropic披露与微软、谷歌达成的逾100亿美元新交易； Lambda交易可能被取消](https://www.theinformation.com/briefings/anthropic-discloses-10-billion-new-deals-microsoft-google-says-lambda-deal-may-cancelled)**
+
+**Anthropic**在过去一个月与微软和谷歌签署了新的承诺，从现在到2033年，花费大约100亿美元来租用云服务器，比之前披露的要多。与此同时， **Anthropic**表示，
+
+📅 2026-11-10T17:39:39.000Z
+
+---
+
+### The Information Technology
+**[Mosaic为机器人手术筹集资金](https://www.theinformation.com/articles/mosaic-raises-funds-robotic-surgery)**
+
+**Anthropic**周二表示，它已**推出**其路演25万亿美元的估值， **OpenAI**最近在其中筹集了110 $ ，尽管**Anthropic**创造了更多的收入
+
+📅 2026-11-10T15:01:17.000Z
+
+---
+
+### The Information Technology
+**[使用Google Gemini协助响应RFP](https://www.theinformation.com/articles/use-google-gemini-assist-rfp-response)**
+
+并生成初稿，使您的组织能够在选择过程中取得成功双子座将突出显示包括所需服务级别协议（ SLA ）在内的详细信息
+
+📅 2026-11-10T19:10:13.000Z
+
+---
+
 ### The Verge
-![Apple的$ 50智能使用包扩展了对某些人工智能功能的访问权限](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/logicpro.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![谷歌正在让Pixel HiLight稍微更有用](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Pixel-11-Pro-HiLight-using-HiLight-Studio-Rainbow.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[Apple的$ 50智能使用包扩展了对某些人工智能功能的访问权限](https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro)**
+**[谷歌正在让Pixel HiLight稍微更有用](https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight)**
 
-它有一个内置的人工智能助手，可以执行诸如“开始新歌曲，从单个提示设置声轨，或改进活动项目”之类的操作，这将允许用户继续访问某些具有使用限制的Apple Intelligence功能，因为他们依赖于**OpenAI**或**Google** **Gemini**的基于云的人工智能模型
+谷歌正在为Pixel 11 Pro手机背面令人印象深刻的HiLight灯光添加一项新功能：作为2026年11月Pixel Drop的一部分“创建我的小部件”功能将用于构建...阅读The Verge的完整故事
 
-📅 2026-11-09T19:09:58.000Z
-
----
-
-### The Information Technology
-**[安全主管Lisa Thiergart表示，人工智能公司可能会有更多的间谍](https://www.theinformation.com/articles/likely-spies-ai-companies-says-security-executive-lisa-thiergart)**
-
-其他国家可能还没有从领先的U那里窃取人工智能模型）这集是在**OpenAI**指控其一名员工后不久录制的
-
-📅 2026-11-10T03:20:10.000Z
+📅 2026-11-10T19:00:00.000Z
 
 ---
 
 ### The Information Technology
-**[Anthropic作为IPO Nears发布新的前沿模型](https://www.theinformation.com/briefings/anthropic-releases-new-frontier-models-ipo-nears)**
+**[OpenAI第三季度收入跃升至100亿美元](https://www.theinformation.com/articles/openai-revenue-jumps-10-billion-third-quarter)**
 
-Anthropic**发布**了**Claude** Fable 52和**Claude** Mythos 5
+**OpenAI**告诉投资者，第三季度的收入增长了50 ％ ，达到约100亿美元。第二季度的增长率高于第一季度的17 ％
 
-📅 2026-11-09T21:22:50.000Z
-
----
-
-### The Verge
-![Anthropic推出全新Claude Fable和Mythos 5.2车型](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[Anthropic推出全新Claude Fable和Mythos 5.2车型](https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2)**
-
-**Anthropic**今天宣布**推出**两款新车型： **Claude** Fable 5该公司声称新车型在编码、推理和视觉方面有所改进，并且可以比5更快地生成输出
-
-📅 2026-11-09T19:00:00.000Z
+📅 2026-11-10T21:07:30.000Z
 
 ---
 
 ### The Information Technology
-**[与Nvidia董事会成员见面，他们将决定Jensen Huang的命运](https://www.theinformation.com/articles/meet-nvidia-board-members-will-decide-jensen-huangs-fate)**
+**[英伟达董事会聘请Wachtell独立调查CEO关系](https://www.theinformation.com/briefings/nvidia-board-hires-wachtell-independent-investigation-ceo-relationship)**
 
-世界上最有价值的公司交织在一起的命运作为英伟达董事会公司治理委员会主席，他可能会在调查中发挥主导作用
+英伟达董事会周二宣布，它已聘请律师事务所Wachtell董事会周日**首次**宣布，在报道黄
 
-📅 2026-11-10T03:17:46.000Z
-
----
-
-### The Information Technology
-**[Anthropic的外部法律顾问在首次公开募股前向银行发送了错误的文件](https://www.theinformation.com/briefings/anthropic-sent-banks-wrong-documents-launching-ipo)**
-
-**Anthropic**在加拿大的外部法律顾问周一晚间向银行发送了最新的**首次**公开募股招股说明书，然后撤回了部分细节不正确的说法
-
-📅 2026-11-10T02:29:42.000Z
-
----
-
-### The Information Technology
-**[谁能在Nvidia成功接替Jensen Huang ？](https://www.theinformation.com/articles/succeed-jensen-huang-nvidia)**
-
-Su经营的业务是英伟达在人工智能芯片方面的直接竞争对手（正如我们在这里所说的， “AMD是英伟达唯一可靠的竞争对手
-
-📅 2026-11-10T01:01:13.000Z
-
----
-
-### The Information Technology
-**[英伟达的下一个难题：在间谍丑闻曝光后对出口管制的新推动](https://www.theinformation.com/articles/nvidias-next-headache-new-push-export-controls-wake-spy-scandal)**
-
-对向中国销售先进英伟达人工智能芯片的新出口管制可能会重新上台商务部领导层过去没有继续努力制定新的出口管制政策，并可能再次推迟
-
-📅 2026-11-10T00:10:03.000Z
+📅 2026-11-10T19:35:19.000Z
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![fEAST ：人工智能/机器学习的开源功能商店](https://avatars.githubusercontent.com/u/57027613?v=4)
+![pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://avatars.githubusercontent.com/u/21003710?v=4)
 
-**[fEAST ：人工智能/机器学习的开源功能商店](https://github.com/feast-dev/feast)**
+**[pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://github.com/pytorch/pytorch)**
 
-⭐ 7357星· 1493分叉· Python ·人工智能/机器学习的**开源**功能商店
+⭐ 105,329星· 30628分叉· Python ·具有强大GPU加速的Python中的张量和动态神经网络
 
-📅 2026-11-10T04:30:53Z
+📅 2026-11-10T21:14:22Z
+
+---
+
+### GitHub Active (AI/ML)
+![cuml: NVIDIA cuML: GPU加速机器学习](https://avatars.githubusercontent.com/u/1728152?v=4)
+
+**[cuml: NVIDIA cuML: GPU加速机器学习](https://github.com/NVIDIA/cuml)**
+
+⭐ 5319星· 688分叉· Python · NVIDIA cuML ： GPU加速机器学习
+
+📅 2026-11-10T21:11:46Z
+
+---
+
+### GitHub Active (AI/ML)
+![ruv-FANN ：一个快速、内存安全的Rust神经网络库，将FANN的力量带入现代世界。](https://avatars.githubusercontent.com/u/2934394?v=4)
+
+**[ruv-FANN ：一个快速、内存安全的Rust神经网络库，将FANN的力量带入现代世界。](https://github.com/ruvnet/ruv-FANN)**
+
+⭐ 389星· 107叉· Rust ·快速、内存安全的Rust神经网络库，将FANN的力量带入现代世界
+
+📅 2026-11-10T21:12:40Z
 
 ---
 
@@ -288,47 +312,34 @@ Su经营的业务是英伟达在人工智能芯片方面的直接竞争对手（
 
 ---
 
-### GitHub New (New AI)
-![🆕 CodeSlice ：本地优先的人工智能代码读取桌面应用程序，具有可导航的源引用和人工批准的操作。](https://avatars.githubusercontent.com/u/148364876?v=4)
-
-**[🆕 CodeSlice ：本地优先的人工智能代码读取桌面应用程序，具有可导航的源引用和人工批准的操作。](https://github.com/ctianye/CodeSlice)**
-
-⭐ 13 star (新项目) · Python · Local-first AI code-reading desktop app with navigable source citations and human-approved actions
-
-📅 2026-11-07T13:42:42Z
-
----
-
-### GitHub New (New AI)
-![🆕 混合疤痕：打破LLM和硬件之间的障碍。混合疤痕（ MoS ）静态重量压缩和SCache O （ 1 ）恒定KV缓存更换。](https://avatars.githubusercontent.com/u/47756842?v=4)
-
-**[🆕 混合疤痕：打破LLM和硬件之间的障碍。混合疤痕（ MoS ）静态重量压缩和SCache O （ 1 ）恒定KV缓存更换。](https://github.com/byte-od/mixture-of-scars)**
-
-⭐ 5 star (新项目) · Python · Breaking the barrier between LLMs and hardwareMixture of Scars (MoS) static weight compression & SCache O(1) constant KV-cache replacement
-
-📅 2026-11-08T04:58:10Z
-
----
-
 ## 💬 社交动态
 
-### Reddit: r/artificial
-**[随着IPO前竞争加剧， Anthropic推出新的Fable ， Mythos模型](https://www.reddit.com/r/artificial/comments/1xs84k6/anthropic_unveils_new_fable_mythos_models_as/)**
+### Hacker News
+**[Show HN ：让您的编码代理脱离~ 2019 JavaScript ，进入现代网络图元](https://github.com/GoogleChrome/modern-web-guidance)**
 
-11月9日（路透社） - **Anthropic**周一**推出**了两款新的人工智能模型， **Claude** Fable 52在更广泛的范围内可用**Anthropic**表示，新模型的输出速度比**Claude** 5快30%
+（昨天的ftrain帖子触及了[0] ）模型知道其中一些名称（ Ofc ，我们认为人工智能不知道的一些事情被证明是错误的:)我们对200个没有技能的任务运行codex/**Claude**/agy ，然后
 
-📅 2026-11-10T00:02:15.000Z
+📅 Tue, 10 Nov 2026 18:01:15 +0000
 
 ---
 
 ### Reddit: r/artificial
-![Google即将推出Nvidia ，这对Jensen来说是双重糟糕的一天。深入了解Google的新TPU （最大8tx/8i ）](https://external-preview.redd.it/2_o2kDQ5TrsxPub2jkZuHJjf2WTL2tXOJ6k2OP0lQKI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=42e8b7e083fc8dde7ce3c95012ccfa5bf8998f2d)
+**[欧盟按下OpenAI、Anthropic以获取有关AI安全事件的更多详细信息](https://www.reddit.com/r/artificial/comments/1xswqzl/eu_presses_openai_anthropic_for_more_details_on/)**
 
-**[Google即将推出Nvidia ，这对Jensen来说是双重糟糕的一天。深入了解Google的新TPU （最大8tx/8i ）](https://www.reddit.com/r/artificial/comments/1xs17j1/google_is_coming_for_nvidia_its_a_double_bad_day/)**
+提交者/u/IndependentCoast3974 [link] [comments]
 
-谷歌刚刚在其产品线中添加了两个新的TPU系统，简短的答案是谷歌为人工智能数学设计的芯片，仅此而已
+📅 2026-11-10T19:50:02.000Z
 
-📅 2026-11-09T19:29:55.000Z
+---
+
+### Reddit: r/artificial
+![微软自2025年6月以来首次登顶英伟达市值](https://external-preview.redd.it/I4uwpHEE9SnLKQiGYpruop2z1hyCyfJTZoS-9KgeHus.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2b9a2baa7eaac4577a19e1ba8bd3eba685aa32c9)
+
+**[微软自2025年6月以来首次登顶英伟达市值](https://www.reddit.com/r/artificial/comments/1xswkiv/microsoft_tops_nvidias_market_cap_for_first_time/)**
+
+提交者/u/Resident-Fall4351 [link] [comments]
+
+📅 2026-11-10T19:42:59.000Z
 
 ---
 
@@ -337,7 +348,7 @@ Su经营的业务是英伟达在人工智能芯片方面的直接竞争对手（
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-11-10T04:31:45.162Z
+📅 2026-11-10T21:14:48.106Z
 
 ---
 
@@ -346,43 +357,34 @@ Su经营的业务是英伟达在人工智能芯片方面的直接竞争对手（
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-11-10T04:31:51.175Z
+📅 2026-11-10T21:14:52.473Z
 
 ---
 
 ### Hacker News
-**[TPU 8tx和TPU 8i Max](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/)**
+**[Claude白板、Claude Sheets和Claude Data](https://claude.com/resources/articles/sheets-whiteboards-data)**
 
-文章网址： https://blog**Google**/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/评论网址： https://**new**s
+文章网址： https://**Claude**com/resources/articles/sheets-whiteboards-data评论网址： https://**new**s
 
-📅 Mon, 09 Nov 2026 21:56:57 +0000
+📅 Tue, 10 Nov 2026 17:55:07 +0000
 
 ---
 
 ### Hacker News
-**[克劳德寓言人工分析5.2分65分，迄今为止最高](https://artificialanalysis.ai/models/claude-fable-5-2)**
+**[克劳德九世的生活](https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html)**
 
-文章网址： https://artificialanalysisai/models/**Claude**-fable-5-2评论网址： https://**new**s
+in/posts/2026-01-25-life-on-**Claude**-ninehtml评论网址： https://**new**s
 
-📅 Mon, 09 Nov 2026 20:04:55 +0000
-
----
-
-### Hacker News AI
-**[问问HN ：公司是否通过使用人工智能赚钱？](https://news.ycombinator.com/item?id=50435819)**
-
-人工智能新闻的重点是同一家公司通过授予**Claude**访问权限或在其产品中包含某种人工智能功能来改善其模型
-
-📅 Tue, 10 Nov 2026 03:49:10 +0000
+📅 Tue, 10 Nov 2026 17:44:44 +0000
 
 ---
 
 ### Hacker News AI
-**[微软专利：将闲置游戏GPU转变为付费AI训练硬件](https://videocardz.com/newz/microsoft-could-pay-gamers-for-using-spare-gpu-capacity-to-train-ai)**
+**[Show HN: Zeus – AI语音代理的Claude代码](https://thunderphone.com/blog/introducing-zeus)**
 
-文章网址： https://videocardzcom/**new**z/microsoft-could-pay-gamers-for-using-spare-gpu-capacity-to-train-ai评论网址： https://**new**s
+文章网址： https://thunderphonecom/blog/introducing-zeus评论网址： https://**new**s
 
-📅 Tue, 10 Nov 2026 03:09:31 +0000
+📅 Tue, 10 Nov 2026 20:20:03 +0000
 
 ---
 
