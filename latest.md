@@ -1,12 +1,12 @@
 ---
-title: "2026年11月10日 - TZ日报"
-date: 2026-11-10T21:16:39.953Z
+title: "2026年11月11日 - TZ日报"
+date: 2026-11-11T02:35:41.735Z
 draft: false
 ---
 
-# 2026年11月10日 - TZ日报
+# 2026年11月11日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/11/10 21:16:39
+> 📊 今日汇总 38 条 · 🕐 2026/11/11 02:35:41
 
 ---
 
@@ -139,7 +139,7 @@ Chat**GPT** Enterprise现已通过AWS Marketplace提供，帮助组织通过现�
 ### ArXiv Natural Language Processing (cs.CL)
 **[强制信函抑制拒绝：来自WMDP的机制证据](https://arxiv.org/abs/2611.08639)**
 
-08639v1公告类型：新摘要：大型语言模型（ LLM ）的安全基准通常使用多项选择题（ MCQ ）格式我们**首次**机械地解释了两种模型（ Llama-3 ）对大规模杀伤性武器代理（ WMDP ）数据集的影响
+08639v1 **announce** Type: **new** Abstract: Safety benchmarks for large language models (LLMs) commonly use multiple-choice question (MCQ) formatWe provide a first mechanistic explanation of this effect on the Weapons of Mass Destruction Proxy (WMDP) dataset across two models - Llama-3
 
 📅 Tue, 10 Nov 2026 00:00:00 -0500
 
@@ -148,7 +148,7 @@ Chat**GPT** Enterprise现已通过AWS Marketplace提供，帮助组织通过现�
 ### ArXiv Natural Language Processing (cs.CL)
 **[FinEvolveKG ：金融知识图谱构建的受控和可归因的快速演变](https://arxiv.org/abs/2611.08643)**
 
-08643v1公告类型：新摘要：金融机构从共享的SEC 10-K中构建知识图（ KG ） ，以提供风险分析，而无需将收益归因于边界
+08643v1 **announce** Type: **new** Abstract: Financial institutions construct knowledge graphs (KGs) from shared SEC 10-Ks to serve risk analysiswithout attributing the gains causally to the boundary
 
 📅 Tue, 10 Nov 2026 00:00:00 -0500
 
@@ -157,7 +157,7 @@ Chat**GPT** Enterprise现已通过AWS Marketplace提供，帮助组织通过现�
 ### ArXiv Natural Language Processing (cs.CL)
 **[语言模型表征中的情绪压缩](https://arxiv.org/abs/2611.08683)**
 
-08683v1公告类型：新摘要：大型语言模型（ LLM ）在识别文本表达的情感和产生流畅的情感语言的能力方面进行了评估，但线性探针保留了大量的细粒度预测信息
+08683v1 **announce** Type: **new** Abstract: Large language models (LLMs) have been evaluated on their ability to identify emotions expressed in text and produce fluent emotional languageYet linear probes retain substantial fine-grained predictive information
 
 📅 Tue, 10 Nov 2026 00:00:00 -0500
 
@@ -166,7 +166,7 @@ Chat**GPT** Enterprise现已通过AWS Marketplace提供，帮助组织通过现�
 ### ArXiv Natural Language Processing (cs.CL)
 **[语境与矛盾：探索人工智能生成写作的真实身份](https://arxiv.org/abs/2611.08704)**
 
-08704v1公告类型：新摘要：随着人工智能生成的内容传播到几乎所有人类交互领域，因此，将人工智能相似性视为文本无上下文属性的系统和工具的设计和实施可能会继承
+08704v1 **announce** Type: **new** Abstract: As AI-generated content spreads into nearly every domain of human interactionthe design and implementation of systems and tools that treat AI-likeness as a context-free property of text may therefore inherit
 
 📅 Tue, 10 Nov 2026 00:00:00 -0500
 
@@ -175,7 +175,7 @@ Chat**GPT** Enterprise现已通过AWS Marketplace提供，帮助组织通过现�
 ### ArXiv Natural Language Processing (cs.CL)
 **[RL-ATTACK ：通过强化学习对语言模型的广义黑盒对抗攻击](https://arxiv.org/abs/2611.08711)**
 
-08711v1公告类型：新摘要：大型语言模型（ LLM ）表现出对抗性扰动的漏洞，这些扰动可能诱发意外响应，从而从目标模型中学习以生成量身定制的对抗性转换
+08711v1 **announce** Type: **new** Abstract: Large language models (LLMs) exhibit vulnerabilities to adversarial perturbations that can induce unintended responseswhich learns from the target model to generate tailored adversarial transformations
 
 📅 Tue, 10 Nov 2026 00:00:00 -0500
 
@@ -184,7 +184,7 @@ Chat**GPT** Enterprise现已通过AWS Marketplace提供，帮助组织通过现�
 ### ArXiv Natural Language Processing (cs.CL)
 **[语义条件相似性（ SCS ） ：一种形式化的数学框架](https://arxiv.org/abs/2611.08778)**
 
-08778v1公告类型：新摘要：语义文本相似性（ STS ）在文档对上运行，每次比较返回单个标量更广泛的含义是，相似性形式化中通常假设的度量空间公理限制了角色差异化多文档设置中的表达能力
+08778v1 **announce** Type: **new** Abstract: Semantic Textual Similarity (STS) operates on document pairs, returning a single scalar per comparisonThe broader implication is that metric space axioms commonly assumed in similarity formalizations constrain expressiveness in role-differentiated multi-document settings
 
 📅 Tue, 10 Nov 2026 00:00:00 -0500
 
@@ -193,9 +193,20 @@ Chat**GPT** Enterprise现已通过AWS Marketplace提供，帮助组织通过现�
 ## 🌍 行业展望
 
 ### The Information Technology
+![博思艾伦切换到英伟达的Nemotron](https://tii.imgix.net/production/articles/18135/dea39df2-b96d-47d3-bb06-e7771d7ef9d5.png?auto=compress,format&amp;fit=crop&amp;w=560)
+
+**[博思艾伦切换到英伟达的Nemotron](https://www.theinformation.com/articles/booz-allen-switches-nvidias-nemotron)**
+
+Booz Allen developers still mostly use **Anthropic**’s **Claude** Code unless its customers ask them to use other coding toolsThe requests come after the candidates are offered the job for higher or unlimited token budgets and access to the latest **OpenAI** and **Anthropic** models
+
+📅 2026-11-10T21:14:14.000Z
+
+---
+
+### The Information Technology
 **[Anthropic推出新的工作场所软件，发送微软股票储罐](https://www.theinformation.com/briefings/anthropic-launches-new-workplace-software-sending-microsoft-shares-tanking)**
 
-**Anthropic**周二**推出**了新的工作场所软件应用程序，将其**Claude** AI与创建和编辑电子表格和演示文稿的工具相结合，使人工智能实验室与微软的Office和谷歌的
+**Anthropic** on Tuesday **launch**ed **new** workplace software applications that combine its **Claude** AI with tools to create and edit spreadsheets and presentationsbringing the AI lab into more direct competition with products such as Microsoft’s Office and **Google**’s
 
 📅 2026-11-10T18:26:51.000Z
 
@@ -204,36 +215,47 @@ Chat**GPT** Enterprise现已通过AWS Marketplace提供，帮助组织通过现�
 ### The Information Technology
 **[为什么HubSpot、Snowflake和其他公司避免使用人工智能支出上限](https://www.theinformation.com/articles/hubspot-snowflake-others-avoiding-ai-spending-caps)**
 
-虽然一些公司正在遏制员工使用人工智能来控制飙升的成本，但由于员工使用**Anthropic**的**Claude** Code和**OpenAI**的Codex等人工智能编码工具来构建应用程序和功能， Snowflake和HubSpot并未对工程师的支出设定坚定的上限
+While some companies are curbing employees’ AI use to contain soaring costsSnowflake and HubSpot haven’t put firm caps on engineers’ spending as employees use AI coding tools like **Anthropic**’s **Claude** Code and **OpenAI**’s Codex to build apps and features
 
 📅 2026-11-10T19:16:38.000Z
 
 ---
 
 ### The Information Technology
-**[Anthropic披露与微软、谷歌达成的逾100亿美元新交易； Lambda交易可能被取消](https://www.theinformation.com/briefings/anthropic-discloses-10-billion-new-deals-microsoft-google-says-lambda-deal-may-cancelled)**
+**[亚马逊和谷歌从Anthropic IPO中大获全胜](https://www.theinformation.com/articles/amazon-google-win-big-anthropic-ipo)**
 
-**Anthropic**在过去一个月与微软和谷歌签署了新的承诺，从现在到2033年，花费大约100亿美元来租用云服务器，比之前披露的要多。与此同时， **Anthropic**表示，
+If you’re looking for a cheaper way of getting exposure to **Anthropic** than buying the stock directly, consider Amazon or Google**Anthropic**’s **update**d IPO filing on Tuesday shows just how many shares each of those two tech giants will own in **Anthropic**
 
-📅 2026-11-10T17:39:39.000Z
+📅 2026-11-11T01:01:26.000Z
 
 ---
 
 ### The Information Technology
-**[Mosaic为机器人手术筹集资金](https://www.theinformation.com/articles/mosaic-raises-funds-robotic-surgery)**
+**[Anthropic-OpenAI估值差距](https://www.theinformation.com/articles/anthropic-openai-valuation-gap)**
 
-**Anthropic**周二表示，它已**推出**其路演25万亿美元的估值， **OpenAI**最近在其中筹集了110 $ ，尽管**Anthropic**创造了更多的收入
+That means **Anthropic** expects public investors to value it at only 12% more than **OpenAI**That is in spite of the fact that **Anthropic** generated 70% revenue than **OpenAI** in the third quarter and has been growing far faster for much of this year
 
-📅 2026-11-10T15:01:17.000Z
+📅 2026-11-11T00:11:28.000Z
 
 ---
 
 ### The Information Technology
 **[使用Google Gemini协助响应RFP](https://www.theinformation.com/articles/use-google-gemini-assist-rfp-response)**
 
-并生成初稿，使您的组织能够在选择过程中取得成功双子座将突出显示包括所需服务级别协议（ SLA ）在内的详细信息
+and generate a first draft that positions your organization for success in the selection process**Gemini** will highlight details including the required service-level agreement (SLA)
 
 📅 2026-11-10T19:10:13.000Z
+
+---
+
+### The Verge
+![微软的DLSS竞争对手推出了Xbox Ally X ，并以手持模式工作](https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0073.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[微软的DLSS竞争对手推出了Xbox Ally X ，并以手持模式工作](https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling)**
+
+Auto SR is also getting some **new** features alongside this official **release**The full **release** of Auto SR **announce**d today now works while you're playing handheld and running on battery
+
+📅 2026-11-11T00:34:24.000Z
 
 ---
 
@@ -242,27 +264,9 @@ Chat**GPT** Enterprise现已通过AWS Marketplace提供，帮助组织通过现�
 
 **[谷歌正在让Pixel HiLight稍微更有用](https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight)**
 
-谷歌正在为Pixel 11 Pro手机背面令人印象深刻的HiLight灯光添加一项新功能：作为2026年11月Pixel Drop的一部分“创建我的小部件”功能将用于构建...阅读The Verge的完整故事
+**Google** is adding a **new** feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: As part of the November 2026 Pixel DropThe "Create My Widget" feature to build a cu … Read the full story at The Verge
 
 📅 2026-11-10T19:00:00.000Z
-
----
-
-### The Information Technology
-**[OpenAI第三季度收入跃升至100亿美元](https://www.theinformation.com/articles/openai-revenue-jumps-10-billion-third-quarter)**
-
-**OpenAI**告诉投资者，第三季度的收入增长了50 ％ ，达到约100亿美元。第二季度的增长率高于第一季度的17 ％
-
-📅 2026-11-10T21:07:30.000Z
-
----
-
-### The Information Technology
-**[英伟达董事会聘请Wachtell独立调查CEO关系](https://www.theinformation.com/briefings/nvidia-board-hires-wachtell-independent-investigation-ceo-relationship)**
-
-英伟达董事会周二宣布，它已聘请律师事务所Wachtell董事会周日**首次**宣布，在报道黄
-
-📅 2026-11-10T19:35:19.000Z
 
 ---
 
@@ -273,73 +277,71 @@ Chat**GPT** Enterprise现已通过AWS Marketplace提供，帮助组织通过现�
 
 **[pytorch ：具有强GPU加速的Python中的张量和动态神经网络](https://github.com/pytorch/pytorch)**
 
-⭐ 105,329星· 30628分叉· Python ·具有强大GPU加速的Python中的张量和动态神经网络
+⭐ 105,331 star · 30626 fork · Python · Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
-📅 2026-11-10T21:14:22Z
-
----
-
-### GitHub Active (AI/ML)
-![cuml: NVIDIA cuML: GPU加速机器学习](https://avatars.githubusercontent.com/u/1728152?v=4)
-
-**[cuml: NVIDIA cuML: GPU加速机器学习](https://github.com/NVIDIA/cuml)**
-
-⭐ 5319星· 688分叉· Python · NVIDIA cuML ： GPU加速机器学习
-
-📅 2026-11-10T21:11:46Z
+📅 2026-11-11T02:29:17Z
 
 ---
 
 ### GitHub Active (AI/ML)
-![ruv-FANN ：一个快速、内存安全的Rust神经网络库，将FANN的力量带入现代世界。](https://avatars.githubusercontent.com/u/2934394?v=4)
+![figures4papers ： My Python脚本，为顶级人工智能会议和期刊上的出版物制作高质量的数字。](https://avatars.githubusercontent.com/u/36081734?v=4)
 
-**[ruv-FANN ：一个快速、内存安全的Rust神经网络库，将FANN的力量带入现代世界。](https://github.com/ruvnet/ruv-FANN)**
+**[figures4papers ： My Python脚本，为顶级人工智能会议和期刊上的出版物制作高质量的数字。](https://github.com/ChenLiu-1996/figures4papers)**
 
-⭐ 389星· 107叉· Rust ·快速、内存安全的Rust神经网络库，将FANN的力量带入现代世界
+⭐ 10,891 star · 757 fork · Python · My Python scripts to make high-quality figures for publications in top AI conferences and journals
 
-📅 2026-11-10T21:12:40Z
+📅 2026-11-11T02:29:38Z
 
 ---
 
-### GitHub New (New AI)
-![自动🆕 拼接：基于人工智能的视频编辑平台，可将长篇内容转换为引人入胜的短视频。公共产品展示。](https://avatars.githubusercontent.com/u/159090644?v=4)
+### GitHub Active (AI/ML)
+![ComfyUI_frontend ： ComfyUI的官方前端实现](https://avatars.githubusercontent.com/u/166579949?v=4)
 
-**[自动🆕 拼接：基于人工智能的视频编辑平台，可将长篇内容转换为引人入胜的短视频。公共产品展示。](https://github.com/kokoc30/Auto-Stitch)**
+**[ComfyUI_frontend ： ComfyUI的官方前端实现](https://github.com/Comfy-Org/ComfyUI_frontend)**
 
-⭐ 49 star (新项目) · N/A · AI-powered video editing platform for transforming long-form content into short, engaging videosPublic product showcase
+⭐ 2,123 star · 770 fork · TypeScript · Official front-end implementation of ComfyUI
 
-📅 2026-11-07T20:29:29Z
+📅 2026-11-11T02:33:15Z
+
+---
+
+### GitHub Active (AI/ML)
+![AITreasureBox: 🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎](https://avatars.githubusercontent.com/u/1154692?v=4)
+
+**[AITreasureBox: 🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎](https://github.com/superiorlu/AITreasureBox)**
+
+⭐ 924 star · 127 fork · Ruby · 🤖 Automatically collected AI repos, tools, websites, papers & tutorials实用AI百宝箱 💎
+
+📅 2026-11-11T02:31:39Z
 
 ---
 
 ## 💬 社交动态
 
-### Hacker News
-**[Show HN ：让您的编码代理脱离~ 2019 JavaScript ，进入现代网络图元](https://github.com/GoogleChrome/modern-web-guidance)**
+### Hacker News AI
+**[询问HN ：为什么Ramp AI Index不包括OpenRouter或其他聚合器？](https://news.ycombinator.com/item?id=50449024)**
 
-（昨天的ftrain帖子触及了[0] ）模型知道其中一些名称（ Ofc ，我们认为人工智能不知道的一些事情被证明是错误的:)我们对200个没有技能的任务运行codex/**Claude**/agy ，然后
+especially the first raw tokens per week by model (first chart) https://openrouterOne of my biggest questions, is why does Ramp only really show **Anthropic**/**OpenAI**/X
 
-📅 Tue, 10 Nov 2026 18:01:15 +0000
-
----
-
-### Reddit: r/artificial
-**[欧盟按下OpenAI、Anthropic以获取有关AI安全事件的更多详细信息](https://www.reddit.com/r/artificial/comments/1xswqzl/eu_presses_openai_anthropic_for_more_details_on/)**
-
-提交者/u/IndependentCoast3974 [link] [comments]
-
-📅 2026-11-10T19:50:02.000Z
+📅 Wed, 11 Nov 2026 02:12:47 +0000
 
 ---
 
 ### Reddit: r/artificial
-![微软自2025年6月以来首次登顶英伟达市值](https://external-preview.redd.it/I4uwpHEE9SnLKQiGYpruop2z1hyCyfJTZoS-9KgeHus.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2b9a2baa7eaac4577a19e1ba8bd3eba685aa32c9)
+**[Gemini笔记本电脑隐私问题](https://www.reddit.com/r/artificial/comments/1xt1vs9/gemini_notebook_privacy_concerns/)**
 
-**[微软自2025年6月以来首次登顶英伟达市值](https://www.reddit.com/r/artificial/comments/1xswkiv/microsoft_tops_nvidias_market_cap_for_first_time/)**
+I have been working with **Claude** to help me to improve coding on GDScriptI'm thinking about using **Gemini** Notebook to work on my GDD and world building
 
-提交者/u/Resident-Fall4351 [link] [comments]
+📅 2026-11-10T23:18:12.000Z
 
-📅 2026-11-10T19:42:59.000Z
+---
+
+### Reddit: r/artificial
+**[需要机器人帮助！](https://www.reddit.com/r/artificial/comments/1xszx42/bot_help_needed/)**
+
+Im vibecoding my project and im having a little trouble scraping one website in particular**Claude** code and Chat**GPT** are not being able to get past it
+
+📅 2026-11-10T21:55:02.000Z
 
 ---
 
@@ -348,7 +350,7 @@ Chat**GPT** Enterprise现已通过AWS Marketplace提供，帮助组织通过现�
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-11-10T21:14:48.106Z
+📅 2026-11-11T02:34:04.566Z
 
 ---
 
@@ -357,34 +359,36 @@ Chat**GPT** Enterprise现已通过AWS Marketplace提供，帮助组织通过现�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-11-10T21:14:52.473Z
+📅 2026-11-11T02:34:10.256Z
 
 ---
 
 ### Hacker News
-**[Claude白板、Claude Sheets和Claude Data](https://claude.com/resources/articles/sheets-whiteboards-data)**
+**[7个月后， Glasswing以令人印象深刻的发现淹没了维护人员](https://www.vulncheck.com/blog/anthropic-glasswing-november-update)**
 
-文章网址： https://**Claude**com/resources/articles/sheets-whiteboards-data评论网址： https://**new**s
+Article URL: https://wwwcom/blog/**Anthropic**-glasswing-november-**update** Comments URL: https://**new**s
 
-📅 Tue, 10 Nov 2026 17:55:07 +0000
-
----
-
-### Hacker News
-**[克劳德九世的生活](https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html)**
-
-in/posts/2026-01-25-life-on-**Claude**-ninehtml评论网址： https://**new**s
-
-📅 Tue, 10 Nov 2026 17:44:44 +0000
+📅 Tue, 10 Nov 2026 22:17:56 +0000
 
 ---
 
-### Hacker News AI
-**[Show HN: Zeus – AI语音代理的Claude代码](https://thunderphone.com/blog/introducing-zeus)**
+### Reddit: r/artificial
+![随着人工智能市场紧张情绪的增长， Anthropic揭示了IPO价格](https://external-preview.redd.it/rRYGbkazVNWB0zR885aZsxX6mU0mNfFohxkjAyiyg2w.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6c72a51f122ad3dc3b7cf5fa65c539cb9637eb6b)
 
-文章网址： https://thunderphonecom/blog/introducing-zeus评论网址： https://**new**s
+**[随着人工智能市场紧张情绪的增长， Anthropic揭示了IPO价格](https://www.reddit.com/r/artificial/comments/1xt2t5n/anthropic_reveals_ipo_price_as_ai_market_jitters/)**
 
-📅 Tue, 10 Nov 2026 20:20:03 +0000
+I saw the price move from $70 to $78, which is the first concrete figure after months of $2 trillion talk, and that puts **Anthropic** at roughly $1To me, that drop is the real story
+
+📅 2026-11-10T23:59:01.000Z
+
+---
+
+### Reddit: r/artificial
+**[我如何让经纪人记住几个月前的事情](https://www.reddit.com/r/artificial/comments/1xsxudj/how_i_made_my_agents_remember_stuff_from_months/)**
+
+md files & **Claude**Didn't really find any definitive solutions outside of relatively complex LangChain
+
+📅 2026-11-10T20:32:41.000Z
 
 ---
 
