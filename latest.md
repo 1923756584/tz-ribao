@@ -1,12 +1,12 @@
 ---
 title: "2026年11月12日 - TZ日报"
-date: 2026-11-12T03:39:18.844Z
+date: 2026-11-12T21:47:45.956Z
 draft: false
 ---
 
 # 2026年11月12日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/11/12 03:39:18
+> 📊 今日汇总 38 条 · 🕐 2026/11/12 21:47:45
 
 ---
 
@@ -23,11 +23,22 @@ draft: false
 ## ✨ 产品更新
 
 ### OpenAI Blog
-**[帮助护理人员在日常生活中使用人工智能](https://openai.com/index/helping-caregivers-use-ai-in-everyday-life)**
+**[帮助照护者在日常生活中使用人工智能](https://openai.com/index/helping-caregivers-use-ai-in-everyday-life)**
 
-**OpenAI** Academy 将为五个城市的看护人员提供免费的 Chat**GPT** 实践工作坊，帮助他们掌握适用于日常生活的实用人工智能技能。
+**OpenAI** Academy 将为五个城市的照护者提供免费的 Chat**GPT** 实践工作坊，帮助他们掌握适用于日常生活的实用人工智能技能。
 
 📅 Tue, 10 Nov 2026 12:00:00 GMT
+
+---
+
+### Google AI Blog
+![Google 搜索通过 Gemini 4 Hydrogen 实现了重大升级](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp)
+
+**[Google 搜索通过 Gemini 4 Hydrogen 实现了重大升级](https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/)**
+
+我们将向全球的 **Google** 搜索**推出** **Gemini** 4 Hydrogen，为您提供更有帮助、更具可视化和更直观的回复
+
+📅 Thu, 12 Nov 2026 18:00:00 +0000
 
 ---
 
@@ -36,7 +47,7 @@ draft: false
 
 **[我们将 Adobe 的创意和生产力工具与您日常使用的 Google 应用更加紧密地结合在一起。](https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/)**
 
-**Google** 和 Adobe 正在整合创意和办公工具在云盘中编辑 PDF 文件，并在 **Gemini** 中使用 Adobe AI
+**Google** 和 Adobe 正在整合创意和办公工具在 Drive 中编辑 PDF 文件，并在 **Gemini** 中使用 Adobe AI
 
 📅 Tue, 10 Nov 2026 14:00:00 +0000
 
@@ -47,16 +58,43 @@ draft: false
 
 **[Google Cloud推出面向医疗保健行业的Gemini。](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/)**
 
-**Google** Cloud**推出**面向医疗保健行业的**Gemini**，旨在统一临床数据并实现工作流程自动化，从而减轻行政工作带来的倦怠感
+**Google** Cloud**推出**面向医疗保健行业的**Gemini**，旨在统一临床数据并实现工作流程自动化，从而减轻行政事务导致的倦怠
 
 📅 Tue, 10 Nov 2026 13:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[谷歌最新的搜索升级承诺为您最复杂的问题提供更好的答案](https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/)**
+
+由**Gemini** 4 Hydrogen提供技术支持**Google**的AI模式在理解复杂查询方面越来越出色
+
+📅 Thu, 12 Nov 2026 19:27:45 +0000
+
+---
+
+### OpenAI Blog
+**[Amplitude如何借助OpenAI在1–2天内推出产品改进](https://openai.com/index/amplitude)**
+
+主要基于**OpenAI**模型构建的Amplitude主动式产品代理
+
+📅 Thu, 12 Nov 2026 20:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[支持有关人工智能和儿童安全的研究](https://openai.com/index/children-first-declaration)**
+
+**OpenAI**投入200万美元用于人工智能与儿童安全研究该项工作支持开发共享工具，以衡量年轻人面临的风险与机遇
+
+📅 Thu, 12 Nov 2026 00:00:00 GMT
 
 ---
 
 ### OpenAI Blog
 **[面向退伍军人和现役军人的 ChatGPT Plus](https://openai.com/index/chatgpt-plus-for-veterans)**
 
-超过20,000名退伍军人和即将退役的现役军人已申领了一年的免费Chat**GPT** Plus。了解他们如何使用Chat**GPT** Plus为平民职业做好准备。
+超过2万名退伍军人和即将退役的现役军人已申领了一年的免费Chat**GPT** Plus。了解他们如何使用Chat**GPT** Plus为平民职业做好准备。
 
 📅 Wed, 11 Nov 2026 08:00:00 GMT
 
@@ -80,222 +118,195 @@ ThinkYoung的新研究以及**OpenAI**在欧洲、中东和非洲（EMEA）教�
 
 ---
 
-### OpenAI Blog
-**[新加坡航空公司借助OpenAI技术提升旅行与工作体验](https://openai.com/index/singapore-airlines-travel-work)**
-
-了解新加坡航空公司如何使用**OpenAI**模型和API来提升客户支持和员工工作效率
-
-📅 Tue, 10 Nov 2026 08:00:00 GMT
-
----
-
-### OpenAI Blog
-**[前沿工作：人工智能对自由职业工作的影响](https://openai.com/index/ai-effect-on-freelance-work)**
-
-**OpenAI**和Upwork的新研究发现，对自由职业工作的需求正在转向新的技能组合
-
-📅 Tue, 10 Nov 2026 07:00:00 GMT
-
----
-
-### OpenAI Blog
-**[Cogent与OpenAI为企业打造网络防御工厂](https://openai.com/index/cogent-security)**
-
-Cogent 将 **OpenAI** 模型与企业背景相结合，帮助通过代理自动修复漏洞
-
-📅 Tue, 10 Nov 2026 00:00:00 GMT
-
----
-
-### OpenAI Blog
-**[ChatGPT Enterprise现已在AWS Marketplace上线](https://openai.com/index/chatgpt-enterprise-aws-marketplace)**
-
-Chat**GPT** Enterprise现已通过AWS Marketplace提供，帮助组织通过现有的AWS采购和账单关系简化采购流程。
-
-📅 Mon, 09 Nov 2026 19:00:00 GMT
-
----
-
 ## 🔬 前沿研究
 
-### ArXiv Natural Language Processing (cs.CL)
-**[2026 年的印度语分词税：衡量分词器。差异及其对印度语言的代价](https://arxiv.org/abs/2611.13058)**
+### Science AI
+**[人工智能竞争对手正在应对物理学最深奥的数学挑战之一](https://www.science.org/content/article/ai-rivals-tackle-one-physics-deepest-mathematical-challenges)**
 
-13058v1 公告类型：新摘要：商业语言模型 API 按 token 收费我们对九种公开的 tokenizer 进行了差异性衡量，其中包括 **GPT**-4、**GPT**-4o、Qwen2 的 tokenizer
+**OpenAI**和与**Anthropic**相关的研究团队在杨-米尔斯存在性问题上取得了进展
 
-📅 Wed, 11 Nov 2026 00:00:00 -0500
-
----
-
-### ArXiv AI (cs.AI)
-**[在预填充时训练，在解码时监控：使用稀疏自编码器进行主题监控](https://arxiv.org/abs/2611.12935)**
-
-12935v1 公告类型：新公告摘要：主题监控是指在生成过程中，对模型回复中的每个标记进行主题标注的任务。我们的代码、数据集和检查点可在 https://github 上查阅。
-
-📅 Wed, 11 Nov 2026 00:00:00 -0500
+📅 2026-11-12T21:44:38.240Z
 
 ---
 
-### ArXiv Machine Learning (cs.LG)
-**[ADIndex：通过组级蒸馏实现层自适应稀疏注意力索引](https://arxiv.org/abs/2611.12956)**
+### MIT Tech Research
+**[尽管业内公开质疑其可行性，但英伟达私下确认它可以追踪芯片以打击走私。](https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/)**
 
-12956v1 公告类型：新摘要：**DeepSeek** 稀疏注意力 (DSA) 通过 token 级选择降低了注意力的计算成本**DeepSeek**-V3 上的实验
+Foster在周四接受《麻省理工科技评论》采访时表示，即使有行业团体声称这些技术“可能不可行”，
 
-📅 Wed, 11 Nov 2026 00:00:00 -0500
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[从线性探针到贝叶斯流形：大型语言模型中的算术几何](https://arxiv.org/abs/2611.12998)**
-
-12998v1 公告类型：新摘要：线性探针是研究几何结构的标准方法。我们将该管道应用于 **GPT**-J 6B、Llama 3 中的两位数加法和乘法。
-
-📅 Wed, 11 Nov 2026 00:00:00 -0500
+📅 Thu, 12 Nov 2026 20:16:24 +0000
 
 ---
 
-### ArXiv Multiagent (cs.MA)
-**[PARLEY：通过合作性非对称谜题评估大语言模型协作](https://arxiv.org/abs/2611.14242)**
+### Science AI
+**[长期被忽视的阿尔茨海默病假说卷土重来](https://www.science.org/content/article/long-overlooked-alzheimer-s-hypothesis-makes-comeback)**
 
-14242v1 公告类型：新摘要：随着大型语言模型为自主代理提供动力，**GPT**-4o 代理对在 60 次尝试中成功了 59 次。
+在失智症不再是热门研究课题的几十年后，研究人员重新审视一种将该疾病与关键神经元丧失联系起来的观点。
 
-📅 Wed, 11 Nov 2026 00:00:00 -0500
-
----
-
-### ArXiv AI (cs.AI)
-**[用于自主X射线实验的可审计人机团队](https://arxiv.org/abs/2611.12933)**
-
-12933v1 公告类型：新摘要：闭环自主实验可以加速科学发现模型训练
-
-📅 Wed, 11 Nov 2026 00:00:00 -0500
+📅 2026-11-12T21:44:38.240Z
 
 ---
 
-### ArXiv AI (cs.AI)
-**[EarthRecord：借助多模态代理，从像素到土地变化，跨越四十年的卫星影像](https://arxiv.org/abs/2611.12934)**
+### Science AI
+**[随着食物变得匮乏，亚洲象的友谊也随之破裂](https://www.science.org/content/article/food-becomes-scarce-asian-elephant-friendships-fall-apart)**
 
-12934v1 公告类型：新 摘要：虽然多模态代理现在使用工具对来自全球产品的保留参考进行评分，从而进行复杂的数据分析，
+社会崩溃对人口构成长期风险
 
-📅 Wed, 11 Nov 2026 00:00:00 -0500
+📅 2026-11-12T21:44:38.240Z
 
 ---
 
-### ArXiv AI (cs.AI)
-**[LandslideFM：面向统一的滑坡感知与理解的基础模型](https://arxiv.org/abs/2611.12936)**
+### Science AI
+**[受邀加入美国国立卫生研究院（NIH）心理健康委员会的名人精神病医生进行脑部扫描](https://www.science.org/content/article/celebrity-psychiatrist-who-performs-brain-scans-tapped-nih-s-mental-health-council)**
 
-12936v1 公告类型：新**发布**摘要：智能型滑坡检测对于防灾至关**重要**。我们的代码已在 https://github 上**发布**。
+丹尼尔·阿门（Daniel Amen）的待定任命反映了“让美国重回健康”（Make America Healthy Again）运动对联邦资助的精神病学研究日益增强的影响力
 
-📅 Wed, 11 Nov 2026 00:00:00 -0500
+📅 2026-11-12T21:44:38.240Z
+
+---
+
+### Science AI
+**[卫星和实地调查揭示厄瓜多尔亚马逊地区猖獗的天然气燃烧现象](https://www.science.org/content/article/satellites-and-boots-ground-uncover-rampant-gas-flaring-ecuador-s-amazon)**
+
+研究人员发现数十个新站点违反了厄瓜多尔的一项具有里程碑意义的裁决，该裁决要求在2030年前关闭燃烧塔。
+
+📅 2026-11-12T21:44:38.240Z
+
+---
+
+### Science AI
+**[研究人员能否为混乱的人工智能“基准”世界带来秩序？](https://www.science.org/content/article/can-researchers-bring-order-confusing-world-ai-benchmarks)**
+
+多项工作旨在使大量的人工智能测试结果更容易理解和使用
+
+📅 2026-11-10T10:55:00.000Z
+
+---
+
+### Science AI
+**[研究人员有一份愿望清单。新一届国会能否满足这些愿望？](https://www.science.org/content/article/researchers-have-wish-list-can-new-congress-deliver)**
+
+尽管拥有健康的多数席位，但民主党人在能够取得的成就方面仍面临限制
+
+📅 2026-11-12T21:44:38.240Z
 
 ---
 
 ## 🌍 行业展望
 
 ### The Information Technology
-![Anthropic的私募股权支持的风险投资公司Ode正努力争取获得AI成果的报酬](https://tii.imgix.net/production/articles/18128/90f57552-bbd6-4831-b9b8-62ffa83be48a.png?auto=compress,format&amp;fit=crop&amp;w=560)
+**[在黄仁勋离任后，英伟达的疯狂交易将面临清算](https://www.theinformation.com/articles/nvidias-dealmaking-binge-faces-reckoning-jensen-huangs-exit)**
 
-**[Anthropic的私募股权支持的风险投资公司Ode正努力争取获得AI成果的报酬](https://www.theinformation.com/articles/anthropics-pe-backed-venture-ode-pushes-get-paid-ai-results)**
+英伟达已成为人工智能初创企业最活跃的支持者之一，对其专用人工智能芯片的需求强劲。
 
-其中一个合作项目是与**Anthropic**合作的Ode，该项目于7月**推出**。Ode自成立以来已完成多项收购和并购，其中包括Casper St**Udio**s，该公司使用**Claude**设计专业化人工智能产品。
-
-📅 2026-11-11T16:01:24.000Z
+📅 2026-11-12T19:30:36.000Z
 
 ---
 
 ### The Information Technology
-**[AI推理初创公司正在悄然购买自己的芯片](https://www.theinformation.com/articles/ai-inference-startups-quietly-buying-chips)**
+**[Alice Huang 的公司投资了 DeepSeek，看好英伟达芯片](https://www.theinformation.com/articles/alice-huangs-companies-invested-deepseek-promising-nvidia-chips)**
 
-无需在自己的 AI 芯片上花一分钱，而这些芯片往往比微软 Azure 等大型超大规模企业拥有更多的可用容量
+最近投资了中国人工智能明星企业**DeepSeek**，这表明Alice Huang及其公司在中国人工智能行业中发挥了隐秘而**重要**的作用。
 
-📅 2026-11-11T16:29:19.000Z
+📅 2026-11-12T15:00:50.000Z
 
 ---
 
 ### Ars Technica
-**[台湾芯片制造巨头台积电将向Anthropic和OpenAI投资10亿美元](https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/)**
+**[谷歌推出Gemini 4 Hydrogen，终于取代了3.8 Flash](https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/)**
 
-人工智能热潮的循环融资的最新例子出现在人工智能交易波动之际。
+**Gemini** 4 Hydrogen不会像Carbon和Argon那样以缓慢、注重安全的方式**发布**。
 
-📅 Wed, 11 Nov 2026 18:16:40 +0000
+📅 Thu, 12 Nov 2026 19:23:03 +0000
+
+---
+
+### Ars Technica
+**[在Gemini试点遭遇强烈反弹后，Google面临着在学校暂停使用人工智能的呼吁](https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/)**
+
+在一名青少年提起诉讼，指控**Gemini**是“自杀教练”后，多户家庭与**Google**对簿公堂。
+
+📅 Thu, 12 Nov 2026 18:57:45 +0000
+
+---
+
+### Ars Technica
+**[谷歌推出由Gemini驱动的智能眼镜，起售价395美元，并强调隐私保护](https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/)**
+
+首款**Gemini**智能眼镜是**Google**、三星、Gentle Monster和Warby Parker的合作成果
+
+📅 Thu, 12 Nov 2026 14:50:17 +0000
 
 ---
 
 ### The Verge
-![您已经可以购买的最佳黑色星期五提前优惠](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_EARLY_DEALS_Headers_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![研究发现，人工智能聊天机器人正在推荐虚假的零售网站](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[您已经可以购买的最佳黑色星期五提前优惠](https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026)**
+**[研究发现，人工智能聊天机器人正在推荐虚假的零售网站](https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations)**
 
-随着更多零售商**推出**假日促销活动，我们将继续**更新**本指南。本指南适用于 iPhone 17 Pro、iPhone 16 Pro 和其他 iPhone 机型。
+一项新研究发现，使用AI聊天机器人来调研产品或寻找购买商品地点的购物者可能会被引导至冒名网站和其他存在风险的网站。由知识产权保护公司Podqi开展并独家与The Verge分享的研究促使Chat**GPT**
 
-📅 2026-11-11T15:53:55.000Z
-
----
-
-### The Information Technology
-**[美国商务部正在敲定期待已久的人工智能远程访问规则](https://www.theinformation.com/articles/commerce-department-finalizing-long-awaited-ai-remote-access-rule)**
-
-此举可能有助于该部门反驳外界的批评，即该部门在制定限制中国获得先进人工智能技术的政策方面行动过于缓慢——这些政策遭到了Nvidia等有影响力的公司的反对。新加坡和泰国
-
-📅 2026-11-12T02:52:17.000Z
+📅 2026-11-12T17:00:00.000Z
 
 ---
 
 ### The Information Technology
-**[英伟达首席执行官即将离任](https://www.theinformation.com/articles/nvidia-ceos-exit-looms)**
+**[Nvidia将继续调查前首席执行官和涉嫌的中国间谍](https://www.theinformation.com/briefings/nvidia-will-continue-investigation-former-ceo-alleged-chinese-spy)**
 
-该委员会宣布将调查他是否是“外国情报活动的针对对象”，但当时委员会表示“对Jensen充满信心”。
+一位知情人士表示，英伟达计划继续调查前首席执行官黄仁勋是否“曾是外国情报活动的针对目标”，这与他与一名被指为中国间谍的人士的私情有关。
 
-📅 2026-11-12T00:45:38.000Z
-
----
-
-### The Information Technology
-**[据报道，英伟达董事会正准备在曝出婚外情丑闻后罢免英伟达首席执行官](https://www.theinformation.com/briefings/report-nvidia-board-reportedly-preparing-oust-nvidia-ceo)**
-
-据多家媒体报道，援引特朗普政府官员的话称，英伟达董事会正准备罢免英伟达首席执行官黄仁勋。董事会一直在调查黄仁勋与一名女性的恋爱关系，该女性的中国公司获得了被禁的英伟达芯片，而美国
-
-📅 2026-11-11T22:47:48.000Z
+📅 2026-11-12T20:50:21.000Z
 
 ---
 
 ### The Information Technology
-**[Meta的基础设施主管在人工智能大规模建设之际离职](https://www.theinformation.com/briefings/metas-infrastructure-chief-leaving-amid-massive-ai-buildout)**
+**[英伟达前首席执行官黄仁勋与第二名员工有染](https://www.theinformation.com/briefings/ex-nvidia-ceo-huang-affair-second-employee)**
 
-**Meta** Platforms正在更换其庞大数据中心运营部门的领导层。Amazon Web Services的资深人士Dave Brown
+据路透社报道，Jensen Huang 在执掌英伟达期间至少与两名英伟达员工有染。《纽约时报》报道称，Huang 与 Kimberly Powell 有亲密关系。
 
-📅 2026-11-11T20:40:37.000Z
+📅 2026-11-12T20:12:10.000Z
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![onnxruntime：ONNX Runtime：跨平台、高性能机器学习推理和训练加速器](https://avatars.githubusercontent.com/u/6154722?v=4)
+![PyTorch：Python 中的张量和动态神经网络，具有强大的 GPU 加速功能](https://avatars.githubusercontent.com/u/21003710?v=4)
 
-**[onnxruntime：ONNX Runtime：跨平台、高性能机器学习推理和训练加速器](https://github.com/microsoft/onnxruntime)**
+**[PyTorch：Python 中的张量和动态神经网络，具有强大的 GPU 加速功能](https://github.com/pytorch/pytorch)**
 
-⭐ 22,291 个星标 · 4442 个分叉 · C++ · ONNX Runtime：跨平台、高性能机器学习推理和训练加速器
+⭐ 105,460 个星标 · 30711 个分叉 · Python · 使用 Python 实现张量和动态神经网络，并提供强大的 GPU 加速
 
-📅 2026-11-12T03:31:43Z
+📅 2026-11-12T21:45:29Z
 
 ---
 
 ### GitHub Active (AI/ML)
-![paxeer-monorepo：Paxeer X 是一款用于支付、代码执行和意图路由的分布式超状态机。专为机器及其操作用户而设计。](https://avatars.githubusercontent.com/u/315858149?v=4)
+![ComfyUI_frontend：ComfyUI 的官方前端实现](https://avatars.githubusercontent.com/u/166579949?v=4)
 
-**[paxeer-monorepo：Paxeer X 是一款用于支付、代码执行和意图路由的分布式超状态机。专为机器及其操作用户而设计。](https://github.com/Sidiora-Labs/paxeer-monorepo)**
+**[ComfyUI_frontend：ComfyUI 的官方前端实现](https://github.com/Comfy-Org/ComfyUI_frontend)**
 
-⭐ 540颗星 · 82个分叉 · TypeScript · Paxeer X是一款用于支付、代码执行和意图路由的分布式HyperState虚拟机，专为机器及其操作用户而设计
+⭐ 2,126 个星标 · 770 个分叉 · TypeScript · ComfyUI 的官方前端实现
 
-📅 2026-11-12T03:37:11Z
+📅 2026-11-12T21:42:54Z
+
+---
+
+### GitHub Active (AI/ML)
+![awesome-ml-internships-2027：面向学生的实时人工智能和机器学习实习机会，通过 Zapply 招聘渠道更新。](https://avatars.githubusercontent.com/u/217731079?v=4)
+
+**[awesome-ml-internships-2027：面向学生的实时人工智能和机器学习实习机会，通过 Zapply 招聘渠道更新。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
+
+⭐ 468 个星标 · 39 个分叉 · 不适用 · 面向学生的实时人工智能和机器学习实习机会，通过 Zapply 招聘渠道**更新**
+
+📅 2026-11-12T21:44:40Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 Anonymous-Campus：Anonymous-Campus保护学生的身份，同时让学生能够对校园设施提供坦诚的反馈。它使用汇总评分和问题跟踪来帮助管理人员改善设施，BharatCode AI 则分析反馈趋势并生成可行的建议。](https://avatars.githubusercontent.com/u/308080589?v=4)
+![🆕 Anonymous-Campus：Anonymous Campus在保护学生身份的同时，让学生能够对校园设施提供坦诚的反馈。它使用汇总评分和问题跟踪来帮助管理人员改善设施，BharatCode AI 则分析反馈趋势并生成可操作的建议。](https://avatars.githubusercontent.com/u/308080589?v=4)
 
-**[🆕 Anonymous-Campus：Anonymous-Campus保护学生的身份，同时让学生能够对校园设施提供坦诚的反馈。它使用汇总评分和问题跟踪来帮助管理人员改善设施，BharatCode AI 则分析反馈趋势并生成可行的建议。](https://github.com/rohitjee7022-blip/Anonymous-Campus)**
+**[🆕 Anonymous-Campus：Anonymous Campus在保护学生身份的同时，让学生能够对校园设施提供坦诚的反馈。它使用汇总评分和问题跟踪来帮助管理人员改善设施，BharatCode AI 则分析反馈趋势并生成可操作的建议。](https://github.com/rohitjee7022-blip/Anonymous-Campus)**
 
 ⭐ 37 star (新项目) · JavaScript · Anonymous Campus protects student identities while enabling honest campus facility feedbackwith BharatCode AI analysing feedback trends and generating actionable recommendations
 
@@ -303,47 +314,43 @@ Chat**GPT** Enterprise现已通过AWS Marketplace提供，帮助组织通过现�
 
 ---
 
-### GitHub New (New AI)
-![🆕 Echo_Knowledge：ECHO Knowledge 是一款以本地为先的 AI 驱动型知识管理系统，用于组织文档、进行语义搜索、提供基于事实的 AI 回答以及构建交互式知识图谱。使用 Tauri、Rust、React、TypeScript 和 SQLite 构建，支持 Gemini 和 Groq BYOK。](https://avatars.githubusercontent.com/u/257293114?v=4)
-
-**[🆕 Echo_Knowledge：ECHO Knowledge 是一款以本地为先的 AI 驱动型知识管理系统，用于组织文档、进行语义搜索、提供基于事实的 AI 回答以及构建交互式知识图谱。使用 Tauri、Rust、React、TypeScript 和 SQLite 构建，支持 Gemini 和 Groq BYOK。](https://github.com/dharunram-lgtm/Echo_Knowledge)**
-
-⭐ 4 star (新项目) · Rust · ECHO Knowledge is a local-first AI-powered knowledge management system for organizing documentsBuilt with Tauri, Rust, React, TypeScript, and SQLite, with **Gemini** and Groq BYOK support
-
-📅 2026-11-10T17:07:21Z
-
----
-
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-![共和党参议员乔希·霍利支持在全国范围内暂停建设数据中心](https://preview.redd.it/5jsejz0di21i1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=71b80c4ac6f5378950230c47e6459b9e88d90f49)
+**[Claude Fable 5.2 和 GPT-6 Astra 是否会让专门的机器人模型过时？还是机器人仍然需要自己的 VLA、触觉编码器和世界模型？](https://www.reddit.com/r/artificial/comments/1xulg6i/will_claude_fable_52_and_gpt6_astra_make/)**
 
-**[共和党参议员乔希·霍利支持在全国范围内暂停建设数据中心](https://www.reddit.com/r/artificial/comments/1xtx3n9/republican_senator_josh_hawley_backs_nationwide/)**
+我不断遇到的一种说法是：既然前沿多模态模型在机器人控制基准测试中表现出色，那么通用模型就应该属于推理层，而机器人仍然需要经过触觉和运动训练的快速模型来进行低级控制。
 
-com/**new**s/2026/01/**Meta**-nuclear-energy-projects-power-american-ai-leadership/ Microsoft https://www.com/**new**s/covering-electricity-price-increases **OpenAI** https://**OpenAI**
-
-📅 2026-11-11T23:27:53.000Z
+📅 2026-11-12T19:01:30.000Z
 
 ---
 
 ### Reddit: r/artificial
-![在视频游戏中，最有价值的就是按键操作。为什么世界模型团队要为附带输入的玩法付费](https://external-preview.redd.it/cnQ5OGdpd2J2MjFpMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6d77a981739079be3deea02b3878509f520bf70e)
+![Row-Bot 5.3.3 已发布](https://preview.redd.it/5tdukeblm71i1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=266ec2260e3295fc8ab27d12f265bc0c22c55365)
 
-**[在视频游戏中，最有价值的就是按键操作。为什么世界模型团队要为附带输入的玩法付费](https://www.reddit.com/r/artificial/comments/1xtyqxv/the_most_valuable_thing_in_a_video_game_is_the/)**
+**[Row-Bot 5.3.3 已发布](https://www.reddit.com/r/artificial/comments/1xuhliz/rowbot_533_is_out/)**
 
-行动才是解释它的关键，而这正是稀缺的。**OpenAI**的Minecraft工作将2000个标记小时转化成了70000个自动标记小时。微软为Muse保留了七年的控制器输入数据。
+在 **Claude** 计划中，每个模型调用都会在一个回合中启动一个新的 **Claude** Code 并重新发送整个对话。现在，一个 **Claude** Code 会在整个回合中保持不变，对话将从提示缓存中读取。
 
-📅 2026-11-12T00:41:35.000Z
+📅 2026-11-12T16:40:15.000Z
+
+---
+
+### Hacker News
+**[Gemini 4 氢气和 Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/)**
+
+文章网址：https://antigravity**Google**/blog/**Gemini**-4-hydrogen-in-**Google**-antigravity/评论网址：https://**new**s
+
+📅 Thu, 12 Nov 2026 18:52:01 +0000
 
 ---
 
 ### Reddit: r/artificial
-**[微软研究人员通过编辑不到10个神经元，在AI代理中植入了后门——无需重新训练](https://www.reddit.com/r/artificial/comments/1xu2cfg/microsoft_researchers_backdoored_an_ai_agent_by/)**
+**[最新消息：一位用户表示，Claude Code 在手动模式下移动了 11GB 的文件，并记录了他们从未见过的批准。](https://www.reddit.com/r/artificial/comments/1xuiikp/update_a_user_says_claude_code_moved_11gb_in/)**
 
-微软研究院本周**发布**了一项研究，应该会让所有部署开放权重模型的人感到担忧：他们称之为“Lazarus”的技术可以通过重新编程底层大语言模型中不到10个休眠神经元，在人工智能代理中植入一个可正常工作的后门——无需重新训练。有一个细节让我印象深刻：核心思想是由运行Opus 4的**Claude** Code自主发现的。
+他们正在Windows上手动审批模式下使用**Claude** Code，甚至还有一条规则，要求这些PowerShell命令先停止并询问com/**Anthropic**s/**Claude**-code/issues/108022（如果您不想阅读GitHub帖子，请在此处撰写https://techbroz
 
-📅 2026-11-12T03:35:17.000Z
+📅 2026-11-12T17:13:47.000Z
 
 ---
 
@@ -352,7 +359,7 @@ com/**new**s/2026/01/**Meta**-nuclear-energy-projects-power-american-ai-leadersh
 
 网址来源：http://twitter.com/**OpenAI**
 
-📅 2026-11-12T03:37:41.834Z
+📅 2026-11-12T21:46:00.940Z
 
 ---
 
@@ -361,34 +368,25 @@ com/**new**s/2026/01/**Meta**-nuclear-energy-projects-power-american-ai-leadersh
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-11-12T03:37:48.229Z
+📅 2026-11-12T21:46:07.517Z
 
 ---
 
 ### Hacker News
-**[英伟达正准备罢免黄仁勋](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad)**
+**[微软状态：“我们正在重新路由协议”](https://admin.cloud.microsoft/?#/servicehealth/:/alerts/MO1550821)**
 
-文章网址：https://www.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad 评论网址：https://**new**s
+microsoft/#/servicehealth/:/alerts/MO1550821评论网址：https://**new**s
 
-📅 Wed, 11 Nov 2026 22:31:06 +0000
+📅 Thu, 12 Nov 2026 20:20:41 +0000
 
 ---
 
 ### Hacker News
-**[据称黄仁勋与向他汇报工作的高管存在关系](https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html)**
+**[问HN：Microsoft/Azure宕机？](https://news.ycombinator.com/item?id=50471668)**
 
-com/2026/11/11/technology/jensen-huang-nvidia-affairhtml 评论网址：https://**new**s
+在过去的 5 分钟里，我们所有的 Microsoft Cloud 连接都中断了。评论网址：https://**new**s
 
-📅 Wed, 11 Nov 2026 22:03:58 +0000
-
----
-
-### Hacker News AI
-**[Show HN：Lynx – 完全可定制的开源人工智能工作空间](https://github.com/yakkomajuri/lynx)**
-
-使用**Claude** Code或Codex）它有几个非常酷的地方： - 向UI添加按钮，触发在我机器上运行的**Claude** Code代理（例如
-
-📅 Thu, 12 Nov 2026 01:26:11 +0000
+📅 Thu, 12 Nov 2026 18:17:13 +0000
 
 ---
 
