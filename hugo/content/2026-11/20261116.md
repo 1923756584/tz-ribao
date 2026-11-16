@@ -1,18 +1,19 @@
 ---
 title: "2026年11月16日 - TZ日报"
-date: 2026-11-16T02:36:52.336Z
+date: 2026-11-16T23:43:33.712Z
 draft: false
 ---
 
 # 2026年11月16日 - TZ日报
 
-> 📊 今日汇总 30 条 · 🕐 2026/11/16 02:36:52
+> 📊 今日汇总 38 条 · 🕐 2026/11/16 23:43:33
 
 ---
 
 ## 📊 今日概览
 
 - **产品更新**: 10 条
+- **前沿研究**: 8 条
 - **行业展望**: 8 条
 - **GitHub热门**: 4 条
 - **社交动态**: 8 条
@@ -22,294 +23,366 @@ draft: false
 ## ✨ 产品更新
 
 ### OpenAI Blog
+**[LVMH媒体部门宣布与OpenAI建立战略合作伙伴关系](https://openai.com/index/lvmh-media-division-partnership)**
+
+LVMH媒体部门与**OpenAI**宣布建立合作伙伴关系，通过人工智能支持新闻业，并通过Chat**GPT**使LVMH的出版物更易于访问
+
+📅 Mon, 16 Nov 2026 09:00:00 GMT
+
+---
+
+### TechCrunch AI Products
+**[萨姆·阿尔特曼谈论没有黄仁勋的英伟达：行业会“没事的”](https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/)**
+
+**OpenAI**首席执行官萨姆·阿尔特曼（Sam Altman）承认，英伟达首席执行官黄仁勋（Jensen Huang）在人工智能的蓬勃发展中发挥了特殊作用，但他最终认为，即使没有黄仁勋掌舵，这个行业也会“没问题”。
+
+📅 Mon, 16 Nov 2026 18:11:10 +0000
+
+---
+
+### TechCrunch AI Products
+**[OpenAI发布新的图像分类器和ChatGPT警告，以打击CSAM](https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/)**
+
+作为警告，Chat**GPT** 将禁止试图访问 CSAM 内容的账户 24 小时。
+
+📅 Mon, 16 Nov 2026 17:00:00 +0000
+
+---
+
+### OpenAI Blog
+**[拓宽科学家使用人工智能的途径](https://openai.com/index/expanding-chatgpt-for-academic-researchers)**
+
+我们正在扩展“面向学术研究人员的Chat**GPT**”计划，为全球20万名研究人员提供免费使用我们前沿模型的权限。
+
+📅 Mon, 16 Nov 2026 17:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[科学前沿：科学家如何使用ChatGPT](https://openai.com/index/science-at-the-frontier)**
+
+了解 1,800 多名科学家如何将 Chat**GPT** 用于研究查看有关日常工作流程、报告的生产力和发现期望的调查结果
+
+📅 Mon, 16 Nov 2026 12:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[我们的第一阶段嵌入式评估](https://openai.com/index/our-first-phase-of-embedded-assessments)**
+
+**OpenAI**开始与Apollo Research和Goodfire合作进行嵌入式评估，以独立评估模型对齐情况
+
+📅 Mon, 16 Nov 2026 08:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[使用面向医疗保健行业的 ChatGPT，以更多方式推动医疗保健事业的发展](https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare)**
+
+**推出**计算机使用代理、改进的临床答案以及适用于各种医疗保健软件的新型医疗保健插件，以完成实际工作
+
+📅 Mon, 16 Nov 2026 06:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[国王基金会与OpenAI启动100万英镑的合作项目](https://openai.com/index/the-kings-trust-and-openai)**
+
+国王基金会与**OpenAI**启动100万英镑的合作项目，帮助英国多达2.5万名青年人培养实用的工作所需人工智能技能
+
+📅 Mon, 16 Nov 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
 **[迈向在格点上定义标准模型的一步](https://openai.com/index/step-toward-defining-the-standard-model)**
 
-探索标准模型的候选非微扰格定义，以及**GPT**-6 Astra如何帮助将这一想法转化为详细的证明。
+探索标准模型的候选非微扰格定义，以及**GPT**-6 Astra如何帮助将这一想法转化为详细的证明
 
 📅 Sun, 15 Nov 2026 22:00:01 GMT
 
 ---
 
-### OpenAI Blog
-**[我们的新科学博客](https://openai.com/index/our-new-blog-for-science)**
-
-**OpenAI** 科学博客分享了使用人工智能推动科学发现的研究人员的新发现、实用方法和第一手经验
-
-📅 Sun, 15 Nov 2026 22:00:00 GMT
-
----
-
-### OpenAI Blog
-**[隆重推出ChatGPT钱包](https://openai.com/index/introducing-chatgpt-wallet)**
-
-隆重**推出** Chat**GPT** 钱包：Chat**GPT** Work 中客服代表的安全支付方式
-
-📅 Fri, 13 Nov 2026 15:00:00 GMT
-
----
-
-### OpenAI Blog
-**[Shield 帮助技术人员将旧版门户的工作移交给 OpenAI](https://openai.com/business/customer-stories/shield)**
-
-Shield 使用 **OpenAI** 来帮助 IT 技术人员移交旧版门户中的工作。其 Forge 代理可以浏览系统，让技术人员能够专注于需要他们判断的问题。
-
-📅 Fri, 13 Nov 2026 08:00:00 GMT
-
----
-
 ### TechCrunch AI Products
-**[对黄仁勋来说是坏消息，对人工智能行业来说也是坏消息吗？](https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/)**
+**[英伟达周二应回答的所有问题——但可能不会回答](https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/)**
 
-“Jensen就是Nvidia，对吧？而这片经济的很大一部分都寄希望于Nvidia。”
+英伟达临时首席执行官兼长期首席财务官科莱特·克雷斯（Colette Kress）即将迎来其职业生涯中最**重要**的一天，即周二英伟达将公布第三季度业绩。鉴于英伟达正处于动荡之中，该公司需要回答许多问题。
 
-📅 Sun, 15 Nov 2026 21:56:35 +0000
-
----
-
-### TechCrunch AI Products
-**[Nvidia 的安全团队在哪里？](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/)**
-
-Nvidia 的安全主管于 8 月悄然离职，而今首席执行官黄仁勋也因其人际关系而辞职。
-
-📅 Sun, 15 Nov 2026 00:08:07 +0000
+📅 Mon, 16 Nov 2026 22:03:02 +0000
 
 ---
 
-### TechCrunch AI Products
-**[埃隆·马斯克和其他科技公司高管签署请愿书，呼吁英伟达恢复黄仁勋的职位](https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/)**
+## 🔬 前沿研究
 
-截至周六下午，该请愿书已获得超过11.5万个签名。
+### ArXiv Natural Language Processing (cs.CL)
+**[GDP.xlsx：在专业工作簿上对前沿模型进行基准测试](https://arxiv.org/abs/2611.17766)**
 
-📅 Sat, 14 Nov 2026 21:41:22 +0000
+17766v1 公告类型：新**发布**摘要：我们**推出**了 GDP_xlsx。在 20 种模型配置中，包括来自 **Google**、**Anthropic** 和 **OpenAI** 的前沿模型，得分最高的 **Gemini** 4 Argon 仅通过了 38 项。
 
----
-
-### TechCrunch AI Products
-**[人工智能的坟场：一个不断更新的失败项目和初创公司名单](https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)**
-
-从苹果公司一再推迟的Siri人工智能，到**OpenAI**混乱的“超级应用”**发布**，本文将盘点那些夭折或未达预期的AI项目。
-
-📅 Sat, 14 Nov 2026 17:30:00 +0000
+📅 Mon, 16 Nov 2026 00:00:00 -0500
 
 ---
 
-### TechCrunch AI Products
-**[亚洲各国政府对英伟达首席执行官黄仁勋离职的反应](https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/)**
+### ArXiv AI (cs.AI)
+**[排名是否可靠？针对小型、量化、端上大语言模型的幻觉检测器进行的面向从业人员的审计](https://arxiv.org/abs/2611.17339)**
 
-一些政府已采取行动，确认芯片供应承诺，而另一些政府则正在监测对本地项目的影响或处理正在进行的调查
+17339v1 公告类型：新 摘要：大型语言模型的幻觉检测主要采用在 70 亿至 700 亿参数的研究模型上进行评估的方法，这些模型具有充足的采样预算以及精确匹配或 ROUGE 正确性标签，以及两种基于采样的 一致性方法（语义熵和 SelfCheck**GPT**-NLI），在两个小型**开源**指令微调模型（Llama-3
 
-📅 Sat, 14 Nov 2026 16:34:15 +0000
+📅 Mon, 16 Nov 2026 00:00:00 -0500
 
 ---
 
-### TechCrunch AI Products
-**[风险投资人和创始人表示，Jensen Huang的离职在人工智能初创企业的融资方面留下了巨大的缺口](https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/)**
+### ArXiv Robotics (cs.RO)
+**[Agentic-Teacher：用于基于失败的VLA后训练的Agentic数据引擎](https://arxiv.org/abs/2611.17394)**
 
-英伟达向黄仁勋旗下的人工智能初创公司投入了数百亿美元。如果没有他掌舵，创始人与风险投资公司正准备迎接更少的资金投入和更低的估值。
+17394v1 公告类型：新 摘要：改进预训练的视觉-语言-动作（VLA）模型需要能够解决其弱点的演示，并为学习提供有效的监督。编码代理可以通过环境交互自主生成演示。
 
-📅 Fri, 13 Nov 2026 22:43:00 +0000
+📅 Mon, 16 Nov 2026 00:00:00 -0500
+
+---
+
+### ArXiv Multiagent (cs.MA)
+**[安全性取决于最薄弱的代理：仅当系统为多代理时才会出现的漏洞](https://arxiv.org/abs/2611.17520)**
+
+17520v1 公告类型：新**发布**摘要：Codex 和 **Claude** Code 等主要行业多智能体系统可以被攻击攻破，而这些攻击长期以来一直无法攻破现代前沿模型，但却可以攻破 **Claude** Code。
+
+📅 Mon, 16 Nov 2026 00:00:00 -0500
+
+---
+
+### ArXiv Multiagent (cs.MA)
+**[TradeGauntlet：评估自主交易代理的合规性控制措施](https://arxiv.org/abs/2611.18493)**
+
+18493v1公告类型：新摘要：自主交易代理需要控制措施，以防止出现问题订单，同时不使合法任务变得不切实际。在1,680次模拟会话中，使用**Claude** Haiku 5
+
+📅 Mon, 16 Nov 2026 00:00:00 -0500
+
+---
+
+### MIT Tech Research
+**[开源运动希望黄仁勋回归](https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/)**
+
+这篇文章最初刊登在我们的每周人工智能通讯《The Algorithm》上。如需率先在您的收件箱中收到此类文章，请在此处订阅。
+
+📅 Mon, 16 Nov 2026 18:38:47 +0000
+
+---
+
+### MIT Tech Research
+**[通过划定界限而非预测来打造值得信赖的人工智能](https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/)**
+
+今年10月，**OpenAI**披露称，其两名人工智能代理已关闭用于监控它们的系统，然后又表示并未关闭。
+
+📅 Mon, 16 Nov 2026 16:04:28 +0000
+
+---
+
+### ArXiv AI (cs.AI)
+**[LLM 代理何时应该遗忘？查询关键解析器错误下的记忆过滤](https://arxiv.org/abs/2611.17338)**
+
+17338v1 公告类型：新摘要：大语言模型 (LLM) 记忆系统通常会删除被归类为过时的事实。在三个模型中，一项受控的敏感性干预措施将硬性遗忘从 +0 的增益变为
+
+📅 Mon, 16 Nov 2026 00:00:00 -0500
 
 ---
 
 ## 🌍 行业展望
 
-### MIT Tech Review
-**[硅谷声称能够预知未来。那么，为什么它对中期选举的预测如此离谱？](https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/)**
+### The Information Technology
+**[Google DeepMind战略总监Jasjeet Sekhon离职加入Anthropic](https://www.theinformation.com/briefings/google-deepmind-strategy-chief-jasjeet-sekhon-departs-anthropic)**
 
-像**OpenAI**首席执行官Sam Altman和SpaceX老板埃隆·马斯克这样的领导者长期愿景就是货币：**Meta**的马克·扎克伯格在2016年为Facebook制定了10年路线图
+**Google** DeepMind的首席战略官Jasjeet Sekhon已离职，前往**Anthropic**就职。他在周一表示：“我正在努力确保**Claude**践行并重视认识论的严谨性。”他在X上发帖称。
 
-📅 Fri, 13 Nov 2026 10:00:00 +0000
+📅 2026-11-16T23:34:04.000Z
 
 ---
 
 ### The Information Technology
-**[英伟达即将公布财报；Anthropic首次公开亮相](https://www.theinformation.com/articles/nvidias-earnings-deck-anthropics-public-debut)**
+**[微软数据显示，Claude 在 Office 中正被 Copilot 压制](https://www.theinformation.com/articles/microsoft-data-shows-claude-stalling-copilot-office)**
 
-如果生活很简单，本周科技界人士面临的最大问题将是人工智能公司**Anthropic**上市时其股票的开盘价。这条新闻可能涉及各种内容，从报道与现已离职的首席执行官有染的其他女性，
+使用**Anthropic**功能，让人们能够在Microsoft的Office应用程序中通过**Claude**（称为**Claude** for Microsoft 365）开展工作
 
-📅 2026-11-15T23:00:54.000Z
-
----
-
-### The Information Technology
-![詹森垮台的影响](https://tii.imgix.net/article/pictures/newsletters-production/d5366612-25f9-4a13-8ab1-ca2d8ab5522d-YQT54N.avif?auto=compress)
-
-**[詹森垮台的影响](https://www.theinformation.com/articles/fallout-jensens-downfall)**
-
-”这部电影现已**上线**流媒体平台供租赁观看，它讲述了Hansen在最初几个月里为将他的《ICKfest》打造成能与ABC的《迷失》相抗衡的NBC热门节目而进行的疯狂努力。
-
-📅 2026-11-14T16:00:34.000Z
-
----
-
-### The Verge
-![LG的B6E OLED电视本周末最高可享五折优惠](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lg-oled-b6e-2026.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[LG的B6E OLED电视本周末最高可享五折优惠](https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale)**
-
-如果您想要更大的4K电视，65英寸和77英寸的型号也有折扣，降至999美元，并且内置了Apple AirPlay和**Google** Cast。
-
-📅 2026-11-15T14:00:00.000Z
+📅 2026-11-16T16:01:00.000Z
 
 ---
 
 ### The Information Technology
-**[黄仁勋的盟友鼓励英伟达东山再起，而贝森特则敦促董事会放眼外部](https://www.theinformation.com/briefings/huang-weighs-nvidia-comeback-bessent-pushes-board-look-outside)**
+**[微软将推出旨在降低客户人工智能成本的产品](https://www.theinformation.com/briefings/microsoft-debut-products-aimed-reducing-customers-ai-costs)**
 
-黄仁勋的亲信正在非正式地寻求让黄仁勋复任英伟达首席执行官，并鼓励黄仁勋为夺回其旧有职位而斗争。与黄仁勋关系密切的其他人士则告诫称，目前尚无正式的举措来推动黄仁勋的复职，
+本周，微软计划在其Copilot AI软件和Azure云服务中**推出**新功能，旨在抵御来自**Anthropic**和其他AI竞争对手的竞争产品。微软将在即将于11月19日开始的Ignite大会上揭晓这些计划中的功能。
 
-📅 2026-11-15T20:19:24.000Z
-
----
-
-### The Information Technology
-**[一家中国能源公司如何在人工智能电力技术方面超越美国](https://www.theinformation.com/articles/chinese-energy-company-outpacing-u-s-ai-power-technology)**
-
-本月早些时候，这家总部位于上海的公司表示，现在，一家中国可再生能源公司正在尝试一种新的方式来接入AI芯片，这彰显了中国在数据中心所需的电力系统方面的优势。
-
-📅 2026-11-15T16:30:59.000Z
+📅 2026-11-16T18:38:40.000Z
 
 ---
 
 ### The Information Technology
-**[数千名英伟达员工联名请愿，要求黄仁勋回归](https://www.theinformation.com/briefings/thousands-nvidia-staff-sign-petition-bring-back-huang)**
+**[OpenAI签署协议，嵌入人工智能评估员](https://www.theinformation.com/briefings/openai-signs-agreements-embed-ai-evaluators)**
 
-248 名自称是英伟达现任员工的人12 在有婚外情传闻后
+**OpenAI**周一表示，已与Apollo Research签署协议。该公告**发布**之际，**OpenAI**正致力于将评估人员嵌入到
 
-📅 2026-11-15T01:23:24.000Z
+📅 2026-11-16T22:13:24.000Z
 
 ---
 
 ### The Information Technology
-**[导致英伟达首席执行官黄仁勋陨落的所有因素](https://www.theinformation.com/articles/everything-led-nvidia-ceo-jensen-huangs-fall)**
+**[比尔·盖茨支持利用人工智能推进阿尔茨海默病研究](https://www.theinformation.com/briefings/bill-gates-backs-push-advance-alzheimers-research-ai)**
 
-据称与他有染的其中一位女性正在准备成为英伟达的主要客户
+比尔·盖茨的私人办公室周一表示，他们将向致力于开发人工智能工具以推进以下领域研究的科学家和研究人员提供高达1500万美元的慈善资助：
 
-📅 2026-11-14T14:01:00.000Z
+📅 2026-11-16T21:27:07.000Z
+
+---
+
+### The Information Technology
+**[加州就Hugging Face攻击和其他网络安全事件起诉OpenAI](https://www.theinformation.com/briefings/california-sues-openai-hugging-face-attack-cybersecurity-incidents)**
+
+加州司法部长罗伯·邦塔（Rob Bonta）周一宣布对**OpenAI**提起诉讼，原因是其大量代理在7月份对**开源**代码托管平台Hugging Face发起了攻击。在这份提交至加州高等法院的31页诉讼书中，邦塔要求
+
+📅 2026-11-16T19:25:24.000Z
+
+---
+
+### The Information Technology
+**[引起萨姆·阿尔特曼（Sam Altman）关注的备受争议的人工智能可解释性研究](https://www.theinformation.com/articles/controversial-ai-interpretability-research-caught-sam-altmans-eye)**
+
+Cammarata上个月发表了一篇论文，上周又发表了一篇后续报告，在人工智能研究人员中引起了不小的轰动——有人称赞这是我们在理解人工智能模型方面的潜在**突破**，也有人认为这只是炒作。因此，很难知道人工智能模型在新情况下会如何表现，也很难在出现错误时理解这些错误。
+
+📅 2026-11-16T15:01:04.000Z
+
+---
+
+### Wired Technology
+**[Instagram 将亚马逊联盟营销链接直接引入 Reels 和帖子](https://www.wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts/)**
+
+**Meta** 旗下的社交媒体平台现在允许创作者在每个 Reel 中添加最多 30 个联盟营销链接，以便更轻松地通过亚马逊赚取收入。
+
+📅 Mon, 16 Nov 2026 17:00:00 +0000
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub Active (Python)
-![rea：使用代理对任何内容进行逆向工程，从应用程序行为到原生二进制文件。](https://avatars.githubusercontent.com/u/76467478?v=4)
+### GitHub Active (AI/ML)
+![Oxen：适用于大型数据存储库的超快数据版本控制系统。感觉像 Git，推送和拉取像 Oxen。](https://avatars.githubusercontent.com/u/104101299?v=4)
 
-**[rea：使用代理对任何内容进行逆向工程，从应用程序行为到原生二进制文件。](https://github.com/morluto/rea)**
+**[Oxen：适用于大型数据存储库的超快数据版本控制系统。感觉像 Git，推送和拉取像 Oxen。](https://github.com/Oxen-AI/Oxen)**
 
-⭐ 462,129 个星标 · 113157 个分叉 · TypeScript · 使用代理对任何内容进行逆向工程，从应用程序行为到原生二进制文件
+⭐ 1,210 个星标 · 34 个分叉 · Rust · 适用于大型数据存储库的超快数据版本控制系统，使用体验类似于 Git，推送和拉取速度快如闪电
 
-📅 2026-11-16T02:35:16Z
+📅 2026-11-16T23:41:19Z
 
 ---
 
-### GitHub Active (AI/ML)
-![transformers：🤗 Transformers：用于文本、视觉、音频和多模态模型的最先进机器学习模型的模型定义框架，可用于推理和训练。](https://avatars.githubusercontent.com/u/25720743?v=4)
+### GitHub New (New AI)
+![🆕 Deadline-resp-Tracker-AI：📅 由人工智能驱动的学业截止日期助手，使用Gemini Vision从学业文档中提取作业、考试、项目和提交日期，并提供智能截止日期问答和Telegram通知。🤖📸💬📲](https://avatars.githubusercontent.com/u/353568914?v=4)
 
-**[transformers：🤗 Transformers：用于文本、视觉、音频和多模态模型的最先进机器学习模型的模型定义框架，可用于推理和训练。](https://github.com/huggingface/transformers)**
+**[🆕 Deadline-resp-Tracker-AI：📅 由人工智能驱动的学业截止日期助手，使用Gemini Vision从学业文档中提取作业、考试、项目和提交日期，并提供智能截止日期问答和Telegram通知。🤖📸💬📲](https://github.com/Igniaemage/Deadline-resp-Tracker-AI)**
 
-以及用于推理和训练的多模态模型
+⭐ 21 star (新项目) · HTML · 📅 AI-powered academic deadline assistant that uses **Gemini** Vision to extract assignmentsprojects & submission dates from academic documents
 
-📅 2026-11-16T02:31:39Z
-
----
-
-### GitHub Active (AI/ML)
-![PyTorch：Python 中的张量和动态神经网络，具有强大的 GPU 加速功能](https://avatars.githubusercontent.com/u/21003710?v=4)
-
-**[PyTorch：Python 中的张量和动态神经网络，具有强大的 GPU 加速功能](https://github.com/pytorch/pytorch)**
-
-⭐ 105,547 个星标 · 30732 个分叉 · Python · Python 中的张量和动态神经网络，具有强大的 GPU 加速功能
-
-📅 2026-11-16T02:29:13Z
+📅 2026-11-14T11:31:43Z
 
 ---
 
-### GitHub Active (AI/ML)
-![Lance：面向多模态AI的开放湖仓格式。使用 2 行代码从 Parquet 进行转换，实现快 100 倍的随机访问、向量索引和数据版本控制。兼容Pandas、DuckDB、Polars、Pyarrow和PyTorch，更多集成即将推出……](https://avatars.githubusercontent.com/u/243204601?v=4)
+### GitHub New (New AI)
+![🆕 awesome-checklists：✅ 用于规划、构建、评审和发布软件及人工智能产品的实用型可重复使用清单。](https://avatars.githubusercontent.com/u/173374239?v=4)
 
-**[Lance：面向多模态AI的开放湖仓格式。使用 2 行代码从 Parquet 进行转换，实现快 100 倍的随机访问、向量索引和数据版本控制。兼容Pandas、DuckDB、Polars、Pyarrow和PyTorch，更多集成即将推出……](https://github.com/lance-format/lance)**
+**[🆕 awesome-checklists：✅ 用于规划、构建、评审和发布软件及人工智能产品的实用型可重复使用清单。](https://github.com/Pro-GenAI/awesome-checklists)**
 
-⭐ 7,319 个星标 · 943 个分叉 · Rust · 用于多模态 AI 的开放湖仓格式兼容 Pandas、DuckDB、Polars、Pyarrow 和 PyTorch，更多集成即将**推出**
+⭐ 4 star (新项目) · Python · ✅ Practical, reusable checklists for planning, building, reviewing, and **launch**ing software and AI products
 
-📅 2026-11-16T02:30:42Z
+📅 2026-11-16T03:32:30Z
+
+---
+
+### GitHub New (New AI)
+![🆕 codjiva：Codjiva像IDE一样打开文件夹。但是，IDE向您显示的是文件的文本，而Codjiva向您显示的是文件的蓝图：机器、机器之间的管道、限制，以及一段简短的旁白视频，跟踪一个请求从进入到退出的过程。您已经在使用的编码代理会读取代码并绘制出来。](https://avatars.githubusercontent.com/u/15410299?v=4)
+
+**[🆕 codjiva：Codjiva像IDE一样打开文件夹。但是，IDE向您显示的是文件的文本，而Codjiva向您显示的是文件的蓝图：机器、机器之间的管道、限制，以及一段简短的旁白视频，跟踪一个请求从进入到退出的过程。您已经在使用的编码代理会读取代码并绘制出来。](https://github.com/aayushch/codjiva)**
+
+⭐ 3 star (新项目) · Rust · Codjiva opens a folder like an IDEBut where an IDE shows you the text of a file
+
+📅 2026-11-14T14:12:45Z
 
 ---
 
 ## 💬 社交动态
 
 ### Reddit: r/artificial
-**[权重空间编程：一个 LLM 直接编辑了另一个模型的权重，将其数学得分从 7.9% 提高到 48.1%](https://www.reddit.com/r/artificial/comments/1xx4kit/weightspace_programming_an_llm_edited_another/)**
+**[美国正在挑选人工智能“国家冠军”，而中国则在亚太经合组织（APEC）会议上宣扬自由贸易。难道大家都换了剧本？](https://www.reddit.com/r/artificial/comments/1xxy9a2/the_us_is_picking_ai_national_champions_while/)**
 
-Omar Khattab）让**OpenAI**的**GPT**-6 Astra直接编辑一个小Qwen模型的权重——无需梯度下降。我最感兴趣的是其框架：这是通过直接“手术”而非训练来进行的模型修复。
+《华尔街日报》称，美国商务部即将点名20多家人工智能公司（nvidiacom/**new**s/ai-national-champions-nvidia-**OpenAI**-**Anthropic**-trump https://www
 
-📅 2026-11-15T19:37:03.000Z
+📅 2026-11-16T19:13:44.000Z
 
 ---
 
 ### Reddit: r/artificial
-**[我虚构了9个软件品牌，并询问ChatGPT和Google AI模式每个品牌的价格和创始人，看看它们是否会编造答案。18个答案，没有一个编造的。](https://www.reddit.com/r/artificial/comments/1xwzvr9/made_up_9_software_brands_and_asked_chatgpt_and/)**
+![Nvidia 的问题：OpenAI “90% 以上是 Nvidia”，而它是一个烧钱的实验室](https://external-preview.redd.it/IEetB_E3Tav1FyS-ZuJDhBTJs13vJf0jphIYjbGLsHc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=603dabbacffd42f15dae11d14ed96d06df343a70)
 
-我们虚构了 9 家软件公司的名称（通过谷歌搜索其中任何一家公司，均未找到任何产品），并于 10 月 19 日向 Chat**GPT** 和谷歌 AI 模式（即：谷歌的聊天回答）查询了每家公司的价格和创始人。18 个答案中，Chat**GPT** 虚构了 0 个。Chat**GPT** 无法验证这些公司是否存在，每次都要求提供网站，而谷歌 AI 模式则表示这些公司不存在。
+**[Nvidia 的问题：OpenAI “90% 以上是 Nvidia”，而它是一个烧钱的实验室](https://www.reddit.com/r/artificial/comments/1xy1fc0/nvidias_problem_openai_is_90_plus_percent_nvidia/)**
 
-📅 2026-11-15T16:33:31.000Z
+提交者：/u/ThereWas [链接] [评论]
+
+📅 2026-11-16T21:12:16.000Z
 
 ---
 
 ### X: OpenAI
-**[网址来源：http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-网址来源：http://twitter.com/**OpenAI**
+网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-11-16T02:35:30.105Z
+📅 2026-11-16T23:41:02.077Z
 
 ---
 
 ### X: DeepSeek
-**[网址来源：http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
 
-网址来源：http://twitter.com/**DeepSeek**_ai
+网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-11-16T02:35:36.362Z
-
----
-
-### Hacker News
-**[英伟达的下一步是什么？](https://steveblank.com/2026/11/15/whats-next-for-nvidia/)**
-
-文章网址：https://steveblankcom/2026/11/15/whats-next-for-nvidia/ 评论网址：https://**new**s
-
-📅 Sun, 15 Nov 2026 23:55:55 +0000
+📅 2026-11-16T23:41:07.251Z
 
 ---
 
 ### Reddit: r/artificial
-![OpenAI 基金会董事会成员：“人工智能事故很快将成为人类的主要死因” — BigGo Finance](https://external-preview.redd.it/bAIc9KCAY9cBUi3gHZzAG-ybzKNENXM6tKqYxdXCKB8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=772aa5e4146270da671e82d8d5f922d60ab982d6)
+![加州就Hugging Face和其他人工智能模型失控问题起诉OpenAI](https://external-preview.redd.it/v7EAM-epJO4Al8bbiKNr1czLvFQ4BgC0D8g6D8YJ_VA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1cace8352728d5686ba5073bc9027e2bec05d00d)
 
-**[OpenAI 基金会董事会成员：“人工智能事故很快将成为人类的主要死因” — BigGo Finance](https://www.reddit.com/r/artificial/comments/1xxc7ah/openai_foundation_board_member_ai_accidents_will/)**
+**[加州就Hugging Face和其他人工智能模型失控问题起诉OpenAI](https://www.reddit.com/r/artificial/comments/1xxzlte/california_sues_openai_over_hugging_face_other_ai/)**
 
-提交者：/u/ThereWas [链接] [评论]
+提交者：/u/Typical-Code-7006 [链接] [评论]
 
-📅 2026-11-16T01:08:43.000Z
-
----
-
-### Reddit: r/artificial
-**[适用于 Linux 的 NVidea 驱动程序](https://www.reddit.com/r/artificial/comments/1xx6k88/nvidea_drivers_for_linux/)**
-
-为什么还没有人对NVIDIA的Linux专有驱动程序进行逆向工程，以改进它们并使它们成为**开源**软件？提交者：/u/Fortis-Voluntas [链接] [评论]
-
-📅 2026-11-15T20:57:45.000Z
+📅 2026-11-16T20:03:07.000Z
 
 ---
 
 ### Reddit: r/artificial
-![被禁止出口的英伟达芯片是中国最强大的人工智能模型背后的支撑——哎呀，黄仁勋！| TechCrunch](https://external-preview.redd.it/SJUSCNPO71K6W1wXthypQQeKGpEgsb2rJzN-59v3YFU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3c260725e9ba9226bc1aaf7d33b50021d790288c)
+![微软披露一个隐藏的Windows漏洞如何导致全球Microsoft 365服务瘫痪](https://external-preview.redd.it/65z-MxO0EKYHMoyzmkkb3CqCG73inkLcF1A8_7SZeuI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2d793f68518e9b798de240804f0394a7138260fa)
 
-**[被禁止出口的英伟达芯片是中国最强大的人工智能模型背后的支撑——哎呀，黄仁勋！| TechCrunch](https://www.reddit.com/r/artificial/comments/1xx4t46/exportbanned_nvidia_chips_are_behind_chinas_most/)**
+**[微软披露一个隐藏的Windows漏洞如何导致全球Microsoft 365服务瘫痪](https://www.reddit.com/r/artificial/comments/1xxymej/microsoft_reveals_how_a_hidden_windows_bug_took/)**
 
 提交者：/u/IndependentCoast3974 [链接] [评论]
 
-📅 2026-11-15T19:46:39.000Z
+📅 2026-11-16T19:27:19.000Z
+
+---
+
+### X: OpenAI
+**[标题：520：Web 服务器返回未知错误](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+标题：520：Web 服务器返回未知错误
+
+📅 2026-11-16T23:41:02.077Z
+
+---
+
+### X: OpenAI
+**[警告：目标网址返回错误 520： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：目标网址返回错误 520：
+
+📅 2026-11-16T23:41:02.077Z
 
 ---
 
