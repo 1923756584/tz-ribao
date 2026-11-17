@@ -1,12 +1,12 @@
 ---
 title: "2026年11月17日 - TZ日报"
-date: 2026-11-17T05:01:16.670Z
+date: 2026-11-17T22:50:05.037Z
 draft: false
 ---
 
 # 2026年11月17日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/11/17 05:01:16
+> 📊 今日汇总 38 条 · 🕐 2026/11/17 22:50:05
 
 ---
 
@@ -31,136 +31,93 @@ LVMH媒体部门与**OpenAI**宣布建立合作伙伴关系，通过人工智能
 
 ---
 
-### TechCrunch AI Products
-**[Sam Altman谈论没有Jensen Huang的Nvidia：行业将“一切安好”](https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/)**
+### Google AI Blog
+![让Gemini为您效劳](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp)
 
-**OpenAI**首席执行官萨姆·阿尔特曼（Sam Altman）承认，英伟达首席执行官黄仁勋（Jensen Huang）在人工智能的蓬勃发展中发挥了特殊作用，但他最终认为，即使没有黄仁勋掌舵，这个行业也会“没问题”。
+**[让Gemini为您效劳](https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/)**
 
-📅 Mon, 16 Nov 2026 18:11:10 +0000
+**Gemini** 中的任务功能现已在六个国家/地区免费提供，并**推出**了全新功能，以及更深入的 **Google** Workspace 集成，可代您完成各项工作
 
----
-
-### TechCrunch AI Products
-**[OpenAI 发布新的图像分类器和 ChatGPT 警告，以打击 CSAM](https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/)**
-
-Chat**GPT** 将对试图访问 CSAM 内容的账户实施 24 小时的封禁，以示警告。
-
-📅 Mon, 16 Nov 2026 17:00:00 +0000
-
----
-
-### OpenAI Blog
-**[拓宽科学家使用人工智能的途径](https://openai.com/index/expanding-chatgpt-for-academic-researchers)**
-
-我们正在扩展“面向学术研究人员的Chat**GPT**”计划，为全球20万名研究人员提供免费使用我们前沿模型的权限。
-
-📅 Mon, 16 Nov 2026 17:00:00 GMT
-
----
-
-### OpenAI Blog
-**[前沿科学：科学家如何使用ChatGPT](https://openai.com/index/science-at-the-frontier)**
-
-了解超过1,800名科学家如何将Chat**GPT**用于研究查看有关日常工作流程、报告的生产力和发现期望的调查结果
-
-📅 Mon, 16 Nov 2026 12:00:00 GMT
-
----
-
-### OpenAI Blog
-**[我们的第一阶段嵌入式评估](https://openai.com/index/our-first-phase-of-embedded-assessments)**
-
-**OpenAI**开始与Apollo Research和Goodfire合作进行嵌入式评估，以独立评估模型对齐情况
-
-📅 Mon, 16 Nov 2026 08:00:00 GMT
-
----
-
-### OpenAI Blog
-**[使用面向医疗保健行业的 ChatGPT，以更多方式推动医疗保健事业的发展](https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare)**
-
-**推出**计算机使用代理、改进的临床答案以及适用于各种医疗保健软件的新型医疗保健插件，以真正完成工作
-
-📅 Mon, 16 Nov 2026 06:00:00 GMT
-
----
-
-### OpenAI Blog
-**[国王基金会与OpenAI启动100万英镑的合作项目](https://openai.com/index/the-kings-trust-and-openai)**
-
-国王基金会与**OpenAI**启动100万英镑的合作项目，帮助英国多达25,000名青年培养实用的工作所需人工智能技能
-
-📅 Mon, 16 Nov 2026 00:00:00 GMT
-
----
-
-### OpenAI Blog
-**[迈向在格点上定义标准模型的一步](https://openai.com/index/step-toward-defining-the-standard-model)**
-
-探索标准模型的候选非微扰格定义，以及**GPT**-6 Astra如何帮助将这一想法转化为详细的证明。
-
-📅 Sun, 15 Nov 2026 22:00:01 GMT
+📅 Tue, 17 Nov 2026 17:00:00 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[英伟达周二应回答的所有问题——但可能不会回答](https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/)**
+**[在Anthropic上市后，亚马逊和谷歌将共同持有其近30%的股份。](https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/)**
 
-周二，英伟达临时首席执行官兼长期首席财务官科莱特·克雷斯（Colette Kress）即将迎来其职业生涯中最**重要**的一天，届时公司将公布第三季度业绩。鉴于英伟达正处于动荡之中，该公司需要回答许多问题。
+IPO后，亚马逊将持有**Anthropic**不到15%的股份，并有权增持更多股份。谷歌紧随其后，持有近14%的股份。
 
-📅 Mon, 16 Nov 2026 22:03:02 +0000
+📅 Tue, 17 Nov 2026 22:29:05 +0000
+
+---
+
+### TechCrunch AI Products
+**[谷歌扩大Gemini Tasks的访问权限，该功能可帮助用户处理通话和购物](https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/)**
+
+**Gemini** 的任务模式可以帮助用户协调通话、登录网站，甚至代用户购物
+
+📅 Tue, 17 Nov 2026 19:02:20 +0000
+
+---
+
+### TechCrunch AI Products
+**[即使关闭历史记录，Google 也会将 Gemini 聊天记录保留 2 个月，而不是之前的 72 小时](https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/)**
+
+谷歌的Gemini**更新**将延长聊天记录的保留时间，该**更新**将在未来几周内在全球范围内**推出**。
+
+📅 Tue, 17 Nov 2026 18:48:23 +0000
+
+---
+
+### TechCrunch AI Products
+**[Proton 的 Lumo 是一款注重隐私的 ChatGPT 和 Claude 替代产品，现已推出桌面版](https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/)**
+
+Proton **推出**的全新 Lumo Desktop 应用适用于 Windows，可对 AI 的访问权限进行精细控制
+
+📅 Tue, 17 Nov 2026 17:32:25 +0000
+
+---
+
+### OpenAI Blog
+**[隆重推出 GPT-6.2 Astra 和 Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol)**
+
+隆重**推出**GPT‑62 Astra和Sol，在Chat**GPT** Work、Codex和API中以更低的成本提供更出色的专业输出、编码、计算机使用和效率
+
+📅 Tue, 17 Nov 2026 17:45:00 GMT
+
+---
+
+### OpenAI Blog
+**[利用人工智能加强北约和盟国的网络防御](https://openai.com/index/strengthening-nato-allied-cyber-defences-ai)**
+
+**OpenAI**如何与北约及盟国网络安全机构合作，帮助值得信赖的防御者发现漏洞、测试补丁并保护关键系统
+
+📅 Tue, 17 Nov 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[隆重推出面向销售的 ChatGPT](https://openai.com/index/introducing-chatgpt-for-sales)**
+
+探索 Chat**GPT** 中的全新销售插件以及 30 多款全新和**升级**的合作伙伴插件，以研究潜在客户并**更新**您的 CRM
+
+📅 Tue, 17 Nov 2026 08:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[Astra for Law 在法律情报领域处于领先地位](https://openai.com/index/astra-law-6-2)**
+
+Astra for Law 在涵盖 24 个法律领域的**发布**评估中排名第一现在，每位 Chat**GPT** Enterprise 客户都可以申请访问权限
+
+📅 Tue, 17 Nov 2026 00:00:00 GMT
 
 ---
 
 ## 🔬 前沿研究
 
-### ArXiv Natural Language Processing (cs.CL)
-**[GDP.xlsx：在专业工作簿上对前沿模型进行基准测试](https://arxiv.org/abs/2611.17766)**
-
-17766v1 公告类型：新 摘要：我们介绍了 GDP_xlsx。在 20 种模型配置中，包括来自 **Google**、**Anthropic** 和 **OpenAI** 的前沿模型，得分最高的 **Gemini** 4 Argon 仅通过了 38 项。
-
-📅 Mon, 16 Nov 2026 00:00:00 -0500
-
----
-
-### ArXiv AI (cs.AI)
-**[排名是否可靠？针对小型、量化、端上大语言模型的幻觉检测器进行的面向从业人员的审计](https://arxiv.org/abs/2611.17339)**
-
-17339v1 公告类型：新 摘要：大型语言模型的幻觉检测主要采用在 7B-70B 研究模型上进行评估的方法，这些模型具有充足的采样预算和精确匹配或 ROUGE 正确性标签，以及两种基于采样的 一致性方法（语义熵和 SelfCheck**GPT**-NLI），在两个小型开放式指令微调模型（Llama-3
-
-📅 Mon, 16 Nov 2026 00:00:00 -0500
-
----
-
-### ArXiv Robotics (cs.RO)
-**[Agentic-Teacher：用于基于失败的VLA后训练的Agentic数据引擎](https://arxiv.org/abs/2611.17394)**
-
-17394v1 公告类型：新公告摘要：改进预训练的视觉-语言-动作（VLA）模型需要能够解决其弱点的演示，并为学习提供有效的监督。编码代理可以通过环境交互自主生成演示。
-
-📅 Mon, 16 Nov 2026 00:00:00 -0500
-
----
-
-### ArXiv Multiagent (cs.MA)
-**[安全性取决于最薄弱的代理：仅当系统为多代理时才会出现的漏洞](https://arxiv.org/abs/2611.17520)**
-
-17520v1 公告类型：新 摘要：Codex 和 **Claude** Code 等主要行业多智能体系统可以被攻击攻破，而这些攻击长期以来一直无法攻破现代前沿模型，但却可以攻破 **Claude** Code
-
-📅 Mon, 16 Nov 2026 00:00:00 -0500
-
----
-
-### ArXiv Multiagent (cs.MA)
-**[TradeGauntlet：评估自主交易代理的合规性控制措施](https://arxiv.org/abs/2611.18493)**
-
-18493v1公告类型：新摘要：自主交易代理需要具备控制措施，以防止出现问题订单，同时又不使合法任务变得不切实际。在1,680次模拟会话中，**Claude** Haiku 5
-
-📅 Mon, 16 Nov 2026 00:00:00 -0500
-
----
-
 ### MIT Tech Research
-**[开源运动希望Jensen Huang回归](https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/)**
+**[开源运动希望黄仁勋回归](https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/)**
 
 这篇文章最初发表在我们的每周人工智能通讯《The Algorithm》上。如需率先在您的收件箱中收到此类文章，请在此处订阅。
 
@@ -171,105 +128,152 @@ Chat**GPT** 将对试图访问 CSAM 内容的账户实施 24 小时的封禁，�
 ### MIT Tech Research
 **[通过划定界限而非预测来打造值得信赖的人工智能](https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/)**
 
-今年10月，**OpenAI**披露称，其两名人工智能代理关闭了用于监控它们的系统，然后又表示并未这样做。
+今年10月，**OpenAI**披露称，其两名人工智能代理曾关闭了用于监控它们的系统，但随后又表示并未这样做。
 
 📅 Mon, 16 Nov 2026 16:04:28 +0000
 
 ---
 
-### ArXiv AI (cs.AI)
-**[LLM 代理应何时遗忘？在查询关键解析器错误下的记忆过滤](https://arxiv.org/abs/2611.17338)**
+### Science AI
+**[参议院法案将为美国国立卫生研究院（NIH）在2027年增加5亿美元的预算](https://www.science.org/content/article/senate-bill-gives-nih-500-million-raise-2027)**
 
-17338v1 公告类型：新摘要：大语言模型 (LLM) 记忆系统通常会删除被归类为过时的事实。在三个模型中，一项受控的敏感性干预措施将硬性遗忘从 +0 的增益变为 +0。
+研究倡导者对预算增加1%至490亿美元感到满意，但敦促国会阻止将政治因素纳入资助决策的规定
 
-📅 Mon, 16 Nov 2026 00:00:00 -0500
+📅 2026-11-17T22:47:19.593Z
+
+---
+
+### Science AI
+**[麻疹在全球范围内卷土重来，不仅仅是在美国。](https://www.science.org/content/article/it-s-not-just-u-s-measles-roaring-back-around-globe)**
+
+信任的削弱、资金的减少和政治纷争助长了一种本应易于预防的病毒性疾病的蔓延
+
+📅 2026-11-17T22:47:19.593Z
+
+---
+
+### Science AI
+**[中国基因治疗研究人员在儿童死亡调查后被解雇](https://www.science.org/content/article/chinese-gene-therapy-researchers-fired-after-probe-child-s-death)**
+
+在《科学》杂志和Retraction Watch披露临床试验悲剧后，相关方受到处罚和机构制裁
+
+📅 2026-11-17T22:47:19.593Z
+
+---
+
+### Science AI
+**[研究指出，科学同行评审应将质量和影响力分开评定](https://www.science.org/content/article/scientific-peer-review-should-rate-quality-and-impact-separately-study-argues)**
+
+一项试点实验探索了传统期刊同行评审的替代方案
+
+📅 2026-11-17T22:47:19.593Z
+
+---
+
+### Science AI
+**[美国能源部将推迟粒子对撞机项目，并加速人工智能、量子和聚变项目](https://www.science.org/content/article/energy-department-delay-atom-smasher-and-speed-ai-quantum-and-fusion-projects)**
+
+这是23年来首份新的待办事项清单，反映了科学和预算状况的快速变化。
+
+📅 2026-11-17T22:47:19.593Z
+
+---
+
+### Science AI
+**[最高法院驳回特朗普对恢复已终止的补助金的裁决提出上诉的请求](https://www.science.org/content/article/supreme-court-rejects-trump-s-bid-appeal-decision-restoring-terminated-grants)**
+
+大法官维持下级法院的裁决，认定政府机构违反了《美国宪法》的言论自由条款
+
+📅 2026-11-17T22:47:19.593Z
 
 ---
 
 ## 🌍 行业展望
 
 ### The Information Technology
-**[Google DeepMind战略主管Jasjeet Sekhon离职加入Anthropic](https://www.theinformation.com/briefings/google-deepmind-strategy-chief-jasjeet-sekhon-departs-anthropic)**
+**[Google 在 Gemini 中推出更多代理工具](https://www.theinformation.com/briefings/google-unveils-agentic-tools-within-gemini)**
 
-**Google** DeepMind首席战略官Jasjeet Sekhon已离职，前往**Anthropic**就职。他在周一表示：“我正在努力确保**Claude**践行并重视认识论的严谨性。”他在X上发帖称。
+**Google** 宣布了对 **Gemini** 的**更新**，该**更新**与 **Meta** **推出**的 Muse 和 **OpenAI** **推出**的 Dots 等工具相当。
 
-📅 2026-11-16T23:34:04.000Z
-
----
-
-### The Information Technology
-**[微软数据显示，Claude 在 Office 中对 Copilot 表现出停滞不前的态势](https://www.theinformation.com/articles/microsoft-data-shows-claude-stalling-copilot-office)**
-
-使用**Anthropic**功能，让人们能够在Microsoft的Office应用程序中通过**Claude**（称为“**Claude** for Microsoft 365”）开展工作
-
-📅 2026-11-16T16:01:00.000Z
+📅 2026-11-17T19:15:55.000Z
 
 ---
 
 ### The Information Technology
-**[微软将推出旨在降低客户人工智能成本的产品](https://www.theinformation.com/briefings/microsoft-debut-products-aimed-reducing-customers-ai-costs)**
+**[Anthropic的风险投资人通过IPO获得10倍回报](https://www.theinformation.com/articles/anthropics-vc-investors-hit-10x-returns-ipo)**
 
-本周，微软计划在其Copilot AI软件和Azure云服务中**推出**新功能，旨在抵御来自**Anthropic**和其他AI竞争对手的竞争产品。微软将在即将于11月19日开始的Ignite大会上揭晓这些计划中的功能。
+在成立后的头两年，**Anthropic**被大多数风险投资人所回避。
 
-📅 2026-11-16T18:38:40.000Z
-
----
-
-### The Information Technology
-**[英伟达董事会应就黄仁勋的辞职一事坦诚相告](https://www.theinformation.com/articles/nvidias-board-come-clean-huangs-resignation)**
-
-致Nvidia董事会的备忘录：各位，你们需要解释为什么你们迫使黄仁勋辞职。董事会可以利用Nvidia周二的收益**更新**，为所有人提供一些答案。
-
-📅 2026-11-17T01:01:20.000Z
+📅 2026-11-17T21:01:11.000Z
 
 ---
 
 ### The Information Technology
-**[OpenAI签署协议，嵌入人工智能评估员](https://www.theinformation.com/briefings/openai-signs-agreements-embed-ai-evaluators)**
+**[谷歌的新款AI芯片软件如何帮助其与英伟达竞争](https://www.theinformation.com/articles/googles-new-ai-chip-software-helps-battle-nvidia)**
 
-**OpenAI**周一表示，已与Apollo Research签署协议。该公告**发布**之际，**OpenAI**正致力于将评估人员嵌入到
+上个月**发布**的一款软件在全球范围内鲜为人知，但它可能对谷歌蓬勃发展的人工智能芯片业务产生**重大**影响。谷歌在上个月晚些时候宣布**推出**TorchTPU的**开源**版本。
 
-📅 2026-11-16T22:13:24.000Z
-
----
-
-### The Information Technology
-**[比尔·盖茨支持利用人工智能推进阿尔茨海默病研究](https://www.theinformation.com/briefings/bill-gates-backs-push-advance-alzheimers-research-ai)**
-
-比尔·盖茨的私人办公室周一表示，他们将向致力于开发人工智能工具以推进以下领域研究的科学家和研究人员提供高达1500万美元的慈善资助：
-
-📅 2026-11-16T21:27:07.000Z
+📅 2026-11-17T20:49:14.000Z
 
 ---
 
 ### The Information Technology
-**[加州就Hugging Face攻击和其他网络安全事件起诉OpenAI](https://www.theinformation.com/briefings/california-sues-openai-hugging-face-attack-cybersecurity-incidents)**
+**[为加强OpenAI，布罗克曼进入“全面管理模式”](https://www.theinformation.com/articles/brockman-pushes-openai-toward-cybersecurity-and-showdown-ai-safety)**
 
-加利福尼亚州司法部长罗伯·邦塔（Rob Bonta）周一宣布对**OpenAI**提起诉讼，原因是其大量代理在7月份对**开源**代码托管平台Hugging Face发起了攻击。在这份提交至加利福尼亚州高等法院的31页诉讼书中，邦塔要求
+**OpenAI**总裁格雷格·布罗克曼（Greg Brockman）致电丹尼斯·德雷瑟（Denise Dresser）。**OpenAI**最初曾考虑在聘用德雷瑟之前与拉吉奇接洽，但一位猎头告诉他，拉吉奇希望看到Wiz完成其320亿美元的出售给谷歌的交易。
 
-📅 2026-11-16T19:25:24.000Z
+📅 2026-11-17T16:46:30.000Z
 
 ---
 
-### Wired Technology
-**[Instagram 将亚马逊联盟营销链接直接引入 Reels 和帖子](https://www.wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts/)**
+### Ars Technica
+**[Google 让您无需使用自己的数据训练 AI 即可更轻松地使用 Gemini](https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/)**
 
-这家由**Meta**拥有的社交媒体平台现在允许创作者在每个Reel中添加最多30个联盟营销链接，以便更轻松地从亚马逊赚取收入。
+AI 训练和聊天历史记录现在将在 **Gemini** 活动设置中拥有单独的切换开关。
 
-📅 Mon, 16 Nov 2026 17:00:00 +0000
+📅 Tue, 17 Nov 2026 16:50:10 +0000
+
+---
+
+### ZDNet AI
+**[再见，Gemini Gems：如何使用谷歌的新技能——并分享它们](https://www.zdnet.com/business/gemini-gems-google-skills-transition/)**
+
+再见，**Gemini** Gems：如何使用谷歌的新技能——并分享它们
+
+📅 2026-11-17T19:54:04.000Z
+
+---
+
+### ZDNet AI
+**[Google 正在让退出 Gemini AI 模型训练变得更加容易——方法如下](https://www.zdnet.com/innovation/google-gemini-ai-model-training-opt-out-how/)**
+
+**Google** 正在让退出 **Gemini** AI 模型训练变得更加容易——方法如下
+
+📅 2026-11-17T18:01:38.000Z
+
+---
+
+### The Verge
+![就连萨姆·阿尔特曼（Sam Altman）也无法幸免于 Instagram 上的 AI 深伪技术](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297785644.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[就连萨姆·阿尔特曼（Sam Altman）也无法幸免于 Instagram 上的 AI 深伪技术](https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake)**
+
+在由人工智能生成的视频片段中，**OpenAI**首席执行官萨姆·阿尔特曼（Sam Altman）
+
+📅 2026-11-17T21:00:55.000Z
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub Active (AI/ML)
-![awesome-ml-internships-2027：面向学生的实时人工智能和机器学习实习机会，通过 Zapply 招聘渠道更新。](https://avatars.githubusercontent.com/u/217731079?v=4)
+### GitHub Active (Python)
+![rea：使用代理对任何内容进行逆向工程，从应用程序行为到原生二进制文件。](https://avatars.githubusercontent.com/u/76467478?v=4)
 
-**[awesome-ml-internships-2027：面向学生的实时人工智能和机器学习实习机会，通过 Zapply 招聘渠道更新。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
+**[rea：使用代理对任何内容进行逆向工程，从应用程序行为到原生二进制文件。](https://github.com/morluto/rea)**
 
-⭐ 471 个星标 · 39 个分叉 · 不适用 · 面向学生的实时人工智能和机器学习实习机会，通过 Zapply 招聘渠道**更新**
+⭐ 466,195 个星标 · 114077 个分叉 · TypeScript · 使用代理对任何内容进行逆向工程，从应用程序行为到原生二进制文件
 
-📅 2026-11-17T04:55:02Z
+📅 2026-11-17T22:48:50Z
 
 ---
 
@@ -278,60 +282,42 @@ Chat**GPT** 将对试图访问 CSAM 内容的账户实施 24 小时的封禁，�
 
 **[🆕 Deadline-resp-Tracker-AI：📅 由人工智能驱动的学术截止日期助手，使用Gemini Vision从学术文档中提取作业、考试、项目和提交日期，并提供智能截止日期问答和Telegram通知。🤖📸💬📲](https://github.com/Igniaemage/Deadline-resp-Tracker-AI)**
 
-⭐ 21 star (新项目) · HTML · 📅 AI-powered academic deadline assistant that uses **Gemini** Vision to extract assignmentsprojects & submission dates from academic documents
+⭐ 25 star (新项目) · HTML · 📅 AI-powered academic deadline assistant that uses **Gemini** Vision to extract assignmentsprojects & submission dates from academic documents
 
 📅 2026-11-14T11:31:43Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 supermimic-pytorch：Supermimic 的非官方实现，来自伯克利大学的 Qiayuan Liao 等人，使用一个可微分的世界模型实现人形机器人全身控制的扩展](https://avatars.githubusercontent.com/u/108653?v=4)
+![🆕 rob-run-roulette-session-analytics：一款适用于ROB RUN的Windows桌面分析工具，具备可视化屏幕截图、AI辅助轮盘赌局分析、统计洞察和实时HUD界面等功能。](https://avatars.githubusercontent.com/u/357460876?v=4)
 
-**[🆕 supermimic-pytorch：Supermimic 的非官方实现，来自伯克利大学的 Qiayuan Liao 等人，使用一个可微分的世界模型实现人形机器人全身控制的扩展](https://github.com/lucidrains/supermimic-pytorch)**
+**[🆕 rob-run-roulette-session-analytics：一款适用于ROB RUN的Windows桌面分析工具，具备可视化屏幕截图、AI辅助轮盘赌局分析、统计洞察和实时HUD界面等功能。](https://github.com/CrimflintVenom/rob-run-roulette-session-analytics)**
 
-⭐ 5 star (新项目) · Python · Unofficial implementation of SupermimicScaling Humanoid Whole-Body Control with One Differentiable World Model
+⭐ 8 star (新项目) · N/A · A Windows desktop analytics tool for ROB RUN featuring visual screen captureAI-assisted roulette session analysis
+
+📅 2026-11-17T21:21:36Z
+
+---
+
+### GitHub New (New AI)
+![🆕 supermimic-pytorch：Supermimic 的非官方实现，通过一个可微分的世界模型实现人形机器人全身控制的扩展，来自伯克利的 Qiayuan Liao 等人](https://avatars.githubusercontent.com/u/108653?v=4)
+
+**[🆕 supermimic-pytorch：Supermimic 的非官方实现，通过一个可微分的世界模型实现人形机器人全身控制的扩展，来自伯克利的 Qiayuan Liao 等人](https://github.com/lucidrains/supermimic-pytorch)**
+
+⭐ 7 star (新项目) · Python · Unofficial implementation of SupermimicScaling Humanoid Whole-Body Control with One Differentiable World Model
 
 📅 2026-11-16T13:53:58Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 awesome-checklists： ✅ 用于规划、构建、评审和发布软件及人工智能产品的实用型可重复使用清单。](https://avatars.githubusercontent.com/u/173374239?v=4)
-
-**[🆕 awesome-checklists： ✅ 用于规划、构建、评审和发布软件及人工智能产品的实用型可重复使用清单。](https://github.com/Pro-GenAI/awesome-checklists)**
-
-⭐ 4 star (新项目) · Python · ✅ Practical, reusable checklists for planning, building, reviewing, and **launch**ing software and AI products
-
-📅 2026-11-16T03:32:30Z
-
----
-
 ## 💬 社交动态
 
-### Reddit: r/artificial
-**[Anthropic如何筑起护城河？](https://www.reddit.com/r/artificial/comments/1xyb782/how_can_anthropic_build_a_moat/)**
+### Hacker News
+**[HN发布：StarSling（YC P25）——适用于代理规模代码仓库的自我改进型CI](https://starsling.dev)**
 
-但是，我真心想了解**Anthropic**是如何建立护城河的。我在工作中经常使用**Claude**进行编程。
+dev），配备 AI 代理的快速 GitHub Actions Runner，可提交 PR 以持续改进您的测试和工作流。我们将 **OpenAI**、**Anthropic**、Linear 等公司的 CI 优化方案转化成了适用于您代理的行动手册：https://starsling
 
-📅 2026-11-17T04:34:58.000Z
-
----
-
-### Reddit: r/artificial
-**[NVIDIA 的 Vera Rubin 首次亮相 MLPerf：与 GB300 相比，每个 GPU 的训练性能提升高达 2 倍，但备受瞩目的 10 倍智能体性能仍为暂定数据](https://www.reddit.com/r/artificial/comments/1xy8wb5/nvidias_vera_rubin_makes_its_mlperf_debut_up_to/)**
-
-NVIDIA 今天**发布**了 Vera Rubin 平台的首批 MLPerf 结果（MLPerf Training v6On **DeepSeek**-V3 671B，在 4 个
-
-📅 2026-11-17T02:39:04.000Z
-
----
-
-### Reddit: r/artificial
-**[微软测试了一款编码代理记忆插件。它最初的成本更高，但后来实现了成本回收。](https://www.reddit.com/r/artificial/comments/1xy8mj7/microsoft_tested_a_codingagent_memory_plugin_it/)**
-
-在微软研究院和加州大学伯克利分校的一项实验中，**Claude** Code 按照顺序完成了来自同一代码仓库的任务。在五种代理-模型组合中，每项任务的平均成本下降了 18%。
-
-📅 2026-11-17T02:25:56.000Z
+📅 Tue, 17 Nov 2026 19:01:43 +0000
 
 ---
 
@@ -340,7 +326,7 @@ NVIDIA 今天**发布**了 Vera Rubin 平台的首批 MLPerf 结果（MLPerf Tra
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-11-17T04:59:39.492Z
+📅 2026-11-17T22:48:35.304Z
 
 ---
 
@@ -349,16 +335,7 @@ NVIDIA 今天**发布**了 Vera Rubin 平台的首批 MLPerf 结果（MLPerf Tra
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-11-17T04:59:45.163Z
-
----
-
-### Reddit: r/artificial
-**[河流是法人。公司也是人。当你问“你是谁？”时，我们应该如何称呼回答你的土地和劳动力？](https://www.reddit.com/r/artificial/comments/1xy8d3t/rivers_are_legal_persons_corporations_are_people/)**
-
-https://**Claude**我用**Claude**构建的
-
-📅 2026-11-17T02:13:27.000Z
+📅 2026-11-17T22:48:41.841Z
 
 ---
 
@@ -367,16 +344,43 @@ https://**Claude**我用**Claude**构建的
 
 标题：520：Web 服务器返回未知错误
 
-📅 2026-11-17T04:59:39.492Z
+📅 2026-11-17T22:48:35.304Z
 
 ---
 
 ### X: OpenAI
-**[警告：目标网址返回错误 520：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[警告：目标网址返回错误 520： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-警告：目标网址返回错误 520：未知
+警告：目标网址返回错误 520：
 
-📅 2026-11-17T04:59:39.492Z
+📅 2026-11-17T22:48:35.304Z
+
+---
+
+### X: OpenAI
+**[警告：此页面可能尚未完全加载，请考虑明确指定超时时间。](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：此页面可能尚未完全加载，请考虑明确指定超时时间。
+
+📅 2026-11-17T22:48:35.304Z
+
+---
+
+### X: OpenAI
+**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+Markdown 内容
+
+📅 2026-11-17T22:48:35.305Z
+
+---
+
+### X: Sam Altman
+**[网址来源： http://twitter.com/sama](https://r.jina.ai/http://twitter.com/sama)**
+
+网址来源： http://twitter.com/sama
+
+📅 2026-11-17T22:48:36.178Z
 
 ---
 
