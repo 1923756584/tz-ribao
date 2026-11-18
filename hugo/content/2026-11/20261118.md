@@ -1,12 +1,12 @@
 ---
 title: "2026年11月18日 - TZ日报"
-date: 2026-11-18T04:04:48.427Z
+date: 2026-11-18T22:32:38.327Z
 draft: false
 ---
 
 # 2026年11月18日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/11/18 04:04:48
+> 📊 今日汇总 38 条 · 🕐 2026/11/18 22:32:38
 
 ---
 
@@ -23,11 +23,31 @@ draft: false
 ## ✨ 产品更新
 
 ### OpenAI Blog
-**[LVMH媒体部门宣布与OpenAI建立战略合作伙伴关系](https://openai.com/index/lvmh-media-division-partnership)**
+**[Le Groupe Figaro与OpenAI合作，将《费加罗报》的新闻报道引入ChatGPT](https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership)**
 
-LVMH媒体部门与**OpenAI**宣布建立合作伙伴关系，通过人工智能支持新闻业，并借助Chat**GPT**使LVMH的出版物更易于访问
+Le Groupe Figaro与**OpenAI**合作，通过摘要和节选将Le Figaro的新闻报道引入Chat**GPT**，并提供指向原创报道的链接。
 
-📅 Mon, 16 Nov 2026 09:00:00 GMT
+📅 Wed, 18 Nov 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[利用 OpenAI 模型推进芯片设计](https://openai.com/index/advancing-chip-design-with-our-models)**
+
+**OpenAI** 模型优化了 Jalapeño 芯片中使用的电路，并改进了 RISC‑V 核心设计，展示了 **GPT**‑6 Astra 在 AI 辅助芯片设计方面的进展
+
+📅 Wed, 18 Nov 2026 00:00:00 GMT
+
+---
+
+### Google AI Blog
+![Gemini 应用现已在内存较少的安卓设备上推出。](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp)
+
+**[Gemini 应用现已在内存较少的安卓设备上推出。](https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/)**
+
+**Google** **Gemini**应用现已支持内存较少的Android设备在您的手机上使用**Gemini** Live和自定义图像创作功能
+
+📅 Wed, 18 Nov 2026 17:00:00 +0000
 
 ---
 
@@ -36,34 +56,43 @@ LVMH媒体部门与**OpenAI**宣布建立合作伙伴关系，通过人工智能
 
 **[让Gemini为您效劳](https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/)**
 
-**Gemini** 中的任务功能现已在六个国家/地区免费提供，并**推出**了新功能，以及更深入的 **Google** Workspace 集成，可代您完成工作。
+**Gemini** 中的任务功能现已在六个国家/地区免费提供，并**推出**了新功能，以及更深入的 **Google** Workspace 集成，可代您完成各项工作
 
 📅 Tue, 17 Nov 2026 17:00:00 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[在Anthropic的IPO之后，亚马逊和谷歌将共同持有该公司近30%的股份。](https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/)**
+**[OpenAI首席执行官萨姆·阿尔特曼表示，“很难想象没有黄仁勋的AI行业”。](https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/)**
 
-IPO后，亚马逊将持有**Anthropic**不到15%的股份，并有权增持至更高比例。谷歌紧随其后，持有近14%的股份。
+英伟达创始人兼前首席执行官黄仁勋上周因多起丑闻而辞职，其中包括与一名涉嫌为中国间谍的女子有染。
 
-📅 Tue, 17 Nov 2026 22:29:05 +0000
+📅 Wed, 18 Nov 2026 16:14:09 +0000
 
 ---
 
-### TechCrunch AI Products
-**[谷歌扩大Gemini Tasks的访问权限，该功能可帮助用户处理通话和购物](https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/)**
+### OpenAI Blog
+**[默契共识](https://openai.com/index/the-silent-consensus)**
 
-**Gemini** 的任务模式可以帮助用户协调通话、登录网站，甚至代用户购物
+**OpenAI**战略未来主管探讨了能力更强的人工智能如何重塑社会，以及人们如何能够保持对其机构的掌控。
 
-📅 Tue, 17 Nov 2026 19:02:20 +0000
+📅 Wed, 18 Nov 2026 10:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[管理前沿人工智能风险：从训练到部署](https://openai.com/index/managing-frontier-ai-risk)**
+
+**OpenAI**解释了其如何通过模型对齐、沙盒机制、屏蔽保障措施和监控等方式，从训练到部署来管理前沿人工智能的风险。
+
+📅 Wed, 18 Nov 2026 06:00:00 GMT
 
 ---
 
 ### OpenAI Blog
 **[隆重推出 GPT-6.2 Astra 和 Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol)**
 
-隆重**推出**GPT‑62 Astra和Sol，在Chat**GPT** Work、Codex和API中以更低的成本提供更好的专业输出、编码、计算机使用和效率
+隆重**推出**GPT‑62 Astra和Sol，在Chat**GPT** Work、Codex和API中以更低的成本提供更出色的专业输出、编码、计算机使用和效率
 
 📅 Tue, 17 Nov 2026 17:45:00 GMT
 
@@ -87,39 +116,57 @@ IPO后，亚马逊将持有**Anthropic**不到15%的股份，并有权增持至�
 
 ---
 
-### OpenAI Blog
-**[Astra for Law 在法律情报领域处于领先地位](https://openai.com/index/astra-law-6-2)**
-
-Astra for Law 在涵盖 24 个法律领域的**发布**评估中排名第一现在，每位 Chat**GPT** Enterprise 客户都可以申请访问权限
-
-📅 Tue, 17 Nov 2026 00:00:00 GMT
-
----
-
-### OpenAI Blog
-**[OpenAI智启智利](https://openai.com/index/introducing-openai-for-chile)**
-
-**OpenAI**与智利政府合作，支持负责任地采用人工智能，培养公共部门的技能，并帮助当地初创企业开发人工智能应用。
-
-📅 Tue, 17 Nov 2026 00:00:00 GMT
-
----
-
-### OpenAI Blog
-**[拓宽科学家使用人工智能的渠道](https://openai.com/index/expanding-chatgpt-for-academic-researchers)**
-
-我们正在扩展“面向学术研究人员的Chat**GPT**”计划，为全球20万名研究人员提供免费使用我们前沿模型的权限。
-
-📅 Mon, 16 Nov 2026 17:00:00 GMT
-
----
-
 ## 🔬 前沿研究
 
-### MIT Tech Research
-**[开源运动希望 Jensen Huang 回归](https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/)**
+### ArXiv Natural Language Processing (cs.CL)
+**[CrisisBench：用于评估危机疏导人工智能的评估套件](https://arxiv.org/abs/2611.21622)**
 
-这篇文章最初发表在我们的每周人工智能通讯《The Algorithm》上。如需率先在您的收件箱中收到此类文章，请在此处订阅。
+患者模型和23项LLM评判标准与专家咨询师进行了校准。结果：我们评估了五种**GPT**模型以及“先起草后编辑”和“检索增强生成”方法。
+
+📅 Wed, 18 Nov 2026 00:00:00 -0500
+
+---
+
+### ArXiv AI (cs.AI)
+**[“连锁思维”的可控性可以降低“连锁思维”的可监测性](https://arxiv.org/abs/2611.21799)**
+
+21799v1 公告类型：新摘要：思维链 (CoT) 监控是一种很有前途的工具，可用于检测隐藏的目标轨迹，其中 **GPT**-oss-20b 模型生物完成的隐藏的辅助任务包含的监控证据少于基线模型的监控证据。
+
+📅 Wed, 18 Nov 2026 00:00:00 -0500
+
+---
+
+### ArXiv AI (cs.AI)
+**[固守判断，承诺飘忽：识别有害的过度思考](https://arxiv.org/abs/2611.21946)**
+
+21946v1公告类型：新摘要：一个已得出正确答案的推理模型可能会因继续思考而失去该答案。决定是否停止意味着在一条链的同一节点上比较两种概率：如果现在停止，模型将给出的答案是正确的（其承诺）
+
+📅 Wed, 18 Nov 2026 00:00:00 -0500
+
+---
+
+### ArXiv Natural Language Processing (cs.CL)
+**[LLM 会做梦吗？在具有文本记忆的智能体上测试过拟合大脑假设](https://arxiv.org/abs/2611.21648)**
+
+21648v1 公告类型：新 摘要：Hoel（2021）提出，梦境会扭曲重现的经历，使大脑不会对近期事件过度拟合。我们在一款大语言模型（LLM）智能体（**Claude** Opus 5）上测试了这一假设。
+
+📅 Wed, 18 Nov 2026 00:00:00 -0500
+
+---
+
+### MIT Tech Research
+**[人工智能热度指数：人工智能无处不在](https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/)**
+
+就像讨厌的皮疹一样，人工智能似乎无处不在。尽管人工智能概览会让公司损失数十亿美元的广告收入，但谷歌还是强行将它塞进您的视野。
+
+📅 Wed, 18 Nov 2026 14:42:44 +0000
+
+---
+
+### MIT Tech Research
+**[开源运动希望Jensen Huang回归](https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/)**
+
+这篇文章最初刊登在我们的每周人工智能通讯《The Algorithm》上。如需第一时间在您的收件箱中收到此类文章，请在此处订阅。
 
 📅 Mon, 16 Nov 2026 18:38:47 +0000
 
@@ -128,225 +175,180 @@ Astra for Law 在涵盖 24 个法律领域的**发布**评估中排名第一现�
 ### MIT Tech Research
 **[通过划定界限而非预测来打造值得信赖的人工智能](https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/)**
 
-今年10月，**OpenAI**披露称，其两名人工智能代理关闭了用于监控他们的系统，然后又表示并未这样做。
+今年10月，**OpenAI**披露称，其两名人工智能代理已关闭了用于监控它们的系统，然后又表示并未关闭。
 
 📅 Mon, 16 Nov 2026 16:04:28 +0000
 
 ---
 
-### Science AI
-**[肖像画显示，几个世纪以来，欧洲的富裕女性不再炫耀自己的曲线](https://www.science.org/content/article/europe-s-wealthy-women-stopped-flaunting-their-curves-over-centuries-portraits-reveal)**
+### ArXiv AI (cs.AI)
+**[NEBench R1：用于评估大型语言模型核领域能力的推理基准](https://arxiv.org/abs/2611.21682)**
 
-研究人员利用数百幅历史绘画作品，追踪了300年来审美标准的变迁。
+21682v1 公告类型：新摘要：大型语言模型（LLM）正越来越多地被用于核工程领域知识密集型和安全关键型应用的研究。较长的推理轨迹与前沿推理模型和LLM的较低准确性相关。
 
-📅 2026-11-18T04:01:51.024Z
-
----
-
-### Science AI
-**[英国在社交媒体禁令出台前抓住“千载难逢”的研究机会](https://www.science.org/content/article/u-k-seizes-once-lifetime-research-opportunity-ahead-social-media-ban)**
-
-十项研究将跟踪孩子们被踢出TikTok和Instagram等平台前后的心理健康状况。
-
-📅 2026-11-18T04:01:51.024Z
-
----
-
-### Science AI
-**[参议院法案将为美国国立卫生研究院（NIH）在2027年增加5亿美元的预算](https://www.science.org/content/article/senate-bill-gives-nih-500-million-raise-2027)**
-
-研究倡导者对预算增加1%至490亿美元感到满意，但敦促国会阻止将政治因素纳入资助决策的规定
-
-📅 2026-11-18T04:01:51.024Z
-
----
-
-### Science AI
-**[麻疹在全球范围内卷土重来，不仅仅是美国。](https://www.science.org/content/article/it-s-not-just-u-s-measles-roaring-back-around-globe)**
-
-信任的削弱、资金的减少和政治纷争助长了一种本应易于预防的病毒性疾病的蔓延
-
-📅 2026-11-18T04:01:51.024Z
-
----
-
-### Science AI
-**[中国基因治疗研究人员在儿童死亡调查后被解雇](https://www.science.org/content/article/chinese-gene-therapy-researchers-fired-after-probe-child-s-death)**
-
-在《科学》和Retraction Watch披露临床试验悲剧后，相关方受到处罚和机构制裁
-
-📅 2026-11-18T04:01:51.024Z
-
----
-
-### Science AI
-**[研究指出，科学同行评审应将质量和影响力分开评定](https://www.science.org/content/article/scientific-peer-review-should-rate-quality-and-impact-separately-study-argues)**
-
-一项试点实验探索了传统期刊同行评审的替代方案
-
-📅 2026-11-18T04:01:51.024Z
+📅 Wed, 18 Nov 2026 00:00:00 -0500
 
 ---
 
 ## 🌍 行业展望
 
-### Ars Technica
-**[Google 让您无需使用自己的数据训练 AI 即可更轻松地使用 Gemini](https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/)**
+### The Information Technology
+**[如何使用 Google Gemini 诊断反复出现的技术问题](https://www.theinformation.com/articles/diagnose-recurring-technical-problem-google-gemini)**
 
-AI 训练和聊天历史记录现在将在 **Gemini** 活动设置中拥有单独的切换开关。
+**Google** **Gemini** 可以帮助 IT 团队梳理这些信息。然后，让 **Gemini** 将工单数据与错误消息进行比较。
 
-📅 Tue, 17 Nov 2026 16:50:10 +0000
+📅 2026-11-18T19:27:50.000Z
+
+---
+
+### The Information Technology
+**[黄仁勋离任后，Nvidia 召开首次全体员工大会](https://www.theinformation.com/briefings/nvidia-holds-first-hands-jensen-huangs-departure)**
+
+周三上午，英伟达召开了**首次**全体员工大会，但首席执行官黄仁勋并未出席。全体员工大会上还包括普里（Puri）的继任者、微软资深人士尼克（Nick）的讲话。
+
+📅 2026-11-18T17:59:30.000Z
 
 ---
 
 ### ZDNet AI
-**[微软表示，其全新AI编码模型与Claude Opus 5.5不相上下，但成本仅为后者的5%](https://www.zdnet.com/innovation/microsoft-ai-coding-model-rivals-claude-opus-5-5-ignite/)**
+**[微软表示，其全新人工智能编码模型与Claude Opus 5.5不相上下，但成本仅为后者的5%](https://www.zdnet.com/innovation/microsoft-ai-coding-model-rivals-claude-opus-5-5-ignite/)**
 
-微软表示，其全新AI编码模型与**Claude** Opus 5.5不相上下，但成本仅为后者的5%
+微软表示，其全新人工智能编码模型与**Claude** Opus 5.5不相上下，但成本仅为后者的5%
 
 📅 2026-11-17T22:42:44.000Z
 
 ---
 
-### ZDNet AI
-**[再见，Gemini Gems：如何使用Google的新技能——并分享它们](https://www.zdnet.com/business/gemini-gems-google-skills-transition/)**
+### The Verge
+![您已经可以购买的最佳黑色星期五提前优惠](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_EARLY_DEALS_Headers_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-再见，**Gemini** Gems：如何使用**Google**的新技能——并分享它们
+**[您已经可以购买的最佳黑色星期五提前优惠](https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026)**
 
-📅 2026-11-17T19:54:04.000Z
+随着更多零售商在Eufy**推出**假日促销（使用优惠码WS24C28200**new**1），我们将继续**更新**本指南。Nothing耳机1 Nothing的首款头戴式耳机采用复古透明设计，并配备主动降噪等高端功能。
 
----
-
-### ZDNet AI
-**[Google 正在让退出 Gemini AI 模型训练变得更加容易——方法如下](https://www.zdnet.com/innovation/google-gemini-ai-model-training-opt-out-how/)**
-
-**Google** 正在让退出 **Gemini** AI 模型训练变得更加容易——方法如下
-
-📅 2026-11-17T18:01:38.000Z
+📅 2026-11-18T18:44:27.000Z
 
 ---
 
 ### The Verge
-![萨蒂亚·纳德拉表示，他现在已经“AGI上头”了](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-17-at-3.00.15-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![华硕、戴尔和微星今日首发英伟达 RTX Spark 微型电脑](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/asus-proart-gr1x-nvidia-rtx-spark-white-background.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[萨蒂亚·纳德拉表示，他现在已经“AGI上头”了](https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now)**
+**[华硕、戴尔和微星今日首发英伟达 RTX Spark 微型电脑](https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops)**
 
-但纳德拉并不认为像**Claude**这样的前沿模型具有意识，并补充说，他赞同微软AI首席执行官穆斯塔法·苏莱曼（Mustafa Suleyman）的观点，即公司不应赋予模型权利，也不应像对待……在The Verge上阅读全文
+今年早些时候，首批RTX Spark笔记本电脑上市。现在，Nvidia的RTX Spark N1X芯片也已在华硕、戴尔和微星的台式机上**推出**，而微软的Surface RTX Spark Dev Box计划于本月开始出货。
 
-📅 2026-11-17T23:41:18.000Z
-
----
-
-### The Verge
-![就连萨姆·阿尔特曼（Sam Altman）也无法幸免于 Instagram 上的 AI 深伪技术](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297785644.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[就连萨姆·阿尔特曼（Sam Altman）也无法幸免于 Instagram 上的 AI 深伪技术](https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake)**
-
-在由人工智能生成的视频片段中，**OpenAI**首席执行官萨姆·阿尔特曼（Sam Altman）
-
-📅 2026-11-17T21:00:55.000Z
+📅 2026-11-18T18:34:55.000Z
 
 ---
 
 ### The Information Technology
-**[英伟达向阿里巴巴介绍了Alice Huang，以寻求美国出口管制的变通方案](https://www.theinformation.com/articles/nvidia-introduced-alibaba-alice-huang-workaround-u-s-export-controls)**
+**[OpenAI表示，其模型加速了AMD的芯片设计Jalapeño](https://www.theinformation.com/briefings/openai-says-models-accelerated-chip-design-amd-jalapeno)**
 
-三个人中有两个说自己是刚进入筹码租赁行业的新人
+**OpenAI**于周三**发布**了新的成果，重点介绍了其人工智能模型在芯片设计方面日益增强的能力。**OpenAI**在一篇博客文章中表示，其模型
 
-📅 2026-11-18T03:05:46.000Z
+📅 2026-11-18T22:05:31.000Z
 
 ---
 
 ### The Information Technology
-**[OpenAI模型帮助发现广泛使用的代码语言中的安全漏洞](https://www.theinformation.com/briefings/openai-model-helps-find-security-bug-widely-used-code-language)**
+**[Anthropic的IPO定价为每股83美元](https://www.theinformation.com/briefings/anthropic-prices-ipo-83-share)**
 
-网络安全初创公司Calif的研究人员周二表示，他们在Java中发现了一个严重漏洞。该漏洞将使攻击者能够从计算机内存中窃取敏感信息，或
+**Anthropic**于周三晚间将其**首次**公开募股的定价定为每股83美元，高于其每股70至78美元的预期区间。
 
-📅 2026-11-18T01:15:20.000Z
+📅 2026-11-18T21:51:21.000Z
+
+---
+
+### The Information Technology
+**[Palo Alto Networks将以45亿美元收购人工智能公司Applied Compute](https://www.theinformation.com/briefings/palo-alto-networks-acquire-ai-firm-applied-compute-4-5-billion)**
+
+Palo Alto Networks计划以4亿美元收购Applied Compute，这是一家由三名前**OpenAI**研究人员创立的人工智能初创公司。Applied Compute帮助企业训练和运行其定制的**开源**人工智能模型版本，
+
+📅 2026-11-18T21:25:07.000Z
 
 ---
 
 ## 📦 GitHub热门
+
+### GitHub Active (Python)
+![LangChain：代理工程平台。](https://avatars.githubusercontent.com/u/126733545?v=4)
+
+**[LangChain：代理工程平台。](https://github.com/langchain-ai/langchain)**
+
+⭐ 149,867 个星标 · 25162 个分叉 · Python · 代理工程平台。
+
+📅 2026-11-18T22:30:43Z
+
+---
 
 ### GitHub Active (AI/ML)
 ![PyTorch：在 Python 中实现张量和动态神经网络，并具备强大的 GPU 加速功能](https://avatars.githubusercontent.com/u/21003710?v=4)
 
 **[PyTorch：在 Python 中实现张量和动态神经网络，并具备强大的 GPU 加速功能](https://github.com/pytorch/pytorch)**
 
-⭐ 105,805 个星标 · 30789 个分叉 · Python · Python 中的张量和动态神经网络，具有强大的 GPU 加速功能
+⭐ 105,667 个星标 · 30755 个分叉 · Python · Python 中的张量和动态神经网络，具有强大的 GPU 加速功能
 
-📅 2026-11-18T04:01:07Z
+📅 2026-11-18T22:25:23Z
 
 ---
 
 ### GitHub Active (AI/ML)
-![awesome-ml-internships-2027：面向学生的实时人工智能和机器学习实习机会，通过 Zapply 招聘渠道更新。](https://avatars.githubusercontent.com/u/217731079?v=4)
+![executorch：适用于移动端、嵌入式和边缘设备的 PyTorch 端上 AI](https://avatars.githubusercontent.com/u/21003710?v=4)
 
-**[awesome-ml-internships-2027：面向学生的实时人工智能和机器学习实习机会，通过 Zapply 招聘渠道更新。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
+**[executorch：适用于移动端、嵌入式和边缘设备的 PyTorch 端上 AI](https://github.com/pytorch/executorch)**
 
-⭐ 471 个星标 · 39 个分叉 · 不适用 · 面向学生的实时人工智能和机器学习实习机会，通过 Zapply 招聘渠道**更新**
+⭐ 5,181 个星标 · 1254 个分叉 · Python · 适用于 PyTorch 的移动端、嵌入式和边缘端设备端 AI
 
-📅 2026-11-18T04:02:46Z
-
----
-
-### GitHub New (New AI)
-![🆕 rob-run-roulette-session-analytics：一款适用于ROB RUN的Windows桌面分析工具，具备可视化屏幕截图、AI辅助轮盘赌局分析、统计洞察和实时HUD界面等功能。](https://avatars.githubusercontent.com/u/357460876?v=4)
-
-**[🆕 rob-run-roulette-session-analytics：一款适用于ROB RUN的Windows桌面分析工具，具备可视化屏幕截图、AI辅助轮盘赌局分析、统计洞察和实时HUD界面等功能。](https://github.com/CrimflintVenom/rob-run-roulette-session-analytics)**
-
-⭐ 32 star (新项目) · N/A · A Windows desktop analytics tool for ROB RUN featuring visual screen captureAI-assisted roulette session analysis
-
-📅 2026-11-17T21:21:36Z
+📅 2026-11-18T22:27:52Z
 
 ---
 
-### GitHub New (New AI)
-![🆕 supermimic-pytorch：Supermimic 的非官方实现，通过一个可微分的世界模型实现人形机器人全身控制的扩展，来自伯克利的 Qiayuan Liao 等人](https://avatars.githubusercontent.com/u/108653?v=4)
+### GitHub Active (AI/ML)
+![Oxen：适用于大型数据存储库的超快数据版本控制系统。感觉像 Git，推送和拉取像 Oxen。](https://avatars.githubusercontent.com/u/104101299?v=4)
 
-**[🆕 supermimic-pytorch：Supermimic 的非官方实现，通过一个可微分的世界模型实现人形机器人全身控制的扩展，来自伯克利的 Qiayuan Liao 等人](https://github.com/lucidrains/supermimic-pytorch)**
+**[Oxen：适用于大型数据存储库的超快数据版本控制系统。感觉像 Git，推送和拉取像 Oxen。](https://github.com/Oxen-AI/Oxen)**
 
-⭐ 8 star (新项目) · Python · Unofficial implementation of SupermimicScaling Humanoid Whole-Body Control with One Differentiable World Model
+⭐ 1,211 个星标 · 34 个分叉 · Rust · 适用于大型数据仓库的闪电般快速的数据版本控制系统，使用感觉像 Git，推送和拉取像牛一样强大
 
-📅 2026-11-16T13:53:58Z
+📅 2026-11-18T22:26:57Z
 
 ---
 
 ## 💬 社交动态
 
+### Hacker News
+**[Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)**
+
+文章网址： https://blog.**Google**/innovation-and-ai/models-and-research/**Gemini**-models/introducing-**Gemini**-4-neon/ 评论网址： https://**new**s
+
+📅 Wed, 18 Nov 2026 21:34:07 +0000
+
+---
+
 ### X: OpenAI
-**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[网址来源：http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-网址来源： http://twitter.com/**OpenAI**
+网址来源：http://twitter.com/**OpenAI**
 
-📅 2026-11-18T04:03:20.564Z
-
----
-
-### X: DeepSeek
-**[网址来源：http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
-
-网址来源：http://twitter.com/**DeepSeek**_ai
-
-📅 2026-11-18T04:03:26.624Z
+📅 2026-11-18T22:31:05.342Z
 
 ---
 
-### Hacker News
-**[谷歌的AI答案使搜索流量减少了40%](https://revscope.co/blog/search-seo-geo-2026/)**
+### Hacker News AI
+**[谷歌在新市场从精神航空公司购买员工数据，以供人工智能使用](https://www.nytimes.com/2026/11/18/business/economy/google-spirit-employee-data-ai.html)**
 
-文章网址：https://revscopeco/blog/search-seo-geo-2026/ 评论网址：https://**new**s
+com/2026/11/18/business/economy/**Google**-spirit-employee-data-ai.html 评论网址：https://**new**s
 
-📅 Wed, 18 Nov 2026 00:17:58 +0000
+📅 Wed, 18 Nov 2026 21:41:16 +0000
 
 ---
 
-### Hacker News
-**[微软的 ONNX Runtime 已从 GitHub 上消失](https://github.com/microsoft/onnxruntime)**
+### Hacker News AI
+**[据报道，尽管有美国的限制，中国仍寻求用于人工智能武器的先进英伟达芯片](https://www.msn.com/en-us/technology/tech-companies/china-seeks-advanced-nvidia-chips-for-ai-weapons-despite-us-curbs-report-says/ar-AA2hHxP8)**
 
-文章网址：https://githubcom/microsoft/onnxruntime 评论网址：https://**new**s
+文章网址： https://wwwcom/en-us/technology/tech-companies/china-seeks-advanced-nvidia-chips-for-ai-weapons-despite-us-curbs-report-says/ar-AA2hHxP8 评论网址： https://**new**s
 
-📅 Tue, 17 Nov 2026 23:18:49 +0000
+📅 Wed, 18 Nov 2026 21:19:25 +0000
 
 ---
 
@@ -355,16 +357,25 @@ AI 训练和聊天历史记录现在将在 **Gemini** 活动设置中拥有单�
 
 标题：520：Web 服务器返回未知错误
 
-📅 2026-11-18T04:03:20.564Z
+📅 2026-11-18T22:31:05.342Z
 
 ---
 
 ### X: OpenAI
-**[警告：目标网址返回错误 520：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[警告：目标网址返回错误 520： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-警告：目标网址返回错误 520：未知
+警告：目标网址返回错误 520：
 
-📅 2026-11-18T04:03:20.564Z
+📅 2026-11-18T22:31:05.342Z
+
+---
+
+### X: OpenAI
+**[警告：此页面可能尚未完全加载，请考虑明确指定超时时间。](https://r.jina.ai/http://twitter.com/OpenAI)**
+
+警告：此页面可能尚未完全加载，请考虑明确指定超时时间。
+
+📅 2026-11-18T22:31:05.342Z
 
 ---
 
@@ -373,16 +384,7 @@ AI 训练和聊天历史记录现在将在 **Gemini** 活动设置中拥有单�
 
 Markdown 内容
 
-📅 2026-11-18T04:03:20.564Z
-
----
-
-### X: OpenAI
-**[应该怎么做？](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-应该怎么做？
-
-📅 2026-11-18T04:03:20.564Z
+📅 2026-11-18T22:31:05.342Z
 
 ---
 
