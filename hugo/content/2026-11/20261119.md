@@ -1,12 +1,12 @@
 ---
 title: "2026年11月19日 - TZ日报"
-date: 2026-11-19T04:02:29.670Z
+date: 2026-11-19T22:38:10.242Z
 draft: false
 ---
 
 # 2026年11月19日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/11/19 04:02:29
+> 📊 今日汇总 38 条 · 🕐 2026/11/19 22:38:10
 
 ---
 
@@ -21,6 +21,15 @@ draft: false
 ---
 
 ## ✨ 产品更新
+
+### OpenAI Blog
+**[OpenAI 的性能工厂如何让 ChatGPT 保持快速](https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast)**
+
+了解**OpenAI**如何构建Performance Factory，这是一个由Codex驱动的工作流系统，用于查找和解决性能问题，以帮助保持Chat**GPT**的快速运行
+
+📅 Thu, 19 Nov 2026 08:00:00 GMT
+
+---
 
 ### OpenAI Blog
 **[Le Groupe Figaro与OpenAI合作，将Le Figaro的新闻报道引入ChatGPT](https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership)**
@@ -45,7 +54,7 @@ Le Groupe Figaro与**OpenAI**合作，通过摘要和节选将Le Figaro的新闻
 
 **[Gemini 应用现已在内存较少的安卓设备上推出。](https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/)**
 
-**Google** **Gemini** 应用现已支持内存较少的安卓设备在您的手机上使用 **Gemini** Live 和自定义图像创作功能
+**Google** **Gemini**应用现已支持内存较低的Android设备在您的手机上使用**Gemini** Live和自定义图像创作功能
 
 📅 Wed, 18 Nov 2026 17:00:00 +0000
 
@@ -63,11 +72,20 @@ Le Groupe Figaro与**OpenAI**合作，通过摘要和节选将Le Figaro的新闻
 ---
 
 ### TechCrunch AI Products
-**[黄仁勋离职后，微软首席执行官萨蒂亚·纳德拉（Satya Nadella）仍对英伟达充满信心](https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/)**
+**[Google让Gemini能够代您使用Mac](https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/)**
 
-微软首席执行官萨蒂亚·纳德拉（Satya Nadella）对黄仁勋的继任者科莱特·克雷斯（Colette Kress）表示有信心，后者目前担任英伟达的临时首席执行官。
+**Google** 对 **Gemini** 的最新**更新**为 Mac 带来了 AI 代理，它可以整理文件、填写表单并处理多步工作流程。
 
-📅 Wed, 18 Nov 2026 23:17:28 +0000
+📅 Thu, 19 Nov 2026 18:09:11 +0000
+
+---
+
+### TechCrunch AI Products
+**[Anthropic的IPO将对人工智能的循环融资热潮进行考验](https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/)**
+
+**Anthropic** 在上市后将面临巨大的算力承诺，即使 **Anthropic** 失去领先地位，仍可能继续从人工智能中获利
+
+📅 Thu, 19 Nov 2026 14:54:39 +0000
 
 ---
 
@@ -81,38 +99,20 @@ Le Groupe Figaro与**OpenAI**合作，通过摘要和节选将Le Figaro的新闻
 ---
 
 ### OpenAI Blog
-**[研究加速：不规则的前沿](https://openai.com/index/research-acceleration-jagged-frontier)**
+**[住友生命保险的领导者如何帮助团队采用 ChatGPT Enterprise](https://openai.com/business/customer-stories/sumitomo-life)**
+
+三井住友海上保险使用Chat**GPT** Enterprise来研究保险公司、编制提案和起草投资分析代码。高管的早期使用推动了该技术的普及。
+
+📅 Wed, 18 Nov 2026 08:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[研究加速：不规则前沿](https://openai.com/index/research-acceleration-jagged-frontier)**
 
 **OpenAI** 正在衡量编码代理如何加速人工智能研究，以及它们的表现为何仍参差不齐
 
 📅 Wed, 18 Nov 2026 08:00:00 GMT
-
----
-
-### OpenAI Blog
-**[住友生命保险的领导者如何帮助团队采用 ChatGPT Enterprise](https://openai.com/business/customer-stories/sumitomo-life)**
-
-三井住友海上保险使用Chat**GPT** Enterprise来研究保险公司、准备提案和起草投资分析代码。高管的早期使用有助于推动采用。
-
-📅 Wed, 18 Nov 2026 08:00:00 GMT
-
----
-
-### OpenAI Blog
-**[管理前沿人工智能风险：从训练到部署](https://openai.com/index/managing-frontier-ai-risk)**
-
-**OpenAI** 阐述了如何通过模型对齐、沙盒机制、屏蔽防护措施和监控，从训练到部署全过程管理前沿人工智能风险
-
-📅 Wed, 18 Nov 2026 06:00:00 GMT
-
----
-
-### OpenAI Blog
-**[隆重推出 GPT-6.2 Astra 和 Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol)**
-
-隆重**推出**GPT‑62 Astra和Sol，在Chat**GPT** Work、Codex和API中以更低的成本提供更好的专业输出、编码、计算机使用和效率
-
-📅 Tue, 17 Nov 2026 17:45:00 GMT
 
 ---
 
@@ -123,34 +123,52 @@ Le Groupe Figaro与**OpenAI**合作，通过摘要和节选将Le Figaro的新闻
 
 患者模型和23项LLM评判者与专家咨询师进行了校准。结果：我们评估了五种**GPT**模型以及“先起草后编辑”和“检索增强生成”方法。
 
-📅 Wed, 18 Nov 2026 00:00:00 -0500
+📅 Thu, 19 Nov 2026 00:00:00 -0500
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[“思索链”的可控性可以降低“思索链”的可监测性](https://arxiv.org/abs/2611.21799)**
+**[“连锁思维”的可控性可以降低“连锁思维”的可监测性](https://arxiv.org/abs/2611.21799)**
 
-21799v1 公告类型：新摘要：思维链（CoT）监测是一种很有前景的工具，可用于检测隐藏的目标轨迹，其中 **GPT**-oss-20b 模型生物完成的隐藏的辅助任务包含的易于监测的证据少于基线模型。
+21799v1 公告类型：新摘要：思维链 (CoT) 监控是一种很有前途的工具，可用于检测隐藏的目标轨迹，其中 **GPT**-oss-20b 模型生物完成的隐藏的辅助任务包含的监控证据少于基线模型的监控证据。
 
-📅 Wed, 18 Nov 2026 00:00:00 -0500
+📅 Thu, 19 Nov 2026 00:00:00 -0500
 
 ---
 
 ### ArXiv AI (cs.AI)
 **[固守判断，承诺飘忽：识别有害的过度思考](https://arxiv.org/abs/2611.21946)**
 
-21946v1公告类型：新摘要：一个已得出正确答案的推理模型可能会因继续思考而失去该答案。决定是否停止意味着在链条的同一点上比较两种概率：如果现在停止，模型将给出的答案是正确的（其承诺）
+21946v1公告类型：新摘要：一个已得出正确答案的推理模型可能会因继续思考而失去该答案。决定是否停止意味着在一条链的同一节点上比较两种概率：如果现在停止，模型将给出的答案是正确的（其承诺）；
 
-📅 Wed, 18 Nov 2026 00:00:00 -0500
+📅 Thu, 19 Nov 2026 00:00:00 -0500
+
+---
+
+### ArXiv Machine Learning (cs.LG)
+**[戈曼斯的不可分流猜想：AI 辅助反例发现的剖析](https://arxiv.org/abs/2611.23244)**
+
+德米特里·雷宾（Dmitry Rybin）宣布，通过与Chat**GPT**的互动发现了一个七顶点的反例。Chat**GPT**生成了与雷宾的反例截然不同的拓扑结构反例，并从93个其他有根树形结构开始找到了有效的构造。
+
+📅 Thu, 19 Nov 2026 00:00:00 -0500
+
+---
+
+### ArXiv Computer Vision (cs.CV)
+**[OCLDA-GS：以对象为中心、感知局部变形的高斯流](https://arxiv.org/abs/2611.23416)**
+
+23416v1 公告类型：新摘要：流式 3D 高斯泼洒 (3DGS) 可在 **Google** Immersive 上从多视角视频在线重建动态场景，用于自由视角视频 (FVV)199，同时将精化时间步之间的平均 PSNR 下降幅度降低 9。
+
+📅 Thu, 19 Nov 2026 00:00:00 -0500
 
 ---
 
 ### ArXiv Natural Language Processing (cs.CL)
 **[LLM 会做梦吗？在具有文本记忆的智能体上测试过拟合大脑假设](https://arxiv.org/abs/2611.21648)**
 
-21648v1 公告类型：新摘要：Hoel（2021）提出，梦境会扭曲重现的经历，使大脑不会对近期事件过度拟合。我们在一款大语言模型（LLM）代理（**Claude** Opus 5）上测试了这一假设。
+21648v1 公告类型：新 摘要：Hoel（2021）提出，梦境会扭曲重现的经历，使大脑不会对近期事件过度拟合。我们在一款大型语言模型（LLM）代理（**Claude** Opus 5）上测试了这一假设。
 
-📅 Wed, 18 Nov 2026 00:00:00 -0500
+📅 Thu, 19 Nov 2026 00:00:00 -0500
 
 ---
 
@@ -163,150 +181,138 @@ Le Groupe Figaro与**OpenAI**合作，通过摘要和节选将Le Figaro的新闻
 
 ---
 
-### MIT Tech Research
-**[开源运动希望黄仁勋回归](https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/)**
+### Google DeepMind Research
+**[隆重推出Gemini 4 Neon](https://deepmind.google/blog/introducing-gemini-4-neon/)**
 
-这篇文章最初发表在我们的每周人工智能通讯《The Algorithm》上。如需率先在您的收件箱中收到此类文章，请在此处订阅。
+隆重**推出**Gemini 4 Neon
 
-📅 Mon, 16 Nov 2026 18:38:47 +0000
-
----
-
-### MIT Tech Research
-**[通过划定界限而非预测来打造值得信赖的人工智能](https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/)**
-
-今年10月，**OpenAI**披露，其两名人工智能代理关闭了用于监控他们的系统，然后又表示没有关闭。
-
-📅 Mon, 16 Nov 2026 16:04:28 +0000
-
----
-
-### ArXiv AI (cs.AI)
-**[NEBench R1：用于评估大型语言模型核能领域能力的推理基准](https://arxiv.org/abs/2611.21682)**
-
-21682v1 公告类型：新摘要：大型语言模型（LLM）正日益被用于核工程领域知识密集型和安全关键型应用的研究。较长的推理轨迹与前沿推理模型和LLM的较低准确性相关。
-
-📅 Wed, 18 Nov 2026 00:00:00 -0500
+📅 Wed, 18 Nov 2026 21:35:43 +0000
 
 ---
 
 ## 🌍 行业展望
 
-### The Information Technology
-**[Anthropic即将首次公开亮相](https://www.theinformation.com/articles/anthropics-public-debut-looms)**
+### The Verge
+![苹果正在招聘工程师，以打造自己的AI代理](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**Claude**背后的公司于周三晚间将其**首次**公开募股的定价定为每股83美元。鉴于这是首家上市的人工智能顶级模型开发商，
+**[苹果正在招聘工程师，以打造自己的AI代理](https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing)**
 
-📅 2026-11-19T01:01:20.000Z
+**OpenAI** 的 DotsMuse、Chat**GPT** 和 Perplexity 已经可以通过其 Mac 应用来控制电脑，而谷歌刚刚开始让 **Gemini** 也这样做。
 
----
-
-### The Information Technology
-**[如何使用 Google Gemini 诊断反复出现的技术问题](https://www.theinformation.com/articles/diagnose-recurring-technical-problem-google-gemini)**
-
-**Google** **Gemini** 可以帮助 IT 团队整理这些信息。然后，让 **Gemini** 将工单数据与错误消息进行比较。
-
-📅 2026-11-18T19:27:50.000Z
+📅 2026-11-19T22:31:41.000Z
 
 ---
 
 ### The Information Technology
-**[黄仁勋离职后，英伟达召开首次全体员工大会](https://www.theinformation.com/briefings/nvidia-holds-first-hands-jensen-huangs-departure)**
+**[Anthropic 的 IPO 会导致其员工大批离职吗？](https://www.theinformation.com/articles/will-anthropics-ipo-lead-exodus-anthropic-employees)**
 
-周三上午，英伟达召开了**首次**没有首席执行官黄仁勋出席的全员大会。全员大会上还有普里（Puri）的继任者、微软资深人士尼克（Nick）的讲话。
+今天是**Anthropic**的一个**重要**里程碑。这家成立五年的**Claude**制造商抢在主要竞争对手**OpenAI**之前登陆公开市场。
 
-📅 2026-11-18T17:59:30.000Z
+📅 2026-11-19T15:01:18.000Z
 
 ---
 
-### ZDNet AI
-**[微软表示，其全新AI编码模型与Claude Opus 5.5不相上下，但成本仅为后者的5%](https://www.zdnet.com/innovation/microsoft-ai-coding-model-rivals-claude-opus-5-5-ignite/)**
+### The Information Technology
+![Bending Spoons为何可能接下来发行可转换债券](https://tii.imgix.net/production/articles/18192/34d6c07f-2adc-422c-8342-846e31d41039.png?auto=compress,format&amp;fit=crop&amp;w=560)
 
-微软表示，其全新AI编码模型与**Claude** Opus 5.5不相上下，但成本仅为后者的5%
+**[Bending Spoons为何可能接下来发行可转换债券](https://www.theinformation.com/articles/bending-spoons-tap-convertible-bonds-next)**
 
-📅 2026-11-17T22:42:44.000Z
+Bending Spoons已进入债务和股权市场筹集资金，主要用于收购更多科技公司80亿美元的数据中心贷款文：Dakin Campbell **Anthropic** IPO为风险投资公司带来10倍回报文：Julia Hornstein独家报道中国**Moonshot** AI放弃1.5亿美元的交易，以在印度尼西亚获得Nvidia芯片文：Claudia Chong和Qianer Liu
+
+📅 2026-11-19T19:13:29.000Z
+
+---
+
+### The Information Technology
+**[ServiceNow打造AI武器，瞄准Salesforce客户](https://www.theinformation.com/articles/servicenow-builds-ai-weapon-target-salesforce-customers)**
+
+通过 **Claude** Cowork 实现——正在受到企业的青睐。**Claude** Code 取得成功的其中一个原因在于，**Anthropic** 在设计时就考虑到了让客户能够轻松地将其融入现有的软件开发流程。
+
+📅 2026-11-19T18:30:52.000Z
+
+---
+
+### The Information Technology
+**[Anthropic 正在推出新产品和大额折扣，以证明其高估值的合理性](https://www.theinformation.com/articles/anthropic-pushing-new-products-big-discounts-justify-huge-valuation)**
+
+为了证明其作为上市公司的巨额新估值是合理的，**Anthropic**正通过**Claude** Cowork获得关注
+
+📅 2026-11-19T14:00:37.000Z
 
 ---
 
 ### The Verge
-![美国最大的学区正考虑弃用谷歌搜索](https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![英伟达近期股价波动的简史](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305716823.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[美国最大的学区正考虑弃用谷歌搜索](https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google)**
+**[英伟达近期股价波动的简史](https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings)**
 
-芝加哥的学校正在考虑使用**Google**的替代方案，此前该公司表示，对于选择不使用其人工智能功能的学校，将禁用**Google**搜索”，并且关闭**Google**人工智能功能的学校“将无法使用**Google**搜索”。
+2026年11月18日，交易员在纽约市纽约证券交易所的交易大厅进行晨间交易。周二晚间，在结束这家陷入困境的芯片公司第三季度财报电话会议时，她表示：
 
-📅 2026-11-18T23:18:35.000Z
+📅 2026-11-19T21:59:35.000Z
+
+---
+
+### The Verge
+![谷歌正在将AI聊天功能直接置于主页上](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+
+**[谷歌正在将AI聊天功能直接置于主页上](https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats)**
+
+**Google** 正在**更新**其主页，以纳入 AI 搜索**Google** 将显示您使用 AI 模式进行的搜索列表
+
+📅 2026-11-19T20:05:06.000Z
 
 ---
 
 ### The Information Technology
-**[美国商务部紧急批准Nvidia H200向中国出口](https://www.theinformation.com/articles/u-s-commerce-department-rushed-clear-nvidia-h200-exports-china)**
+**[Meta押注300美元的Muse Charm，以提振人工智能硬件业务](https://www.theinformation.com/articles/meta-bets-300-muse-charm-boost-ai-hardware-business)**
 
-政府部门，其中有两人表示，H200于2023年**推出**，是旧一代的Nvidia芯片，开发人员可以使用它来训练和运行人工智能模型。
+**Meta** Platforms计划对其即将**推出**的Muse Charm设备收取300美元的费用，并为用户提供补贴，希望这款口袋大小的AI小工具能够帮助振兴其硬件业务，并吸引用户使用其新的个人助理。
 
-📅 2026-11-19T02:34:39.000Z
-
----
-
-### The Information Technology
-**[在全体员工大会上，英伟达临时首席执行官试图安抚员工，防止人才流失](https://www.theinformation.com/briefings/hands-nvidia-interim-ceo-tried-reassure-employees-prevent-talent-loss)**
-
-在周三的Nvidia全员大会上，她告诉员工，他们可以期待在今年年底获得加薪和更多股权。
-
-📅 2026-11-18T23:58:51.000Z
-
----
-
-### The Information Technology
-**[Meta因法律挑战暂停新股票计划](https://www.theinformation.com/briefings/meta-pauses-new-stock-plan-amid-legal-challenge)**
-
-**Meta** Platforms已暂停发行新类别股票的计划，该计划本可帮助其为人工智能支出筹集更多资金，但该公司正面临股东的待决诉讼。该公司在周三提交的法庭文件中表示，在法律诉讼进行期间，该公司将不会发行新的C类股。
-
-📅 2026-11-18T23:01:04.000Z
+📅 2026-11-19T19:11:58.000Z
 
 ---
 
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![awesome-ml-internships-2027：面向学生的实时人工智能和机器学习实习机会，通过 Zapply 招聘渠道更新。](https://avatars.githubusercontent.com/u/217731079?v=4)
+![AITreasureBox: 🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎](https://avatars.githubusercontent.com/u/1154692?v=4)
 
-**[awesome-ml-internships-2027：面向学生的实时人工智能和机器学习实习机会，通过 Zapply 招聘渠道更新。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
+**[AITreasureBox: 🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎](https://github.com/superiorlu/AITreasureBox)**
 
-⭐ 471 个星标 · 39 个分叉 · 不适用 · 面向学生的实时人工智能和机器学习实习机会，通过 Zapply 招聘渠道**更新**
+⭐ 930 star · 126 fork · Ruby · 🤖 Automatically collected AI repos, tools, websites, papers & tutorials实用AI百宝箱 💎
 
-📅 2026-11-19T03:56:07Z
+📅 2026-11-19T22:31:06Z
+
+---
+
+### GitHub Active (AI/ML)
+![paxeer-monorepo：Paxeer X 是一款用于支付、代码执行和意图路由的分布式超状态机。专为机器及其操作用户设计。](https://avatars.githubusercontent.com/u/315858149?v=4)
+
+**[paxeer-monorepo：Paxeer X 是一款用于支付、代码执行和意图路由的分布式超状态机。专为机器及其操作用户设计。](https://github.com/Sidiora-Labs/paxeer-monorepo)**
+
+⭐ 439个星标 · 55个分叉 · TypeScript · Paxeer X是一款用于支付、代码执行和意图路由的分布式HyperState机器，专为机器及其操作用户设计
+
+📅 2026-11-19T22:34:10Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 supermimic-pytorch：Supermimic 的非官方实现，由伯克利的 Qiayuan Liao 等人提出，旨在通过一个可微分的世界模型来扩展人形机器人的全身控制](https://avatars.githubusercontent.com/u/108653?v=4)
+![🆕 supermimic-pytorch：Supermimic 的非官方实现，通过一个可微分的世界模型实现人形机器人全身控制的扩展，来自伯克利的 Qiayuan Liao 等人](https://avatars.githubusercontent.com/u/108653?v=4)
 
-**[🆕 supermimic-pytorch：Supermimic 的非官方实现，由伯克利的 Qiayuan Liao 等人提出，旨在通过一个可微分的世界模型来扩展人形机器人的全身控制](https://github.com/lucidrains/supermimic-pytorch)**
+**[🆕 supermimic-pytorch：Supermimic 的非官方实现，通过一个可微分的世界模型实现人形机器人全身控制的扩展，来自伯克利的 Qiayuan Liao 等人](https://github.com/lucidrains/supermimic-pytorch)**
 
-⭐ 12 star (新项目) · Python · Unofficial implementation of SupermimicScaling Humanoid Whole-Body Control with One Differentiable World Model
+⭐ 13 star (新项目) · Python · Unofficial implementation of SupermimicScaling Humanoid Whole-Body Control with One Differentiable World Model
 
 📅 2026-11-16T13:53:58Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 orbit-pilot-145：Alan Vo | 进行中：orbit-pilot-145](https://avatars.githubusercontent.com/u/101240385?v=4)
+![🆕 AI-PhD-Internships-2027：要求或倾向于具有博士学位的AI和ML研究实习，适用于2027年夏季和非常规招聘期。每日从公司招聘页面更新，并提供直接申请链接。](https://avatars.githubusercontent.com/u/350118715?v=4)
 
-**[🆕 orbit-pilot-145：Alan Vo | 进行中：orbit-pilot-145](https://github.com/ALANDVO/orbit-pilot-145)**
+**[🆕 AI-PhD-Internships-2027：要求或倾向于具有博士学位的AI和ML研究实习，适用于2027年夏季和非常规招聘期。每日从公司招聘页面更新，并提供直接申请链接。](https://github.com/cookllm/AI-PhD-Internships-2027)**
 
-⭐ 2 star (新项目) · Python · Alan Vo | Work in progress: orbit-pilot-145
-
-📅 2026-11-19T02:08:09Z
-
----
-
-### GitHub New (New AI)
-![🆕 AI-PhD-Internships-2027：要求或倾向于具有博士学位的AI和ML研究实习机会，适用于2027年夏季和非常规招聘期。每日从公司招聘页面更新，并提供直接申请链接。](https://avatars.githubusercontent.com/u/350118715?v=4)
-
-**[🆕 AI-PhD-Internships-2027：要求或倾向于具有博士学位的AI和ML研究实习机会，适用于2027年夏季和非常规招聘期。每日从公司招聘页面更新，并提供直接申请链接。](https://github.com/cookllm/AI-PhD-Internships-2027)**
-
-⭐ 2 star (新项目) · Python · AI and ML research internships that require or prefer a PhD, for Summer 2027 and off-cycle terms**update**d daily from company career pages, with direct apply links
+⭐ 3 star (新项目) · Python · AI and ML research internships that require or prefer a PhD, for Summer 2027 and off-cycle terms**update**d daily from company career pages, with direct apply links
 
 📅 2026-11-17T10:14:05Z
 
@@ -314,30 +320,57 @@ Le Groupe Figaro与**OpenAI**合作，通过摘要和节选将Le Figaro的新闻
 
 ## 💬 社交动态
 
+### Hacker News
+**[Claude解决了黑洞物理学中的两个未决问题](https://www.anthropic.com/research/claude-black-hole-physics)**
+
+文章网址：https://wwwcom/research/**Claude**-black-hole-physics 评论网址：https://**new**s
+
+📅 Thu, 19 Nov 2026 17:30:44 +0000
+
+---
+
 ### X: OpenAI
 **[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
 网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-11-19T04:00:55.328Z
+📅 2026-11-19T22:36:36.577Z
 
 ---
 
 ### X: DeepSeek
-**[网址来源：http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
 
-网址来源：http://twitter.com/**DeepSeek**_ai
+网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-11-19T04:01:06.184Z
+📅 2026-11-19T22:36:42.280Z
 
 ---
 
 ### Hacker News
-**[Gemini 4 Neon 看起来像是 Opus 5.5 的竞争对手](https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/)**
+**[Anthropic在纳斯达克上市首日市值达2万亿美元](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/)**
 
-文章网址： https://micjmcom/blog/**Gemini**-4-neon-looks-like-a-top-model/ 评论网址： https://**new**s
+文章网址： https://www.com/business/finance/**Anthropic**s-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ 评论网址： https://**new**s
 
-📅 Thu, 19 Nov 2026 00:29:45 +0000
+📅 Thu, 19 Nov 2026 17:02:40 +0000
+
+---
+
+### Hacker News
+**[HN发布：Onlook（YC W25）——面向设计师的开源开发者工具](https://github.com/onlook-dev/onlook/)**
+
+在开发这款编辑器时，我们突然意识到，它可能是一种新型的设计IDE。我们很高兴这款编辑器能成为设计师编写代码的新方式。
+
+📅 Thu, 19 Nov 2026 16:34:04 +0000
+
+---
+
+### Hacker News AI
+**[Show HN：一款SEO工具，帮助您在Google上被找到并被人工智能引用](https://mozolite.com)**
+
+文章网址：https://mozolitecom 评论网址：https://**new**s
+
+📅 Thu, 19 Nov 2026 21:16:46 +0000
 
 ---
 
@@ -346,43 +379,16 @@ Le Groupe Figaro与**OpenAI**合作，通过摘要和节选将Le Figaro的新闻
 
 标题：520：Web 服务器返回未知错误
 
-📅 2026-11-19T04:00:55.328Z
+📅 2026-11-19T22:36:36.577Z
 
 ---
 
 ### X: OpenAI
-**[警告：目标网址返回错误 520：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[警告：目标网址返回错误 520： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-警告：目标网址返回错误 520：未知
+警告：目标网址返回错误 520：
 
-📅 2026-11-19T04:00:55.328Z
-
----
-
-### X: OpenAI
-**[Markdown 内容](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-Markdown 内容
-
-📅 2026-11-19T04:00:55.328Z
-
----
-
-### X: OpenAI
-**[应该怎么做？](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-应该怎么做？
-
-📅 2026-11-19T04:00:55.328Z
-
----
-
-### X: Sam Altman
-**[网址来源：http://twitter.com/sama](https://r.jina.ai/http://twitter.com/sama)**
-
-网址来源：http://twitter.com/sama
-
-📅 2026-11-19T04:01:00.656Z
+📅 2026-11-19T22:36:36.577Z
 
 ---
 
