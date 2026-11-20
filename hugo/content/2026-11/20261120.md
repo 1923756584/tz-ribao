@@ -1,12 +1,12 @@
 ---
 title: "2026年11月20日 - TZ日报"
-date: 2026-11-20T03:54:32.482Z
+date: 2026-11-20T22:09:13.714Z
 draft: false
 ---
 
 # 2026年11月20日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/11/20 03:54:32
+> 📊 今日汇总 38 条 · 🕐 2026/11/20 22:09:13
 
 ---
 
@@ -23,285 +23,270 @@ draft: false
 ## ✨ 产品更新
 
 ### TechCrunch AI Products
-**[Apple may be developing its own AI agent that runs your Mac](https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/)**
+**[苹果可能正在开发自己的AI代理来运行您的Mac](https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/)**
 
-The iPhone maker appears to be building agents that can compete with the likes of **Meta** Muse, Instinct, **Claude**, and **OpenAI** Dots
+iPhone 制造商似乎正在打造能够与 **Meta** Muse、Instinct、**Claude** 和 **OpenAI** Dots 等产品竞争的智能体。
 
 📅 Fri, 20 Nov 2026 00:56:01 +0000
 
 ---
 
 ### OpenAI Blog
-**[How OpenAI’s Performance Factory keeps ChatGPT fast](https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast)**
+**[OpenAI 的性能工厂如何让 ChatGPT 保持快速](https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast)**
 
-Learn how **OpenAI** built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep Chat**GPT** fast
+了解**OpenAI**如何构建Performance Factory，这是一个由Codex驱动的工作流系统，用于查找和解决性能问题，以帮助保持Chat**GPT**的快速运行
 
 📅 Thu, 19 Nov 2026 08:00:00 GMT
 
 ---
 
 ### Google AI Blog
-![The Gemini app is now available on lower-memory Android devices.](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp)
+![Gemini 应用现已在内存较少的安卓设备上推出。](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp)
 
-**[The Gemini app is now available on lower-memory Android devices.](https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/)**
+**[Gemini 应用现已在内存较少的安卓设备上推出。](https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/)**
 
-The **Google** **Gemini** app now supports lower-memory Android devicesAccess **Gemini** Live and custom image creation on your phone
+**Google** **Gemini** 应用程序现已支持内存较低的安卓设备在您的手机上使用 **Gemini** Live 和自定义图像创作功能
 
 📅 Wed, 18 Nov 2026 17:00:00 +0000
 
 ---
 
-### Google AI Blog
-![Put Gemini to work for you](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp)
+### OpenAI Blog
+**[对抗对抗性蒸馏](https://openai.com/index/combatting-adversarial-distillation)**
 
-**[Put Gemini to work for you](https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/)**
+**OpenAI** 对对抗性蒸馏的分层方法将模型训练和执行相结合，以防范能力提取
 
-Tasks in **Gemini** is now free of charge in six countries, with **new** features starting in the Uand deeper **Google** Workspace integration to get things done on your behalf
-
-📅 Tue, 17 Nov 2026 17:00:00 +0000
-
----
-
-### TechCrunch AI Products
-**[Google gives Gemini the ability to use your Mac for you](https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/)**
-
-**Google**'s latest **update** to **Gemini** brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows
-
-📅 Thu, 19 Nov 2026 18:09:11 +0000
+📅 Fri, 20 Nov 2026 10:00:00 GMT
 
 ---
 
 ### OpenAI Blog
-**[The Silent Consensus](https://openai.com/index/the-silent-consensus)**
+**[Hebbia借助GPT-6 Astra实现了财务研究的改进](https://openai.com/business/customer-stories/hebbia)**
 
-Head of Strategic Futures at **OpenAI**examines how more capable AI could reshape society and how people can retain control of their institutions
+Hebbia测试了**GPT**-6 Astra用于金融研究。其预**发布**评估发现，在来源覆盖面、引文相关性和呈现质量方面均有提升。
+
+📅 Fri, 20 Nov 2026 00:00:00 GMT
+
+---
+
+### OpenAI Blog
+**[默契共识](https://openai.com/index/the-silent-consensus)**
+
+**OpenAI**战略未来主管探讨了能力更强的人工智能如何重塑社会，以及人们如何能够保持对其机构的掌控。
 
 📅 Wed, 18 Nov 2026 10:00:00 GMT
 
 ---
 
 ### OpenAI Blog
-**[Research acceleration: The jagged frontier](https://openai.com/index/research-acceleration-jagged-frontier)**
+**[住友生命保险的领导者如何帮助团队采用 ChatGPT Enterprise](https://openai.com/business/customer-stories/sumitomo-life)**
 
-**OpenAI** measures how coding agents are accelerating AI researchwhere their performance remains uneven
-
-📅 Wed, 18 Nov 2026 08:00:00 GMT
-
----
-
-### OpenAI Blog
-**[How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise](https://openai.com/business/customer-stories/sumitomo-life)**
-
-Sumitomo Life uses Chat**GPT** Enterprise to research insurers, prepare proposals, and draft code for investment analysisEarly use by executives helped drive adoption
+三井住友海上保险使用Chat**GPT** Enterprise来研究保险公司、准备提案和起草投资分析代码。高管的早期使用有助于推动采用。
 
 📅 Wed, 18 Nov 2026 08:00:00 GMT
-
----
-
-### OpenAI Blog
-**[Managing frontier AI risk: From training to deployment](https://openai.com/index/managing-frontier-ai-risk)**
-
-**OpenAI** explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring
-
-📅 Wed, 18 Nov 2026 06:00:00 GMT
 
 ---
 
 ### Google AI Blog
-![Introducing Tool Retrieval in the Gemini API](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp)
+![Gemini API 中工具检索的简介](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp)
 
-**[Introducing Tool Retrieval in the Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/)**
+**[Gemini API 中工具检索的简介](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/)**
 
-Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the **Gemini** API
+通过工具检索功能，让您的代理能够使用数百种工具，同时减少代币消耗。该功能现已在**Gemini** API中**上线**预览。
 
 📅 Thu, 19 Nov 2026 18:00:00 +0000
 
 ---
 
+### Google AI Blog
+![Walter Isaacson谈论人工智能时代的好奇心和创造力。](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp)
+
+**[Walter Isaacson谈论人工智能时代的好奇心和创造力。](https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/)**
+
+Walter Isaacson加入**Google**，讨论历史上最伟大的创新者如何在人工智能时代激发创造力和人类判断力观看本期节目
+
+📅 Thu, 19 Nov 2026 17:00:00 +0000
+
+---
+
+### TechCrunch AI Products
+**[英伟达黄仁勋丑闻的影响仍在持续](https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/)**
+
+本周，Nvidia在应对其首席执行官黄仁勋被罢免的余波之际，**发布**了最新的财报。
+
+📅 Fri, 20 Nov 2026 14:55:44 +0000
+
+---
+
 ## 🔬 前沿研究
 
-### ArXiv Natural Language Processing (cs.CL)
-**[CrisisBench: an evaluation suite for crisis counseling AI](https://arxiv.org/abs/2611.21622)**
-
-Patient models and a 23-item LLM judge were calibrated against expert counselorsResults: We evaluated five **GPT** models plus draft-then-edit and retrieval-augmented generation
-
-📅 Thu, 19 Nov 2026 00:00:00 -0500
-
----
-
-### ArXiv AI (cs.AI)
-**[Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability](https://arxiv.org/abs/2611.21799)**
-
-21799v1 **announce** Type: **new** Abstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goalstraces in which a **GPT**-oss-20b model organism completes the hidden side task contain less monitorable evidence than the base model's
-
-📅 Thu, 19 Nov 2026 00:00:00 -0500
-
----
-
-### ArXiv AI (cs.AI)
-**[Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking](https://arxiv.org/abs/2611.21946)**
-
-21946v1 **announce** Type: **new** Abstract: A reasoning model that has reached a correct answer can lose it by continuing to thinkDeciding whether to stop means comparing two probabilities at the same point of a chain: that the answer the model would give if stopped now is correct (its commitment)
-
-📅 Thu, 19 Nov 2026 00:00:00 -0500
-
----
-
-### ArXiv Machine Learning (cs.LG)
-**[Goemans's Unsplittable-Flow Conjecture: The Anatomy of AI-Assisted Counterexample Discovery](https://arxiv.org/abs/2611.23244)**
-
-Dmitry Rybin **announce**d a seven-vertex counterexample found through an interaction with Chat**GPT**Chat**GPT** produced counterexamples on topologies genuinely different from Rybin's and found valid constructions starting from 93 other rooted arborescence shapes
-
-📅 Thu, 19 Nov 2026 00:00:00 -0500
-
----
-
 ### ArXiv Computer Vision (cs.CV)
-**[OCLDA-GS: Object-Centric Local Deformation-Aware Gaussian Streaming](https://arxiv.org/abs/2611.23416)**
+**[EgoPass-Bench：在以自我为中心的视频中识别可能影响佩戴者通行的物体](https://arxiv.org/abs/2611.24995)**
 
-23416v1 **announce** Type: **new** Abstract: Streaming 3D Gaussian Splatting (3DGS) allows for online reconstruction of dynamic scenes from multi-view videos for Free Viewpoint Video (FVV)199 on **Google** Immersive, while reducing the mean PSNR drop between refinement timesteps by 9
+24995v1 公告类型：新摘要：要理解以自我为中心的场景，需要推理周围实体如何影响观察者的行为。经评估表现最佳的模型 **GPT**-6 Astra 能正确识别 91 个场景中的物体运动。
 
-📅 Thu, 19 Nov 2026 00:00:00 -0500
+📅 Fri, 20 Nov 2026 00:00:00 -0500
 
 ---
 
-### ArXiv Natural Language Processing (cs.CL)
-**[Can an LLM dream? Testing the overfitted brain hypothesis on an agent with text memory](https://arxiv.org/abs/2611.21648)**
+### ArXiv Robotics (cs.RO)
+**[Inhabitant：一种用于具有空间控制和定量反馈的长期人-场景交互的代理框架](https://arxiv.org/abs/2611.25005)**
 
-21648v1 **announce** Type: **new** Abstract: Hoel (2021) proposed that dreams distort replayed experience so that the brain does not overfit to recent eventsWe test this hypothesis on an LLM agent (**Claude** Opus 5
+7\% 的任务使用 **Claude** Opus，57\% 的任务使用 **Claude** Sonnet 5
 
-📅 Thu, 19 Nov 2026 00:00:00 -0500
+📅 Fri, 20 Nov 2026 00:00:00 -0500
+
+---
+
+### ArXiv Multiagent (cs.MA)
+**[FinVeriQA：用于问答的金融研究代理：路由、检索、MCP 工具使用和溯源感知证据验证](https://arxiv.org/abs/2611.25071)**
+
+25071v1 公告类型：交叉摘要：大型语言模型（LLM）能够撰写流畅的财务分析，但会误算比率（96 \times 10^{-8}）；对于 **DeepSeek**-R1-8B，68% vs
+
+📅 Fri, 20 Nov 2026 00:00:00 -0500
+
+---
+
+### ArXiv AI (cs.AI)
+**[HardwareDx：用于数据中心机器维修的基础图模型系统](https://arxiv.org/abs/2611.23398)**
+
+23398v1公告类型：新摘要：人工智能基础设施的快速扩展使数据中心可靠性成为云业务经济的基石。因为超大规模人工智能集群中的硬件故障可能会导致价值数百万美元的训练工作负载停滞不前。
+
+📅 Fri, 20 Nov 2026 00:00:00 -0500
+
+---
+
+### ArXiv Robotics (cs.RO)
+**[GEMS：用于子目标引导的长期世界模型规划的生成和经验记忆](https://arxiv.org/abs/2611.25134)**
+
+25134v1 公告类型：新文章摘要：视觉世界模型能够实现有效的短时域目标条件规划。这些结果表明，生成的子目标和经验记忆可以共同增强长时域规划，且世界模型保持不变。
+
+📅 Fri, 20 Nov 2026 00:00:00 -0500
+
+---
+
+### ArXiv Multiagent (cs.MA)
+**[具有逐跳任务分解和委派的去中心化多智能体系统中的攻击与防御](https://arxiv.org/abs/2611.25056)**
+
+我们首先设计并评估针对完整性的攻击使用 **GPT**-6 在 HiddenBench 上进行评估
+
+📅 Fri, 20 Nov 2026 00:00:00 -0500
 
 ---
 
 ### MIT Tech Research
-**[The AI Hype Index: AI is everywhere](https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/)**
+**[人工智能热度指数：人工智能无处不在](https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/)**
 
-Like a nasty rash, AI seems to spread everywhere**Google** crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue
+就像讨厌的皮疹一样，人工智能似乎无处不在。尽管人工智能概览功能会让公司损失数十亿美元的广告收入，但谷歌还是强行将它塞进了您的喉咙。
 
 📅 Wed, 18 Nov 2026 14:42:44 +0000
 
 ---
 
 ### ArXiv AI (cs.AI)
-**[NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models](https://arxiv.org/abs/2611.21682)**
+**[能力不对称时，人与人工智能的互利关系并不稳定](https://arxiv.org/abs/2611.23322)**
 
-21682v1 **announce** Type: **new** Abstract: Large language models (LLMs) are increasingly being explored for knowledge-intensive and safety-critical applications in nuclear engineeringlonger reasoning traces were associated with lower accuracy in both frontier reasoning models
+23322v1 公告类型：新摘要：人类与先进人工智能共存的美好未来的一线希望在于持久的互利关系：人类和人工智能将需要彼此。我们认为，随着人工智能能力的增强，这一希望将落空。
 
-📅 Thu, 19 Nov 2026 00:00:00 -0500
+📅 Fri, 20 Nov 2026 00:00:00 -0500
 
 ---
 
 ## 🌍 行业展望
 
 ### The Verge
-![Apple is hiring engineers to build its own AI agent](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![Anthropic 的数学家声称已使用 Claude 解决了著名的千年大奖难题](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305894185.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[Apple is hiring engineers to build its own AI agent](https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing)**
+**[Anthropic 的数学家声称已使用 Claude 解决了著名的千年大奖难题](https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem)**
 
-**OpenAI**'s DotsMuse, Chat**GPT**, and Perplexity can already take control of a computer through their Mac apps, while **Google** just started letting **Gemini** do the same
+在**Claude**的帮助下**Anthropic**未对Alpöge的公告发表评论或介入其中
 
-📅 2026-11-19T22:31:41.000Z
-
----
-
-### The Information Technology
-**[Nvidia Nears Acquisition of Diffusion AI Developer for More Than $500 Million](https://www.theinformation.com/articles/nvidia-nears-acquisition-diffusion-ai-developer-500-million)**
-
-a two-year-old startup that develops a type of AI that aims to perform faster than the one that powers products such as Chat**GPT** and **Claude**are supposed to aid Nvidia’s development of Nemotron open source models
-
-📅 2026-11-19T22:43:01.000Z
+📅 2026-11-20T16:34:13.000Z
 
 ---
 
 ### The Information Technology
-**[Anthropic’s IPO Triumph](https://www.theinformation.com/articles/anthropics-ipo-triumph)**
+**[人工智能非营利组织发现，人工智能现在可以在一周的任务中超越人类](https://www.theinformation.com/briefings/ais-can-now-outperform-humans-week-length-tasks-ai-nonprofit-finds)**
 
-maker of the **Claude** line of AI modelsSB Energy on Thursday **update**d its IPO filing for the first time since late September
+人工智能非营利组织METR周五表示，它发现最近的人工智能模型，包括**OpenAI**的**GPT**-6 Astra
+
+📅 2026-11-20T18:00:44.000Z
+
+---
+
+### The Information Technology
+**[Anthropic如何在通往轰动性IPO的道路上抢了OpenAI的风头](https://www.theinformation.com/articles/anthropic-upstaged-openai-road-blockbuster-ipo)**
+
+**Anthropic**首席财务官Krishna Rao和其他高管聚集在公司位于市中心的总部，向主要投资者通报公司的最新财务状况，并打消他们的疑虑。事实证明，这是一个明智的建议：截至周四收盘，**Anthropic**的市值达到了180亿美元。
+
+📅 2026-11-20T14:18:33.000Z
+
+---
+
+### The Information Technology
+**[Anthropic的IPO胜利](https://www.theinformation.com/articles/anthropics-ipo-triumph)**
+
+**Claude**系列人工智能模型制造商SB Energy于周四首次**更新**了其IPO申请，这是自9月下旬以来的首次**更新**。
 
 📅 2026-11-20T01:00:57.000Z
 
 ---
 
 ### The Information Technology
-**[Apple Developing AI Agent to Rival Meta and OpenAI](https://www.theinformation.com/briefings/apple-developing-ai-agent-rival-meta-openai)**
+**[苹果正在开发AI代理，以与Meta和OpenAI竞争](https://www.theinformation.com/briefings/apple-developing-ai-agent-rival-meta-openai)**
 
-Apple is developing an AI agent that can browse the web, use apps, and write code, according to recent job postingsSuch a product would put Apple in competition with **Meta** Platforms,
+据近期**发布**的招聘信息显示，苹果正在开发一款能够浏览网页、使用应用程序和编写代码的人工智能代理。如果这款产品问世，苹果将与**Meta** Platforms、
 
 📅 2026-11-19T22:49:41.000Z
 
 ---
 
-### The Information Technology
-![Why Bending Spoons Could Tap Convertible Bonds Next](https://tii.imgix.net/production/articles/18192/34d6c07f-2adc-422c-8342-846e31d41039.png?auto=compress,format&amp;fit=crop&amp;w=560)
-
-**[Why Bending Spoons Could Tap Convertible Bonds Next](https://www.theinformation.com/articles/bending-spoons-tap-convertible-bonds-next)**
-
-Bending Spoons has tapped the debt and equity markets to raise money mostly to buy more tech firms8 Billion Data Center Loan By Dakin Campbell **Anthropic** IPO Yields 10X Returns for Venture Firms By Julia Hornstein Exclusive China’s **Moonshot** AI Scraps $150 Million Deal to Access Nvidia Chips in Indonesia By Claudia Chong and Qianer Liu
-
-📅 2026-11-19T19:13:29.000Z
-
----
-
 ### The Verge
-![A brief history of Nvidia’s recent stock fluctuations](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305716823.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+![据报道，YouTube正准备以30亿美元的和解金解决社交媒体成瘾索赔](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS526_SOCIAL_MEDIA_TRIAL_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
 
-**[A brief history of Nvidia’s recent stock fluctuations](https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings)**
+**[据报道，YouTube正准备以30亿美元的和解金解决社交媒体成瘾索赔](https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement)**
 
-Traders work on the floor of the **new** York Stock Exchange during morning trading on November 18, 2026 in **new** York Citysaid Tuesday night as she closed out the embattled chip company's third quarter earnings call
+YouTube正准备向数千个学区支付30亿美元，以和解对其“成瘾性设计”损害儿童的索赔。消息人士告诉该媒体，YouTube已“原则上”达成和解协议，该协议还将包括针对青少年的新保障措施。
 
-📅 2026-11-19T21:59:35.000Z
-
----
-
-### The Verge
-![Google is putting AI chats right on the homepage](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-
-**[Google is putting AI chats right on the homepage](https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats)**
-
-**Google** is updating its homepage to include AI searches**Google** will show a list of the searches you've made using AI Mode
-
-📅 2026-11-19T20:05:06.000Z
+📅 2026-11-20T20:43:52.000Z
 
 ---
 
 ### The Information Technology
-**[Why Anthropic’s VC Investors Aren’t Letting Go](https://www.theinformation.com/articles/anthropics-vc-investors-letting-go)**
+**[银行行使“绿鞋”机制后，Anthropic股价下跌](https://www.theinformation.com/briefings/anthropic-shares-slide-banks-exercise-greenshoe)**
 
-whose shares closed up 17% on the first day of trading ThursdayLightspeed Venture Partners and Accel intended to do the same, Bloomberg **new**s reported Tuesday
+**Anthropic**的股价周五下跌10%，部分抵消了该公司上市首日的涨幅。此前，该公司收盘股价为97美元。
 
-📅 2026-11-20T00:41:24.000Z
+📅 2026-11-20T20:54:26.000Z
+
+---
+
+### The Information Technology
+**[SpaceX以高收益率完成320亿美元的债务交易 ](https://www.theinformation.com/briefings/spacex-closes-32-billion-debt-deal-steep-yields)**
+
+在高等级债券市场中罕见的高收益率凸显了投资者对人工智能支出回报的日益担忧。高盛和阿波罗全球管理公司
+
+📅 2026-11-20T19:00:08.000Z
 
 ---
 
 ## 📦 GitHub热门
 
-### GitHub Active (Python)
-![innovation-lab-examples: 80+ production-ready AI agent examples in Python — build autonomous agents, multi-agent systems and agentic AI with uAgents, ASI:One, MCP, A2A, LangChain, CrewAI, Gemini, Claude and OpenAI.](https://avatars.githubusercontent.com/u/40889903?v=4)
-
-**[innovation-lab-examples: 80+ production-ready AI agent examples in Python — build autonomous agents, multi-agent systems and agentic AI with uAgents, ASI:One, MCP, A2A, LangChain, CrewAI, Gemini, Claude and OpenAI.](https://github.com/fetchai/innovation-lab-examples)**
-
-multi-agent systems and agentic AI with uAgents**Claude** and **OpenAI**
-
-📅 2026-11-20T03:52:22Z
-
----
-
 ### GitHub Active (AI/ML)
-![pysad: Streaming anomaly detection in Python: online detectors (xStream, LODA, RS-Hash, Half-Space Trees, RRCF…) plus calibration and prequential evaluation for real-time data.](https://avatars.githubusercontent.com/u/13938178?v=4)
+![awesome-ml-internships-2027：面向学生的实时人工智能和机器学习实习机会，通过 Zapply 招聘渠道更新。](https://avatars.githubusercontent.com/u/217731079?v=4)
 
-**[pysad: Streaming anomaly detection in Python: online detectors (xStream, LODA, RS-Hash, Half-Space Trees, RRCF…) plus calibration and prequential evaluation for real-time data.](https://github.com/selimfirat/pysad)**
+**[awesome-ml-internships-2027：面向学生的实时人工智能和机器学习实习机会，通过 Zapply 招聘渠道更新。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
 
-⭐ 321 star · 106 fork · Python · Streaming anomaly detection in Python: online detectors (xStreamRRCF…) plus calibration and prequential evaluation for real-time data
+⭐ 470 个星标 · 39 个分叉 · 不适用 · 面向学生的实时人工智能和机器学习实习机会，通过 Zapply 招聘渠道**更新**
 
-📅 2026-11-20T03:47:00Z
+📅 2026-11-20T22:06:46Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 AI-PhD-Internships-2027: AI and ML research internships that require or prefer a PhD, for Summer 2027 and off-cycle terms. Updated daily from company career pages, with direct apply links.](https://avatars.githubusercontent.com/u/350118715?v=4)
+![🆕 AI-PhD-Internships-2027：要求或倾向于具有博士学位的AI和ML研究实习机会，适用于2027年夏季和非常规招聘期。每日从公司招聘页面更新，并提供直接申请链接。](https://avatars.githubusercontent.com/u/350118715?v=4)
 
-**[🆕 AI-PhD-Internships-2027: AI and ML research internships that require or prefer a PhD, for Summer 2027 and off-cycle terms. Updated daily from company career pages, with direct apply links.](https://github.com/cookllm/AI-PhD-Internships-2027)**
+**[🆕 AI-PhD-Internships-2027：要求或倾向于具有博士学位的AI和ML研究实习机会，适用于2027年夏季和非常规招聘期。每日从公司招聘页面更新，并提供直接申请链接。](https://github.com/cookllm/AI-PhD-Internships-2027)**
 
 ⭐ 3 star (新项目) · Python · AI and ML research internships that require or prefer a PhD, for Summer 2027 and off-cycle terms**update**d daily from company career pages, with direct apply links
 
@@ -310,9 +295,9 @@ multi-agent systems and agentic AI with uAgents**Claude** and **OpenAI**
 ---
 
 ### GitHub New (New AI)
-![🆕 nexus-studio-145: Alan Vo | Work in progress: nexus-studio-145](https://avatars.githubusercontent.com/u/101240385?v=4)
+![🆕 nexus-studio-145：Alan Vo | 进行中：nexus-studio-145](https://avatars.githubusercontent.com/u/101240385?v=4)
 
-**[🆕 nexus-studio-145: Alan Vo | Work in progress: nexus-studio-145](https://github.com/ALANDVO/nexus-studio-145)**
+**[🆕 nexus-studio-145：Alan Vo | 进行中：nexus-studio-145](https://github.com/ALANDVO/nexus-studio-145)**
 
 ⭐ 2 star (新项目) · Python · Alan Vo | Work in progress: nexus-st**Udio**-145
 
@@ -320,77 +305,88 @@ multi-agent systems and agentic AI with uAgents**Claude** and **OpenAI**
 
 ---
 
+### GitHub New (New AI)
+![🆕 tensor-lens-147：Ryan Vo | 进行中：tensor-lens-147](https://avatars.githubusercontent.com/u/215324508?v=4)
+
+**[🆕 tensor-lens-147：Ryan Vo | 进行中：tensor-lens-147](https://github.com/A220man/tensor-lens-147)**
+
+⭐ 2 star (新项目) · PowerShell · Ryan Vo | Work in progress: tensor-lens-147
+
+📅 2026-11-20T03:01:17Z
+
+---
+
 ## 💬 社交动态
 
 ### Hacker News
-**[Gemini 4 Neon is the new #1 on the Models Engineering Index](https://git-aarvin.github.io/mei/)**
+**[消息人士称，Nvidia的会计事务正接受美国证监会的调查](https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html)**
 
-Article URL: https://git-aarvinio/mei/ Comments URL: https://**new**s
+文章网址：https://financehtml 评论网址：https://**new**s
 
-📅 Thu, 19 Nov 2026 23:35:35 +0000
-
----
-
-### Hacker News AI
-**['Anthropic was supposed to save the AI trade. What went wrong?' – CNBC](https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html)**
-
-com/2026/11/19/**Anthropic**-ipo-ai-stocks-selloffhtml Comments URL: https://**new**s
-
-📅 Fri, 20 Nov 2026 01:11:25 +0000
+📅 Fri, 20 Nov 2026 20:22:41 +0000
 
 ---
 
 ### Hacker News AI
-**[Show HN: Zeus – Claude Code for AI voice agents](https://thunderphone.com/blog/introducing-zeus)**
+**[为什么Anthropic的重磅首秀未能缓解华尔街对人工智能的担忧](https://www.cnn.com/2026/11/20/investing/anthropic-ai-stock-nasdaq)**
 
-We’re excited to **announce** the **launch** of Zeus, a platform that makes AI phone calls actually work without extensive hand-tuning**Claude** and Codex read those claims, believe them uncritically, and pick tools based on marketing rather than real performance
+文章网址：https://www.com/2026/11/20/investing/**Anthropic**-ai-stock-nasdaq 评论网址：https://**new**s
 
-📅 Fri, 20 Nov 2026 00:51:52 +0000
+📅 Fri, 20 Nov 2026 21:50:43 +0000
+
+---
+
+### Hacker News AI
+**[Anthropic的IPO破灭加剧了华尔街4万亿美元的人工智能市值蒸发](https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90)**
+
+文章网址：https://www.com/finance/stocks/**Anthropic**s-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90 评论网址：https://**new**s
+
+📅 Fri, 20 Nov 2026 21:18:46 +0000
+
+---
+
+### Hacker News AI
+**[人工智能交易担忧，Anthropic IPO 余波引发科技股抛售](https://www.bloomberg.com/news/live-blog/2026-11-20/markets-turmoil)**
+
+文章网址：https://www.com/**new**s/live-blog/2026-11-20/markets-turmoil 评论网址：https://**new**s
+
+📅 Fri, 20 Nov 2026 21:04:20 +0000
 
 ---
 
 ### Hacker News
-**[OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)](https://github.com/openssl/openssl/pull/33652)**
+**[Show HN：OpenComputer – Devin 的开源替代方案](https://github.com/diggerhq/opencomputer)**
 
-Article URL: https://githubcom/openssl/openssl/pull/33652 Comments URL: https://**new**s
+第一次提交在 24 秒内完成；我们所基准测试的替代方案需要 53-72 秒（基准测试见下文 [2]）dev 评论网址：https://**new**s
 
-📅 Fri, 20 Nov 2026 02:01:09 +0000
-
----
-
-### Hacker News
-**[Vint Cerf on why TCP/IP was never patented](https://seremot.com/p/vint-cerf-on-why-tcpip-was-never)**
-
-Article URL: https://seremotcom/p/vint-cerf-on-why-tcpip-was-never Comments URL: https://**new**s
-
-📅 Fri, 20 Nov 2026 01:06:12 +0000
+📅 Fri, 20 Nov 2026 20:19:56 +0000
 
 ---
 
 ### Hacker News
-**[Postgres 19 is out, and it's available on Neon and Databricks Lakebase](https://www.databricks.com/blog/postgresql-19-available-lakebase)**
+**[Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)**
 
-Article URL: https://wwwcom/blog/postgresql-19-available-lakebase Comments URL: https://**new**s
+文章网址：https://thinkingmachinesai/**new**s/inkling-2-mini/ 评论网址：https://**new**s
 
-📅 Fri, 20 Nov 2026 00:37:31 +0000
-
----
-
-### Hacker News
-**[Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers](https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87)**
-
-Article URL: https://wwwcom/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87 Comments URL: https://**new**s
-
-📅 Thu, 19 Nov 2026 23:32:11 +0000
+📅 Fri, 20 Nov 2026 20:12:19 +0000
 
 ---
 
 ### Hacker News
-**[RegExr: Temporarily Offline](https://regexr.com/)**
+**[然而，它仍在转动](https://signoregalilei.com/2026/11/20/and-yet-it-moves/)**
 
-Article URL: https://regexrcom/ Comments URL: https://**new**s
+文章网址：https://signoregalilei.com/2026/11/20/and-yet-it-moves/ 评论网址：https://**new**s
 
-📅 Thu, 19 Nov 2026 22:27:07 +0000
+📅 Fri, 20 Nov 2026 20:07:55 +0000
+
+---
+
+### Hacker News
+**[对我家猫的猫砂盆进行逆向工程](https://master--ytulsiani.netlify.app/blog/furrytails/)**
+
+文章网址： https://master--ytulsianiapp/blog/furrytails/评论网址： https://**new**s
+
+📅 Fri, 20 Nov 2026 20:07:14 +0000
 
 ---
 
