@@ -1,12 +1,12 @@
 ---
 title: "2026年11月25日 - TZ日报"
-date: 2026-11-25T05:17:56.737Z
+date: 2026-11-25T23:31:58.289Z
 draft: false
 ---
 
 # 2026年11月25日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/11/25 05:17:56
+> 📊 今日汇总 38 条 · 🕐 2026/11/25 23:31:58
 
 ---
 
@@ -44,19 +44,28 @@ draft: false
 
 ---
 
-### OpenAI Blog
-**[GPT-6模型展现出内在的蛋白质设计能力](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities)**
+### TechCrunch AI Products
+**[OpenAI表示，随着ChatGPT将聊天和工作功能合并，重度用户可能更快达到使用上限。](https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/)**
 
-**GPT**-6模型使用推理来设计蛋白质结构和序列，而codeLab测试发现了跨五个靶点的结合证据
+**OpenAI** 将在整个 Chat**GPT** 中引入一个统一的使用量仪表，因为它将聊天和工作体验结合在一起
+
+📅 Wed, 25 Nov 2026 20:03:27 +0000
+
+---
+
+### OpenAI Blog
+**[GPT-6模型展示了内在的蛋白质设计能力](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities)**
+
+**GPT**-6模型使用推理来设计蛋白质结构和序列，codeLab测试发现了跨五个靶点的结合证据
 
 📅 Tue, 24 Nov 2026 13:00:00 GMT
 
 ---
 
 ### OpenAI Blog
-**[Clay 通过 Codex 和 ChatGPT 帮助销售团队取得成功](https://openai.com/business/customer-stories/clay-plugins-openai)**
+**[Clay 通过 Codex 和 ChatGPT 帮助销售团队赢得胜利](https://openai.com/business/customer-stories/clay-plugins-openai)**
 
-Chat**GPT** 和 Codex 集成帮助 Clay 的用户研究交易并将数据转化为上市策略，而 **GPT**-6 模型则负责推理
+Chat**GPT** 和 Codex 集成帮助 Clay 的用户研究交易并将数据转化为市场推广策略，而 **GPT**-6 模型则负责推理工作。
 
 📅 Tue, 24 Nov 2026 00:00:00 GMT
 
@@ -65,7 +74,7 @@ Chat**GPT** 和 Codex 集成帮助 Clay 的用户研究交易并将数据转化�
 ### OpenAI Blog
 **[OpenAI 和思科推出 Shirudo](https://openai.com/index/introducing-shirudo)**
 
-**OpenAI**和思科**推出**Shirudo，这是一款适用于Linux的**开源**运行时。它可以帮助团队在部署补丁的同时保护正在运行的系统。
+**OpenAI** 和思科**推出** Shirudo，一款适用于 Linux 的**开源**运行时。它可帮助团队在部署补丁的同时保护正在运行的系统。
 
 📅 Mon, 23 Nov 2026 21:20:00 GMT
 
@@ -81,7 +90,7 @@ Chat**GPT** 和 Codex 集成帮助 Clay 的用户研究交易并将数据转化�
 ---
 
 ### OpenAI Blog
-**[Richpanel 帮助公司在 30 天内实现 50% 的支持自动化](https://openai.com/business/customer-stories/richpanel-ai-customer-support)**
+**[Richpanel 帮助公司在 30 天内实现 50% 的客服自动化](https://openai.com/business/customer-stories/richpanel-ai-customer-support)**
 
 Richpanel 使用 **GPT**-6 Astra 和 **GPT**-61 Sol 为其 AI 客服专员提供工具和流程，并使用 **GPT**-6 Luna 进行对话
 
@@ -90,121 +99,123 @@ Richpanel 使用 **GPT**-6 Astra 和 **GPT**-61 Sol 为其 AI 客服专员提供
 ---
 
 ### TechCrunch AI Products
-**[耶鲁大学的索南菲尔德：英伟达是对美国工业实力的“损害”，而不是领军企业](https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/)**
+**[标普考虑因治理和“关键人物”风险而下调英伟达的信用评级](https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/)**
 
-耶鲁大学的杰弗里·索南菲尔德（Jeffrey Sonnenfeld）警告称，市场周一欢呼的Jensen Huang在白宫支持下重返英伟达担任首席执行官和董事会成员一事
+该信用评级机构可能会将英伟达的信用评级下调至AA-，即第四高评级。
 
-📅 Wed, 25 Nov 2026 00:12:02 +0000
-
----
-
-### TechCrunch AI Products
-**[在全体员工大会上，黄仁勋感谢白宫，并表示他正在接受心理治疗](https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/)**
-
-英伟达创始人周二向员工道歉，并表示感谢大家给他第二次领导公司的机会。
-
-📅 Tue, 24 Nov 2026 21:48:27 +0000
+📅 Wed, 25 Nov 2026 22:44:32 +0000
 
 ---
 
 ### TechCrunch AI Products
-**[沃尔玛与Meta合作，将黑色星期五优惠引入AI代理Muse](https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/)**
+**[黄仁勋违反了英伟达的行为准则，他的员工可能不会忘记这一点](https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/)**
 
-沃尔玛现在允许顾客通过 **Meta** 的 AI 代理 Muse 选购黑色星期五特惠商品。
+大多数行为准则都反映了企业文化。就Nvidia而言，这可能会产生后果。
 
-📅 Tue, 24 Nov 2026 21:32:38 +0000
+📅 Wed, 25 Nov 2026 19:54:57 +0000
 
 ---
 
 ## 🔬 前沿研究
 
-### Science AI
-**[人工智能可能已经解决了数学领域最大的谜题。人类能理解这个答案吗？](https://www.science.org/content/article/ai-may-have-solved-math-s-greatest-mystery-can-humans-understand-answer)**
-
-**Anthropic**研究人员表示，**Claude**破解了有166年历史的黎曼猜想，但庞杂的证明可能需要数年时间才能解读清楚。
-
-📅 2026-11-25T05:14:39.796Z
-
----
-
 ### MIT Tech Research
-**[一位传奇哲学家不认同Anthropic的意识论点](https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/)**
+**[一位传奇哲学家并不认同Anthropic的意识论点](https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/)**
 
-这篇文章最初发表在我们的每周人工智能通讯《The Algorithm》上。如需率先在您的收件箱中收到此类文章，请在此处订阅。
+这篇文章最初刊登在我们的每周人工智能通讯《The Algorithm》上。如需第一时间在您的收件箱中收到此类文章，请在此处订阅。
 
 📅 Mon, 23 Nov 2026 17:36:08 +0000
 
 ---
 
+### Google DeepMind Research
+**[从谱图到结构：利用质谱技术为Google Antigravity鉴定分子](https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/)**
+
+质谱技能使科学家能够使用 **Google** Antigravity 来解释串联质谱。
+
+📅 Tue, 24 Nov 2026 13:07:53 +0000
+
+---
+
 ### Science AI
-**[“极度恐惧”：尽管有完整的书面记录，科学家仍被移民和海关执法局逮捕](https://www.science.org/content/article/enormous-fear-scientist-shares-arrest-ice-despite-pristine-paper-trail)**
+**[奇特的“拓扑”导线越细导电性越好](https://www.science.org/content/article/strange-topological-wires-conduct-electricity-better-thinner-they-get)**
 
-不切实际的签证办理时限和延误让刘荻陷入了困境，也可能让其他在国内旅行且拥有合法身份的学者陷入困境。
+新型导体有一天可能通过在缩小尺寸时更快地输送电子，从而实现更小型的计算机芯片。
 
-📅 2026-11-25T05:14:39.796Z
+📅 2026-11-25T23:29:07.417Z
+
+---
+
+### Science AI
+**[释放感染抗病毒细菌的蚊子可大幅减少儿童登革热发病率](https://www.science.org/content/article/release-mosquitoes-infected-virus-fighting-bacteria-slashes-dengue-children)**
+
+巴西的大规模试验证实了沃尔巴克氏菌在阻止多种蚊媒病毒方面的作用
+
+📅 2026-11-25T23:29:07.417Z
+
+---
+
+### Science AI
+**[欧洲将目光投向巨型望远镜之外的下一个重大赌注](https://www.science.org/content/article/europe-looks-beyond-its-giant-telescope-its-next-big-bet)**
+
+随着39米望远镜即将完工，欧洲南方天文台正在评估下一代仪器的投标。
+
+📅 2026-11-25T23:29:07.417Z
+
+---
+
+### Science AI
+**[人类撞击小行星时，留下了体育场大小的陨石坑](https://www.science.org/content/article/when-humans-walloped-asteroid-we-left-stadium-size-crater)**
+
+欧洲“赫拉”号航天器勘察2022年美国宇航局一次关键行星防御试验留下的损伤
+
+📅 2026-11-25T23:29:07.417Z
+
+---
+
+### Science AI
+**[“极度恐惧”：尽管有完备的书面记录，科学家仍被移民和海关执法局逮捕](https://www.science.org/content/article/enormous-fear-scientist-shares-arrest-ice-despite-pristine-paper-trail)**
+
+不切实际的签证时间安排和延误让刘荻陷入了困境，也可能让其他在国内旅行且具有合法身份的学者陷入困境。
+
+📅 2026-11-25T23:29:07.417Z
 
 ---
 
 ### Science AI
 **[昆虫大小的机器人何时能够飞出实验室？](https://www.science.org/content/article/when-will-insect-size-robots-be-able-fly-beyond-lab)**
 
-如果再多一点韧性、灵活性和独立性，这些微型机器就能在从间谍活动到搜救等各个领域发挥作用。
+如果再多一点韧性、灵活性和独立性，这些微型机器就能在从情报搜集到搜救等各个领域发挥作用。
 
-📅 2026-11-25T05:14:39.796Z
-
----
-
-### Science AI
-**[科学家们争相追踪美国陆军计划爆破产生的铅烟羽](https://www.science.org/content/article/scientists-scramble-track-lead-plume-planned-u-s-army-blast)**
-
-前所未有的叠氮化铅弹药爆炸可能将有害粉尘扩散至60多公里以外
-
-📅 2026-11-25T05:14:39.796Z
-
----
-
-### Science AI
-**[“数学马拉松”在人工智能时代重新诠释数学](https://www.science.org/content/article/mathathon-reimagines-math-age-ai)**
-
-在几近崩溃之后，这一事件凸显了数学家和人工智能如何共存
-
-📅 2026-11-25T05:14:39.796Z
-
----
-
-### Science AI
-**[美国国家科学院更正了延迟撤稿报告中的部分错误，但并非全部](https://www.science.org/content/article/national-academies-corrects-some-not-all-errors-delayed-retractions-report)**
-
-一些修订版作者对未事先与他们讨论更改感到失望。
-
-📅 2026-11-25T05:14:39.796Z
-
----
-
-### Science AI
-**[微型追踪器记录了蜂鸟的破纪录迁徙之旅](https://www.science.org/content/article/tiny-tracking-device-documents-record-breaking-hummingbird-journey)**
-
-太阳能发射器让研究人员能够追踪一只鸟从阿拉巴马州到阿拉斯加州6526公里的迁徙路线
-
-📅 2026-11-25T05:14:39.796Z
+📅 2026-11-25T23:29:07.417Z
 
 ---
 
 ## 🌍 行业展望
 
-### ZDNet AI
-**[人工智能能否策划恐怖袭击？美国测试了ChatGPT、Claude、Gemini和Grok](https://www.zdnet.com/innovation/ai-chatbots-terrorist-attack-plans-us-government-test/)**
+### The Information Technology
+**[人工智能安全倡导者对Anthropic感到不满](https://www.theinformation.com/articles/ai-safety-advocates-sour-anthropic)**
 
-人工智能能否策划恐怖袭击？美国测试了Chat**GPT**、**Claude**、**Gemini**和Grok
+**Anthropic**在很大程度上围绕人工智能安全打造了自己的品牌，将自己定位为**OpenAI**的谨慎对立面。但最近，**Claude**的开发商正失去一些安全倡导者的支持，他们认为，**Anthropic**的快速技术进步（无疑将得益于其上周轰动一时的**首次**公开募股所筹集的资金）正在增加人工智能失控的可能性。
 
-📅 2026-11-23T13:29:04.000Z
+📅 2026-11-25T15:00:51.000Z
 
 ---
 
 ### The Information Technology
-**[人工智能股票的重大忧虑：芯片供应过剩](https://www.theinformation.com/articles/ai-stocks-big-worry-chip-glut)**
+![银行家如何将科技股的波动性转化为现金](https://tii.imgix.net/production/articles/18283/1457c001-a737-4364-baef-240ea7ccf563.png?auto=compress,format&amp;fit=crop&amp;w=560)
 
-**Anthropic**的股价收盘低于其IPO价格，而SemiAnalysis**发布**的一份报告称，在Nvidia的人工智能芯片市场上，“我们开始看到更广泛的降价迹象”。
+**[银行家如何将科技股的波动性转化为现金](https://www.theinformation.com/articles/bankers-turning-tech-stock-volatility-cash)**
+
+今年，在人工智能建设上投入巨资的科技公司通过新股发行涌入市场。记者独家报道Grubhub预计2026年将亏损1亿美元，作者：Valida Pau。独家报道：**Anthropic**如何在IPO大热门的道路上超越**OpenAI**，作者：Valida Pau。真值：AMD的估值正在超越其基本面，作者：Anita Ramaswamy。
+
+📅 2026-11-25T18:12:02.000Z
+
+---
+
+### The Information Technology
+**[人工智能股票的重大担忧：芯片供应过剩](https://www.theinformation.com/articles/ai-stocks-big-worry-chip-glut)**
+
+**Anthropic**的股价收盘低于其IPO价格，而SemiAnalysis**发布**了一份报告，称在Nvidia的人工智能芯片市场上“我们开始看到更广泛的价格降温迹象”。
 
 📅 2026-11-25T01:00:49.000Z
 
@@ -215,120 +226,102 @@ Richpanel 使用 **GPT**-6 Astra 和 **GPT**-61 Sol 为其 AI 客服专员提供
 
 **[在私募融资中，与IPO一样，大公司占据主导地位](https://www.theinformation.com/articles/big-companies-sucking-fundraising-oxygen-room)**
 
-包括**OpenAI**在内的一大批公司已排队等待明年上市，但由于对人工智能热潮的怀疑情绪，科技股估值持续低迷，这给2027年的前景蒙上了阴影。她提到的公司包括**OpenAI**、**Anthropic**、Databricks、Stripe、Waymo、Revolut、Anduril、Ramp、Cognition和杰夫·贝索斯的Prometheus。
+包括**OpenAI**在内的一大批公司已排队等待明年上市，但由于对人工智能热潮的怀疑情绪，科技股估值大幅下滑，这给2027年的前景蒙上了阴影。她提到的公司包括**OpenAI**、**Anthropic**、Databricks、Stripe、Waymo、Revolut、Anduril、Ramp、Cognition和杰夫·贝索斯的Prometheus。
 
 📅 2026-11-24T23:31:24.000Z
 
 ---
 
 ### The Information Technology
-**[OpenAI 正在筹备“Athena”数据工具，以提高其代理的准确性](https://www.theinformation.com/articles/openai-preps-athena-data-tool-make-agents-accurate)**
+**[OpenAI 正在准备“Athena”数据工具，以提高其代理的准确性](https://www.theinformation.com/articles/openai-preps-athena-data-tool-make-agents-accurate)**
 
-**OpenAI**今年秋季**推出**了一款旨在帮助企业分析其数据并获得有关其业务的内部问题的答案的代理。Chat**GPT**开发商的代表已向一些客户和合作伙伴表示，他们正在开发一个数据管理平台，以帮助该代理更好地发挥作用。
+**OpenAI**今年秋季**推出**了一款代理，旨在帮助企业分析其数据并获得有关其业务的内部问题的答案。Chat**GPT**的开发商代表已向一些客户和合作伙伴表示，他们正在开发一个数据管理平台，以帮助该代理更好地发挥作用。
 
 📅 2026-11-24T21:26:01.000Z
-
----
-
-### The Information Technology
-**[在科技股普遍低迷之际，Anthropic股价跌破IPO发行价](https://www.theinformation.com/briefings/anthropic-falls-ipo-price-amid-broader-tech-slump)**
-
-在周一受黄仁勋鼓舞的上涨行情之后，华尔街对人工智能行业的负面情绪再度抬头，**Anthropic**的股价周二跌破IPO价格。
-
-📅 2026-11-24T15:30:47.000Z
-
----
-
-### The Information Technology
-**[OpenAI 让网络比编程更重要的路线图仍不清晰](https://www.theinformation.com/articles/openais-roadmap-making-cyber-bigger-coding-remains-blurry)**
-
-对于**OpenAI**来说，围绕网络安全的这种酝酿中的恐惧还代表着其他意义：公司下一个**重大**商机。网络安全作为收入驱动因素的潜力——随着**OpenAI**寻求在明年潜在的**首次**公开募股之前加强其财务状况——是我与**OpenAI**高管为撰写公司总裁的个人简介而进行的对话中出现的一个关键主题。
-
-📅 2026-11-24T15:01:30.000Z
 
 ---
 
 ### MIT Tech Review
 **[为什么使用岩石去除碳最终会抑制作物生长](https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/)**
 
-旨在从空气中捕集碳并将其封存。一些有影响力的模型……
+旨在从空气中捕获碳并将其封存。一些有影响力的模型……
 
 📅 Mon, 23 Nov 2026 11:00:00 +0000
 
 ---
 
 ### The Information Technology
-**[黄仁勋向员工道歉，并表示自己正在接受心理治疗](https://www.theinformation.com/briefings/nvidia-hosts-first-all-hands-jensen-huangs-return)**
+**[标普发现英伟达的治理失误](https://www.theinformation.com/articles/s-p-discovers-nvidias-governance-lapses)**
 
-据与会者透露，Nvidia首席执行官黄仁勋在周一回归公司后举行的**首次**全体员工大会上向员工道歉。据与会者称，黄仁勋在会上表示，他每天都在接受心理治疗，并计划每月与员工举行一次反馈会。
+在黄仁勋辞职并任命哈维·琼斯为英伟达“首任董事长”时，在阐明显而易见的事实方面树立了新标准。
 
-📅 2026-11-24T18:35:18.000Z
+📅 2026-11-25T22:31:16.000Z
+
+---
+
+### The Information Technology
+**[由于治理风险，标普全球将英伟达列入“负面观察名单”](https://www.theinformation.com/briefings/s-p-global-puts-nvidia-creditwatch-negative-due-governance-risks)**
+
+三大信用评级机构之一周三将英伟达的信用评级列入“负面观察名单”
+
+📅 2026-11-25T19:27:40.000Z
 
 ---
 
 ## 📦 GitHub热门
+
+### GitHub Active (Python)
+![warp：用于 GPU 加速模拟、机器人和机器学习的 Python 框架。](https://avatars.githubusercontent.com/u/1728152?v=4)
+
+**[warp：用于 GPU 加速模拟、机器人和机器学习的 Python 框架。](https://github.com/NVIDIA/warp)**
+
+⭐ 7,355 个星标 · 717 个分叉 · Python · 用于 GPU 加速模拟、机器人和机器学习的 Python 框架
+
+📅 2026-11-25T23:29:19Z
+
+---
 
 ### GitHub Active (AI/ML)
 ![awesome-ml-internships-2027：面向学生的实时人工智能和机器学习实习机会，通过 Zapply 招聘渠道更新。](https://avatars.githubusercontent.com/u/217731079?v=4)
 
 **[awesome-ml-internships-2027：面向学生的实时人工智能和机器学习实习机会，通过 Zapply 招聘渠道更新。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
 
-⭐ 473 个星标 · 39 个分叉 · 不适用 · 面向学生的实时人工智能和机器学习实习机会，通过 Zapply 招聘渠道**更新**
+⭐ 474 个星标 · 39 个分叉 · 不适用 · 面向学生的实时人工智能和机器学习实习机会，通过 Zapply 招聘渠道**更新**
 
-📅 2026-11-25T05:11:48Z
-
----
-
-### GitHub New (New AI)
-![🆕 ClaudGPT：一款基于人工智能的开源Telegram机器人，可用于人工智能聊天、图像生成、文档处理、代码分析和语音交互。](https://avatars.githubusercontent.com/u/203381491?v=4)
-
-**[🆕 ClaudGPT：一款基于人工智能的开源Telegram机器人，可用于人工智能聊天、图像生成、文档处理、代码分析和语音交互。](https://github.com/RadLamine/ClaudGPT)**
-
-⭐ 3 star (新项目) · Python · Open-source AI-powered Telegram bot for AI chat, image generation, document processing, code analysis, and voice interaction
-
-📅 2026-11-23T01:07:26Z
+📅 2026-11-25T23:30:14Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 beacon-foundry-145：Ryan Vo | 进行中：beacon-foundry-145](https://avatars.githubusercontent.com/u/215324508?v=4)
+![🆕 Clyffe：Clyffe (ARC-LB-01) — 由Blank工程师（ARC III生态系统）通过随机初始化训练的原生LittleBit-2语言模型。](https://avatars.githubusercontent.com/u/356949311?v=4)
 
-**[🆕 beacon-foundry-145：Ryan Vo | 进行中：beacon-foundry-145](https://github.com/A220man/beacon-foundry-145)**
+**[🆕 Clyffe：Clyffe (ARC-LB-01) — 由Blank工程师（ARC III生态系统）通过随机初始化训练的原生LittleBit-2语言模型。](https://github.com/BlankEngineers/Clyffe)**
 
-⭐ 2 star (新项目) · JavaScript · Ryan Vo | Work in progress: beacon-foundry-145
+⭐ 5 star (新项目) · Python · Clyffe (ARC-LB-01) — Native LittleBit-2 Language Model trained from random initialization by Blank Engineers (ARC III Ecosystem)
 
-📅 2026-11-24T17:10:54Z
+📅 2026-11-25T05:59:34Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 axiom-foundry-146：Ryan Vo | 进行中：axiom-foundry-146](https://avatars.githubusercontent.com/u/215324508?v=4)
+![🆕 AgentModelKit：用于在本地和远程设备上使用的工具中配置 AI 模型提供商的存储库。](https://avatars.githubusercontent.com/u/143045545?v=4)
 
-**[🆕 axiom-foundry-146：Ryan Vo | 进行中：axiom-foundry-146](https://github.com/A220man/axiom-foundry-146)**
+**[🆕 AgentModelKit：用于在本地和远程设备上使用的工具中配置 AI 模型提供商的存储库。](https://github.com/pathbit/AgentModelKit)**
 
-⭐ 2 star (新项目) · Go · Ryan Vo | Work in progress: axiom-foundry-146
+⭐ 4 star (新项目) · JavaScript · Repositório que configura provedores de modelos de IA nas ferramentas utilizadas em dispositivos locais e remotos
 
-📅 2026-11-23T17:31:55Z
+📅 2026-11-25T18:21:04Z
 
 ---
 
 ## 💬 社交动态
 
-### Hacker News AI
-**[Show HN：Carry – 将所有 AI 对话以 Markdown 格式保存在您自己的文件夹中](https://carry.md/)**
-
-Carry 让您可以将来自 **Gemini**、Chat**GPT**、**Claude** 和 Grok 的聊天内容自动以 Markdown 格式保存到您电脑上的本地文件夹中。评论网址：https://**new**s
-
-📅 Wed, 25 Nov 2026 03:19:02 +0000
-
----
-
 ### X: OpenAI
-**[网址来源：http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-网址来源：http://twitter.com/**OpenAI**
+网址来源： http://twitter.com/**OpenAI**
 
-📅 2026-11-25T05:16:19.358Z
+📅 2026-11-25T23:30:23.545Z
 
 ---
 
@@ -337,34 +330,52 @@ Carry 让您可以将来自 **Gemini**、Chat**GPT**、**Claude** 和 Grok 的�
 
 网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-11-25T05:16:27.382Z
+📅 2026-11-25T23:30:28.737Z
 
 ---
 
 ### Hacker News
-**[Show HN：旧版Nvidia和ATI技术演示，再次在浏览器中运行](https://gpu-demo-gallery.pages.dev/)**
+**[来自Anthropic的GRH精益验证的更短版本](https://github.com/lsernau/grh-lean)**
 
-文章网址：https://gpu-demo-gallerydev/ 评论网址：https://**new**s
+文章网址： https://githubcom/lsernau/grh-lean 评论网址： https://**new**s
 
-📅 Wed, 25 Nov 2026 04:31:48 +0000
+📅 Wed, 25 Nov 2026 21:48:10 +0000
 
 ---
 
 ### Hacker News
-**[Gemini拒绝给我《Twinkle Twinkle Little Star》的歌词。](https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F)**
+**[多项式希尔希猜想是错误的 [pdf]](https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf)**
 
-文章网址：https://wwwcom/technology/01M88DWQ0R4NCMYR17AFEWRG1F 评论网址：https://**new**s
+文章网址： https://githubcom/**OpenAI**/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper
 
-📅 Wed, 25 Nov 2026 04:03:33 +0000
+📅 Wed, 25 Nov 2026 17:34:34 +0000
 
 ---
 
 ### Hacker News AI
-**[Google 强制要求访问 Workspace 的 AI 代理使用 MCP，并限制直接使用 API](https://workspaceupdates.googleblog.com/2026/11/mcp-servers-cli-standardized-usage-tiers-now-available.html)**
+**[微软 AI 的强化学习基础设施](https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/)**
 
-文章网址： https://workspace**update**scom/2026/11/mcp-servers-cli-standardized-usage-tiers-now-available
+文章网址： https://microsoftai/**new**s/rl-infrastructure-at-microsoft-ai/ 评论网址： https://**new**s
 
-📅 Wed, 25 Nov 2026 02:40:48 +0000
+📅 Wed, 25 Nov 2026 23:14:36 +0000
+
+---
+
+### Hacker News AI
+**[英伟达的未遂政变与开源人工智能之战](https://brownstone.org/articles/the-near-coup-at-nvidia-and-the-war-on-open-source-ai/)**
+
+文章网址： https://brownstoneorg/articles/the-near-coup-at-nvidia-and-the-war-on-open-source-ai/ 评论网址： https://**new**s
+
+📅 Wed, 25 Nov 2026 22:41:09 +0000
+
+---
+
+### Hacker News AI
+**[跨 AI 订阅的负载均衡](https://news.ycombinator.com/item?id=50648330)**
+
+在不同代理之间手动切换非常麻烦，所以我创建了这个项目，将 **Claude**/antigravity/codex/grok 代理连接在一起com/kevin1chun/schmear 评论网址：https://**new**s
+
+📅 Wed, 25 Nov 2026 22:12:37 +0000
 
 ---
 
@@ -373,16 +384,7 @@ Carry 让您可以将来自 **Gemini**、Chat**GPT**、**Claude** 和 Grok 的�
 
 标题：520：Web 服务器返回未知错误
 
-📅 2026-11-25T05:16:19.358Z
-
----
-
-### X: OpenAI
-**[警告：目标网址返回错误 520：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-警告：目标网址返回错误 520：未知
-
-📅 2026-11-25T05:16:19.358Z
+📅 2026-11-25T23:30:23.545Z
 
 ---
 
