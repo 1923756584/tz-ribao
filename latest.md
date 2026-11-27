@@ -1,12 +1,12 @@
 ---
-title: "2026年11月26日 - TZ日报"
-date: 2026-11-26T23:32:44.136Z
+title: "2026年11月27日 - TZ日报"
+date: 2026-11-27T04:50:38.683Z
 draft: false
 ---
 
-# 2026年11月26日 - TZ日报
+# 2026年11月27日 - TZ日报
 
-> 📊 今日汇总 38 条 · 🕐 2026/11/26 23:32:44
+> 📊 今日汇总 38 条 · 🕐 2026/11/27 04:50:38
 
 ---
 
@@ -36,7 +36,7 @@ draft: false
 ### TechCrunch AI Products
 **[OpenAI表示，随着ChatGPT将聊天和工作功能合并，重度用户可能更快达到使用上限。](https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/)**
 
-**OpenAI** 将在整个 Chat**GPT** 中引入一个统一的使用量仪表，因为它将聊天和工作体验结合在一起。
+**OpenAI** 将在整个 Chat**GPT** 中引入一个统一的使用量仪表，因为它将聊天和工作体验结合在一起
 
 📅 Wed, 25 Nov 2026 20:03:27 +0000
 
@@ -45,18 +45,18 @@ draft: false
 ### OpenAI Blog
 **[GPT-6模型展现出内在的蛋白质设计能力](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities)**
 
-**GPT**-6模型使用推理设计蛋白质结构和序列，codeLab测试发现了跨五个靶点的结合证据
+**GPT**-6模型使用推理来设计蛋白质结构和序列，而codeLab测试发现了跨五个靶点的结合证据
 
 📅 Tue, 24 Nov 2026 13:00:00 GMT
 
 ---
 
-### OpenAI Blog
-**[Clay 通过 Codex 和 ChatGPT 帮助销售团队取得成功](https://openai.com/business/customer-stories/clay-plugins-openai)**
+### DeepMind Blog
+**[从谱图到结构：使用质谱技术为 Google Antigravity 鉴定分子](https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/)**
 
-Chat**GPT** 和 Codex 集成帮助 Clay 的用户研究交易并将数据转化为市场推广策略，而 **GPT**-6 模型则负责推理工作
+质谱技能使科学家能够使用 **Google** Antigravity 来解释串联质谱。
 
-📅 Tue, 24 Nov 2026 00:00:00 GMT
+📅 Tue, 24 Nov 2026 13:07:53 +0000
 
 ---
 
@@ -72,7 +72,7 @@ Chat**GPT** 和 Codex 集成帮助 Clay 的用户研究交易并将数据转化�
 ### TechCrunch AI Products
 **[《侠盗猎车手6》证明了效率为何不是一种美德](https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/)**
 
-在**Anthropic**进入公开市场的同一天，一款精心打造的人工智能视频游戏成为了有史以来最成功的娱乐产品之一。
+在**Anthropic**进入公开市场的同一天，一款精心打造的人性化视频游戏成为了有史以来最成功的娱乐产品之一。
 
 📅 Thu, 26 Nov 2026 16:00:00 +0000
 
@@ -88,7 +88,7 @@ Chat**GPT** 和 Codex 集成帮助 Clay 的用户研究交易并将数据转化�
 ---
 
 ### TechCrunch AI Products
-**[Jensen Huang违反了Nvidia的行为准则，他的员工可能不会忘记这一点](https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/)**
+**[黄仁勋违反了英伟达的行为准则，他的员工可能不会忘记这一点](https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/)**
 
 大多数行为准则都反映了企业文化。就Nvidia而言，这可能会产生后果。
 
@@ -97,9 +97,9 @@ Chat**GPT** 和 Codex 集成帮助 Clay 的用户研究交易并将数据转化�
 ---
 
 ### TechCrunch AI Products
-**[Anthropic的Dario Amodei称，将人类控制权拱手让给人工智能的指控“荒谬至极”](https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/)**
+**[Anthropic的Dario Amodei称，将人类控制权拱手让给人工智能的指控“荒谬”](https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/)**
 
-尽管领先的人工智能公司正日益实现自身研究和模型开发的自动化，但**Anthropic**首席执行官Dario Amodei仍对竞争对手指责他倾向于将人类能动性拱手让与人工智能的说法予以反驳。
+**Anthropic**首席执行官Dario Amodei反驳了竞争对手的指控，即他倾向于将人类的自主权拱手让给人工智能，尽管领先的人工智能公司正日益实现其自身研究和模型开发的自动化。
 
 📅 Wed, 25 Nov 2026 19:44:24 +0000
 
@@ -108,7 +108,7 @@ Chat**GPT** 和 Codex 集成帮助 Clay 的用户研究交易并将数据转化�
 ### TechCrunch AI Products
 **[人工智能数据中心越来越难建，新云正在感受到这一点](https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/)**
 
-Nvidia已明确表示，在人工智能数据中心即将投入运行之前，它不会提供支持，而此时正值Neoclouds报告建设延期和债务成本上升之际。
+Nvidia已明确表示，在人工智能数据中心即将投入运行之前，它不会提供支持，而此时正值Neoclouds报告建设延期和债务成本增加。
 
 📅 Wed, 25 Nov 2026 15:41:43 +0000
 
@@ -119,7 +119,7 @@ Nvidia已明确表示，在人工智能数据中心即将投入运行之前，�
 ### ArXiv Multiagent (cs.MA)
 **[并行子代理在何时对编码有效？一项关于知识库构建的实证研究](https://arxiv.org/abs/2611.33893)**
 
-Codex 和 **Claude** Code 等产品可以让代理将工作委派给并行子代理6 Sol，一句话让单个代理先探测参考程序，就能以极低的成本恢复大部分收益；来自 **GPT**-5
+Codex 和 **Claude** Code 等产品可以让代理将工作委派给并行子代理6。Sol，一句指令让单个代理先探测参考程序，就能以极低的成本恢复大部分收益；来自 **GPT**-5
 
 📅 Thu, 26 Nov 2026 00:00:00 -0500
 
@@ -137,25 +137,16 @@ Codex 和 **Claude** Code 等产品可以让代理将工作委派给并行子代
 ### ArXiv Robotics (cs.RO)
 **[RoboARC：受空间约束的机器人操作物理拼图](https://arxiv.org/abs/2611.33390)**
 
-33390v1 公告类型：新摘要：许多困难的操纵任务最终归结为一个只有少数动作才能满足的空间约束。**GPT**-6 Astra 在特权模式下解决了 15 个谜题，但在标准模式下失败了。
+33390v1 公告类型：新摘要：许多复杂的操纵任务最终都归结为一个空间约束，只有少数动作能够满足这一约束。**GPT**-6 Astra 在特权模式下解决了 15 个谜题，但在标准模式下则失败了。
 
 📅 Thu, 26 Nov 2026 00:00:00 -0500
-
----
-
-### Google DeepMind Research
-**[从谱图到结构：使用质谱技术为 Google Antigravity 鉴定分子](https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/)**
-
-质谱技能使科学家能够使用 **Google** Antigravity 来解释串联质谱。
-
-📅 Tue, 24 Nov 2026 13:07:53 +0000
 
 ---
 
 ### ArXiv AI (cs.AI)
 **[自主代理系统的不可约治理结构：公平分配、策略稳健性和多尺度组合](https://arxiv.org/abs/2611.31284)**
 
-31284v1 公告类型：新摘要：自主智能体治理通常被框定为在多个智能体在受限资源下竞争执行时强制正确执行的问题。
+31284v1 公告类型：新 摘要：自主智能体治理通常被视为一个强制正确执行的问题。当多个智能体在受限资源条件下竞争执行时，
 
 📅 Thu, 26 Nov 2026 00:00:00 -0500
 
@@ -180,9 +171,18 @@ Codex 和 **Claude** Code 等产品可以让代理将工作委派给并行子代
 ---
 
 ### ArXiv AI (cs.AI)
-**[超越静态图表：对大语言模型（MLLM）的交互式图表到代码生成进行基准测试](https://arxiv.org/abs/2611.31345)**
+**[超越静态图表：MLLM 交互式图表到代码生成的基准测试](https://arxiv.org/abs/2611.31345)**
 
-31345v1 公告类型：新摘要：近年来，为了弥补这一差距，我们**推出**了 ChartInt，这是**首个**专为交互式图表到代码生成而设计的基准。
+31345v1 公告类型：新摘要：近年来，为了弥补这一差距，我们**推出**了 ChartInt，这是**首个**专为交互式图表转代码生成设计的基准。
+
+📅 Thu, 26 Nov 2026 00:00:00 -0500
+
+---
+
+### ArXiv AI (cs.AI)
+**[人们选择不说的内容：用于对话中细粒度信息操纵的多模态基准](https://arxiv.org/abs/2611.31346)**
+
+31346v1 公告类型：新文章摘要：多模态大语言模型（MLLM）的最新进展提高了社会理解能力。我们对具有代表性的多模态模型进行了基准测试，并系统地分析了它们对细粒度信息操纵的理解。
 
 📅 Thu, 26 Nov 2026 00:00:00 -0500
 
@@ -204,7 +204,7 @@ Codex 和 **Claude** Code 等产品可以让代理将工作委派给并行子代
 
 **[我们已经找到的最佳黑色星期五优惠](https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026)**
 
-随着更多零售商在亚马逊上**推出**假日促销，我们将继续**更新**本指南99（两只装）Pixel Buds 2a **Google** 最新款无线耳机，音质清晰
+随着更多零售商在亚马逊上**推出**假日促销，我们将继续**更新**本指南99（双装）Pixel Buds 2a谷歌最新款无线耳机，音质清晰
 
 📅 2026-11-26T16:55:00.000Z
 
@@ -215,7 +215,7 @@ Codex 和 **Claude** Code 等产品可以让代理将工作委派给并行子代
 
 **[银行家如何将科技股的波动性转化为现金](https://www.theinformation.com/articles/bankers-turning-tech-stock-volatility-cash)**
 
-今年，在人工智能建设上投入巨资的科技公司纷纷通过新股发行涌入市场。记者独家报道Grubhub预计2026年将亏损1亿美元，作者：Valida Pau。独家报道：**Anthropic**如何在IPO的道路上超越**OpenAI**，作者：Valida Pau。真值：AMD的估值正在超越其基本面，作者：Anita Ramaswamy。
+今年，在人工智能建设上投入巨资的科技公司通过新股发行涌入市场。记者独家报道Grubhub预计2026年将亏损1亿美元，作者：Valida Pau。独家报道：**Anthropic**如何在通往轰动性IPO的道路上超越**OpenAI**，作者：Valida Pau。真值：AMD的估值正在超越其基本面，作者：Anita Ramaswamy。
 
 📅 2026-11-25T18:12:02.000Z
 
@@ -235,25 +235,25 @@ Codex 和 **Claude** Code 等产品可以让代理将工作委派给并行子代
 
 **[在私募融资中，与IPO一样，大公司占据主导地位](https://www.theinformation.com/articles/big-companies-sucking-fundraising-oxygen-room)**
 
-包括**OpenAI**在内的一大批公司已排队等待明年上市，但由于对人工智能热潮的怀疑情绪，科技股估值持续低迷，这给2027年的前景蒙上了阴影。她提到的公司包括**OpenAI**、**Anthropic**、Databricks、Stripe、Waymo、Revolut、Anduril、Ramp、Cognition和杰夫·贝索斯的Prometheus。
+包括**OpenAI**在内的一大批公司已排队等待明年上市，但由于对人工智能热潮的怀疑情绪加剧了科技股估值的下滑，2027年的前景蒙上了阴影。她提到的公司包括**OpenAI**、**Anthropic**、Databricks、Stripe、Waymo、Revolut、Anduril、Ramp、Cognition和杰夫·贝索斯的Prometheus。
 
 📅 2026-11-24T23:31:24.000Z
 
 ---
 
 ### The Information Technology
-**[OpenAI 正在筹备“Athena”数据工具，以提高其代理的准确性](https://www.theinformation.com/articles/openai-preps-athena-data-tool-make-agents-accurate)**
+**[OpenAI 正在准备“Athena”数据工具，以提高其代理的准确性](https://www.theinformation.com/articles/openai-preps-athena-data-tool-make-agents-accurate)**
 
-**OpenAI**今年秋季**推出**了一款旨在帮助企业分析其数据并获得有关其业务的内部问题的答案的代理。Chat**GPT**的开发商代表已告知一些客户和合作伙伴，他们正在开发一个数据管理平台，以帮助该代理更好地发挥作用。
+**OpenAI**今年秋季**推出**了一款旨在帮助企业分析其数据并获得有关其业务的内部问题的答案的代理。Chat**GPT**开发商的代表已向一些客户和合作伙伴表示，他们正在开发一个数据管理平台，以帮助该代理更好地发挥作用。
 
 📅 2026-11-24T21:26:01.000Z
 
 ---
 
 ### The Information Technology
-**[在将黄仁勋带回英伟达后，特朗普将主持台积电亚利桑那州工厂的奠基仪式](https://www.theinformation.com/briefings/trump-lead-tsmc-arizona-groundbreaking-ceremony-bringing-huang-back-nvidia)**
+**[在促成黄仁勋重返英伟达后，特朗普将主持台积电亚利桑那州工厂的奠基仪式](https://www.theinformation.com/briefings/trump-lead-tsmc-arizona-groundbreaking-ceremony-bringing-huang-back-nvidia)**
 
-唐纳德·特朗普总统将于12月4日主持台湾积体电路制造股份有限公司位于凤凰城的芯片厂扩建奠基仪式。预计台积电高管、供应商和客户将出席该仪式。
+唐纳德·特朗普总统将于12月4日主持台湾积体电路制造股份有限公司（台积电）位于凤凰城的芯片厂扩建奠基仪式。预计台积电高管、供应商和客户将出席该仪式。
 
 📅 2026-11-26T03:21:48.000Z
 
@@ -262,7 +262,7 @@ Codex 和 **Claude** Code 等产品可以让代理将工作委派给并行子代
 ### The Information Technology
 **[标普发现英伟达的治理失误](https://www.theinformation.com/articles/s-p-discovers-nvidias-governance-lapses)**
 
-在黄仁勋辞职并任命哈维·琼斯为英伟达“首任董事长”时，在阐明显而易见的事实方面树立了新标准。
+在阐明显而易见的事实方面树立了新标准：当黄仁勋辞职，哈维·琼斯被任命为英伟达“有史以来的首位董事长”时。
 
 📅 2026-11-25T22:31:16.000Z
 
@@ -271,35 +271,35 @@ Codex 和 **Claude** Code 等产品可以让代理将工作委派给并行子代
 ## 📦 GitHub热门
 
 ### GitHub Active (AI/ML)
-![transformers：🤗 Transformers：用于文本、视觉、音频和多模态模型的最先进机器学习模型的模型定义框架，可用于推理和训练。](https://avatars.githubusercontent.com/u/25720743?v=4)
-
-**[transformers：🤗 Transformers：用于文本、视觉、音频和多模态模型的最先进机器学习模型的模型定义框架，可用于推理和训练。](https://github.com/huggingface/transformers)**
-
-以及用于推理和训练的多模态模型
-
-📅 2026-11-26T23:30:55Z
-
----
-
-### GitHub Active (AI/ML)
 ![awesome-ml-internships-2027：面向学生的实时人工智能和机器学习实习机会，通过 Zapply 招聘渠道更新。](https://avatars.githubusercontent.com/u/217731079?v=4)
 
 **[awesome-ml-internships-2027：面向学生的实时人工智能和机器学习实习机会，通过 Zapply 招聘渠道更新。](https://github.com/zapplyjobs/awesome-ml-internships-2027)**
 
 ⭐ 474 个星标 · 39 个分叉 · 不适用 · 面向学生的实时人工智能和机器学习实习机会，通过 Zapply 招聘渠道**更新**
 
-📅 2026-11-26T23:27:19Z
+📅 2026-11-27T04:45:31Z
 
 ---
 
 ### GitHub New (New AI)
-![🆕 reconai：敲响您家大门的AI 🛰️](https://avatars.githubusercontent.com/u/102741679?v=4)
+![🆕 reconai：敲开您家大门的AI 🛰️](https://avatars.githubusercontent.com/u/102741679?v=4)
 
-**[🆕 reconai：敲响您家大门的AI 🛰️](https://github.com/R3DRUN3/reconai)**
+**[🆕 reconai：敲开您家大门的AI 🛰️](https://github.com/R3DRUN3/reconai)**
 
-⭐ 12 star (新项目) · Python · AI that knocks on your own front door 🛰️
+⭐ 14 star (新项目) · Python · AI that knocks on your own front door 🛰️
 
 📅 2026-11-26T09:33:37Z
+
+---
+
+### GitHub New (New AI)
+![🆕 agentdream：适用于任何AI代理的开源“梦境”：在睡眠时进行记忆巩固，合并重复项，根据转录证据修复过时或错误的笔记，并呈现洞见。任何模型，本地优先。](https://avatars.githubusercontent.com/u/294327650?v=4)
+
+**[🆕 agentdream：适用于任何AI代理的开源“梦境”：在睡眠时进行记忆巩固，合并重复项，根据转录证据修复过时或错误的笔记，并呈现洞见。任何模型，本地优先。](https://github.com/mvplab-ai/agentdream)**
+
+⭐ 7 star (新项目) · Python · Open-source 'dreaming' for any AI agent: sleep-time memory consolidation that merges duplicatesAny model, local-first
+
+📅 2026-11-24T16:44:01Z
 
 ---
 
@@ -317,29 +317,38 @@ Codex 和 **Claude** Code 等产品可以让代理将工作委派给并行子代
 ## 💬 社交动态
 
 ### X: OpenAI
-**[网址来源： http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[网址来源：http://twitter.com/OpenAI](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-网址来源： http://twitter.com/**OpenAI**
+网址来源：http://twitter.com/**OpenAI**
 
-📅 2026-11-26T23:31:15.965Z
+📅 2026-11-27T04:48:55.418Z
 
 ---
 
 ### X: DeepSeek
-**[网址来源：http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
+**[网址来源： http://twitter.com/deepseek_ai](https://r.jina.ai/http://twitter.com/deepseek_ai)**
 
-网址来源：http://twitter.com/**DeepSeek**_ai
+网址来源： http://twitter.com/**DeepSeek**_ai
 
-📅 2026-11-26T23:31:20.711Z
+📅 2026-11-27T04:49:01.637Z
 
 ---
 
-### Hacker News AI
-**[无论好坏，人工智能热潮的命运都掌握在英伟达手中](https://www.wsj.com/tech/ai/for-better-or-worse-the-fate-of-the-ai-boom-is-in-nvidias-hands-d0f88970)**
+### Hacker News
+**[Google 将显示独立 Android 开发者的电话号码和地址](https://support.google.com/googleplay/android-developer/answer/17594752?hl=en)**
 
-文章网址：https://www.com/tech/ai/for-better-or-worse-the-fate-of-the-ai-boom-is-in-nvidias-hands-d0f88970评论网址：https://**new**s
+com/**Google**play/android-developer/answer/17594752hl=en评论网址：https://**new**s
 
-📅 Thu, 26 Nov 2026 23:21:15 +0000
+📅 Fri, 27 Nov 2026 03:11:41 +0000
+
+---
+
+### Hacker News
+**[AI代理现在控制着DeepMind部分用于Gemini实验的计算资源](https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/)**
+
+文章网址： https://the-decodercom/ai-agents-now-control-part-of-deepminds-compute-for-**Gemini**-experiments-but-recursive-self-improvement-remains-distant/ 评论网址： https://**new**s
+
+📅 Fri, 27 Nov 2026 00:03:18 +0000
 
 ---
 
@@ -348,25 +357,16 @@ Codex 和 **Claude** Code 等产品可以让代理将工作委派给并行子代
 
 标题：520：Web 服务器返回未知错误
 
-📅 2026-11-26T23:31:15.965Z
+📅 2026-11-27T04:48:55.418Z
 
 ---
 
 ### X: OpenAI
-**[警告：目标网址返回错误 520： <none>](https://r.jina.ai/http://twitter.com/OpenAI)**
+**[警告：目标网址返回错误 520：未知](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-警告：目标网址返回错误 520：
+警告：目标网址返回错误 520：未知
 
-📅 2026-11-26T23:31:15.965Z
-
----
-
-### X: OpenAI
-**[警告：此页面可能尚未完全加载，请考虑明确指定超时时间。](https://r.jina.ai/http://twitter.com/OpenAI)**
-
-警告：此页面可能尚未完全加载，请考虑明确指定超时时间。
-
-📅 2026-11-26T23:31:15.965Z
+📅 2026-11-27T04:48:55.418Z
 
 ---
 
@@ -375,16 +375,16 @@ Codex 和 **Claude** Code 等产品可以让代理将工作委派给并行子代
 
 Markdown 内容
 
-📅 2026-11-26T23:31:15.965Z
+📅 2026-11-27T04:48:55.418Z
 
 ---
 
-### X: Sam Altman
-**[网址来源：http://twitter.com/sama](https://r.jina.ai/http://twitter.com/sama)**
+### X: OpenAI
+**[应该怎么做？](https://r.jina.ai/http://twitter.com/OpenAI)**
 
-网址来源：http://twitter.com/sama
+应该怎么做？
 
-📅 2026-11-26T23:31:16.746Z
+📅 2026-11-27T04:48:55.418Z
 
 ---
 
